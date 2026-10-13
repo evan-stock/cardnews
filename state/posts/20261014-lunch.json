@@ -3,68 +3,81 @@
  "slot": "lunch",
  "slot_label": "점심",
  "status": "pending",
- "created_at": "2026-10-14T00:31:57.052438+09:00",
+ "created_at": "2026-10-14T01:32:46.675873+09:00",
  "publish_at": "2026-10-14T13:00:00+09:00",
- "topic": "메릴랜드 펫숍에서 새끼 고양이를 훔친 남성이 옆 은행에서 고양이를 은행원에게 맡기고 강도를 시도했다가 체포된 사건",
+ "topic": "알래스카 군기지 쇼핑몰에 자동문을 열고 들어온 어린 흑곰이 복숭아 하나만 먹고 떠난 사건",
  "category": "해외 황당·기묘 사연",
- "core": "지난 7월 13일 미국 메릴랜드에서 한 남성이 펫숍의 새끼 고양이 '매그놀리아'를 안고 은행에 들어가 \"이것 좀 맡아줄래요?\"라고 한 뒤 현금을 요구하는 쪽지를 냈지만, 돈을 얻지 못하고 체포됐다.",
- "risk": "표지의 '훔친'과 남성의 행위는 경찰 체포와 구조단체 설명에 근거한 혐의 단계이므로 승인 전에 확인하세요. 은행에서 한 말과 쪽지 내용은 구조단체 대표가 전한 내용이며, 남성 실명은 쓰지 않았고 사진에서도 얼굴 노출은 피해야 합니다. 입양 경위는 CBS·NBC(8월 7일 입양 발표)와 WaPo 배포 기사(7월 19일 만난 사람 언급)가 달라 본문에서 입양자 세부 정보는 뺐습니다. 직접 열어본 기사는 CBS 7월 15일자와 NBC 8월 7일자 두 건이고, 워싱턴포스트 원문은 열리지 않아 검색 결과 일부(예: 경찰차 6대, PNC의 150달러 기부)만 확인했습니다.",
+ "core": "2026년 7월 5일 아침, 알래스카 JBER 군기지 쇼핑몰에 어린 흑곰이 자동문을 열고 들어와 복숭아 하나를 먹고 복도에 배설물을 남긴 채 떠났다.",
+ "risk": "영상은 페이스북(Alaska Mamas) 등 제3자 게시물이라 사진·캡처 사용 전 저작권 확인이 필요합니다. 시각(8시 45분 vs 9시)과 일부 세부 내용(푸드코트, 과자 봉지 등)은 매체마다 달라 본문에서 뺐습니다. 위 두 기사 원문은 직접 열어 확인했고, Task & Purpose와 Exchange Post는 검색 결과로만 확인했습니다.",
  "sources": [
   {
-   "publisher": "CBS News Baltimore",
-   "title": "Stolen kitten used in Maryland bank robbery attempt: \"The only thing she's guilty of is stealing hearts\"",
-   "url": "https://www.cbsnews.com/baltimore/news/stolen-kitten-bank-robbery-beltsville-maryland/",
-   "date": "2026.07.15"
+   "publisher": "Alaska's News Source (KTUU)",
+   "title": "VIDEO: Black bear goes into JBER shopping mall, steals some fruit, leaves some scat",
+   "url": "https://www.alaskasnewssource.com/2026/07/07/video-black-bear-goes-into-jber-shopping-mall-steals-some-fruit-leaves-some-scat/",
+   "date": "2026.07.07"
   },
   {
-   "publisher": "NBC Washington",
-   "title": "Magnolia — stolen kitten used in attempted bank robbery — finds a forever family",
-   "url": "https://www.nbcwashington.com/news/local/magnolia-stolen-kitten-used-in-attempted-bank-robbery-finds-a-forever-family/4139557/",
-   "date": "2026.08.07"
-  },
-  {
-   "publisher": "CBS News Baltimore",
-   "title": "Happy ending: Stolen kitten used in Maryland bank robbery attempt is adopted",
-   "url": "https://www.cbsnews.com/baltimore/news/stolen-kitten-used-in-maryland-bank-robbery-attempt-is-adopted-beltsville/",
-   "date": "2026.08.07"
+   "publisher": "Stars and Stripes",
+   "title": "Eat a peach: Alaska base commissary's produce attracts foraging bear",
+   "url": "https://www.stripes.com/theaters/us/2026-07-08/jber-bear-commissary-22213152.html",
+   "date": "2026.07.08"
   }
  ],
  "slides": [
   {
-   "t": "훔친 '새끼 고양이'를\n은행원에게 맡긴 남성",
-   "b": ""
+   "t": "자동문 열고 들어온 곰이\n'복숭아' 하나만 훔쳤다",
+   "b": "",
+   "photo_query": "American black bear Alaska",
+   "ai_prompt": "Photorealistic photo of a young black bear walking calmly across a shiny indoor shopping mall hallway, bright overhead lighting, closed shop shutters in the background, candid security-camera style, no text, no logos, vertical 4:5"
   },
   {
    "t": "",
-   "b": "입양 대기 중이던 3개월 새끼"
+   "b": "",
+   "photo_query": "automatic sliding door supermarket entrance",
+   "ai_prompt": "Photorealistic photo of glass automatic sliding doors at a supermarket entrance opening on a bright summer morning, an empty parking lot and green forest edge visible outside, no people, no text, no logos, vertical 4:5"
   },
   {
    "t": "",
-   "b": ""
+   "b": "",
+   "photo_query": "peaches produce display",
+   "ai_prompt": "Photorealistic close-up photo of a grocery store produce display with ripe peaches in a crate, one peach rolled onto the tiled floor, soft indoor light, no people, no text, no logos, vertical 4:5"
   },
   {
    "t": "",
-   "b": "“이거 좀 맡아주실래요?”"
+   "b": "",
+   "photo_query": "barber shop interior",
+   "ai_prompt": "Photorealistic photo of an empty small barber shop interior with two barber chairs and mirrors, a door left slightly open to a mall hallway, early morning light, no people, no text, no logos, vertical 4:5"
   },
   {
    "t": "",
-   "b": ""
+   "b": "",
+   "photo_query": "Joint Base Elmendorf-Richardson",
+   "ai_prompt": "Photorealistic photo of a young black bear walking away from a building toward a forest edge across a parking lot at a military base in Alaska, morning light, no people, no text, no logos, vertical 4:5"
   },
   {
    "t": "",
-   "b": ""
+   "b": "",
+   "photo_query": "Ship Creek Anchorage Alaska",
+   "ai_prompt": "Photorealistic photo of a calm creek winding through an Alaskan forest in early summer, a small black bear silhouette in the distance among the trees, soft morning haze, no text, no logos, vertical 4:5"
   },
   {
    "t": "팔로우하고 먼저 받아보세요",
-   "b": "매일 올라오는 황당·신기한 해외 소식"
+   "b": "황당·기묘한 화제 소식",
+   "photo_query": "American black bear cub",
+   "ai_prompt": "Photorealistic photo of a cute young black bear sitting on grass looking at the camera, soft natural light, shallow depth of field, no text, no logos, vertical 4:5"
   }
  ],
- "caption_full": "훔친 새끼 고양이를 은행원에게 맡긴 채 강도를 시도했다는 남성\n\n지난 7월 13일 미국 메릴랜드주 벨츠빌의 펫숍에서 입양을 기다리던 3개월 된 새끼 고양이 '매그놀리아'가 사라졌습니다. 한 남성이 근처에 걸린 열쇠로 입양 구역을 열고 고양이를 안고 나가 옆 PNC은행으로 향했다고 합니다.\n\n남성은 은행원에게 \"이것 좀 맡아줄래요?\"라고 말한 뒤 창구에 현금을 요구하는 쪽지를 냈다는 게 구조단체 설명입니다. 돈은 챙기지 못한 채 체포됐고, 고양이는 은행 관리자 사무실에서 무사히 발견됐습니다. 펫숍 직원들은 그가 몇 주간 거의 매일 와서 이 고양이만 찾았다고 전했습니다.\n\n사연이 전 세계로 퍼지며 입양 신청이 21건 몰렸고, 매그놀리아는 8월 새 가족을 만났습니다. 구조단체는 남성이 정신건강 문제를 겪고 있었을 수 있다고 봤습니다.\n\n여러분이라면 은행원이 \"이것 좀 맡아주세요\" 하며 고양이를 건넬 때 뭐라고 했을까요? 친구를 태그해 보세요!\n\n팔로우하고 매일 화제 소식을 먼저 받아보세요!\n\n출처: CBS News Baltimore 2026.07.15, NBC Washington 2026.08.07, CBS News Baltimore 2026.08.07\n사진: TimVickers(Public domain), Frank Hebbert(CC BY 2.0), Infrogmation of New Orleans(CC BY-SA 4.0), Smirkybec(CC BY-SA 4.0), 위키미디어 커먼즈\n\n#카드뉴스 #해외토픽 #황당뉴스 #고양이 #고양이스타그램 #미국뉴스 #오늘의쓸모",
+ "image_pages": [
+  "https://www.youtube.com/watch?v=DDEuUvYtWbY",
+  "https://dnyuz.com/2026/07/10/black-bear-breaks-into-alaskan-mall-eats-a-peach-and-relieves-itself-on-floor-before-leaving-video/",
+  "https://taskandpurpose.com/news/air-force-bear-alaska/",
+  "https://www.stripes.com/theaters/us/2026-07-08/jber-bear-commissary-22213152.html",
+  "https://www.theexchangepost.com/2026/07/13/bear-y-unexpected-visitor-stops-by-jber-exchange/",
+  "https://www.alaskasnewssource.com/2026/07/07/video-black-bear-goes-into-jber-shopping-mall-steals-some-fruit-leaves-some-scat/"
+ ],
+ "caption_full": "자동문 열고 들어온 곰이 복숭아 하나만 먹고 떠났습니다\n\n2026년 7월 5일 일요일 오전 9시쯤, 미국 알래스카 앤커리지의 엘멘도르프-리처드슨 합동기지(JBER) 쇼핑몰에 어린 흑곰 한 마리가 들어왔습니다. 기지 측은 곰이 지나가다 자동문이 열린 것일 뿐 우발적인 일이라고 밝혔습니다.\n\n곰은 식료품점에서 복숭아 하나를 먹고 복도에 배설물을 남긴 뒤 떠났습니다. 같은 건물 이발소 직원은 곰이 눈앞까지 걸어 들어와 동료들과 휴게실로 도망가 문을 닫았다고 전했습니다. 곰은 이발소 쪽으로 한 번 더 돌아왔고, 야생동물 담당 요원들이 강가 쪽 숲으로 쫓아냈습니다.\n\n다친 사람도, 곰도 없었습니다. 기지는 5월에 쓰레기통을 곰 방지형으로 바꾼 뒤 곰 관련 신고가 줄었다고 밝혔습니다. 영상 속 장면은 SNS에서 \"알래스카에선 평범한 하루\"라는 문구와 함께 퍼졌습니다.\n\n여러분이라면 마트에서 곰과 마주치면 어떻게 하시겠어요? 같이 장 볼 친구를 태그해 보세요!\n\n팔로우하고 매일 화제 소식을 먼저 받아보세요!\n\n출처: Alaska's News Source (KTUU) 2026.07.07, Stars and Stripes 2026.07.08\n사진: Alaska's News Source (KTUU)\n\n#알래스카 #곰 #흑곰 #해외토픽 #황당뉴스 #동물 #화제의영상 #복숭아",
  "credits": [
-  "TimVickers(Public domain)",
-  "Frank Hebbert(CC BY 2.0)",
-  "Infrogmation of New Orleans(CC BY-SA 4.0)",
-  "Smirkybec(CC BY-SA 4.0)"
+  "Alaska's News Source (KTUU)"
  ],
  "files": [
   "media/20261014-lunch/01.jpg",
@@ -75,5 +88,5 @@
   "media/20261014-lunch/06.jpg",
   "media/20261014-lunch/07.jpg"
  ],
- "tg_msg": 13
+ "tg_msg": 22
 }
