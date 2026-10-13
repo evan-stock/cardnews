@@ -1,22 +1,14 @@
 {
  "credits": [
-  "cbsnews.com",
-  "nbcwashington.com"
+  "alaskasnewssource.com",
+  "stripes.com"
  ],
  "files": [
   "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/01.jpg",
   "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/02.jpg",
-  "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/03.jpg",
-  "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/04.jpg",
-  "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/05.jpg",
-  "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/06.jpg",
-  "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/07.jpg"
+  "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/03.jpg"
  ],
  "with_image": [
-  true,
-  true,
-  true,
-  true,
   true,
   true,
   true
