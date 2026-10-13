@@ -113,6 +113,9 @@ def tick():
         p["status"] = "approved" if act == "ok" else "rejected"
         p["decided_at"] = now().isoformat()
         save_post(p)
+        if act == "ok":
+            at = dt.datetime.fromisoformat(p["publish_at"])
+            tg.send_text(f"✅ 승인됨: {p['topic']}\n" + ("곧 게시해요" if now() >= at else f"{at:%H:%M}에 게시돼요"))
         if act == "no":
             tg.send_text(f"❌ 거절됨: {p['topic']} (게시하지 않아요)")
     exp = dt.timedelta(hours=CFG["approval"]["expire_hours"])
