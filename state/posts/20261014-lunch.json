@@ -3,90 +3,61 @@
  "slot": "lunch",
  "slot_label": "점심",
  "status": "pending",
- "created_at": "2026-10-14T01:32:46.675873+09:00",
+ "created_at": "2026-10-14T01:44:41.084730+09:00",
  "publish_at": "2026-10-14T13:00:00+09:00",
- "topic": "알래스카 군기지 쇼핑몰에 자동문을 열고 들어온 어린 흑곰이 복숭아 하나만 먹고 떠난 사건",
- "category": "해외 황당·기묘 사연",
- "core": "2026년 7월 5일 아침, 알래스카 JBER 군기지 쇼핑몰에 어린 흑곰이 자동문을 열고 들어와 복숭아 하나를 먹고 복도에 배설물을 남긴 채 떠났다.",
- "risk": "영상은 페이스북(Alaska Mamas) 등 제3자 게시물이라 사진·캡처 사용 전 저작권 확인이 필요합니다. 시각(8시 45분 vs 9시)과 일부 세부 내용(푸드코트, 과자 봉지 등)은 매체마다 달라 본문에서 뺐습니다. 위 두 기사 원문은 직접 열어 확인했고, Task & Purpose와 Exchange Post는 검색 결과로만 확인했습니다.",
+ "topic": "토비 맥과이어가 이혼 확정 3주 만에 전처 제니퍼 마이어의 하와이 재혼식에서 주례를 섰다",
+ "category": "해외 셀럽·연예",
+ "core": "'스파이더맨' 토비 맥과이어(51)가 9월 21일 이혼이 확정된 지 3주 만인 10월 10일, 전처 제니퍼 마이어(49)의 하와이 결혼식에서 직접 주례를 맡았다.",
+ "risk": "사진은 TMZ·Getty 등 저작권 이미지라 사용 허락 확인이 필요하고, 미성년 자녀(오티스, 17세)의 얼굴이 나오는 사진은 피해야 합니다. 신부 딸의 출생 시기는 매체마다 5월·6월로 달라 캡션에서 뺐으며, 링크한 영상은 찾지 못해 유튜브·틱톡 링크가 없습니다.",
  "sources": [
   {
-   "publisher": "Alaska's News Source (KTUU)",
-   "title": "VIDEO: Black bear goes into JBER shopping mall, steals some fruit, leaves some scat",
-   "url": "https://www.alaskasnewssource.com/2026/07/07/video-black-bear-goes-into-jber-shopping-mall-steals-some-fruit-leaves-some-scat/",
-   "date": "2026.07.07"
+   "publisher": "서울신문",
+   "title": "이혼 확정 단 '3주' 만에…전처 재혼식 '주례' 선 스파이더맨, 美 깜짝 [월드픽]",
+   "url": "https://seoul.co.kr/news/international/2026/10/13/20261013500254",
+   "date": "2026.10.13"
   },
   {
-   "publisher": "Stars and Stripes",
-   "title": "Eat a peach: Alaska base commissary's produce attracts foraging bear",
-   "url": "https://www.stripes.com/theaters/us/2026-07-08/jber-bear-commissary-22213152.html",
-   "date": "2026.07.08"
+   "publisher": "Complex",
+   "title": "Tobey Maguire Officiates Ex-wife Jennifer Meyer's Wedding Weeks After Their Divorce Was Finalized",
+   "url": "https://www.complex.com/pop-culture/a/markelibert/tobey-maguire-jennifer-meyer-wedding-ogunlesi",
+   "date": "2026.10.12"
+  },
+  {
+   "publisher": "E! Online",
+   "title": "Who Is Jennifer Meyer's Husband Geoffrey Ogunlesi? Meet Billionaire Heir Who Married Tobey Maguire's Ex",
+   "url": "https://www.eonline.com/news/1436995/who-is-jennifer-meyers-new-husband-geoffrey-ogunlesi-everything-to-know",
+   "date": "2026.10.13"
   }
  ],
  "slides": [
   {
-   "t": "자동문 열고 들어온 곰이\n'복숭아' 하나만 훔쳤다",
+   "t": "이혼 확정 3주 만에\n'스파이더맨'이 주례 섰다",
    "b": "",
-   "photo_query": "American black bear Alaska",
-   "ai_prompt": "Photorealistic photo of a young black bear walking calmly across a shiny indoor shopping mall hallway, bright overhead lighting, closed shop shutters in the background, candid security-camera style, no text, no logos, vertical 4:5"
-  },
-  {
-   "t": "",
-   "b": "",
-   "photo_query": "automatic sliding door supermarket entrance",
-   "ai_prompt": "Photorealistic photo of glass automatic sliding doors at a supermarket entrance opening on a bright summer morning, an empty parking lot and green forest edge visible outside, no people, no text, no logos, vertical 4:5"
-  },
-  {
-   "t": "",
-   "b": "",
-   "photo_query": "peaches produce display",
-   "ai_prompt": "Photorealistic close-up photo of a grocery store produce display with ripe peaches in a crate, one peach rolled onto the tiled floor, soft indoor light, no people, no text, no logos, vertical 4:5"
-  },
-  {
-   "t": "",
-   "b": "",
-   "photo_query": "barber shop interior",
-   "ai_prompt": "Photorealistic photo of an empty small barber shop interior with two barber chairs and mirrors, a door left slightly open to a mall hallway, early morning light, no people, no text, no logos, vertical 4:5"
-  },
-  {
-   "t": "",
-   "b": "",
-   "photo_query": "Joint Base Elmendorf-Richardson",
-   "ai_prompt": "Photorealistic photo of a young black bear walking away from a building toward a forest edge across a parking lot at a military base in Alaska, morning light, no people, no text, no logos, vertical 4:5"
-  },
-  {
-   "t": "",
-   "b": "",
-   "photo_query": "Ship Creek Anchorage Alaska",
-   "ai_prompt": "Photorealistic photo of a calm creek winding through an Alaskan forest in early summer, a small black bear silhouette in the distance among the trees, soft morning haze, no text, no logos, vertical 4:5"
+   "photo_query": "Tobey Maguire",
+   "ai_prompt": "Photorealistic photo of a man in a dark suit standing at an outdoor wedding altar holding papers, tropical ocean backdrop, golden hour light, no recognizable face, no text, no logos, vertical 4:5"
   },
   {
    "t": "팔로우하고 먼저 받아보세요",
-   "b": "황당·기묘한 화제 소식",
-   "photo_query": "American black bear cub",
-   "ai_prompt": "Photorealistic photo of a cute young black bear sitting on grass looking at the camera, soft natural light, shallow depth of field, no text, no logos, vertical 4:5"
+   "b": "매일 터지는 화제 소식",
+   "photo_query": "Hawaii beach sunset",
+   "ai_prompt": "Photorealistic photo of an empty Hawaiian beach at sunset with soft orange sky and gentle waves, no people, no text, no logos, vertical 4:5"
   }
  ],
  "image_pages": [
-  "https://www.youtube.com/watch?v=DDEuUvYtWbY",
-  "https://dnyuz.com/2026/07/10/black-bear-breaks-into-alaskan-mall-eats-a-peach-and-relieves-itself-on-floor-before-leaving-video/",
-  "https://taskandpurpose.com/news/air-force-bear-alaska/",
-  "https://www.stripes.com/theaters/us/2026-07-08/jber-bear-commissary-22213152.html",
-  "https://www.theexchangepost.com/2026/07/13/bear-y-unexpected-visitor-stops-by-jber-exchange/",
-  "https://www.alaskasnewssource.com/2026/07/07/video-black-bear-goes-into-jber-shopping-mall-steals-some-fruit-leaves-some-scat/"
+  "https://www.tmz.com/2026/10/11/tobey-maguire-officiates-ex-wife-wedding/",
+  "https://www.hellomagazine.com/us/928474/jennifer-meyers-lavish-wedding-to-billionaire-heir-features-a-surprising-role-for-her-ex-tobey-maguire/",
+  "https://entertainmentnow.com/celebrity/tobey-maguire-officiates-jennifer-meyer-wedding/",
+  "https://www.justjared.com/2026/10/11/tobey-maguire-officiates-ex-wife-jennifer-meyer-geoffrey-ogunlesi-wedding/",
+  "https://www.recorderonline.com/features/entertainment_news/tobey-maguire-officiates-ex-wife-jennifer-meyers-wedding-to-geoff-ogunlesi-in-hawaii/article_5855077c-3201-5acc-816e-4fb98b86783d.html",
+  "https://www.eonline.com/news/1436995/who-is-jennifer-meyers-new-husband-geoffrey-ogunlesi-everything-to-know"
  ],
- "caption_full": "자동문 열고 들어온 곰이 복숭아 하나만 먹고 떠났습니다\n\n2026년 7월 5일 일요일 오전 9시쯤, 미국 알래스카 앤커리지의 엘멘도르프-리처드슨 합동기지(JBER) 쇼핑몰에 어린 흑곰 한 마리가 들어왔습니다. 기지 측은 곰이 지나가다 자동문이 열린 것일 뿐 우발적인 일이라고 밝혔습니다.\n\n곰은 식료품점에서 복숭아 하나를 먹고 복도에 배설물을 남긴 뒤 떠났습니다. 같은 건물 이발소 직원은 곰이 눈앞까지 걸어 들어와 동료들과 휴게실로 도망가 문을 닫았다고 전했습니다. 곰은 이발소 쪽으로 한 번 더 돌아왔고, 야생동물 담당 요원들이 강가 쪽 숲으로 쫓아냈습니다.\n\n다친 사람도, 곰도 없었습니다. 기지는 5월에 쓰레기통을 곰 방지형으로 바꾼 뒤 곰 관련 신고가 줄었다고 밝혔습니다. 영상 속 장면은 SNS에서 \"알래스카에선 평범한 하루\"라는 문구와 함께 퍼졌습니다.\n\n여러분이라면 마트에서 곰과 마주치면 어떻게 하시겠어요? 같이 장 볼 친구를 태그해 보세요!\n\n팔로우하고 매일 화제 소식을 먼저 받아보세요!\n\n출처: Alaska's News Source (KTUU) 2026.07.07, Stars and Stripes 2026.07.08\n사진: Alaska's News Source (KTUU)\n\n#알래스카 #곰 #흑곰 #해외토픽 #황당뉴스 #동물 #화제의영상 #복숭아",
+ "caption_full": "이혼 확정 3주 만에 '스파이더맨' 토비 맥과이어가 전처의 재혼식 주례를 섰습니다.\n\n배우 토비 맥과이어(51)가 지난 10일(현지시간) 하와이 라나이섬에서 열린 전처 제니퍼 마이어(49)의 결혼식에서 직접 주례를 맡았습니다. 두 사람의 이혼이 법적으로 확정된 것은 9월 21일, 불과 3주 전이었습니다.\n\n새 신랑은 나이지리아 억만장자 은행가의 아들인 음악 사업가 제프 오군레시(34)입니다. 레오나르도 디카프리오, 제프 베이조스 부부 등이 하객으로 참석했고, 맥과이어와 마이어의 두 자녀도 자리를 지켰습니다.\n\n마이어는 전남편을 \"최고의 아빠, 최고의 전남편, 최고의 친구\"라고 불러왔습니다. 다만 재산 분할 등은 아직 정리 중이라고 합니다.\n\n전남편이 주례 서는 전처의 결혼식, 여러분이라면 가실 수 있나요? 친구를 태그해 보세요!\n\n팔로우하고 매일 화제 소식을 먼저 받아보세요!\n\n출처: 서울신문 2026.10.13, Complex 2026.10.12, E! Online 2026.10.13\n사진: E! Online\n\n#토비맥과이어 #스파이더맨 #제니퍼마이어 #이혼 #결혼식 #할리우드 #해외연예 #셀럽",
  "credits": [
-  "Alaska's News Source (KTUU)"
+  "E! Online"
  ],
  "files": [
   "media/20261014-lunch/01.jpg",
-  "media/20261014-lunch/02.jpg",
-  "media/20261014-lunch/03.jpg",
-  "media/20261014-lunch/04.jpg",
-  "media/20261014-lunch/05.jpg",
-  "media/20261014-lunch/06.jpg",
-  "media/20261014-lunch/07.jpg"
+  "media/20261014-lunch/02.jpg"
  ],
- "tg_msg": 22
+ "tg_msg": 25
 }
