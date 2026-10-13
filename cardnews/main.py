@@ -37,7 +37,7 @@ def media_url(pid, fname):
     return f"{base.rstrip('/')}/{pid}/{fname}"
 
 
-def prepare(slot):
+def prepare(slot, force=False):
     from .images import pick_images
     from .render import render
     from .research import research
@@ -48,7 +48,7 @@ def prepare(slot):
         print("사전 승인 확인 실패:", e)
     pid = new_post_id(slot)
     old = load_post(pid)
-    if old and old["status"] not in ("failed", "rejected"):
+    if old and not force and old["status"] not in ("failed", "rejected"):
         print("이미 준비된 게시물:", pid, old["status"])
         return
     try:
@@ -153,9 +153,10 @@ def main():
     ap.add_argument("cmd", choices=["prepare", "tick", "publish", "chat-id", "refresh-token", "prune", "ping"])
     ap.add_argument("--slot", choices=list(CFG["slots"]))
     ap.add_argument("--id")
+    ap.add_argument("--force", action="store_true")
     a = ap.parse_args()
     if a.cmd == "prepare":
-        prepare(a.slot)
+        prepare(a.slot, a.force)
     elif a.cmd == "tick":
         tick()
         prune()

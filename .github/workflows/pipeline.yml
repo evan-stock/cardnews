@@ -69,7 +69,7 @@ jobs:
       - name: 실행
         run: |
           case "${{ steps.pick.outputs.cmd }}" in
-            prepare) python -m cardnews.main prepare --slot "${{ steps.pick.outputs.slot }}" ;;
+            prepare) python -m cardnews.main prepare --slot "${{ steps.pick.outputs.slot }}" $([ "${{ github.event_name }}" = "workflow_dispatch" ] && echo --force) ;;
             publish) python -m cardnews.main publish --id "${{ steps.pick.outputs.id }}" ;;
             ping) python -m cardnews.main ping ;;
             *) python -m cardnews.main tick ;;
