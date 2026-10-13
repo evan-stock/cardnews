@@ -1,15 +1,12 @@
 {
  "credits": [
-  "alaskasnewssource.com",
-  "stripes.com"
+  "alaskasnewssource.com"
  ],
  "files": [
   "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/01.jpg",
-  "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/02.jpg",
-  "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/03.jpg"
+  "/home/runner/work/cardnews/cardnews/media/20261014-lunch-retry/02.jpg"
  ],
  "with_image": [
-  true,
   true,
   true
  ]
