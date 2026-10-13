@@ -44,7 +44,7 @@ def prepare(slot):
 
     pid = new_post_id(slot)
     old = load_post(pid)
-    if old and old["status"] not in ("failed",):
+    if old and old["status"] not in ("failed", "rejected"):
         print("이미 준비된 게시물:", pid, old["status"])
         return
     try:
