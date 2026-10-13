@@ -113,6 +113,14 @@ def page_images(url):
     return res[:15]
 
 
+def _dhash(path):
+    from PIL import Image
+    with Image.open(path) as im:
+        g = im.convert("L").resize((9, 8))
+        px = list(g.getdata())
+    return sum(1 << i for i in range(64) if px[(i // 8) * 9 + i % 8] > px[(i // 8) * 9 + i % 8 + 1])
+
+
 def _good_image(path):
     from PIL import Image
     try:
@@ -133,7 +141,7 @@ def press_images(pages, outdir, limit=12):
     import hashlib
     from urllib.parse import urlparse
     os.makedirs(outdir, exist_ok=True)
-    got, hashes = [], set()
+    got, hashes, dhs = [], set(), []
     for page in pages:
         try:
             urls = page_images(page)
@@ -156,6 +164,11 @@ def press_images(pages, outdir, limit=12):
                 if not _good_image(path):
                     os.remove(path)
                     continue
+                dh = _dhash(path)
+                if any(bin(dh ^ o).count("1") <= 10 for o in dhs):  # 거의 같은 사진
+                    os.remove(path)
+                    continue
+                dhs.append(dh)
                 hashes.add(h)
                 got.append((path, credit))
             except Exception:

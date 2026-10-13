@@ -13,7 +13,11 @@ shutil.rmtree(out, ignore_errors=True)
 credits = pick_images(slides, str(out / "bg"), pages=pages)
 last = len(slides) - 1
 slides = [s for i, s in enumerate(slides) if i in (0, last) or s.get("image") or s["t"].strip()]
+for s in slides[1:-1]:
+    if not s["t"].strip():
+        s["b"] = ""
 files = render(slides, str(out))
 shutil.rmtree(out / "bg", ignore_errors=True)
 json.dump({"credits": credits, "files": files, "with_image": [bool(s.get("image")) for s in slides]}, open(out / "result.json", "w"), ensure_ascii=False, indent=1)
 print(credits, len(files))
+# 1791905991

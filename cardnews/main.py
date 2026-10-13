@@ -57,6 +57,9 @@ def prepare(slot):
         # 사진을 못 구한 '사진 장'은 빼서 빈 배경 카드가 나가지 않게 한다(표지·팔로우 카드는 유지)
         last = len(d["slides"]) - 1
         d["slides"] = [s for i, s in enumerate(d["slides"]) if i in (0, last) or s.get("image") or s["t"].strip()]
+        for i, s in enumerate(d["slides"][1:-1], 1):
+            if not s["t"].strip():
+                s["b"] = ""  # 사진 장은 글자 없이 (사진 순서와 설명이 어긋나는 문제 방지)
         files = render(d["slides"], str(workdir))
         shutil.rmtree(workdir / "bg", ignore_errors=True)
         post = {
