@@ -1,0 +1,42 @@
+# 오늘의쓸모 카드뉴스 자동화 설정
+timezone: Asia/Seoul
+
+brand:
+  channel_name: 오늘의쓸모
+  handle: "@today.worthy"
+
+# 하루 두 번 게시. prepare 시각에 소재·카드를 만들어 텔레그램으로 보내고,
+# 승인되면 publish 시각에 게시합니다. (실제 실행 시각은 .github/workflows/pipeline.yml의 cron)
+slots:
+  lunch:
+    publish_at: "13:00"
+  evening:
+    publish_at: "18:00"
+
+approval:
+  # 게시 시각으로부터 이 시간이 지나도 승인 안 되면 만료 처리
+  expire_hours: 3
+
+research:
+  model: claude-sonnet-5-5
+  max_tokens: 8000
+  web_search_max_uses: 12
+  web_fetch_max_uses: 6
+  slides: 7            # 마지막 1장은 팔로우 카드
+  avoid_days: 14       # 최근 n일 안에 다룬 소재는 제외
+  categories: [해외 황당·기묘 사연, 신기한 사진·지식, 국내 트렌드·연예, 참여형(순위·리스트), 시사·경제·정치(바이럴일 때만)]
+
+style:
+  sty: photo           # photo | bold | mag | min
+  col: 2               # 0 초록, 1 갈색, 2 네이비, 3 밝은색 (사진 없을 때 배경)
+
+images:
+  press: true          # 출처 기사·유튜브·틱톡 원본 사진 우선 사용
+  commons: true        # 부족하면 위키미디어 공개 사진
+  ai_fallback: openai  # openai | none  (OPENAI_API_KEY가 있을 때만 동작)
+  openai_model: gpt-image-1
+  openai_size: 1024x1536
+
+instagram:
+  api_host: https://graph.instagram.com
+  api_version: v25.0

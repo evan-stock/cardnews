@@ -1,0 +1,59 @@
+"""인스타그램 API(Instagram 로그인 방식)로 캐러셀 게시."""
+import time
+
+import requests
+
+from .common import CFG, env
+
+
+def _base():
+    return f"{CFG['instagram']['api_host']}/{CFG['instagram']['api_version']}"
+
+
+def _req(method, path, **params):
+    r = requests.request(method, f"{_base()}/{path}", timeout=120,
+                         headers={"Authorization": f"Bearer {env('IG_ACCESS_TOKEN')}"},
+                         **({"json": params} if method == "POST" else {"params": params}))
+    j = r.json()
+    if r.status_code != 200 or "error" in j:
+        raise RuntimeError(f"인스타 API 오류 {r.status_code}: {j}")
+    return j
+
+
+def _wait_ready(cid, tries=10):
+    for _ in range(tries):
+        st = _req("GET", cid, fields="status_code").get("status_code")
+        if st == "FINISHED":
+            return
+        if st in ("ERROR", "EXPIRED"):
+            raise RuntimeError(f"컨테이너 {cid} 상태 {st}")
+        time.sleep(30)
+    raise RuntimeError(f"컨테이너 {cid} 준비 시간 초과")
+
+
+def publish_carousel(image_urls, caption):
+    ig = env("IG_USER_ID")
+    children = []
+    for u in image_urls[:10]:
+        children.append(_req("POST", f"{ig}/media", image_url=u, is_carousel_item=True)["id"])
+    for c in children:
+        _wait_ready(c)
+    car = _req("POST", f"{ig}/media", media_type="CAROUSEL", children=",".join(children), caption=caption[:2200])["id"]
+    _wait_ready(car)
+    mid = _req("POST", f"{ig}/media_publish", creation_id=car)["id"]
+    link = ""
+    try:
+        link = _req("GET", mid, fields="permalink").get("permalink", "")
+    except Exception:
+        pass
+    return mid, link
+
+
+def refresh_token():
+    """장기 토큰(60일) 갱신. 새 토큰 문자열 반환."""
+    r = requests.get(f"{CFG['instagram']['api_host']}/refresh_access_token", timeout=60,
+                     params={"grant_type": "ig_refresh_token", "access_token": env("IG_ACCESS_TOKEN")})
+    j = r.json()
+    if "access_token" not in j:
+        raise RuntimeError(f"토큰 갱신 실패: {j}")
+    return j["access_token"]

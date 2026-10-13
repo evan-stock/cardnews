@@ -1,0 +1,82 @@
+"""텔레그램으로 미리보기를 보내고 승인/거절 버튼 응답을 받아온다(getUpdates 폴링)."""
+import json
+
+import requests
+
+from .common import env, read_text, write_text
+
+
+def _api(method, files=None, **data):
+    url = f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/{method}"
+    r = requests.post(url, data=data, files=files, timeout=120)
+    j = r.json()
+    if not j.get("ok"):
+        raise RuntimeError(f"텔레그램 {method} 실패: {j}")
+    return j["result"]
+
+
+def chat_id():
+    return env("TELEGRAM_CHAT_ID")
+
+
+def send_text(text, buttons=None, reply_to=None):
+    data = {"chat_id": chat_id(), "text": text[:4000], "disable_web_page_preview": "true"}
+    if buttons:
+        data["reply_markup"] = json.dumps({"inline_keyboard": buttons})
+    if reply_to:
+        data["reply_to_message_id"] = reply_to
+    return _api("sendMessage", **data)
+
+
+def send_album(paths):
+    media, files = [], {}
+    for i, p in enumerate(paths[:10]):
+        key = f"f{i}"
+        files[key] = open(p, "rb")
+        media.append({"type": "photo", "media": f"attach://{key}"})
+    try:
+        return _api("sendMediaGroup", files=files, chat_id=chat_id(), media=json.dumps(media))
+    finally:
+        for f in files.values():
+            f.close()
+
+
+def send_preview(post):
+    send_album(post["files"])
+    when = post["publish_at"][11:16]
+    src = "\n".join(f"- {s.get('publisher', '')} {s.get('date', '')} {s.get('url', '')}" for s in post["sources"])
+    risk = f"\n⚠️ 확인할 점: {post['risk']}" if post.get("risk") else ""
+    text = (f"📰 [{post['slot_label']} {when} 게시 예정] {post['topic']}\n"
+            f"분야: {post.get('category', '')} · 핵심: {post.get('core', '')}{risk}\n\n"
+            f"──── 게시물 본문 ────\n{post['caption_full']}\n\n출처 확인:\n{src}\n\n"
+            f"승인하면 {when}에 게시돼요. (이미 지났으면 바로 게시)")
+    msg = send_text(text, buttons=[[{"text": "✅ 승인", "callback_data": f"ok:{post['id']}"},
+                                    {"text": "❌ 거절", "callback_data": f"no:{post['id']}"}]])
+    return msg["message_id"]
+
+
+def poll_decisions():
+    """새 버튼 응답을 [(post_id, 'ok'|'no')]로 반환. 등록된 채팅방 외의 응답은 무시."""
+    offset = int(read_text("telegram_offset.txt", "0") or 0)
+    ups = _api("getUpdates", offset=offset + 1 if offset else 0, timeout=0,
+               allowed_updates=json.dumps(["callback_query", "message"]))
+    out = []
+    for u in ups:
+        offset = max(offset, u["update_id"])
+        cq = u.get("callback_query")
+        if not cq:
+            continue
+        if str(cq.get("message", {}).get("chat", {}).get("id")) != str(chat_id()):
+            continue
+        try:
+            act, pid = cq["data"].split(":", 1)
+        except ValueError:
+            continue
+        out.append((pid, act))
+        try:
+            _api("answerCallbackQuery", callback_query_id=cq["id"],
+                 text="승인했어요. 게시 시각에 올라가요." if act == "ok" else "거절했어요.")
+        except Exception:
+            pass
+    write_text("telegram_offset.txt", offset)
+    return out

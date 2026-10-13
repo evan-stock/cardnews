@@ -1,0 +1,196 @@
+"""장마다 다른 배경 사진 고르기: 위키미디어 커먼즈(공개 라이선스) → 없으면 AI 생성."""
+import base64
+import os
+import re
+
+import requests
+
+from .common import CFG, strip_html
+
+COMMONS = "https://commons.wikimedia.org/w/api.php"
+UA = {"User-Agent": "today-worthy-cardnews/1.0 (https://github.com/%s)" % os.environ.get("GITHUB_REPOSITORY", "")}
+OK_LICENSE = re.compile(r"^(public domain|pd|cc0|cc by(-sa)? ?[0-9.]*|cc-by(-sa)?-[0-9.]+|copyrighted free use)", re.I)
+
+
+def commons_candidates(query, limit=12):
+    r = requests.get(COMMONS, headers=UA, timeout=30, params={
+        "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6,
+        "gsrlimit": limit, "gsrsearch": f"{query} filetype:bitmap",
+        "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime", "iiurlwidth": 1280})
+    r.raise_for_status()
+    pages = (r.json().get("query") or {}).get("pages") or {}
+    out = []
+    for p in sorted(pages.values(), key=lambda x: x.get("index", 99)):
+        ii = (p.get("imageinfo") or [{}])[0]
+        m = ii.get("extmetadata") or {}
+        lic = strip_html((m.get("LicenseShortName") or {}).get("value", ""))
+        if not OK_LICENSE.match(lic) or ii.get("mime") not in ("image/jpeg", "image/png"):
+            continue
+        if min(ii.get("width", 0), ii.get("height", 0)) < 600:
+            continue
+        out.append({
+            "title": p["title"][5:], "url": ii.get("thumburl") or ii.get("url"), "license": lic,
+            "artist": strip_html((m.get("Artist") or {}).get("value", ""))[:60] or "unknown",
+            "page": ii.get("descriptionurl", "")})
+    return out
+
+
+def download(url, path):
+    r = requests.get(url, headers=UA, timeout=60)
+    r.raise_for_status()
+    with open(path, "wb") as f:
+        f.write(r.content)
+
+
+def ai_image(prompt, path):
+    key = os.environ.get("OPENAI_API_KEY")
+    if CFG["images"].get("ai_fallback") != "openai" or not key or not prompt:
+        return False
+    r = requests.post("https://api.openai.com/v1/images/generations", timeout=300,
+                      headers={"Authorization": f"Bearer {key}"},
+                      json={"model": CFG["images"]["openai_model"], "prompt": prompt,
+                            "size": CFG["images"]["openai_size"], "n": 1})
+    if r.status_code != 200:
+        print("AI 이미지 실패:", r.status_code, r.text[:200])
+        return False
+    data = r.json()["data"][0]
+    if data.get("b64_json"):
+        open(path, "wb").write(base64.b64decode(data["b64_json"]))
+    else:
+        download(data["url"], path)
+    return True
+
+
+BROWSER_UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/126.0 Safari/537.36", "Accept-Language": "ko,en;q=0.8"}
+SKIP_IMG = re.compile(r"(logo|icon|sprite|avatar|profile|banner|btn|button|ad[s_/-]|pixel|blank|placeholder|emoji|\.svg|\.gif)", re.I)
+
+
+def _abs(base, u):
+    from urllib.parse import urljoin
+    return urljoin(base, u.strip())
+
+
+def page_images(url):
+    """기사·영상 페이지에서 쓸 만한 사진 주소 목록(대표 이미지 먼저)."""
+    from urllib.parse import parse_qs, urlparse
+    host = urlparse(url).netloc.lower()
+    # 유튜브: 썸네일
+    if "youtube.com" in host or "youtu.be" in host:
+        vid = parse_qs(urlparse(url).query).get("v", [None])[0] or urlparse(url).path.strip("/").split("/")[-1]
+        return [f"https://img.youtube.com/vi/{vid}/maxresdefault.jpg", f"https://img.youtube.com/vi/{vid}/hqdefault.jpg"] if vid else []
+    # 틱톡: oEmbed 썸네일
+    if "tiktok.com" in host:
+        r = requests.get("https://www.tiktok.com/oembed", params={"url": url}, headers=BROWSER_UA, timeout=20)
+        t = r.json().get("thumbnail_url") if r.ok else None
+        return [t] if t else []
+    r = requests.get(url, headers=BROWSER_UA, timeout=30)
+    r.raise_for_status()
+    html = r.text
+    out = []
+    for prop in ("og:image", "og:image:url", "twitter:image", "twitter:image:src"):
+        for m in re.finditer(r'<meta[^>]+(?:property|name)=["\']%s["\'][^>]*>' % re.escape(prop), html, re.I):
+            c = re.search(r'content=["\']([^"\']+)', m.group(0))
+            if c:
+                out.append(_abs(url, c.group(1)))
+    body = re.search(r"<article[\s\S]*?</article>", html, re.I)
+    for m in re.finditer(r'<img[^>]+(?:data-src|data-original|src)=["\']([^"\']+)', body.group(0) if body else html, re.I):
+        out.append(_abs(url, m.group(1)))
+    seen, res = set(), []
+    for u in out:
+        if u.startswith("http") and u not in seen and not SKIP_IMG.search(u):
+            seen.add(u)
+            res.append(u)
+    return res[:15]
+
+
+def _good_image(path):
+    from PIL import Image
+    try:
+        with Image.open(path) as im:
+            w, h = im.size
+            if min(w, h) < 450 or not (0.45 <= w / h <= 2.2):
+                return False
+            if im.mode not in ("RGB", "L"):
+                im.convert("RGB").save(path, "JPEG", quality=92)
+        return True
+    except Exception:
+        return False
+
+
+def press_images(pages, outdir, limit=12):
+    """출처 기사·영상에서 사진을 모은다. [(경로, 출처표기)]"""
+    import hashlib
+    from urllib.parse import urlparse
+    os.makedirs(outdir, exist_ok=True)
+    got, hashes = [], set()
+    for page in pages:
+        try:
+            urls = page_images(page)
+        except Exception as e:
+            print("기사 사진 수집 실패:", page, e)
+            continue
+        credit = urlparse(page).netloc.replace("www.", "")
+        for u in urls:
+            if len(got) >= limit:
+                return got
+            path = os.path.join(outdir, f"press{len(got) + 1:02d}.jpg")
+            try:
+                r = requests.get(u, headers={**BROWSER_UA, "Referer": page}, timeout=30)
+                if not r.ok or "image" not in r.headers.get("content-type", "image"):
+                    continue
+                h = hashlib.md5(r.content).hexdigest()
+                if h in hashes:
+                    continue
+                open(path, "wb").write(r.content)
+                if not _good_image(path):
+                    os.remove(path)
+                    continue
+                hashes.add(h)
+                got.append((path, credit))
+            except Exception:
+                continue
+    return got
+
+
+def pick_images(slides, outdir, pages=None, publishers=None):
+    """slides마다 사진 파일 경로를 채운다.
+    순서: 기사·영상 원본 사진(images.press) → 위키미디어 공개 사진 → AI 생성. 같은 사진은 한 번만."""
+    os.makedirs(outdir, exist_ok=True)
+    used, credits = set(), []
+    pool = press_images(pages or [], outdir) if CFG["images"].get("press", True) else []
+    names = publishers or {}
+    for i, s in enumerate(slides):
+        s["image"] = None
+        if pool:
+            path, src = pool.pop(0)
+            s["image"] = path
+            credits.append(names.get(src, src))
+            continue
+        path = os.path.join(outdir, f"bg{i + 1:02d}.jpg")
+        if CFG["images"].get("commons") and s.get("photo_query"):
+            try:
+                for c in commons_candidates(s["photo_query"]):
+                    if c["title"] in used:
+                        continue
+                    download(c["url"], path)
+                    used.add(c["title"])
+                    s["image"] = path
+                    credits.append(f"{c['artist']}({c['license']})")
+                    break
+            except Exception as e:
+                print("커먼즈 검색 실패:", s["photo_query"], e)
+        if not s["image"]:
+            try:
+                if ai_image(s.get("ai_prompt"), path):
+                    s["image"] = path
+                    credits.append("AI 생성 이미지")
+            except Exception as e:
+                print("AI 이미지 오류:", e)
+    # 중복 제거한 출처 문구
+    seen, uniq = set(), []
+    for c in credits:
+        if c not in seen:
+            seen.add(c)
+            uniq.append(c)
+    return uniq

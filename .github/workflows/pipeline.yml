@@ -1,0 +1,88 @@
+name: cardnews
+
+on:
+  schedule:
+    # GitHub cron은 UTC 기준이고 몇 분~수십 분 늦게 돌 수 있어요.
+    - cron: "15 2 * * *"      # 11:15 KST  점심 게시물 준비
+    - cron: "15 7 * * *"      # 16:15 KST  저녁 게시물 준비
+    - cron: "*/10 3-6 * * *"  # 12:00~15:50 KST  승인 확인·게시
+    - cron: "*/10 8-11 * * *" # 17:00~20:50 KST  승인 확인·게시
+  workflow_dispatch:
+    inputs:
+      cmd:
+        description: "prepare | tick | publish"
+        default: tick
+      slot:
+        description: "lunch | evening (prepare일 때)"
+        default: lunch
+      id:
+        description: "게시물 ID (publish일 때, 예: 20261014-lunch)"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cardnews
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Asia/Seoul
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: 명령 결정
+        id: pick
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "cmd=${{ inputs.cmd }}" >> $GITHUB_OUTPUT
+            echo "slot=${{ inputs.slot }}" >> $GITHUB_OUTPUT
+            echo "id=${{ inputs.id }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "15 2 * * *" ]; then
+            echo "cmd=prepare" >> $GITHUB_OUTPUT; echo "slot=lunch" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "15 7 * * *" ]; then
+            echo "cmd=prepare" >> $GITHUB_OUTPUT; echo "slot=evening" >> $GITHUB_OUTPUT
+          else
+            echo "cmd=tick" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 브라우저·한글 폰트 설치 (카드 렌더링용)
+        if: steps.pick.outputs.cmd == 'prepare'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk
+          python -m playwright install --with-deps chromium
+
+      - name: 실행
+        run: |
+          case "${{ steps.pick.outputs.cmd }}" in
+            prepare) python -m cardnews.main prepare --slot "${{ steps.pick.outputs.slot }}" ;;
+            publish) python -m cardnews.main publish --id "${{ steps.pick.outputs.id }}" ;;
+            *) python -m cardnews.main tick ;;
+          esac
+
+      - name: 상태·카드 이미지 저장
+        if: always()
+        run: |
+          git config user.name "cardnews-bot"
+          git config user.email "cardnews-bot@users.noreply.github.com"
+          git add -A state media
+          if ! git diff --cached --quiet; then
+            git commit -m "cardnews: ${{ steps.pick.outputs.cmd }} $(date +%F_%H%M)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
