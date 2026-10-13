@@ -1,0 +1,79 @@
+{
+ "id": "20261014-lunch",
+ "slot": "lunch",
+ "slot_label": "점심",
+ "status": "pending",
+ "created_at": "2026-10-14T00:31:57.052438+09:00",
+ "publish_at": "2026-10-14T13:00:00+09:00",
+ "topic": "메릴랜드 펫숍에서 새끼 고양이를 훔친 남성이 옆 은행에서 고양이를 은행원에게 맡기고 강도를 시도했다가 체포된 사건",
+ "category": "해외 황당·기묘 사연",
+ "core": "지난 7월 13일 미국 메릴랜드에서 한 남성이 펫숍의 새끼 고양이 '매그놀리아'를 안고 은행에 들어가 \"이것 좀 맡아줄래요?\"라고 한 뒤 현금을 요구하는 쪽지를 냈지만, 돈을 얻지 못하고 체포됐다.",
+ "risk": "표지의 '훔친'과 남성의 행위는 경찰 체포와 구조단체 설명에 근거한 혐의 단계이므로 승인 전에 확인하세요. 은행에서 한 말과 쪽지 내용은 구조단체 대표가 전한 내용이며, 남성 실명은 쓰지 않았고 사진에서도 얼굴 노출은 피해야 합니다. 입양 경위는 CBS·NBC(8월 7일 입양 발표)와 WaPo 배포 기사(7월 19일 만난 사람 언급)가 달라 본문에서 입양자 세부 정보는 뺐습니다. 직접 열어본 기사는 CBS 7월 15일자와 NBC 8월 7일자 두 건이고, 워싱턴포스트 원문은 열리지 않아 검색 결과 일부(예: 경찰차 6대, PNC의 150달러 기부)만 확인했습니다.",
+ "sources": [
+  {
+   "publisher": "CBS News Baltimore",
+   "title": "Stolen kitten used in Maryland bank robbery attempt: \"The only thing she's guilty of is stealing hearts\"",
+   "url": "https://www.cbsnews.com/baltimore/news/stolen-kitten-bank-robbery-beltsville-maryland/",
+   "date": "2026.07.15"
+  },
+  {
+   "publisher": "NBC Washington",
+   "title": "Magnolia — stolen kitten used in attempted bank robbery — finds a forever family",
+   "url": "https://www.nbcwashington.com/news/local/magnolia-stolen-kitten-used-in-attempted-bank-robbery-finds-a-forever-family/4139557/",
+   "date": "2026.08.07"
+  },
+  {
+   "publisher": "CBS News Baltimore",
+   "title": "Happy ending: Stolen kitten used in Maryland bank robbery attempt is adopted",
+   "url": "https://www.cbsnews.com/baltimore/news/stolen-kitten-used-in-maryland-bank-robbery-attempt-is-adopted-beltsville/",
+   "date": "2026.08.07"
+  }
+ ],
+ "slides": [
+  {
+   "t": "훔친 '새끼 고양이'를\n은행원에게 맡긴 남성",
+   "b": ""
+  },
+  {
+   "t": "",
+   "b": "입양 대기 중이던 3개월 새끼"
+  },
+  {
+   "t": "",
+   "b": ""
+  },
+  {
+   "t": "",
+   "b": "“이거 좀 맡아주실래요?”"
+  },
+  {
+   "t": "",
+   "b": ""
+  },
+  {
+   "t": "",
+   "b": ""
+  },
+  {
+   "t": "팔로우하고 먼저 받아보세요",
+   "b": "매일 올라오는 황당·신기한 해외 소식"
+  }
+ ],
+ "caption_full": "훔친 새끼 고양이를 은행원에게 맡긴 채 강도를 시도했다는 남성\n\n지난 7월 13일 미국 메릴랜드주 벨츠빌의 펫숍에서 입양을 기다리던 3개월 된 새끼 고양이 '매그놀리아'가 사라졌습니다. 한 남성이 근처에 걸린 열쇠로 입양 구역을 열고 고양이를 안고 나가 옆 PNC은행으로 향했다고 합니다.\n\n남성은 은행원에게 \"이것 좀 맡아줄래요?\"라고 말한 뒤 창구에 현금을 요구하는 쪽지를 냈다는 게 구조단체 설명입니다. 돈은 챙기지 못한 채 체포됐고, 고양이는 은행 관리자 사무실에서 무사히 발견됐습니다. 펫숍 직원들은 그가 몇 주간 거의 매일 와서 이 고양이만 찾았다고 전했습니다.\n\n사연이 전 세계로 퍼지며 입양 신청이 21건 몰렸고, 매그놀리아는 8월 새 가족을 만났습니다. 구조단체는 남성이 정신건강 문제를 겪고 있었을 수 있다고 봤습니다.\n\n여러분이라면 은행원이 \"이것 좀 맡아주세요\" 하며 고양이를 건넬 때 뭐라고 했을까요? 친구를 태그해 보세요!\n\n팔로우하고 매일 화제 소식을 먼저 받아보세요!\n\n출처: CBS News Baltimore 2026.07.15, NBC Washington 2026.08.07, CBS News Baltimore 2026.08.07\n사진: TimVickers(Public domain), Frank Hebbert(CC BY 2.0), Infrogmation of New Orleans(CC BY-SA 4.0), Smirkybec(CC BY-SA 4.0), 위키미디어 커먼즈\n\n#카드뉴스 #해외토픽 #황당뉴스 #고양이 #고양이스타그램 #미국뉴스 #오늘의쓸모",
+ "credits": [
+  "TimVickers(Public domain)",
+  "Frank Hebbert(CC BY 2.0)",
+  "Infrogmation of New Orleans(CC BY-SA 4.0)",
+  "Smirkybec(CC BY-SA 4.0)"
+ ],
+ "files": [
+  "media/20261014-lunch/01.jpg",
+  "media/20261014-lunch/02.jpg",
+  "media/20261014-lunch/03.jpg",
+  "media/20261014-lunch/04.jpg",
+  "media/20261014-lunch/05.jpg",
+  "media/20261014-lunch/06.jpg",
+  "media/20261014-lunch/07.jpg"
+ ],
+ "tg_msg": 13
+}
