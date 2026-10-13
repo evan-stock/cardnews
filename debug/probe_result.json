@@ -1,0 +1,144 @@
+{
+ "https://www.cbsnews.com/baltimore/news/stolen-kitten-bank-robbery-beltsville-maryland/": {
+  "direct": [
+   200,
+   630633
+  ],
+  "og": [
+   "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/15/2277ff1d-e68f-4b63-aa32-0495eaca2d26/thumbnail/1200x630/cd19031caf055897cfb2f4a2e1889bb2/cat.jpg"
+  ],
+  "jina": [
+   200,
+   5866
+  ],
+  "jina_imgs": [
+   "https://assets1.cbsnewsstatic.com/hub/i/2024/04/16/971341a7-b192-4d99-a0d5-8eb716b32fc3/thumbnail-web-bio-mike-hellgren.jpg?width=200",
+   "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/15/a1f0ceb2-2df7-4187-9a82-810c04af2afb/thumbnail/620x349/341df15bd7b4cf1ae91edc8c5eabf46c/surveillance.png#",
+   "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/15/69c3b20f-fbae-4553-9e52-eebc159df6d6/thumbnail/620x540/e8fc9979f17d0ac8d02880b4bfb8c2a7/photo.jpg#",
+   "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/15/2277ff1d-e68f-4b63-aa32-0495eaca2d26/thumbnail/620x349/1d471bcf3329577c6dcd8017e4562451/cat.jpg#",
+   "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/15/29f854f8-2e10-40e7-8da9-2ac5ba1e2a99/thumbnail/620x465/33bc0f19ed09e15afa7fc3ab01e19801/bank.jpg#"
+  ],
+  "img_direct": [
+   200,
+   "image/webp",
+   59406
+  ],
+  "img_weserv": [
+   403,
+   "text/html; charset=UTF-8",
+   4542
+  ]
+ },
+ "https://www.nbcwashington.com/news/local/magnolia-stolen-kitten-used-in-attempted-bank-robbery-finds-a-forever-family/4139557/": {
+  "direct": [
+   200,
+   351588
+  ],
+  "og": [
+   "https://media.nbcwashington.com/2026/07/Thief-tries-to-rob-bank-in-Beltsville-with-stolen-kitten-in-hand.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675"
+  ],
+  "jina": [
+   200,
+   27477
+  ],
+  "jina_imgs": [
+   "https://media.nbcwashington.com/2024/08/WRC_station_logo_dark.png?fit=296%2C58&quality=85&strip=all&w=204&h=40",
+   "https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&quality=85&strip=all&w=400&h=44&crop=1",
+   "https://media.nbcnewyork.com/assets/editorial/national/images/cta-eye-icon-white.png",
+   "https://media.nbcwashington.com/2026/08/Magnolia1.jpg?quality=85&strip=all&resize=218%2C123",
+   "https://media.nbcwashington.com/2026/10/51880458361-1080pnbcstations.jpg?quality=85&strip=all"
+  ],
+  "img_direct": [
+   200,
+   "image/webp",
+   39618
+  ],
+  "img_weserv": [
+   403,
+   "text/html; charset=UTF-8",
+   4542
+  ]
+ },
+ "https://www.dailymail.co.uk/news/index.html": {
+  "direct": [
+   200,
+   531913
+  ],
+  "og": [
+   "https://i.dailymail.com/i/social/img_mol-logo_50x50.png"
+  ],
+  "jina": [
+   200,
+   139408
+  ],
+  "jina_imgs": [
+   "https://scripts.dailymail.com/static/mol-fe/static/mol-fe-xpmodule-navigation/2.15.0/mailPlusBannerLogo-d2b07cdf3a8affbc.svg",
+   "https://i.dailymail.com/i/pix/channelheaders/US.png",
+   "https://scripts.dailymail.com/static/mol-fe/static/mol-fe-xpmodule-navigation/2.15.0/chevronRight-a49917b602403523.svg",
+   "https://i.dailymail.com/i/pix/channelheaders/UK.png",
+   "https://i.dailymail.com/i/pix/channelheaders/US.png"
+  ],
+  "img_direct": [
+   200,
+   "image/png",
+   1282
+  ],
+  "img_weserv": [
+   403,
+   "text/html; charset=UTF-8",
+   4542
+  ]
+ },
+ "https://nypost.com/": {
+  "direct": [
+   200,
+   1686408
+  ],
+  "og": [
+   "https://nypost.com/wp-content/themes/gtf/static/images/default/nypost.png"
+  ],
+  "jina": [
+   403,
+   725
+  ],
+  "jina_imgs": [],
+  "img_direct": [
+   200,
+   "image/png",
+   139228
+  ],
+  "img_weserv": [
+   403,
+   "text/html; charset=UTF-8",
+   4542
+  ]
+ },
+ "https://www.bbc.com/news": {
+  "direct": [
+   200,
+   384558
+  ],
+  "og": [],
+  "jina": [
+   200,
+   16949
+  ],
+  "jina_imgs": [
+   "https://ichef.bbci.co.uk/news/480/cpsprodpb/7572/live/20ee0d90-c702-11f1-9a39-31b474234113.jpg.webp",
+   "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/deb4/live/b11cb6a0-c70c-11f1-9783-ed95709f9dec.jpg.webp",
+   "https://ichef.bbci.co.uk/news/480/cpsprodpb/6198/live/a36bbf70-c6d4-11f1-a64c-550be9e3c66b.jpg.webp",
+   "https://ichef.bbci.co.uk/news/480/cpsprodpb/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg.webp",
+   "https://ichef.bbci.co.uk/news/480/cpsprodpb/ec29/live/389f0120-c6de-11f1-a64c-550be9e3c66b.jpg.webp"
+  ],
+  "img_direct": [
+   200,
+   "image/webp",
+   8042
+  ],
+  "img_weserv": [
+   403,
+   "text/html; charset=UTF-8",
+   4542
+  ]
+ }
+}
