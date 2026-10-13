@@ -185,6 +185,9 @@ def pick_images(slides, outdir, pages=None, publishers=None):
     names = publishers or {}
     for i, s in enumerate(slides):
         s["image"] = None
+        if i == len(slides) - 1 and i > 0 and slides[0].get("image"):
+            s["image"] = slides[0]["image"]  # 팔로우 카드는 표지 사진을 어둡게 재사용(사이드바 잡사진 방지)
+            continue
         if pool:
             path, src = pool.pop(0)
             s["image"] = path
