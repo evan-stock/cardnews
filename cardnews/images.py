@@ -63,7 +63,7 @@ def ai_image(prompt, path):
 
 BROWSER_UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/126.0 Safari/537.36", "Accept-Language": "ko,en;q=0.8"}
-SKIP_IMG = re.compile(r"(logo|icon|sprite|avatar|profile|banner|btn|button|ad[s_/-]|pixel|blank|placeholder|emoji|\.svg|\.gif)", re.I)
+SKIP_IMG = re.compile(r"(logo|icon|sprite|avatar|profile|banner|btn|button|ad[s_/-]|pixel|blank|placeholder|emoji|author|byline|headshot|web-bio|newsletter|\.svg|\.gif)", re.I)
 
 
 def _abs(base, u):
@@ -96,6 +96,15 @@ def page_images(url):
     body = re.search(r"<article[\s\S]*?</article>", html, re.I)
     for m in re.finditer(r'<img[^>]+(?:data-src|data-original|src)=["\']([^"\']+)', body.group(0) if body else html, re.I):
         out.append(_abs(url, m.group(1)))
+    if len(out) < 5:  # 본문 사진이 적으면 리더 서비스로 기사 본문 이미지 추가 확보
+        try:
+            jr = requests.get("https://r.jina.ai/" + url, timeout=60)
+            if jr.ok:
+                out += re.findall(r"!\[[^\]]*\]\((https?://[^)\s]+)", jr.text)
+        except Exception as e:
+            print("리더 서비스 실패:", e)
+    import html as _html
+    out = [_html.unescape(u).split("#")[0] for u in out]
     seen, res = set(), []
     for u in out:
         if u.startswith("http") and u not in seen and not SKIP_IMG.search(u):
@@ -109,12 +118,13 @@ def _good_image(path):
     try:
         with Image.open(path) as im:
             w, h = im.size
-            if min(w, h) < 450 or not (0.45 <= w / h <= 2.2):
+            if min(w, h) < 300 or not (0.4 <= w / h <= 2.6):
                 return False
-            if im.mode not in ("RGB", "L"):
-                im.convert("RGB").save(path, "JPEG", quality=92)
+            rgb = im.convert("RGB")
+        rgb.save(path, "JPEG", quality=92)  # webp·png도 진짜 JPEG로 통일
         return True
-    except Exception:
+    except Exception as e:
+        print("이미지 검사 실패:", path, e)
         return False
 
 

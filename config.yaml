@@ -32,7 +32,7 @@ style:
 
 images:
   press: true          # 출처 기사·유튜브·틱톡 원본 사진 우선 사용
-  commons: true        # 부족하면 위키미디어 공개 사진
+  commons: false       # true면 기사 사진이 모자랄 때 위키미디어 사진으로 채움(이야기와 무관한 사진이 섞일 수 있음)
   ai_fallback: openai  # openai | none  (OPENAI_API_KEY가 있을 때만 동작)
   openai_model: gpt-image-1
   openai_size: 1024x1536

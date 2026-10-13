@@ -54,13 +54,17 @@ def prepare(slot):
         pages = [s.get("url") for s in d["sources"] if s.get("url")] + [u for u in d.get("image_pages", []) if str(u).startswith("http")]
         pubs = {urlparse(s.get("url", "")).netloc.replace("www.", ""): s.get("publisher", "") for s in d["sources"] if s.get("url")}
         credits = pick_images(d["slides"], str(workdir / "bg"), pages=list(dict.fromkeys(pages)), publishers=pubs)
+        # 사진을 못 구한 '사진 장'은 빼서 빈 배경 카드가 나가지 않게 한다(표지·팔로우 카드는 유지)
+        last = len(d["slides"]) - 1
+        d["slides"] = [s for i, s in enumerate(d["slides"]) if i in (0, last) or s.get("image") or s["t"].strip()]
         files = render(d["slides"], str(workdir))
         shutil.rmtree(workdir / "bg", ignore_errors=True)
         post = {
             "id": pid, "slot": slot, "slot_label": SLOT_LABEL.get(slot, slot), "status": "pending",
             "created_at": now().isoformat(), "publish_at": slot_time(slot).isoformat(),
             "topic": d["topic"], "category": d.get("category", ""), "core": d.get("core", ""),
-            "risk": d.get("risk", ""), "sources": d["sources"], "slides": [{"t": s["t"], "b": s["b"]} for s in d["slides"]],
+            "risk": d.get("risk", ""), "sources": d["sources"], "slides": [{"t": s["t"], "b": s["b"], "photo_query": s.get("photo_query", ""), "ai_prompt": s.get("ai_prompt", "")} for s in d["slides"]],
+            "image_pages": d.get("image_pages", []),
             "caption_full": build_caption(d, credits), "credits": credits,
             "files": [os.path.relpath(f, MEDIA.parent) for f in files],
         }
