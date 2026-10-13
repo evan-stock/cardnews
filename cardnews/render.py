@@ -35,6 +35,8 @@ def render(slides, outdir, sty=None, col=None):
           for(const s of x.slides){const o={t:s.t,b:s.b};
             if(s.img){const im=new Image();await new Promise((r,j)=>{im.onload=r;im.onerror=r;im.src=s.img});if(im.naturalWidth)o.img=im}
             S.push(o)}
+          const txt=x.slides.map(s=>(s.t||'')+(s.b||'')).join('')+'팔로우하고 먼저 받아보세요오늘의쓸모';
+          try{await Promise.all([document.fonts.load('400 100px "Black Han Sans"',txt)].concat(['400','700','900'].map(w=>document.fonts.load(w+' 40px "Noto Sans KR"',txt))))}catch(e){}
           if(PROF&&!PROF.complete)await new Promise(r=>{PROF.onload=r;setTimeout(r,2000)});
         }""", payload)
         for i in range(len(slides)):
