@@ -42,6 +42,10 @@ def prepare(slot):
     from .render import render
     from .research import research
 
+    try:
+        tick()  # 준비 전에 밤사이 눌린 승인/거절 버튼부터 반영
+    except Exception as e:
+        print("사전 승인 확인 실패:", e)
     pid = new_post_id(slot)
     old = load_post(pid)
     if old and old["status"] not in ("failed", "rejected"):
