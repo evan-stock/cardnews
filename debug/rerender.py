@@ -10,7 +10,7 @@ slides = [dict(s) for s in p["slides"]]
 pages = [s["url"] for s in p["sources"] if s.get("url")] + p.get("image_pages", [])
 out = MEDIA / (pid + "-retry")
 shutil.rmtree(out, ignore_errors=True)
-credits = pick_images(slides, str(out / "bg"), pages=pages)
+credits = pick_images(slides, str(out / "bg"), pages=pages, story=p["topic"] + " / " + p.get("core", ""))
 last = len(slides) - 1
 slides = [s for i, s in enumerate(slides) if i in (0, last) or s.get("image") or s["t"].strip()]
 for s in slides[1:-1]:

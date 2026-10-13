@@ -12,7 +12,8 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt && sudo apt-get install -y -qq fonts-noto-cjk && python -m playwright install --with-deps chromium
-      - run: python debug/rerender.py "$(cat debug/trigger.txt)"
+      - env: {ANTHROPIC_API_KEY: "${{ secrets.ANTHROPIC_API_KEY }}"}
+        run: python debug/rerender.py "$(cat debug/trigger.txt)"
       - run: |
           git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
           git add -A media && git commit -m "debug: rerender" && git pull --rebase && git push

@@ -136,7 +136,7 @@ def _good_image(path):
         return False
 
 
-def press_images(pages, outdir, limit=12):
+def press_images(pages, outdir, limit=16):
     """출처 기사·영상에서 사진을 모은다. [(경로, 출처표기)]"""
     import hashlib
     from urllib.parse import urlparse
@@ -176,12 +176,48 @@ def press_images(pages, outdir, limit=12):
     return got
 
 
-def pick_images(slides, outdir, pages=None, publishers=None):
+def relevant_only(pool, story):
+    """Claude가 사진을 직접 보고 이 이야기와 관련 있는 사진만 남긴다(표지감 순서로 정렬)."""
+    import base64, io, json, re as _re
+    from PIL import Image
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    if not pool or not key or not story:
+        return pool
+    content = []
+    for k, (path, _) in enumerate(pool):
+        im = Image.open(path).convert("RGB")
+        im.thumbnail((512, 512))
+        buf = io.BytesIO()
+        im.save(buf, "JPEG", quality=80)
+        content += [{"type": "text", "text": f"사진 {k}"},
+                    {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg",
+                                                  "data": base64.b64encode(buf.getvalue()).decode()}}]
+    content.append({"type": "text", "text": (
+        f"이야기: {story}\n\n위 사진들은 기사 페이지에서 긁어온 것이라 관련 없는 사진(다른 기사 썸네일, 광고, 기자·앵커 얼굴, "
+        "이야기와 무관한 정치인·유명인, 로고, 그래픽 배너)이 섞여 있어요. 이 이야기의 사람·동물·장소·장면을 실제로 보여주는 사진 번호만 골라, "
+        "표지로 가장 강렬한 것부터 순서대로 JSON 배열로만 답하세요. 예: [3,0,5]. 확실하지 않으면 빼세요.")})
+    try:
+        r = requests.post("https://api.anthropic.com/v1/messages", timeout=120, headers={
+            "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
+            json={"model": CFG["images"].get("vision_model", "claude-haiku-5-5"), "max_tokens": 200,
+                  "messages": [{"role": "user", "content": content}]})
+        r.raise_for_status()
+        txt = "".join(b.get("text", "") for b in r.json()["content"] if b.get("type") == "text")
+        idx = [int(x) for x in json.loads(_re.search(r"\[[\d,\s]*\]", txt).group(0)) if 0 <= int(x) < len(pool)]
+        print("관련 사진:", idx, "/", len(pool))
+        return [pool[i] for i in dict.fromkeys(idx)]
+    except Exception as e:
+        print("사진 관련성 검사 실패(전부 사용 안 함):", e)
+        return pool[:1]
+
+
+def pick_images(slides, outdir, pages=None, publishers=None, story=""):
     """slides마다 사진 파일 경로를 채운다.
     순서: 기사·영상 원본 사진(images.press) → 위키미디어 공개 사진 → AI 생성. 같은 사진은 한 번만."""
     os.makedirs(outdir, exist_ok=True)
     used, credits = set(), []
     pool = press_images(pages or [], outdir) if CFG["images"].get("press", True) else []
+    pool = relevant_only(pool, story)
     names = publishers or {}
     for i, s in enumerate(slides):
         s["image"] = None
@@ -193,6 +229,8 @@ def pick_images(slides, outdir, pages=None, publishers=None):
             s["image"] = path
             credits.append(names.get(src, src))
             continue
+        if i > 0:
+            continue  # 관련 사진이 없으면 그 장은 빼고 올린다(엉뚱한 사진 금지)
         path = os.path.join(outdir, f"bg{i + 1:02d}.jpg")
         if CFG["images"].get("commons") and s.get("photo_query"):
             try:

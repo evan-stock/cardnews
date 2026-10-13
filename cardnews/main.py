@@ -57,7 +57,8 @@ def prepare(slot, force=False):
         from urllib.parse import urlparse
         pages = [s.get("url") for s in d["sources"] if s.get("url")] + [u for u in d.get("image_pages", []) if str(u).startswith("http")]
         pubs = {urlparse(s.get("url", "")).netloc.replace("www.", ""): s.get("publisher", "") for s in d["sources"] if s.get("url")}
-        credits = pick_images(d["slides"], str(workdir / "bg"), pages=list(dict.fromkeys(pages)), publishers=pubs)
+        credits = pick_images(d["slides"], str(workdir / "bg"), pages=list(dict.fromkeys(pages)), publishers=pubs,
+                              story=f"{d['topic']} / {d.get('core', '')}")
         # 사진을 못 구한 '사진 장'은 빼서 빈 배경 카드가 나가지 않게 한다(표지·팔로우 카드는 유지)
         last = len(d["slides"]) - 1
         d["slides"] = [s for i, s in enumerate(d["slides"]) if i in (0, last) or s.get("image") or s["t"].strip()]

@@ -28,7 +28,7 @@ def render(slides, outdir, sty=None, col=None):
         errs = []
         pg.on("pageerror", lambda e: errs.append(str(e)))
         pg.goto(TEMPLATE.as_uri())
-        pg.evaluate("async()=>{try{await Promise.all(['400','700','900'].map(w=>document.fonts.load(w+' 40px \"Noto Sans KR\"')))}catch(e){}}")
+        pg.evaluate("async()=>{try{await Promise.all(['400','700','900'].map(w=>document.fonts.load(w+' 40px \"Noto Sans KR\"')).concat([document.fonts.load('400 40px \"Black Han Sans\"')]))}catch(e){}}")
         pg.evaluate("""async(x)=>{
           st.sty=x.sty; st.col=x.col; $('ch').value=x.ch; $('hd').value=x.hd;
           S=[];
