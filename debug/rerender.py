@@ -4,7 +4,7 @@ sys.path.insert(0, os.getcwd())
 from cardnews.common import load_post, MEDIA
 from cardnews.images import pick_images
 from cardnews.render import render
-pid = sys.argv[1]
+pid = sys.argv[1].strip()
 p = load_post(pid)
 slides = [dict(s) for s in p["slides"]]
 pages = [s["url"] for s in p["sources"] if s.get("url")] + p.get("image_pages", [])
