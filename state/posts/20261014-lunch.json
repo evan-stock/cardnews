@@ -3,61 +3,53 @@
  "slot": "lunch",
  "slot_label": "점심",
  "status": "pending",
- "created_at": "2026-10-14T01:44:41.084730+09:00",
+ "created_at": "2026-10-14T01:59:22.025642+09:00",
  "publish_at": "2026-10-14T13:00:00+09:00",
- "topic": "토비 맥과이어가 이혼 확정 3주 만에 전처 제니퍼 마이어의 하와이 재혼식에서 주례를 섰다",
- "category": "해외 셀럽·연예",
- "core": "'스파이더맨' 토비 맥과이어(51)가 9월 21일 이혼이 확정된 지 3주 만인 10월 10일, 전처 제니퍼 마이어(49)의 하와이 결혼식에서 직접 주례를 맡았다.",
- "risk": "사진은 TMZ·Getty 등 저작권 이미지라 사용 허락 확인이 필요하고, 미성년 자녀(오티스, 17세)의 얼굴이 나오는 사진은 피해야 합니다. 신부 딸의 출생 시기는 매체마다 5월·6월로 달라 캡션에서 뺐으며, 링크한 영상은 찾지 못해 유튜브·틱톡 링크가 없습니다.",
+ "topic": "토비 맥과이어, 이혼 마무리 몇 주 만에 전처 제니퍼 마이어 재혼식 주례",
+ "category": "해외 셀럽",
+ "core": "'스파이더맨' 토비 맥과이어가 지난 10일 하와이에서 열린 전처 제니퍼 마이어의 재혼식에서 직접 주례를 섰다.",
+ "risk": "이혼 확정 시점(9월)은 일부 매체 보도 기준",
  "sources": [
   {
-   "publisher": "서울신문",
-   "title": "이혼 확정 단 '3주' 만에…전처 재혼식 '주례' 선 스파이더맨, 美 깜짝 [월드픽]",
-   "url": "https://seoul.co.kr/news/international/2026/10/13/20261013500254",
-   "date": "2026.10.13"
-  },
-  {
-   "publisher": "Complex",
-   "title": "Tobey Maguire Officiates Ex-wife Jennifer Meyer's Wedding Weeks After Their Divorce Was Finalized",
-   "url": "https://www.complex.com/pop-culture/a/markelibert/tobey-maguire-jennifer-meyer-wedding-ogunlesi",
+   "publisher": "HELLO!",
+   "url": "https://www.hellomagazine.com/us/928474/jennifer-meyers-lavish-wedding-to-billionaire-heir-features-a-surprising-role-for-her-ex-tobey-maguire/",
    "date": "2026.10.12"
   },
   {
-   "publisher": "E! Online",
-   "title": "Who Is Jennifer Meyer's Husband Geoffrey Ogunlesi? Meet Billionaire Heir Who Married Tobey Maguire's Ex",
-   "url": "https://www.eonline.com/news/1436995/who-is-jennifer-meyers-new-husband-geoffrey-ogunlesi-everything-to-know",
-   "date": "2026.10.13"
+   "publisher": "HollywoodLife",
+   "url": "https://hollywoodlife.com/feature/who-is-geoff-ogunlesi-jennifer-meyer-husband-5565310/",
+   "date": "2026.10"
   }
  ],
  "slides": [
   {
-   "t": "이혼 확정 3주 만에\n'스파이더맨'이 주례 섰다",
-   "b": "",
-   "photo_query": "Tobey Maguire",
-   "ai_prompt": "Photorealistic photo of a man in a dark suit standing at an outdoor wedding altar holding papers, tropical ocean backdrop, golden hour light, no recognizable face, no text, no logos, vertical 4:5"
+   "t": "전처가 재혼하는데\n주례는 '전남편'이 섰다",
+   "b": ""
+  },
+  {
+   "t": "",
+   "b": ""
+  },
+  {
+   "t": "",
+   "b": ""
   },
   {
    "t": "팔로우하고 먼저 받아보세요",
-   "b": "매일 터지는 화제 소식",
-   "photo_query": "Hawaii beach sunset",
-   "ai_prompt": "Photorealistic photo of an empty Hawaiian beach at sunset with soft orange sky and gentle waves, no people, no text, no logos, vertical 4:5"
+   "b": "해외 셀럽·황당 화제 소식"
   }
  ],
- "image_pages": [
-  "https://www.tmz.com/2026/10/11/tobey-maguire-officiates-ex-wife-wedding/",
-  "https://www.hellomagazine.com/us/928474/jennifer-meyers-lavish-wedding-to-billionaire-heir-features-a-surprising-role-for-her-ex-tobey-maguire/",
-  "https://entertainmentnow.com/celebrity/tobey-maguire-officiates-jennifer-meyer-wedding/",
-  "https://www.justjared.com/2026/10/11/tobey-maguire-officiates-ex-wife-jennifer-meyer-geoffrey-ogunlesi-wedding/",
-  "https://www.recorderonline.com/features/entertainment_news/tobey-maguire-officiates-ex-wife-jennifer-meyers-wedding-to-geoff-ogunlesi-in-hawaii/article_5855077c-3201-5acc-816e-4fb98b86783d.html",
-  "https://www.eonline.com/news/1436995/who-is-jennifer-meyers-new-husband-geoffrey-ogunlesi-everything-to-know"
- ],
- "caption_full": "이혼 확정 3주 만에 '스파이더맨' 토비 맥과이어가 전처의 재혼식 주례를 섰습니다.\n\n배우 토비 맥과이어(51)가 지난 10일(현지시간) 하와이 라나이섬에서 열린 전처 제니퍼 마이어(49)의 결혼식에서 직접 주례를 맡았습니다. 두 사람의 이혼이 법적으로 확정된 것은 9월 21일, 불과 3주 전이었습니다.\n\n새 신랑은 나이지리아 억만장자 은행가의 아들인 음악 사업가 제프 오군레시(34)입니다. 레오나르도 디카프리오, 제프 베이조스 부부 등이 하객으로 참석했고, 맥과이어와 마이어의 두 자녀도 자리를 지켰습니다.\n\n마이어는 전남편을 \"최고의 아빠, 최고의 전남편, 최고의 친구\"라고 불러왔습니다. 다만 재산 분할 등은 아직 정리 중이라고 합니다.\n\n전남편이 주례 서는 전처의 결혼식, 여러분이라면 가실 수 있나요? 친구를 태그해 보세요!\n\n팔로우하고 매일 화제 소식을 먼저 받아보세요!\n\n출처: 서울신문 2026.10.13, Complex 2026.10.12, E! Online 2026.10.13\n사진: E! Online\n\n#토비맥과이어 #스파이더맨 #제니퍼마이어 #이혼 #결혼식 #할리우드 #해외연예 #셀럽",
+ "caption_full": "[전처 결혼식에서 주례를 선 '스파이더맨' 토비 맥과이어]\n\n영화 '스파이더맨' 주연 토비 맥과이어가 지난 10일(현지시간) 하와이 라나이섬 포시즌스 리조트에서 열린 전처 제니퍼 마이어(49)의 결혼식에서 직접 주례를 맡았습니다. 신랑은 나이지리아 출신 억만장자 투자자 아데바요 오군레시의 아들이자 음악 사업가인 제프리 오군레시(34)입니다.\n\n두 사람은 2007년 같은 하와이에서 결혼해 딸 루비(19)와 아들 오티스(17)를 뒀고, 2016년 별거를 발표했습니다. 이혼 절차는 올해 9월에야 마무리된 것으로 알려졌는데, 불과 몇 주 뒤 전남편이 전처의 새 출발을 직접 선언해준 셈입니다. 두 자녀도 결혼식에 함께했습니다.\n\n하객 명단도 화려했습니다. 맥과이어의 절친 레오나르도 디카프리오, 제프 베이조스 부부, 커트니 콕스 등이 참석한 것으로 전해졌습니다. 마이어는 평소 맥과이어를 '가장 친한 친구'라고 불러왔습니다.\n\n여러분은 전 연인 결혼식에 갈 수 있나요? 주례까지는요?\n\n팔로우하고 매일 화제 소식을 먼저 받아보세요!\n\n출처: HELLO! 2026.10.12, HollywoodLife 2026.10\n사진: Getty Images via HELLO!, TMZ\n\n#토비맥과이어 #스파이더맨 #해외연예 #할리우드 #결혼식 #오늘의쓸모",
  "credits": [
-  "E! Online"
+  "Getty Images via HELLO!",
+  "TMZ"
  ],
+ "manual": true,
  "files": [
   "media/20261014-lunch/01.jpg",
-  "media/20261014-lunch/02.jpg"
+  "media/20261014-lunch/02.jpg",
+  "media/20261014-lunch/03.jpg",
+  "media/20261014-lunch/04.jpg"
  ],
- "tg_msg": 25
+ "tg_msg": 30
 }
