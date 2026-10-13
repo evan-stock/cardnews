@@ -139,7 +139,7 @@ def chat_id_helper():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["prepare", "tick", "publish", "chat-id", "refresh-token", "prune"])
+    ap.add_argument("cmd", choices=["prepare", "tick", "publish", "chat-id", "refresh-token", "prune", "ping"])
     ap.add_argument("--slot", choices=list(CFG["slots"]))
     ap.add_argument("--id")
     a = ap.parse_args()
@@ -156,6 +156,8 @@ def main():
         print(instagram.refresh_token())
     elif a.cmd == "prune":
         prune()
+    elif a.cmd == "ping":
+        tg.send_text("✅ 오늘의쓸모 자동화 연결 테스트 성공!\nGitHub Actions → 텔레그램 연결이 잘 됐어요.")
 
 
 if __name__ == "__main__":

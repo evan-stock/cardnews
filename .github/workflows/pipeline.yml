@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
     inputs:
       cmd:
-        description: "prepare | tick | publish"
+        description: "ping(연결 테스트) | prepare | tick | publish"
         default: tick
       slot:
         description: "lunch | evening (prepare일 때)"
@@ -72,6 +72,7 @@ jobs:
           case "${{ steps.pick.outputs.cmd }}" in
             prepare) python -m cardnews.main prepare --slot "${{ steps.pick.outputs.slot }}" ;;
             publish) python -m cardnews.main publish --id "${{ steps.pick.outputs.id }}" ;;
+            ping) python -m cardnews.main ping ;;
             *) python -m cardnews.main tick ;;
           esac
 
