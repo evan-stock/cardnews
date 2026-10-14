@@ -3,27 +3,22 @@
   "id": "20261014-dental",
   "slot": "evening",
   "mode": "collect",
-  "limit": 4,
+  "limit": 30,
   "slides": [],
   "sources": [],
   "image_pages": [
-   "https://en.wikipedia.org/wiki/Nvidia_DGX"
+   "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+   "https://en.wikipedia.org/wiki/Nvidia_DGX",
+   "https://www.apple.com/mac-mini/",
+   "https://en.wikipedia.org/wiki/Mac_Mini",
+   "https://en.wikipedia.org/wiki/Dentistry",
+   "https://en.wikipedia.org/wiki/Dental_clinic",
+   "https://en.wikipedia.org/wiki/19-inch_rack",
+   "https://en.wikipedia.org/wiki/Server_room",
+   "https://en.wikipedia.org/wiki/Dentist",
+   "https://en.wikipedia.org/wiki/Uninterruptible_power_supply"
   ],
-  "image_urls": [
-   "https://ac.arca.live/20261013sac/0a45eddabd59b71d923271ea24b255b8d809c6713044740e7ce7c408e79195d3.png?expires=1791900668&key=o12ZFh97yv_kdVG9wglJFw",
-   "https://ac.arca.live/20261013sac/02d3a07ab996a07c8792d7e8805fb007f74a0aa34f7c20ed43d6870239b5063a.png?expires=1791900668&key=k_jqsgiskLVVQ1bmu7M8bg",
-   "https://ac.arca.live/20261013sac/8a7fe1e11c2e1886dc924d7425297f935ad53be72cbde63f7b957ac83b7987bb.png?expires=1791900668&key=7vtYz1HRzBZllyrbgHgOOw",
-   "https://ac.arca.live/20261013sac/048599cac55fd839f0a6b38c0186a701d8496d27fd904f60065c0b4d2c2314a7.png?expires=1791900668&key=M1CylGERFo4gFU5QFwxvWA",
-   "https://ac.arca.live/20261013sac/fddf62eff394ad520265731658df750f3c22aaf69607ea2b126a4c5f56caca3e.png?expires=1791900668&key=xsS_fqSwFtIdgEa_G7REVw",
-   "https://ac.arca.live/20261013sac/72b1898bd263dafc19a7425fa543b855dd679e870cf8f5d4ae8d31710656ddda.png?expires=1791900668&key=U4q9jFez65hwxoXNL0dgtw",
-   "https://ac.arca.live/20261013sac/a56b85638a141991dfaa558bb335ecee56517d70bc21dc3797c41323e910b43c.png?expires=1791900668&key=49KcQpKVMqc59QG-2fDODA",
-   "https://ac.arca.live/20261013sac/f9976b8b90ae5a387b1149e2e68108a157094587c0d06cac2e904adf8eab9cd2.png?expires=1791900668&key=KqzU-4heJAa3eyEOvXPDtA",
-   "https://ac.arca.live/20261013sac/a498314fead272502e724fe48332690917de79c631100d78cdf6ed727bcd646e.png?expires=1791900668&key=k81L_QEQnFyn0N_n3zbWqQ",
-   "https://ac.arca.live/20261013sac/08b3156c2f419e77dee04c230e0aa6b5d7ddbed0fc0a269dfe1b3ac54c11331b.png?expires=1791900668&key=Ij3JI745vKz7WYDPpjeZmQ",
-   "https://ac.arca.live/20261013sac/2ed8464a841b59cc5a2993cf9785b4ce66d889e7e0b293c2c4f3700826129394.png?expires=1791900668&key=g5uHjYC4ot--FXtMRNWd7g",
-   "https://ac.arca.live/20261013sac/1ba0bed3cb454e7953623445d3ee7d01ac5194a59f8d2e96cd62c489400054d1.png?expires=1791900668&key=R4kZ1PNIIpxcRwuEQ2AfjA",
-   "https://ac.arca.live/20261013sac/c4676f646dceaedc4f44cf13a89850c31e7736c0ce5b10309e4ebd302d43f119.png?expires=1791900668&key=wis7p_BuRTLGQl9ltV1RXQ"
-  ],
+  "image_urls": [],
   "referer": "https://arca.live/b/aihomelab/185810092"
  }
 ]
