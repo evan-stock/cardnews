@@ -2,7 +2,7 @@
  "id": "20261014-nobel",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-14T13:49:43.831892+09:00",
  "publish_at": "2026-10-14T13:49:46.961802+09:00",
  "topic": "노벨평화상 놓친 트럼프, 수상자 나비 필레이에 '이 여성 모른다' 분노 글",
@@ -58,5 +58,8 @@
   "media/20261014-nobel/05.jpg"
  ],
  "tg_msg": 46,
- "decided_at": "2026-10-14T13:49:46.961814+09:00"
+ "decided_at": "2026-10-14T13:49:46.961814+09:00",
+ "ig_media_id": "18191939758392529",
+ "permalink": "https://www.instagram.com/p/DedkPqAFFlC/",
+ "published_at": "2026-10-14T13:51:48.219228+09:00"
 }
