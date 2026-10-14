@@ -2,7 +2,7 @@
  {
   "id": "20261014-guwol",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "limit": 28,
   "slides": [
    {
@@ -90,6 +90,7 @@
    "흉악범",
    "사회",
    "오늘의쓸모"
-  ]
+  ],
+  "publish_now": true
  }
 ]
