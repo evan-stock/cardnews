@@ -27,6 +27,21 @@ def collect(d, base):
     shutil.rmtree(cand, ignore_errors=True)
     pool = press_images(d.get("image_pages", []) + [s["url"] for s in d.get("sources", []) if s.get("url")],
                         str(cand), limit=int(d.get("limit", 24)))
+    os.makedirs(cand, exist_ok=True)
+    for k, u in enumerate(d.get("image_urls", []), 1):  # 글에 직접 붙은 이미지 주소
+        p = cand / f"url{k:02d}.jpg"
+        try:
+            r = requests.get(u, headers={**BROWSER_UA, "Referer": d.get("referer", u)}, timeout=40)
+            if r.ok:
+                open(p, "wb").write(r.content)
+                if _good_image(str(p)):
+                    pool.append((str(p), "url"))
+                    continue
+            print("이미지 실패:", r.status_code, u[:80])
+        except Exception as e:
+            print("이미지 오류:", e)
+        if p.exists():
+            p.unlink()
     from PIL import Image, ImageDraw
     th = []
     for path, src in pool:
