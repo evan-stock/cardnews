@@ -2,7 +2,7 @@
  "id": "20261014-cpi",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-14T21:47:03.535410+09:00",
  "publish_at": "2026-10-14T21:47:07.592588+09:00",
  "topic": "'약세장 끝' 선언 다음 날, 美 9월 CPI 3.7% 예상 상회…비트코인 하락",
@@ -75,5 +75,8 @@
   "media/20261014-cpi/07.jpg"
  ],
  "tg_msg": 96,
- "decided_at": "2026-10-14T21:47:07.592602+09:00"
+ "decided_at": "2026-10-14T21:47:07.592602+09:00",
+ "ig_media_id": "18637047934020867",
+ "permalink": "https://www.instagram.com/p/Deeay6vG-gC/",
+ "published_at": "2026-10-14T21:48:30.825470+09:00"
 }
