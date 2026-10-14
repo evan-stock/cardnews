@@ -95,7 +95,12 @@ def build(d, base, send):
 
 
 def main(path):
-    d = json.load(open(path, encoding="utf-8"))
+    data = json.load(open(path, encoding="utf-8"))
+    for d in (data if isinstance(data, list) else [data]):
+        one(d)
+
+
+def one(d):
     base = MEDIA / d["id"]
     os.makedirs(base, exist_ok=True)
     mode = d.get("mode", "collect")
