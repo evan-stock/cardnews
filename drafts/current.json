@@ -2,7 +2,7 @@
  {
   "id": "20261014-cpi",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "limit": 28,
   "slides": [
    {
@@ -95,6 +95,7 @@
    "코인",
    "가상자산",
    "오늘의쓸모"
-  ]
+  ],
+  "publish_now": true
  }
 ]
