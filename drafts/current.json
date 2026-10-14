@@ -1,7 +1,7 @@
 {
  "id": "20261014-evening",
  "slot": "evening",
- "mode": "render",
+ "mode": "send",
  "limit": 28,
  "topic": "위고비·마운자로 등 GLP-1 비만약 사용자, 손톱 들뜸 4배·탈모 더 많아",
  "slides": [
@@ -79,5 +79,6 @@
   "Wikimedia Commons",
   "ScienceAlert",
   "Medical Economics"
- ]
+ ],
+ "publish_now": true
 }

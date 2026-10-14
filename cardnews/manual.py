@@ -89,6 +89,8 @@ def build(d, base, send):
     post["files"] = files
     post["tg_msg"] = tg.send_preview(post)
     post["files"] = [os.path.relpath(f, ROOT) for f in files]
+    if d.get("publish_now"):
+        post.update(status="approved", publish_at=now().isoformat(), decided_at=now().isoformat())
     save_post(post)
 
 
