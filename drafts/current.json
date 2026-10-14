@@ -1,6 +1,95 @@
-[{"id":"20261014-guwol","slot":"evening","mode":"collect","limit":28,"slides":[],"sources":[],
-"image_pages":["https://www.mt.co.kr/society/2026/10/13/2026101317564385062","https://www.mt.co.kr/society/2026/10/13/2026101320230513571",
-"https://seoul.co.kr/news/society/2026/10/13/20261013500236","https://www.seoul.co.kr/news/society/2026/10/13/20261013500305",
-"https://www.kmib.co.kr/article/view.asp?arcid=9000022208&code=61121111&stg=wm_rank","https://www.kmib.co.kr/article/view.asp?arcid=9000022105&cp=nv",
-"https://www.hidomin.com/news/articleView.html?idxno=724732","https://www.asiatoday.co.kr/kn/view.php?key=20261014010004519",
-"https://ytn.co.kr/_ln/0103_202610131451532758","https://www.artivenews.co.kr/news/articleView.html?idxno=3817"]}]
+[
+ {
+  "id": "20261014-guwol",
+  "slot": "evening",
+  "mode": "render",
+  "limit": 28,
+  "slides": [
+   {
+    "t": "살인미수 전과 2번\n전자발찌 찬 채 '칼부림'",
+    "b": ""
+   },
+   {
+    "t": "13일 낮 인천 구월동 쇼핑몰",
+    "b": "홈플러스·CGV가 입점한 건물 층을 오가며 손에 흉기를 테이프로 묶고 휘둘렀다"
+   },
+   {
+    "t": "8명 부상, 6명이 여성",
+    "b": "20대 여성 1명은 심정지 상태로 이송됐다가 호흡이 돌아왔다"
+   },
+   {
+    "t": "범인은 살인미수만 두 번",
+    "b": "2005년 살인미수 집행유예, 2015년엔 재결합을 거부한 전처를 흉기로 찔러 징역 4년"
+   },
+   {
+    "t": "전자발찌, 아무 소용 없었다",
+    "b": "2029년까지 부착 명령. 범행 1시간 전까지 보호관찰관과 점심을 먹었다"
+   },
+   {
+    "t": "막은 건 의자 든 시민들",
+    "b": "경찰 도착 전 시민들이 제압했다. 법무부는 사과하고 감독체계를 재점검하겠다고 밝혔다"
+   },
+   {
+    "t": "팔로우하고 먼저 받아보세요",
+    "b": "사회·사건 화제 소식"
+   }
+  ],
+  "sources": [
+   {
+    "publisher": "머니투데이",
+    "url": "https://www.mt.co.kr/society/2026/10/13/2026101317564385062",
+    "date": "2026.10.13"
+   },
+   {
+    "publisher": "경북도민일보",
+    "url": "https://www.hidomin.com/news/articleView.html?idxno=724732",
+    "date": "2026.10.13"
+   },
+   {
+    "publisher": "서울신문",
+    "url": "https://www.seoul.co.kr/news/society/2026/10/13/20261013500305",
+    "date": "2026.10.13"
+   }
+  ],
+  "image_pages": [
+   "https://www.mt.co.kr/society/2026/10/13/2026101317564385062",
+   "https://www.mt.co.kr/society/2026/10/13/2026101320230513571",
+   "https://seoul.co.kr/news/society/2026/10/13/20261013500236",
+   "https://www.seoul.co.kr/news/society/2026/10/13/20261013500305",
+   "https://www.kmib.co.kr/article/view.asp?arcid=9000022208&code=61121111&stg=wm_rank",
+   "https://www.kmib.co.kr/article/view.asp?arcid=9000022105&cp=nv",
+   "https://www.hidomin.com/news/articleView.html?idxno=724732",
+   "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004519",
+   "https://ytn.co.kr/_ln/0103_202610131451532758",
+   "https://www.artivenews.co.kr/news/articleView.html?idxno=3817"
+  ],
+  "topic": "인천 구월동 쇼핑몰 칼부림, 살인미수 전과 2회 전자발찌 착용자",
+  "category": "국내 사회",
+  "core": "살인미수 전과 2회로 전자발찌를 차고 있던 59세 남성이 인천 구월동 쇼핑몰에서 흉기를 휘둘러 8명이 다쳤다.",
+  "risk": "피해자 수 매체별 8~9명, 피해자 신원 비공개",
+  "images": [
+   "press17",
+   "press04",
+   "press06",
+   "press27",
+   "press20",
+   "press21"
+  ],
+  "photo_credits": [
+   "국민일보",
+   "머니투데이",
+   "아티브뉴스",
+   "아시아투데이"
+  ],
+  "caption": "[살인미수 전과 2번, 전자발찌 찬 채 쇼핑몰에서 칼부림]\n\n13일 오후 인천 남동구 구월동 홈플러스·CGV가 입점한 복합상업시설에서 59세 남성 A씨가 흉기를 휘둘러 8명이 다쳤습니다. 피해자 중 6명이 여성이었고, 2층 식당가에서 식사하던 시민과 매장 직원들이 공격을 받았습니다. 20대 여성 1명은 심정지 상태로 이송됐다가 호흡이 돌아온 것으로 전해졌습니다.\n\nA씨는 살인미수 전과만 두 번입니다. 2005년 살인미수로 집행유예를 받았고, 2015년에는 재결합을 거부한 전처를 흉기로 여러 차례 찔러 징역 4년을 선고받았습니다. 출소 후 2029년까지 전자발찌 부착 명령을 받았지만, 범행 당일에도 전자발찌를 찬 상태였습니다. 범행 1시간 전까지 보호관찰관과 점심을 함께 했고, 지난달엔 병원 앞에서 흉기를 들고 1인 시위를 하다 입건되기도 했습니다. 가방에서는 흉기 여러 개와 다량의 약물이 나왔습니다.\n\n경찰이 도착하기 전 의자를 든 시민들이 A씨를 제압해 추가 피해를 막았습니다. 법무부는 전자장치 훼손이나 준수사항 위반은 없었다며 사과하고 감독체계를 전면 재점검하겠다고 밝혔습니다.\n\n전자발찌만으로 충분할까요? 여러분 생각은 어떠신가요?\n\n다치신 분들의 빠른 회복을 바랍니다.\n\n팔로우하고 매일 화제 소식을 먼저 받아보세요!",
+  "hashtags": [
+   "인천칼부림",
+   "구월동",
+   "전자발찌",
+   "묻지마범죄",
+   "흉악범",
+   "사회",
+   "오늘의쓸모"
+  ]
+ }
+]
