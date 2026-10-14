@@ -44,6 +44,18 @@ def collect(d, base):
         sheet.save(base / "candidates.jpg", quality=80)
     json.dump([[os.path.basename(p), s] for p, s in pool], open(base / "candidates.json", "w"), ensure_ascii=False)
     print("후보 사진", len(pool))
+    texts = {}
+    for u in d.get("read_pages", []):
+        for src in (u, "https://r.jina.ai/" + u):
+            try:
+                r = requests.get(src, headers=BROWSER_UA, timeout=40)
+                if r.ok and len(r.text) > 500:
+                    texts[u] = r.text[:60000]
+                    break
+            except Exception as e:
+                print("본문 읽기 실패:", src, e)
+    if texts:
+        json.dump(texts, open(base / "pages.json", "w"), ensure_ascii=False, indent=1)
 
 
 def get_image(ref, base, k):
