@@ -2,7 +2,7 @@
  "id": "20261014-golf",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-14T15:29:23.919096+09:00",
  "publish_at": "2026-10-14T15:29:27.190388+09:00",
  "topic": "대구 상가 붕괴(38명 부상) 당일 이재명 대통령 태릉CC 골프 논란",
@@ -69,5 +69,8 @@
   "media/20261014-golf/06.jpg"
  ],
  "tg_msg": 69,
- "decided_at": "2026-10-14T15:29:27.190403+09:00"
+ "decided_at": "2026-10-14T15:29:27.190403+09:00",
+ "ig_media_id": "18497584924103448",
+ "permalink": "https://www.instagram.com/p/DedvjwlFhO0/",
+ "published_at": "2026-10-14T15:30:40.328152+09:00"
 }
