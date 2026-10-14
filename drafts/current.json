@@ -1,4 +1,77 @@
-[{"id":"20261014-cointax2","slot":"lunch","mode":"collect","limit":20,"slides":[],"sources":[],
-"image_pages":["https://en.wikipedia.org/wiki/Financial_Services_Commission","https://en.wikipedia.org/wiki/Ministry_of_Economy_and_Finance_(South_Korea)",
-"https://en.wikipedia.org/wiki/Binance","https://en.wikipedia.org/wiki/Futures_contract","https://en.wikipedia.org/wiki/Bybit",
-"https://inews24.com/view/wrlted/1371278","https://news.tf.co.kr/read/ogmeta/1888622.htm"]}]
+[
+ {
+  "id": "20261014-cointax2",
+  "slot": "lunch",
+  "mode": "render",
+  "limit": 20,
+  "slides": [
+   {
+    "t": "내년에 코인 세금 내면\n'바보'?",
+    "b": ""
+   },
+   {
+    "t": "현물 수익은 국내든 해외든 과세",
+    "b": "내년 1월 1일부터 코인을 팔아 번 돈이 연 250만원을 넘으면 22% 세금이 붙는다"
+   },
+   {
+    "t": "해외 선물·옵션은 세금 0원",
+    "b": "코인 자체가 아니라 가격에 베팅하는 '계약'이라 법에 정한 과세 대상이 아니다"
+   },
+   {
+    "t": "국내에선 선물 거래가 금지",
+    "b": "결국 해외 거래소에서 선물을 하는 사람만 세금을 피하는 구조가 된다"
+   },
+   {
+    "t": "\"네 소관\" 서로 떠넘기기",
+    "b": "재경부는 \"금융위가 금융상품으로 인정 안 해서\", 금융위는 \"과세는 재경부 일\""
+   },
+   {
+    "t": "팔로우하고 먼저 받아보세요",
+    "b": "코인·경제 화제 소식"
+   }
+  ],
+  "sources": [
+   {
+    "publisher": "KBS",
+    "url": "https://www.blockmedia.co.kr/archives/1150027",
+    "date": "2026.10.10"
+   }
+  ],
+  "image_pages": [
+   "https://en.wikipedia.org/wiki/Financial_Services_Commission",
+   "https://en.wikipedia.org/wiki/Ministry_of_Economy_and_Finance_(South_Korea)",
+   "https://en.wikipedia.org/wiki/Binance",
+   "https://en.wikipedia.org/wiki/Futures_contract",
+   "https://en.wikipedia.org/wiki/Bybit",
+   "https://inews24.com/view/wrlted/1371278",
+   "https://news.tf.co.kr/read/ogmeta/1888622.htm"
+  ],
+  "topic": "내년 코인 과세 시행, 해외 거래소 선물·옵션은 과세 사각지대",
+  "category": "코인·경제",
+  "core": "내년 1월부터 코인 현물 수익엔 세금이 붙지만 해외 거래소 선물·옵션 수익은 법에 없어 과세하지 못한다.",
+  "risk": "세율 22%는 지방소득세 포함 기준",
+  "images": [
+   "https://raw.githubusercontent.com/evan-stock/cardnews/main/media/20261014-cointax/cand/press06.jpg",
+   "press02",
+   "https://raw.githubusercontent.com/evan-stock/cardnews/main/media/20261014-cointax/cand/press01.jpg",
+   "https://raw.githubusercontent.com/evan-stock/cardnews/main/media/20261014-cointax/cand/press03.jpg",
+   "https://raw.githubusercontent.com/evan-stock/cardnews/main/media/20261014-cointax/cand/press07.jpg"
+  ],
+  "photo_credits": [
+   "경향신문",
+   "아이뉴스24",
+   "노컷뉴스(연합뉴스)",
+   "딜사이트"
+  ],
+  "caption": "[내년에 코인 세금 내면 바보? 해외 선물은 과세 사각지대]\n\n내년 1월 1일부터 가상자산 과세가 시작됩니다. 코인을 사고팔아 번 현물 수익은 국내 거래소든 해외 거래소든 1년에 250만원을 넘으면 지방세 포함 22%의 세금이 붙습니다.\n\n그런데 해외 거래소의 선물·옵션 같은 파생상품 수익은 세금을 매길 수 없습니다. 소득세법은 가상자산을 '양도하거나 대여해' 번 소득에만 과세하는데, 선물·옵션은 코인 자체가 아니라 가격 변동에 따라 수익이 정해지는 계약이라 법에 적힌 과세 대상이 아니라는 겁니다. 국내에선 코인 파생상품 거래가 아예 금지돼 있어, 해외에서 선물을 하는 사람만 세금을 피하는 형평성 문제가 생깁니다.\n\n정부는 서로 책임을 미루고 있습니다. 재정경제부는 금융위원회가 코인 파생상품을 금융상품으로 인정하지 않아 과세가 어렵다는 입장이고, 금융위는 과세 대상을 정하는 건 재경부 소관이라는 입장입니다.\n\n현물은 22%, 선물은 0원. 여러분은 어떻게 생각하세요? 댓글로 알려주세요!\n\n팔로우하고 코인 과세 소식을 먼저 받아보세요!\n\n※ 투자 권유 아님, 정보 제공 목적",
+  "hashtags": [
+   "코인과세",
+   "가상자산과세",
+   "비트코인",
+   "해외거래소",
+   "코인선물",
+   "가상자산",
+   "오늘의쓸모"
+  ]
+ }
+]
