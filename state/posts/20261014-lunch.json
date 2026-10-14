@@ -2,7 +2,7 @@
  "id": "20261014-lunch",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-14T01:59:22.025642+09:00",
  "publish_at": "2026-10-14T13:00:00+09:00",
  "topic": "토비 맥과이어, 이혼 마무리 몇 주 만에 전처 제니퍼 마이어 재혼식 주례",
@@ -52,5 +52,8 @@
   "media/20261014-lunch/04.jpg"
  ],
  "tg_msg": 30,
- "decided_at": "2026-10-14T02:02:43.132046+09:00"
+ "decided_at": "2026-10-14T02:02:43.132046+09:00",
+ "ig_media_id": "18127468168860131",
+ "permalink": "https://www.instagram.com/p/Dede5WokcAr/",
+ "published_at": "2026-10-14T13:05:07.524389+09:00"
 }
