@@ -131,6 +131,21 @@ def tick():
             tg.send_text(f"⌛ 승인 시간이 지나 게시하지 않았어요: {p['topic']}")
 
 
+def watch(hours=6):
+    """GitHub 예약 실행이 자주 밀려서, 대기 중인 게시물이 끝날 때까지 1분마다 직접 확인한다."""
+    import time
+    end = now() + dt.timedelta(hours=hours)
+    while now() < end:
+        try:
+            tick()
+        except Exception:
+            traceback.print_exc()
+        if not any(p["status"] in ("pending", "approved") for p in all_posts()):
+            print("대기 중인 게시물 없음, 종료")
+            return
+        time.sleep(60)
+
+
 def prune(days=7):
     cut = now() - dt.timedelta(days=days)
     for p in all_posts():
@@ -154,13 +169,15 @@ def chat_id_helper():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["prepare", "tick", "publish", "chat-id", "refresh-token", "prune", "ping"])
+    ap.add_argument("cmd", choices=["prepare", "tick", "watch", "publish", "chat-id", "refresh-token", "prune", "ping"])
     ap.add_argument("--slot", choices=list(CFG["slots"]))
     ap.add_argument("--id")
     ap.add_argument("--force", action="store_true")
     a = ap.parse_args()
     if a.cmd == "prepare":
         prepare(a.slot, a.force)
+    elif a.cmd == "watch":
+        watch()
     elif a.cmd == "tick":
         tick()
         prune()

@@ -5,11 +5,11 @@ on:
     # GitHub cron은 UTC 기준이고 몇 분~수십 분 늦게 돌 수 있어요.
     - cron: "15 2 * * *"      # 11:15 KST  점심 게시물 준비
     - cron: "15 7 * * *"      # 16:15 KST  저녁 게시물 준비
-    - cron: "*/10 0-12 * * *" # 09:00~21:50 KST  10분마다 승인 버튼 확인·게시
+    - cron: "0 0-12/3 * * *" # 09·12·15·18·21시 KST 예비 확인(평소엔 준비 후 watch가 1분마다 확인)
   workflow_dispatch:
     inputs:
       cmd:
-        description: "ping(연결 테스트) | prepare | tick | publish"
+        description: "ping(연결 테스트) | prepare | tick | watch | publish"
         default: tick
       slot:
         description: "lunch | evening (prepare일 때)"
@@ -28,7 +28,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 360
     env:
       TZ: Asia/Seoul
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -69,7 +69,8 @@ jobs:
       - name: 실행
         run: |
           case "${{ steps.pick.outputs.cmd }}" in
-            prepare) python -m cardnews.main prepare --slot "${{ steps.pick.outputs.slot }}" $([ "${{ github.event_name }}" = "workflow_dispatch" ] && echo --force) ;;
+            prepare) python -m cardnews.main prepare --slot "${{ steps.pick.outputs.slot }}" $([ "${{ github.event_name }}" = "workflow_dispatch" ] && echo --force) && python -m cardnews.main watch ;;
+            watch) python -m cardnews.main watch ;;
             publish) python -m cardnews.main publish --id "${{ steps.pick.outputs.id }}" ;;
             ping) python -m cardnews.main ping ;;
             *) python -m cardnews.main tick ;;
