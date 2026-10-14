@@ -2,7 +2,7 @@
  "id": "20261014-naver1",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-14T19:37:41.250817+09:00",
  "publish_at": "2026-10-14T19:37:44.453147+09:00",
  "topic": "국세청장 '李대통령 분당 아파트 거래 과세 대상 아냐'…17억 근저당 논란",
@@ -69,5 +69,8 @@
   "media/20261014-naver1/07.jpg"
  ],
  "tg_msg": 87,
- "decided_at": "2026-10-14T19:37:44.453162+09:00"
+ "decided_at": "2026-10-14T19:37:44.453162+09:00",
+ "ig_media_id": "17868590739661981",
+ "permalink": "https://www.instagram.com/p/DeeL_J3EUFl/",
+ "published_at": "2026-10-14T19:39:06.906149+09:00"
 }
