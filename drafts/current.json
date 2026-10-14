@@ -2,7 +2,7 @@
  {
   "id": "20261014-nobel",
   "slot": "lunch",
-  "mode": "render",
+  "mode": "send",
   "limit": 24,
   "slides": [
    {
@@ -73,12 +73,13 @@
    "해외이슈",
    "국제뉴스",
    "오늘의쓸모"
-  ]
+  ],
+  "publish_now": true
  },
  {
   "id": "20261014-cointax",
   "slot": "lunch",
-  "mode": "render",
+  "mode": "send",
   "limit": 24,
   "slides": [
    {
@@ -142,6 +143,7 @@
    "코인",
    "세금",
    "오늘의쓸모"
-  ]
+  ],
+  "publish_now": true
  }
 ]
