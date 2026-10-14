@@ -120,6 +120,10 @@ def build(d, base, send):
     post["files"] = [os.path.relpath(f, ROOT) for f in files]
     if d.get("publish_now"):
         post.update(status="approved", publish_at=now().isoformat(), decided_at=now().isoformat())
+    elif d.get("publish_at"):  # 채팅에서 승인받고 시각을 정한 경우: "2026-10-15T21:00:00+09:00"
+        post.update(publish_at=d["publish_at"])
+        if d.get("approved"):
+            post.update(status="approved", decided_at=now().isoformat())
     save_post(post)
 
 
