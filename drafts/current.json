@@ -2,7 +2,7 @@
  {
   "id": "20261014-cointax2",
   "slot": "lunch",
-  "mode": "render",
+  "mode": "send",
   "limit": 20,
   "slides": [
    {
@@ -72,6 +72,7 @@
    "코인선물",
    "가상자산",
    "오늘의쓸모"
-  ]
+  ],
+  "publish_now": true
  }
 ]
