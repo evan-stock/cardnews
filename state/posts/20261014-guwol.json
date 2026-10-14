@@ -2,7 +2,7 @@
  "id": "20261014-guwol",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-14T19:18:50.916593+09:00",
  "publish_at": "2026-10-14T19:18:54.060226+09:00",
  "topic": "인천 구월동 쇼핑몰 칼부림, 살인미수 전과 2회 전자발찌 착용자",
@@ -74,5 +74,8 @@
   "media/20261014-guwol/07.jpg"
  ],
  "tg_msg": 78,
- "decided_at": "2026-10-14T19:18:54.060241+09:00"
+ "decided_at": "2026-10-14T19:18:54.060241+09:00",
+ "ig_media_id": "18108261851261371",
+ "permalink": "https://www.instagram.com/p/DeeJ0g-FZ64/",
+ "published_at": "2026-10-14T19:20:11.038406+09:00"
 }
