@@ -2,7 +2,7 @@
  "id": "20261014-evening",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-14T13:22:56.328258+09:00",
  "publish_at": "2026-10-14T13:23:00.129668+09:00",
  "topic": "위고비·마운자로 등 GLP-1 비만약 사용자, 손톱 들뜸 4배·탈모 더 많아",
@@ -64,5 +64,8 @@
   "media/20261014-evening/06.jpg"
  ],
  "tg_msg": 39,
- "decided_at": "2026-10-14T13:23:00.129679+09:00"
+ "decided_at": "2026-10-14T13:23:00.129679+09:00",
+ "ig_media_id": "18104841260290167",
+ "permalink": "https://www.instagram.com/p/DedhGEtlL2I/",
+ "published_at": "2026-10-14T13:24:16.671885+09:00"
 }
