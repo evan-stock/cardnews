@@ -2,7 +2,10 @@ name: reels-test
 on:
   push:
     branches: [reels-test]
+    paths-ignore: ['reels/out/**']
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   render:
     runs-on: ubuntu-latest
@@ -21,7 +24,8 @@ jobs:
             done
           done
           ls -la out
-      - uses: actions/upload-artifact@v4
-        with:
-          name: reels
-          path: out/
+      - name: Save videos to branch
+        run: |
+          mkdir -p reels/out && cp out/*.mp4 reels/out/
+          git config user.name "github-actions" && git config user.email "actions@github.com"
+          git add reels/out && git commit -m "릴스 시험 영상 [skip ci]" && git push
