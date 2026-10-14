@@ -95,7 +95,7 @@ def build(d, base, send):
     imgs = d.get("images", [])
     slides = []
     for k, s in enumerate(d["slides"]):
-        s = {"t": s.get("t", "").replace("\\n", "\n"), "b": s.get("b", "")}
+        s = {"t": s.get("t", "").replace("\\n", "\n"), "b": s.get("b", ""), "sub": s.get("sub", "")}
         s["image"] = get_image(imgs[k] if k < len(imgs) else None, base, k)
         slides.append(s)
     if slides and not slides[-1]["image"]:

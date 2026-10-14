@@ -19,7 +19,7 @@ def render(slides, outdir, sty=None, col=None):
     payload = {
         "sty": sty or CFG["style"]["sty"], "col": CFG["style"]["col"] if col is None else col,
         "ch": CFG["brand"]["channel_name"], "hd": CFG["brand"]["handle"],
-        "slides": [{"t": s["t"], "b": s["b"], "img": _data_url(s["image"]) if s.get("image") else None} for s in slides],
+        "slides": [{"t": s["t"], "b": s["b"], "sub": s.get("sub", ""), "img": _data_url(s["image"]) if s.get("image") else None} for s in slides],
     }
     files = []
     with sync_playwright() as p:
@@ -32,7 +32,7 @@ def render(slides, outdir, sty=None, col=None):
         pg.evaluate("""async(x)=>{
           st.sty=x.sty; st.col=x.col; $('ch').value=x.ch; $('hd').value=x.hd;
           S=[];
-          for(const s of x.slides){const o={t:s.t,b:s.b};
+          for(const s of x.slides){const o={t:s.t,b:s.b,sub:s.sub||''};
             if(s.img){const im=new Image();await new Promise((r,j)=>{im.onload=r;im.onerror=r;im.src=s.img});if(im.naturalWidth)o.img=im}
             S.push(o)}
           const txt=x.slides.map(s=>(s.t||'')+(s.b||'')).join('')+'팔로우하고 먼저 받아보세요오늘의쓸모';
