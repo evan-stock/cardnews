@@ -1,64 +1,9 @@
-{
- "id": "20261014-lunch",
- "slot": "lunch",
- "mode": "send",
- "limit": 28,
- "topic": "토비 맥과이어, 이혼 마무리 몇 주 만에 전처 제니퍼 마이어 재혼식 주례",
- "category": "해외 셀럽",
- "core": "'스파이더맨' 토비 맥과이어가 지난 10일 하와이에서 열린 전처 제니퍼 마이어의 재혼식에서 직접 주례를 섰다.",
- "risk": "이혼 확정 시점(9월)은 일부 매체 보도 기준",
- "slides": [
-  {
-   "t": "전처가 재혼하는데\n주례는 '전남편'이 섰다",
-   "b": ""
-  },
-  {
-   "t": "",
-   "b": ""
-  },
-  {
-   "t": "",
-   "b": ""
-  },
-  {
-   "t": "팔로우하고 먼저 받아보세요",
-   "b": "해외 셀럽·황당 화제 소식"
-  }
- ],
- "caption": "[전처 결혼식에서 주례를 선 '스파이더맨' 토비 맥과이어]\n\n영화 '스파이더맨' 주연 토비 맥과이어가 지난 10일(현지시간) 하와이 라나이섬 포시즌스 리조트에서 열린 전처 제니퍼 마이어(49)의 결혼식에서 직접 주례를 맡았습니다. 신랑은 나이지리아 출신 억만장자 투자자 아데바요 오군레시의 아들이자 음악 사업가인 제프리 오군레시(34)입니다.\n\n두 사람은 2007년 같은 하와이에서 결혼해 딸 루비(19)와 아들 오티스(17)를 뒀고, 2016년 별거를 발표했습니다. 이혼 절차는 올해 9월에야 마무리된 것으로 알려졌는데, 불과 몇 주 뒤 전남편이 전처의 새 출발을 직접 선언해준 셈입니다. 두 자녀도 결혼식에 함께했습니다.\n\n하객 명단도 화려했습니다. 맥과이어의 절친 레오나르도 디카프리오, 제프 베이조스 부부, 커트니 콕스 등이 참석한 것으로 전해졌습니다. 마이어는 평소 맥과이어를 '가장 친한 친구'라고 불러왔습니다.\n\n여러분은 전 연인 결혼식에 갈 수 있나요? 주례까지는요?\n\n팔로우하고 매일 화제 소식을 먼저 받아보세요!",
- "hashtags": [
-  "토비맥과이어",
-  "스파이더맨",
-  "해외연예",
-  "할리우드",
-  "결혼식",
-  "오늘의쓸모"
- ],
- "sources": [
-  {
-   "publisher": "HELLO!",
-   "url": "https://www.hellomagazine.com/us/928474/jennifer-meyers-lavish-wedding-to-billionaire-heir-features-a-surprising-role-for-her-ex-tobey-maguire/",
-   "date": "2026.10.12"
-  },
-  {
-   "publisher": "HollywoodLife",
-   "url": "https://hollywoodlife.com/feature/who-is-geoff-ogunlesi-jennifer-meyer-husband-5565310/",
-   "date": "2026.10"
-  }
- ],
- "image_pages": [
-  "https://www.hellomagazine.com/us/928474/jennifer-meyers-lavish-wedding-to-billionaire-heir-features-a-surprising-role-for-her-ex-tobey-maguire/",
-  "https://hollywoodlife.com/feature/who-is-geoff-ogunlesi-jennifer-meyer-husband-5565310/",
-  "https://www.rova.nz/articles/tobey-maguire-officiates-at-wedding-of-ex-jennifer-meyer",
-  "https://www.bollywoodshaadis.com/articles/tobey-maguire-officiates-ex-wife-wedding-85524"
- ],
- "images": [
-  "press12c",
-  "press03",
-  "press04"
- ],
- "photo_credits": [
-  "Getty Images via HELLO!",
-  "TMZ"
- ]
-}
+{"id":"20261014-evening","slot":"evening","mode":"collect","limit":28,
+"topic":"GLP-1(위고비·마운자로) 사용자 손톱 들뜸 4배","slides":[],"caption":"","hashtags":[],
+"sources":[{"publisher":"ScienceDaily","url":"https://www.sciencedaily.com/releases/2026/10/261011211604.htm","date":"2026.10.12"}],
+"image_pages":["https://www.sciencealert.com/?p=223594","https://hcplive.com/view/nail-detachment-4-times-more-common-with-glp-1-use",
+"https://www.healio.com/news/dermatology/20261002/glp1-use-associated-with-nail-detachment-hair-loss",
+"https://www.medicaleconomics.com/view/glp-1-users-report-more-nail-detachment-hair-loss-than-nonusers-study-finds",
+"https://www.mdlinx.com/news/glp-1-users-report-fingernail-detachment/1nt2ilYcSClWt8ny6qtxRt",
+"https://www.emjreviews.com/?p=527894","https://www.epocrates.com/online/article/are-glp-1-drugs-affecting-patients-nails",
+"https://en.wikipedia.org/wiki/Onycholysis","https://en.wikipedia.org/wiki/Semaglutide","https://en.wikipedia.org/wiki/Tirzepatide"]}
