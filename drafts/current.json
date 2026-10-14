@@ -2,7 +2,7 @@
  {
   "id": "20261014-golf",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "limit": 28,
   "slides": [
    {
@@ -88,6 +88,7 @@
    "국민의힘",
    "정치",
    "오늘의쓸모"
-  ]
+  ],
+  "publish_now": true
  }
 ]
