@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12", cache: pip}
-      - run: pip install -r requirements.txt && sudo apt-get install -y -qq fonts-noto-cjk && python -m playwright install --with-deps chromium
+      - run: pip install -r requirements.txt && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg && python -m playwright install --with-deps chromium
       - run: python -m cardnews.manual drafts/current.json
       - if: always()
         run: |

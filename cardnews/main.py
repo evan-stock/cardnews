@@ -23,8 +23,9 @@ def build_caption(d, credits):
     parts.append(f"출처: {src}")
     if credits:
         parts[-1] += "\n사진: " + ", ".join(credits[:6]) + (", 위키미디어 커먼즈" if any("CC" in c or "Public domain" in c for c in credits) else "")
-    if d.get("hashtags"):
-        parts.append(" ".join("#" + h for h in d["hashtags"]))
+    tags = [h.lstrip("#") for h in d.get("hashtags", []) if h][:5]  # 인스타 해시태그 상한 5개
+    if tags:
+        parts.append(" ".join("#" + h for h in tags))
     return "\n\n".join(parts)
 
 
@@ -35,6 +36,47 @@ def media_url(pid, fname):
         branch = os.environ.get("GITHUB_REF_NAME", "main")
         base = f"https://raw.githubusercontent.com/{repo}/{branch}/media"
     return f"{base.rstrip('/')}/{pid}/{fname}"
+
+
+def make_reel(files, workdir):
+    """표지 카드로 9:16 릴스 영상(무음)을 만든다. 실패해도 카드뉴스는 그대로 진행."""
+    if not CFG.get("reels", {}).get("enabled"):
+        return None
+    try:
+        from .reels import cover_reel
+        out = os.path.join(str(workdir), "reel.mp4")
+        cover_reel(files[0], out, seconds=CFG["reels"].get("seconds", 8), hint=CFG["reels"].get("hint", ""))
+        return out
+    except Exception:
+        traceback.print_exc()
+        return None
+
+
+def reel_caption(post):
+    first = post["caption_full"].strip().split("\n", 1)[0]
+    tags = [w for w in post["caption_full"].split() if w.startswith("#")][:5]
+    return "\n\n".join(x for x in [first, CFG["reels"].get("caption_line", ""), " ".join(tags)] if x)
+
+
+def publish_reel_for(post):
+    rc = CFG.get("reels", {})
+    path = MEDIA / post["id"] / "reel.mp4"
+    if not rc.get("enabled") or not path.exists():
+        return
+    try:
+        tg.send_video(str(path), "🎬 릴스용 영상(표지). 앱에서 음악을 붙여 올리거나, 자동 업로드된 릴스에 음악을 추가하세요.")
+    except Exception as e:
+        print("릴스 영상 전송 실패:", e)
+    if rc.get("mode") != "auto":
+        return
+    try:
+        mid, link = instagram.publish_reel(media_url(post["id"], "reel.mp4"), reel_caption(post),
+                                           share_to_feed=rc.get("share_to_feed", False))
+        post.update(reel_media_id=mid, reel_permalink=link)
+        tg.send_text(f"🎬 릴스 게시 완료: {post['topic']}\n{link}\n음악은 앱에서 추가하세요.")
+    except Exception as e:
+        post["reel_error"] = str(e)[:300]
+        tg.send_text(f"⚠️ 릴스 게시 실패(카드뉴스는 게시됨): {str(e)[:300]}")
 
 
 def prepare(slot, force=False):
@@ -66,6 +108,7 @@ def prepare(slot, force=False):
             if not s["t"].strip():
                 s["b"] = ""  # 사진 장은 글자 없이 (사진 순서와 설명이 어긋나는 문제 방지)
         files = render(d["slides"], str(workdir))
+        make_reel(files, workdir)
         shutil.rmtree(workdir / "bg", ignore_errors=True)
         post = {
             "id": pid, "slot": slot, "slot_label": SLOT_LABEL.get(slot, slot), "status": "pending",
@@ -92,12 +135,31 @@ def prepare(slot, force=False):
         raise
 
 
+def push_media(post):
+    """게시 직전에 카드·릴스 파일이 GitHub에 올라가 있는지 확인(인스타가 공개 주소에서 가져가므로)."""
+    if not os.environ.get("GITHUB_ACTIONS"):
+        return
+    import subprocess
+    run = lambda *a: subprocess.run(list(a), cwd=str(MEDIA.parent), capture_output=True, text=True)
+    run("git", "add", "-A", str(MEDIA / post["id"]))
+    if run("git", "diff", "--cached", "--quiet").returncode != 0:
+        run("git", "-c", "user.name=cardnews-bot", "-c", "user.email=cardnews-bot@users.noreply.github.com",
+            "commit", "-m", f"cardnews: media {post['id']}")
+        run("git", "pull", "--rebase", "origin", os.environ.get("GITHUB_REF_NAME", "main"))
+        r = run("git", "push")
+        print("미디어 업로드:", r.returncode, r.stderr[-200:])
+        import time
+        time.sleep(20)
+
+
 def do_publish(post):
+    push_media(post)
     urls = [media_url(post["id"], os.path.basename(f)) for f in post["files"]]
     try:
         mid, link = instagram.publish_carousel(urls, post["caption_full"])
         post.update(status="published", ig_media_id=mid, permalink=link, published_at=now().isoformat())
         tg.send_text(f"🎉 게시 완료: {post['topic']}\n{link}")
+        publish_reel_for(post)
     except Exception as e:
         post.update(status="failed", error=str(e)[:500])
         tg.send_text(f"⚠️ 게시 실패: {post['topic']}\n{str(e)[:500]}")

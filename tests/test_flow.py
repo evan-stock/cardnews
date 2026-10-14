@@ -45,6 +45,8 @@ def setup(tmp_imgs):
     im_mod.pick_images = pick
     main.tg.send_preview = lambda post: LOG.append(("preview", post["id"], len(post["files"]))) or 99
     main.tg.send_text = lambda text, **k: LOG.append(("text", text.splitlines()[0]))
+    main.tg.send_video = lambda path, cap="": LOG.append(("video", os.path.basename(path)))
+    main.instagram.publish_reel = lambda url, cap, share_to_feed=False: (LOG.append(("reel", url[-30:])) or ("r1", "https://instagram.com/reel/x"))
     main.instagram.publish_carousel = lambda urls, cap: (LOG.append(("ig", len(urls), urls[0], cap[:20])) or ("m1", "https://instagram.com/p/x"))
 
 

@@ -41,6 +41,12 @@ def send_album(paths):
             f.close()
 
 
+def send_video(path, caption=""):
+    with open(path, "rb") as f:
+        return _api("sendVideo", files={"video": f}, chat_id=chat_id(), caption=caption[:1000],
+                    supports_streaming="true", width=1080, height=1920)
+
+
 def send_preview(post):
     send_album(post["files"])
     when = post["publish_at"][11:16]

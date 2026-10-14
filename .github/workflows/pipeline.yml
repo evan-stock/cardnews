@@ -63,7 +63,7 @@ jobs:
       - name: 브라우저·한글 폰트 설치 (카드 렌더링용)
         if: steps.pick.outputs.cmd == 'prepare'
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg
           python -m playwright install --with-deps chromium
 
       - name: 실행

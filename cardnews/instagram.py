@@ -49,6 +49,21 @@ def publish_carousel(image_urls, caption):
     return mid, link
 
 
+def publish_reel(video_url, caption, share_to_feed=False):
+    """9:16 mp4 를 릴스로 게시. share_to_feed=False 면 프로필 격자에는 안 나오고 릴스 탭에만 올라감."""
+    ig = env("IG_USER_ID")
+    cid = _req("POST", f"{ig}/media", media_type="REELS", video_url=video_url,
+               caption=caption[:2200], share_to_feed=share_to_feed)["id"]
+    _wait_ready(cid, tries=20)
+    mid = _req("POST", f"{ig}/media_publish", creation_id=cid)["id"]
+    link = ""
+    try:
+        link = _req("GET", mid, fields="permalink").get("permalink", "")
+    except Exception:
+        pass
+    return mid, link
+
+
 def refresh_token():
     """장기 토큰(60일) 갱신. 새 토큰 문자열 반환."""
     r = requests.get(f"{CFG['instagram']['api_host']}/refresh_access_token", timeout=60,
