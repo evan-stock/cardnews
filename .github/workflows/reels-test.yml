@@ -1,0 +1,27 @@
+name: reels-test
+on:
+  push:
+    branches: [reels-test]
+  workflow_dispatch:
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-cjk fonts-noto-cjk-extra
+      - run: pip install -q edge-tts pillow
+      - name: Render reels (female + male voice)
+        run: |
+          mkdir -p out
+          for f in reels/*.json; do
+            name=$(basename "$f" .json)
+            for v in ko-KR-SunHiNeural ko-KR-InJoonNeural; do
+              python3 -c "import json,sys;d=json.load(open('$f'));d['voice']='$v';json.dump(d,open('/tmp/s.json','w'),ensure_ascii=False)"
+              python3 -m cardnews.reels /tmp/s.json "out/${name}-${v}.mp4"
+            done
+          done
+          ls -la out
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reels
+          path: out/
