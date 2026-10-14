@@ -2,16 +2,27 @@
  {
   "id": "20261015-comedy",
   "slot": "lunch",
-  "mode": "collect",
-  "limit": 40,
+  "mode": "render",
   "topic": "2026 코미디 야생동물 사진상 결선작",
-  "image_pages": [
-   "https://www.popsci.com/environment/2026-comedy-wildlife-awards-finalists/",
-   "https://www.smithsonianmag.com/smart-news/see-the-hilarious-animal-shenanigans-captured-in-photos-and-videos-shortlisted-for-the-2026-nikon-comedy-wildlife-awards-180989600/",
-   "https://www.comedywildlifephoto.com/gallery/finalists/2026.php"
+  "category": "신기한 사진·동물",
+  "core": "112개국 1만여 장 중 뽑힌 2026 코미디 야생동물 사진상 결선작. 수상작은 12월 8일 발표.",
+  "risk": "사진 저작권은 각 작가 소유(Nikon Comedy Wildlife Awards). 결선작 공개는 10/1이라 2주 지난 소식",
+  "slides": [
+   {"t": "1만 장 중에 뽑힌\n올해 가장 '웃긴'\n동물 사진들", "b": ""},
+   {"t": "부엉이를 '태클'한 다람쥐", "sub": "미국 캘리포니아 · Kevin Lohman", "b": "나뭇가지에 앉은 부엉이를 밀어 떨어뜨리고, **같은 태클을 두 번 더** 했다고 합니다. 작품명은 \"장난해?\""},
+   {"t": "가족사진 전 '머리 검사'", "sub": "나미비아 · Subi Sridharan", "b": "다들 반듯하게 서 있는데, 미어캣 한 마리가 **옆 친구 털 상태를 점검**하는 듯한 순간."},
+   {"t": "입에 풀 한가득 '꼬마 고질라'", "sub": "독일 하노버 · Udo Harms", "b": "풀을 잔뜩 문 다람쥐가 두 팔을 번쩍. 작품명은 **\"리틀 고질라\"**."},
+   {"t": "\"조금만 더 빨랐더라면…\"", "sub": "노르웨이 스발바르 · Eric Boren", "b": "엎드린 북극곰이 바로 앞 **흰 갈매기를 노려보는** 장면. 잡을 수 있을 것 같은 눈빛입니다."},
+   {"t": "\"이게 내 '잘 나온' 쪽이야\"", "sub": "벨기에 아르덴 · Natalie Veekmans", "b": "카메라를 보며 **웃는 듯한 비버 두 마리**. 올해 결선에 오른 작품입니다."},
+   {"t": "생각나는 친구에게 보내주세요", "b": "팔로우하면 매일 화제 소식"}
   ],
+  "images": ["press01", "press06", "press08", "press05", "press10", "press02", "press01"],
+  "caption": "[1만 장 중에서 뽑힌 올해 가장 웃긴 동물 사진들]\n\n'2026 니콘 코미디 야생동물 사진상' 결선작이 공개됐습니다. 올해는 112개국에서 1만 장이 넘는 사진이 출품됐고, 그중 웃음이 터지는 순간을 담은 작품들이 결선에 올랐습니다.\n\n부엉이를 나뭇가지에서 밀어내고 같은 태클을 두 번 더 한 다람쥐, 친구 털 상태를 점검하는 미어캣, 풀을 한가득 문 '리틀 고질라' 다람쥐, 갈매기를 노려보는 북극곰, 카메라 앞에서 웃는 듯한 비버까지 다양합니다.\n\n최종 수상작은 12월 8일 발표됩니다. 이 대회는 웃긴 사진으로 야생동물 보호에 관심을 모으기 위해 시작됐습니다.\n\n여러분의 1등은 몇 번째 사진인가요? 댓글로 번호를 남겨주세요!\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아볼 수 있어요.",
+  "hashtags": ["코미디야생동물사진상", "웃긴동물", "동물사진", "다람쥐", "비버"],
   "sources": [
-   {"publisher": "Popular Science", "url": "https://www.popsci.com/environment/2026-comedy-wildlife-awards-finalists/", "date": "2026.10.01"}
-  ]
+   {"publisher": "Popular Science", "url": "https://www.popsci.com/environment/2026-comedy-wildlife-awards-finalists/", "date": "2026.10.01"},
+   {"publisher": "Smithsonian", "url": "https://www.smithsonianmag.com/smart-news/see-the-hilarious-animal-shenanigans-captured-in-photos-and-videos-shortlisted-for-the-2026-nikon-comedy-wildlife-awards-180989600/", "date": "2026.10"}
+  ],
+  "photo_credits": ["Kevin Lohman", "Subi Sridharan", "Udo Harms", "Eric Boren", "Natalie Veekmans / Nikon Comedy Wildlife Awards 2026"]
  }
 ]
