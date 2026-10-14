@@ -1,0 +1,19 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Bebas+Neue&family=DM+Serif+Display&family=Montserrat:wght@900&family=Poppins:wght@800&family=Space+Grotesk:wght@700&family=Syne:wght@800&display=block" rel="stylesheet">
+<style>
+body{margin:0;background:#1a1a1c;color:#fff;font-family:sans-serif;width:1680px}
+.grid{display:grid;grid-template-columns:repeat(4,420px);row-gap:20px;padding:30px 0}
+.cell{display:flex;flex-direction:column;align-items:center;gap:14px}
+.logo{width:340px;height:340px;border-radius:50%;background:#0E0E10;display:flex;flex-direction:column;align-items:center;justify-content:center;overflow:hidden}
+.dm{color:#fff;line-height:.9;position:relative}
+.dm i{display:inline-block;background:#FFD84D;border-radius:50%;margin-left:.06em}
+.w{color:#BDBDBD;margin-top:14px}
+.small{transform:scale(.265);transform-origin:top center;height:90px}
+.name{font-size:22px;font-weight:700}
+</style></head><body><div class="grid" id="g"></div>
+<script>
+const F=[['Anton','400',150,'.1em',38,'.42em'],['Bebas Neue','400',170,'.08em',40,'.45em'],['Archivo Black','400',128,'.1em',30,'.38em'],['Montserrat','900',130,'.1em',30,'.38em'],['Poppins','800',132,'.1em',30,'.36em'],['Space Grotesk','700',138,'.1em',30,'.4em'],['Syne','800',126,'.1em',30,'.36em'],['DM Serif Display','400',150,'.1em',32,'.3em']];
+const g=document.getElementById('g');
+F.forEach(([f,w,s,dot,ws,sp])=>{const html=`<div class="logo"><div class="dm" style="font-family:'${f}';font-weight:${w};font-size:${s}px">DM<i style="width:${dot};height:${dot}"></i></div><div class="w" style="font-family:'${f}';font-weight:${w};font-size:${ws}px;letter-spacing:${sp}">WORTHY</div></div>`;
+ g.insertAdjacentHTML('beforeend',`<div class="cell">${html}<div class="small">${html}</div><div class="name">${f}</div></div>`)});
+</script></body></html>
