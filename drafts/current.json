@@ -1,4 +1,89 @@
-[{"id":"20261014-naver1","slot":"evening","mode":"collect","limit":28,"slides":[],"sources":[],
-"image_pages":["https://n.news.naver.com/article/023/0004003618?sid=101","https://view.asiae.co.kr/article/2026072017421092795",
-"https://www.segye.com/newsView/20260720521564","https://www.hankyung.com/article/202607204998H","https://www.khan.co.kr/article/202607212122005/",
-"https://www.ytn.co.kr/_ln/0134_202607220909235153","https://www.sidae.com/article/2026072018292494240","https://www.kbmaeil.com/article/20260721500733"]}]
+[
+ {
+  "id": "20261014-naver1",
+  "slot": "evening",
+  "mode": "render",
+  "limit": 28,
+  "slides": [
+   {
+    "t": "대출 막은 대통령\n집은 '17억 외상'으로 팔았다",
+    "b": ""
+   },
+   {
+    "t": "분당 아파트 29억에 매도",
+    "b": "지난 7월 김혜경 여사와 공동명의로 갖고 있던 아파트를 팔아 무주택자가 됐다"
+   },
+   {
+    "t": "그런데 17억7700만원 근저당",
+    "b": "매수인들이 대통령 부부 앞으로 근저당을 설정. 잔금 전까지 돈을 빌려준 형태라는 해석이 나왔다"
+   },
+   {
+    "t": "야권 \"대출규제 우회 꼼수\"",
+    "b": "대출을 조인 대통령이 정작 본인 집은 사적 채무로 팔아 이익을 봤다는 비판이다"
+   },
+   {
+    "t": "국세청장 \"과세 대상 아냐\"",
+    "b": "13일 국감에서 \"언론에 공개된 자료로 검토했는데 과세 대상이 아니라고 보고받았다\""
+   },
+   {
+    "t": "\"똑같이 샀다가 세무조사\"",
+    "b": "이런 인터넷 글이 있다는 질의에 청장은 \"취득자가 어리거나 이유가 있지 않을까\"라고 답했다"
+   },
+   {
+    "t": "팔로우하고 먼저 받아보세요",
+    "b": "정치·경제 화제 소식"
+   }
+  ],
+  "sources": [
+   {
+    "publisher": "조선일보",
+    "url": "https://n.news.naver.com/article/023/0004003618?sid=101",
+    "date": "2026.10.13"
+   },
+   {
+    "publisher": "스마트투데이(연합뉴스 인용)",
+    "url": "https://www.smarttoday.co.kr/ko-kr/articles/109617",
+    "date": "2026.07.20"
+   }
+  ],
+  "image_pages": [
+   "https://n.news.naver.com/article/023/0004003618?sid=101",
+   "https://view.asiae.co.kr/article/2026072017421092795",
+   "https://www.segye.com/newsView/20260720521564",
+   "https://www.hankyung.com/article/202607204998H",
+   "https://www.khan.co.kr/article/202607212122005/",
+   "https://www.ytn.co.kr/_ln/0134_202607220909235153",
+   "https://www.sidae.com/article/2026072018292494240",
+   "https://www.kbmaeil.com/article/20260721500733"
+  ],
+  "topic": "국세청장 '李대통령 분당 아파트 거래 과세 대상 아냐'…17억 근저당 논란",
+  "category": "국내 정치·경제",
+  "core": "29억에 판 분당 아파트에 매수인 명의 17억7700만원 근저당을 잡아 '대출규제 우회' 비판을 받은 대통령 거래에 대해 국세청장이 과세 대상이 아니라고 답했다.",
+  "risk": "'외상'은 잔금 전 근저당 설정 구조를 쉽게 표현한 것. 야권 비판은 주장으로 표기",
+  "images": [
+   "press10",
+   "press03",
+   "https://raw.githubusercontent.com/evan-stock/cardnews/4c4cac2c888f97b3eddca3313be0d29b53de54a6/media/20261014-naver1/cand/press14.jpg",
+   "press08",
+   "https://raw.githubusercontent.com/evan-stock/cardnews/4c4cac2c888f97b3eddca3313be0d29b53de54a6/media/20261014-naver1/cand/press01.jpg",
+   "https://raw.githubusercontent.com/evan-stock/cardnews/4c4cac2c888f97b3eddca3313be0d29b53de54a6/media/20261014-naver1/cand/press10.jpg"
+  ],
+  "photo_credits": [
+   "경북매일",
+   "한국경제",
+   "조선일보",
+   "시대일보"
+  ],
+  "caption": "[대출 막은 대통령, 본인 집은 '17억 근저당' 거래…국세청장 \"과세 대상 아냐\"]\n\n이재명 대통령은 지난 7월 김혜경 여사와 공동명의로 보유하던 경기 성남시 분당구 아파트를 29억원에 팔았습니다. 그런데 매수인들이 대통령 부부 앞으로 17억7700만원의 근저당권을 설정한 사실이 등기부등본에서 확인됐습니다. 잔금을 치르기 전까지 매도인인 대통령 부부가 매수인에게 돈을 빌려준 형태라는 해석이 나왔습니다.\n\n야권은 \"대출 규제를 강화한 대통령이 사금융으로 대출 규제를 우회하는 편법으로 막대한 이익을 봤다\"고 비판해 왔습니다. 청와대는 매각 당시 시세보다 낮은 가격이었고, 부동산 정상화 정책의 실현 의지를 보여주는 조치라고 설명했습니다.\n\n13일 국세청 국정감사에서 국민의힘 배준영 의원이 \"국세청이 검증하겠다고 밝힌 고액 사인 간 채무 거래에 해당한다\"고 지적하자, 임광현 국세청장은 \"언론에 공개된 자료로 과세 여부를 검토했는데 대상이 아닌 것으로 보고받았다\"고 답했습니다. \"대통령과 같은 방식으로 집을 샀다가 서울청 조사3국의 조사를 받았다는 글이 있다\"는 질의에는 \"취득자의 연령이 어리거나 뭔가 이유가 있지 않을까 한다, 정확한 사실관계를 봐야 한다\"고 했습니다.\n\n대통령은 괜찮고 일반인은 조사? 여러분 생각은 어떠세요?\n\n팔로우하고 매일 화제 소식을 먼저 받아보세요!",
+  "hashtags": [
+   "이재명",
+   "분당아파트",
+   "근저당",
+   "대출규제",
+   "국세청",
+   "국정감사",
+   "부동산",
+   "오늘의쓸모"
+  ]
+ }
+]
