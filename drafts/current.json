@@ -3,7 +3,7 @@
   "id": "20261015-airfare",
   "slot": "lunch",
   "mode": "collect",
-  "limit": 30,
+  "limit": 40,
   "topic": "지방의원 국외출장 항공권 위·변조 405건",
   "image_pages": [
    "https://m.seoul.co.kr/news/2024/12/16/20241216500221",
@@ -11,11 +11,22 @@
    "https://news.mtn.co.kr/news-detail/2026091809275320484",
    "https://www.nocutnews.co.kr/news/6588497",
    "https://www.kyeongin.com/article/1751036",
-   "https://www.twig24.com/news/accident/2025/11/07/20251107500268"
+   "https://www.twig24.com/news/accident/2025/11/07/20251107500268",
+   "https://commons.wikimedia.org/wiki/Category:Business_class_cabins",
+   "https://commons.wikimedia.org/wiki/Category:Korean_Air_business_class",
+   "https://commons.wikimedia.org/wiki/Category:Asiana_Airlines_business_class"
   ],
   "sources": [
-   {"publisher": "서울신문", "url": "https://m.seoul.co.kr/news/2024/12/16/20241216500221", "date": "2024.12.16"},
-   {"publisher": "MTN", "url": "https://news.mtn.co.kr/news-detail/2026091809275320484", "date": "2026.09.18"}
+   {
+    "publisher": "서울신문",
+    "url": "https://m.seoul.co.kr/news/2024/12/16/20241216500221",
+    "date": "2024.12.16"
+   },
+   {
+    "publisher": "MTN",
+    "url": "https://news.mtn.co.kr/news-detail/2026091809275320484",
+    "date": "2026.09.18"
+   }
   ]
  }
 ]
