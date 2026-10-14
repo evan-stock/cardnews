@@ -15,14 +15,14 @@
     "b": "앞으로 **12~24개월은 상승하거나 횡보**할 것이라는 전망입니다. 다만 개인 전망이고, 보도에는 근거 데이터가 소개되지 않았습니다."
    },
    {
-    "t": "비트코인 1천달러 '뚝'",
-    "sub": "발표 직후 8만2,800달러",
-    "b": "13일 8만953달러에서 반등해 8만3천달러대를 지키던 비트코인은 발표 직후 **약 1천달러(1.2%) 떨어진 8만2,800달러**까지 밀렸습니다. 나스닥100 선물도 0.65% 내렸습니다."
-   },
-   {
     "t": "물가 '3.7%', 예상 넘었다",
     "sub": "미국 9월 소비자물가 발표",
     "b": "1년 전보다 **3.7%** 올라 예상(3.6%)과 지난달(3.4%)을 모두 넘었습니다. 변동이 큰 품목을 뺀 근원물가도 전월 대비 **0.3%**로, 0.2%로 둔화될 거란 예상이 빗나갔습니다."
+   },
+   {
+    "t": "비트코인 1천달러 '뚝'",
+    "sub": "발표 직후 8만2,800달러",
+    "b": "13일 8만953달러에서 반등해 8만3천달러대를 지키던 비트코인은 발표 직후 **약 1천달러(1.2%) 떨어진 8만2,800달러**까지 밀렸습니다. 나스닥100 선물도 0.65% 내렸습니다."
    },
    {
     "t": "10월 '금리 인상' 다시 거론",
@@ -73,8 +73,8 @@
   "images": [
    "https://raw.githubusercontent.com/evan-stock/cardnews/main/media/20261014-cointax/cand/press02.jpg",
    "press01",
-   "https://raw.githubusercontent.com/evan-stock/cardnews/main/media/20261014-cointax/cand/press06.jpg",
    "press02",
+   "https://raw.githubusercontent.com/evan-stock/cardnews/main/media/20261014-cointax/cand/press06.jpg",
    "press04",
    "https://raw.githubusercontent.com/evan-stock/cardnews/main/media/20261014-cointax/cand/press01.jpg"
   ],
