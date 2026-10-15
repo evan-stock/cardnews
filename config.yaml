@@ -49,7 +49,7 @@ reels:
 
 # 스토리: 카드뉴스 게시 직후 표지를 9:16 스토리로 자동 게시(API라 게시물 링크 스티커는 못 붙임)
 stories:
-  enabled: true
+  enabled: false        # 스토리는 앱에서 직접 공유(게시물 스티커가 붙어 눌러서 이동 가능)
   top_text: "새 게시물"
   bottom_text: "프로필에서 전체 보기"
 
