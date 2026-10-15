@@ -20,10 +20,7 @@ jobs:
           for u in $(python3 -c "import json;print('\n'.join(json.load(open('drafts/video.json'))['urls']))"); do
             i=$((i+1))
             case "$u" in
-              *download.gallery.brightcove.com*)
-                j=$(curl -sSL -A "Mozilla/5.0" "$u" 2>&1 || true); echo "$u => ${j:0:600}" >> media/$id/video/log.txt
-                m=$(echo "$j" | python3 -c "import sys,json;print(json.load(sys.stdin).get('url',''))" 2>/dev/null || true)
-                if [ -n "$m" ]; then curl -sSL -A "Mozilla/5.0" -o media/$id/video/v$i.mp4 "$m" || true; fi ;;
+              *download.gallery.brightcove.com*) curl -sSL -A "Mozilla/5.0" -o media/$id/video/v$i.mp4 "$u" || true ;;
               *.mp4*) curl -sSL -A "Mozilla/5.0" -o media/$id/video/v$i.mp4 "$u" || true ;;
               *) yt-dlp -q --no-playlist -f "bv*[height<=1080]+ba/b" --merge-output-format mp4 -o "media/$id/video/v$i.%(ext)s" "$u" || echo "실패: $u" ;;
             esac
