@@ -1,0 +1,31 @@
+name: fetch-video
+# drafts/video.json 의 영상 주소(기사 mp4, X, 유튜브, 틱톡)를 내려받아 media/<id>/video/ 에 저장
+on:
+  push:
+    paths: ["drafts/video.json"]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install -y -qq ffmpeg && pip install -q yt-dlp
+      - name: download
+        run: |
+          id=$(python3 -c "import json;print(json.load(open('drafts/video.json'))['id'])")
+          mkdir -p media/$id/video
+          i=0
+          for u in $(python3 -c "import json;print('\n'.join(json.load(open('drafts/video.json'))['urls']))"); do
+            i=$((i+1))
+            case "$u" in
+              *.mp4*) curl -sSL -A "Mozilla/5.0" -o media/$id/video/v$i.mp4 "$u" || true ;;
+              *) yt-dlp -q --no-playlist -f "bv*[height<=1080]+ba/b" --merge-output-format mp4 -o "media/$id/video/v$i.%(ext)s" "$u" || echo "실패: $u" ;;
+            esac
+          done
+          for f in media/$id/video/*; do echo "$f"; ffprobe -v error -select_streams v:0 -show_entries stream=width,height:format=duration -of csv=p=0 "$f" || true; done
+          find media/$id/video -size +60M -delete
+      - run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          git add -A media
+          git diff --cached --quiet || (git commit -m "video: fetch" && git pull --rebase && git push)

@@ -1,9 +1,83 @@
-[{"id":"20261015-vidscan","slot":"evening","mode":"collect","limit":1,"image_pages":[],"sources":[],
-"read_pages":["https://www.adn40.mx/es-tendencia/2026-10-11/regreso-de-la-muerte-adolescente-despierta-en-su-ataud-durante-su-propio-velorio-en-guatemala-video/",
-"https://www.unotv.com/virales/video-se-viraliza-joven-que-supuestamente-desperto-en-su-ataud/",
-"https://www.bluradio.com/mundo/adolescente-desperto-dentro-de-su-ataud-durante-su-velorio-tras-creerla-muerta-todo-quedo-en-video-rs15",
-"https://www.latribuna.hn/2026/10/11/joven-despierta-dentro-de-su-ataud-en-pleno-velorio-en-guatemala-video/",
-"https://www.tunota.com/mundo/joven-despierta-en-pleno-velorio-en-guatemala-2026-10-11",
-"https://www.elimparcial.com/locurioso/2026/10/11/joven-despierta-dentro-de-su-ataud-durante-su-velorio-en-guatemala-el-caso-genera-conmocion/",
-"https://thenightly.com.au/world/miracle-shocking-moment-teen-sits-up-from-her-coffin-during-funeral-eight-hours-after-being-declared-dead-c-23011506",
-"https://dnyuz.com/2026/10/13/teen-wakes-up-in-coffin-at-her-own-funeral-shocking-mourners/"]}]
+[
+ {
+  "id": "20261015-coffin",
+  "slot": "evening",
+  "mode": "render",
+  "topic": "과테말라 15세 소녀, 의사 확인 없이 관에 눕혀졌다 장례 도중 깨어나",
+  "category": "해외 황당 사연",
+  "core": "가슴 통증으로 쓰러진 딸을 아버지가 숨진 줄 알고 의사 확인 없이 관에 눕혔는데, 약 8시간 뒤 장례 도중 깨어났다.",
+  "risk": "8시간은 현지 보도 기준. 원인(강경증 등)은 확인되지 않음. 미성년자라 실명 미기재. 사진은 현지 SNS 영상 캡처",
+  "slides": [
+   {
+    "t": "의사 확인도 없이\n'관'에 넣은 15세 딸\n8시간 만에 깨어났다",
+    "b": ""
+   },
+   {
+    "t": "장례 도중 '관'이 움직였다",
+    "sub": "관 창문을 열자 딸이 일어나 앉았다",
+    "b": "10일 과테말라 키체주의 한 시골 마을. 관 옆에서 울던 **어머니가 딸이 움직이는 걸 발견**했고, 관 창문을 열자 15세 소녀가 몸을 일으켰습니다."
+   },
+   {
+    "t": "새벽 2시 반 '가슴 통증'",
+    "sub": "병원 가던 차 안에서 쓰러졌다",
+    "b": "소녀는 새벽 왼쪽 가슴에 심한 통증을 호소했고, 목사인 아버지가 차로 병원에 데려가던 중 정신을 잃었습니다. 아버지는 **\"숨을 안 쉬는 걸 봤다\"**고 말했어요."
+   },
+   {
+    "t": "병원 대신 '장례식장'으로",
+    "sub": "의사는 한 번도 보지 않았다",
+    "b": "손목 맥박이 잡히지 않자 아버지는 딸이 숨졌다고 판단했습니다. 병원에 가지 않고 **장례식장에서 관을 구해** 집으로 돌아왔고, 사망을 확인한 의사나 의료 기록은 없었어요."
+   },
+   {
+    "t": "\"심장이 너무 아팠어요\"",
+    "sub": "깨어난 소녀의 말",
+    "b": "소녀는 현지 방송 인터뷰에서 **\"가슴이 너무 아프고 무거웠는데, 그대로 기절한 것 같다\"**고 말했습니다. 가족은 '기적'이라고 했고, 소녀는 의식을 되찾아 회복 중인 것으로 전해졌어요."
+   },
+   {
+    "t": "'가짜 죽음'은 왜 생길까",
+    "sub": "전문가들은 '강경증' 가능성 언급",
+    "b": "현지 매체가 인용한 전문가들은 이런 '가사(假死) 상태'가 **강경증(카탈렙시)** 같은 증상과 관련이 있을 수 있다고 설명했습니다. 다만 이번 일의 원인은 공식적으로 밝혀지지 않았어요."
+   },
+   {
+    "t": "생각나는 친구에게 보내주세요",
+    "b": "팔로우하면 매일 화제 소식"
+   }
+  ],
+  "images": [
+   "press10_L",
+   "press12_L",
+   "press01_L",
+   "coffin4",
+   "press12_R",
+   "press11_R",
+   "press10_L"
+  ],
+  "caption": "[의사 확인도 없이 관에 눕혔던 15세 딸, 8시간 만에 깨어났다]\n\n10일(현지시간) 과테말라 키체주 사카풀라스의 한 시골 마을에서 장례가 치러지던 15세 소녀가 관 속에서 깨어났습니다. 관 옆에서 울던 어머니가 딸이 움직이는 것을 발견했고, 관 창문을 열자 소녀가 몸을 일으켰습니다. 이 장면이 담긴 영상은 SNS에서 빠르게 퍼졌습니다.\n\n소녀는 이날 새벽 2시 30분쯤 왼쪽 가슴에 심한 통증을 호소했고, 목사인 아버지가 차로 병원에 데려가던 중 정신을 잃었습니다. 아버지는 숨을 쉬지 않고 손목 맥박도 잡히지 않자 딸이 숨졌다고 판단했고, 병원 대신 장례식장에서 관을 구해 집으로 돌아왔습니다. 사망을 확인한 의사나 의료 기록은 없었습니다. 현지 보도에 따르면 소녀는 약 8시간 동안 숨진 것으로 여겨졌습니다.\n\n소녀는 현지 방송 인터뷰에서 \"가슴이 너무 아프고 무거웠는데, 그대로 기절한 것 같다\"고 말했습니다. 전문가들은 이런 '가사 상태'가 강경증 같은 증상과 관련 있을 수 있다고 설명했지만, 이번 일의 원인은 공식적으로 밝혀지지 않았습니다.\n\n여러분은 이 일, '기적' vs '큰일 날 뻔한 실수'?\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아볼 수 있어요.",
+  "hashtags": [
+   "과테말라",
+   "해외토픽",
+   "관",
+   "기적",
+   "해외이슈"
+  ],
+  "sources": [
+   {
+    "publisher": "IBTimes UK",
+    "url": "https://www.ibtimes.co.uk/guatemalan-girl-wakes-inside-coffin-during-wake-1825147",
+    "date": "2026.10.12"
+   },
+   {
+    "publisher": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/mundo/2026/10/12/despierta-en-un-ataud-durante-su-velorio-su-papa-relata-como-la-dieron-por-muerta-video.html",
+    "date": "2026.10.12"
+   },
+   {
+    "publisher": "Blu Radio",
+    "url": "https://www.bluradio.com/mundo/habla-adolescente-que-desperto-en-su-funeral-tras-creearla-muerta-me-empezo-a-doler-el-corazon-rs15",
+    "date": "2026.10"
+   }
+  ],
+  "photo_credits": [
+   "현지 SNS 영상 캡처(Noticias Caracol, La Kalle, Publimetro)"
+  ]
+ }
+]
