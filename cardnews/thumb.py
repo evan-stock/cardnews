@@ -10,7 +10,7 @@ from .common import CFG, MEDIA, ROOT
 def make(d):
     base = MEDIA / d["id"]
     img = base64.b64encode(open(base / d["img"], "rb").read()).decode()
-    lines = [html.escape(x) for x in d["t"].split("\n")]
+    lines = [html.escape(x, quote=False) for x in d["t"].split("\n")]
     title = "<br>".join(re.sub(r"'([^']+)'", r"<em>\1</em>", x) for x in lines)
     out = base / d.get("out", "reel_cover.jpg")
     with sync_playwright() as p:
