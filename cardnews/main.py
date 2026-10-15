@@ -231,11 +231,30 @@ def tick():
             tg.send_text(f"⌛ 승인 시간이 지나 게시하지 않았어요: {p['topic']}")
 
 
+def sync_repo():
+    """GitHub Actions에서: 로컬 상태 변경을 커밋하고 최신 main을 받아온 뒤 올린다."""
+    if not os.environ.get("GITHUB_ACTIONS"):
+        return
+    import subprocess
+    run = lambda *a: subprocess.run(list(a), cwd=str(MEDIA.parent), capture_output=True, text=True)
+    run("git", "add", "-A", "state", "media")
+    if run("git", "diff", "--cached", "--quiet").returncode != 0:
+        run("git", "-c", "user.name=cardnews-bot", "-c", "user.email=cardnews-bot@users.noreply.github.com",
+            "commit", "-m", f"cardnews: watch sync {now():%H%M}")
+    r = run("git", "pull", "--rebase", "--autostash", "origin", os.environ.get("GITHUB_REF_NAME", "main"))
+    if r.returncode != 0:
+        print("동기화 실패:", r.stderr[-300:])
+        run("git", "rebase", "--abort")
+        return
+    run("git", "push")
+
+
 def watch(hours=6):
     """GitHub 예약 실행이 자주 밀려서, 대기 중인 게시물이 끝날 때까지 1분마다 직접 확인한다."""
     import time
     end = now() + dt.timedelta(hours=hours)
     while now() < end:
+        sync_repo()  # 채팅에서 바꾼 예약·새 게시물을 실행 중에도 반영
         try:
             tick()
         except Exception:
