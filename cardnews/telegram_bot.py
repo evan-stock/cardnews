@@ -41,6 +41,11 @@ def send_album(paths):
             f.close()
 
 
+def send_photo(path, caption=""):
+    with open(path, "rb") as f:
+        return _api("sendPhoto", files={"photo": f}, chat_id=chat_id(), caption=caption[:1000])
+
+
 def send_video(path, caption=""):
     with open(path, "rb") as f:
         return _api("sendVideo", files={"video": f}, chat_id=chat_id(), caption=caption[:1000],

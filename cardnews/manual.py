@@ -112,24 +112,12 @@ def build_reel(d, base, send):
              v.get("x", 0.5), v.get("y", 0.5), keep_audio=v.get("audio", True))
     if not send:
         return
-    pid, slot = d["id"], d.get("slot", "lunch")
-    credits = list(dict.fromkeys(d.get("photo_credits", [])))
-    post = {"id": pid, "slot": slot, "slot_label": SLOT_LABEL.get(slot, slot), "status": "pending", "format": "reel",
-            "created_at": now().isoformat(), "publish_at": slot_time(slot).isoformat(),
-            "topic": d["topic"], "category": d.get("category", ""), "core": d.get("core", ""),
-            "risk": d.get("risk", ""), "sources": d["sources"], "slides": [],
-            "caption_full": build_caption(d, credits), "credits": credits, "manual": True,
-            "files": [os.path.relpath(out, ROOT)], "cover": os.path.relpath(str(cover), ROOT)}
+    # 릴스는 자동 업로드하지 않는다(업로드 후엔 음악을 넣을 수 없어서). 텔레그램으로 재료만 보낸다.
     from . import telegram_bot as tg
-    tg.send_video(out, f"🎬 [릴스 미리보기] {d['topic']}")
-    post["tg_msg"] = tg.send_preview({**post, "files": [str(cover)]})
-    if d.get("publish_now"):
-        post.update(status="approved", publish_at=now().isoformat(), decided_at=now().isoformat())
-    elif d.get("publish_at"):
-        post.update(publish_at=d["publish_at"])
-        if d.get("approved"):
-            post.update(status="approved", decided_at=now().isoformat())
-    save_post(post)
+    credits = list(dict.fromkeys(d.get("photo_credits", [])))
+    tg.send_video(out, f"🎬 릴스 영상: {d['topic']}\n저장 → 인스타 앱에서 음악 넣고 업로드")
+    tg.send_photo(str(cover), "🖼 릴스 커버: '커버 수정 → 카메라 롤에서 추가'로 넣기")
+    tg.send_text(build_caption(d, credits))  # 본문만 단독 메시지(길게 눌러 복사)
 
 
 def build(d, base, send):
