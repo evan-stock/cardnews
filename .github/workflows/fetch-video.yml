@@ -22,7 +22,7 @@ jobs:
             case "$u" in
               *download.gallery.brightcove.com*) curl -sSL -A "Mozilla/5.0" -o media/$id/video/v$i.mp4 "$u" || true ;;
               *.mp4*) curl -sSL -A "Mozilla/5.0" -o media/$id/video/v$i.mp4 "$u" || true ;;
-              *) yt-dlp -q --no-playlist -f "$(python3 -c "import json;print(json.load(open('drafts/video.json')).get('format','bv*[height<=1080]+ba/b'))")" --merge-output-format mp4 -o "media/$id/video/v$i.%(ext)s" "$u" || echo "실패: $u" ;;
+              *) yt-dlp -q --no-playlist -f "$(python3 -c "import json;print(json.load(open('drafts/video.json')).get('format','bv*[height<=1080]+ba/b'))")" --merge-output-format mp4 -o "media/$id/video/v$i.%(ext)s" "$u" 2>>media/$id/video/log.txt || echo "실패: $u" >> media/$id/video/log.txt ;;
             esac
           done
           for f in media/$id/video/*; do echo "$f"; ffprobe -v error -select_streams v:0 -show_entries stream=width,height:format=duration -of csv=p=0 "$f" || true; done
