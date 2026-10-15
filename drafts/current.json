@@ -85,6 +85,7 @@
   "photo_credits": [
    "애니메이션 '치이카와' ⓒnagano / chiikawa committee"
   ],
-  "publish_now": true
+  "publish_now": true,
+  "retry": 1
  }
 ]

@@ -31,6 +31,18 @@ def _wait_ready(cid, tries=10):
     raise RuntimeError(f"컨테이너 {cid} 준비 시간 초과")
 
 
+def _publish(cid, tries=6):
+    """media_publish. '아직 준비 안 됨'(2207027) 오류는 잠시 뒤 다시 시도."""
+    ig = env("IG_USER_ID")
+    for k in range(tries):
+        try:
+            return _req("POST", f"{ig}/media_publish", creation_id=cid)["id"]
+        except RuntimeError as e:
+            if "2207027" not in str(e) or k == tries - 1:
+                raise
+            time.sleep(20)
+
+
 def publish_carousel(image_urls, caption):
     ig = env("IG_USER_ID")
     children = []
@@ -40,7 +52,8 @@ def publish_carousel(image_urls, caption):
         _wait_ready(c)
     car = _req("POST", f"{ig}/media", media_type="CAROUSEL", children=",".join(children), caption=caption[:2200])["id"]
     _wait_ready(car)
-    mid = _req("POST", f"{ig}/media_publish", creation_id=car)["id"]
+    time.sleep(10)
+    mid = _publish(car)
     link = ""
     try:
         link = _req("GET", mid, fields="permalink").get("permalink", "")
@@ -55,7 +68,7 @@ def publish_reel(video_url, caption, share_to_feed=False):
     cid = _req("POST", f"{ig}/media", media_type="REELS", video_url=video_url,
                caption=caption[:2200], share_to_feed=share_to_feed)["id"]
     _wait_ready(cid, tries=20)
-    mid = _req("POST", f"{ig}/media_publish", creation_id=cid)["id"]
+    mid = _publish(cid)
     link = ""
     try:
         link = _req("GET", mid, fields="permalink").get("permalink", "")
