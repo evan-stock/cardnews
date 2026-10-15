@@ -44,7 +44,7 @@ reels:
   enabled: true
   mode: telegram        # auto | telegram (telegram: 영상만 텔레그램으로 보내고 업로드는 직접)
   share_to_feed: false  # false: 프로필 격자에 표지가 두 번 안 보이게 릴스 탭에만
-  first_card: 2.5       # 표지 노출 초
+  first_card: 2.0       # 표지 노출 초
   per_card: 3.0         # 나머지 카드 한 장당 초
 
 instagram:

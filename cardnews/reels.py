@@ -186,11 +186,11 @@ def cover_reel(card_jpg, out, seconds=8, hint="전체 이야기는 프로필 게
     return out
 
 
-def cards_reel(card_jpgs, out, per=3.0, first=2.5, fade=0.35):
+def cards_reel(card_jpgs, out, per=3.0, first=2.0, fade=0):
     """카드뉴스 전체를 자동으로 넘기는 9:16 무음 릴스.
 
     - 카드(4:5)는 잘림 없이 화면 가운데, 위아래 빈칸은 그 카드를 흐리게 채움
-    - 표지는 first초, 나머지는 per초씩. 장이 바뀔 때 fade초 동안 부드럽게 겹침
+    - 표지는 first초, 나머지는 per초씩. 장은 바로 넘어감(fade>0이면 겹침 전환)
     - 음악은 인스타 앱에서 추가
     """
     top = (H - 1350) // 2
