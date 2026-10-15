@@ -46,7 +46,7 @@ def make_reel(files, workdir):
         from .reels import cards_reel
         out = os.path.join(str(workdir), "reel.mp4")
         rc = CFG["reels"]
-        cards_reel(list(files), out, per=rc.get("per_card", 3.0), first=rc.get("first_card", 3.5))
+        cards_reel(list(files), out, per=rc.get("per_card", 3.0), first=rc.get("first_card", 2.5))
         return out
     except Exception:
         traceback.print_exc()
