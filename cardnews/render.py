@@ -18,9 +18,14 @@ def _prep(path):
         im = Image.open(path).convert("RGB")
     except Exception:
         return path
-    if max(W / im.width, H / im.height) <= 1.4:
-        return path
     s = max(W / im.width, H / im.height)
+    if s <= 1.4:
+        return path
+    if im.width / im.height <= 1.0 and s <= 2.2:
+        # 세로에 가까운 사진은 꽉 채우는 게 낫다(살짝 선명하게만)
+        out = path.rsplit(".", 1)[0] + "_sharp.jpg"
+        im.filter(ImageFilter.UnsharpMask(radius=2, percent=70, threshold=3)).save(out, quality=95)
+        return out
     bg = im.resize((int(im.width * s) + 1, int(im.height * s) + 1)).filter(ImageFilter.GaussianBlur(45))
     x, y = (bg.width - W) // 2, (bg.height - H) // 2
     bg = Image.blend(bg.crop((x, y, x + W, y + H)), Image.new("RGB", (W, H), (0, 0, 0)), 0.35)
