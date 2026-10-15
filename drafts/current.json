@@ -3,8 +3,9 @@
   "id": "20261016-lunch",
   "slot": "lunch",
   "mode": "collect",
-  "topic": "naver 119/0003143164",
-  "image_pages": ["https://n.news.naver.com/article/119/0003143164"],
-  "read_pages": ["https://n.news.naver.com/article/119/0003143164"]
+  "topic": "외국인 노동자 에어건 사업주 징역 3년",
+  "image_pages": ["https://n.news.naver.com/article/119/0003143164","https://www.segye.com/newsView/20260429505707","https://www.khan.co.kr/article/202604230916001/","https://www.ytn.co.kr/_ln/0103_202607081729247090","https://mobile.newsis.com/view/NISX20260709_0003702458","https://www.nocutnews.co.kr/news/6509757","https://kyeonggi.com/article/20260423580040","https://kyeonggi.com/article/20260709580481"],
+  "read_pages": ["https://www.khan.co.kr/article/202604230916001/","https://www.segye.com/newsView/20260429505707"],
+  "limit": 30
  }
 ]
