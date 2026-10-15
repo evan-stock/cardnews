@@ -100,12 +100,20 @@ def build(d, base, send):
         slides.append(s)
     if slides and not slides[-1]["image"]:
         slides[-1]["image"] = slides[0]["image"]  # 팔로우 카드는 표지 사진 재사용
-    for f in glob.glob(str(base / "[0-9][0-9].jpg")):
+    for f in glob.glob(str(base / "[0-9][0-9].jpg")) + glob.glob(str(base / "[0-9][0-9].mp4")):
         os.remove(f)
-    files = render(slides, str(base))
+    vids = {k: s["video"] for k, s in enumerate(d["slides"]) if s.get("video")}
+    files = render(slides, str(base), overlays=list(vids))
     from .main import make_reel, make_story
-    make_reel(files, base)
+    make_reel(files, base)   # 릴스·스토리는 카드 이미지(jpg)로
     make_story(files, base)
+    if vids:
+        from .video import video_slide
+        for k, v in vids.items():  # 영상 장: 원본 영상 위에 같은 글자를 얹은 mp4로 교체
+            out = str(base / f"{k + 1:02d}.mp4")
+            video_slide(str(base / v["src"]), str(base / f"{k + 1:02d}_overlay.png"), out,
+                        v.get("start", 0), v.get("dur", 10), v.get("x", 0.5), v.get("y", 0.5))
+            files[k] = out
     if not send:
         return
     pid, slot = d["id"], d.get("slot", "lunch")

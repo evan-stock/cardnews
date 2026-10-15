@@ -71,7 +71,7 @@ def make_reel(files, workdir):
         from .reels import cards_reel
         out = os.path.join(str(workdir), "reel.mp4")
         rc = CFG["reels"]
-        cards_reel(list(files), out, per=rc.get("per_card", 3.0), first=rc.get("first_card", 2.0))
+        cards_reel([f[:-4] + ".jpg" if f.endswith(".mp4") else f for f in files], out, per=rc.get("per_card", 3.0), first=rc.get("first_card", 2.0))
         return out
     except Exception:
         traceback.print_exc()

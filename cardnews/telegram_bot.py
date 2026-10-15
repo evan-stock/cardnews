@@ -33,7 +33,7 @@ def send_album(paths):
     for i, p in enumerate(paths[:10]):
         key = f"f{i}"
         files[key] = open(p, "rb")
-        media.append({"type": "photo", "media": f"attach://{key}"})
+        media.append({"type": "video" if str(p).lower().endswith(".mp4") else "photo", "media": f"attach://{key}"})
     try:
         return _api("sendMediaGroup", files=files, chat_id=chat_id(), media=json.dumps(media))
     finally:

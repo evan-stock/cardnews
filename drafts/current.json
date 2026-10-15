@@ -10,7 +10,13 @@
   "slides": [
    {
     "t": "의사 확인도 없이\n'관'에 넣은 15세 딸\n8시간 만에 깨어났다",
-    "b": ""
+    "b": "",
+    "video": {
+     "src": "video/v4.mp4",
+     "start": 0,
+     "dur": 14,
+     "y": 0.15
+    }
    },
    {
     "t": "장례 도중 '관'이 움직였다",
@@ -77,7 +83,10 @@
    }
   ],
   "photo_credits": [
-   "현지 SNS 영상 캡처(Noticias Caracol, La Kalle, Publimetro)"
+   "현지 SNS 영상(X @Anxiousvids 외)",
+   "Noticias Caracol",
+   "La Kalle",
+   "Publimetro"
   ]
  }
 ]

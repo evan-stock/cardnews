@@ -107,7 +107,7 @@ function draw(cv,i){const c=cv.getContext('2d'),s=S[i],n=S.length,base=COL[st.co
    c.font='700 44px '+F;c.fillStyle='#fff';c.textAlign='left';const ls=wrap(c,s.b,M);ls.forEach((l,k)=>c.fillText(l,P,H-235-(ls.length-1-k)*62))}
   return}let tt=null,fg='#fff',sub='rgba(255,255,255,.82)',dark=light?'#262626':base;
  if(st.sty==='photo'||st.sty==='bold'){
-  if(im)fit(c,im,0,0,W,H);else{const g=c.createLinearGradient(0,0,W,H);g.addColorStop(0,dark);g.addColorStop(1,'#0c0c0c');c.fillStyle=g;c.fillRect(0,0,W,H)}
+  if(im)fit(c,im,0,0,W,H);else if(s.clear){}else{const g=c.createLinearGradient(0,0,W,H);g.addColorStop(0,dark);g.addColorStop(1,'#0c0c0c');c.fillStyle=g;c.fillRect(0,0,W,H)}
   if(st.sty==='photo'){const g=c.createLinearGradient(0,H*.22,0,H);g.addColorStop(0,'rgba(0,0,0,0)');g.addColorStop(.42,'rgba(0,0,0,.6)');g.addColorStop(1,'rgba(0,0,0,.93)');c.fillStyle=g;c.fillRect(0,H*.22,W,H*.78);const t2=c.createLinearGradient(0,0,0,H*.3);t2.addColorStop(0,'rgba(0,0,0,.4)');t2.addColorStop(1,'rgba(0,0,0,0)');c.fillStyle=t2;c.fillRect(0,0,W,H*.3);
    if(!first&&(s.sub||String(s.b||'').length>70)){const g3=c.createLinearGradient(0,H*.3,0,H);g3.addColorStop(0,'rgba(0,0,0,0)');g3.addColorStop(.35,'rgba(0,0,0,.55)');g3.addColorStop(1,'rgba(0,0,0,.9)');c.fillStyle=g3;c.fillRect(0,H*.3,W,H*.7);infoBlock(c,s,{x:P,y:H-175,ts:66,max:M})}
    else tt=block(c,s,{x:P,y:H-170,mode:'bottom',al:'left',fg,sub,ts,max:M})}

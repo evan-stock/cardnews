@@ -1,0 +1,15 @@
+"""영상 장 만들기: 원본 영상을 4:5(1080x1350)로 자르고 카드 글자(투명 PNG)를 얹은 mp4."""
+import subprocess
+
+
+def video_slide(src, overlay_png, out, start=0.0, dur=10.0, crop_x=0.5, crop_y=0.5):
+    """crop_x/crop_y: 4:5로 자를 때 기준 위치(0=왼쪽/위, 0.5=가운데, 1=오른쪽/아래)."""
+    vf = (f"[0:v]scale='if(gt(a,0.8),-2,1080)':'if(gt(a,0.8),1350,-2)',"
+          f"crop=1080:1350:(in_w-1080)*{crop_x}:(in_h-1350)*{crop_y},"
+          f"unsharp=5:5:0.6,fps=30,format=yuv420p[v];[v][1:v]overlay=0:0[o]")
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(start), "-t", str(dur), "-i", src,
+                    "-i", overlay_png, "-f", "lavfi", "-t", str(dur), "-i", "anullsrc=r=44100:cl=stereo",
+                    "-filter_complex", vf, "-map", "[o]", "-map", "2:a", "-shortest",
+                    "-c:v", "libx264", "-profile:v", "high", "-pix_fmt", "yuv420p", "-crf", "20",
+                    "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", out], check=True)
+    return out

@@ -43,7 +43,8 @@ def _data_url(path):
     return f"data:image/{ext};base64," + base64.b64encode(open(path, "rb").read()).decode()
 
 
-def render(slides, outdir, sty=None, col=None):
+def render(slides, outdir, sty=None, col=None, overlays=()):
+    """overlays: 영상 장의 인덱스들. 그 장은 사진 없이 글자·그라데이션만 담은 투명 PNG(NN_overlay.png)도 만든다."""
     os.makedirs(outdir, exist_ok=True)
     payload = {
         "sty": sty or CFG["style"]["sty"], "col": CFG["style"]["col"] if col is None else col,
@@ -73,6 +74,9 @@ def render(slides, outdir, sty=None, col=None):
             fp = os.path.join(outdir, f"{i + 1:02d}.jpg")
             open(fp, "wb").write(base64.b64decode(url.split(",", 1)[1]))
             files.append(fp)
+        for i in overlays:
+            url = pg.evaluate("(i)=>{const s=S[i],keep=s.img;s.img=null;s.clear=true;const cv=document.createElement('canvas');draw(cv,i);s.img=keep;s.clear=false;return cv.toDataURL('image/png')}", i)
+            open(os.path.join(outdir, f"{i + 1:02d}_overlay.png"), "wb").write(base64.b64decode(url.split(",", 1)[1]))
         b.close()
     if errs:
         raise RuntimeError("렌더링 오류: " + "; ".join(errs))

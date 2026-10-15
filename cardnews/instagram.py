@@ -47,7 +47,10 @@ def publish_carousel(image_urls, caption):
     ig = env("IG_USER_ID")
     children = []
     for u in image_urls[:10]:
-        children.append(_req("POST", f"{ig}/media", image_url=u, is_carousel_item=True)["id"])
+        if u.lower().endswith(".mp4"):
+            children.append(_req("POST", f"{ig}/media", media_type="VIDEO", video_url=u, is_carousel_item=True)["id"])
+        else:
+            children.append(_req("POST", f"{ig}/media", image_url=u, is_carousel_item=True)["id"])
     for c in children:
         _wait_ready(c)
     car = _req("POST", f"{ig}/media", media_type="CAROUSEL", children=",".join(children), caption=caption[:2200])["id"]
