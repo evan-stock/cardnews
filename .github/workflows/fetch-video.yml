@@ -22,10 +22,20 @@ jobs:
             case "$u" in
               *download.gallery.brightcove.com*) curl -sSL -A "Mozilla/5.0" -o media/$id/video/v$i.mp4 "$u" || true ;;
               *.mp4*) curl -sSL -A "Mozilla/5.0" -o media/$id/video/v$i.mp4 "$u" || true ;;
-              *) yt-dlp -q --no-playlist -f "bv*[height<=1080]+ba/b" --merge-output-format mp4 -o "media/$id/video/v$i.%(ext)s" "$u" || echo "실패: $u" ;;
+              *) yt-dlp -q --no-playlist -f "$(python3 -c "import json;print(json.load(open('drafts/video.json')).get('format','bv*[height<=1080]+ba/b'))")" --merge-output-format mp4 -o "media/$id/video/v$i.%(ext)s" "$u" || echo "실패: $u" ;;
             esac
           done
           for f in media/$id/video/*; do echo "$f"; ffprobe -v error -select_streams v:0 -show_entries stream=width,height:format=duration -of csv=p=0 "$f" || true; done
+          fr=$(python3 -c "import json;print(json.load(open('drafts/video.json')).get('frames',0))")
+          if [ "$fr" != "0" ]; then
+            mkdir -p media/$id/frames
+            for f in media/$id/video/v*.mp4; do
+              b=$(basename $f .mp4)
+              ffmpeg -loglevel error -i "$f" -vf "fps=1/$fr,scale=1280:-2" -q:v 3 media/$id/frames/${b}_%04d.jpg || true
+              ffmpeg -loglevel error -i "$f" -vf "fps=1/$fr,scale=320:-2,drawtext=text='%{pts\:hms}':x=4:y=4:fontcolor=yellow:fontsize=18:box=1:boxcolor=black@0.5,tile=6x10" -q:v 4 media/$id/frames/${b}_sheet_%02d.jpg || true
+            done
+            rm -f media/$id/video/*.mp4
+          fi
           find media/$id/video -size +60M -delete
       - if: always()
         run: |
