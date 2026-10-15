@@ -22,7 +22,11 @@ def make(d):
                     {"img": "data:image/jpeg;base64," + img, "t": title, "sub": d.get("sub", ""), "tag": d.get("tag", ""),
                      "hd": CFG["brand"]["handle"].lstrip("@").upper()})
         pg.evaluate("async()=>{await document.fonts.ready; await new Promise(r=>setTimeout(r,500))}")
-        pg.locator("#c").screenshot(path=str(out), type="jpeg", quality=93)
+        if d.get("overlay"):  # 영상에 얹을 투명 PNG(사진 없이 글자·그림자만)
+            pg.evaluate("()=>{document.getElementById('bg').remove();document.body.style.background='transparent';document.getElementById('c').style.background='transparent'}")
+            pg.locator("#c").screenshot(path=str(out), type="png", omit_background=True)
+        else:
+            pg.locator("#c").screenshot(path=str(out), type="jpeg", quality=93)
         b.close()
     return out
 
