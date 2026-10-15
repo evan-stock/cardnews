@@ -2,7 +2,7 @@
  "id": "20261015-coffin",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-15T17:59:05.096042+09:00",
  "publish_at": "2026-10-15T18:00:00+09:00",
  "topic": "과테말라 15세 소녀, 의사 확인 없이 관에 눕혀졌다 장례 도중 깨어나",
@@ -79,5 +79,8 @@
   "media/20261015-coffin/08.jpg"
  ],
  "tg_msg": 167,
- "decided_at": "2026-10-15T17:59:09.648753+09:00"
+ "decided_at": "2026-10-15T17:59:09.648753+09:00",
+ "ig_media_id": "18595085257064196",
+ "permalink": "https://www.instagram.com/p/DegmrQkkTmA/",
+ "published_at": "2026-10-15T18:10:53.101840+09:00"
 }
