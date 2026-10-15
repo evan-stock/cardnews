@@ -3,7 +3,7 @@
  "slot": "lunch",
  "slot_label": "점심",
  "status": "approved",
- "created_at": "2026-10-16T02:08:38.219028+09:00",
+ "created_at": "2026-10-16T02:38:03.158177+09:00",
  "publish_at": "2026-10-16T09:00:00+09:00",
  "topic": "죽은 새끼를 17일 밀고 다닌 범고래 탈레콰, 2025년 또 새끼를 잃고 같은 행동",
  "category": "동물·자연",
@@ -69,7 +69,7 @@
  "manual": true,
  "files": [
   "media/20261016-orca/01.jpg",
-  "media/20261016-orca/02.mp4",
+  "media/20261016-orca/02.jpg",
   "media/20261016-orca/03.jpg",
   "media/20261016-orca/04.jpg",
   "media/20261016-orca/05.jpg",
@@ -77,6 +77,6 @@
   "media/20261016-orca/07.jpg",
   "media/20261016-orca/08.jpg"
  ],
- "tg_msg": 180,
- "decided_at": "2026-10-16T02:08:42.059056+09:00"
+ "tg_msg": 189,
+ "decided_at": "2026-10-16T02:38:06.555871+09:00"
 }
