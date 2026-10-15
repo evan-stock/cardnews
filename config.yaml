@@ -42,7 +42,7 @@ images:
 # mode=auto 면 카드뉴스 게시 직후 릴스도 자동 업로드한다(음악은 앱에서 추가).
 reels:
   enabled: true
-  mode: auto            # auto | telegram (telegram 이면 영상만 보내고 업로드는 직접)
+  mode: telegram        # auto | telegram (telegram: 영상만 텔레그램으로 보내고 업로드는 직접)
   share_to_feed: false  # false: 프로필 격자에 표지가 두 번 안 보이게 릴스 탭에만
   seconds: 8
   hint: "전체 이야기는 프로필 게시물에서 →"
