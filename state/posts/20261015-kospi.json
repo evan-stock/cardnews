@@ -2,7 +2,7 @@
  "id": "20261015-kospi",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-15T13:05:29.035821+09:00",
  "publish_at": "2026-10-15T13:05:32.696566+09:00",
  "topic": "코스피 검은 목요일: 장중 7%대 폭락, 2주 새 시총 약 1,200조 증발",
@@ -80,5 +80,8 @@
   "media/20261015-kospi/08.jpg"
  ],
  "tg_msg": 137,
- "decided_at": "2026-10-15T13:05:32.696585+09:00"
+ "decided_at": "2026-10-15T13:05:32.696585+09:00",
+ "ig_media_id": "17932291185410341",
+ "permalink": "https://www.instagram.com/p/DegD807lFuc/",
+ "published_at": "2026-10-15T13:07:29.453246+09:00"
 }
