@@ -38,15 +38,14 @@ images:
   openai_model: gpt-image-1
   openai_size: 1024x1536
 
-# 릴스: 게시 때 표지 카드로 9:16 영상(무음, 잘림 없음)을 만들어 텔레그램으로 보내고,
+# 릴스: 게시 때 카드뉴스 전체를 자동으로 넘기는 9:16 영상(무음, 잘림 없음)을 만들어 텔레그램으로 보내고,
 # mode=auto 면 카드뉴스 게시 직후 릴스도 자동 업로드한다(음악은 앱에서 추가).
 reels:
   enabled: true
   mode: telegram        # auto | telegram (telegram: 영상만 텔레그램으로 보내고 업로드는 직접)
   share_to_feed: false  # false: 프로필 격자에 표지가 두 번 안 보이게 릴스 탭에만
-  seconds: 8
-  hint: "전체 이야기는 프로필 게시물에서 →"
-  caption_line: "👉 전체 이야기는 @today.worthy 프로필 최신 게시물에서 확인하세요"
+  first_card: 3.5       # 표지 노출 초
+  per_card: 3.0         # 나머지 카드 한 장당 초
 
 instagram:
   api_host: https://graph.instagram.com

@@ -184,3 +184,39 @@ def cover_reel(card_jpg, out, seconds=8, hint="전체 이야기는 프로필 게
         "-c:v", "libx264", "-pix_fmt", "yuv420p", "-profile:v", "high", "-crf", "20",
         "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", out], check=True)
     return out
+
+
+def cards_reel(card_jpgs, out, per=3.0, first=3.5, fade=0.35):
+    """카드뉴스 전체를 자동으로 넘기는 9:16 무음 릴스.
+
+    - 카드(4:5)는 잘림 없이 화면 가운데, 위아래 빈칸은 그 카드를 흐리게 채움
+    - 표지는 first초, 나머지는 per초씩. 장이 바뀔 때 fade초 동안 부드럽게 겹침
+    - 음악은 인스타 앱에서 추가
+    """
+    top = (H - 1350) // 2
+    frames_src = []
+    for p in card_jpgs:
+        card = Image.open(p).convert("RGB")
+        if card.size != (1080, 1350):
+            card = fit_cover(card, 1080, 1350)
+        bg = fit_cover(card, W, H).filter(ImageFilter.GaussianBlur(45))
+        bg = Image.blend(bg, Image.new("RGB", (W, H), (0, 0, 0)), 0.5)
+        bg.paste(card, (0, top))
+        frames_src.append(bg)
+    tmp = tempfile.mkdtemp()
+    n, nf = 0, int(fade * FPS)
+    for i, fr in enumerate(frames_src):
+        hold = int((first if i == 0 else per) * FPS)
+        for k in range(hold):
+            img = fr
+            if i + 1 < len(frames_src) and k >= hold - nf:
+                a = (k - (hold - nf) + 1) / (nf + 1)
+                img = Image.blend(fr, frames_src[i + 1], a)
+            img.save(f"{tmp}/{n:05d}.jpg", quality=90)
+            n += 1
+    subprocess.run([
+        "ffmpeg", "-y", "-loglevel", "error", "-framerate", str(FPS), "-i", f"{tmp}/%05d.jpg",
+        "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo", "-shortest",
+        "-c:v", "libx264", "-pix_fmt", "yuv420p", "-profile:v", "high", "-crf", "21",
+        "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", out], check=True)
+    return out

@@ -39,13 +39,14 @@ def media_url(pid, fname):
 
 
 def make_reel(files, workdir):
-    """표지 카드로 9:16 릴스 영상(무음)을 만든다. 실패해도 카드뉴스는 그대로 진행."""
+    """카드뉴스 전체를 자동으로 넘기는 9:16 릴스 영상(무음)을 만든다. 실패해도 카드뉴스는 그대로 진행."""
     if not CFG.get("reels", {}).get("enabled"):
         return None
     try:
-        from .reels import cover_reel
+        from .reels import cards_reel
         out = os.path.join(str(workdir), "reel.mp4")
-        cover_reel(files[0], out, seconds=CFG["reels"].get("seconds", 8), hint=CFG["reels"].get("hint", ""))
+        rc = CFG["reels"]
+        cards_reel(list(files), out, per=rc.get("per_card", 3.0), first=rc.get("first_card", 3.5))
         return out
     except Exception:
         traceback.print_exc()
@@ -53,9 +54,8 @@ def make_reel(files, workdir):
 
 
 def reel_caption(post):
-    first = post["caption_full"].strip().split("\n", 1)[0]
-    tags = [w for w in post["caption_full"].split() if w.startswith("#")][:5]
-    return "\n\n".join(x for x in [first, CFG["reels"].get("caption_line", ""), " ".join(tags)] if x)
+    """릴스에 카드 전체가 들어가므로 본문도 카드뉴스 본문 그대로."""
+    return post["caption_full"].strip()
 
 
 def publish_reel_for(post):
