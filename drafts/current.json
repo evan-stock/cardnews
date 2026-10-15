@@ -2,7 +2,7 @@
  {
   "id": "20261016-orca",
   "slot": "lunch",
-  "mode": "render",
+  "mode": "send",
   "topic": "죽은 새끼를 17일 밀고 다닌 범고래 탈레콰, 2025년 또 새끼를 잃고 같은 행동",
   "category": "동물·자연",
   "core": "2018년 죽은 새끼를 17일·1,600km 밀고 다닌 범고래 탈레콰(J35)가 2024년 12월 낳은 딸 J61을 열흘 만에 잃고, 2025년 1월 또다시 새끼 몸을 머리에 얹고 다녔다.",
@@ -94,6 +94,7 @@
    "NOAA Fisheries",
    "Center for Whale Research"
   ],
-  "rev": 7
+  "publish_at": "2026-10-16T09:00:00+09:00",
+  "approved": true
  }
 ]
