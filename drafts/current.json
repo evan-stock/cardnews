@@ -2,7 +2,7 @@
  {
   "id": "20261015-usagi",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "topic": "치이카와 우사기가 말 대신 '우라!'만 외치며 살아남는 이유 + 우사기 테스트",
   "category": "캐릭터·공감·참여형",
   "core": "귀여운 그림체 뒤 생존 게임 같은 치이카와 세계에서, 말보다 행동이 먼저인 우사기의 생존법.",
@@ -85,7 +85,6 @@
   "photo_credits": [
    "애니메이션 '치이카와' ⓒnagano / chiikawa committee"
   ],
-  "publish_at": "2026-10-15T21:00:00+09:00",
-  "approved": true
+  "publish_now": true
  }
 ]
