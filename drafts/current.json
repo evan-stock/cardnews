@@ -46,7 +46,7 @@
    "press10_L",
    "press12_L",
    "press01_L",
-   "press10_R",
+   "coffin4",
    "press12_R",
    "press11_R",
    "press10_L"
@@ -78,7 +78,6 @@
   ],
   "photo_credits": [
    "현지 SNS 영상 캡처(Noticias Caracol, La Kalle, Publimetro)"
-  ],
-  "rerender": 1
+  ]
  }
 ]
