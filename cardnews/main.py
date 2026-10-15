@@ -185,7 +185,7 @@ def do_publish(post):
     try:
         mid, link = instagram.publish_carousel(urls, post["caption_full"])
         post.update(status="published", ig_media_id=mid, permalink=link, published_at=now().isoformat())
-        tg.send_text(f"🎉 게시 완료: {post['topic']}\n{link}")
+        tg.send_text(f"🎉 게시 완료: {post['topic']}\n{link}\n\n📲 스토리 공유(10초): 링크 열기 → 종이비행기 → '스토리에 추가' → 투표·질문 스티커 붙여 올리기")
         publish_story_for(post)
         publish_reel_for(post)
     except Exception as e:
