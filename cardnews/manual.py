@@ -103,8 +103,9 @@ def build(d, base, send):
     for f in glob.glob(str(base / "[0-9][0-9].jpg")):
         os.remove(f)
     files = render(slides, str(base))
-    from .main import make_reel
+    from .main import make_reel, make_story
     make_reel(files, base)
+    make_story(files, base)
     if not send:
         return
     pid, slot = d["id"], d.get("slot", "lunch")

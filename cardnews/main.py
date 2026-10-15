@@ -38,6 +38,31 @@ def media_url(pid, fname):
     return f"{base.rstrip('/')}/{pid}/{fname}"
 
 
+def make_story(files, workdir):
+    """게시 직후 올릴 스토리 이미지(표지 9:16). 실패해도 진행."""
+    sc = CFG.get("stories", {})
+    if not sc.get("enabled"):
+        return None
+    try:
+        from .reels import story_image
+        return story_image(files[0], os.path.join(str(workdir), "story.jpg"),
+                           sc.get("top_text", "새 게시물"), sc.get("bottom_text", "프로필에서 전체 보기"))
+    except Exception:
+        traceback.print_exc()
+        return None
+
+
+def publish_story_for(post):
+    if not CFG.get("stories", {}).get("enabled") or not (MEDIA / post["id"] / "story.jpg").exists():
+        return
+    try:
+        sid = instagram.publish_story(media_url(post["id"], "story.jpg"))
+        post["story_media_id"] = sid
+    except Exception as e:
+        post["story_error"] = str(e)[:300]
+        tg.send_text(f"⚠️ 스토리 게시 실패(카드뉴스는 게시됨): {str(e)[:300]}")
+
+
 def make_reel(files, workdir):
     """카드뉴스 전체를 자동으로 넘기는 9:16 릴스 영상(무음)을 만든다. 실패해도 카드뉴스는 그대로 진행."""
     if not CFG.get("reels", {}).get("enabled"):
@@ -110,6 +135,7 @@ def prepare(slot, force=False):
                 s["b"] = ""  # 사진 장은 글자 없이 (사진 순서와 설명이 어긋나는 문제 방지)
         files = render(d["slides"], str(workdir))
         make_reel(files, workdir)
+        make_story(files, workdir)
         shutil.rmtree(workdir / "bg", ignore_errors=True)
         post = {
             "id": pid, "slot": slot, "slot_label": SLOT_LABEL.get(slot, slot), "status": "pending",
@@ -160,6 +186,7 @@ def do_publish(post):
         mid, link = instagram.publish_carousel(urls, post["caption_full"])
         post.update(status="published", ig_media_id=mid, permalink=link, published_at=now().isoformat())
         tg.send_text(f"🎉 게시 완료: {post['topic']}\n{link}")
+        publish_story_for(post)
         publish_reel_for(post)
     except Exception as e:
         post.update(status="failed", error=str(e)[:500])

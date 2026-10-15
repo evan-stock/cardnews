@@ -47,6 +47,12 @@ reels:
   first_card: 2.0       # 표지 노출 초
   per_card: 3.0         # 나머지 카드 한 장당 초
 
+# 스토리: 카드뉴스 게시 직후 표지를 9:16 스토리로 자동 게시(API라 게시물 링크 스티커는 못 붙임)
+stories:
+  enabled: true
+  top_text: "새 게시물"
+  bottom_text: "프로필에서 전체 보기"
+
 instagram:
   api_host: https://graph.instagram.com
   api_version: v25.0

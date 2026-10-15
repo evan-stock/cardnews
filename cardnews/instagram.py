@@ -77,6 +77,14 @@ def publish_reel(video_url, caption, share_to_feed=False):
     return mid, link
 
 
+def publish_story(image_url):
+    """이미지 스토리 게시(스티커·링크는 API로 붙일 수 없음)."""
+    ig = env("IG_USER_ID")
+    cid = _req("POST", f"{ig}/media", media_type="STORIES", image_url=image_url)["id"]
+    _wait_ready(cid)
+    return _publish(cid)
+
+
 def refresh_token():
     """장기 토큰(60일) 갱신. 새 토큰 문자열 반환."""
     r = requests.get(f"{CFG['instagram']['api_host']}/refresh_access_token", timeout=60,

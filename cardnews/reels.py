@@ -220,3 +220,25 @@ def cards_reel(card_jpgs, out, per=3.0, first=2.0, fade=0):
         "-c:v", "libx264", "-pix_fmt", "yuv420p", "-profile:v", "high", "-crf", "21",
         "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", out], check=True)
     return out
+
+
+def story_image(card_jpg, out, top_text="새 게시물", bottom_text="프로필에서 전체 보기"):
+    """표지 카드를 9:16 스토리 이미지로(잘림 없이 가운데, 위아래 안내 문구)."""
+    card = Image.open(card_jpg).convert("RGB")
+    if card.size != (1080, 1350):
+        card = fit_cover(card, 1080, 1350)
+    bg = fit_cover(card, W, H).filter(ImageFilter.GaussianBlur(45))
+    bg = Image.blend(bg, Image.new("RGB", (W, H), (0, 0, 0)), 0.55)
+    top = (H - 1350) // 2
+    bg.paste(card, (0, top))
+    d = ImageDraw.Draw(bg)
+    if top_text:
+        f = font(54)
+        w = d.textlength(top_text, font=f)
+        x = (W - w - 40) / 2
+        d.ellipse((x, top // 2 - 2, x + 26, top // 2 + 24), fill=YELLOW)
+        d.text((x + 40, top // 2 + 11), top_text, font=f, fill=WHITE, anchor="lm")
+    if bottom_text:
+        d.text((W // 2, top + 1350 + top // 2), bottom_text, font=font(44), fill=(230, 230, 230), anchor="mm")
+    bg.save(out, quality=92)
+    return out
