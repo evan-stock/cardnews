@@ -9,6 +9,30 @@ from .common import CFG, ROOT
 TEMPLATE = ROOT / "templates" / "renderer.html"
 
 
+def _prep(path):
+    """카드(1080x1350)를 꽉 채우려면 1.4배 넘게 키워야 하는 사진은
+    가로 폭에 맞춰 위쪽에 놓고 빈 곳은 같은 사진을 흐리게 채운다(덜 확대돼 덜 흐림)."""
+    from PIL import Image, ImageFilter
+    W, H = 1080, 1350
+    try:
+        im = Image.open(path).convert("RGB")
+    except Exception:
+        return path
+    if max(W / im.width, H / im.height) <= 1.4:
+        return path
+    s = max(W / im.width, H / im.height)
+    bg = im.resize((int(im.width * s) + 1, int(im.height * s) + 1)).filter(ImageFilter.GaussianBlur(45))
+    x, y = (bg.width - W) // 2, (bg.height - H) // 2
+    bg = Image.blend(bg.crop((x, y, x + W, y + H)), Image.new("RGB", (W, H), (0, 0, 0)), 0.35)
+    r = min(W / im.width, 860 / im.height)
+    fg = im.resize((int(im.width * r), int(im.height * r)), Image.LANCZOS)
+    fg = fg.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=3))
+    bg.paste(fg, ((W - fg.width) // 2, 70))
+    out = path.rsplit(".", 1)[0] + "_fit.jpg"
+    bg.save(out, quality=93)
+    return out
+
+
 def _data_url(path):
     ext = "png" if path.lower().endswith(".png") else "jpeg"
     return f"data:image/{ext};base64," + base64.b64encode(open(path, "rb").read()).decode()
@@ -19,7 +43,7 @@ def render(slides, outdir, sty=None, col=None):
     payload = {
         "sty": sty or CFG["style"]["sty"], "col": CFG["style"]["col"] if col is None else col,
         "ch": CFG["brand"]["channel_name"], "hd": CFG["brand"]["handle"],
-        "slides": [{"t": s["t"], "b": s["b"], "sub": s.get("sub", ""), "img": _data_url(s["image"]) if s.get("image") else None} for s in slides],
+        "slides": [{"t": s["t"], "b": s["b"], "sub": s.get("sub", ""), "img": _data_url(_prep(s["image"])) if s.get("image") else None} for s in slides],
     }
     files = []
     with sync_playwright() as p:

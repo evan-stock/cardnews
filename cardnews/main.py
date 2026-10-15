@@ -129,6 +129,16 @@ def prepare(slot, force=False):
                               story=f"{d['topic']} / {d.get('core', '')}")
         # 사진을 못 구한 '사진 장'은 빼서 빈 배경 카드가 나가지 않게 한다(표지·팔로우 카드는 유지)
         last = len(d["slides"]) - 1
+        found = list(dict.fromkeys(s["image"] for s in d["slides"][:last] if s.get("image")))
+        if found:  # 글이 있는 장인데 사진이 없으면, 찾은 사진을 돌려 써서 검은 빈 배경을 피한다
+            k = 0
+            for s in d["slides"][1:last]:
+                if not s.get("image") and s["t"].strip():
+                    s["image"] = found[(k + 1) % len(found)] if len(found) > 1 else found[0]
+                    k += 1
+        if len(found) < 3:
+            d["risk"] = (f"⚠️ 쓸 만한 사진이 {len(found)}장뿐이라 같은 사진을 반복했어요. 거절하고 채팅에서 사진을 보강하는 걸 추천. "
+                         + (d.get("risk") or "")).strip()
         d["slides"] = [s for i, s in enumerate(d["slides"]) if i in (0, last) or s.get("image") or s["t"].strip()]
         for i, s in enumerate(d["slides"][1:-1], 1):
             if not s["t"].strip():

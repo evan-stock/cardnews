@@ -218,6 +218,16 @@ def pick_images(slides, outdir, pages=None, publishers=None, story=""):
     used, credits = set(), []
     pool = press_images(pages or [], outdir) if CFG["images"].get("press", True) else []
     pool = relevant_only(pool, story)
+    if len(pool) > 1:  # 표지는 관련 사진 중 해상도가 가장 큰 것(작은 사진을 키우면 흐려짐)
+        from PIL import Image as _I
+        def _area(p):
+            try:
+                w, h = _I.open(p[0]).size
+                return w * h
+            except Exception:
+                return 0
+        best = max(range(min(len(pool), 6)), key=lambda k: _area(pool[k]))
+        pool.insert(0, pool.pop(best))
     names = publishers or {}
     for i, s in enumerate(slides):
         s["image"] = None
