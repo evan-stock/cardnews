@@ -7,10 +7,9 @@
   "image_pages": [],
   "sources": [],
   "read_pages": [
-   "https://gall.dcinside.com/board/lists/?id=neostock&exception_mode=recommend",
-   "https://gall.dcinside.com/board/lists/?id=neostock",
-   "https://m.dcinside.com/board/neostock?recommend=1",
-   "https://gall.dcinside.com/board/lists/?id=dcbest"
-  ]
+   "https://gall.dcinside.com/board/view/?id=dcbest&no=470451",
+   "https://gall.dcinside.com/board/view/?id=dcbest&no=470431"
+  ],
+  "image_urls": []
  }
 ]
