@@ -2,21 +2,59 @@
  {
   "id": "20261016-orca",
   "slot": "lunch",
-  "mode": "collect",
-  "topic": "죽은 새끼를 17일 밀고 다닌 범고래 탈레콰, 7년 뒤 또 새끼를 잃었다",
-  "image_pages": [
-   "https://amp.cbc.ca/news/canada/british-columbia/j35-carrying-second-dead-calf-1.7422266",
-   "https://amp.cbc.ca/news/canada/british-columbia/mother-orca-carrying-dead-calf-1.7433998",
-   "https://www.kuow.org/stories/grieving-orca-mom-continues-to-carry-dead-baby-on-her-nose",
-   "https://www.nbcsandiego.com/news/national-international/orca-tahlequah-again-carrying-dead-calf/3713087/",
-   "https://katu.com/news/local/southern-resident-killer-whale-again-carries-her-dead-calf-through-puget-sound-area-waters",
-   "https://www.theinertia.com/environment/tahlequah-killer-whale-dead-baby/",
-   "https://en.wikipedia.org/wiki/Tahlequah_(orca)",
-   "https://www.fisheries.noaa.gov/feature-story/endangered-southern-resident-killer-whale-j35-carrying-her-dead-calf-again"
+  "mode": "render",
+  "topic": "죽은 새끼를 17일 밀고 다닌 범고래 탈레콰, 2025년 또 새끼를 잃고 같은 행동",
+  "category": "동물·자연",
+  "core": "2018년 죽은 새끼를 17일·1,600km 밀고 다닌 범고래 탈레콰(J35)가 2024년 12월 낳은 딸 J61을 열흘 만에 잃고, 2025년 1월 또다시 새끼 몸을 머리에 얹고 다녔다.",
+  "risk": "2025년 운반 기간은 '최소 열흘'(1/1 첫 확인, 1/10 운반 목격, 2/8 운반 중단 확인)로 표기. 슬픔 해석은 연구진 표현('명백한 애도 행동') 인용. 2018 사진은 Center for Whale Research, 2025 사진은 NOAA Fisheries",
+  "slides": [
+   {
+    "t": "죽은 새끼를 17일 동안\n밀고 다닌 범고래\n7년 뒤 '또 새끼를 잃었다'",
+    "b": ""
+   },
+   {
+    "t": "2025년 새해 첫날\n시애틀 앞바다",
+    "sub": "엄마는 또다시 죽은 새끼를 머리에 얹고 있었다",
+    "b": ""
+   },
+   {
+    "t": "2018년, '17일 동안 1,600km'",
+    "sub": "태어난 지 30분 만에 죽은 첫 딸",
+    "b": "미국 북서부 바다의 범고래 **탈레콰(J35)**는 2018년 7월 갓 태어난 새끼를 잃었습니다. 그리고 그 몸을 코끝에 얹은 채 **17일 동안 약 1,600km**를 헤엄쳤어요. 이 모습은 전 세계에 '엄마의 애도'로 알려졌습니다."
+   },
+   {
+    "t": "6년 뒤 다시 찾아온 딸",
+    "sub": "2024년 12월 20일 처음 목격된 새끼 'J61'",
+    "b": "2024년 12월, 탈레콰가 새 딸을 낳은 모습이 확인됐습니다. 하지만 연구진은 처음부터 **어미와 새끼의 상태가 좋지 않다**며 걱정했고, 새끼는 **새해를 하루 앞두고** 숨진 것으로 확인됐어요."
+   },
+   {
+    "t": "가라앉으면 '다시 잠수했다'",
+    "sub": "136kg 새끼를 머리와 코끝으로 떠받친 채",
+    "b": "미국 해양대기청(NOAA) 연구원은 탈레콰가 새끼를 **머리 위에 걸치거나 코끝으로 밀며** 헤엄쳤고, 새끼가 가라앉으면 **잠수해서 다시 데려왔다**고 전했습니다. 열흘 뒤인 1월 10일에도 캐나다 빅토리아 앞바다에서 여전히 새끼를 밀고 있었어요."
+   },
+   {
+    "t": "탈레콰의 '두 번의 이별'",
+    "sub": "한눈에 보는 연표",
+    "b": "**2018.7** 첫 딸, 태어난 지 30분 만에 숨져 → 17일 동안 운반\n**2020.9** 건강한 아들 출산\n**2024.12** 새 딸 J61 출산\n**2025.1** J61 숨져 → 최소 열흘 넘게 운반\n\n기록된 새끼 **4마리 중 2마리**를 잃었습니다."
+   },
+   {
+    "t": "정말 '슬퍼하는' 걸까",
+    "sub": "연구진은 '명백한 애도 행동'이라고 본다",
+    "b": "다른 범고래도 죽은 새끼를 끌고 다닌 기록은 있지만, **몇 주씩 이어진 건 탈레콰가 거의 유일**합니다. 범고래는 **임신 5번 중 1번 정도만** 새끼가 첫 돌을 넘겨요. 연구진은 무거운 새끼를 미느라 사냥을 못 하는 탈레콰의 건강도 걱정하고 있습니다."
+   },
+   {
+    "t": "엄마 생각나는 사람에게 보내주세요",
+    "b": "팔로우하면 매일 화제 소식"
+   }
   ],
-  "read_pages": [
-   "https://en.wikipedia.org/wiki/Tahlequah_(orca)"
+  "images": ["c2018", "c2025", "c2018", "press01", "c2025b", "press09", "press04", "c2018"],
+  "caption": "[죽은 새끼를 17일 동안 밀고 다닌 범고래, 7년 뒤 또 새끼를 잃었다]\n\n2018년 7월, 미국 북서부 바다의 범고래 '탈레콰(J35)'는 태어난 지 약 30분 만에 숨진 새끼를 코끝에 얹은 채 17일 동안 약 1,600km를 헤엄쳤습니다. 이 모습은 전 세계에 '엄마 범고래의 애도'로 알려졌습니다.\n\n그런데 2024년 12월 새 딸 'J61'을 낳은 탈레콰는 또다시 새끼를 잃었습니다. 연구진은 처음부터 어미와 새끼의 상태를 걱정했고, 새끼는 새해를 하루 앞두고 숨진 것으로 확인됐습니다. 2025년 1월 1일 시애틀 앞바다에서 탈레콰는 다시 새끼의 몸을 머리 위에 얹고 나타났고, 가라앉으면 잠수해서 다시 데려왔습니다. 열흘 뒤인 1월 10일에도 캐나다 빅토리아 앞바다에서 여전히 새끼를 밀고 있었습니다.\n\n연구진은 이를 '명백한 애도 행동'으로 보고 있습니다. 탈레콰는 지금까지 기록된 새끼 4마리 중 2마리를 잃었고, 범고래는 임신 5번 중 1번 정도만 새끼가 첫 돌을 넘긴다고 합니다.\n\n여러분은 동물도 사람처럼 슬퍼한다고 생각하시나요? '그렇다' vs '본능일 뿐'\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아볼 수 있어요.",
+  "hashtags": ["범고래", "탈레콰", "동물이야기", "해외토픽", "엄마"],
+  "sources": [
+   {"publisher": "AP", "url": "https://www.nbcsandiego.com/news/national-international/orca-tahlequah-again-carrying-dead-calf/3713087/", "date": "2025.01.02"},
+   {"publisher": "CBC", "url": "https://amp.cbc.ca/news/canada/british-columbia/mother-orca-carrying-dead-calf-1.7433998", "date": "2025.01"},
+   {"publisher": "KUOW", "url": "https://www.kuow.org/stories/grieving-orca-mom-continues-to-carry-dead-baby-on-her-nose", "date": "2025.01"}
   ],
-  "limit": 30
+  "photo_credits": ["Center for Whale Research", "NOAA Fisheries"]
  }
 ]
