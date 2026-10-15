@@ -65,7 +65,7 @@ def collect(d, base):
             try:
                 r = requests.get(src, headers=BROWSER_UA, timeout=40)
                 if r.ok and len(r.text) > 500:
-                    texts[u] = r.text[:60000]
+                    texts[u] = r.text[:300000]
                     break
             except Exception as e:
                 print("본문 읽기 실패:", src, e)

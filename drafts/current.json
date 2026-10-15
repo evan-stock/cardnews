@@ -9,7 +9,7 @@
   "read_pages": [
    "https://gall.dcinside.com/board/lists/?id=neostock&exception_mode=recommend",
    "https://gall.dcinside.com/board/lists/?id=neostock",
-   "https://gall.dcinside.com/mgallery/board/lists/?id=kospi&exception_mode=recommend",
+   "https://m.dcinside.com/board/neostock?recommend=1",
    "https://gall.dcinside.com/board/lists/?id=dcbest"
   ]
  }
