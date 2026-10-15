@@ -103,7 +103,8 @@ def build(d, base, send):
     for f in glob.glob(str(base / "[0-9][0-9].jpg")) + glob.glob(str(base / "[0-9][0-9].mp4")):
         os.remove(f)
     vids = {k: s["video"] for k, s in enumerate(d["slides"]) if s.get("video")}
-    files = render(slides, str(base), overlays=list(vids))
+    texted = [k for k in vids if slides[k]["t"].strip() or slides[k]["b"].strip()]
+    files = render(slides, str(base), overlays=texted)
     from .main import make_reel, make_story
     make_reel(files, base)   # 릴스·스토리는 카드 이미지(jpg)로
     make_story(files, base)
@@ -111,7 +112,7 @@ def build(d, base, send):
         from .video import video_slide
         for k, v in vids.items():  # 영상 장: 원본 영상 위에 같은 글자를 얹은 mp4로 교체
             out = str(base / f"{k + 1:02d}.mp4")
-            video_slide(str(base / v["src"]), str(base / f"{k + 1:02d}_overlay.png"), out,
+            video_slide(str(base / v["src"]), str(base / f"{k + 1:02d}_overlay.png") if k in texted else None, out,
                         v.get("start", 0), v.get("dur", 10), v.get("x", 0.5), v.get("y", 0.5))
             files[k] = out
     if not send:

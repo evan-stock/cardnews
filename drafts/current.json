@@ -2,7 +2,7 @@
  {
   "id": "20261015-coffin",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "topic": "과테말라 15세 소녀, 의사 확인 없이 관에 눕혀졌다 장례 도중 깨어나",
   "category": "해외 황당 사연",
   "core": "가슴 통증으로 쓰러진 딸을 아버지가 숨진 줄 알고 의사 확인 없이 관에 눕혔는데, 약 8시간 뒤 장례 도중 깨어났다.",
@@ -10,11 +10,16 @@
   "slides": [
    {
     "t": "의사 확인도 없이\n'관'에 넣은 15세 딸\n8시간 만에 깨어났다",
+    "b": ""
+   },
+   {
+    "t": "",
+    "sub": "",
     "b": "",
     "video": {
      "src": "video/v4.mp4",
      "start": 0,
-     "dur": 14,
+     "dur": 15,
      "y": 0.15
     }
    },
@@ -49,6 +54,7 @@
    }
   ],
   "images": [
+   "press10_L",
    "press10_L",
    "press12_L",
    "press01_L",
@@ -87,6 +93,8 @@
    "Noticias Caracol",
    "La Kalle",
    "Publimetro"
-  ]
+  ],
+  "publish_at": "2026-10-16T13:00:00+09:00",
+  "approved": true
  }
 ]
