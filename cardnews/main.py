@@ -64,9 +64,10 @@ def publish_reel_for(post):
     if not rc.get("enabled") or not path.exists():
         return
     try:
-        tg.send_video(str(path), "🎬 릴스용 영상(표지). 앱에서 음악을 붙여 올리거나, 자동 업로드된 릴스에 음악을 추가하세요.")
+        tg.send_video(str(path), "🎬 릴스용 영상(표지). 저장해서 앱에서 음악을 붙여 올리세요.\n바로 아래 메시지가 릴스 본문이에요(길게 눌러 복사).")
+        tg.send_text(reel_caption(post))  # 본문만 단독 메시지로: 길게 눌러 그대로 복사
     except Exception as e:
-        print("릴스 영상 전송 실패:", e)
+        print("릴스 영상·본문 전송 실패:", e)
     if rc.get("mode") != "auto":
         return
     try:
