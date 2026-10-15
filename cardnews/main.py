@@ -193,6 +193,13 @@ def do_publish(post):
     push_media(post)
     urls = [media_url(post["id"], os.path.basename(f)) for f in post["files"]]
     try:
+        if post.get("format") == "reel":
+            cover = media_url(post["id"], os.path.basename(post["cover"])) if post.get("cover") else None
+            mid, link = instagram.publish_reel(urls[0], post["caption_full"], share_to_feed=True, cover_url=cover)
+            post.update(status="published", ig_media_id=mid, permalink=link, published_at=now().isoformat())
+            tg.send_text(f"🎬 릴스 게시 완료: {post['topic']}\n{link}\n\n📲 스토리 공유: 링크 열기 → 종이비행기 → '스토리에 추가'\n🎵 음악을 넣고 싶으면 앱에서 릴스 수정")
+            save_post(post)
+            return
         mid, link = instagram.publish_carousel(urls, post["caption_full"])
         post.update(status="published", ig_media_id=mid, permalink=link, published_at=now().isoformat())
         tg.send_text(f"🎉 게시 완료: {post['topic']}\n{link}\n\n📲 스토리 공유(10초): 링크 열기 → 종이비행기 → '스토리에 추가' → 투표·질문 스티커 붙여 올리기")

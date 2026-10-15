@@ -89,6 +89,49 @@ def get_image(ref, base, k):
     return str(p) if _good_image(str(p)) else None
 
 
+def build_reel(d, base, send):
+    """영상 소재를 카드뉴스 대신 릴스 하나로: 9:16 영상 + 위쪽 제목 + 커버 이미지."""
+    from .main import SLOT_LABEL, build_caption
+    from .thumb import make as make_thumb
+    from .video import reel_916
+    c = d["cover"]  # {"img": "cand/frame.jpg"(없으면 영상에서 자동 추출), "tag","t","sub"}
+    v = d["video"]  # {"src","start","dur","x","y","frame"}
+    src = str(base / v["src"])
+    if not c.get("img"):
+        import subprocess
+        fr = base / "cand" / "reel_frame.jpg"
+        os.makedirs(fr.parent, exist_ok=True)
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(v.get("start", 0) + v.get("frame", 1.5)), "-i", src,
+                        "-frames:v", "1", "-vf", "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920",
+                        "-q:v", "2", str(fr)], check=True)
+        c["img"] = "cand/reel_frame.jpg"
+    cover = make_thumb({**c, "id": d["id"], "out": "reel_cover.jpg"})
+    ov = make_thumb({**c, "id": d["id"], "out": "reel_overlay.png", "overlay": True})
+    out = str(base / "reel.mp4")
+    reel_916(src, str(ov) if d.get("overlay_text", True) else None, out, v.get("start", 0), v.get("dur", 20),
+             v.get("x", 0.5), v.get("y", 0.5), keep_audio=v.get("audio", True))
+    if not send:
+        return
+    pid, slot = d["id"], d.get("slot", "lunch")
+    credits = list(dict.fromkeys(d.get("photo_credits", [])))
+    post = {"id": pid, "slot": slot, "slot_label": SLOT_LABEL.get(slot, slot), "status": "pending", "format": "reel",
+            "created_at": now().isoformat(), "publish_at": slot_time(slot).isoformat(),
+            "topic": d["topic"], "category": d.get("category", ""), "core": d.get("core", ""),
+            "risk": d.get("risk", ""), "sources": d["sources"], "slides": [],
+            "caption_full": build_caption(d, credits), "credits": credits, "manual": True,
+            "files": [os.path.relpath(out, ROOT)], "cover": os.path.relpath(str(cover), ROOT)}
+    from . import telegram_bot as tg
+    tg.send_video(out, f"🎬 [릴스 미리보기] {d['topic']}")
+    post["tg_msg"] = tg.send_preview({**post, "files": [str(cover)]})
+    if d.get("publish_now"):
+        post.update(status="approved", publish_at=now().isoformat(), decided_at=now().isoformat())
+    elif d.get("publish_at"):
+        post.update(publish_at=d["publish_at"])
+        if d.get("approved"):
+            post.update(status="approved", decided_at=now().isoformat())
+    save_post(post)
+
+
 def build(d, base, send):
     from .main import SLOT_LABEL, build_caption
     from .render import render
@@ -150,7 +193,7 @@ def one(d):
     if mode == "collect" or not (base / "cand").exists() and any(not str(x).startswith("http") for x in d.get("images", [])):
         collect(d, base)
     if mode in ("render", "send"):
-        build(d, base, mode == "send")
+        (build_reel if d.get("format") == "reel" else build)(d, base, mode == "send")
 
 
 if __name__ == "__main__":
