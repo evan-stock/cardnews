@@ -9,7 +9,7 @@
  "video": {
   "src": "video/v2.mp4",
   "start": 0,
-  "dur": 20,
+  "dur": 15,
   "x": 0.5,
   "y": 0.5,
   "audio": true
