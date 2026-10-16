@@ -34,11 +34,26 @@ jobs:
       - run: pip install -r requirements.txt edge-tts && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg
       - name: 실행
         run: |
-          case "${{ inputs.cmd || 'render' }}" in
+          mkdir -p state
+          set -o pipefail
+          cmd="${{ inputs.cmd || 'render' }}"
+          case "$cmd" in
             voices) python -m cardnews.tts voices ;;
             yt-check) python -m cardnews.youtube check ;;
-            *) python -m cardnews.shorts drafts/shorts.json ;;
-          esac
+            *) if [ ! -f drafts/shorts.json ]; then
+                 echo "drafts/shorts.json 이 아직 없어요. 목소리 목록은 cmd 칸에 voices 를 넣고 실행하세요."; exit 1; fi
+               python -m cardnews.shorts drafts/shorts.json ;;
+          esac 2>&1 | tee state/shorts_log.txt
+      - name: 실패 알림
+        if: failure()
+        run: |
+          python - <<'PY'
+          import os, requests
+          t = open("state/shorts_log.txt", encoding="utf-8", errors="ignore").read()[-1500:] if os.path.exists("state/shorts_log.txt") else "로그 없음"
+          tok, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+          if tok and chat:
+              requests.post(f"https://api.telegram.org/bot{tok}/sendMessage", data={"chat_id": chat, "text": "⚠️ 쇼츠 실행 실패\n\n" + t})
+          PY
       - if: always()
         run: |
           git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com

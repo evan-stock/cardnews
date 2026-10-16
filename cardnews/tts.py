@@ -48,7 +48,7 @@ def _add_usage(n):
 
 # ── 엔진 ─────────────────────────────────────────────────────────────
 def typecast(text, out, c, ctx=None):
-    key = os.environ.get("TYPECAST_API_KEY")
+    key = (os.environ.get("TYPECAST_API_KEY") or "").strip()
     if not key:
         raise RuntimeError("TYPECAST_API_KEY 없음")
     if not c.get("voice_id"):
@@ -116,12 +116,16 @@ def say(text, out, override=None, ctx=None, timed=False):
 
 
 def voices():
-    key = os.environ.get("TYPECAST_API_KEY")
+    key = (os.environ.get("TYPECAST_API_KEY") or "").strip()
     if not key:
-        raise SystemExit("TYPECAST_API_KEY 가 필요해요.")
+        raise SystemExit("TYPECAST_API_KEY 가 Secrets에 없어요. Settings → Secrets and variables → Actions 에 정확히 그 이름으로 등록해주세요.")
     r = requests.get(f"{API}/v3/voices", headers={"X-API-KEY": key, "User-Agent": UA}, params={"model": cfg()["model"]}, timeout=60)
-    r.raise_for_status()
+    if not r.ok:
+        raise SystemExit(f"타입캐스트 목소리 목록 실패 {r.status_code}: {r.text[:300]}\n"
+                         "401/403이면 키가 틀렸거나 API 키가 아닌 값(스튜디오 키 등)을 넣은 경우예요.")
     vs = r.json()
+    if isinstance(vs, dict):  # 응답이 {"voices":[...]} 형태여도 처리
+        vs = vs.get("voices") or vs.get("data") or vs.get("items") or []
     shorts = [v for v in vs if any("Short" in u for u in v.get("use_cases", []))]
     rest = [v for v in vs if v not in shorts]
     lines = []
