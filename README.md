@@ -88,6 +88,10 @@
 - 자극적인 소재일수록 사실 오류 하나가 계정 신고로 이어질 수 있어요. 승인 버튼은 그 마지막 안전장치예요.
 - 인스타그램 API로는 하루 게시 수에 상한이 있지만 하루 2건은 문제없어요.
 
+## 유튜브 쇼츠
+
+대본 → TTS 내레이션 → 실제 영상·사진 합성 → 자막 → 텔레그램 승인 → 유튜브 업로드. 설정과 원고 형식은 [docs/SHORTS.md](docs/SHORTS.md).
+
 ## 폴더 구조
 
 ```
@@ -98,6 +102,9 @@ cardnews/render.py          카드 렌더링(Playwright)
 cardnews/telegram_bot.py    미리보기 전송·승인 확인
 cardnews/instagram.py       캐러셀 게시·토큰 갱신
 cardnews/main.py            prepare / tick / publish 명령
+cardnews/shorts.py          유튜브 쇼츠 합성(장면·자막·BGM)
+cardnews/tts.py             타입캐스트(무료) → Edge TTS 자동 대체
+cardnews/youtube.py         유튜브 업로드·예약
 .github/workflows/          자동 실행 일정
 state/  media/              게시물 상태와 카드 이미지(자동 저장, 7일 뒤 정리)
 tests/test_flow.py          외부 API 없이 전체 흐름 점검

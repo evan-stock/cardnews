@@ -1,0 +1,53 @@
+name: shorts
+# 채팅에서 쓴 쇼츠 원고(drafts/shorts.json)로 영상을 만들고(TTS 내레이션·자막),
+# mode=send 면 텔레그램 미리보기 + [✅ 업로드] 버튼 → 승인되면 pipeline watch가 유튜브에 올린다.
+on:
+  push:
+    paths: ["drafts/shorts.json"]
+  workflow_dispatch:
+    inputs:
+      cmd:
+        description: "render(원고로 영상) | voices(타입캐스트 목소리 목록) | yt-check(유튜브 연결 확인)"
+        default: render
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: shorts
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      TZ: Asia/Seoul
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      TYPECAST_API_KEY: ${{ secrets.TYPECAST_API_KEY }}
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt edge-tts && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg
+      - name: 실행
+        run: |
+          case "${{ inputs.cmd || 'render' }}" in
+            voices) python -m cardnews.tts voices ;;
+            yt-check) python -m cardnews.youtube check ;;
+            *) python -m cardnews.shorts drafts/shorts.json ;;
+          esac
+      - if: always()
+        run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          git add -A media state
+          git diff --cached --quiet || (git commit -m "shorts: render" && git pull --rebase && git push)
+      - name: 승인 대기 감시 시작
+        run: |
+          if [ -f drafts/shorts.json ] && grep -q '"mode": *"send"' drafts/shorts.json; then
+            gh workflow run pipeline.yml -f cmd=watch
+          fi
+        env:
+          GH_TOKEN: ${{ github.token }}

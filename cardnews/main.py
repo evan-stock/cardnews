@@ -189,7 +189,25 @@ def push_media(post):
         time.sleep(20)
 
 
+def publish_short(post):
+    """승인된 쇼츠를 유튜브에 업로드. 게시 시각이 미래면 유튜브 예약 공개로 올린다."""
+    from . import youtube
+    try:
+        at = dt.datetime.fromisoformat(post["publish_at"])
+        vid, link, st = youtube.upload(str(MEDIA.parent / post["files"][0]), post["yt"],
+                                       None if post.get("publish_now") else at)
+        post.update(status="published", yt_id=vid, permalink=link, published_at=now().isoformat())
+        when = f"{at:%m/%d %H:%M} 자동 공개 예약" if st.get("publishAt") else "지금 공개"
+        tg.send_text(f"▶️ 유튜브 쇼츠 업로드 완료({when}): {post['topic']}\n{link}")
+    except Exception as e:
+        post.update(status="failed", error=str(e)[:500])
+        tg.send_text(f"⚠️ 유튜브 업로드 실패: {post['topic']}\n{str(e)[:500]}")
+    save_post(post)
+
+
 def do_publish(post):
+    if post.get("kind") == "short":
+        return publish_short(post)
     push_media(post)
     urls = [media_url(post["id"], os.path.basename(f)) for f in post["files"]]
     try:
@@ -220,6 +238,9 @@ def tick():
         p["status"] = "approved" if act == "ok" else "rejected"
         p["decided_at"] = now().isoformat()
         save_post(p)
+        if act == "ok" and p.get("kind") == "short":
+            tg.send_text(f"✅ 승인됨: {p['topic']}\n유튜브에 올리는 중이에요")
+            continue
         if act == "ok":
             at = dt.datetime.fromisoformat(p["publish_at"])
             tg.send_text(f"✅ 승인됨: {p['topic']}\n" + ("곧 게시해요" if now() >= at else f"{at:%H:%M}에 게시돼요"))
@@ -230,9 +251,11 @@ def tick():
         if p["status"] not in ("pending", "approved"):
             continue
         at = dt.datetime.fromisoformat(p["publish_at"])
-        if p["status"] == "approved" and now() >= at:
+        if p["status"] == "approved" and p.get("kind") == "short":  # 쇼츠는 승인 즉시 업로드(예약은 유튜브가 처리)
             do_publish(p)
-        elif p["status"] == "pending" and now() > at + exp:
+        elif p["status"] == "approved" and now() >= at:
+            do_publish(p)
+        elif p["status"] == "pending" and now() > at + (dt.timedelta(hours=24) if p.get("kind") == "short" else exp):
             p["status"] = "expired"
             save_post(p)
             tg.send_text(f"⌛ 승인 시간이 지나 게시하지 않았어요: {p['topic']}")

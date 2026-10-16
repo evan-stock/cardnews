@@ -56,3 +56,25 @@ stories:
 instagram:
   api_host: https://graph.instagram.com
   api_version: v25.0
+
+# 유튜브 쇼츠(채팅 원고 drafts/shorts.json → .github/workflows/shorts.yml). 설명: docs/SHORTS.md
+shorts:
+  title_size: 92        # 위쪽 고정 제목 글자 크기
+  sub_size: 82          # 자막 글자 크기
+  sub_y: 0.62           # 자막 세로 위치(화면 높이 비율)
+  chunk: 14             # 자막 한 덩어리 최대 글자 수(공백 제외)
+  zoom: 0.10            # 사진 장면 확대 정도
+  video_audio: 0.0      # 실제 영상 원본 소리 크기(0=끔, 장면별 "audio"로 덮어쓰기)
+  bgm: null             # 기본 배경음악(assets/bgm/*.mp3, 저작권 없는 곡만)
+  bgm_volume: 0.10
+  category: 24          # 24 엔터테인먼트, 22 인물·블로그, 28 과학기술
+  tts:
+    engine: typecast    # typecast → 실패·한도 초과 시 edge 자동 대체 | edge | silent(시험용)
+    model: ssfm-v30
+    voice_id: ""        # shorts 워크플로 cmd=voices 로 목록 받아서 채우기
+    emotion: normal     # normal | happy | sad | angry | whisper | toneup | tonedown | smart
+    intensity: 1.0
+    tempo: 1.1          # 쇼츠는 1.1~1.2배가 자연스러움
+    monthly_cap: 28000  # 무료 플랜 월 30,000자 중 여유 2,000자 남기고 edge로 전환
+    edge_voice: ko-KR-InJoonNeural   # 무료 대체: InJoon(남) / SunHi(여)
+    edge_rate: "+15%"
