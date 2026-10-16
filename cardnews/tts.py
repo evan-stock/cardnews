@@ -115,7 +115,7 @@ def say(text, out, override=None, ctx=None, timed=False):
     raise RuntimeError("TTS 전부 실패 → " + " / ".join(err))
 
 
-def voices():
+def voices(name=None):
     key = (os.environ.get("TYPECAST_API_KEY") or "").strip()
     if not key:
         raise SystemExit("TYPECAST_API_KEY 가 Secrets에 없어요. Settings → Secrets and variables → Actions 에 정확히 그 이름으로 등록해주세요.")
@@ -126,6 +126,24 @@ def voices():
     vs = r.json()
     if isinstance(vs, dict):  # 응답이 {"voices":[...]} 형태여도 처리
         vs = vs.get("voices") or vs.get("data") or vs.get("items") or []
+    def nm_(v):
+        n = v.get("voice_name", {})
+        return " / ".join(x for x in (n.get("kor"), n.get("eng")) if x) if isinstance(n, dict) else str(n)
+    # 전체 목록은 파일로 저장(모델 무관하게 다시 받기)
+    allv = requests.get(f"{API}/v3/voices", headers={"X-API-KEY": key, "User-Agent": UA}, timeout=60).json()
+    if isinstance(allv, dict):
+        allv = allv.get("voices") or allv.get("data") or allv.get("items") or []
+    write_text("typecast_voices.txt", "\n".join(
+        f"{nm_(v)} | {v.get('gender', '')} {v.get('age', '')} | {v['voice_id']} | "
+        f"{','.join(m.get('version', '') for m in v.get('models', []))} | {','.join(v.get('use_cases', []))} | {v.get('preview_url', '')}"
+        for v in allv))
+    if name:
+        hit = [v for v in allv if name.lower() in nm_(v).lower()]
+        text = f"🔎 '{name}' 검색 결과 {len(hit)}개\n\n" + "\n".join(
+            f"{nm_(v)} | {v.get('gender', '')} {v.get('age', '')} | {v['voice_id']} | "
+            f"{','.join(m.get('version', '') for m in v.get('models', []))}\n  미리듣기: {v.get('preview_url', '')}" for v in hit)
+        print(text)
+        return hit
     shorts = [v for v in vs if any("Short" in u for u in v.get("use_cases", []))]
     rest = [v for v in vs if v not in shorts]
     lines = []
@@ -144,6 +162,6 @@ def voices():
 
 if __name__ == "__main__":
     if sys.argv[1] == "voices":
-        voices()
+        voices(sys.argv[2] if len(sys.argv) > 2 and sys.argv[2] else None)
     elif sys.argv[1] == "say":
         print(say(sys.argv[2], sys.argv[3]))

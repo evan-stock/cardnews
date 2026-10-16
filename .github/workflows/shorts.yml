@@ -9,6 +9,9 @@ on:
       cmd:
         description: "render(원고로 영상) | voices(타입캐스트 목소리 목록) | yt-check(유튜브 연결 확인)"
         default: render
+      q:
+        description: "voices일 때 목소리 이름 검색(예: 필재). 비우면 쇼츠용 목록"
+        default: ""
 permissions:
   contents: write
   actions: write
@@ -38,7 +41,7 @@ jobs:
           set -o pipefail
           cmd="${{ inputs.cmd || 'render' }}"
           case "$cmd" in
-            voices) python -m cardnews.tts voices ;;
+            voices) python -m cardnews.tts voices "${{ inputs.q }}" ;;
             yt-check) python -m cardnews.youtube check ;;
             *) if [ ! -f drafts/shorts.json ]; then
                  echo "drafts/shorts.json 이 아직 없어요. 목소리 목록은 cmd 칸에 voices 를 넣고 실행하세요."; exit 1; fi
