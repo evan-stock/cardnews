@@ -105,10 +105,16 @@ def build_reel(d, base, send):
                         "-frames:v", "1", "-vf", "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920",
                         "-q:v", "2", str(fr)], check=True)
         c["img"] = "cand/reel_frame.jpg"
-    cover = make_thumb({**c, "id": d["id"], "out": "reel_cover.jpg"})
-    ov = make_thumb({**c, "id": d["id"], "out": "reel_overlay.png", "overlay": True})
+    if c.get("final"):  # 글자까지 완성된 커버 이미지를 그대로 사용(영상에도 글자가 이미 들어간 경우)
+        import shutil
+        cover = base / "reel_cover.jpg"
+        shutil.copy(base / c["img"], cover)
+        ov = None
+    else:
+        cover = make_thumb({**c, "id": d["id"], "out": "reel_cover.jpg"})
+        ov = make_thumb({**c, "id": d["id"], "out": "reel_overlay.png", "overlay": True})
     out = str(base / "reel.mp4")
-    reel_916(src, str(ov) if d.get("overlay_text", True) else None, out, v.get("start", 0), v.get("dur", 20),
+    reel_916(src, str(ov) if ov and d.get("overlay_text", True) else None, out, v.get("start", 0), v.get("dur", 20),
              v.get("x", 0.5), v.get("y", 0.5), keep_audio=v.get("audio", True))
     if not send:
         return
