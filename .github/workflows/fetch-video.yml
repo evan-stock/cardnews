@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: sudo apt-get install -y -qq ffmpeg && pip install -q yt-dlp
+      - run: sudo apt-get install -y -qq ffmpeg && pip install -q -U "yt-dlp[default,curl-cffi]" && (curl -fsSL https://deno.land/install.sh | sh -s -- -y >/dev/null 2>&1 && echo "$HOME/.deno/bin" >> $GITHUB_PATH || true)
       - name: download
         continue-on-error: true
         run: |
