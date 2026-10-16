@@ -16,6 +16,8 @@ import requests
 from .common import CFG, now, read_text, write_text
 
 API = "https://api.typecast.ai"
+# Typecast 연동 출처 표기(API 페이지 안내에 따름). 직접 HTTP 호출이라 User-Agent로 보낸다.
+UA = "typecast-direct/1 python-requests typecast-integration/1 (source=api-page; generated_by=claude-code)"
 
 
 def cfg():
@@ -45,7 +47,7 @@ def _add_usage(n):
 
 
 # ── 엔진 ─────────────────────────────────────────────────────────────
-def typecast(text, out, c):
+def typecast(text, out, c, ctx=None):
     key = os.environ.get("TYPECAST_API_KEY")
     if not key:
         raise RuntimeError("TYPECAST_API_KEY 없음")
@@ -56,30 +58,34 @@ def typecast(text, out, c):
     body = {"text": text, "model": c["model"], "voice_id": c["voice_id"], "language": "kor",
             "output": {"audio_format": "mp3", "audio_tempo": float(c["tempo"]), "target_lufs": -14.0,
                        "remove_silence_ms": 150}}
-    if c.get("emotion") == "smart":
-        body["prompt"] = {"emotion_type": "smart"}
+    if c.get("emotion") == "smart":  # 앞뒤 장면 문장을 같이 줘서 문맥에 맞는 억양으로
+        body["prompt"] = {"emotion_type": "smart", **{k: v for k, v in (ctx or {}).items() if v}}
     elif c.get("emotion") and c["emotion"] != "normal":
         body["prompt"] = {"emotion_type": "preset", "emotion_preset": c["emotion"],
                           "emotion_intensity": float(c.get("intensity", 1.0))}
-    h = {"X-API-KEY": key, "Content-Type": "application/json"}
-    r = requests.post(f"{API}/v1/text-to-speech", headers=h, json=body, timeout=120)
+    h = {"X-API-KEY": key, "Content-Type": "application/json", "User-Agent": UA}
+    url = f"{API}/v1/text-to-speech/with-timestamps?granularity=word"  # 음성 + 단어별 시각(자막 싱크용)
+    r = requests.post(url, headers=h, json=body, timeout=120)
     if r.status_code == 422 and "prompt" in body:  # 감정 필드 형식이 안 맞으면 감정 없이 재시도
         body.pop("prompt")
-        r = requests.post(f"{API}/v1/text-to-speech", headers=h, json=body, timeout=120)
-    if not r.ok or not r.content or r.headers.get("content-type", "").startswith("application/json"):
+        r = requests.post(url, headers=h, json=body, timeout=120)
+    if not r.ok:
         raise RuntimeError(f"타입캐스트 {r.status_code}: {r.text[:200]}")
-    open(out, "wb").write(r.content)
+    import base64
+    j = r.json()
+    open(out, "wb").write(base64.b64decode(j["audio"]))
     _add_usage(len(text))
+    c["_words"] = [{"text": w["text"], "start": float(w["start"]), "end": float(w["end"])} for w in (j.get("words") or [])]
     return "typecast"
 
 
-def edge(text, out, c):
+def edge(text, out, c, ctx=None):
     subprocess.run(["edge-tts", "--voice", c["edge_voice"], f"--rate={c['edge_rate']}", "--text", text,
                     "--write-media", out], check=True, capture_output=True)
     return "edge"
 
 
-def silent(text, out, c):
+def silent(text, out, c, ctx=None):
     """시험용(네트워크 없을 때): 글자 수로 길이만 맞춘 무음."""
     dur = max(1.0, len(text.replace(" ", "")) / 7.0)
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-t", f"{dur:.2f}", "-i",
@@ -90,8 +96,10 @@ def silent(text, out, c):
 ENGINES = {"typecast": typecast, "edge": edge, "silent": silent}
 
 
-def say(text, out, override=None):
-    """text를 out(mp3)으로. 실제로 쓴 엔진 이름을 돌려준다."""
+def say(text, out, override=None, ctx=None, timed=False):
+    """text를 out(mp3)으로. 실제로 쓴 엔진 이름을 돌려준다.
+    timed=True면 (엔진, 단어별 시각 목록 또는 None). 타입캐스트일 때만 시각이 나온다.
+    ctx={"previous_text","next_text"}: emotion=smart일 때 앞뒤 문장."""
     c = {**cfg(), **(override or {})}
     order = [c["engine"]] + [e for e in ("typecast", "edge") if e != c["engine"]]
     if c["engine"] == "silent":
@@ -99,7 +107,8 @@ def say(text, out, override=None):
     err = []
     for e in order:
         try:
-            return ENGINES[e](text, out, c)
+            eng = ENGINES[e](text, out, c, ctx)
+            return (eng, c.get("_words") or None) if timed else eng
         except Exception as ex:
             err.append(f"{e}: {ex}")
             print("TTS 대체:", err[-1])
@@ -110,7 +119,7 @@ def voices():
     key = os.environ.get("TYPECAST_API_KEY")
     if not key:
         raise SystemExit("TYPECAST_API_KEY 가 필요해요.")
-    r = requests.get(f"{API}/v3/voices", headers={"X-API-KEY": key}, params={"model": cfg()["model"]}, timeout=60)
+    r = requests.get(f"{API}/v3/voices", headers={"X-API-KEY": key, "User-Agent": UA}, params={"model": cfg()["model"]}, timeout=60)
     r.raise_for_status()
     vs = r.json()
     shorts = [v for v in vs if any("Short" in u for u in v.get("use_cases", []))]

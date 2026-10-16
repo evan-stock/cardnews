@@ -72,7 +72,7 @@ shorts:
     engine: typecast    # typecast → 실패·한도 초과 시 edge 자동 대체 | edge | silent(시험용)
     model: ssfm-v30
     voice_id: ""        # shorts 워크플로 cmd=voices 로 목록 받아서 채우기
-    emotion: normal     # normal | happy | sad | angry | whisper | toneup | tonedown | smart
+    emotion: smart      # smart(앞뒤 문장 보고 억양 자동, 추천) | normal | happy | sad | angry | whisper | toneup | tonedown
     intensity: 1.0
     tempo: 1.1          # 쇼츠는 1.1~1.2배가 자연스러움
     monthly_cap: 28000  # 무료 플랜 월 30,000자 중 여유 2,000자 남기고 edge로 전환

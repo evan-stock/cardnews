@@ -172,17 +172,33 @@ def has_audio(path):
 
 
 # ── 장면 합성 ─────────────────────────────────────────────────────────
-def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out):
+def word_times(subs, words, dur):
+    """타입캐스트 단어 시각으로 자막 덩어리 시간을 정한다. 덩어리의 단어 수만큼 순서대로 묶는다.
+    단어 수가 안 맞으면(자막을 따로 쓴 경우 등) None."""
+    n = [len(c.split()) for c in subs]
+    if not words or sum(n) != len(words):
+        return None
+    times, i = [], 0
+    for k, m in enumerate(n):
+        a = 0.0 if k == 0 else words[i]["start"]
+        i += m
+        b = dur if k == len(n) - 1 else words[i]["start"]
+        times.append((a, b))
+    return times
+
+
+def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
     adur = float(probe(voice_mp3))
     dur = round(max(adur + sc["gap"], float(scene.get("min", 0))), 2)
     subs = chunks(scene.get("sub") or scene["say"], sc["chunk"]) if not scene.get("nosub") else []
-    # 덩어리별 시간: 글자 수 비율(음성 길이 안에서)
-    lens = [max(2, len(c.replace(" ", ""))) for c in subs]
-    tot, t, times = sum(lens) or 1, 0.0, []
-    for k, l in enumerate(lens):
-        a = t
-        t += adur * l / tot
-        times.append((a, dur if k == len(lens) - 1 else t))
+    times = word_times(subs, words, dur) if not scene.get("sub") else None
+    if times is None:  # 단어 시각이 없으면(Edge TTS 등) 글자 수 비율로 나눈다
+        lens = [max(2, len(c.replace(" ", ""))) for c in subs]
+        tot, t, times = sum(lens) or 1, 0.0, []
+        for k, l in enumerate(lens):
+            a = t
+            t += adur * l / tot
+            times.append((a, dur if k == len(lens) - 1 else t))
     pngs = []
     for k, c in enumerate(subs):
         p = f"{tmp}/s{sc_i:02d}_{k:02d}.png"
@@ -266,9 +282,13 @@ def render(d):
     segs_, engines, total = [], [], 0.0
     for i, scene in enumerate(d["scenes"]):
         mp3 = f"{tmp}/v{i:02d}.mp3"
-        engines.append(say(scene["say"].replace("'", ""), mp3, d.get("voice")))
+        sc_list = d["scenes"]
+        ctx = {"previous_text": sc_list[i - 1]["say"].replace("'", "") if i else "",
+               "next_text": sc_list[i + 1]["say"].replace("'", "") if i + 1 < len(sc_list) else ""}
+        eng, words = say(scene["say"].replace("'", ""), mp3, d.get("voice"), ctx=ctx, timed=True)
+        engines.append(eng)
         seg = f"{tmp}/seg{i:02d}.mp4"
-        total += scene_clip(base, i, scene, title, mp3, tmp, sc, seg)
+        total += scene_clip(base, i, scene, title, mp3, tmp, sc, seg, words)
         segs_.append(seg)
         print(f"장면 {i + 1}/{len(d['scenes'])} {engines[-1]} 누적 {total:.1f}초")
     lst = f"{tmp}/list.txt"
