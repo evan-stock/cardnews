@@ -71,7 +71,7 @@ shorts:
   tts:
     engine: typecast    # typecast → 실패·한도 초과 시 edge 자동 대체 | edge | silent(시험용)
     model: ssfm-v30
-    voice_id: ""        # shorts 워크플로 cmd=voices 로 목록 받아서 채우기
+    voice_id: tc_68257f68bc6e3c161ab5078d   # 필재(기본). 바꾸려면 채팅에서 "목소리 ○○로 바꿔줘"
     emotion: smart      # smart(앞뒤 문장 보고 억양 자동, 추천) | normal | happy | sad | angry | whisper | toneup | tonedown
     intensity: 1.0
     tempo: 1.1          # 쇼츠는 1.1~1.2배가 자연스러움
