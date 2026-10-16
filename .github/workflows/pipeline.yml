@@ -3,8 +3,8 @@ name: cardnews
 on:
   schedule:
     # GitHub cron은 UTC 기준이고 몇 분~수십 분 늦게 돌 수 있어요.
-    - cron: "15 2 * * *"      # 11:15 KST  점심 게시물 준비
-    - cron: "15 7 * * *"      # 16:15 KST  저녁 게시물 준비
+    # - cron: "15 2 * * *"    # 11:15 KST 점심 자동 준비 (2026.10.16 중지: API 크레딧 소진, 채팅 원고 모드로 대체)
+    # - cron: "15 7 * * *"    # 16:15 KST 저녁 자동 준비 (2026.10.16 중지)
     - cron: "0 0-12/3 * * *" # 09·12·15·18·21시 KST 예비 확인(평소엔 준비 후 watch가 1분마다 확인)
   workflow_dispatch:
     inputs:
