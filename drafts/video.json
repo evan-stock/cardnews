@@ -1,1 +1,1 @@
-{"id": "20261016-pdnote", "frames": 10, "format": "bv*[height<=720]/b[height<=720]/b", "urls": ["https://www.youtube.com/watch?v=-xg5NP1sj2Y"], "try": 2}
+{"id": "20261017-a2o", "frames": 0, "format": "bv*[height<=1080][vcodec^=vp9]+ba/bv*[height<=1080]+ba/b[height<=1080]", "urls": ["https://www.youtube.com/watch?v=93j1fDGi_-8", "https://www.youtube.com/watch?v=qTGFXo4pGTo", "https://www.youtube.com/watch?v=KGK2KZOFAPE"], "try": 1}
