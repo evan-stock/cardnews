@@ -1,19 +1,16 @@
 [
  {
-  "id": "20261015-coffin",
-  "img": "cand/reel_frame_1080.jpg",
-  "tag": "실제 영상",
-  "t": "죽은 줄 알았던 딸\n장례식 도중\n'관에서 일어났다'",
-  "sub": "의사 확인 없이 8시간 동안 관 속에…",
+  "id": "20261016-orca",
+  "img": "cand/reel_bg.jpg",
+  "t": "죽은 새끼 가라앉자\n엄마 범고래는\n'잠수해 다시 건졌다'",
+  "sub": "17일 동안 1,600km를 함께 헤엄쳤다…",
   "out": "reel_cover.jpg"
  },
  {
-  "id": "20261015-coffin",
-  "img": "cand/reel_frame_1080.jpg",
-  "tag": "실제 영상",
-  "t": "죽은 줄 알았던 딸\n장례식 도중\n'관에서 일어났다'",
-  "sub": "의사 확인 없이 8시간 동안 관 속에…",
-  "out": "reel_overlay.png",
-  "overlay": true
+  "id": "20261016-orca",
+  "img": "cand/reel_bg.jpg",
+  "t": "죽은 새끼 밀고 17일\n엄마 범고래 6년 뒤\n'또 새끼를 잃었다'",
+  "sub": "가라앉으면 잠수해서 다시 건져 올렸다…",
+  "out": "reel_cover_b.jpg"
  }
 ]
