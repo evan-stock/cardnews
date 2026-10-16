@@ -1,7 +1,7 @@
 [
  {
   "id": "20261017-a2o",
-  "mode": "send",
+  "mode": "collect",
   "format": "reel",
   "topic": "이수만 복귀작 A2O LITE '니온', 공개 29시간 만에 멜론 톱100 1위(신인 데뷔곡 최단)",
   "category": "국내 셀럽·화제",
@@ -48,6 +48,17 @@
   ],
   "photo_credits": [
    "Mnet 쇼케이스 무대 영상"
+  ],
+  "image_pages": [
+   "https://www.harpersbazaar.co.kr/article/1911354",
+   "https://www.gukjenews.com/news/articleView.html?idxno=3723613",
+   "https://www.mt.co.kr/photo/202610121719553786",
+   "https://www.tenasia.co.kr/article/2026101419014",
+   "https://www.xportsnews.com/article/2206999",
+   "https://tvreport.co.kr/breaking/article/1083145/",
+   "https://www.koreatimes.co.kr/entertainment/k-pop/20261015/lee-soo-mans-new-girl-group-a2o-lite-tops-melon-chart",
+   "https://www.dailian.co.kr/news/view/1701759/",
+   "https://enews.imbc.com/News/RetrieveNewsInfo/521025"
   ]
  }
 ]
