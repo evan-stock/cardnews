@@ -251,6 +251,9 @@ def word_times(subs, words, dur):
 def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
     adur = float(probe(voice_mp3))
     dur = round(max(adur + sc["gap"], float(scene.get("min", 0))), 2)
+    if scene.get("dur"):  # 장면 길이 직접 지정(내레이션 없는 영상에서 주로 사용)
+        dur = float(scene["dur"])
+        adur = max(0.5, dur - sc["gap"])
     subs = chunks(scene.get("sub") or scene["say"], sc["chunk"]) if not scene.get("nosub") else []
     times = word_times(subs, words, dur) if not scene.get("sub") else None
     if times is None:  # 단어 시각이 없으면(Edge TTS 등) 글자 수 비율로 나눈다
@@ -347,6 +350,10 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
 
 def render(d):
     sc = {**scfg(), **d.get("style", {})}  # 채널별 디자인 덮어쓰기(마스코트·띠 높이·자막 크기 등)
+    if d.get("narration") is False:  # TTS 없이 원본 소리 + 배경음악(감동형 등). 자막이 이야기를 끌고 간다
+        d = {**d, "voice": {**(d.get("voice") or {}), "engine": "silent"}}
+        sc["video_audio"] = sc.get("quiet_video_audio", 1.0)
+        sc["bgm_volume"] = sc.get("quiet_bgm_volume", 0.35)
     base = MEDIA / d["id"]
     os.makedirs(base, exist_ok=True)
     tmp = tempfile.mkdtemp()
@@ -414,6 +421,8 @@ def description(d, engines):
         note.append("※ 일부 장면은 AI로 만든 참고 이미지입니다.")
     if "typecast" in engines:
         note.append("음성: Typecast")
+    if d.get("bgm_credit"):  # CC BY 음악 등 표기 의무가 있는 곡
+        note.append("음악: " + d["bgm_credit"])
     if note:
         parts.append("\n".join(note))
     tags = [t.lstrip("#") for t in y.get("tags", [])][:4]
