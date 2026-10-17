@@ -1,0 +1,35 @@
+{
+ "id": "20261018-saturn-hex",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-18T04:26:14.900525+09:00",
+ "publish_at": "2026-10-18T04:26:14.900538+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 토성 북극의 육각형 구름(제트기류)",
+ "sources": [],
+ "seconds": 25.2,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261018-saturn-hex/short_card.mp4"
+ ],
+ "yt": {
+  "title": "지구 2개가 들어가는 '육각형' 구름의 정체ㄷㄷ #shorts",
+  "description": "토성 북극에는 지구가 두 개 넘게 들어가는 거대한 육각형 구름이 있습니다. 정체는 시속 약 500km로 도는 제트기류. 1980년대 보이저호가 처음 발견했고, 카시니 탐사선이 13년 동안 지켜봤습니다.\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: NASA Science 'Saturn's Hexagon in Motion', Space.com\n영상·사진: NASA/JPL-Caltech/Space Science Institute, NASA(Voyager 2, Apollo 17)\n음악: Stake Out - Alex Jones / Xander Jones (YouTube 오디오 보관함)\n\n#토성 #육각형 #우주 #NASA #신기한이유 #오늘의쓸모",
+  "tags": [
+   "토성",
+   "토성 육각형",
+   "우주",
+   "NASA",
+   "카시니",
+   "신기한 이유",
+   "오늘의쓸모"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "tg_msg": 395
+}
