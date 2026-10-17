@@ -2,7 +2,7 @@
  {
   "id": "20261017-ratking",
   "slot": "lunch",
-  "mode": "render",
+  "mode": "send",
   "topic": "쥐 꼬리가 엉켜 묶이는 '쥐왕(Rat King)' 현상과 이번 주 미국 인디애나 '다람쥐 왕' 구조",
   "category": "신기한 사실 · 동물",
   "core": "쥐왕: 꼬리가 털·끈적한 물질·얼음 등으로 엉킨 쥐 무리. 최대 알텐부르크 32마리(1828 부흐하임). 에스토니아 2005(16→13마리), 2021 폴바마 살아있는 13마리. 원인 설명: 겨울 둥지 속 들러붙어 굳음. 오래된 표본 조작 의혹도. 이번 주 인디애나 다람쥐 왕 3마리 수술 분리.",
@@ -93,6 +93,8 @@
    "F. W. Schmuck c.1683 (Public domain)",
    "Katie Lennox-Philibeck/FOX Weather",
    "Jennifer Hancock/ReWilding Indiana"
-  ]
+  ],
+  "publish_at": "2026-10-18T12:30:00+09:00",
+  "approved": true
  }
 ]
