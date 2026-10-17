@@ -519,9 +519,21 @@ def send_preview(post, path):
                                         {"text": "❌ 거절", "callback_data": f"no:{post['id']}"}]])["message_id"]
 
 
+def draft_hash(d):
+    import hashlib
+    return hashlib.sha1(json.dumps(d, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:12]
+
+
 def one(d):
     if d.get("mode", "render") not in ("render", "send"):
         return
+    if d.get("mode") == "send":  # 같은 원고로 다시 실행돼도(맥북 목소리 완료 후 재실행 등) 미리보기·게시물을 중복으로 만들지 않는다
+        sp = ROOT / "state" / "posts" / f"{d['id']}.json"
+        if sp.exists():
+            old = json.load(open(sp, encoding="utf-8"))
+            if old.get("draft_hash") == draft_hash(d) and old.get("status") in ("pending", "approved", "published", "uploaded"):
+                print("이미 보낸 원고(변경 없음) → 건너뜀:", d["id"], old.get("status"))
+                return
     try:
         out, total, engines = render(d)
     except WaitTTS as e:
@@ -546,6 +558,7 @@ def one(d):
                    "category": int(y.get("category", scfg()["category"])), "privacy": y.get("privacy", "public"),
                    "synthetic": bool(y.get("synthetic", any(s.get("label") for s in d["scenes"]))),
                    "channel": y.get("channel")}}
+    post["draft_hash"] = draft_hash(d)
     post["tg_msg"] = send_preview(post, out)
     if d.get("approved"):  # 채팅에서 이미 승인받은 경우만. publish_now는 '승인되면 바로 공개'라는 뜻일 뿐 승인을 대신하지 않는다
         post.update(status="approved", decided_at=now().isoformat())

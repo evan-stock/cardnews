@@ -1,0 +1,40 @@
+name: shorts-tw
+# 오늘의쓸모(@today.worthy) 릴스·쇼츠 실험용: drafts/shorts_tw.json 으로 영상만 만든다(render 전용, 업로드 없음).
+# 타입캐스트 목소리는 맥북이 media/<id>/tts/ 에 올리면 그 push로 다시 실행된다.
+on:
+  push:
+    paths: ["drafts/shorts_tw.json", "media/*/tts/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: shorts-tw
+  cancel-in-progress: true
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Asia/Seoul
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: 이 원고의 목소리 파일이 바뀐 경우만 진행
+        id: chk
+        run: |
+          id=$(python3 -c "import json;d=json.load(open('drafts/shorts_tw.json'));print((d if isinstance(d,dict) else d[0])['id'])")
+          echo "id=$id" >> $GITHUB_OUTPUT
+          if [ "${{ github.event_name }}" = "push" ] && ! git diff --name-only ${{ github.event.before }} ${{ github.sha }} 2>/dev/null | grep -qE "drafts/shorts_tw.json|media/$id/tts/"; then echo "skip=1" >> $GITHUB_OUTPUT; fi
+      - if: steps.chk.outputs.skip != '1'
+        uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - if: steps.chk.outputs.skip != '1'
+        run: pip install -r requirements.txt edge-tts && sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk fonts-noto-cjk-extra ffmpeg
+      - if: steps.chk.outputs.skip != '1'
+        run: python -m cardnews.shorts drafts/shorts_tw.json 2>&1 | tee state/shorts_tw_log.txt
+      - if: always() && steps.chk.outputs.skip != '1'
+        run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          git add -A media state
+          git diff --cached --quiet || (git commit -m "shorts-tw: render" && git pull --rebase && git push)

@@ -1,0 +1,80 @@
+{
+ "id": "20261018-sprite2",
+ "mode": "render",
+ "topic": "[실험] 붉은 번개(스프라이트) 103년 이야기 — 잘난지식 이야기형 쇼츠",
+ "hook": {
+  "t": "증거 없던 '붉은 번개'\n찍히기까지 '103년'"
+ },
+ "style": {
+  "mascot": null
+ },
+ "credit": "영상: @florian.riou · 사진: NASA",
+ "photo_credits": [
+  "@florian.riou (Storyful)",
+  "NASA"
+ ],
+ "scenes": [
+  {
+   "say": "구름 위에서 터지는 이 '붉은 번개', 사진으로 증명되기까지 103년이 걸렸습니다.",
+   "video": {
+    "src": "video/flash.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.45
+   }
+  },
+  {
+   "say": "첫 목격 기록은 1886년. 하지만 증거는 없었습니다.",
+   "img": "cand/g1886.jpg",
+   "zoom": 0.06
+  },
+  {
+   "say": "비행기보다 다섯 배 넘게 높은 50에서 90킬로미터 상공에서, 눈 깜짝할 새 사라지니까요.",
+   "img": "cand/galt.jpg",
+   "zoom": 0.04
+  },
+  {
+   "say": "1925년엔 훗날 노벨상을 받는 물리학자가 이론으로 예측까지 했지만, 아무도 찍지 못했습니다.",
+   "img": "cand/g1925.jpg",
+   "zoom": 0.06
+  },
+  {
+   "say": "그러다 1989년, 미국 미네소타대 연구진이 카메라를 시험하다 '우연히' 찍어버립니다.",
+   "img": "cand/g1989.jpg",
+   "zoom": 0.06
+  },
+  {
+   "say": "그 뒤 비행기와 우주정거장에서도 잇따라 찍히면서, 진짜 자연현상으로 인정받았습니다.",
+   "img": "cand/iss.jpg",
+   "zoom": 0.1
+  },
+  {
+   "say": "지금은 사진작가들이 수백 킬로미터 떨어진 폭풍을 노려, 이런 장면까지 담아냅니다.",
+   "video": {
+    "src": "video/finalpan.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.45
+   }
+  },
+  {
+   "say": "이런 뜻밖의 발견, 매일 올립니다. 팔로우하고 놓치지 마세요.",
+   "img": "cand/final.jpg",
+   "zoom": 0.05,
+   "end": true
+  }
+ ],
+ "sources": [
+  {
+   "publisher": "Wikipedia 'Sprite (lightning)'",
+   "url": "https://en.wikipedia.org/wiki/Sprite_(lightning)"
+  },
+  {
+   "publisher": "Fox Weather",
+   "date": "2026.10.16"
+  },
+  {
+   "publisher": "NASA"
+  }
+ ]
+}
