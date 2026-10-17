@@ -44,8 +44,17 @@ FONT_B = "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc"
 
 
 def scfg():
-    return {**{"title_size": 92, "sub_size": 82, "sub_y": 0.62, "gap": 0.12, "chunk": 14, "zoom": 0.10,
-               "video_audio": 0.0, "bgm_volume": 0.10, "category": 24}, **CFG.get("shorts", {})}
+    return {**{"layout": "band", "band": 430, "title_size": 96, "sub_size": 82, "sub_y": 0.68, "gap": 0.12,
+               "chunk": 14, "zoom": 0.10, "video_audio": 0.0, "bgm_volume": 0.10, "category": 24,
+               "mascot": None}, **CFG.get("shorts", {})}
+
+
+def area(sc):
+    """영상이 들어가는 영역 (위쪽 y, 높이). band 레이아웃이면 검정 띠 아래, 아니면 전체 화면."""
+    if sc.get("layout") == "band":
+        b = int(sc["band"]) // 2 * 2
+        return b, H - b
+    return 0, H
 
 
 def font(size, bold=False):
@@ -74,8 +83,49 @@ def draw_line(d, y, line, size, max_w=W - 110, stroke=8, anchor_mid=True):
 
 
 # ── 글자 레이어 ───────────────────────────────────────────────────────
+def band_png(hook, out, sc, credit=""):
+    """A안(2026.10.17 확정): 위쪽 검정 띠 + 2줄 제목(1줄 노랑, 2줄 흰색) + 띠 아래 빨간 태그 +
+    왼쪽 아래 원작자 표기 + 오른쪽 아래 마스코트. 영상 위에 계속 얹는 투명 PNG."""
+    im = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    top, _ = area(sc)
+    d.rectangle((0, 0, W, top), fill=(0, 0, 0, 255))
+    lines = [l for l in hook["t"].replace("\\n", "\n").split("\n") if l.strip()][:3]
+    size = sc["title_size"] if len(lines) <= 2 else int(sc["title_size"] * 0.82)
+    lh = int(size * 1.25)
+    y = (top - lh * len(lines)) // 2 + int(size * 0.05)
+    for i, line in enumerate(lines):
+        base_col = YELLOW if i == 0 else WHITE
+        parts = [(p, YELLOW if k % 2 else base_col) for k, p in enumerate(line.split("'")) if p]
+        f, sz = font(size), size
+        tw = sum(d.textlength(t, font=f) for t, _ in parts)
+        while tw > W - 90 and sz > 50:
+            sz -= 3
+            f = font(sz)
+            tw = sum(d.textlength(t, font=f) for t, _ in parts)
+        x = (W - tw) / 2
+        for t, c in parts:
+            d.text((x, y), t, font=f, fill=c, stroke_width=4, stroke_fill=(0, 0, 0))
+            x += d.textlength(t, font=f)
+        y += lh
+    if hook.get("tag"):
+        f = font(40)
+        tag = "● " + hook["tag"]
+        tw = d.textlength(tag, font=f)
+        d.rounded_rectangle((36, top + 28, 36 + tw + 44, top + 96), 14, fill=RED)
+        d.text((58, top + 62), tag, font=f, fill=WHITE, anchor="lm")
+    if credit:
+        d.text((40, H - 70), credit, font=font(30, True), fill=(235, 235, 235), stroke_width=3, stroke_fill=(0, 0, 0))
+    m = sc.get("mascot")
+    if m and os.path.exists(ROOT / m):
+        mi = Image.open(ROOT / m).convert("RGBA")
+        mi.thumbnail((190, 190))
+        im.alpha_composite(mi, (W - mi.width - 30, H - mi.height - 40))
+    im.save(out)
+
+
 def title_png(hook, out, sc):
-    """위쪽 고정 제목: 어두운 그라데이션 + ● TODAY.WORTHY + 빨간 태그 + 굵은 제목 2~3줄."""
+    """(이전 방식) 위쪽 고정 제목: 어두운 그라데이션 + ● TODAY.WORTHY + 빨간 태그 + 굵은 제목 2~3줄."""
     im = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     g = Image.new("L", (1, H))
     for y in range(H):
@@ -142,9 +192,13 @@ def fit_cover(img, w, h, cx=0.5, cy=0.5):
     return img.crop((x, y, x + w, y + h))
 
 
-def still(path, out, cx=0.5, cy=0.5):
-    """사진을 9:16으로. 세로 사진은 꽉 채우고, 가로 사진은 흐린 배경 위 가운데(제목과 자막 사이)에."""
+def still(path, out, cx=0.5, cy=0.5, sc=None):
+    """사진을 영상 영역에 맞춘다. band 레이아웃: 띠 아래(1080x1490)를 꽉 채운다(가로 사진도 크롭)."""
     img = Image.open(path).convert("RGB")
+    if sc and sc.get("layout") == "band":
+        _, ah = area(sc)
+        fit_cover(img, W, ah, cx, cy).save(out, quality=94)
+        return
     if img.height / img.width >= 1.25:
         fit_cover(img, W, H, cx, cy).save(out, quality=94)
         return
@@ -156,8 +210,8 @@ def still(path, out, cx=0.5, cy=0.5):
     bg.save(out, quality=94)
 
 
-def blank(out):
-    Image.new("RGB", (W, H), (14, 14, 18)).save(out, quality=94)
+def blank(out, h=H):
+    Image.new("RGB", (W, h), (14, 14, 18)).save(out, quality=94)
 
 
 def probe(path, what="format=duration"):
@@ -217,9 +271,20 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
         cmd += ["-stream_loop", "-1", "-ss", str(v.get("start", 0)), "-t", str(dur), "-i", src]
         vw, vh = map(int, probe(src, "stream=width,height").split("\n")[0].split(",")[:2])
         fit = v.get("fit", "auto")
+        top, ah = area(sc)
         if fit == "auto":  # 가로 영상은 잘리지 않게 가운데 띠로, 세로 영상은 꽉 채움
-            fit = "fit" if vw / vh > 1.1 else "fill"
-        if fit == "fit":
+            fit = "fit" if vw / vh > (1.1 if sc.get("layout") != "band" else 9.9) else "fill"  # band: 기본 꽉 채움(x로 크롭 위치)
+        if sc.get("layout") == "band":
+            if fit == "fit":  # 아주 넓은 영상: 영역 안 가운데 띠 + 흐린 배경
+                fh = min(int(vh * W / vw) // 2 * 2, ah)
+                vf = (f"[0:v]split[a0][b0];[a0]scale=-2:{ah},crop=1080:{ah},boxblur=30:2,eq=brightness=-0.18[bb];"
+                      f"[b0]scale=1080:-2:flags=lanczos,crop=1080:{fh}[ff];[bb][ff]overlay=0:{(ah - fh) // 2},"
+                      f"pad=1080:1920:0:{top}:black,setsar=1,fps={FPS},format=yuv420p[bg]")
+            else:
+                vf = (f"[0:v]scale='if(gt(a,1080/{ah}),-2,1080)':'if(gt(a,1080/{ah}),{ah},-2)':flags=lanczos,"
+                      f"crop=1080:{ah}:(in_w-1080)*{v.get('x', 0.5)}:(in_h-{ah})*{v.get('y', 0.5)},"
+                      f"pad=1080:1920:0:{top}:black,setsar=1,fps={FPS},format=yuv420p[bg]")
+        elif fit == "fit":
             fh = min(int(vh * W / vw) // 2 * 2, int(H * 0.42) // 2 * 2)
             top = max(int(H * 0.33), int(H * 0.50) - fh // 2)
             vf = (f"[0:v]split[a0][b0];[a0]scale=-2:1920,crop=1080:1920,boxblur=30:2,eq=brightness=-0.18[bb];"
@@ -234,13 +299,14 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
     else:
         st = f"{tmp}/still{sc_i:02d}.jpg"
         if scene.get("img"):
-            still(str(base / scene["img"]), st, scene.get("x", 0.5), scene.get("y", 0.5))
+            still(str(base / scene["img"]), st, scene.get("x", 0.5), scene.get("y", 0.5), sc)
         else:
-            blank(st)
+            blank(st, area(sc)[1] if sc.get("layout") == "band" else H)
         z = float(scene.get("zoom", sc["zoom"]))
         cmd += ["-loop", "1", "-framerate", str(FPS), "-t", str(dur), "-i", st]
+        top, ah = area(sc)
         vf = (f"[0:v]scale=w='trunc(1080*(1+{z}*t/{dur})/2)*2':h=-2:eval=frame:flags=bicubic,"
-              f"crop=1080:1920,setsar=1,fps={FPS},format=yuv420p[bg]")
+              f"crop=1080:{ah},pad=1080:1920:0:{top}:black,setsar=1,fps={FPS},format=yuv420p[bg]")
         orig, vol = False, 0
     n_in = 1
     last = "bg"
@@ -278,7 +344,12 @@ def render(d):
     title = None
     if d.get("hook"):
         title = f"{tmp}/title.png"
-        title_png(d["hook"], title, sc)
+        if sc.get("layout") == "band":
+            credit = d.get("credit") or ("영상: " + ", ".join(list(dict.fromkeys(d.get("photo_credits", [])))[:2])
+                                         if d.get("photo_credits") else "")
+            band_png(d["hook"], title, sc, credit)
+        else:
+            title_png(d["hook"], title, sc)
     segs_, engines, total = [], [], 0.0
     for i, scene in enumerate(d["scenes"]):
         mp3 = f"{tmp}/v{i:02d}.mp3"

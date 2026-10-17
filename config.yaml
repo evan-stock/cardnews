@@ -59,9 +59,12 @@ instagram:
 
 # 유튜브 쇼츠(채팅 원고 drafts/shorts.json → .github/workflows/shorts.yml). 설명: docs/SHORTS.md
 shorts:
-  title_size: 92        # 위쪽 고정 제목 글자 크기
+  layout: band          # band = A안(2026.10.17 확정): 위 검정 띠 + 2줄 제목(노랑/흰), 띠 아래 영상 꽉 채움
+  band: 430             # 검정 띠 높이(px)
+  mascot: null          # 채널 마스코트 PNG 경로(예: assets/mascot.png), 오른쪽 아래에 표시
+  title_size: 96        # 위쪽 제목 글자 크기
   sub_size: 82          # 자막 글자 크기
-  sub_y: 0.62           # 자막 세로 위치(화면 높이 비율)
+  sub_y: 0.68           # 자막 세로 위치(화면 높이 비율)
   chunk: 14             # 자막 한 덩어리 최대 글자 수(공백 제외)
   zoom: 0.10            # 사진 장면 확대 정도
   video_audio: 0.0      # 실제 영상 원본 소리 크기(0=끔, 장면별 "audio"로 덮어쓰기)
