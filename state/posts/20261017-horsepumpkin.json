@@ -1,0 +1,38 @@
+{
+ "id": "20261017-horsepumpkin",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-17T19:33:12.216329+09:00",
+ "publish_at": "2026-10-17T19:33:12.216350+09:00",
+ "publish_now": true,
+ "topic": "핼러윈 호박 본 말의 수상한 눈빛",
+ "sources": [
+  {
+   "publisher": "TikTok @ronniesbiologicalmom",
+   "url": "https://www.tiktok.com/@ronniesbiologicalmom/video/7694022855893306654",
+   "date": "2026.10"
+  }
+ ],
+ "seconds": 19.5,
+ "tts": [
+  "typecast"
+ ],
+ "files": [
+  "media/20261017-horsepumpkin/short.mp4"
+ ],
+ "yt": {
+  "title": "핼러윈 호박 본 말의 세상 수상한 눈빛 #shorts",
+  "description": "마구간에 핼러윈 호박이 잔뜩 쌓였습니다. 냄새를 맡아 본 말 헨리는 갑자기 멈춰 서서 주인을 빤히 쳐다보는데요.\n\n말은 사람의 화난 표정과 웃는 표정을 구별한다는 연구도 있습니다(2016년 영국 서식스대 연구).\n\n여러분 집 털뭉치는 핼러윈 장식 보면 어떤 반응인가요?\n\n출처: TikTok @ronniesbiologicalmom 2026.10\n사진·영상: TikTok @ronniesbiologicalmom\n음성: Typecast\n\n#shorts #말 #핼러윈 #호박 #귀여운동물",
+  "tags": [
+   "말",
+   "핼러윈",
+   "호박",
+   "귀여운동물",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false
+ },
+ "tg_msg": 349
+}
