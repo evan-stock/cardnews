@@ -11,10 +11,10 @@
    {
     "t": "하늘에 '붉은 해파리'가\n번쩍였다",
     "inset": {
-     "img": "cand/flash.jpg",
+     "img": "cand/alien.jpg",
      "label": "외계인 아닙니다",
-     "fx": 0.5,
-     "fy": 0.35
+     "fx": 0.42,
+     "fy": 0.42
     }
    },
    {
@@ -65,7 +65,8 @@
   ],
   "photo_credits": [
    "@florian.riou (Storyful)",
-   "FOX Weather"
+   "FOX Weather",
+   "원형 사진: timlewisnm (CC BY-SA 2.0)"
   ]
  }
 ]
