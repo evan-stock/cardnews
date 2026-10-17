@@ -1,7 +1,7 @@
 {
  "id": "20261017-bosscat",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-17T19:42:56.503683+09:00",
  "publish_at": "2026-10-17T19:42:56.503703+09:00",
  "publish_now": true,
@@ -34,5 +34,9 @@
   "privacy": "public",
   "synthetic": false
  },
- "tg_msg": 353
+ "tg_msg": 353,
+ "decided_at": "2026-10-17T19:44:47.194591+09:00",
+ "yt_id": "JCcu0jjlOUg",
+ "permalink": "https://youtube.com/shorts/JCcu0jjlOUg",
+ "published_at": "2026-10-17T19:44:49.838538+09:00"
 }
