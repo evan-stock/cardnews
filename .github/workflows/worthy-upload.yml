@@ -1,13 +1,16 @@
 name: worthy-upload
-# 오늘의쓸모(@today.worthy) 흰 카드형 쇼츠 업로드: drafts/worthy_upload.json 을 push 하면 그 영상을 유튜브에 올린다.
-# {"file": "media/<id>/short_card.mp4", "publish_at": "2026-10-18T19:00:00+09:00"(선택),
-#  "yt": {"channel": "shop", "title": "...", "description": "...", "tags": [...], "privacy": "public"}}
+# 오늘의쓸모(@today.worthy) 흰 카드형 쇼츠: drafts/worthy_upload.json 을 push 하면
+#  - "mode": "send"(기본) → 텔레그램 미리보기 + [✅ 업로드] 버튼 → 승인되면 pipeline watch 가 유튜브에 올림(털뭉치와 같은 장치)
+#  - "mode": "upload" → 채팅에서 이미 승인받은 영상을 바로 올림
+# 한 번에 여러 편이면 리스트로. 항목: {"id","topic","file","mode","publish_at"(선택),
+#  "yt": {"channel": "shop", "title", "description", "tags", "privacy"}, "seconds"}
 # 채널 토큰: Secrets YT_REFRESH_TOKEN_SHOP (= 오늘의쓸모, 2026.10.18 연결)
 on:
   push:
     paths: ["drafts/worthy_upload.json"]
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: worthy-upload
   cancel-in-progress: false
@@ -33,18 +36,41 @@ jobs:
           python - <<'PY' 2>&1 | tee -a state/worthy_upload_log.txt
           import datetime as dt, json, os, requests
           from cardnews import youtube
-          d = json.load(open("drafts/worthy_upload.json", encoding="utf-8"))
-          yt = d["yt"]; yt.setdefault("channel", "shop")
-          pa = dt.datetime.fromisoformat(d["publish_at"]) if d.get("publish_at") else None
-          vid, url, status = youtube.upload(d["file"], yt, publish_at=pa)
-          line = f"{dt.datetime.now():%Y-%m-%d %H:%M} 업로드 {url} ({status.get('privacyStatus')}{' 예약 ' + status['publishAt'] if status.get('publishAt') else ''}) {yt['title']}"
-          print(line)
+          from cardnews.common import now, save_post, POSTS
+          from cardnews.shorts import send_preview
+          data = json.load(open("drafts/worthy_upload.json", encoding="utf-8"))
           tok, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
-          if tok and chat:
-              requests.post(f"https://api.telegram.org/bot{tok}/sendMessage", data={"chat_id": chat, "text": "✅ 오늘의쓸모 " + line})
+          for d in (data if isinstance(data, list) else [data]):
+              yt = d["yt"]; yt.setdefault("channel", "shop"); yt.setdefault("category", 27)
+              if d.get("mode", "send") == "upload":
+                  pa = dt.datetime.fromisoformat(d["publish_at"]) if d.get("publish_at") else None
+                  vid, url, status = youtube.upload(d["file"], yt, publish_at=pa)
+                  line = f"{dt.datetime.now():%Y-%m-%d %H:%M} 업로드 {url} ({status.get('privacyStatus')}{' 예약 ' + status['publishAt'] if status.get('publishAt') else ''}) {yt['title']}"
+                  print(line)
+                  if tok and chat:
+                      requests.post(f"https://api.telegram.org/bot{tok}/sendMessage", data={"chat_id": chat, "text": "✅ 오늘의쓸모 " + line})
+                  continue
+              pid = d["id"]
+              if (POSTS / f"{pid}.json").exists():
+                  print("이미 보낸 게시물 → 건너뜀:", pid); continue
+              post = {"id": pid, "kind": "short", "status": "pending", "created_at": now().isoformat(),
+                      "publish_at": d.get("publish_at") or now().isoformat(), "publish_now": not d.get("publish_at"),
+                      "topic": "[오늘의쓸모] " + d.get("topic", yt["title"]), "sources": d.get("sources", []),
+                      "seconds": float(d.get("seconds", 0)), "tts": ["없음(자막+음악)"], "files": [d["file"]],
+                      "yt": {"title": yt["title"][:100], "description": yt.get("description", "")[:4900],
+                             "tags": yt.get("tags", [])[:15], "category": int(yt["category"]),
+                             "privacy": yt.get("privacy", "public"), "synthetic": False, "channel": yt["channel"]}}
+              post["tg_msg"] = send_preview(post, d["file"])
+              save_post(post)
+              print(f"{dt.datetime.now():%Y-%m-%d %H:%M} 미리보기 보냄(승인 대기) {pid} {yt['title']}")
           PY
       - if: always()
         run: |
           git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
           git add -A state
           git diff --cached --quiet || (git commit -m "worthy: upload" && git pull --rebase && git push)
+      - name: 승인 대기 감시 시작
+        run: |
+          if grep -lq '"status": "pending"' state/posts/*.json 2>/dev/null; then gh workflow run pipeline.yml -f cmd=watch; fi
+        env:
+          GH_TOKEN: ${{ github.token }}
