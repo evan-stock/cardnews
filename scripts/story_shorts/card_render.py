@@ -23,11 +23,12 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bgm_highlight  # noqa: E402
 
 W, H, FPS = 1080, 1920, 30
-# 쇼츠 앱은 화면 아래 약 35%(채널명·제목·버튼)를 덮는다 → 자막이 화면 높이 65%(y≈1250) 안에서 끝나게 전체를 위로 올림(2026.10.18)
-HEAD_Y = 56                                   # 로고·채널명
-TITLE_Y = 168                                 # 제목 2줄
-BOX_Y, BOX_H = 400, 660                       # 영상 칸 1080x660
-SUB_Y = BOX_Y + BOX_H + 44                    # 자막 시작(2줄이면 y≈1250에서 끝남)
+# 배치 기준(2026.10.18 사용자 지정): '이런제품이?!' 쇼츠와 같은 높이.
+# 로고 9~17% · 제목 20~29% · 영상 30~71% · 자막 73~81%(영상 바로 아래). 시청자 화면에서 앱 글자는 약 82%부터 덮는다.
+HEAD_Y = 128                                  # 로고·채널명
+TITLE_Y = 352                                 # 제목 2줄
+BOX_Y, BOX_H = 580, 780                       # 영상 칸 1080x780
+SUB_Y = BOX_Y + BOX_H + 44                    # 자막 시작(1줄 ≈1470, 2줄 ≈1550에서 끝남)
 INK, GRAY, YEL = (17, 17, 17), (120, 120, 120), (255, 216, 77)
 FONT = "/usr/share/fonts/opentype/noto/NotoSansCJK-Black.ttc"
 FONT_B = "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc"
@@ -99,15 +100,15 @@ def circle_logo(size):
 def base_card(script):
     im = Image.new("RGB", (W, H), "white")
     d = ImageDraw.Draw(im)
-    lg, m = circle_logo(88)
-    im.paste(lg, (64, HEAD_Y), m)
-    d.text((168, HEAD_Y + 4), "오늘의쓸모", font=font(40), fill=INK)
-    d.text((169, HEAD_Y + 52), "@today.worthy", font=font(27, True), fill=GRAY)
-    tf = font(script.get("title_size", 82))
+    lg, m = circle_logo(124)
+    im.paste(lg, (60, HEAD_Y), m)
+    d.text((204, HEAD_Y + 14), "@today.worthy", font=font(34, True), fill=GRAY)
+    d.text((202, HEAD_Y + 58), "오늘의쓸모", font=font(48), fill=INK)
+    tf = font(script.get("title_size", 88))
     y = TITLE_Y
     for line in script["hook"]["t"].split("\n")[:2]:
         draw_rich(d, 64, y, line, tf)
-        y += int(tf.size * 1.28)
+        y += int(tf.size * 1.2)
     if script.get("credit"):
         cf = font(24, True)
         t = script["credit"]
@@ -118,12 +119,12 @@ def base_card(script):
 def scene_card(base, text):
     im = base.copy()
     d = ImageDraw.Draw(im)
-    sf = font(58)
+    sf = font(62)
     lines = wrap(text, sf, W - 300, d)[:2]  # 오른쪽 버튼 줄(약 150px) 피해서 좌우 150px 여백
     y = SUB_Y
     for line in lines:
         draw_rich(d, 0, y, line, sf, align_w=W)
-        y += 78
+        y += 82
     return im
 
 
