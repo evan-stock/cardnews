@@ -115,7 +115,7 @@ def band_png(hook, out, sc, credit=""):
             d.text((x, y), t, font=f, fill=c, stroke_width=4, stroke_fill=(0, 0, 0))
             x += d.textlength(t, font=f)
         y += lh
-    if hook.get("tag"):
+    if hook.get("tag") and sc.get("tag"):  # 2026.10.17 사용자 결정: 기본으로 태그를 그리지 않는다
         f = font(40)
         tag = "● " + hook["tag"]
         tw = d.textlength(tag, font=f)
