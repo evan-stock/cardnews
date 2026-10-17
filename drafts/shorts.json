@@ -2,7 +2,6 @@
  "id": "20261017-nikomaki",
  "mode": "send",
  "topic": "출산하는 아내 곁을 지킨 아빠 고양이 니코",
- "narration": false,
  "bgm": "assets/bgm/sad_heartbeat_wind.mp3",
  "hook": {
   "t": "출산하는 아내 곁을\n'끝까지 지킨' 아빠 고양이"
@@ -13,12 +12,11 @@
  "scenes": [
   {
    "say": "태국 방콕에 사는 고양이 부부, 니코와 마키.",
-   "dur": 3.6,
    "video": {
     "src": "video/v1.mp4",
     "start": 40.4,
     "y": 0.2,
-    "audio": 1.2,
+    "audio": 0.35,
     "blur": [
      200,
      1410,
@@ -29,12 +27,11 @@
   },
   {
    "say": "마키가 아기를 낳던 날, 아빠 니코는 곁을 떠나지 않았습니다.",
-   "dur": 4.0,
    "video": {
     "src": "video/v1.mp4",
     "start": 6.3,
     "y": 0.2,
-    "audio": 1.2,
+    "audio": 0.35,
     "blur": [
      200,
      1410,
@@ -45,12 +42,11 @@
   },
   {
    "say": "몸을 딱 붙이고, 아내를 감싸 안은 채로.",
-   "dur": 3.6,
    "video": {
     "src": "video/v1.mp4",
     "start": 24,
     "y": 0.2,
-    "audio": 1.2,
+    "audio": 0.35,
     "blur": [
      200,
      1410,
@@ -61,12 +57,11 @@
   },
   {
    "say": "그리고 둘 사이에서 태어난 작은 생명.",
-   "dur": 3.8,
    "video": {
     "src": "video/v1.mp4",
     "start": 50.5,
     "y": 0.2,
-    "audio": 1.2,
+    "audio": 0.35,
     "blur": [
      200,
      1410,
@@ -77,12 +72,11 @@
   },
   {
    "say": "아빠는 오늘도 아기를 핥아주며 '가족'을 지키고 있습니다.",
-   "dur": 4.6,
    "video": {
     "src": "video/v1.mp4",
     "start": 55.5,
     "y": 0.2,
-    "audio": 1.2
+    "audio": 0.35
    }
   }
  ],
@@ -112,5 +106,10 @@
    "date": "2025.08.13"
   }
  ],
- "publish_now": true
+ "publish_now": true,
+ "voice": {
+  "voice_id": "tc_6a4f2130d153a5cac8e19996",
+  "tempo": 1.0
+ },
+ "bgm_volume": 0.18
 }
