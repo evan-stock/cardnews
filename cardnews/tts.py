@@ -101,7 +101,7 @@ def say(text, out, override=None, ctx=None, timed=False):
     timed=True면 (엔진, 단어별 시각 목록 또는 None). 타입캐스트일 때만 시각이 나온다.
     ctx={"previous_text","next_text"}: emotion=smart일 때 앞뒤 문장."""
     c = {**cfg(), **(override or {})}
-    order = [c["engine"]] + [e for e in ("typecast", "edge") if e != c["engine"]]
+    order = [c["engine"]]  # 2026.10.17: Edge 자동 대체 끔(사용자가 Edge 목소리를 원치 않음) → 실패하면 오류 알림
     if c["engine"] in ("silent", "none"):  # none = TTS 일시 중지(타입캐스트로 새지 않게)
         order = ["silent"]
     err = []
