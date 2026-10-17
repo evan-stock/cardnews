@@ -2,7 +2,7 @@
  "id": "20261017-alef",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-17T14:20:54.225315+09:00",
  "publish_at": "2026-10-17T14:20:59.536219+09:00",
  "topic": "알레프 전기 플라잉카, 테슬라 로드스터 위를 넘어 1,000번째 비행 — CEO \"테슬라, 플라잉카 경주에 온 걸 환영\"",
@@ -51,5 +51,8 @@
   "media/20261017-alef/03.jpg"
  ],
  "tg_msg": 281,
- "decided_at": "2026-10-17T14:20:59.536229+09:00"
+ "decided_at": "2026-10-17T14:20:59.536229+09:00",
+ "ig_media_id": "18145272103567110",
+ "permalink": "https://www.instagram.com/p/DelWOwekiMp/",
+ "published_at": "2026-10-17T14:23:22.866444+09:00"
 }
