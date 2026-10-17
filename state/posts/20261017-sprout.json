@@ -1,0 +1,45 @@
+{
+ "id": "20261017-sprout",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-17T20:46:24.398879+09:00",
+ "publish_at": "2026-10-17T20:46:24.398895+09:00",
+ "publish_now": true,
+ "topic": "안 클 줄 알았던 0.7kg 새끼고양이의 7개월 뒤",
+ "sources": [
+  {
+   "publisher": "Instagram @hercozycrew",
+   "url": "https://www.instagram.com/reels/DTS3GKLkYKX/",
+   "date": "2026.01"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/woman-brings-home-tiny-kitten-unprepared-what-she-ends-up-with-11370367",
+   "date": "2026.01.16"
+  }
+ ],
+ "seconds": 19.72,
+ "tts": [
+  "typecast"
+ ],
+ "files": [
+  "media/20261017-sprout/short.mp4"
+ ],
+ "yt": {
+  "title": "안 클 줄 알았던 0.7kg 아기고양이 근황 #shorts",
+  "description": "0.7kg 솜뭉치였던 아기 시베리안 고양이 스프라우트. 주인은 '이렇게 작으니 크게 안 자랄 거야'라고 생각했지만, 7개월 뒤 소파를 차지한 건 거대한 털뭉치였습니다.\n\n시베리안 고양이는 다 자라는 데 약 5년이 걸리고, 성묘는 보통 4.5~9kg까지 자란다고 합니다.\n\n여러분 집 아기 고양이는 지금 몇 kg인가요?\n\n출처: Instagram @hercozycrew 2026.01, Newsweek 2026.01.16\n사진·영상: Instagram @hercozycrew\n음성: Typecast\n\n#shorts #고양이 #아기고양이 #시베리안고양이 #고양이성장",
+  "tags": [
+   "고양이",
+   "아기고양이",
+   "시베리안고양이",
+   "고양이성장",
+   "귀여운동물",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "tg_msg": 361
+}
