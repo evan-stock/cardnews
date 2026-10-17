@@ -1,11 +1,6 @@
-TTS 대체: typecast: 타입캐스트 403: {"error_code":"UNUSUAL_ACTIVITY_DETECTED","message":"Unusual account activity has been detected. If this activity is determined to be abuse of free accounts, your access may be suspended. If you need 
-장면 1/5 edge 누적 4.3초
-TTS 대체: typecast: 타입캐스트 403: {"error_code":"UNUSUAL_ACTIVITY_DETECTED","message":"Unusual account activity has been detected. If this activity is determined to be abuse of free accounts, your access may be suspended. If you need 
-장면 2/5 edge 누적 9.6초
-TTS 대체: typecast: 타입캐스트 403: {"error_code":"UNUSUAL_ACTIVITY_DETECTED","message":"Unusual account activity has been detected. If this activity is determined to be abuse of free accounts, your access may be suspended. If you need 
-장면 3/5 edge 누적 13.3초
-TTS 대체: typecast: 타입캐스트 403: {"error_code":"UNUSUAL_ACTIVITY_DETECTED","message":"Unusual account activity has been detected. If this activity is determined to be abuse of free accounts, your access may be suspended. If you need 
-장면 4/5 edge 누적 16.9초
-TTS 대체: typecast: 타입캐스트 403: {"error_code":"UNUSUAL_ACTIVITY_DETECTED","message":"Unusual account activity has been detected. If this activity is determined to be abuse of free accounts, your access may be suspended. If you need 
-장면 5/5 edge 누적 21.5초
-완성: /home/runner/work/cardnews/cardnews/media/20261017-nikomaki/short.mp4 (21.5초, TTS ['edge'])
+장면 1/5 edge 누적 4.4초
+장면 2/5 edge 누적 9.8초
+장면 3/5 edge 누적 14.0초
+장면 4/5 edge 누적 17.6초
+장면 5/5 edge 누적 22.5초
+완성: /home/runner/work/cardnews/cardnews/media/20261017-nikomaki/short.mp4 (22.5초, TTS ['edge'])
