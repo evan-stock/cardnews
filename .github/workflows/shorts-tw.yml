@@ -20,6 +20,7 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
     steps:
       - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
       - name: 이 원고의 목소리 파일이 바뀐 경우만 진행
         id: chk
         run: |
