@@ -2,7 +2,7 @@
  "id": "20261017-loulou",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-17T18:12:23.335717+09:00",
  "publish_at": "2026-10-18T08:00:00+09:00",
  "topic": "알래스카 눈사태로 실종된 개 루루, 50시간 뒤 에어태그 신호로 눈밭에서 살아서 구조",
@@ -52,5 +52,8 @@
   "media/20261017-loulou/03.jpg"
  ],
  "tg_msg": 322,
- "decided_at": "2026-10-17T18:12:26.554239+09:00"
+ "decided_at": "2026-10-17T18:12:26.554239+09:00",
+ "ig_media_id": "18108141782258312",
+ "permalink": "https://www.instagram.com/p/DenPWk0kuYP/",
+ "published_at": "2026-10-18T08:01:46.787320+09:00"
 }
