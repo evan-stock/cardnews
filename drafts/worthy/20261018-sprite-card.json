@@ -1,0 +1,25 @@
+{"id": "20261018-sprite-card",
+ "media": "media/20261018-sprite2",
+ "topic": "[테스트] 붉은 번개 103년 — 오늘의쓸모 흰 카드형(today-worthy-shorts 첫 적용)",
+ "hook": {"t": "증거 없던 '붉은 번개'\n찍히기까지 '103년'"},
+ "credit": "영상: @florian.riou · 사진: NASA",
+ "bgm": {"file": "assets/bgm/worthy/conspiracy_theory.mp3", "start": 10.5, "vol": 0.6},
+ "orig_vol": 0,
+ "scenes": [
+  {"text": "구름 위에서 터진 '붉은 번개'", "video": {"src": "video/flash.mp4", "start": 2.6, "x": 0.5, "y": 0.42}},
+  {"text": "사진으로 증명되기까지 '103년' 걸렸다", "video": {"src": "video/finalpan.mp4", "start": 0, "x": 0.5, "y": 0.4}},
+  {"text": "1886년 첫 목격, 하지만 증거가 없었다", "video": {"src": "video/a1886_card.mp4", "start": 0}},
+  {"text": "비행기보다 5배 넘게 높은 곳에서 '순식간에' 사라지니까", "video": {"src": "video/aalt_card.mp4", "start": 1.4}},
+  {"text": "훗날 노벨상 받는 학자가 예측했지만 아무도 못 찍었다", "video": {"src": "video/a1925_card.mp4", "start": 0.6}},
+  {"text": "1989년, 카메라를 시험하다 '우연히' 찍혔다", "video": {"src": "video/a1989_card.mp4", "start": 1.0}},
+  {"text": "우주정거장에서도 찍히며 '진짜'로 인정받았다", "img": "cand/iss.jpg", "zoom": 0.1},
+  {"text": "지금은 이런 장면까지 담아낸다", "video": {"src": "video/riou.mp4", "start": 59.5, "x": 0.5, "y": 0.4}},
+  {"text": "알고 나면 '쓸모' 있는 이유, 매일 올려요", "video": {"src": "video/finalpan.mp4", "start": 2.2, "x": 0.5, "y": 0.4}}
+ ],
+ "products": [],
+ "photo_credits": ["@florian.riou (Storyful)", "NASA"],
+ "sources": [
+  {"publisher": "Wikipedia 'Sprite (lightning)'", "url": "https://en.wikipedia.org/wiki/Sprite_(lightning)"},
+  {"publisher": "Fox Weather", "date": "2026.10.16"},
+  {"publisher": "NASA"}
+ ]}
