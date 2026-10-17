@@ -1,45 +1,116 @@
 {
- "id": "20261017-sprout",
+ "id": "20261017-nikomaki",
  "mode": "send",
- "topic": "안 클 줄 알았던 0.7kg 새끼고양이의 7개월 뒤",
+ "topic": "출산하는 아내 곁을 지킨 아빠 고양이 니코",
+ "narration": false,
+ "bgm": "assets/bgm/sad_heartbeat_wind.mp3",
  "hook": {
-  "t": "안 클 줄 알았던\n'0.7kg' 아기고양이 근황"
+  "t": "출산하는 아내 곁을\n'끝까지 지킨' 아빠 고양이"
  },
  "photo_credits": [
-  "Instagram @hercozycrew"
+  "TikTok @nikoandmaki"
  ],
  "scenes": [
   {
-   "say": "이 주인은 지금, 큰 착각을 하고 있습니다.",
-   "video": {"src": "video/kitten.mp4", "start": 0, "y": 0.2}
+   "say": "태국 방콕에 사는 고양이 부부, 니코와 마키.",
+   "dur": 3.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 40.4,
+    "y": 0.2,
+    "audio": 1.2,
+    "blur": [
+     200,
+     1410,
+     700,
+     180
+    ]
+   }
   },
   {
-   "say": "몸무게 0.7킬로그램. 이렇게 작으니, '크게 안 자랄 거야'라고 믿었죠.",
-   "video": {"src": "video/kitten.mp4", "start": 2.5, "y": 0.2}
+   "say": "마키가 아기를 낳던 날, 아빠 니코는 곁을 떠나지 않았습니다.",
+   "dur": 4.0,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 6.3,
+    "y": 0.2,
+    "audio": 1.2,
+    "blur": [
+     200,
+     1410,
+     700,
+     180
+    ]
+   }
   },
   {
-   "say": "그리고 7개월 뒤. 소파를 차지한 건, 이 '거대한 털뭉치'입니다.",
-   "video": {"src": "video/big.mp4", "start": 0, "y": 0.7}
+   "say": "몸을 딱 붙이고, 아내를 감싸 안은 채로.",
+   "dur": 3.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 24,
+    "y": 0.2,
+    "audio": 1.2,
+    "blur": [
+     200,
+     1410,
+     700,
+     180
+    ]
+   }
   },
   {
-   "say": "이 고양이는 시베리안. 다 자라는 데 무려 5년이 걸리는 품종입니다.",
-   "video": {"src": "video/big.mp4", "start": 1.5, "y": 0.7}
+   "say": "그리고 둘 사이에서 태어난 작은 생명.",
+   "dur": 3.8,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 50.5,
+    "y": 0.2,
+    "audio": 1.2,
+    "blur": [
+     200,
+     1410,
+     700,
+     180
+    ]
+   }
   },
   {
-   "say": "그러니까 이 녀석, 아직 '성장 중'입니다. 아기 고양이를 믿지 마세요.",
-   "video": {"src": "video/big.mp4", "start": 3, "y": 0.7}
+   "say": "아빠는 오늘도 아기를 핥아주며 '가족'을 지키고 있습니다.",
+   "dur": 4.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 55.5,
+    "y": 0.2,
+    "audio": 1.2
+   }
   }
  ],
  "yt": {
-  "title": "안 클 줄 알았던 0.7kg 아기고양이 근황 #shorts",
-  "description": "0.7kg 솜뭉치였던 아기 시베리안 고양이 스프라우트. 주인은 '이렇게 작으니 크게 안 자랄 거야'라고 생각했지만, 7개월 뒤 소파를 차지한 건 거대한 털뭉치였습니다.\n\n시베리안 고양이는 다 자라는 데 약 5년이 걸리고, 성묘는 보통 4.5~9kg까지 자란다고 합니다.\n\n여러분 집 아기 고양이는 지금 몇 kg인가요?",
-  "tags": ["고양이", "아기고양이", "시베리안고양이", "고양이성장", "귀여운동물", "오늘의털뭉치"],
+  "title": "출산하는 아내 곁을 끝까지 지킨 아빠 고양이 #shorts",
+  "description": "태국 방콕에 사는 고양이 부부 니코와 마키. 마키가 출산하던 날, 아빠 니코는 아내 곁을 떠나지 않으려 했고 태어난 아기를 살핀 뒤로 정성껏 돌보고 있다고 합니다.\n\n여러분 집 고양이도 이렇게 가족을 챙기나요?",
+  "tags": [
+   "고양이",
+   "아빠고양이",
+   "아기고양이",
+   "감동",
+   "귀여운동물",
+   "오늘의털뭉치"
+  ],
   "category": 15,
   "privacy": "public"
  },
  "sources": [
-  {"publisher": "Instagram @hercozycrew", "url": "https://www.instagram.com/reels/DTS3GKLkYKX/", "date": "2026.01"},
-  {"publisher": "Newsweek", "url": "https://www.newsweek.com/woman-brings-home-tiny-kitten-unprepared-what-she-ends-up-with-11370367", "date": "2026.01.16"}
+  {
+   "publisher": "TikTok @nikoandmaki",
+   "url": "https://www.tiktok.com/@nikoandmaki/video/7537510087246482696",
+   "date": "2025.08"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/bonded-cats-love-kitten-tiktok-2112736",
+   "date": "2025.08.13"
+  }
  ],
  "publish_now": true
 }
