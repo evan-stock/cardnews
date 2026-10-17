@@ -1,0 +1,50 @@
+name: worthy-upload
+# 오늘의쓸모(@today.worthy) 흰 카드형 쇼츠 업로드: drafts/worthy_upload.json 을 push 하면 그 영상을 유튜브에 올린다.
+# {"file": "media/<id>/short_card.mp4", "publish_at": "2026-10-18T19:00:00+09:00"(선택),
+#  "yt": {"channel": "shop", "title": "...", "description": "...", "tags": [...], "privacy": "public"}}
+# 채널 토큰: Secrets YT_REFRESH_TOKEN_SHOP (= 오늘의쓸모, 2026.10.18 연결)
+on:
+  push:
+    paths: ["drafts/worthy_upload.json"]
+permissions:
+  contents: write
+concurrency:
+  group: worthy-upload
+  cancel-in-progress: false
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Seoul
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN_SHOP: ${{ secrets.YT_REFRESH_TOKEN_SHOP }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - name: 업로드
+        run: |
+          mkdir -p state
+          set -o pipefail
+          python - <<'PY' 2>&1 | tee -a state/worthy_upload_log.txt
+          import datetime as dt, json, os, requests
+          from cardnews import youtube
+          d = json.load(open("drafts/worthy_upload.json", encoding="utf-8"))
+          yt = d["yt"]; yt.setdefault("channel", "shop")
+          pa = dt.datetime.fromisoformat(d["publish_at"]) if d.get("publish_at") else None
+          vid, url, status = youtube.upload(d["file"], yt, publish_at=pa)
+          line = f"{dt.datetime.now():%Y-%m-%d %H:%M} 업로드 {url} ({status.get('privacyStatus')}{' 예약 ' + status['publishAt'] if status.get('publishAt') else ''}) {yt['title']}"
+          print(line)
+          tok, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+          if tok and chat:
+              requests.post(f"https://api.telegram.org/bot{tok}/sendMessage", data={"chat_id": chat, "text": "✅ 오늘의쓸모 " + line})
+          PY
+      - if: always()
+        run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          git add -A state
+          git diff --cached --quiet || (git commit -m "worthy: upload" && git pull --rebase && git push)
