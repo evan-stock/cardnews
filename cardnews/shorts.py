@@ -349,7 +349,10 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
 
 
 def render(d):
-    sc = {**scfg(), **d.get("style", {})}  # 채널별 디자인 덮어쓰기(마스코트·띠 높이·자막 크기 등)
+    ch = (CFG.get("shorts", {}).get("channels") or {}).get((d.get("yt") or {}).get("channel") or "", {})
+    if ch.get("voice"):  # 채널 기본 목소리(예: 쇼핑 채널 = 진우). 원고 voice가 있으면 그게 우선
+        d = {**d, "voice": {**ch["voice"], **(d.get("voice") or {})}}
+    sc = {**scfg(), **(ch.get("style") or {}), **d.get("style", {})}  # 채널별 디자인 덮어쓰기(마스코트·띠 높이·자막 크기 등)
     if d.get("narration") is False:  # TTS 없이 원본 소리 + 배경음악(감동형 등). 자막이 이야기를 끌고 간다
         d = {**d, "voice": {**(d.get("voice") or {}), "engine": "silent"}}
         sc["video_audio"] = sc.get("quiet_video_audio", 1.0)

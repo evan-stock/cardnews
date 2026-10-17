@@ -82,3 +82,7 @@ shorts:
     monthly_cap: 28000  # 무료 플랜 월 30,000자 중 여유 2,000자 남기고 edge로 전환
     edge_voice: ko-KR-InJoonNeural   # 무료 대체: InJoon(남) / SunHi(여)
     edge_rate: "+15%"
+  channels:             # 원고 yt.channel 값별 기본값(원고의 voice·style이 있으면 그게 우선)
+    shop:               # 쇼핑 쇼츠 채널(예정)
+      voice: {voice_id: tc_632293f759d649937b97f323}   # 진우(남 20대, 밝은 톤) — 2026.10.17 사용자 지정
+      style: {}
