@@ -131,8 +131,13 @@ def build(d, base, send):
     from .render import render
     imgs = d.get("images", [])
     slides = []
-    for k, s in enumerate(d["slides"]):
+    for k, s0 in enumerate(d["slides"]):
+        s = s0
         s = {"t": s.get("t", "").replace("\\n", "\n"), "b": s.get("b", ""), "sub": s.get("sub", "")}
+        if s0.get("inset"):  # 표지 원형 참고사진: {"img":"cand/xxx.jpg","label":"짧은 코멘트","x","y","r","fx","fy"}
+            ip = base / s0["inset"]["img"]
+            if ip.exists():
+                s["inset"] = {**s0["inset"], "path": str(ip)}
         s["image"] = get_image(imgs[k] if k < len(imgs) else None, base, k)
         slides.append(s)
     if slides and not slides[-1]["image"]:
