@@ -74,6 +74,7 @@ shorts:
   category: 24          # 24 엔터테인먼트, 22 인물·블로그, 28 과학기술
   tts:
     engine: typecast    # 2026.10.17 사용자 결정으로 재개(경고 문의는 답변 대기). none = 내레이션 없이 | typecast → 실패·한도 초과 시 edge 자동 대체 | edge | silent(시험용)
+    mode: local         # local = 서버에선 타입캐스트를 안 부르고 맥북(scripts/mac_tts)이 만든 목소리를 씀(2026.10.17)
     model: ssfm-v30
     voice_id: tc_68257f68bc6e3c161ab5078d   # 필재(기본). 바꾸려면 채팅에서 "목소리 ○○로 바꿔줘"
     emotion: smart      # smart(앞뒤 문장 보고 억양 자동, 추천) | normal | happy | sad | angry | whisper | toneup | tonedown

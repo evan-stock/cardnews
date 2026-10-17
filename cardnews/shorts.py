@@ -372,6 +372,26 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
     return dur
 
 
+class WaitTTS(Exception):
+    """맥북(로컬)에서 목소리를 만들어 올 때까지 기다리는 중."""
+
+
+def tts_key(text, c, ctx):
+    import hashlib
+    k = {"t": text, "v": c.get("voice_id"), "m": c.get("model"), "e": c.get("emotion"), "tp": c.get("tempo"),
+         "i": c.get("intensity"), "p": (ctx or {}).get("previous_text", ""), "n": (ctx or {}).get("next_text", "")}
+    return hashlib.sha1(json.dumps(k, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:12]
+
+
+def local_tts_on(d):
+    """config shorts.tts.mode: local 이면, 서버(GitHub Actions)에서는 타입캐스트를 직접 부르지 않고
+    맥북이 만들어 올린 media/<id>/tts/<key>.mp3 를 쓴다(2026.10.17: 클라우드 IP 이상활동 경고 대응)."""
+    from .tts import cfg as tts_cfg
+    c = {**tts_cfg(), **(d.get("voice") or {})}
+    return (c.get("mode") == "local" and c.get("engine") == "typecast" and os.environ.get("GITHUB_ACTIONS")
+            and d.get("narration") is not False), c
+
+
 def render(d):
     ch = (CFG.get("shorts", {}).get("channels") or {}).get((d.get("yt") or {}).get("channel") or "", {})
     if ch.get("voice"):  # 채널 기본 목소리(예: 쇼핑 채널 = 진우). 원고 voice가 있으면 그게 우선
@@ -401,13 +421,37 @@ def render(d):
             band_png(d["hook"], title, sc, credit)
         else:
             title_png(d["hook"], title, sc)
+    local_on, lc = local_tts_on(d)
+    if local_on:  # 맥북이 만든 목소리가 다 있는지 확인, 없으면 요청서를 남기고 대기
+        sl, need = d["scenes"], []
+        for i, scene in enumerate(sl):
+            ctx = {"previous_text": sl[i - 1]["say"].replace("'", "") if i else "",
+                   "next_text": sl[i + 1]["say"].replace("'", "") if i + 1 < len(sl) else ""}
+            text = scene["say"].replace("'", "")
+            key = tts_key(text, lc, ctx)
+            if not (base / "tts" / f"{key}.mp3").exists():
+                need.append({"key": key, "text": text, "ctx": ctx,
+                             "voice": {k: lc.get(k) for k in ("voice_id", "model", "emotion", "intensity", "tempo")}})
+        if need:
+            q = ROOT / "state" / "tts_queue"
+            q.mkdir(parents=True, exist_ok=True)
+            json.dump({"id": d["id"], "created": now().isoformat(), "items": need},
+                      open(q / f"{d['id']}.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+            raise WaitTTS(f"{len(need)}개 장면 목소리를 맥북에서 만드는 중")
     segs_, engines, total = [], [], 0.0
     for i, scene in enumerate(d["scenes"]):
         mp3 = f"{tmp}/v{i:02d}.mp3"
         sc_list = d["scenes"]
         ctx = {"previous_text": sc_list[i - 1]["say"].replace("'", "") if i else "",
                "next_text": sc_list[i + 1]["say"].replace("'", "") if i + 1 < len(sc_list) else ""}
-        eng, words = say(scene["say"].replace("'", ""), mp3, d.get("voice"), ctx=ctx, timed=True)
+        if local_on:
+            key = tts_key(scene["say"].replace("'", ""), lc, ctx)
+            f = base / "tts" / f"{key}.mp3"
+            shutil.copy(f, mp3)
+            words = json.load(open(base / "tts" / f"{key}.json", encoding="utf-8")) or None
+            eng = "typecast"
+        else:
+            eng, words = say(scene["say"].replace("'", ""), mp3, d.get("voice"), ctx=ctx, timed=True)
         engines.append(eng)
         seg = f"{tmp}/seg{i:02d}.mp4"
         total += scene_clip(base, i, scene, title, mp3, tmp, sc, seg, words)
@@ -478,7 +522,15 @@ def send_preview(post, path):
 def one(d):
     if d.get("mode", "render") not in ("render", "send"):
         return
-    out, total, engines = render(d)
+    try:
+        out, total, engines = render(d)
+    except WaitTTS as e:
+        print("⏳", e)
+        if os.environ.get("TELEGRAM_BOT_TOKEN"):
+            from . import telegram_bot as tg
+            tg.send_text(f"🎙 '{d.get('topic') or d['id']}' 목소리를 맥북에서 만드는 중이에요. "
+                         "맥북이 켜져 있으면 몇 분 안에 미리보기가 와요(꺼져 있으면 켜질 때까지 대기).")
+        return
     if d["mode"] != "send":
         return
     y = d.get("yt", {})
