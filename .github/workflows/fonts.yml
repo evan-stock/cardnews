@@ -1,0 +1,22 @@
+name: fonts
+# 자막·제목용 무료 한글 글꼴(OFL)을 assets/fonts 에 받아 둔다(한 번만 실행)
+on: {workflow_dispatch: {}}
+permissions: {contents: write}
+jobs:
+  get:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p assets/fonts && cd assets/fonts
+          base=https://raw.githubusercontent.com/google/fonts/main/ofl
+          curl -fsSL -o BlackHanSans-Regular.ttf $base/blackhansans/BlackHanSans-Regular.ttf
+          curl -fsSL -o DoHyeon-Regular.ttf $base/dohyeon/DoHyeon-Regular.ttf
+          curl -fsSL -o Jua-Regular.ttf $base/jua/Jua-Regular.ttf
+          curl -fsSL -o GothicA1-Black.ttf $base/gothica1/GothicA1-Black.ttf
+          curl -fsSL -o Pretendard-Black.otf https://raw.githubusercontent.com/orioncactus/pretendard/main/packages/pretendard/dist/public/static/Pretendard-Black.otf
+          curl -fsSL -o Pretendard-ExtraBold.otf https://raw.githubusercontent.com/orioncactus/pretendard/main/packages/pretendard/dist/public/static/Pretendard-ExtraBold.otf
+          ls -la
+      - run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          git add assets/fonts && git commit -m "assets: 무료 한글 글꼴(OFL)" && git pull --rebase && git push
