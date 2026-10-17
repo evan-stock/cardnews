@@ -1,19 +1,42 @@
 [
  {
-  "id": "20261017-incheon",
-  "mode": "collect",
-  "topic": "인천 구월동 흉기 난동 최충락 신상공개",
-  "image_pages": [
-   "https://www.ytn.co.kr/_ln/0103_202610131641214483",
-   "https://www.ytn.co.kr/_ln/0103_202610141239266591",
-   "https://www.ytn.co.kr/_ln/0103_202610151547455304",
-   "https://www.ytn.co.kr/_ln/0103_202610151336229720",
-   "https://www.ytn.co.kr/_ln/0103_202610151127389907",
-   "https://www.ytn.co.kr/_ln/0103_202610132032302179",
-   "https://weekly.khan.co.kr/article/202610141119011",
-   "https://weekly.khan.co.kr/article/202610132242001"
+  "id": "20261017-tslameme",
+  "mode": "send",
+  "format": "reel",
+  "topic": "테슬라 주가 차트 위로 로드스터가 추락 비행하는 밈 영상",
+  "category": "밈·테크",
+  "risk": "주가 수치는 밈 원본 기준(검증 불가) → 본문에 명시. 투자 권유 아님 표기. 빨간 태그 미사용(밈).",
+  "video": {
+   "src": "video/v1.mp4",
+   "start": 0,
+   "dur": 9.6,
+   "x": 0.5,
+   "y": 0.5,
+   "audio": true
+  },
+  "overlay_text": false,
+  "cover": {
+   "img": "cand/reel_cover_final.jpg",
+   "final": true,
+   "t": "테슬라 주가\n'어제 상황' ㅋㅋ"
+  },
+  "caption": "[테슬라 주가 어제 상황 ㅋㅋ]\n\n공중을 나는 차세대 로드스터를 공개한 테슬라, 그런데 주가 차트 위에서는 로드스터가 아래로 '하강 비행'을 했습니다. 해외에서 퍼지고 있는 테슬라 주가 밈 영상입니다.\n\n테슬라는 15일(현지) 차가운 가스 추진기로 공중에 뜨고 뒤집히는 차세대 로드스터를 공개했습니다. 시연은 화제를 모았지만, 주가는 발표를 앞두고부터 약세를 보였습니다.\n\n여러분은 로드스터 공개, 테슬라 주가에 호재라고 보십니까? '장기 호재' vs '보여주기용'\n\n테슬라 주주 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.\n\n※ 영상 속 주가 수치는 원본 밈 기준이며, 투자 권유가 아닌 정보 제공 목적입니다.\n영상: 온라인 밈(원작자 미상)",
+  "hashtags": [
+   "테슬라",
+   "테슬라주가",
+   "로드스터",
+   "미국주식",
+   "밈"
   ],
-  "slides": [],
-  "images": []
+  "sources": [
+   {
+    "publisher": "Blockonomi",
+    "date": "2026.10.15",
+    "url": "https://blockonomi.com/tesla-tsla-stock-drops-as-roadster-returns-after-nine-years-of-delays/"
+   }
+  ],
+  "photo_credits": [
+   "온라인 밈(원작자 미상)"
+  ]
  }
 ]
