@@ -2,7 +2,7 @@
  {
   "id": "20261017-worstweek",
   "slot": "lunch",
-  "mode": "send",
+  "mode": "render",
   "topic": "미국 증시 6월 이후 최악의 한 주: 필라델피아 반도체지수 8거래일 연속 하락(2008년 이후 최장), 코어위브 주간 -25%",
   "core": "AI 빚 걱정(코어위브)+유가 급등+중국 메모리 추격이 겹쳐 반도체·AI주가 한 주 내내 무너졌다",
   "risk": "주식 소재 예외(초대형 이슈). 투자 권유 아님 문구 포함. 수치는 10/16 종가 기준",
@@ -44,7 +44,7 @@
    }
   ],
   "images": [
-   "cover_crop",
+   "cover_bubble",
    "press09",
    "chart_week",
    "chart_sox",
@@ -83,7 +83,6 @@
    "헤럴드경제",
    "CNN"
   ],
-  "rev": 3,
-  "publish_now": true
+  "rev": 4
  }
 ]
