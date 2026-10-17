@@ -1,88 +1,45 @@
 {
- "id": "20261017-catreunion",
+ "id": "20261017-sprout",
  "mode": "send",
- "topic": "2년 만에 돌아온 형을 알아본 고양이들",
+ "topic": "안 클 줄 알았던 0.7kg 새끼고양이의 7개월 뒤",
  "hook": {
-  "t": "2년 만에 돌아온 형을\n고양이들이 '알아봤다'"
+  "t": "안 클 줄 알았던\n'0.7kg' 아기고양이 근황"
  },
  "photo_credits": [
-  "TikTok @amylynne68"
+  "Instagram @hercozycrew"
  ],
  "scenes": [
   {
-   "say": "2년 만에 돌아온 강아지를, 고양이들이 '마중' 나왔습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 16.2,
-    "y": 0.5,
-    "audio": 0.35
-   }
+   "say": "이 주인은 지금, 큰 착각을 하고 있습니다.",
+   "video": {"src": "video/kitten.mp4", "start": 0, "y": 0.2}
   },
   {
-   "say": "다른 지역에서 2년을 살다, 오늘 집에 돌아온 골든리트리버.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 0.3,
-    "y": 0.5,
-    "audio": 0.35
-   }
+   "say": "몸무게 0.7킬로그램. 이렇게 작으니, '크게 안 자랄 거야'라고 믿었죠.",
+   "video": {"src": "video/kitten.mp4", "start": 2.5, "y": 0.2}
   },
   {
-   "say": "현관문이 열리자, 고양이 두 마리가 곧장 달려옵니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 5.8,
-    "y": 0.6,
-    "audio": 0.35
-   }
+   "say": "그리고 7개월 뒤. 소파를 차지한 건, 이 '거대한 털뭉치'입니다.",
+   "video": {"src": "video/big.mp4", "start": 0, "y": 0.7}
   },
   {
-   "say": "코를 맞대고 한참을 확인하더니,",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 13,
-    "y": 0.5,
-    "audio": 0.35
-   }
+   "say": "이 고양이는 시베리안. 다 자라는 데 무려 5년이 걸리는 품종입니다.",
+   "video": {"src": "video/big.mp4", "start": 1.5, "y": 0.7}
   },
   {
-   "say": "꼬리를 바짝 세우고 졸졸 따라다닙니다. 고양이가 꼬리를 세우는 건 '반갑다'는 인사라고 합니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 23.5,
-    "y": 0.6,
-    "audio": 0.35
-   }
-  },
-  {
-   "say": "2년이 지나도, 형은 '형'이었나 봅니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 34,
-    "y": 0.6,
-    "audio": 0.35
-   }
+   "say": "그러니까 이 녀석, 아직 '성장 중'입니다. 아기 고양이를 믿지 마세요.",
+   "video": {"src": "video/big.mp4", "start": 3, "y": 0.7}
   }
  ],
  "yt": {
-  "title": "2년 만에 돌아온 형을 고양이들이 알아봤다",
-  "description": "2년 동안 다른 지역에서 살다 집에 돌아온 골든리트리버 핀리. 고양이 형제들이 바로 알아보고 꼬리를 세운 채 졸졸 따라다닙니다.\n\n고양이가 꼬리를 바짝 세우는 건 반갑다는 인사라고 하죠.\n\n여러분 집 털뭉치들도 이렇게 서로 반겨 주나요?",
-  "tags": [
-   "고양이",
-   "골든리트리버",
-   "재회",
-   "귀여운동물",
-   "오늘의털뭉치"
-  ],
+  "title": "안 클 줄 알았던 0.7kg 아기고양이 근황 #shorts",
+  "description": "0.7kg 솜뭉치였던 아기 시베리안 고양이 스프라우트. 주인은 '이렇게 작으니 크게 안 자랄 거야'라고 생각했지만, 7개월 뒤 소파를 차지한 건 거대한 털뭉치였습니다.\n\n시베리안 고양이는 다 자라는 데 약 5년이 걸리고, 성묘는 보통 4.5~9kg까지 자란다고 합니다.\n\n여러분 집 아기 고양이는 지금 몇 kg인가요?",
+  "tags": ["고양이", "아기고양이", "시베리안고양이", "고양이성장", "귀여운동물", "오늘의털뭉치"],
   "category": 15,
   "privacy": "public"
  },
  "sources": [
-  {
-   "publisher": "TikTok @amylynne68",
-   "url": "https://www.tiktok.com/@amylynne68/video/7687692277979860254",
-   "date": "2026.09"
-  }
+  {"publisher": "Instagram @hercozycrew", "url": "https://www.instagram.com/reels/DTS3GKLkYKX/", "date": "2026.01"},
+  {"publisher": "Newsweek", "url": "https://www.newsweek.com/woman-brings-home-tiny-kitten-unprepared-what-she-ends-up-with-11370367", "date": "2026.01.16"}
  ],
  "publish_now": true
 }
