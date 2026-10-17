@@ -1,53 +1,22 @@
 [
  {
-  "id": "20261017-a2o",
-  "mode": "send",
-  "format": "reel",
-  "topic": "이수만 복귀작 A2O LITE '니온', 공개 29시간 만에 멜론 톱100 1위(신인 데뷔곡 최단)",
-  "category": "국내 셀럽·화제",
-  "risk": "멤버 다수가 미성년(최연소 13세): 외모·몸매 언급 금지, 얼굴·안무 위주 장면만 사용. '세대교체'는 기사 표현이 아니라 질문형으로만 사용.",
-  "video": {
-   "src": "video/v9.mp4",
-   "start": 0,
-   "dur": 16,
-   "x": 0.5,
-   "y": 0.5,
-   "audio": true
-  },
-  "overlay_text": false,
-  "cover": {
-   "img": "cand/reel_cover_final.jpg",
-   "final": true,
-   "t": "이수만이 돌아왔다\n평균 15살 걸그룹\n'29시간 만에 1위'"
-  },
-  "caption": "[이수만이 돌아왔다… 평균 15살 걸그룹, 29시간 만에 멜론 1위]\n\nSM을 떠난 이수만 프로듀서가 3년 만에 내놓은 9인조 걸그룹 A2O LITE(에이투오 라이트)가 데뷔곡 '니온(NEON)'으로 멜론 톱100 1위에 올랐습니다. 지난 12일 경기 고양 킨텍스에서 쇼케이스를 열었고, 13일 오후 6시 음원을 공개했습니다.\n\n발매 당일 77위로 진입한 '니온'은 14일 밤 11시, 공개 29시간 만에 1위를 찍었습니다. 2021년 멜론 차트 개편 이후 신인 그룹 데뷔곡으로는 가장 빠른 기록입니다. 멤버 평균 나이는 15.1세, 최연소는 13세이며, 곡은 H.O.T.·보아·소녀시대 곡을 만든 유영진이 썼습니다.\n\n이수만은 2023년 하이브에 SM 지분을 넘기며 3년간 국내 제작을 하지 않기로 약정했고, 이 약정이 올해 2월 끝났습니다. 쇼케이스에서 그는 \"결국 가장 중요한 건 '곡'\"이라고 말했습니다. 레트로한 SM풍 사운드에 일부에서는 '리틀 보아'라는 별명까지 붙었습니다.\n\n여러분은 이 무대, 어떻게 보셨습니까? 'K팝 세대교체 신호탄' vs '반짝 화제'\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.\n\n출처: 미주중앙일보 2026.10.15, 경향신문 2026.10.12, 마이데일리 2026.10.16\n영상: 음악방송 'NEON' 데뷔 무대 / 사진: A2O엔터테인먼트",
-  "hashtags": [
-   "A2OLITE",
-   "에이투오라이트",
-   "이수만",
-   "니온",
-   "NEON"
+  "id": "20261017-lsm",
+  "slot": "lunch",
+  "mode": "collect",
+  "topic": "이수만의 사업 수완: SM 창업→보아 일본 현지화→하이브에 4,228억 매각→해외 본사 A2O→29시간 만에 멜론 1위",
+  "image_pages": [
+   "https://news.sbs.co.kr/news/endPage.do?news_id=N1007075313",
+   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008490695",
+   "https://news.sbs.co.kr/news/endPage.do?news_id=N1007850794",
+   "https://imnews.imbc.com/news/2023/econo/article/6453856_36140.html",
+   "https://enews.imbc.com/News/RetrieveNewsInfo/373157",
+   "https://www.imbc.com/broad/enews/view.html?idx=521026",
+   "https://supple.kr/news/cmv521lu8003z10p64vdq3cnm",
+   "https://supple.kr/news/cmv521lvf004l10p6cqjrfrz8",
+   "https://www.youtube.com/watch?v=FUps3KyvKBI",
+   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800158"
   ],
-  "sources": [
-   {
-    "publisher": "미주중앙일보",
-    "date": "2026.10.15",
-    "url": "https://www.koreadaily.com/article/20261015162009638"
-   },
-   {
-    "publisher": "경향신문",
-    "date": "2026.10.12",
-    "url": "https://www.khan.co.kr/article/202610121718001"
-   },
-   {
-    "publisher": "마이데일리",
-    "date": "2026.10.16",
-    "url": "https://www.mydaily.co.kr/page/view/2026101618202422968"
-   }
-  ],
-  "photo_credits": [
-   "음악방송 데뷔 무대 영상",
-   "A2O엔터테인먼트 공식 사진"
-  ]
+  "slides": [],
+  "images": []
  }
 ]
