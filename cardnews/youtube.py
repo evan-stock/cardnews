@@ -16,9 +16,11 @@ TOKEN_URL = "https://oauth2.googleapis.com/token"
 SCOPE = "https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly"
 
 
-def access_token():
+def access_token(channel=None):
+    """channel 이 있으면 YT_REFRESH_TOKEN_<CHANNEL> (예: shop → YT_REFRESH_TOKEN_SHOP) 을 쓴다. 없으면 기본(오늘의 털뭉치)."""
+    name = "YT_REFRESH_TOKEN" + (f"_{channel.upper()}" if channel else "")
     r = requests.post(TOKEN_URL, data={"client_id": env("YT_CLIENT_ID"), "client_secret": env("YT_CLIENT_SECRET"),
-                                       "refresh_token": env("YT_REFRESH_TOKEN"), "grant_type": "refresh_token"},
+                                       "refresh_token": env(name), "grant_type": "refresh_token"},
                       timeout=60)
     j = r.json()
     if "access_token" not in j:
@@ -38,7 +40,7 @@ def upload(path, yt, publish_at=None):
                         "tags": yt.get("tags", [])[:15], "categoryId": str(yt.get("category", 24)),
                         "defaultLanguage": "ko", "defaultAudioLanguage": "ko"},
             "status": status}
-    h = {"Authorization": f"Bearer {access_token()}"}
+    h = {"Authorization": f"Bearer {access_token(yt.get('channel'))}"}
     data = open(path, "rb").read()
     r = requests.post("https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
                       headers={**h, "Content-Type": "application/json; charset=UTF-8",
@@ -90,6 +92,7 @@ if __name__ == "__main__":
     if sys.argv[1] == "auth":
         auth(sys.argv[2], sys.argv[3])
     elif sys.argv[1] == "check":
+        ch = sys.argv[2] if len(sys.argv) > 2 and sys.argv[2] else None
         j = requests.get("https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true",
-                         headers={"Authorization": f"Bearer {access_token()}"}, timeout=60).json()
+                         headers={"Authorization": f"Bearer {access_token(ch)}"}, timeout=60).json()
         print([c["snippet"]["title"] for c in j.get("items", [])] or j)

@@ -30,6 +30,7 @@ jobs:
       YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      YT_REFRESH_TOKEN_SHOP: ${{ secrets.YT_REFRESH_TOKEN_SHOP }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -42,7 +43,7 @@ jobs:
           cmd="${{ inputs.cmd || 'render' }}"
           case "$cmd" in
             voices) python -m cardnews.tts voices "${{ inputs.q }}" ;;
-            yt-check) python -m cardnews.youtube check ;;
+            yt-check) python -m cardnews.youtube check "${{ inputs.q }}" ;;
             *) if [ ! -f drafts/shorts.json ]; then
                  echo "drafts/shorts.json 이 아직 없어요. 목소리 목록은 cmd 칸에 voices 를 넣고 실행하세요."; exit 1; fi
                python -m cardnews.shorts drafts/shorts.json ;;

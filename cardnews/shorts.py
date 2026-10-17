@@ -346,7 +346,7 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
 
 
 def render(d):
-    sc = scfg()
+    sc = {**scfg(), **d.get("style", {})}  # 채널별 디자인 덮어쓰기(마스코트·띠 높이·자막 크기 등)
     base = MEDIA / d["id"]
     os.makedirs(base, exist_ok=True)
     tmp = tempfile.mkdtemp()
@@ -449,7 +449,8 @@ def one(d):
             "yt": {"title": title[:100], "description": description(d, engines)[:4900],
                    "tags": [t.lstrip("#") for t in y.get("tags", [])][:15],
                    "category": int(y.get("category", scfg()["category"])), "privacy": y.get("privacy", "public"),
-                   "synthetic": bool(y.get("synthetic", any(s.get("label") for s in d["scenes"])))}}
+                   "synthetic": bool(y.get("synthetic", any(s.get("label") for s in d["scenes"]))),
+                   "channel": y.get("channel")}}
     post["tg_msg"] = send_preview(post, out)
     if d.get("approved"):  # 채팅에서 이미 승인받은 경우만. publish_now는 '승인되면 바로 공개'라는 뜻일 뿐 승인을 대신하지 않는다
         post.update(status="approved", decided_at=now().isoformat())
