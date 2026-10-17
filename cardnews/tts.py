@@ -70,7 +70,7 @@ def typecast(text, out, c, ctx=None):
         body.pop("prompt")
         r = requests.post(url, headers=h, json=body, timeout=120)
     if not r.ok:
-        raise RuntimeError(f"타입캐스트 {r.status_code}: {r.text[:200]}")
+        raise RuntimeError(f"타입캐스트 {r.status_code}: {r.text[:1000]}")
     import base64
     j = r.json()
     open(out, "wb").write(base64.b64decode(j["audio"]))

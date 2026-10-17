@@ -78,7 +78,7 @@ def typecast(text, v, ctx):
             body.pop("prompt")
             j = req(TC, "POST", body, h)
         else:
-            raise RuntimeError(f"타입캐스트 {e.code}: {e.read()[:300]!r}")
+            raise RuntimeError(f"타입캐스트 {e.code}: {e.read()[:1000]!r}")
     words = [{"text": w["text"], "start": float(w["start"]), "end": float(w["end"])} for w in (j.get("words") or [])]
     return base64.b64decode(j["audio"]), words
 
