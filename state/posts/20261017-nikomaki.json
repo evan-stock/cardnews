@@ -2,8 +2,8 @@
  "id": "20261017-nikomaki",
  "kind": "short",
  "status": "pending",
- "created_at": "2026-10-17T22:35:57.719280+09:00",
- "publish_at": "2026-10-17T22:35:57.719299+09:00",
+ "created_at": "2026-10-18T00:10:31.021920+09:00",
+ "publish_at": "2026-10-18T00:10:31.021944+09:00",
  "publish_now": true,
  "topic": "출산하는 아내 곁을 지킨 아빠 고양이 니코",
  "sources": [
@@ -41,5 +41,5 @@
   "synthetic": false,
   "channel": null
  },
- "tg_msg": 376
+ "tg_msg": 378
 }
