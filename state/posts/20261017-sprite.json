@@ -1,0 +1,57 @@
+{
+ "id": "20261017-sprite",
+ "slot": "evening",
+ "slot_label": "저녁",
+ "status": "approved",
+ "created_at": "2026-10-17T18:11:45.898429+09:00",
+ "publish_at": "2026-10-17T21:30:00+09:00",
+ "topic": "프랑스 사진작가 플로리앙 리우가 코르시카 산골 마을 몽테마조레 위로 터진 거대한 '레드 스프라이트'를 촬영, 해외에서 화제",
+ "category": "'와' 실제 영상 · 자연",
+ "core": "9/16 밤 촬영, 10월 중순 확산. 스프라이트: 강한 뇌우 위 약 50~80km 상공, 수천분의 1초, 질소가 붉게 빛남. 폭풍은 수백 km 떨어진 곳. 며칠 계산·계획 끝에 촬영.",
+ "risk": "촬영일 9/16을 명시('지난달 촬영, 이번 주 화제'). 높이는 ESA 일반값. 영상 2장은 원본 실제 속도 → 같은 장면 16배 느리게 → 완성 사진 순서.",
+ "sources": [
+  {
+   "publisher": "Fox Weather",
+   "date": "2026.10.16",
+   "url": "https://www.foxweather.com/extreme-weather/watch-rare-red-sprites-lightning-phenomenon-captured-bizzare-viral-video"
+  },
+  {
+   "publisher": "Crónica",
+   "date": "2026.10.12",
+   "url": "https://www.cronica.com.mx/tendencias/2026/10/12/que-son-los-red-sprites-que-aparecen-en-el-cielo-y-por-que-son-tan-raros-esta-es-la-explicacion-al-fenomeno-visto-en-francia/"
+  },
+  {
+   "publisher": "SDP Noticias",
+   "date": "2026.10",
+   "url": "https://www.sdpnoticias.com/sorprendente/florian-riou-capta-red-sprites-destellos-rojos-en-el-cielo-de-francia/"
+  }
+ ],
+ "slides": [
+  {
+   "t": "하늘에 '붉은 해파리'가\n번쩍였다",
+   "b": ""
+  },
+  {
+   "t": "",
+   "b": ""
+  },
+  {
+   "t": "하늘 사진 좋아하는 친구에게\n보내주세요",
+   "b": "팔로우하면 매일 화제 소식"
+  }
+ ],
+ "caption_full": "🔴 하늘에 거대한 '붉은 해파리'가 번쩍였습니다. 외계인이 아니라 '레드 스프라이트'라는 번개입니다\n\n프랑스 기상 사진작가 플로리앙 리우가 9월 16일 밤 코르시카섬 북부 산골 마을 몽테마조레 위 하늘에서 레드 스프라이트를 영상과 사진으로 담았습니다. 마을 종탑 위로 붉은 촉수를 늘어뜨린 해파리 모양이 찍혀 이번 주 해외에서 크게 화제가 됐습니다. 그는 며칠 동안 계산하고 계획한 끝에 촬영에 성공했다고 밝혔습니다.\n\n레드 스프라이트는 강한 뇌우 위 약 50~80km 상공에서 수천분의 1초 동안 번쩍이는 붉은 방전입니다. 아래쪽의 아주 강한 번개가 만든 전기장 때문에 생기며, 공기가 옅은 높은 하늘에서 질소 분자가 자극돼 붉게 빛납니다. 너무 짧고 높아 맨눈으로는 거의 볼 수 없습니다.\n\n2장 영상은 실제 속도 → 같은 순간 16배 느리게 → 완성 사진 순서입니다.\n\n여러분은 이 장면을 직접 봤다면 '외계인이다' vs '번개다' 중 뭐라고 생각했을 것 같습니까? 댓글로 남겨주세요 💬\n\n하늘 사진 좋아하는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.\n\n출처: Fox Weather 2026.10.16, Crónica 2026.10.12, SDP Noticias 2026.10\n사진: @florian.riou (Storyful), FOX Weather, 원형 사진: timlewisnm (CC BY-SA 2.0), 위키미디어 커먼즈\n\n#레드스프라이트 #붉은번개 #신기한자연 #하늘사진 #코르시카",
+ "credits": [
+  "@florian.riou (Storyful)",
+  "FOX Weather",
+  "원형 사진: timlewisnm (CC BY-SA 2.0)"
+ ],
+ "manual": true,
+ "files": [
+  "media/20261017-sprite/01.jpg",
+  "media/20261017-sprite/02.mp4",
+  "media/20261017-sprite/03.jpg"
+ ],
+ "tg_msg": 318,
+ "decided_at": "2026-10-17T18:11:49.980810+09:00"
+}

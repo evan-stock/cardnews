@@ -1,0 +1,56 @@
+{
+ "id": "20261017-loulou",
+ "slot": "lunch",
+ "slot_label": "점심",
+ "status": "approved",
+ "created_at": "2026-10-17T18:12:23.335717+09:00",
+ "publish_at": "2026-10-18T08:00:00+09:00",
+ "topic": "알래스카 눈사태로 실종된 개 루루, 50시간 뒤 에어태그 신호로 눈밭에서 살아서 구조",
+ "category": "'와' 실제 영상 · 동물 감동",
+ "core": "10/10(토) 추가치 주립공원 눈사태. 주인과 친구는 중상 구조, 루루 실종. 에어태그 신호 따라 헬기 수색, 약 50시간 뒤 구조. 송곳니 1개·발가락 골절 외 대체로 건강.",
+ "risk": "사람 부상은 한 줄로만. 나이(4살/5살) 매체마다 달라 생략. 에어태그 설명은 일반 원리만.",
+ "sources": [
+  {
+   "publisher": "Fox Weather",
+   "date": "2026.10.16",
+   "url": "https://www.foxweather.com/extreme-weather/see-it-dog-found-alive-2-days-after-being-separated-from-owner-during-alaska-avalanche"
+  },
+  {
+   "publisher": "Alaska's News Source(KTUU)",
+   "date": "2026.10.14",
+   "url": "https://www.alaskasnewssource.com/2026/10/15/dog-survives-alaska-avalanche-found-safe-days-later/"
+  },
+  {
+   "publisher": "Scripps News",
+   "date": "2026.10.13",
+   "url": "https://www.scrippsnews.com/us-news/dog-found-alive-after-50-hours-alone-in-alaska-wilderness-following-avalanche"
+  }
+ ],
+ "slides": [
+  {
+   "t": "눈사태 50시간 뒤\n눈밭에 '살아 있었다'\n찾아낸 건 '에어태그'",
+   "b": ""
+  },
+  {
+   "t": "",
+   "b": ""
+  },
+  {
+   "t": "강아지 키우는 친구에게\n보내주세요",
+   "b": "팔로우하면 매일 화제 소식"
+  }
+ ],
+ "caption_full": "🐕 눈사태 50시간 뒤, 눈밭에서 살아 있던 개를 찾아낸 건 에어태그였습니다\n\n10월 10일(토, 현지시간) 미국 알래스카 앵커리지 근처 추가치 주립공원에서 산을 오르던 두 남성이 눈사태에 휩쓸렸습니다. 두 사람은 헬기로 구조됐지만 크게 다쳤고, 함께 있던 개 '루루'는 실종됐습니다.\n\n해외에 있던 견주 로런 파다워는 루루 목에 달린 에어태그 위치를 SNS에 올렸고, 등산객과 수색견, 헬기 여러 대가 수색에 나섰습니다. 약 50시간 뒤 에어태그 신호를 받고 헬기로 다시 나간 구조자 어맨다 바커와 데이브 베킷이 눈밭에 서 있는 루루를 발견했습니다. 두 사람은 20분 동안 눈 비탈을 기어올라 루루에게 목줄을 걸었습니다.\n\n동물병원 진단 결과 루루는 송곳니 1개가 빠지고 발가락이 부러진 것 외에는 대체로 건강했습니다. 견주는 \"헬기를 바라보며 서 있는 사진을 받고 그냥 울음이 터졌다\"고 말했습니다.\n\n여러분 반려견 목걸이에도 위치 추적기를 달아두셨나요? '이미 달았다' vs '이번에 단다' 댓글로 남겨주세요 💬\n\n강아지 키우는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.\n\n출처: Fox Weather 2026.10.16, Alaska's News Source(KTUU) 2026.10.14, Scripps News 2026.10.13\n사진: Amanda Barker via Storyful/FOX Weather, KTUU Alaska's News Source\n\n#강아지 #반려견 #에어태그 #눈사태 #알래스카",
+ "credits": [
+  "Amanda Barker via Storyful/FOX Weather",
+  "KTUU Alaska's News Source"
+ ],
+ "manual": true,
+ "files": [
+  "media/20261017-loulou/01.jpg",
+  "media/20261017-loulou/02.mp4",
+  "media/20261017-loulou/03.jpg"
+ ],
+ "tg_msg": 322,
+ "decided_at": "2026-10-17T18:12:26.554239+09:00"
+}
