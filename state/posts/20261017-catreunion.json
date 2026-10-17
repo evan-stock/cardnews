@@ -1,0 +1,38 @@
+{
+ "id": "20261017-catreunion",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-17T19:58:59.164387+09:00",
+ "publish_at": "2026-10-17T19:58:59.164403+09:00",
+ "publish_now": true,
+ "topic": "2년 만에 돌아온 형을 알아본 고양이들",
+ "sources": [
+  {
+   "publisher": "TikTok @amylynne68",
+   "url": "https://www.tiktok.com/@amylynne68/video/7687692277979860254",
+   "date": "2026.09"
+  }
+ ],
+ "seconds": 21.36,
+ "tts": [
+  "typecast"
+ ],
+ "files": [
+  "media/20261017-catreunion/short.mp4"
+ ],
+ "yt": {
+  "title": "2년 만에 돌아온 형을 고양이들이 알아봤다 #shorts",
+  "description": "2년 동안 다른 지역에서 살다 집에 돌아온 골든리트리버 핀리. 고양이 형제들이 바로 알아보고 꼬리를 세운 채 졸졸 따라다닙니다.\n\n고양이가 꼬리를 바짝 세우는 건 반갑다는 인사라고 하죠.\n\n여러분 집 털뭉치들도 이렇게 서로 반겨 주나요?\n\n출처: TikTok @amylynne68 2026.09\n사진·영상: TikTok @amylynne68\n음성: Typecast\n\n#shorts #고양이 #골든리트리버 #재회 #귀여운동물",
+  "tags": [
+   "고양이",
+   "골든리트리버",
+   "재회",
+   "귀여운동물",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false
+ },
+ "tg_msg": 357
+}
