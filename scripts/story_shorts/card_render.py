@@ -23,8 +23,11 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bgm_highlight  # noqa: E402
 
 W, H, FPS = 1080, 1920, 30
-BOX_Y, BOX_H = 530, 860                       # 영상 칸
-SUB_Y = BOX_Y + BOX_H + 52                    # 자막 시작 (쇼츠 아래쪽 버튼 자리 위)
+# 쇼츠 앱은 화면 아래 약 35%(채널명·제목·버튼)를 덮는다 → 자막이 화면 높이 65%(y≈1250) 안에서 끝나게 전체를 위로 올림(2026.10.18)
+HEAD_Y = 56                                   # 로고·채널명
+TITLE_Y = 168                                 # 제목 2줄
+BOX_Y, BOX_H = 400, 660                       # 영상 칸 1080x660
+SUB_Y = BOX_Y + BOX_H + 44                    # 자막 시작(2줄이면 y≈1250에서 끝남)
 INK, GRAY, YEL = (17, 17, 17), (120, 120, 120), (255, 216, 77)
 FONT = "/usr/share/fonts/opentype/noto/NotoSansCJK-Black.ttc"
 FONT_B = "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc"
@@ -96,19 +99,19 @@ def circle_logo(size):
 def base_card(script):
     im = Image.new("RGB", (W, H), "white")
     d = ImageDraw.Draw(im)
-    lg, m = circle_logo(96)
-    im.paste(lg, (64, 112), m)
-    d.text((180, 116), "오늘의쓸모", font=font(42), fill=INK)
-    d.text((181, 168), "@today.worthy", font=font(28, True), fill=GRAY)
-    tf = font(script.get("title_size", 86))
-    y = 262
+    lg, m = circle_logo(88)
+    im.paste(lg, (64, HEAD_Y), m)
+    d.text((168, HEAD_Y + 4), "오늘의쓸모", font=font(40), fill=INK)
+    d.text((169, HEAD_Y + 52), "@today.worthy", font=font(27, True), fill=GRAY)
+    tf = font(script.get("title_size", 82))
+    y = TITLE_Y
     for line in script["hook"]["t"].split("\n")[:2]:
         draw_rich(d, 64, y, line, tf)
         y += int(tf.size * 1.28)
     if script.get("credit"):
         cf = font(24, True)
         t = script["credit"]
-        d.text((W - 40 - d.textlength(t, font=cf), BOX_Y + BOX_H + 12), t, font=cf, fill=GRAY)
+        d.text((W - 40 - d.textlength(t, font=cf), BOX_Y + BOX_H + 8), t, font=cf, fill=GRAY)
     return im
 
 
@@ -116,7 +119,7 @@ def scene_card(base, text):
     im = base.copy()
     d = ImageDraw.Draw(im)
     sf = font(58)
-    lines = wrap(text, sf, W - 120, d)[:2]
+    lines = wrap(text, sf, W - 300, d)[:2]  # 오른쪽 버튼 줄(약 150px) 피해서 좌우 150px 여백
     y = SUB_Y
     for line in lines:
         draw_rich(d, 0, y, line, sf, align_w=W)
@@ -160,11 +163,17 @@ def render_scene(i, sc, script, base, tmp, media):
         v = sc.get("video") or {"src": sc["gfx"]}
         src = v["src"] if os.path.isabs(v["src"]) else os.path.join(media, v["src"])
         start = float(v.get("start", sc.get("start", 0)))
-        vf = cover.format(x=v.get("x", 0.5), y=v.get("y", 0.5))
-        if v.get("speed"):
-            vf = f"setpts=PTS/{v['speed']}," + vf
+        sp = f"setpts=PTS/{v['speed']}," if v.get("speed") else ""
         inputs = ["-loop", "1", "-i", png, "-stream_loop", "-1", "-ss", str(start), "-i", src]
-        filt = f"[1:v]{vf},fps={FPS}[v];[0:v][v]overlay=0:{BOX_Y}:shortest=1,format=yuv420p[o]"
+        if v.get("fit") == "contain":
+            # 그래픽처럼 잘리면 안 되는 화면: 칸 높이에 맞춰 줄이고, 양옆은 같은 화면을 흐리게 채움
+            filt = (f"[1:v]{sp}fps={FPS},split[a][b];"
+                    f"[a]{cover.format(x=0.5, y=0.5)},boxblur=30:2,eq=brightness=-0.15[bg];"
+                    f"[b]scale=-2:{BOX_H}[fg];[bg][fg]overlay=(W-w)/2:0[v];"
+                    f"[0:v][v]overlay=0:{BOX_Y}:shortest=1,format=yuv420p[o]")
+        else:
+            vf = sp + cover.format(x=v.get("x", 0.5), y=v.get("y", 0.5))
+            filt = f"[1:v]{vf},fps={FPS}[v];[0:v][v]overlay=0:{BOX_Y}:shortest=1,format=yuv420p[o]"
         aud = src if (ov > 0 and has_audio(src)) else None
     cmd = ["ffmpeg", "-y", "-v", "error"] + inputs
     if aud:
