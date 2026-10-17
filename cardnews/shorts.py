@@ -60,6 +60,9 @@ def area(sc):
 def font(size, bold=False):
     """굵은 한글 폰트. 서버에 Black이 없으면 Bold로, 그것도 없으면 시스템 한글 폰트로 대체한다.
     (PIL 기본 글꼴로 떨어지면 글자가 깨알처럼 작아지므로 절대 쓰지 않는다)"""
+    custom = CFG.get("shorts", {}).get("font")  # 제목·자막 글꼴(2026.10.18 사용자 선택: 주아). 작은 표기(bold)는 Noto 유지
+    if custom and not bold and os.path.exists(ROOT / custom):
+        return ImageFont.truetype(str(ROOT / custom), size)
     for p in ([FONT_B] if bold else [FONT, FONT_B]):
         if os.path.exists(p):
             return ImageFont.truetype(p, size, index=1)
