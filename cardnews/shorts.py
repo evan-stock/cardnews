@@ -69,13 +69,13 @@ def font(size, bold=False):
     raise RuntimeError("한글 폰트가 없습니다: fonts-noto-cjk 설치 필요")
 
 
-def segs(line):
-    return [(p, YELLOW if i % 2 else WHITE) for i, p in enumerate(line.split("'")) if p]
+def segs(line, base=None, hi=None):
+    return [(p, (hi or YELLOW) if i % 2 else (base or WHITE)) for i, p in enumerate(line.split("'")) if p]
 
 
-def draw_line(d, y, line, size, max_w=W - 110, stroke=8, anchor_mid=True):
+def draw_line(d, y, line, size, max_w=W - 110, stroke=8, anchor_mid=True, base=None, hi=None):
     """한 줄을 가운데 정렬로 그림. 넓으면 글자 크기를 줄인다. 실제 쓴 크기를 돌려준다."""
-    s = segs(line)
+    s = segs(line, base, hi)
     f = font(size)
     tw = sum(d.textlength(t, font=f) for t, _ in s)
     while tw > max_w and size > 40:
@@ -163,13 +163,34 @@ def sub_png(text, out, sc, label=None):
     d = ImageDraw.Draw(im)
     y = int(H * sc["sub_y"])
     lines = text.split("\n")
+    base = tuple(sc["sub_color"]) if sc.get("sub_color") else None
+    hi = tuple(sc["sub_hi"]) if sc.get("sub_hi") else None
     for line in lines:
-        used = draw_line(d, y, line, sc["sub_size"], max_w=W - 60, stroke=12)
+        used = draw_line(d, y, line, sc["sub_size"], max_w=W - 60, stroke=sc.get("sub_stroke", 12), base=base, hi=hi)
         y += int(used * 1.28)
     if label:
         d.text((40, int(H * sc["sub_y"]) - 70), "※ " + label, font=font(34, True), fill=(235, 235, 235),
                stroke_width=4, stroke_fill=(0, 0, 0))
     im.save(out)
+
+
+def balanced(text, n):
+    """문장을 줄 길이가 비슷하게 나눈다(공백 기준). 줄 수 = 글자수/n 올림(최소 1, 최대 3). 끝 마침표는 뺀다."""
+    t = re.sub(r"[.]$", "", text.replace("\n", " ").strip())
+    words = t.split()
+    k = max(1, min(3, -(-len(t.replace(" ", "")) // n)))
+    if k == 1 or len(words) < 2:
+        return t
+    best = None
+    import itertools
+    for cuts in itertools.combinations(range(1, len(words)), k - 1):
+        parts = [" ".join(words[a:b]) for a, b in zip((0,) + cuts, cuts + (len(words),))]
+        if any(p.count("'") % 2 for p in parts):
+            continue
+        score = max(len(p) for p in parts) - 6 * sum(p.endswith(",") for p in parts[:-1])  # 쉼표에서 끊기 선호
+        if best is None or score < best[0]:
+            best = (score, parts)
+    return "\n".join(re.sub(r",$", "", p) for p in best[1]) if best else t
 
 
 def chunks(text, n):
@@ -254,7 +275,10 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
     if scene.get("dur"):  # 장면 길이 직접 지정(내레이션 없는 영상에서 주로 사용)
         dur = float(scene["dur"])
         adur = max(0.5, dur - sc["gap"])
-    subs = chunks(scene.get("sub") or scene["say"], sc["chunk"]) if not scene.get("nosub") else []
+    if sc.get("caption_lines") and not scene.get("nosub"):  # 내레이션 없는 '감동 자막' 방식: 한 장면 = 문장 하나를 2줄로
+        subs = [balanced(scene.get("sub") or scene["say"], sc["caption_lines"])]
+    else:
+        subs = chunks(scene.get("sub") or scene["say"], sc["chunk"]) if not scene.get("nosub") else []
     times = word_times(subs, words, dur) if not scene.get("sub") else None
     if times is None:  # 단어 시각이 없으면(Edge TTS 등) 글자 수 비율로 나눈다
         lens = [max(2, len(c.replace(" ", ""))) for c in subs]
@@ -360,6 +384,10 @@ def render(d):
         d = {**d, "voice": {**(d.get("voice") or {}), "engine": "silent"}}
         sc["video_audio"] = sc.get("quiet_video_audio", 1.0)
         sc["bgm_volume"] = sc.get("quiet_bgm_volume", 0.35)
+        # 자막: 하루일기식 — 작은 초록 글씨 2줄, 화면 가운데 위쪽(2026.10.17 사용자 요청)
+        for k, v in {"sub_size": 72, "sub_y": 0.40, "sub_color": [120, 255, 90], "sub_hi": [255, 230, 60],
+                     "sub_stroke": 7, "caption_lines": 13}.items():
+            sc[k] = (sc.get("quiet") or {}).get(k, v)
     base = MEDIA / d["id"]
     os.makedirs(base, exist_ok=True)
     tmp = tempfile.mkdtemp()

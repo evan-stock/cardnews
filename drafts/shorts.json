@@ -2,7 +2,6 @@
  "id": "20261017-nikomaki",
  "mode": "send",
  "topic": "출산하는 아내 곁을 지킨 아빠 고양이 니코",
- "bgm": "assets/bgm/sad_heartbeat_wind.mp3",
  "hook": {
   "t": "출산하는 아내 곁을\n'끝까지 지킨' 아빠 고양이"
  },
