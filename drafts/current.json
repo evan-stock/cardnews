@@ -1,23 +1,23 @@
 [
  {
-  "id": "20261017-lsm2",
+  "id": "20261017-worstweek",
   "slot": "lunch",
   "mode": "collect",
-  "topic": "이수만의 사업 수완: SM 창업→보아 일본 현지화→하이브에 4,228억 매각→해외 본사 A2O→29시간 만에 멜론 1위",
+  "topic": "미국 증시 6월 이후 최악의 한 주: 필라델피아 반도체지수 8거래일 연속 하락(2008년 이후 최장), 코어위브 주간 -25%",
+  "limit": 30,
   "image_pages": [
-   "https://www.youtube.com/watch?v=PTYtqLpMOiQ",
-   "https://www.youtube.com/watch?v=Ije2g5xVnME",
-   "https://www.youtube.com/watch?v=2rNtME5QrnI",
-   "https://www.youtube.com/watch?v=GDu6vq7T71E",
-   "https://www.youtube.com/watch?v=SDrD26w3L1s",
-   "https://www.youtube.com/watch?v=NT9nhK_VyfQ",
-   "https://www.youtube.com/watch?v=MHwStUJVJB8",
-   "https://www.youtube.com/watch?v=lrZvHiVTbGo",
-   "https://www.youtube.com/watch?v=BGNi4MiSokk",
-   "https://www.youtube.com/watch?v=bqIuAVngJOs",
-   "https://www.youtube.com/watch?v=L2sOX2torzo",
-   "https://www.youtube.com/watch?v=MG0VIktiTF8",
-   "https://www.youtube.com/watch?v=7J4cTQb_PSw"
+   "https://www.etoday.co.kr/news/view/2636885",
+   "https://www.hankyung.com/article/202610177612i",
+   "https://www.mediapen.com/news/view/1130618",
+   "https://biz.heraldcorp.com/article/10905645",
+   "https://www.newspim.com/news/view/20261016001433",
+   "https://www.newspim.com/news/view/20261016001423",
+   "https://g-enews.com/article/Securities/2026/10/202610170523539946e250e8e188_1",
+   "https://kr.investing.com/news/assorted/article-2130413",
+   "https://www.capitalbrief.com/newsletter/chip-stocks-drag-nasdaq-to-worst-week-since-tariff-turmoil-b9704a39-9864-4fae-9e22-ac03d37d18c5/",
+   "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
+   "https://startupfortune.com/big-techs-worst-week-since-the-tariff-crash-exposes-ai-debt-fears/",
+   "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-records-worst-week-221534484.html"
   ],
   "slides": [],
   "images": []
