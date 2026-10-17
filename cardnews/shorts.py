@@ -58,8 +58,15 @@ def area(sc):
 
 
 def font(size, bold=False):
-    p = FONT_B if bold else FONT
-    return ImageFont.truetype(p, size, index=1) if os.path.exists(p) else ImageFont.load_default()
+    """굵은 한글 폰트. 서버에 Black이 없으면 Bold로, 그것도 없으면 시스템 한글 폰트로 대체한다.
+    (PIL 기본 글꼴로 떨어지면 글자가 깨알처럼 작아지므로 절대 쓰지 않는다)"""
+    for p in ([FONT_B] if bold else [FONT, FONT_B]):
+        if os.path.exists(p):
+            return ImageFont.truetype(p, size, index=1)
+    r = subprocess.run(["fc-match", "-f", "%{file}", "Noto Sans CJK KR:weight=bold"], capture_output=True, text=True)
+    if r.stdout and os.path.exists(r.stdout):
+        return ImageFont.truetype(r.stdout, size)
+    raise RuntimeError("한글 폰트가 없습니다: fonts-noto-cjk 설치 필요")
 
 
 def segs(line):
