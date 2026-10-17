@@ -1,0 +1,4 @@
+WARNING: [generic] Falling back on generic information extractor
+WARNING: [generic] Falling back on generic information extractor
+ERROR: [twitter] 2110898589543150064: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://x.com/ElectrekCo/status/2110898589543150064
