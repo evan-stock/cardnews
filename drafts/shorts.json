@@ -108,8 +108,9 @@
  ],
  "publish_now": true,
  "voice": {
-  "voice_id": "tc_6a4f2130d153a5cac8e19996",
-  "tempo": 1.0
+  "engine": "edge",
+  "edge_voice": "ko-KR-SunHiNeural",
+  "edge_rate": "+0%"
  },
  "bgm_volume": 0.18
 }
