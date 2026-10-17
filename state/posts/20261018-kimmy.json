@@ -2,8 +2,8 @@
  "id": "20261018-kimmy",
  "kind": "short",
  "status": "pending",
- "created_at": "2026-10-18T00:37:34.347648+09:00",
- "publish_at": "2026-10-18T00:37:34.347667+09:00",
+ "created_at": "2026-10-18T00:54:48.593349+09:00",
+ "publish_at": "2026-10-18T00:54:48.593370+09:00",
  "publish_now": true,
  "topic": "'아기 데려와' 한마디에 새끼 고양이를 물어 오는 강아지 킴미",
  "sources": [
@@ -41,6 +41,6 @@
   "synthetic": false,
   "channel": null
  },
- "tg_msg": 387,
- "draft_hash": "666e35fcff9d"
+ "draft_hash": "6efff5e01a3e",
+ "tg_msg": 390
 }
