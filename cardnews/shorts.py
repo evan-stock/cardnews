@@ -157,7 +157,7 @@ def sub_png(text, out, sc, label=None):
     y = int(H * sc["sub_y"])
     lines = text.split("\n")
     for line in lines:
-        used = draw_line(d, y, line, sc["sub_size"], stroke=9)
+        used = draw_line(d, y, line, sc["sub_size"], max_w=W - 60, stroke=12)
         y += int(used * 1.28)
     if label:
         d.text((40, int(H * sc["sub_y"]) - 70), "※ " + label, font=font(34, True), fill=(235, 235, 235),
