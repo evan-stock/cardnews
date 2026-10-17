@@ -1,6 +1,6 @@
-장면 1/5 typecast 누적 3.2초
-장면 2/5 typecast 누적 7.8초
-장면 3/5 typecast 누적 11.8초
-장면 4/5 typecast 누적 15.8초
-장면 5/5 typecast 누적 19.7초
-완성: /home/runner/work/cardnews/cardnews/media/20261017-sprout/short.mp4 (19.7초, TTS ['typecast'])
+장면 1/5 silent 누적 3.6초
+장면 2/5 silent 누적 7.6초
+장면 3/5 silent 누적 11.2초
+장면 4/5 silent 누적 15.0초
+장면 5/5 silent 누적 19.6초
+완성: /home/runner/work/cardnews/cardnews/media/20261017-nikomaki/short.mp4 (19.6초, TTS ['silent'])
