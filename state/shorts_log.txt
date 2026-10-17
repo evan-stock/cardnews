@@ -1,1 +1,7 @@
-⏳ 6개 장면 목소리를 맥북에서 만드는 중
+장면 1/6 typecast 누적 3.5초
+장면 2/6 typecast 누적 8.4초
+장면 3/6 typecast 누적 12.3초
+장면 4/6 typecast 누적 15.6초
+장면 5/6 typecast 누적 19.1초
+장면 6/6 typecast 누적 23.3초
+완성: /home/runner/work/cardnews/cardnews/media/20261018-kimmy/short.mp4 (23.3초, TTS ['typecast'])

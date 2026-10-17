@@ -1,0 +1,45 @@
+{
+ "id": "20261018-kimmy",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-18T00:33:19.198487+09:00",
+ "publish_at": "2026-10-18T00:33:19.198509+09:00",
+ "publish_now": true,
+ "topic": "'아기 데려와' 한마디에 새끼 고양이를 물어 오는 강아지 킴미",
+ "sources": [
+  {
+   "publisher": "TikTok @maddie22344",
+   "url": "https://www.tiktok.com/@maddie22344/video/7613548932940959006",
+   "date": "2026.03"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/woman-brings-tiny-kitten-home-shock-what-she-trains-her-dog-to-do-11657912",
+   "date": "2026.03.11"
+  }
+ ],
+ "seconds": 23.31,
+ "tts": [
+  "typecast"
+ ],
+ "files": [
+  "media/20261018-kimmy/short.mp4"
+ ],
+ "yt": {
+  "title": "'아기 데려와' 한마디에 강아지가 물고 온 것 #shorts",
+  "description": "생후 2주 된 아주 작은 새끼 고양이를 데려온 주인. 고양이가 너무 작아 자꾸 숨어버리자, 강아지 킴미에게 '아기 데려와'를 가르쳤습니다. 이제 한마디면 꼬리를 흔들며 고양이를 조심스럽게 물어 옵니다.\n\n주인은 3시간마다 우유를 먹이며 아기 고양이를 돌봤고, 고양이와 킴미는 금세 단짝이 됐다고 합니다.\n\n여러분 집 강아지도 이런 보모 역할 하나요?\n\n출처: TikTok @maddie22344 2026.03, Newsweek 2026.03.11\n사진·영상: TikTok @maddie22344\n음성: Typecast\n\n#shorts #강아지 #아기고양이 #강아지와고양이 #귀여운동물",
+  "tags": [
+   "강아지",
+   "아기고양이",
+   "강아지와고양이",
+   "귀여운동물",
+   "웃긴동물",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "tg_msg": 381
+}
