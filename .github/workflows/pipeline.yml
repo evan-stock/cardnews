@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       cmd:
-        description: "ping(연결 테스트) | prepare | tick | watch | publish"
+        description: "ping(연결 테스트) | tick | watch | publish  (prepare는 2026.10.18 중지)"
         default: tick
       slot:
         description: "lunch | evening (prepare일 때)"
@@ -31,7 +31,7 @@ jobs:
     timeout-minutes: 360
     env:
       TZ: Asia/Seoul
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      # ANTHROPIC_API_KEY 제거(2026.10.18): API 크레딧을 쓰는 자동 소재 조사(prepare) 완전 중지
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -73,7 +73,8 @@ jobs:
       - name: 실행
         run: |
           case "${{ steps.pick.outputs.cmd }}" in
-            prepare) python -m cardnews.main prepare --slot "${{ steps.pick.outputs.slot }}" $([ "${{ github.event_name }}" = "workflow_dispatch" ] && echo --force) && python -m cardnews.main watch ;;
+            prepare) echo "prepare(Claude API 자동 제작)는 중지됐어요. 채팅 원고 모드를 쓰세요."; exit 1 ;;
+            prepare_disabled) python -m cardnews.main prepare --slot "${{ steps.pick.outputs.slot }}" $([ "${{ github.event_name }}" = "workflow_dispatch" ] && echo --force) && python -m cardnews.main watch ;;
             watch) python -m cardnews.main watch ;;
             publish) python -m cardnews.main publish --id "${{ steps.pick.outputs.id }}" ;;
             ping) python -m cardnews.main ping ;;
