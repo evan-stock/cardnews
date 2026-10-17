@@ -6,7 +6,11 @@
   "t": "증거 없던 '붉은 번개'\n찍히기까지 '103년'"
  },
  "style": {
-  "mascot": null
+  "mascot": null,
+  "sub_size": 84,
+  "title_size": 84,
+  "chunk": 12,
+  "gap": 0.04
  },
  "credit": "영상: @florian.riou · 사진: NASA",
  "photo_credits": [
@@ -92,5 +96,9 @@
   {
    "publisher": "NASA"
   }
- ]
+ ],
+ "speed": 1.25,
+ "bgm": "assets/bgm/mystery_investigations.mp3",
+ "bgm_volume": 0.16,
+ "bgm_credit": "\"Investigations\" Kevin MacLeod (incompetech.com) / CC BY 4.0"
 }

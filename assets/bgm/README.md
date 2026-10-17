@@ -9,3 +9,8 @@
 | sad_heartbeat_wind.mp3 | Heartbeat Of The Wind | Asher Fulero | 2:08 | 잔잔한 감동·구조 |
 
 사용: 원고에 `"narration": false, "bgm": "assets/bgm/sad_giving_up.mp3"`. 같은 곡만 반복하지 말고 돌려 쓴다.
+
+## 미스터리·과학 (Kevin MacLeod, incompetech.com — CC BY 4.0, 설명란 표기 필수)
+| 파일 | 곡 | 길이 | 어울리는 영상 | 표기 |
+|---|---|---|---|---|
+| mystery_investigations.mp3 | Investigations | 1:33 | 미스터리·과학 이야기형 쇼츠 | "Investigations" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
