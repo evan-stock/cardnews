@@ -58,10 +58,12 @@ def wrap(text, fnt, maxw, d):
     best = None
     for k in range(1, len(words)):
         a, b = " ".join(words[:k]), " ".join(words[k:])
+        if a.count("'") % 2:  # '강조어' 가운데서 끊지 않는다
+            continue
         wa, wb = d.textlength(a.replace("'", ""), font=fnt), d.textlength(b.replace("'", ""), font=fnt)
         if max(wa, wb) > maxw:
             continue
-        score = abs(wa - wb)
+        score = abs(wa - wb) - (fnt.size * 2 if a.endswith(",") else 0)  # 쉼표 뒤에서 끊기를 선호
         if best is None or score < best[0]:
             best = (score, a, b)
     if best is None:

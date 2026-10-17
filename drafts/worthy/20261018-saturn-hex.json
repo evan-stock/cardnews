@@ -1,0 +1,96 @@
+{
+ "id": "20261018-saturn-hex",
+ "media": "media/20261018-saturn-hex",
+ "topic": "토성 북극의 육각형 구름(제트기류) — 지구 2개 크기",
+ "hook": {
+  "t": "지구 2개가 들어가는\n'육각형' 구름의 정체"
+ },
+ "credit": "영상·사진: NASA/JPL-Caltech/SSI",
+ "bgm": {
+  "file": "assets/bgm/worthy/stake_out.mp3",
+  "start": 76.5,
+  "vol": 0.6
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "토성 북극에 뜬 거대한 '육각형'",
+   "video": {
+    "src": "video/hex_color_loop.mp4",
+    "start": 0,
+    "fit": "contain"
+   }
+  },
+  {
+   "text": "크기는 지구가 '두 개 넘게' 들어갈 정도",
+   "video": {
+    "src": "video/size_card.mp4",
+    "start": 0.3
+   },
+   "dur": 4.0
+  },
+  {
+   "text": "1980년대 보이저호가 처음 발견했다",
+   "video": {
+    "src": "video/img7.webm",
+    "start": 17,
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  {
+   "text": "정체는 시속 약 500km로 도는 '제트기류'",
+   "video": {
+    "src": "video/img2_loop.mp4",
+    "start": 0,
+    "fit": "contain"
+   }
+  },
+  {
+   "text": "한가운데 소용돌이 눈은 지구 태풍의 '약 50배'",
+   "video": {
+    "src": "video/img4_loop.mp4",
+    "start": 0,
+    "fit": "contain"
+   }
+  },
+  {
+   "text": "왜 딱 육각형으로 유지되는지는 아직 '수수께끼'",
+   "img": "video/img3.jpg",
+   "zoom": 0.12
+  },
+  {
+   "text": "카시니 탐사선은 13년 동안 이 육각형을 지켜봤다",
+   "img": "video/img5.jpg",
+   "zoom": 0.12
+  },
+  {
+   "text": "알고 나면 '쓸모' 있는 우주 이야기, 매일 올려요",
+   "video": {
+    "src": "video/img6.ogv",
+    "start": 2,
+    "fit": "contain"
+   }
+  }
+ ],
+ "products": [
+  {
+   "name": "천체망원경",
+   "keyword": "입문용 천체망원경"
+  }
+ ],
+ "photo_credits": [
+  "NASA/JPL-Caltech/Space Science Institute",
+  "NASA (Voyager 2, Apollo 17)"
+ ],
+ "sources": [
+  {
+   "publisher": "NASA Science 'Saturn's Hexagon in Motion'",
+   "url": "https://science.nasa.gov/mission/cassini/science/saturn/hexagon-in-motion"
+  },
+  {
+   "publisher": "Space.com 'Saturn's Weird Hexagon Seen in New Images'",
+   "url": "https://www.space.com/7651-saturn-weird-hexagon-images.html"
+  }
+ ]
+}
