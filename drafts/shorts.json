@@ -1,98 +1,72 @@
 {
- "id": "20261017-nikomaki",
+ "id": "20261018-kimmy",
  "mode": "send",
- "topic": "출산하는 아내 곁을 지킨 아빠 고양이 니코",
+ "topic": "'아기 데려와' 한마디에 새끼 고양이를 물어 오는 강아지 킴미",
  "hook": {
-  "t": "출산하는 아내 곁을\n'끝까지 지킨' 아빠 고양이"
+  "t": "'아기 데려와' 한마디에\n강아지가 물고 온 것ㄷㄷ"
  },
  "photo_credits": [
-  "TikTok @nikoandmaki"
+  "TikTok @maddie22344"
  ],
  "scenes": [
   {
-   "say": "태국 방콕에 사는 고양이 부부, 니코와 마키.",
+   "say": "이 강아지, 지금 입에 '새끼 고양이'를 물고 있습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 40.4,
-    "y": 0.2,
-    "audio": 1.2,
-    "blur": [
-     200,
-     1410,
-     700,
-     180
-    ]
-   },
-   "dur": 3.6
+    "start": 42.6,
+    "y": 0.7
+   }
   },
   {
-   "say": "마키가 아기를 낳던 날, 아빠 니코는 곁을 떠나지 않았습니다.",
+   "say": "이름은 킴미. 주인이 데려온 고양이는 생후 2주, 손바닥보다 작았습니다.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 6.3,
-    "y": 0.2,
-    "audio": 1.2,
-    "blur": [
-     200,
-     1410,
-     700,
-     180
-    ]
-   },
-   "dur": 4.0
+    "src": "video/face.mp4",
+    "start": 0,
+    "y": 0.4
+   }
   },
   {
-   "say": "몸을 딱 붙이고, 아내를 감싸 안은 채로.",
+   "say": "너무 작아서 자꾸 어디론가 사라지자, 주인은 킴미에게 '임무'를 맡깁니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 24,
-    "y": 0.2,
-    "audio": 1.2,
-    "blur": [
-     200,
-     1410,
-     700,
-     180
-    ]
-   },
-   "dur": 3.6
+    "start": 17.5,
+    "y": 0.6
+   }
   },
   {
-   "say": "그리고 둘 사이에서 태어난 작은 생명.",
+   "say": "아기 데려와. 그 한마디면 꼬리를 흔들며 출동.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 50.5,
-    "y": 0.2,
-    "audio": 1.2,
-    "blur": [
-     200,
-     1410,
-     700,
-     180
-    ]
-   },
-   "dur": 3.8
+    "start": 13.0,
+    "y": 0.6
+   }
   },
   {
-   "say": "아빠는 오늘도 아기를 핥아주며 '가족'을 지키고 있습니다.",
+   "say": "조심조심 물어 와서, 주인 손에 살포시 내려놓습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 55.5,
-    "y": 0.2,
-    "audio": 1.2
-   },
-   "dur": 4.6
+    "start": 43.4,
+    "y": 0.75
+   }
+  },
+  {
+   "say": "오늘도 임무 완료. 이 집 막내는 든든한 '보모'가 생겼습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 46.0,
+    "y": 0.6
+   }
   }
  ],
  "yt": {
-  "title": "출산하는 아내 곁을 끝까지 지킨 아빠 고양이 #shorts",
-  "description": "태국 방콕에 사는 고양이 부부 니코와 마키. 마키가 출산하던 날, 아빠 니코는 아내 곁을 떠나지 않으려 했고 태어난 아기를 살핀 뒤로 정성껏 돌보고 있다고 합니다.\n\n여러분 집 고양이도 이렇게 가족을 챙기나요?",
+  "title": "'아기 데려와' 한마디에 강아지가 물고 온 것 #shorts",
+  "description": "생후 2주 된 아주 작은 새끼 고양이를 데려온 주인. 고양이가 너무 작아 자꾸 숨어버리자, 강아지 킴미에게 '아기 데려와'를 가르쳤습니다. 이제 한마디면 꼬리를 흔들며 고양이를 조심스럽게 물어 옵니다.\n\n주인은 3시간마다 우유를 먹이며 아기 고양이를 돌봤고, 고양이와 킴미는 금세 단짝이 됐다고 합니다.\n\n여러분 집 강아지도 이런 보모 역할 하나요?",
   "tags": [
-   "고양이",
-   "아빠고양이",
+   "강아지",
    "아기고양이",
-   "감동",
+   "강아지와고양이",
    "귀여운동물",
+   "웃긴동물",
    "오늘의털뭉치"
   ],
   "category": 15,
@@ -100,16 +74,15 @@
  },
  "sources": [
   {
-   "publisher": "TikTok @nikoandmaki",
-   "url": "https://www.tiktok.com/@nikoandmaki/video/7537510087246482696",
-   "date": "2025.08"
+   "publisher": "TikTok @maddie22344",
+   "url": "https://www.tiktok.com/@maddie22344/video/7613548932940959006",
+   "date": "2026.03"
   },
   {
    "publisher": "Newsweek",
-   "url": "https://www.newsweek.com/bonded-cats-love-kitten-tiktok-2112736",
-   "date": "2025.08.13"
+   "url": "https://www.newsweek.com/woman-brings-tiny-kitten-home-shock-what-she-trains-her-dog-to-do-11657912",
+   "date": "2026.03.11"
   }
  ],
- "publish_now": true,
- "narration": false
+ "publish_now": true
 }
