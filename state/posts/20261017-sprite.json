@@ -2,7 +2,7 @@
  "id": "20261017-sprite",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-17T18:11:45.898429+09:00",
  "publish_at": "2026-10-17T21:30:00+09:00",
  "topic": "프랑스 사진작가 플로리앙 리우가 코르시카 산골 마을 몽테마조레 위로 터진 거대한 '레드 스프라이트'를 촬영, 해외에서 화제",
@@ -53,5 +53,8 @@
   "media/20261017-sprite/03.jpg"
  ],
  "tg_msg": 318,
- "decided_at": "2026-10-17T18:11:49.980810+09:00"
+ "decided_at": "2026-10-17T18:11:49.980810+09:00",
+ "ig_media_id": "18117612985790957",
+ "permalink": "https://www.instagram.com/p/DemHU38AQYr/",
+ "published_at": "2026-10-17T21:32:03.673628+09:00"
 }
