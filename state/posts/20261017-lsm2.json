@@ -2,7 +2,7 @@
  "id": "20261017-lsm2",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-17T14:02:01.708604+09:00",
  "publish_at": "2026-10-17T15:00:00+09:00",
  "topic": "이수만의 사업 수완: 보아 현지화 → 하이브에 4,228억 매각 → 싱가포르 본사 A2O → 29시간 만에 멜론 1위",
@@ -108,5 +108,8 @@
   "media/20261017-lsm2/09.jpg"
  ],
  "tg_msg": 277,
- "decided_at": "2026-10-17T14:02:07.060782+09:00"
+ "decided_at": "2026-10-17T14:02:07.060782+09:00",
+ "ig_media_id": "18096659804449382",
+ "permalink": "https://www.instagram.com/p/Delaw4UgCnZ/",
+ "published_at": "2026-10-17T15:02:59.891803+09:00"
 }
