@@ -1,7 +1,7 @@
 {
  "id": "20261017-pigeondog",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-17T18:40:59.097069+09:00",
  "publish_at": "2026-10-17T18:40:59.097087+09:00",
  "publish_now": true,
@@ -36,5 +36,8 @@
  },
  "tg_msg": 346,
  "decided_at": "2026-10-17T18:54:29.850174+09:00",
- "approved_via": "chat"
+ "approved_via": "chat",
+ "yt_id": "WxPo4pgF-8Y",
+ "permalink": "https://youtube.com/shorts/WxPo4pgF-8Y",
+ "published_at": "2026-10-17T19:00:56.937228+09:00"
 }
