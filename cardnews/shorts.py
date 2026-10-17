@@ -356,7 +356,6 @@ def render(d):
     from .tts import cfg as tts_cfg
     if tts_cfg().get("engine") == "none" and not (d.get("voice") or {}).get("engine"):
         d = {**d, "narration": False}  # TTS 일시 중지(engine: none): 자막+원본 소리+배경음악으로 만든다
-        d.setdefault("bgm", "assets/bgm/sad_heartbeat_wind.mp3")
     if d.get("narration") is False:  # TTS 없이 원본 소리 + 배경음악(감동형 등). 자막이 이야기를 끌고 간다
         d = {**d, "voice": {**(d.get("voice") or {}), "engine": "silent"}}
         sc["video_audio"] = sc.get("quiet_video_audio", 1.0)
