@@ -1,0 +1,96 @@
+{
+ "id": "20261018-kimmy",
+ "created": "2026-10-18T00:29:12.256188+09:00",
+ "items": [
+  {
+   "key": "459df759d99d",
+   "text": "이 강아지, 지금 입에 새끼 고양이를 물고 있습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "이름은 킴미. 주인이 데려온 고양이는 생후 2주, 손바닥보다 작았습니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "d1e0febd7268",
+   "text": "이름은 킴미. 주인이 데려온 고양이는 생후 2주, 손바닥보다 작았습니다.",
+   "ctx": {
+    "previous_text": "이 강아지, 지금 입에 새끼 고양이를 물고 있습니다.",
+    "next_text": "너무 작아서 자꾸 어디론가 사라지자, 주인은 킴미에게 임무를 맡깁니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "0c7ff68afdd2",
+   "text": "너무 작아서 자꾸 어디론가 사라지자, 주인은 킴미에게 임무를 맡깁니다.",
+   "ctx": {
+    "previous_text": "이름은 킴미. 주인이 데려온 고양이는 생후 2주, 손바닥보다 작았습니다.",
+    "next_text": "아기 데려와. 그 한마디면 꼬리를 흔들며 출동."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "9a24a6a7c0c7",
+   "text": "아기 데려와. 그 한마디면 꼬리를 흔들며 출동.",
+   "ctx": {
+    "previous_text": "너무 작아서 자꾸 어디론가 사라지자, 주인은 킴미에게 임무를 맡깁니다.",
+    "next_text": "조심조심 물어 와서, 주인 손에 살포시 내려놓습니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "1bec2f95b594",
+   "text": "조심조심 물어 와서, 주인 손에 살포시 내려놓습니다.",
+   "ctx": {
+    "previous_text": "아기 데려와. 그 한마디면 꼬리를 흔들며 출동.",
+    "next_text": "오늘도 임무 완료. 이 집 막내는 든든한 보모가 생겼습니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "9879853e7159",
+   "text": "오늘도 임무 완료. 이 집 막내는 든든한 보모가 생겼습니다.",
+   "ctx": {
+    "previous_text": "조심조심 물어 와서, 주인 손에 살포시 내려놓습니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
