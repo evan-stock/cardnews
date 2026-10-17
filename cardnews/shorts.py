@@ -465,6 +465,14 @@ def render(d):
     joined = f"{tmp}/joined.mp4"
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy",
                     joined], check=True)
+    sp = float(d.get("speed") or 1.0)  # 전체 속도(예: 1.25 = 25% 빠르게). 목소리는 음높이 그대로(atempo)
+    if abs(sp - 1.0) > 0.01:
+        fast = f"{tmp}/fast.mp4"
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", joined, "-filter_complex",
+                        f"[0:v]setpts=PTS/{sp},fps={FPS}[v];[0:a]atempo={sp}[a]", "-map", "[v]", "-map", "[a]",
+                        "-c:v", "libx264", "-crf", "18", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", fast],
+                       check=True)
+        joined, total = fast, total / sp
     out = str(base / "short.mp4")
     bgm = d.get("bgm") or sc.get("bgm")
     if bgm and os.path.exists(ROOT / bgm):
