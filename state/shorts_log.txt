@@ -1,1 +1,7 @@
-['JJ']
+장면 1/6 typecast 누적 3.2초
+장면 2/6 typecast 누적 7.7초
+장면 3/6 typecast 누적 11.4초
+장면 4/6 typecast 누적 14.6초
+장면 5/6 typecast 누적 20.7초
+장면 6/6 typecast 누적 24.1초
+완성: /home/runner/work/cardnews/cardnews/media/20261017-pigeondog/short.mp4 (24.1초, TTS ['typecast'])

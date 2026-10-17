@@ -1,0 +1,39 @@
+{
+ "id": "20261017-pigeondog",
+ "kind": "short",
+ "status": "approved",
+ "created_at": "2026-10-17T18:24:36.540094+09:00",
+ "publish_at": "2026-10-17T18:24:36.540110+09:00",
+ "publish_now": true,
+ "topic": "산책 중 누웠더니 비둘기 숙소가 된 강아지",
+ "sources": [
+  {
+   "publisher": "TikTok @sorrell_grace",
+   "url": "https://www.tiktok.com/@sorrell_grace/video/7679120869448289558",
+   "date": "2026.10"
+  }
+ ],
+ "seconds": 24.130000000000003,
+ "tts": [
+  "typecast"
+ ],
+ "files": [
+  "media/20261017-pigeondog/short.mp4"
+ ],
+ "yt": {
+  "title": "산책 중 누웠더니 비둘기 숙소가 된 강아지 #shorts",
+  "description": "산책하다 공원 잔디에 엎드린 강아지. 쫓아가는 대신 가만히 있었더니 비둘기 떼가 몰려와 등 위에까지 올라탔습니다.\n\n비둘기는 자기를 쫓아낸 사람의 얼굴을 기억한다는 연구도 있다고 하죠(2011년 파리 낭테르 대학 연구).\n\n여러분 집 털뭉치는 비둘기 보면 어떻게 하나요?\n\n출처: TikTok @sorrell_grace 2026.10\n사진·영상: TikTok @sorrell_grace\n음성: Typecast\n\n#shorts #강아지 #비둘기 #귀여운동물 #오늘의털뭉치",
+  "tags": [
+   "강아지",
+   "비둘기",
+   "귀여운동물",
+   "오늘의털뭉치",
+   "동물쇼츠"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false
+ },
+ "tg_msg": 333,
+ "decided_at": "2026-10-17T18:24:41.893018+09:00"
+}
