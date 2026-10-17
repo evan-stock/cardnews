@@ -1,0 +1,7 @@
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://www.foxweather.com/watch/fmc-i453pvvrfjnumu4s
+실패: https://www.foxweather.com/extreme-weather/see-it-dog-found-alive-2-days-after-being-separated-from-owner-during-alaska-avalanche
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://www.scrippsnews.com/us-news/dog-found-alive-after-50-hours-alone-in-alaska-wilderness-following-avalanche
+실패: https://www.scrippsnews.com/us-news/dog-found-alive-after-50-hours-alone-in-alaska-wilderness-following-avalanche
+WARNING: [generic] Falling back on generic information extractor
