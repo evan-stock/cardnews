@@ -1,7 +1,7 @@
-장면 1/6 typecast 누적 3.2초
-장면 2/6 typecast 누적 7.7초
-장면 3/6 typecast 누적 12.0초
-장면 4/6 typecast 누적 15.8초
-장면 5/6 typecast 누적 21.4초
-장면 6/6 typecast 누적 25.4초
-완성: /home/runner/work/cardnews/cardnews/media/20261017-pigeondog/short.mp4 (25.4초, TTS ['typecast'])
+장면 1/6 typecast 누적 3.0초
+장면 2/6 typecast 누적 6.6초
+장면 3/6 typecast 누적 10.4초
+장면 4/6 typecast 누적 13.9초
+장면 5/6 typecast 누적 19.3초
+장면 6/6 typecast 누적 22.8초
+완성: /home/runner/work/cardnews/cardnews/media/20261017-pigeondog/short.mp4 (22.8초, TTS ['typecast'])

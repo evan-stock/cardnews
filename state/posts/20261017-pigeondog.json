@@ -2,8 +2,8 @@
  "id": "20261017-pigeondog",
  "kind": "short",
  "status": "pending",
- "created_at": "2026-10-17T18:31:41.377904+09:00",
- "publish_at": "2026-10-17T18:31:41.377921+09:00",
+ "created_at": "2026-10-17T18:40:59.097069+09:00",
+ "publish_at": "2026-10-17T18:40:59.097087+09:00",
  "publish_now": true,
  "topic": "산책 중 누웠더니 비둘기 숙소가 된 강아지",
  "sources": [
@@ -13,7 +13,7 @@
    "date": "2026.10"
   }
  ],
- "seconds": 25.36,
+ "seconds": 22.799999999999997,
  "tts": [
   "typecast"
  ],
@@ -34,5 +34,5 @@
   "privacy": "public",
   "synthetic": false
  },
- "tg_msg": 335
+ "tg_msg": 346
 }
