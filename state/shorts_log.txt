@@ -1,7 +1,7 @@
-장면 1/6 typecast 누적 2.5초
-장면 2/6 typecast 누적 5.0초
+장면 1/6 typecast 누적 2.6초
+장면 2/6 typecast 누적 5.9초
 장면 3/6 typecast 누적 9.2초
-장면 4/6 typecast 누적 11.0초
-장면 5/6 typecast 누적 15.4초
-장면 6/6 typecast 누적 19.5초
-완성: /home/runner/work/cardnews/cardnews/media/20261017-horsepumpkin/short.mp4 (19.5초, TTS ['typecast'])
+장면 4/6 typecast 누적 12.1초
+장면 5/6 typecast 누적 15.7초
+장면 6/6 typecast 누적 18.2초
+완성: /home/runner/work/cardnews/cardnews/media/20261017-bosscat/short.mp4 (18.2초, TTS ['typecast'])

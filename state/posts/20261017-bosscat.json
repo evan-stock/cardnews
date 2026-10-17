@@ -1,0 +1,38 @@
+{
+ "id": "20261017-bosscat",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-17T19:42:56.503683+09:00",
+ "publish_at": "2026-10-17T19:42:56.503703+09:00",
+ "publish_now": true,
+ "topic": "신나게 놀던 개들 이 분 등장하자 얼음",
+ "sources": [
+  {
+   "publisher": "TikTok @thereallifeofdan",
+   "url": "https://www.tiktok.com/@thereallifeofdan/video/7682450952632257805",
+   "date": "2026.09"
+  }
+ ],
+ "seconds": 18.25,
+ "tts": [
+  "typecast"
+ ],
+ "files": [
+  "media/20261017-bosscat/short.mp4"
+ ],
+ "yt": {
+  "title": "신나게 놀던 개들, 이 분 등장하자 얼음 #shorts",
+  "description": "거실에서 신나게 뛰어놀던 달마시안과 강아지. 낮잠에서 깬 고양이가 걸어 나오자 분위기가 순식간에 바뀝니다.\n\n고양이에게 빤히 쳐다보는 눈빛은 '경고'의 신호라고 하죠.\n\n여러분 집 서열 1위는 누구인가요?\n\n출처: TikTok @thereallifeofdan 2026.09\n사진·영상: TikTok @thereallifeofdan\n음성: Typecast\n\n#shorts #고양이 #달마시안 #서열 #귀여운동물",
+  "tags": [
+   "고양이",
+   "달마시안",
+   "서열",
+   "귀여운동물",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false
+ },
+ "tg_msg": 353
+}
