@@ -1,24 +1,82 @@
 {
- "id": "20261017-horsepumpkin",
+ "id": "20261017-bosscat",
  "mode": "send",
- "topic": "핼러윈 호박 본 말의 수상한 눈빛",
- "hook": {"t": "핼러윈 호박 본 말의\n'세상 수상한' 눈빛"},
- "photo_credits": ["TikTok @ronniesbiologicalmom"],
+ "topic": "신나게 놀던 개들 이 분 등장하자 얼음",
+ "hook": {
+  "t": "신나게 놀던 개들\n'이 분' 등장하자 얼음"
+ },
+ "photo_credits": [
+  "TikTok @thereallifeofdan"
+ ],
  "scenes": [
-  {"say": "이 말, 지금 주인을 '의심'하고 있습니다.", "video": {"src": "video/v1.mp4", "start": 8.5, "y": 0.15, "blur": [225, 1430, 630, 70]}},
-  {"say": "시작은 마구간에 쌓인 핼러윈 호박이었습니다.", "video": {"src": "video/v1.mp4", "start": 0.5, "y": 0.3, "blur": [225, 1430, 630, 70]}},
-  {"say": "냄새를 맡아 보더니, 갑자기 멈춰 서서 주인을 빤히 쳐다봅니다.", "video": {"src": "video/v1.mp4", "start": 4, "y": 0.2, "blur": [225, 1430, 630, 70]}},
-  {"say": "그리고 이런 표정을 짓습니다.", "video": {"src": "video/v1.mp4", "start": 28.2, "y": 0.15, "blur": [225, 1430, 630, 70]}},
-  {"say": "말은 사람의 화난 표정과 웃는 표정을 구별한다는 연구가 있습니다.", "video": {"src": "video/v1.mp4", "start": 18, "y": 0.15, "blur": [225, 1430, 630, 70]}},
-  {"say": "호박을 잔뜩 사 온 주인, 아무래도 '수상해' 보였나 봅니다.", "video": {"src": "video/v1.mp4", "start": 30.5, "y": 0.3, "blur": [225, 1430, 630, 70]}}
+  {
+   "say": "이 집의 진짜 주인이 등장했습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 50.2,
+    "y": 0.2
+   }
+  },
+  {
+   "say": "평화로운 오후, 개 두 마리가 신나게 뛰어놀고 있었습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 0.3,
+    "y": 0.4
+   }
+  },
+  {
+   "say": "그때, 낮잠에서 깬 '이 분'이 천천히 걸어 나옵니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 28,
+    "y": 0.6
+   }
+  },
+  {
+   "say": "방금까지 날뛰던 달마시안, 그대로 '얼어붙습니다'.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 21,
+    "y": 0.35
+   }
+  },
+  {
+   "say": "고양이에게 빤히 쳐다보는 눈빛은 '경고'의 신호라고 합니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 40.5,
+    "y": 0.0
+   }
+  },
+  {
+   "say": "이 집 서열, 이걸로 정리됐습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 48.3,
+    "y": 0.5
+   }
+  }
  ],
  "yt": {
-  "title": "핼러윈 호박 본 말의 세상 수상한 눈빛",
-  "description": "마구간에 핼러윈 호박이 잔뜩 쌓였습니다. 냄새를 맡아 본 말 헨리는 갑자기 멈춰 서서 주인을 빤히 쳐다보는데요.\n\n말은 사람의 화난 표정과 웃는 표정을 구별한다는 연구도 있습니다(2016년 영국 서식스대 연구).\n\n여러분 집 털뭉치는 핼러윈 장식 보면 어떤 반응인가요?",
-  "tags": ["말", "핼러윈", "호박", "귀여운동물", "오늘의털뭉치"],
+  "title": "신나게 놀던 개들, 이 분 등장하자 얼음",
+  "description": "거실에서 신나게 뛰어놀던 달마시안과 강아지. 낮잠에서 깬 고양이가 걸어 나오자 분위기가 순식간에 바뀝니다.\n\n고양이에게 빤히 쳐다보는 눈빛은 '경고'의 신호라고 하죠.\n\n여러분 집 서열 1위는 누구인가요?",
+  "tags": [
+   "고양이",
+   "달마시안",
+   "서열",
+   "귀여운동물",
+   "오늘의털뭉치"
+  ],
   "category": 15,
   "privacy": "public"
  },
- "sources": [{"publisher": "TikTok @ronniesbiologicalmom", "url": "https://www.tiktok.com/@ronniesbiologicalmom/video/7694022855893306654", "date": "2026.10"}],
+ "sources": [
+  {
+   "publisher": "TikTok @thereallifeofdan",
+   "url": "https://www.tiktok.com/@thereallifeofdan/video/7682450952632257805",
+   "date": "2026.09"
+  }
+ ],
  "publish_now": true
 }
