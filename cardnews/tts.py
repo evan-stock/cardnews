@@ -93,7 +93,7 @@ def silent(text, out, c, ctx=None):
     return "silent"
 
 
-ENGINES = {"typecast": typecast, "edge": edge, "silent": silent}
+ENGINES = {"typecast": typecast, "edge": edge, "silent": silent, "none": silent}
 
 
 def say(text, out, override=None, ctx=None, timed=False):
@@ -102,7 +102,7 @@ def say(text, out, override=None, ctx=None, timed=False):
     ctx={"previous_text","next_text"}: emotion=smart일 때 앞뒤 문장."""
     c = {**cfg(), **(override or {})}
     order = [c["engine"]] + [e for e in ("typecast", "edge") if e != c["engine"]]
-    if c["engine"] == "silent":
+    if c["engine"] in ("silent", "none"):  # none = TTS 일시 중지(타입캐스트로 새지 않게)
         order = ["silent"]
     err = []
     for e in order:

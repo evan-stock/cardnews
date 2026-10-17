@@ -73,7 +73,7 @@ shorts:
   bgm_volume: 0.10
   category: 24          # 24 엔터테인먼트, 22 인물·블로그, 28 과학기술
   tts:
-    engine: edge        # 2026.10.17 타입캐스트가 '비정상 활동 감지(403)'로 경고 → 일시 중지. 재개 시 typecast 로.
+    engine: none        # 2026.10.17 타입캐스트 '비정상 활동 감지(403)' → 문의 넣고 답변 대기. Edge는 사용자가 원치 않음 → 내레이션 없이 제작. 재개 시 typecast 로.
     # 원래: engine: typecast    # typecast → 실패·한도 초과 시 edge 자동 대체 | edge | silent(시험용)
     model: ssfm-v30
     voice_id: tc_68257f68bc6e3c161ab5078d   # 필재(기본). 바꾸려면 채팅에서 "목소리 ○○로 바꿔줘"
