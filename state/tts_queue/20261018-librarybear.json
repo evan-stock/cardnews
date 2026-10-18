@@ -1,0 +1,111 @@
+{
+ "id": "20261018-librarybear",
+ "created": "2026-10-18T09:08:00.747468+09:00",
+ "items": [
+  {
+   "key": "64576468dbd0",
+   "text": "이 손님, 지금 도서관에 입장하셨습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "문 열기 전 아침. 직원도 손님도 없는 시간입니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "ccdf53a9cbbf",
+   "text": "문 열기 전 아침. 직원도 손님도 없는 시간입니다.",
+   "ctx": {
+    "previous_text": "이 손님, 지금 도서관에 입장하셨습니다.",
+    "next_text": "책에는 관심이 없습니다. 목표는 오직 직원 간식."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "eacd7d4963a8",
+   "text": "책에는 관심이 없습니다. 목표는 오직 직원 간식.",
+   "ctx": {
+    "previous_text": "문 열기 전 아침. 직원도 손님도 없는 시간입니다.",
+    "next_text": "땅콩버터, 복숭아 컵, 쿠키, 그리고 꿀 한 병까지 해치웁니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "6e06988faa18",
+   "text": "땅콩버터, 복숭아 컵, 쿠키, 그리고 꿀 한 병까지 해치웁니다.",
+   "ctx": {
+    "previous_text": "책에는 관심이 없습니다. 목표는 오직 직원 간식.",
+    "next_text": "겨울잠을 앞둔 가을 곰은 하루 2만 칼로리 넘게 먹습니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "0de42ef66146",
+   "text": "겨울잠을 앞둔 가을 곰은 하루 2만 칼로리 넘게 먹습니다.",
+   "ctx": {
+    "previous_text": "땅콩버터, 복숭아 컵, 쿠키, 그리고 꿀 한 병까지 해치웁니다.",
+    "next_text": "하필 이날은 곰돌이 푸 출간 100주년이었습니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "48b409cede62",
+   "text": "하필 이날은 곰돌이 푸 출간 100주년이었습니다.",
+   "ctx": {
+    "previous_text": "겨울잠을 앞둔 가을 곰은 하루 2만 칼로리 넘게 먹습니다.",
+    "next_text": "도서관의 공식 입장. 간식은 대출 품목이 아닙니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "0b0f6dc1da03",
+   "text": "도서관의 공식 입장. 간식은 대출 품목이 아닙니다.",
+   "ctx": {
+    "previous_text": "하필 이날은 곰돌이 푸 출간 100주년이었습니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
