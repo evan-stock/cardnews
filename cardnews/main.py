@@ -290,6 +290,10 @@ def sync_repo():
         return
     import subprocess
     run = lambda *a: subprocess.run(list(a), cwd=str(MEDIA.parent), capture_output=True, text=True)
+    # pull --rebase --autostash 도 커밋을 만들므로 저장소에 이름을 넣어 둔다(2026.10.18: 없어서 동기화가 계속 실패,
+    # 새 게시물·승인이 실행 중인 watch 에 반영되지 않았음)
+    run("git", "config", "user.name", "cardnews-bot")
+    run("git", "config", "user.email", "cardnews-bot@users.noreply.github.com")
     run("git", "add", "-A", "state", "media")
     if run("git", "diff", "--cached", "--quiet").returncode != 0:
         run("git", "-c", "user.name=cardnews-bot", "-c", "user.email=cardnews-bot@users.noreply.github.com",
