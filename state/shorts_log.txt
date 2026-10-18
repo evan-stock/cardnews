@@ -1,1 +1,8 @@
-⏳ 7개 장면 목소리를 맥북에서 만드는 중
+장면 1/7 typecast 누적 2.6초
+장면 2/7 typecast 누적 6.0초
+장면 3/7 typecast 누적 10.0초
+장면 4/7 typecast 누적 14.1초
+장면 5/7 typecast 누적 17.9초
+장면 6/7 typecast 누적 21.1초
+장면 7/7 typecast 누적 24.2초
+완성: /home/runner/work/cardnews/cardnews/media/20261018-librarybear/short.mp4 (24.2초, TTS ['typecast'])

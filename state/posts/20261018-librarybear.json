@@ -1,0 +1,58 @@
+{
+ "id": "20261018-librarybear",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-18T09:41:28.330583+09:00",
+ "publish_at": "2026-10-18T09:41:28.330600+09:00",
+ "publish_now": true,
+ "topic": "'곰돌이 푸' 출간 100주년 날 개관 전 도서관에 들어와 직원 간식·꿀을 먹고 간 곰(미국 매머드레이크스 도서관)",
+ "sources": [
+  {
+   "publisher": "Instagram @monocountyfreelibraries",
+   "url": "https://www.instagram.com/reel/DeftV9xvY8q/",
+   "date": "2026.10"
+  },
+  {
+   "publisher": "KMPH",
+   "url": "https://kmph.com/news/local/bear-breaks-into-mammoth-lakes-library-raids-honey-on-winnie-the-pooh-centennial-aa-milne-october-14-1926-director-of-libraries-josef-bopp",
+   "date": "2026.10.15"
+  },
+  {
+   "publisher": "Outdoors.com",
+   "url": "https://outdoors.com/watch-bear-enters-library-predictably-eats-jar-of-honey/",
+   "date": "2026.10.16"
+  },
+  {
+   "publisher": "NC Wildlife Resources Commission",
+   "url": "https://www.ncwildlife.org/News/be-bearwise-as-bear-activity-increases",
+   "date": ""
+  }
+ ],
+ "seconds": 24.220000000000002,
+ "tts": [
+  "typecast"
+ ],
+ "files": [
+  "media/20261018-librarybear/short.mp4"
+ ],
+ "yt": {
+  "title": "개관 전 도서관에 온 손님, 알고 보니 꿀 도둑 #shorts",
+  "description": "2026년 10월 14일 아침, 미국 캘리포니아 매머드레이크스 도서관(모노 카운티 공공도서관)에 문 열기 전 곰 한 마리가 들어왔습니다. 곰은 책 대신 직원 간식을 노려 땅콩버터, 복숭아 컵, 쿠키, 꿀 한 병을 먹고 갔고, 도서관 피해는 없었다고 합니다.\n\n공교롭게도 이날은 '곰돌이 푸(Winnie-the-Pooh)' 책이 나온 지 꼭 100년 되는 날이었습니다. 도서관은 \"간식은 대출 품목이 아닙니다\"라는 재치 있는 공지를 남겼습니다.\n\n가을 곰은 겨울잠 전 하루 2만 칼로리 넘게 먹는 '과식기'라 사람 사는 곳까지 내려오기도 합니다. 곰을 만나면 가까이 가거나 먹이를 주지 마세요.\n\n영상: Mono County Free Libraries(인스타그램 @monocountyfreelibraries)\n\n출처: Instagram @monocountyfreelibraries 2026.10, KMPH 2026.10.15, Outdoors.com 2026.10.16\n사진·영상: Instagram @monocountyfreelibraries\n음성: Typecast\n\n#shorts #곰 #도서관 #꿀도둑 #곰돌이푸",
+  "tags": [
+   "곰",
+   "도서관",
+   "꿀도둑",
+   "곰돌이푸",
+   "웃긴동물",
+   "신기한동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "45d4f2500a89",
+ "tg_msg": 403
+}
