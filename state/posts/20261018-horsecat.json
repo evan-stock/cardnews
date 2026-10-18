@@ -1,7 +1,7 @@
 {
  "id": "20261018-horsecat",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-18T10:06:03.455622+09:00",
  "publish_at": "2026-10-18T10:06:03.455646+09:00",
  "publish_now": true,
@@ -49,5 +49,9 @@
   "channel": null
  },
  "draft_hash": "c47043545cbf",
- "tg_msg": 408
+ "tg_msg": 408,
+ "decided_at": "2026-10-18T10:27:28.758272+09:00",
+ "yt_id": "jBfcG0V_1MM",
+ "permalink": "https://youtube.com/shorts/jBfcG0V_1MM",
+ "published_at": "2026-10-18T10:27:31.452906+09:00"
 }
