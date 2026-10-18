@@ -1,195 +1,148 @@
 {
- "id": "20261018-archiekitten",
+ "id": "20261018-vacuumbowie",
  "mode": "send",
  "format": "meme",
- "topic": "사라진 아기 고양이, 알고 보니 개 털 속에 숨어 있었다(아치·페넬로페, 밈+내레이션)",
+ "topic": "청소기에 짖던 강아지, 주인이 청소기를 혼내자 조용해짐(보위, 밈+내레이션)",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 1.5,
  "hook": {
-  "t": "사라진 아기 고양이\n알고 보니 '형아 품'에 있었다ㅋㅋ"
+  "t": "청소기만 보면 짖는 강아지\n'청소기를' 혼내줬더니ㅋㅋ"
  },
  "photo_credits": [
-  "TikTok @olliverandpenelope"
+  "TikTok @bowiethebeans"
  ],
  "scenes": [
   {
-   "say": "집사가 아기 고양이를 찾고 있습니다.",
+   "dur": 2.5,
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.3,
-    "y": 0.0,
-    "audio": 0.5,
+    "start": 0.0,
+    "y": 0.3,
+    "audio": 0.7,
     "blur": [
      [
-      45,
-      703,
-      490,
-      142
+      110,
+      745,
+      360,
+      82
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "왈왈! 저리 가 이 괴물아!!",
+     "x": 0.42,
+     "y": 0.56,
+     "at": 0.15,
+     "to": 2.5,
+     "s": "shock"
+    }
+   ]
+  },
+  {
+   "say": "이 강아지는 청소기만 켜면 전쟁을 시작합니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 2.5,
+    "y": 0.3,
+    "audio": 0.3,
+    "blur": [
+     [
+      110,
+      745,
+      360,
+      82
      ]
     ]
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(두리번두리번)",
+     "t": "(앙! 앙!)",
+     "x": 0.62,
+     "y": 0.4,
+     "at": 0.8,
+     "s": "whoosh"
+    }
+   ]
+  },
+  {
+   "dur": 1.5,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 5.5,
+    "y": 0.3,
+    "audio": 0.0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "헥헥... 2라운드 간다",
      "x": 0.5,
-     "y": 0.12,
+     "y": 0.42,
+     "at": 0.1,
+     "s": "dundun",
+     "sv": 0.8
+    }
+   ]
+  },
+  {
+   "say": "그러자 주인이 강아지 말고 청소기를 혼냈습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 7.0,
+    "y": 0.3,
+    "audio": 0.0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "야! 우리 애한테 잘해!!",
+     "x": 0.55,
+     "y": 0.1,
      "at": 0.4,
+     "s": "thud"
+    }
+   ]
+  },
+  {
+   "dur": 1.0,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 9.5,
+    "y": 0.3,
+    "audio": 0.0
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(멈칫)",
+     "x": 0.5,
+     "y": 0.44,
+     "at": 0.1,
      "s": "question"
     }
    ]
   },
   {
-   "say": "방 안 어디에도 보이지 않는데요.",
+   "dur": 1.5,
    "video": {
     "src": "video/v1.mp4",
-    "start": 3.0,
-    "y": 0.0,
-    "audio": 0.5,
-    "blur": [
-     [
-      45,
-      703,
-      490,
-      142
-     ]
-    ]
-   }
-  },
-  {
-   "dur": 2.3,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 5.5,
-    "y": 0.0,
-    "audio": 0.5,
-    "blur": [
-     [
-      45,
-      703,
-      490,
-      142
-     ]
-    ]
+    "start": 10.5,
+    "y": 0.3,
+    "audio": 0.0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "왜? 난 아무것도 몰라",
-     "x": 0.62,
-     "y": 0.12,
-     "at": 0.2,
-     "s": "sneak"
-    }
-   ]
-  },
-  {
-   "dur": 1.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 8.4,
-    "y": 0.0,
-    "audio": 0.5,
-    "blur": [
-     [
-      45,
-      703,
-      490,
-      142
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(날름)",
-     "x": 0.3,
-     "y": 0.3,
-     "at": 0.3,
-     "s": "slide"
-    }
-   ]
-  },
-  {
-   "dur": 2.2,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 9.6,
-    "y": 0.0,
-    "audio": 0.5,
-    "blur": [
-     [
-      45,
-      703,
-      490,
-      142
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "하아암~ 졸리다~",
-     "x": 0.68,
-     "y": 0.1,
-     "at": 0.3,
-     "s": "boing",
-     "sv": 0.7
-    }
-   ]
-  },
-  {
-   "say": "그런데 형아 품을 자세히 보니.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 12.3,
-    "y": 0.0,
-    "audio": 0.5,
-    "blur": [
-     [
-      45,
-      703,
-      490,
-      142
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(발견)",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 1.4,
-     "s": "dundun"
-    }
-   ]
-  },
-  {
-   "dur": 1.8,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 14.3,
-    "y": 0.0,
-    "audio": 0.5,
-    "blur": [
-     [
-      45,
-      703,
-      490,
-      142
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "나 여기 있는데?",
-     "x": 0.55,
-     "y": 0.25,
+     "t": "형아 지금 내 편 든 거야?",
+     "x": 0.66,
+     "y": 0.52,
      "at": 0.1,
-     "s": "pop"
+     "s": "heart",
+     "sv": 0.6
     }
    ]
   },
@@ -197,67 +150,71 @@
    "dur": 1.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 15.6,
-    "y": 0.0,
-    "audio": 0.5,
-    "blur": [
-     [
-      45,
-      703,
-      490,
-      142
-     ]
-    ]
+    "start": 12.0,
+    "y": 0.3,
+    "audio": 0.0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "쉿! 형아 품이 제일 따뜻해",
-     "x": 0.5,
-     "y": 0.12,
+     "t": "그래, 반성해라 청소기",
+     "x": 0.55,
+     "y": 0.45,
+     "at": 0.1,
+     "s": "ding"
+    }
+   ]
+  },
+  {
+   "dur": 1.4,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 13.6,
+    "y": 0.3,
+    "audio": 0.0
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(흡족)",
+     "x": 0.6,
+     "y": 0.46,
      "at": 0.1,
      "s": "sparkle"
     }
    ]
   },
   {
-   "say": "개와 고양이 열 쌍 중 여섯은 자주 함께 논다고 합니다.",
+   "say": "강아지는 사람이 못 듣는 높은 소리까지 듣는다고 합니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 17.0,
-    "y": 0.0,
-    "audio": 0.5,
-    "blur": [
-     [
-      45,
-      703,
-      490,
-      142
-     ]
-    ]
+    "start": 15.0,
+    "y": 0.3,
+    "audio": 0.0,
+    "boomerang": true
    },
    "caps": [
     {
      "k": "talk",
-     "t": "우리도 그래~",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 1.5,
-     "s": "heart",
-     "sv": 0.6
+     "t": "그러니까 시끄럽다고!",
+     "x": 0.68,
+     "y": 0.4,
+     "at": 1.2,
+     "s": "boing",
+     "sv": 0.7
     }
    ]
   }
  ],
  "yt": {
-  "title": "사라진 아기 고양이, 알고 보니 형아 품에 있었다ㅋㅋ #shorts",
-  "description": "집사가 아무리 찾아도 안 보이던 아기 고양이 페넬로페. 소파 위에서 시치미 떼고 하품만 하던 강아지 아치의 품을 자세히 들여다보니, 까만 털 속에 까만 아기 고양이가 쏙 파묻혀 있었습니다.\n\n2020년 학술지 PLOS ONE에 실린 연구(개와 고양이를 함께 키우는 1,200여 가구 조사)에 따르면, 개·고양이 짝 10쌍 중 약 6쌍은 자주 함께 놀고, 3분의 2 이상은 가끔 같이 잔다고 합니다.\n\n여러분 집 아이들도 이렇게 붙어 자나요?\n\n영상: TikTok @olliverandpenelope",
+  "title": "청소기만 보면 짖는 강아지, 청소기를 혼내줬더니ㅋㅋ #shorts",
+  "description": "청소기만 켜면 달려들어 짖는 강아지 보위. \"강아지 말고 청소기를 혼내 보라\"는 댓글 조언대로 주인이 청소기를 꾸짖자(\"우리 강아지한테 잘해! 얘는 잘못 없어!\"), 보위는 그 자리에 얌전히 앉아 조용해졌습니다.\n\n수의사 제니퍼 코츠(PetMD, 2026.3.17)에 따르면 강아지는 사람보다 훨씬 작은 소리, 더 높은 소리까지 들을 수 있고, 청소기의 큰 소리와 진동, 갑자기 켜지고 움직이는 모습이 겁을 주거나 지키려는 본능을 자극해 짖게 만든다고 합니다.\n\n여러분 집 강아지도 청소기랑 싸우나요?\n\n영상: TikTok @bowiethebeans\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
    "강아지",
-   "고양이",
-   "아기고양이",
-   "개냥이",
-   "강아지와고양이",
+   "청소기",
+   "청소기강아지",
+   "웃긴강아지",
+   "강아지반응",
    "웃긴동물",
    "동물쇼츠",
    "오늘의털뭉치"
@@ -267,14 +224,19 @@
  },
  "sources": [
   {
-   "publisher": "TikTok @olliverandpenelope",
-   "url": "https://www.tiktok.com/@olliverandpenelope/video/7624316884086770952",
+   "publisher": "TikTok @bowiethebeans",
+   "url": "https://www.tiktok.com/@bowiethebeans/video/7678459247142653198",
    "date": "2026"
   },
   {
-   "publisher": "Newsweek",
-   "url": "https://www.newsweek.com/owner-golden-energy-dog-cant-find-black-kitten-realization-11810735",
-   "date": "2026.4.10"
+   "publisher": "TAG24",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-august-28-2026-dog-stops-barking-at-vacuum-after-owner-tries-hilarious-trick-3519344",
+   "date": "2026.8.28"
+  },
+  {
+   "publisher": "PetMD (Jennifer Coates, DVM)",
+   "url": "https://www.petmd.com/dog/training/why-are-dogs-scared-of-vacuums",
+   "date": "2026.3.17"
   }
  ],
  "publish_now": true
