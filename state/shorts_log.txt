@@ -1,7 +1,8 @@
-장면 1/6 typecast 누적 3.0초
-장면 2/6 typecast 누적 6.7초
-장면 3/6 typecast 누적 10.6초
-장면 4/6 typecast 누적 13.9초
-장면 5/6 typecast 누적 18.4초
-장면 6/6 typecast 누적 20.8초
-완성: /home/runner/work/cardnews/cardnews/media/20261018-horsecat/short.mp4 (20.8초, TTS ['typecast'])
+장면 1/7 silent 누적 3.5초
+장면 2/7 silent 누적 7.5초
+장면 3/7 silent 누적 11.5초
+장면 4/7 silent 누적 15.0초
+장면 5/7 silent 누적 19.0초
+장면 6/7 silent 누적 22.5초
+장면 7/7 silent 누적 27.0초
+완성: /home/runner/work/cardnews/cardnews/media/20261018-aspentoby/short.mp4 (27.0초, TTS ['silent'])
