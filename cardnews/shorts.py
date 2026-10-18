@@ -487,8 +487,13 @@ def render(d):
     from .tts import cfg as tts_cfg
     if tts_cfg().get("engine") == "none" and not (d.get("voice") or {}).get("engine"):
         d = {**d, "narration": False}  # TTS 일시 중지(engine: none): 자막+원본 소리+배경음악으로 만든다
-    if d.get("format") == "meme":  # 밈 자막형(2026.10.18 펫파라치·짤봇): 내레이션 없음, 고정 자막 대신 위치 자막+효과음
-        d = {**d, "narration": False, "scenes": [{"say": "", "nosub": True, **s} for s in d["scenes"]]}
+    if d.get("format") == "meme":  # 밈 자막형(2026.10.18 펫파라치·짤봇): 고정 자막 대신 위치 자막+효과음
+        # 이야기를 설명하는 장면만 "say"(필재 TTS + 아래 자막)를 쓰고, 나머지 장면은 무음 + 위치 자막(사용자 결정 10.18)
+        scenes = [{**s, "say": s.get("say") or "", "nosub": s.get("nosub", not (s.get("say") or "").strip())}
+                  for s in d["scenes"]]
+        d = {**d, "scenes": scenes}
+        if not any(s["say"].strip() for s in scenes):
+            d["narration"] = False
         for k, v in {"band": 250, "title_size": 76, "title_base": list(WHITE), "title_hi": list(YELLOW),
                      "watermark": "오늘의 털뭉치", "quiet_bgm_volume": 0.12}.items():
             if k not in d.get("style", {}):
@@ -521,6 +526,8 @@ def render(d):
             ctx = {"previous_text": sl[i - 1]["say"].replace("'", "") if i else "",
                    "next_text": sl[i + 1]["say"].replace("'", "") if i + 1 < len(sl) else ""}
             text = scene["say"].replace("'", "")
+            if not text.strip():  # 밈 자막형의 무음 장면
+                continue
             key = tts_key(text, lc, ctx)
             if not (base / "tts" / f"{key}.mp3").exists():
                 need.append({"key": key, "text": text, "ctx": ctx,
@@ -537,7 +544,9 @@ def render(d):
         sc_list = d["scenes"]
         ctx = {"previous_text": sc_list[i - 1]["say"].replace("'", "") if i else "",
                "next_text": sc_list[i + 1]["say"].replace("'", "") if i + 1 < len(sc_list) else ""}
-        if local_on:
+        if not scene["say"].strip():  # 무음 장면(밈 자막형): 목소리 없이 dur 만큼
+            eng, words = say("", mp3, {"engine": "silent"}, timed=True)
+        elif local_on:
             key = tts_key(scene["say"].replace("'", ""), lc, ctx)
             f = base / "tts" / f"{key}.mp3"
             shutil.copy(f, mp3)
