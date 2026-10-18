@@ -1,0 +1,48 @@
+{
+ "id": "20261018-novacarrier",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-18T14:12:32.264351+09:00",
+ "publish_at": "2026-10-18T14:12:32.264369+09:00",
+ "publish_now": true,
+ "topic": "이동장에서 꺼내자마자 다시 들어가는 고양이 노바(밈 자막형 웃음형)",
+ "sources": [
+  {
+   "publisher": "TikTok @shuyamiko",
+   "url": "https://www.tiktok.com/@shuyamiko/video/7598895323045514518",
+   "date": "2026"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/cat-refuses-leave-carrier-internet-stitches-fight-11684291",
+   "date": "2026.3.16"
+  }
+ ],
+ "seconds": 17.499999999999996,
+ "tts": [
+  "silent"
+ ],
+ "files": [
+  "media/20261018-novacarrier/short.mp4"
+ ],
+ "yt": {
+  "title": "이동장에서 꺼내자마자 다시 들어가는 고양이ㅋㅋ #shorts",
+  "description": "보통 고양이들은 이동장만 보면 숨기 바쁜데, 이 고양이 노바는 반대입니다. 이동장에서 꺼내려고 하면 끝까지 버티고, 겨우 꺼내 놓으면 그대로 다시 쏙 들어가 버립니다. 옆에서 지켜보던 언니 고양이 보미의 표정이 모든 걸 말해 줍니다.\n\n보호자에 따르면 노바는 동물병원에서 비타민 간식을 받기 때문에 이동장을 좋아하게 됐다고 합니다. 반대로 보미는 이동장을 무서워한다고 해요. 많은 고양이에게 이동장은 병원·미용과 이어져 스트레스가 되기 쉬워서, 평소에 이동장을 열어 두고 간식을 넣어 주면 거부감을 줄이는 데 도움이 됩니다.\n\n여러분 고양이는 이동장 보면 어떤 반응인가요?\n\n영상: TikTok @shuyamiko\n\n출처: TikTok @shuyamiko 2026, Newsweek 2026.3.16\n사진·영상: TikTok @shuyamiko\n\n#shorts #고양이 #이동장 #웃긴고양이 #냥이",
+  "tags": [
+   "고양이",
+   "이동장",
+   "웃긴고양이",
+   "냥이",
+   "고양이캐리어",
+   "웃긴동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "64d4b6b65de5",
+ "tg_msg": 492
+}
