@@ -7,9 +7,9 @@
  },
  "credit": "영상: Charvet Drucker (@charvetd_photography)",
  "bgm": {
-  "file": "assets/bgm/worthy/stake_out.mp3",
-  "start": 76.5,
-  "vol": 0.6
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
  },
  "orig_vol": 0,
  "scenes": [
@@ -121,5 +121,6 @@
    "publisher": "NOAA Fisheries 잔점박이물범 접근 지침(사람·배가 다가오면 물속으로 피함)",
    "url": "https://www.fisheries.noaa.gov/alaska/marine-life-viewing-guidelines/frequent-questions-alaska-harbor-seal-approach-guidelines"
   }
- ]
+ ],
+ "bgm_credit": "\"Hitman\" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0"
 }

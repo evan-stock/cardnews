@@ -25,3 +25,8 @@
 | curious_kitten.mp3 | The Curious Kitten | Aaron Kenny | 1:39 | 11.0초 (곡 전체가 고른 편) — **파일 음량이 다른 곡보다 약 17dB 작음 → vol 4.0** | 호기심·생활 이유·제품 원리 |
 | robots_a_cometh.mp3 | Robots a Cometh | Dan Lebowitz | 1:52 | 3.0초 (처음부터 꽉 참) | 기계·발명품·공장 |
 | moonlit.mp3 | Moonlit | Dyalla | 2:42 | 65.0초 (브레이크 뒤 재시작) | 가벼운 반전·경쾌 |
+
+## 오늘의쓸모 추가곡 (Kevin MacLeod, incompetech.com — CC BY 4.0, 설명란 표기 필수, 2026.10.18 사용자 선택)
+| 파일 | 곡 | 길이 | 하이라이트 시작 | 음량 | 어울리는 영상 | 표기 |
+|---|---|---|---|---|---|---|
+| worthy/hitman.mp3 | Hitman | 3:21 | 51.5초 | vol 0.5 | 긴장·추격·위협(물범 vs 범고래) | "Hitman" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
