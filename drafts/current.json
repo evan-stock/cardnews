@@ -1,54 +1,52 @@
 [
  {
-  "id": "20261018-parisfire",
+  "id": "20261018-pisaflag",
   "format": "reel",
   "mode": "send",
   "slot": "evening",
-  "topic": "프랑스 10/17 물가 항의 시위, 파리 거리 불길 앞에서 복면 무리가 카메라 향해 포즈·환호하는 영상",
+  "topic": "피사의 사탑 팔레스타인 국기 영상(2023.11.17) SNS 재확산",
   "category": "해외 사건 · 실제 영상",
-  "core": "10/17 전국 물가 항의 시위. 정부 55만(파리 11만)·주최 측 80만. 파리 레퓌블리크 광장 충돌, 차량·신문 가판대 방화, 최루가스·물대포(AP). 전국 체포 약 1,200명·경찰 150명 부상(총리, CBC). 대다수 평화 행진.",
-  "risk": "영상 정확한 촬영 지점 미확인 → '파리 거리'로만. 원본 상단 문구(Manifestations du 17 octobre à Paris) 크롭 제거. 정당 언급 없음, 평화 시위대와 구분. 실제 영상 태그 없음. 일반인 얼굴(복면)이라 신원 언급 없음. 커버는 사용자 제공 AI 이미지(Gemini 마크 inpaint, 'AI 생성 이미지' 표시).",
+  "core": "2023.11.17 피사 휴전 요구 행진 약 500명, 학생 약 15명 경비 뚫고 탑 진입, 대형 국기·연막탄, 훼손 없음, Digos 신원 확인(QN/ANSA·La Nazione). 2026.10.18 SNS 재확산.",
+  "risk": "정치 소재(비팔로워 추천 제외 가능) — 사용자 직접 요청. 2023년 영상임을 커버·본문에 명시. 원본 텔레그램 워터마크(US Stocks Insider) delogo 제거. 실제 영상 태그 없음. 개인 신원 없음.",
   "video": {
    "src": "video/v1.mp4",
    "start": 0,
-   "dur": 18,
+   "dur": 19,
    "x": 0.5,
    "y": 0.5,
-   "frame": 3
+   "frame": 7.25
   },
   "overlay_text": false,
   "cover": {
    "img": "cand/reel_cover_final.jpg",
    "final": true
   },
-  "caption": "🚨 불타는 파리 거리 한복판에서 복면 무리가 카메라를 향해 환호합니다… 이게 시위일까요, 축제일까요?\n\n17일(현지시각) 프랑스 전역에서 치솟는 물가와 공공서비스 붕괴에 항의하는 대규모 시위가 열렸습니다. 정부 집계로 55만 명(파리 11만 명), 주최 측 집계로 80만 명이 거리로 나왔습니다.\n\n영상 속 파리 거리에서는 검은 연기와 불길이 치솟는 가운데, 후드와 마스크로 얼굴을 가린 무리가 카메라를 향해 손짓하고 환호하며 포즈를 취합니다. AP통신에 따르면 이날 파리 레퓌블리크 광장 일대에서는 일부 과격 시위대가 경찰에 폭죽을 던지고 차량과 신문 가판대에 불을 질렀고, 경찰은 최루가스와 물대포로 대응했습니다.\n\n총리는 전국에서 약 1,200명이 체포되고 경찰관 150명이 다쳤다고 밝혔습니다. 대다수 시위대는 국가를 부르며 평화롭게 행진했고, 정부는 폭력을 저지른 일부를 엄벌하겠다는 입장입니다.\n\n불길 앞 환호, 여러분 눈엔 어떻게 보이나요? A. 명백한 폭동 B. 분노 표출의 한 방식 💬\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "caption": "🚨 피사의 사탑 꼭대기에 거대한 팔레스타인 국기가 펄럭입니다… 지금 SNS에서 다시 퍼지고 있는 이 영상, 사실은 2023년 장면입니다.\n\n2023년 11월 17일, 이탈리아 피사에서 가자지구 휴전을 요구하는 약 500명 규모의 행진이 열렸습니다. 행진이 피사의 사탑이 있는 미라콜리 광장에 도착하자, 학생 약 15명이 경비를 뚫고 탑 안으로 들어갔습니다.\n\n이들은 탑 위층까지 올라가 대형 팔레스타인 국기를 내걸고 연막탄을 피운 뒤 내려왔습니다. 현지 언론에 따르면 탑 훼손은 없었고, 피사 대학 자율학생단체가 자신들의 행동이라고 밝혔습니다.\n\n이탈리아 경찰은 현장 영상을 분석해 가담자 신원을 확인하겠다고 밝혔습니다. 온라인에서는 '연대의 표현'이라는 반응과 '세계문화유산 무단 점거'라는 비판이 엇갈렸습니다.\n\n세계문화유산 위의 깃발, 여러분 생각은? A. 표현의 자유 B. 문화유산 무단 점거 💬\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
   "hashtags": [
-   "프랑스시위",
-   "파리시위",
-   "파리",
-   "블랙블록",
+   "피사의사탑",
+   "이탈리아",
+   "팔레스타인",
    "해외이슈"
   ],
   "sources": [
    {
-    "publisher": "AP(OPB 재게재)",
-    "date": "2026.10.17",
-    "url": "https://www.opb.org/article/2026/10/17/demonstrators-join-students-in-protests-across-france/"
+    "publisher": "La Nazione",
+    "date": "2023.11.17",
+    "url": "https://www.lanazione.it/pisa/cronaca/bandiera-palestina-torre-pisa-t151r6o3"
    },
    {
-    "publisher": "Europe 1",
-    "date": "2026.10.17",
-    "url": "https://www.europe1.fr/societe/en-direct-mobilisation-du-17-octobre-800000-participants-selon-les-organisateurs-550000-selon-laurent-nunez-1156250"
+    "publisher": "Quotidiano Nazionale(ANSA)",
+    "date": "2023.11.17",
+    "url": "https://www.quotidiano.net/ultimaora/studenti-sventolano-bandiera-palestina-sulla-torre-di-pisa-48b48047"
    },
    {
-    "publisher": "CBC",
-    "date": "2026.10.18",
-    "url": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148"
+    "publisher": "Dawn",
+    "date": "2023.11",
+    "url": "https://www.dawn.com/news/1790949"
    }
   ],
   "photo_credits": [
-   "현장 촬영 SNS 영상",
-   "커버 참고 이미지(AI 생성)"
+   "현장 촬영 SNS 영상"
   ]
  }
 ]
