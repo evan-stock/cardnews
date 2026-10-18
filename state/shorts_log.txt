@@ -1,14 +1,3 @@
-Traceback (most recent call last):
-  File "<frozen runpy>", line 198, in _run_module_as_main
-  File "<frozen runpy>", line 88, in _run_code
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 706, in <module>
-    main(sys.argv[1])
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 702, in main
-    one(d)
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 685, in one
-    "app_file": os.path.relpath(base / "short_nobgm.mp4", ROOT) if (base / "short_nobgm.mp4").exists()
-                                                                    ^^^^
-NameError: name 'base' is not defined. Did you mean: 'False'?
 장면 1/9 typecast 누적 2.3초
 장면 2/9 typecast 누적 4.3초
 장면 3/9 silent 누적 6.6초
