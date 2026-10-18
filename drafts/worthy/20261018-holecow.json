@@ -1,0 +1,111 @@
+{
+ "id": "20261018-holecow",
+ "media": "media/20261018-holecow",
+ "topic": "소 옆구리에 구멍(캐뉼라)을 뚫는 이유 — 반추위로 통하는 창문. 연구용이자, 건강한 소의 위 속 미생물을 꺼내 아픈 소에게 넣어 주는 '반추위 이식(transfaunation)'의 기증소. 수의사들은 수술 뒤에도 건강히 오래 산다고 설명(유럽에선 동물복지 논란도 있음)",
+ "hook": {
+  "t": "소 옆구리에 '구멍'\n뚫는 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: TikTok @marii.taberner · 사진: 위키미디어 커먼즈(CC BY-SA)",
+ "bgm": {
+  "file": "assets/bgm/worthy/conspiracy_theory.mp3",
+  "start": 10.5,
+  "vol": 0.6
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "소 옆구리에 뚫린 '구멍'에 팔을 쑥",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 13.0,
+    "x": 0.5,
+    "y": 0.34
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "뚜껑을 열면 먹은 풀이 '와르르'",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 24.5,
+    "x": 0.5,
+    "y": 0.17
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "처음 보면 다들 '학대' 아니냐고 묻는다",
+   "img": "video/disc_dori.jpg",
+   "zoom": 0.1,
+   "dur": 3.2
+  },
+  {
+   "text": "이 구멍은 소의 첫 번째 위 '반추위'로 바로 통한다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 29.8,
+    "x": 0.5,
+    "y": 0.42
+   },
+   "dur": 3.6
+  },
+  {
+   "text": "진짜 이유는 위 속에 사는 '미생물'",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 53.5,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "꺼낸 위액을 밥 못 먹는 '아픈 소'에게 넣어 준다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 61.5,
+    "x": 0.5,
+    "y": 0.08
+   },
+   "dur": 3.6
+  },
+  {
+   "text": "미생물이 돌아오면 '식욕'과 우유가 빨리 돌아온다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 95.3,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.6
+  },
+  {
+   "text": "구멍 난 소도 '건강히 오래' 산다고, 내일도 '쓸모' 구독",
+   "img": "video/arkansas.jpg",
+   "zoom": 0.1,
+   "dur": 3.6
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @marii.taberner (수의대 실습, 'Transfaunação e coleta de líquido ruminal', 2025) 원본",
+  "Cow disc 5201.jpg — Dori, CC BY-SA 3.0 US, 위키미디어 커먼즈",
+  "Cannulated-cow-arkansas.jpg — Elizabeth F. Chamberlain, CC BY-SA 4.0, 위키미디어 커먼즈"
+ ],
+ "sources": [
+  {
+   "publisher": "위키백과(영문) 'Cannulated cow' — 반추위 연구·반추위 내용물 이식, 유럽에선 비윤리적으로 보고 채취관 사용",
+   "url": "https://en.wikipedia.org/wiki/Cannulated_cow"
+  },
+  {
+   "publisher": "Modern Farmer 'Holey Cow' — 일리노이대 Brian Aldridge(식욕·우유 회복이 훨씬 빠름, 장수 문제없음), 코넬대 Susan Fubini('병원에서 가장 행복한 동물')",
+   "date": "2014.9.12",
+   "url": "https://modernfarmer.com/2014/09/holey-cow-wonderful-world-fistulated-cow"
+  },
+  {
+   "publisher": "Snopes 'Fistulated cow video' — 학대·우유 증산용 주장은 사실 아님",
+   "url": "https://www.snopes.com/fistulated-cow-video/"
+  }
+ ],
+ "_note": "v1.mp4 = TikTok @marii.taberner 7531040149631782200 원본(포르투갈어 작은 자막은 y 0.76 부근 → 크롭으로 피함, 47~50초 미생물 그림·57초 왕관 스티커 구간은 안 씀). 말소리라 orig_vol 0. v2(@vetsinfo.youtube)는 다른 채널 편집본이라 안 씀."
+}
