@@ -682,7 +682,7 @@ def one(d):
             "publish_at": d.get("publish_at") or now().isoformat(), "publish_now": bool(d.get("publish_now")),
             "topic": d.get("topic") or title, "sources": d.get("sources", []), "seconds": total, "tts": sorted(set(engines)),
             "files": [os.path.relpath(out, ROOT)],
-            "app_file": os.path.relpath(base / "short_nobgm.mp4", ROOT) if (base / "short_nobgm.mp4").exists()
+            "app_file": os.path.relpath(nb, ROOT) if os.path.exists(nb := os.path.join(os.path.dirname(out), "short_nobgm.mp4"))
             else os.path.relpath(out, ROOT),
             "yt": {"title": title[:100], "description": description(d, engines)[:4900],
                    "tags": [t.lstrip("#") for t in y.get("tags", [])][:15],
