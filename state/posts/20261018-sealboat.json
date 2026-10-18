@@ -1,7 +1,7 @@
 {
  "id": "20261018-sealboat",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-18T14:11:55.936506+09:00",
  "publish_at": "2026-10-18T14:11:55.936521+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 490
+ "tg_msg": 490,
+ "decided_at": "2026-10-18T14:14:24.646974+09:00",
+ "yt_id": "JYI1QccKyqg",
+ "permalink": "https://youtube.com/shorts/JYI1QccKyqg",
+ "published_at": "2026-10-18T14:14:29.553562+09:00"
 }

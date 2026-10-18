@@ -1,7 +1,7 @@
 {
  "id": "20261018-novacarrier",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-18T14:12:32.264351+09:00",
  "publish_at": "2026-10-18T14:12:32.264369+09:00",
  "publish_now": true,
@@ -44,5 +44,9 @@
   "channel": null
  },
  "draft_hash": "64d4b6b65de5",
- "tg_msg": 492
+ "tg_msg": 492,
+ "decided_at": "2026-10-18T14:14:25.131950+09:00",
+ "yt_id": "dZC7Ae7RhHE",
+ "permalink": "https://youtube.com/shorts/dZC7Ae7RhHE",
+ "published_at": "2026-10-18T14:14:27.326151+09:00"
 }
