@@ -17,7 +17,7 @@
  "yt": {"title": "제목 #shorts", "description": "본문", "tags": ["..."], "category": 24,
         "privacy": "public", "synthetic": false},
  "voice": {"voice_id": "...", "emotion": "toneup", "tempo": 1.15},   # 선택: config 덮어쓰기
- "bgm": "assets/bgm/파일.mp3", "bgm_volume": 0.10,                   # 선택
+ "bgm": "assets/bgm/파일.mp3", "bgm_volume": 0.10, "bgm_start": 12.5,  # 선택(bgm_start = 하이라이트 시작 초)
  "sources": [{"publisher": "", "url": "", "date": ""}], "photo_credits": ["매체/계정"],
  "publish_now": true | "publish_at": "2026-10-17T19:00:00+09:00", "approved": true
 }
@@ -477,7 +477,8 @@ def render(d):
     bgm = d.get("bgm") or sc.get("bgm")
     if bgm and os.path.exists(ROOT / bgm):
         vol = float(d.get("bgm_volume", sc["bgm_volume"]))
-        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", joined, "-stream_loop", "-1", "-i", str(ROOT / bgm),
+        bss = ["-ss", str(float(d["bgm_start"]))] if d.get("bgm_start") else []  # 하이라이트 구간부터(bgm_highlight.py로 잰 초)
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", joined, *bss, "-stream_loop", "-1", "-i", str(ROOT / bgm),
                         "-filter_complex",
                         f"[1:a]volume={vol},afade=t=out:st={max(0, total - 1.5):.2f}:d=1.5[b];"
                         f"[0:a][b]amix=inputs=2:duration=first:normalize=0[a]",

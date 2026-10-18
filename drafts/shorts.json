@@ -1,73 +1,99 @@
 {
- "id": "20261018-horsecat",
+ "id": "20261018-aspentoby",
  "mode": "send",
- "topic": "헛간 서까래에서 말 엉덩이 위로 뛰어내려 그대로 일광욕하는 고양이",
+ "topic": "보호소에서 헤어진 남매 강아지 아스펜과 토비가 강아지 공원에서 다시 만남(감동형)",
+ "narration": false,
+ "bgm": "assets/bgm/sad_distant_call.mp3",
+ "bgm_start": 12.5,
+ "bgm_volume": 0.5,
  "hook": {
-  "t": "말 엉덩이에 착지한 고양이\n그대로 '일광욕' 시작ㅋㅋ"
+  "t": "헤어진 남매 강아지가\n'다시 만나자' 보인 행동"
  },
  "photo_credits": [
-  "TikTok @cristel_tiboni"
+  "TikTok @zackgoldwasser3"
  ],
  "scenes": [
   {
-   "say": "이 고양이, 방금 착지한 곳은 '말 엉덩이'입니다.",
+   "say": "보호소에서 헤어진 남매가, 다시 만난 순간",
+   "dur": 3.5,
    "video": {
     "src": "video/v1.mp4",
-    "start": 1.0,
-    "y": 0.3
+    "start": 79.8,
+    "y": 0.0,
+    "audio": 0.0
    }
   },
   {
-   "say": "말은 꿈쩍도 않습니다. 고양이는 자리를 고릅니다.",
+   "say": "아스펜은 버려진 마당에서, 엄마와 형제들과 함께 구조됐어요",
+   "dur": 4.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 4.0,
-    "y": 0.35
+    "start": 108.0,
+    "y": 0.5,
+    "audio": 0.0
    }
   },
   {
-   "say": "햇볕이 정확히 떨어지는 자리. 앞발을 툭 내려놓습니다.",
+   "say": "입양된 뒤로, 형제들 소식은 알 길이 없었죠",
+   "dur": 4.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 10.0,
-    "y": 0.4
+    "start": 115.0,
+    "y": 0.5,
+    "audio": 0.0
    }
   },
   {
-   "say": "그리고 눈을 감습니다. '일광욕' 시작입니다.",
+   "say": "그런데 친구가 공원에서, 꼭 닮은 강아지를 봤대요",
+   "dur": 3.5,
    "video": {
     "src": "video/v1.mp4",
-    "start": 14.0,
-    "y": 0.4
+    "start": 83.0,
+    "y": 0.0,
+    "audio": 0.0
    }
   },
   {
-   "say": "고양이가 편한 온도는 30도에서 38도. 사람보다 10도 넘게 높습니다.",
+   "say": "같은 보호소, 같은 나이, 보호소 이름도 '술 이름' 돌림",
+   "dur": 4.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 20.5,
-    "y": 0.4
+    "start": 122.0,
+    "y": 0.55,
+    "audio": 0.0
    }
   },
   {
-   "say": "따끈한 말 등은, 최고의 '온돌'입니다.",
+   "say": "다른 개들은 두고, 둘은 자꾸 서로에게 돌아갔어요",
+   "dur": 3.5,
    "video": {
     "src": "video/v1.mp4",
-    "start": 25.0,
-    "y": 0.4
+    "start": 128.0,
+    "y": 0.55,
+    "audio": 0.0
+   }
+  },
+  {
+   "say": "두 가족은 남매를, 계속 만나게 해주기로 했대요",
+   "dur": 4.5,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 150.0,
+    "y": 0.0,
+    "audio": 0.0
    }
   }
  ],
  "yt": {
-  "title": "말 엉덩이에 착지한 고양이, 그대로 일광욕 시작 #shorts",
-  "description": "헛간 서까래 위에 있던 고양이가 아래에 서 있던 말 엉덩이 위로 폴짝 뛰어내립니다. 놀라서 도망갈 줄 알았는데, 햇볕 드는 자리를 골라 그대로 눕더니 눈을 감고 일광욕을 즐깁니다. 말도 꿈쩍하지 않고 자리를 내어 줍니다.\n\n고양이가 가장 편안하게 느끼는 온도(열중립 구간)는 약 30~38도로, 사람(약 18~25도)보다 훨씬 높습니다. 그래서 고양이는 햇볕 드는 자리나 따뜻한 곳을 찾아다닙니다.\n\n여러분 집 고양이의 최애 햇볕 자리는 어디인가요?\n\n영상: TikTok @cristel_tiboni",
+  "title": "보호소에서 헤어진 남매 강아지가 다시 만나자 보인 행동 #shorts",
+  "description": "미국 플로리다의 한 집 뒷마당에 버려져 있던 엄마 개와 새끼 셋. 구조단체(UFAR Animal Rescue)에 맡겨진 뒤 새끼들은 각자 다른 가족에게 입양됐습니다. 아스펜(보호소 이름 미모사)을 입양한 잭 골드워서 씨는 형제들이 어디로 갔는지 몰랐습니다.\n\n그러다 친구가 보카러톤의 강아지 공원에서 아스펜과 꼭 닮은 강아지를 발견했습니다. 같은 보호소, 같은 나이, 보호소에서 붙인 이름까지 '술 이름' 돌림(토비의 보호소 이름은 데킬라). 두 보호자가 연락해 남매를 다시 만나게 했고, 둘은 다른 개들보다 서로에게 계속 돌아가며 뛰어놀았습니다. 두 가족은 앞으로도 남매를 자주 만나게 해주기로 했습니다.\n\n여러분 반려견에게도 보고 싶은 가족이 있나요?\n\n영상: TikTok @zackgoldwasser3",
   "tags": [
-   "고양이",
-   "말",
-   "고양이일광욕",
-   "웃긴고양이",
-   "웃긴동물",
-   "귀여운동물",
+   "강아지",
+   "유기견",
+   "남매강아지",
+   "강아지재회",
+   "감동",
+   "감동영상",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
@@ -76,23 +102,15 @@
  },
  "sources": [
   {
-   "publisher": "TikTok @cristel_tiboni",
-   "url": "https://www.tiktok.com/@cristel_tiboni/video/7680077684994510112",
-   "date": "2026.10"
+   "publisher": "TikTok @zackgoldwasser3",
+   "url": "https://www.tiktok.com/@zackgoldwasser3/video/7624938897599909134",
+   "date": "2026"
   },
   {
-   "publisher": "TAG24 Viral Video of the Day",
-   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-17-2026-cat-finds-the-ultimate-sunbathing-spot-3536295",
-   "date": "2026.10.17"
-  },
-  {
-   "publisher": "Veterinary Ireland Journal",
-   "url": "https://www.veterinaryirelandjournal.com/small-animal/333-the-heat-is-on-the-feline-tnz",
-   "date": ""
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/rescue-dog-reunites-with-brother-after-adoption-owner-shocked-by-response-11977104",
+   "date": "2026.5.21"
   }
  ],
- "publish_now": true,
- "style": {
-  "sub_y": 0.8
- }
+ "publish_now": true
 }
