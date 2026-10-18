@@ -189,6 +189,39 @@ def push_media(post):
         time.sleep(20)
 
 
+def short_ig_account(post):
+    """쇼츠를 함께 올릴 인스타 계정(원소스 멀티유즈, 2026.10.18). 유튜브 채널별로 config shorts.instagram 에서 정한다."""
+    m = (CFG.get("shorts", {}).get("instagram") or {})
+    return m.get(post.get("yt", {}).get("channel") or "default")
+
+
+def short_to_instagram(post):
+    """유튜브에 올린 쇼츠를 같은 영상 그대로 인스타 릴스로도 게시. 실패해도 유튜브 결과는 그대로 둔다."""
+    acct = short_ig_account(post)
+    if not acct or post.get("ig_media_id"):
+        return
+    if not instagram.configured(acct):
+        print(f"인스타 계정 '{acct}' 토큰이 아직 없어 릴스는 건너뜀")
+        return
+    y = post.get("yt", {})
+    title = y.get("title", "").replace("#shorts", "").strip()
+    body = y.get("description", "")
+    body = body.split("\n\n#shorts")[0]
+    tags = " ".join("#" + t.lstrip("#").replace(" ", "") for t in (y.get("tags") or [])[:8])
+    caption = f"{title}\n\n{body}\n\n{tags}".strip()[:2200]
+    try:
+        instagram.use(acct)
+        mid, link = instagram.publish_reel(media_url(post["id"], os.path.basename(post["files"][0])), caption,
+                                           share_to_feed=True)
+        post.update(ig_media_id=mid, ig_permalink=link)
+        tg.send_text(f"📸 인스타 릴스도 게시 완료: {post['topic']}\n{link}")
+    except Exception as e:
+        post["ig_error"] = str(e)[:500]
+        tg.send_text(f"⚠️ 인스타 릴스 게시 실패(유튜브는 정상): {post['topic']}\n{str(e)[:400]}")
+    finally:
+        instagram.use(None)
+
+
 def publish_short(post):
     """승인된 쇼츠를 유튜브에 업로드. 게시 시각이 미래면 유튜브 예약 공개로 올린다."""
     from . import youtube
@@ -213,6 +246,7 @@ def publish_short(post):
         post.update(status="published", yt_id=vid, permalink=link, published_at=now().isoformat())
         when = f"{at:%m/%d %H:%M} 자동 공개 예약" if st.get("publishAt") else "지금 공개"
         tg.send_text(f"▶️ 유튜브 쇼츠 업로드 완료({when}): {post['topic']}\n{link}")
+        short_to_instagram(post)
     except Exception as e:
         post.update(status="failed", error=str(e)[:500])
         tg.send_text(f"⚠️ 유튜브 업로드 실패: {post['topic']}\n{str(e)[:500]}")
@@ -377,7 +411,7 @@ def main():
     elif a.cmd == "chat-id":
         chat_id_helper()
     elif a.cmd == "refresh-token":
-        print(instagram.refresh_token())
+        print(instagram.refresh_token(a.id))  # --id furball 이면 털뭉치 계정
     elif a.cmd == "prune":
         prune()
     elif a.cmd == "ping":

@@ -6,13 +6,32 @@ import requests
 from .common import CFG, env
 
 
+_ACCT = None  # None = 오늘의쓸모(기본), "furball" = 오늘의 털뭉치 → IG_ACCESS_TOKEN_FURBALL / IG_USER_ID_FURBALL
+
+
+def use(account=None):
+    """이후 호출을 어느 인스타 계정으로 할지 정한다."""
+    global _ACCT
+    _ACCT = account
+
+
+def _sfx():
+    return f"_{_ACCT.upper()}" if _ACCT else ""
+
+
+def configured(account):
+    import os
+    sfx = f"_{account.upper()}" if account else ""
+    return bool(os.environ.get("IG_ACCESS_TOKEN" + sfx) and os.environ.get("IG_USER_ID" + sfx))
+
+
 def _base():
     return f"{CFG['instagram']['api_host']}/{CFG['instagram']['api_version']}"
 
 
 def _req(method, path, **params):
     r = requests.request(method, f"{_base()}/{path}", timeout=120,
-                         headers={"Authorization": f"Bearer {env('IG_ACCESS_TOKEN')}"},
+                         headers={"Authorization": f"Bearer {env('IG_ACCESS_TOKEN' + _sfx())}"},
                          **({"json": params} if method == "POST" else {"params": params}))
     j = r.json()
     if r.status_code != 200 or "error" in j:
@@ -33,7 +52,7 @@ def _wait_ready(cid, tries=10):
 
 def _publish(cid, tries=6):
     """media_publish. '아직 준비 안 됨'(2207027) 오류는 잠시 뒤 다시 시도."""
-    ig = env("IG_USER_ID")
+    ig = env("IG_USER_ID" + _sfx())
     for k in range(tries):
         try:
             return _req("POST", f"{ig}/media_publish", creation_id=cid)["id"]
@@ -44,7 +63,7 @@ def _publish(cid, tries=6):
 
 
 def publish_carousel(image_urls, caption):
-    ig = env("IG_USER_ID")
+    ig = env("IG_USER_ID" + _sfx())
     children = []
     for u in image_urls[:10]:
         if u.lower().endswith(".mp4"):
@@ -67,7 +86,7 @@ def publish_carousel(image_urls, caption):
 
 def publish_reel(video_url, caption, share_to_feed=False, cover_url=None):
     """9:16 mp4 를 릴스로 게시. cover_url 이 있으면 그 이미지를 커버로."""
-    ig = env("IG_USER_ID")
+    ig = env("IG_USER_ID" + _sfx())
     extra = {"cover_url": cover_url} if cover_url else {}
     cid = _req("POST", f"{ig}/media", media_type="REELS", video_url=video_url,
                caption=caption[:2200], share_to_feed=share_to_feed, **extra)["id"]
@@ -83,16 +102,17 @@ def publish_reel(video_url, caption, share_to_feed=False, cover_url=None):
 
 def publish_story(image_url):
     """이미지 스토리 게시(스티커·링크는 API로 붙일 수 없음)."""
-    ig = env("IG_USER_ID")
+    ig = env("IG_USER_ID" + _sfx())
     cid = _req("POST", f"{ig}/media", media_type="STORIES", image_url=image_url)["id"]
     _wait_ready(cid)
     return _publish(cid)
 
 
-def refresh_token():
-    """장기 토큰(60일) 갱신. 새 토큰 문자열 반환."""
+def refresh_token(account=None):
+    """장기 토큰(60일) 갱신. 새 토큰 문자열 반환. account 가 있으면 그 계정 토큰."""
+    use(account)
     r = requests.get(f"{CFG['instagram']['api_host']}/refresh_access_token", timeout=60,
-                     params={"grant_type": "ig_refresh_token", "access_token": env("IG_ACCESS_TOKEN")})
+                     params={"grant_type": "ig_refresh_token", "access_token": env("IG_ACCESS_TOKEN" + _sfx())})
     j = r.json()
     if "access_token" not in j:
         raise RuntimeError(f"토큰 갱신 실패: {j}")

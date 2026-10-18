@@ -59,6 +59,8 @@ instagram:
 
 # 유튜브 쇼츠(채팅 원고 drafts/shorts.json → .github/workflows/shorts.yml). 설명: docs/SHORTS.md
 shorts:
+  instagram:           # 유튜브 쇼츠를 같이 올릴 인스타 계정(원소스 멀티유즈, 2026.10.18). 토큰: Secrets IG_ACCESS_TOKEN_<계정> / IG_USER_ID_<계정>
+    default: furball   # 오늘의 털뭉치 유튜브 → 인스타 '오늘의 털뭉치'
   font: assets/fonts/Jua-Regular.ttf   # 제목·자막 글꼴(2026.10.18 사용자 선택: 주아, OFL 무료). 비우면 Noto Sans Black
   layout: band          # band = A안(2026.10.17 확정): 위 검정 띠 + 2줄 제목(노랑/흰), 띠 아래 영상 꽉 채움
   band: 430             # 검정 띠 높이(px)
