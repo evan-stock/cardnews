@@ -1,1 +1,21 @@
-⏳ 4개 장면 목소리를 맥북에서 만드는 중
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 706, in <module>
+    main(sys.argv[1])
+  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 702, in main
+    one(d)
+  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 685, in one
+    "app_file": os.path.relpath(base / "short_nobgm.mp4", ROOT) if (base / "short_nobgm.mp4").exists()
+                                                                    ^^^^
+NameError: name 'base' is not defined. Did you mean: 'False'?
+장면 1/9 typecast 누적 2.3초
+장면 2/9 typecast 누적 4.3초
+장면 3/9 silent 누적 6.6초
+장면 4/9 silent 누적 8.2초
+장면 5/9 silent 누적 10.4초
+장면 6/9 typecast 누적 12.9초
+장면 7/9 silent 누적 14.7초
+장면 8/9 silent 누적 16.3초
+장면 9/9 typecast 누적 20.2초
+완성: /home/runner/work/cardnews/cardnews/media/20261018-archiekitten/short.mp4 (20.2초, TTS ['silent', 'typecast'])
