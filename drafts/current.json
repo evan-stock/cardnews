@@ -4,39 +4,19 @@
   "mode": "collect",
   "limit": 30,
   "image_pages": [
-   "https://www.teslarati.com/elon-musk-grok-bot-amazon-shopping/",
    "https://finance.yahoo.com/small-business/articles/elon-musk-wants-start-amazon-220000094.html",
-   "https://officechai.com/ai/elon-musk-amazon-competitor/",
    "https://notateslaapp.com/news/4834/musk-considers-creating-amazon-competitor",
    "https://www.digit.in/news/general/elon-musk-hints-at-launching-amazon-rival-as-e-commerce-giant-blocks-its-grok-al-bots-here-is-what-happened.html",
-   "https://thepostmillennial.com/elon-musk-floats-competitor-to-jeff-bezos-amazon-after-grok-bot-blocked-from-shopping-on-platform",
-   "https://stocktwits.com/news-articles/markets/equity/space-x-ceo-elon-musk-teases-x-shop-after-amazon-shuts-out-grok-agents/cZxhTvgRBrB",
-   "https://thenextweb.com/news/musk-grok-bot-credit-card-spacex-make-you-whole",
-   "https://lapaasvoice.com/elon-musk-considers-amazon-competitor-after-users-report-grok-bots-blocked-from-shopping/"
+   "https://stocktwits.com/news-articles/markets/equity/space-x-ceo-elon-musk-teases-x-shop-after-amazon-shuts-out-grok-agents/cZxhTvgRBrB"
   ],
-  "read_pages": [
-   "https://x.com/elonmusk/status/2110602585572860213",
-   "https://x.com/elonmusk/status/2110610960474079445"
-  ]
- },
- {
-  "id": "20261018-blinker",
-  "mode": "collect",
-  "limit": 30,
-  "image_pages": [
-   "https://economist.co.kr/article/view/ecn202610150041",
-   "https://www.wikitree.co.kr/articles/1166545",
-   "https://segye.com/newsView/20260930505363",
-   "https://www.wikitree.co.kr/articles/1162262",
-   "https://v.daum.net/v/20260706043551934",
-   "https://v.daum.net/v/kyuwkbqyVV?f=p",
-   "https://www.wikitree.co.kr/articles/1163209",
-   "https://www.khan.co.kr/article/202607292149005",
-   "https://car.withnews.kr/newcar/traffic-fine-misunderstandings"
+  "image_urls": [
+   "https://pbs.twimg.com/media/HUnHAFlXUAA0u1V?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HUp1tOBaIAETpG8?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HUpBsvWWwAAe21v?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HUp1ZJraQAEELBy?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HUphUBLbwAASDw2?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HUrB6-rXAAAxz1d?format=jpg&name=large"
   ],
-  "read_pages": [
-   "https://v.daum.net/v/kyuwkbqyVV?f=p",
-   "https://car.withnews.kr/newcar/traffic-fine-misunderstandings"
-  ]
+  "referer": "https://x.com/"
  }
 ]
