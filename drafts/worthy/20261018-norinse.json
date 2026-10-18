@@ -1,0 +1,31 @@
+{
+ "id": "20261018-norinse",
+ "media": "media/20261018-norinse",
+ "topic": "양치 후 물로 여러 번 헹구면 안 되는 이유 — 치약 속 불소가 씻겨 나가 충치 예방 효과가 줄어든다(영국 NHS '뱉기만, 헹구지 마라', 대한예방치과·구강보건학회)",
+ "hook": {"t": "양치 후 '헹구면'\n안 되는 진짜 이유ㄷㄷ"},
+ "credit": "그래픽: 오늘의쓸모 · 자료: 영국 NHS, 대한예방치과·구강보건학회",
+ "bgm": {"file": "assets/bgm/worthy/curious_kitten.mp3", "start": 11.0, "vol": 4.0},
+ "orig_vol": 0,
+ "scenes": [
+  {"text": "양치하고 물로 '열 번'씩 헹구는 사람?", "video": {"src": "video/gfx/count.mp4", "start": 0.0}, "dur": 3.0},
+  {"text": "치약 남으면 안 좋다고 '6번 넘게' 헹구라는 말도 돈다", "video": {"src": "video/gfx/rumor.mp4", "start": 0.0}, "dur": 3.4},
+  {"text": "그런데 영국 NHS는 정반대 '뱉기만 하고 헹구지 마라'", "video": {"src": "video/gfx/nhs.mp4", "start": 0.0}, "dur": 3.6},
+  {"text": "치약의 핵심 성분 '불소'가 치아 표면에 남아야 하는데", "video": {"src": "video/gfx/settle.mp4", "start": 0.0}, "dur": 3.4},
+  {"text": "물로 헹구면 이 불소가 '싹' 씻겨 나간다", "video": {"src": "video/gfx/wash.mp4", "start": 0.0}, "dur": 3.4},
+  {"text": "남겨 두면 불소가 치아를 '코팅'해 충치를 막는다", "video": {"src": "video/gfx/shield.mp4", "start": 0.0}, "dur": 3.6},
+  {"text": "국내 예방치과학회도 '너무 헹구면 효과가 사라진다'", "video": {"src": "video/gfx/society.mp4", "start": 0.0}, "dur": 3.6},
+  {"text": "가글은 양치 직후 말고 '다른 시간'에, 내일도 '쓸모' 구독", "video": {"src": "video/gfx/later.mp4", "start": 0.0}, "dur": 3.4}
+ ],
+ "products": [
+  {"name": "고불소 치약 1450ppm", "keyword": "불소 치약 1450ppm"},
+  {"name": "불소 가글", "keyword": "불소 가글"},
+  {"name": "미세모 칫솔", "keyword": "미세모 칫솔"}
+ ],
+ "photo_credits": ["모션그래픽: 오늘의쓸모 직접 제작(scripts/story_shorts/anim_norinse.py)"],
+ "sources": [
+  {"publisher": "NHS 'How to keep your teeth clean' (뱉고 헹구지 말 것, 성인 1,350ppm 이상, 가글은 다른 시간)", "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/how-to-keep-your-teeth-clean/"},
+  {"publisher": "스포츠경향 '이 닦고 물로 많이 헹구는 것 좋다 vs 나쁘다'(대한예방치과·구강보건학회, 아일랜드 치과협회)", "date": "2014.11.13", "url": "https://sports.khan.co.kr/article/201411131738443"},
+  {"publisher": "코메디닷컴 '칫솔질 후 최소 6번 입안 헹궈요'(반대 의견 소개)", "date": "2024.1.26", "url": "https://kormedi.com/1657677/"}
+ ],
+ "_note": "gfx/*.mp4 = anim_norinse.py 출력. 실제 영상 없이 모션그래픽만 사용(커먼즈에 양치 영상 없음)."
+}
