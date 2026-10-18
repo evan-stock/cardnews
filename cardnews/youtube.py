@@ -28,6 +28,17 @@ def access_token(channel=None):
     return j["access_token"]
 
 
+def recent_uploads(channel=None, n=15):
+    """채널의 최근 업로드 [(video_id, title)] — 중복 업로드 방지용(할당량 약 2단위)."""
+    h = {"Authorization": f"Bearer {access_token(channel)}"}
+    j = requests.get("https://www.googleapis.com/youtube/v3/channels?part=contentDetails&mine=true",
+                     headers=h, timeout=60).json()
+    pl = j["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+    j = requests.get("https://www.googleapis.com/youtube/v3/playlistItems",
+                     params={"part": "snippet", "playlistId": pl, "maxResults": n}, headers=h, timeout=60).json()
+    return [(i["snippet"]["resourceId"]["videoId"], i["snippet"]["title"]) for i in j.get("items", [])]
+
+
 def upload(path, yt, publish_at=None):
     """yt = {"title","description","tags","category","privacy","synthetic"}. (video_id, url) 반환.
     publish_at(aware datetime)이 10분 이상 미래면 비공개로 올리고 그 시각에 유튜브가 자동 공개한다."""

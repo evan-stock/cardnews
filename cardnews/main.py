@@ -194,6 +194,20 @@ def publish_short(post):
     from . import youtube
     try:
         at = dt.datetime.fromisoformat(post["publish_at"])
+        # 중복 방지(2026.10.18 같은 영상이 두 번 올라간 사고): 같은 제목이 최근 업로드에 있으면 다시 올리지 않는다
+        try:
+            dup = [v for v, t in youtube.recent_uploads(post["yt"].get("channel")) if t == post["yt"]["title"][:100]]
+        except Exception as e:
+            dup = []
+            print("최근 업로드 확인 실패(그대로 진행):", e)
+        if dup:
+            link = f"https://youtube.com/shorts/{dup[0]}"
+            post.update(status="published", yt_id=dup[0], permalink=link, published_at=now().isoformat(),
+                        note="이미 올라가 있어 다시 올리지 않음")
+            tg.send_text(f"ℹ️ 이미 올라가 있는 영상이라 다시 올리지 않았어요: {post['topic']}\n{link}")
+            save_post(post)
+            sync_repo()
+            return
         vid, link, st = youtube.upload(str(MEDIA.parent / post["files"][0]), post["yt"],
                                        None if post.get("publish_now") else at)
         post.update(status="published", yt_id=vid, permalink=link, published_at=now().isoformat())
@@ -203,6 +217,7 @@ def publish_short(post):
         post.update(status="failed", error=str(e)[:500])
         tg.send_text(f"⚠️ 유튜브 업로드 실패: {post['topic']}\n{str(e)[:500]}")
     save_post(post)
+    sync_repo()  # 업로드 결과를 바로 저장소에 남긴다(실행이 중간에 끊겨도 상태가 사라지지 않게)
 
 
 def do_publish(post):
