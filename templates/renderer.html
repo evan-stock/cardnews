@@ -4,6 +4,7 @@
 <title>카드뉴스 메이커</title>
 <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Sans+KR:wght@400;700;900&display=swap" rel="stylesheet">
 <style>
+@font-face{font-family:"PretendardT";src:url("../assets/fonts/Pretendard-ExtraBold.otf") format("opentype");font-weight:400;font-display:block}
 :root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);--bg:#f4f4f7;--pn:#fff;--tx:#1c1c1e;--mu:#7a7a85;--bd:#e2e2e8;--ac:#4a39d8;--sl:#eef0ff}
 html{scroll-padding-top:env(safe-area-inset-top,0px)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141417;--pn:#202024;--tx:#f2f2f4;--mu:#9a9aa4;--bd:#34343b;--ac:#8b7dff;--sl:#2a2840}}
@@ -57,7 +58,7 @@ button.g{background:var(--pn);color:var(--tx);border:1px solid var(--bd)}button:
 </section>
 </div>
 <script>
-const $=id=>document.getElementById(id),W=1080,H=1350,F='"Noto Sans KR",sans-serif',FT='"Black Han Sans","Noto Sans KR",sans-serif';
+const $=id=>document.getElementById(id),W=1080,H=1350,F='"Noto Sans KR",sans-serif',FT='"PretendardT","Noto Sans KR",sans-serif';
 const AW=[['무인지','문제를 모름'],['문제인지','문제는 알지만 해결책 모름'],['솔루션인지','해결책은 알지만 제품 모름'],['제품인지','제품은 알지만 확신 없음']];
 const CAT=['뉴스/트렌드','정보/팁','마케팅/홍보','라이프/감성'],COL=['#1f3a2a','#4a3322','#14233f','#f1f1ec'],NN=[5,7,10];
 const STY=[['photo','포토형'],['bold','볼드형'],['mag','매거진형'],['min','미니멀']];
@@ -85,8 +86,8 @@ function infoBlock(c,s,o){const ts=o.ts,ss=36,bs=33,lh=bs*1.62;c.font='400 '+ts+
  c.font='700 '+ss+'px '+F;c.fillStyle='#fff';sl.forEach((l,k)=>c.fillText(l,o.x,y+ss+k*ss*1.45));y+=sh;
  const bst={b:false,sz:bs};bl.forEach((l,k)=>richBold(c,l,o.x,y+bs+k*lh,'rgba(255,255,255,.86)','#fff',bst));return top}
 function block(c,s,o){const bs=40,tl=(c.font='400 '+o.ts+'px '+FT,wrap(c,s.t,o.max)),bl=(c.font='400 '+bs+'px '+F,wrap(c,s.b,o.max));
- const th=tl.length*o.ts*1.3,bh=bl.length*bs*1.6,g=bl.length?34:0,tot=th+g+bh;let y=o.mode==='bottom'?o.y-tot:o.mode==='mid'?o.y-tot/2:o.y;const top=y;
- c.textAlign=o.al;c.fillStyle=o.fg;c.font='400 '+o.ts+'px '+FT;const qs={q:false},hl=o.hl||(o.fg==='#fff'?'#FFD84D':'#C2410C');tl.forEach((l,k)=>rich(c,l,o.x,y+o.ts+k*o.ts*1.3,o.al,o.fg,hl,qs));c.textAlign=o.al;y+=th+g;
+ const th=tl.length*o.ts*1.22,bh=bl.length*bs*1.6,g=bl.length?34:0,tot=th+g+bh;let y=o.mode==='bottom'?o.y-tot:o.mode==='mid'?o.y-tot/2:o.y;const top=y;
+ c.textAlign=o.al;c.fillStyle=o.fg;c.font='400 '+o.ts+'px '+FT;const qs={q:false},hl=o.hl||(o.fg==='#fff'?'#FFD84D':'#C2410C');tl.forEach((l,k)=>rich(c,l,o.x,y+o.ts+k*o.ts*1.22,o.al,o.fg,hl,qs));c.textAlign=o.al;y+=th+g;
  c.fillStyle=o.sub;c.font='400 '+bs+'px '+F;bl.forEach((l,k)=>c.fillText(l,o.x,y+bs+k*bs*1.6));return top}
 function handleTag(c,x,y,fg){const t=($('hd').value||$('ch').value||'').replace(/^@/,'').toUpperCase();if(!t)return;c.save();c.shadowColor='rgba(0,0,0,.45)';c.shadowBlur=10;c.fillStyle='#FFD84D';c.beginPath();c.arc(x+9,y-11,9,0,7);c.fill();c.font='800 30px '+F;try{c.letterSpacing='1.5px'}catch(e){}c.textAlign='left';c.fillStyle=fg;c.fillText(t,x+30,y);c.restore()}
 function badge(c,x,y,al,fg,txt){const t=txt!=null?txt:($('hd').value||$('ch').value||'');c.font='700 34px '+F;c.textAlign='left';const w=c.measureText(t).width,sx=al==='center'?(W-w)/2:x;c.fillStyle=fg;c.fillText(t,sx,y)}
@@ -110,7 +111,7 @@ function draw(cv,i){const c=cv.getContext('2d'),s=S[i],n=S.length,base=COL[st.co
   if(im)fit(c,im,0,0,W,H);else if(s.clear){}else{const g=c.createLinearGradient(0,0,W,H);g.addColorStop(0,dark);g.addColorStop(1,'#0c0c0c');c.fillStyle=g;c.fillRect(0,0,W,H)}
   if(st.sty==='photo'){const g=c.createLinearGradient(0,H*.22,0,H);g.addColorStop(0,'rgba(0,0,0,0)');g.addColorStop(.42,'rgba(0,0,0,.6)');g.addColorStop(1,'rgba(0,0,0,.93)');c.fillStyle=g;c.fillRect(0,H*.22,W,H*.78);const t2=c.createLinearGradient(0,0,0,H*.3);t2.addColorStop(0,'rgba(0,0,0,.4)');t2.addColorStop(1,'rgba(0,0,0,0)');c.fillStyle=t2;c.fillRect(0,0,W,H*.3);
    if(!first&&(s.sub||String(s.b||'').length>70)){const g3=c.createLinearGradient(0,H*.3,0,H);g3.addColorStop(0,'rgba(0,0,0,0)');g3.addColorStop(.35,'rgba(0,0,0,.55)');g3.addColorStop(1,'rgba(0,0,0,.9)');c.fillStyle=g3;c.fillRect(0,H*.3,W,H*.7);infoBlock(c,s,{x:P,y:H-175,ts:66,max:M})}
-   else tt=block(c,s,{x:P,y:H-170,mode:'bottom',al:'left',fg,sub,ts,max:M})}
+   else tt=block(c,s,{x:P,y:first?H-115:H-170,mode:'bottom',al:'left',fg,sub,ts,max:M})}
   else{c.fillStyle='rgba(0,0,0,.52)';c.fillRect(0,0,W,H);block(c,s,{x:W/2,y:H/2,mode:'mid',al:'center',fg,sub,ts:ts+14,max:M})}
  }else if(st.sty==='mag'){
   c.fillStyle=light?'#f1f1ec':base;c.fillRect(0,0,W,H);const ph=Math.round(H*.58);

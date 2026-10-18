@@ -60,7 +60,7 @@ def render(slides, outdir, sty=None, col=None, overlays=()):
         errs = []
         pg.on("pageerror", lambda e: errs.append(str(e)))
         pg.goto(TEMPLATE.as_uri())
-        pg.evaluate("async()=>{try{await Promise.all(['400','700','900'].map(w=>document.fonts.load(w+' 40px \"Noto Sans KR\"')).concat([document.fonts.load('400 40px \"Black Han Sans\"')]))}catch(e){}}")
+        pg.evaluate("async()=>{try{await Promise.all(['400','700','900'].map(w=>document.fonts.load(w+' 40px \"Noto Sans KR\"')).concat([document.fonts.load('400 40px \"PretendardT\"')]))}catch(e){}}")
         pg.evaluate("""async(x)=>{
           st.sty=x.sty; st.col=x.col; $('ch').value=x.ch; $('hd').value=x.hd;
           S=[];
@@ -69,7 +69,7 @@ def render(slides, outdir, sty=None, col=None, overlays=()):
             if(s.inset){const ii=new Image();await new Promise(r=>{ii.onload=r;ii.onerror=r;ii.src=s.inset.img});if(ii.naturalWidth)o.inset={...s.inset,im:ii}}
             S.push(o)}
           const txt=x.slides.map(s=>(s.t||'')+(s.b||'')).join('')+'팔로우하고 먼저 받아보세요오늘의쓸모';
-          try{await Promise.all([document.fonts.load('400 100px "Black Han Sans"',txt)].concat(['400','700','900'].map(w=>document.fonts.load(w+' 40px "Noto Sans KR"',txt))))}catch(e){}
+          try{await Promise.all([document.fonts.load('400 100px "PretendardT"',txt)].concat(['400','700','900'].map(w=>document.fonts.load(w+' 40px "Noto Sans KR"',txt))))}catch(e){}
           if(PROF&&!PROF.complete)await new Promise(r=>{PROF.onload=r;setTimeout(r,2000)});
         }""", payload)
         for i in range(len(slides)):
