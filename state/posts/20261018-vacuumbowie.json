@@ -1,7 +1,7 @@
 {
  "id": "20261018-vacuumbowie",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-18T18:12:54.992705+09:00",
  "publish_at": "2026-10-18T18:12:54.992724+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "e8d5bedb564d",
- "tg_msg": 514
+ "tg_msg": 514,
+ "decided_at": "2026-10-18T18:17:40.657412+09:00",
+ "yt_id": "XWeXgEqpa-A",
+ "permalink": "https://youtube.com/shorts/XWeXgEqpa-A",
+ "published_at": "2026-10-18T18:17:43.305143+09:00"
 }
