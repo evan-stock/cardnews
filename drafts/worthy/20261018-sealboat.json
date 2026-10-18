@@ -1,0 +1,125 @@
+{
+ "id": "20261018-sealboat",
+ "media": "media/20261018-sealboat",
+ "topic": "범고래 떼에 쫓기던 물범이 사람 보트로 올라탄 이유 — 야생 범고래가 사람을 죽인 확인된 기록은 없다(2025.11 미국 워싱턴주)",
+ "hook": {
+  "t": "물범이 사람 '보트'로\n숨어든 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: Charvet Drucker (@charvetd_photography)",
+ "bgm": {
+  "file": "assets/bgm/worthy/stake_out.mp3",
+  "start": 76.5,
+  "vol": 0.6
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "야생 물범이 갑자기 사람 '보트'에 올라탔다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 49.5,
+    "x": 0.5,
+    "y": 0.55
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "원래 물범은 사람이 다가오면 '물속으로' 피하는 동물",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 36.5,
+    "x": 0.5,
+    "y": 0.66
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "그런데 뒤에선 '범고래' 8마리 이상이 쫓아오고 있었다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 3.4,
+    "x": 0.5,
+    "y": 0.42
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "범고래가 파도로 흔들어 떨어뜨려도 '다시' 기어올랐다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 59.2,
+    "x": 0.5,
+    "y": 0.45
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "놀랍게도 야생 범고래가 사람을 죽인 기록은 '확인된 적' 없다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 65.0,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 3.8
+  },
+  {
+   "text": "엄마·무리에게 배운 먹이만 먹는 '편식쟁이'라서",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 45.0,
+    "x": 0.5,
+    "y": 0.55
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "물범은 바다에서 가장 안전한 곳, '사람 곁'을 고른 것",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 52.5,
+    "x": 0.5,
+    "y": 0.55
+   },
+   "dur": 3.6
+  },
+  {
+   "text": "구독하면 내일은 또 다른 '쓸모' 있는 이유",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 71.0,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 3.0
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "Charvet Drucker — Instagram @charvetd_photography (2025.11, 미국 워싱턴주 새러토가 해협)"
+ ],
+ "sources": [
+  {
+   "publisher": "CBS News/AP 'Photographer captures dramatic video of orcas hunting a seal that escaped by jumping onto her boat'",
+   "date": "2025.11",
+   "url": "https://www.cbsnews.com/news/seal-escapes-orca-hunt-jumps-onto-photographers-boat-video"
+  },
+  {
+   "publisher": "ExplorersWeb 'Seal Fleeing Orcas Takes Refuge on Passing Boat'",
+   "date": "2025.11",
+   "url": "https://explorersweb.com/seal-fleeing-orcas-takes-refuge-on-passing-boat/"
+  },
+  {
+   "publisher": "Wikipedia 'Orca attacks' (야생 범고래의 사람 사망 사고 확인 기록 없음)",
+   "url": "https://en.wikipedia.org/wiki/Orca_attacks"
+  },
+  {
+   "publisher": "Live Science 'How often do orcas attack humans?' (에리히 호이트: 배운 것만 먹는 편식쟁이)",
+   "url": "https://livescience.com/animals/how-often-do-orcas-attack-humans"
+  },
+  {
+   "publisher": "NOAA Fisheries 잔점박이물범 접근 지침(사람·배가 다가오면 물속으로 피함)",
+   "url": "https://www.fisheries.noaa.gov/alaska/marine-life-viewing-guidelines/frequent-questions-alaska-harbor-seal-approach-guidelines"
+  }
+ ]
+}
