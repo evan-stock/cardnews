@@ -2,7 +2,7 @@
  "id": "20261018-grokamazon",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-18T10:28:29.804994+09:00",
  "publish_at": "2026-10-18T22:30:00+09:00",
  "topic": "아마존이 머스크 xAI의 쇼핑 AI '그록 봇' 주문을 차단하자 머스크가 '아마존 경쟁사 하나 차릴까'라고 발언",
@@ -82,5 +82,8 @@
   "media/20261018-grokamazon/08.jpg"
  ],
  "tg_msg": 435,
- "decided_at": "2026-10-18T10:28:33.748735+09:00"
+ "decided_at": "2026-10-18T10:28:33.748735+09:00",
+ "ig_media_id": "18119896583052549",
+ "permalink": "https://www.instagram.com/p/Deoy7zbEXX9/",
+ "published_at": "2026-10-18T22:31:31.296596+09:00"
 }
