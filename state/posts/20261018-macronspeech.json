@@ -2,7 +2,7 @@
  "id": "20261018-macronspeech",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "failed",
  "created_at": "2026-10-18T23:34:35.215427+09:00",
  "publish_at": "2026-10-18T23:34:38.020343+09:00",
  "topic": "마크롱 새벽 3시 대국민 담화 예정 — 표지 1장(원형에 한국 계엄 패러디 이미지)",
@@ -41,5 +41,6 @@
   "media/20261018-macronspeech/01.jpg"
  ],
  "tg_msg": 535,
- "decided_at": "2026-10-18T23:34:38.020358+09:00"
+ "decided_at": "2026-10-18T23:34:38.020358+09:00",
+ "error": "인스타 API 오류 400: {'error': {'message': 'Unsupported post type. The post has too little or too many attachments to qualify as a carousel', 'type': 'IGApiException', 'code': 100, 'fbtrace_id': 'Ah6kzFYlNNBtpl0WaRw1FZd'}}"
 }
