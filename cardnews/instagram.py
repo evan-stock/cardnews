@@ -64,6 +64,17 @@ def _publish(cid, tries=6):
 
 def publish_carousel(image_urls, caption):
     ig = env("IG_USER_ID" + _sfx())
+    if len(image_urls) == 1 and not image_urls[0].lower().endswith(".mp4"):  # 사진 한 장 게시물(캐러셀은 2장 이상만 가능)
+        one = _req("POST", f"{ig}/media", image_url=image_urls[0], caption=caption[:2200])["id"]
+        _wait_ready(one)
+        time.sleep(5)
+        mid = _publish(one)
+        link = ""
+        try:
+            link = _req("GET", mid, fields="permalink").get("permalink", "")
+        except Exception:
+            pass
+        return mid, link
     children = []
     for u in image_urls[:10]:
         if u.lower().endswith(".mp4"):
