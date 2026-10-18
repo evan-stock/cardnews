@@ -1,74 +1,73 @@
 {
- "id": "20261018-librarybear",
+ "id": "20261018-horsecat",
  "mode": "send",
- "topic": "'곰돌이 푸' 출간 100주년 날 개관 전 도서관에 들어와 직원 간식·꿀을 먹고 간 곰(미국 매머드레이크스 도서관)",
+ "topic": "헛간 서까래에서 말 엉덩이 위로 뛰어내려 그대로 일광욕하는 고양이",
  "hook": {
-  "t": "개관 전 도서관에 온 손님\n알고 보니 '꿀 도둑'ㄷㄷ"
+  "t": "말 엉덩이에 착지한 고양이\n그대로 '일광욕' 시작ㅋㅋ"
  },
  "photo_credits": [
-  "Instagram @monocountyfreelibraries"
+  "TikTok @cristel_tiboni"
  ],
  "scenes": [
   {
-   "say": "이 손님, 지금 '도서관'에 입장하셨습니다.",
+   "say": "이 고양이, 방금 착지한 곳은 '말 엉덩이'입니다.",
    "video": {
-    "src": "video/z1.mp4",
-    "start": 0
+    "src": "video/v1.mp4",
+    "start": 1.0,
+    "y": 0.3
    }
   },
   {
-   "say": "문 열기 전 아침. 직원도 손님도 없는 시간입니다.",
+   "say": "말은 꿈쩍도 않습니다. 고양이는 자리를 고릅니다.",
    "video": {
-    "src": "video/z2.mp4",
-    "start": 0
+    "src": "video/v1.mp4",
+    "start": 4.0,
+    "y": 0.35
    }
   },
   {
-   "say": "책에는 관심이 없습니다. 목표는 오직 '직원 간식'.",
+   "say": "햇볕이 정확히 떨어지는 자리. 앞발을 툭 내려놓습니다.",
    "video": {
-    "src": "video/z2.mp4",
-    "start": 4
+    "src": "video/v1.mp4",
+    "start": 10.0,
+    "y": 0.4
    }
   },
   {
-   "say": "땅콩버터, 복숭아 컵, 쿠키, 그리고 '꿀' 한 병까지 해치웁니다.",
+   "say": "그리고 눈을 감습니다. '일광욕' 시작입니다.",
    "video": {
-    "src": "video/z3.mp4",
-    "start": 0
+    "src": "video/v1.mp4",
+    "start": 14.0,
+    "y": 0.4
    }
   },
   {
-   "say": "겨울잠을 앞둔 가을 곰은 하루 2만 칼로리 넘게 먹습니다.",
+   "say": "고양이가 편한 온도는 30도에서 38도. 사람보다 10도 넘게 높습니다.",
    "video": {
-    "src": "video/z3.mp4",
-    "start": 5
+    "src": "video/v1.mp4",
+    "start": 20.5,
+    "y": 0.4
    }
   },
   {
-   "say": "하필 이날은 '곰돌이 푸' 출간 100주년이었습니다.",
+   "say": "따끈한 말 등은, 최고의 '온돌'입니다.",
    "video": {
-    "src": "video/z3.mp4",
-    "start": 10
-   }
-  },
-  {
-   "say": "도서관의 공식 입장. 간식은 '대출 품목'이 아닙니다.",
-   "video": {
-    "src": "video/z1.mp4",
-    "start": 5.5
+    "src": "video/v1.mp4",
+    "start": 25.0,
+    "y": 0.4
    }
   }
  ],
  "yt": {
-  "title": "개관 전 도서관에 온 손님, 알고 보니 꿀 도둑 #shorts",
-  "description": "2026년 10월 14일 아침, 미국 캘리포니아 매머드레이크스 도서관(모노 카운티 공공도서관)에 문 열기 전 곰 한 마리가 들어왔습니다. 곰은 책 대신 직원 간식을 노려 땅콩버터, 복숭아 컵, 쿠키, 꿀 한 병을 먹고 갔고, 도서관 피해는 없었다고 합니다.\n\n공교롭게도 이날은 '곰돌이 푸(Winnie-the-Pooh)' 책이 나온 지 꼭 100년 되는 날이었습니다. 도서관은 \"간식은 대출 품목이 아닙니다\"라는 재치 있는 공지를 남겼습니다.\n\n가을 곰은 겨울잠 전 하루 2만 칼로리 넘게 먹는 '과식기'라 사람 사는 곳까지 내려오기도 합니다. 곰을 만나면 가까이 가거나 먹이를 주지 마세요.\n\n영상: Mono County Free Libraries(인스타그램 @monocountyfreelibraries)",
+  "title": "말 엉덩이에 착지한 고양이, 그대로 일광욕 시작 #shorts",
+  "description": "헛간 서까래 위에 있던 고양이가 아래에 서 있던 말 엉덩이 위로 폴짝 뛰어내립니다. 놀라서 도망갈 줄 알았는데, 햇볕 드는 자리를 골라 그대로 눕더니 눈을 감고 일광욕을 즐깁니다. 말도 꿈쩍하지 않고 자리를 내어 줍니다.\n\n고양이가 가장 편안하게 느끼는 온도(열중립 구간)는 약 30~38도로, 사람(약 18~25도)보다 훨씬 높습니다. 그래서 고양이는 햇볕 드는 자리나 따뜻한 곳을 찾아다닙니다.\n\n여러분 집 고양이의 최애 햇볕 자리는 어디인가요?\n\n영상: TikTok @cristel_tiboni",
   "tags": [
-   "곰",
-   "도서관",
-   "꿀도둑",
-   "곰돌이푸",
+   "고양이",
+   "말",
+   "고양이일광욕",
+   "웃긴고양이",
    "웃긴동물",
-   "신기한동물",
+   "귀여운동물",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
@@ -77,25 +76,23 @@
  },
  "sources": [
   {
-   "publisher": "Instagram @monocountyfreelibraries",
-   "url": "https://www.instagram.com/reel/DeftV9xvY8q/",
+   "publisher": "TikTok @cristel_tiboni",
+   "url": "https://www.tiktok.com/@cristel_tiboni/video/7680077684994510112",
    "date": "2026.10"
   },
   {
-   "publisher": "KMPH",
-   "url": "https://kmph.com/news/local/bear-breaks-into-mammoth-lakes-library-raids-honey-on-winnie-the-pooh-centennial-aa-milne-october-14-1926-director-of-libraries-josef-bopp",
-   "date": "2026.10.15"
+   "publisher": "TAG24 Viral Video of the Day",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-17-2026-cat-finds-the-ultimate-sunbathing-spot-3536295",
+   "date": "2026.10.17"
   },
   {
-   "publisher": "Outdoors.com",
-   "url": "https://outdoors.com/watch-bear-enters-library-predictably-eats-jar-of-honey/",
-   "date": "2026.10.16"
-  },
-  {
-   "publisher": "NC Wildlife Resources Commission",
-   "url": "https://www.ncwildlife.org/News/be-bearwise-as-bear-activity-increases",
+   "publisher": "Veterinary Ireland Journal",
+   "url": "https://www.veterinaryirelandjournal.com/small-animal/333-the-heat-is-on-the-feline-tnz",
    "date": ""
   }
  ],
- "publish_now": true
+ "publish_now": true,
+ "style": {
+  "sub_y": 0.8
+ }
 }
