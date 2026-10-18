@@ -204,7 +204,7 @@ def cap_png(cap, out, sc):
     top, ah = area(sc)
     k = cap.get("k", "talk")
     x0 = float(cap.get("x", 0.5))
-    y0 = float(cap.get("y", 0.07 if k == "desc" else 0.35))
+    y0 = float(cap.get("y", 0.1 if k == "desc" else 0.35))
     lines = cap["t"].replace("\\n", "\n").split("\n")
     f = font(st["size"])
     lh = int(st["size"] * 1.2)
@@ -400,9 +400,10 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
             vf = (f"[0:v]scale='if(gt(a,0.5625),-2,1080)':'if(gt(a,0.5625),1920,-2)':flags=lanczos,"
                   f"crop=1080:1920:(in_w-1080)*{v.get('x', 0.5)}:(in_h-1920)*{v.get('y', 0.5)},"
                   f"setsar=1,fps={FPS},format=yuv420p[bg]")
-        if v.get("blur"):  # 원본에 박힌 글자(욕설 캡션 등)를 흐리게: [x, y, w, h] 원본 좌표
-            bx, by, bw, bh = v["blur"]
-            vf = vf.replace("[0:v]", f"[0:v]delogo=x={bx}:y={by}:w={bw}:h={bh},", 1)
+        if v.get("blur"):  # 원본에 박힌 글자(욕설 캡션 등)를 흐리게: [x, y, w, h] 원본 좌표, 여러 개면 [[...], [...]]
+            boxes = v["blur"] if isinstance(v["blur"][0], (list, tuple)) else [v["blur"]]
+            dl = "".join(f"delogo=x={bx}:y={by}:w={bw}:h={bh}," for bx, by, bw, bh in boxes)
+            vf = vf.replace("[0:v]", f"[0:v]{dl}", 1)
         vol = float(v.get("audio", sc["video_audio"]))
         orig = has_audio(src) and vol > 0
     else:
