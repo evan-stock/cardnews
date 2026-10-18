@@ -22,6 +22,6 @@
 |---|---|---|---|---|---|
 | conspiracy_theory.mp3 | Conspiracy Theory | Rod Kim | 1:36 | 10.5초 (전주 뒤 터지는 지점) | 미스터리·사건·과학자 멘붕 |
 | stake_out.mp3 | Stake Out | Alex Jones / Xander Jones | 3:04 | 76.5초 | 긴장·잠복·추적 |
-| curious_kitten.mp3 | The Curious Kitten | Aaron Kenny | 1:39 | 11.0초 (곡 전체가 고른 편) | 호기심·생활 이유·제품 원리 |
+| curious_kitten.mp3 | The Curious Kitten | Aaron Kenny | 1:39 | 11.0초 (곡 전체가 고른 편) — **파일 음량이 다른 곡보다 약 17dB 작음 → vol 4.0** | 호기심·생활 이유·제품 원리 |
 | robots_a_cometh.mp3 | Robots a Cometh | Dan Lebowitz | 1:52 | 3.0초 (처음부터 꽉 참) | 기계·발명품·공장 |
 | moonlit.mp3 | Moonlit | Dyalla | 2:42 | 65.0초 (브레이크 뒤 재시작) | 가벼운 반전·경쾌 |
