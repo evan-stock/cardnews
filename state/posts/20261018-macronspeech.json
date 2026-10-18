@@ -2,7 +2,7 @@
  "id": "20261018-macronspeech",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-18T23:48:29.162170+09:00",
  "publish_at": "2026-10-18T23:48:31.988471+09:00",
  "topic": "마크롱 새벽 3시 대국민 담화 예정 — 표지 1장(원형에 한국 계엄 패러디 이미지)",
@@ -46,5 +46,8 @@
   "media/20261018-macronspeech/02.jpg"
  ],
  "tg_msg": 539,
- "decided_at": "2026-10-18T23:48:31.988484+09:00"
+ "decided_at": "2026-10-18T23:48:31.988484+09:00",
+ "ig_media_id": "18131868349705607",
+ "permalink": "https://www.instagram.com/p/Deo78h9Ec69/",
+ "published_at": "2026-10-18T23:50:43.780932+09:00"
 }
