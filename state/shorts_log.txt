@@ -1,8 +1,1 @@
-장면 1/7 silent 누적 2.1초
-장면 2/7 silent 누적 3.9초
-장면 3/7 silent 누적 6.9초
-장면 4/7 silent 누적 9.7초
-장면 5/7 silent 누적 11.3초
-장면 6/7 silent 누적 14.1초
-장면 7/7 silent 누적 17.5초
-완성: /home/runner/work/cardnews/cardnews/media/20261018-novacarrier/short.mp4 (17.5초, TTS ['silent'])
+⏳ 4개 장면 목소리를 맥북에서 만드는 중
