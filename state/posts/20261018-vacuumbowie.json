@@ -1,0 +1,55 @@
+{
+ "id": "20261018-vacuumbowie",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-18T18:12:54.992705+09:00",
+ "publish_at": "2026-10-18T18:12:54.992724+09:00",
+ "publish_now": true,
+ "topic": "청소기에 짖던 강아지, 주인이 청소기를 혼내자 조용해짐(보위, 밈+내레이션)",
+ "sources": [
+  {
+   "publisher": "TikTok @bowiethebeans",
+   "url": "https://www.tiktok.com/@bowiethebeans/video/7678459247142653198",
+   "date": "2026"
+  },
+  {
+   "publisher": "TAG24",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-august-28-2026-dog-stops-barking-at-vacuum-after-owner-tries-hilarious-trick-3519344",
+   "date": "2026.8.28"
+  },
+  {
+   "publisher": "PetMD (Jennifer Coates, DVM)",
+   "url": "https://www.petmd.com/dog/training/why-are-dogs-scared-of-vacuums",
+   "date": "2026.3.17"
+  }
+ ],
+ "seconds": 19.479999999999997,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261018-vacuumbowie/short.mp4"
+ ],
+ "app_file": "media/20261018-vacuumbowie/short_nobgm.mp4",
+ "yt": {
+  "title": "청소기만 보면 짖는 강아지, 청소기를 혼내줬더니ㅋㅋ #shorts",
+  "description": "청소기만 켜면 달려들어 짖는 강아지 보위. \"강아지 말고 청소기를 혼내 보라\"는 댓글 조언대로 주인이 청소기를 꾸짖자(\"우리 강아지한테 잘해! 얘는 잘못 없어!\"), 보위는 그 자리에 얌전히 앉아 조용해졌습니다.\n\n수의사 제니퍼 코츠(PetMD, 2026.3.17)에 따르면 강아지는 사람보다 훨씬 작은 소리, 더 높은 소리까지 들을 수 있고, 청소기의 큰 소리와 진동, 갑자기 켜지고 움직이는 모습이 겁을 주거나 지키려는 본능을 자극해 짖게 만든다고 합니다.\n\n여러분 집 강아지도 청소기랑 싸우나요?\n\n영상: TikTok @bowiethebeans\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @bowiethebeans 2026, TAG24 2026.8.28, PetMD (Jennifer Coates, DVM) 2026.3.17\n사진·영상: TikTok @bowiethebeans\n음성: Typecast\n\n#shorts #강아지 #청소기 #청소기강아지 #웃긴강아지",
+  "tags": [
+   "강아지",
+   "청소기",
+   "청소기강아지",
+   "웃긴강아지",
+   "강아지반응",
+   "웃긴동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "e8d5bedb564d",
+ "tg_msg": 514
+}
