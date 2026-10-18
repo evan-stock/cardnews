@@ -1,100 +1,42 @@
 [
  {
-  "id": "20261017-ratking",
-  "slot": "lunch",
-  "mode": "send",
-  "topic": "쥐 꼬리가 엉켜 묶이는 '쥐왕(Rat King)' 현상과 이번 주 미국 인디애나 '다람쥐 왕' 구조",
-  "category": "신기한 사실 · 동물",
-  "core": "쥐왕: 꼬리가 털·끈적한 물질·얼음 등으로 엉킨 쥐 무리. 최대 알텐부르크 32마리(1828 부흐하임). 에스토니아 2005(16→13마리), 2021 폴바마 살아있는 13마리. 원인 설명: 겨울 둥지 속 들러붙어 굳음. 오래된 표본 조작 의혹도. 이번 주 인디애나 다람쥐 왕 3마리 수술 분리.",
-  "risk": "쥐왕 원인은 '유력한 설명'으로만. 오래된 표본 조작 가능성 언급. 2021 에스토니아 쥐는 안락사됐으나 생략(굳이 넣지 않음).",
-  "slides": [
-   {
-    "t": "쥐 32마리 꼬리가\n하나로 묶였다\n이름하여 '쥐왕'",
-    "inset": {
-     "img": "cand/tangled.jpg",
-     "label": "이번엔 다람쥐",
-     "fx": 0.5,
-     "fy": 0.5
-    }
-   },
-   {
-    "t": "'쥐왕'이 뭐길래?",
-    "sub": "영어로 Rat King, 독일어 '라텐쾨니히'에서 온 말",
-    "b": "여러 마리 쥐의 꼬리가 털·끈적한 물질·얼음 등에 엉켜 풀리지 않게 묶인 상태를 말합니다. 생쥐에게서도 발견된 적이 있습니다."
-   },
-   {
-    "t": "가장 큰 쥐왕은 '32마리'",
-    "sub": "1828년 독일 부흐하임에서 발견",
-    "b": "미라처럼 마른 채 독일 알텐부르크의 마우리티아눔 박물관에 전시돼 있습니다. 알려진 쥐왕 가운데 가장 큽니다."
-   },
-   {
-    "t": "옛날 이야기만이 아니다",
-    "sub": "2005년 에스토니아 남부",
-    "b": "꼬리가 엉킨 쥐 16마리가 발견됐습니다. 발견됐을 땐 13마리만 남아 있었습니다. 지금은 타르투대 자연사박물관에 있습니다. 2021년에도 에스토니아에서 살아 있는 쥐 13마리가 묶인 채 발견됐습니다."
-   },
-   {
-    "t": "왜 이렇게 될까?",
-    "b": "겨울에 둥지에서 몸을 붙이고 자는 동안 꼬리가 털·수액·음식물 같은 끈적한 것에 들러붙어 굳는다는 설명이 유력합니다. 빠져나오려 몸부림칠수록 더 조여집니다. 다만 수백 년 된 표본 중엔 조작 의혹이 있는 것도 있습니다."
-   },
-   {
-    "t": "그리고 이번 주, '다람쥐 왕'",
-    "sub": "미국 인디애나주, 생후 약 12주 다람쥐 3마리",
-    "b": "둥지 속 풀·잎에 꼬리가 엉켜 서로 떨어지지 못한 채 구조됐습니다. 수술로 떼어냈지만 꼬리는 약 2.5cm씩만 남았습니다. 이름은 찰스·솔로몬·프란체스카, 지금은 잘 먹고 잘 지냅니다."
-   },
-   {
-    "t": "엉킨 동물을 발견하면?",
-    "sub": "오늘의 쓸모",
-    "b": "억지로 떼면 꼬리·다리가 더 다칠 수 있습니다. 직접 풀지 말고 지역 야생동물구조센터에 연락하는 게 안전합니다."
-   },
-   {
-    "t": "동물 좋아하는 친구에게\n보내주세요",
-    "b": "팔로우하면 매일 화제 소식"
-   }
+  "id": "20261018-grokamazon",
+  "mode": "collect",
+  "limit": 30,
+  "image_pages": [
+   "https://www.teslarati.com/elon-musk-grok-bot-amazon-shopping/",
+   "https://finance.yahoo.com/small-business/articles/elon-musk-wants-start-amazon-220000094.html",
+   "https://officechai.com/ai/elon-musk-amazon-competitor/",
+   "https://notateslaapp.com/news/4834/musk-considers-creating-amazon-competitor",
+   "https://www.digit.in/news/general/elon-musk-hints-at-launching-amazon-rival-as-e-commerce-giant-blocks-its-grok-al-bots-here-is-what-happened.html",
+   "https://thepostmillennial.com/elon-musk-floats-competitor-to-jeff-bezos-amazon-after-grok-bot-blocked-from-shopping-on-platform",
+   "https://stocktwits.com/news-articles/markets/equity/space-x-ceo-elon-musk-teases-x-shop-after-amazon-shuts-out-grok-agents/cZxhTvgRBrB",
+   "https://thenextweb.com/news/musk-grok-bot-credit-card-spacex-make-you-whole",
+   "https://lapaasvoice.com/elon-musk-considers-amazon-competitor-after-users-report-grok-bots-blocked-from-shopping/"
   ],
-  "images": [
-   "alt",
-   "stras",
-   "alt_side",
-   "tartu",
-   "old",
-   "tangled",
-   "nest",
-   "cage"
+  "read_pages": [
+   "https://x.com/elonmusk/status/2110602585572860213",
+   "https://x.com/elonmusk/status/2110610960474079445"
+  ]
+ },
+ {
+  "id": "20261018-blinker",
+  "mode": "collect",
+  "limit": 30,
+  "image_pages": [
+   "https://economist.co.kr/article/view/ecn202610150041",
+   "https://www.wikitree.co.kr/articles/1166545",
+   "https://segye.com/newsView/20260930505363",
+   "https://www.wikitree.co.kr/articles/1162262",
+   "https://v.daum.net/v/20260706043551934",
+   "https://v.daum.net/v/kyuwkbqyVV?f=p",
+   "https://www.wikitree.co.kr/articles/1163209",
+   "https://www.khan.co.kr/article/202607292149005",
+   "https://car.withnews.kr/newcar/traffic-fine-misunderstandings"
   ],
-  "caption": "🐀 쥐 32마리의 꼬리가 하나로 묶인 '쥐왕', 들어보셨나요?\n\n쥐왕(Rat King)은 여러 마리 쥐의 꼬리가 털이나 끈적한 물질 등에 엉켜 풀리지 않게 묶인 상태를 말합니다. 가장 큰 쥐왕은 1828년 독일 부흐하임에서 발견된 32마리로, 지금도 알텐부르크의 마우리티아눔 박물관에 전시돼 있습니다. 2005년과 2021년 에스토니아에서도 꼬리가 엉킨 쥐들이 발견됐습니다.\n\n왜 생기는지는 아직 확실하지 않습니다. 겨울에 둥지에서 붙어 자는 동안 꼬리가 끈적한 것에 들러붙어 굳는다는 설명이 유력하고, 오래된 표본 중에는 조작 의혹이 있는 것도 있습니다.\n\n그리고 이번 주 미국 인디애나주에서는 '다람쥐 왕'이 나왔습니다. 생후 약 12주 된 다람쥐 세 마리가 둥지 속 풀과 잎에 꼬리가 엉킨 채 구조됐고, 야생동물 구조단체 리와일딩 인디애나가 수술로 분리했습니다. 꼬리는 약 2.5cm씩만 남았지만 세 마리 모두 잘 지내고 있습니다.\n\n여러분은 '쥐왕', 알고 계셨나요? '처음 듣는다' vs '이미 알았다' 댓글로 남겨주세요 💬\n\n동물 좋아하는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
-  "hashtags": [
-   "쥐왕",
-   "다람쥐왕",
-   "신기한동물",
-   "동물상식",
-   "신기한사실"
-  ],
-  "sources": [
-   {
-    "publisher": "Fox Weather",
-    "date": "2026.10.15",
-    "url": "https://www.foxweather.com/earth-space/squirrel-king-wildlife-rescue-tails-indiana-surgery-animals"
-   },
-   {
-    "publisher": "Wikipedia 'Rat king'",
-    "date": "",
-    "url": "https://en.wikipedia.org/wiki/Rat_king"
-   },
-   {
-    "publisher": "University of Tartu Natural History Museum",
-    "date": "",
-    "url": "https://commons.wikimedia.org/wiki/File:Rotikuningas.jpg"
-   }
-  ],
-  "photo_credits": [
-   "Stefan Kühn (CC0)",
-   "Edelseider·Lämpel (CC BY-SA 4.0)",
-   "Ivo Kruusamägi (CC BY-SA 4.0)",
-   "F. W. Schmuck c.1683 (Public domain)",
-   "Katie Lennox-Philibeck/FOX Weather",
-   "Jennifer Hancock/ReWilding Indiana"
-  ],
-  "publish_at": "2026-10-18T12:30:00+09:00",
-  "approved": true
+  "read_pages": [
+   "https://v.daum.net/v/kyuwkbqyVV?f=p",
+   "https://car.withnews.kr/newcar/traffic-fine-misunderstandings"
+  ]
  }
 ]
