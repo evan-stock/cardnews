@@ -14,7 +14,7 @@ jobs:
       - name: list
         run: |
           mkdir -p state/bench
-          for u in $(python3 -c "import json;print('\n'.join(json.load(open('drafts/yt_list.json'))['urls']))"); do
+          for u in $(python3 -c "import json;print(chr(10).join(json.load(open('drafts/yt_list.json')).get('urls',[])))"); do
             name=$(python3 -c "import sys,urllib.parse;print(urllib.parse.unquote(sys.argv[1]).split('@')[1].split('/')[0])" "$u")
             yt-dlp --flat-playlist -J "$u" > /tmp/l.json 2>>state/bench/log.txt || true
             python3 - "$name" <<'EOF'
@@ -26,6 +26,21 @@ jobs:
                   f.write(f"{i}\t{e.get('view_count')}\t{e.get('title')}\t{e.get('url')}\n")
           EOF
           done
+      - name: detail
+        run: |
+          python3 -c "import json;print('\n'.join(json.load(open('drafts/yt_list.json')).get('detail',[])))" > /tmp/d.txt
+          python3 -c "import json;print('\n'.join(json.load(open('drafts/yt_list.json')).get('frames',[])))" > /tmp/f.txt
+          sudo apt-get install -y -qq ffmpeg >/dev/null
+          : > state/bench/detail.jsonl
+          while read u; do [ -z "$u" ] && continue
+            yt-dlp -j --skip-download "$u" 2>>state/bench/log.txt | python3 -c "import json,sys;d=json.load(sys.stdin);print(json.dumps({k:d.get(k) for k in ['id','title','duration','upload_date','view_count','like_count','comment_count','description','tags']},ensure_ascii=False))" >> state/bench/detail.jsonl || true
+          done < /tmp/d.txt
+          mkdir -p state/bench/frames
+          while read u; do [ -z "$u" ] && continue
+            id=${u##*/}
+            yt-dlp -q -f "b[height<=720]/bv*[height<=720]+ba/b" --merge-output-format mp4 -o /tmp/$id.mp4 "$u" 2>>state/bench/log.txt || continue
+            ffmpeg -loglevel error -y -i /tmp/$id.mp4 -vf "fps=1,scale=240:-2,drawtext=text='%{pts\:hms}':x=4:y=4:fontcolor=yellow:fontsize=16:box=1:boxcolor=black@0.6,tile=8x5" -frames:v 1 -q:v 4 state/bench/frames/$id.jpg || true
+          done < /tmp/f.txt
       - run: |
           git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
           git add -A state/bench
