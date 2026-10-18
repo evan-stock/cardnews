@@ -1,7 +1,7 @@
 {
  "id": "20261018-holecow",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-18T19:57:53.897720+09:00",
  "publish_at": "2026-10-18T19:57:53.897735+09:00",
  "publish_now": true,
@@ -34,5 +34,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 522
+ "tg_msg": 522,
+ "decided_at": "2026-10-18T20:05:54.856672+09:00",
+ "yt_id": "DnY2E6qp0zQ",
+ "permalink": "https://youtube.com/shorts/DnY2E6qp0zQ",
+ "published_at": "2026-10-18T20:05:57.653960+09:00"
 }
