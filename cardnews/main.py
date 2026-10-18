@@ -12,7 +12,7 @@ import shutil
 import traceback
 
 from . import instagram, telegram_bot as tg
-from .common import CFG, MEDIA, all_posts, load_post, new_post_id, now, save_post, slot_time
+from .common import CFG, MEDIA, ROOT, all_posts, load_post, new_post_id, now, save_post, slot_time
 
 SLOT_LABEL = {"lunch": "점심", "evening": "저녁"}
 
@@ -229,11 +229,34 @@ def do_publish(post):
     save_post(post)
 
 
+def send_app_kit(p):
+    """[📱 앱으로 직접 올리기]: 유튜브 앱에서 쇼츠 음원(유행곡)을 붙여 올릴 수 있게 원본 화질 파일과 문구를 보낸다.
+    배경음악이 있던 영상은 배경음악을 뺀 판(short_nobgm.mp4)을 보낸다. 이 게시물은 자동 업로드하지 않는다."""
+    path = ROOT / (p.get("app_file") or p["files"][0])
+    try:
+        tg.send_document(str(path), f"📱 {p['topic']}\n저장 → 유튜브 앱 + → 동영상 업로드 → '사운드 추가'에서 음원 선택 → "
+                                    "음량 조절에서 원본(내레이션·효과음) 크기 맞추기")
+        y = p["yt"]
+        tg.send_text(y["title"])
+        tg.send_text(y["description"])
+        tg.send_text(" ".join("#" + t for t in y.get("tags", [])) or "(태그 없음)")
+        p.update(status="manual", decided_at=now().isoformat())
+        tg.send_text(f"📱 앱 업로드용으로 보냈어요: {p['topic']} (자동 업로드는 하지 않아요. 위 세 메시지를 길게 눌러 복사)")
+    except Exception as e:
+        tg.send_text(f"⚠️ 앱 업로드용 파일 전송 실패: {p['topic']}\n{str(e)[:300]}")
+    save_post(p)
+
+
 def tick():
     decisions = tg.poll_decisions()
     for pid, act in decisions:
         p = load_post(pid)
         if not p or p["status"] != "pending":
+            continue
+        if act == "app" and p.get("kind") == "short":  # 앱 직접 업로드: 파일 + 복사할 문구를 보내고 자동 업로드는 하지 않는다
+            send_app_kit(p)
+            continue
+        if act not in ("ok", "no"):
             continue
         p["status"] = "approved" if act == "ok" else "rejected"
         p["decided_at"] = now().isoformat()

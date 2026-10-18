@@ -52,6 +52,11 @@ def send_video(path, caption=""):
                     supports_streaming="true", width=1080, height=1920)
 
 
+def send_document(path, caption=""):
+    with open(path, "rb") as f:
+        return _api("sendDocument", files={"document": f}, chat_id=chat_id(), caption=caption[:1000])
+
+
 def send_preview(post):
     send_album(post["files"])
     when = post["publish_at"][11:16]
@@ -86,7 +91,8 @@ def poll_decisions():
         out.append((pid, act))
         try:
             _api("answerCallbackQuery", callback_query_id=cq["id"],
-                 text="승인했어요. 게시 시각에 올라가요." if act == "ok" else "거절했어요.")
+                 text={"ok": "승인했어요. 게시 시각에 올라가요.", "no": "거절했어요.",
+                       "app": "영상 파일과 제목·설명을 보내요."}.get(act, ""))
         except Exception:
             pass
     write_text("telegram_offset.txt", offset)

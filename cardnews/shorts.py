@@ -588,6 +588,9 @@ def render(d):
     out = str(base / "short.mp4")
     bgm = d.get("bgm") or sc.get("bgm")
     if bgm and os.path.exists(ROOT / bgm):
+        # 앱 직접 업로드용(배경음악 없는 판): 유튜브 앱에서 유행 음원을 붙일 때 쓴다(텔레그램 [📱 앱으로 직접 올리기])
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", joined, "-c", "copy", "-movflags", "+faststart",
+                        str(base / "short_nobgm.mp4")], check=True)
         vol = float(d.get("bgm_volume", sc["bgm_volume"]))
         bss = ["-ss", str(float(d["bgm_start"]))] if d.get("bgm_start") else []  # 하이라이트 구간부터(bgm_highlight.py로 잰 초)
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", joined, *bss, "-stream_loop", "-1", "-i", str(ROOT / bgm),
@@ -640,7 +643,9 @@ def send_preview(post, path):
             f"제목: {post['yt']['title']}\n\n──── 설명란 ────\n{post['yt']['description']}\n\n"
             f"태그: {', '.join(post['yt'].get('tags', []))}")
     return tg.send_text(text, buttons=[[{"text": "✅ 업로드", "callback_data": f"ok:{post['id']}"},
-                                        {"text": "❌ 거절", "callback_data": f"no:{post['id']}"}]])["message_id"]
+                                        {"text": "❌ 거절", "callback_data": f"no:{post['id']}"}],
+                                       [{"text": "📱 앱으로 직접 올리기(유행 음원 넣기)",
+                                         "callback_data": f"app:{post['id']}"}]])["message_id"]
 
 
 def draft_hash(d):
@@ -677,6 +682,8 @@ def one(d):
             "publish_at": d.get("publish_at") or now().isoformat(), "publish_now": bool(d.get("publish_now")),
             "topic": d.get("topic") or title, "sources": d.get("sources", []), "seconds": total, "tts": sorted(set(engines)),
             "files": [os.path.relpath(out, ROOT)],
+            "app_file": os.path.relpath(base / "short_nobgm.mp4", ROOT) if (base / "short_nobgm.mp4").exists()
+            else os.path.relpath(out, ROOT),
             "yt": {"title": title[:100], "description": description(d, engines)[:4900],
                    "tags": [t.lstrip("#") for t in y.get("tags", [])][:15],
                    "category": int(y.get("category", scfg()["category"])), "privacy": y.get("privacy", "public"),
