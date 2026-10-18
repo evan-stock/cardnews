@@ -106,6 +106,8 @@ def band_png(hook, out, sc, credit=""):
     size = sc["title_size"] if len(lines) <= 2 else int(sc["title_size"] * 0.82)
     lh = int(size * 1.25)
     y = (top - lh * len(lines)) // 2 + int(size * 0.05)
+    if sc.get("title_pad_bottom") is not None:  # 띠 아래쪽에 붙여 그린다(채널 목록 썸네일에서 위가 잘리지 않게, 10.18)
+        y = top - lh * len(lines) - int(sc["title_pad_bottom"])
     for i, line in enumerate(lines):
         tb = sc.get("title_base")  # 밈형: 모든 줄 흰색, '강조'만 색(노랑·분홍·빨강)
         base_col = tuple(tb) if tb else (YELLOW if i == 0 else WHITE)
@@ -503,7 +505,7 @@ def render(d):
             d["narration"] = False
         # 글꼴(2026.10.18 사용자 벤치마크 '냥줍' 쇼츠): 동물 대사 = 손글씨(하이멜로디), 설명·내레이션 자막 = 도현,
         # 제목 = 검은고딕(블랙한산스), 2줄째 초록
-        for k, v in {"band": 250, "title_size": 80, "title_base": list(WHITE), "title_hi": [120, 230, 90],
+        for k, v in {"band": 340, "title_pad_bottom": 22, "title_size": 80, "title_base": list(WHITE), "title_hi": [120, 230, 90],
                      "watermark": "오늘의 털뭉치", "quiet_bgm_volume": 0.12,
                      "font_title": "assets/fonts/BlackHanSans-Regular.ttf",
                      "font_talk": "assets/fonts/HiMelody-Regular.ttf", "talk_scale": 1.3, "talk_stroke": 6,
