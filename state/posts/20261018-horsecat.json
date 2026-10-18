@@ -1,0 +1,53 @@
+{
+ "id": "20261018-horsecat",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-18T10:06:03.455622+09:00",
+ "publish_at": "2026-10-18T10:06:03.455646+09:00",
+ "publish_now": true,
+ "topic": "헛간 서까래에서 말 엉덩이 위로 뛰어내려 그대로 일광욕하는 고양이",
+ "sources": [
+  {
+   "publisher": "TikTok @cristel_tiboni",
+   "url": "https://www.tiktok.com/@cristel_tiboni/video/7680077684994510112",
+   "date": "2026.10"
+  },
+  {
+   "publisher": "TAG24 Viral Video of the Day",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-17-2026-cat-finds-the-ultimate-sunbathing-spot-3536295",
+   "date": "2026.10.17"
+  },
+  {
+   "publisher": "Veterinary Ireland Journal",
+   "url": "https://www.veterinaryirelandjournal.com/small-animal/333-the-heat-is-on-the-feline-tnz",
+   "date": ""
+  }
+ ],
+ "seconds": 20.76,
+ "tts": [
+  "typecast"
+ ],
+ "files": [
+  "media/20261018-horsecat/short.mp4"
+ ],
+ "yt": {
+  "title": "말 엉덩이에 착지한 고양이, 그대로 일광욕 시작 #shorts",
+  "description": "헛간 서까래 위에 있던 고양이가 아래에 서 있던 말 엉덩이 위로 폴짝 뛰어내립니다. 놀라서 도망갈 줄 알았는데, 햇볕 드는 자리를 골라 그대로 눕더니 눈을 감고 일광욕을 즐깁니다. 말도 꿈쩍하지 않고 자리를 내어 줍니다.\n\n고양이가 가장 편안하게 느끼는 온도(열중립 구간)는 약 30~38도로, 사람(약 18~25도)보다 훨씬 높습니다. 그래서 고양이는 햇볕 드는 자리나 따뜻한 곳을 찾아다닙니다.\n\n여러분 집 고양이의 최애 햇볕 자리는 어디인가요?\n\n영상: TikTok @cristel_tiboni\n\n출처: TikTok @cristel_tiboni 2026.10, TAG24 Viral Video of the Day 2026.10.17, Veterinary Ireland Journal\n사진·영상: TikTok @cristel_tiboni\n음성: Typecast\n\n#shorts #고양이 #말 #고양이일광욕 #웃긴고양이",
+  "tags": [
+   "고양이",
+   "말",
+   "고양이일광욕",
+   "웃긴고양이",
+   "웃긴동물",
+   "귀여운동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "c47043545cbf",
+ "tg_msg": 408
+}
