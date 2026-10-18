@@ -105,8 +105,10 @@ def band_png(hook, out, sc, credit=""):
     lh = int(size * 1.25)
     y = (top - lh * len(lines)) // 2 + int(size * 0.05)
     for i, line in enumerate(lines):
-        base_col = YELLOW if i == 0 else WHITE
-        parts = [(p, YELLOW if k % 2 else base_col) for k, p in enumerate(line.split("'")) if p]
+        tb = sc.get("title_base")  # 밈형: 모든 줄 흰색, '강조'만 색(노랑·분홍·빨강)
+        base_col = tuple(tb) if tb else (YELLOW if i == 0 else WHITE)
+        hi_col = tuple(hook.get("hi") or sc.get("title_hi") or YELLOW)
+        parts = [(p, hi_col if k % 2 else base_col) for k, p in enumerate(line.split("'")) if p]
         f, sz = font(size), size
         tw = sum(d.textlength(t, font=f) for t, _ in parts)
         while tw > W - 90 and sz > 50:
@@ -118,6 +120,9 @@ def band_png(hook, out, sc, credit=""):
             d.text((x, y), t, font=f, fill=c, stroke_width=4, stroke_fill=(0, 0, 0))
             x += d.textlength(t, font=f)
         y += lh
+    if sc.get("watermark"):  # 영상 오른쪽 위 작은 채널 이름(펫파라치식)
+        d.text((W - 24, top + 16), sc["watermark"], font=font(30, True), fill=(255, 255, 255, 200), anchor="ra",
+               stroke_width=3, stroke_fill=(0, 0, 0, 160))
     if hook.get("tag") and sc.get("tag"):  # 2026.10.17 사용자 결정: 기본으로 태그를 그리지 않는다
         f = font(40)
         tag = "● " + hook["tag"]
@@ -175,6 +180,49 @@ def sub_png(text, out, sc, label=None):
         d.text((40, int(H * sc["sub_y"]) - 70), "※ " + label, font=font(34, True), fill=(235, 235, 235),
                stroke_width=4, stroke_fill=(0, 0, 0))
     im.save(out)
+
+
+CAP_STYLE = {  # 위치 자막(2026.10.18 펫파라치·짤봇 벤치마크): 동물 옆 대사 / 위쪽 상황 설명 / 괄호 효과음
+    "talk": {"size": 70, "color": WHITE, "stroke": 8},
+    "desc": {"size": 64, "color": WHITE, "stroke": 8},
+    "sfx": {"size": 60, "color": YELLOW, "stroke": 7},
+}
+COLORS = {"yellow": YELLOW, "white": WHITE, "red": (255, 70, 70), "pink": (255, 120, 190), "sky": (110, 210, 255),
+          "green": (120, 255, 90)}
+
+
+def cap_png(cap, out, sc):
+    """cap = {"t": "엄마!!구해줘!!", "k": "talk|desc|sfx", "x": 0~1, "y": 0~1 (영상 영역 기준 글자 가운데),
+    "c": 색 이름/RGB, "size": 글자 크기}. 여러 줄은 \n. '작은따옴표'는 노랑 강조."""
+    st = {**CAP_STYLE.get(cap.get("k", "talk"), CAP_STYLE["talk"])}
+    if cap.get("size"):
+        st["size"] = int(cap["size"])
+    c = cap.get("c")
+    col = tuple(COLORS.get(c, c)) if c else st["color"]
+    im = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    top, ah = area(sc)
+    k = cap.get("k", "talk")
+    x0 = float(cap.get("x", 0.5))
+    y0 = float(cap.get("y", 0.07 if k == "desc" else 0.35))
+    lines = cap["t"].replace("\\n", "\n").split("\n")
+    f = font(st["size"])
+    lh = int(st["size"] * 1.2)
+    cy = top + int(ah * y0) - lh * len(lines) // 2
+    for line in lines:
+        parts = [(p, YELLOW if i % 2 and col != YELLOW else col) for i, p in enumerate(line.split("'")) if p]
+        tw = sum(d.textlength(t, font=f) for t, _ in parts)
+        x = min(max(24, W * x0 - tw / 2), W - 24 - tw)  # 화면 밖으로 안 나가게
+        for t, cc in parts:
+            d.text((x, cy), t, font=f, fill=cc, stroke_width=st["stroke"], stroke_fill=(0, 0, 0))
+            x += d.textlength(t, font=f)
+        cy += lh
+    im.save(out)
+
+
+def sfx_path(name):
+    p = ROOT / name if "/" in name else ROOT / "assets" / "sfx" / f"{name}.mp3"
+    return str(p) if p.exists() else None
 
 
 def balanced(text, n):
@@ -300,12 +348,33 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
         sub_png("", p, sc, scene["label"])
         pngs.append(p)
         times.append((0, dur))
+    sfx = list(scene.get("sfx") or [])
+    for k, cap in enumerate(scene.get("caps") or []):  # 위치 자막: 장면 안 at~to 초에만 보임
+        p = f"{tmp}/s{sc_i:02d}_c{k:02d}.png"
+        cap_png(cap, p, sc)
+        a = float(cap.get("at", 0))
+        pngs.append(p)
+        times.append((a, min(dur, float(cap.get("to", dur)))))
+        if cap.get("s"):  # 자막과 같은 순간에 효과음
+            sfx.append({"f": cap["s"], "at": a, "vol": cap.get("sv", 1.0)})
 
     cmd = ["ffmpeg", "-y", "-loglevel", "error"]
     v = scene.get("video")
     if v:
         src = str(base / v["src"])
-        cmd += ["-stream_loop", "-1", "-ss", str(v.get("start", 0)), "-t", str(dur), "-i", src]
+        start = v.get("start", 0)
+        if v.get("rev") or v.get("boomerang"):  # 거꾸로 재생 / 앞으로+거꾸로(짧은 원본 늘리기)
+            span = dur / 2 if v.get("boomerang") else dur
+            rc = f"{tmp}/rev{sc_i:02d}.mp4"
+            fx = ("[0:v]split[a][b];[b]reverse[r];[a][r]concat=n=2:v=1:a=0[v];[0:a]asplit[c][e];[e]areverse[ra];[c][ra]concat=n=2:v=0:a=1[au]"
+                  if v.get("boomerang") else "[0:v]reverse[v];[0:a]areverse[au]")
+            if not has_audio(src):
+                fx = fx.split(";[0:a]")[0]
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(start), "-t", str(span), "-i", src,
+                            "-filter_complex", fx, "-map", "[v]"] + (["-map", "[au]"] if has_audio(src) else [])
+                           + ["-c:v", "libx264", "-crf", "16", "-pix_fmt", "yuv420p", rc], check=True)
+            src, start = rc, 0
+        cmd += ["-stream_loop", "-1", "-ss", str(start), "-t", str(dur), "-i", src]
         vw, vh = map(int, probe(src, "stream=width,height").split("\n")[0].split(",")[:2])
         fit = v.get("fit", "auto")
         top, ah = area(sc)
@@ -363,9 +432,23 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
     cmd += ["-i", voice_mp3]
     vi = n_in
     vf += f";[{vi}:a]aresample=44100,aformat=channel_layouts=stereo,apad=whole_dur={dur}[na]"
+    mix = ["[na]"]
     if orig:
-        vf += (f";[0:a]aresample=44100,aformat=channel_layouts=stereo,volume={vol},apad=whole_dur={dur}[oa]"
-               f";[na][oa]amix=inputs=2:duration=first:normalize=0[a]")
+        vf += f";[0:a]aresample=44100,aformat=channel_layouts=stereo,volume={vol},apad=whole_dur={dur}[oa]"
+        mix.append("[oa]")
+    for j, fx in enumerate(sfx):  # 효과음: {"f": "pop" 또는 경로, "at": 초, "vol": 1.0}
+        fp = sfx_path(fx["f"])
+        if not fp:
+            print("효과음 없음:", fx["f"])
+            continue
+        n_in += 1
+        cmd += ["-i", fp]
+        ms = int(float(fx.get("at", 0)) * 1000)
+        vf += (f";[{n_in}:a]aresample=44100,aformat=channel_layouts=stereo,volume={fx.get('vol', 1.0)},"
+               f"adelay={ms}|{ms}[sx{j}]")
+        mix.append(f"[sx{j}]")
+    if len(mix) > 1:
+        vf += f";{''.join(mix)}amix=inputs={len(mix)}:duration=first:normalize=0[a]"
     else:
         vf += ";[na]anull[a]"
     cmd += ["-filter_complex", vf, "-map", f"[{last}]", "-map", "[a]", "-t", str(dur),
@@ -403,6 +486,12 @@ def render(d):
     from .tts import cfg as tts_cfg
     if tts_cfg().get("engine") == "none" and not (d.get("voice") or {}).get("engine"):
         d = {**d, "narration": False}  # TTS 일시 중지(engine: none): 자막+원본 소리+배경음악으로 만든다
+    if d.get("format") == "meme":  # 밈 자막형(2026.10.18 펫파라치·짤봇): 내레이션 없음, 고정 자막 대신 위치 자막+효과음
+        d = {**d, "narration": False, "scenes": [{"say": "", "nosub": True, **s} for s in d["scenes"]]}
+        for k, v in {"band": 250, "title_size": 76, "title_base": list(WHITE), "title_hi": list(YELLOW),
+                     "watermark": "오늘의 털뭉치", "quiet_bgm_volume": 0.12}.items():
+            if k not in d.get("style", {}):
+                sc[k] = (sc.get("meme") or {}).get(k, v)
     if d.get("narration") is False:  # TTS 없이 원본 소리 + 배경음악(감동형 등). 자막이 이야기를 끌고 간다
         d = {**d, "voice": {**(d.get("voice") or {}), "engine": "silent"}}
         sc["video_audio"] = sc.get("quiet_video_audio", 1.0)
