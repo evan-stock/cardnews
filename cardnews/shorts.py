@@ -57,9 +57,11 @@ def area(sc):
     return 0, H
 
 
-def font(size, bold=False):
+def font(size, bold=False, path=None):
     """굵은 한글 폰트. 서버에 Black이 없으면 Bold로, 그것도 없으면 시스템 한글 폰트로 대체한다.
     (PIL 기본 글꼴로 떨어지면 글자가 깨알처럼 작아지므로 절대 쓰지 않는다)"""
+    if path and os.path.exists(ROOT / path):  # 용도별 글꼴(밈형: 대사=손글씨, 자막=도현 등)
+        return ImageFont.truetype(str(ROOT / path), size)
     custom = CFG.get("shorts", {}).get("font")  # 제목·자막 글꼴(2026.10.18 사용자 선택: 주아). 작은 표기(bold)는 Noto 유지
     if custom and not bold and os.path.exists(ROOT / custom):
         return ImageFont.truetype(str(ROOT / custom), size)
@@ -76,14 +78,14 @@ def segs(line, base=None, hi=None):
     return [(p, (hi or YELLOW) if i % 2 else (base or WHITE)) for i, p in enumerate(line.split("'")) if p]
 
 
-def draw_line(d, y, line, size, max_w=W - 110, stroke=8, anchor_mid=True, base=None, hi=None):
+def draw_line(d, y, line, size, max_w=W - 110, stroke=8, anchor_mid=True, base=None, hi=None, fpath=None):
     """한 줄을 가운데 정렬로 그림. 넓으면 글자 크기를 줄인다. 실제 쓴 크기를 돌려준다."""
     s = segs(line, base, hi)
-    f = font(size)
+    f = font(size, path=fpath)
     tw = sum(d.textlength(t, font=f) for t, _ in s)
     while tw > max_w and size > 40:
         size -= 3
-        f = font(size)
+        f = font(size, path=fpath)
         tw = sum(d.textlength(t, font=f) for t, _ in s)
     x = (W - tw) / 2
     for t, c in s:
@@ -109,11 +111,11 @@ def band_png(hook, out, sc, credit=""):
         base_col = tuple(tb) if tb else (YELLOW if i == 0 else WHITE)
         hi_col = tuple(hook.get("hi") or sc.get("title_hi") or YELLOW)
         parts = [(p, hi_col if k % 2 else base_col) for k, p in enumerate(line.split("'")) if p]
-        f, sz = font(size), size
+        f, sz = font(size, path=sc.get("font_title")), size
         tw = sum(d.textlength(t, font=f) for t, _ in parts)
         while tw > W - 90 and sz > 50:
             sz -= 3
-            f = font(sz)
+            f = font(sz, path=sc.get("font_title"))
             tw = sum(d.textlength(t, font=f) for t, _ in parts)
         x = (W - tw) / 2
         for t, c in parts:
@@ -174,7 +176,8 @@ def sub_png(text, out, sc, label=None):
     base = tuple(sc["sub_color"]) if sc.get("sub_color") else None
     hi = tuple(sc["sub_hi"]) if sc.get("sub_hi") else None
     for line in lines:
-        used = draw_line(d, y, line, sc["sub_size"], max_w=W - 60, stroke=sc.get("sub_stroke", 12), base=base, hi=hi)
+        used = draw_line(d, y, line, sc["sub_size"], max_w=W - 60, stroke=sc.get("sub_stroke", 12), base=base, hi=hi,
+                         fpath=sc.get("font_sub"))
         y += int(used * 1.28)
     if label:
         d.text((40, int(H * sc["sub_y"]) - 70), "※ " + label, font=font(34, True), fill=(235, 235, 235),
@@ -195,6 +198,10 @@ def cap_png(cap, out, sc):
     """cap = {"t": "엄마!!구해줘!!", "k": "talk|desc|sfx", "x": 0~1, "y": 0~1 (영상 영역 기준 글자 가운데),
     "c": 색 이름/RGB, "size": 글자 크기}. 여러 줄은 \n. '작은따옴표'는 노랑 강조."""
     st = {**CAP_STYLE.get(cap.get("k", "talk"), CAP_STYLE["talk"])}
+    if cap.get("k", "talk") != "desc":
+        st["size"] = int(st["size"] * float(sc.get("talk_scale", 1.0)))  # 손글씨 글꼴은 작아 보여 키운다
+    if cap.get("k", "talk") != "desc" and sc.get("talk_stroke"):
+        st["stroke"] = int(sc["talk_stroke"])
     if cap.get("size"):
         st["size"] = int(cap["size"])
     c = cap.get("c")
@@ -206,7 +213,7 @@ def cap_png(cap, out, sc):
     x0 = float(cap.get("x", 0.5))
     y0 = float(cap.get("y", 0.1 if k == "desc" else 0.35))
     lines = cap["t"].replace("\\n", "\n").split("\n")
-    f = font(st["size"])
+    f = font(st["size"], path=sc.get("font_desc" if k == "desc" else "font_talk"))
     lh = int(st["size"] * 1.2)
     cy = top + int(ah * y0) - lh * len(lines) // 2
     for line in lines:
@@ -494,8 +501,14 @@ def render(d):
         d = {**d, "scenes": scenes}
         if not any(s["say"].strip() for s in scenes):
             d["narration"] = False
-        for k, v in {"band": 250, "title_size": 76, "title_base": list(WHITE), "title_hi": list(YELLOW),
-                     "watermark": "오늘의 털뭉치", "quiet_bgm_volume": 0.12}.items():
+        # 글꼴(2026.10.18 사용자 벤치마크 '냥줍' 쇼츠): 동물 대사 = 손글씨(하이멜로디), 설명·내레이션 자막 = 도현,
+        # 제목 = 검은고딕(블랙한산스), 2줄째 초록
+        for k, v in {"band": 250, "title_size": 80, "title_base": list(WHITE), "title_hi": [120, 230, 90],
+                     "watermark": "오늘의 털뭉치", "quiet_bgm_volume": 0.12,
+                     "font_title": "assets/fonts/BlackHanSans-Regular.ttf",
+                     "font_talk": "assets/fonts/HiMelody-Regular.ttf", "talk_scale": 1.3, "talk_stroke": 6,
+                     "font_desc": "assets/fonts/DoHyeon-Regular.ttf", "font_sub": "assets/fonts/DoHyeon-Regular.ttf",
+                     "sub_size": 84, "sub_y": 0.62, "chunk": 11, "sub_stroke": 9}.items():
             if k not in d.get("style", {}):
                 sc[k] = (sc.get("meme") or {}).get(k, v)
     if d.get("narration") is False:  # TTS 없이 원본 소리 + 배경음악(감동형 등). 자막이 이야기를 끌고 간다
