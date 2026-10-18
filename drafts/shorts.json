@@ -1,72 +1,75 @@
 {
- "id": "20261018-kimmy",
+ "id": "20261018-librarybear",
  "mode": "send",
- "topic": "'아기 데려와' 한마디에 새끼 고양이를 물어 오는 강아지 킴미",
+ "topic": "'곰돌이 푸' 출간 100주년 날 개관 전 도서관에 들어와 직원 간식·꿀을 먹고 간 곰(미국 매머드레이크스 도서관)",
  "hook": {
-  "t": "'아기 데려와' 한마디에\n강아지가 물고 온 것ㄷㄷ"
+  "t": "개관 전 도서관에 온 손님\n알고 보니 '꿀 도둑'ㄷㄷ"
  },
  "photo_credits": [
-  "TikTok @maddie22344"
+  "Instagram @monocountyfreelibraries"
  ],
  "scenes": [
   {
-   "say": "이 강아지, 지금 입에 '새끼 고양이'를 물고 있습니다.",
+   "say": "이 손님, 지금 '도서관'에 입장하셨습니다.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 42.6,
-    "y": 0.7
+    "src": "video/z1.mp4",
+    "start": 0
    }
   },
   {
-   "say": "이름은 킴미. 주인이 데려온 고양이는 생후 2주, 손바닥보다 작았습니다.",
+   "say": "문 열기 전 아침. 직원도 손님도 없는 시간입니다.",
    "video": {
-    "src": "video/face.mp4",
-    "start": 0,
-    "y": 0.4
+    "src": "video/z2.mp4",
+    "start": 0
    }
   },
   {
-   "say": "너무 작아서 자꾸 어디론가 사라지자, 주인은 킴미에게 '임무'를 맡깁니다.",
+   "say": "책에는 관심이 없습니다. 목표는 오직 '직원 간식'.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 17.5,
-    "y": 0.6
+    "src": "video/z2.mp4",
+    "start": 4
    }
   },
   {
-   "say": "아기 데려와. 그 한마디면 꼬리를 흔들며 출동.",
+   "say": "땅콩버터, 복숭아 컵, 쿠키, 그리고 '꿀' 한 병까지 해치웁니다.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 13.0,
-    "y": 0.6
+    "src": "video/z3.mp4",
+    "start": 0
    }
   },
   {
-   "say": "조심조심 물어 와서, 주인 손에 살포시 내려놓습니다.",
+   "say": "겨울잠을 앞둔 가을 곰은 하루 2만 칼로리 넘게 먹습니다.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 43.4,
-    "y": 0.75
+    "src": "video/z3.mp4",
+    "start": 5
    }
   },
   {
-   "say": "오늘도 임무 완료. 이 집 막내는 든든한 '보모'가 생겼습니다.",
+   "say": "하필 이날은 '곰돌이 푸' 출간 100주년이었습니다.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 44.2,
-    "y": 0.6
+    "src": "video/z3.mp4",
+    "start": 10
+   }
+  },
+  {
+   "say": "도서관의 공식 입장. 간식은 '대출 품목'이 아닙니다.",
+   "video": {
+    "src": "video/z1.mp4",
+    "start": 5.5
    }
   }
  ],
  "yt": {
-  "title": "'아기 데려와' 한마디에 강아지가 물고 온 것 #shorts",
-  "description": "생후 2주 된 아주 작은 새끼 고양이를 데려온 주인. 고양이가 너무 작아 자꾸 숨어버리자, 강아지 킴미에게 '아기 데려와'를 가르쳤습니다. 이제 한마디면 꼬리를 흔들며 고양이를 조심스럽게 물어 옵니다.\n\n주인은 3시간마다 우유를 먹이며 아기 고양이를 돌봤고, 고양이와 킴미는 금세 단짝이 됐다고 합니다.\n\n여러분 집 강아지도 이런 보모 역할 하나요?",
+  "title": "개관 전 도서관에 온 손님, 알고 보니 꿀 도둑 #shorts",
+  "description": "2026년 10월 14일 아침, 미국 캘리포니아 매머드레이크스 도서관(모노 카운티 공공도서관)에 문 열기 전 곰 한 마리가 들어왔습니다. 곰은 책 대신 직원 간식을 노려 땅콩버터, 복숭아 컵, 쿠키, 꿀 한 병을 먹고 갔고, 도서관 피해는 없었다고 합니다.\n\n공교롭게도 이날은 '곰돌이 푸(Winnie-the-Pooh)' 책이 나온 지 꼭 100년 되는 날이었습니다. 도서관은 \"간식은 대출 품목이 아닙니다\"라는 재치 있는 공지를 남겼습니다.\n\n가을 곰은 겨울잠 전 하루 2만 칼로리 넘게 먹는 '과식기'라 사람 사는 곳까지 내려오기도 합니다. 곰을 만나면 가까이 가거나 먹이를 주지 마세요.\n\n영상: Mono County Free Libraries(인스타그램 @monocountyfreelibraries)",
   "tags": [
-   "강아지",
-   "아기고양이",
-   "강아지와고양이",
-   "귀여운동물",
+   "곰",
+   "도서관",
+   "꿀도둑",
+   "곰돌이푸",
    "웃긴동물",
+   "신기한동물",
+   "동물쇼츠",
    "오늘의털뭉치"
   ],
   "category": 15,
@@ -74,16 +77,25 @@
  },
  "sources": [
   {
-   "publisher": "TikTok @maddie22344",
-   "url": "https://www.tiktok.com/@maddie22344/video/7613548932940959006",
-   "date": "2026.03"
+   "publisher": "Instagram @monocountyfreelibraries",
+   "url": "https://www.instagram.com/reel/DeftV9xvY8q/",
+   "date": "2026.10"
   },
   {
-   "publisher": "Newsweek",
-   "url": "https://www.newsweek.com/woman-brings-tiny-kitten-home-shock-what-she-trains-her-dog-to-do-11657912",
-   "date": "2026.03.11"
+   "publisher": "KMPH",
+   "url": "https://kmph.com/news/local/bear-breaks-into-mammoth-lakes-library-raids-honey-on-winnie-the-pooh-centennial-aa-milne-october-14-1926-director-of-libraries-josef-bopp",
+   "date": "2026.10.15"
+  },
+  {
+   "publisher": "Outdoors.com",
+   "url": "https://outdoors.com/watch-bear-enters-library-predictably-eats-jar-of-honey/",
+   "date": "2026.10.16"
+  },
+  {
+   "publisher": "NC Wildlife Resources Commission",
+   "url": "https://www.ncwildlife.org/News/be-bearwise-as-bear-activity-increases",
+   "date": ""
   }
  ],
- "publish_now": true,
- "rev": 2
+ "publish_now": true
 }
