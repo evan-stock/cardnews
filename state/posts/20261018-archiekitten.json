@@ -1,52 +1,55 @@
 {
-  "id": "20261018-archiekitten",
-  "kind": "short",
-  "status": "approved",
-  "created_at": "2026-10-18T15:33:49.858893+09:00",
-  "publish_at": "2026-10-18T15:33:49.858958+09:00",
-  "publish_now": true,
-  "topic": "사라진 아기 고양이, 알고 보니 개 털 속에 숨어 있었다(아치·페넬로페, 밈+내레이션)",
-  "sources": [
-    {
-      "publisher": "TikTok @olliverandpenelope",
-      "url": "https://www.tiktok.com/@olliverandpenelope/video/7624316884086770952",
-      "date": "2026"
-    },
-    {
-      "publisher": "Newsweek",
-      "url": "https://www.newsweek.com/owner-golden-energy-dog-cant-find-black-kitten-realization-11810735",
-      "date": "2026.4.10"
-    }
-  ],
-  "seconds": 20.19,
-  "tts": [
-    "silent",
-    "typecast"
-  ],
-  "files": [
-    "media/20261018-archiekitten/short.mp4"
-  ],
-  "app_file": "media/20261018-archiekitten/short_nobgm.mp4",
-  "yt": {
-    "title": "사라진 아기 고양이, 알고 보니 형아 품에 있었다ㅋㅋ #shorts",
-    "description": "집사가 아무리 찾아도 안 보이던 아기 고양이 페넬로페. 소파 위에서 시치미 떼고 하품만 하던 강아지 아치의 품을 자세히 들여다보니, 까만 털 속에 까만 아기 고양이가 쏙 파묻혀 있었습니다.\n\n2020년 학술지 PLOS ONE에 실린 연구(개와 고양이를 함께 키우는 1,200여 가구 조사)에 따르면, 개·고양이 짝 10쌍 중 약 6쌍은 자주 함께 놀고, 3분의 2 이상은 가끔 같이 잔다고 합니다.\n\n여러분 집 아이들도 이렇게 붙어 자나요?\n\n영상: TikTok @olliverandpenelope\n\n출처: TikTok @olliverandpenelope 2026, Newsweek 2026.4.10\n사진·영상: TikTok @olliverandpenelope\n음성: Typecast\n\n#shorts #강아지 #고양이 #아기고양이 #개냥이",
-    "tags": [
-      "강아지",
-      "고양이",
-      "아기고양이",
-      "개냥이",
-      "강아지와고양이",
-      "웃긴동물",
-      "동물쇼츠",
-      "오늘의털뭉치"
-    ],
-    "category": 15,
-    "privacy": "public",
-    "synthetic": false,
-    "channel": null
+ "id": "20261018-archiekitten",
+ "kind": "short",
+ "status": "published",
+ "created_at": "2026-10-18T15:33:49.858893+09:00",
+ "publish_at": "2026-10-18T15:33:49.858958+09:00",
+ "publish_now": true,
+ "topic": "사라진 아기 고양이, 알고 보니 개 털 속에 숨어 있었다(아치·페넬로페, 밈+내레이션)",
+ "sources": [
+  {
+   "publisher": "TikTok @olliverandpenelope",
+   "url": "https://www.tiktok.com/@olliverandpenelope/video/7624316884086770952",
+   "date": "2026"
   },
-  "draft_hash": "2fc6de4cbba9",
-  "tg_msg": 503,
-  "decided_at": "2026-10-18T15:48:57.283674+09:00",
-  "decided_via": "chat (텔레그램 버튼 응답 유실, 사용자가 채팅에서 업로드 눌렀다고 확인)"
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/owner-golden-energy-dog-cant-find-black-kitten-realization-11810735",
+   "date": "2026.4.10"
+  }
+ ],
+ "seconds": 20.19,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261018-archiekitten/short.mp4"
+ ],
+ "app_file": "media/20261018-archiekitten/short_nobgm.mp4",
+ "yt": {
+  "title": "사라진 아기 고양이, 알고 보니 형아 품에 있었다ㅋㅋ #shorts",
+  "description": "집사가 아무리 찾아도 안 보이던 아기 고양이 페넬로페. 소파 위에서 시치미 떼고 하품만 하던 강아지 아치의 품을 자세히 들여다보니, 까만 털 속에 까만 아기 고양이가 쏙 파묻혀 있었습니다.\n\n2020년 학술지 PLOS ONE에 실린 연구(개와 고양이를 함께 키우는 1,200여 가구 조사)에 따르면, 개·고양이 짝 10쌍 중 약 6쌍은 자주 함께 놀고, 3분의 2 이상은 가끔 같이 잔다고 합니다.\n\n여러분 집 아이들도 이렇게 붙어 자나요?\n\n영상: TikTok @olliverandpenelope\n\n출처: TikTok @olliverandpenelope 2026, Newsweek 2026.4.10\n사진·영상: TikTok @olliverandpenelope\n음성: Typecast\n\n#shorts #강아지 #고양이 #아기고양이 #개냥이",
+  "tags": [
+   "강아지",
+   "고양이",
+   "아기고양이",
+   "개냥이",
+   "강아지와고양이",
+   "웃긴동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "2fc6de4cbba9",
+ "tg_msg": 503,
+ "decided_at": "2026-10-18T15:48:57.283674+09:00",
+ "decided_via": "chat (텔레그램 버튼 응답 유실, 사용자가 채팅에서 업로드 눌렀다고 확인)",
+ "yt_id": "EoOMrEnHVrY",
+ "permalink": "https://youtube.com/shorts/EoOMrEnHVrY",
+ "published_at": "2026-10-18T15:50:52.840943+09:00"
 }
