@@ -1,7 +1,7 @@
 {
  "id": "20261019-dogcat",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-19T13:30:57.613671+09:00",
  "publish_at": "2026-10-19T13:30:57.613689+09:00",
  "publish_now": true,
@@ -47,5 +47,9 @@
   "channel": null
  },
  "draft_hash": "970938d45d6c",
- "tg_msg": 557
+ "tg_msg": 557,
+ "decided_at": "2026-10-19T13:33:56.481527+09:00",
+ "yt_id": "YHsYQH95kS8",
+ "permalink": "https://youtube.com/shorts/YHsYQH95kS8",
+ "published_at": "2026-10-19T13:33:59.901367+09:00"
 }
