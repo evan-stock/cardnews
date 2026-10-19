@@ -1,0 +1,130 @@
+{
+ "id": "20261019-roofvent",
+ "media": "media/20261019-roofvent",
+ "topic": "소방관이 불난 집 지붕에 일부러 구멍을 뚫는 이유 — 수직 배연(vertical ventilation). 집 화재 사망 대부분은 불이 아니라 연기 때문이라, 천장에 갇힌 뜨겁고 독한 연기를 굴뚝처럼 빼내 안을 보이게·숨 쉬게 하고 플래시오버 위험을 줄인다. 단 물 없이 뚫으면 산소가 들어가 불이 더 커지므로(UL FSRI 실험) 물 뿌리는 팀과 동시에 한다",
+ "hook": {
+  "t": "불타는 집 지붕에\n'구멍' 뚫는 소방관ㄷㄷ"
+ },
+ "credit": "영상: Charlotte Fire Department(X) · 사진: 위키미디어 커먼즈",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0.3,
+ "scenes": [
+  {
+   "text": "불타는 지붕 위에서 일부러 '구멍'을 뚫는다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 50.5,
+    "x": 0.55,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "불에 '산소'를 더 넣어 주는 거 아냐?",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 10.0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "진짜 범인은 불이 아니라 '연기'다",
+   "img": "video/buffalo5.jpg",
+   "zoom": 0.12,
+   "dur": 3.0
+  },
+  {
+   "text": "집에 불이 나 숨진 사람 대부분은 연기에 쓰러진다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 14.5,
+    "x": 0.6,
+    "y": 0.5
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "뜨거운 연기가 천장에 꽉 차면 방 전체가 '불바다'",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 22.0,
+    "x": 0.6,
+    "y": 0.5
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "지붕을 뚫으면 '굴뚝'처럼 연기가 빠져나가 안이 보인다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 36.0,
+    "x": 0.65,
+    "y": 0.5
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "그런데 산소 얘기도 '절반'은 맞다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 40.0,
+    "x": 0.6,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "물 없이 뚫으면 불이 커져서, 물 뿌리는 팀과 '동시에' 뚫는다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 55.0,
+    "x": 0.55,
+    "y": 0.5
+   },
+   "dur": 3.6
+  },
+  {
+   "text": "연기는 위로 가니 불나면 몸은 '낮게', 구독은 꾹",
+   "img": "video/cutroof.jpg",
+   "zoom": 0.08,
+   "dur": 3.4
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: Charlotte Fire Department 공식 X @CharlotteFD 2026.7.7 바디캠 원본(Tremaine Court 주택 화재, 부상자 없음)",
+  "Buffalo Apartment Fire June25.07 pt5.jpg — DragonFire1024(위키뉴스), CC BY-SA 3.0, 위키미디어 커먼즈",
+  "Cut through the roof (5442141).jpg — U.S. Army Spc. Samantha Hall(DVIDS), 퍼블릭 도메인, 위키미디어 커먼즈"
+ ],
+ "sources": [
+  {
+   "publisher": "WBTV 'Watch: Flames burst through roof as lightning ignites multiple house fires in Charlotte' — 바디캠 영상, 부상자 없음",
+   "date": "2026.7.7",
+   "url": "https://www.wbtv.com/2026/07/07/watch-flames-burst-through-roof-lightning-ignites-multiple-house-fires-charlotte/"
+  },
+  {
+   "publisher": "Boardman Township Fire FAQ 'Why do I see firefighters cutting holes in the roof?' — 연기·가스 배출, 시야 확보, 백드래프트·플래시오버 위험↓",
+   "url": "https://www.boardmantwp.com/fire/qa_faqs/why-do-i-see-firefighters-cutting-holes-in-the-roof-of-a-bu"
+  },
+  {
+   "publisher": "Hudson NH 소방서 FAQ 'Why are windows broken or holes cut in the roof during a fire?'",
+   "url": "https://www.hudsonnh.gov/node/6151"
+  },
+  {
+   "publisher": "테네시 주 소방국 'Most Home Fire Deaths Caused by Smoke, Not Flames' — 몸을 낮춰 연기 아래로 탈출",
+   "date": "2018.4.17",
+   "url": "https://www.tn.gov/commerce/news/2018/4/17/state-fire-marshal--most-home-fire-deaths-caused-by-smoke--not-flames.html"
+  },
+  {
+   "publisher": "FireRescue1 'Fireground ventilation: tactical considerations from UL's FSRI research' — 물 없이 환기하면 열 방출↑·급격한 확산, 진압과 동시 진행 필수",
+   "url": "https://www.firerescue1.com/ventilation/fireground-ventilation-tactical-considerations-from-uls-fsri-research"
+  }
+ ],
+ "_note": "v1.mp4 = X @CharlotteFD/status/2074523018252980707 (960x544, 72초, 바디캠, 워터마크·자막 없음). 쓰는 구간 10~13·14.5~17.9·22~25.4·36~39.4·40~43·50.5~53.5·55~58.6초. 원본 소리 = 현장음(톱·불 소리, 말소리 거의 없음) 0.3. buffalo6.jpg 는 안 씀."
+}
