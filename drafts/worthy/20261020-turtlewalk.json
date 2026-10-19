@@ -1,0 +1,133 @@
+{
+ "id": "20261020-turtlewalk",
+ "media": "media/20261020-turtlewalk",
+ "topic": "새끼 바다거북을 바다에 바로 넣지 않고 모래 위에 내려놓는 이유 — 스스로 해변을 걸으며 고향 해변의 자기장을 몸에 새기는 것으로 알려졌고(암컷은 수십 년 뒤 그 자기장을 따라 같은 해변으로 돌아옴, 2015 Current Biology), 이 걸음이 바다에서 천적을 벗어나는 '헤엄 폭주'를 켠다. 수컷은 이 첫걸음이 평생 마지막 육지. 불빛을 바다로 착각하니 해변에선 플래시 금지",
+ "hook": {
+  "t": "새끼 거북의 첫걸음에\n숨겨진 '비밀'ㄷㄷ"
+ },
+ "credit": "영상: TikTok @theurbanbotanist · Jean-Lou Justine(커먼즈)",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "새끼 거북이 '한 바구니', 그런데 물에는 안 넣는다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 9.0,
+    "x": 0.5,
+    "y": 0.65
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "바다 코앞인데 굳이 '모래' 위에 내려놓는다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 36.3,
+    "x": 0.5,
+    "y": 0.8
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "바로 물에 넣어 주면 더 안전하지 않을까?",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 42.0,
+    "x": 0.5,
+    "y": 0.8
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "알고 보니 이 짧은 길이 평생 쓸 '지도'다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 47.0,
+    "x": 0.5,
+    "y": 0.75
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "모래를 걸으며 고향 해변의 '자기장'을 몸에 새긴다고 알려졌다",
+   "video": {
+    "src": "video/crawl.webm",
+    "start": 0.0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.8
+  },
+  {
+   "text": "수십 년 뒤 암컷은 그 자기장을 따라 '같은 해변'에 알을 낳으러 온다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 19.0,
+    "x": 0.5,
+    "y": 0.75
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "이 걸음이 천적을 벗어나는 '헤엄 폭주'를 켜는 신호이기도 하다",
+   "video": {
+    "src": "video/crawl.webm",
+    "start": 5.0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.6
+  },
+  {
+   "text": "게다가 수컷에겐 이 걸음이 평생 마지막 '육지'다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 44.0,
+    "x": 0.5,
+    "y": 0.8
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "불빛을 바다로 착각하니 해변에선 '플래시' 끄기, 구독은 꾹",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 39.0,
+    "x": 0.5,
+    "y": 0.9
+   },
+   "dur": 3.4
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @theurbanbotanist 'Releasing Baby Sea Turtles into the Wild' 원본(멕시코 푸에르토바야르타 보호소의 올리브리들리 새끼 방류, 2022.3)",
+  "Hatchling of loggerhead sea turtle (Caretta caretta) running to sea.webm — Jean-Lou Justine(2016.7.23 미국 플로리다 새니벌섬), CC BY-SA 4.0, 위키미디어 커먼즈"
+ ],
+ "sources": [
+  {
+   "publisher": "Live Science 'Sea Turtles Use Earth's Magnetic Field to Find Home' — 노스캐롤라이나대 J. Roger Brothers·Kenneth Lohmann, Current Biology, 플로리다 붉은바다거북 19년(1993~2011) 둥지 기록",
+   "date": "2015.1.15",
+   "url": "https://www.livescience.com/49468-turtles-migration-magnetic-field.html"
+  },
+  {
+   "publisher": "Olive Ridley Project 'Nesting Beach Code of Conduct' — 새끼를 만지거나 양동이·물에 두지 말고 스스로 달려가게 둘 것, 이 걸음으로 해변의 자기 신호를 각인, 흰 불빛·플래시 금지",
+   "url": "https://oliveridleyproject.org/wp-content/uploads/2021/09/Nesting_Beach_Code-of-Conduct_Olive-Ridley_Project.pdf"
+  },
+  {
+   "publisher": "Loggerhead Marinelife Center 'You asked, we answered' — 플로리다애틀랜틱대 Jeanette Wyneken 박사: 스스로 나온 새끼는 '과잉 헤엄' 기간으로 연안 천적을 빠르게 벗어남",
+   "url": "https://marinelife.org/you-asked-we-answered/"
+  },
+  {
+   "publisher": "USF 세인트피터즈버그 'How Florida's sea turtle hatchlings find the ocean in the dark' — 인공 불빛이 새끼를 바다 반대로 이끔, 수컷은 첫 기어가기 때만 육지에",
+   "date": "2026.7.29",
+   "url": "https://www.stpetersburg.usf.edu/news/2026/how-floridas-sea-turtle-hatchlings-find-the-ocean-in-the-dark.aspx"
+  }
+ ],
+ "_note": "v1.mp4 = TikTok @theurbanbotanist/video/7071402601819999493 (576x1024, 59.7초, 원본 영어 캡션은 화면 위쪽 0.2~0.5 → y 0.75~1.0 으로 피함, 8~13초는 캡션 없음). 말소리·틱톡 음악이라 원본 소리 끔. crawl.webm = 커먼즈 Jean-Lou Justine 1280x720 10.6초. 쓰는 구간 v1 9~12·19~22·36.3~39.3·39~42.4·42~45·44~47.2·47~50.2초."
+}
