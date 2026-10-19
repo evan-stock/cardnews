@@ -2,7 +2,7 @@
  "id": "20261019-eiffelflag",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-19T14:53:22.050307+09:00",
  "publish_at": "2026-10-19T15:00:00+09:00",
  "topic": "에펠탑 꼭대기 팔레스타인 국기(2026.5.15, 10월 시위 무관) — 표지 사진 + 영상 + CTA",
@@ -51,5 +51,8 @@
   "media/20261019-eiffelflag/03.jpg"
  ],
  "tg_msg": 574,
- "decided_at": "2026-10-19T14:53:24.747914+09:00"
+ "decided_at": "2026-10-19T14:53:24.747914+09:00",
+ "ig_media_id": "18642293662019388",
+ "permalink": "https://www.instagram.com/p/DeqkQOxlHeC/",
+ "published_at": "2026-10-19T15:02:01.748025+09:00"
 }
