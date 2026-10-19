@@ -2,7 +2,7 @@
  "id": "20261019-aitoyspy",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-19T19:38:37.292408+09:00",
  "publish_at": "2026-10-19T20:00:00+09:00",
  "topic": "중국 AI 반려 로봇(에일릭·에일리코) 대화 수백만 건 베이징 서버에 노출 + 원격 조작 가능",
@@ -64,5 +64,8 @@
   "media/20261019-aitoyspy/05.jpg"
  ],
  "tg_msg": 601,
- "decided_at": "2026-10-19T19:38:39.199607+09:00"
+ "decided_at": "2026-10-19T19:38:39.199607+09:00",
+ "ig_media_id": "18079357910391082",
+ "permalink": "https://www.instagram.com/p/DerGnjdlV7E/",
+ "published_at": "2026-10-19T20:02:28.217039+09:00"
 }
