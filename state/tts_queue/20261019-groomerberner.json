@@ -1,0 +1,51 @@
+{
+ "id": "20261019-groomerberner",
+ "created": "2026-10-19T18:18:57.898050+09:00",
+ "items": [
+  {
+   "key": "48bd32034051",
+   "text": "미용실에 맡겨진 이 강아지, 지나가는 사람마다 웃어줍니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "그런데 진짜 엄마가 나타나자"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "fd3225a994ca",
+   "text": "그런데 진짜 엄마가 나타나자",
+   "ctx": {
+    "previous_text": "미용실에 맡겨진 이 강아지, 지나가는 사람마다 웃어줍니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "9209cd7723f9",
+   "text": "버니즈는 털갈이 철엔 매일 빗질해 주는 게 좋다고 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
