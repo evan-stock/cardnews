@@ -1,0 +1,66 @@
+{
+ "id": "20261019-dogcat",
+ "created": "2026-10-19T13:26:25.471539+09:00",
+ "items": [
+  {
+   "key": "618e992180ed",
+   "text": "길에서 구조된 이 강아지, 요즘 짝사랑 중입니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "5558644cfa05",
+   "text": "그 뒤로 강아지는 문 앞에서 잠들기 시작했습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "2a91d685c5e4",
+   "text": "주인이 밥을 내놓자, 고양이는 이틀째 안 떠났습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "a792df870ca1",
+   "text": "길고양이는 만나기 전에 건강검진이 먼저라고 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}

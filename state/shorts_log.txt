@@ -1,10 +1,1 @@
-장면 1/9 silent 누적 2.5초
-장면 2/9 typecast 누적 5.9초
-장면 3/9 silent 누적 7.4초
-장면 4/9 typecast 누적 10.7초
-장면 5/9 silent 누적 11.7초
-장면 6/9 silent 누적 13.2초
-장면 7/9 silent 누적 14.8초
-장면 8/9 silent 누적 16.2초
-장면 9/9 typecast 누적 19.5초
-완성: /home/runner/work/cardnews/cardnews/media/20261018-vacuumbowie/short.mp4 (19.5초, TTS ['silent', 'typecast'])
+⏳ 4개 장면 목소리를 맥북에서 만드는 중
