@@ -1,7 +1,7 @@
 {
  "id": "20261019-pointcall",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-19T13:54:00.949469+09:00",
  "publish_at": "2026-10-19T13:54:00.949484+09:00",
  "publish_now": true,
@@ -35,5 +35,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 561
+ "tg_msg": 561,
+ "decided_at": "2026-10-19T14:01:58.238404+09:00",
+ "yt_id": "uxmKRzN9DoU",
+ "permalink": "https://youtube.com/shorts/uxmKRzN9DoU",
+ "published_at": "2026-10-19T14:02:02.153040+09:00"
 }
