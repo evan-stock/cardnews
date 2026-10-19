@@ -1,0 +1,51 @@
+{
+ "id": "20261019-dogcat",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-19T13:30:57.613671+09:00",
+ "publish_at": "2026-10-19T13:30:57.613689+09:00",
+ "publish_now": true,
+ "topic": "길에서 구조된 강아지 리스가 매일 찾아오는 길고양이를 짝사랑(장난감 선물, 못 만나게 하자 삐짐) — 12:57 사연형, 밈+내레이션",
+ "sources": [
+  {
+   "publisher": "TikTok @brookemorosca",
+   "url": "https://www.tiktok.com/@brookemorosca/video/7600583836665203999",
+   "date": "2026.1"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/tears-rescue-dog-falling-love-stray-cat-chosen-11463640",
+   "date": "2026.2.4"
+  }
+ ],
+ "seconds": 24.29,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261019-dogcat/short.mp4"
+ ],
+ "app_file": "media/20261019-dogcat/short_nobgm.mp4",
+ "yt": {
+  "title": "길냥이한테 반한 유기견, 못 만나게 하자 삐짐ㅋㅋ #shorts",
+  "description": "뉴올리언스 길거리에서 구조된 검정 강아지 리스(Rhysand). 어느 날부터 길고양이 한 마리가 베란다에 찾아오기 시작했고, 리스는 고양이가 올 때마다 꼬리를 흔들며 유리문 앞을 지키고, 문 앞에서 잠들고, 장난감을 물어다 바쳤습니다. 주인이 밥과 물을 내놓자 고양이는 이틀 가까이 베란다를 떠나지 않았다고 합니다.\n\n주인은 고양이가 아직 동물병원 검사를 받지 않아 둘을 바로 만나게 하지는 않았습니다. Newsweek에 따르면 수의사들은 길고양이를 집 반려동물과 만나게 하기 전에 기생충과 고양이 백혈병(FeLV)·고양이 면역결핍(FIV) 바이러스 등 건강검진부터 받으라고 권합니다.\n\n여러분이라면 둘을 만나게 해주실 건가요?\n\n영상: TikTok @brookemorosca\n참고: Newsweek(2026.2.4)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @brookemorosca 2026.1, Newsweek 2026.2.4\n사진·영상: TikTok @brookemorosca\n음성: Typecast\n\n#shorts #강아지 #고양이 #길고양이 #유기견",
+  "tags": [
+   "강아지",
+   "고양이",
+   "길고양이",
+   "유기견",
+   "강아지고양이",
+   "짝사랑",
+   "강아지반응",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "970938d45d6c",
+ "tg_msg": 557
+}
