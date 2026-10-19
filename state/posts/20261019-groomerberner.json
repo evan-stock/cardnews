@@ -1,7 +1,7 @@
 {
  "id": "20261019-groomerberner",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-19T18:23:53.176294+09:00",
  "publish_at": "2026-10-19T18:23:53.176312+09:00",
  "publish_now": true,
@@ -52,5 +52,9 @@
   "channel": null
  },
  "draft_hash": "d466c848f64b",
- "tg_msg": 583
+ "tg_msg": 583,
+ "decided_at": "2026-10-19T18:25:44.668582+09:00",
+ "yt_id": "o5-qVzcQ5hQ",
+ "permalink": "https://youtube.com/shorts/o5-qVzcQ5hQ",
+ "published_at": "2026-10-19T18:25:47.015330+09:00"
 }
