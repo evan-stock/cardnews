@@ -4,3 +4,11 @@ ERROR: [twitter] 2111881229113159868: No video could be found in this tweet
 실패: https://x.com/PeakHobby/status/2111881229113159868
 ERROR: [twitter] 2111935708596474049: No video could be found in this tweet
 실패: https://x.com/marvin1764/status/2111935708596474049
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] RcpANAiIFiM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: https://www.youtube.com/shorts/RcpANAiIFiM
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] SZQAwZZKE4o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: https://www.youtube.com/shorts/SZQAwZZKE4o
+ERROR: [franceinfo] le-gerant-d-un-micromania-de-nice-filme-tentant-d-empecher-le-pillage-de-son-magasin-le-17-octobre-met-en-garde-contre-de-fausses-cagnottes-en-ligne_8243827: Unable to extract video id; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gerant-d-un-micromania-de-nice-filme-tentant-d-empecher-le-pillage-de-son-magasin-le-17-octobre-met-en-garde-contre-de-fausses-cagnottes-en-ligne_8243827.html
