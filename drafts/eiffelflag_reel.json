@@ -1,0 +1,50 @@
+{
+ "id": "20261019-eiffelflag",
+ "slot": "evening",
+ "mode": "send",
+ "topic": "에펠탑 꼭대기 팔레스타인 국기 영상(2026.5.15, 10월 시위 무관) 릴스",
+ "category": "해외 사건 · 실제 영상",
+ "core": "2026.5.15 나크바의 날, 멸종저항(XR) 활동가들이 에펠탑에 대형 팔레스타인 국기. 오후 5시 직전 신고, 6명 체포(무단 진입·타인 위험 혐의). 이후 경비 강화. 이번 10월 시위와 무관.",
+ "risk": "이·팔 소재 → 정치(유보 중, 사용자 직접 요청). 영상 속 위치(꼭대기)는 보도(1층 레스토랑 지붕)와 다르고 안테나 국기는 요르단 국기 모양 — 사용자 판단으로 실제 영상 사용, 본문에 '5월 일·10월 시위 무관' 명시, 층·국기 종류는 본문에서 언급 안 함. 경찰 입장+단체 주장 양쪽. 실제 영상 태그 없음.",
+ "emotion": "놀람",
+ "caption": "🚨 파리의 상징 에펠탑 꼭대기에 거대한 국기가 내걸린 영상이 다시 퍼지고 있습니다. 이번 10월 프랑스 시위 때가 아니라, 지난 5월에 있었던 일입니다.\n\n지난 5월 15일(현지시각)은 1948년 이스라엘 건국 과정에서 팔레스타인 사람들이 고향을 잃은 일을 기억하는 '나크바의 날'이었습니다. 이날 활동가들이 에펠탑에 대형 팔레스타인 국기를 내걸었고, 기후 활동 단체 멸종저항(Extinction Rebellion)이 자신들이 한 일이라고 밝혔습니다.\n\n현지 보도에 따르면 오후 5시 직전 신고가 들어왔고, 경찰은 6명을 체포했습니다. 허가 없이 보호 구역에 들어가 다른 사람을 위험에 빠뜨린 혐의입니다. 단체는 가자지구 주민들에게 보내는 연대의 메시지라고 주장했고, 경찰은 이후 에펠탑 경비를 강화했습니다.\n\n에펠탑에 국기를 내건 이 시위, 어떻게 보시나요? A. 표현의 자유 B. 문화유산 무단 점거 💬\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+ "hashtags": [
+  "에펠탑",
+  "파리",
+  "팔레스타인",
+  "해외이슈"
+ ],
+ "sources": [
+  {
+   "publisher": "Brussels Times",
+   "date": "2026.05.16",
+   "url": "https://www.brusselstimes.com/belgium/2135465/six-arrested-after-activists-hang-large-palestinian-flag-on-eiffel-tower"
+  },
+  {
+   "publisher": "Dawn(AFP)",
+   "date": "2026.05.17",
+   "url": "https://www.dawn.com/news/2000814"
+  },
+  {
+   "publisher": "Roya News",
+   "date": "2026.05.16",
+   "url": "https://en.royanews.tv/news/69888/Six-detained-after-activists-unfurl-massive-Palestinian-flag-on-Eiffel-Tower"
+  }
+ ],
+ "photo_credits": [
+  "현장 촬영 SNS 영상"
+ ],
+ "format": "reel",
+ "video": {
+  "src": "video/v_reel.mp4",
+  "start": 0,
+  "dur": 6.7,
+  "x": 0.5,
+  "y": 0.5
+ },
+ "overlay_text": false,
+ "cover": {
+  "img": "cand/reel_cover_final.jpg",
+  "final": true
+ }
+}
