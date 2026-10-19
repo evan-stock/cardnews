@@ -50,16 +50,47 @@ def _wait_ready(cid, tries=10):
     raise RuntimeError(f"컨테이너 {cid} 준비 시간 초과")
 
 
-def _publish(cid, tries=6):
-    """media_publish. '아직 준비 안 됨'(2207027) 오류는 잠시 뒤 다시 시도."""
+def _already_published(cid, caption=None):
+    """컨테이너가 실제로는 이미 게시됐는지 확인. 게시됐으면 미디어 id, 아니면 None.
+    (2026.10.19 사고: 첫 media_publish 가 오류로 응답했지만 실제로는 게시돼 있었고,
+     재시도가 같은 캐러셀을 한 번 더 올림 → 재시도 전에 반드시 이 확인을 거친다)"""
+    ig = env("IG_USER_ID" + _sfx())
+    try:
+        st = _req("GET", cid, fields="status_code").get("status_code")
+    except Exception:
+        st = None
+    try:
+        recent = _req("GET", f"{ig}/media", fields="id,caption,timestamp", limit=10).get("data", [])
+    except Exception as e:
+        print("최근 게시물 확인 실패:", e)
+        recent = []
+    head = (caption or "")[:80]
+    if head:
+        for m in recent:
+            if (m.get("caption") or "")[:80] == head:
+                return m["id"]
+    if st == "PUBLISHED":
+        # 캡션 비교가 안 되는 경우(스토리 등): 가장 최근 게시물을 그 결과로 본다
+        return recent[0]["id"] if recent else "published"
+    return None
+
+
+def _publish(cid, tries=6, caption=None):
+    """media_publish. '아직 준비 안 됨'(2207027) 오류는 잠시 뒤 다시 시도.
+    오류·시간 초과가 나도 실제로는 게시됐을 수 있으므로, 다시 보내기 전에 이미 게시됐는지 확인한다."""
     ig = env("IG_USER_ID" + _sfx())
     for k in range(tries):
         try:
             return _req("POST", f"{ig}/media_publish", creation_id=cid)["id"]
-        except RuntimeError as e:
+        except Exception as e:
+            time.sleep(15)
+            done = _already_published(cid, caption)
+            if done:
+                print(f"게시 응답은 오류였지만 이미 게시돼 있어 다시 보내지 않음: {done} ({str(e)[:200]})")
+                return done
             if "2207027" not in str(e) or k == tries - 1:
                 raise
-            time.sleep(20)
+            time.sleep(5)
 
 
 def publish_carousel(image_urls, caption):
@@ -68,7 +99,7 @@ def publish_carousel(image_urls, caption):
         one = _req("POST", f"{ig}/media", image_url=image_urls[0], caption=caption[:2200])["id"]
         _wait_ready(one)
         time.sleep(5)
-        mid = _publish(one)
+        mid = _publish(one, caption=caption)
         link = ""
         try:
             link = _req("GET", mid, fields="permalink").get("permalink", "")
@@ -86,7 +117,7 @@ def publish_carousel(image_urls, caption):
     car = _req("POST", f"{ig}/media", media_type="CAROUSEL", children=",".join(children), caption=caption[:2200])["id"]
     _wait_ready(car)
     time.sleep(10)
-    mid = _publish(car)
+    mid = _publish(car, caption=caption)
     link = ""
     try:
         link = _req("GET", mid, fields="permalink").get("permalink", "")
@@ -102,7 +133,7 @@ def publish_reel(video_url, caption, share_to_feed=False, cover_url=None):
     cid = _req("POST", f"{ig}/media", media_type="REELS", video_url=video_url,
                caption=caption[:2200], share_to_feed=share_to_feed, **extra)["id"]
     _wait_ready(cid, tries=20)
-    mid = _publish(cid)
+    mid = _publish(cid, caption=caption)
     link = ""
     try:
         link = _req("GET", mid, fields="permalink").get("permalink", "")
