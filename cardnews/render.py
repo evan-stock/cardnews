@@ -7,7 +7,7 @@ from playwright.sync_api import sync_playwright
 from .common import CFG, ROOT
 
 TEMPLATE = ROOT / "templates" / "renderer.html"
-LOGO = str(ROOT / "brand" / "wordmark_A.png")
+LOGO = str(ROOT / CFG["brand"].get("logo", "brand/logo_opt1.png"))
 
 
 def _prep(path):
@@ -51,7 +51,7 @@ def render(slides, outdir, sty=None, col=None, overlays=()):
         "sty": sty or CFG["style"]["sty"], "col": CFG["style"]["col"] if col is None else col,
         "ch": CFG["brand"]["channel_name"], "hd": CFG["brand"]["handle"],
         "logo": _data_url(LOGO) if os.path.exists(LOGO) else None,
-        "slides": [{"t": s["t"], "b": s["b"], "sub": s.get("sub", ""), "lay": s.get("lay", ""), "circle": s.get("circle"), "img": _data_url(_prep(s["image"])) if s.get("image") else None,
+        "slides": [{"t": s["t"], "b": s["b"], "sub": s.get("sub", ""), "lay": s.get("lay", ""), "f1": s.get("f1", ""), "circle": s.get("circle"), "img": _data_url(_prep(s["image"])) if s.get("image") else None,
                     "inset": ({**{k: v for k, v in s["inset"].items() if k != "path"}, "img": _data_url(s["inset"]["path"])}
                               if s.get("inset") and s["inset"].get("path") else None)} for s in slides],
     }
@@ -67,12 +67,12 @@ def render(slides, outdir, sty=None, col=None, overlays=()):
           st.sty=x.sty; st.col=x.col; $('ch').value=x.ch; $('hd').value=x.hd;
           S=[];
           if(x.logo){LOGO=new Image();await new Promise(r=>{LOGO.onload=r;LOGO.onerror=r;LOGO.src=x.logo})}
-          for(const s of x.slides){const o={t:s.t,b:s.b,sub:s.sub||'',lay:s.lay||'',circle:s.circle||null};
+          for(const s of x.slides){const o={t:s.t,b:s.b,sub:s.sub||'',lay:s.lay||'',f1:s.f1||'',circle:s.circle||null};
             if(s.img){const im=new Image();await new Promise((r,j)=>{im.onload=r;im.onerror=r;im.src=s.img});if(im.naturalWidth)o.img=im}
             if(s.inset){const ii=new Image();await new Promise(r=>{ii.onload=r;ii.onerror=r;ii.src=s.inset.img});if(ii.naturalWidth)o.inset={...s.inset,im:ii}}
             S.push(o)}
           const txt=x.slides.map(s=>(s.t||'')+(s.b||'')).join('')+'팔로우하고 먼저 받아보세요오늘의쓸모';
-          try{await Promise.all([document.fonts.load('400 100px "PretendardT"',txt)].concat(['400','700','900'].map(w=>document.fonts.load(w+' 40px "Noto Sans KR"',txt))))}catch(e){}
+          try{await Promise.all([document.fonts.load('400 100px "PretendardT"',txt),document.fonts.load('400 60px "PretendardM"',txt),document.fonts.load('400 60px "PretendardL"',txt)].concat(['400','700','900'].map(w=>document.fonts.load(w+' 40px "Noto Sans KR"',txt))))}catch(e){}
           if(PROF&&!PROF.complete)await new Promise(r=>{PROF.onload=r;setTimeout(r,2000)});
         }""", payload)
         for i in range(len(slides)):

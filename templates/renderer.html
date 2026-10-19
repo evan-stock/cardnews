@@ -4,6 +4,8 @@
 <title>카드뉴스 메이커</title>
 <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Sans+KR:wght@400;700;900&display=swap" rel="stylesheet">
 <style>
+@font-face{font-family:"PretendardM";src:url("../assets/fonts/Pretendard-Medium.otf") format("opentype");font-weight:400;font-display:block}
+@font-face{font-family:"PretendardL";src:url("../assets/fonts/Pretendard-Light.otf") format("opentype");font-weight:400;font-display:block}
 @font-face{font-family:"PretendardT";src:url("../assets/fonts/Pretendard-Black.otf") format("opentype");font-weight:400;font-display:block}
 :root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);--bg:#f4f4f7;--pn:#fff;--tx:#1c1c1e;--mu:#7a7a85;--bd:#e2e2e8;--ac:#4a39d8;--sl:#eef0ff}
 html{scroll-padding-top:env(safe-area-inset-top,0px)}
@@ -108,10 +110,10 @@ function oneCover(c,s){/* 한 장 승부 표지: 사진 꽉 + 하단 어둡게 +
  const o=s.circle;if(o){const cx=o.x<=1?o.x*W:o.x,cy=o.y<=1?o.y*H:o.y,r=o.r<=1?o.r*W:o.r;c.save();c.strokeStyle='#ff2a2a';c.lineWidth=o.w||16;c.shadowColor='rgba(255,40,40,.75)';c.shadowBlur=26;c.beginPath();c.arc(cx,cy,r,0,7);c.stroke();c.restore()}
  const ls=String(s.t||'').split('\n'),l1=ls.length>1?ls[0]:'',rest=ls.length>1?ls.slice(1):ls,M=W-180,qs={q:false};
  let szB=84;c.font='400 '+szB+'px '+FT;while(szB>56&&rest.some(l=>c.measureText(l.replace(/['‘’]/g,'')).width>M)){szB-=2;c.font='400 '+szB+'px '+FT}
- let sz1=Math.round(szB*.68);c.font='400 '+sz1+'px '+F;while(sz1>36&&c.measureText(l1).width>M){sz1-=2;c.font='400 '+sz1+'px '+F}
+ const F1='"'+(s.f1||'PretendardM')+'",'+F;let sz1=Math.round(szB*.66);c.font='400 '+sz1+'px '+F1;while(sz1>36&&c.measureText(l1).width>M){sz1-=2;c.font='400 '+sz1+'px '+F1}
  const lb=LOGO&&LOGO.naturalWidth?54:0,base=H-118-lb;let y=base-(rest.length-1)*szB*1.2;
  c.save();c.shadowColor='rgba(0,0,0,.5)';c.shadowBlur=12;
- if(l1){c.font='400 '+sz1+'px '+F;c.fillStyle='rgba(255,255,255,.92)';c.textAlign='center';c.fillText(l1,W/2,y-szB*1.08)}
+ if(l1){c.font='400 '+sz1+'px '+F1;try{c.letterSpacing='-1px'}catch(e){};c.fillStyle='rgba(255,255,255,.92)';c.textAlign='center';c.fillText(l1,W/2,y-szB*1.08);try{c.letterSpacing='0px'}catch(e){}}
  c.font='400 '+szB+'px '+FT;rest.forEach((l,k)=>rich(c,l,W/2,y+k*szB*1.2,'center','#fff','#FFD84D',qs));c.restore();
  if(lb){const h=lb,w=LOGO.naturalWidth*h/LOGO.naturalHeight;c.globalAlpha=.95;c.drawImage(LOGO,(W-w)/2,H-62-h,w,h);c.globalAlpha=1}}
 function draw(cv,i){const c=cv.getContext('2d'),s=S[i],n=S.length,base=COL[st.col],light=st.col===3,P=90,M=W-P*2,first=i===0,ts=first?100:78,im=s.vid||s.img;
