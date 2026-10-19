@@ -2,7 +2,7 @@
  "id": "20261020-gokunice-reel2",
  "format": "reel",
  "slot": "lunch",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-20T02:39:26+09:00",
  "publish_at": "2026-10-20T02:39:26+09:00",
  "decided_at": "2026-10-20T02:39:26+09:00",
@@ -30,5 +30,8 @@
   "현장 촬영 SNS 영상",
   "Nice Mag"
  ],
- "manual": true
+ "manual": true,
+ "ig_media_id": "18026691734860534",
+ "permalink": "https://www.instagram.com/reel/Der1qmiDitP/",
+ "published_at": "2026-10-20T02:53:43.846190+09:00"
 }
