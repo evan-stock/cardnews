@@ -116,8 +116,19 @@ function oneCover(c,s){/* 한 장 승부 표지: 사진 꽉 + 하단 어둡게 +
  if(l1){c.font='400 '+sz1+'px '+F1;try{c.letterSpacing='-1px'}catch(e){};c.fillStyle='rgba(255,255,255,.92)';c.textAlign='center';c.fillText(l1,W/2,y-szB*1.08);try{c.letterSpacing='0px'}catch(e){}}
  c.font='400 '+szB+'px '+FT;rest.forEach((l,k)=>rich(c,l,W/2,y+k*szB*1.2,'center','#fff','#FFD84D',qs));c.restore();
  if(lb){const h=lb,w=LOGO.naturalWidth*h/LOGO.naturalHeight;c.globalAlpha=.95;c.drawImage(LOGO,(W-w)/2,H-62-h,w,h);c.globalAlpha=1}}
+function oneEnd(c,s,im){/* 한 장 승부 표지 짝 CTA: 흐린 사진 + 굵은 문구 + 얇은 한 줄 + 외곽선 팔로우 + 하단 로고 */
+ if(im){c.save();c.filter='blur(22px) brightness(.55)';fit(c,im,-60,-60,W+120,H+120);c.restore()}else{c.fillStyle='#0c0c0e';c.fillRect(0,0,W,H)}
+ c.fillStyle='rgba(0,0,0,.35)';c.fillRect(0,0,W,H);
+ const M=W-200,ls=String(s.t||'').split('\n'),qs={q:false};let sz=88;c.font='400 '+sz+'px '+FT;while(sz>56&&ls.some(l=>c.measureText(l.replace(/['‘’]/g,'')).width>M)){sz-=2;c.font='400 '+sz+'px '+FT}
+ const th=ls.length*sz*1.22,cy=H*.47;let y=cy-th/2+sz;
+ c.save();c.shadowColor='rgba(0,0,0,.45)';c.shadowBlur=14;ls.forEach((l,k)=>rich(c,l,W/2,y+k*sz*1.22,'center','#fff','#FFD84D',qs));c.restore();
+ let yb=y+(ls.length-1)*sz*1.22+78;
+ if(String(s.b||'').trim()){c.font='400 40px "PretendardM",'+F;c.fillStyle='rgba(255,255,255,.82)';c.textAlign='center';c.fillText(s.b,W/2,yb);yb+=60}
+ const hd=($('hd').value||'').trim();c.font='400 36px "PretendardM",'+F;const lab='＋ 팔로우'+(hd?'  '+hd:''),pw=c.measureText(lab).width+84,px=(W-pw)/2,py=yb+12;
+ c.strokeStyle='rgba(255,255,255,.9)';c.lineWidth=3;c.beginPath();c.roundRect(px,py,pw,84,42);c.stroke();c.fillStyle='#fff';c.textAlign='center';c.fillText(lab,W/2,py+55);
+ if(LOGO&&LOGO.naturalWidth){const h=54,w=LOGO.naturalWidth*h/LOGO.naturalHeight;c.drawImage(LOGO,(W-w)/2,H-62-h,w,h)}}
 function draw(cv,i){const c=cv.getContext('2d'),s=S[i],n=S.length,base=COL[st.col],light=st.col===3,P=90,M=W-P*2,first=i===0,ts=first?100:78,im=s.vid||s.img;
- cv.width=W;cv.height=H;c.textBaseline='alphabetic';if(n>1&&i===n-1)return endCard(c,s,i,n,im);if(first&&s.lay==='one')return oneCover(c,s);
+ cv.width=W;cv.height=H;c.textBaseline='alphabetic';if(n>1&&i===n-1)return (S[0]&&S[0].lay==='one')?oneEnd(c,s,im):endCard(c,s,i,n,im);if(first&&s.lay==='one')return oneCover(c,s);
  if(!first&&!String(s.t||'').trim()&&im&&st.sty!=='min'){fit(c,im,0,0,W,H);
   if(String(s.b||'').trim()){const g=c.createLinearGradient(0,H*.6,0,H);g.addColorStop(0,'rgba(0,0,0,0)');g.addColorStop(1,'rgba(0,0,0,.85)');c.fillStyle=g;c.fillRect(0,H*.6,W,H*.4);
    c.font='700 44px '+F;c.fillStyle='#fff';c.textAlign='left';const ls=wrap(c,s.b,M);ls.forEach((l,k)=>c.fillText(l,P,H-235-(ls.length-1-k)*62))}
