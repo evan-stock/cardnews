@@ -2,22 +2,86 @@
  {
   "id": "20261020-firefighter",
   "slot": "evening",
-  "mode": "collect",
-  "topic": "보르도 '불붙은 소방관' 사진 — 화염병·웃으며 구경? 실제는 스프레이 캔 폭발",
-  "image_pages": [
-   "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/blocage-des-lycees-un-pompier-blesse-par-l-explosion-d-un-aerosol-en-flammes-rue-sainte-catherine-a-bordeaux-3425264.html",
-   "https://actu17.fr/faits-divers/blocus-des-lycees-un-pompier-blesse-par-l-explosion-d-un-aerosol-a-bordeaux.html",
-   "https://www.bvoltaire.fr/breve-bordeaux-un-pompier-prend-feu-a-un-blocus-lyceen/",
-   "https://cedarnews.net/francais/1024824/photo-un-pompier-francais-entoure-par-les-flammes-lors-des-manifestations-lyceennes-a-bordeaux/",
-   "https://cedarnews.net/newstasks/1024656/photo-french-firefighter-engulfed-in-flames-during-school-protests-in-bordeaux/",
-   "https://www.titrespresse.com/23337522603/sainte-catherine-bordeaux",
-   "https://www.rnz.co.nz/news/world/1676650/french-school-protests-spread-as-fires-blockades-deepen-unrest"
+  "mode": "render",
+  "topic": "보르도 '불붙은 소방관' 사진 — 화염병·웃으며 구경? 현지 보도는 스프레이 캔 폭발",
+  "category": "해외 사건 + 팩트체크(반전)",
+  "emotion": "놀람(반전: 알고 보니) + 분노 정리",
+  "core": "2026.9.29 12:30경 보르도 생트카트린 거리 몽테뉴 고교 앞, 고교생 봉쇄 시위. 쓰레기통 바리케이드 앞 불을 밟아 끄던 소방관 주변에서 불 속 스프레이 캔 폭발. 다리 등 화상, 대학병원 치료 후 며칠 업무불능(ITT), 당일 복귀·고소 예정. 수사: 고의 방화로 중상 유발 혐의. 도지사 소피 브로카·교육감 규탄. 한국 커뮤니티 버전 '화염병 던지고 모두 웃으며 촬영'은 현지 보도에 없음.",
+  "risk": "고교생(미성년) 얼굴 흐림 처리. 시위 정당성 판단 없음. 불을 지른 행위 자체는 방화 수사 중임을 명시(시위 옹호로 읽히지 않게). '웃었다/안 웃었다'는 단정하지 않고 '현지 보도엔 없다'로만.",
+  "slides": [
+   {
+    "t": "'화염병 맞은 소방관' 그 사진\n'진짜 이야기'는 달랐다",
+    "lay": "one"
+   },
+   {
+    "sub": "9월 29일 프랑스 보르도",
+    "t": "고교생 봉쇄 시위 현장\n소방관이 '불길'에 휩싸였다",
+    "b": "학교 앞을 막은 바리케이드 근처에 불이 나자, 소방관이 다가가 발로 밟아 끄려던 순간이었습니다."
+   },
+   {
+    "sub": "한국 커뮤니티에 퍼진 설명",
+    "t": "\"화염병 던지고\n다들 '웃으며' 찍었다\"",
+    "b": "이 사진은 이런 설명과 함께 '올해의 사진'처럼 퍼졌습니다. 그런데 현지 보도 내용은 다릅니다."
+   },
+   {
+    "sub": "현지 언론 보도를 보면",
+    "t": "화염병이 아니라\n불 속 '스프레이 캔'",
+    "b": "프랑스3·actu17 등은 불 속에 있던 스프레이 캔이 터졌다고 전했습니다. 누가 소방관에게 무언가를 던졌다는 내용은 없습니다."
+   },
+   {
+    "sub": "퍼진 이야기 vs 현지 보도",
+    "t": "화염병 → '스프레이 캔 폭발'\n노린 공격 → 확인 안 됨",
+    "b": "학생들이 웃으며 구경했다는 대목도 현지 보도에는 나오지 않습니다. 사진 한 장에 설명이 덧붙으며 이야기가 커졌습니다."
+   },
+   {
+    "sub": "그렇다고 괜찮은 일은 아니다",
+    "t": "다리 화상·며칠 병가\n'방화' 혐의 수사 중",
+    "b": "소방관은 병원 치료 뒤 그날 복귀했지만 며칠간 일할 수 없다는 판정을 받았습니다. 도지사는 구조하는 사람을 위험에 빠뜨릴 시위는 없다고 규탄했습니다."
+   },
+   {
+    "t": "사진 한 장만 보고\n'믿었던' 친구에게",
+    "b": "팔로우하면 매일 화제 소식, 사실 확인까지"
+   }
   ],
-  "read_pages": [
-   "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/blocage-des-lycees-un-pompier-blesse-par-l-explosion-d-un-aerosol-en-flammes-rue-sainte-catherine-a-bordeaux-3425264.html",
-   "https://www.bvoltaire.fr/breve-bordeaux-un-pompier-prend-feu-a-un-blocus-lyceen/"
+  "images": [
+   "viral_blur",
+   "press01",
+   "viral_blur",
+   "press11",
+   "press12m",
+   "press01z",
+   "cta"
   ],
-  "slides": [{"t": "x"}],
-  "sources": []
+  "caption": "[‘화염병 맞은 소방관’ 그 사진, 진짜 이야기는 달랐습니다]\n\n최근 한국 커뮤니티에서 프랑스 시위 현장에서 불길에 휩싸인 소방관 사진이 ‘시위대가 화염병을 던졌고 모두 웃으며 휴대폰으로 찍었다’는 설명과 함께 퍼졌습니다. 이 일은 9월 29일(현지시각) 낮 12시 30분쯤 프랑스 보르도 생트카트린 거리, 몽테뉴 고등학교 앞에서 일어났습니다. 당시 고교생들은 교사 부족·낡은 학교 등에 항의하는 전국 봉쇄 시위에 참여하고 있었습니다.\n\n프랑스3(France 3)와 actu17 보도에 따르면, 학생들이 쓰레기통으로 만든 바리케이드 앞에 불이 나자 소방관이 다가가 발로 밟아 끄려 했고, 그 순간 불 속에 있던 스프레이 캔이 터지며 불길이 그를 덮쳤습니다. 현지 보도에는 누군가 소방관에게 화염병을 던졌다거나, 학생들이 웃으며 구경했다는 내용은 나오지 않습니다.\n\n그렇다고 가벼운 일은 아닙니다. 소방관은 다리 등에 화상을 입어 대학병원 치료를 받았고, 그날 오후 복귀했지만 며칠간 업무를 할 수 없다는 판정을 받았습니다. 수사 당국은 고의 방화로 중상을 입힌 혐의로 수사를 시작했고, 지롱드 도지사와 보르도 교육감은 이 일을 강하게 규탄했습니다. 사진 속 학생들은 미성년자일 수 있어 얼굴을 흐리게 처리했습니다.\n\n여러분 생각은? A. 의도와 상관없이 불 지른 쪽 책임이 크다 B. 사진에 붙은 설명부터 의심해야 한다 💬\n\n사진 한 장만 보고 믿었던 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "hashtags": [
+   "프랑스시위",
+   "보르도",
+   "소방관",
+   "팩트체크",
+   "해외이슈"
+  ],
+  "sources": [
+   {
+    "publisher": "France 3 Nouvelle-Aquitaine",
+    "date": "2026.09.29",
+    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/blocage-des-lycees-un-pompier-blesse-par-l-explosion-d-un-aerosol-en-flammes-rue-sainte-catherine-a-bordeaux-3425264.html"
+   },
+   {
+    "publisher": "actu17",
+    "date": "2026.09.29",
+    "url": "https://actu17.fr/faits-divers/blocus-des-lycees-un-pompier-blesse-par-l-explosion-d-un-aerosol-a-bordeaux.html"
+   },
+   {
+    "publisher": "Boulevard Voltaire",
+    "date": "2026.09.29",
+    "url": "https://www.bvoltaire.fr/breve-bordeaux-un-pompier-prend-feu-a-un-blocus-lyceen/"
+   }
+  ],
+  "photo_credits": [
+   "온라인 확산 사진(얼굴 흐림 처리)",
+   "France 3 Nouvelle-Aquitaine",
+   "actu17",
+   "Boulevard Voltaire"
+  ]
  }
 ]
