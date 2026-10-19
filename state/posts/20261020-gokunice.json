@@ -2,7 +2,7 @@
  "id": "20261020-gokunice",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-20T02:33:36.803408+09:00",
  "publish_at": "2026-10-20T02:29:56+09:00",
  "topic": "니스 마이크로마니아 직원 피에르, 약탈범 막다 걷어차여도 다시 일어남 — 손오공 포스터 옆 '니스의 손오공'",
@@ -43,5 +43,9 @@
   "media/20261020-gokunice/01.jpg",
   "media/20261020-gokunice/02.jpg"
  ],
- "tg_msg": 636
+ "tg_msg": 636,
+ "decided_at": "2026-10-20T02:35:16.807192+09:00",
+ "ig_media_id": "18098887361422242",
+ "permalink": "https://www.instagram.com/p/Derzu4xGpwc/",
+ "published_at": "2026-10-20T02:36:40.684072+09:00"
 }
