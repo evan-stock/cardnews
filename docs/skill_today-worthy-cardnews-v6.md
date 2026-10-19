@@ -32,6 +32,8 @@ description: "@today.worthy(오늘의쓸모) 카드뉴스를 채팅에서 조사
   - 캐러셀과 릴스를 같은 소재로 낼 때 릴스는 id를 따로(`<id>-reel`) 둔다. 캐러셀 폴더의 옛 `reel.mp4`는 텔레그램 중복 전송을 막으려 `reel_old.mp4`로 이름을 바꾼다.
   - 릴스 커버를 AI 이미지로 할 때: 4:5 이미지는 가로 1080에 맞춰 위에 두고 아래는 어둡게 이어 9:16을 만든 뒤 같은 overlay를 얹는다. Gemini ✦ 워터마크는 옆 바닥 패치로 덮고 흐리게 처리했다.
 - **승인 즉시 게시**: 텔레그램 승인 누르면 바로 올라가게 하려면 원고에 `"publish_at"`=지금 시각(KST ISO)을 넣고 `approved`는 빼고 `mode: send`. 릴스를 바로 올리라고 하면 `state/posts/<id>-reel.json`에 `"format":"reel","status":"approved","publish_at"=지금`, `files`, `cover`, `caption_full`을 써서 커밋(API로 올린 릴스는 나중에 음악을 못 넣는다).
+- **격자·릴스 분리 운용(2026.10.20 사용자 결정)**: 프로필 격자는 캐러셀만, 릴스는 릴스 탭에만(`config.yaml` reels.share_to_feed: false, 자동 게시 코드도 이 값을 따름). 이유: 격자는 릴스 커버 가운데 3:4만 보여서 릴스 제목 끝줄이 잘린다. 고정 게시물은 잘 된 캐러셀로. 게시물별로 격자에도 넣으려면 state에 `share_to_feed: true`.
+- **릴스를 state 파일로 직접 올릴 때는 감시 작업을 같이 켠다**: `gh api -X POST repos/evan-stock/cardnews/actions/workflows/pipeline.yml/dispatches -f ref=main -f 'inputs[cmd]=watch'`(state만 커밋하면 아무것도 안 돌아서 2026.10.20 10분 넘게 지연).
 - **되돌리기(버전)**: 옛 디자인 직전 저장소 상태는 브랜치 `design-v1-before-oneshot`(f353bc2), 새 디자인 확정 시점은 브랜치 `design-v2-oneshot`. 게시물 단위로는 `lay`를 빼면 옛 틀. 로고만 되돌리려면 `config.yaml` `brand.logo`를 바꾼다. 옛 스킬은 today-worthy-cardnews-v5.
 
 ## 목표와 판단 기준
