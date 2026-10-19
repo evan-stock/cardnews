@@ -2,7 +2,7 @@
  "id": "20261018-braincomputer",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-18T11:12:56.365326+09:00",
  "publish_at": "2026-10-19T12:30:00+09:00",
  "topic": "호주 코티컬랩스, 사람 뇌세포로 돌아가는 바이오컴퓨터 CL1과 '뇌세포 데이터센터'",
@@ -85,5 +85,8 @@
   "media/20261018-braincomputer/08.jpg"
  ],
  "tg_msg": 453,
- "decided_at": "2026-10-18T11:13:00.352518+09:00"
+ "decided_at": "2026-10-18T11:13:00.352518+09:00",
+ "ig_media_id": "18145570846586444",
+ "permalink": "https://www.instagram.com/p/DeqTEj9G4l6/",
+ "published_at": "2026-10-19T12:32:04.504281+09:00"
 }
