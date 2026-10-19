@@ -1,0 +1,40 @@
+{
+ "id": "20261019-roofvent",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-19T18:47:22.271918+09:00",
+ "publish_at": "2026-10-19T18:47:22.271928+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 소방관이 불난 집 지붕에 구멍 뚫는 이유(배연 — 사망 원인 대부분인 연기를 빼냄, 단 물과 동시에)",
+ "sources": [],
+ "seconds": 29.2,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261019-roofvent/short_card.mp4"
+ ],
+ "yt": {
+  "title": "소방관이 지붕 뚫는 이유ㄷㄷ #shorts",
+  "description": "불타는 집 지붕 위에서 소방관이 일부러 구멍을 뚫는 이유. 집에 불이 나 숨지는 사람 대부분은 불꽃이 아니라 연기 때문이라, 천장에 갇힌 뜨겁고 독한 연기를 굴뚝처럼 빼내 안을 보이게 하고 방 전체가 한순간 불바다가 되는 위험(플래시오버)을 줄입니다. 단, 물 없이 뚫으면 산소가 들어가 불이 더 커지기 때문에 물 뿌리는 팀과 동시에 뚫습니다.\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n※ 지붕 배연은 진압과 맞추기 어렵고 위험해, UL 화재안전연구소 실험 이후 창문 등 다른 배연을 먼저 쓰는 소방서도 있습니다. 집에 불이 나면 몸을 낮춰 연기 아래로 대피하세요.\n\n출처\n- WBTV (2026.7.7) 'Flames burst through roof as lightning ignites multiple house fires in Charlotte' — 부상자 없음\n- Boardman Township·Hudson NH 소방서 FAQ (지붕에 구멍을 뚫는 이유)\n- 테네시 주 소방국 (2018.4.17) 'Most Home Fire Deaths Caused by Smoke, Not Flames'\n- FireRescue1 / UL FSRI 환기·진압 연구\n\n영상: Charlotte Fire Department 공식 X @CharlotteFD (2026.7.7 바디캠)\n사진: DragonFire1024 \"Buffalo Apartment Fire June25.07\" (CC BY-SA 3.0) / U.S. Army Spc. Samantha Hall \"Cut through the roof\" (퍼블릭 도메인), 위키미디어 커먼즈\n음악: \"Hitman\" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0\n\n#소방관 #화재 #배연 #화재대피 #신기한이유 #오늘의쓸모 #shorts",
+  "tags": [
+   "소방관",
+   "화재",
+   "지붕",
+   "배연",
+   "플래시오버",
+   "화재 대피",
+   "연기",
+   "firefighter",
+   "vertical ventilation",
+   "신기한 이유",
+   "오늘의쓸모",
+   "쇼츠"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "tg_msg": 593
+}
