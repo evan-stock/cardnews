@@ -18,9 +18,9 @@ def overlay(lines, tag=None):
         t = min(1, (y - g0) / (g1 - g0))
         d.line([(0, y), (W, y)], fill=(0, 0, 0, int(215 * t)))
     f = ImageFont.truetype(FB, 118)
-    y = 1235
-    if tag:
-        y += 0
+    # 마지막 줄 바닥(기준선)을 1675에 고정: 줄 수와 상관없이 예전 릴스들과 같은 높이에서 끝난다
+    # (2026.10.20 첫 줄을 1235에 두었더니 2줄 제목이 격자에서 다른 릴스보다 위로 떠 보였다)
+    y = 1675 - (len(lines) - 1) * 140
     lg = Image.open(LOGO).convert("RGBA")
     lh = 44
     lw = int(lg.width * lh / lg.height)
