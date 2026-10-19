@@ -110,7 +110,7 @@ function oneCover(c,s){/* 한 장 승부 표지: 사진 꽉 + 하단 어둡게 +
  const o=s.circle;if(o){const cx=o.x<=1?o.x*W:o.x,cy=o.y<=1?o.y*H:o.y,r=o.r<=1?o.r*W:o.r;c.save();c.strokeStyle='#ff2a2a';c.lineWidth=o.w||16;c.shadowColor='rgba(255,40,40,.75)';c.shadowBlur=26;c.beginPath();c.arc(cx,cy,r,0,7);c.stroke();c.restore()}
  const ls=String(s.t||'').split('\n'),l1=ls.length>1?ls[0]:'',rest=ls.length>1?ls.slice(1):ls,M=W-180,qs={q:false};
  let szB=84;c.font='400 '+szB+'px '+FT;while(szB>56&&rest.some(l=>c.measureText(l.replace(/['‘’]/g,'')).width>M)){szB-=2;c.font='400 '+szB+'px '+FT}
- const F1='"'+(s.f1||'PretendardM')+'",'+F;let sz1=Math.round(szB*.66);c.font='400 '+sz1+'px '+F1;while(sz1>36&&c.measureText(l1).width>M){sz1-=2;c.font='400 '+sz1+'px '+F1}
+ const F1='"'+(s.f1||'PretendardM')+'",'+F;let sz1=Math.round(szB*.8);c.font='400 '+sz1+'px '+F1;while(sz1>36&&c.measureText(l1).width>M){sz1-=2;c.font='400 '+sz1+'px '+F1}
  const lb=LOGO&&LOGO.naturalWidth?54:0,base=H-118-lb;let y=base-(rest.length-1)*szB*1.2;
  c.save();c.shadowColor='rgba(0,0,0,.5)';c.shadowBlur=12;
  if(l1){c.font='400 '+sz1+'px '+F1;try{c.letterSpacing='-1px'}catch(e){};c.fillStyle='rgba(255,255,255,.92)';c.textAlign='center';c.fillText(l1,W/2,y-szB*1.08);try{c.letterSpacing='0px'}catch(e){}}
