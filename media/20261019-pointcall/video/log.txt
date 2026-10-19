@@ -1,0 +1,8 @@
+ERROR: [twitter] 1745092431270269370: Video #1 is unavailable
+실패: https://x.com/Ryo_Saeba_3/status/1745334603492307244
+ERROR: [twitter] 2043637134951579727: No video could be found in this tweet
+실패: https://x.com/070guy/status/2043637134951579727
+ERROR: [generic] Got HTTP Error 403 caused by Cloudflare anti-bot challenge; try again with  --extractor-args "generic:impersonate"
+실패: https://www.atlasobscura.com/videos/pointing-and-calling-japan
+ERROR: [twitter] 1299016942548852736: No video could be found in this tweet
+실패: https://x.com/BB27000/status/1299016942548852736
