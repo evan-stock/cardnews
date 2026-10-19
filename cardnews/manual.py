@@ -134,6 +134,10 @@ def build(d, base, send):
     for k, s0 in enumerate(d["slides"]):
         s = s0
         s = {"t": s.get("t", "").replace("\\n", "\n"), "b": s.get("b", ""), "sub": s.get("sub", "")}
+        if s0.get("lay"):  # "one" = 한 장 승부 표지(얇은 1줄 + 굵은 2줄, 하단 중앙 로고)
+            s["lay"] = s0["lay"]
+        if s0.get("circle"):  # 빨간 원: {"x","y","r"} (1 이하면 화면 비율)
+            s["circle"] = s0["circle"]
         if s0.get("inset"):  # 표지 원형 참고사진: {"img":"cand/xxx.jpg","label":"짧은 코멘트","x","y","r","fx","fy"}
             ip = base / s0["inset"]["img"]
             if ip.exists():
