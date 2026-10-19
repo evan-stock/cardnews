@@ -2,26 +2,88 @@
  {
   "id": "20261020-luxbelief",
   "slot": "evening",
-  "mode": "collect",
-  "limit": 30,
+  "mode": "render",
   "topic": "프랑스 10/17 물가 시위 약탈 — 명품은 회복, 동네 가게는 못 버틴다 / 사치 신념",
-  "image_pages": [
-   "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/10/19/big-names-will-recover-from-frances-riots-family-shops-may-not/",
-   "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
-   "https://www.ibtimes.co.uk/france-cost-living-protests-clashes-looting-1826217",
-   "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france",
-   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-tout-etait-ravage-c-etait-apocalyptique-a-paris-un-commercant-raconte-le-pillage-de-sa-boutique_8243635.html",
-   "https://franceinfo.fr/societe/mobilisation-du-17-octobre/pillages-les-commercants-sous-le-choc-a-travers-la-france_8244427.html",
-   "https://www.ici.fr/infos/societe/violences-du-17-octobre-on-peut-manifester-et-ne-pas-casser-des-commercants-sideres-apres-les-pillages-en-france-4607035",
-   "https://fortune.com/2026/10/17/france-debt-crisis-budget-deficit-bond-yields-spread-protests-riots/",
-   "https://www.cnbc.com/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html"
+  "category": "해외 사건 + 개념 해설",
+  "emotion": "분노(불공정) + 공감",
+  "core": "10/17 55만+ 시위(내무부), 체포 1,200(총리)/주말 약 2,400(Forbes), 상점 약 1,500곳·수억 유로(FCD 봄파르). 디올·셀린·LV·에르메스·갤러리라파예트도 피해. 파리10구 Boxing Shop(약 30년) 야니크 비통: 23시 신고했지만 경찰 못 옴, 재고 대부분 도난, 재개장 미정. 사치 신념=롭 헨더슨 2019.",
+  "risk": "정당 책임론 없음, 평화 시위 다수 명시. 사치 신념 개념 비판(보수 진영 용어·근거 약함) 포함. 헨더슨이 이번 시위를 언급했다고 쓰지 않음. 소상공인 실명은 언론 인터뷰한 가게 주인만.",
+  "slides": [
+   {
+    "t": "명품관은 금방 다시 연다는데\n청구서는 '동네 가게'로",
+    "lay": "one"
+   },
+   {
+    "sub": "10월 17일 프랑스",
+    "t": "55만 명 거리로\n상점 '1,500곳' 털렸다",
+    "b": "물가에 항의한 행진 대부분은 평화로웠지만, 일부가 여러 도시에서 상점을 약탈했습니다. 주말 이틀 체포만 약 2,400명입니다."
+   },
+   {
+    "sub": "디올·셀린·에르메스도 당했지만",
+    "t": "큰 브랜드는 '버틴다'",
+    "b": "포브스는 큰 이름들은 회복하겠지만 가족이 하는 가게는 그러지 못할 수 있다고 짚었습니다. 피해액은 수억 유로로 추산됩니다."
+   },
+   {
+    "sub": "파리 10구, 30년 된 복싱용품점",
+    "t": "신고했더니 '지금은 못 간다'",
+    "b": "밤 11시 약탈 소식에 주인이 경찰을 불렀지만 아무도 오지 못했습니다. 재고 대부분을 잃었고, 언제 다시 열지 모른다고 했습니다."
+   },
+   {
+    "sub": "'사치 신념'이란?",
+    "t": "말하는 사람은 안전하고\n대가는 '남'이 치르는 믿음",
+    "b": "미국 작가 롭 헨더슨이 2019년 만든 말입니다. 멀리서 폭동을 '정당한 분노'라 부르기는 쉽지만, 깨진 유리를 치우는 건 동네 상인입니다."
+   },
+   {
+    "sub": "반론도 있습니다",
+    "t": "물가 분노는 '진짜'다",
+    "b": "시위대 대부분은 평화로웠고 물가·교육 불만은 실재합니다. '사치 신념'은 주로 보수 쪽에서 쓰는 말이라 근거가 약하다는 비판도 받습니다."
+   },
+   {
+    "t": "프랑스 소식 궁금한 친구에게\n'보내주세요'",
+    "b": "24일 2차 시위 예고 · 팔로우하면 후속 소식 먼저"
+   }
   ],
-  "read_pages": [
-   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-tout-etait-ravage-c-etait-apocalyptique-a-paris-un-commercant-raconte-le-pillage-de-sa-boutique_8243635.html",
-   "https://franceinfo.fr/societe/mobilisation-du-17-octobre/pillages-les-commercants-sous-le-choc-a-travers-la-france_8244427.html",
-   "https://www.ici.fr/infos/societe/violences-du-17-octobre-on-peut-manifester-et-ne-pas-casser-des-commercants-sideres-apres-les-pillages-en-france-4607035",
-   "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
-   "https://www.lemondedutabac.com/message-dun-buraliste-aux-commerces-sinistres/"
+  "images": [
+   "press07",
+   "press09",
+   "press12",
+   "press04",
+   "press05",
+   "press02",
+   "cta"
+  ],
+  "caption": "[명품관은 금방 다시 연다는데, 청구서는 동네 가게로]\n\n17일(현지시각) 프랑스 전역에서 고물가에 항의하는 시위가 열렸습니다. 내무부 집계로 55만 명이 넘게 거리로 나왔고 행진 대부분은 평화로웠지만, 일부가 파리·마르세유·리옹 등에서 상점을 약탈했습니다. 유통업계 대표는 약 1,500곳이 피해를 입어 손실이 수억 유로에 이른다고 추산했고, 주말 이틀 동안 체포된 사람은 약 2,400명입니다.\n\n디올·셀린·루이비통·에르메스 같은 명품 매장도 털렸지만, 포브스는 큰 브랜드는 회복할 힘이 있는 반면 가족이 운영하는 가게는 버티기 어려울 수 있다고 짚었습니다. 파리 10구에서 30년 가까이 복싱용품점을 해 온 야니크 비통 씨는 밤 11시쯤 약탈 소식을 듣고 경찰에 신고했지만 당장은 갈 수 없다는 답을 들었고, 재고 대부분을 잃은 채 언제 다시 문을 열지 모른다고 프랑스앵포에 말했습니다.\n\n그래서 다시 회자되는 말이 '사치 신념'입니다. 미국 작가 롭 헨더슨이 2019년 만든 표현으로, 믿는 사람에게는 지위를 주지만 대가는 형편이 어려운 사람이 치르는 생각을 뜻합니다. 반대로 이 개념이 주로 보수 진영에서 쓰이고 실증 근거가 약하다는 비판도 있고, 물가·교육 예산 부족에 대한 시위대의 불만 자체는 실재합니다. 마크롱 대통령은 약탈 책임자를 처벌하겠다고 밝혔고, 노란 조끼 측은 24일 2차 시위를 예고했습니다.\n\n여러분 생각은? A. 분노는 이해해도 약탈은 선 넘었다 B. 근본 원인(물가)부터 봐야 한다 💬\n\n프랑스 소식 궁금한 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "hashtags": [
+   "프랑스시위",
+   "사치신념",
+   "약탈",
+   "해외이슈"
+  ],
+  "sources": [
+   {
+    "publisher": "Forbes",
+    "date": "2026.10.19",
+    "url": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/10/19/big-names-will-recover-from-frances-riots-family-shops-may-not/"
+   },
+   {
+    "publisher": "franceinfo",
+    "date": "2026.10.19",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-tout-etait-ravage-c-etait-apocalyptique-a-paris-un-commercant-raconte-le-pillage-de-sa-boutique_8243635.html"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "date": "2026.10.17",
+    "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france"
+   },
+   {
+    "publisher": "Fortune",
+    "date": "2026.10.17",
+    "url": "https://fortune.com/2026/10/17/france-debt-crisis-budget-deficit-bond-yields-spread-protests-riots/"
+   }
+  ],
+  "photo_credits": [
+   "ICI",
+   "IBTimes"
   ]
  }
 ]
