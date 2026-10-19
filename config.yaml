@@ -4,7 +4,7 @@ timezone: Asia/Seoul
 brand:
   channel_name: 오늘의쓸모
   handle: "@today.worthy"
-  logo: brand/logo_opt1.png   # 한 장 승부 표지 하단 중앙 로고 (logo_opt1~4 중 선택)
+  logo: brand/logo_opt3.png   # 한 장 승부 표지 하단 중앙 로고 (logo_opt1~4 중 선택)
 
 # 하루 두 번 게시. prepare 시각에 소재·카드를 만들어 텔레그램으로 보내고,
 # 승인되면 publish 시각에 게시합니다. (실제 실행 시각은 .github/workflows/pipeline.yml의 cron)
