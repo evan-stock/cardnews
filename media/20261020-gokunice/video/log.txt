@@ -2,3 +2,5 @@ ERROR: [twitter] 2111855226290647419: No video could be found in this tweet
 실패: https://x.com/actualites_nrv/status/2111855226290647419
 ERROR: [twitter] 2111881229113159868: No video could be found in this tweet
 실패: https://x.com/PeakHobby/status/2111881229113159868
+ERROR: [twitter] 2111935708596474049: No video could be found in this tweet
+실패: https://x.com/marvin1764/status/2111935708596474049
