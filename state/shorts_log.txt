@@ -1,1 +1,9 @@
-⏳ 4개 장면 목소리를 맥북에서 만드는 중
+장면 1/8 silent 누적 2.0초
+장면 2/8 typecast 누적 4.7초
+장면 3/8 typecast 누적 7.3초
+장면 4/8 typecast 누적 10.2초
+장면 5/8 silent 누적 12.5초
+장면 6/8 silent 누적 14.7초
+장면 7/8 silent 누적 17.1초
+장면 8/8 typecast 누적 20.6초
+완성: /home/runner/work/cardnews/cardnews/media/20261020-showercat/short.mp4 (20.6초, TTS ['silent', 'typecast'])

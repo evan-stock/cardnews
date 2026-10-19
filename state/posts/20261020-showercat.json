@@ -1,0 +1,51 @@
+{
+ "id": "20261020-showercat",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-20T08:50:40.504001+09:00",
+ "publish_at": "2026-10-20T08:50:40.504019+09:00",
+ "publish_now": true,
+ "topic": "너무 조용해서 가 봤더니 4살 형 냥이 로로가 샤워부스에 갇혀 있고, 1살 동생 페페는 문 앞에서 시치미 — 08:57 반응형, 밈+내레이션",
+ "sources": [
+  {
+   "publisher": "TikTok @thebeckyj_",
+   "url": "https://www.tiktok.com/@thebeckyj_/video/7585217883584744734",
+   "date": "2025.12"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/suspicious-woman-notices-cats-quiet-realizes-viral-11468829",
+   "date": "2026.2.5"
+  }
+ ],
+ "seconds": 20.65,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261020-showercat/short.mp4"
+ ],
+ "app_file": "media/20261020-showercat/short_nobgm.mp4",
+ "yt": {
+  "title": "냥이들이 조용하더니 샤워부스 감금 사건 발생ㅋㅋ #shorts",
+  "description": "출근 준비를 하다 집이 너무 조용한 걸 눈치챈 집사. 욕실에 가 보니 4살 형 고양이 로로(Lolo)는 샤워부스 안에 갇혀 있고, 1살 동생 페페(Pepe)는 문 앞에 앉아 모르는 척하고 있었습니다.\n\n미국 노스캐롤라이나주 샬럿에 사는 집사 레베카 존스턴은 뉴스위크에 \"페페는 장난꾸러기라 둘이 늘 뭔가를 꾸미고 있다\"고 말했습니다. 이 영상은 틱톡에서 120만 회 넘게 재생됐습니다.\n\n여러분 집 냥이도 조용하면 불안한가요?\n\n영상: TikTok @thebeckyj_ (인스타 @loloandpepewhiskers)\n참고: Newsweek(2026.2.5)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @thebeckyj_ 2025.12, Newsweek 2026.2.5\n사진·영상: TikTok @thebeckyj_\n음성: Typecast\n\n#shorts #고양이 #냥이 #치즈냥 #검은고양이",
+  "tags": [
+   "고양이",
+   "냥이",
+   "치즈냥",
+   "검은고양이",
+   "고양이형제",
+   "고양이일상",
+   "웃긴고양이",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "7b934d29a7ab",
+ "tg_msg": 664
+}
