@@ -5,24 +5,25 @@ from PIL import Image, ImageDraw, ImageFont
 
 F = "/home/claude/cardnews/assets/fonts/"
 out, lines = sys.argv[1], sys.argv[2:]
+UP = 140 * max(0, len(lines) - 3)  # 4줄 이상이면 전체를 위로
 W, H = 1080, 1920
 YEL, WHITE, SH = (255, 216, 77, 255), (255, 255, 255, 255), (60, 60, 60, 255)
 
 img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
 grad = Image.new("L", (1, H))
 for y in range(H):
-    grad.putpixel((0, y), 0 if y < 950 else min(215, int(215 * (y - 950) / 430)))
+    grad.putpixel((0, y), 0 if y < 950 - UP else min(215, int(215 * (y - 950 + UP) / 430)))
 img.putalpha(grad.resize((W, H)))
 img = Image.composite(Image.new("RGBA", (W, H), (0, 0, 0, 255)), Image.new("RGBA", (W, H), (0, 0, 0, 0)), grad.resize((W, H)))
 
 d = ImageDraw.Draw(img)
 small = ImageFont.truetype(F + "Pretendard-ExtraBold.otf", 38)
 big = ImageFont.truetype(F + "Pretendard-Black.otf", 118)
-d.ellipse((70, 1160, 88, 1178), fill=YEL)
-d.text((102, 1150), "TODAY.WORTHY", font=small, fill=WHITE)
+d.ellipse((70, 1160 - UP, 88, 1178 - UP), fill=YEL)
+d.text((102, 1150 - UP), "TODAY.WORTHY", font=small, fill=WHITE)
 
 any_quote = any("'" in ln for ln in lines)
-y = 1235
+y = 1235 - UP
 for i, ln in enumerate(lines):
     if any_quote:
         segs = [(p, YEL if k % 2 else WHITE) for k, p in enumerate(ln.split("'")) if p]
