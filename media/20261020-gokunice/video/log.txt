@@ -12,3 +12,6 @@ ERROR: [youtube] SZQAwZZKE4o: Sign in to confirm you’re not a bot. Use --cooki
 실패: https://www.youtube.com/shorts/SZQAwZZKE4o
 ERROR: [franceinfo] le-gerant-d-un-micromania-de-nice-filme-tentant-d-empecher-le-pillage-de-son-magasin-le-17-octobre-met-en-garde-contre-de-fausses-cagnottes-en-ligne_8243827: Unable to extract video id; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
 실패: https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gerant-d-un-micromania-de-nice-filme-tentant-d-empecher-le-pillage-de-son-magasin-le-17-octobre-met-en-garde-contre-de-fausses-cagnottes-en-ligne_8243827.html
+WARNING: [dailymotion] xbpb6za: Unable to download m3u8 information: HTTP Error 403: Forbidden
+ERROR: [dailymotion] xbpb6za: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://www.dailymotion.com/video/xbpb6za
