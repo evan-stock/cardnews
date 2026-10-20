@@ -2,7 +2,7 @@
  {
   "id": "20261020-kimrumor",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "topic": "김정은 뇌출혈 사망설 확산과 북한의 사진 공개",
   "category": "이슈",
   "emotion": "놀람·불안 — '진짜야?' 싶은 사망설",
@@ -78,6 +78,7 @@
   ],
   "photo_credits": [
    "조선중앙통신(뉴스1), X(@WanjunXie), 주간경향"
-  ]
+  ],
+  "publish_at": "2026-10-20T16:53:07+09:00"
  }
 ]
