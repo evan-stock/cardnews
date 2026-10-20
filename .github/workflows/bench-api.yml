@@ -1,0 +1,24 @@
+name: bench-api
+# drafts/bench_api.json → scripts/bench/bench_api.py (YouTube Data API 읽기, 털뭉치 토큰) → state/bench/api_report.*
+on:
+  push:
+    paths: ["drafts/bench_api.json"]
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {sparse-checkout: "cardnews\nscripts\ndrafts\nstate/bench", fetch-depth: 1}
+      - run: pip install -q requests pyyaml
+      - run: python3 scripts/bench/bench_api.py 2>&1 | tee state/bench/api_log.txt
+      - run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          git add -A state/bench
+          git diff --cached --quiet || git commit -m "bench: api"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done
