@@ -1,7 +1,7 @@
 {
  "id": "20261021-goatkitten",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-21T08:53:46.231272+09:00",
  "publish_at": "2026-10-21T08:53:46.231292+09:00",
  "publish_now": true,
@@ -47,5 +47,9 @@
   "channel": null
  },
  "draft_hash": "f36e46c99998",
- "tg_msg": 756
+ "tg_msg": 756,
+ "decided_at": "2026-10-21T08:55:20.039827+09:00",
+ "yt_id": "O2N8rPWrzZM",
+ "permalink": "https://youtube.com/shorts/O2N8rPWrzZM",
+ "published_at": "2026-10-21T08:55:23.726406+09:00"
 }
