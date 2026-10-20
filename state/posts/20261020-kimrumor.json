@@ -2,7 +2,7 @@
  "id": "20261020-kimrumor",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-20T16:56:19.902623+09:00",
  "publish_at": "2026-10-20T16:53:07+09:00",
  "topic": "김정은 뇌출혈 사망설 확산과 북한의 사진 공개",
@@ -70,5 +70,9 @@
   "media/20261020-kimrumor/05.jpg",
   "media/20261020-kimrumor/06.jpg"
  ],
- "tg_msg": 709
+ "tg_msg": 709,
+ "decided_at": "2026-10-20T17:00:45.831019+09:00",
+ "ig_media_id": "17990946371861645",
+ "permalink": "https://www.instagram.com/p/DetWv4jGx8D/",
+ "published_at": "2026-10-20T17:01:54.153271+09:00"
 }
