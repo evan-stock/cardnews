@@ -1,1 +1,8 @@
-⏳ 3개 장면 목소리를 맥북에서 만드는 중
+장면 1/7 silent 누적 2.2초
+장면 2/7 typecast 누적 5.3초
+장면 3/7 silent 누적 7.3초
+장면 4/7 typecast 누적 10.1초
+장면 5/7 silent 누적 11.7초
+장면 6/7 silent 누적 13.6초
+장면 7/7 typecast 누적 17.5초
+완성: /home/runner/work/cardnews/cardnews/media/20261021-goatkitten/short.mp4 (17.5초, TTS ['silent', 'typecast'])
