@@ -1,7 +1,7 @@
 {
  "id": "20261021-divespray",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-21T08:42:06.195006+09:00",
  "publish_at": "2026-10-21T08:42:06.195020+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 751
+ "tg_msg": 751,
+ "decided_at": "2026-10-21T08:43:32.656461+09:00",
+ "yt_id": "hRZ3NPLrPMY",
+ "permalink": "https://youtube.com/shorts/hRZ3NPLrPMY",
+ "published_at": "2026-10-21T08:43:36.484095+09:00"
 }
