@@ -1,0 +1,34 @@
+[
+ {
+  "id": "20261020-wine",
+  "slot": "evening",
+  "mode": "render",
+  "topic": "불타는 광장 앞에서 와인 마시는 프랑스 커플 (2023 보르도 영상)",
+  "category": "해외 황당 실제 영상",
+  "emotion": "놀람·어이없음(웃음) — 바로 뒤에서 불이 타는데 태연하게 와인",
+  "core": "2023.3.23 연금개혁 반대 전국 시위 날 밤 보르도 빅투아르 광장 Saint-Aubin 바 테라스. CNN 등은 '파리'로 소개했지만 실제 보르도(The Local 팩트체크, 바 매니저 '불 실제로 났다'). 촬영 Carlito CL, 최초 게시 @ledecaledu25. 2026.10.17 물가 항의 시위 정부 55만·체포 약 1,200, 마르세유·파리 약탈, 리모주 시청 방화, 보르도 애플스토어·도지사 관저 피해.",
+  "risk": "2023년 영상 → 본문 첫 문단에 연도·장소 명시, '이번 시위 영상'처럼 쓰지 않음. CNN 로고·자막 구간(0~4초) 잘라냄. 일반인 얼굴 → 이름 없음, 조롱 표현 없음. 평화 시위대와 구분 한 줄.",
+  "slides": [
+   {
+    "t": "폭동이 일상이 된 프랑스\n불길 앞에서 '와인 불멍'",
+    "lay": "one",
+    "video": {"src": "video/src.mp4", "start": 4.0, "dur": 15.5, "x": 0.55, "y": 0.5}
+   },
+   {
+    "t": "와인 좋아하는 친구에게\n'꼭' 보내주세요",
+    "b": "팔로우하면 매일 화제 소식"
+   }
+  ],
+  "images": ["frame", "frame"],
+  "caption": "[뒤에서 불이 활활 타는데, 이 커플은 와인을 마십니다]\n\n2023년 3월 23일 밤, 프랑스 보르도 빅투아르 광장의 한 카페 테라스에서 찍힌 영상입니다. 연금 개혁에 반대하는 전국 시위가 열린 날, 광장에서는 시위대가 지른 불길이 치솟았지만 테라스의 두 사람은 자리를 지킨 채 와인과 담배를 즐겼습니다.\n\n영상은 '파리가 불타는 동안 와인을 마시는 프랑스 커플'이라는 제목으로 전 세계에 퍼졌지만, 실제 장소는 파리가 아니라 보르도였습니다. 카페 매니저는 그날 밤 광장에서 실제로 불이 났다고 확인했습니다.\n\n3년이 지난 지금도 프랑스의 거리는 비슷합니다. 지난 17일 '비싼 물가' 항의 시위에는 정부 추산 55만 명이 모였고, 마르세유·파리 매장 약탈과 리모주 시청 방화 속에 전국에서 약 1,200명이 체포됐습니다. 보르도에서도 애플스토어와 도지사 관저가 공격받았습니다. 대부분의 시위대는 평화롭게 행진했지만, 불길과 약탈 장면은 이제 익숙한 풍경이 됐습니다.\n\n여러분이라면? A. 바로 계산하고 자리를 뜬다 B. 이왕 이렇게 된 거 한 잔 더 🍷\n\n와인 좋아하는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "hashtags": ["프랑스시위", "프랑스폭동", "보르도", "불멍", "해외이슈"],
+  "sources": [
+   {"publisher": "The Local France", "date": "2023.03.27", "url": "https://www.thelocal.fr/20230327/factcheck-is-the-video-of-french-people-sipping-wine-as-their-city-burns-real"},
+   {"publisher": "The Drinks Business", "date": "2023.03", "url": "https://www.thedrinksbusiness.com/2023/03/bordeaux-diners-drink-wine-as-protest-fire-rages-in-background/"},
+   {"publisher": "Europe 1", "date": "2026.10.17", "url": "https://www.europe1.fr/societe/en-direct-mobilisation-du-17-octobre-800000-participants-selon-les-organisateurs-550000-selon-laurent-nunez-1156250"},
+   {"publisher": "CBC", "date": "2026.10.18", "url": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148"},
+   {"publisher": "FashionNetwork", "date": "2026.10.17", "url": "https://fr.fashionnetwork.com/news/Manifestations-du-17-octobre-en-marge-des-corteges-des-magasins-pilles-et-vandalises-dans-plusieurs-villes-de-france,1876695.html"}
+  ],
+  "photo_credits": ["Carlito CL(최초 게시 @ledecaledu25), CNN"]
+ }
+]
