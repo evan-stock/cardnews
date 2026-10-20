@@ -30,3 +30,19 @@
 | 파일 | 곡 | 길이 | 하이라이트 시작 | 음량 | 어울리는 영상 | 표기 |
 |---|---|---|---|---|---|---|
 | worthy/hitman.mp3 | Hitman | 3:21 | 51.5초 | vol 0.5 | 긴장·추격·위협(물범 vs 범고래) | "Hitman" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+
+
+## 오늘의쓸모 쇼츠 인기 브금 (Kevin MacLeod, incompetech.com — CC BY 4.0, 설명란 표기 필수, 2026.10.20 사용자: 'bgm 바꾸자 → 인기 브금 계열')
+음량은 Hitman vol 0.5(평균 약 -20dB)에 맞춘 값. 직전 영상과 다른 곡, Hitman 은 하루 1번까지. 내레이션 영상은 렌더러가 자동으로 × 0.5.
+
+| 파일 | 곡 | 하이라이트 시작 | 음량 | 어울리는 영상 | 표기 |
+|---|---|---|---|---|---|
+| worthy/sneaky_snitch.mp3 | Sneaky Snitch | 37.0초 | vol 0.85 | 긴장·몰래·반전 직전 | "Sneaky Snitch" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/spy_glass.mp3 | Spy Glass | 146.5초 | vol 0.87 | 미스터리·정체 밝히기 | "Spy Glass" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/investigations.mp3 | Investigations | 8.5초 | vol 1.19 | 과학 미스터리·조사 | "Investigations" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/volatile_reaction.mp3 | Volatile Reaction | 30.0초 | vol 0.29 | 위험·위기·빠른 전개 | "Volatile Reaction" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/cut_and_run.mp3 | Cut and Run | 6.5초 | vol 0.31 | 추격·급박 | "Cut and Run" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/scheming_weasel.mp3 | Scheming Weasel (faster) | 48.5초 | vol 1.97 | 엉뚱·꾀·동물 장난 | "Scheming Weasel (faster)" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/monkeys_spinning.mp3 | Monkeys Spinning Monkeys | 88.5초 | vol 0.94 | 웃김·황당 | "Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/fluffing_a_duck.mp3 | Fluffing a Duck | 3.0초 | vol 0.85 | 귀엽고 엉뚱한 반전 | "Fluffing a Duck" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/pixel_peeker.mp3 | Pixel Peeker Polka (faster) | 26.5초 | vol 0.44 | 정신없음·기계·코믹 | "Pixel Peeker Polka (faster)" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
