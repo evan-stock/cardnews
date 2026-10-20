@@ -1,0 +1,93 @@
+{
+ "id": "20261020-luxbelief",
+ "slot": "lunch",
+ "slot_label": "점심",
+ "status": "approved",
+ "created_at": "2026-10-20T09:27:29.360677+09:00",
+ "publish_at": "2026-10-20T12:00:00+09:00",
+ "topic": "프랑스 10/17 물가 시위 약탈 — 명품은 회복, 동네 가게는 못 버틴다 / 사치 신념",
+ "category": "해외 사건 + 개념 해설",
+ "core": "10/17 55만+ 시위(내무부), 체포 1,200(총리)/주말 약 2,400(Forbes), 상점 약 1,500곳·수억 유로(FCD 봄파르). 디올·셀린·LV·에르메스·갤러리라파예트도 피해. 파리10구 Boxing Shop(약 30년) 야니크 비통: 23시 신고했지만 경찰 못 옴, 재고 대부분 도난, 재개장 미정. 사치 신념=롭 헨더슨 2019.",
+ "risk": "셀럽은 '학생 시위(교육 요구) 응원'으로만 씀 — 폭동·약탈 지지로 쓰지 않음, '좌파' 딱지 안 붙임. 디올 경비는 비무장. 명품 브랜드 시위 지지 근거 없음 → 안 씀. 평화 시위 다수 명시.",
+ "sources": [
+  {
+   "publisher": "Sud Radio",
+   "date": "2026.10.19",
+   "url": "https://www.sudradio.fr/sud-radio/violences-du-17-octobre-les-marques-de-luxe-francais-en-premiere-ligne"
+  },
+  {
+   "publisher": "franceinfo",
+   "date": "2026.10.19",
+   "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-tout-etait-ravage-c-etait-apocalyptique-a-paris-un-commercant-raconte-le-pillage-de-sa-boutique_8243635.html"
+  },
+  {
+   "publisher": "Forbes",
+   "date": "2026.10.19",
+   "url": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/10/19/big-names-will-recover-from-frances-riots-family-shops-may-not/"
+  },
+  {
+   "publisher": "TF1 INFO",
+   "date": "2026.10",
+   "url": "https://www.tf1info.fr/societe/video-victor-wembanyama-lena-situations-theodora-squeezie-teddy-riner-swann-arlaud-ces-stars-qui-soutiennent-le-mouvement-lyceen-utile-ou-futile-2469254.html"
+  },
+  {
+   "publisher": "Al Jazeera",
+   "date": "2026.10.17",
+   "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france"
+  },
+  {
+   "publisher": "9to5Mac",
+   "date": "2021.02.20",
+   "url": "https://9to5mac.com/2021/02/20/apple-store-portland-pioneer-place-reopening/"
+  }
+ ],
+ "slides": [
+  {
+   "t": "명품관은 경비원 세워 막았는데\n털린 건 '동네 가게'",
+   "b": ""
+  },
+  {
+   "t": "55만 명 거리로\n상점 '1,500곳' 털렸다",
+   "b": "행진 대부분은 평화로웠지만, 일부가 여러 도시에서 상점을 약탈했습니다. 주말 이틀 체포만 약 2,400명입니다."
+  },
+  {
+   "t": "디올은 사설 경비\n라파예트는 '미리 폐점'",
+   "b": "디올은 몽테뉴 거리 매장 앞에 경비원을 줄 세워 16시간 지켰고 약탈을 피했습니다. 샹젤리제 상점들은 바리케이드를 쳤습니다."
+  },
+  {
+   "t": "신고했더니 '지금은 못 간다'",
+   "b": "밤 11시 약탈 소식에 주인이 경찰을 불렀지만 아무도 오지 못했습니다. 재고 대부분을 잃었고, 언제 다시 열지 모른다고 했습니다."
+  },
+  {
+   "t": "부자 스타들은 '지지'\n유리 치우는 건 '소상공인'",
+   "b": "웸반야마·스퀴지 등 스타들은 이달 초 학생 시위를 응원했습니다. 그 요구는 교육 문제였지만, 거리의 대가는 버틸 여력 없는 동네 가게가 치르고 있습니다."
+  },
+  {
+   "t": "애플은 '연대' 선언\n매장엔 '철제 펜스'",
+   "b": "BLM 시위 때 애플 CEO는 연대 서한을 냈고, 포틀랜드 매장은 철제 펜스로 둘러쌌습니다. 그때도 문을 닫은 건 동네 가게였습니다."
+  },
+  {
+   "t": "프랑스 소식 궁금한 친구에게\n'보내주세요'",
+   "b": "24일 2차 시위 예고 · 팔로우하면 후속 소식 먼저"
+  }
+ ],
+ "caption_full": "[명품관은 경비원 세워 막았는데, 털린 건 동네 가게]\n\n17일(현지시각) 프랑스 전역에서 고물가에 항의하는 시위가 열렸습니다. 내무부 집계로 55만 명이 넘게 거리로 나왔고 행진 대부분은 평화로웠지만, 일부가 파리·마르세유·리옹 등에서 상점을 약탈했습니다. 유통업계는 약 1,500곳이 피해를 입었다고 추산했고, 주말 이틀 동안 약 2,400명이 체포됐습니다.\n\n명품관은 미리 대비했습니다. 디올은 파리 몽테뉴 거리 매장 앞에 정장 차림의 사설 경비원들을 줄 세워 아침부터 밤까지 지켰고 약탈을 피했습니다. 갤러리 라파예트는 대부분 매장을 미리 닫았고, 샹젤리제 상점들은 바리케이드를 쳤습니다. 셀린·애플스토어처럼 털린 대형 매장도 있었지만, 포브스는 큰 브랜드는 회복할 힘이 있는 반면 가족 가게는 버티기 어렵다고 짚었습니다. 파리 10구에서 30년 가까이 복싱용품점을 해 온 야니크 비통 씨는 신고했지만 경찰이 올 수 없었고, 재고 대부분을 잃은 채 재개장 시점조차 모른다고 프랑스앵포에 말했습니다.\n\n한편 이달 초에는 웸반야마·스퀴지·레나 시튀아시옹 등 유명인들이 교육 환경 개선을 요구한 학생 시위를 응원했다고 TF1이 보도했습니다. 이들이 지지한 건 교육 문제였고 폭력과는 무관합니다. 그럼에도 '지지하는 사람은 안전하고 대가는 형편이 어려운 이들이 치른다'는 뜻의 '사치 신념'(롭 헨더슨)이라는 말이 다시 회자됩니다. 2020년 미국 BLM 시위 때도 애플은 연대를 선언하는 한편 포틀랜드 매장을 철제 펜스로 둘러쌌고, 문을 닫은 건 주변 작은 가게들이었습니다. 마크롱 대통령은 약탈 책임자를 처벌하겠다고 밝혔습니다.\n\n여러분 생각은? A. 응원은 자유, 책임은 약탈범 몫 B. 결국 대가는 서민이 치른다 💬\n\n프랑스 소식 궁금한 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.\n\n출처: Sud Radio 2026.10.19, franceinfo 2026.10.19, Forbes 2026.10.19\n사진: 표지: 참고 이미지(AI 생성), ICI, franceinfo, 9to5Mac\n\n#프랑스시위 #사치신념 #약탈 #소상공인 #해외이슈",
+ "credits": [
+  "표지: 참고 이미지(AI 생성)",
+  "ICI",
+  "franceinfo",
+  "9to5Mac"
+ ],
+ "manual": true,
+ "files": [
+  "media/20261020-luxbelief/01.jpg",
+  "media/20261020-luxbelief/02.jpg",
+  "media/20261020-luxbelief/03.jpg",
+  "media/20261020-luxbelief/04.jpg",
+  "media/20261020-luxbelief/05.jpg",
+  "media/20261020-luxbelief/06.jpg",
+  "media/20261020-luxbelief/07.jpg"
+ ],
+ "tg_msg": 676,
+ "decided_at": "2026-10-20T09:27:33.071863+09:00"
+}
