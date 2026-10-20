@@ -1,7 +1,7 @@
 {
  "id": "20261020-turtlewalk",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-20T08:57:41.819800+09:00",
  "publish_at": "2026-10-20T08:57:41.819814+09:00",
  "publish_now": true,
@@ -32,5 +32,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 666
+ "tg_msg": 666,
+ "decided_at": "2026-10-20T09:01:50.202161+09:00",
+ "yt_id": "Sfp0jQwQdhk",
+ "permalink": "https://youtube.com/shorts/Sfp0jQwQdhk",
+ "published_at": "2026-10-20T09:01:54.656238+09:00"
 }
