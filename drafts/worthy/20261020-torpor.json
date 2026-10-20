@@ -1,0 +1,116 @@
+{
+ "id": "20261020-torpor",
+ "media": "media/20261020-torpor",
+ "topic": "나뭇가지에 거꾸로 매달려 죽은 듯 꼼짝 않는 벌새의 정체 — 죽은 게 아니라 '토르포르(torpor)'라는 깊은 밤잠. 심장이 1분 1,200번에서 40번까지, 체온은 3℃까지 떨어지기도 하며(2020 Biology Letters, 안데스 검은꼬리벌새), 깊이 안 자면 하룻밤에 몸무게 15%가 빠진다. 발이 저절로 가지를 쥐어 거꾸로 돼도 안 떨어지고, 아침이면 스스로 깨니 만지지 말 것",
+ "hook": {
+  "t": "거꾸로 매달려 꼼짝 않는\n'벌새'의 정체ㄷㄷ"
+ },
+ "credit": "영상: TikTok @theandrewchan · Eric Kilby, Zefr(커먼즈)",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "나뭇가지에 '거꾸로' 매달려 꼼짝도 않는 새",
+   "video": {
+    "src": "video/tmp_zoom.mp4",
+    "start": 10.0,
+    "x": 0.5,
+    "y": 0.55
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "보통은 죽은 줄 알고 '떼어' 내려 한다",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 20.0,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "알고 보니 몸을 꺼 버린 '밤잠' 중이다",
+   "video": {
+    "src": "video/tmp_zoom.mp4",
+    "start": 24.0,
+    "x": 0.5,
+    "y": 0.55
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "낮엔 1분에 1,200번 뛰는 '심장'이",
+   "video": {
+    "src": "video/tmp_ruby.mp4",
+    "start": 2.0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "밤엔 40번까지 느려지고 체온은 '3℃'까지 떨어지기도 한다",
+   "video": {
+    "src": "video/tmp_zoom.mp4",
+    "start": 28.0,
+    "x": 0.5,
+    "y": 0.8
+   },
+   "dur": 3.6
+  },
+  {
+   "text": "깊이 안 자면 하룻밤에 몸무게 '15%'가 빠지기도 한다",
+   "img": "video/torpor_feeder.jpg",
+   "zoom": 0.08,
+   "dur": 3.4
+  },
+  {
+   "text": "발이 가지를 저절로 '꽉' 쥐어 거꾸로 돼도 안 떨어진다",
+   "video": {
+    "src": "video/tmp_zoom.mp4",
+    "start": 31.0,
+    "x": 0.5,
+    "y": 0.55
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "아침이면 혼자 깨니 '만지지' 말기, 이런 비밀은 구독으로",
+   "video": {
+    "src": "video/tmp_zoom.mp4",
+    "start": 34.5,
+    "x": 0.5,
+    "y": 0.55
+   },
+   "dur": 3.6
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @theandrewchan 'Hummingbird in Torpor' 원본(7477266162561174815, 2025.3 게시 — 가지에 거꾸로 매달린 채 토르포르 상태인 벌새)",
+  "Ruby-throated hummingbird (Archilochus colubris) feeding.webm — Eric Kilby(2010.5.18), CC BY-SA 2.0, 위키미디어 커먼즈",
+  "Anna's hummingbird in nocturnal torpor during winter in Vancouver, BC.jpg — Zefr(2022.12.22 밤 7시 37분, 영하 8℃, 캐나다 밴쿠버), CC BY-SA 4.0, 위키미디어 커먼즈"
+ ],
+ "sources": [
+  {
+   "publisher": "Smithsonian Magazine 'Hummingbirds in the Andes Go to Chilly Extremes for a Good Night's Sleep' — Biology Letters 2020, 6종 26마리: 심장 1분 약 1,200번 → 40번, 검은꼬리벌새 체온 약 3.3℃, 짧게만 토르포르한 새는 하룻밤 몸무게 최대 15% 감소(12시간 토르포르는 2%)",
+   "date": "2020.9.11",
+   "url": "https://www.smithsonianmag.com/smart-news/hummingbirds-andes-go-chilly-extremes-good-nights-sleep-180975767/"
+  },
+  {
+   "publisher": "Science News Explores 'One hummingbird survives cold nights by nearly freezing stiff' — 뉴멕시코대 Blair Wolf 연구팀, 최저 체온 3.26℃, 낮 체온 약 40℃, 심장 1,200 → 40번, 해 뜰 무렵 1분에 약 1℃씩 다시 데움",
+   "date": "2020.9",
+   "url": "https://www.snexplores.org/article/hummingbirds-black-metaltail-survives-cold-torpor"
+  },
+  {
+   "publisher": "Journey North 'Surviving Cold Temperatures' — 토르포르 벌새가 가지·먹이통에 거꾸로 매달린 모습이 목격됨, 발이 저절로 횃대를 잠가 떨어지지 않음, 발견하면 개입하지 말고 스스로 깨어나게 둘 것",
+   "url": "https://archive.journeynorth.org/hummingbirds/resources/article/surviving-cold-temperatures.html"
+  }
+ ],
+ "_note": "v1.mp4 = TikTok @theandrewchan/video/7477266162561174815 (576x1024, 38.6초, 화면 글자·스티커 없음, 소리 끔). tmp_zoom.mp4 = ffmpeg -i v1.mp4 -vf \"crop=384:683:96:80,scale=576:1024\" -an (커밋 안 함). tmp_ruby.mp4 = ffmpeg -i ruby_feed.webm -vf \"crop=640:462:0:258\" -an (커밋 안 함). torpor_feeder.jpg = 커먼즈 1280px 썸네일을 crop=1280:924:0:690 으로 잘라 새가 가운데 오게 함."
+}
