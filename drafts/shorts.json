@@ -1,165 +1,168 @@
 {
- "id": "20261020-cowfence",
+ "id": "20261021-goatkitten",
  "mode": "send",
  "format": "meme",
- "topic": "전기 울타리에 걸쳐 있다 주인에게 들킨 소 웨일런, 혼나자 고개를 휘저으며 말대꾸(옆에서 당나귀가 구경) — 17:57 반응형, 밈+내레이션",
+ "topic": "소파 위 샴 아기 고양이 머핀 앞에 아기 염소 아치가 나타남 — 메에~ 소리에 얼어붙었다가 냄새 맡고 하악질(웃음형, 밈+내레이션)",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 1.5,
+ "sfx_max": 4,
  "hook": {
-  "t": "울타리 넘다 걸린 소\n'혼나자마자 말대꾸ㅋㅋ'"
+  "t": "아깽이 앞에 나타난 손님\n'정체는 아기 염소ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @daniel048225"
+  "TikTok @coachadaurie"
  ],
  "scenes": [
   {
    "dur": 2.2,
    "video": {
     "src": "video/v1.mp4",
-    "start": 21.2,
-    "audio": 0.0
+    "start": 3.0,
+    "audio": 0.9
    },
    "caps": [
     {
      "k": "talk",
-     "t": "싫은데?!",
-     "x": 0.24,
-     "y": 0.2,
-     "at": 0.1,
-     "to": 2.2,
-     "s": "boing",
-     "sv": 0.8
-    },
-    {
-     "k": "sfx",
-     "t": "(도리도리)",
-     "x": 0.22,
-     "y": 0.42,
-     "at": 0.6,
-     "to": 2.2
-    }
-   ]
-  },
-  {
-   "say": "퇴근길, 울타리에 걸쳐 있는 소를 발견했습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 6.8,
-    "audio": 0.0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(울타리 위 휴식 중)",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.4
-    }
-   ]
-  },
-  {
-   "dur": 1.8,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 8.7,
-    "audio": 0.0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "앗... 들켰다",
-     "x": 0.4,
-     "y": 0.13,
-     "at": 0.1,
-     "to": 1.8
-    }
-   ]
-  },
-  {
-   "say": "주인이 차에서 내려 단단히 혼을 냈는데",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 18.4,
-    "audio": 0.0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "뭐. 왜.",
+     "t": "너... 뭐냥?",
      "x": 0.3,
-     "y": 0.2,
-     "at": 0.8
-    }
-   ]
-  },
-  {
-   "dur": 2.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 22.4,
-    "audio": 0.0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "울타리가 먼저\n시비 걸었다고!!",
-     "x": 0.5,
-     "y": 0.1,
+     "y": 0.22,
      "at": 0.1,
-     "to": 2.6,
+     "to": 1.5,
      "s": "dundun",
      "sv": 0.7
     },
     {
      "k": "sfx",
-     "t": "(격렬한 항의)",
-     "x": 0.22,
-     "y": 0.36,
-     "at": 0.9,
-     "to": 2.6
+     "t": "(메에에~)",
+     "x": 0.75,
+     "y": 0.12,
+     "at": 1.4,
+     "to": 2.2
     }
    ]
   },
   {
-   "dur": 2.2,
+   "say": "소파에서 놀던 아기 고양이에게 손님이 찾아왔습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 29.0,
-    "audio": 0.0
+    "start": 0.3,
+    "audio": 0.3
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(등장)",
+     "x": 0.78,
+     "y": 0.3,
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "dur": 2.0,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 5.2,
+    "audio": 0.8
    },
    "caps": [
     {
      "k": "talk",
-     "t": "쟤 또 저러네...",
-     "x": 0.27,
-     "y": 0.1,
+     "t": "강아지치곤\n얼굴이 길다...",
+     "x": 0.3,
+     "y": 0.2,
+     "at": 0.1,
+     "to": 2.0,
+     "s": "question",
+     "sv": 0.8
+    }
+   ]
+  },
+  {
+   "say": "정체는 태어난 지 얼마 안 된 아기 염소였는데요.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 7.0,
+    "audio": 0.3
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "안녕 난 아치야",
+     "x": 0.72,
+     "y": 0.35,
+     "at": 0.8
+    }
+   ]
+  },
+  {
+   "dur": 1.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 9.9,
+    "audio": 0.8
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(킁킁)",
+     "x": 0.45,
+     "y": 0.3,
+     "at": 0.1,
+     "to": 1.6
+    },
+    {
+     "k": "talk",
+     "t": "풀 냄새 나...",
+     "x": 0.3,
+     "y": 0.12,
+     "at": 0.4,
+     "to": 1.6
+    }
+   ]
+  },
+  {
+   "dur": 1.9,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 11.4,
+    "audio": 0.9
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "하악!!\n말 걸지 마!!",
+     "x": 0.3,
+     "y": 0.2,
      "at": 0.2,
-     "to": 2.2
+     "to": 1.9,
+     "s": "shock",
+     "sv": 0.9
     },
     {
      "k": "sfx",
-     "t": "(구경 중인 당나귀)",
-     "x": 0.26,
-     "y": 0.4,
-     "at": 0.7,
-     "to": 2.2
+     "t": "(메에에~)",
+     "x": 0.75,
+     "y": 0.1,
+     "at": 1.3,
+     "to": 1.9
     }
    ]
   },
   {
-   "say": "이름은 웨일런, 주인 말로는 맨날 이런답니다.",
+   "say": "겁 없던 아깽이 머핀은 그 뒤 새 가족에게 입양됐습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 25.2,
-    "audio": 0.0
+    "start": 8.0,
+    "audio": 0.3
    },
    "caps": [
     {
      "k": "talk",
-     "t": "반성은 안 함",
-     "x": 0.72,
-     "y": 0.12,
+     "t": "다음엔 안 놀라",
+     "x": 0.3,
+     "y": 0.18,
      "at": 0.8,
      "s": "fail",
      "sv": 0.6
@@ -168,14 +171,15 @@
   }
  ],
  "yt": {
-  "title": "울타리 넘다 걸린 소, 혼나자마자 말대꾸ㅋㅋ #shorts",
-  "description": "미국 사우스캐롤라이나에서 농장 옆을 차로 지나던 대니얼은 소 웨일런(Waylon)이 전기 울타리에 걸쳐 있는 걸 발견했습니다. 경적을 울리자 웨일런은 울타리에서 내려왔고, 대니얼이 차에서 내려 \"울타리에서 떨어져!\"라고 혼내자 고개를 마구 휘저으며 항의하는 듯한 모습을 보였습니다. 옆에서는 당나귀가 이 장면을 지켜봤습니다. 웨일런은 다치지 않았습니다.\n\n대니얼은 \"얘는 맨날 이래요\"라고 적었고, 영상은 하루 남짓 만에 좋아요 170만 개를 넘겼습니다. \"소가 말대꾸하는 건 처음 본다\"는 댓글도 달렸습니다.\n\n여러분 집에도 혼나면 말대꾸하는 친구 있나요?\n\n영상: TikTok @daniel048225\n참고: TAG24 Viral Video of the Day(2026.9.2), The Nerd Stash(2026.9.2)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "아깽이 앞에 나타난 손님, 정체는 아기 염소ㅋㅋ #shorts",
+  "description": "임시 보호 중이던 샴 아기 고양이 머핀(Muffin)이 처음으로 아기 염소 아치(Archie)를 만났습니다. 소파 위에서 등을 둥글게 세우고 눈을 동그랗게 뜬 머핀 앞에서 아치가 '메에~' 하고 울자, 머핀은 조심조심 냄새를 맡다가 아치가 또 울자 뒤로 펄쩍 물러나 하악질을 했습니다.\n\n보호자 아도리 스템숀은 \"머핀은 호기심 많고 용감한 아기 고양이\"였다며 \"아치가 안겨 있을 때 말이 아주 많았다\"고 전했습니다. 이 영상은 약 300만 회 재생됐고, 머핀은 그 뒤 새 가족에게 입양됐으며 아치와 형제 염소 백스터는 지금 바깥에서 지냅니다.\n\n여러분 집 냥이는 처음 보는 동물에게 어떻게 반응하나요?\n\n영상: TikTok @coachadaurie\n참고: Newsweek(2025.10.3)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "소",
-   "농장",
-   "동물",
-   "말대꾸",
-   "당나귀",
+   "고양이",
+   "아기고양이",
+   "염소",
+   "아기염소",
+   "샴고양이",
+   "하악질",
    "웃긴동물",
    "동물쇼츠",
    "오늘의털뭉치"
@@ -185,19 +189,14 @@
  },
  "sources": [
   {
-   "publisher": "TikTok @daniel048225",
-   "url": "https://www.tiktok.com/@daniel048225/video/7680373563320323359",
-   "date": "2026.9"
+   "publisher": "TikTok @coachadaurie",
+   "url": "https://www.tiktok.com/@coachadaurie/video/7538906184007322894",
+   "date": "2025.8.15"
   },
   {
-   "publisher": "TAG24",
-   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-september-2-2026-cow-throws-temper-tantrum-after-farmer-catches-escape-attempt-3526680",
-   "date": "2026.9.2"
-  },
-  {
-   "publisher": "The Nerd Stash",
-   "url": "https://thenerdstash.com/waylon-looks-like-hell-do-it-again-south-carolina-mans-electric-fence-rescue-turns-into-hilarious-argument-with-cow/",
-   "date": "2026.9.2"
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/kittens-baffled-reaction-to-meeting-baby-goat-seen-by-millions-10821727",
+   "date": "2025.10.3"
   }
  ],
  "publish_now": true
