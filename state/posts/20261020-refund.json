@@ -2,7 +2,7 @@
  "id": "20261020-refund",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-20T11:02:26.301638+09:00",
  "publish_at": "2026-10-20T18:00:00+09:00",
  "topic": "몰라서 못 받은 병원비 환급금 482억, 석 달 안에 사라진다",
@@ -46,5 +46,8 @@
   "media/20261020-refund/02.jpg"
  ],
  "tg_msg": 679,
- "decided_at": "2026-10-20T11:02:28.975689+09:00"
+ "decided_at": "2026-10-20T11:02:28.975689+09:00",
+ "ig_media_id": "17978313572928600",
+ "permalink": "https://www.instagram.com/p/Detdhkpm3GH/",
+ "published_at": "2026-10-20T18:01:08.314416+09:00"
 }
