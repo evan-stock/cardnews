@@ -8,7 +8,7 @@
 
 2026.10.20 2차 교체(나머지 14종도 Freesound CC0 실제 녹음, 출처 표기 불필요):
 pop=Cartoon Pop(unfa 245645) · whoosh=Whoosh(qubodup 60013) · ding=Ding! idea(Saya13 407258) · fail=horn_fail_wahwah_3(TaranP 362204) · tada=Tada Fanfare A(plasterbrain 397355) · question=Slide Whistle 상승(sheepfilms 202753) · sneak=The Doofus Sneaks Around 앞 1.8초(dominictreis 423321) · heart=Heartbeat 97 BPM(Cloud-10 688735) · shock=Shocked gasp(GentlemanWalrus 180005) · squeak=Squeaky Toy #1(Breviceps 468443) · slide=classic dizzy take slide whistle(martian 403002) · tick=Loopable Ticking Clock(OwlStorm 212181) · poof=Poof of Smoke(Planman 208111) · nom=Munching Food(Kodack 256311)
-이제 18종 모두 실제 녹음. 아래 표의 길이는 예전 합성음 기준이라 실제와 다를 수 있음.
+이제 18종 모두 실제 녹음. 같은 날 '투머치' 피드백으로 전부 음량을 낮추고(최고 -10.5dB) 긴 소리(빠밤·두근두근·째깍·두둥 등)를 1~1.6초로 줄임. 아래 표의 길이는 예전 합성음 기준이라 실제와 다를 수 있음.
 
 원래 합성음으로 되돌리기: python3 scripts/sfx/make_sfx.py 로 다시 만들거나 git 기록에서 복원.
 

@@ -488,7 +488,34 @@ def local_tts_on(d):
             and d.get("narration") is not False), c
 
 
+def limit_sfx(d):
+    """효과음이 과하면 안 된다(2026.10.20 사용자 '투머치'): 장면당 1개, 영상 전체 원고 sfx_max(기본 4)개까지만.
+    더 많이 적혀 있으면 첫 장면부터 끝 장면까지 고르게 골라 남긴다. 자막(caps)은 그대로, 효과음만 뺀다."""
+    import copy
+    d = copy.deepcopy(d)
+    k = int(d.get("sfx_max", CFG.get("shorts", {}).get("sfx_max", 4)))
+    cand = []  # 장면마다 첫 효과음 하나: (장면 번호, 종류, 위치)
+    for i, scene in enumerate(d["scenes"]):
+        if scene.get("sfx"):
+            cand.append((i, "sfx", 0))
+        else:
+            for j, cap in enumerate(scene.get("caps") or []):
+                if cap.get("s"):
+                    cand.append((i, "cap", j))
+                    break
+    n = len(cand)
+    pick = set() if k <= 0 else set(cand) if n <= k else {cand[0]} if k == 1 else \
+        {cand[round(x * (n - 1) / (k - 1))] for x in range(k)}
+    for i, scene in enumerate(d["scenes"]):
+        scene["sfx"] = [fx for j, fx in enumerate(scene.get("sfx") or []) if (i, "sfx", j) in pick]
+        for j, cap in enumerate(scene.get("caps") or []):
+            if cap.get("s") and (i, "cap", j) not in pick:
+                cap.pop("s", None)
+    return d
+
+
 def render(d):
+    d = limit_sfx(d)
     ch = (CFG.get("shorts", {}).get("channels") or {}).get((d.get("yt") or {}).get("channel") or "", {})
     if ch.get("voice"):  # 채널 기본 목소리(예: 쇼핑 채널 = 진우). 원고 voice가 있으면 그게 우선
         d = {**d, "voice": {**ch["voice"], **(d.get("voice") or {})}}
