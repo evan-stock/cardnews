@@ -1,0 +1,51 @@
+{
+ "id": "20261020-cowfence",
+ "created": "2026-10-20T18:29:47.497964+09:00",
+ "items": [
+  {
+   "key": "dedf33a68f2c",
+   "text": "퇴근길, 울타리에 걸쳐 있는 소를 발견했습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "e98792fbd3bc",
+   "text": "주인이 차에서 내려 단단히 혼을 냈는데",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "3764d61208dc",
+   "text": "이름은 웨일런, 주인 말로는 맨날 이런답니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
