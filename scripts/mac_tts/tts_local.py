@@ -118,8 +118,9 @@ def main():
                      f"tts(mac): {vid} {it['key']} words")
             time.sleep(1)
         gh(f"/contents/{f['path']}", "DELETE", {"message": f"tts(mac): {vid} 완료", "sha": meta["sha"]})
-        gh("/actions/workflows/shorts.yml/dispatches", "POST", {"ref": "main", "inputs": {"cmd": "render"}})
-        log(f"✅ {vid} 목소리 올림 → 영상 만들기 다시 실행")
+        if q.get("render", True):  # 오늘의쓸모(render false)는 채팅 세션이 직접 렌더
+            gh("/actions/workflows/shorts.yml/dispatches", "POST", {"ref": "main", "inputs": {"cmd": "render"}})
+        log(f"✅ {vid} 목소리 올림" + (" → 영상 만들기 다시 실행" if q.get("render", True) else ""))
 
 
 if __name__ == "__main__":
