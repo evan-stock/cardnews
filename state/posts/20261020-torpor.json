@@ -1,7 +1,7 @@
 {
  "id": "20261020-torpor",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-20T13:55:34.377087+09:00",
  "publish_at": "2026-10-20T13:55:34.377101+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 697
+ "tg_msg": 697,
+ "decided_at": "2026-10-20T14:08:30.902225+09:00",
+ "yt_id": "zGqC12Xf9Ew",
+ "permalink": "https://youtube.com/shorts/zGqC12Xf9Ew",
+ "published_at": "2026-10-20T14:08:33.970593+09:00"
 }
