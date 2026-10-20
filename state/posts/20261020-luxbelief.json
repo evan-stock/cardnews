@@ -2,7 +2,7 @@
  "id": "20261020-luxbelief",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-20T09:27:29.360677+09:00",
  "publish_at": "2026-10-20T12:00:00+09:00",
  "topic": "프랑스 10/17 물가 시위 약탈 — 명품은 회복, 동네 가게는 못 버틴다 / 사치 신념",
@@ -89,5 +89,8 @@
   "media/20261020-luxbelief/07.jpg"
  ],
  "tg_msg": 676,
- "decided_at": "2026-10-20T09:27:33.071863+09:00"
+ "decided_at": "2026-10-20T09:27:33.071863+09:00",
+ "ig_media_id": "17985107738896068",
+ "permalink": "https://www.instagram.com/p/Des0VcAlBCd/",
+ "published_at": "2026-10-20T12:01:11.707622+09:00"
 }
