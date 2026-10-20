@@ -1,25 +1,16 @@
 [
  {
-  "id": "20261020-kimhq",
+  "id": "20261020-kimhq2",
   "slot": "evening",
   "mode": "collect",
-  "limit": 20,
-  "image_pages": [
-   "https://en.wikipedia.org/wiki/Kim_Jong_Un",
-   "https://ko.wikipedia.org/wiki/김정은",
-   "https://www.nknews.org/2026/10/",
-   "https://en.yna.co.kr/view/AEN20261020003800315"
-  ],
+  "limit": 1,
+  "image_pages": [],
   "image_urls": [
-   "https://commons.wikimedia.org/wiki/Special:FilePath/Kim_Jong-un_April_2019.jpg?width=2400",
-   "https://commons.wikimedia.org/wiki/Special:FilePath/Kim_Jong_Un_2019.jpg?width=2400",
-   "https://commons.wikimedia.org/wiki/Special:FilePath/Vladimir_Putin_and_Kim_Jong-un_(2019-04-25)_03.jpg?width=2400"
+   "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Kim_Jong-un_(2023-09-13)_01.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Vladimir_Putin_and_Kim_Jong-un_(2024-06-19)_11.jpg"
   ],
-  "read_pages": [
-   "https://en.wikipedia.org/w/api.php?action=query&titles=Kim_Jong_Un&prop=pageimages&piprop=original|name&format=json",
-   "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=Kim%20Jong-un%20Putin&srnamespace=6&format=json&srlimit=40",
-   "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=Kim%20Jong%20Un%202023&srnamespace=6&format=json&srlimit=40"
-  ],
+  "referer": "https://commons.wikimedia.org/",
   "sources": []
  }
 ]
