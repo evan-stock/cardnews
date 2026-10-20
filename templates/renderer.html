@@ -128,7 +128,7 @@ function oneEnd(c,s,im){/* 한 장 승부 표지 짝 CTA: 흐린 사진 + 굵은
  c.strokeStyle='rgba(255,255,255,.9)';c.lineWidth=3;c.beginPath();c.roundRect(px,py,pw,84,42);c.stroke();c.fillStyle='#fff';c.textAlign='center';c.fillText(lab,W/2,py+55);
  if(LOGO&&LOGO.naturalWidth){const h=54,w=LOGO.naturalWidth*h/LOGO.naturalHeight;c.drawImage(LOGO,(W-w)/2,H-62-h,w,h)}}
 function oneBody(c,s,im){/* 한 장 승부 틀 본문 장. 기본=왼쪽 정렬·작은 글씨(사진 우선), S[0].bal==='center'면 가운데 정렬 */
- if(im)fit(c,im,0,0,W,H);else{c.fillStyle='#0c0c0e';c.fillRect(0,0,W,H)}
+ if(im)fit(c,im,0,0,W,H);else if(!s.clear){c.fillStyle='#0c0c0e';c.fillRect(0,0,W,H)}
  const cen=S[0]&&S[0].bal==='center',P=90,M=W-2*P,X=cen?W/2:P,al=cen?'center':'left',FM='"PretendardM",'+F,tl=String(s.t||'').split('\n'),qs={q:false};
  let ts=cen?74:62;c.font='400 '+ts+'px '+FT;while(ts>46&&tl.some(l=>c.measureText(l.replace(/['‘’]/g,'')).width>M)){ts-=2;c.font='400 '+ts+'px '+FT}
  const bs=cen?38:33,blh=bs*1.58;c.font='400 '+bs+'px '+FM;try{c.letterSpacing='-0.5px'}catch(e){};const bl=String(s.b||'').trim()?wrap(c,s.b,M):[];try{c.letterSpacing='0px'}catch(e){}
@@ -151,7 +151,7 @@ function oneCoverLeft(c,s){/* 한 장 승부 표지 '릴스형': 왼쪽 정렬·
  ls.forEach((l,k)=>{const qs={q:false},t=l.replace(/['‘’]/g,'');if(k===ls.length-1){c.fillStyle='#FFD84D';c.textAlign='left';c.fillText(t,P,y+k*lh)}else rich(c,l,P,y+k*lh,'left','#fff','#FFD84D',qs)});c.restore();
  if(LOGO&&LOGO.naturalWidth){const h=46,w=LOGO.naturalWidth*h/LOGO.naturalHeight;c.drawImage(LOGO,P,y-sz-30-h,w,h)}}
 function draw(cv,i){const c=cv.getContext('2d'),s=S[i],n=S.length,base=COL[st.col],light=st.col===3,P=90,M=W-P*2,first=i===0,ts=first?100:78,im=s.vid||s.img;
- cv.width=W;cv.height=H;c.textBaseline='alphabetic';if(n>1&&i===n-1)return (S[0]&&S[0].lay==='one')?oneEnd(c,s,im):endCard(c,s,i,n,im);if(first&&s.lay==='one')return (s.cal==='left'?oneCoverLeft(c,s):oneCover(c,s));if(!first&&S[0]&&S[0].lay==='one'&&(String(s.t||'').trim()||String(s.b||'').trim())&&!s.clear)return oneBody(c,s,im);
+ cv.width=W;cv.height=H;c.textBaseline='alphabetic';if(n>1&&i===n-1)return (S[0]&&S[0].lay==='one')?oneEnd(c,s,im):endCard(c,s,i,n,im);if(first&&s.lay==='one')return (s.cal==='left'?oneCoverLeft(c,s):oneCover(c,s));if(!first&&S[0]&&S[0].lay==='one'&&(String(s.t||'').trim()||String(s.b||'').trim()))return oneBody(c,s,im);
  if(!first&&!String(s.t||'').trim()&&im&&st.sty!=='min'){fit(c,im,0,0,W,H);
   if(String(s.b||'').trim()){const g=c.createLinearGradient(0,H*.6,0,H);g.addColorStop(0,'rgba(0,0,0,0)');g.addColorStop(1,'rgba(0,0,0,.85)');c.fillStyle=g;c.fillRect(0,H*.6,W,H*.4);
    c.font='700 44px '+F;c.fillStyle='#fff';c.textAlign='left';const ls=wrap(c,s.b,M);ls.forEach((l,k)=>c.fillText(l,P,H-235-(ls.length-1-k)*62))}
