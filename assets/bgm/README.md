@@ -46,3 +46,22 @@
 | worthy/monkeys_spinning.mp3 | Monkeys Spinning Monkeys | 88.5초 | vol 0.94 | 웃김·황당 | "Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
 | worthy/fluffing_a_duck.mp3 | Fluffing a Duck | 3.0초 | vol 0.85 | 귀엽고 엉뚱한 반전 | "Fluffing a Duck" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
 | worthy/pixel_peeker.mp3 | Pixel Peeker Polka (faster) | 26.5초 | vol 0.44 | 정신없음·기계·코믹 | "Pixel Peeker Polka (faster)" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+
+
+## 오늘의쓸모 긴장·미스터리 추가 12곡 (Kevin MacLeod, CC BY 4.0, 2026.10.21 사용자: "브금 더 찾아줘")
+음량은 Hitman vol 0.5(평균 약 -20dB) 기준. 하이라이트 시작은 bgm_highlight.py --len 20 측정값(들어 보고 고칠 것).
+
+| 파일 | 곡 | 하이라이트 시작 | 음량 | 느낌 | 표기 |
+|---|---|---|---|---|---|
+| worthy/darkest_child.mp3 | Darkest Child | 54.0초 | vol 0.56 | 긴장·공포 미스터리 | "Darkest Child" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/the_descent.mp3 | The Descent | 125.5초 | vol 0.62 | 웅장한 위기 | "The Descent" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/clash_defiant.mp3 | Clash Defiant | 135.0초 | vol 0.41 | 웅장·대결  | "Clash Defiant" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/unseen_horrors.mp3 | Unseen Horrors | 150.5초 | vol 2.85 | 오싹·정체불명  | "Unseen Horrors" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/aggressor.mp3 | Aggressor | 145.0초 | vol 0.44 | 강한 비트·위협 | "Aggressor" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/five_armies.mp3 | Five Armies | 129.5초 | vol 0.46 | 웅장·전쟁  | "Five Armies" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/interloper.mp3 | Interloper | 82.5초 | vol 1.11 | 잔잔한 긴장 | "Interloper" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/crypto.mp3 | Crypto | 3.0초 | vol 0.9 | 전자음 미스터리 | "Crypto" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/pamgaea.mp3 | Pamgaea | 8.0초 | vol 0.52 | 빠른 모험 | "Pamgaea" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/lightless_dawn.mp3 | Lightless Dawn | 271.5초 | vol 2.02 | 어두운 몰입 | "Lightless Dawn" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/sneaky_adventure.mp3 | Sneaky Adventure | 48.0초 | vol 1.12 | 엉뚱한 잠입 | "Sneaky Adventure" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/dark_fog.mp3 | Dark Fog | 108.0초 | vol 0.56 | 음산한 미스터리 | "Dark Fog" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
