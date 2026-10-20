@@ -1,8 +1,0 @@
-ERROR: [TikTok] 7596916168745667895: Your IP address is blocked from accessing this post
-실패: https://www.tiktok.com/@vernushy/video/7596916168745667895
-WARNING: [generic] Falling back on generic information extractor
-ERROR: Unsupported URL: https://www.tiktok.com/embed/v2/7596916168745667895
-실패: https://www.tiktok.com/embed/v2/7596916168745667895
-WARNING: [generic] Falling back on generic information extractor
-ERROR: Unsupported URL: https://m.tiktok.com/v/7596916168745667895.html
-실패: https://m.tiktok.com/v/7596916168745667895.html

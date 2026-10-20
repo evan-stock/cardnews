@@ -1,2 +1,0 @@
-ERROR: unable to download video data: HTTP Error 403: Forbidden
-실패: https://www.tiktok.com/@itscalledholly/video/7521127913333263623
