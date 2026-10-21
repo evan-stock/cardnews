@@ -2,7 +2,7 @@
  "id": "20261021-schoolbeer",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-21T10:14:05.345855+09:00",
  "publish_at": "2026-10-21T12:30:00+09:00",
  "topic": "경남 사립고 현장체험학습 점심 뷔페에서 교감·교사 4명·학생 10명 생맥주 음주, 도교육청 조사",
@@ -41,5 +41,8 @@
   "media/20261021-schoolbeer/02.jpg"
  ],
  "tg_msg": 775,
- "decided_at": "2026-10-21T10:14:08.360392+09:00"
+ "decided_at": "2026-10-21T10:14:08.360392+09:00",
+ "ig_media_id": "18167248411486380",
+ "permalink": "https://www.instagram.com/p/DevcrxxFBmT/",
+ "published_at": "2026-10-21T12:32:17.871223+09:00"
 }
