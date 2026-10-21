@@ -1,12 +1,20 @@
 [
  {
-  "id": "20261022-guamletter",
+  "id": "20261022-fakebookstore",
   "slot": "lunch",
   "mode": "collect",
-  "topic": "괌 호텔 취소 편지",
-  "image_urls": ["https://img-cdn.theqoo.net/ghqyTs.jpg", "https://img-cdn.theqoo.net/ukjKjJ.jpg", "https://img-cdn.theqoo.net/VQjgVe.webp"],
-  "referer": "https://theqoo.net/",
-  "read_pages": ["https://theqoo.net/hot/4381757539"],
-  "image_pages": []
+  "topic": "약탈 속 살아남은 서점 사진은 AI였다 + 실제로 털린 서점들",
+  "read_pages": [
+   "https://www.titrespresse.com/26010232603/verif-librairie-pillages",
+   "https://www.ici.fr/emissions/l-info-d-ici-matin-ici-isere/c-est-devaste-la-librairie-momie-manga-saccagee-par-des-casseurs-en-marge-de-la-manifestation-du-17-octobre-2954115"
+  ],
+  "image_pages": [
+   "https://www.ici.fr/emissions/l-info-d-ici-matin-ici-isere/c-est-devaste-la-librairie-momie-manga-saccagee-par-des-casseurs-en-marge-de-la-manifestation-du-17-octobre-2954115",
+   "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/mobilisation-du-17-octobre-entre-vol-et-destruction-magasins-ravages-des-commercants-de-grenoble-dressent-un-triste-bilan-des-pillages-3435822.html",
+   "https://www.livreshebdo.fr/article/manifestations-du-17-octobre-des-librairies-attaquees-et-pillees-dans-plusieurs-villes",
+   "https://actualitte.com/article/134705/librairie/apres-les-violences-du-17-octobre-le-bilan-s-alourdit-pour-les-librairies",
+   "https://www.idboox.com/news-livres/journee-du-17-octobre-des-librairies-egalement-victimes-de-pillages-videos-edifiantes/",
+   "https://www.titrespresse.com/26010232603/verif-librairie-pillages"
+  ]
  }
 ]
