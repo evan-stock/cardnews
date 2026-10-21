@@ -1,1 +1,7 @@
-⏳ 3개 장면 목소리를 맥북에서 만드는 중
+장면 1/6 silent 누적 2.2초
+장면 2/6 typecast 누적 4.9초
+장면 3/6 silent 누적 6.7초
+장면 4/6 typecast 누적 10.1초
+장면 5/6 silent 누적 11.9초
+장면 6/6 typecast 누적 16.2초
+완성: /home/runner/work/cardnews/cardnews/media/20261021-dogcatstretch/short.mp4 (16.2초, TTS ['silent', 'typecast'])

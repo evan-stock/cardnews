@@ -1,0 +1,50 @@
+{
+ "id": "20261021-dogcatstretch",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-21T20:13:27.959371+09:00",
+ "publish_at": "2026-10-21T20:13:27.959393+09:00",
+ "publish_now": true,
+ "topic": "햇볕 쬐던 골든 리트리버가 벌러덩 뒤집자 옆의 고양이도 똑같은 자세로 따라 뒤집음(웃음형, 밈+내레이션)",
+ "sources": [
+  {
+   "publisher": "TikTok @chlo.lepiver",
+   "url": "https://www.tiktok.com/@chlo.lepiver/video/7611184143585660192",
+   "date": "2026.2.27"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/inseparable-dog-cat-synchronized-sunbathing-viral-11616827",
+   "date": "2026.3.4"
+  }
+ ],
+ "seconds": 16.19,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261021-dogcatstretch/short.mp4"
+ ],
+ "app_file": "media/20261021-dogcatstretch/short_nobgm.mp4",
+ "yt": {
+  "title": "리트리버가 벌러덩 눕자, 고양이도 똑같이 벌러덩ㅋㅋ #shorts",
+  "description": "프랑스에 사는 골든 리트리버 조이스와 고양이 살렘이 햇볕 드는 거실 바닥에 나란히 누워 있습니다. 리트리버가 먼저 몸을 굴려 배를 드러내고 다리를 쭉 뻗자, 지켜보던 고양이도 몇 초 만에 똑같은 자세로 뒤집어 버립니다.\n\n보호자 클로에는 \"우리 고양이와 강아지는 정말 가까워서 햇볕 아래 같이 있거나 함께 잠드는 걸 좋아한다\"고 말했습니다. 이 영상은 틱톡에서 400만 회 넘게 재생됐습니다. 개와 고양이를 함께 키우는 1,200여 가구를 조사한 PLOS ONE 연구에 따르면 68.5%는 둘이 같이 자기도 하고, 62.4%는 같이 논다고 합니다.\n\n여러분 집 동물들도 서로 따라 하나요?\n\n영상: TikTok @chlo.lepiver\n참고: Newsweek(2026.3.4)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @chlo.lepiver 2026.2.27, Newsweek 2026.3.4\n사진·영상: TikTok @chlo.lepiver\n음성: Typecast\n\n#shorts #강아지 #고양이 #골든리트리버 #개냥이",
+  "tags": [
+   "강아지",
+   "고양이",
+   "골든리트리버",
+   "개냥이",
+   "따라하기",
+   "웃긴동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "b4ea70db48a2",
+ "tg_msg": 799
+}
