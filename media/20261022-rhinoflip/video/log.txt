@@ -1,3 +1,0 @@
-WARNING: [generic] Falling back on generic information extractor
-ERROR: Unsupported URL: https://www.vettimes.com/news/vets/small-animal-vets/study-finds-rhinos-can-fly-upside-down
-실패: https://x.com/HelpingRhinos/status/1958786464789274944
