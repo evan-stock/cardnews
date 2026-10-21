@@ -1,6 +1,5 @@
-{"id": "20261021-sheepraddle", "frames": 0, "urls": [
- "https://www.tiktok.com/@farmer_lel/video/7284873222028299553",
- "https://www.tiktok.com/@adam.henson/video/7436503709384740128",
- "https://www.tiktok.com/@the.kernow.shepherdess/video/7404510321693543712",
- "https://www.tiktok.com/@farmer_lel/video/7691386103517007137"
+{"id": "20261021-sheepraddle", "frames": 0, "try": 2, "urls": [
+ "https://www.tiktok.com/@theredshepherdess/video/7455073846958345505",
+ "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=raddle%20sheep&srnamespace=6&format=json&srlimit=40",
+ "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=tupping%20ewes%20marked&srnamespace=6&format=json&srlimit=40"
 ]}
