@@ -2,7 +2,7 @@
  "id": "20261021-ceragem",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-21T09:57:08.103820+09:00",
  "publish_at": "2026-10-21T10:00:00+09:00",
  "topic": "세라젬 창업주 이환성 회장, 2003년 신입 입사한 이경수 대표를 성인 양자로 입양해 경영권 승계",
@@ -73,5 +73,8 @@
   "media/20261021-ceragem/07.jpg"
  ],
  "tg_msg": 769,
- "decided_at": "2026-10-21T09:57:11.761386+09:00"
+ "decided_at": "2026-10-21T09:57:11.761386+09:00",
+ "ig_media_id": "18101194403352359",
+ "permalink": "https://www.instagram.com/p/DevLak9Gkgi/",
+ "published_at": "2026-10-21T10:01:23.755646+09:00"
 }
