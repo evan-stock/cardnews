@@ -1,7 +1,7 @@
 {
  "id": "20261021-dogcatstretch",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-21T20:13:27.959371+09:00",
  "publish_at": "2026-10-21T20:13:27.959393+09:00",
  "publish_now": true,
@@ -46,5 +46,9 @@
   "channel": null
  },
  "draft_hash": "b4ea70db48a2",
- "tg_msg": 799
+ "tg_msg": 799,
+ "decided_at": "2026-10-21T20:16:16.416547+09:00",
+ "yt_id": "Wel_L9ptIUY",
+ "permalink": "https://youtube.com/shorts/Wel_L9ptIUY",
+ "published_at": "2026-10-21T20:16:19.612590+09:00"
 }
