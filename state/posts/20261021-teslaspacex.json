@@ -2,7 +2,7 @@
  "id": "20261021-teslaspacex",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-21T13:08:49.791738+09:00",
  "publish_at": "2026-10-21T13:40:13.854234+09:00",
  "topic": "머스크, 스페이스X 3분기 실적 발표서 테슬라·스페이스X 합병 검토 특별위원회 구성 공개 — 팩트체크",
@@ -71,5 +71,8 @@
   "media/20261021-teslaspacex/06.jpg"
  ],
  "tg_msg": 785,
- "decided_at": "2026-10-21T13:40:13.854234+09:00"
+ "decided_at": "2026-10-21T13:40:13.854234+09:00",
+ "ig_media_id": "17899204317393339",
+ "permalink": "https://www.instagram.com/p/Devkp0YlLqr/",
+ "published_at": "2026-10-21T13:41:51.807184+09:00"
 }
