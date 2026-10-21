@@ -1,0 +1,51 @@
+{
+ "id": "20261021-horseturtle",
+ "created": "2026-10-21T13:32:39.924758+09:00",
+ "items": [
+  {
+   "key": "21f74614ae63",
+   "text": "산책하던 말에게 길에서 주운 거북이를 보여줬습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "78b64a201e9f",
+   "text": "말은 그대로 주인을 두고 혼자 가버렸는데요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "말은 처음 보는 물건에 쉽게 놀라는 동물이라고 합니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "b4381eeb503a",
+   "text": "말은 처음 보는 물건에 쉽게 놀라는 동물이라고 합니다.",
+   "ctx": {
+    "previous_text": "말은 그대로 주인을 두고 혼자 가버렸는데요.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
