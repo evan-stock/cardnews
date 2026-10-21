@@ -1,20 +1,65 @@
 [
  {
-  "id": "20261022-fakebookstore",
+  "id": "20261022-guamletter",
   "slot": "lunch",
-  "mode": "collect",
-  "topic": "약탈 속 살아남은 서점 사진은 AI였다 + 실제로 털린 서점들",
-  "read_pages": [
-   "https://www.titrespresse.com/26010232603/verif-librairie-pillages",
-   "https://www.ici.fr/emissions/l-info-d-ici-matin-ici-isere/c-est-devaste-la-librairie-momie-manga-saccagee-par-des-casseurs-en-marge-de-la-manifestation-du-17-octobre-2954115"
+  "mode": "render",
+  "topic": "코로나에 환불 거부한 괌 호텔에 보낸 취소 편지",
+  "category": "국내 커뮤니티 화제 · 웃음",
+  "emotion": "웃음(어이없음)",
+  "core": "2020.3.16 커뮤니티 글. 코로나로 한국발 괌 운항 중단, 호텔은 날짜 변경만 가능하다며 취소 거부 → '미스 팍'이 '일본으로 밀입국해 신분을 바꾸는 방법뿐'이라는 반협박 취소 편지. 이후 무료 취소로 바뀌었다는 댓글. 2026.10.21 더쿠 HOT 재확산(조회 9만, 댓글 392).",
+  "risk": "호텔 실명(두짓타니) 비공개 처리. '일본인 살해' 대목은 원문 농담 그대로(표지에는 안 씀). 6년 전 글임을 명시.",
+  "slides": [
+   {
+    "lay": "one",
+    "t": "코로나에도 환불 거부한 괌 호텔\n한국인이 보낸 '협박 편지'"
+   },
+   {
+    "sub": "2020년 3월, 실제 커뮤니티 글",
+    "t": "편지는 정중하게 시작합니다"
+   },
+   {
+    "sub": "그리고 문제의 문단",
+    "t": "괌 가는 '유일한 방법'"
+   },
+   {
+    "sub": "마무리",
+    "t": "서명은 이미 '야마다'"
+   },
+   {
+    "sub": "며칠 뒤 올라온 후기",
+    "t": "결국 '무료 취소' 해줬다",
+    "b": "댓글은 미스 팍보다 야마다상 걱정뿐이었습니다."
+   },
+   {
+    "t": "환불 못 받아 속 터진\n친구에게 보내주세요",
+    "b": "팔로우하면 매일 화제 소식"
+   }
   ],
-  "image_pages": [
-   "https://www.ici.fr/emissions/l-info-d-ici-matin-ici-isere/c-est-devaste-la-librairie-momie-manga-saccagee-par-des-casseurs-en-marge-de-la-manifestation-du-17-octobre-2954115",
-   "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/mobilisation-du-17-octobre-entre-vol-et-destruction-magasins-ravages-des-commercants-de-grenoble-dressent-un-triste-bilan-des-pillages-3435822.html",
-   "https://www.livreshebdo.fr/article/manifestations-du-17-octobre-des-librairies-attaquees-et-pillees-dans-plusieurs-villes",
-   "https://actualitte.com/article/134705/librairie/apres-les-violences-du-17-octobre-le-bilan-s-alourdit-pour-les-librairies",
-   "https://www.idboox.com/news-livres/journee-du-17-octobre-des-librairies-egalement-victimes-de-pillages-videos-edifiantes/",
-   "https://www.titrespresse.com/26010232603/verif-librairie-pillages"
+  "images": [
+   "letter_cover",
+   "letter_p1",
+   "letter_p2",
+   "letter_p3",
+   "comments",
+   "letter_cover"
+  ],
+  "caption": "[환불 거부한 괌 호텔에 보낸 '취소 편지']\n\n2020년 3월, 코로나가 막 번지던 때 한 커뮤니티에 올라온 글입니다. 괌 호텔을 예약했던 글쓴이는 취소를 요청했지만, 호텔은 날짜 변경 말고는 해줄 수 없다고 답했다고 합니다. 그런데 한국에서 괌으로 가는 비행기 운항은 이미 멈춘 상태였습니다.\n\n그래서 쓴 편지가 이것입니다. 날짜를 바꿔도 갈 방법이 없으니, 남은 길은 바다를 헤엄쳐 일본으로 건너가 '야마다'가 되는 것뿐이라는 내용입니다. 그러니 예약을 취소해주든지, 예약자 이름을 '미스 야마다'로 바꿔달라며 서명까지 야마다로 끝냅니다. 물론 진담이 아니라 웃자고 쓴 글입니다.\n\n며칠 뒤 그 호텔이 무료 취소를 해준다는 후기가 올라오자, 댓글은 '다행이네 일본의 야마다상은!'으로 가득 찼습니다. 6년이 지난 지금도 더쿠 HOT에서 조회 9만을 넘기며 다시 퍼지고 있습니다.\n\n여러분이라면 환불 거부당했을 때 이 편지, 보낸다 vs 참는다?\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "hashtags": [
+   "괌여행",
+   "호텔취소",
+   "환불거부",
+   "레전드편지",
+   "야마다상"
+  ],
+  "sources": [
+   {
+    "publisher": "더쿠 HOT(원글 2020.3 온라인 커뮤니티)",
+    "date": "2026.10.21",
+    "url": "https://theqoo.net/hot/4381757539"
+   }
+  ],
+  "photo_credits": [
+   "편지·댓글: 원문 내용을 오늘의쓸모가 재구성(호텔명 비공개)"
   ]
  }
 ]
