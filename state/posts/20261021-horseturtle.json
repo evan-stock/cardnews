@@ -1,0 +1,49 @@
+{
+ "id": "20261021-horseturtle",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-21T13:38:02.750452+09:00",
+ "publish_at": "2026-10-21T13:38:02.750477+09:00",
+ "publish_now": true,
+ "topic": "산책하던 말에게 길에서 주운 거북이를 보여줬더니 킁킁 냄새만 맡고 주인을 두고 혼자 집으로 가버림(웃음형, 밈+내레이션)",
+ "sources": [
+  {
+   "publisher": "TikTok @revelation_dressage",
+   "url": "https://www.tiktok.com/@revelation_dressage/video/7506712733816048927",
+   "date": "2025.5"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/woman-introduces-horse-turtle-reaction-leaves-internet-hysterics-2077028",
+   "date": "2025.5.26"
+  }
+ ],
+ "seconds": 16.62,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261021-horseturtle/short.mp4"
+ ],
+ "app_file": "media/20261021-horseturtle/short_nobgm.mp4",
+ "yt": {
+  "title": "말한테 거북이 보여줬더니, 주인 두고 혼자 귀가ㅋㅋ #shorts",
+  "description": "산책길에서 거북이를 주운 보호자가 하얀 말에게 거북이를 코앞까지 보여줬습니다. 말은 몇 번 킁킁 냄새를 맡더니 그대로 몸을 돌려 혼자 집 쪽으로 가버렸고, 보호자는 거북이를 들고 걸어서 돌아와야 했습니다.\n\n보호자에 따르면 이 말은 기린·돼지·소와도 잘 지내는 친구인데, 거북이만은 예외였던 모양입니다. 거북이는 근처 물가에 무사히 놓아줬다고 합니다. 수의 병원(Adobe Veterinary Center)에 따르면 말은 쉽게 놀라는 동물이고, 특히 처음 보는 것을 가장 무서워합니다.\n\n여러분 집 동물은 처음 보는 친구에게 어떻게 반응하나요?\n\n영상: TikTok @revelation_dressage\n참고: Newsweek(2025.5.26)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @revelation_dressage 2025.5, Newsweek 2025.5.26\n사진·영상: TikTok @revelation_dressage\n음성: Typecast\n\n#shorts #말 #거북이 #웃긴동물 #동물반응",
+  "tags": [
+   "말",
+   "거북이",
+   "웃긴동물",
+   "동물반응",
+   "말반응",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "52ff29fdbf82",
+ "tg_msg": 789
+}
