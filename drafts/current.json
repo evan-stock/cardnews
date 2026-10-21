@@ -1,20 +1,21 @@
 [
  {
-  "id": "20261022-bukangi",
+  "id": "20261022-coldhot",
   "slot": "lunch",
   "mode": "collect",
-  "topic": "부산 북항 상어 부캉이, 33일 만에 수로 탈출 후 밤에 다시 돌아와 그물 앞 배회",
+  "topic": "같은 주 한국은 내륙 대부분 한파주의보·영하권, 일본 도쿄·오사카·나고야는 관측 이래 가장 늦은 30℃ 한여름 더위",
   "image_pages": [
-   "https://www.segye.com/newsView/20261022503883",
-   "https://www.etoday.co.kr/news/view/2638617",
-   "https://www.goodmorningcc.com/news/articleView.html?idxno=454443",
-   "https://www.news1.kr/local/busan-gyeongnam/6327860",
-   "https://www.ajunews.com/view/20261021204622579",
-   "https://weekly.khan.co.kr/article/202610220139001/",
-   "https://www.topstarnews.net/news/articleView.html?idxno=16254177",
-   "https://www.abcn.kr/news/articleView.html?idxno=93434",
-   "https://news.jkn.co.kr/post/1040427",
-   "https://www.seoul.co.kr/news/society/2026/10/20/20261020500276"
+   "https://www.seoul.co.kr/news/society/2026/10/22/20261022008005",
+   "https://www.topstarnews.net/news/articleView.html?idxno=16254388",
+   "https://www.news1.kr/local/kangwon/6327724",
+   "https://www.thefairnews.co.kr/news/articleView.html?idxno=91472",
+   "https://www.mediafine.co.kr/news/articleView.html?idxno=93201",
+   "https://newspim.com/news/view/20261021001318",
+   "https://biz.sbs.co.kr/article/20000341339",
+   "https://weathernews.jp/news/202610/210141/",
+   "https://weathernews.jp/news/202610/210181/",
+   "https://tenki.jp/forecaster/gureweather/2026/10/21/41039.html",
+   "https://news.web.nhk/newsweb/na/nd-20261021de62842"
   ],
   "limit": 30,
   "sources": []
