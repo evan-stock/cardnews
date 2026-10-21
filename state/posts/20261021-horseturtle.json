@@ -1,7 +1,7 @@
 {
  "id": "20261021-horseturtle",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-21T13:38:02.750452+09:00",
  "publish_at": "2026-10-21T13:38:02.750477+09:00",
  "publish_now": true,
@@ -45,5 +45,9 @@
   "channel": null
  },
  "draft_hash": "52ff29fdbf82",
- "tg_msg": 789
+ "tg_msg": 789,
+ "decided_at": "2026-10-21T15:02:23.257136+09:00",
+ "yt_id": "TrMjQaz5K-w",
+ "permalink": "https://youtube.com/shorts/TrMjQaz5K-w",
+ "published_at": "2026-10-21T15:02:26.415886+09:00"
 }
