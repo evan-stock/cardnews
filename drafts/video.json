@@ -1,5 +1,1 @@
-{"id": "20261021-sheepraddle", "frames": 0, "try": 2, "urls": [
- "https://www.tiktok.com/@theredshepherdess/video/7455073846958345505",
- "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=raddle%20sheep&srnamespace=6&format=json&srlimit=40",
- "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=tupping%20ewes%20marked&srnamespace=6&format=json&srlimit=40"
-]}
+{"id": "20261021-sheepraddle", "frames": 0, "try": 3, "urls": ["https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&format=json&titles=File%3ARaddled%20sheep.JPG%7CFile%3ARaddled%20ewes%20on%20Mynydd%20Dinas%20-%20geograph.org.uk%20-%202180399.jpg%7CFile%3AForm%20an%20orderly%20queue%2C%20ladies%2C%20please.%20I%27ll%20serve%20you%20all%20shortly.%20-%20geograph.org.uk%20-%201531074.jpg%7CFile%3ASign%20of%20the%20season%20-%20geograph.org.uk%20-%20555762.jpg%7CFile%3ARam%20and%20Raddle%20-%20geograph.org.uk%20-%20712826.jpg"]}
