@@ -1,7 +1,7 @@
 {
  "id": "20261022-danebed",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-22T08:30:29.615709+09:00",
  "publish_at": "2026-10-22T08:30:29.615727+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "ab737e251d02",
- "tg_msg": 814
+ "tg_msg": 814,
+ "decided_at": "2026-10-22T08:33:06.451099+09:00",
+ "yt_id": "brC4FzvbqYs",
+ "permalink": "https://youtube.com/shorts/brC4FzvbqYs",
+ "published_at": "2026-10-22T08:33:10.436613+09:00"
 }
