@@ -1,27 +1,16 @@
 [
  {
-  "id": "20261021-ceragem",
+  "id": "20261021-ceragemx",
   "slot": "lunch",
   "mode": "collect",
   "image_pages": [
-   "https://www.kmib.co.kr/article/20261020501548",
-   "https://www.segye.com/newsView/20261020519020",
-   "https://www.hankyung.com/article/2026102040661",
-   "https://www.dt.co.kr/article/12090071",
-   "https://stockhub.kr/news/news_6b73cfa53aae",
-   "https://www.newsis.com/view/NISX20260708_0003700415",
-   "https://news.mtn.co.kr/news-detail/2026061615172388164",
-   "https://www.medigatenews.com/news/1815451993"
-  ]
- },
- {
-  "id": "20261021-schoolbeer",
-  "slot": "evening",
-  "mode": "collect",
-  "image_pages": [
-   "https://www.segye.com/newsView/20261020513519",
-   "https://www.twig24.com/news/world/2026/10/21/20261021500007",
-   "https://www.specialtimes.co.kr/news/articleView.html?idxno=476253"
+   "https://www.heraldk.com/article/2026041223225947988",
+   "https://www.ajunews.com/view/20180302133107834",
+   "https://www.segye.com/newsView/20251206504715",
+   "https://www.segye.com/newsView/20250310509015",
+   "https://dealsite.co.kr/articles/121443",
+   "https://sateconomy.co.kr/news/view/1065602769281575",
+   "https://www.hankyung.com/article/2026102040661"
   ]
  }
 ]
