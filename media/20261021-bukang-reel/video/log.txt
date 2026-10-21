@@ -1,0 +1,41 @@
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://news.sbs.co.kr/news/endPage.do?news_id=N1008808926
+실패: https://news.sbs.co.kr/news/endPage.do?news_id=N1008808926
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _eAvL5MpGMU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: ytsearch1:부캉이
+ERROR: [generic] '수로' is not a valid URL
+실패: 수로
+ERROR: [generic] '밖으로' is not a valid URL
+실패: 밖으로
+ERROR: [generic] '3차' is not a valid URL
+실패: 3차
+ERROR: [generic] '유도' is not a valid URL
+실패: 유도
+ERROR: [generic] '성공' is not a valid URL
+실패: 성공
+WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _eAvL5MpGMU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: ytsearch1:부캉이
+ERROR: [generic] '드디어' is not a valid URL
+실패: 드디어
+ERROR: [generic] '수로' is not a valid URL
+실패: 수로
+ERROR: [generic] '밖으로' is not a valid URL
+실패: 밖으로
+ERROR: [generic] '바다로' is not a valid URL
+실패: 바다로
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _eAvL5MpGMU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: ytsearch1:부캉이
+ERROR: [generic] '잘가' is not a valid URL
+실패: 잘가
+ERROR: [generic] '북항' is not a valid URL
+실패: 북항
+ERROR: [generic] '21일' is not a valid URL
+실패: 21일
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://news.sbs.co.kr/news/endPage.do?news_id=N1008808958
+실패: https://news.sbs.co.kr/news/endPage.do?news_id=N1008808958
