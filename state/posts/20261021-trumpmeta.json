@@ -2,7 +2,7 @@
  "id": "20261021-trumpmeta",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-21T00:02:24.000717+09:00",
  "publish_at": "2026-10-21T09:00:00+09:00",
  "topic": "트럼프 계좌 8월 거래 공개: 마이크론·AMD 순매도, 메타 최대 2,530만달러 순매수",
@@ -41,5 +41,8 @@
   "media/20261021-trumpmeta/01.jpg"
  ],
  "tg_msg": 749,
- "decided_at": "2026-10-21T00:02:26.190862+09:00"
+ "decided_at": "2026-10-21T00:02:26.190862+09:00",
+ "ig_media_id": "18169346590466063",
+ "permalink": "https://www.instagram.com/p/DevEjBOD-TI/",
+ "published_at": "2026-10-21T09:00:45.939686+09:00"
 }
