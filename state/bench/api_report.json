@@ -1,1697 +1,2385 @@
 {
- "since": "2025-05-01",
- "fixed": [],
+ "since": "2026-10-01",
+ "fixed": [
+  {
+   "handle": "mine",
+   "title": "오늘의 털뭉치",
+   "id": "UCfMNny--gglnXUIHZSIFdFw",
+   "created": "2026-10-11",
+   "subs": "11",
+   "videos": "14",
+   "before": {
+    "n": 0,
+    "median": null,
+    "max": null,
+    "over10k": 0
+   },
+   "after": {
+    "n": 0,
+    "median": null,
+    "max": null,
+    "over10k": 0
+   },
+   "last3d": {
+    "n": 14,
+    "median": 1556,
+    "max": 10333,
+    "over10k": 1
+   },
+   "recent": [
+    {
+     "id": "rLclX71D5Zs",
+     "date": "2026-10-20",
+     "title": "냥이들이 조용하더니 샤워부스 감금 사건 발생ㅋㅋ #shorts",
+     "views": 1276,
+     "dur": "PT21S"
+    },
+    {
+     "id": "o5-qVzcQ5hQ",
+     "date": "2026-10-19",
+     "title": "미용실 맡겨진 댕댕이, 엄마 보자마자 정색ㅋㅋ #shorts",
+     "views": 1530,
+     "dur": "PT16S"
+    },
+    {
+     "id": "YHsYQH95kS8",
+     "date": "2026-10-19",
+     "title": "길냥이한테 반한 유기견, 못 만나게 하자 삐짐ㅋㅋ #shorts",
+     "views": 1842,
+     "dur": "PT25S"
+    },
+    {
+     "id": "XWeXgEqpa-A",
+     "date": "2026-10-18",
+     "title": "청소기만 보면 짖는 강아지, 청소기를 혼내줬더니ㅋㅋ #shorts",
+     "views": 6,
+     "dur": "PT20S"
+    },
+    {
+     "id": "A4H2vBPYA_A",
+     "date": "2026-10-18",
+     "title": "사라진 아기 고양이, 알고 보니 형아 품에 있었다ㅋㅋ #shorts",
+     "views": 3,
+     "dur": "PT21S"
+    },
+    {
+     "id": "dZC7Ae7RhHE",
+     "date": "2026-10-18",
+     "title": "이동장에서 꺼내자마자 다시 들어가는 고양이ㅋㅋ #shorts",
+     "views": 2272,
+     "dur": "PT18S"
+    },
+    {
+     "id": "jBfcG0V_1MM",
+     "date": "2026-10-18",
+     "title": "말 엉덩이에 착지한 고양이, 그대로 일광욕 시작 #shorts",
+     "views": 10333,
+     "dur": "PT21S"
+    },
+    {
+     "id": "aw-eROLCzVo",
+     "date": "2026-10-18",
+     "title": "개관 전 도서관에 온 손님, 알고 보니 꿀 도둑 #shorts",
+     "views": 1582,
+     "dur": "PT25S"
+    },
+    {
+     "id": "--O_2oniOWc",
+     "date": "2026-10-17",
+     "title": "'아기 데려와' 한마디에 강아지가 물고 온 것 #shorts",
+     "views": 12,
+     "dur": "PT24S"
+    },
+    {
+     "id": "CoT4oRfdD8w",
+     "date": "2026-10-17",
+     "title": "안 클 줄 알았던 0.7kg 아기고양이 근황 #shorts",
+     "views": 11,
+     "dur": "PT20S"
+    },
+    {
+     "id": "XXDeh-uYo50",
+     "date": "2026-10-17",
+     "title": "2년 만에 돌아온 형을 고양이들이 알아봤다 #shorts",
+     "views": 8,
+     "dur": "PT22S"
+    },
+    {
+     "id": "JCcu0jjlOUg",
+     "date": "2026-10-17",
+     "title": "신나게 놀던 개들, 이 분 등장하자 얼음 #shorts",
+     "views": 6864,
+     "dur": "PT19S"
+    },
+    {
+     "id": "7Q-c5no6oJQ",
+     "date": "2026-10-17",
+     "title": "핼러윈 호박 본 말의 세상 수상한 눈빛 #shorts",
+     "views": 2188,
+     "dur": "PT20S"
+    },
+    {
+     "id": "WxPo4pgF-8Y",
+     "date": "2026-10-17",
+     "title": "산책 중 누웠더니 비둘기 숙소가 된 강아지 #shorts",
+     "views": 8777,
+     "dur": "PT23S"
+    }
+   ]
+  },
+  {
+   "handle": "펫파라치",
+   "title": "펫파라치",
+   "id": "UCnIREvUPsyF_JJ0xiG8CLOg",
+   "created": "2025-10-18",
+   "subs": "81300",
+   "videos": "752",
+   "before": {
+    "n": 63,
+    "median": 149296,
+    "max": 10185446,
+    "over10k": 63
+   },
+   "after": {
+    "n": 31,
+    "median": 87277,
+    "max": 2825288,
+    "over10k": 31
+   },
+   "last3d": {
+    "n": 6,
+    "median": 69316,
+    "max": 201597,
+    "over10k": 6
+   },
+   "recent": [
+    {
+     "id": "wl0SkCisWGs",
+     "date": "2026-10-20",
+     "title": "미친놈을 만났을 때 상대하면 안 되는 이유ㅋㅋ #동물 #강아지",
+     "views": 14295,
+     "dur": "PT23S"
+    },
+    {
+     "id": "OtDsaloGGYg",
+     "date": "2026-10-19",
+     "title": "동물원에서 혼자 자란 물범에게 휴대폰을 보여줬더니?ㅋㅋ #동물 #물범",
+     "views": 34050,
+     "dur": "PT20S"
+    },
+    {
+     "id": "dHycaAr2Jd8",
+     "date": "2026-10-19",
+     "title": "근육질 남성이 염소와 힘겨루기를 하는 충격적인 이유ㅋㅋ #동물 #염소",
+     "views": 48508,
+     "dur": "PT21S"
+    },
+    {
+     "id": "AeX4yBtvU0A",
+     "date": "2026-10-18",
+     "title": "아기를 낳은 큰냥이에게 인사했더니?ㅋㅋ #동물 #재규어",
+     "views": 94385,
+     "dur": "PT20S"
+    },
+    {
+     "id": "4no0OdGswE4",
+     "date": "2026-10-17",
+     "title": "세상에서 제일 따뜻하고 폭신한 집사전용 담요와 베개ㅋㅋ #동물 #치타",
+     "views": 201597,
+     "dur": "PT33S"
+    },
+    {
+     "id": "RoQtSGVPJNI",
+     "date": "2026-10-17",
+     "title": "잃어버린 줄 알았던 형제가 돌아왔더니ㅋㅋ #동물 #황조롱이",
+     "views": 90125,
+     "dur": "PT19S"
+    },
+    {
+     "id": "5I4SW3lcGvM",
+     "date": "2026-10-16",
+     "title": "자기가 원하는 걸 얻는 방법을 아는 아기냥이ㅋㅋ #동물 #고양이",
+     "views": 206269,
+     "dur": "PT22S"
+    },
+    {
+     "id": "cAcG6xWOJqU",
+     "date": "2026-10-16",
+     "title": "아기냥이의 말을 계속 똑같이 따라해봤더니?ㅋㅋ #동물 #호랑이",
+     "views": 43026,
+     "dur": "PT28S"
+    },
+    {
+     "id": "aDh2uIKBjJo",
+     "date": "2026-10-15",
+     "title": "맹수를 댕댕이처럼 키우면생기는 일ㅋㅋ #동물 #호랑이",
+     "views": 86953,
+     "dur": "PT30S"
+    },
+    {
+     "id": "vjo9QSKX6hA",
+     "date": "2026-10-15",
+     "title": "차에 화내는 줄 알았는데 남자가 내리자ㅋㅋ #동물 #코끼리",
+     "views": 381958,
+     "dur": "PT21S"
+    },
+    {
+     "id": "ie0AMf2KxR0",
+     "date": "2026-10-14",
+     "title": "유치원에 펠리컨이 날아왔는데 아무도 안 놀라는 이유ㅋㅋ #동물 #펠리컨",
+     "views": 29349,
+     "dur": "PT32S"
+    },
+    {
+     "id": "XaAN2lZfdgo",
+     "date": "2026-10-14",
+     "title": "무섭게 생긴 큰냥이들이 입을 열었더니ㅋㅋ #동물 #호랑이 #사자",
+     "views": 23120,
+     "dur": "PT26S"
+    },
+    {
+     "id": "6EmmCQBcaxQ",
+     "date": "2026-10-13",
+     "title": "낮에 만지던 큰냥이라고 밤에도 만지면 안 되는 이유ㅋㅋ #동물 #호랑이",
+     "views": 126043,
+     "dur": "PT16S"
+    },
+    {
+     "id": "dt_k0yCdXfM",
+     "date": "2026-10-13",
+     "title": "산책 중 마주친 최악의 상황, 보더콜리 무개념 견주 #강아지 #동물",
+     "views": 18784,
+     "dur": "PT18S"
+    },
+    {
+     "id": "wZTf7UreFwg",
+     "date": "2026-10-12",
+     "title": "화난 황소 앞에서 친구 부르면 생기는일ㅋㅋ #동물 #황소",
+     "views": 78527,
+     "dur": "PT42S"
+    }
+   ]
+  },
+  {
+   "handle": "jjalbot",
+   "title": "짤봇",
+   "id": "UCy-p3JfXtxLDdotKsm3_uEA",
+   "created": "2026-08-20",
+   "subs": "508",
+   "videos": "66",
+   "before": {
+    "n": 46,
+    "median": 1980,
+    "max": 3001084,
+    "over10k": 9
+   },
+   "after": {
+    "n": 16,
+    "median": 2554,
+    "max": 34145,
+    "over10k": 3
+   },
+   "last3d": {
+    "n": 4,
+    "median": 1470,
+    "max": 9880,
+    "over10k": 0
+   },
+   "recent": [
+    {
+     "id": "lI5irS5GLFE",
+     "date": "2026-10-20",
+     "title": "??: 네 핸드폰을 돌려받고 싶나 돌려받고 싶다면 공물을 바쳐라 #원숭이 #웃긴영상 #동물영상 #짤 #쇼츠 ",
+     "views": 787,
+     "dur": "PT14S"
+    },
+    {
+     "id": "FRI86trMwxI",
+     "date": "2026-10-19",
+     "title": "\"기다려\" 교육이고 뭐고 냅다 포기하고 싶은 순간 #강아지 #웃긴영상 #동물영상 #짤 #쇼츠 #동물 #동물쇼",
+     "views": 1840,
+     "dur": "PT5S"
+    },
+    {
+     "id": "HVyFimvpKk0",
+     "date": "2026-10-18",
+     "title": "아기 기린을 어떻게든 살려내고자 하는 사육사들의 노력 #기린 #튀르키예 #웃긴영상 #동물영상 #짤 #쇼츠 #",
+     "views": 1100,
+     "dur": "PT9S"
+    },
+    {
+     "id": "NTw94QLuDyI",
+     "date": "2026-10-17",
+     "title": "물가 구경하던 강아지한테 돌고래가 한 짓 #돌고래 #튀르키예 #웃긴영상 #동물영상 #짤 #쇼츠 #동물 #동물",
+     "views": 9880,
+     "dur": "PT7S"
+    },
+    {
+     "id": "XqGnQdrj-sU",
+     "date": "2026-10-16",
+     "title": "고양이들의 천국 튀르키예 안 주고 배겨? #고양이 #튀르키예 #웃긴영상 #동물영상 #짤 #쇼츠 #동물 #동물",
+     "views": 29197,
+     "dur": "PT10S"
+    },
+    {
+     "id": "IT0PDsP351U",
+     "date": "2026-10-15",
+     "title": "다람쥐한테 과자를 조금만 떼어주려고 한건데 #다람쥐 #웃긴영상 #동물영상 #짤 #쇼츠 #동물 #동물쇼츠 #짤",
+     "views": 17726,
+     "dur": "PT6S"
+    },
+    {
+     "id": "AFFiW61P6EQ",
+     "date": "2026-10-14",
+     "title": "다 자라도 4cm인 꼬마 오징어 잠잘 준비 루틴 #꼬마오징어 #동물 #동물영상 #동물쇼츠 #웃긴영상 #웃긴짤",
+     "views": 1640,
+     "dur": "PT10S"
+    },
+    {
+     "id": "8LBpjzdN9Hc",
+     "date": "2026-10-13",
+     "title": "오늘은 강아지를 만들어볼게요 발효할 때마다 커지는 반죽 #강아지  #동물 #동물영상 #동물쇼츠 #웃긴영상 #",
+     "views": 3504,
+     "dur": "PT10S"
+    },
+    {
+     "id": "EhDJwHGf4-A",
+     "date": "2026-10-12",
+     "title": "인형을 자기가 낳은 새끼로 착각하는 고양이 한 번 인형을 뺏어본다면? #고양이 #동물 #동물영상 #동물쇼츠 ",
+     "views": 3469,
+     "dur": "PT8S"
+    },
+    {
+     "id": "NwLdszx_pNg",
+     "date": "2026-10-11",
+     "title": "믿는 도끼에 발등 제대로 찍힌 강아지ㅋㅋ #강아지  #동물 #동물영상 #동물쇼츠 #웃긴영상 #웃긴짤 #짤봇",
+     "views": 5108,
+     "dur": "PT17S"
+    },
+    {
+     "id": "7NXA6FgkJ_I",
+     "date": "2026-10-10",
+     "title": "빈 리큐르 병과 용의견 음주측정을 실시한 주인 #찹츄 #강아지  #동물 #동물영상 #동물쇼츠 #웃긴영상 #웃",
+     "views": 136,
+     "dur": "PT20S"
+    },
+    {
+     "id": "b52PnkD90Ic",
+     "date": "2026-10-09",
+     "title": "무해함과 무해함이 만났을때 #오리 #새끼오리 #새끼강아지  #동물 #동물영상 #동물쇼츠 #웃긴영상 #웃긴짤 ",
+     "views": 1100,
+     "dur": "PT19S"
+    },
+    {
+     "id": "IUmlLnkHjcA",
+     "date": "2026-10-08",
+     "title": "다리가 짧아 슬픈 강아지 뻔뻔하게 물개가 되 #닥스훈트 #강아지  #동물 #동물영상 #동물쇼츠 #웃긴영상 #",
+     "views": 229,
+     "dur": "PT12S"
+    },
+    {
+     "id": "3biqAJEE5UY",
+     "date": "2026-10-07",
+     "title": "바나나를 상자에 넣었더니?! 원숭이의 반응 #원숭이 #동물 #동물영상 #동물쇼츠 #웃긴영상 #웃긴짤 #짤봇",
+     "views": 34145,
+     "dur": "PT11S"
+    },
+    {
+     "id": "G_N4orPDxW0",
+     "date": "2026-10-06",
+     "title": "욕심 오지는 아기 치와와의 눈물겨운 도전 #치와와 #강아지  #동물 #동물영상 #동물쇼츠 #웃긴영상 #웃긴짤",
+     "views": 1536,
+     "dur": "PT13S"
+    }
+   ]
+  }
+ ],
  "found": [
   {
-   "title": "internetdumps",
-   "id": "UCUI4ooA0_b-w4k8UC2BbpCg",
-   "created": "2025-01-20",
-   "subs": "5380",
-   "videos": "1512"
+   "title": "뽀짝시그널",
+   "id": "UCAze56_KmOWEGGSp-ppUIIw",
+   "created": "2026-07-28",
+   "subs": "2490",
+   "videos": "52",
+   "before": {
+    "n": 1,
+    "median": 2934,
+    "max": 2934,
+    "over10k": 0
+   },
+   "after": {
+    "n": 40,
+    "median": 13174,
+    "max": 1141477,
+    "over10k": 23
+   },
+   "last3d": {
+    "n": 9,
+    "median": 11383,
+    "max": 23478,
+    "over10k": 5
+   },
+   "recent": [
+    {
+     "id": "hQd3yoKhaAw",
+     "date": "2026-10-20",
+     "title": "언제나 고개 빳빳이 들고 당당하게 걷는 댕댕이",
+     "views": 4700,
+     "dur": "PT25S"
+    },
+    {
+     "id": "Gw-m8CzYJzY",
+     "date": "2026-10-20",
+     "title": "빵빵한 배와 함께 찾아온 댕댕이의 행복한 최후",
+     "views": 1182,
+     "dur": "PT24S"
+    },
+    {
+     "id": "pDS6CGmfx9w",
+     "date": "2026-10-19",
+     "title": "친구들 다 떠나도 복싱 특훈하다 방전된 검냥이",
+     "views": 2195,
+     "dur": "PT26S"
+    },
+    {
+     "id": "KH4eT3N32YY",
+     "date": "2026-10-19",
+     "title": "잠든 아이 곁을 떠나지 않는 껌딱지 냥이의 비밀~",
+     "views": 1203,
+     "dur": "PT23S"
+    },
+    {
+     "id": "lLs1H3Tm58Y",
+     "date": "2026-10-19",
+     "title": "잠에서 깨어난 순간 시작되는 냥이의 카리스마ㅋㅋ",
+     "views": 11383,
+     "dur": "PT25S"
+    },
+    {
+     "id": "hlXL6PM4xEU",
+     "date": "2026-10-18",
+     "title": "부르면 쏜살같이 달려와 침대로 점프하는 냥이",
+     "views": 13550,
+     "dur": "PT25S"
+    },
+    {
+     "id": "gJ3QA2PM_xI",
+     "date": "2026-10-18",
+     "title": "절친을 만나자마자 두 발로 포옹하는 댕댕이",
+     "views": 18214,
+     "dur": "PT25S"
+    },
+    {
+     "id": "rJRCAT77FBE",
+     "date": "2026-10-17",
+     "title": "귀여움 한도 초과 엄마와 아기냥이의 교감",
+     "views": 15949,
+     "dur": "PT29S"
+    },
+    {
+     "id": "GikDXA5CKAI",
+     "date": "2026-10-17",
+     "title": "아이의 하루를 지켜주는 큰 댕댕이의 특별한 능력",
+     "views": 23478,
+     "dur": "PT23S"
+    },
+    {
+     "id": "-V2HHLCwIlY",
+     "date": "2026-10-16",
+     "title": "혼자 놀기의 달인 판다가 사육사를 붙잡은 이유",
+     "views": 6376,
+     "dur": "PT28S"
+    }
+   ]
   },
   {
-   "title": "피치덕",
-   "id": "UCz6HtUz7TaXT6P46ffH6-JQ",
-   "created": "2025-10-08",
-   "subs": "78800",
-   "videos": "498"
+   "title": "애니멀룩",
+   "id": "UC8DC9mRDapmG-wclagiyz6g",
+   "created": "2013-05-02",
+   "subs": "114000",
+   "videos": "1300"
   },
   {
-   "title": "BELY Y SUS CASITAS ",
-   "id": "UCn83_67P_DXpHNRemK-nPDw",
-   "created": "2022-04-10",
-   "subs": "1780",
-   "videos": "683"
+   "title": "뽀삐와뚜비",
+   "id": "UCfoGLSbyddrpftK5vtaLM3w",
+   "created": "2026-06-28",
+   "subs": "3090",
+   "videos": "166",
+   "before": {
+    "n": 1,
+    "median": 11462,
+    "max": 11462,
+    "over10k": 1
+   },
+   "after": {
+    "n": 41,
+    "median": 6034,
+    "max": 55866,
+    "over10k": 11
+   },
+   "last3d": {
+    "n": 8,
+    "median": 1993,
+    "max": 46961,
+    "over10k": 2
+   },
+   "recent": [
+    {
+     "id": "5r7YdEyV0WQ",
+     "date": "2026-10-20",
+     "title": "절대 따라 하면 안되는 베란다 수영장",
+     "views": 2166,
+     "dur": "PT11S"
+    },
+    {
+     "id": "xDqoQjXPKQ8",
+     "date": "2026-10-20",
+     "title": "아기 원숭이의 귀여운 효도 ㅋㅋ",
+     "views": 1347,
+     "dur": "PT10S"
+    },
+    {
+     "id": "6Z-1sUmzEgM",
+     "date": "2026-10-19",
+     "title": "상자 안에 숨어 있는 귀여우 정체 ㅋㅋ",
+     "views": 3795,
+     "dur": "PT12S"
+    },
+    {
+     "id": "NZsDGf6kVHU",
+     "date": "2026-10-19",
+     "title": "집사가 새끼를 자꾸 데려가자 ㅋㅋ",
+     "views": 46961,
+     "dur": "PT15S"
+    },
+    {
+     "id": "g-KOi2aoFPM",
+     "date": "2026-10-19",
+     "title": "당구장 10년차의 위엄 ㅋㅋ",
+     "views": 218,
+     "dur": "PT9S"
+    },
+    {
+     "id": "lzXzAHjAPFA",
+     "date": "2026-10-18",
+     "title": "성질부리던 고양이가 조용해진 이유 ㅋㅋ",
+     "views": 15547,
+     "dur": "PT22S"
+    },
+    {
+     "id": "DssW8vSO6tM",
+     "date": "2026-10-18",
+     "title": "발톱 깍기도 전에 우는 강아지 ㅋㅋ",
+     "views": 1745,
+     "dur": "PT10S"
+    },
+    {
+     "id": "LAsHCRvZGpw",
+     "date": "2026-10-18",
+     "title": "솔로들은 보면 안되는 영상 ㅋㅋ",
+     "views": 1821,
+     "dur": "PT9S"
+    },
+    {
+     "id": "FhCjpph6j4s",
+     "date": "2026-10-16",
+     "title": "할머니의 거침없는 냥빨 실력 ㅋㅋ",
+     "views": 21264,
+     "dur": "PT13S"
+    },
+    {
+     "id": "IxZqmouiL7w",
+     "date": "2026-10-16",
+     "title": "집사가 필요 없는 고양이 ㅋㅋ",
+     "views": 10679,
+     "dur": "PT15S"
+    }
+   ]
   },
   {
-   "title": "KIAN AND LEO ",
-   "id": "UCojqzZqNzH5dF01Mvy_9QBg",
-   "created": "2025-10-24",
-   "subs": "366",
-   "videos": "182"
+   "title": "별쇼츠",
+   "id": "UC7oPbLv71a76mPOFquLZuNA",
+   "created": "2022-09-08",
+   "subs": "247000",
+   "videos": "830"
   },
   {
-   "title": "Straw Berry",
-   "id": "UCGTCxF-zaPUpfDbkxBhOdrw",
-   "created": "2024-11-23",
-   "subs": "212",
-   "videos": "44"
+   "title": "댕댕극장",
+   "id": "UCV8jlvXFSTMaoJacxL3djWg",
+   "created": "2026-08-15",
+   "subs": "627",
+   "videos": "51",
+   "before": {
+    "n": 15,
+    "median": 12347,
+    "max": 105464,
+    "over10k": 10
+   },
+   "after": {
+    "n": 25,
+    "median": 6016,
+    "max": 1287639,
+    "over10k": 8
+   },
+   "last3d": {
+    "n": 10,
+    "median": 9789,
+    "max": 31898,
+    "over10k": 5
+   },
+   "recent": [
+    {
+     "id": "AulS9wmTr9c",
+     "date": "2026-10-20",
+     "title": "링 찾으려고 실종 전단까지 붙인 강아지의 최후ㅋㅋ #shorts",
+     "views": 853,
+     "dur": "PT24S"
+    },
+    {
+     "id": "13QOrvy7_X0",
+     "date": "2026-10-20",
+     "title": "치킨 값 내고 그릇까지 물어 온 치와와의 최후ㅋㅋ #shorts",
+     "views": 5277,
+     "dur": "PT19S"
+    },
+    {
+     "id": "PydXBfvGQf8",
+     "date": "2026-10-19",
+     "title": "미용실 다녀오더니 하이파이브를 까먹은 강아지ㅋㅋ #shorts",
+     "views": 2760,
+     "dur": "PT19S"
+    },
+    {
+     "id": "JJZYNH49jx8",
+     "date": "2026-10-19",
+     "title": "장난치다 실수로 주인 손 문 핏불이 눈치 보며 사과하는 법ㅋㅋ #shorts",
+     "views": 27276,
+     "dur": "PT14S"
+    },
+    {
+     "id": "JMAxSjRDE2c",
+     "date": "2026-10-18",
+     "title": "훈련 시범에서 쓰러진 전우에게 구급상자 물어다 준 군견ㅋㅋ #shorts",
+     "views": 10626,
+     "dur": "PT20S"
+    },
+    {
+     "id": "qM26tj90uIc",
+     "date": "2026-10-18",
+     "title": "목욕하니 반쪽 됐다가 드라이하고 솜사탕으로 돌아온 비숑ㅋㅋ #shorts",
+     "views": 5530,
+     "dur": "PT19S"
+    },
+    {
+     "id": "8A7k2gChAdk",
+     "date": "2026-10-18",
+     "title": "물 마시고 수건에 입 닦는 법까지 배운 골든 리트리버ㅋㅋ #shorts",
+     "views": 15509,
+     "dur": "PT21S"
+    },
+    {
+     "id": "l-utQzouIxI",
+     "date": "2026-10-17",
+     "title": "젖은 시멘트에 가족 발도장 찍는데 마지막 주자 보더콜리가 다 찍어버림ㅋㅋ #shorts",
+     "views": 8953,
+     "dur": "PT16S"
+    },
+    {
+     "id": "m5igrzJ-VW4",
+     "date": "2026-10-17",
+     "title": "놀다가 죽은 척하더니 심폐소생 몇 번에 벌떡 일어난 코기ㅋㅋ #shorts",
+     "views": 19287,
+     "dur": "PT17S"
+    },
+    {
+     "id": "BCMbLA5QXnc",
+     "date": "2026-10-17",
+     "title": "주인 잠든 사이 무릎 위 접시 몰래 턴 댕댕이ㅋㅋ #shorts",
+     "views": 31898,
+     "dur": "PT24S"
+    }
+   ]
   },
   {
-   "title": "Apriltale little world ",
-   "id": "UCdpK0NQaKKjmH13Zivxd4Tg",
-   "created": "2026-04-26",
-   "subs": "1040",
-   "videos": "199"
+   "title": "개웃기냥",
+   "id": "UC-TuLbM3b1uy8A25yOYMQUg",
+   "created": "2026-04-11",
+   "subs": "1230",
+   "videos": "122",
+   "before": {
+    "n": 26,
+    "median": 5619,
+    "max": 432905,
+    "over10k": 11
+   },
+   "after": {
+    "n": 18,
+    "median": 19511,
+    "max": 243953,
+    "over10k": 12
+   },
+   "last3d": {
+    "n": 6,
+    "median": 3638,
+    "max": 21398,
+    "over10k": 2
+   },
+   "recent": [
+    {
+     "id": "pPfuxzhOUGY",
+     "date": "2026-10-20",
+     "title": "헬스장에서 눈치 보는 고양이",
+     "views": 510,
+     "dur": "PT18S"
+    },
+    {
+     "id": "pU6rMiGdxBI",
+     "date": "2026-10-19",
+     "title": "매일 아저씨를 기다리는 고양이 🐱",
+     "views": 1340,
+     "dur": "PT19S"
+    },
+    {
+     "id": "R2NFQVIiFgM",
+     "date": "2026-10-18",
+     "title": "강아지의 살벌한 기분 전환",
+     "views": 3737,
+     "dur": "PT6S"
+    },
+    {
+     "id": "Ze_B1j2at74",
+     "date": "2026-10-18",
+     "title": "쥐를 선물 받은 고양이",
+     "views": 3540,
+     "dur": "PT9S"
+    },
+    {
+     "id": "fezjE6KdFUo",
+     "date": "2026-10-17",
+     "title": "섬뜩할 정도로 차가운 눈빛",
+     "views": 14351,
+     "dur": "PT21S"
+    },
+    {
+     "id": "SGhBvtV8QWs",
+     "date": "2026-10-17",
+     "title": "마지막 힘으로 건넨 작별인사",
+     "views": 21398,
+     "dur": "PT20S"
+    },
+    {
+     "id": "4QHIrSNr0cY",
+     "date": "2026-10-16",
+     "title": "고양이의 미친 반응속도 좀 봐",
+     "views": 7616,
+     "dur": "PT16S"
+    },
+    {
+     "id": "QBA_GhdlH7c",
+     "date": "2026-10-15",
+     "title": "끝까지 안말리던 견주가 다급해진 순간",
+     "views": 14165,
+     "dur": "PT31S"
+    },
+    {
+     "id": "LXAeyF9WBVs",
+     "date": "2026-10-14",
+     "title": "하마 맛보려다가 대참사",
+     "views": 18465,
+     "dur": "PT10S"
+    },
+    {
+     "id": "g6mdwOxcugc",
+     "date": "2026-10-14",
+     "title": "치타인척 했더니 반응이 심상치 않다",
+     "views": 48556,
+     "dur": "PT16S"
+    }
+   ]
   },
   {
-   "title": "꾸꾸만들기 Kku Kku DIY",
-   "id": "UCrkioCgOi1g-NMiBxADLtJA",
-   "created": "2016-07-24",
-   "subs": "762000",
-   "videos": "932"
+   "title": "이시간지구촌",
+   "id": "UCcjd7ya1A-Kms-61C7JUMhQ",
+   "created": "2025-12-19",
+   "subs": "17600",
+   "videos": "364"
   },
   {
-   "title": "Barbie",
-   "id": "UCadtap8RYMNy8w4K9lXhzpQ",
-   "created": "2005-10-08",
-   "subs": "13800000",
-   "videos": "5391"
+   "title": "슉박스",
+   "id": "UCcwiyK8QvcGS8FsH3DIFH9A",
+   "created": "2026-01-01",
+   "subs": "2250",
+   "videos": "113"
   },
   {
-   "title": "Lauren Lawless",
-   "id": "UCUcoahqFaUuCfxeCyoAg1bg",
-   "created": "2014-08-13",
-   "subs": "1570",
-   "videos": "379"
+   "title": "유니집",
+   "id": "UC6ox_0vapMCD0EXNi1PmG4w",
+   "created": "2025-09-21",
+   "subs": "18400",
+   "videos": "533"
   },
   {
-   "title": "Claire",
-   "id": "UCOIZ79AUqRaCGjRVHOOMk9Q",
-   "created": "2026-09-05",
-   "subs": "61",
-   "videos": "34"
+   "title": "개심쿵",
+   "id": "UCzqLpNqQNPqAlyuAbYXfUow",
+   "created": "2025-11-08",
+   "subs": "128",
+   "videos": "16"
   },
   {
-   "title": "Line World",
-   "id": "UC1pQeMVp_qvTOoB3HRConMg",
-   "created": "2025-01-24",
-   "subs": "6160",
-   "videos": "223"
+   "title": "골댕로그",
+   "id": "UCgm7s38d7MKGO3-NDazlGlg",
+   "created": "2026-02-06",
+   "subs": "17600",
+   "videos": "375"
   },
   {
-   "title": "Pure Creativity Plus",
-   "id": "UC8dIr-M3Dtb7pVdYfYAAwfg",
-   "created": "2025-05-18",
-   "subs": "258",
-   "videos": "57"
+   "title": "개르신",
+   "id": "UCg9kpKNMfw2MQSFinBXrS6g",
+   "created": "2025-12-24",
+   "subs": "20500",
+   "videos": "291"
   },
   {
-   "title": " MEOW COLLECTIONS",
-   "id": "UCgiqFPEv3v07ihyJ9W9RYqA",
-   "created": "2018-07-01",
-   "subs": "64",
-   "videos": "44"
+   "title": "멍멍사건파일 ",
+   "id": "UC9vXxKK4xDu8NAkJTmL9esA",
+   "created": "2025-03-10",
+   "subs": "17800",
+   "videos": "27"
   },
   {
-   "title": "Ghostofyoutube ",
-   "id": "UCKXb5b6WrX2G7hbYeHgmaGw",
-   "created": "2025-01-20",
-   "subs": "44500",
-   "videos": "2985"
+   "title": "꼬리 시트콤",
+   "id": "UC0KteXXQMS5kU7y6HfprSzA",
+   "created": "2021-12-24",
+   "subs": "6890",
+   "videos": "552"
   },
   {
-   "title": "Pinky Joy",
-   "id": "UCMU-_JfOElFCiLIJfy_PCeg",
-   "created": "2025-09-14",
-   "subs": "308000",
-   "videos": "344"
+   "title": "Planet Munchkin💕 플래닛 먼치킨🐾",
+   "id": "UCMFmBbDrhdRSo0Y1DexuIRw",
+   "created": "2025-08-16",
+   "subs": "1360",
+   "videos": "89"
+  },
+  {
+   "title": "동물감동관",
+   "id": "UCCqAO4RBA5pygtPlB76FPnA",
+   "created": "2026-06-28",
+   "subs": "5260",
+   "videos": "130",
+   "before": {
+    "n": 23,
+    "median": 19510,
+    "max": 57577,
+    "over10k": 16
+   },
+   "after": {
+    "n": 20,
+    "median": 17670,
+    "max": 539693,
+    "over10k": 14
+   },
+   "last3d": {
+    "n": 7,
+    "median": 5973,
+    "max": 81831,
+    "over10k": 2
+   },
+   "recent": [
+    {
+     "id": "GN2x21L4jTw",
+     "date": "2026-10-20",
+     "title": "다친 아기 고양이에게 찾아온 기적",
+     "views": 2410,
+     "dur": "PT38S"
+    },
+    {
+     "id": "wjHPvPz89JY",
+     "date": "2026-10-20",
+     "title": "무너진 벽돌 속에서 들려온 작은 울음소리",
+     "views": 5973,
+     "dur": "PT1M1S"
+    },
+    {
+     "id": "LegDVOIzDBY",
+     "date": "2026-10-19",
+     "title": "좁은 콘크리트 사이 아기냥이 구조",
+     "views": 3140,
+     "dur": "PT40S"
+    },
+    {
+     "id": "qhc3J169hYE",
+     "date": "2026-10-19",
+     "title": "몸은 아기인데 밥지키는 건 맹수급 ㅋㅋ # #고양이 #cat #쇼츠 #냥춘기",
+     "views": 21299,
+     "dur": "PT18S"
+    },
+    {
+     "id": "d4nVWK9yyA4",
+     "date": "2026-10-18",
+     "title": "액체 고양이의 상상초월 부캐 ㅋㅋ",
+     "views": 6744,
+     "dur": "PT52S"
+    },
+    {
+     "id": "Irt2fSPieDU",
+     "date": "2026-10-18",
+     "title": "제발 문 좀 열어주세요.#고양이 #길냥이 #쇼츠 #cat",
+     "views": 81831,
+     "dur": "PT21S"
+    },
+    {
+     "id": "aHWoEiFs-FA",
+     "date": "2026-10-17",
+     "title": "캣휠을 사줘야하는 이유 #고양이 #웃긴고양이 #캣휠 #고양이쇼츠 #동물쇼츠",
+     "views": 190,
+     "dur": "PT9S"
+    },
+    {
+     "id": "rOLb-E53Qk8",
+     "date": "2026-10-09",
+     "title": "아기 고양이 괴롭히던 냥아치의 최후ㅋㅋ#Shorts #고양이 #어미고양이 #아기고양이보호 #고양이모성애",
+     "views": 539693,
+     "dur": "PT15S"
+    },
+    {
+     "id": "rGIsgoCLc8c",
+     "date": "2026-10-09",
+     "title": "고양이 발톱 깎으려고 별짓 다하는 집사들ㅋㅋ #고양이 #고양이 발톱",
+     "views": 15177,
+     "dur": "PT24S"
+    },
+    {
+     "id": "DD6ZURraKxU",
+     "date": "2026-10-09",
+     "title": "집사 요리에 강제 눈물 버튼 눌린 고양이 ㅋㅋ#Shorts #반려동물 #고양이상식 #고양이양파중독 #고양이집",
+     "views": 7834,
+     "dur": "PT30S"
+    }
+   ]
+  },
+  {
+   "title": "ㅋㅋㅋ",
+   "id": "UCSFwNykNrDARlL7oHhFmdGA",
+   "created": "2025-06-04",
+   "subs": "50000",
+   "videos": "83"
+  },
+  {
+   "title": "하루한미소",
+   "id": "UCLYRuDPDK_Kk2GxYx442YQQ",
+   "created": "2025-12-29",
+   "subs": "5510",
+   "videos": "51"
+  },
+  {
+   "title": "큐트 파워 에너지",
+   "id": "UCDUqkU541I-NW-ia4VpvLXQ",
+   "created": "2026-01-10",
+   "subs": "64200",
+   "videos": "274"
+  },
+  {
+   "title": "댕냥하우스",
+   "id": "UCGR4IUSURuy2hT8Wwwte_mA",
+   "created": "2023-07-09",
+   "subs": "24200",
+   "videos": "209"
+  },
+  {
+   "title": "애니멀숏츠",
+   "id": "UCaQEpOgPoBizJihfJ7CW6og",
+   "created": "2024-11-04",
+   "subs": "122000",
+   "videos": "609"
+  },
+  {
+   "title": "굿숏",
+   "id": "UC6QOMmkbaLwYQ-0GbFafrtw",
+   "created": "2019-11-18",
+   "subs": "985",
+   "videos": "62"
+  },
+  {
+   "title": "꿀잼식빵",
+   "id": "UCdZo8UMygrXdKh7oV6Qe1VQ",
+   "created": "2026-05-11",
+   "subs": "13900",
+   "videos": "101",
+   "before": {
+    "n": 32,
+    "median": 125368,
+    "max": 6474996,
+    "over10k": 32
+   },
+   "after": {
+    "n": 14,
+    "median": 451892,
+    "max": 7029837,
+    "over10k": 14
+   },
+   "last3d": {
+    "n": 4,
+    "median": 34370,
+    "max": 932592,
+    "over10k": 4
+   },
+   "recent": [
+    {
+     "id": "MFbo6srZXz4",
+     "date": "2026-10-20",
+     "title": "베테랑 집사를 얕잡아 본 고양이의 최후 ㅋㅋ",
+     "views": 27893,
+     "dur": "PT14S"
+    },
+    {
+     "id": "WwyzWIXfiIk",
+     "date": "2026-10-19",
+     "title": "카메라는 좀 부담스럽다는 고양이",
+     "views": 40847,
+     "dur": "PT11S"
+    },
+    {
+     "id": "g7wJkn3VjT0",
+     "date": "2026-10-18",
+     "title": "풍차돌리기 장인 고양이",
+     "views": 11012,
+     "dur": "PT10S"
+    },
+    {
+     "id": "4dUBZftWt3o",
+     "date": "2026-10-17",
+     "title": "놀이터에서 혼자 노는(?) 고양이",
+     "views": 932592,
+     "dur": "PT10S"
+    },
+    {
+     "id": "-x0xdjOGzUw",
+     "date": "2026-10-16",
+     "title": "자기가 토끼인 줄 아는 아깽이 ㅋㅋ",
+     "views": 29541,
+     "dur": "PT21S"
+    },
+    {
+     "id": "SgsXou8K378",
+     "date": "2026-10-15",
+     "title": "방구쟁이 고양이의 최후 ㅋㅋㅋㅋ",
+     "views": 547338,
+     "dur": "PT10S"
+    },
+    {
+     "id": "pn-x_HQptps",
+     "date": "2026-10-14",
+     "title": "믿기 힘든 고양이의 출발 속도 ㄷㄷ",
+     "views": 197464,
+     "dur": "PT7S"
+    },
+    {
+     "id": "XmOJgUmn504",
+     "date": "2026-10-13",
+     "title": "까칠함 100% 고양이가 동생이랑만 노는 이유",
+     "views": 543826,
+     "dur": "PT39S"
+    },
+    {
+     "id": "9ArPC28pKmA",
+     "date": "2026-10-12",
+     "title": "길냥이를 귀엽다고 칭찬한 사람의 최후 ㅋㅋ",
+     "views": 945135,
+     "dur": "PT26S"
+    },
+    {
+     "id": "JbTugKFjMT8",
+     "date": "2026-10-11",
+     "title": "개가 사냥하는 고양이 뒤를 밟은 이유 ㅋㅋ",
+     "views": 359959,
+     "dur": "PT13S"
+    }
+   ]
+  },
+  {
+   "title": "호호감사",
+   "id": "UCgktE9shcWQ85z91Ua-tgHw",
+   "created": "2026-06-27",
+   "subs": "6040",
+   "videos": "147",
+   "before": {
+    "n": 26,
+    "median": 31494,
+    "max": 344386,
+    "over10k": 22
+   },
+   "after": {
+    "n": 20,
+    "median": 19891,
+    "max": 110425,
+    "over10k": 13
+   },
+   "last3d": {
+    "n": 4,
+    "median": 1940,
+    "max": 71708,
+    "over10k": 1
+   },
+   "recent": [
+    {
+     "id": "Xd6_NBd9few",
+     "date": "2026-10-19",
+     "title": "둘 다 심부름을 거부하더니 흰둥이가 갑자기 움직인 이유",
+     "views": 2330,
+     "dur": "PT18S"
+    },
+    {
+     "id": "P0Zi3928NqQ",
+     "date": "2026-10-19",
+     "title": "아무도 시키지 않았는데 돌을 치운 천사",
+     "views": 1276,
+     "dur": "PT19S"
+    },
+    {
+     "id": "ZdW7nDiyXFE",
+     "date": "2026-10-18",
+     "title": "모래만 모으기 시작하면 토끼가 신나게 노는 이유",
+     "views": 1550,
+     "dur": "PT12S"
+    },
+    {
+     "id": "ZV12By3OLbA",
+     "date": "2026-10-18",
+     "title": "언니와 똑같은 문제를 받은 댕댕이가 갑자기 화난 이유",
+     "views": 71708,
+     "dur": "PT22S"
+    },
+    {
+     "id": "gsc9X9207og",
+     "date": "2026-10-16",
+     "title": "새끼를 향해 슬리퍼를 들자 엄마 강아지가 보인 행동",
+     "views": 3046,
+     "dur": "PT19S"
+    },
+    {
+     "id": "OKeutB-AEYw",
+     "date": "2026-10-16",
+     "title": "주인 코골이가 너무 심해 댕댕이가 결국 한 행동",
+     "views": 35949,
+     "dur": "PT20S"
+    },
+    {
+     "id": "-LBS8BcpcG0",
+     "date": "2026-10-15",
+     "title": "자는 댕댕이가 너무 귀여워서 못 참겠어ㅋㅋ",
+     "views": 5780,
+     "dur": "PT14S"
+    },
+    {
+     "id": "fKk-Q6Tkjyw",
+     "date": "2026-10-15",
+     "title": "아기 곁을 한시도 떠나지 않는 냥이 형의 사랑",
+     "views": 1360,
+     "dur": "PT22S"
+    },
+    {
+     "id": "jYkHi7CrNqw",
+     "date": "2026-10-14",
+     "title": "아기강아지한테 쎈척하던 댕댕이가 식겁한 순간",
+     "views": 6245,
+     "dur": "PT15S"
+    },
+    {
+     "id": "b4X8KsrFCs0",
+     "date": "2026-10-10",
+     "title": "아이들의 대답에 깜놀했어요!",
+     "views": 2212,
+     "dur": "PT23S"
+    }
+   ]
+  },
+  {
+   "title": "꿈꾸는 쿼카",
+   "id": "UCH6Lzx84Hofss7x8dd3_TMQ",
+   "created": "2026-02-08",
+   "subs": "166000",
+   "videos": "177"
+  },
+  {
+   "title": "중국엿보기",
+   "id": "UCZwtAuKFrCJbugovUD1sU6w",
+   "created": "2012-08-02",
+   "subs": "87",
+   "videos": "282"
+  },
+  {
+   "title": "동물대백과",
+   "id": "UCNYodTSbIyuklkqVxiTl70A",
+   "created": "2026-06-09",
+   "subs": "935",
+   "videos": "129",
+   "before": {
+    "n": 30,
+    "median": 10832,
+    "max": 43457,
+    "over10k": 15
+   },
+   "after": {
+    "n": 16,
+    "median": 21534,
+    "max": 44376,
+    "over10k": 10
+   },
+   "last3d": {
+    "n": 4,
+    "median": 6221,
+    "max": 17140,
+    "over10k": 2
+   },
+   "recent": [
+    {
+     "id": "Io5J3zBNmkY",
+     "date": "2026-10-20",
+     "title": "아기냥이 교육방법",
+     "views": 168,
+     "dur": "PT25S"
+    },
+    {
+     "id": "fbXycZGMoZo",
+     "date": "2026-10-20",
+     "title": "육퇴가 시급한 골든 리트리버",
+     "views": 51,
+     "dur": "PT7S"
+    },
+    {
+     "id": "H6csDYHx__0",
+     "date": "2026-10-19",
+     "title": "육아하다 싸움난 맹수부부",
+     "views": 12275,
+     "dur": "PT16S"
+    },
+    {
+     "id": "U4UN2JQf4cI",
+     "date": "2026-10-17",
+     "title": "혼자 있는 냥이를 위해 홈캠을 설치했더니",
+     "views": 17140,
+     "dur": "PT7S"
+    },
+    {
+     "id": "Gh-od8uDoiw",
+     "date": "2026-10-15",
+     "title": "테트리스 당하는 찹츄들",
+     "views": 5154,
+     "dur": "PT1M3S"
+    },
+    {
+     "id": "UZHbFU19Btg",
+     "date": "2026-10-14",
+     "title": "댕댕이는 변장한 주인을 알아볼 수 있을까?",
+     "views": 1801,
+     "dur": "PT36S"
+    },
+    {
+     "id": "Myxs6LfTTCY",
+     "date": "2026-10-14",
+     "title": "집사야 10분 뒤에 깨워줘",
+     "views": 2985,
+     "dur": "PT9S"
+    },
+    {
+     "id": "P9usFJ4UA90",
+     "date": "2026-10-13",
+     "title": "댕댕이들과 함께 자란 아기 냥이 ㅋㅋ",
+     "views": 9708,
+     "dur": "PT6S"
+    },
+    {
+     "id": "EVuhgfblopk",
+     "date": "2026-10-12",
+     "title": "무서운 댕댕이 집 앞을 지날 때 냥이 반응",
+     "views": 31868,
+     "dur": "PT7S"
+    },
+    {
+     "id": "wtF1rvYVYSM",
+     "date": "2026-10-11",
+     "title": "주인이 홈캠보고 다급히 달려간 이유",
+     "views": 2383,
+     "dur": "PT4S"
+    }
+   ]
+  },
+  {
+   "title": "알고이쓰까",
+   "id": "UCun9R9Y-3LW4aOnoV7YLSTQ",
+   "created": "2026-03-01",
+   "subs": "23300",
+   "videos": "492",
+   "before": {
+    "n": 18,
+    "median": 41600,
+    "max": 1891949,
+    "over10k": 18
+   },
+   "after": {
+    "n": 24,
+    "median": 37559,
+    "max": 2277385,
+    "over10k": 23
+   },
+   "last3d": {
+    "n": 8,
+    "median": 22505,
+    "max": 158896,
+    "over10k": 7
+   },
+   "recent": [
+    {
+     "id": "uGRiGDSdDLc",
+     "date": "2026-10-20",
+     "title": "몸살 기운에 반차 쓰고 집에 왔는데..ㅋㅋ",
+     "views": 2458,
+     "dur": "PT12S"
+    },
+    {
+     "id": "QEz-GwUUOKI",
+     "date": "2026-10-19",
+     "title": "감 떨어지자 미친 추리력을 펼치는 댕댕이",
+     "views": 158896,
+     "dur": "PT13S"
+    },
+    {
+     "id": "V5hYEE5bhAU",
+     "date": "2026-10-19",
+     "title": "주인의 계속되는 거절에 댕댕이가 향한  곳ㅋㅋ",
+     "views": 15695,
+     "dur": "PT22S"
+    },
+    {
+     "id": "t7zR1rwu0H8",
+     "date": "2026-10-18",
+     "title": "입 한 번 잘못 놀렸다가...",
+     "views": 22769,
+     "dur": "PT17S"
+    },
+    {
+     "id": "DRhepNXKc8Q",
+     "date": "2026-10-18",
+     "title": "감튀 하나로 노부부 배꼽 잡은 댕댕이ㅋㅋ",
+     "views": 35007,
+     "dur": "PT16S"
+    },
+    {
+     "id": "2HD6JRzvo6M",
+     "date": "2026-10-17",
+     "title": "댕댕이 탈 안에 야구 선수가 들었다는 그 영상ㅋㅋ",
+     "views": 22242,
+     "dur": "PT17S"
+    },
+    {
+     "id": "5LwTxV2Clfo",
+     "date": "2026-10-17",
+     "title": "온 가족을 공포에 떨게 한 리트리버 행동",
+     "views": 56920,
+     "dur": "PT15S"
+    },
+    {
+     "id": "qv-soAklsMo",
+     "date": "2026-10-17",
+     "title": "댕댕이 유치원 숨바꼭질 클라스ㅋㅋ",
+     "views": 11371,
+     "dur": "PT25S"
+    },
+    {
+     "id": "malHFzpstrw",
+     "date": "2026-10-16",
+     "title": "남편한테 고양이 밥 맡기면 안되는 이유",
+     "views": 1621734,
+     "dur": "PT40S"
+    },
+    {
+     "id": "YKs_IC2l12A",
+     "date": "2026-10-16",
+     "title": "길 잘못 들었다가 통행료 제대로 뜯긴 댕댕이",
+     "views": 31658,
+     "dur": "PT15S"
+    }
+   ]
+  },
+  {
+   "title": "삐용이 - 스탠다드푸들 성장기록",
+   "id": "UCbTAyT_e3iLcFKfksFZZLXw",
+   "created": "2025-01-07",
+   "subs": "25800",
+   "videos": "414"
+  },
+  {
+   "title": "보자구",
+   "id": "UCXj5FkEWtjpOv_cTEa0kuOg",
+   "created": "2026-06-30",
+   "subs": "864",
+   "videos": "186",
+   "before": {
+    "n": 9,
+    "median": 1641,
+    "max": 15607,
+    "over10k": 2
+   },
+   "after": {
+    "n": 34,
+    "median": 1967,
+    "max": 573786,
+    "over10k": 6
+   },
+   "last3d": {
+    "n": 7,
+    "median": 1440,
+    "max": 2299,
+    "over10k": 0
+   },
+   "recent": [
+    {
+     "id": "pBB-Cphx56k",
+     "date": "2026-10-20",
+     "title": "낮잠 자는 멍멍이 건드리면 안 되는 이유 ㅋㅋ",
+     "views": 802,
+     "dur": "PT24S"
+    },
+    {
+     "id": "dvMpo09THLU",
+     "date": "2026-10-19",
+     "title": "뒤끝 하나는 끝내주는 아기 코끼리 ㅋㅋ",
+     "views": 2029,
+     "dur": "PT30S"
+    },
+    {
+     "id": "vWkQzpaHhyQ",
+     "date": "2026-10-19",
+     "title": "코끼리가 그네를 못 타는 황당한 이유ㅋㅋ",
+     "views": 1095,
+     "dur": "PT31S"
+    },
+    {
+     "id": "La7VuTRCHBw",
+     "date": "2026-10-18",
+     "title": "청소하는 사육사 보다 더 바쁜 장난꾸러기",
+     "views": 1292,
+     "dur": "PT32S"
+    },
+    {
+     "id": "jLebp7ZHCaU",
+     "date": "2026-10-18",
+     "title": "진흙에 파묻힌 새끼를 구한 모성애",
+     "views": 1440,
+     "dur": "PT35S"
+    },
+    {
+     "id": "Cxi0FAroMcY",
+     "date": "2026-10-17",
+     "title": "남의 오이 밭에서 단체 먹방시작",
+     "views": 2299,
+     "dur": "PT28S"
+    },
+    {
+     "id": "N1rY5wyurWs",
+     "date": "2026-10-17",
+     "title": "뭐가 그렇게 궁금한거야?",
+     "views": 2218,
+     "dur": "PT29S"
+    },
+    {
+     "id": "KfLJNqqh1GM",
+     "date": "2026-10-16",
+     "title": "강아지 엄마들의 극한 육아 현장",
+     "views": 7143,
+     "dur": "PT30S"
+    },
+    {
+     "id": "bSGyrrfLYKA",
+     "date": "2026-10-16",
+     "title": "사탕 하나에 자존심 무너진 고양이",
+     "views": 3367,
+     "dur": "PT27S"
+    },
+    {
+     "id": "-D2J9Z7Aq-E",
+     "date": "2026-10-16",
+     "title": "작은 생명 살린 사람들의 놀라운 구조 방법",
+     "views": 82,
+     "dur": "PT29S"
+    }
+   ]
+  },
+  {
+   "title": "여우냥",
+   "id": "UCaZFgvIYTL1YTRBEDYJfQhA",
+   "created": "2025-11-14",
+   "subs": "90000",
+   "videos": "279"
+  },
+  {
+   "title": "참나",
+   "id": "UC6rkFTyJ_2Rz_0r-Ry0SLKg",
+   "created": "2026-01-07",
+   "subs": "12600",
+   "videos": "165"
+  },
+  {
+   "title": "JPOP룰루랄라",
+   "id": "UCddeihoIBrOktPM8s5ZzkYw",
+   "created": "2026-02-17",
+   "subs": "280",
+   "videos": "42"
+  },
+  {
+   "title": "냥츠",
+   "id": "UCwgO4i_RnbsumWsnAvh5Q5A",
+   "created": "2026-03-17",
+   "subs": "15300",
+   "videos": "236",
+   "before": {
+    "n": 27,
+    "median": 66354,
+    "max": 5540590,
+    "over10k": 27
+   },
+   "after": {
+    "n": 20,
+    "median": 94618,
+    "max": 2777701,
+    "over10k": 20
+   },
+   "last3d": {
+    "n": 3,
+    "median": 287948,
+    "max": 295852,
+    "over10k": 3
+   },
+   "recent": [
+    {
+     "id": "El3BzEa1pJQ",
+     "date": "2026-10-19",
+     "title": "목발 짚고 가는데 길냥이가 약 올림ㅋㅋ",
+     "views": 287948,
+     "dur": "PT16S"
+    },
+    {
+     "id": "kglkPibaiCY",
+     "date": "2026-10-18",
+     "title": "고양이 욕을 함부로 따라 하면 안 되는 이유",
+     "views": 295852,
+     "dur": "PT22S"
+    },
+    {
+     "id": "RuAZq5R3oE4",
+     "date": "2026-10-17",
+     "title": "고양이 싸움 소리를 길냥이에게 들려줬더니",
+     "views": 99493,
+     "dur": "PT8S"
+    },
+    {
+     "id": "2YbcoeWhxQ4",
+     "date": "2026-10-16",
+     "title": "어쩌다 보니 두 냥이 집사가 되어버림",
+     "views": 31995,
+     "dur": "PT20S"
+    },
+    {
+     "id": "EkbdRBOtEQc",
+     "date": "2026-10-15",
+     "title": "고양이한테 발 냄새 풍기던 집사의 최후ㅋㅋ",
+     "views": 36326,
+     "dur": "PT8S"
+    },
+    {
+     "id": "g7XlKhL9Z3Q",
+     "date": "2026-10-14",
+     "title": "길 가다 만난 고양이의 압도적인 피지컬ㄷㄷ",
+     "views": 46745,
+     "dur": "PT18S"
+    },
+    {
+     "id": "_RSo7x9wEDg",
+     "date": "2026-10-13",
+     "title": "도망다니는 고양이 쉽게 붙잡는 방법ㅋㅋ",
+     "views": 49643,
+     "dur": "PT16S"
+    },
+    {
+     "id": "b77vm5Crc8A",
+     "date": "2026-10-13",
+     "title": "물에 닿으면 큰일 나는 줄 아는 고양이",
+     "views": 75138,
+     "dur": "PT15S"
+    },
+    {
+     "id": "-uhA-ulFMZY",
+     "date": "2026-10-12",
+     "title": "산책하던 고양이가 갑자기 쓰러진 이유ㅋㅋ",
+     "views": 84286,
+     "dur": "PT8S"
+    },
+    {
+     "id": "XyYWl7KVuAw",
+     "date": "2026-10-12",
+     "title": "고양이 싸움 소리를 흉내 내면 안 되는 이유",
+     "views": 394668,
+     "dur": "PT16S"
+    }
+   ]
+  },
+  {
+   "title": "말해조",
+   "id": "UCTxeodzJ6RK2I65S3HF-DyQ",
+   "created": "2025-08-20",
+   "subs": "19200",
+   "videos": "560"
+  },
+  {
+   "title": "이거알아",
+   "id": "UCTLAFnaZDZ0yGxanWtw2_iQ",
+   "created": "2026-02-28",
+   "subs": "9780",
+   "videos": "572"
+  },
+  {
+   "title": "왜저랩",
+   "id": "UCih4HSWy54mGKDtX23ORqfA",
+   "created": "2026-06-25",
+   "subs": "2540",
+   "videos": "78",
+   "before": {
+    "n": 28,
+    "median": 121358,
+    "max": 1443897,
+    "over10k": 26
+   },
+   "after": {
+    "n": 19,
+    "median": 54716,
+    "max": 1866651,
+    "over10k": 19
+   },
+   "last3d": {
+    "n": 3,
+    "median": 17952,
+    "max": 47066,
+    "over10k": 3
+   },
+   "recent": [
+    {
+     "id": "Yp-awLHlyMo",
+     "date": "2026-10-20",
+     "title": "사자 보고 다 도망가자 녀석이 보인 행동ㅋㅋ",
+     "views": 12999,
+     "dur": "PT19S"
+    },
+    {
+     "id": "x7C7vGxWDvY",
+     "date": "2026-10-19",
+     "title": "사육사는 쫓아가던 아기 코끼리가 강아지를 보자ㅋㅋ",
+     "views": 47066,
+     "dur": "PT14S"
+    },
+    {
+     "id": "g4bElKGeEC0",
+     "date": "2026-10-18",
+     "title": "집사가 엄마인 줄 아는 아기 호냥이의 일상ㅋㅋ",
+     "views": 17952,
+     "dur": "PT36S"
+    },
+    {
+     "id": "RiNMBJNWRUM",
+     "date": "2026-10-16",
+     "title": "기타를 치고 있는데 호랑이가 다가오더니?ㄷㄷ",
+     "views": 32725,
+     "dur": "PT22S"
+    },
+    {
+     "id": "zNIck9S4nbs",
+     "date": "2026-10-16",
+     "title": "장난치다 삐져버린 아기 코끼리가 간식을 보자ㅋㅋ",
+     "views": 45726,
+     "dur": "PT23S"
+    },
+    {
+     "id": "Bij94t7JH4M",
+     "date": "2026-10-15",
+     "title": "성체와 아기 치타의 골골송을 비교해봤더니ㅋㅋ",
+     "views": 34390,
+     "dur": "PT17S"
+    },
+    {
+     "id": "zNUwBWY-n3k",
+     "date": "2026-10-14",
+     "title": "목장에서 하루를 보내는 댕댕이에게 생기는 일ㅋㅋ",
+     "views": 67200,
+     "dur": "PT18S"
+    },
+    {
+     "id": "I-6lBt2RZxc",
+     "date": "2026-10-13",
+     "title": "나무늘보 구조 초보와 고수의 차이ㅋㅋ",
+     "views": 79846,
+     "dur": "PT24S"
+    },
+    {
+     "id": "vSdfr4jrLBY",
+     "date": "2026-10-12",
+     "title": "맹수 울버린과 가까이 지내면 생기는 일ㄷㄷ",
+     "views": 137767,
+     "dur": "PT24S"
+    },
+    {
+     "id": "18BZQn4q0M0",
+     "date": "2026-10-11",
+     "title": "사육사를 혼내주려던 아기 코끼리의 허당 복수ㅋㅋ",
+     "views": 54552,
+     "dur": "PT19S"
+    }
+   ]
   },
   {
    "title": "스트로베리 터틀",
    "id": "UCnempld6HzR-HNHUC8kPdOg",
    "created": "2025-09-27",
    "subs": "114000",
-   "videos": "683"
+   "videos": "682"
   },
   {
-   "title": "김첨지",
-   "id": "UC7mDxDCWCItvvKAX0fXCqSQ",
-   "created": "2020-12-12",
-   "subs": "594",
-   "videos": "54"
-  },
-  {
-   "title": "The Remarkable Bubble Company",
-   "id": "UC9KfocfvfFVt-AiiTo_vB0A",
-   "created": "2023-05-28",
-   "subs": "442",
-   "videos": "131"
-  },
-  {
-   "title": "Siana V.",
-   "id": "UCTV6T7RU3g6nOa2IavDOORg",
-   "created": "2016-05-04",
-   "subs": "7440",
-   "videos": "842"
-  },
-  {
-   "title": "velvet hex 13",
-   "id": "UCCZS0TfWtWBdZRXyC11aBew",
-   "created": "2014-09-11",
-   "subs": "125",
-   "videos": "72"
-  },
-  {
-   "title": "몰라그냥 문방구",
-   "id": "UC03r-tRDtO7dkbM8nxTMdOQ",
-   "created": "2022-11-01",
-   "subs": "151000",
-   "videos": "776"
-  },
-  {
-   "title": "Al Valley",
-   "id": "UCMB4v9NqKNgyuMrTpGkOokw",
-   "created": "2024-06-20",
-   "subs": "1060",
-   "videos": "652"
-  },
-  {
-   "title": "묘한그동물",
-   "id": "UCo-MQvGhKNCW9F3MGdFVeQQ",
-   "created": "2025-01-19",
-   "subs": "45000",
-   "videos": "392"
-  },
-  {
-   "title": "Fisher Young",
-   "id": "UCK6KwKanh0NPvWwRaiSpRgw",
-   "created": "2025-03-21",
-   "subs": "464",
-   "videos": "321"
-  },
-  {
-   "title": "Totally Barbie",
-   "id": "UCXNvQvlf4hNwgQyluwpc7ew",
-   "created": "2025-07-15",
-   "subs": "2640",
-   "videos": "623"
-  },
-  {
-   "title": "Mr.Pawrage",
-   "id": "UCTlY8jdls2vhWaY4lNVyrbQ",
-   "created": "2024-10-05",
-   "subs": "120000",
-   "videos": "156"
-  },
-  {
-   "title": "댕댕냥냥",
-   "id": "UCHiC4Und6tBV0OEUGCHsabg",
-   "created": "2025-06-05",
-   "subs": "890",
-   "videos": "44"
-  },
-  {
-   "title": "Miss Shelly Belle",
-   "id": "UCAdPNcNunz_lQyNSS9Ze3ew",
-   "created": "2007-06-24",
-   "subs": "488",
-   "videos": "311"
-  },
-  {
-   "title": "하나또",
-   "id": "UC_o5iTr6pUNN3fqu_f50LFA",
-   "created": "2026-03-03",
-   "subs": "6320",
-   "videos": "169"
-  },
-  {
-   "title": "꿀템링크",
-   "id": "UCondOf5VcNzeZmy7uH4lYLQ",
-   "created": "2020-05-19",
-   "subs": "680",
-   "videos": "8"
-  },
-  {
-   "title": "Hangry Petz",
-   "id": "UC_roKALniLJxrR4yZP1_CKw",
-   "created": "2024-10-07",
-   "subs": "3040",
-   "videos": "244"
-  },
-  {
-   "title": "Mishael Park",
-   "id": "UCS9lFDmiGp3MJvCeBeQgqfw",
-   "created": "2023-02-21",
-   "subs": "29",
-   "videos": "37"
-  },
-  {
-   "title": "홈스토리",
-   "id": "UCpANROseo-Ydh7zIhkKZedQ",
-   "created": "2024-03-11",
-   "subs": "159000",
-   "videos": "818"
-  },
-  {
-   "title": "빵슛",
-   "id": "UCyX9PFdi--HRR19TUfSEwNQ",
-   "created": "2025-10-02",
-   "subs": "4930",
-   "videos": "178"
-  },
-  {
-   "title": "Jyoti",
-   "id": "UCfqaSTum-hiE65g53SF8f4Q",
-   "created": "2023-02-28",
-   "subs": "722",
-   "videos": "126"
-  },
-  {
-   "title": "Sarah Beth Terry",
-   "id": "UCdBjcOMRr6QrZgukyu5xbUg",
-   "created": "2023-12-08",
-   "subs": "5550",
-   "videos": "4797"
-  },
-  {
-   "title": "즈냥",
-   "id": "UClK7DDmNOvOyy5YlmxraHVw",
-   "created": "2025-06-30",
-   "subs": "125",
-   "videos": "23"
-  },
-  {
-   "title": "ms macc ",
-   "id": "UC-dkvhSSTOaedcWwUkOsJow",
-   "created": "2020-01-14",
-   "subs": "77",
-   "videos": "34"
-  },
-  {
-   "title": "BipolarBisexualBimyself",
-   "id": "UC8Cx93yE3PeqtzwbI_8deZQ",
-   "created": "2023-08-25",
-   "subs": "598",
-   "videos": "534"
-  },
-  {
-   "title": "집순이_zip",
-   "id": "UCxdG85Kvj77wuI23MTqEm1A",
-   "created": "2025-08-21",
-   "subs": "25200",
-   "videos": "345"
-  },
-  {
-   "title": "살림뽀짝",
-   "id": "UCvflj2iKXfJWzg4-_UNX6Xw",
-   "created": "2026-04-19",
-   "subs": "105",
-   "videos": "25"
-  },
-  {
-   "title": "Trsammielstv",
-   "id": "UC7RQZCg029iGiPgcMlVaRcQ",
-   "created": "2020-07-26",
-   "subs": "44900",
-   "videos": "16652"
-  },
-  {
-   "title": "Enjoy with Damla",
-   "id": "UCJRCm-0odoein0wQeTzxgsA",
-   "created": "2026-07-13",
-   "subs": "24",
-   "videos": "35"
-  },
-  {
-   "title": "🎃Eddie Mata🎃",
-   "id": "UC_xM7EQafDscv2XdJtBO_BA",
-   "created": "2023-01-20",
-   "subs": "3110",
-   "videos": "2061"
-  },
-  {
-   "title": "Xoxo Kylie 🎀",
-   "id": "UCqoAn9keetas4hdcxzqkUXQ",
-   "created": "2017-02-20",
-   "subs": "717",
-   "videos": "756"
-  },
-  {
-   "title": "예능한마당",
-   "id": "UCF7e9058J4tXIK7DE3746TQ",
-   "created": "2026-02-13",
-   "subs": "3190",
-   "videos": "173"
-  },
-  {
-   "title": "Erica Giles",
-   "id": "UClqAXCegCaFekrXLffD5OeA",
-   "created": "2024-01-03",
-   "subs": "33800",
-   "videos": "854"
-  },
-  {
-   "title": "Barbie Dream house",
-   "id": "UCPUsjAuCAE5TstQLn-vnabw",
-   "created": "2025-04-27",
-   "subs": "6",
-   "videos": "11"
-  },
-  {
-   "title": "Giggle Paws",
-   "id": "UCZz2CGU3MlDnKpu2B9NmGTg",
-   "created": "2025-05-13",
-   "subs": "49",
-   "videos": "119"
-  },
-  {
-   "title": "MeowGPT",
-   "id": "UCph8FR6wdWPxJ8UXee3FQYw",
-   "created": "2025-12-28",
-   "subs": "45",
-   "videos": "113"
-  },
-  {
-   "title": "All about animals",
-   "id": "UCIJdnS_hK-REciMXpx_lX-Q",
-   "created": "2023-05-09",
-   "subs": "403",
-   "videos": "167"
-  },
-  {
-   "title": "BeView",
-   "id": "UCiRi8tbqN1r96hS9gxD6Zew",
-   "created": "2012-09-23",
-   "subs": "251",
-   "videos": "657"
-  },
-  {
-   "title": "𝒽ℴ𝓇𝓈ℯ 𝒿ℴ𝓊𝓇𝓃ℯ𝓏",
-   "id": "UCo31RsVUz81XEaFbfBw_kJg",
-   "created": "2025-08-09",
-   "subs": "78",
-   "videos": "31"
-  },
-  {
-   "title": "참치",
-   "id": "UCL5b6ilADnhtx6CthcAJrNA",
-   "created": "2020-03-11",
-   "subs": "20",
-   "videos": "9"
-  },
-  {
-   "title": "유머톡",
-   "id": "UCEndVhXPxTTbjvt-9DoqNUg",
-   "created": "2023-03-03",
-   "subs": "909",
-   "videos": "305"
-  },
-  {
-   "title": "소품가게네",
-   "id": "UCdO9Iiih2ZDvkicxibV801Q",
-   "created": "2023-07-01",
-   "subs": "68",
-   "videos": "575"
-  },
-  {
-   "title": "다람쥐 쿠키의 브이로그",
-   "id": "UCc0zjVIg4Wv2xzM6fqNh0RA",
-   "created": "2025-03-14",
-   "subs": "6",
-   "videos": "8"
-  },
-  {
-   "title": "쫀떡",
-   "id": "UCDfKUF-2_q-5-117mDnaHPg",
-   "created": "2010-12-16",
-   "subs": "3150",
-   "videos": "179"
-  },
-  {
-   "title": "♡민 world♡",
-   "id": "UCeFBwr9y0mxUsa0eJ581p3A",
-   "created": "2012-07-03",
-   "subs": "382",
-   "videos": "229"
-  },
-  {
-   "title": "ELLA 냥이",
-   "id": "UCo0Whm3oef214q8wjSGfjQg",
-   "created": "2013-04-26",
-   "subs": "247",
-   "videos": "247"
-  },
-  {
-   "title": "떠돌이가족",
-   "id": "UCbEt1QT5pLTXi7QdTlwaSiw",
-   "created": "2022-02-27",
-   "subs": "4010",
-   "videos": "111"
-  },
-  {
-   "title": "하이웰빙 이은향TV",
-   "id": "UCpDl4thrCn0pRiy7010SrdA",
-   "created": "2013-06-03",
-   "subs": "848",
-   "videos": "548"
-  },
-  {
-   "title": "센티아와 루미",
-   "id": "UC9CGmUzpMiCuRaxE1nPQrJg",
+   "title": "해요마요",
+   "id": "UCeUIJzNuooWUG6Uojvb13Tg",
    "created": "2026-01-29",
-   "subs": "840",
-   "videos": "81"
+   "subs": "8090",
+   "videos": "397"
   },
   {
-   "title": "HotDeals KR",
-   "id": "UCrFVRqyFY785mcrb7OY512A",
-   "created": "2024-04-09",
-   "subs": "21",
-   "videos": "65"
+   "title": "멍냥대전",
+   "id": "UCgKmiMRdv2QkxIPMir6zRJA",
+   "created": "2020-09-27",
+   "subs": "7610",
+   "videos": "316"
   },
   {
-   "title": "체리친구",
-   "id": "UCn_lqzzIvgOl7R3WRcbvzXw",
-   "created": "2020-04-22",
-   "subs": "71",
-   "videos": "117"
+   "title": "도른 에밀리 Emilie Dorn",
+   "id": "UCh0SoBL5L5bEz3Hk-mQ3Dtg",
+   "created": "2020-05-24",
+   "subs": "283000",
+   "videos": "317"
   },
   {
-   "title": "아리스마켓",
-   "id": "UC-x-DKHMhyXBb2FgftxW3wg",
-   "created": "2023-11-04",
-   "subs": "282",
-   "videos": "166"
+   "title": "오늘의펫",
+   "id": "UCKSeSiAExjvYTn7nABoIPFg",
+   "created": "2026-08-26",
+   "subs": "1900",
+   "videos": "84",
+   "before": {
+    "n": 17,
+    "median": 1792,
+    "max": 1252305,
+    "over10k": 4
+   },
+   "after": {
+    "n": 24,
+    "median": 30119,
+    "max": 803676,
+    "over10k": 17
+   },
+   "last3d": {
+    "n": 9,
+    "median": 1283,
+    "max": 31890,
+    "over10k": 1
+   },
+   "recent": [
+    {
+     "id": "CWSWdDkrUd8",
+     "date": "2026-10-20",
+     "title": "이 얼굴로 다가오면 반칙이지",
+     "views": 336,
+     "dur": "PT7S"
+    },
+    {
+     "id": "ovhQ7XYd8KI",
+     "date": "2026-10-20",
+     "title": "수달이랑 손잡고 싶을 때 써먹는 방법ㅋㅋ",
+     "views": 1051,
+     "dur": "PT18S"
+    },
+    {
+     "id": "TlAe8S1tvwg",
+     "date": "2026-10-20",
+     "title": "아기 오리 3마리를 구해준 강아지에게 생긴 일ㅠㅠ",
+     "views": 332,
+     "dur": "PT32S"
+    },
+    {
+     "id": "LgLO0fatp2c",
+     "date": "2026-10-20",
+     "title": "자기가 제일 센 줄 알았던 웰시코기의 최후ㅋㅋ",
+     "views": 1371,
+     "dur": "PT10S"
+    },
+    {
+     "id": "qiDAU6a57hs",
+     "date": "2026-10-20",
+     "title": "아직 잠자는 것도 서툰 아기 해달ㅠㅠ 🦦",
+     "views": 1132,
+     "dur": "PT11S"
+    },
+    {
+     "id": "AjoM2AOQVR0",
+     "date": "2026-10-20",
+     "title": "아기 보더콜리에게 양몰이를 맡겨봤더니ㅋㅋ",
+     "views": 1283,
+     "dur": "PT17S"
+    },
+    {
+     "id": "N4k29fY1AaE",
+     "date": "2026-10-19",
+     "title": "앵무새들끼리 369게임을 하면 생기는 일ㅋㅋ 🦜",
+     "views": 1695,
+     "dur": "PT19S"
+    },
+    {
+     "id": "FGKeBnxkeAo",
+     "date": "2026-10-19",
+     "title": "친구가 먹는 게 부러워서 자리를 뺏어봤더니ㅋㅋ",
+     "views": 31890,
+     "dur": "PT15S"
+    },
+    {
+     "id": "DkF5DLQPu4E",
+     "date": "2026-10-18",
+     "title": "울타리까지 넘어 말을 찾아간 소… 무슨 일인가 했더니ㅋㅋ",
+     "views": 4525,
+     "dur": "PT14S"
+    },
+    {
+     "id": "JfY1oVWhlsU",
+     "date": "2026-10-16",
+     "title": "고양이한테 쥐 선물했다가 혼나는 강아지ㅋㅋ",
+     "views": 28206,
+     "dur": "PT10S"
+    }
+   ]
   },
   {
-   "title": "Sonic Gang Jr",
-   "id": "UC6msOR4-Wf-NMAP24YwobpQ",
-   "created": "2024-08-27",
-   "subs": "8670",
-   "videos": "2719"
-  },
-  {
-   "title": "Fletcher Farms Amarillo and Big Hoof Foundation ",
-   "id": "UC8WH8e4x8feXOX3JSoCgnIQ",
-   "created": "2022-01-14",
-   "subs": "55700",
-   "videos": "340"
-  },
-  {
-   "title": "Air Trackers Association (on break)",
-   "id": "UC6Xwc4MsB6UxeesfAxQUcrQ",
-   "created": "2025-09-04",
-   "subs": "318",
-   "videos": "381"
-  },
-  {
-   "title": "오늘도후추",
-   "id": "UCxfkBf_lWuWoBIRiHyxq_9Q",
-   "created": "2026-04-03",
-   "subs": "109",
-   "videos": "80"
-  },
-  {
-   "title": "우솔튜브",
-   "id": "UCzTMA-mO9j7AWFFGuw3sjJg",
-   "created": "2020-01-22",
-   "subs": "64",
-   "videos": "116"
-  },
-  {
-   "title": "Anmeega channel | ஆன்மீக பயணம் ",
-   "id": "UC8g10pMw2rA9-Sl_XmDnkHw",
-   "created": "2017-08-03",
-   "subs": "1120",
-   "videos": "509"
-  },
-  {
-   "title": "AI Creature Lab",
-   "id": "UCr3o_V3WgUDNKkxTpxmv_7Q",
-   "created": "2026-02-18",
-   "subs": "11",
-   "videos": "33"
-  },
-  {
-   "title": "노랑별",
-   "id": "UCpCBFNG76ePcGr9O9zVJMoQ",
-   "created": "2017-03-05",
-   "subs": "448",
-   "videos": "242"
-  },
-  {
-   "title": "Movie Tail",
-   "id": "UC2uv-QDBesOowZvgI1_NURg",
-   "created": "2022-01-31",
-   "subs": "811",
-   "videos": "21"
-  },
-  {
-   "title": "탁티티",
-   "id": "UCnC-ZHbN3J-qxlN-WHuSsbA",
-   "created": "2026-05-12",
-   "subs": "198",
-   "videos": "23"
-  },
-  {
-   "title": "JustMadzz !",
-   "id": "UCBnNUV1ia3HV5LaahOkuOvA",
-   "created": "2025-05-21",
-   "subs": "86",
-   "videos": "239"
-  },
-  {
-   "title": "리뷰잇템",
-   "id": "UC9UEdOe8PEwyZEeJQt7ggJw",
-   "created": "2025-11-27",
-   "subs": "16",
-   "videos": "41"
-  },
-  {
-   "title": "MDEEZY ",
-   "id": "UCM5JDTjLNMhr1NsenxdsWUw",
-   "created": "2014-01-23",
-   "subs": "128000",
-   "videos": "5619"
-  },
-  {
-   "title": "만만의콩떡",
-   "id": "UCue44Vn27Vc6bpan4X6sNHw",
-   "created": "2019-12-31",
-   "subs": "133",
-   "videos": "62"
-  },
-  {
-   "title": "주디데이",
-   "id": "UC1Zj2-0DGZqp53GkM8wvGfw",
-   "created": "2025-10-16",
-   "subs": "117",
-   "videos": "424"
-  },
-  {
-   "title": "쭈쭌호강해",
-   "id": "UC81YgI1w6jaa5i6jX1zoCtg",
-   "created": "2025-06-24",
-   "subs": "71",
-   "videos": "102"
-  },
-  {
-   "title": "Ken Voorhees",
-   "id": "UCootgbMfbAdlTPEYxTagejg",
-   "created": "2007-08-29",
-   "subs": "107",
-   "videos": "235"
-  },
-  {
-   "title": "소원사랑TV",
-   "id": "UCelteUSNcJ8JXHdXniqQEfA",
-   "created": "2021-12-27",
-   "subs": "2480",
-   "videos": "188"
-  },
-  {
-   "title": "세온살림",
-   "id": "UC7gb9-cMFKc6qs0Ki06YzPw",
-   "created": "2026-03-26",
-   "subs": "224",
-   "videos": "158"
-  },
-  {
-   "title": "치트키",
-   "id": "UCxojYjqB-CHwDIfFEqGkAUg",
-   "created": "2014-06-09",
-   "subs": "1950",
-   "videos": "846"
-  },
-  {
-   "title": "KidzAcadmi",
-   "id": "UC57U1C-yEB7ticR-AH7jE_A",
-   "created": "2025-05-29",
-   "subs": "410",
-   "videos": "68"
-  },
-  {
-   "title": "Bambouli",
-   "id": "UCi_U7q2dEqTL-1JFj1EEtyQ",
-   "created": "2026-05-24",
-   "subs": "48",
-   "videos": "39"
-  },
-  {
-   "title": "강바냐",
-   "id": "UCPP3-hpDSZFOzHAPL66K6ZA",
-   "created": "2025-05-05",
-   "subs": "144",
-   "videos": "29"
-  },
-  {
-   "title": "단지엄마danjimommy",
-   "id": "UCpdNLTENQMJpjoIv_F5HXqw",
-   "created": "2023-05-29",
-   "subs": "199",
-   "videos": "347"
-  },
-  {
-   "title": "나는야 김뚱땡",
-   "id": "UCk71I7NVfiibXar8NumGk6Q",
-   "created": "2024-09-12",
-   "subs": "999",
-   "videos": "625"
-  },
-  {
-   "title": "썰강아지",
-   "id": "UCZe_a72Y_VTvg8mqKS4f8Jw",
-   "created": "2025-11-25",
-   "subs": "63",
-   "videos": "26"
-  },
-  {
-   "title": "짱돌밤콩애옹세상",
-   "id": "UCJM6lN_A7ccNi8wlQrTmLRA",
-   "created": "2012-07-01",
-   "subs": "419",
-   "videos": "563"
-  },
-  {
-   "title": "냥이 월드",
-   "id": "UCtYZSDbJQAMrcuwkVNcFWjQ",
-   "created": "2025-02-21",
-   "subs": "647",
-   "videos": "328"
-  },
-  {
-   "title": "슈가파크(SugarPark)",
-   "id": "UC5qnaVZND4ragTVwAjR6xSA",
-   "created": "2013-07-03",
-   "subs": "7480",
-   "videos": "8298"
-  },
-  {
-   "title": "wgUnZ",
-   "id": "UCqiYQWUTkiFnWjpzBP8Quog",
-   "created": "2025-01-23",
-   "subs": "31",
-   "videos": "50"
+   "title": "귀염단속반",
+   "id": "UCLFNw5sUcR46WYeJ8kAmvsA",
+   "created": "2025-01-01",
+   "subs": "20400",
+   "videos": "487"
   }
  ],
  "search_hits": [
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "6Darq81qjXY",
-   "ch": "Pinky Joy",
-   "cid": "UCMU-_JfOElFCiLIJfy_PCeg",
-   "date": "2026-07-13",
-   "title": "Satisfying Unboxing Barbie Doll &amp; Dreamhouse Set Toys, A",
-   "views": 7760708
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "mvQlZFM6a7M",
-   "ch": "Mr.Pawrage",
-   "cid": "UCTlY8jdls2vhWaY4lNVyrbQ",
-   "date": "2026-08-29",
-   "title": "Satisfying With Unboxing Barbie Doll &amp; Dreamhouse Set To",
-   "views": 5324006
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "qcK8AL8LQuc",
-   "ch": "Pinky Joy",
-   "cid": "UCMU-_JfOElFCiLIJfy_PCeg",
-   "date": "2026-09-12",
-   "title": "Satisfying Unboxing Barbie Doll &amp; Dreamhouse Set Toys, A",
-   "views": 2594805
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "wu6olDTs8CI",
-   "ch": "Pinky Joy",
-   "cid": "UCMU-_JfOElFCiLIJfy_PCeg",
-   "date": "2026-05-23",
-   "title": "Satisfying Unboxing Barbie Doll &amp; Dreamhouse Set Toys, A",
-   "views": 2653400
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "YN0FoUMTP9Q",
-   "ch": "Pinky Joy",
-   "cid": "UCMU-_JfOElFCiLIJfy_PCeg",
-   "date": "2026-07-20",
-   "title": "Satisfying Unboxing Barbie Doll &amp; Dreamhouse Set Toys, A",
-   "views": 2312938
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "XYJn5qGz2fk",
-   "ch": "Line World",
-   "cid": "UC1pQeMVp_qvTOoB3HRConMg",
-   "date": "2025-06-03",
-   "title": "Barbie Dreamhouse Cake 2 – Most Glamorous Birthday Cake of 2",
-   "views": 636163
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "HUhGb352ZNs",
-   "ch": "Pinky Joy",
-   "cid": "UCMU-_JfOElFCiLIJfy_PCeg",
-   "date": "2026-09-20",
-   "title": "Satisfying Unboxing Barbie Doll &amp; Dreamhouse Set Toys, A",
-   "views": 224073
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "L7N2WvffptM",
-   "ch": "Barbie",
-   "cid": "UCadtap8RYMNy8w4K9lXhzpQ",
-   "date": "2026-02-06",
-   "title": "Barbie&#39;s Copycat! | Barbie Dreamhouse Adventures | Short",
-   "views": 54238
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "NXe2Ci25iKY",
-   "ch": "Trsammielstv",
-   "cid": "UC7RQZCg029iGiPgcMlVaRcQ",
-   "date": "2026-06-24",
-   "title": "My friend walked away with my Barbie Dream House… what happe",
-   "views": 58965
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "mFsmsBMP6_0",
-   "ch": "Xoxo Kylie 🎀",
-   "cid": "UCqoAn9keetas4hdcxzqkUXQ",
-   "date": "2026-05-16",
-   "title": "#barbiedreamhouse #barbie #lifeisbutadream #trending #cutean",
-   "views": 17107
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "XSgfTspSMWo",
-   "ch": "Apriltale little world ",
-   "cid": "UCdpK0NQaKKjmH13Zivxd4Tg",
-   "date": "2026-07-31",
-   "title": "Satisfying unboxing Barbie dream house car",
-   "views": 11419
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "lHataGuXsrA",
-   "ch": "Xoxo Kylie 🎀",
-   "cid": "UCqoAn9keetas4hdcxzqkUXQ",
-   "date": "2026-05-18",
-   "title": "#barbiedreamhouse #barbie #babykittens #kitten #cuteanimals ",
-   "views": 10521
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "Mqdj2qG7pn8",
-   "ch": "The Remarkable Bubble Company",
-   "cid": "UC9KfocfvfFVt-AiiTo_vB0A",
-   "date": "2025-06-01",
-   "title": "This Piano Playing Cat…😍 #cat #party #birthday",
-   "views": 6626
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "BibimQjOKb8",
-   "ch": "Hangry Petz",
-   "cid": "UC_roKALniLJxrR4yZP1_CKw",
-   "date": "2025-06-22",
-   "title": "The chip aisle is our Barbie dream house @theskinnypoppopcor",
-   "views": 8293
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "QmUv47vdMgg",
-   "ch": "KIAN AND LEO ",
-   "cid": "UCojqzZqNzH5dF01Mvy_9QBg",
-   "date": "2026-01-05",
-   "title": "Why is my CAT neon pink?! 🦩😰 (Jake, what did you do?)",
-   "views": 4943
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "Pc0QynEEAbQ",
-   "ch": "Erica Giles",
-   "cid": "UClqAXCegCaFekrXLffD5OeA",
-   "date": "2026-03-05",
-   "title": "And why would a man be there!!!! #girl #barbiedreamhouse #ho",
-   "views": 5582
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "-cnnycnRsFg",
-   "ch": "Xoxo Kylie 🎀",
-   "cid": "UCqoAn9keetas4hdcxzqkUXQ",
-   "date": "2026-05-23",
-   "title": "#barbiedreamhouse #barbie #barbiedoll #cuteanimals #kitten #",
-   "views": 4451
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "QAFejUtkiS0",
-   "ch": "Xoxo Kylie 🎀",
-   "cid": "UCqoAn9keetas4hdcxzqkUXQ",
-   "date": "2026-05-18",
-   "title": "#barbiedreamhouse #barbie #kitten #kitty #cute #cuteanimals ",
-   "views": 4755
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "wVoXeK_KxHs",
-   "ch": "internetdumps",
-   "cid": "UCUI4ooA0_b-w4k8UC2BbpCg",
-   "date": "2026-08-01",
-   "title": "My sister got a Barbie dream house",
-   "views": 6773
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "bXAS43a5GzU",
-   "ch": "Ghostofyoutube ",
-   "cid": "UCKXb5b6WrX2G7hbYeHgmaGw",
-   "date": "2026-05-17",
-   "title": "my little sister got a barbie dream house",
-   "views": 6934
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "h7g3t-OB-Rc",
-   "ch": "Jyoti",
-   "cid": "UCfqaSTum-hiE65g53SF8f4Q",
-   "date": "2026-02-26",
-   "title": "Barbie cat #viral #shorts #shortsfeed #youtubeshorts #trendi",
-   "views": 3714
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "8FI6EzSrCS8",
-   "ch": "Xoxo Kylie 🎀",
-   "cid": "UCqoAn9keetas4hdcxzqkUXQ",
-   "date": "2026-05-19",
-   "title": "#barbiedreamhouse #barbie #barbiegirl #kitten #kitty #catsho",
-   "views": 2343
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "MKDe-FC1vuU",
-   "ch": "Totally Barbie",
-   "cid": "UCXNvQvlf4hNwgQyluwpc7ew",
-   "date": "2026-02-28",
-   "title": "Barbie Life in the Dreamhouse Enhanced Quality - Season 6 Ep",
-   "views": 951
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "bmZNwtMhCoc",
-   "ch": "BipolarBisexualBimyself",
-   "cid": "UC8Cx93yE3PeqtzwbI_8deZQ",
-   "date": "2025-06-16",
-   "title": "Mayo’s Barbie dream house mansion! #cat #catsoftiktok #cats ",
-   "views": 1864
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "hvm8Ks5DR94",
-   "ch": "Giggle Paws",
-   "cid": "UCZz2CGU3MlDnKpu2B9NmGTg",
-   "date": "2025-06-21",
-   "title": "“Inside the Barbie Dream House… Cat Edition 💅🐱🏠”",
-   "views": 111
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "CEIZKyNG7fY",
-   "ch": "Mishael Park",
-   "cid": "UCS9lFDmiGp3MJvCeBeQgqfw",
-   "date": "2025-08-21",
-   "title": "POV: assembling your Barbie Dreamhouse with your cat😂 #catvi",
-   "views": 109
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "sPvvHFJKiCo",
-   "ch": "MeowGPT",
-   "cid": "UCph8FR6wdWPxJ8UXee3FQYw",
-   "date": "2026-04-04",
-   "title": "“Princess Bella’s Barbie Dreamhouse 🐰💖🐱 | The Most Magical P",
-   "views": 76
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "gK-yNp1yz5A",
-   "ch": "Siana V.",
-   "cid": "UCTV6T7RU3g6nOa2IavDOORg",
-   "date": "2025-10-28",
-   "title": "This is Barbie’s dream house",
-   "views": 2127
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "IORbxAv32dc",
-   "ch": "Claire",
-   "cid": "UCOIZ79AUqRaCGjRVHOOMk9Q",
-   "date": "2026-09-23",
-   "title": "From grill grease to Barbie’s Dreamhouse 💅🏼#kitten #kittenre",
-   "views": 1541
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "e5i7KtCGCwQ",
-   "ch": "The Remarkable Bubble Company",
-   "cid": "UC9KfocfvfFVt-AiiTo_vB0A",
-   "date": "2025-06-24",
-   "title": "What? Dancing Party Cats Explosion 😂 💥… #cat #party #birthda",
-   "views": 2216
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "fes6zHaHgHI",
-   "ch": "Lauren Lawless",
-   "cid": "UCUcoahqFaUuCfxeCyoAg1bg",
-   "date": "2026-07-08",
-   "title": "#shorts #kittens #shortsfeed #kittenvlog #shortsvideo #barbi",
-   "views": 2330
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "ghvjuVrfK_Q",
-   "ch": "ms macc ",
-   "cid": "UC-dkvhSSTOaedcWwUkOsJow",
-   "date": "2026-01-31",
-   "title": "sparkle discovered the Barbie dream house 🏠  ( No copy right",
-   "views": 1919
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "ut3VykMzkQ8",
-   "ch": "Lauren Lawless",
-   "cid": "UCUcoahqFaUuCfxeCyoAg1bg",
-   "date": "2026-07-10",
-   "title": "#shorts #kitten #shortsfeed #kittenplaytime #shortvideo  #ba",
-   "views": 2069
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "EykRopaEon4",
-   "ch": "Straw Berry",
-   "cid": "UCGTCxF-zaPUpfDbkxBhOdrw",
-   "date": "2026-02-23",
-   "title": "Cut Little Cats #trending #viral #explore #cats #kitten #sg ",
-   "views": 2021
-  },
-  {
-   "q": "barbie dreamhouse cat",
-   "vid": "kiZ0uPRx2HA",
-   "ch": "Miss Shelly Belle",
-   "cid": "UCAdPNcNunz_lQyNSS9Ze3ew",
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "IH7R0uWASJg",
+   "ch": "큐트 파워 에너지",
+   "cid": "UCDUqkU541I-NW-ia4VpvLXQ",
    "date": "2026-10-07",
-   "title": "Barbie lost her dream- house #cat #kitten #barbie",
-   "views": 1251
+   "title": "도도한 고양이는 싫고 강아지가 최고라던 할머니 ㅋㅋ",
+   "views": 3936779
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "ABX-pushl-w",
-   "ch": "Lauren Lawless",
-   "cid": "UCUcoahqFaUuCfxeCyoAg1bg",
-   "date": "2026-07-09",
-   "title": "#shorts #kittenviral #shortsfeed #kittenshorts #barbiedreamh",
-   "views": 1769
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "-3G31nTxEoY",
+   "ch": "ㅋㅋㅋ",
+   "cid": "UCSFwNykNrDARlL7oHhFmdGA",
+   "date": "2026-10-10",
+   "title": "감정을 숨길 수 없는 댕댕이 꼬리ㅋㅋ",
+   "views": 1945334
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "OeMcPnXYknU",
-   "ch": "Al Valley",
-   "cid": "UCMB4v9NqKNgyuMrTpGkOokw",
-   "date": "2025-07-18",
-   "title": "Cat &amp; Mouse Castle  #funny #cat",
-   "views": 1058
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "gjeOMnrPa4Q",
+   "ch": "꼬리 시트콤",
+   "cid": "UC0KteXXQMS5kU7y6HfprSzA",
+   "date": "2026-10-05",
+   "title": "손 깨물길래 고양이 말로 따졌더니 표정이 멈춤ㅋㅋ",
+   "views": 1807185
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "peFDNWJlJRw",
-   "ch": " MEOW COLLECTIONS",
-   "cid": "UCgiqFPEv3v07ihyJ9W9RYqA",
-   "date": "2025-06-07",
-   "title": "BARBIE  AND DREAMHOUSE  . OTHER FAMILY MEMBERS",
-   "views": 1321
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "CRGQ_USxoYw",
+   "ch": "꿈꾸는 쿼카",
+   "cid": "UCH6Lzx84Hofss7x8dd3_TMQ",
+   "date": "2026-10-16",
+   "title": "고양이와 자고 싶은 엄마가 아들 방에 갔더니 ㅋㅋ",
+   "views": 1103960
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "9Ra_NltYIu0",
-   "ch": "The Remarkable Bubble Company",
-   "cid": "UC9KfocfvfFVt-AiiTo_vB0A",
-   "date": "2025-05-16",
-   "title": "Not the Spinning Cat In Our Inflatable Barbie Dream Bubble H",
-   "views": 1479
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "PErz_o5mns0",
+   "ch": "이시간지구촌",
+   "cid": "UCcjd7ya1A-Kms-61C7JUMhQ",
+   "date": "2026-10-02",
+   "title": "가출했던 고양이가 집에 돌아온 꼴ㅋㅋ",
+   "views": 699409
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "Wx84STj4ExE",
-   "ch": "Xoxo Kylie 🎀",
-   "cid": "UCqoAn9keetas4hdcxzqkUXQ",
-   "date": "2026-04-14",
-   "title": "#barbiedreamhouse #cats #catshorts",
-   "views": 1385
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "rOLb-E53Qk8",
+   "ch": "동물감동관",
+   "cid": "UCCqAO4RBA5pygtPlB76FPnA",
+   "date": "2026-10-09",
+   "title": "아기 고양이 괴롭히던 냥아치의 최후ㅋㅋ#Shorts #고양이 #어미고양이 #아기고양이보호 #고양이모성애",
+   "views": 539693
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "Vs7WNo5SSoY",
-   "ch": "Xoxo Kylie 🎀",
-   "cid": "UCqoAn9keetas4hdcxzqkUXQ",
-   "date": "2026-04-17",
-   "title": "#barbiedreamhouse #cats #catshorts #catsoftiktok #cute #tren",
-   "views": 889
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "tV_mNkb8840",
+   "ch": "말해조",
+   "cid": "UCTxeodzJ6RK2I65S3HF-DyQ",
+   "date": "2026-10-01",
+   "title": "주인을 완벽 재현한 보더콜리ㅋㅋ",
+   "views": 522334
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "DLU3leJD5-0",
-   "ch": "velvet hex 13",
-   "cid": "UCCZS0TfWtWBdZRXyC11aBew",
-   "date": "2026-05-06",
-   "title": "barbies dream house #barbie #barbiemovie #kenough #kendoll #",
-   "views": 1656
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "UZjrUCtUJ4E",
+   "ch": "냥츠",
+   "cid": "UCwgO4i_RnbsumWsnAvh5Q5A",
+   "date": "2026-10-08",
+   "title": "길고양이 싸움 말리는 방법ㅋㅋ",
+   "views": 492285
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "VW4lTxKFtDM",
-   "ch": "Fisher Young",
-   "cid": "UCK6KwKanh0NPvWwRaiSpRgw",
-   "date": "2025-06-14",
-   "title": "Living the Dream Life: #barbie #dreamhouse #dreamcar",
-   "views": 887
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "NOr41CfFTfs",
+   "ch": "별쇼츠",
+   "cid": "UC7oPbLv71a76mPOFquLZuNA",
+   "date": "2026-10-15",
+   "title": "츄르 하나에 잔소리 1시간 듣기ㅋㅋ",
+   "views": 372276
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "0V0ZKgVS96Y",
-   "ch": "Sarah Beth Terry",
-   "cid": "UCdBjcOMRr6QrZgukyu5xbUg",
-   "date": "2026-05-27",
-   "title": "Meet Lucky Duck: Living in a Barbie DreamHouse! #shorts",
-   "views": 835
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "tI2kG3w9_-Y",
+   "ch": "하루한미소",
+   "cid": "UCLYRuDPDK_Kk2GxYx442YQQ",
+   "date": "2026-10-04",
+   "title": "고양이 간식 버튼 교육, 한 달 뒤엔 과연?ㅋㅋ",
+   "views": 350394
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "C6HP8LT0C58",
-   "ch": "🎃Eddie Mata🎃",
-   "cid": "UC_xM7EQafDscv2XdJtBO_BA",
-   "date": "2025-09-30",
-   "title": "Barbie Life in the Dreamhouse |S5 E2| When the Cat&#39;s Awa",
-   "views": 265
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "JbTugKFjMT8",
+   "ch": "꿀잼식빵",
+   "cid": "UCdZo8UMygrXdKh7oV6Qe1VQ",
+   "date": "2026-10-11",
+   "title": "개가 사냥하는 고양이 뒤를 밟은 이유 ㅋㅋ",
+   "views": 359959
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "-83P0L14hgA",
-   "ch": "The Remarkable Bubble Company",
-   "cid": "UC9KfocfvfFVt-AiiTo_vB0A",
-   "date": "2025-05-16",
-   "title": "Fun Barbie Dance Party with Spinning Cat and Balloons! 😻🎈",
-   "views": 176
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "Kt2WyxTF16I",
+   "ch": "유니집",
+   "cid": "UC6ox_0vapMCD0EXNi1PmG4w",
+   "date": "2026-10-08",
+   "title": "배고프면 세상 무너지는 아기 고양이ㅋㅋ #아기고양이 #동물",
+   "views": 405876
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "7E_BOjBe-kE",
-   "ch": "Enjoy with Damla",
-   "cid": "UCJRCm-0odoein0wQeTzxgsA",
-   "date": "2026-07-13",
-   "title": "Barbi evi, Barbie Dreamhouse Tour 2026 🏠 | Huge House Tour, ",
-   "views": 968
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "yS2seum1mxU",
+   "ch": "댕댕극장",
+   "cid": "UCV8jlvXFSTMaoJacxL3djWg",
+   "date": "2026-10-06",
+   "title": "허스키 새끼 몰래 개집으로 데려갔다 바로 들킨 고양이ㅋㅋ #shorts",
+   "views": 345304
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "WUc_AYGz2zU",
-   "ch": "BELY Y SUS CASITAS ",
-   "cid": "UCn83_67P_DXpHNRemK-nPDw",
-   "date": "2026-08-20",
-   "title": "Casita Glam Barbie #barbie #dreamhouse #house #casademuñecas",
-   "views": 490
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "WLkgTrs1EI0",
+   "ch": "JPOP룰루랄라",
+   "cid": "UCddeihoIBrOktPM8s5ZzkYw",
+   "date": "2026-10-10",
+   "title": "고양이 울음소리 다음에 사람 울음소리를 물었더니ㅋㅋ #웃긴영상 #제이팝 #각종유머",
+   "views": 306974
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "4tG6_Ja5eUg",
-   "ch": "Pure Creativity Plus",
-   "cid": "UC8dIr-M3Dtb7pVdYfYAAwfg",
-   "date": "2025-07-13",
-   "title": "Cat&#39;s Dream House !!🐈🏡 #shorts #animation #cat #sad #emo",
-   "views": 518
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "S9d6Y2QV56M",
+   "ch": "이거알아",
+   "cid": "UCTLAFnaZDZ0yGxanWtw2_iQ",
+   "date": "2026-10-06",
+   "title": "댕댕이만 먼저 눈치챈 상대의 정체ㅋㅋ",
+   "views": 286676
   },
   {
-   "q": "barbie dreamhouse cat",
-   "vid": "Ir2WI0NRtqE",
-   "ch": "Barbie Dream house",
-   "cid": "UCPUsjAuCAE5TstQLn-vnabw",
-   "date": "2025-11-20",
-   "title": "amazing cat cooking, the art of ai #ai#aishorts#cooking#cat#",
-   "views": 448
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "En0l6kovOcA",
+   "ch": "개르신",
+   "cid": "UCg9kpKNMfw2MQSFinBXrS6g",
+   "date": "2026-10-10",
+   "title": "아기한테 굴린 종이관이 자기 발로 돌아옴ㅋㅋ #shorts #강아지",
+   "views": 439886
   },
   {
-   "q": "인형집 고양이",
-   "vid": "niq2zj4D_XU",
-   "ch": "몰라그냥 문방구",
-   "cid": "UC03r-tRDtO7dkbM8nxTMdOQ",
-   "date": "2025-05-23",
-   "title": "⌈댓글 요청⌋우리 집 고양이🐱 츄르 도시락🍱",
-   "views": 602700
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "4kuPpYwazMc",
+   "ch": "귀염단속반",
+   "cid": "UCLFNw5sUcR46WYeJ8kAmvsA",
+   "date": "2026-10-02",
+   "title": "한 번의 배신을 아직도 잊지 못한 고양이ㅋㅋ",
+   "views": 199337
   },
   {
-   "q": "인형집 고양이",
-   "vid": "UyiB0UHuE0Y",
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "FBj35BbHblI",
+   "ch": "꿀잼식빵",
+   "cid": "UCdZo8UMygrXdKh7oV6Qe1VQ",
+   "date": "2026-10-04",
+   "title": "개와 함께 자란 고양이가 화내는 방법 ㅋㅋ",
+   "views": 271126
+  },
+  {
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "1ktB0eGLXU4",
+   "ch": "Planet Munchkin💕 플래닛 먼치킨🐾",
+   "cid": "UCMFmBbDrhdRSo0Y1DexuIRw",
+   "date": "2026-10-03",
+   "title": "모자냥 돼버림ㅋㅋ #고양이모자 #냥이반응 #귀여운고양이 #고양이일상 #웃긴냥이",
+   "views": 190817
+  },
+  {
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "_0Db_rIvHoE",
+   "ch": "도른 에밀리 Emilie Dorn",
+   "cid": "UCh0SoBL5L5bEz3Hk-mQ3Dtg",
+   "date": "2026-10-01",
+   "title": "동방예의지국 한국에서 유일하게 관리 안되는 애들ㅋㅋ",
+   "views": 137406
+  },
+  {
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "CXjMCt6kjkg",
+   "ch": "굿숏",
+   "cid": "UC6QOMmkbaLwYQ-0GbFafrtw",
+   "date": "2026-10-16",
+   "title": "밥 줬더니 문워크로 보답하는 강아지ㅋㅋ",
+   "views": 151506
+  },
+  {
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "JQ-JOM_eYvg",
    "ch": "스트로베리 터틀",
    "cid": "UCnempld6HzR-HNHUC8kPdOg",
-   "date": "2026-06-01",
-   "title": "오리인형을 집에다가 쑤셔넣고싶은 고양이ㅋㅋ",
-   "views": 468338
+   "date": "2026-10-04",
+   "title": "집에 가야할 시간이 5분남은 고양이의 행동ㅋㅋ",
+   "views": 201139
   },
   {
-   "q": "인형집 고양이",
-   "vid": "s967Jj7_N_g",
-   "ch": "홈스토리",
-   "cid": "UCpANROseo-Ydh7zIhkKZedQ",
-   "date": "2025-05-09",
-   "title": "이제 집에서 평생 할 수 있어요 #인형뽑기기계 #꿀템",
-   "views": 468016
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "pQtj7mRfCsw",
+   "ch": "왜저랩",
+   "cid": "UCih4HSWy54mGKDtX23ORqfA",
+   "date": "2026-10-02",
+   "title": "댕댕이가 한 마리 더 나타나자 냥이가 보인 반응ㅋㅋ",
+   "views": 120734
   },
   {
-   "q": "인형집 고양이",
-   "vid": "O7G6GFUxu2A",
-   "ch": "예능한마당",
-   "cid": "UCF7e9058J4tXIK7DE3746TQ",
-   "date": "2026-04-15",
-   "title": "아이가 인형한테 이름지어주고 매일안고자요 #리얼고양이 #고양이인형",
-   "views": 381232
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "BfP9fqOeiA0",
+   "ch": "멍냥대전",
+   "cid": "UCgKmiMRdv2QkxIPMir6zRJA",
+   "date": "2026-10-11",
+   "title": "아빠를 너무 좋아하는 댕댕이의 치명적 매력ㅋㅋ #강아지 #애견영상 #댕댕이",
+   "views": 98082
   },
   {
-   "q": "인형집 고양이",
-   "vid": "KJ0Ql66AEAQ",
-   "ch": "하나또",
-   "cid": "UC_o5iTr6pUNN3fqu_f50LFA",
-   "date": "2026-06-10",
-   "title": "해외에서 난리난 초간단 고양이 인형",
-   "views": 209735
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "adrcAdtO2Ao",
+   "ch": "냥츠",
+   "cid": "UCwgO4i_RnbsumWsnAvh5Q5A",
+   "date": "2026-10-01",
+   "title": "고양이랑 친해지려던 강아지의 최후ㅋㅋ",
+   "views": 127115
   },
   {
-   "q": "인형집 고양이",
-   "vid": "3puVuf1H0Cg",
-   "ch": "묘한그동물",
-   "cid": "UCo-MQvGhKNCW9F3MGdFVeQQ",
-   "date": "2026-09-03",
-   "title": "아기고양이의 인형을 뺐어봤더니",
-   "views": 236239
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "_r_TkW8_4vs",
+   "ch": "호호감사",
+   "cid": "UCgktE9shcWQ85z91Ua-tgHw",
+   "date": "2026-10-08",
+   "title": "두 냥이가 강아지를 빤히 바라보자 생긴 일",
+   "views": 110439
   },
   {
-   "q": "인형집 고양이",
-   "vid": "GELj29m0oIY",
-   "ch": "꾸꾸만들기 Kku Kku DIY",
-   "cid": "UCrkioCgOi1g-NMiBxADLtJA",
-   "date": "2026-09-13",
-   "title": "수백 개의 조각으로 만든 인형집",
-   "views": 159852
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "PXYsbkU217U",
+   "ch": "멍냥대전",
+   "cid": "UCgKmiMRdv2QkxIPMir6zRJA",
+   "date": "2026-10-10",
+   "title": "야구보러 온 댕댕이 황당한 사연ㅋㅋ #강아지 #애견영상 #댕댕이",
+   "views": 111909
   },
   {
-   "q": "인형집 고양이",
-   "vid": "xAIcXt4YCe8",
-   "ch": "몰라그냥 문방구",
-   "cid": "UC03r-tRDtO7dkbM8nxTMdOQ",
-   "date": "2025-09-25",
-   "title": "🐰인형계🤖 집 앞에 고양이가 있었다.",
-   "views": 117657
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "1qISszOvYUA",
+   "ch": "골댕로그",
+   "cid": "UCgm7s38d7MKGO3-NDazlGlg",
+   "date": "2026-10-05",
+   "title": "눈치보는 강아지가 답답했던 고양이ㅋㅋ #강아지 #동물",
+   "views": 106404
   },
   {
-   "q": "인형집 고양이",
-   "vid": "fEn7veBmxU4",
-   "ch": "집순이_zip",
-   "cid": "UCxdG85Kvj77wuI23MTqEm1A",
-   "date": "2026-07-27",
-   "title": "고양이 반려인형 🐱",
-   "views": 105858
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "lHpl0DXjVfo",
+   "ch": "참나",
+   "cid": "UC6rkFTyJ_2Rz_0r-Ry0SLKg",
+   "date": "2026-10-06",
+   "title": "냥이 귀를 깨물어본 집사ㅋㅋ 예상 못한 반응 #고양이 #냥이 #고양이반응",
+   "views": 107011
   },
   {
-   "q": "인형집 고양이",
-   "vid": "iRoImQCxdrQ",
-   "ch": "김첨지",
-   "cid": "UC7mDxDCWCItvvKAX0fXCqSQ",
-   "date": "2025-12-16",
-   "title": "질투많은 고양이 키우는집에 곰인형이 오면 생기는 일 #고양이 #cat #shorts #shortvideo #",
-   "views": 45606
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "nlRCbbC4ugE",
+   "ch": "알고이쓰까",
+   "cid": "UCun9R9Y-3LW4aOnoV7YLSTQ",
+   "date": "2026-10-04",
+   "title": "산책 나갔다 고양이 세 마리를 주워온 댕댕이ㅋㅋ",
+   "views": 95803
   },
   {
-   "q": "인형집 고양이",
-   "vid": "gFPTpt5zF6E",
-   "ch": "꿀템링크",
-   "cid": "UCondOf5VcNzeZmy7uH4lYLQ",
-   "date": "2025-09-18",
-   "title": "심장 박동까지 느껴지는 신기한 고양이 인형!",
-   "views": 25156
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "ZnWNTPJUH70",
+   "ch": "냥츠",
+   "cid": "UCwgO4i_RnbsumWsnAvh5Q5A",
+   "date": "2026-10-04",
+   "title": "고양이가 습식캔을거부한 이유ㅋㅋ",
+   "views": 86247
   },
   {
-   "q": "인형집 고양이",
-   "vid": "ncma8fBtNWI",
-   "ch": "피치덕",
-   "cid": "UCz6HtUz7TaXT6P46ffH6-JQ",
-   "date": "2026-05-06",
-   "title": "애착인형 뺐었더니 바로 삐지는 고양이ㅋㅋ",
-   "views": 32724
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "hl36vchJ9eU",
+   "ch": "꼬리 시트콤",
+   "cid": "UC0KteXXQMS5kU7y6HfprSzA",
+   "date": "2026-10-08",
+   "title": "고양이가 자꾸 중얼거리길래 가까이 가봤더니ㅋㅋ",
+   "views": 87295
   },
   {
-   "q": "인형집 고양이",
-   "vid": "0hMngUSNsFQ",
-   "ch": "살림뽀짝",
-   "cid": "UCvflj2iKXfJWzg4-_UNX6Xw",
-   "date": "2026-04-25",
-   "title": "🐈저희집 고양이 포스 장난아니죠?? #캣타워 #고양이장난감 #공룡인형 #인테리어소품 #인형",
-   "views": 20539
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "lNWlBru83vo",
+   "ch": "애니멀숏츠",
+   "cid": "UCaQEpOgPoBizJihfJ7CW6og",
+   "date": "2026-10-01",
+   "title": "집사에게 속아서 댕댕이에게 냥펀치 날려버린 고양이 ㅋㅋ #치즈냥이 #치즈냥 #냥이 #강아지 #개",
+   "views": 92699
   },
   {
-   "q": "인형집 고양이",
-   "vid": "yvrvs_Y-FRs",
-   "ch": "빵슛",
-   "cid": "UCyX9PFdi--HRR19TUfSEwNQ",
-   "date": "2026-04-15",
-   "title": "인형? 고양이?",
-   "views": 25130
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "Rj4WuFLXspc",
+   "ch": "말해조",
+   "cid": "UCTxeodzJ6RK2I65S3HF-DyQ",
+   "date": "2026-10-07",
+   "title": "너무 자신 만만했던 보더콜리ㅋㅋ",
+   "views": 89038
   },
   {
-   "q": "인형집 고양이",
-   "vid": "4qlo_z1Wlk8",
-   "ch": "댕댕냥냥",
-   "cid": "UCHiC4Und6tBV0OEUGCHsabg",
-   "date": "2025-07-30",
-   "title": "누르면 소리나는 인형같은 고양이 #동물 #고양이 #cat #shorts",
-   "views": 25338
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "B9PTlC-95ds",
+   "ch": "유니집",
+   "cid": "UC6ox_0vapMCD0EXNi1PmG4w",
+   "date": "2026-10-03",
+   "title": "유행 챌린지 따라 하다가 벌어진 대참사ㅋㅋ #머리톡톡챌린지 #동물",
+   "views": 50965
   },
   {
-   "q": "인형집 고양이",
-   "vid": "IroyCfIWaVc",
-   "ch": "즈냥",
-   "cid": "UClK7DDmNOvOyy5YlmxraHVw",
-   "date": "2025-08-11",
-   "title": "인형뽑기 집 간지 15분만에 이룬것...😾😡 #고양이 #3d애니메이션 #cat #3d애니 #cute #쇼츠 ",
-   "views": 16521
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "m-J51YRr4U4",
+   "ch": "꼬리 시트콤",
+   "cid": "UC0KteXXQMS5kU7y6HfprSzA",
+   "date": "2026-10-10",
+   "title": "한 팀인 줄 알았던 강아지와 고양이… 갑자기 타겟이 바뀜ㅋㅋ",
+   "views": 63568
   },
   {
-   "q": "인형집 고양이",
-   "vid": "rHV5mY49PPE",
-   "ch": "쫀떡",
-   "cid": "UCDfKUF-2_q-5-117mDnaHPg",
-   "date": "2026-03-28",
-   "title": "춘떡이 방만들기✨#인형계#춘식이인형#춘식이#고양이인형#방만들기브이로그#인형계브이로그#cute#신청가능#댓글@",
-   "views": 7094
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "u4BcWtoSsko",
+   "ch": "댕댕극장",
+   "cid": "UCV8jlvXFSTMaoJacxL3djWg",
+   "date": "2026-10-16",
+   "title": "펫샵에서 강아지 보자마자 장난감 물어다 준 고양이ㅋㅋ #shorts",
+   "views": 62198
   },
   {
-   "q": "인형집 고양이",
-   "vid": "1QjK2IsLJIk",
-   "ch": "치트키",
-   "cid": "UCxojYjqB-CHwDIfFEqGkAUg",
-   "date": "2025-05-09",
-   "title": "고양이 인형만들기 #고양이 #귀여운고양이 #귀여운동영상",
-   "views": 4828
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "1HT49vBMSc4",
+   "ch": "개심쿵",
+   "cid": "UCzqLpNqQNPqAlyuAbYXfUow",
+   "date": "2026-10-04",
+   "title": "일하러 가야 한다더니 다시 돌아온 주유소 직원ㅋㅋ 미국에서 인기 폭발한 한국 진돗개",
+   "views": 64132
   },
   {
-   "q": "인형집 고양이",
-   "vid": "F9JiDJnUKFU",
-   "ch": "쭈쭌호강해",
-   "cid": "UC81YgI1w6jaa5i6jX1zoCtg",
-   "date": "2026-05-05",
-   "title": "😘인형 3개 가져다 둔 거 아니냐고요? 실제 우리 집 고양이들 🐈 #브리티쉬숏헤어 #shots",
-   "views": 8605
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "L6XRkqvkjWw",
+   "ch": "말해조",
+   "cid": "UCTxeodzJ6RK2I65S3HF-DyQ",
+   "date": "2026-10-06",
+   "title": "꿈쩍 않던 주인을 움직이게 만든 보더콜리만의 방법ㅋㅋ",
+   "views": 67684
   },
   {
-   "q": "인형집 고양이",
-   "vid": "trmQK4L3Vmw",
-   "ch": "체리친구",
-   "cid": "UCn_lqzzIvgOl7R3WRcbvzXw",
-   "date": "2026-03-29",
-   "title": "놀람주의. . .인형인가요?   집사야. 이러기야? #고양이 #깜냥 #크림냥 #cute #kitten",
-   "views": 2782
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "obr2BZd74x8",
+   "ch": "삐용이 - 스탠다드푸들 성장기록",
+   "cid": "UCbTAyT_e3iLcFKfksFZZLXw",
+   "date": "2026-10-04",
+   "title": "술취한 엄마 애교를 본 강아지 표정ㅋㅋ┃스탠다드푸들",
+   "views": 59172
   },
   {
-   "q": "인형집 고양이",
-   "vid": "ktFLERCQDSM",
-   "ch": "강바냐",
-   "cid": "UCPP3-hpDSZFOzHAPL66K6ZA",
-   "date": "2025-05-08",
-   "title": "집에온 첫째 날! 인형이 움직인다😍 #아깽이 #아기고양이 #데본렉스 #검은고양이",
-   "views": 2667
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "Yr-qIVX1s38",
+   "ch": "해요마요",
+   "cid": "UCeUIJzNuooWUG6Uojvb13Tg",
+   "date": "2026-10-04",
+   "title": "고양이 수제 패션 신발ㅋㅋ",
+   "views": 54217
   },
   {
-   "q": "인형집 고양이",
-   "vid": "XYUkjPQmiPY",
-   "ch": "세온살림",
-   "cid": "UC7gb9-cMFKc6qs0Ki06YzPw",
-   "date": "2026-09-30",
-   "title": "낮잠이 기다려지는 베개 #낮잠배게 #인형배게 #고양이집 #신박템",
-   "views": 2277
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "8gzRdFBjKF0",
+   "ch": "개웃기냥",
+   "cid": "UC-TuLbM3b1uy8A25yOYMQUg",
+   "date": "2026-10-01",
+   "title": "유행하는 챌린지 해봤더니 강아지와 고양이의 온도차ㅋㅋ",
+   "views": 57858
   },
   {
-   "q": "인형집 고양이",
-   "vid": "wvPtblNNk0E",
-   "ch": "리뷰잇템",
-   "cid": "UC9UEdOe8PEwyZEeJQt7ggJw",
-   "date": "2026-04-09",
-   "title": "얘 진짜 고양이 아니야? #생활꿀템 #꿀템리뷰 #고양이",
-   "views": 4798
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "_0G1J7WLAm8",
+   "ch": "알고이쓰까",
+   "cid": "UCun9R9Y-3LW4aOnoV7YLSTQ",
+   "date": "2026-10-12",
+   "title": "댕댕이들 자존심에 스크래치 만든 냥이ㅋㅋ",
+   "views": 58017
   },
   {
-   "q": "인형집 고양이",
-   "vid": "kc6idyQzRGY",
-   "ch": "HotDeals KR",
-   "cid": "UCrFVRqyFY785mcrb7OY512A",
-   "date": "2026-08-30",
-   "title": "고양이 못 키우는 집이라면, GMZZ 렉돌 리얼 고양이 인형 (광고)",
-   "views": 2187
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "wPMqIY4-0Yc",
+   "ch": "뽀삐와뚜비",
+   "cid": "UCfoGLSbyddrpftK5vtaLM3w",
+   "date": "2026-10-10",
+   "title": "새끼를 낳아도 변하지 않는 것 ㅋㅋ",
+   "views": 55866
   },
   {
-   "q": "인형집 고양이",
-   "vid": "ygJmMsrezJ4",
-   "ch": "주디데이",
-   "cid": "UC1Zj2-0DGZqp53GkM8wvGfw",
-   "date": "2026-05-23",
-   "title": "백조일기 99화 | 인형의 집이 떠올랐다",
-   "views": 5532
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "cA_9BPZ_DQ0",
+   "ch": "보자구",
+   "cid": "UCXj5FkEWtjpOv_cTEa0kuOg",
+   "date": "2026-10-07",
+   "title": "문 뒤 하나에 무너진 강아지 수사대ㅋㅋ",
+   "views": 50404
   },
   {
-   "q": "인형집 고양이",
-   "vid": "8O3Msu7ORks",
-   "ch": "소원사랑TV",
-   "cid": "UCelteUSNcJ8JXHdXniqQEfA",
-   "date": "2026-05-17",
-   "title": "고양이 포차코 집으로 데려가기 우리집으로가자 인형뽑기싹쓸이 인형뽑기 고수의실력 산리오 포차코인형 소원사랑인형",
-   "views": 1903
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "q5chLj-U_8I",
+   "ch": "참나",
+   "cid": "UC6rkFTyJ_2Rz_0r-Ry0SLKg",
+   "date": "2026-10-13",
+   "title": "고양이라면 질색하던 아빠가 냥이한테 조련당하는 과정ㅋㅋ #고양이 #냥이 #고양이쇼츠 #웃긴고양이",
+   "views": 51909
   },
   {
-   "q": "인형집 고양이",
-   "vid": "9d9bfBNzbXg",
-   "ch": "유머톡",
-   "cid": "UCEndVhXPxTTbjvt-9DoqNUg",
-   "date": "2026-05-22",
-   "title": "살아있는 줄 ㄷㄷ 금손이 만든 극사실주의 고양이 인형",
-   "views": 1727
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "5OW0HeZemg8",
+   "ch": "오늘의펫",
+   "cid": "UCKSeSiAExjvYTn7nABoIPFg",
+   "date": "2026-10-16",
+   "title": "겁많은 집냥이에게 쥐를 선물했더니ㅋㅋ",
+   "views": 55797
   },
   {
-   "q": "인형집 고양이",
-   "vid": "1netQCQr3X0",
-   "ch": "♡민 world♡",
-   "cid": "UCeFBwr9y0mxUsa0eJ581p3A",
-   "date": "2025-05-17",
-   "title": "2025년 5월 17일 #인형뽑기 #귀여운 #고양이 #집에가자 #뒤집기 #실패",
-   "views": 2208
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "_wqjCFsI-Ek",
+   "ch": "유니집",
+   "cid": "UC6ox_0vapMCD0EXNi1PmG4w",
+   "date": "2026-10-01",
+   "title": "역대급 잠입 실력 보여주는 007 냥이ㅋㅋ #spycat #귀여운고양이",
+   "views": 38051
   },
   {
-   "q": "인형집 고양이",
-   "vid": "43cDRKBYv8w",
-   "ch": "하이웰빙 이은향TV",
-   "cid": "UCpDl4thrCn0pRiy7010SrdA",
-   "date": "2025-08-03",
-   "title": "강아지 인형이 고양이에게 납치(?)당했습니다",
-   "views": 1342
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "lluaDwoVcic",
+   "ch": "댕냥하우스",
+   "cid": "UCGR4IUSURuy2hT8Wwwte_mA",
+   "date": "2026-10-11",
+   "title": "형 따라 내려가려던 막내… 아래를 본 순간ㅋㅋ",
+   "views": 53874
   },
   {
-   "q": "인형집 고양이",
-   "vid": "ouv5MvM0y0g",
-   "ch": "단지엄마danjimommy",
-   "cid": "UCpdNLTENQMJpjoIv_F5HXqw",
-   "date": "2025-06-14",
-   "title": "카피바라 인형집이 고양이 숨숨집 된썰.. 관심 없는척하더니 만족도 최상ㅋㅋ #shorts #고양이 #cat ",
-   "views": 1161
+   "q": "강아지 고양이 ㅋㅋ",
+   "vid": "q1chpaChGYY",
+   "ch": "멍멍사건파일 ",
+   "cid": "UC9vXxKK4xDu8NAkJTmL9esA",
+   "date": "2026-10-12",
+   "title": "소파 뜯는 개 보더니 강형욱의 예상밖 한마디ㅋㅋ",
+   "views": 45269
   },
   {
-   "q": "인형집 고양이",
-   "vid": "zC_ECyZ8yx4",
-   "ch": "아리스마켓",
-   "cid": "UC-x-DKHMhyXBb2FgftxW3wg",
-   "date": "2026-02-14",
-   "title": "반려동물? 반려인형 집에 혼자 두면 생기는일",
-   "views": 2051
+   "q": "냥이 댕댕이 반응",
+   "vid": "QVqwFmSEbkc",
+   "ch": "여우냥",
+   "cid": "UCaZFgvIYTL1YTRBEDYJfQhA",
+   "date": "2026-10-04",
+   "title": "아기 허스키가 다가가자 아기 냥이의 반응",
+   "views": 631521
   },
   {
-   "q": "인형집 고양이",
-   "vid": "cvtYu7pmtc0",
-   "ch": "탁티티",
-   "cid": "UCnC-ZHbN3J-qxlN-WHuSsbA",
-   "date": "2026-07-12",
-   "title": "레슬링 선수가 된 고양이?! (with 불쌍한 인형) #고양이 #티티 #cat",
-   "views": 1429
+   "q": "냥이 댕댕이 반응",
+   "vid": "pQtj7mRfCsw",
+   "ch": "왜저랩",
+   "cid": "UCih4HSWy54mGKDtX23ORqfA",
+   "date": "2026-10-02",
+   "title": "댕댕이가 한 마리 더 나타나자 냥이가 보인 반응ㅋㅋ",
+   "views": 120734
   },
   {
-   "q": "인형집 고양이",
-   "vid": "q9xOzvoakO4",
-   "ch": "참치",
-   "cid": "UCL5b6ilADnhtx6CthcAJrNA",
-   "date": "2026-08-26",
-   "title": "“길고양이였던 우리 집 고양이, 생애 첫 캣닢 인형에 푹 빠졌어요🤣”",
-   "views": 1389
+   "q": "냥이 댕댕이 반응",
+   "vid": "EVuhgfblopk",
+   "ch": "동물대백과",
+   "cid": "UCNYodTSbIyuklkqVxiTl70A",
+   "date": "2026-10-12",
+   "title": "무서운 댕댕이 집 앞을 지날 때 냥이 반응",
+   "views": 31868
   },
   {
-   "q": "인형집 고양이",
-   "vid": "QoeSRZ4deWM",
-   "ch": "다람쥐 쿠키의 브이로그",
-   "cid": "UCc0zjVIg4Wv2xzM6fqNh0RA",
-   "date": "2026-09-13",
-   "title": "쿠키를 인형 집에 넣어주면?",
-   "views": 1470
+   "q": "냥이 댕댕이 반응",
+   "vid": "Iv-jlJm8bds",
+   "ch": "뽀짝시그널",
+   "cid": "UCAze56_KmOWEGGSp-ppUIIw",
+   "date": "2026-10-14",
+   "title": "냥이한테 깐족거리다 지쳐서 기절한 댕댕이ㅋㅋ",
+   "views": 6339
   },
   {
-   "q": "인형집 고양이",
-   "vid": "d5wsJEFSFiw",
-   "ch": "나는야 김뚱땡",
-   "cid": "UCk71I7NVfiibXar8NumGk6Q",
-   "date": "2025-08-11",
-   "title": "똑닮은 고양이 인형이랑 세뚜 ( ⸍ɞ̴̶̷ ·̫ ɞ̴̶̷⸌ )♡ #224",
-   "views": 1812
+   "q": "냥이 댕댕이 반응",
+   "vid": "jeAxqjmqZvE",
+   "ch": "슉박스",
+   "cid": "UCcwiyK8QvcGS8FsH3DIFH9A",
+   "date": "2026-10-14",
+   "title": "애정표현에 대한 냥이와 댕댕이의 반응은?",
+   "views": 1495
   },
   {
-   "q": "인형집 고양이",
-   "vid": "4U0MQw0gQHc",
-   "ch": "센티아와 루미",
-   "cid": "UC9CGmUzpMiCuRaxE1nPQrJg",
-   "date": "2026-04-28",
-   "title": "우리 집 고양이 성격 테스트 결과.. 인형인가요? 🧸",
-   "views": 1524
+   "q": "냥이 댕댕이 반응",
+   "vid": "m7Uj99MlIqY",
+   "ch": "애니멀룩",
+   "cid": "UC8DC9mRDapmG-wclagiyz6g",
+   "date": "2026-10-20",
+   "title": "댕댕이를 처음 본 냥이의 반응",
+   "views": 1124
   },
   {
-   "q": "인형집 고양이",
-   "vid": "iCZsuYyWK9Y",
-   "ch": "ELLA 냥이",
-   "cid": "UCo0Whm3oef214q8wjSGfjQg",
-   "date": "2025-11-22",
-   "title": "냥이집에 인형이 들어왔어요 ㅋ #고양이 #냥춘기 #cat #고양이일상 #cute #kitten",
-   "views": 1099
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "Rl9LfXww4EA",
-   "ch": "오늘도후추",
-   "cid": "UCxfkBf_lWuWoBIRiHyxq_9Q",
-   "date": "2026-06-03",
-   "title": "저희 집 인형은 눈도 깜빡이고 움직여요 🧸 #고양이 #랙돌 #귀여운영상",
-   "views": 1455
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "_DlTjf563Q0",
-   "ch": "썰강아지",
-   "cid": "UCZe_a72Y_VTvg8mqKS4f8Jw",
-   "date": "2025-12-01",
-   "title": "우리 집 고양이는 시스템 오류 난 인형",
-   "views": 1663
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "Nz4VKFBUIpI",
-   "ch": "Bambouli",
-   "cid": "UCi_U7q2dEqTL-1JFj1EEtyQ",
-   "date": "2026-06-11",
-   "title": "🐱💜보라색 고양이 인형이 우리 집에 왔어요! #귀여운 #blindbox #doll #bjd #블라인드박스 #",
-   "views": 1166
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "JwQM4UxvmaI",
-   "ch": "냥이 월드",
-   "cid": "UCtYZSDbJQAMrcuwkVNcFWjQ",
-   "date": "2026-01-25",
-   "title": "&quot;집사야 지갑에 돈이 왜 없냐구~&quot; #고양이 #인형뽑기 #고양이떼쓰기 #웃긴영상 #반려묘 ",
-   "views": 6421
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "d3bhWR3O5sc",
-   "ch": "노랑별",
-   "cid": "UCpCBFNG76ePcGr9O9zVJMoQ",
-   "date": "2026-05-12",
-   "title": "이 집 전세 얼마냥? 인형 집 입주 문의! 아기 고양이 🏠🐾 #cat #cute #kitten #콩지래빗 #",
-   "views": 1564
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "ZE9liCgVqTY",
-   "ch": "만만의콩떡",
-   "cid": "UCue44Vn27Vc6bpan4X6sNHw",
-   "date": "2026-05-29",
-   "title": "그만해야 하는데#인형뽑기#고양이#고양이브이로그 #catshorts #인형뽑기중독 #고양이집#고양이일상 #고양",
-   "views": 2417
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "Qy7J9tnt3eQ",
-   "ch": "소품가게네",
-   "cid": "UCdO9Iiih2ZDvkicxibV801Q",
-   "date": "2026-02-23",
-   "title": "고양이5마리가 연결된 고양이가랜드일까나#카페인테리어소품 #고양이장식 #고양이소품 #고양이인형 #집꾸미기소품",
-   "views": 1024
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "m4IlcnZradA",
-   "ch": "BeView",
-   "cid": "UCiRi8tbqN1r96hS9gxD6Zew",
-   "date": "2025-08-17",
-   "title": "덕분에 집 늦게 들어감 #아기고양이 #인형이세요? #고양이 #고양이일상 #고양이브이로그",
-   "views": 1221
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "RJy92Wyw0lA",
-   "ch": "떠돌이가족",
-   "cid": "UCbEt1QT5pLTXi7QdTlwaSiw",
-   "date": "2025-07-29",
-   "title": "인형의집 재방문 했습니다옹😺 #고양이집 #고양이하우스 #실바니안집",
-   "views": 351
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "E_UguVKjvCo",
-   "ch": "떠돌이가족",
-   "cid": "UCbEt1QT5pLTXi7QdTlwaSiw",
-   "date": "2025-07-27",
-   "title": "인형이 되고싶은 #아기고양이 #고양이집 #고양이하우스",
-   "views": 272
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "VIyG5xVtQEQ",
-   "ch": "우솔튜브",
-   "cid": "UCzTMA-mO9j7AWFFGuw3sjJg",
-   "date": "2025-05-16",
-   "title": "여행가서 아빠가  고양이인형을 사줬더니 똑같이 생긴 냥이가 집에왔다🫢이것은 운명인가??#고양이인형 #데칼코마",
-   "views": 549
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "qAmXWdTests",
-   "ch": "슈가파크(SugarPark)",
-   "cid": "UC5qnaVZND4ragTVwAjR6xSA",
-   "date": "2025-06-06",
-   "title": "{아침산책끝! 집으로} 비몽사몽 고양이🐾 #로빈 애착인형 강아지🐾 #토리 실외배변 강아지🐾 #피오",
-   "views": 480
-  },
-  {
-   "q": "인형집 고양이",
-   "vid": "qsM5ie1fbrA",
-   "ch": "짱돌밤콩애옹세상",
-   "cid": "UCJM6lN_A7ccNi8wlQrTmLRA",
-   "date": "2026-07-17",
-   "title": "집사야 놀자~ 놀아 달라고 #고양이 #고양이장난감 #애착인형",
-   "views": 522
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "d6mWhb9XLTs",
-   "ch": "Sonic Gang Jr",
-   "cid": "UC6msOR4-Wf-NMAP24YwobpQ",
-   "date": "2026-07-30",
-   "title": "Meet the Colorful Horses and Learn Colors Together | Purple ",
-   "views": 9384
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "ar7cP-bPZwo",
-   "ch": "MDEEZY ",
-   "cid": "UCM5JDTjLNMhr1NsenxdsWUw",
-   "date": "2025-09-25",
-   "title": "Horses Meet Giant Sea Turtle for the First Time",
-   "views": 13334
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "QB6idbBABfY",
-   "ch": "Fletcher Farms Amarillo and Big Hoof Foundation ",
-   "cid": "UC8WH8e4x8feXOX3JSoCgnIQ",
-   "date": "2026-06-22",
-   "title": "Meet Turtle &amp; Carson Two Gentle Giant Horses Who Almost ",
-   "views": 5754
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "aGVdsvsqO50",
-   "ch": "wgUnZ",
-   "cid": "UCqiYQWUTkiFnWjpzBP8Quog",
-   "date": "2026-09-29",
-   "title": "Ranking the Cutest Dogs Ever Dogs Meet Turtles - Funny React",
-   "views": 1299
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "a3FMa4kS_xQ",
-   "ch": "𝒽ℴ𝓇𝓈ℯ 𝒿ℴ𝓊𝓇𝓃ℯ𝓏",
-   "cid": "UCo31RsVUz81XEaFbfBw_kJg",
-   "date": "2026-02-02",
-   "title": "horse help turtle meet her mother subscribe",
-   "views": 1376
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "pwjIEzPQ158",
-   "ch": "Air Trackers Association (on break)",
-   "cid": "UC6Xwc4MsB6UxeesfAxQUcrQ",
-   "date": "2026-01-02",
-   "title": "Meet Turtle!!! | #sso #starstable #cute #fyp #airtrackersass",
-   "views": 903
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "zvcMP4tLm1s",
-   "ch": "Anmeega channel | ஆன்மீக பயணம் ",
-   "cid": "UC8g10pMw2rA9-Sl_XmDnkHw",
-   "date": "2026-01-12",
-   "title": "Horse meets Turtle",
-   "views": 1290
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "kSpD57i-u8E",
-   "ch": "All about animals",
-   "cid": "UCIJdnS_hK-REciMXpx_lX-Q",
-   "date": "2025-06-16",
-   "title": "Meet the Majestic Silesian Horse! #pets #animallife #boxturt",
-   "views": 446
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "btDK5LSZzOE",
-   "ch": "AI Creature Lab",
-   "cid": "UCr3o_V3WgUDNKkxTpxmv_7Q",
-   "date": "2026-02-19",
-   "title": "Turtle + Horse Fusion 🐢⚡🐎 | Elephant + Hippo Hybrid 🐘🔥🦛",
-   "views": 328
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "YePGMqBWAhw",
-   "ch": "KidzAcadmi",
-   "cid": "UC57U1C-yEB7ticR-AH7jE_A",
-   "date": "2025-09-23",
-   "title": "Horse &amp; Turtle Song 🐴🐢 | Fun Animal Rhyme for Kids #shor",
-   "views": 84
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "W0lyJUFalOU",
-   "ch": "Movie Tail",
-   "cid": "UC2uv-QDBesOowZvgI1_NURg",
-   "date": "2025-07-07",
-   "title": "Jungle Adventure Song – Kids, Horse &amp; Turtle at the Pond",
-   "views": 29
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "e4UMOwoByYQ",
-   "ch": "Ken Voorhees",
-   "cid": "UCootgbMfbAdlTPEYxTagejg",
-   "date": "2026-08-31",
-   "title": "An Unlikely Friendship by the Sea — Horse Meets Sea Turtle",
-   "views": 55
-  },
-  {
-   "q": "horse meets turtle",
-   "vid": "oshkYhv-g0A",
-   "ch": "JustMadzz !",
-   "cid": "UCBnNUV1ia3HV5LaahOkuOvA",
-   "date": "2025-12-09",
-   "title": "meet beans turtle lol #horse",
-   "views": 42
+   "q": "냥이 댕댕이 반응",
+   "vid": "VBXztsqbvEk",
+   "ch": "중국엿보기",
+   "cid": "UCZwtAuKFrCJbugovUD1sU6w",
+   "date": "2026-10-16",
+   "title": "사냥하는 고양이, 자꾸 들이대는 강아지 #중국반응 #중국 #더우인",
+   "views": 5
   }
  ]
 }
