@@ -2,7 +2,7 @@
  {
   "id": "20261021-teslaspacex",
   "slot": "evening",
-  "mode": "send",
+  "mode": "render",
   "topic": "머스크, 스페이스X 3분기 실적 발표서 테슬라·스페이스X 합병 검토 특별위원회 구성 공개 — 팩트체크",
   "category": "해외 초대형 이슈(주식 예외)",
   "emotion": "놀람 — '4,600조짜리 회사가 생긴다고?' + 테슬라 주주의 기대·불안",
@@ -78,7 +78,6 @@
   ],
   "photo_credits": [
    "경향신문, CNBC, CNN"
-  ],
-  "publish_now": true
+  ]
  }
 ]
