@@ -28,6 +28,11 @@ def rich(d, x, y, text, font, base, anchor="ls"):
 
 def card(c, out):
     im = Image.new("RGB", (W, H), BG)
+    if BGIMG:  # 표지 사진을 흐리고 아주 어둡게 깔기
+        from PIL import ImageFilter, ImageEnhance
+        b = Image.open(BGIMG).convert("RGB").resize((W, H)).filter(ImageFilter.GaussianBlur(18))
+        b = ImageEnhance.Brightness(b).enhance(DIM)
+        im = Image.blend(im, b, 1.0)
     d = ImageDraw.Draw(im)
     y = 170
     d.text((P, y), c["sub"], font=F("SemiBold", 36), fill=YE, anchor="ls")
@@ -84,7 +89,10 @@ def card(c, out):
     im.save(out, quality=95)
 
 
+BGIMG, DIM = None, .15
 if __name__ == "__main__":
+    if len(sys.argv) > 3:
+        BGIMG = sys.argv[3]; DIM = float(sys.argv[4]) if len(sys.argv) > 4 else .15
     spec = json.loads(Path(sys.argv[1]).read_text())
     od = Path(sys.argv[2]); od.mkdir(parents=True, exist_ok=True)
     for c in spec:
