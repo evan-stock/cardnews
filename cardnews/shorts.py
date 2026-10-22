@@ -561,7 +561,17 @@ def render(d):
             band_png(d["hook"], title, sc, credit)
         else:
             title_png(d["hook"], title, sc)
+    gem = None
+    if d.get("narration") is not False:  # 2026.10.22: Gemini(Sadaltager)가 기본, 안 되면 아래 타입캐스트(맥북)
+        from .gemini_tts import scene_voices
+        try:
+            gem, why = scene_voices(d, base, CFG)
+        except Exception as e:  # noqa: BLE001
+            gem, why = None, f"오류 {e}"
+        print(f"Gemini TTS: {'사용' if gem else '건너뜀'} ({why})")
     local_on, lc = local_tts_on(d)
+    if gem:
+        local_on = False
     if local_on:  # 맥북이 만든 목소리가 다 있는지 확인, 없으면 요청서를 남기고 대기
         sl, need = d["scenes"], []
         for i, scene in enumerate(sl):
@@ -588,6 +598,9 @@ def render(d):
                "next_text": sc_list[i + 1]["say"].replace("'", "") if i + 1 < len(sc_list) else ""}
         if not scene["say"].strip():  # 무음 장면(밈 자막형): 목소리 없이 dur 만큼
             eng, words = say("", mp3, {"engine": "silent"}, timed=True)
+        elif gem and i in gem:
+            shutil.copy(gem[i], mp3)
+            eng, words = "gemini", None
         elif local_on:
             key = tts_key(scene["say"].replace("'", ""), lc, ctx)
             f = base / "tts" / f"{key}.mp3"
