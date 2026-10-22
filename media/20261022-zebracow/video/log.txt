@@ -1,0 +1,10 @@
+ERROR: [twitter] 1969234205608481053: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://x.com/jagrinews/status/1969234205608481053
+ERROR: [twitter] 1970668195846799840: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://x.com/say_hodo/status/1970668195846799840
+ERROR: [twitter] 1968928040383299881: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://x.com/NARO_JP/status/1968928040383299881
+ERROR: [twitter] 1968994314026991916: No video could be found in this tweet
+실패: https://x.com/MAFF_JAPAN/status/1968994314026991916
+ERROR: [twitter] 1969280047568597044: No video could be found in this tweet
+실패: https://x.com/nihonjoba/status/1969280047568597044
