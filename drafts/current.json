@@ -2,7 +2,7 @@
  {
   "id": "20261022-onepentas",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "topic": "반포 래미안 원펜타스 부정청약 4가구 계약취소, 무순위 줍줍 예정",
   "category": "정보형(분노·부러움)",
   "emotion": "놀람·부러움(분양가 그대로 30억 차익)",
@@ -58,15 +58,12 @@
     "publisher": "나남뉴스",
     "date": "2026.10.20",
     "url": "https://www.nanamcom.co.kr/news/articleView.html?idxno=53184"
-   },
-   {
-    "publisher": "매일경제",
-    "date": "2026.10",
-    "url": "https://www.mk.co.kr/news/realestate/12182600"
    }
   ],
   "photo_credits": [
    "뉴스스페이스"
-  ]
+  ],
+  "publish_now": true,
+  "publish_at": "2026-10-22T11:47:46+09:00"
  }
 ]
