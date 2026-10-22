@@ -1,1 +1,1 @@
-{"id": "20261022-heathledger-reel", "frames": 0, "try": 2, "urls": ["https://x.com/EW/status/2110785521785987270", "https://x.com/DancingABC"]}
+{"id": "20261022-heathledger-reel", "frames": 0, "try": 3, "args": "--extractor-args youtube:player_client=web_embedded,tv,mweb,ios --impersonate chrome", "urls": ["https://www.youtube.com/watch?v=_JppcwYFLag", "https://www.today.com/video/julie-stiles-dedicates-dwts-performance-to-heath-ledger-271958597772", "https://www.youtube.com/embed/_JppcwYFLag"]}
