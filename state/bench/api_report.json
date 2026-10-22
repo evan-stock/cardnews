@@ -2,135 +2,135 @@
  "since": "2026-10-01",
  "fixed": [
   {
-   "handle": "UC0-1gXk2T2qijH9-eYzt2eA",
-   "title": "쇼츠픽",
-   "id": "UC0-1gXk2T2qijH9-eYzt2eA",
-   "created": "2020-07-30",
-   "subs": "37100",
-   "videos": "245",
+   "handle": "UCCCYKnRB6yP3XNkUDwRtnWQ",
+   "title": "틈새지식",
+   "id": "UCCCYKnRB6yP3XNkUDwRtnWQ",
+   "created": "2025-08-14",
+   "subs": "39300",
+   "videos": "598",
    "before": {
-    "n": 223,
-    "median": 100914,
-    "max": 11426352,
-    "over10k": 221
+    "n": 260,
+    "median": 110152,
+    "max": 11884816,
+    "over10k": 260
    },
    "after": {
-    "n": 18,
-    "median": 35268,
-    "max": 1642242,
-    "over10k": 17
+    "n": 32,
+    "median": 71281,
+    "max": 1562164,
+    "over10k": 32
    },
    "last3d": {
-    "n": 4,
-    "median": 38939,
-    "max": 158974,
-    "over10k": 3
+    "n": 8,
+    "median": 39907,
+    "max": 104542,
+    "over10k": 7
    },
    "recent": [
     {
-     "id": "IteXgBnG_rY",
+     "id": "nUJxRbXg6IA",
      "date": "2026-10-22",
-     "title": "물속에 가라앉아 잠드는 바다표범",
-     "views": 3333,
-     "dur": "PT34S"
+     "title": "주파수가 물위에서 눈에 보이는 형태",
+     "views": 1932,
+     "dur": "PT17S"
     },
     {
-     "id": "HkC_iDgkcYY",
+     "id": "IO6GqbnjVJU",
+     "date": "2026-10-22",
+     "title": "우주엔 산소가 없는데 태양은 어떻게 탈까?",
+     "views": 48897,
+     "dur": "PT17S"
+    },
+    {
+     "id": "H-OA8aGZkx4",
      "date": "2026-10-21",
-     "title": "동물과 쉽게 친해지는 스킨십",
-     "views": 49526,
-     "dur": "PT32S"
+     "title": "갈릴레이만 풀 수 있었던 바퀴의 역설",
+     "views": 104542,
+     "dur": "PT17S"
     },
     {
-     "id": "5FC4qdFY40k",
+     "id": "9uJIJsDF1Tg",
+     "date": "2026-10-21",
+     "title": "쓰러진 경찰관을 살리려는 강아지의 행동",
+     "views": 17896,
+     "dur": "PT19S"
+    },
+    {
+     "id": "DdqBmtCCi2M",
      "date": "2026-10-20",
-     "title": "목덜미 잡힌 토끼가 비명 지르는 이유",
-     "views": 158974,
-     "dur": "PT39S"
+     "title": "1차 세계대전이 낳은 보이지 않는 괴물",
+     "views": 46542,
+     "dur": "PT17S"
     },
     {
-     "id": "yl74sQ70-zo",
+     "id": "plAXB1WSW7I",
+     "date": "2026-10-20",
+     "title": "1500도 쇳물에 불빠따는 참을 수 없지ㄷㄷ   (SUSHIRAMEN-Riku)",
+     "views": 44009,
+     "dur": "PT17S"
+    },
+    {
+     "id": "DmyNAVOQ7rQ",
      "date": "2026-10-19",
-     "title": "국가 기밀로 소문난 변검의 진실",
-     "views": 28353,
-     "dur": "PT43S"
+     "title": "런던을 뒤덮은 검은 안개가 바꿔놓은 역사'",
+     "views": 26160,
+     "dur": "PT17S"
     },
     {
-     "id": "PNv3hbpTgek",
+     "id": "DbWySR29W14",
+     "date": "2026-10-19",
+     "title": "플라스틱 막대를 깎아 만드는 의외의 물건",
+     "views": 35806,
+     "dur": "PT23S"
+    },
+    {
+     "id": "PUNHpnLGgZw",
      "date": "2026-10-18",
-     "title": "캐리어 바퀴를 부수는 이유",
-     "views": 17019,
-     "dur": "PT42S"
+     "title": "고체, 액체, 기체에 속하지 않는 제 4의 물질",
+     "views": 53233,
+     "dur": "PT17S"
     },
     {
-     "id": "S8HyTE_q53k",
+     "id": "YgBc6UCfHAo",
+     "date": "2026-10-18",
+     "title": "불을 대자 원래 모양으로 돌아오는 금속",
+     "views": 73960,
+     "dur": "PT17S"
+    },
+    {
+     "id": "X4i5rjo5igU",
      "date": "2026-10-17",
-     "title": "한 달 팁만 천만 원 버는 주차 요원",
-     "views": 28095,
-     "dur": "PT37S"
+     "title": "가라앉고 싶어도 가라앉을 수 없는 호수",
+     "views": 187220,
+     "dur": "PT17S"
     },
     {
-     "id": "1UAwAZ-92lw",
+     "id": "L190OMLRj8g",
+     "date": "2026-10-17",
+     "title": "작은 선택 하나가 일으키는 도미노 효과    (smorris123)",
+     "views": 50335,
+     "dur": "PT17S"
+    },
+    {
+     "id": "6XEN_EFiVa8",
      "date": "2026-10-16",
-     "title": "2억 7천에 팔린 주방 식칼",
-     "views": 229785,
-     "dur": "PT36S"
+     "title": "서로 다른 박자가 저절로 하나가 되는 현상   (MarkRober)",
+     "views": 47241,
+     "dur": "PT17S"
     },
     {
-     "id": "sdmJvztlgUY",
+     "id": "9PogCN2C77k",
+     "date": "2026-10-16",
+     "title": "차선을 통째로 옮기는 미국의 특수 트럭",
+     "views": 578939,
+     "dur": "PT17S"
+    },
+    {
+     "id": "DiEDywUCRqY",
      "date": "2026-10-15",
-     "title": "껌 뽑기 기계 닮은 롤러코스터",
-     "views": 564582,
-     "dur": "PT34S"
-    },
-    {
-     "id": "nREfhs3sj8g",
-     "date": "2026-10-14",
-     "title": "생각보다 순한 올빼미",
-     "views": 1642242,
-     "dur": "PT36S"
-    },
-    {
-     "id": "0tYz4ha0juI",
-     "date": "2026-10-13",
-     "title": "새 모이에 매운 소스를 붓는 이유",
-     "views": 54322,
-     "dur": "PT27S"
-    },
-    {
-     "id": "65N_47gTulE",
-     "date": "2026-10-12",
-     "title": "로데오 고트 타잉 특수 훈련법",
-     "views": 50946,
-     "dur": "PT32S"
-    },
-    {
-     "id": "x0bpCIRAmpI",
-     "date": "2026-10-11",
-     "title": "식용유 속마개 거꾸로 끼우는 이유",
-     "views": 10617,
-     "dur": "PT26S"
-    },
-    {
-     "id": "WhOeqAh7yl0",
-     "date": "2026-10-10",
-     "title": "서서 타는 이탈리아 바구니 케이블카",
-     "views": 294792,
-     "dur": "PT40S"
-    },
-    {
-     "id": "G-0s8BQg77U",
-     "date": "2026-10-09",
-     "title": "수백 년 전통의 구리 코팅 방법",
-     "views": 67838,
-     "dur": "PT36S"
-    },
-    {
-     "id": "npi4qPGto4A",
-     "date": "2026-10-08",
-     "title": "정지된 것처럼 흐르는 물줄기",
-     "views": 42442,
-     "dur": "PT34S"
+     "title": "눈으로 보이진 않아도 확실한 대기압의 위력",
+     "views": 1562164,
+     "dur": "PT17S"
     }
    ]
   }
