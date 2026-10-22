@@ -1,69 +1,20 @@
 [
  {
-  "id": "20261022-onepentas",
+  "id": "20261022-upfcancer",
   "slot": "evening",
-  "mode": "send",
-  "topic": "반포 래미안 원펜타스 부정청약 4가구 계약취소, 무순위 줍줍 예정",
-  "category": "정보형(분노·부러움)",
-  "emotion": "놀람·부러움(분양가 그대로 30억 차익)",
-  "images": [
-   "cover",
-   "info1",
-   "info2",
-   "info3",
-   "info4",
-   "cover"
-  ],
-  "slides": [
-   {
-    "t": "반포 원펜타스 4가구 다시 나온다\n'30억' 역대급 줍줍",
-    "lay": "one"
-   },
-   {
-    "t": "",
-    "b": ""
-   },
-   {
-    "t": "",
-    "b": ""
-   },
-   {
-    "t": "",
-    "b": ""
-   },
-   {
-    "t": "",
-    "b": ""
-   },
-   {
-    "t": "'20억' 있는 친구에게\n보내주세요",
-    "b": "공고 뜨면 팔로우 계정에서 먼저 알려드립니다"
-   }
-  ],
-  "caption": "[반포 원펜타스 4가구 다시 나온다… '30억' 역대급 줍줍]\n\n서울 서초구 반포동 래미안 원펜타스에서 부정청약으로 계약이 취소되는 4가구가 무순위(줍줍) 청약으로 다시 나올 예정입니다. 국토교통부가 지난해 위장전입 의심 41건을 경찰에 수사의뢰했고, 그중 4가구가 계약취소 절차를 밟고 있습니다.\n\n모두 전용 84㎡로, 2024년 최초 분양가는 약 22억~23억원입니다. 인근 아크로리버파크 같은 평형이 최근 53억~56억원대에 거래돼 언론은 시세차익을 최대 30억원 안팎으로 보고 있습니다(세금·부대비용 제외).\n\n다만 계약취소가 아직 확정되지 않아 청약 일정은 미정이며, 소송으로 이어지면 시간이 더 걸릴 수 있습니다. 무순위 청약은 2025년 개편으로 무주택자만 신청할 수 있고, 거주지 요건은 지자체가 정합니다. 정확한 자격과 일정은 청약홈 입주자모집공고에서 확인하시기 바랍니다.\n\n여러분이라면 넣으시겠습니까? 무조건 넣는다 vs 현금이 없다\n\n20억 있는 친구에게 보내주세요! 팔로우하면 공고 소식을 먼저 받아보실 수 있습니다.\n\n※ 투자 권유 아님, 정보 제공 목적",
-  "hashtags": [
-   "원펜타스",
-   "줍줍",
-   "무순위청약",
-   "로또청약",
-   "반포"
-  ],
-  "sources": [
-   {
-    "publisher": "위키트리",
-    "date": "2026.10.20",
-    "url": "https://www.wikitree.co.kr/articles/1167758"
-   },
-   {
-    "publisher": "나남뉴스",
-    "date": "2026.10.20",
-    "url": "https://www.nanamcom.co.kr/news/articleView.html?idxno=53184"
-   }
-  ],
-  "photo_credits": [
-   "뉴스스페이스"
-  ],
-  "publish_now": true,
-  "publish_at": "2026-10-22T11:47:46+09:00"
+  "mode": "collect",
+  "limit": 30,
+  "image_pages": [
+   "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
+   "https://studyfinds.com/ultra-processed-foods-no-link-colorectal-cancer-risk/",
+   "https://www.visionmonday.com/eyecare/health-watch/article/a-new-ultra-processed-foods-studys-surprising-results-explained/",
+   "https://www.moneytalksnews.com/a-new-ultra-processed-foods-studys-surprising-results-explained/",
+   "https://www.rttnews.com/3699861/ultra-processed-foods-not-linked-to-higher-colorectal-cancer-risk-study-finds.aspx",
+   "https://ecancer.org/en/news/29049-total-ultra-processed-food-intake-not-linked-to-colorectal-cancer-in-large-us-cohort-study",
+   "https://www.epocrates.com/online/article/ultra-processed-foods-not-tied-to-colorectal-cancer-overall",
+   "https://en.wikipedia.org/wiki/Ultra-processed_food",
+   "https://en.wikipedia.org/wiki/Processed_meat",
+   "https://en.wikipedia.org/wiki/Breakfast_cereal"
+  ]
  }
 ]
