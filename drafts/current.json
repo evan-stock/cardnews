@@ -1,24 +1,54 @@
 [
  {
-  "id": "20261022-bukangi",
+  "id": "20261022-babystool-reel",
   "slot": "lunch",
-  "mode": "collect",
-  "topic": "부캉이 사진 재수집",
-  "image_pages": [
-   "https://www.huffingtonpost.kr/article/261236",
-   "https://www.mt.co.kr/society/2026/10/13/2026101311133527265",
-   "https://www.news1.kr/local/busan-gyeongnam/6327860",
-   "https://www.news1.kr/local/busan-gyeongnam/6317712",
-   "https://www.segye.com/newsView/20261022503883",
-   "https://www.etoday.co.kr/news/view/2638617",
-   "https://www.goodmorningcc.com/news/articleView.html?idxno=454443",
-   "https://www.munhwa.com/article/11620491",
-   "https://www.asiatoday.co.kr/kn/view.php?key=20261015010004609",
-   "https://www.ajunews.com/view/20261021204622579",
-   "https://www.ytn.co.kr/_ln/0115_202610111616024636",
-   "https://www.inews24.com/view/2011660"
+  "mode": "send",
+  "format": "reel",
+  "overlay_text": false,
+  "topic": "중국 장핑 12층 창밖에 매달린 3살 아이, 아래층 경비원·관리직원이 의자로 받쳐 구조",
+  "category": "해외 '와' 실제 영상",
+  "emotion": "놀람(아찔) → 감동",
+  "core": "현지 10.17 오전 8시쯤 푸젠성 장핑 아파트. 엄마 장보러 간 사이 혼자 있던 3살 아이가 12층 방범창 사이로 빠져나가 머리가 낀 채 매달림. 한 층 아래 경비원·관리사무소 직원이 창밖으로 몸 내밀어 작은 흰 의자로 받침. 소방관이 잠긴 문을 공구로 열고 구조. 병원 이송, 다친 곳 없음(메트로 인용). 영상 Newsflare/CBS Newspath, SCMP 페이스북.",
+  "risk": "엄마 탓하는 구도 금지. 성별은 기사마다 달라 '3살 아이'. 원본 영어 자막·SCMP 아이콘·Newsflare 워터마크 가림.",
+  "video": {
+   "src": "video/v2.mp4",
+   "start": 0,
+   "dur": 17,
+   "x": 0.5,
+   "y": 0.5,
+   "frame": 2
+  },
+  "cover": {
+   "img": "cand/reel_cover_final.jpg",
+   "final": true
+  },
+  "slides": [
+   {
+    "t": "12층 매달린 3살\n아래층에서 나온\n'의자 하나'"
+   }
   ],
-  "limit": 36,
-  "sources": []
+  "caption": "[12층 창밖에 매달린 3살 아이, 아래층에서 나온 '의자 하나']\n\n지난 10월 17일 오전 8시쯤, 중국 푸젠성 장핑의 한 아파트 12층에서 3살 아이가 창문 방범창 사이로 빠져나와 창밖에 매달렸습니다. 머리가 창살에 끼어 몸만 바깥으로 나온 아찔한 상태였습니다.\n\n이 모습을 본 바로 아래층의 경비원과 관리사무소 직원들이 창밖으로 몸을 내밀어 작은 흰 의자로 아이의 발을 받쳤습니다. 손이 닿지 않는 높이라 의자를 들어 올려 버틴 것입니다. 그사이 도착한 소방관들이 잠긴 문을 공구로 열고 들어가 아이를 안쪽으로 구해냈습니다.\n\n아이는 예방 차원에서 병원으로 옮겨졌고, 다친 곳은 없는 것으로 전해졌습니다. 현지 당국은 아이를 집에 혼자 두지 말고 창문을 꼭 잠가 달라고 당부했습니다.\n\n여러분이라면 그 순간, 창밖으로 손을 뻗을 수 있었을까요? 할 수 있다 vs 얼어붙는다\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "hashtags": [
+   "12층구조",
+   "의자구조",
+   "중국아파트",
+   "방범창",
+   "육아필수"
+  ],
+  "sources": [
+   {
+    "publisher": "WKRC Local12",
+    "date": "2026.10.21",
+    "url": "https://local12.com/news/nation-world/video-toddler-dangles-12th-floor-apartment-rescued-zhangping-china-firefighters-good-samaritans-3-year-old-girl-left-home-alone-international-news"
+   },
+   {
+    "publisher": "bluewin(dpa)",
+    "date": "2026.10.19",
+    "url": "https://www.bluewin.ch/en/news/child-rescued-in-china-after-a-daring-rescue-operation-at-a-high-rise-building-li.3640918"
+   }
+  ],
+  "photo_credits": [
+   "Newsflare/CBS Newspath(SCMP 공유)"
+  ]
  }
 ]
