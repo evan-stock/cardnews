@@ -1,0 +1,51 @@
+{
+ "id": "20261023-newcat",
+ "created": "2026-10-23T08:39:52.767136+09:00",
+ "items": [
+  {
+   "key": "2acbb7bcca1f",
+   "text": "새 고양이를 데려왔을 뿐인데요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "4fb7aa196db0",
+   "text": "집냥이 일곱 마리가 단체로 심사를 나옵니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "ae268012a5ee",
+   "text": "수의사들은 냄새부터 천천히 익히게 하라고 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
