@@ -2,7 +2,7 @@
  "id": "20261023-paperstraw",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-23T02:00:32.889391+09:00",
  "publish_at": "2026-10-23T07:30:00+09:00",
  "topic": "환경부 일회용 빨대 실태조사: 종이빨대 인체 발암 영향 지표 플라스틱의 6.33배, 바이오PE 16.18배",
@@ -74,5 +74,8 @@
   "media/20261023-paperstraw/07.jpg"
  ],
  "tg_msg": 879,
- "decided_at": "2026-10-23T02:00:37.233130+09:00"
+ "decided_at": "2026-10-23T02:00:37.233130+09:00",
+ "ig_media_id": "18117834389007348",
+ "permalink": "https://www.instagram.com/p/De0D4FYIOmg/",
+ "published_at": "2026-10-23T07:31:42.192418+09:00"
 }
