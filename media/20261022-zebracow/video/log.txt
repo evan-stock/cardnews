@@ -8,3 +8,5 @@ ERROR: [twitter] 1968994314026991916: No video could be found in this tweet
 실패: https://x.com/MAFF_JAPAN/status/1968994314026991916
 ERROR: [twitter] 1969280047568597044: No video could be found in this tweet
 실패: https://x.com/nihonjoba/status/1969280047568597044
+ERROR: [twitter] 2073980958915871006: No video could be found in this tweet
+실패: https://x.com/ichikawa_zoo/status/2073980958915871006
