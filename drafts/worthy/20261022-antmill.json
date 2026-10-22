@@ -1,0 +1,126 @@
+{
+ "id": "20261022-antmill",
+ "media": "media/20261022-antmill",
+ "topic": "수천 마리 개미가 원을 그리며 멈추지 않고 도는 '죽음의 소용돌이(앤트 밀)'의 정체 — 거의 앞을 못 보는 군대개미는 앞 개미의 냄새(페로몬)만 따라가는데, 줄이 동그랗게 닫히면 지쳐 죽을 때까지 돈다. 1921년 비비가 본 소용돌이는 둘레 약 370m, 한 바퀴 2시간 반. 같은 '앞 개미만 따라가기' 규칙이 평소엔 리더 없이 수십만 마리가 사냥하게 해 주는 비결",
+ "hook": {
+  "t": "멈추지 않고 빙빙 도는\n'개미떼'의 정체ㄷㄷ"
+ },
+ "credit": "영상: Daniel Kronauer(록펠러대 · X @DanielKronauer)",
+ "bgm": {
+  "file": "assets/bgm/worthy/darkest_child.mp3",
+  "start": 54.0,
+  "vol": 0.56
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "수천 마리 개미가 멈추지 않고 '빙빙' 돈다",
+   "video": {
+    "src": "video/kronauer.mp4",
+    "start": 19.0,
+    "x": 0.45,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "보통은 먹이를 지키거나 '집'을 짓는 줄 안다",
+   "video": {
+    "src": "video/kronauer.mp4",
+    "start": 0.0,
+    "x": 0.6,
+    "y": 0.3
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "그런데 이건 길을 잃은 개미들의 '죽음의 소용돌이'다",
+   "video": {
+    "src": "video/kronauer.mp4",
+    "start": 22.0,
+    "x": 0.45,
+    "y": 0.5
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "군대개미는 앞을 거의 못 보고 '냄새'만 따라간다",
+   "video": {
+    "src": "video/kronauer.mp4",
+    "start": 27.5,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "앞 개미를 따라가다 줄이 동그랗게 '닫혀' 버리면",
+   "video": {
+    "src": "video/kronauer.mp4",
+    "start": 5.0,
+    "x": 0.6,
+    "y": 0.2
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "지쳐 쓰러질 때까지 돌고 또 '돈다'",
+   "video": {
+    "src": "video/kronauer.mp4",
+    "start": 31.0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "1921년엔 둘레가 '370m'인 소용돌이도 있었다",
+   "video": {
+    "src": "video/kronauer.mp4",
+    "start": 9.0,
+    "x": 0.6,
+    "y": 0.2
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "그런데 평소엔 바로 이 규칙 덕에 '리더' 없이 사냥한다",
+   "video": {
+    "src": "video/kronauer.mp4",
+    "start": 34.0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "최고의 장점이 '함정'이 된 순간, 다음 신기한 현상도 구독",
+   "video": {
+    "src": "video/kronauer.mp4",
+    "start": 24.5,
+    "x": 0.45,
+    "y": 0.5
+   },
+   "dur": 2.8
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: Daniel Kronauer(록펠러대 군대개미 연구자) X @DanielKronauer 원본(1297586999247994882, 2020.8.23 — 군대개미 '앤트 밀(죽음의 소용돌이)' 옆·위 촬영, 화면 글자 없음)"
+ ],
+ "sources": [
+  {
+   "publisher": "위키백과 'Ant mill' — 페로몬 길을 잃은 군대개미가 서로를 따라 원을 돌며 지쳐 죽기도 함, Beebe(1921) 둘레 약 370m(1,210ft)·한 바퀴 약 2시간 반, Schneirla(1944) 연구",
+   "url": "https://en.wikipedia.org/wiki/Ant_mill"
+  },
+  {
+   "publisher": "A-Z Animals 'Why Do Ants Walk in Circles Till They Die?' — 군대개미는 앞을 못 봐 페로몬 길에 의존, 마지막 개미가 죽어야 끝남, Schneirla 1944 'circular milling' 명명",
+   "url": "https://a-z-animals.com/articles/why-do-ants-walk-in-circles-till-they-die/"
+  },
+  {
+   "publisher": "Montana Public Radio 'Bug Bytes: When Follow The Leader Turns Deadly' — 군대개미는 앞을 못 보고 앞 개미 냄새를 본능적으로 따라감, 고리가 안 끊기면 지쳐 죽을 때까지 행진",
+   "url": "https://www.mtpr.org/post/bug-bytes-when-follow-leader-turns-deadly"
+  }
+ ],
+ "_note": "kronauer.mp4 = X @DanielKronauer/status/1297586999247994882 (1280x720, 38.4초, 0~14초 옆에서 본 원판, 15~26초 위에서 본 소용돌이, 27~38초 확대). 화면 글자 없음. 원본 소리 끔. 다리(flange) 영상 1321834594220580866 은 fetch-video 404 로 못 받음."
+}
