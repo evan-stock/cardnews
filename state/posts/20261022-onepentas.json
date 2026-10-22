@@ -2,7 +2,7 @@
  "id": "20261022-onepentas",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-22T11:50:10.101557+09:00",
  "publish_at": "2026-10-22T11:50:13.435857+09:00",
  "topic": "반포 래미안 원펜타스 부정청약 4가구 계약취소, 무순위 줍줍 예정",
@@ -61,5 +61,8 @@
   "media/20261022-onepentas/06.jpg"
  ],
  "tg_msg": 834,
- "decided_at": "2026-10-22T11:50:13.435904+09:00"
+ "decided_at": "2026-10-22T11:50:13.435904+09:00",
+ "ig_media_id": "17914023708489542",
+ "permalink": "https://www.instagram.com/p/Dex9E0EFPKf/",
+ "published_at": "2026-10-22T11:53:44.952481+09:00"
 }
