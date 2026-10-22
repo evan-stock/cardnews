@@ -1,0 +1,8 @@
+ERROR: [yahoo] terrifying-video-shows-3-old-153041989: Unable to download JSON metadata: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+실패: https://www.yahoo.com/news/world/articles/terrifying-video-shows-3-old-153041989.html
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://local12.com/news/nation-world/video-toddler-dangles-12th-floor-apartment-rescued-zhangping-china-firefighters-good-samaritans-3-year-old-girl-left-home-alone-international-news
+실패: https://local12.com/news/nation-world/video-toddler-dangles-12th-floor-apartment-rescued-zhangping-china-firefighters-good-samaritans-3-year-old-girl-left-home-alone-international-news
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://www.catchynewsworld.com/3-year-old-girl-rescued-from-12th-floor-apartment-in-china/
+실패: https://www.catchynewsworld.com/3-year-old-girl-rescued-from-12th-floor-apartment-in-china/
