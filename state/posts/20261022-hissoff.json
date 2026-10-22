@@ -1,0 +1,50 @@
+{
+ "id": "20261022-hissoff",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-22T20:49:07.821266+09:00",
+ "publish_at": "2026-10-22T20:49:07.821285+09:00",
+ "publish_now": true,
+ "topic": "집사가 남자친구네 집에 데려간 스코티시폴드 리코와 그 집 삼색 고양이 모카가 처음 마주치자 서로 하악질 배틀(고양이 욕(?) 시리즈, 밈+내레이션)",
+ "sources": [
+  {
+   "publisher": "TikTok @ricothefold",
+   "url": "https://www.tiktok.com/@ricothefold/video/7319565767635193119",
+   "date": "2024.1"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/laughter-cats-have-hiss-off-during-first-meeting-1857390",
+   "date": "2024.1.3"
+  }
+ ],
+ "seconds": 12.2,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261022-hissoff/short.mp4"
+ ],
+ "app_file": "media/20261022-hissoff/short_nobgm.mp4",
+ "yt": {
+  "title": "처음 만난 고양이끼리 욕(?)부터 하는 이유ㅋㅋ #shorts",
+  "description": "집사가 남자친구네 집에 스코티시폴드 리코를 데려갔습니다. 그 집에는 삼색 고양이 모카가 살고 있었는데, 집사들이 각자 고양이를 안고 문 앞에서 첫인사를 시키자 둘 다 눈을 부릅뜨고 하악질부터 날립니다.\n\n틱톡에서 약 100만 회 재생된 영상입니다. 하악질은 '나한테 거리를 둬 달라'는 경고이자 영역을 지키는 자연스러운 표현이라, 처음 만나는 고양이끼리는 냄새부터 천천히 익히게 하는 것이 좋다고 합니다(Newsweek).\n\n여러분 고양이는 친구를 처음 만났을 때 어땠나요?\n\n영상: TikTok @ricothefold\n참고: Newsweek(2024.1.3)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @ricothefold 2024.1, Newsweek 2024.1.3\n사진·영상: TikTok @ricothefold\n음성: Typecast\n\n#shorts #고양이 #고양이욕 #하악질 #스코티시폴드",
+  "tags": [
+   "고양이",
+   "고양이욕",
+   "하악질",
+   "스코티시폴드",
+   "웃긴고양이",
+   "동물쇼츠",
+   "냥이",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "476a635fbadb",
+ "tg_msg": 867
+}
