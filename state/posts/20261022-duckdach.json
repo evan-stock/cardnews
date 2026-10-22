@@ -1,0 +1,54 @@
+{
+ "id": "20261022-duckdach",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-22T18:39:18.356459+09:00",
+ "publish_at": "2026-10-22T18:39:18.356480+09:00",
+ "publish_now": true,
+ "topic": "마당 오리 떼가 장모 닥스훈트를 '최고 지도자'로 모시고 졸졸 따라다니자, 부담스러운 닥스가 결국 줄행랑(웃음형, 밈+내레이션)",
+ "sources": [
+  {
+   "publisher": "TikTok @subirbanmom",
+   "url": "https://www.tiktok.com/@subirbanmom/video/7540613369477303583",
+   "date": "2025"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/hysterics-ducks-appear-chosen-dachshund-supreme-leader-2117606",
+   "date": "2025.8.22"
+  },
+  {
+   "publisher": "APA Monitor",
+   "url": "https://www.apa.org/monitor/2011/12/imprinting",
+   "date": "2011.12"
+  }
+ ],
+ "seconds": 14.86,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261022-duckdach/short.mp4"
+ ],
+ "app_file": "media/20261022-duckdach/short_nobgm.mp4",
+ "yt": {
+  "title": "오리 떼한테 대장으로 뽑힌 닥스, 부담스러워서 결국 도망ㅋㅋ #shorts",
+  "description": "마당에 사는 오리들이 어느 날부터 장모 닥스훈트 한 마리를 졸졸 따라다니기 시작했습니다. 닥스가 앉으면 옆에 앉고, 담장 쪽으로 걸어가면 줄지어 뒤따라가고, 참다못한 닥스가 전력으로 도망치자 오리들도 우르르 쫓아갑니다.\n\n보호자는 \"어째서인지 오리들이 우리 닥스훈트를 최고 지도자로 뽑았다\"는 글과 함께 영상을 올렸고, 틱톡에서 500만 회 넘게 재생됐습니다. 오리·거위는 갓 태어났을 때 처음 본 움직이는 대상을 따라다니는 '각인' 습성으로 유명합니다(콘라트 로렌츠 연구).\n\n여러분 집에도 이렇게 인기 많은 대장이 있나요?\n\n영상: TikTok @subirbanmom\n참고: Newsweek(2025.8.22), 미국심리학회 APA Monitor(각인)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @subirbanmom 2025, Newsweek 2025.8.22, APA Monitor 2011.12\n사진·영상: TikTok @subirbanmom\n음성: Typecast\n\n#shorts #강아지 #닥스훈트 #오리 #웃긴강아지",
+  "tags": [
+   "강아지",
+   "닥스훈트",
+   "오리",
+   "웃긴강아지",
+   "동물쇼츠",
+   "댕댕이",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "76d58bcd1d38",
+ "tg_msg": 860
+}
