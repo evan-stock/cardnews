@@ -68,9 +68,14 @@ def info(ch):
 rep = {"since": SINCE, "fixed": [], "found": [], "search_hits": []}
 for h in cfg.get("handles", []):
     try:
-        ch = channel(handle=h)
+        ch = channel(cid=h) if h.startswith("UC") else channel(handle=h)
         if not ch: rep["fixed"].append({"handle": h, "error": "not found"}); continue
-        vids = uploads(ch)
+        vids = uploads(ch, cfg.get("n", 100))
+        if cfg.get("full"):  # 채널 전체 목록(날짜·조회수·길이·제목)을 tsv 로
+            with open(f"state/bench/{ch['snippet']['title'].replace('/', '_')}.tsv", "w") as f:
+                f.write("date\tviews\tdur\tid\ttitle\n")
+                for v in vids:
+                    f.write(f"{v['date']}\t{v['views']}\t{v['dur']}\t{v['id']}\t{v['title']}\n")
         rep["fixed"].append({"handle": h, **info(ch), **summ(vids), "recent": vids[:15]})
     except Exception as e:
         rep["fixed"].append({"handle": h, "error": str(e)})
