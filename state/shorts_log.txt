@@ -1,1 +1,9 @@
-⏳ 3개 장면 목소리를 맥북에서 만드는 중
+장면 1/8 silent 누적 2.3초
+장면 2/8 typecast 누적 5.0초
+장면 3/8 silent 누적 7.4초
+장면 4/8 silent 누적 9.4초
+장면 5/8 silent 누적 11.6초
+장면 6/8 typecast 누적 14.1초
+장면 7/8 silent 누적 16.7초
+장면 8/8 typecast 누적 20.4초
+완성: /home/runner/work/cardnews/cardnews/media/20261022-fruitcat/short.mp4 (20.4초, TTS ['silent', 'typecast'])

@@ -1,0 +1,49 @@
+{
+ "id": "20261022-fruitcat",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-22T13:30:25.635004+09:00",
+ "publish_at": "2026-10-22T13:30:25.635022+09:00",
+ "publish_now": true,
+ "topic": "100달러 캣타워를 두고 식탁 위 과일 그릇에서 자는 흰 고양이 누들스, 깔고 있던 사과를 꺼내자 끌어안고 다시 잠(웃음형, 밈+내레이션)",
+ "sources": [
+  {
+   "publisher": "TikTok @aiasmomma",
+   "url": "https://www.tiktok.com/@aiasmomma/video/7537402061189565727",
+   "date": "2025"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/cat-ditches-tree-naps-fruit-bowl-tiktok-2124391",
+   "date": "2025.9.4"
+  }
+ ],
+ "seconds": 20.380000000000003,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261022-fruitcat/short.mp4"
+ ],
+ "app_file": "media/20261022-fruitcat/short_nobgm.mp4",
+ "yt": {
+  "title": "캣타워 두고 과일 그릇에, 사과 안고 잠든 냥이ㅋㅋ #shorts",
+  "description": "집사가 100달러짜리 캣타워를 사 줬는데, 하얀 고양이 누들스는 꼭 식탁 위 과일 그릇에 들어가 잡니다. 왜 여기서 자냐고 물어보자 하품으로 대답하고, 몸 밑에 깔려 있던 사과를 꺼내 주자 앞발로 끌어안고 그대로 다시 잠들어 버립니다.\n\n미국 캘리포니아의 보호자 로렌은 이 사과를 누들스의 '애착 사과'라고 불렀습니다. 영상은 틱톡에서 77만 회 넘게 재생됐습니다. 퓨리나에 따르면 고양이는 몸을 숨기는 사냥꾼 본능이 있어 좁고 오목한 곳을 따뜻하고 안전한 '굴'처럼 느낀다고 합니다.\n\n여러분 집 냥이도 비싼 캣타워보다 엉뚱한 곳을 좋아하나요?\n\n영상: TikTok @aiasmomma\n참고: Newsweek(2025.9.4)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @aiasmomma 2025, Newsweek 2025.9.4\n사진·영상: TikTok @aiasmomma\n음성: Typecast\n\n#shorts #고양이 #냥이 #캣타워 #과일그릇",
+  "tags": [
+   "고양이",
+   "냥이",
+   "캣타워",
+   "과일그릇",
+   "웃긴고양이",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "d6bc3e856f85",
+ "tg_msg": 843
+}
