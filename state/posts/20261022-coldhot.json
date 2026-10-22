@@ -2,7 +2,7 @@
  "id": "20261022-coldhot",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-22T09:03:22.548242+09:00",
  "publish_at": "2026-10-22T09:03:22.548242+09:00",
  "topic": "같은 주 한국은 내륙 대부분 한파주의보·설악산 -6.6도, 일본 도쿄·오사카·나고야는 관측 이래 가장 늦은 30℃",
@@ -73,5 +73,8 @@
   "media/20261022-coldhot/05.jpg",
   "media/20261022-coldhot/06.jpg"
  ],
- "decided_at": "2026-10-22T09:03:22.548242+09:00"
+ "decided_at": "2026-10-22T09:03:22.548242+09:00",
+ "ig_media_id": "18085340333707809",
+ "permalink": "https://www.instagram.com/p/Dexp84YGdFm/",
+ "published_at": "2026-10-22T09:06:41.307485+09:00"
 }
