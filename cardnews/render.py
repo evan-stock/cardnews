@@ -51,7 +51,7 @@ def render(slides, outdir, sty=None, col=None, overlays=()):
         "sty": sty or CFG["style"]["sty"], "col": CFG["style"]["col"] if col is None else col,
         "ch": CFG["brand"]["channel_name"], "hd": CFG["brand"]["handle"],
         "logo": _data_url(LOGO) if os.path.exists(LOGO) else None,
-        "slides": [{"t": s["t"], "b": s["b"], "sub": s.get("sub", ""), "lay": s.get("lay", ""), "f1": s.get("f1", ""), "bal": s.get("bal", ""), "cal": s.get("cal", ""), "circle": s.get("circle"), "img": _data_url(_prep(s["image"])) if s.get("image") else None,
+        "slides": [{"t": s["t"], "b": s["b"], "sub": s.get("sub", ""), "lay": s.get("lay", ""), "f1": s.get("f1", ""), "bal": s.get("bal", ""), "cal": s.get("cal", ""), "circle": s.get("circle"), "raw": s.get("raw"), "img": _data_url(_prep(s["image"])) if s.get("image") else None,
                     "inset": ({**{k: v for k, v in s["inset"].items() if k != "path"}, "img": _data_url(s["inset"]["path"])}
                               if s.get("inset") and s["inset"].get("path") else None)} for s in slides],
     }

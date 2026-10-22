@@ -139,6 +139,8 @@ def build(d, base, send):
             s["f1"] = s0.get("f1", "")
             s["bal"] = s0.get("bal", "")
             s["cal"] = s0.get("cal", "")  # 표지 정렬: 기본 가운데(얇은+굵은), "left"면 릴스형(왼쪽·전부 굵게·마지막 줄 노랑)  # 본문 장 정렬: 기본 왼쪽, "center"면 가운데  # 첫 줄 글꼴: PretendardM(기본) | PretendardL
+        if s0.get("raw"):  # 완성된 이미지를 글자·로고 없이 그대로(직접 만든 표지)
+            s["raw"] = True
         if s0.get("circle"):  # 빨간 원: {"x","y","r"} (1 이하면 화면 비율)
             s["circle"] = s0["circle"]
         if s0.get("inset"):  # 표지 원형 참고사진: {"img":"cand/xxx.jpg","label":"짧은 코멘트","x","y","r","fx","fy"}
