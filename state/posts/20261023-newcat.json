@@ -1,0 +1,51 @@
+{
+ "id": "20261023-newcat",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-23T08:59:35.235398+09:00",
+ "publish_at": "2026-10-23T08:59:35.235416+09:00",
+ "publish_now": true,
+ "topic": "새 고양이를 데려오자 집냥이 일곱 마리가 일제히 몰려와 신입을 째려보는 영상(동물쑛 '집냥이들의 반응' 틀, 밈+내레이션)",
+ "sources": [
+  {
+   "publisher": "TikTok @jiaotasd99732",
+   "url": "https://www.tiktok.com/@jiaotasd99732/video/7426307311481687338",
+   "date": "2024.10"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/owner-brings-home-new-cat-her-others-typically-feline-reaction-delights-2011634",
+   "date": "2025.1.8"
+  }
+ ],
+ "seconds": 15.760000000000002,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261023-newcat/short.mp4"
+ ],
+ "app_file": "media/20261023-newcat/short_nobgm.mp4",
+ "yt": {
+  "title": "새 고양이 데려왔더니 집냥이 7마리의 반응ㅋㅋ #shorts",
+  "description": "고양이 일곱 마리가 사는 집에 새 고양이가 왔습니다. 이동장 문이 열리자 집냥이들이 하나둘 모여들더니, 일곱 마리가 일제히 신입을 쳐다보며 단체 심사를 시작합니다.\n\n틱톡에서 93만 회 넘게 재생된 영상입니다. 댓글엔 \"우리 허락한 적 없는데?\" 같은 반응이 쏟아졌죠. VCA 동물병원은 새 고양이를 들일 때 먼저 공간을 따로 마련하고, 서로 냄새부터 익히게 한 뒤 천천히 얼굴을 보게 하라고 권합니다(Newsweek).\n\n여러분 고양이는 새 식구를 처음 봤을 때 어땠나요?\n\n영상: TikTok @jiaotasd99732\n참고: Newsweek(2025.1.8)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @jiaotasd99732 2024.10, Newsweek 2025.1.8\n사진·영상: TikTok @jiaotasd99732\n음성: Typecast\n\n#shorts #고양이 #다묘가정 #합사 #새고양이",
+  "tags": [
+   "고양이",
+   "다묘가정",
+   "합사",
+   "새고양이",
+   "집냥이",
+   "웃긴고양이",
+   "동물쇼츠",
+   "냥이",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "cf1496e151a6",
+ "tg_msg": 892
+}
