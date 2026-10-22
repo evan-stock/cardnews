@@ -1,0 +1,13 @@
+WARNING: [generic] Falling back on generic information extractor
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] o2bp7JFrXag: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: https://www.ytn.co.kr/_ln/0115_202610220810403679
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ss6pjePUeHo: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: https://www.youtube.com/watch?v=ss6pjePUeHo
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://www.hankyung.com/article/202610227655H
+실패: https://www.hankyung.com/article/202610227655H
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://www.newscj.com/news/articleView.html?idxno=3442230
+실패: https://www.newscj.com/news/articleView.html?idxno=3442230
