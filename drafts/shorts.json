@@ -5,7 +5,7 @@
  "topic": "집사가 남자친구네 집에 데려간 스코티시폴드 리코와 그 집 삼색 고양이 모카가 처음 마주치자 서로 하악질 배틀(고양이 욕(?) 시리즈, 밈+내레이션)",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 1.5,
+ "bgm_volume": 0.8,
  "sfx_max": 4,
  "hook": {
   "t": "고양이 둘이 처음 만나면\n'욕(?)부터 하는 이유ㅋㅋ'"
@@ -19,7 +19,7 @@
    "video": {
     "src": "video/v1.mp4",
     "start": 3.0,
-    "audio": 0,
+    "audio": 20,
     "blur": [
      [
       90,
@@ -78,7 +78,7 @@
    "video": {
     "src": "video/v1.mp4",
     "start": 7.55,
-    "audio": 0,
+    "audio": 20,
     "blur": [
      [
       90,
@@ -112,7 +112,7 @@
    "video": {
     "src": "video/v1.mp4",
     "start": 2.0,
-    "audio": 0,
+    "audio": 10,
     "blur": [
      [
       90,
