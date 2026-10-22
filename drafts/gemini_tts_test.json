@@ -1,0 +1,17 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "style": "유튜브 쇼츠 동물 영상 내레이션. 차분하지만 살짝 장난기 있는 중년 남성 다큐 해설자 말투, 또박또박, 약간 빠르게",
+  "voices": ["Charon", "Gacrux", "Algenib", "Sadaltager", "Puck"],
+  "lines": [
+    "코기 동생한테 침대를 뺏긴 그레이트데인입니다.",
+    "작은 침대 위에서 한참을 빙빙 돌더니",
+    "다 큰 수컷은 몸무게가 최대 79킬로그램입니다."
+  ],
+  "gap": 0.5,
+  "ref_mp3s": [
+    "media/20261022-danebed/tts/2707ee549c14.mp3",
+    "media/20261022-danebed/tts/be916d26ba41.mp3",
+    "media/20261022-danebed/tts/6077fd43965d.mp3"
+  ],
+  "try": 1
+}

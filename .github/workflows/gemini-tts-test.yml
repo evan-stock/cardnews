@@ -1,0 +1,25 @@
+name: gemini-tts-test
+# drafts/gemini_tts_test.json → scripts/tts_test/gemini_tts.py (Gemini TTS 목소리 비교) → state/tts_test/
+on:
+  push:
+    paths: ["drafts/gemini_tts_test.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {sparse-checkout: "scripts/tts_test\ndrafts\nstate/tts_test\nmedia/20261022-danebed/tts", fetch-depth: 1}
+      - run: (which ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)) >/dev/null
+      - run: pip install -q requests
+      - run: python3 scripts/tts_test/gemini_tts.py 2>&1 | tee state/tts_test/log.txt
+      - if: always()
+        run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          git add -A state/tts_test
+          git diff --cached --quiet || git commit -m "tts-test: gemini"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done
