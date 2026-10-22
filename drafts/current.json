@@ -2,7 +2,7 @@
  {
   "id": "20261022-upfcancer",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "topic": "미국 국립암연구소 46만 명 19년 추적: 초가공식품 총량과 대장암 무관, 가공육은 위험",
   "category": "과학·건강 신기한 사실",
   "emotion": "놀람→안도(늘 찔리며 먹던 가공식품이 다 같은 위험은 아니었다)",
@@ -76,6 +76,7 @@
    "RTTNews",
    "epocrates",
    "Wikimedia Commons"
-  ]
+  ],
+  "publish_at": "2026-10-22T17:22:26+09:00"
  }
 ]
