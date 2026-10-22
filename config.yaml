@@ -87,7 +87,7 @@ shorts:
     monthly_cap: 14000  # 무료 API 플랜 월 15,000자(2026.10 요금 안내). 무료 음성은 상업 이용 불가·출처 표기 필수 → 수익화 전 Lite($15/월) 전환
     edge_voice: ko-KR-InJoonNeural   # 무료 대체: InJoon(남) / SunHi(여)
     edge_rate: "+15%"
-    gemini:             # 2026.10.22 사용자 결정: 내레이션 기본 = Gemini Sadaltager(필재 속도로 맞춤). 하루 한도(무료 10번)·실패 시 위 타입캐스트(맥북)로
+    gemini:             # 2026.10.22 사용자 결정: 필재(맥북)가 우선, 맥북 목소리가 15분 안에 안 오면 Gemini Sadaltager(필재 속도로 맞춤)로 대체
       enabled: true
       model: gemini-3.8-flash-tts
       voice: Sadaltager

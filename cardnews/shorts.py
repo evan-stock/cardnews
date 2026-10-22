@@ -561,17 +561,10 @@ def render(d):
             band_png(d["hook"], title, sc, credit)
         else:
             title_png(d["hook"], title, sc)
+    # 2026.10.22 사용자 결정: 필재(타입캐스트·맥북)가 우선. 맥북 목소리가 안 오면(잠자기·오류·한도)
+    # 워크플로가 15분 기다린 뒤 TTS_FALLBACK=gemini 로 다시 실행 → Gemini(Sadaltager)로 만든다.
     gem = None
-    if d.get("narration") is not False:  # 2026.10.22: Gemini(Sadaltager)가 기본, 안 되면 아래 타입캐스트(맥북)
-        from .gemini_tts import scene_voices
-        try:
-            gem, why = scene_voices(d, base, CFG)
-        except Exception as e:  # noqa: BLE001
-            gem, why = None, f"오류 {e}"
-        print(f"Gemini TTS: {'사용' if gem else '건너뜀'} ({why})")
     local_on, lc = local_tts_on(d)
-    if gem:
-        local_on = False
     if local_on:  # 맥북이 만든 목소리가 다 있는지 확인, 없으면 요청서를 남기고 대기
         sl, need = d["scenes"], []
         for i, scene in enumerate(sl):
@@ -584,8 +577,18 @@ def render(d):
             if not (base / "tts" / f"{key}.mp3").exists():
                 need.append({"key": key, "text": text, "ctx": ctx,
                              "voice": {k: lc.get(k) for k in ("voice_id", "model", "emotion", "intensity", "tempo")}})
-        if need:
-            q = ROOT / "state" / "tts_queue"
+        q = ROOT / "state" / "tts_queue"
+        if need and os.environ.get("TTS_FALLBACK") == "gemini":
+            from .gemini_tts import scene_voices
+            try:
+                gem, why = scene_voices(d, base, CFG)
+            except Exception as e:  # noqa: BLE001
+                gem, why = None, f"오류 {e}"
+            print(f"맥북 목소리 안 옴 → Gemini TTS: {'사용' if gem else '실패'} ({why})")
+            if gem:
+                local_on = False
+                (q / f"{d['id']}.json").unlink(missing_ok=True)  # 맥북이 뒤늦게 만들지 않게 요청서 삭제
+        if need and not gem:
             q.mkdir(parents=True, exist_ok=True)
             json.dump({"id": d["id"], "created": now().isoformat(), "items": need},
                       open(q / f"{d['id']}.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
@@ -712,7 +715,7 @@ def one(d):
         if os.environ.get("TELEGRAM_BOT_TOKEN"):
             from . import telegram_bot as tg
             tg.send_text(f"🎙 '{d.get('topic') or d['id']}' 목소리를 맥북에서 만드는 중이에요. "
-                         "맥북이 켜져 있으면 몇 분 안에 미리보기가 와요(꺼져 있으면 켜질 때까지 대기).")
+                         "맥북이 켜져 있으면 몇 분 안에 미리보기가 와요. 15분 안에 안 오면 Gemini 목소리로 만들어요.")
         return
     if d["mode"] != "send":
         return
