@@ -1,0 +1,129 @@
+{
+ "id": "20261022-rhinohorn",
+ "media": "media/20261022-rhinohorn",
+ "topic": "코뿔소 뿔을 전기톱으로 잘라내는 진짜 이유 — 밀렵꾼 짓이 아니라 보호팀이 하는 '디호닝'. 뿔은 손톱과 같은 케라틴이라 마취한 채 자르면 아프지 않고, 뿔이 없으면 밀렵꾼이 노릴 이유가 사라져 남아공 11개 보호구역 연구에서 밀렵이 78% 줄었다(Science 2025). 뿔은 다시 자라 1~2년마다 또 자른다",
+ "hook": {
+  "t": "코뿔소 뿔을 '전기톱'으로\n자르는 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: Reuters(TikTok @reuters) · African Parks(X @AfricanParks)",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "멀쩡한 코뿔소의 '뿔'을 전기톱으로 잘라낸다",
+   "video": {
+    "src": "video/reuters.mp4",
+    "start": 38.0,
+    "x": 0.5,
+    "y": 0.63
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "보통은 '밀렵꾼'이 저지른 짓이라고 생각한다",
+   "video": {
+    "src": "video/reuters.mp4",
+    "start": 6.0,
+    "x": 0.5,
+    "y": 0.6
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "그런데 톱을 든 건 코뿔소를 '지키는' 사람들이다",
+   "video": {
+    "src": "video/reuters.mp4",
+    "start": 29.3,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "뿔은 손톱과 같은 '케라틴'이라 잘라도 아프지 않다",
+   "video": {
+    "src": "video/apx.mp4",
+    "start": 8.6,
+    "x": 0.5,
+    "y": 1.0
+   },
+   "dur": 2.2
+  },
+  {
+   "text": "밀렵꾼은 오직 이 뿔 때문에 코뿔소를 '죽인다'",
+   "video": {
+    "src": "video/reuters.mp4",
+    "start": 44.0,
+    "x": 0.5,
+    "y": 0.42
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "뿔이 없으면 총을 쏠 '이유'가 사라진다",
+   "video": {
+    "src": "video/apx.mp4",
+    "start": 29.8,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "남아공 보호구역 연구에서 밀렵이 '78%' 줄었다",
+   "video": {
+    "src": "video/apx.mp4",
+    "start": 0.0,
+    "x": 0.5,
+    "y": 0.25
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "뿔은 다시 자라서 1~2년마다 또 '잘라' 준다",
+   "video": {
+    "src": "video/reuters.mp4",
+    "start": 34.3,
+    "x": 0.5,
+    "y": 0.17
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "잘린 뿔은 코뿔소의 '생명보험'이었다, 다음 진실도 구독",
+   "video": {
+    "src": "video/apx.mp4",
+    "start": 17.3,
+    "x": 0.5,
+    "y": 0.1
+   },
+   "dur": 2.6
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: Reuters 공식 TikTok @reuters 원본(7517694989665717517, 2025.6.19 — 남아공 흘루흘루웨에서 검은코뿔소를 마취·디호닝한 뒤 모잠비크 지나베 국립공원으로 옮기는 영상, 2025.6.12~15 촬영)",
+  "영상: African Parks 공식 X @AfricanParks 원본(1800215918351671408, 2024.6.10 — Rhino Rewild 로 흰코뿔소 120마리를 헬기·트럭으로 옮기는 영상)"
+ ],
+ "sources": [
+  {
+   "publisher": "옥스퍼드대 생물학과 'Dehorning rhinos drastically reduces poaching'(Kuiper 외, Science) — 그레이터 크루거 11개 보호구역 2017~2023, 2,284마리 디호닝, 밀렵 78% 감소, 보호 예산의 1.2%. 뿔 밑동·다시 자란 뿔을 노린 밀렵은 계속됨",
+   "date": "2025.6.6",
+   "url": "https://www.biology.ox.ac.uk/node/4513171"
+  },
+  {
+   "publisher": "Care for Wild 'Does dehorning rhinos actually stop poaching?' — 뿔은 손톱과 같은 케라틴, 잘리는 부분엔 신경이 없어 손톱 깎기 정도, 마취 후 전기톱으로 약 30분, 보통 18~24개월마다 다시 자름",
+   "url": "https://careforwild.co.za/does-dehorning-rhinos-actually-stop-poaching/"
+  },
+  {
+   "publisher": "Salon 'Cruel but necessary? Can cutting off rhino horns help save rhinos'",
+   "date": "2025.6.16",
+   "url": "https://www.salon.com/2025/06/16/cruel-but-necessary-can-cutting-off-rhino-horns--and-selling-them--help-save-rhinos/"
+  }
+ ],
+ "_note": "처음( '거꾸로 매단 코뿔소'로 받다가 헬기 원본을 못 구해 디호닝으로 바꿈). reuters.mp4=TikTok @reuters/video/7517694989665717517(576x1024, 56.2초, 로이터 자막·지명 태그 많음 → 자막 없는 칸 높이만 크롭: 38.0~40.8 y0.63(상자 자막 0.27~0.36 피함), 44.0~46.8 y0.42, 29.3~32.3 y0.5, 34.3~37.1 y0.17, 6.0~8.8 y0.6). apx.mp4=X @AfricanParks/status/1800215918351671408(480x852, 36.2초, 화면 글자 없음). 원본 소리 끔(인터뷰 말소리)."
+}

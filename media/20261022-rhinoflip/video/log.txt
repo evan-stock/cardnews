@@ -1,4 +1,0 @@
-WARNING: [vimeo] 31836285: Failed to parse XML: not well-formed (invalid token): line 1, column 0
-WARNING: [vimeo] 31836285: Failed to parse XML: not well-formed (invalid token): line 1, column 0
-ERROR: [vimeo] 19170189: The web client only works when logged-in. Use --cookies, --cookies-from-browser, --username and --password, --netrc-cmd, or --netrc (vimeo) to provide account credentials. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
-실패: https://vimeo.com/19170189
