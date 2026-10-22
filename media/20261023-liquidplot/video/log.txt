@@ -1,0 +1,2 @@
+ERROR: [twitter] 1027800461309444096: No video could be found in this tweet
+실패: https://x.com/TerrorismPolice/status/1027800461309444096
