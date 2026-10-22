@@ -1,0 +1,126 @@
+{
+ "id": "20261022-penguinshoe",
+ "media": "media/20261022-penguinshoe",
+ "topic": "동물원 펭귄 발에 맞춤 신발을 신기는 진짜 이유 — 샌디에이고 동물원 아프리카펭귄 루카스(4살)는 아기 때 척추 감염으로 발끝으로 서지 못해 발바닥이 눌려 '범블풋'(발바닥 염증)이 생김. 그냥 두면 2차 감염·패혈증으로 목숨까지 위험 → Thera-Paw 가 만든 쿠션 신발로 걸음·자세·균형이 바로 좋아짐. 범블풋은 앵무새·기니피그·토끼에게도 흔하고 철망·딱딱한 바닥이 원인",
+ "hook": {
+  "t": "펭귄 발에 '신발'을\n신기는 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: San Diego Zoo Wildlife Alliance (Reuters)",
+ "bgm": {
+  "file": "assets/bgm/worthy/sneaky_adventure.mp3",
+  "start": 48.0,
+  "vol": 1.12
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "사육사가 펭귄 발에 '신발'을 신긴다",
+   "video": {
+    "src": "video/tmp_reu.mp4",
+    "start": 13.0,
+    "x": 0.0,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "보통은 귀엽게 꾸며 주는 '옷 입히기'인 줄 안다",
+   "video": {
+    "src": "video/tmp_cnn.mp4",
+    "start": 1.3,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "그런데 진짜 이유는 발바닥의 '상처'다",
+   "video": {
+    "src": "video/tmp_reu.mp4",
+    "start": 46.0,
+    "x": 0.3,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "이 펭귄은 아기 때 병을 앓아 '발끝'으로 못 선다",
+   "video": {
+    "src": "video/tmp_reu.mp4",
+    "start": 42.0,
+    "x": 0.3,
+    "y": 0.5
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "발바닥만 눌리다 '범블풋'이라는 염증이 생겼다",
+   "video": {
+    "src": "video/tmp_reu.mp4",
+    "start": 85.4,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "그냥 두면 균이 퍼져 '목숨'까지 위험하다",
+   "video": {
+    "src": "video/tmp_reu.mp4",
+    "start": 57.0,
+    "x": 0.4,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "쿠션 신발을 신자 걸음과 '균형'이 바로 좋아졌다",
+   "video": {
+    "src": "video/tmp_reu.mp4",
+    "start": 92.6,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "앵무새·토끼도 걸리는 병, 철망 바닥은 '조심'",
+   "video": {
+    "src": "video/tmp_reu.mp4",
+    "start": 95.6,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "귀여운 장면 뒤의 '진짜 이유', 다음 편도 구독으로 확인",
+   "video": {
+    "src": "video/tmp_reu.mp4",
+    "start": 13.0,
+    "x": 0.0,
+    "y": 0.5
+   },
+   "dur": 2.8
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: San Diego Zoo Wildlife Alliance 촬영 — Reuters 공식 X @Reuters 게시 원본(1564616428057088004, 2022.8.31 — 아프리카펭귄 루카스에게 맞춤 신발 신기기·걷기, 로이터 자막·지명 태그 구간은 피하거나 크롭)"
+ ],
+ "sources": [
+  {
+   "publisher": "IFLScience 2022.8.31 'San Diego Zoo Penguin Gets Fancy New Footwear In Form Of Orthopedic Boot' — 4살 아프리카펭귄 루카스, 척추 감염 뒤 발끝으로 못 섬·약 3년째 퇴행성 발 질환, 범블풋 방치 시 2차 감염·패혈증 위험, Thera-Paw 네오프렌·고무 신발, 걸음·자세·균형 개선(Debbie Denton·Dr. Beth Bicknese)",
+   "url": "https://iflscience.com/san-diego-zoo-penguin-gets-fancy-new-footwear-in-form-of-orthopedic-boot-65116"
+  },
+  {
+   "publisher": "The Columbian(AP) 2022.9.2 'Penguin fitted with orthopedic footwear' — 범블풋 방치 시 패혈증·감염으로 죽을 수 있음, Thera-Paw 맞춤 신발이 서고 걸을 때 압박 상처를 막음, 아프리카펭귄은 IUCN 멸종위기",
+   "url": "https://columbian.com/news/2022/sep/02/penguin-fitted-with-orthopedic-footwear"
+  },
+  {
+   "publisher": "PetMD 'Bumblefoot in Guinea Pigs' — 철망·격자 바닥, 젖은 깔개, 비만이 원인, 방치 시 뼈 감염·사망 가능, 평평한 바닥과 부드러운 깔개로 예방",
+   "url": "https://www.petmd.com/exotic/conditions/bumblefoot-in-guinea-pigs"
+  }
+ ],
+ "_note": "reuters.mp4 = X @Reuters/status/1564616428057088004 (1280x720, 99초, 샌디에이고 동물원 제공 영상에 로이터 자막). 깨끗한 구간: 13~15.5 신발 신기기 확대, 16~19 걸어오는 펭귄(오른쪽 자막은 x 0 크롭으로 잘림), 28~32 옆모습, 42~45 상자 옆 걷기, 46~49 발 확대, 57~61 자갈 위 펭귄들, 85~88 사육사와 루카스, 92~94·96~98 펭귄 무리. cnn.mp4 = X @CNN/status/1566588196380712961 (같은 동물원 영상 + CNN 자막) 안 씀. 원본 소리 끔(인터뷰). tmp_cnn.mp4 = ffmpeg -ss 31 -t 7 -i cnn.mp4 -vf crop=1000:650:140:70 (CNN 로고·동물원 워터마크가 있는 위쪽 70px 잘라 냄, 커밋 안 함). tmp_reu.mp4 = ffmpeg -i reuters.mp4 -an -c:v libx264 -crf 18 -g 15 (원본은 키프레임이 드물어 85·57초로 건너뛸 때 첫 프레임이 하얗게 비어서 다시 인코딩, 커밋 안 함)."
+}
