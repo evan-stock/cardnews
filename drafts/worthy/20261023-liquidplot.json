@@ -35,75 +35,74 @@
    "dur": 2.0
   },
   {
-   "text": "2006년 런던, 미국행 여객기 7대가 '표적'이었다",
+   "text": "2006년 런던, 북미행 여객기 '7대'가 표적이었다",
    "video": {
-    "src": "video/tmp_itv.mp4",
-    "start": 67.0,
+    "src": "gfx/map.mp4",
+    "start": 0,
     "x": 0.5,
-    "y": 0.34
+    "y": 0.5
    },
-   "dur": 3.0
+   "dur": 3.3
   },
   {
-   "text": "범인들은 폭탄 재료를 '음료수병'에 숨겼다",
+   "text": "몇 시간 간격으로 떠 '비행 중' 터뜨릴 계획",
    "video": {
-    "src": "video/tmp_itv.mp4",
-    "start": 61.0,
+    "src": "gfx/fly.mp4",
+    "start": 0,
     "x": 0.5,
-    "y": 0.34
+    "y": 0.5
    },
-   "dur": 3.0
+   "dur": 3.1
   },
   {
-   "text": "뚜껑은 새것처럼 다시 붙여 '검색대'를 속이려 했다",
+   "text": "폭탄 재료는 평범한 '음료수병' 속에",
    "video": {
-    "src": "video/tmp_itv.mp4",
-    "start": 64.25,
+    "src": "gfx/bottle.mp4",
+    "start": 0,
     "x": 0.5,
-    "y": 0.34,
-    "speed": 0.6
+    "y": 0.5
    },
-   "dur": 2.6
+   "dur": 2.9
   },
   {
-   "text": "실행 직전, 경찰이 24명을 한꺼번에 '체포'했다",
+   "text": "검색대에선 그냥 '음료수'로 통과시킬 계획",
+   "video": {
+    "src": "gfx/scan.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.1
+  },
+  {
+   "text": "실행 직전, 경찰이 24명을 '체포'했다",
    "video": {
     "src": "video/tmp_itv.mp4",
     "start": 55.3,
     "x": 0.5,
     "y": 0.34
    },
-   "dur": 3.0
-  },
-  {
-   "text": "다음 날부터 기내엔 여권과 지갑만 들고 탔다",
-   "video": {
-    "src": "video/tmp_itv.mp4",
-    "start": 20.8,
-    "x": 0.5,
-    "y": 0.34
-   },
    "dur": 2.6
   },
   {
-   "text": "히드로 출발편 30%가 '취소'되는 대혼란",
+   "text": "다음 날 기내 액체 '전면' 금지, 공항은 마비",
    "video": {
     "src": "video/tmp_itv.mp4",
     "start": 28.9,
     "x": 0.5,
     "y": 0.34
    },
-   "dur": 2.1
+   "dur": 2.4
   },
   {
    "text": "그렇게 생긴 게 지금의 '100ml' 규칙이다",
    "video": {
-    "src": "video/tmp_itv.mp4",
-    "start": 24.4,
+    "src": "gfx/rule.mp4",
+    "start": 0,
     "x": 0.5,
-    "y": 0.34
+    "y": 0.5
    },
-   "dur": 2.0
+   "dur": 3.1
   },
   {
    "text": "검색대 뒤에 숨은 이야기, 다음 편도 구독으로",
@@ -118,7 +117,8 @@
  ],
  "products": [],
  "photo_credits": [
-  "영상: ITV News 공식 TikTok @itvnews 원본(7666465414930599190, 2026.7.25 — 다큐 'Terror in the Skies: Stopping the Liquid Bomb Plot' 예고, 영어 자막·소개 상자 구간은 y 크롭으로 피함)"
+  "영상: ITV News 공식 TikTok @itvnews 원본(7666465414930599190, 2026.7.25 — 다큐 'Terror in the Skies: Stopping the Liquid Bomb Plot' 예고, 영어 자막·소개 상자 구간은 y 크롭으로 피함)",
+  "모션그래픽: 오늘의쓸모 직접 제작(scripts/story_shorts/anim_liquidplot.py — 지도·병·검색대·지퍼백, 폭발물 구조·성분은 그리지 않음)"
  ],
  "sources": [
   {
