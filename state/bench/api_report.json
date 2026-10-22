@@ -1,779 +1,140 @@
 {
- "since": "2024-10-01",
- "fixed": [],
- "found": [
+ "since": "2026-10-01",
+ "fixed": [
   {
-   "title": "노라",
-   "id": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "created": "2014-04-23",
-   "subs": "2660",
-   "videos": "6820"
-  },
-  {
-   "title": "나인투",
-   "id": "UCSKJfa0ylLZkiI-PILIYXlw",
-   "created": "2025-10-09",
-   "subs": "135",
-   "videos": "79"
-  },
-  {
-   "title": "VibeTube",
-   "id": "UCaP_XE8UMy5A2gZgrMxA42Q",
-   "created": "2025-09-01",
-   "subs": "953",
-   "videos": "51"
-  },
-  {
-   "title": "링고다냥",
-   "id": "UCO-s9MFWm8ghwrcYIMAjDSw",
-   "created": "2012-05-05",
-   "subs": "1500000",
-   "videos": "3092"
-  },
-  {
-   "title": "RUMI",
-   "id": "UCgST1HvordC9adhFvPjZzvg",
-   "created": "2026-10-21",
-   "subs": "0",
-   "videos": "2"
-  },
-  {
-   "title": "봄고소_\"봄은 고양이로소이다\"",
-   "id": "UC4yNFUUO2NdDHxvTBUBq8Eg",
-   "created": "2026-03-19",
-   "subs": "60600",
-   "videos": "361"
-  },
-  {
-   "title": "Brooke Monk",
-   "id": "UC73sF-7Ihcs1HpnXEEXZ2ew",
-   "created": "2019-07-29",
-   "subs": "12000000",
-   "videos": "5246"
-  },
-  {
-   "title": "숏캐처",
-   "id": "UCQYqRdGs7wgqDalh4Xorwug",
-   "created": "2025-10-05",
-   "subs": "1240",
-   "videos": "20"
-  },
-  {
-   "title": "숏무무",
-   "id": "UCoPtCSFXUvTYQVw3Dq1Np5A",
-   "created": "2025-09-08",
-   "subs": "6360",
-   "videos": "468"
-  },
-  {
-   "title": "애니멀 코덱스",
-   "id": "UCvutMh3zCtpB_DmyiqvY_Vw",
-   "created": "2025-09-04",
-   "subs": "1130",
-   "videos": "50"
-  },
-  {
-   "title": "ViralBe",
-   "id": "UCfGLwxYDLZOj_eJOcMboY_A",
-   "created": "2011-10-31",
-   "subs": "2450000",
-   "videos": "1038"
-  },
-  {
-   "title": "Lary e il Mondo dei Gattini | Puericultura Felina®",
-   "id": "UCYa9S9cfg3-vuYTRWeedQGQ",
-   "created": "2019-10-14",
-   "subs": "31500",
-   "videos": "357"
-  },
-  {
-   "title": "김천시민일보",
-   "id": "UCw5sKyZPQI17YhLjp1lnrkw",
-   "created": "2025-05-03",
-   "subs": "21",
-   "videos": "15"
-  },
-  {
-   "title": "마테냥! Cat's daily life",
-   "id": "UC0Qv2V1XbDbAVxip0gOZe7Q",
-   "created": "2025-08-22",
-   "subs": "255",
-   "videos": "131"
-  },
-  {
-   "title": "The Pet Effect",
-   "id": "UCpAnzvOSzwyTfSoMuv44JqQ",
-   "created": "2024-10-12",
-   "subs": "81200",
-   "videos": "270"
-  },
-  {
-   "title": "𝗙𝘂𝗿𝗦𝗰𝗼𝗿𝗲",
-   "id": "UCrUfTPf9ugGpaO1nCcWVFDg",
-   "created": "2019-07-23",
-   "subs": "122000",
-   "videos": "65"
-  },
-  {
-   "title": "Ricky Gervais",
-   "id": "UCry7B7DGVgUIa6k4Tis_DJQ",
-   "created": "2006-11-22",
-   "subs": "788000",
-   "videos": "273"
-  },
-  {
-   "title": "Shane Knows Things",
-   "id": "UCL67V9Cbvk_WQJ2NuBhOofg",
-   "created": "2021-03-24",
-   "subs": "2450",
-   "videos": "87"
-  },
-  {
-   "title": "Wildlife & Pets Universe",
-   "id": "UCAFiUj9Tur1gTC4pOXpPR-A",
-   "created": "2024-10-11",
-   "subs": "768",
-   "videos": "178"
-  },
-  {
-   "title": "Piyush verma 0041",
-   "id": "UCrY9wJrg5V_SwJ9GYAFXv2w",
-   "created": "2026-06-16",
-   "subs": "3080",
-   "videos": "67"
-  },
-  {
-   "title": "ULXEQ",
-   "id": "UCwMXtCFIu-Kpd8kt39KsuXg",
-   "created": "2025-01-22",
-   "subs": "670",
-   "videos": "50"
-  },
-  {
-   "title": "SnapRiffle",
-   "id": "UCgHObl37MjeKfYw9PO7ciGw",
-   "created": "2024-07-24",
-   "subs": "182000",
-   "videos": "2219"
-  },
-  {
-   "title": "Dude Dans",
-   "id": "UCqY5pKWHVq86lPb9cu-wv3Q",
-   "created": "2013-08-05",
-   "subs": "11600000",
-   "videos": "298"
-  },
-  {
-   "title": "Hch-me",
-   "id": "UCTE2EBFUBxl12c-Ab2rKoAg",
-   "created": "2024-01-19",
-   "subs": "10200",
-   "videos": "1946"
+   "handle": "UCCCYKnRB6yP3XNkUDwRtnWQ",
+   "title": "틈새지식",
+   "id": "UCCCYKnRB6yP3XNkUDwRtnWQ",
+   "created": "2025-08-14",
+   "subs": "39300",
+   "videos": "598",
+   "before": {
+    "n": 260,
+    "median": 110152,
+    "max": 11884816,
+    "over10k": 260
+   },
+   "after": {
+    "n": 32,
+    "median": 71281,
+    "max": 1562164,
+    "over10k": 32
+   },
+   "last3d": {
+    "n": 8,
+    "median": 39907,
+    "max": 104542,
+    "over10k": 7
+   },
+   "recent": [
+    {
+     "id": "nUJxRbXg6IA",
+     "date": "2026-10-22",
+     "title": "주파수가 물위에서 눈에 보이는 형태",
+     "views": 1932,
+     "dur": "PT17S"
+    },
+    {
+     "id": "IO6GqbnjVJU",
+     "date": "2026-10-22",
+     "title": "우주엔 산소가 없는데 태양은 어떻게 탈까?",
+     "views": 48897,
+     "dur": "PT17S"
+    },
+    {
+     "id": "H-OA8aGZkx4",
+     "date": "2026-10-21",
+     "title": "갈릴레이만 풀 수 있었던 바퀴의 역설",
+     "views": 104542,
+     "dur": "PT17S"
+    },
+    {
+     "id": "9uJIJsDF1Tg",
+     "date": "2026-10-21",
+     "title": "쓰러진 경찰관을 살리려는 강아지의 행동",
+     "views": 17896,
+     "dur": "PT19S"
+    },
+    {
+     "id": "DdqBmtCCi2M",
+     "date": "2026-10-20",
+     "title": "1차 세계대전이 낳은 보이지 않는 괴물",
+     "views": 46542,
+     "dur": "PT17S"
+    },
+    {
+     "id": "plAXB1WSW7I",
+     "date": "2026-10-20",
+     "title": "1500도 쇳물에 불빠따는 참을 수 없지ㄷㄷ   (SUSHIRAMEN-Riku)",
+     "views": 44009,
+     "dur": "PT17S"
+    },
+    {
+     "id": "DmyNAVOQ7rQ",
+     "date": "2026-10-19",
+     "title": "런던을 뒤덮은 검은 안개가 바꿔놓은 역사'",
+     "views": 26160,
+     "dur": "PT17S"
+    },
+    {
+     "id": "DbWySR29W14",
+     "date": "2026-10-19",
+     "title": "플라스틱 막대를 깎아 만드는 의외의 물건",
+     "views": 35806,
+     "dur": "PT23S"
+    },
+    {
+     "id": "PUNHpnLGgZw",
+     "date": "2026-10-18",
+     "title": "고체, 액체, 기체에 속하지 않는 제 4의 물질",
+     "views": 53233,
+     "dur": "PT17S"
+    },
+    {
+     "id": "YgBc6UCfHAo",
+     "date": "2026-10-18",
+     "title": "불을 대자 원래 모양으로 돌아오는 금속",
+     "views": 73960,
+     "dur": "PT17S"
+    },
+    {
+     "id": "X4i5rjo5igU",
+     "date": "2026-10-17",
+     "title": "가라앉고 싶어도 가라앉을 수 없는 호수",
+     "views": 187220,
+     "dur": "PT17S"
+    },
+    {
+     "id": "L190OMLRj8g",
+     "date": "2026-10-17",
+     "title": "작은 선택 하나가 일으키는 도미노 효과    (smorris123)",
+     "views": 50335,
+     "dur": "PT17S"
+    },
+    {
+     "id": "6XEN_EFiVa8",
+     "date": "2026-10-16",
+     "title": "서로 다른 박자가 저절로 하나가 되는 현상   (MarkRober)",
+     "views": 47241,
+     "dur": "PT17S"
+    },
+    {
+     "id": "9PogCN2C77k",
+     "date": "2026-10-16",
+     "title": "차선을 통째로 옮기는 미국의 특수 트럭",
+     "views": 578939,
+     "dur": "PT17S"
+    },
+    {
+     "id": "DiEDywUCRqY",
+     "date": "2026-10-15",
+     "title": "눈으로 보이진 않아도 확실한 대기압의 위력",
+     "views": 1562164,
+     "dur": "PT17S"
+    }
+   ]
   }
  ],
- "search_hits": [
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "XQuCwfga-Vw",
-   "ch": "숏캐처",
-   "cid": "UCQYqRdGs7wgqDalh4Xorwug",
-   "date": "2025-10-22",
-   "title": "역대급 귀엽고 깜찍한 아기고양이 랭킹 top 7",
-   "views": 1294356
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "UzqWQ5WehiM",
-   "ch": "봄고소_\"봄은 고양이로소이다\"",
-   "cid": "UC4yNFUUO2NdDHxvTBUBq8Eg",
-   "date": "2026-04-09",
-   "title": "들켰다 → 구조됐다 → 적응 완료 🐾 길냥이 식구 7마리 입주 사건",
-   "views": 21639
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "SAt-sjqPAAQ",
-   "ch": "숏무무",
-   "cid": "UCoPtCSFXUvTYQVw3Dq1Np5A",
-   "date": "2026-10-10",
-   "title": "유기묘 7마리를 위해 지은 꿈의 집, 첫째 고양이가 오지 못한 슬픈 사연",
-   "views": 10582
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "XQ7kaot90Sg",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-03",
-   "title": "2026년7월2일~목요일~^^길고양이~새끼4마리 생후 442일차 이고,새끼2마리 생후 404일차 입니다~^^",
-   "views": 3223
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "zj83UoOgiOQ",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-05-27",
-   "title": "2026년5월26일~화요일~^^길고양이~새새끼6마리 생후 17일차 입니다~새식구1마리 3일차 입니다~^^총7",
-   "views": 3758
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "5Oiwusso0_o",
-   "ch": "김천시민일보",
-   "cid": "UCw5sKyZPQI17YhLjp1lnrkw",
-   "date": "2025-07-18",
-   "title": "고양이가 사람보다 낫다. #구조 #김천동물보호센터 #고양이 #아갱이 #미담",
-   "views": 1287
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "pdM6mzh_TRk",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-05-25",
-   "title": "2026년5월25일~월요일~^^길고양이~새새끼6마리 생후 16일차 입니다 ~새식구 (콩새)1마리 2일차 입니",
-   "views": 3651
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "OBr4VOOLuIU",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-14",
-   "title": "2026년7월14일~화요일~^^길고양이~새끼4마리 생후 454일차 이고,새끼2마리 생후 416일차 입니다~^",
-   "views": 2576
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "sdxP27FSVqU",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-03",
-   "title": "2026년7월2일~목요일~^^길고양이~새끼2마리 생후 404일차 입니다~^^새새끼6마리 생후 54일차 이고,",
-   "views": 1813
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "8LJFSf7eq1c",
-   "ch": "나인투",
-   "cid": "UCSKJfa0ylLZkiI-PILIYXlw",
-   "date": "2026-06-12",
-   "title": "[초보 집사의 미안한 마음] 첫 출산한 길고양이 아기를 묻어주는데 엄마 고양이가 울며 따라옵니다..  #고양",
-   "views": 1915
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "ZYINNzrctqs",
-   "ch": "마테냥! Cat's daily life",
-   "cid": "UC0Qv2V1XbDbAVxip0gOZe7Q",
-   "date": "2025-08-27",
-   "title": "7남매 고양이네에 새 식구 등장?! 오늘 처음 인사드려요,  Meet Our New Cat! A Surpri",
-   "views": 1297
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "VfIhyjEJfdY",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-13",
-   "title": "2026년7월13일~월요일~^^길고양이~새새끼6마리 생후 65일차 이고,새식구1마리 51일차 입니다~^^ㅋ",
-   "views": 1976
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "-CC2lYsB-3c",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-03",
-   "title": "2026년7월2일~목요일~^^길고양이~새끼4마리 생후 442일차 이고,새끼2마리 생후 404일차 입니다~^^",
-   "views": 1865
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "wqkaI9g5qAI",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-20",
-   "title": "2026년7월19일~일요일~^^길고양이~새새끼6마리 생후 71일차 입니다~^^천명이 운전석 본넷에 들어가서 ",
-   "views": 1222
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "b4-TybSwSsQ",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-16",
-   "title": "2026년7월16일~목요일~^^길고양이~새끼4마리 생후 456일차 이고,새끼2마리 생후 418일차 입니다~^",
-   "views": 1949
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "RY9RAJ0B2Zg",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-11",
-   "title": "2026년7월10일~금요일~^^길고양이~새끼4마리 생후 450일차(1년3개월)이고,새끼2마리 생후 412일차",
-   "views": 1627
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "N1b7jJyrwjA",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-15",
-   "title": "2026년7월14일~화요일~^^길고양이~새새끼6마리 생후 66일차 입니다~^^ㅋ",
-   "views": 1803
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "zV_5-1jr5f8",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-13",
-   "title": "2026년7월13일~월요일~^^길고양이~새끼4마리 생후 453일차 이고, 새끼2마리 생후 415일차 입니다~",
-   "views": 1283
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "lteTlg5ls8Q",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-15",
-   "title": "2026년7월14일~화요일~^^길고양이~새끼4마리 생후 454일차 이고,새끼2마리 생후 416일차 입니다~새",
-   "views": 1412
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "KeAGhQJo1zw",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-13",
-   "title": "2026년7월12일~일요일~^^길고양이~새끼4마리 생후 452일차 이고, 새끼2마리 생후 414일차 입니다~",
-   "views": 1577
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "344VsdFG3Ic",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-07",
-   "title": "2026년7월6일~월요일~^^길고양이~새끼4마리 생후 446일차 이고,새끼2마리 생후 408일차 입니다~^^",
-   "views": 1534
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "bKQWbwaZZWw",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-04",
-   "title": "2026년7월3일~금요일~^^길고양이~새새끼6마리 생후 55일차 입니다~^^어미 젖 먹고 있어요~^^ㅋ",
-   "views": 1313
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "qhPVqaYfHXo",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-18",
-   "title": "2026년7월17일~금요일~^^길고양이~새끼4마리 생후 457일차 이고, 새끼2마리 생후 419일차 입니다~",
-   "views": 984
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "SOIL7eMi6a4",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2025-06-07",
-   "title": "2025년6월7일~토요일~^^길고양이~새끼4마리 생후14일차 입니다~새이불 깔아 주었어요~^^ㅋ",
-   "views": 1123
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "AVLUE0i30sY",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-08",
-   "title": "2026년7월7일~화요일~^^길고양이~새끼4마리 생후 447일차 이고,새끼2마리 생후 409일차 입니다~^^",
-   "views": 1084
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "CTxi2QMlIlo",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-01",
-   "title": "2026년7월1일~수요일~^^길고양이~^^새끼4마리 생후 441일차 이고,새끼2마리 생후 403일차 입니다~",
-   "views": 1737
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "oo0DYzxH8Fw",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-10",
-   "title": "2026년7월9일~목요일~^^길고양이~새끼4마리 생후 449일차 이고,새끼2마리 생후 411일차 입니다~^^",
-   "views": 1293
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "4JZoJAuVTI0",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-13",
-   "title": "2026년7월13일~월요일~^^길고양이~새끼4마리 생후 453일차 이고, 새끼2마리 생후 415일차 입니다~",
-   "views": 1314
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "k7hvIbDvcJQ",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-26",
-   "title": "2026년7월25일~토요일~^^길고양이~새끼4마리 생후 465일차 이고, 새끼2마리 생후 427일차 입니다~",
-   "views": 1005
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "gi8L0nbhwls",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-10",
-   "title": "2026년7월9일~목요일~^^길고양이~새끼4마리 생후 449일차 이고,새끼2마리 생후 411일차 입니다~^^",
-   "views": 1279
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "YKaMJ4nOJ64",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-04",
-   "title": "2026년7월3일~금요일~^^길고양이~새새끼6마리 생후 55일차 입니다~^^ㅋ",
-   "views": 1143
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "Vj82SjBSHzA",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-25",
-   "title": "2026년7월25일~토요일~^^길고양이~새끼4마리 생후 465일차 이고,새끼2마리 생후 427일차 입니다~^",
-   "views": 966
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "-ckH-2G0ep0",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-19",
-   "title": "2026년7월19일~일요일~^^길고양이~새끼4마리 생후 459일차 이고,새끼2마리 생후 421일차 입니다~^",
-   "views": 932
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "Hbh4iy4ieuE",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-15",
-   "title": "2026년7월14일~화요일~^^길고양이~새새끼6마리 생후 66일차 입니다~^^ㅋ",
-   "views": 801
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "oS4z_qRBnfc",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-06",
-   "title": "2026년7월5일~일요일~^^길고양이~새끼4마리 생후 445일차 이고,새끼2마리 생후 407일차 입니다~^^",
-   "views": 1197
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "LAYq2iZcFts",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-13",
-   "title": "2026년7월13일~월요일~^^길고양이~새끼4마리 생후 453일차 이고, 새끼2마리 생후 415일차 입니다~",
-   "views": 1210
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "nigeCHnhL9s",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-01",
-   "title": "2026년7월1일~수요일~^^길고양이~새새끼6마리 생후 53일차 입니다~^^어미가 모유 먹이고 있어요~어미안",
-   "views": 1134
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "zgHQZiyoOzA",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-20",
-   "title": "2026년7월20일~월요일~^^길고양이~새끼4마리 생후 460일차 이고, 새끼2마리 생후 422일차 입니다~",
-   "views": 979
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "gXD6RKfOfgw",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-19",
-   "title": "2026년7월19일~일요일~^^길고양이~새끼4마리 생후 459일차 이고, 새끼2마리 생후 421일차 입니다~",
-   "views": 1296
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "5DGoxBIupjs",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-18",
-   "title": "2026년7월17일~금요일~^^길고양이~새끼4마리 생후 457일차 이고,새끼2마리 생후 419일차 입니다~^",
-   "views": 1455
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "BerH4HcCEt4",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-07",
-   "title": "2026년7월6일~월요일~^^길고양이~새끼4마리 생후 446일차 이고,새끼2마리 생후 408일차 입니다~^^",
-   "views": 1137
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "UzOkwfrx7ko",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-07",
-   "title": "2026년7월6일~월요일~^^길고양이~새끼4마리 생후 446일차 이고,새끼2마리 생후 408일차 입니다~^^",
-   "views": 1371
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "RmRqM30IXpw",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-11",
-   "title": "2026년7월10일~금요일~^^길고양이~새끼4마리 생후 450일차 (1년3개월)이고, 새끼2마리 생후 412",
-   "views": 1157
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "fjyCA3nTqcs",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-01",
-   "title": "2026년7월1일~수요일~^^길고양이~새새끼6마리 생후 53일차 입니다~^^어미안테 4번째 손가락 할켜 피 ",
-   "views": 1193
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "Jve13Idp8A4",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-15",
-   "title": "2026년7월14일~화요일~^^길고양이~새끼4마리 생후 454일차 이고, 새끼2마리 생후 416일차 입니다~",
-   "views": 1056
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "fAutvSTOlGk",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-05",
-   "title": "2026년7월5일~일요일~^^길고양이~새끼4마리 생후 445일차 이고,새끼2마리 생후 407일차 입니다~^^",
-   "views": 1090
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "FJ1fOdAlRzE",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-11",
-   "title": "2026년7월10일~금요일~^^길고양이~새끼4마리 생후 450일차 (1년3개월)이고,새끼2마리 생후 412일",
-   "views": 1394
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "U8n0riXI8Hk",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-20",
-   "title": "2026년7월19일~일요일~^^길고양이~새끼4마리 생후 459일차 이고, 새끼2마리 생후 421일차 입니다~",
-   "views": 1252
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "9EjGBU77GFg",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-06",
-   "title": "2026년7월5일~일요일~^^길고양이~새끼4마리 생후 445일차 이고,새끼2마리 생후 407일차 입니다~^^",
-   "views": 1139
-  },
-  {
-   "q": "고양이 7마리 새 고양이",
-   "vid": "hvjMd3EFwEM",
-   "ch": "노라",
-   "cid": "UCzK7o6BqvS3RWMJCSYTi4GQ",
-   "date": "2026-07-03",
-   "title": "2026년7월2일~목요일~^^길고양이~새식구1마리 40일차 입니다~^^새새끼6마리 어미가 행복이를 보살펴 주",
-   "views": 932
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "JDLtgxIDKAE",
-   "ch": "링고다냥",
-   "cid": "UCO-s9MFWm8ghwrcYIMAjDSw",
-   "date": "2025-03-03",
-   "title": "full options car😼🚗 #shorts #cat #funny",
-   "views": 51148303
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "wEsmBni8oPY",
-   "ch": "Dude Dans",
-   "cid": "UCqY5pKWHVq86lPb9cu-wv3Q",
-   "date": "2024-12-03",
-   "title": "Cats VS Dogs (Write in the Comments) DANS &amp; SNAD 24: Fin",
-   "views": 38098076
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "QUK2wceUyD0",
-   "ch": "Brooke Monk",
-   "cid": "UC73sF-7Ihcs1HpnXEEXZ2ew",
-   "date": "2024-11-19",
-   "title": "Wait for it.. #cat #cats #love #relatable #shorts #short #co",
-   "views": 24702360
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "qpAR_ABTReY",
-   "ch": "VibeTube",
-   "cid": "UCaP_XE8UMy5A2gZgrMxA42Q",
-   "date": "2025-10-08",
-   "title": "Sweet black cat looking at the camera |  #cat #cats #catvide",
-   "views": 1141235
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "S6YBC1P-lGg",
-   "ch": "𝗙𝘂𝗿𝗦𝗰𝗼𝗿𝗲",
-   "cid": "UCrUfTPf9ugGpaO1nCcWVFDg",
-   "date": "2026-05-11",
-   "title": "The last cat is having a staring contest 🤣",
-   "views": 315664
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "kia1p2kityg",
-   "ch": "Ricky Gervais",
-   "cid": "UCry7B7DGVgUIa6k4Tis_DJQ",
-   "date": "2026-07-09",
-   "title": "Ricky Gervais&#39; Alley Cats | First Look | Netflix",
-   "views": 97644
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "ZL-zvXZL2_g",
-   "ch": "ViralBe",
-   "cid": "UCfGLwxYDLZOj_eJOcMboY_A",
-   "date": "2025-06-25",
-   "title": "The 10 Most Exotic Cats That You Can Have",
-   "views": 96789
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "QaKW1-nF3Ok",
-   "ch": "Lary e il Mondo dei Gattini | Puericultura Felina®",
-   "cid": "UCYa9S9cfg3-vuYTRWeedQGQ",
-   "date": "2025-01-23",
-   "title": "Inserimento tra #gatti | #gattini #gatto #larygattini",
-   "views": 62930
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "2DG22gS1lEA",
-   "ch": "The Pet Effect",
-   "cid": "UCpAnzvOSzwyTfSoMuv44JqQ",
-   "date": "2025-05-05",
-   "title": "Why do cats stare at walls? 🗿",
-   "views": 46457
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "FCQS-xyBCOw",
-   "ch": "SnapRiffle",
-   "cid": "UCgHObl37MjeKfYw9PO7ciGw",
-   "date": "2026-10-20",
-   "title": "🐱 My Cat&#39;s Epic Transformation! 😨 Watch Vecna&#39;s New ",
-   "views": 49919
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "YlMVhicJ2dc",
-   "ch": "ULXEQ",
-   "cid": "UCwMXtCFIu-Kpd8kt39KsuXg",
-   "date": "2026-10-05",
-   "title": "Top 5 Cat Fails of the Day Cats Staring at Walls - Why_ 😂",
-   "views": 29671
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "dQ2gyxuZCTo",
-   "ch": "Shane Knows Things",
-   "cid": "UCL67V9Cbvk_WQJ2NuBhOofg",
-   "date": "2025-03-17",
-   "title": "Why Do Cats Stare at YOU?? 👀 #learnsomethingnew #facts #cats",
-   "views": 13567
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "KqopiiGFlPo",
-   "ch": "Wildlife & Pets Universe",
-   "cid": "UCAFiUj9Tur1gTC4pOXpPR-A",
-   "date": "2025-02-15",
-   "title": "Why Do Cats Stare at Nothing? Mystery Behind Cat Staring!",
-   "views": 5724
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "RbhGeeY4CXk",
-   "ch": "Piyush verma 0041",
-   "cid": "UCrY9wJrg5V_SwJ9GYAFXv2w",
-   "date": "2026-10-21",
-   "title": "Cat Surprised By New Look",
-   "views": 4866
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "lqdkIIA3suk",
-   "ch": "애니멀 코덱스",
-   "cid": "UCvutMh3zCtpB_DmyiqvY_Vw",
-   "date": "2026-05-21",
-   "title": "고양이가 허공을 보고 멍 때리는 이유",
-   "views": 2722
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "Ojp2qx9zHUE",
-   "ch": "Hch-me",
-   "cid": "UCTE2EBFUBxl12c-Ab2rKoAg",
-   "date": "2024-11-17",
-   "title": "동시에 쳐다보는 고양이들/Cats staring at the same time. #cat #아비시니안 #두부",
-   "views": 88
-  },
-  {
-   "q": "cats stare at new cat",
-   "vid": "yNJOGZjSRBg",
-   "ch": "RUMI",
-   "cid": "UCgST1HvordC9adhFvPjZzvg",
-   "date": "2026-10-21",
-   "title": "Why Does Your Cat Stare at Something You Can&#39;t See?",
-   "views": 233
-  }
- ]
+ "found": [],
+ "search_hits": []
 }
