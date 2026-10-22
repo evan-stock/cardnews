@@ -1,0 +1,51 @@
+{
+ "id": "20261022-fruitcat",
+ "created": "2026-10-22T13:26:05.342074+09:00",
+ "items": [
+  {
+   "key": "f3c9e9b5986f",
+   "text": "캣타워 놔두고 과일 그릇에서 자는 고양이입니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "88463488a121",
+   "text": "깔고 누워 있던 사과를 꺼내 주자",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "cf5a44fd1c15",
+   "text": "고양이는 오목하고 좁은 곳을 아늑한 굴로 여긴답니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
