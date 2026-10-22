@@ -1,0 +1,4 @@
+WARNING: [Reddit] Session request failed: HTTP Error 403: Blocked
+WARNING: [Reddit] 1py1z2f: Session request failed: HTTP Error 403: Forbidden
+ERROR: [Reddit] 1py1z2f: Account authentication is required. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+실패: https://www.reddit.com/r/cats/comments/1py1z2f/help_my_cat_is_furious_after_i_visited_another_cat/
