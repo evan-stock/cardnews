@@ -1,7 +1,7 @@
 {
  "id": "20261022-rhinohorn",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-22T09:07:21.994147+09:00",
  "publish_at": "2026-10-22T09:07:21.994159+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 821
+ "tg_msg": 821,
+ "decided_at": "2026-10-22T09:09:49.026872+09:00",
+ "yt_id": "DhDiEVSBOIA",
+ "permalink": "https://youtube.com/shorts/DhDiEVSBOIA",
+ "published_at": "2026-10-22T09:09:52.270149+09:00"
 }
