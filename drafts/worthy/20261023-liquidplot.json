@@ -1,0 +1,138 @@
+{
+ "id": "20261023-liquidplot",
+ "media": "media/20261023-liquidplot",
+ "topic": "기내 액체 100ml 규칙을 만든 실제 사건 — 2006년 8월 영국 액체폭탄 모의(Operation Overt). 런던 히드로에서 미국·캐나다로 가는 여객기 7대를 음료수병에 숨긴 액체 폭탄으로 노림. 8월 9~10일 24명 체포, 다음 날 기내 반입이 사실상 전면 금지되며 히드로 출발편 30% 취소 등 대혼란 → 같은 해 11월 100ml·1L 지퍼백 규칙. 재판으로 7명 유죄",
+ "hook": {
+  "t": "기내 '액체' 금지를\n만든 진짜 사건ㄷㄷ"
+ },
+ "credit": "영상: ITV News",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "음료수병 하나로 '여객기'를 노린 사건",
+   "video": {
+    "src": "video/tmp_itv.mp4",
+    "start": 35.2,
+    "x": 0.5,
+    "y": 0.34,
+    "speed": 0.6
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "다들 100ml 규칙은 그냥 '귀찮은' 규정인 줄 안다",
+   "video": {
+    "src": "video/tmp_itv.mp4",
+    "start": 33.0,
+    "x": 0.5,
+    "y": 0.34
+   },
+   "dur": 2.0
+  },
+  {
+   "text": "2006년 런던, 미국행 여객기 7대가 '표적'이었다",
+   "video": {
+    "src": "video/tmp_itv.mp4",
+    "start": 67.0,
+    "x": 0.5,
+    "y": 0.34
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "범인들은 폭탄 재료를 '음료수병'에 숨겼다",
+   "video": {
+    "src": "video/tmp_itv.mp4",
+    "start": 61.0,
+    "x": 0.5,
+    "y": 0.34
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "뚜껑은 새것처럼 다시 붙여 '검색대'를 속이려 했다",
+   "video": {
+    "src": "video/tmp_itv.mp4",
+    "start": 64.25,
+    "x": 0.5,
+    "y": 0.34,
+    "speed": 0.6
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "실행 직전, 경찰이 24명을 한꺼번에 '체포'했다",
+   "video": {
+    "src": "video/tmp_itv.mp4",
+    "start": 55.3,
+    "x": 0.5,
+    "y": 0.34
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "다음 날부터 기내엔 여권과 지갑만 들고 탔다",
+   "video": {
+    "src": "video/tmp_itv.mp4",
+    "start": 20.8,
+    "x": 0.5,
+    "y": 0.34
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "히드로 출발편 30%가 '취소'되는 대혼란",
+   "video": {
+    "src": "video/tmp_itv.mp4",
+    "start": 28.9,
+    "x": 0.5,
+    "y": 0.34
+   },
+   "dur": 2.1
+  },
+  {
+   "text": "그렇게 생긴 게 지금의 '100ml' 규칙이다",
+   "video": {
+    "src": "video/tmp_itv.mp4",
+    "start": 24.4,
+    "x": 0.5,
+    "y": 0.34
+   },
+   "dur": 2.0
+  },
+  {
+   "text": "검색대 뒤에 숨은 이야기, 다음 편도 구독으로",
+   "video": {
+    "src": "video/tmp_itv.mp4",
+    "start": 69.0,
+    "x": 0.5,
+    "y": 0.34
+   },
+   "dur": 2.8
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: ITV News 공식 TikTok @itvnews 원본(7666465414930599190, 2026.7.25 — 다큐 'Terror in the Skies: Stopping the Liquid Bomb Plot' 예고, 영어 자막·소개 상자 구간은 y 크롭으로 피함)"
+ ],
+ "sources": [
+  {
+   "publisher": "Wikipedia '2006 transatlantic aircraft plot' — 히드로발 7편(유나이티드·아메리칸·에어캐나다, 미국·캐나다행), 음료수병에 숨기고 다시 봉인, 2006.8.9 24명 체포, 8.13 히드로 출발편 30% 취소, 재판 9명 중 7명 유죄",
+   "url": "https://en.wikipedia.org/wiki/2006_transatlantic_aircraft_plot"
+  },
+  {
+   "publisher": "Migflug 'The 100 ml Rule: From the 2006 Liquid Bomb Plot to CT Scanners' — 2006.8.10 기내 수하물 사실상 금지(서류만 투명 봉투), 영국 100ml·1L 봉투 규칙 2006.11.3 시행, CT 검색기 완화 현황",
+   "url": "https://migflug.com/afterburner/?p=27070431"
+  },
+  {
+   "publisher": "NBC News(AP) 2008 'Prosecutor: Britons disguised bombs as drinks' — 음료수병·배터리로 위장, 북미행 여객기",
+   "url": "https://www.nbcnews.com/id/wbna29236459"
+  }
+ ],
+ "_note": "itv.mp4 = TikTok @itvnews/7666465414930599190 (576x1024, 76초). 0~13초 'Inside story' 소개 상자(y 0.52~0.66), 그 뒤 영어 자막은 y 약 0.72~0.75, ITV 로고 오른쪽 위 0.12~0.17 → y 0.34(보이는 범위 0.20~0.61)로 둘 다 피함. 20~23 무장 경찰, 24~31 히드로 인파, 33~35 아메리칸항공 기체, 35.1~37 기체 폭발(speed 0.6), 55~60 경찰 헬기·폴리스라인, 61~66 CCTV, 67~71 이륙하는 여객기."
+}

@@ -283,7 +283,7 @@ def render_scene(i, sc, script, base, tmp, media, voice=None):
         v = sc.get("video") or {"src": sc["gfx"]}
         src = v["src"] if os.path.isabs(v["src"]) else os.path.join(media, v["src"])
         start = float(v.get("start", sc.get("start", 0)))
-        sp = f"setpts=PTS/{v['speed']}," if v.get("speed") else ""
+        sp = "setpts=PTS-STARTPTS," + (f"setpts=PTS/{v['speed']}," if v.get("speed") else "")  # 장면 첫 프레임 흰 화면 방지
         inputs = ["-loop", "1", "-i", png, "-stream_loop", "-1", "-ss", str(start), "-i", src]
         if v.get("fit") == "contain":
             # 그래픽처럼 잘리면 안 되는 화면: 칸 높이에 맞춰 줄이고, 양옆은 같은 화면을 흐리게 채움
@@ -324,7 +324,7 @@ def render_full(i, sc, png, out, dur, ov, media, voice):
         v = sc.get("video") or {"src": sc["gfx"]}
         src = v["src"] if os.path.isabs(v["src"]) else os.path.join(media, v["src"])
         start = float(v.get("start", sc.get("start", 0)))
-        sp = f"setpts=PTS/{v['speed']}," if v.get("speed") else ""
+        sp = "setpts=PTS-STARTPTS," + (f"setpts=PTS/{v['speed']}," if v.get("speed") else "")  # 장면 첫 프레임 흰 화면 방지
         inputs = ["-loop", "1", "-i", png, "-stream_loop", "-1", "-ss", str(start), "-i", src]
         fit = v.get("fit")
         if not fit:
