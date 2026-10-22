@@ -1,0 +1,8 @@
+model gemini-3.8-flash-tts
+style 유튜브 쇼츠 동물 영상 내레이션. 차분하지만 살짝 장난기 있는 중년 남성 다큐 해설자 말투, 또박또박, 약간 빠르게
+Charon: 성공 13.7초
+Gacrux: 성공 14.1초
+Algenib: 실패
+Sadaltager: 성공 14.9초
+Puck: 실패
+필재 비교 파일: typecast_piljae.mp3
