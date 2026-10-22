@@ -61,9 +61,9 @@ for voice in cfg["voices"]:
     inputs, filt = [], []
     for i, p in enumerate(parts):
         inputs += ["-i", p]
-        filt.append(f"[{i}:a]aresample=44100,apad=pad_dur={gap}[a{i}]")
+        filt.append(f"[{i}:a]aresample=44100,silenceremove=start_periods=1:start_threshold=-45dB,areverse,silenceremove=start_periods=1:start_threshold=-45dB,areverse,apad=pad_dur={gap}[a{i}]")
     filt.append("".join(f"[a{i}]" for i in range(len(parts))) + f"concat=n={len(parts)}:v=0:a=1[o]")
-    dst = f"{out}/gemini_{voice}.mp3"
+    dst = f"{out}/gemini_{voice}{cfg.get('tag','')}.mp3"
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", *inputs, "-filter_complex", ";".join(filt),
                     "-map", "[o]", "-b:a", "128k", dst], check=True)
     for p in parts:
@@ -71,6 +71,12 @@ for voice in cfg["voices"]:
     dur = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", dst],
                          capture_output=True, text=True).stdout.strip()
     report.append(f"{voice}: 성공 {float(dur):.1f}초")
+    fit = cfg.get("fit_seconds")
+    if fit:
+        tempo = max(0.5, min(2.0, float(dur) / fit))
+        fdst = dst.replace(".mp3", "_fit.mp3")
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", dst, "-af", f"atempo={tempo:.3f}", "-b:a", "128k", fdst], check=True)
+        report.append(f"{voice}: 길이 맞춤 {fit}초 (속도 x{tempo:.2f})")
 
 # 비교용 필재(타입캐스트) 원본도 같은 간격으로 이어 붙임
 ref = cfg.get("ref_mp3s") or []
