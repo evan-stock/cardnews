@@ -1,24 +1,140 @@
 {
- "since": "2024-01-01",
- "fixed": [],
- "found": [
+ "since": "2026-10-01",
+ "fixed": [
   {
-   "title": "미고랑 Migowith",
-   "id": "UCGqV7wxUpDIIjelpFtHi-oQ",
-   "created": "2024-08-23",
-   "subs": "1520",
-   "videos": "95"
+   "handle": "UC0-1gXk2T2qijH9-eYzt2eA",
+   "title": "쇼츠픽",
+   "id": "UC0-1gXk2T2qijH9-eYzt2eA",
+   "created": "2020-07-30",
+   "subs": "37100",
+   "videos": "245",
+   "before": {
+    "n": 223,
+    "median": 100914,
+    "max": 11426352,
+    "over10k": 221
+   },
+   "after": {
+    "n": 18,
+    "median": 35268,
+    "max": 1642242,
+    "over10k": 17
+   },
+   "last3d": {
+    "n": 4,
+    "median": 38939,
+    "max": 158974,
+    "over10k": 3
+   },
+   "recent": [
+    {
+     "id": "IteXgBnG_rY",
+     "date": "2026-10-22",
+     "title": "물속에 가라앉아 잠드는 바다표범",
+     "views": 3333,
+     "dur": "PT34S"
+    },
+    {
+     "id": "HkC_iDgkcYY",
+     "date": "2026-10-21",
+     "title": "동물과 쉽게 친해지는 스킨십",
+     "views": 49526,
+     "dur": "PT32S"
+    },
+    {
+     "id": "5FC4qdFY40k",
+     "date": "2026-10-20",
+     "title": "목덜미 잡힌 토끼가 비명 지르는 이유",
+     "views": 158974,
+     "dur": "PT39S"
+    },
+    {
+     "id": "yl74sQ70-zo",
+     "date": "2026-10-19",
+     "title": "국가 기밀로 소문난 변검의 진실",
+     "views": 28353,
+     "dur": "PT43S"
+    },
+    {
+     "id": "PNv3hbpTgek",
+     "date": "2026-10-18",
+     "title": "캐리어 바퀴를 부수는 이유",
+     "views": 17019,
+     "dur": "PT42S"
+    },
+    {
+     "id": "S8HyTE_q53k",
+     "date": "2026-10-17",
+     "title": "한 달 팁만 천만 원 버는 주차 요원",
+     "views": 28095,
+     "dur": "PT37S"
+    },
+    {
+     "id": "1UAwAZ-92lw",
+     "date": "2026-10-16",
+     "title": "2억 7천에 팔린 주방 식칼",
+     "views": 229785,
+     "dur": "PT36S"
+    },
+    {
+     "id": "sdmJvztlgUY",
+     "date": "2026-10-15",
+     "title": "껌 뽑기 기계 닮은 롤러코스터",
+     "views": 564582,
+     "dur": "PT34S"
+    },
+    {
+     "id": "nREfhs3sj8g",
+     "date": "2026-10-14",
+     "title": "생각보다 순한 올빼미",
+     "views": 1642242,
+     "dur": "PT36S"
+    },
+    {
+     "id": "0tYz4ha0juI",
+     "date": "2026-10-13",
+     "title": "새 모이에 매운 소스를 붓는 이유",
+     "views": 54322,
+     "dur": "PT27S"
+    },
+    {
+     "id": "65N_47gTulE",
+     "date": "2026-10-12",
+     "title": "로데오 고트 타잉 특수 훈련법",
+     "views": 50946,
+     "dur": "PT32S"
+    },
+    {
+     "id": "x0bpCIRAmpI",
+     "date": "2026-10-11",
+     "title": "식용유 속마개 거꾸로 끼우는 이유",
+     "views": 10617,
+     "dur": "PT26S"
+    },
+    {
+     "id": "WhOeqAh7yl0",
+     "date": "2026-10-10",
+     "title": "서서 타는 이탈리아 바구니 케이블카",
+     "views": 294792,
+     "dur": "PT40S"
+    },
+    {
+     "id": "G-0s8BQg77U",
+     "date": "2026-10-09",
+     "title": "수백 년 전통의 구리 코팅 방법",
+     "views": 67838,
+     "dur": "PT36S"
+    },
+    {
+     "id": "npi4qPGto4A",
+     "date": "2026-10-08",
+     "title": "정지된 것처럼 흐르는 물줄기",
+     "views": 42442,
+     "dur": "PT34S"
+    }
+   ]
   }
  ],
- "search_hits": [
-  {
-   "q": "고양이 첫 만남 하악질 배틀",
-   "vid": "8GtAyxWclQE",
-   "ch": "미고랑 Migowith",
-   "cid": "UCGqV7wxUpDIIjelpFtHi-oQ",
-   "date": "2025-10-13",
-   "title": "첫만남 하악질 ㅋㅋ #고양이 #하악질 #고양이일상 #cat #shorts",
-   "views": 271490
-  }
- ]
+ "found": [],
+ "search_hits": []
 }
