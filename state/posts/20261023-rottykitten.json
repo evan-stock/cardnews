@@ -1,0 +1,50 @@
+{
+ "id": "20261023-rottykitten",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-24T08:40:54.347414+09:00",
+ "publish_at": "2026-10-24T08:40:54.347434+09:00",
+ "publish_now": true,
+ "topic": "식탁 위 아기 고양이와 눈이 마주친 로트와일러가 벽에 딱 붙어 겁먹은 눈으로 곁눈질(동물쑛 '대형 고양이를 처음 본 고양이의 반응 ㅋㅋ'·'~의 반응' 틀을 강아지에 적용, 밈+내레이션, 원본 소리 살림)",
+ "sources": [
+  {
+   "publisher": "TikTok @jordanbell354",
+   "url": "https://www.tiktok.com/@jordanbell354/video/7552826618650053910",
+   "date": "2025.9"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/rottweiler-spots-tiny-kitten-what-happens-next-goes-viral-10475709",
+   "date": "2025.9.24"
+  }
+ ],
+ "seconds": 13.06,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261023-rottykitten/short.mp4"
+ ],
+ "app_file": "media/20261023-rottykitten/short_nobgm.mp4",
+ "yt": {
+  "title": "아기 고양이랑 눈 마주친 로트와일러의 반응ㅋㅋ #shorts",
+  "description": "식탁 위에 앉은 아기 고양이와 눈이 마주친 로트와일러. 덩치는 몇십 배인데 벽에 딱 붙어서 곁눈질만 합니다.\n\n틱톡에서 53만 회 넘게 재생된 영상입니다(Newsweek 2025.9.24). 미국애견협회(AKC)에 따르면 로트와일러는 키 최대 약 69cm, 몸무게 최대 약 61kg까지 자라는 대형견이고, 어릴 때부터 훈련과 사회화를 해 주는 것이 중요하다고 합니다.\n\n여러분 강아지도 고양이 앞에서 이런가요?\n\n영상: TikTok @jordanbell354\n참고: Newsweek(2025.9.24), American Kennel Club\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @jordanbell354 2025.9, Newsweek 2025.9.24\n사진·영상: TikTok @jordanbell354\n\n#shorts #로트와일러 #강아지 #고양이 #강아지반응",
+  "tags": [
+   "로트와일러",
+   "강아지",
+   "고양이",
+   "강아지반응",
+   "웃긴강아지",
+   "대형견",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "b42d1b75e09e",
+ "tg_msg": 977
+}
