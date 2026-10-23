@@ -1,1 +1,1 @@
-{"id":"20261023-codkorea-reel","frames":0,"try":5,"format":"bv*[height<=720]+ba/b[height<=720]/b","urls":["https://www.dailymotion.com/video/x7lop1q","https://www.dailymotion.com/video/x79tibt"]}
+{"id":"20261023-codkorea-reel","frames":0,"try":6,"format":"b[height<=380]/bv*[height<=380]+ba/worst","urls":["https://www.dailymotion.com/video/x8bj1vo","https://www.dailymotion.com/video/x7lop1q"]}
