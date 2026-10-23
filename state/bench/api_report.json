@@ -1,140 +1,120 @@
 {
- "since": "2026-10-01",
- "fixed": [
+ "since": "2024-10-01",
+ "fixed": [],
+ "found": [
   {
-   "handle": "UCCCYKnRB6yP3XNkUDwRtnWQ",
-   "title": "틈새지식",
-   "id": "UCCCYKnRB6yP3XNkUDwRtnWQ",
-   "created": "2025-08-14",
-   "subs": "39300",
-   "videos": "598",
-   "before": {
-    "n": 260,
-    "median": 110152,
-    "max": 11884816,
-    "over10k": 260
-   },
-   "after": {
-    "n": 32,
-    "median": 71281,
-    "max": 1562164,
-    "over10k": 32
-   },
-   "last3d": {
-    "n": 8,
-    "median": 39907,
-    "max": 104542,
-    "over10k": 7
-   },
-   "recent": [
-    {
-     "id": "nUJxRbXg6IA",
-     "date": "2026-10-22",
-     "title": "주파수가 물위에서 눈에 보이는 형태",
-     "views": 1932,
-     "dur": "PT17S"
-    },
-    {
-     "id": "IO6GqbnjVJU",
-     "date": "2026-10-22",
-     "title": "우주엔 산소가 없는데 태양은 어떻게 탈까?",
-     "views": 48897,
-     "dur": "PT17S"
-    },
-    {
-     "id": "H-OA8aGZkx4",
-     "date": "2026-10-21",
-     "title": "갈릴레이만 풀 수 있었던 바퀴의 역설",
-     "views": 104542,
-     "dur": "PT17S"
-    },
-    {
-     "id": "9uJIJsDF1Tg",
-     "date": "2026-10-21",
-     "title": "쓰러진 경찰관을 살리려는 강아지의 행동",
-     "views": 17896,
-     "dur": "PT19S"
-    },
-    {
-     "id": "DdqBmtCCi2M",
-     "date": "2026-10-20",
-     "title": "1차 세계대전이 낳은 보이지 않는 괴물",
-     "views": 46542,
-     "dur": "PT17S"
-    },
-    {
-     "id": "plAXB1WSW7I",
-     "date": "2026-10-20",
-     "title": "1500도 쇳물에 불빠따는 참을 수 없지ㄷㄷ   (SUSHIRAMEN-Riku)",
-     "views": 44009,
-     "dur": "PT17S"
-    },
-    {
-     "id": "DmyNAVOQ7rQ",
-     "date": "2026-10-19",
-     "title": "런던을 뒤덮은 검은 안개가 바꿔놓은 역사'",
-     "views": 26160,
-     "dur": "PT17S"
-    },
-    {
-     "id": "DbWySR29W14",
-     "date": "2026-10-19",
-     "title": "플라스틱 막대를 깎아 만드는 의외의 물건",
-     "views": 35806,
-     "dur": "PT23S"
-    },
-    {
-     "id": "PUNHpnLGgZw",
-     "date": "2026-10-18",
-     "title": "고체, 액체, 기체에 속하지 않는 제 4의 물질",
-     "views": 53233,
-     "dur": "PT17S"
-    },
-    {
-     "id": "YgBc6UCfHAo",
-     "date": "2026-10-18",
-     "title": "불을 대자 원래 모양으로 돌아오는 금속",
-     "views": 73960,
-     "dur": "PT17S"
-    },
-    {
-     "id": "X4i5rjo5igU",
-     "date": "2026-10-17",
-     "title": "가라앉고 싶어도 가라앉을 수 없는 호수",
-     "views": 187220,
-     "dur": "PT17S"
-    },
-    {
-     "id": "L190OMLRj8g",
-     "date": "2026-10-17",
-     "title": "작은 선택 하나가 일으키는 도미노 효과    (smorris123)",
-     "views": 50335,
-     "dur": "PT17S"
-    },
-    {
-     "id": "6XEN_EFiVa8",
-     "date": "2026-10-16",
-     "title": "서로 다른 박자가 저절로 하나가 되는 현상   (MarkRober)",
-     "views": 47241,
-     "dur": "PT17S"
-    },
-    {
-     "id": "9PogCN2C77k",
-     "date": "2026-10-16",
-     "title": "차선을 통째로 옮기는 미국의 특수 트럭",
-     "views": 578939,
-     "dur": "PT17S"
-    },
-    {
-     "id": "DiEDywUCRqY",
-     "date": "2026-10-15",
-     "title": "눈으로 보이진 않아도 확실한 대기압의 위력",
-     "views": 1562164,
-     "dur": "PT17S"
-    }
-   ]
+   "title": "The97y",
+   "id": "UCYLuib3tELX2VNBjliDILFA",
+   "created": "2024-02-23",
+   "subs": "1770",
+   "videos": "172"
+  },
+  {
+   "title": "Mujahid Ali398",
+   "id": "UC_yhoAmd9cS0fVdVQDNLPzg",
+   "created": "2014-12-27",
+   "subs": "353",
+   "videos": "148"
+  },
+  {
+   "title": "오늘은뽀미",
+   "id": "UCnx9jnWU964Hv_olCycIKgw",
+   "created": "2015-09-19",
+   "subs": "34",
+   "videos": "27"
+  },
+  {
+   "title": "러블리캣숑베베",
+   "id": "UCahSq48VYD3TUCf2goXVV8w",
+   "created": "2020-11-21",
+   "subs": "6560",
+   "videos": "2167"
+  },
+  {
+   "title": "냥이꾹",
+   "id": "UC5RO4WOKsxxvSm3e8V0bFvA",
+   "created": "2026-09-07",
+   "subs": "432",
+   "videos": "53"
+  },
+  {
+   "title": "김호빵냥",
+   "id": "UC-IwundpNIEbfMHOta4IKEg",
+   "created": "2025-11-10",
+   "subs": "2310",
+   "videos": "319"
+  },
+  {
+   "title": "명화의전당",
+   "id": "UCWN_ChhUUe0CkhfUede56BQ",
+   "created": "2016-06-22",
+   "subs": "1650",
+   "videos": "7991"
   }
  ],
- "found": [],
- "search_hits": []
+ "search_hits": [
+  {
+   "q": "미용하고 온 고양이 반응",
+   "vid": "G6Fk-Lmlnn0",
+   "ch": "냥이꾹",
+   "cid": "UC5RO4WOKsxxvSm3e8V0bFvA",
+   "date": "2026-09-28",
+   "title": "미용하고 현타 제대로 온 고양이",
+   "views": 26083
+  },
+  {
+   "q": "미용하고 온 고양이 반응",
+   "vid": "GpNCVHQC6hs",
+   "ch": "김호빵냥",
+   "cid": "UC-IwundpNIEbfMHOta4IKEg",
+   "date": "2026-05-24",
+   "title": "해탈 100% 댕냥이 미용 레전드 반응#고양이반응 #댕댕이 #힐링영상 #반려견미용",
+   "views": 14584
+  },
+  {
+   "q": "미용하고 온 고양이 반응",
+   "vid": "pM5nEbIJLuY",
+   "ch": "러블리캣숑베베",
+   "cid": "UCahSq48VYD3TUCf2goXVV8w",
+   "date": "2025-05-18",
+   "title": "댕댕이가 미용하고 왔을때 고양이 반응?!#오늘의주인공 #tv동물농장 #재미 #cat #귀여워 #댕댕이 #sh",
+   "views": 1651
+  },
+  {
+   "q": "미용하고 온 고양이 반응",
+   "vid": "ximDWTRrt1g",
+   "ch": "오늘은뽀미",
+   "cid": "UCnx9jnWU964Hv_olCycIKgw",
+   "date": "2026-08-22",
+   "title": "미용하고 데리러 갔을 때 반응 #강아지 #애견영상 #puppy #cutedog",
+   "views": 1283
+  },
+  {
+   "q": "미용하고 온 고양이 반응",
+   "vid": "oKkTmamkbQA",
+   "ch": "명화의전당",
+   "cid": "UCWN_ChhUUe0CkhfUede56BQ",
+   "date": "2026-06-14",
+   "title": "한 시간 동안 발악하며 미용하고 온 고양이의 반전 현실 반응 #고양이미용 #페르시안친칠라",
+   "views": 388
+  },
+  {
+   "q": "brother comes back with the whackest haircut cat",
+   "vid": "bSan68CT5Yc",
+   "ch": "The97y",
+   "cid": "UCYLuib3tELX2VNBjliDILFA",
+   "date": "2026-07-09",
+   "title": "When your brother gets the worst haircut ever... 😂",
+   "views": 844
+  },
+  {
+   "q": "cat sees brother after haircut",
+   "vid": "7dt7ZG51fvo",
+   "ch": "Mujahid Ali398",
+   "cid": "UC_yhoAmd9cS0fVdVQDNLPzg",
+   "date": "2026-07-08",
+   "title": "🐱💈 Cat Doesn&#39;t Recognize His Own Brother After a Haircut",
+   "views": 64
+  }
+ ]
 }
