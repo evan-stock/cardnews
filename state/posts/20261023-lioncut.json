@@ -1,7 +1,7 @@
 {
  "id": "20261023-lioncut",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-23T18:48:07.222574+09:00",
  "publish_at": "2026-10-23T18:48:07.222599+09:00",
  "publish_now": true,
@@ -46,5 +46,9 @@
   "channel": null
  },
  "draft_hash": "732131a2f0b2",
- "tg_msg": 951
+ "tg_msg": 951,
+ "decided_at": "2026-10-23T18:50:16.457056+09:00",
+ "yt_id": "Q5mIvHzBL1M",
+ "permalink": "https://youtube.com/shorts/Q5mIvHzBL1M",
+ "published_at": "2026-10-23T18:50:19.258764+09:00"
 }
