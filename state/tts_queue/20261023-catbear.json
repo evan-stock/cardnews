@@ -1,0 +1,51 @@
+{
+ "id": "20261023-catbear",
+ "created": "2026-10-23T13:30:21.986440+09:00",
+ "items": [
+  {
+   "key": "461d2f97cf1f",
+   "text": "집 앞 길에서 곰과 고양이가 마주쳤는데요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "e60703d5d3ef",
+   "text": "고양이는 한 발짝도 물러서지 않습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "7fc0f9fba721",
+   "text": "흑곰은 원래 경계심이 많아 사람도 피하는 편이랍니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
