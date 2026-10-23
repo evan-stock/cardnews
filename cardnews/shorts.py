@@ -593,6 +593,12 @@ def render(d):
             json.dump({"id": d["id"], "created": now().isoformat(), "items": need},
                       open(q / f"{d['id']}.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             raise WaitTTS(f"{len(need)}개 장면 목소리를 맥북에서 만드는 중")
+    if (d.get("voice") or {}).get("engine") == "gemini" and not gem:  # 원고가 Gemini 목소리를 직접 고른 경우(2026.10.23)
+        from .gemini_tts import scene_voices
+        gem, why = scene_voices(d, base, CFG)
+        print(f"Gemini TTS: {'사용' if gem else '실패'} ({why})")
+        if not gem:
+            raise RuntimeError(f"Gemini 목소리를 못 만듦: {why}")
     segs_, engines, total = [], [], 0.0
     for i, scene in enumerate(d["scenes"]):
         mp3 = f"{tmp}/v{i:02d}.mp3"

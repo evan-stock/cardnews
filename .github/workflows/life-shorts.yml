@@ -1,0 +1,36 @@
+name: life-shorts
+# 댓글로 키우는 아이(새 채널, 2026.10.23) 시험 렌더: drafts/life.json → media/<id>/short.mp4
+# 털뭉치 채널(drafts/shorts.json·텔레그램 봇)과 완전히 분리. 텔레그램·유튜브 비밀값을 쓰지 않는다.
+# 새 채널·새 텔레그램 봇이 생기면 그 비밀값을 여기에 연결한다.
+on:
+  push:
+    paths: ["drafts/life.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: life-shorts
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Asia/Seoul
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt && sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg
+      - name: 렌더
+        run: |
+          mkdir -p state
+          set -o pipefail
+          python -m cardnews.shorts drafts/life.json 2>&1 | tee state/life_log.txt
+      - if: always()
+        run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          id=$(python -c "import json;print(json.load(open('drafts/life.json'))['id'])")
+          git add -A "media/$id" state/life_log.txt
+          git diff --cached --quiet || { git commit -m "life: render $id"; for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*7)); done; }

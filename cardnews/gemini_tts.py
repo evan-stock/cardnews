@@ -22,8 +22,10 @@ DEFAULT = {
 }
 
 
-def cfg(conf):
-    return {**DEFAULT, **((conf.get("shorts", {}).get("tts") or {}).get("gemini") or {})}
+def cfg(conf, d=None):
+    """기본값 ← config shorts.tts.gemini ← 원고 voice.gemini(채널·영상별 목소리, 2026.10.23 댓글로 키우는 아이)"""
+    over = ((d or {}).get("voice") or {}).get("gemini") or {}
+    return {**DEFAULT, **((conf.get("shorts", {}).get("tts") or {}).get("gemini") or {}), **over}
 
 
 def _silences(path, noise="-40dB", min_d=0.25):
@@ -86,7 +88,7 @@ def _request(text, c, key):
 
 def scene_voices(d, base, conf):
     """내레이션 장면 번호 → mp3 경로. Gemini 를 못 쓰면 (None, 이유)."""
-    c = cfg(conf)
+    c = cfg(conf, d)
     if not c.get("enabled") or (d.get("voice") or {}).get("engine") not in (None, "gemini"):
         return None, "꺼짐"
     idx = [i for i, s in enumerate(d["scenes"]) if (s.get("say") or "").strip()]
