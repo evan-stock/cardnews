@@ -94,6 +94,8 @@ shorts:
       tempo: 1.23
       volume_db: 3.0
   channels:             # 원고 yt.channel 값별 기본값(원고의 voice·style이 있으면 그게 우선)
+    life:               # 인생 댓글로 정함(2026.10.23). 제목을 띠 아래쪽에 붙여 폰 상단 상태바·검색 아이콘과 안 겹치게
+      style: {title_pad_bottom: 40, title_size: 76}
     shop:               # 쇼핑 쇼츠 채널(예정)
       voice: {voice_id: tc_632293f759d649937b97f323}   # 진우(남 20대, 밝은 톤) — 2026.10.17 사용자 지정
       style: {}
