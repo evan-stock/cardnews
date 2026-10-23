@@ -1,7 +1,7 @@
 {
  "id": "20261023-goattree",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-23T08:54:52.675412+09:00",
  "publish_at": "2026-10-23T08:54:52.675429+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 890
+ "tg_msg": 890,
+ "decided_at": "2026-10-23T09:00:49.376961+09:00",
+ "yt_id": "Wsw_3T3gRWY",
+ "permalink": "https://youtube.com/shorts/Wsw_3T3gRWY",
+ "published_at": "2026-10-23T09:00:54.014410+09:00"
 }
