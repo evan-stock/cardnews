@@ -1,0 +1,50 @@
+{
+ "id": "20261023-lioncut",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-23T18:48:07.222574+09:00",
+ "publish_at": "2026-10-23T18:48:07.222599+09:00",
+ "publish_now": true,
+ "topic": "사자컷(몸통 털만 밀고 머리·꼬리 끝만 남김) 미용을 하고 온 샴 형 고양이를 처음 본 태비 동생 고양이가 털을 세우고 옆걸음으로 경계하다 코를 맞대고 냄새로 확인(동물쑛 '대형 고양이를 처음 본 고양이의 반응 ㅋㅋ'·'~의 반응' 틀, 밈+내레이션)",
+ "sources": [
+  {
+   "publisher": "TikTok @_kita00",
+   "url": "https://www.tiktok.com/@_kita00/video/7512262109053455658",
+   "date": "2025.6"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/cats-reaction-brothers-haircut-has-internet-stitches-2096575",
+   "date": "2025.7.9"
+  }
+ ],
+ "seconds": 18.0,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261023-lioncut/short.mp4"
+ ],
+ "app_file": "media/20261023-lioncut/short_nobgm.mp4",
+ "yt": {
+  "title": "사자컷 하고 온 형을 처음 본 고양이의 반응ㅋㅋ #shorts",
+  "description": "미용실에서 몸통 털을 밀고 머리와 꼬리 끝만 남기는 '사자컷'을 하고 돌아온 샴 형 고양이. 처음 본 태비 동생 고양이는 털을 바짝 세우고 옆걸음으로 경계하다가, 코를 맞대고 냄새를 맡고 나서야 형이라는 걸 겨우 알아챕니다.\n\n틱톡에서 120만 회 넘게 재생된 영상입니다(Newsweek 2025.7.9). 미국 Beverly Hills Veterinary Associates에 따르면 고양이 털은 체온 조절을 돕기 때문에 미용(삭발)은 보통 필요 없고, 풀 수 없는 털 엉킴·벼룩·약 바르기·잦은 헤어볼처럼 이유가 있을 때 수의사와 상의해 전문 미용사에게 맡기는 게 좋다고 합니다.\n\n여러분 고양이도 미용하고 오면 이런 반응인가요?\n\n영상: TikTok @_kita00\n참고: Newsweek(2025.7.9), Beverly Hills Veterinary Associates\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @_kita00 2025.6, Newsweek 2025.7.9\n사진·영상: TikTok @_kita00\n음성: Typecast\n\n#shorts #고양이 #사자컷 #고양이미용 #고양이반응",
+  "tags": [
+   "고양이",
+   "사자컷",
+   "고양이미용",
+   "고양이반응",
+   "웃긴고양이",
+   "동물쇼츠",
+   "냥이",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "732131a2f0b2",
+ "tg_msg": 951
+}
