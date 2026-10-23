@@ -1,771 +1,140 @@
 {
- "since": "2024-10-01",
- "fixed": [],
- "found": [
+ "since": "2026-10-01",
+ "fixed": [
   {
-   "title": "전자신문 etnews",
-   "id": "UC6u00NSXzN-jTgv2woqyWMw",
-   "created": "2008-06-01",
-   "subs": "40700",
-   "videos": "5929"
-  },
-  {
-   "title": "냥이러브!",
-   "id": "UCitA45Ox8X75bMl7YIku67A",
-   "created": "2025-12-16",
-   "subs": "659",
-   "videos": "136"
-  },
-  {
-   "title": "English Tree",
-   "id": "UC4GaQ9fCH5IpAq1AImj7XuQ",
-   "created": "2015-07-13",
-   "subs": "3190000",
-   "videos": "504"
-  },
-  {
-   "title": "Hana Mizu",
-   "id": "UCvRl3ALT7L-0tqnmkZfSqqA",
-   "created": "2026-04-25",
-   "subs": "11100",
-   "videos": "192"
-  },
-  {
-   "title": "সোনালী শিক্ষাঘর ",
-   "id": "UCzgAy45TiDuICQDbCWM404Q",
-   "created": "2025-04-24",
-   "subs": "13600",
-   "videos": "1097"
-  },
-  {
-   "title": "Horror Skunx",
-   "id": "UCTjF8TNC7blVsBtWyMrsj4A",
-   "created": "2019-02-25",
-   "subs": "9490000",
-   "videos": "299"
-  },
-  {
-   "title": "Brave Cats 🐈",
-   "id": "UC3Ui-KaEOj0Sf1jx_Qz0f4Q",
-   "created": "2008-09-17",
-   "subs": "51800",
-   "videos": "75"
-  },
-  {
-   "title": "The Wild Lens Video",
-   "id": "UCSHORFLJTOQQxNN6S90YMqA",
-   "created": "2025-11-05",
-   "subs": "301",
-   "videos": "207"
-  },
-  {
-   "title": "Dunia Imut IA",
-   "id": "UC5Q-pdippfJZyxNZuIxiCjA",
-   "created": "2026-10-06",
-   "subs": "9",
-   "videos": "43"
-  },
-  {
-   "title": "잡생각",
-   "id": "UCFv9Ya7VM0Gf22poNdI-qMA",
-   "created": "2023-08-11",
-   "subs": "132000",
-   "videos": "3543"
-  },
-  {
-   "title": "Gabby's Dollhouse",
-   "id": "UC_jCXm9x_z9_kp8DNbIs6mQ",
-   "created": "2020-05-04",
-   "subs": "3160000",
-   "videos": "1153"
-  },
-  {
-   "title": "Sentinel Paws CCTV",
-   "id": "UCZaAWs2DhcnOQ8_oLY0Fbdg",
-   "created": "2026-04-04",
-   "subs": "61",
-   "videos": "53"
-  },
-  {
-   "title": "Golden Pages",
-   "id": "UCwGyHQnbTj-VjE6jbrsZW-A",
-   "created": "2026-04-23",
-   "subs": "2340",
-   "videos": "324"
-  },
-  {
-   "title": "Cat Blitz",
-   "id": "UCyy6duylwhWkaQTYMTkd22Q",
-   "created": "2025-02-05",
-   "subs": "1170",
-   "videos": "64"
-  },
-  {
-   "title": "Animal Secrets Revealed",
-   "id": "UCzm_M3qJ6hkgLT68kTHaoCw",
-   "created": "2025-07-30",
-   "subs": "1600",
-   "videos": "218"
-  },
-  {
-   "title": "Victoria Crafts",
-   "id": "UCPWBa9ewfzmWu4oHXnJHY_A",
-   "created": "2025-01-15",
-   "subs": "108000",
-   "videos": "318"
-  },
-  {
-   "title": "Short Animals Footage",
-   "id": "UC9CURw_1s1Inr7M5cXd2HRw",
-   "created": "2025-05-30",
-   "subs": "1700",
-   "videos": "23"
-  },
-  {
-   "title": "Noodle & Pals",
-   "id": "UCUamVL0L_lgG720vqmdZqoA",
-   "created": "2021-06-15",
-   "subs": "2700000",
-   "videos": "161"
-  },
-  {
-   "title": "Declassified Real",
-   "id": "UC2OLiHaE4nP7jT91_V1yLsw",
-   "created": "2026-06-25",
-   "subs": "2040",
-   "videos": "229"
-  },
-  {
-   "title": "Hudson Valley Wildlife",
-   "id": "UC6N7yZhAm7KRMDBYBEmrgVQ",
-   "created": "2006-07-03",
-   "subs": "3640",
-   "videos": "1241"
-  },
-  {
-   "title": "Bellix AI",
-   "id": "UC7qe590CVHBas5L-K1R4zZw",
-   "created": "2025-12-24",
-   "subs": "25",
-   "videos": "9"
-  },
-  {
-   "title": "Stokes Twins",
-   "id": "UCbp9MyKCTEww4CxEzc_Tp0Q",
-   "created": "2008-04-11",
-   "subs": "149000000",
-   "videos": "478"
-  },
-  {
-   "title": "Cocomelon - Nursery Rhymes",
-   "id": "UCbCmjCuTUZos6Inko4u57UQ",
-   "created": "2006-09-01",
-   "subs": "203000000",
-   "videos": "2160"
-  },
-  {
-   "title": "New Hampshire Outdoors ",
-   "id": "UCiCRM3gieKK5C7aJjvUozlA",
-   "created": "2015-08-06",
-   "subs": "197",
-   "videos": "118"
-  },
-  {
-   "title": "Camo Lens Wilderness Watch",
-   "id": "UCmoCrd2nPjOv16ihyH-ryZQ",
-   "created": "2025-11-03",
-   "subs": "354",
-   "videos": "324"
-  },
-  {
-   "title": "Tbone & Solo",
-   "id": "UCWBBoHrCi1jd3AgweQxmB_A",
-   "created": "2021-04-10",
-   "subs": "542000",
-   "videos": "251"
-  },
-  {
-   "title": "Heisenberg Show",
-   "id": "UC0Qd2tsMcNT0LTS1yuxm0Aw",
-   "created": "2014-10-27",
-   "subs": "36200",
-   "videos": "3487"
-  },
-  {
-   "title": "Prakash S.T gaming🎮",
-   "id": "UCy6k1E4koPJe39n5u6k6VpA",
-   "created": "2026-02-05",
-   "subs": "18200",
-   "videos": "256"
-  },
-  {
-   "title": "Can do Dave ",
-   "id": "UCM7hpWMvrcDLDDjwCJuQwJw",
-   "created": "2012-02-05",
-   "subs": "5",
-   "videos": "9"
-  },
-  {
-   "title": "Paradise for Stray Animals",
-   "id": "UCHDsRbhpLEuhehM1O_uvu5w",
-   "created": "2024-12-25",
-   "subs": "5570",
-   "videos": "519"
-  },
-  {
-   "title": "와일드리얼 WildReal",
-   "id": "UCp3AvWiglGERZgBigoxcC5w",
-   "created": "2025-08-19",
-   "subs": "692",
-   "videos": "40"
-  },
-  {
-   "title": "Shawn Louisiana",
-   "id": "UCw-diUc5vy_n-zwCA9ck5Mw",
-   "created": "2014-06-23",
-   "subs": "329000",
-   "videos": "927"
-  },
-  {
-   "title": "Nyrdbyrd",
-   "id": "UCC45yMkPvKso3aQtsU794-A",
-   "created": "2007-11-08",
-   "subs": "99",
-   "videos": "12"
-  },
-  {
-   "title": "The Joyfull Explorer",
-   "id": "UCx9Ore-oZGPjkW2CwhKLl2g",
-   "created": "2021-12-02",
-   "subs": "1900",
-   "videos": "341"
-  },
-  {
-   "title": "WMUR-TV",
-   "id": "UCwuZjWoiT30kDTz0G41Y8gQ",
-   "created": "2007-05-03",
-   "subs": "193000",
-   "videos": "110795"
-  },
-  {
-   "title": "Superbe",
-   "id": "UCT0woCkj9XN0CyGG2Uq94RA",
-   "created": "2026-05-12",
-   "subs": "25800",
-   "videos": "225"
-  },
-  {
-   "title": "Nature’s Pulse",
-   "id": "UC_eCYt0U_05dpkpT0p-4L7g",
-   "created": "2025-08-28",
-   "subs": "43",
-   "videos": "42"
-  },
-  {
-   "title": "AnimalLove Stories",
-   "id": "UCoFJTrXBGxaaL-fTGQdwB7Q",
-   "created": "2017-09-01",
-   "subs": "10200000",
-   "videos": "1310"
-  },
-  {
-   "title": "Michael Callaway",
-   "id": "UC0k-mjl8mtvGXH-DcvPxAjQ",
-   "created": "2025-01-05",
-   "subs": "896",
-   "videos": "676"
-  },
-  {
-   "title": "Horror Skunx 2",
-   "id": "UC3KTMQwLhXp-e2PNHl4UqgQ",
-   "created": "2021-09-08",
-   "subs": "4420000",
-   "videos": "1485"
-  },
-  {
-   "title": "Open Your Eyes Lab",
-   "id": "UC8qmA3Apg72S5f_9-Lx81QQ",
-   "created": "2025-10-04",
-   "subs": "41900",
-   "videos": "322"
-  },
-  {
-   "title": "Sorta Skilled",
-   "id": "UCbvnUo73RCeUhhDPXjL3pkw",
-   "created": "2005-10-10",
-   "subs": "260",
-   "videos": "110"
-  },
-  {
-   "title": "Surprise4you",
-   "id": "UCN5ijfXRaPblhVTOW4GT-OA",
-   "created": "2025-11-03",
-   "subs": "181",
-   "videos": "38"
-  },
-  {
-   "title": "Mountain.melodie",
-   "id": "UCU8RRZMKZz2eyZuTtfm_d5A",
-   "created": "2023-07-10",
-   "subs": "111",
-   "videos": "53"
-  },
-  {
-   "title": "Hogi! Pinkfong - Learn & Play",
-   "id": "UCOVY28BaODA4pvyz_9jM5OA",
-   "created": "2019-12-02",
-   "subs": "16600000",
-   "videos": "2039"
-  },
-  {
-   "title": "INSIGHT LETTER",
-   "id": "UCV-4onrJqRZES-BsHZ4jF-Q",
-   "created": "2025-08-20",
-   "subs": "68",
-   "videos": "83"
+   "handle": "UCCCYKnRB6yP3XNkUDwRtnWQ",
+   "title": "틈새지식",
+   "id": "UCCCYKnRB6yP3XNkUDwRtnWQ",
+   "created": "2025-08-14",
+   "subs": "39300",
+   "videos": "598",
+   "before": {
+    "n": 260,
+    "median": 110152,
+    "max": 11884816,
+    "over10k": 260
+   },
+   "after": {
+    "n": 32,
+    "median": 71281,
+    "max": 1562164,
+    "over10k": 32
+   },
+   "last3d": {
+    "n": 8,
+    "median": 39907,
+    "max": 104542,
+    "over10k": 7
+   },
+   "recent": [
+    {
+     "id": "nUJxRbXg6IA",
+     "date": "2026-10-22",
+     "title": "주파수가 물위에서 눈에 보이는 형태",
+     "views": 1932,
+     "dur": "PT17S"
+    },
+    {
+     "id": "IO6GqbnjVJU",
+     "date": "2026-10-22",
+     "title": "우주엔 산소가 없는데 태양은 어떻게 탈까?",
+     "views": 48897,
+     "dur": "PT17S"
+    },
+    {
+     "id": "H-OA8aGZkx4",
+     "date": "2026-10-21",
+     "title": "갈릴레이만 풀 수 있었던 바퀴의 역설",
+     "views": 104542,
+     "dur": "PT17S"
+    },
+    {
+     "id": "9uJIJsDF1Tg",
+     "date": "2026-10-21",
+     "title": "쓰러진 경찰관을 살리려는 강아지의 행동",
+     "views": 17896,
+     "dur": "PT19S"
+    },
+    {
+     "id": "DdqBmtCCi2M",
+     "date": "2026-10-20",
+     "title": "1차 세계대전이 낳은 보이지 않는 괴물",
+     "views": 46542,
+     "dur": "PT17S"
+    },
+    {
+     "id": "plAXB1WSW7I",
+     "date": "2026-10-20",
+     "title": "1500도 쇳물에 불빠따는 참을 수 없지ㄷㄷ   (SUSHIRAMEN-Riku)",
+     "views": 44009,
+     "dur": "PT17S"
+    },
+    {
+     "id": "DmyNAVOQ7rQ",
+     "date": "2026-10-19",
+     "title": "런던을 뒤덮은 검은 안개가 바꿔놓은 역사'",
+     "views": 26160,
+     "dur": "PT17S"
+    },
+    {
+     "id": "DbWySR29W14",
+     "date": "2026-10-19",
+     "title": "플라스틱 막대를 깎아 만드는 의외의 물건",
+     "views": 35806,
+     "dur": "PT23S"
+    },
+    {
+     "id": "PUNHpnLGgZw",
+     "date": "2026-10-18",
+     "title": "고체, 액체, 기체에 속하지 않는 제 4의 물질",
+     "views": 53233,
+     "dur": "PT17S"
+    },
+    {
+     "id": "YgBc6UCfHAo",
+     "date": "2026-10-18",
+     "title": "불을 대자 원래 모양으로 돌아오는 금속",
+     "views": 73960,
+     "dur": "PT17S"
+    },
+    {
+     "id": "X4i5rjo5igU",
+     "date": "2026-10-17",
+     "title": "가라앉고 싶어도 가라앉을 수 없는 호수",
+     "views": 187220,
+     "dur": "PT17S"
+    },
+    {
+     "id": "L190OMLRj8g",
+     "date": "2026-10-17",
+     "title": "작은 선택 하나가 일으키는 도미노 효과    (smorris123)",
+     "views": 50335,
+     "dur": "PT17S"
+    },
+    {
+     "id": "6XEN_EFiVa8",
+     "date": "2026-10-16",
+     "title": "서로 다른 박자가 저절로 하나가 되는 현상   (MarkRober)",
+     "views": 47241,
+     "dur": "PT17S"
+    },
+    {
+     "id": "9PogCN2C77k",
+     "date": "2026-10-16",
+     "title": "차선을 통째로 옮기는 미국의 특수 트럭",
+     "views": 578939,
+     "dur": "PT17S"
+    },
+    {
+     "id": "DiEDywUCRqY",
+     "date": "2026-10-15",
+     "title": "눈으로 보이진 않아도 확실한 대기압의 위력",
+     "views": 1562164,
+     "dur": "PT17S"
+    }
+   ]
   }
  ],
- "search_hits": [
-  {
-   "q": "고양이 곰 대치",
-   "vid": "rCtCrfgrtcc",
-   "ch": "전자신문 etnews",
-   "cid": "UC6u00NSXzN-jTgv2woqyWMw",
-   "date": "2025-07-29",
-   "title": "민가 50m 앞에서 벌어진 사냥…日 불곰 영상 충격 [SHORTS]",
-   "views": 1703083
-  },
-  {
-   "q": "고양이 곰 대치",
-   "vid": "x7oOENAcnws",
-   "ch": "Open Your Eyes Lab",
-   "cid": "UC8qmA3Apg72S5f_9-Lx81QQ",
-   "date": "2025-11-10",
-   "title": "The Cat That Stared Down a Bear — Backyard Showdown Begins! ",
-   "views": 47168
-  },
-  {
-   "q": "고양이 곰 대치",
-   "vid": "0JpuYCCn0uU",
-   "ch": "와일드리얼 WildReal",
-   "cid": "UCp3AvWiglGERZgBigoxcC5w",
-   "date": "2025-11-13",
-   "title": "고양이 싸다구 한 방에… 곰이 코피 터졌다.",
-   "views": 4721
-  },
-  {
-   "q": "고양이 곰 대치",
-   "vid": "xG7nlIigSO8",
-   "ch": "INSIGHT LETTER",
-   "cid": "UCV-4onrJqRZES-BsHZ4jF-Q",
-   "date": "2026-05-08",
-   "title": "야생 곰 전문가를 순식간에 &#39;냄새나는 고양이 집사&#39;로 만드는 법 ㅋㅋㅋ #shorts",
-   "views": 3675
-  },
-  {
-   "q": "고양이 곰 대치",
-   "vid": "OZ05DJdPHAQ",
-   "ch": "냥이러브!",
-   "cid": "UCitA45Ox8X75bMl7YIku67A",
-   "date": "2026-02-22",
-   "title": "고양이 vs 곰… 이 대치 상황 실화냐 😱#고양이 #곰 #대치 #야생동물 #동물영상 #쇼츠 #shorts #",
-   "views": 887
-  },
-  {
-   "q": "곰한테 덤비는 고양이",
-   "vid": "NsXTNJ5giGA",
-   "ch": "잡생각",
-   "cid": "UCFv9Ya7VM0Gf22poNdI-qMA",
-   "date": "2024-10-11",
-   "title": "고양이 운동신경 ㄷㄷㄷ 고양이가 먹이사슬 최상위 포식자인 이유",
-   "views": 147392
-  },
-  {
-   "q": "cat stands up to black bear driveway",
-   "vid": "b4vfj5dIqRo",
-   "ch": "Shawn Louisiana",
-   "cid": "UCw-diUc5vy_n-zwCA9ck5Mw",
-   "date": "2026-08-05",
-   "title": "I’ve NEVER seen a cat square up with a bear and make him run",
-   "views": 1834104
-  },
-  {
-   "q": "cat stands up to black bear driveway",
-   "vid": "iizcgvPmxeA",
-   "ch": "Nyrdbyrd",
-   "cid": "UCC45yMkPvKso3aQtsU794-A",
-   "date": "2026-06-07",
-   "title": "Black bear Lake Tahoe California gets into fridge in drivewa",
-   "views": 1021
-  },
-  {
-   "q": "cat stands up to black bear driveway",
-   "vid": "JOGyb1tZj_g",
-   "ch": "Bellix AI",
-   "cid": "UC7qe590CVHBas5L-K1R4zZw",
-   "date": "2025-12-27",
-   "title": "Bear Walks Up Driveway… Dog &amp; Cats Just Watch #shorts  #",
-   "views": 1332
-  },
-  {
-   "q": "cat stands up to black bear driveway",
-   "vid": "Xqqe8eGG1gM",
-   "ch": "Sentinel Paws CCTV",
-   "cid": "UCZaAWs2DhcnOQ8_oLY0Fbdg",
-   "date": "2026-04-26",
-   "title": "Tiny Cat saved Man on Giant Standing Bear Caught on Camera!",
-   "views": 996
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "aNsohav2Rcs",
-   "ch": "Heisenberg Show",
-   "cid": "UC0Qd2tsMcNT0LTS1yuxm0Aw",
-   "date": "2026-08-06",
-   "title": "Cat defends owner from bear #fyp #foryoupage #viral #fun #sh",
-   "views": 607006
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "7vH9FyEpp7k",
-   "ch": "Golden Pages",
-   "cid": "UCwGyHQnbTj-VjE6jbrsZW-A",
-   "date": "2026-07-04",
-   "title": "The Bear That Never Forgot the Man Who Saved Her 🐻❤️",
-   "views": 28597
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "n8ig9gsk7_w",
-   "ch": "Hudson Valley Wildlife",
-   "cid": "UC6N7yZhAm7KRMDBYBEmrgVQ",
-   "date": "2026-08-07",
-   "title": "Cat versus bear 🐱🐻 #wildlife",
-   "views": 7034
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "npsRPqH_5tU",
-   "ch": "WMUR-TV",
-   "cid": "UCwuZjWoiT30kDTz0G41Y8gQ",
-   "date": "2025-04-08",
-   "title": "Home video: Bear seen on deck of house in Laconia, New Hamps",
-   "views": 2003
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "c9xCXi4f34M",
-   "ch": "Declassified Real",
-   "cid": "UC2OLiHaE4nP7jT91_V1yLsw",
-   "date": "2026-09-24",
-   "title": "The Bear Ran When The Cat Came Running",
-   "views": 2329
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "sgDK4QhdckI",
-   "ch": "Can do Dave ",
-   "cid": "UCM7hpWMvrcDLDDjwCJuQwJw",
-   "date": "2026-05-11",
-   "title": "Bear family #outdoors #shorts #newhampshire #animals",
-   "views": 1457
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "G3YrF0n9950",
-   "ch": "The Joyfull Explorer",
-   "cid": "UCx9Ore-oZGPjkW2CwhKLl2g",
-   "date": "2026-05-31",
-   "title": "This is what happens when you forget to bring the bird feede",
-   "views": 1479
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "6NfYRAObU0k",
-   "ch": "Michael Callaway",
-   "cid": "UC0k-mjl8mtvGXH-DcvPxAjQ",
-   "date": "2025-11-03",
-   "title": "Ran into the neighborhood patrol tonight 🐻 #newhampshire",
-   "views": 1086
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "KRwqoBHt6_0",
-   "ch": "New Hampshire Outdoors ",
-   "cid": "UCiCRM3gieKK5C7aJjvUozlA",
-   "date": "2026-09-16",
-   "title": "Black bear. #nature #animals #wildlife #outdoors #blackbear ",
-   "views": 1275
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "VHWqvRb6NzU",
-   "ch": "Sorta Skilled",
-   "cid": "UCbvnUo73RCeUhhDPXjL3pkw",
-   "date": "2026-05-24",
-   "title": "The bear came back… and triggered EVERY camera this time 🐻😳",
-   "views": 914
-  },
-  {
-   "q": "cat vs black bear New Hampshire",
-   "vid": "YWy1RueHsCE",
-   "ch": "Camo Lens Wilderness Watch",
-   "cid": "UCmoCrd2nPjOv16ihyH-ryZQ",
-   "date": "2026-08-06",
-   "title": "Massive Black Bear Passes the Trail Camera | New Hampshire W",
-   "views": 415
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "08KheQ6JqfM",
-   "ch": "AnimalLove Stories",
-   "cid": "UCoFJTrXBGxaaL-fTGQdwB7Q",
-   "date": "2025-03-26",
-   "title": "The tiger and bear became best friends",
-   "views": 54910788
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "VHdFefS_DH8",
-   "ch": "Noodle & Pals",
-   "cid": "UCUamVL0L_lgG720vqmdZqoA",
-   "date": "2025-02-12",
-   "title": "My Quiet Cat | Animal Sounds Song for Kids 🐱 | Noodle &amp; ",
-   "views": 34500867
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "anhQ3fC1_hY",
-   "ch": "Horror Skunx",
-   "cid": "UCTjF8TNC7blVsBtWyMrsj4A",
-   "date": "2026-08-07",
-   "title": "The Verity Band - Be My Friend (song)",
-   "views": 29051637
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "27dxrR8sXGY",
-   "ch": "Brave Cats 🐈",
-   "cid": "UC3Ui-KaEOj0Sf1jx_Qz0f4Q",
-   "date": "2025-10-10",
-   "title": "The brave cat does not give up and chases the bear away #bea",
-   "views": 45708657
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "H4MtmRbJcS8",
-   "ch": "Hogi! Pinkfong - Learn & Play",
-   "cid": "UCOVY28BaODA4pvyz_9jM5OA",
-   "date": "2024-10-18",
-   "title": "Zombie Teddy Bear｜Halloween Songs 🎃｜Hogi Halloween｜Hogi Pink",
-   "views": 14904480
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "0riZHuC0MIQ",
-   "ch": "Stokes Twins",
-   "cid": "UCbp9MyKCTEww4CxEzc_Tp0Q",
-   "date": "2026-09-11",
-   "title": "Will I Save My Friends From the Backrooms?",
-   "views": 25991680
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "yscL3OLMuD8",
-   "ch": "Horror Skunx 2",
-   "cid": "UC3KTMQwLhXp-e2PNHl4UqgQ",
-   "date": "2026-08-15",
-   "title": "[STORYBOARD vs FINAL] The Verity Band - Be My Friend (offici",
-   "views": 11165077
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "26b4YORmDYo",
-   "ch": "Gabby's Dollhouse",
-   "cid": "UC_jCXm9x_z9_kp8DNbIs6mQ",
-   "date": "2025-02-04",
-   "title": "Bedtime Snack with the Gabby Cats! Making Bready Bears 🐻🍞 | ",
-   "views": 6387055
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "zy30Mn6s3lI",
-   "ch": "English Tree",
-   "cid": "UC4GaQ9fCH5IpAq1AImj7XuQ",
-   "date": "2025-04-08",
-   "title": "Say Hello To My Friend! | Abc Animals Song For Kids | Englis",
-   "views": 3957613
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "FY1clE2njnw",
-   "ch": "Horror Skunx 2",
-   "cid": "UC3KTMQwLhXp-e2PNHl4UqgQ",
-   "date": "2026-08-13",
-   "title": "[BEHIND THE SCENES] The Verity Band - Be My Friend (official",
-   "views": 2756445
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "u2cEeg2i62Q",
-   "ch": "Short Animals Footage",
-   "cid": "UC9CURw_1s1Inr7M5cXd2HRw",
-   "date": "2025-07-06",
-   "title": "My cat has a new friend #cat #cute #bear #wildlife",
-   "views": 4348771
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "Goau5pVgjTM",
-   "ch": "Cocomelon - Nursery Rhymes",
-   "cid": "UCbCmjCuTUZos6Inko4u57UQ",
-   "date": "2026-09-22",
-   "title": "My Best Friend - Boba Bear Helps JJ&#39;s Boo Boos | CoComel",
-   "views": 1617232
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "Sa28m8I8fD8",
-   "ch": "Victoria Crafts",
-   "cid": "UCPWBa9ewfzmWu4oHXnJHY_A",
-   "date": "2025-05-11",
-   "title": "DIY Handmade Card for Friends💕 Easy and Cute Tutorial 💌",
-   "views": 2290651
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "0vJ0FVPjc3Y",
-   "ch": "Animal Secrets Revealed",
-   "cid": "UCzm_M3qJ6hkgLT68kTHaoCw",
-   "date": "2025-10-10",
-   "title": "Security Cam Catches Cat Vs Bear- Dog Saved! #cats #animallo",
-   "views": 842546
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "E-XE9kMzizg",
-   "ch": "Tbone & Solo",
-   "cid": "UCWBBoHrCi1jd3AgweQxmB_A",
-   "date": "2025-10-09",
-   "title": "I Took my Black Friend To Build-a-bear",
-   "views": 642836
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "aNsohav2Rcs",
-   "ch": "Heisenberg Show",
-   "cid": "UC0Qd2tsMcNT0LTS1yuxm0Aw",
-   "date": "2026-08-06",
-   "title": "Cat defends owner from bear #fyp #foryoupage #viral #fun #sh",
-   "views": 607006
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "pMOTKoQ9K80",
-   "ch": "সোনালী শিক্ষাঘর ",
-   "cid": "UCzgAy45TiDuICQDbCWM404Q",
-   "date": "2025-07-16",
-   "title": "Two Friends And The Bear story writing in English/two friend",
-   "views": 430032
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "F9hdUJ_qSJE",
-   "ch": "Prakash S.T gaming🎮",
-   "cid": "UCy6k1E4koPJe39n5u6k6VpA",
-   "date": "2026-09-22",
-   "title": "Monster Killed My Friend at the Scientist’s House 😭💔 super b",
-   "views": 37832
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "KMJNwkNiqFA",
-   "ch": "Hana Mizu",
-   "cid": "UCvRl3ALT7L-0tqnmkZfSqqA",
-   "date": "2026-09-14",
-   "title": "My Friend Cheated During the Parkour! Super Bear Adventure",
-   "views": 40957
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "wtL45paRUH4",
-   "ch": "Superbe",
-   "cid": "UCT0woCkj9XN0CyGG2Uq94RA",
-   "date": "2026-08-01",
-   "title": "The appearance of powerful enemies | Super Bear Adventure #s",
-   "views": 24289
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "2J054RZ-Nno",
-   "ch": "Hana Mizu",
-   "cid": "UCvRl3ALT7L-0tqnmkZfSqqA",
-   "date": "2026-09-16",
-   "title": "Trying the NEWEST Bug With My Friend! Super Bear Adventure",
-   "views": 19828
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "bcRAa_OvLJA",
-   "ch": "Cat Blitz",
-   "cid": "UCyy6duylwhWkaQTYMTkd22Q",
-   "date": "2025-03-26",
-   "title": "The poor kittens works hard work for teady bear fast food#ca",
-   "views": 7877
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "AXLZ42ByENI",
-   "ch": "Nature’s Pulse",
-   "cid": "UC_eCYt0U_05dpkpT0p-4L7g",
-   "date": "2025-09-02",
-   "title": "My Best Friend is a Bear #trending #cat #exsplorepage #viral",
-   "views": 1558
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "mzGb-cV2RC8",
-   "ch": "Mountain.melodie",
-   "cid": "UCU8RRZMKZz2eyZuTtfm_d5A",
-   "date": "2026-03-09",
-   "title": "Meet my new friends with their taddy bear 🐻 #foryou #cat #cu",
-   "views": 1856
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "GDwvpd3m26Y",
-   "ch": "Paradise for Stray Animals",
-   "cid": "UCHDsRbhpLEuhehM1O_uvu5w",
-   "date": "2026-09-16",
-   "title": "😻😻I really can&#39;t bear to just give them a bowl of cat fo",
-   "views": 1092
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "PCpLD62r9kk",
-   "ch": "Surprise4you",
-   "cid": "UCN5ijfXRaPblhVTOW4GT-OA",
-   "date": "2026-07-27",
-   "title": "Would you be my friend 🐻🩷# #cutevideo #shorts #youtubeshorts",
-   "views": 992
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "Oab0clIa2hI",
-   "ch": "The Wild Lens Video",
-   "cid": "UCSHORFLJTOQQxNN6S90YMqA",
-   "date": "2025-12-13",
-   "title": "Polar Bear : Enjoy the sunset with my friends #animals",
-   "views": 509
-  },
-  {
-   "q": "My friends cat bear",
-   "vid": "28wSlWHZq24",
-   "ch": "Dunia Imut IA",
-   "cid": "UC5Q-pdippfJZyxNZuIxiCjA",
-   "date": "2026-10-08",
-   "title": "Chef Bruno Pulang Bawa Ikan Part 2 - Ketemu Kucing Sahabat! ",
-   "views": 15
-  }
- ]
+ "found": [],
+ "search_hits": []
 }
