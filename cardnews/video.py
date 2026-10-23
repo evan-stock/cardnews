@@ -2,8 +2,9 @@
 import subprocess
 
 
-def video_slide(src, overlay_png, out, start=0.0, dur=10.0, crop_x=0.5, crop_y=0.5):
-    """crop_x/crop_y: 4:5로 자를 때 기준 위치(0=왼쪽/위, 0.5=가운데, 1=오른쪽/아래)."""
+def video_slide(src, overlay_png, out, start=0.0, dur=10.0, crop_x=0.5, crop_y=0.5, keep_audio=False):
+    """crop_x/crop_y: 4:5로 자를 때 기준 위치(0=왼쪽/위, 0.5=가운데, 1=오른쪽/아래).
+    keep_audio: True면 원본 소리를 살린다(원고 video에 "audio": true). 기본은 무음."""
     base = (f"[0:v]scale='if(gt(a,0.8),-2,1080)':'if(gt(a,0.8),1350,-2)',"
             f"crop=1080:1350:(in_w-1080)*{crop_x}:(in_h-1350)*{crop_y},"
             f"unsharp=5:5:0.6,fps=30,format=yuv420p")
@@ -13,6 +14,10 @@ def video_slide(src, overlay_png, out, start=0.0, dur=10.0, crop_x=0.5, crop_y=0
     else:            # 글자 없이 영상만
         inputs = []
         vf, audio = base + "[o]", "1:a"
+    if keep_audio and subprocess.run(["ffprobe", "-v", "error", "-select_streams", "a", "-show_entries",
+                                      "stream=index", "-of", "csv=p=0", src],
+                                     capture_output=True, text=True).stdout.strip():
+        audio = "0:a"  # 원본 소리
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(start), "-t", str(dur), "-i", src,
                     *inputs, "-f", "lavfi", "-t", str(dur), "-i", "anullsrc=r=44100:cl=stereo",
                     "-filter_complex", vf, "-map", "[o]", "-map", audio, "-shortest",

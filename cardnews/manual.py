@@ -164,7 +164,8 @@ def build(d, base, send):
         for k, v in vids.items():  # 영상 장: 원본 영상 위에 같은 글자를 얹은 mp4로 교체
             out = str(base / f"{k + 1:02d}.mp4")
             video_slide(str(base / v["src"]), str(base / f"{k + 1:02d}_overlay.png") if k in texted else None, out,
-                        v.get("start", 0), v.get("dur", 10), v.get("x", 0.5), v.get("y", 0.5))
+                        v.get("start", 0), v.get("dur", 10), v.get("x", 0.5), v.get("y", 0.5),
+                        keep_audio=bool(v.get("audio")))
             files[k] = out
     if not send:
         return
