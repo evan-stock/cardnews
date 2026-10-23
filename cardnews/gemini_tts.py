@@ -41,13 +41,41 @@ def _duration(path):
                                 capture_output=True, text=True).stdout.strip())
 
 
-def split_lines(wav, n, outdir, tempo, vol_db):
-    """한 파일을 n 문장으로 자른다: 가운데 쉼 중 가장 긴 n-1 개를 경계로 쓴다. 문장마다 앞뒤 무음을 자르고 tempo 배속."""
+def _pick_cuts(inner, dur, weights):
+    """문장 길이 비율로 예상한 경계 위치에 가장 가까우면서 긴 쉼을 순서대로 고른다(2026.10.23).
+    예전 방식(가장 긴 쉼 n-1개)은 한 문장 안의 쉼(마침표·쉼표)을 경계로 잘못 고르는 일이 있었다."""
+    n = len(weights); tot = float(sum(weights)); cum, exp = 0.0, []
+    for w in weights[:-1]:
+        cum += w; exp.append(dur * cum / tot)
+    S = len(inner); INF = float("inf")
+    cost = lambda k, j: abs((inner[j][0] + inner[j][1]) / 2 - exp[k]) - 1.5 * (inner[j][1] - inner[j][0])
+    best = [[INF] * S for _ in range(n - 1)]; prev = [[-1] * S for _ in range(n - 1)]
+    for j in range(S):
+        best[0][j] = cost(0, j)
+    for k in range(1, n - 1):
+        run, arg = INF, -1
+        for j in range(S):
+            if j > 0 and best[k - 1][j - 1] < run:
+                run, arg = best[k - 1][j - 1], j - 1
+            if arg >= 0:
+                best[k][j] = run + cost(k, j); prev[k][j] = arg
+    j = min(range(S), key=lambda x: best[n - 2][x]); out = []
+    for k in range(n - 2, -1, -1):
+        out.append(inner[j]); j = prev[k][j]
+    return out[::-1]
+
+
+def split_lines(wav, n, outdir, tempo, vol_db, weights=None):
+    """한 파일을 n 문장으로 자른다. weights(문장별 글자 수)가 있으면 예상 위치 기준(_pick_cuts),
+    없으면 가운데 쉼 중 가장 긴 n-1 개를 경계로 쓴다. 문장마다 앞뒤 무음을 자르고 tempo 배속."""
     dur = _duration(wav)
     inner = [(a, b) for a, b in _silences(wav) if a > 0.05 and b < dur - 0.05]
     if len(inner) < n - 1:
         return None
-    cuts = sorted(sorted(inner, key=lambda s: s[1] - s[0], reverse=True)[:n - 1])
+    if weights and n > 1:
+        cuts = _pick_cuts(inner, dur, weights)
+    else:
+        cuts = sorted(sorted(inner, key=lambda s: s[1] - s[0], reverse=True)[:n - 1])
     bounds = [0.0] + [(a + b) / 2 for a, b in cuts] + [dur]
     trim = ("silenceremove=start_periods=1:start_threshold=-45dB,areverse,"
             "silenceremove=start_periods=1:start_threshold=-45dB,areverse")
@@ -113,7 +141,8 @@ def scene_voices(d, base, conf):
     try:
         src = os.path.join(tmp, "all.wav")
         open(src, "wb").write(wav)
-        outs = split_lines(src, len(lines), tmp, c["tempo"], c["volume_db"])
+        outs = split_lines(src, len(lines), tmp, c["tempo"], c["volume_db"],
+                          [max(1, len(l.replace(" ", ""))) for l in lines])
         if not outs:
             return None, f"문장 {len(lines)}개로 자르기 실패"
         cache.mkdir(parents=True, exist_ok=True)
