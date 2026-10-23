@@ -1,81 +1,20 @@
 [
  {
-  "id": "20261023-mileyshave",
+  "id": "20261023-ohacquit",
   "slot": "evening",
-  "mode": "render",
-  "topic": "마일리 사이러스, 유방암 3기 팬 소원 들어주려 할리우드 볼 무대 뒤에서 직접 삭발",
-  "category": "해외 감동 인물 사연(셀럽)",
-  "emotion": "울컥(감동) — 가장 무서운 순간을 우상이 함께해 줌",
+  "mode": "collect",
+  "topic": "오세훈 서울시장, 명태균 여론조사비 대납 의혹 2심 무죄(1심 시장직 상실형 벌금 1000만원 뒤집힘)",
+  "limit": 30,
   "sources": [
-   {
-    "publisher": "iHeartRadio",
-    "date": "2026.10.22",
-    "url": "https://www.iheart.com/content/2026-10-22-miley-shaves-fans-head-in-special-backstage-moment-at-hollywood-bowl-show/"
-   },
-   {
-    "publisher": "Yahoo Entertainment",
-    "date": "2026.10.22",
-    "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-shaves-fan-head-122940967.html"
-   },
-   {
-    "publisher": "EntertainmentNow",
-    "date": "2026.10.22",
-    "url": "https://entertainmentnow.com/the-voice/miley-cyrus-shaves-fan-head-breast-cancer/"
-   },
-   {
-    "publisher": "TikTok @cashjacobs_2",
-    "date": "2026.10",
-    "url": "https://www.tiktok.com/@cashjacobs_2/video/7699252311205481742"
-   }
+   {"publisher": "파이낸셜뉴스", "date": "2026.10.23", "url": "https://www.fnnews.com/news/202610231444122485"},
+   {"publisher": "아시아경제", "date": "2026.10.23", "url": "https://view.asiae.co.kr/article/2026102315501025316"},
+   {"publisher": "헤럴드경제", "date": "2026.10.23", "url": "https://biz.heraldcorp.com/article/10912987"}
   ],
-  "slides": [
-   {
-    "t": "항암 앞둔 팬의 소원 들어준\n마일리 '직접 삭발'",
-    "lay": "one"
-   },
-   {
-    "sub": "소원",
-    "t": "\"마일리가 내 머리를\n'밀어줬으면'\"",
-    "b": "뉴욕에 사는 33살 캐시 제이콥스 씨는 유방암 3기 진단을 받고 항암을 앞두고 있었습니다. 머리카락이 빠지기 전 틱톡에 올린 이 소원 영상은 조회 560만 회를 넘었습니다."
-   },
-   {
-    "sub": "공연이 끝난 뒤",
-    "t": "무대 뒤에서\n'꼭 안아 줬다'",
-    "b": "팬들이 마일리를 태그하며 영상을 퍼뜨렸고, 마일리 측은 그를 할리우드 볼 공연에 다시 초대해 무대 뒤에서 만났습니다."
-   },
-   {
-    "sub": "직접 든 바리캉",
-    "t": "\"부드러우면서도\n'강할 수 있어요'\"",
-    "b": "마일리는 직접 머리를 밀며 이렇게 말했습니다. 이 순간을 함께하게 해 줘서 영광이라고도 했습니다."
-   },
-   {
-    "sub": "삭발 후",
-    "t": "가장 무서운 순간을\n'함께해 줬다'",
-    "b": "캐시 씨는 우울증과 암 진단을 견딜 때마다 마일리의 노래가 버팀목이 됐다고 말했습니다. 삭발 영상은 조회 150만 회를 넘었습니다."
-   },
-   {
-    "t": "힘내야 할 친구에게\n보내주세요",
-    "b": "팔로우하면 매일 화제 소식"
-   }
+  "image_pages": [
+   "https://www.wikitree.co.kr/articles/1168619",
+   "https://news.jkn.co.kr/post/1044637",
+   "https://news.jkn.co.kr/post/1044635"
   ],
-  "images": [
-   "shave1",
-   "wish",
-   "hug",
-   "tears",
-   "bald",
-   "hug"
-  ],
-  "caption": "[항암 앞둔 팬의 소원, 마일리가 직접 들어줬습니다]\n\n미국 뉴욕에 사는 33살 캐시 제이콥스 씨는 유방암 3기 진단을 받고 항암 치료를 시작했습니다. 머리카락이 빠지기 전, 그는 틱톡에 \"마일리 사이러스가 내 머리를 밀어줬으면 좋겠다\"는 영상을 올렸고, 팬들이 마일리를 태그하며 이 영상을 퍼뜨렸습니다.\n\n이 소식을 들은 마일리는 그를 로스앤젤레스 할리우드 볼 공연에 다시 초대했습니다. 공연이 끝난 뒤 마일리는 무대 뒤에서 그를 꼭 안아 주고, 바리캉을 들어 직접 머리를 밀어 줬습니다. 마일리는 \"부드러우면서도 강할 수 있다\"며, 이 순간을 함께하게 해 줘서 영광이라고 말했습니다.\n\n캐시 씨는 우울증과 암 진단을 견딜 때마다 마일리의 노래가 버팀목이 됐다며, 인생에서 가장 무섭고 내밀한 순간을 함께해 줘서 고맙다고 전했습니다. 소원을 올린 영상은 틱톡 조회 560만 회, 삭발 영상은 150만 회를 넘었습니다.\n\n여러분이라면 가장 힘든 순간, 누구와 함께하고 싶으신가요?\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
-  "hashtags": [
-   "#마일리사이러스",
-   "#MileyCyrus",
-   "#유방암",
-   "#감동",
-   "#팬사랑"
-  ],
-  "photo_credits": [
-   "틱톡 @cashjacobs_2(캐시 제이콥스)"
-  ]
+  "read_pages": ["https://www.fnnews.com/news/202610231444122485"]
  }
 ]
