@@ -41,3 +41,5 @@ ERROR: [twitter] 1498683263023525888: No video could be found in this tweet
 WARNING: [generic] Falling back on generic information extractor
 ERROR: Unsupported URL: https://www.aljazeera.com/video/newsfeed/2025/7/3/iran-releases-video-of-israeli-strike-on-tehran-in-june
 실패: https://www.aljazeera.com/video/newsfeed/2025/7/3/iran-releases-video-of-israeli-strike-on-tehran-in-june
+ERROR: [dailymotion] x79tibt: Not found.
+실패: https://www.dailymotion.com/video/x79tibt
