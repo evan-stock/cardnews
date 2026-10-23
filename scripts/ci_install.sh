@@ -12,7 +12,16 @@ pip install -q -r requirements.txt
 echo 'man-db man-db/auto-update boolean false' | sudo debconf-set-selections || true
 sudo rm -f /var/lib/man-db/auto-update || true
 
-APT_OPTS="-y -qq -o Acquire::Retries=3 -o Acquire::http::Timeout=20 -o DPkg::Lock::Timeout=60"
+# 2026.10.24: 지난번에 받아 둔 패키지 파일(~/.apt-debs, actions/cache)이 있으면 apt 보관함에 넣어
+# 다운로드 없이 설치되게 한다. 끝나면 다시 ~/.apt-debs로 모아 다음 실행이 쓰게 한다.
+DEBS="$HOME/.apt-debs"; mkdir -p "$DEBS"
+if ls "$DEBS"/*.deb >/dev/null 2>&1; then
+  echo "보관된 패키지 $(ls "$DEBS"/*.deb | wc -l)개 사용"
+  sudo cp -n "$DEBS"/*.deb /var/cache/apt/archives/ || true
+fi
+save_debs() { cp -n /var/cache/apt/archives/*.deb "$DEBS"/ 2>/dev/null || true; }
+
+APT_OPTS="-y -qq -o Acquire::Retries=3 -o Acquire::http::Timeout=20 -o DPkg::Lock::Timeout=60 -o APT::Keep-Downloaded-Packages=true"
 ok=0
 for i in 1 2 3; do
   if sudo timeout 180 apt-get install $APT_OPTS $PKGS; then ok=1; break; fi
@@ -20,6 +29,7 @@ for i in 1 2 3; do
   sudo timeout 120 apt-get update -qq -o Acquire::Retries=3 || true
 done
 [ $ok = 1 ] || { echo "::error::apt 설치 3번 실패"; exit 1; }
+save_debs
 
 ok=0
 for i in 1 2 3; do
@@ -27,3 +37,4 @@ for i in 1 2 3; do
   echo "::warning::playwright 설치 실패/시간 초과($i/3) → 재시도"
 done
 [ $ok = 1 ] || { echo "::error::playwright 설치 3번 실패"; exit 1; }
+save_debs

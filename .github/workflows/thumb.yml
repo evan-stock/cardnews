@@ -7,7 +7,7 @@ permissions:
   contents: write
 jobs:
   render:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # 2026.10.24: ubuntu-latest가 우분투 26으로 넘어가며 apt 설치 실패 → 고정
     timeout-minutes: 25  # 2026.10.23: 설치가 멈춰도 뒤 원고를 30분 넘게 막지 않게
     steps:
       - uses: actions/checkout@v4
@@ -17,6 +17,11 @@ jobs:
         with:
           path: ~/.cache/ms-playwright
           key: pw-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+      - uses: actions/cache@v4  # 2026.10.24: apt 패키지 파일 보관(다운로드 서버 먹통 대비)
+        with:
+          path: ~/.apt-debs
+          key: apt-${{ runner.os }}-2404-${{ hashFiles('scripts/ci_install.sh') }}
+          restore-keys: apt-${{ runner.os }}-2404-
       - name: 설치(시간 제한+재시도)
         timeout-minutes: 15
         run: bash scripts/ci_install.sh fonts-noto-cjk

@@ -12,7 +12,7 @@ concurrency:
   cancel-in-progress: true
 jobs:
   run:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # 2026.10.24: ubuntu-latest가 우분투 26으로 넘어가며 apt 설치 실패 → 고정
     timeout-minutes: 30
     env:
       TZ: Asia/Seoul
