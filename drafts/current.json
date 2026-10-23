@@ -61,7 +61,7 @@
  {
   "id": "20261023-airbnbchores",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "topic": "에어비앤비, 11월 20일 예약분부터 호스트의 체크아웃 집안일 요구 금지(전 세계)",
   "sources": [
    {
@@ -138,6 +138,8 @@
    "Islands",
    "Time Out(Airbnb)",
    "Newser"
-  ]
+  ],
+  "publish_at": "2026-10-23T22:00:00+09:00",
+  "approved": true
  }
 ]
