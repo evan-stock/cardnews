@@ -1,7 +1,7 @@
 {
  "id": "20261023-catbear",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-23T13:36:10.473064+09:00",
  "publish_at": "2026-10-23T13:36:10.473083+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "9a12bcfd8081",
- "tg_msg": 919
+ "tg_msg": 919,
+ "decided_at": "2026-10-23T13:42:24.826946+09:00",
+ "yt_id": "vGG9dCzqSuo",
+ "permalink": "https://youtube.com/shorts/vGG9dCzqSuo",
+ "published_at": "2026-10-23T13:42:27.874168+09:00"
 }
