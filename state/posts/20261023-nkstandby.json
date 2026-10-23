@@ -2,7 +2,7 @@
  "id": "20261023-nkstandby",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-23T09:26:37.452116+09:00",
  "publish_at": "2026-10-23T09:26:39.852611+09:00",
  "topic": "중국 주재 북한 공무원 비상 대기령 첩보(고영환, 채널A)",
@@ -41,5 +41,8 @@
   "media/20261023-nkstandby/02.jpg"
  ],
  "tg_msg": 899,
- "decided_at": "2026-10-23T09:26:39.852628+09:00"
+ "decided_at": "2026-10-23T09:26:39.852628+09:00",
+ "ig_media_id": "18115800881027289",
+ "permalink": "https://www.instagram.com/p/De0RP4dmTcT/",
+ "published_at": "2026-10-23T09:28:33.273899+09:00"
 }
