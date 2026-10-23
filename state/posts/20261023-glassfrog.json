@@ -1,7 +1,7 @@
 {
  "id": "20261023-glassfrog",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-23T13:43:32.279475+09:00",
  "publish_at": "2026-10-23T13:43:32.279488+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 923
+ "tg_msg": 923,
+ "decided_at": "2026-10-23T13:48:36.279307+09:00",
+ "yt_id": "ZOZxulaheCk",
+ "permalink": "https://youtube.com/shorts/ZOZxulaheCk",
+ "published_at": "2026-10-23T13:48:39.342683+09:00"
 }
