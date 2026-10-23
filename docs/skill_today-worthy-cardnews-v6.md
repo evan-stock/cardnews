@@ -98,6 +98,11 @@ description: "@today.worthy(오늘의쓸모) 카드뉴스를 채팅에서 조사
    - 릴스 커버만 필요하면 `drafts/thumb.json` → thumb 워크플로(`media/<id>/reel_cover.jpg`). 릴스 커버 제목은 118px라 **한 줄 10자(띄어쓰기 포함) 이내**로 써야 줄바꿈이 안 생긴다.
    - 다른 앱 워터마크(틱톡 로고 등)는 크롭하거나 가린다.
 4. **원고 작성 → `mode: render` → 결과를 직접 보고 확인**(줄 넘침, 사진 잘림) → 수정 → 사용자에게 미리보기. **미리보기에는 항상 노리는 감정 한 줄 + 추천 노래 2~3곡 + 표지(릴스는 커버) AI 이미지 프롬프트를 함께 준다.**
+   - **미리보기 렌더는 채팅 작업공간에서 직접 한다(2026.10.24 사용자 결정).** GitHub 무료 서버 배정 대기·설치 단계 때문에 manual-draft가 10~30분씩 걸려서 바꿨다. 디자인 v2(`"lay":"one"`)는 저장소 글꼴만 써서 결과가 GitHub와 같다.
+     - 준비(작업공간마다 한 번): `pip install --break-system-packages -r requirements.txt && python3 -m playwright install chromium`
+     - 렌더: `drafts/current.json`을 `mode: render`로 쓰고 `TELEGRAM_BOT_TOKEN= TZ=Asia/Seoul python3 -m cardnews.manual drafts/current.json` → `media/<id>/01.jpg…`를 모아보기로 확인 → SendUserFile로 미리보기. 이 단계에서는 커밋·푸시하지 않는다(푸시하면 manual-draft가 또 돈다).
+     - 사진 후보 수집(`mode: collect`)도 먼저 여기서 돌려 보고, 기사 사이트가 작업공간 네트워크에서 막히면 그때만 GitHub로 푸시해 수집한다.
+     - 게시(`mode: send`)만 GitHub로 푸시해 텔레그램 승인·예약을 탄다. 옛 디자인(lay 없음)은 본문 글꼴이 달라지므로 GitHub 렌더를 쓴다.
    - 원고 `slot`은 config에 있는 `lunch`·`evening`만 쓴다. 다른 이름(morning 등)을 쓰면 send가 KeyError로 실패한다. 실제 게시 시각은 `publish_at`으로 정한다.
    - manual-draft는 `drafts/current.json`의 모든 원고를 다시 돌린다. 이미 보낸 원고(특히 send·릴스)는 빼고 올려야 텔레그램 중복 전송이 없다.
    - 워크플로 실패 여부는 `https://api.github.com/repos/evan-stock/cardnews/actions/runs`와 `/runs/<id>/jobs`로 확인할 수 있다(로그 본문은 인증 필요).
