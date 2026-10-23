@@ -1,0 +1,36 @@
+{
+ "id": "20261023-life1",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-23T18:26:01.126674+09:00",
+ "publish_at": "2026-10-23T18:26:01.126696+09:00",
+ "publish_now": true,
+ "topic": "댓글로 키우는 아이 1화",
+ "sources": [],
+ "seconds": 22.6,
+ "tts": [
+  "gemini"
+ ],
+ "files": [
+  "media/20261023-life1/short.mp4"
+ ],
+ "app_file": "media/20261023-life1/short.mp4",
+ "yt": {
+  "title": "인생 댓글로 정함 1화: 돌잡이, 뭐 잡을래요? #shorts",
+  "description": "아기 하나 태어났습니다. 인생은 여러분 댓글로 정합니다.\n\n돌잡이, 뭐 잡을까요?\n1번 연필 / 2번 돈 / 3번 마이크\n\n내일 오전 9시까지 댓글 1등(좋아요 가장 많은 댓글)대로 2화에서 잡습니다.\n아무도 안 정하면 김댓글이 아무거나 잡습니다.\n\n#shorts #인생댓글로정함 #김댓글 #댓글투표 #인생시뮬레이션",
+  "tags": [
+   "인생댓글로정함",
+   "김댓글",
+   "댓글투표",
+   "인생시뮬레이션",
+   "돌잡이",
+   "쇼츠"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "life"
+ },
+ "draft_hash": "112750e9c665",
+ "tg_msg": 4
+}
