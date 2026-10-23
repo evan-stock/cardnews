@@ -4,7 +4,8 @@
 선택지별 점수를 세고, 결과를 새 텔레그램 봇(TELEGRAM_BOT_TOKEN_LIFE)으로 보낸다. 결과는 state/life_votes/<id>.json.
 
 규칙(2026.10.23 사용자 결정, 설명란 "댓글 1등(좋아요 가장 많은 댓글)대로"와 같음):
-- **선택지를 말한 댓글 중 좋아요가 가장 많은 댓글 1개**가 이긴다. 좋아요가 같으면 먼저 쓴 댓글.
+- **선택지를 말한 댓글 중 좋아요가 가장 많은 댓글 1개**가 이긴다.
+- 좋아요가 같으면 그 선택지 전체 지지(그 선택지를 고른 댓글 수 + 좋아요 합)가 큰 쪽, 그래도 같으면 먼저 쓴 댓글.
 - 선택지를 말하지 않은 댓글(잡담·분탕)은 아예 후보가 아니다.
 - 욕설·혐오·성적 표현·도배·링크 댓글은 후보에서 빼고 그다음 댓글로 넘어간다(BAD). 뺀 것은 결과에 따로 적는다.
 - 한 댓글이 선택지 두 개 이상을 말하면(예: "연필 말고 돈") 맨 앞에 나온 것으로 본다. 채널 주인 댓글은 제외.
@@ -117,10 +118,14 @@ def tally(post, token):
         seen.add(c["author"])
         row = {"n": n, "name": names[n], "text": c["text"], "likes": c["likes"], "author": c["name"], "at": c["at"]}
         (skipped if bad(c["text"], post["vote"].get("ban", [])) else cands).append(row)
-    cands.sort(key=lambda r: (-r["likes"], r["at"]))  # 좋아요 많은 순, 같으면 먼저 쓴 댓글
     count = {n: sum(1 for c in cands if c["n"] == n) for n in names}
+    support = {n: count[n] + sum(c["likes"] for c in cands if c["n"] == n) for n in names}  # 선택지 전체 지지(댓글 수 + 좋아요)
+    # 좋아요 많은 순 → 동률이면 그 선택지의 전체 지지가 큰 쪽 → 그래도 같으면 먼저 쓴 댓글
+    cands.sort(key=lambda r: (-r["likes"], -support[r["n"]], r["at"]))
+    tie = len(cands) > 1 and cands[0]["likes"] == cands[1]["likes"] and cands[0]["n"] != cands[1]["n"]
     return {"id": post["id"], "yt_id": post["yt_id"], "counted_at": now().isoformat(), "rule": "top_liked_comment",
-            "total_comments": len(cs), "valid_votes": len(cands), "count_by_option": count,
+            "total_comments": len(cs), "valid_votes": len(cands), "count_by_option": count, "support": support,
+            "tie": tie,
             "top": cands[:5], "skipped": skipped[:10],
             "winner": {"n": cands[0]["n"], "name": cands[0]["name"], "comment": cands[0]} if cands else None}
 
@@ -137,6 +142,10 @@ def message(post, r):
     lines.append("")
     if r["winner"]:
         w = r["winner"]
+        if r.get("tie"):
+            sp = r["support"]
+            lines.append("⚖️ 좋아요 동률 → 선택지 전체(댓글 수 + 좋아요)로 결정: "
+                         + " / ".join(f"{n}번 {sp[n]}" for n in sorted(sp, key=lambda k: -sp[k])))
         lines.append(f"👉 다음 화: {w['n']}번 {w['name']}")
         lines.append("   다음 화 첫 장면에 위 1등 댓글을 '어제 댓글 1등' 카드로 넣어요.")
     else:
