@@ -2,7 +2,7 @@
  "id": "20261024-macrontrump-ai-reel",
  "format": "reel",
  "slot": "morning",
- "status": "approved",
+ "status": "rejected",
  "created_at": "2026-10-24T03:08:00+09:00",
  "publish_at": "2026-10-24T07:00:00+09:00",
  "decided_at": "2026-10-24T03:08:00+09:00",
@@ -28,5 +28,6 @@
  "credits": [
   "영상: AI 재연 영상(Higgsfield 생성)"
  ],
- "manual": true
+ "manual": true,
+ "note": "사용자가 앱에서 직접 올리기로 해 자동 게시 취소(2026.10.24 03:10)"
 }
