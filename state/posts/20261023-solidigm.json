@@ -2,7 +2,7 @@
  "id": "20261023-solidigm",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-23T11:42:54.269376+09:00",
  "publish_at": "2026-10-23T11:39:46+09:00",
  "topic": "SK하이닉스, 美 자회사 솔리다임 나스닥 상장(IPO)·프리IPO 검토 중단",
@@ -104,5 +104,9 @@
   "media/20261023-solidigm/08.jpg",
   "media/20261023-solidigm/09.jpg"
  ],
- "tg_msg": 912
+ "tg_msg": 912,
+ "decided_at": "2026-10-23T11:47:59.996411+09:00",
+ "ig_media_id": "18074414294742260",
+ "permalink": "https://www.instagram.com/p/De0hYQVDuBD/",
+ "published_at": "2026-10-23T11:49:30.892408+09:00"
 }
