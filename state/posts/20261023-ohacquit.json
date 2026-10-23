@@ -2,7 +2,7 @@
  "id": "20261023-ohacquit",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-23T17:15:36.194561+09:00",
  "publish_at": "2026-10-23T17:30:00+09:00",
  "topic": "오세훈 서울시장, 명태균 여론조사비 대납 의혹 2심 무죄(1심 시장직 상실형 벌금 1000만원 뒤집힘)",
@@ -68,5 +68,8 @@
   "media/20261023-ohacquit/06.jpg"
  ],
  "tg_msg": 944,
- "decided_at": "2026-10-23T17:15:40.066733+09:00"
+ "decided_at": "2026-10-23T17:15:40.066733+09:00",
+ "ig_media_id": "17923517772220947",
+ "permalink": "https://www.instagram.com/p/De1Il2tFqLz/",
+ "published_at": "2026-10-23T17:32:07.731343+09:00"
 }
