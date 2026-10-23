@@ -43,6 +43,9 @@ jobs:
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
       YT_REFRESH_TOKEN_SHOP: ${{ secrets.YT_REFRESH_TOKEN_SHOP }}
+      YT_REFRESH_TOKEN_LIFE: ${{ secrets.YT_REFRESH_TOKEN_LIFE }}
+      TELEGRAM_BOT_TOKEN_LIFE: ${{ secrets.TELEGRAM_BOT_TOKEN_LIFE }}
+      TELEGRAM_CHAT_ID_LIFE: ${{ secrets.TELEGRAM_CHAT_ID_LIFE }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

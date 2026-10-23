@@ -254,7 +254,17 @@ def publish_short(post):
     sync_repo()  # 업로드 결과를 바로 저장소에 남긴다(실행이 중간에 끊겨도 상태가 사라지지 않게)
 
 
+def pch(p):
+    """게시물의 유튜브 채널(텔레그램 봇 선택용). 없으면 기본."""
+    return (p.get("yt") or {}).get("channel")
+
+
 def do_publish(post):
+    with tg.channel(pch(post)):
+        return _do_publish(post)
+
+
+def _do_publish(post):
     if post.get("kind") == "short":
         return publish_short(post)
     push_media(post)
@@ -280,6 +290,11 @@ def do_publish(post):
 
 
 def send_app_kit(p):
+    with tg.channel(pch(p)):
+        return _send_app_kit(p)
+
+
+def _send_app_kit(p):
     """[📱 앱으로 직접 올리기]: 유튜브 앱에서 쇼츠 음원(유행곡)을 붙여 올릴 수 있게 원본 화질 파일과 문구를 보낸다.
     배경음악이 있던 영상은 배경음악을 뺀 판(short_nobgm.mp4)을 보낸다. 이 게시물은 자동 업로드하지 않는다."""
     path = ROOT / (p.get("app_file") or p["files"][0])
@@ -312,13 +327,16 @@ def tick():
         p["decided_at"] = now().isoformat()
         save_post(p)
         if act == "ok" and p.get("kind") == "short":
-            tg.send_text(f"✅ 승인됨: {p['topic']}\n유튜브에 올리는 중이에요")
+            with tg.channel(pch(p)):
+                tg.send_text(f"✅ 승인됨: {p['topic']}\n유튜브에 올리는 중이에요")
             continue
         if act == "ok":
             at = dt.datetime.fromisoformat(p["publish_at"])
-            tg.send_text(f"✅ 승인됨: {p['topic']}\n" + ("곧 게시해요" if now() >= at else f"{at:%H:%M}에 게시돼요"))
+            with tg.channel(pch(p)):
+                tg.send_text(f"✅ 승인됨: {p['topic']}\n" + ("곧 게시해요" if now() >= at else f"{at:%H:%M}에 게시돼요"))
         if act == "no":
-            tg.send_text(f"❌ 거절됨: {p['topic']} (게시하지 않아요)")
+            with tg.channel(pch(p)):
+                tg.send_text(f"❌ 거절됨: {p['topic']} (게시하지 않아요)")
     exp = dt.timedelta(hours=CFG["approval"]["expire_hours"])
     for p in all_posts():
         if p["status"] not in ("pending", "approved"):
@@ -331,7 +349,8 @@ def tick():
         elif p["status"] == "pending" and now() > at + (dt.timedelta(hours=24) if p.get("kind") == "short" else exp):
             p["status"] = "expired"
             save_post(p)
-            tg.send_text(f"⌛ 승인 시간이 지나 게시하지 않았어요: {p['topic']}")
+            with tg.channel(pch(p)):
+                tg.send_text(f"⌛ 승인 시간이 지나 게시하지 않았어요: {p['topic']}")
 
 
 def sync_repo():

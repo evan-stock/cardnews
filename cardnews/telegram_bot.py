@@ -1,13 +1,41 @@
 """텔레그램으로 미리보기를 보내고 승인/거절 버튼 응답을 받아온다(getUpdates 폴링)."""
+import contextlib
 import json
+import os
 
 import requests
 
 from .common import env, read_text, write_text
 
+# 채널별 텔레그램 봇(2026.10.23 '댓글로 키우는 아이' 새 봇). 게시물의 yt.channel 이 life 이고
+# TELEGRAM_BOT_TOKEN_LIFE 가 있으면 그 봇으로 보내고 그 봇의 버튼을 받는다. 없으면 기본 봇.
+_CH = [None]
+
+
+@contextlib.contextmanager
+def channel(ch):
+    _CH.append(ch)
+    try:
+        yield
+    finally:
+        _CH.pop()
+
+
+def _sfx():
+    ch = _CH[-1]
+    return f"_{ch.upper()}" if ch and os.environ.get(f"TELEGRAM_BOT_TOKEN_{ch.upper()}") else ""
+
+
+def bot_channels():
+    """버튼 응답을 받아올 봇들: 기본 봇(있으면) + TELEGRAM_BOT_TOKEN_<채널> 이 있는 채널 봇들."""
+    out = [None] if os.environ.get("TELEGRAM_BOT_TOKEN") else []
+    out += sorted(k[len("TELEGRAM_BOT_TOKEN_"):].lower() for k, v in os.environ.items()
+                  if k.startswith("TELEGRAM_BOT_TOKEN_") and v)
+    return out
+
 
 def _api(method, files=None, **data):
-    url = f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/{method}"
+    url = f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN' + _sfx())}/{method}"
     r = requests.post(url, data=data, files=files, timeout=120)
     j = r.json()
     if not j.get("ok"):
@@ -16,7 +44,7 @@ def _api(method, files=None, **data):
 
 
 def chat_id():
-    return env("TELEGRAM_CHAT_ID")
+    return os.environ.get("TELEGRAM_CHAT_ID" + _sfx()) or env("TELEGRAM_CHAT_ID")
 
 
 def send_text(text, buttons=None, reply_to=None):
@@ -72,8 +100,17 @@ def send_preview(post):
 
 
 def poll_decisions():
-    """새 버튼 응답을 [(post_id, 'ok'|'no')]로 반환. 등록된 채팅방 외의 응답은 무시."""
-    offset = int(read_text("telegram_offset.txt", "0") or 0)
+    """새 버튼 응답을 [(post_id, 'ok'|'no')]로 반환. 봇이 여럿이면(채널별 봇) 모두 확인한다."""
+    out = []
+    for ch in bot_channels() or [None]:
+        with channel(ch):
+            out += _poll_one(f"telegram_offset_{ch}.txt" if ch else "telegram_offset.txt")
+    return out
+
+
+def _poll_one(offset_file):
+    """봇 하나의 새 버튼 응답. 등록된 채팅방 외의 응답은 무시."""
+    offset = int(read_text(offset_file, "0") or 0)
     ups = _api("getUpdates", offset=offset + 1 if offset else 0, timeout=0,
                allowed_updates=json.dumps(["callback_query", "message"]))
     out = []
@@ -95,5 +132,5 @@ def poll_decisions():
                        "app": "영상 파일과 제목·설명을 보내요."}.get(act, ""))
         except Exception:
             pass
-    write_text("telegram_offset.txt", offset)
+    write_text(offset_file, offset)
     return out

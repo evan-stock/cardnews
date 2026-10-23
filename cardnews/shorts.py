@@ -705,6 +705,12 @@ def draft_hash(d):
 
 
 def one(d):
+    from . import telegram_bot as tg
+    with tg.channel((d.get("yt") or {}).get("channel")):  # 채널별 텔레그램 봇(2026.10.23)
+        return _one(d)
+
+
+def _one(d):
     if d.get("mode", "render") not in ("render", "send"):
         return
     if d.get("mode") == "send":  # 같은 원고로 다시 실행돼도(맥북 목소리 완료 후 재실행 등) 미리보기·게시물을 중복으로 만들지 않는다

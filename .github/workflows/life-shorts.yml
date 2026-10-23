@@ -1,13 +1,14 @@
 name: life-shorts
-# 댓글로 키우는 아이(새 채널, 2026.10.23) 시험 렌더: drafts/life.json → media/<id>/short.mp4
-# 털뭉치 채널(drafts/shorts.json·텔레그램 봇)과 완전히 분리. 텔레그램·유튜브 비밀값을 쓰지 않는다.
-# 새 채널·새 텔레그램 봇이 생기면 그 비밀값을 여기에 연결한다.
+# 댓글로 키우는 아이(새 채널 life, 2026.10.23): drafts/life.json → media/<id>/short.mp4
+# mode=render: 영상만 만든다. mode=send: 새 텔레그램 봇(TELEGRAM_BOT_TOKEN_LIFE)으로 미리보기 + [✅ 업로드]
+#   → 승인되면 pipeline watch 가 새 채널(YT_REFRESH_TOKEN_LIFE)에 올린다. 털뭉치(drafts/shorts.json·기본 봇)와 분리.
 on:
   push:
     paths: ["drafts/life.json"]
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: life-shorts
   cancel-in-progress: false
@@ -18,6 +19,9 @@ jobs:
     env:
       TZ: Asia/Seoul
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      TELEGRAM_BOT_TOKEN_LIFE: ${{ secrets.TELEGRAM_BOT_TOKEN_LIFE }}
+      TELEGRAM_CHAT_ID_LIFE: ${{ secrets.TELEGRAM_CHAT_ID_LIFE }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -33,4 +37,11 @@ jobs:
           git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
           id=$(python -c "import json;print(json.load(open('drafts/life.json'))['id'])")
           git add -A "media/$id" state/life_log.txt
+          [ -f "state/posts/$id.json" ] && git add "state/posts/$id.json"
           git diff --cached --quiet || { git commit -m "life: render $id"; for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*7)); done; }
+      - name: 승인 대기 감시 시작(send 일 때)
+        if: success()
+        run: |
+          if grep -q '"mode": *"send"' drafts/life.json; then gh workflow run pipeline.yml -f cmd=watch; fi
+        env:
+          GH_TOKEN: ${{ github.token }}
