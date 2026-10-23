@@ -2,7 +2,7 @@
  "id": "20261023-airbnbchores",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-23T22:16:57.385801+09:00",
  "publish_at": "2026-10-23T22:00:00+09:00",
  "topic": "에어비앤비, 11월 20일 예약분부터 호스트의 체크아웃 집안일 요구 금지(전 세계)",
@@ -74,5 +74,8 @@
   "media/20261023-airbnbchores/06.jpg"
  ],
  "tg_msg": 962,
- "decided_at": "2026-10-23T22:17:00.487051+09:00"
+ "decided_at": "2026-10-23T22:17:00.487051+09:00",
+ "ig_media_id": "18425580289153546",
+ "permalink": "https://www.instagram.com/p/De1pbdmlX9q/",
+ "published_at": "2026-10-23T22:18:35.183352+09:00"
 }
