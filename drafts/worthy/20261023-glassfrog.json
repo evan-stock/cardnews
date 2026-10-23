@@ -1,0 +1,127 @@
+{
+ "id": "20261023-glassfrog",
+ "media": "media/20261023-glassfrog",
+ "topic": "유리개구리의 숨은 비밀 — 배 속 심장이 비칠 만큼 투명하지만 빨간 피는 숨기기 어려움. 낮에 잠들면 적혈구 약 89%를 간에 몰아넣어 2~3배 더 투명해지고, 깨면 다시 돌림. 보통은 피가 이렇게 뭉치면 굳는데(혈전) 멀쩡 → 혈전 치료 연구 단서(Taboada·Delia 외 Science 2022.12)",
+ "hook": {
+  "t": "배 속 '심장'이 다 보이는\n개구리의 숨은 비밀ㄷㄷ"
+ },
+ "credit": "영상: TikTok @bravemarkvins · @worcesterterrariums",
+ "bgm": {
+  "file": "assets/bgm/worthy/sneaky_adventure.mp3",
+  "start": 48.0,
+  "vol": 1.12
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "배를 뒤집자 '심장'이 그대로 보인다",
+   "video": {
+    "src": "video/markvins.mp4",
+    "start": 4.0,
+    "x": 0.5,
+    "y": 0.55
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "중남미 숲에 사는 '유리개구리'다",
+   "video": {
+    "src": "video/markvins.mp4",
+    "start": 44.0,
+    "x": 0.5,
+    "y": 0.45
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "그런데 빨간 '피'는 어떻게 숨길까?",
+   "video": {
+    "src": "video/markvins.mp4",
+    "start": 34.5,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "낮에 잠들면 피의 89%를 '간'에 몰아넣는다",
+   "video": {
+    "src": "video/worc2.mp4",
+    "start": 4.5,
+    "x": 0.5,
+    "y": 0.7
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "몸이 2~3배 더 투명해져 '잎'에 녹아든다",
+   "video": {
+    "src": "video/worc2.mp4",
+    "start": 7.0,
+    "x": 0.5,
+    "y": 0.7
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "피를 이렇게 뭉치면 보통은 '혈전'이 생기는데",
+   "video": {
+    "src": "video/markvins.mp4",
+    "start": 47.0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "이 개구리는 멀쩡하고, 깨면 피가 '다시' 돈다",
+   "video": {
+    "src": "video/markvins.mp4",
+    "start": 7.0,
+    "x": 0.5,
+    "y": 0.55
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "그래서 과학자들이 혈전 치료의 '열쇠'로 연구 중",
+   "video": {
+    "src": "video/markvins.mp4",
+    "start": 50.0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "투명한 몸에 숨은 비밀, 구독하고 더 만나요",
+   "video": {
+    "src": "video/markvins.mp4",
+    "start": 41.0,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 3.0
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @bravemarkvins 원본(6838300590368361733 — Brave Wilderness Mark Vins 가 코스타리카에서 직접 촬영한 유리개구리 배·심장 접사, 화면 글자 없음)",
+  "영상: TikTok @worcesterterrariums 원본(7296921694718020896 — 사육장 잎 뒤에 붙어 자는 유리개구리 Hyalinobatrachium fleischmanni, 앞부분 영어 자막 구간 안 씀)"
+ ],
+ "sources": [
+  {
+   "publisher": "NPR 2022.12.26 'The astonishing vanishing act of the glassfrog, revealed' — 적혈구 약 90%를 간에 몰아넣음, 낮에 잎 위에서 자며 투명, 밤엔 다시 돌림, 보통은 응고 문제, 항응고제 연구 단서",
+   "url": "https://www.npr.org/2022/12/26/1145523973/glassfrog-hides-its-blood-glass-frogs"
+  },
+  {
+   "publisher": "UPI 2022.12.23 'Mystery of glass frog transparency solved' — Science, Delia(AMNH)·Taboada(Duke), 89% 간에 저장, 2~3배 투명, 혈전 없음, 깨면 다시 순환",
+   "url": "https://www.upi.com/Science_News/2022/12/23/glass-frogs-blood-clots/6781671822221/"
+  },
+  {
+   "publisher": "National Geographic — Hyalinobatrachium fleischmanni, 89%·2~3배, 광음향 현미경, 다쳤을 때는 정상적으로 피가 굳음",
+   "url": "https://www.nationalgeographic.com/animals/article/glass-frogs-transparency-blood-human-health"
+  }
+ ],
+ "_note": "markvins.mp4 = TikTok @bravemarkvins/6838300590368361733 (576x1024, 59초, 말소리). 3~12초·33~39초 배 접사(심장 y≈0.5/0.37), 40~58초 유리판 위 개구리 아래에서 본 모습. 13~32초 손·얼굴(안 씀). worc2.mp4 = TikTok @worcesterterrariums/7296921694718020896 (576x1024, 9.9초). 0~4초 자막(안 씀), 4~9.9초 잎 뒤 자는 개구리(y≈0.48~0.75). worc1(7156254036419742981)은 작아서 안 씀."
+}
