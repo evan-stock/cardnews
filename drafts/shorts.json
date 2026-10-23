@@ -1,186 +1,237 @@
 {
- "id": "20261023-newcat",
+ "id": "20261023-catbear",
  "mode": "send",
  "format": "meme",
- "topic": "새 고양이를 데려오자 집냥이 일곱 마리가 일제히 몰려와 신입을 째려보는 영상(동물쑛 '집냥이들의 반응' 틀, 밈+내레이션)",
+ "topic": "뉴햄프셔 숲속 집 앞 길에서 태비 고양이가 흑곰과 코를 맞대고 대치하다 냥펀치를 날리자 곰이 벌떡 일어섰다가 결국 숲으로 돌아감(동물쑛 '믿는 구석이 있었던 고양이' 틀, 밈+내레이션)",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 1.5,
+ "bgm_volume": 0.8,
  "sfx_max": 4,
  "hook": {
-  "t": "새 고양이 데려왔더니\n'집냥이 7마리의 반응ㅋㅋ'"
+  "t": "곰 앞에서도 꿈쩍 안 한\n'믿는 구석 있는 고양이ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @jiaotasd99732"
+  "TikTok @statbeauty_michelle"
  ],
  "scenes": [
   {
-   "dur": 2.2,
+   "dur": 2.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 4.0,
-    "audio": 0
+    "start": 50.6,
+    "audio": 2.0,
+    "blur": [
+     [
+      180,
+      228,
+      255,
+      50
+     ]
+    ]
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "신입 고양이 시점",
-     "x": 0.5,
-     "y": 0.07,
-     "at": 0.0
+     "k": "sfx",
+     "t": "(냥펀치!!)",
+     "x": 0.3,
+     "y": 0.55,
+     "at": 0.65,
+     "to": 2.6,
+     "s": "thud",
+     "sv": 0.7
     },
     {
-     "k": "sfx",
-     "t": "(일동 정지)",
-     "x": 0.8,
-     "y": 0.32,
-     "at": 0.15,
-     "s": "dundun",
+     "k": "talk",
+     "t": "헉!! 뭐야\n이 쪼꼬미",
+     "x": 0.72,
+     "y": 0.18,
+     "at": 1.0
+    }
+   ]
+  },
+  {
+   "say": "집 앞 길에서 곰과 고양이가 마주쳤는데요.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 9.0,
+    "audio": 0,
+    "blur": [
+     [
+      180,
+      228,
+      255,
+      50
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "여긴\n내 길이거든?",
+     "x": 0.27,
+     "y": 0.24,
+     "at": 0.4
+    }
+   ]
+  },
+  {
+   "dur": 3.0,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 14.0,
+    "audio": 0,
+    "blur": [
+     [
+      180,
+      228,
+      255,
+      50
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "킁킁...\n넌 뭐냐",
+     "x": 0.74,
+     "y": 0.24,
+     "at": 0.2,
+     "s": "question",
      "sv": 0.8
     },
     {
      "k": "talk",
-     "t": "...방금 뭐\n데려온 거야?",
+     "t": "뭘 봐\n덩치야",
+     "x": 0.26,
+     "y": 0.5,
+     "at": 1.4
+    }
+   ]
+  },
+  {
+   "say": "고양이는 한 발짝도 물러서지 않습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 44.0,
+    "audio": 0,
+    "blur": [
+     [
+      180,
+      228,
+      255,
+      50
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "안 비켜.\n절대 안 비켜.",
      "x": 0.3,
-     "y": 0.22,
+     "y": 0.24,
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "dur": 2.3,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 50.8,
+    "audio": 2.0,
+    "blur": [
+     [
+      180,
+      228,
+      255,
+      50
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "다시 보기",
+     "y": 0.08,
+     "at": 0.0
+    },
+    {
+     "k": "talk",
+     "t": "까불지 마라!!",
+     "x": 0.3,
+     "y": 0.55,
      "at": 0.6
     }
    ]
   },
   {
-   "say": "새 고양이를 데려왔을 뿐인데요.",
+   "dur": 3.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 6.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "단체 면접\n시작한다",
-     "x": 0.75,
-     "y": 0.22,
-     "at": 0.3
-    }
-   ]
-  },
-  {
-   "dur": 1.7,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 9.4,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "나 허락한 적\n없는데?",
-     "x": 0.3,
-     "y": 0.12,
-     "at": 0.15,
-     "s": "question",
-     "sv": 0.8
-    }
-   ]
-  },
-  {
-   "dur": 2.0,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 11.6,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(위아래 스캔)",
-     "x": 0.25,
-     "y": 0.3,
-     "at": 0.1
-    },
-    {
-     "k": "talk",
-     "t": "다리는\n내가 더 길어",
-     "x": 0.76,
-     "y": 0.42,
-     "at": 0.8
-    }
-   ]
-  },
-  {
-   "say": "집냥이 일곱 마리가 단체로 심사를 나옵니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 18.4,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(우르르)",
-     "x": 0.5,
-     "y": 0.06,
-     "at": 0.2
-    }
-   ]
-  },
-  {
-   "dur": 2.0,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 22.55,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "이름이 뭐냐",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.05,
-     "to": 0.75
-    },
-    {
-     "k": "talk",
-     "t": "신입이면\n간식부터 내놔",
-     "x": 0.68,
-     "y": 0.2,
-     "at": 0.8,
-     "s": "shock",
-     "sv": 0.7
-    }
-   ]
-  },
-  {
-   "say": "수의사들은 냄새부터 천천히 익히게 하라고 합니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 23.6,
+    "start": 64.3,
     "audio": 0,
-    "boomerang": true
+    "blur": [
+     [
+      180,
+      228,
+      255,
+      50
+     ]
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...일단 들어와\n보든가",
-     "x": 0.4,
-     "y": 0.13,
-     "at": 1.2,
-     "s": "heart",
+     "t": "...오늘은\n봐준다",
+     "x": 0.72,
+     "y": 0.22,
+     "at": 0.2
+    },
+    {
+     "k": "talk",
+     "t": "다신 오지 마라~",
+     "x": 0.3,
+     "y": 0.55,
+     "at": 1.4,
+     "s": "tada",
      "sv": 0.6
+    }
+   ]
+  },
+  {
+   "say": "흑곰은 원래 경계심이 많아 사람도 피하는 편이랍니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 68.5,
+    "audio": 0,
+    "blur": [
+     [
+      180,
+      228,
+      255,
+      50
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "내 구역에서\n썩 나가~",
+     "x": 0.35,
+     "y": 0.24,
+     "at": 0.6
     }
    ]
   }
  ],
  "yt": {
-  "title": "새 고양이 데려왔더니 집냥이 7마리의 반응ㅋㅋ #shorts",
-  "description": "고양이 일곱 마리가 사는 집에 새 고양이가 왔습니다. 이동장 문이 열리자 집냥이들이 하나둘 모여들더니, 일곱 마리가 일제히 신입을 쳐다보며 단체 심사를 시작합니다.\n\n틱톡에서 93만 회 넘게 재생된 영상입니다. 댓글엔 \"우리 허락한 적 없는데?\" 같은 반응이 쏟아졌죠. VCA 동물병원은 새 고양이를 들일 때 먼저 공간을 따로 마련하고, 서로 냄새부터 익히게 한 뒤 천천히 얼굴을 보게 하라고 권합니다(Newsweek).\n\n여러분 고양이는 새 식구를 처음 봤을 때 어땠나요?\n\n영상: TikTok @jiaotasd99732\n참고: Newsweek(2025.1.8)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "곰 앞에서도 믿는 구석이 있었던 고양이ㅋㅋ #shorts",
+  "description": "미국 뉴햄프셔의 숲속 집 앞 길에서 태비 고양이가 커다란 흑곰과 마주쳤습니다. 곰이 코앞까지 다가와 냄새를 맡아도 고양이는 한 발짝도 물러서지 않았고, 결국 냥펀치 한 방에 곰이 벌떡 일어섰다가 숲으로 돌아갔습니다. 다친 동물은 없었습니다.\n\n틱톡에서 1,400만 회 넘게 재생된 영상입니다(The Nerd Stash). 뉴햄프셔 야생동물국에 따르면 흑곰은 원래 경계심이 많아 사람을 피하는 편이고, 궁지에 몰리거나 위협을 느낄 때 겁주기용 돌진을 할 수는 있지만 실제 공격은 드물다고 합니다. 그래도 곰을 만나면 가까이 가지 말고 천천히 물러나는 게 안전합니다.\n\n여러분 고양이도 이렇게 겁이 없나요?\n\n영상: TikTok @statbeauty_michelle\n참고: The Nerd Stash(2026.8.7), New Hampshire Fish and Game\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
    "고양이",
-   "다묘가정",
-   "합사",
-   "새고양이",
-   "집냥이",
+   "곰",
+   "냥펀치",
+   "고양이반응",
    "웃긴고양이",
    "동물쇼츠",
    "냥이",
@@ -191,14 +242,19 @@
  },
  "sources": [
   {
-   "publisher": "TikTok @jiaotasd99732",
-   "url": "https://www.tiktok.com/@jiaotasd99732/video/7426307311481687338",
-   "date": "2024.10"
+   "publisher": "TikTok @statbeauty_michelle",
+   "url": "https://www.tiktok.com/@statbeauty_michelle/video/7670313164294212895",
+   "date": "2026"
   },
   {
-   "publisher": "Newsweek",
-   "url": "https://www.newsweek.com/owner-brings-home-new-cat-her-others-typically-feline-reaction-delights-2011634",
-   "date": "2025.1.8"
+   "publisher": "The Nerd Stash",
+   "url": "https://thenerdstash.com/brave-new-hampshire-cat-squares-up-to-black-bear-leaving-internet-in-stitches-what-kind-of-crazy-cat-is-this/",
+   "date": "2026.8.7"
+  },
+  {
+   "publisher": "New Hampshire Fish and Game",
+   "url": "https://www.wildlife.nh.gov/wildlife-and-habitat/black-bears-new-hampshire",
+   "date": ""
   }
  ],
  "publish_now": true
