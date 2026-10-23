@@ -12,6 +12,7 @@ concurrency:
 jobs:
   render:
     runs-on: ubuntu-latest
+    timeout-minutes: 25  # 2026.10.23: 설치가 멈춰도 뒤 원고를 30분 넘게 막지 않게
     env:
       TZ: Asia/Seoul
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -20,7 +21,13 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12", cache: pip}
-      - run: pip install -r requirements.txt && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg && python -m playwright install --with-deps chromium
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: pw-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+      - name: 설치(시간 제한+재시도)
+        timeout-minutes: 15
+        run: bash scripts/ci_install.sh fonts-noto-cjk ffmpeg
       - run: python -m cardnews.manual drafts/current.json
       - if: always()
         run: |
