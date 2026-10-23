@@ -395,8 +395,10 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
                 vf = (f"[0:v]split[a0][b0];[a0]scale=-2:{ah},crop=1080:{ah},boxblur=30:2,eq=brightness=-0.18[bb];"
                       f"[b0]scale=1080:-2:flags=lanczos,crop=1080:{fh}[ff];[bb][ff]overlay=0:{(ah - fh) // 2},"
                       f"pad=1080:1920:0:{top}:black,setsar=1,fps={FPS},format=yuv420p[bg]")
-            else:
-                vf = (f"[0:v]scale='if(gt(a,1080/{ah}),-2,1080)':'if(gt(a,1080/{ah}),{ah},-2)':flags=lanczos,"
+            else:  # video.zoom(>1): 동물이 작게 찍힌 원본을 확대(크롭 위치는 x·y)
+                zm = max(1.0, float(v.get("zoom", 1)))
+                zf = f"scale=trunc(iw*{zm}/2)*2:-2:flags=lanczos," if zm > 1 else ""
+                vf = (f"[0:v]scale='if(gt(a,1080/{ah}),-2,1080)':'if(gt(a,1080/{ah}),{ah},-2)':flags=lanczos,{zf}"
                       f"crop=1080:{ah}:(in_w-1080)*{v.get('x', 0.5)}:(in_h-{ah})*{v.get('y', 0.5)},"
                       f"pad=1080:1920:0:{top}:black,setsar=1,fps={FPS},format=yuv420p[bg]")
         elif fit == "fit":
