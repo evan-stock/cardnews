@@ -1,0 +1,40 @@
+name: life-vote
+# 인생 댓글로 정함: 매일 오전 9시(KST) 가장 최근 게시 영상의 댓글 투표를 집계해 새 텔레그램 봇으로 보낸다.
+# 결과: state/life_votes/<id>.json. 수동 실행 시 id 칸에 게시물 id를 넣으면 그 화를 다시 집계.
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 09:00 KST (GitHub 예약은 몇~수십 분 늦을 수 있음)
+  workflow_dispatch:
+    inputs:
+      id:
+        description: "게시물 id(비우면 가장 최근 게시물)"
+        default: ""
+permissions:
+  contents: write
+concurrency:
+  group: life-vote
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TZ: Asia/Seoul
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN_LIFE: ${{ secrets.YT_REFRESH_TOKEN_LIFE }}
+      TELEGRAM_BOT_TOKEN_LIFE: ${{ secrets.TELEGRAM_BOT_TOKEN_LIFE }}
+      TELEGRAM_CHAT_ID_LIFE: ${{ secrets.TELEGRAM_CHAT_ID_LIFE }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q requests pyyaml
+      - name: 집계
+        run: python -m cardnews.life_vote ${{ inputs.id }}
+      - if: always()
+        run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          git add -A state/life_votes 2>/dev/null || true
+          git diff --cached --quiet || { git commit -m "life: vote"; for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep $((i*5)); done; }

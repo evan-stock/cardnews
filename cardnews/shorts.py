@@ -747,6 +747,8 @@ def _one(d):
                    "synthetic": bool(y.get("synthetic", any(s.get("label") for s in d["scenes"]))),
                    "channel": y.get("channel")}}
     post["draft_hash"] = draft_hash(d)
+    if d.get("vote"):  # 댓글 투표 선택지(인생 댓글로 정함, cardnews/life_vote.py)
+        post["vote"] = d["vote"]
     post["tg_msg"] = send_preview(post, out)
     if d.get("approved"):  # 채팅에서 이미 승인받은 경우만. publish_now는 '승인되면 바로 공개'라는 뜻일 뿐 승인을 대신하지 않는다
         post.update(status="approved", decided_at=now().isoformat())
