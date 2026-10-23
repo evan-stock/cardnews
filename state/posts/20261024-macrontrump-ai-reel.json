@@ -1,0 +1,32 @@
+{
+ "id": "20261024-macrontrump-ai-reel",
+ "format": "reel",
+ "slot": "morning",
+ "status": "approved",
+ "created_at": "2026-10-24T03:08:00+09:00",
+ "publish_at": "2026-10-24T07:00:00+09:00",
+ "decided_at": "2026-10-24T03:08:00+09:00",
+ "topic": "트럼프가 프랑스 폭동을 무슬림 이민자 탓 → 마크롱 '받아들일 수 없고 어리석다' 반박 (AI 재연 영상)",
+ "category": "해외 화제",
+ "sources": [
+  {
+   "publisher": "AP",
+   "date": "2026.10.21",
+   "url": "https://www.boston25news.com/news/macron-blasts-stupid/VWXJPRWXOI7DXMUWN5BJ6K6SMY/"
+  },
+  {
+   "publisher": "Euronews",
+   "date": "2026.10.23",
+   "url": "https://www.euronews.com/2026/10/23/suspect-arrested-after-1-killed-and-several-injured-in-a-shooting-in-paris-suburb"
+  }
+ ],
+ "files": [
+  "media/20261024-macrontrump-ai-reel/reel.mp4"
+ ],
+ "cover": "media/20261024-macrontrump-ai-reel/reel_cover.jpg",
+ "caption_full": "[트럼프 \"이민자 탓\" → 마크롱 \"어리석은 소리\"]\n\n프랑스 곳곳에서 치솟는 생활비에 항의하는 시위가 폭동과 약탈로 번졌습니다.\n\n그러자 트럼프 대통령은 근거 없이 무슬림 이민자들을 탓하며 마크롱에게 국경을 닫으라고 했습니다.\n\n마크롱은 10월 21일 카타르에서 정면으로 받아쳤습니다. 이런 외국 지도자들의 말은 받아들일 수 없고 어리석다고 했고, 트럼프를 말하냐는 질문에는 \"그중 하나\"라고 답했습니다. 이민자 무리가 프랑스를 침공했다는 주장은 완전히 거짓이며, AI로 만든 가짜 장면까지 퍼지고 있다고 덧붙였습니다.\n\n남의 나라 폭동, 이민자 탓일까요? 생활비 탓일까요? 이민자 탓 vs 생활비 탓\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.\n\n※ 이 영상은 AI로 재연한 장면입니다. 실제 장면이 아닙니다.\n\n출처: AP 2026.10.21, Euronews 2026.10.23\n영상: AI 재연 영상(Higgsfield 생성)\n\n#마크롱 #트럼프 #프랑스폭동 #파리시위 #AI재연",
+ "credits": [
+  "영상: AI 재연 영상(Higgsfield 생성)"
+ ],
+ "manual": true
+}
