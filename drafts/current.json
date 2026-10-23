@@ -1,1 +1,28 @@
-[]
+[
+ {
+  "id": "20261023-solidigm",
+  "slot": "lunch",
+  "mode": "collect",
+  "topic": "SK하이닉스, 美 자회사 솔리다임 나스닥 상장(IPO)·프리IPO 검토 중단",
+  "category": "국내 사회 화제(주식 초대형 이슈 예외)",
+  "emotion": "통쾌(개미들 반발에 결국 물러섰다)",
+  "sources": [
+   {"publisher": "SK하이닉스 뉴스룸", "url": "https://news.skhynix.co.kr/fact-12/", "date": "2026.10.23"},
+   {"publisher": "뉴스1", "url": "https://www.news1.kr/industry/general-industry/6329358", "date": "2026.10.23"},
+   {"publisher": "머니투데이방송", "url": "https://news.mtn.co.kr/article/2026102309181158185", "date": "2026.10.23"},
+   {"publisher": "한국경제", "url": "https://www.hankyung.com/article/2026102298171", "date": "2026.10.23"},
+   {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202610230834245900", "date": "2026.10.23"}
+  ],
+  "image_pages": [
+   "https://www.hankyung.com/article/2026102303026",
+   "https://www.fnnews.com/news/202610230740056151",
+   "https://www.joongangenews.com/news/articleView.html?idxno=557608",
+   "https://www.etoday.co.kr/news/view/2639172",
+   "https://www.lcnews.co.kr/news/articleView.html?idxno=210132",
+   "https://news.jkn.co.kr/post/1043817",
+   "https://www.fnnews.com/news/202610201734057078",
+   "https://www.hankyung.com/article/202610229798i"
+  ],
+  "slides": []
+ }
+]
