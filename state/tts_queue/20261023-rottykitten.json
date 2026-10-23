@@ -1,0 +1,51 @@
+{
+ "id": "20261023-rottykitten",
+ "created": "2026-10-24T08:24:32.347646+09:00",
+ "items": [
+  {
+   "key": "4e189f01f911",
+   "text": "아기 고양이랑 눈이 마주친 로트와일러인데요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "bc0227feb8a8",
+   "text": "덩치는 훨씬 큰데 벽에 딱 붙었습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "로트와일러는 최대 61킬로그램까지 자라는 대형견입니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "8ba7e792703a",
+   "text": "로트와일러는 최대 61킬로그램까지 자라는 대형견입니다.",
+   "ctx": {
+    "previous_text": "덩치는 훨씬 큰데 벽에 딱 붙었습니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
