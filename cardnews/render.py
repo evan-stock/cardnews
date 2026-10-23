@@ -67,7 +67,7 @@ def render(slides, outdir, sty=None, col=None, overlays=()):
           st.sty=x.sty; st.col=x.col; $('ch').value=x.ch; $('hd').value=x.hd;
           S=[];
           if(x.logo){LOGO=new Image();await new Promise(r=>{LOGO.onload=r;LOGO.onerror=r;LOGO.src=x.logo})}
-          for(const s of x.slides){const o={t:s.t,b:s.b,sub:s.sub||'',lay:s.lay||'',f1:s.f1||'',bal:s.bal||'',cal:s.cal||'',circle:s.circle||null};
+          for(const s of x.slides){const o={t:s.t,b:s.b,sub:s.sub||'',lay:s.lay||'',f1:s.f1||'',bal:s.bal||'',cal:s.cal||'',circle:s.circle||null,raw:!!s.raw};
             if(s.img){const im=new Image();await new Promise((r,j)=>{im.onload=r;im.onerror=r;im.src=s.img});if(im.naturalWidth)o.img=im}
             if(s.inset){const ii=new Image();await new Promise(r=>{ii.onload=r;ii.onerror=r;ii.src=s.inset.img});if(ii.naturalWidth)o.inset={...s.inset,im:ii}}
             S.push(o)}
