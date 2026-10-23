@@ -1,0 +1,143 @@
+{
+ "id": "20261023-robotcamel",
+ "media": "media/20261023-robotcamel",
+ "topic": "낙타 경주 로봇 기수 — 원래는 몸무게를 줄이려 굶긴 어린아이(남아시아·아프리카에서 인신매매)가 탔고, 2005년 무렵 UAE·카타르가 금지하자 원격 조종 로봇이 대신함",
+ "hook": {
+  "t": "낙타 등에 탄 작은\n'기수'의 숨은 정체ㄷㄷ"
+ },
+ "credit": "영상: TikTok @ilqlive(I Love Qatar) · @umutdxb",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "낙타 등에 탄 이 작은 기수, 자세히 보면",
+   "video": {
+    "src": "video/tmp_zoom2.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "사람이 아니라 '로봇'이다",
+   "video": {
+    "src": "video/ilq.mp4",
+    "start": 10.5,
+    "x": 0.5,
+    "y": 0.6,
+    "speed": 0.3
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "주인은 차로 따라가며 '원격'으로 채찍질",
+   "video": {
+    "src": "video/ilq.mp4",
+    "start": 17.32,
+    "x": 0.5,
+    "y": 0.75,
+    "speed": 0.3
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "부자들의 신기한 장난감 같지만",
+   "video": {
+    "src": "video/tmp_zoom3.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "원래 이 자리엔 어린 '아이들'이 탔다",
+   "video": {
+    "src": "video/umut.mp4",
+    "start": 10.0,
+    "x": 0.5,
+    "y": 0.75
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "가벼울수록 빨라서 밥까지 '굶겨' 가며 태웠다",
+   "video": {
+    "src": "video/umut.mp4",
+    "start": 2.6,
+    "x": 0.5,
+    "y": 0.6
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "남아시아·아프리카에서 '팔려 온' 아이가 많았다",
+   "video": {
+    "src": "video/umut.mp4",
+    "start": 8.7,
+    "x": 0.5,
+    "y": 0.65
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "2005년 금지되자 '로봇'이 대신 탔다",
+   "video": {
+    "src": "video/ilq.mp4",
+    "start": 10.5,
+    "x": 0.5,
+    "y": 0.45,
+    "speed": 0.3
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "그해 파키스탄 아이만 약 1,000명이 집으로",
+   "video": {
+    "src": "video/umut.mp4",
+    "start": 0.0,
+    "x": 0.5,
+    "y": 0.6,
+    "speed": 0.4
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "숨은 진실이 더 궁금하면 '구독' 눌러 줘요",
+   "video": {
+    "src": "video/tmp_zoom2.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 0.4
+   },
+   "dur": 3.0
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @ilqlive 원본(7436785710784335112, 2024.11 — I Love Qatar 가 카타르 알샤하니야 낙타 경주장에서 직접 촬영: 로봇 기수 더미·차로 따라가는 주인·경주. 오른쪽 위 자체 로고·아래 여행사 광고 글자는 크롭으로 피함)",
+  "영상: TikTok @umutdxb 원본(7465318677106216200, 2025.1 — 두바이 낙타 경주 직접 촬영. 위쪽 'FREE ENTRY' 글자는 크롭으로 피함, 일부 장면 확대 tmp_zoom2/tmp_zoom3)"
+ ],
+ "sources": [
+  {
+   "publisher": "Wikipedia 'Robot jockey' — 원격 조종(옆에서 SUV 운전), 채찍·고삐 조작, 어린아이를 몸무게 때문에 굶김, 납치·인신매매, 카타르 2005 금지·2007까지 로봇 전환, 2010 위반 보고",
+   "url": "https://en.wikipedia.org/wiki/Robot_jockey"
+  },
+  {
+   "publisher": "Oxford 'Ethics for AI' 2017.1.3 Robot camel jockeys — UAE 2005 금지, 수단·에리트레아·모리타니·인도·파키스탄·방글라데시 출신, 실종 아이 약 3,000명(Ansar Burney Trust)",
+   "url": "https://www.cs.ox.ac.uk/efai/2017/01/03/robotcameljockeys/"
+  },
+  {
+   "publisher": "Khaleej Times 2005.9.11 '1000 kid jockeys will return home' — 파키스탄 어린이 기수 약 1,000명 귀국, UNICEF 감독",
+   "url": "https://www.khaleejtimes.com/uae/1000-kid-jockeys-will-return-home?amp=1"
+  }
+ ],
+ "_note": "ilq.mp4 = TikTok @ilqlive/7436785710784335112 (576x1024, 30초). 10.2~11.1 로봇 더미, 17.4~18.3 낙타+SUV 주인, 19.5~21.3 SUV 행렬, 8.5~9.2 로봇 태운 낙타 뒤, 21.4~22 로봇 낙타 달리기, 22초~ 아래 Murex 광고 글자(y 0.68~0.75). umut.mp4 = TikTok @umutdxb/7465318677106216200 (576x1024, 13초, 위 FREE ENTRY 글자 y 0.08~0.13). tmp_zoom2 = ffmpeg -ss 0 -t 1.2 -i umut.mp4 -vf crop=440:318:60:410,scale=1080:780, tmp_zoom3 = -ss 7.4 -t 1.2 crop=440:318:60:400 (커밋 안 함)."
+}
