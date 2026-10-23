@@ -2,7 +2,7 @@
  {
   "id": "20261023-nkstandby",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "topic": "중국 주재 북한 공무원 비상 대기령 첩보(고영환, 채널A)",
   "category": "해외 화제",
   "emotion": "불안·궁금(평양에 무슨 일이?)",
@@ -42,6 +42,7 @@
   ],
   "photo_credits": [
    "조선중앙통신(뉴스1)"
-  ]
+  ],
+  "publish_now": true
  }
 ]
