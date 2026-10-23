@@ -1,6 +1,6 @@
 """'인생 댓글로 정함' 댓글 투표 집계 (2026.10.23).
 
-매일 마감 시각(오전 9시, .github/workflows/life-vote.yml)에 가장 최근 게시된 life 채널 쇼츠의 댓글을 읽어
+매일 마감 시각(저녁 7시, .github/workflows/life-vote.yml)에 가장 최근 게시된 life 채널 쇼츠의 댓글을 읽어
 선택지별 점수를 세고, 결과를 새 텔레그램 봇(TELEGRAM_BOT_TOKEN_LIFE)으로 보낸다. 결과는 state/life_votes/<id>.json.
 
 규칙(2026.10.23 사용자 결정, 설명란 "댓글 1등(좋아요 가장 많은 댓글)대로"와 같음):
