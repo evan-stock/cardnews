@@ -2,7 +2,7 @@
  "id": "20261024-kjudandong4",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-24T20:37:28.022055+09:00",
  "publish_at": "2026-10-24T21:00:00+09:00",
  "topic": "사망설 돌던 김정은 오늘 중국 단둥 도착 + 역대 김정은 음모론 도감(사망·실각/대역/혼수·섭정)",
@@ -117,5 +117,8 @@
   "media/20261024-kjudandong4/06.jpg"
  ],
  "tg_msg": 1048,
- "decided_at": "2026-10-24T20:37:30.462057+09:00"
+ "decided_at": "2026-10-24T20:37:30.462057+09:00",
+ "ig_media_id": "18088134410290032",
+ "permalink": "https://www.instagram.com/p/De4FZQKGwTC/",
+ "published_at": "2026-10-24T21:01:25.946228+09:00"
 }
