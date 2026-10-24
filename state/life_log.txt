@@ -1,4 +1,4 @@
-Gemini TTS: 사용 (새로 만듦)
+Gemini TTS: 사용 (저장본)
 장면 1/6 gemini 누적 4.4초
 장면 2/6 gemini 누적 8.5초
 장면 3/6 gemini 누적 11.9초
