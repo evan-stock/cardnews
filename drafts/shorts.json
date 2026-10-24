@@ -1,279 +1,144 @@
 {
- "id": "20261024-parrotcat",
+ "id": "20261025-catplatter",
  "mode": "send",
  "format": "meme",
- "topic": "아프리카회색앵무 코코가 창문 너머 이웃 길냥이에게 'Look a bird/Look a cat/Hello'라고 말 걸다 냥펀치(유리 너머)를 맞고 '야옹'으로 받아친 뒤 'C'mon off ye go'(TikTok @clairerosa90, 북아일랜드 벨파스트, Newsweek 2025.7.10, 180만 회+). 원본은 앵무새 말소리·현장음, 음악 없음.",
+ "topic": "통통한 태비 고양이 데니스가 손님상처럼 차려 놓은 원형 식탁 한가운데 서빙 접시 위에 식빵 자세로 들어앉아 '메인 요리'가 됨(TikTok @annadrury59, 촬영자 애나 드루리가 웃으며 다가가 찍음, TAG24 Viral Video of the Day 2025.11.30). 원본 소리는 촬영자의 고양이에게 거는 말투·현장음(음악 트랙 없음). 사실: Hill's Pet — 식빵 자세는 편안함의 표시, 방어·도망 자세가 아님.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 0.8,
  "sfx_max": 3,
  "hook": {
-  "t": "앵무새가 이상형 냥이를\n'만나면 일어나는 일ㅋㅋ'"
+  "t": "저녁상 차려놨더니\n'메인 요리가 고양이ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @clairerosa90"
+  "TikTok @annadrury59"
  ],
  "scenes": [
   {
-   "dur": 1.9,
+   "dur": 2.4,
    "video": {
     "src": "video/v1.mp4",
-    "start": 79.1,
-    "audio": 10,
-    "y": 1.0,
-    "blur": [
-     [
-      125,
-      636,
-      280,
-      122
-     ]
-    ]
+    "start": 13.3,
+    "audio": 1.0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "봐봐!\n새다!",
-     "x": 0.3,
-     "y": 0.16,
+     "t": "뭘 봐?\n메인 요리 처음 봐?",
+     "x": 0.66,
+     "y": 0.1,
      "at": 0.3,
+     "s": "dundun",
+     "sv": 0.8
+    }
+   ]
+  },
+  {
+   "say": "저녁상을 차려 놨더니, 접시 위에 뭔가 올라가 있습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 9.3,
+    "audio": 0.4
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "(식빵 굽는 중)",
+     "x": 0.4,
+     "y": 0.3,
+     "at": 1.6
+    }
+   ]
+  },
+  {
+   "dur": 1.8,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 15.6,
+    "audio": 1.0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "주문하신 메인\n나왔습니다~",
+     "x": 0.62,
+     "y": 0.1,
+     "at": 0.2,
      "s": "pop",
      "sv": 0.8
     },
     {
+     "k": "sfx",
+     "t": "(꾸벅)",
+     "x": 0.25,
+     "y": 0.55,
+     "at": 0.7
+    }
+   ]
+  },
+  {
+   "say": "집사가 다가가도, 메인 요리는 꿈쩍도 하지 않습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 17.4,
+    "audio": 0.4
+   },
+   "caps": [
+    {
      "k": "talk",
-     "t": "...니가\n새잖아",
-     "x": 0.62,
-     "y": 0.8,
+     "t": "(안 비킴)",
+     "x": 0.33,
+     "y": 0.3,
      "at": 1.0
     }
    ]
   },
   {
-   "dur": 3.2,
+   "dur": 2.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 82.3,
-    "audio": 10,
-    "y": 1.0,
-    "blur": [
-     [
-      135,
-      636,
-      255,
-      122
-     ]
-    ]
+    "start": 11.2,
+    "audio": 1.0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "아 아니다\n고양이다!!",
-     "x": 0.3,
-     "y": 0.16,
-     "at": 0.2
-    },
-    {
-     "k": "talk",
-     "t": "(나 말하는 거임?)",
+     "t": "그릇이 내 모양이면\n내 그릇 아님?",
      "x": 0.6,
-     "y": 0.86,
-     "at": 1.5,
+     "y": 0.1,
+     "at": 0.2,
      "s": "question",
      "sv": 0.8
     }
    ]
   },
   {
-   "say": "앵무새 코코는 창밖 길냥이한테 푹 빠졌습니다.",
+   "say": "앞발을 숨긴 식빵 자세는, 아주 편안하다는 뜻이랍니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 85.6,
-    "audio": 1.5,
-    "y": 1.0,
-    "blur": [
-     [
-      80,
-      630,
-      420,
-      140
-     ]
-    ]
+    "start": 18.8,
+    "audio": 0.4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "내 이상형..",
+     "t": "여기\n내 자리야",
      "x": 0.3,
-     "y": 0.16,
-     "at": 0.8
-    }
-   ]
-  },
-  {
-   "say": "냥이가 대답이 없자, 다정하게 다시 불러 봅니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 97.0,
-    "audio": 1.5,
-    "y": 1.0,
-    "blur": [
-     [
-      80,
-      630,
-      420,
-      140
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "(못 들은 척)",
-     "x": 0.6,
-     "y": 0.86,
+     "y": 0.28,
      "at": 1.0
-    }
-   ]
-  },
-  {
-   "dur": 1.5,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 102.9,
-    "audio": 8,
-    "y": 1.0,
-    "blur": [
-     [
-      175,
-      636,
-      190,
-      122
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "냥아~\n안녕~?",
-     "x": 0.25,
-     "y": 0.12,
-     "at": 0.2
-    }
-   ]
-  },
-  {
-   "dur": 3.0,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 104.4,
-    "audio": 8,
-    "y": 1.0,
-    "blur": [
-     [
-      80,
-      630,
-      420,
-      140
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(냥펀치!!)",
-     "x": 0.22,
-     "y": 0.06,
-     "at": 0.15,
-     "s": "shock",
-     "sv": 0.8
-    },
-    {
-     "k": "talk",
-     "t": "유리 없었으면\n너 끝났어",
-     "x": 0.3,
-     "y": 0.86,
-     "at": 1.2
-    },
-    {
-     "k": "talk",
-     "t": "헉..",
-     "x": 0.8,
-     "y": 0.1,
-     "at": 0.6
-    }
-   ]
-  },
-  {
-   "dur": 2.4,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 110.4,
-    "audio": 6,
-    "y": 1.0,
-    "blur": [
-     [
-      170,
-      636,
-      200,
-      122
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "(고양이 말로 받아침)",
-     "x": 0.5,
-     "y": 0.06,
-     "at": 0.2
-    },
-    {
-     "k": "talk",
-     "t": "야옹(?)",
-     "x": 0.3,
-     "y": 0.2,
-     "at": 0.6
-    }
-   ]
-  },
-  {
-   "say": "아프리카회색앵무는 말을 제일 잘하는 앵무새로, 초인종 소리까지 따라 합니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 112.8,
-    "audio": 1.0,
-    "y": 1.0,
-    "blur": [
-     [
-      80,
-      630,
-      420,
-      140
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "자~ 이제\n가 봐~",
-     "x": 0.3,
-     "y": 0.16,
-     "at": 0.8
     }
    ]
   }
  ],
  "yt": {
-  "title": "앵무새가 이상형 고양이 만나면 일어나는 일ㅋㅋ #shorts",
-  "description": "창밖에 놀러 온 이웃집 길냥이에게 푹 빠진 아프리카회색앵무 코코. \"봐봐, 새다!\"... 아니 \"고양이다!\" 열심히 말을 걸어 보지만, 돌아온 건 유리창 너머 냥펀치. 코코의 대답은 \"야옹\"이었습니다.\n\n북아일랜드 벨파스트에 사는 집사 클레어가 올린 영상으로, 틱톡에서 180만 회 넘게 재생됐습니다. VCA 동물병원에 따르면 아프리카회색앵무는 말을 가장 잘하는 앵무새 중 하나로, 휴대폰 벨소리나 초인종 같은 전자음까지 흉내 냅니다.\n\n여러분 집 새는 무슨 말을 하나요?\n\n영상: TikTok @clairerosa90\n참고: Newsweek(2025.7.10)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "저녁상 차려놨더니 메인 요리가 고양이ㅋㅋ #shorts",
+  "description": "손님 맞을 저녁 식탁을 예쁘게 차려 놨더니, 한가운데 서빙 접시에 통통한 고양이 데니스가 쏙. 몸이 접시에 딱 맞아서 원래 데니스 자리처럼 보입니다. 집사가 다가가도 꿈쩍도 안 하는 오늘의 메인 요리.\n\n집사 애나 드루리가 틱톡에 올린 영상입니다. 반려동물 사료 회사 힐스(Hill's)에 따르면 앞발을 몸 밑에 숨긴 '식빵 자세'는 고양이가 편안하다는 표시로, 언제든 뛰쳐나갈 방어 자세가 아니라고 합니다.\n\n여러분 집 고양이는 어디서 식빵을 굽나요?\n\n영상: TikTok @annadrury59\n참고: TAG24(2025.11.30), Hill's Pet Nutrition\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "앵무새",
-   "아프리카회색앵무",
-   "말하는앵무새",
    "고양이",
-   "길냥이",
-   "웃긴동물",
+   "식빵자세",
+   "뚱냥이",
+   "고양이일상",
+   "웃긴고양이",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
@@ -282,15 +147,23 @@
  },
  "sources": [
   {
-   "publisher": "TikTok @clairerosa90",
-   "url": "https://www.tiktok.com/@clairerosa90/video/7523259906669989142",
-   "date": "2025.7.5"
+   "publisher": "TikTok @annadrury59",
+   "url": "https://www.tiktok.com/@annadrury59/video/7577953677642681655",
+   "date": "2025.11"
   },
   {
-   "publisher": "Newsweek",
-   "url": "https://www.newsweek.com/parrot-leaves-viewers-speechless-he-chats-local-cat-best-friend-2097147",
-   "date": "2025.7.10"
+   "publisher": "TAG24 Viral Video of the Day",
+   "url": "https://www.tag24.com/topic/viral-video-of-the-day/viral-video-of-the-day-for-november-30-2025-cat-becomes-main-course-in-hilarious-dinner-setup-fail-3428549",
+   "date": "2025.11.30"
+  },
+  {
+   "publisher": "Hill's Pet Nutrition",
+   "url": "https://www.hillspet.com/cat-care/behavior-appearance/what-is-a-cat-loaf",
+   "date": ""
   }
  ],
- "publish_now": true
+ "publish_now": true,
+ "style": {
+  "sub_y": 0.8
+ }
 }
