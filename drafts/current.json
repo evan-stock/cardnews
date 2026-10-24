@@ -1,127 +1,22 @@
 [
  {
-  "id": "20261024-kjudandong4",
+  "id": "20261024-kukurtihar",
   "slot": "evening",
-  "mode": "send",
-  "topic": "사망설 돌던 김정은 오늘 중국 단둥 도착 + 역대 김정은 음모론 도감(사망·실각/대역/혼수·섭정)",
-  "category": "안보·국내 후속",
-  "emotion": "반전(죽었다더니 중국에) + 불안",
-  "core": "통일부(경향·파이낸셜 10.24), 주간경향 팩트체크 10.22, 경향 10.24(조선중앙통신 중대장대회), 머니투데이 18:11·파이낸셜 17:25(정보위 간사: 당일 귀국 유력), 한경 18:42(리창 '전해짐').",
-  "risk": "지라시는 모두 '확인 안 됨' 표기. 방중 목적 단정 금지. 리창 회동은 '전해졌다'. 사진은 조선중앙통신·연합만. 표지 B는 밈이라 캡션 첫 줄에 밝힘.",
-  "slides": [
-   {
-    "t": "사망설 돌던 김정은, 오늘 중국 도착\n건강하고 '푸짐'해",
-    "lay": "one"
-   },
-   {
-    "t": "",
-    "b": ""
-   },
-   {
-    "t": "",
-    "b": ""
-   },
-   {
-    "t": "",
-    "b": ""
-   },
-   {
-    "t": "",
-    "b": ""
-   },
-   {
-    "t": "다음 음모론은 뭘까?\n'댓글'로 예언하기",
-    "b": "팔로우하면 다음 팩트체크 먼저 받아보기"
-   }
+  "mode": "collect",
+  "topic": "네팔 쿠쿠르 티하르(개의 날) 사진 캐러셀",
+  "image_urls": [
+   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/864824748_18658682122044850_4798258029399162823_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAxNDM3Nzk1NDgyODQ2MzY5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=S41ZUC7A_FgQ7kNvwFbCbfE&_nc_oc=AdqbVWGQ9Et533hWyPIMM2cSdFzvmHGSedzKjiVz29twK0AILX__QbE3TL0Uu8p1Pqs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQNvWBiNbIPCAyqRCXGle3Q0c0atxDZLkp7zjWxLDJDaoQ&oe=6AE26C57",
+   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/863066554_18658682113044850_3567820362738467080_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAxNDM3Nzk1NTk2MDkzMDI0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zwMb-d4PpgcQ7kNvwFMsXNC&_nc_oc=Adp9QdwISyKmUq4usyEs8vy5h1omaEqwdlxM_mQrbs1Xxb6zCp4VrCqst0pwdoWypWY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQMG_qYLxD8Dqw4FeK5T__Tz61Z8DFqSJtE0qmwIOhThOw&oe=6AE279F7",
+   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/859610720_18658682110044850_6810430522740469119_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAxNDM3Nzk1OTMzMzI0NDI5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iUJO6ttg4zYQ7kNvwHLcYGI&_nc_oc=AdpyDRn7Y7CgigAlKQXSBE_B1Dm6wBBowcBFQbPteoyAOAormC-CfSwRQond-Xlap_U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQPEBKv0dLQDZU55OdFZeV0hjqsqbZX6tcEu97tW_6XjPQ&oe=6AE2757A",
+   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/861744956_18658682188044850_7612386267498610524_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAxNDM3Nzk3MDUxNTA4Mjc3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MOL7gMzu7QYQ7kNvwGlZaOP&_nc_oc=AdrD4c9meUt7cyLC2vaSfjQm8a-HYBjDjk-L6gZMMvAw79ZXM_ZzILytwtOmoYJpzKI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQNPOUSUdgTpwSzCOF5cDDFmKP9TNkibngQ3e7VM8LXojg&oe=6AE282B8",
+   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/865503097_18658682197044850_5120781377878053729_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAxNDM3Nzk3MjU2MTg3NDI4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hyCHq8rBMekQ7kNvwE7pmbW&_nc_oc=AdqmYDAoRbzBgm97iFAWTo4yKp6r306EA9kXsyoM21R73uCL0fN_H9EUwqEtrNCvG8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQOYnGTw9uN1_15O7hl7bj9--0WKdwu7vbxt0m00ghzBpA&oe=6AE2806E",
+   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/861148447_18658682215044850_5200096442481560947_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxNDM3Nzk3NjE0NDA2NDMwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=NjKqM3j0Q9QQ7kNvwGUFJM5&_nc_oc=Adrh9_aKID-XKHB6Imdhp2YFOir2bputvkQFdp1x67bPrvNYFash9d7StGFQEt0MJNE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQPPmdB9C29ASUCUVUCx10y0TyCwsZ2GJMGD2pcOIeL7tg&oe=6AE2774F",
+   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/863413691_18658682269044850_7924030848979845332_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxNDM3Nzk4NzI3NTU5MzE1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f6UGduhpvoIQ7kNvwHF2Gkx&_nc_oc=AdofKUxYoJh_xYe56s4COcegwgVCRxBEBHUWP-DK31hejf2YgWzGv72k6hNOJPeYCSY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQNFNyAkfzk5hb1co-elBuVaHYxmDlBBbebrN6jZrvnoHA&oe=6AE2858D",
+   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/861668578_18658682278044850_6467018805486368641_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAxNDM3Nzk4NDU2NjA0NTE3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GlJwkMd5JnIQ7kNvwG8JNp-&_nc_oc=AdrXRR1vjN3XhfV36jJmGh4cczuGjrBzsyWUsXe-DpZBBeMs5ojPIC4NUcL9un7MA2E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQPFoFQp77ZOlAF6togaP3vNGvXbyVPRGo282PSWaSwvdg&oe=6AE25924",
+   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/863115947_18658682296044850_8580776653921461255_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxNDM3Nzk4OTEyOTU1OTM2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JqeerFYMG-MQ7kNvwGo7IqF&_nc_oc=AdqJ2nJGOK6vVCxDvwXPwgqnN8vZJUIzedZYmM7GSeKDc9hD3NbfhVj5qJjjPQjvTjk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQPCHbRLWygfX6tbJ4O80tvA52Y_0a25q52W_q0wRHMjqg&oe=6AE27172"
   ],
-  "images": [
-   "cover_kju",
-   "cs1",
-   "cs2",
-   "cs3",
-   "c_g_summary",
-   "cover_kju"
-  ],
-  "caption": "[사망설 돌던 김정은, 오늘 중국 도착]\n※ 표지 문구는 밈(패러디)이며 김정은의 실제 발언이 아닙니다.\n\n지난주 카톡 단톡방에 '김정은 뇌출혈 사망' 지라시가 돌았습니다. 김한솔 후계, 주한미군 투입까지 붙었지만 모두 확인되지 않은 주장이었고, 국정원도 23일 국회에 사망설은 사실이 아니라고 보고했습니다. 조선중앙통신은 김정은이 22~23일 평양에서 군 중대장대회를 지도했다고 보도했고, 24일 통일부는 그가 신압록강대교를 건너 중국 단둥에 도착했다고 밝혔습니다. 리창 총리가 맞았다고 전해졌지만 북·중 공식 발표는 없고, 방중 목적도 공개되지 않았습니다(24일 저녁 기준).\n\n김정은 음모론은 처음이 아닙니다. 2014년 40일 잠적 때는 쿠데타·망명설, 2020년엔 \"99% 사망\"과 심장 수술설, 같은 해 8월엔 혼수상태·김여정 대리 통치설이 돌았습니다. 치아와 귀 모양이 다르다, 살이 빠졌으니 가짜다 하는 대역설도 여러 번 나왔습니다. 결과는 매번 같았습니다. 다시 나타났습니다.\n\n다음 음모론은 뭘까요? 댓글로 예언해 보세요 💬\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
-  "hashtags": [
-   "김정은",
-   "김정은사망설",
-   "김정은대역설",
-   "음모론",
-   "김정은방중"
-  ],
-  "sources": [
-   {
-    "publisher": "경향신문(통일부 발표)",
-    "date": "2026.10.24",
-    "url": "https://www.khan.co.kr/article/202610241505001/"
-   },
-   {
-    "publisher": "주간경향(지라시 팩트체크)",
-    "date": "2026.10.22",
-    "url": "https://weekly.khan.co.kr/article/202610221824001"
-   },
-   {
-    "publisher": "경향신문",
-    "date": "2026.10.24",
-    "url": "https://www.khan.co.kr/article/202610240948001"
-   },
-   {
-    "publisher": "머니투데이",
-    "date": "2026.10.24",
-    "url": "https://www.mt.co.kr/politics/2026/10/24/2026102418063580135"
-   },
-   {
-    "publisher": "파이낸셜뉴스",
-    "date": "2026.10.24",
-    "url": "https://www.fnnews.com/news/202610241725010314"
-   },
-   {
-    "publisher": "오마이뉴스(역대 사망설)",
-    "date": "2026.10.21",
-    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277689"
-   },
-   {
-    "publisher": "YTN",
-    "date": "2026.10.21",
-    "url": "https://www.ytn.co.kr/_ln/0101_202610211011305867"
-   },
-   {
-    "publisher": "코리아헤럴드",
-    "date": "2026.10",
-    "url": "https://www.koreaherald.com/article/10910188"
-   },
-   {
-    "publisher": "한국경제",
-    "date": "2026.10.24",
-    "url": "https://www.hankyung.com/article/2026102425637"
-   },
-   {
-    "publisher": "파이낸셜뉴스(대역설)",
-    "date": "2026.10.22",
-    "url": "https://www.fnnews.com/news/202610221506559909"
-   },
-   {
-    "publisher": "이데일리(2020 혼수상태설)",
-    "date": "2020.8.21",
-    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02132006625869616"
-   },
-   {
-    "publisher": "서울신문(국정원 위임통치 보고)",
-    "date": "2020.8.21",
-    "url": "https://www.seoul.co.kr/news/politics/north/2020/08/21/20200821001025"
-   },
-   {
-    "publisher": "뉴스엔(SBS 당혹사3 대역설 분석)",
-    "date": "2022.1.19",
-    "url": "https://v.daum.net/v/EU2DvPNpzo?f=p"
-   }
-  ],
-  "photo_credits": [
-   "조선중앙통신·연합뉴스",
-   "2~5장 그래픽: 오늘의쓸모 제작"
-  ],
-  "publish_at": "2026-10-24T21:00:00+09:00",
-  "approved": true
+  "referer": "https://www.instagram.com/",
+  "image_pages": [],
+  "limit": 0
  }
 ]
