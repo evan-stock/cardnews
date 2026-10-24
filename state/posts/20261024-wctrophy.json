@@ -1,7 +1,7 @@
 {
  "id": "20261024-wctrophy",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-10-24T08:46:17.152516+09:00",
  "publish_at": "2026-10-24T08:46:17.152530+09:00",
  "publish_now": true,
@@ -34,5 +34,6 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 979
+ "tg_msg": 979,
+ "decided_at": "2026-10-24T11:06:29.065872+09:00"
 }
