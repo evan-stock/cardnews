@@ -1,7 +1,7 @@
 {
  "id": "20261024-wctrophy",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-24T08:46:17.152516+09:00",
  "publish_at": "2026-10-24T08:46:17.152530+09:00",
  "publish_now": true,
@@ -35,5 +35,8 @@
   "channel": "shop"
  },
  "tg_msg": 979,
- "decided_at": "2026-10-24T11:06:29.065872+09:00"
+ "decided_at": "2026-10-24T11:06:29.065872+09:00",
+ "yt_id": "sFcN_b0DfNo",
+ "permalink": "https://youtube.com/shorts/sFcN_b0DfNo",
+ "published_at": "2026-10-24T11:06:37.476755+09:00"
 }
