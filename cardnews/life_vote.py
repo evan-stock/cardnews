@@ -55,12 +55,17 @@ def latest_post():
 
 
 def comments(video_id, token):
-    h = {"Authorization": f"Bearer {token}"}
+    """댓글은 공개 정보라 API 키(YT_API_KEY)로 읽는다. 채널 토큰(youtube.readonly)으로는 commentThreads 가
+    'insufficient authentication scopes' 로 막힌다(2026.10.24 확인 — youtube.force-ssl 범위가 필요)."""
+    key = os.environ.get("YT_API_KEY", "").strip()
+    h = {} if key else {"Authorization": f"Bearer {token}"}
     out, page = [], None
     while True:
         q = {"part": "snippet", "videoId": video_id, "maxResults": 100, "textFormat": "plainText", "order": "time"}
         if page:
             q["pageToken"] = page
+        if key:
+            q["key"] = key
         j = requests.get(f"{API}/commentThreads", params=q, headers=h, timeout=60).json()
         if "error" in j:
             raise RuntimeError(f"댓글 읽기 실패: {j['error'].get('message')}")
