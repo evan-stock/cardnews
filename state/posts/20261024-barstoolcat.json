@@ -1,7 +1,7 @@
 {
  "id": "20261024-barstoolcat",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-24T16:27:51.636490+09:00",
  "publish_at": "2026-10-24T16:27:51.636507+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "8ed9efc3eb63",
- "tg_msg": 1009
+ "tg_msg": 1009,
+ "decided_at": "2026-10-24T16:31:26.566540+09:00",
+ "yt_id": "SuKGWVk4ddA",
+ "permalink": "https://youtube.com/shorts/SuKGWVk4ddA",
+ "published_at": "2026-10-24T16:31:29.315371+09:00"
 }
