@@ -1,28 +1,18 @@
 [
  {
-  "id": "20261024-kukurtihar2",
+  "id": "20261024-kukurtihar3",
   "slot": "evening",
   "mode": "collect",
-  "topic": "쿠쿠르 티하르 원본 보도사진 찾기",
-  "image_pages": [
-   "https://abcnews.go.com/International/wireStory/ap-photo-garlands-treats-beloved-dogs-nepals-annual-115344913",
-   "https://www.breakingnews.ie/world/in-pictures-treats-for-beloved-dogs-in-nepals-annual-kukur-puja-festival-1689493.html",
-   "https://www.bta.bg/bg/galleries/440839",
-   "https://www.nbcnews.com/news/amp/rcna178350",
-   "https://kathmandupost.com/visual-stories/2022/10/24/people-celebrate-kukur-tihar",
-   "https://kathmandupost.com/visual-stories/2020/11/14/the-day-of-the-dogs",
-   "https://myrepublica.nagariknetwork.com/news/nepal-police-celebrates-kukur-tihar-photo-feature-66-30.html",
-   "https://myrepublica.nagariknetwork.com/news/kukur-tihar-at-central-police-dog-training-school-photo-feature",
-   "https://thehimalayantimes.com/photo-gallery/in-pictures-nepali-army-marks-kukur-tihar",
-   "https://dunyanews.tv/en/World/672899-Dogs-get-their-day-at-Hindu-festival-dedicated-to-them-in-Nepal",
-   "https://www.aol.com/articles/nepal-entire-festival-just-thank-193848170.html",
-   "https://navbharatlive.com/world/nepal-kukur-tihar-dog-worship-diwali-garlands-offerings-festival-1397640.html",
-   "https://www.wionews.com/photos/nepal-celebrates-doggies-with-day-long-festival-76",
-   "https://enca.com/lifestyle/pampered-pooches-nepals-day-dogs-festival",
-   "https://english.onlinekhabar.com/police-celebrate-kukur-tihar-award-given-to-best-dog-ghungroo-photos.html",
-   "https://wsau.com/?p=271553",
-   "https://english.aaj.tv/news/30270499"
+  "topic": "세 마리 흰 개 원본",
+  "image_urls": [
+   "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcy8kZpXG6UM3fIfF4asVwMqUHHOqV8FOfY-8oLdUbN2IUje1bCHNUQ0MZQACABjoyyzl-n43JD3ENNPMURUKjyNcVD8rQGqqqUHv8Bq5pu7Icb63NB17Df6A-8yPqaI61emfiAxpKe14/s0/11.10.15-Kukur-Tihar-Festival-in-Nepal.jpg",
+   "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZK77h-wOZlpgzsSd7_2VrcGinP56ceHWi0BP-59SFUnRAtydKLOt8yXPRBtdaqmCT7dDf6mUfeJbVuvBi7EwwkrNk4G6h4lHOx_VJBsV_DTN8qcVxwZDrXMeEHqRuc_NcpdR2f992kyE/s0/11.10.15-Kukur-Tihar-Festival-in-Nepal2.jpg",
+   "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgue1B4JGN60gd-XEgwBmKpK8zgcG22NwJUOJBXeJSjwu6TMG9cdEbMZqVLNUHqAiSV9_cv8bl2MAdgkn-kRo7_RsEqrQWBu_j2KJ8Mk0Eql9CSJvxcTL0sTIOljkZ2ZHTBBjH0mm0cG5Y/s0/diwali-dog.jpg",
+   "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRji1GPH04SdfWrJvUrIzjpBahqBYF6o7VKuWRJlc8liJv2OQACqoqlK38EvP_bDrty2ojG962uz4rfiGe7QhBqiV5Se0WMheJvzFe07BMIH_pEaxsHnUIK37JHSTPB4xmmP_hfCJF8Jw/s0/Diwali_Festival_Nepal_Honours_Dogs.jpg",
+   "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkHHbiU9-nZiFFA6QWFK8ahMrRUVmEglNwM6LsEOcp83M03fDB_po2lQ453HHu4IeFIy06HcAYnmLXTmHsmdLmJ4eBHvU39vm8nPMNPQBmWbcPNjkn9vBB1W7e0LsLV4KVl55JWaSCfRs/s0/Diwali_Festival_2015_German_Shepherd.jpg"
   ],
-  "limit": 60
+  "referer": "https://www.australiandoglover.com/",
+  "image_pages": [],
+  "limit": 0
  }
 ]
