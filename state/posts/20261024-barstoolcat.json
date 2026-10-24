@@ -1,0 +1,55 @@
+{
+ "id": "20261024-barstoolcat",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-24T16:27:51.636490+09:00",
+ "publish_at": "2026-10-24T16:27:51.636507+09:00",
+ "publish_now": true,
+ "topic": "주황 고양이 마르코가 바 의자 발받침(검은 쇠고리)을 건드리다 받침 주위를 혼자 데굴 구름(9GAG 10.23 재게시로 화제, 원본 IG @marco_de_eme 2026.7.17, 좋아요 112만). 원본 소리는 덧입힌 음악(快猫3号·Playfulcat)뿐이라 전 구간 0",
+ "sources": [
+  {
+   "publisher": "Instagram @marco_de_eme",
+   "url": "https://www.instagram.com/marco_de_eme/reel/Da3mG1aSBor/",
+   "date": "2026.7.17"
+  },
+  {
+   "publisher": "9GAG(재게시, 참고만)",
+   "url": "https://www.instagram.com/9gag/reel/De1S_RUlrGn/",
+   "date": "2026.10.23"
+  },
+  {
+   "publisher": "NPR",
+   "url": "https://www.npr.org/2025/05/16/1251782103/orange-cats-dna-color-mutation",
+   "date": "2025.5.16"
+  }
+ ],
+ "seconds": 18.27,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261024-barstoolcat/short.mp4"
+ ],
+ "app_file": "media/20261024-barstoolcat/short_nobgm.mp4",
+ "yt": {
+  "title": "의자랑 싸우다 혼자 진 고양이ㅋㅋ #shorts",
+  "description": "바 의자 발받침 고리를 툭툭 건드리던 주황 고양이 마르코. 한 바퀴 데굴 구르더니, 정신 차리고 다시 덤빕니다.\n\n일본 미야코지마 출신 보호묘였던 마르코의 영상으로, 9GAG에 다시 올라오며 화제가 됐습니다. 2025년 규슈대·스탠퍼드대 연구로 주황 털 유전자가 X 염색체에 있다는 게 밝혀졌는데, 그래서 주황 고양이는 약 80%가 수컷입니다. 마르코도 수컷이에요.\n\n여러분 집 주황이도 이런 운동 하나요?\n\n영상: Instagram @marco_de_eme\n참고: NPR(2025.5.16)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: Instagram @marco_de_eme 2026.7.17, 9GAG(재게시, 참고만) 2026.10.23, NPR 2025.5.16\n사진·영상: Instagram @marco_de_eme\n음성: Typecast\n\n#shorts #고양이 #치즈냥 #주황고양이 #웃긴고양이",
+  "tags": [
+   "고양이",
+   "치즈냥",
+   "주황고양이",
+   "웃긴고양이",
+   "고양이운동",
+   "캣타워",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "8ed9efc3eb63",
+ "tg_msg": 1009
+}
