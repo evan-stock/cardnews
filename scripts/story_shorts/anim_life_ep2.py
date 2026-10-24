@@ -1,6 +1,6 @@
 # 인생 댓글로 정함 2화 — 돌잡이 연필 → 벽 낙서 → 벽지값 → 세 살 → 어린이집 갈림길 (2026.10.24)
 # 사용: LIFE_HOLD=3 python3 scripts/story_shorts/anim_life_ep2.py <출력폴더> <3D스프라이트폴더>
-#   3D 스프라이트: life_3d2.py(tod_* dad* mom* pencil) + life_3d3.py(kid_* dad_cry mom_wow cap bag bowl)
+#   3D 스프라이트: life_3d2.py(tod_* dad* mom* pencil) + life_3d3.py(kid_* tod_pen_* dad_cry mom_wow cap bag bowl)
 import math, os, random, sys
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 SPR3 = sys.argv.pop(2)
@@ -32,6 +32,11 @@ for k in ("tod_o", "tod_blink", "tod_proud"): load(k, f"{k}.png", 400)
 for k in ("dad_cry", "mom_wow", "mom_blink"): load(k, f"{k}.png", 380)
 for k in ("kid_happy", "kid_blink", "kid_proud", "kid_o"): load(k, f"{k}.png", 360)
 load("pencil", "pencil.png", 220, False)
+# 연필 든 아이: 돌복 아이와 같은 배율로(몸 크기 같게), 오른쪽으로 늘어난 만큼 기준점 보정
+_tw = Image.open(os.path.join(SPR3, "tod_proud.png")).width
+for k in ("tod_pen_proud", "tod_pen_blink"):
+    _pw = Image.open(os.path.join(SPR3, f"{k}.png")).width; load(k, f"{k}.png", 400 * _pw / _tw)
+PEN_DX = (S["tod_pen_proud"].width - S["tod_proud"].width) / 2
 load("cap", "cap.png", 200, False); load("bag", "bag.png", 170, False); load("bowl", "bowl.png", 200, False)
 for k in ("bg_living", "bg_dol", "bg_vote"):
     S[k] = S[k].filter(ImageFilter.GaussianBlur(3))
@@ -43,10 +48,20 @@ def heart(d, cx, cy, r, fill=RED):
     d.polygon([(cx - r * 0.97, cy - 0.05 * r), (cx + r * 0.97, cy - 0.05 * r), (cx, cy + r * 1.05)], fill=fill)
 
 def tod_pencil(im, t, cx, cy, sc=1.0, wave=True):
-    """돌복 아이 + 오른손에 연필(번쩍 흔들기)"""
-    put(im, "tod_proud" if blink(t, 0.3) >= 1 else "tod_blink", cx, cy, sc * breathe(t))
-    a = 25 * math.sin(t * 7) if wave else 0
-    put(im, "pencil", cx + 120 * sc, cy + 95 * sc, sc * 0.9, 50 + a)
+    """연필 쥔 돌복 아이(3D 한 덩어리) — 몸 전체가 같이 흔들린다"""
+    key = "tod_pen_proud" if blink(t, 0.3) >= 1 else "tod_pen_blink"
+    rot = 7 * math.sin(t * 6) if wave else 0
+    put(im, key, cx + PEN_DX * sc, cy, sc * breathe(t), rot)
+
+def bubble_r(d, x, y, s, size, tip):
+    """꼬리가 tip(말하는 사람) 쪽을 향하는 말풍선"""
+    w = d.textlength(s, font=V1.F(size)); pad = size * 0.5
+    box = (x - w / 2 - pad, y - size * 0.8, x + w / 2 + pad, y + size * 0.8)
+    bx = min(max(tip[0], box[0] + 60), box[2] - 60)
+    d.polygon([(bx - 28, box[3] - 6), (bx + 28, box[3] - 6), tip], fill=WHT, outline=INK, width=5)
+    d.rounded_rectangle(box, radius=int(size * 0.7), fill=WHT, outline=INK, width=6)
+    d.line([(bx - 24, box[3] - 3), (bx + 24, box[3] - 3)], fill=WHT, width=9)
+    txt(d, x, y + 3, s, size, (230, 70, 80))
 
 # ---------- 대본(장면 길이 계산용, 실제 목소리는 drafts/life.json) ----------
 V1.SCENES = [
@@ -106,7 +121,7 @@ def s2(t, dur):  # 아빠 울고 엄마 의대
         for i in range(4):  # 반짝
             a = (t * 1.6 + i * 0.25) % 1; x = 850 + 190 * math.cos(i * 1.6 + 0.3); y = 330 + 170 * math.sin(i * 1.6 + 0.3)
             r = 14 * math.sin(a * math.pi); d.polygon([(x, y - r * 2), (x + r, y), (x, y + r * 2), (x - r, y)], fill=(255, 205, 80))
-        if t > at + 0.4: bubble(d, 760, 120, "의대 가자", 64)
+        if t > at + 0.4: bubble_r(d, 700, 110, "의대 가자", 64, (835, 215))
     tod_pencil(im, t, 540, 560, 0.55, wave=True); d = ImageDraw.Draw(im)
     a = ease((t - 0.3) / 0.4)
     if a > 0:
@@ -153,8 +168,7 @@ def s3(t, dur):
     sp = SPEAK["s3"]; prog = ease(t / (sp * 0.85))
     im = wall_doodle(t, prog); d = ImageDraw.Draw(im)
     x = 540 + 260 * math.sin(t * 1.4)
-    put(im, "tod_proud" if blink(t) >= 1 else "tod_blink", x, 1250, 0.68 * breathe(t))
-    put(im, "pencil", x + 150, 1150 + 25 * math.sin(t * 9), 0.8, 40 + 30 * math.sin(t * 9)); d = ImageDraw.Draw(im)
+    tod_pencil(im, t * 1.4, x, 1250, 0.68); d = ImageDraw.Draw(im)
     hit = sp * 0.45
     if t > hit:
         a = back((t - hit) / 0.35)

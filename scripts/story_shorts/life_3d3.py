@@ -100,10 +100,36 @@ def kid(e): sc = Kid(e, "kid"); return render(sc, 600, 840, look_y=0.05, dist=6.
 # render() 팔레트에 새 재질 추가
 for k, v in KPAL.items(): Char.PAL[k] = v
 
+# ---------- 연필을 번쩍 든 돌복 아이(오른팔을 들고 손에 연필을 쥠) ----------
+from life_3d2 import Toddler
+PEN_A = np.array([0.86, -0.12, 0.5]); PEN_B = np.array([1.16, 1.25, 0.5])  # 지우개 쪽 → 심 쪽
+def sd_pencil(p, a=PEN_A, b=PEN_B, r=0.095):
+    ba = b - a; L = np.linalg.norm(ba); u = ba / L; pa = p - a
+    h = pa @ u; radial = np.linalg.norm(pa - h[:, None] * u, axis=-1)
+    hb = h / L  # 0~1
+    rr = np.where(hb < 0.78, r, r * (1 - (hb - 0.78) / 0.22).clip(0.05, 1))
+    body = np.maximum(radial - rr, np.maximum(-h, h - L))
+    eraser = np.maximum(radial - r * 1.02, np.maximum(-h - 0.02, h - 0.14 * L))
+    lead = np.where(hb > 0.92, body, 9.0); wood = np.where((hb > 0.78) & (hb <= 0.92), body, 9.0)
+    yel = np.where((hb >= 0.14) & (hb <= 0.78), body, 9.0)
+    return [yel, wood, lead, eraser]
+
+class TodPen(Toddler):
+    def body_mats(self): return ["jeo", "chima", "sleeve", "hand", "yellow", "wood", "lead", "pink"]
+    def body(self, p):
+        top, low, arms, hands = Toddler.body(self, p)
+        left = sd_capsule(p, np.array([-0.62, -0.35, 0]), np.array([-0.62, -0.85, 0.42]), 0.17)
+        right = sd_capsule(p, np.array([0.6, -0.3, 0.05]), np.array([0.92, 0.2, 0.42]), 0.17)
+        hands = np.minimum(sd_sph(p, np.array([-0.62, -0.95, 0.55]), 0.15), sd_sph(p, np.array([0.97, 0.3, 0.5]), 0.17))
+        return [top, low, np.minimum(left, right), hands] + sd_pencil(p)
+
+for k, v in {"yellow": (1.0, 0.78, 0.25), "wood": (0.96, 0.82, 0.64), "lead": (0.2, 0.18, 0.2), "pink": (1.0, 0.6, 0.68)}.items(): Char.PAL[k] = v
+
 JOBS = {
     "kid_happy": lambda: kid("happy"), "kid_blink": lambda: kid("blink"), "kid_proud": lambda: kid("proud"), "kid_o": lambda: kid("o"),
     "dad_cry": lambda: render(AdultX("cry", "dad"), 600, 900, look_y=-0.1, dist=7.0),
     "mom_wow": lambda: render(AdultX("o", "mom"), 600, 900, look_y=-0.1, dist=7.0),
+    "tod_pen_proud": lambda: render(TodPen("proud", "tod")), "tod_pen_blink": lambda: render(TodPen("blink", "tod")),
     "cap": lambda: render(Prop("cap"), 420, 360, look_y=0.05, dist=3.6, pitch=0.45),
     "bag": lambda: render(Prop("bag"), 420, 420, look_y=0.05, dist=4.2, pitch=0.15),
     "bowl": lambda: render(Prop("bowl"), 440, 340, look_y=0.0, dist=3.6, pitch=0.6),
