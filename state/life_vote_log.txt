@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/runner/work/cardnews/cardnews/cardnews/life_vote.py", line 184, in <module>
+    run(args[0] if args else None, peek="--peek" in sys.argv)
+  File "/home/runner/work/cardnews/cardnews/cardnews/life_vote.py", line 168, in run
+    r = tally(post, youtube.access_token("life"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cardnews/cardnews/cardnews/life_vote.py", line 110, in tally
+    cs = sorted(comments(post["yt_id"], token), key=lambda c: c["at"])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cardnews/cardnews/cardnews/life_vote.py", line 66, in comments
+    raise RuntimeError(f"댓글 읽기 실패: {j['error'].get('message')}")
+RuntimeError: 댓글 읽기 실패: Request had insufficient authentication scopes.
