@@ -1,7 +1,7 @@
 {
  "id": "20261024-flamingomilk",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-24T13:44:41.071766+09:00",
  "publish_at": "2026-10-24T13:44:41.071781+09:00",
  "publish_now": true,
@@ -35,5 +35,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 998
+ "tg_msg": 998,
+ "decided_at": "2026-10-24T14:15:09.075077+09:00",
+ "yt_id": "-G0KzhgNRmI",
+ "permalink": "https://youtube.com/shorts/-G0KzhgNRmI",
+ "published_at": "2026-10-24T14:15:12.243793+09:00"
 }
