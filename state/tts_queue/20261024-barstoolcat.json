@@ -1,0 +1,51 @@
+{
+ "id": "20261024-barstoolcat",
+ "created": "2026-10-24T15:49:32.150298+09:00",
+ "items": [
+  {
+   "key": "602de91bf791",
+   "text": "의자랑 싸우던 고양이, 혼자 한 바퀴를 굴렀습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "그런데 패배를 인정하지 않고, 다시 덤빕니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "6f0a480d6801",
+   "text": "그런데 패배를 인정하지 않고, 다시 덤빕니다.",
+   "ctx": {
+    "previous_text": "의자랑 싸우던 고양이, 혼자 한 바퀴를 굴렀습니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "5504d1a27026",
+   "text": "주황 고양이는 열 마리 중 여덟 마리가 수컷입니다. 주변에 이런 주황이 하나씩 있죠.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
