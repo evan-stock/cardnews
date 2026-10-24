@@ -1,140 +1,88 @@
 {
- "since": "2026-10-01",
- "fixed": [
+ "since": "2025-09-01",
+ "fixed": [],
+ "found": [
   {
-   "handle": "UCCCYKnRB6yP3XNkUDwRtnWQ",
-   "title": "틈새지식",
-   "id": "UCCCYKnRB6yP3XNkUDwRtnWQ",
-   "created": "2025-08-14",
-   "subs": "39300",
-   "videos": "598",
-   "before": {
-    "n": 260,
-    "median": 110152,
-    "max": 11884816,
-    "over10k": 260
-   },
-   "after": {
-    "n": 32,
-    "median": 71281,
-    "max": 1562164,
-    "over10k": 32
-   },
-   "last3d": {
-    "n": 8,
-    "median": 39907,
-    "max": 104542,
-    "over10k": 7
-   },
-   "recent": [
-    {
-     "id": "nUJxRbXg6IA",
-     "date": "2026-10-22",
-     "title": "주파수가 물위에서 눈에 보이는 형태",
-     "views": 1932,
-     "dur": "PT17S"
-    },
-    {
-     "id": "IO6GqbnjVJU",
-     "date": "2026-10-22",
-     "title": "우주엔 산소가 없는데 태양은 어떻게 탈까?",
-     "views": 48897,
-     "dur": "PT17S"
-    },
-    {
-     "id": "H-OA8aGZkx4",
-     "date": "2026-10-21",
-     "title": "갈릴레이만 풀 수 있었던 바퀴의 역설",
-     "views": 104542,
-     "dur": "PT17S"
-    },
-    {
-     "id": "9uJIJsDF1Tg",
-     "date": "2026-10-21",
-     "title": "쓰러진 경찰관을 살리려는 강아지의 행동",
-     "views": 17896,
-     "dur": "PT19S"
-    },
-    {
-     "id": "DdqBmtCCi2M",
-     "date": "2026-10-20",
-     "title": "1차 세계대전이 낳은 보이지 않는 괴물",
-     "views": 46542,
-     "dur": "PT17S"
-    },
-    {
-     "id": "plAXB1WSW7I",
-     "date": "2026-10-20",
-     "title": "1500도 쇳물에 불빠따는 참을 수 없지ㄷㄷ   (SUSHIRAMEN-Riku)",
-     "views": 44009,
-     "dur": "PT17S"
-    },
-    {
-     "id": "DmyNAVOQ7rQ",
-     "date": "2026-10-19",
-     "title": "런던을 뒤덮은 검은 안개가 바꿔놓은 역사'",
-     "views": 26160,
-     "dur": "PT17S"
-    },
-    {
-     "id": "DbWySR29W14",
-     "date": "2026-10-19",
-     "title": "플라스틱 막대를 깎아 만드는 의외의 물건",
-     "views": 35806,
-     "dur": "PT23S"
-    },
-    {
-     "id": "PUNHpnLGgZw",
-     "date": "2026-10-18",
-     "title": "고체, 액체, 기체에 속하지 않는 제 4의 물질",
-     "views": 53233,
-     "dur": "PT17S"
-    },
-    {
-     "id": "YgBc6UCfHAo",
-     "date": "2026-10-18",
-     "title": "불을 대자 원래 모양으로 돌아오는 금속",
-     "views": 73960,
-     "dur": "PT17S"
-    },
-    {
-     "id": "X4i5rjo5igU",
-     "date": "2026-10-17",
-     "title": "가라앉고 싶어도 가라앉을 수 없는 호수",
-     "views": 187220,
-     "dur": "PT17S"
-    },
-    {
-     "id": "L190OMLRj8g",
-     "date": "2026-10-17",
-     "title": "작은 선택 하나가 일으키는 도미노 효과    (smorris123)",
-     "views": 50335,
-     "dur": "PT17S"
-    },
-    {
-     "id": "6XEN_EFiVa8",
-     "date": "2026-10-16",
-     "title": "서로 다른 박자가 저절로 하나가 되는 현상   (MarkRober)",
-     "views": 47241,
-     "dur": "PT17S"
-    },
-    {
-     "id": "9PogCN2C77k",
-     "date": "2026-10-16",
-     "title": "차선을 통째로 옮기는 미국의 특수 트럭",
-     "views": 578939,
-     "dur": "PT17S"
-    },
-    {
-     "id": "DiEDywUCRqY",
-     "date": "2026-10-15",
-     "title": "눈으로 보이진 않아도 확실한 대기압의 위력",
-     "views": 1562164,
-     "dur": "PT17S"
-    }
-   ]
+   "title": "얼렁뚱땅 유바다",
+   "id": "UCqukx_nJWookcwWvElMRVOA",
+   "created": "2024-05-25",
+   "subs": "17",
+   "videos": "1"
+  },
+  {
+   "title": "이것저것슨",
+   "id": "UC0207ZYek_hmCJPDbZXH_Tw",
+   "created": "2026-08-25",
+   "subs": "716",
+   "videos": "34"
+  },
+  {
+   "title": "왔다! 장두부",
+   "id": "UCzQfgIIyBcQXilSnv_t6f9g",
+   "created": "2014-05-19",
+   "subs": "414",
+   "videos": "407"
+  },
+  {
+   "title": "우동티비",
+   "id": "UCKfMGF45-FOIvgCifX32_Xg",
+   "created": "2023-10-03",
+   "subs": "361",
+   "videos": "281"
+  },
+  {
+   "title": "Roodabeguh",
+   "id": "UChdKebuQEDyo0CBo_wZcccw",
+   "created": "2025-07-25",
+   "subs": "643",
+   "videos": "235"
   }
  ],
- "found": [],
- "search_hits": []
+ "search_hits": [
+  {
+   "q": "강아지 오마카세 생일",
+   "vid": "U63JHsWyDPc",
+   "ch": "왔다! 장두부",
+   "cid": "UCzQfgIIyBcQXilSnv_t6f9g",
+   "date": "2026-02-14",
+   "title": "6번째 생일을 맞은 강아지의 오마카세 먹방! #강아지 #강아지일상 #강아지브이로그 #반려견 #반려견브이로그 ",
+   "views": 2072
+  },
+  {
+   "q": "강아지 오마카세 생일",
+   "vid": "3gi-8B76mho",
+   "ch": "이것저것슨",
+   "cid": "UC0207ZYek_hmCJPDbZXH_Tw",
+   "date": "2026-10-10",
+   "title": "10년 뒤 반려견 생일의 역대급 근황 #스케치코미디",
+   "views": 1040
+  },
+  {
+   "q": "강아지 오마카세 생일",
+   "vid": "KCYDhVJqf0Q",
+   "ch": "우동티비",
+   "cid": "UCKfMGF45-FOIvgCifX32_Xg",
+   "date": "2026-01-26",
+   "title": "생일 기념 오마카세 즐기기 #포메 #강아지 #우동이 #블랙탄포메 #반려견 #댕댕이 #cute #포메라니안 #",
+   "views": 2091
+  },
+  {
+   "q": "강아지 오마카세 생일",
+   "vid": "7w6bJd7co94",
+   "ch": "얼렁뚱땅 유바다",
+   "cid": "UCqukx_nJWookcwWvElMRVOA",
+   "date": "2025-11-10",
+   "title": "강아지 생일기념 오마카세",
+   "views": 353
+  },
+  {
+   "q": "pug 17 course omakase",
+   "vid": "BXAW_Pz8uYY",
+   "ch": "Roodabeguh",
+   "cid": "UChdKebuQEDyo0CBo_wZcccw",
+   "date": "2026-10-23",
+   "title": "Pug gets 17 course omakase #pug #roodabeguh",
+   "views": 10
+  }
+ ]
 }
