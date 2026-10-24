@@ -1,22 +1,28 @@
 [
  {
-  "id": "20261024-kukurtihar",
+  "id": "20261024-kukurtihar2",
   "slot": "evening",
   "mode": "collect",
-  "topic": "네팔 쿠쿠르 티하르(개의 날) 사진 캐러셀",
-  "image_urls": [
-   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/864824748_18658682122044850_4798258029399162823_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAxNDM3Nzk1NDgyODQ2MzY5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=S41ZUC7A_FgQ7kNvwFbCbfE&_nc_oc=AdqbVWGQ9Et533hWyPIMM2cSdFzvmHGSedzKjiVz29twK0AILX__QbE3TL0Uu8p1Pqs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQNvWBiNbIPCAyqRCXGle3Q0c0atxDZLkp7zjWxLDJDaoQ&oe=6AE26C57",
-   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/863066554_18658682113044850_3567820362738467080_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAxNDM3Nzk1NTk2MDkzMDI0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zwMb-d4PpgcQ7kNvwFMsXNC&_nc_oc=Adp9QdwISyKmUq4usyEs8vy5h1omaEqwdlxM_mQrbs1Xxb6zCp4VrCqst0pwdoWypWY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQMG_qYLxD8Dqw4FeK5T__Tz61Z8DFqSJtE0qmwIOhThOw&oe=6AE279F7",
-   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/859610720_18658682110044850_6810430522740469119_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAxNDM3Nzk1OTMzMzI0NDI5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iUJO6ttg4zYQ7kNvwHLcYGI&_nc_oc=AdpyDRn7Y7CgigAlKQXSBE_B1Dm6wBBowcBFQbPteoyAOAormC-CfSwRQond-Xlap_U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQPEBKv0dLQDZU55OdFZeV0hjqsqbZX6tcEu97tW_6XjPQ&oe=6AE2757A",
-   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/861744956_18658682188044850_7612386267498610524_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAxNDM3Nzk3MDUxNTA4Mjc3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MOL7gMzu7QYQ7kNvwGlZaOP&_nc_oc=AdrD4c9meUt7cyLC2vaSfjQm8a-HYBjDjk-L6gZMMvAw79ZXM_ZzILytwtOmoYJpzKI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQNPOUSUdgTpwSzCOF5cDDFmKP9TNkibngQ3e7VM8LXojg&oe=6AE282B8",
-   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/865503097_18658682197044850_5120781377878053729_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAxNDM3Nzk3MjU2MTg3NDI4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hyCHq8rBMekQ7kNvwE7pmbW&_nc_oc=AdqmYDAoRbzBgm97iFAWTo4yKp6r306EA9kXsyoM21R73uCL0fN_H9EUwqEtrNCvG8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQOYnGTw9uN1_15O7hl7bj9--0WKdwu7vbxt0m00ghzBpA&oe=6AE2806E",
-   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/861148447_18658682215044850_5200096442481560947_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxNDM3Nzk3NjE0NDA2NDMwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=NjKqM3j0Q9QQ7kNvwGUFJM5&_nc_oc=Adrh9_aKID-XKHB6Imdhp2YFOir2bputvkQFdp1x67bPrvNYFash9d7StGFQEt0MJNE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQPPmdB9C29ASUCUVUCx10y0TyCwsZ2GJMGD2pcOIeL7tg&oe=6AE2774F",
-   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/863413691_18658682269044850_7924030848979845332_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxNDM3Nzk4NzI3NTU5MzE1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f6UGduhpvoIQ7kNvwHF2Gkx&_nc_oc=AdofKUxYoJh_xYe56s4COcegwgVCRxBEBHUWP-DK31hejf2YgWzGv72k6hNOJPeYCSY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQNFNyAkfzk5hb1co-elBuVaHYxmDlBBbebrN6jZrvnoHA&oe=6AE2858D",
-   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/861668578_18658682278044850_6467018805486368641_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAxNDM3Nzk4NDU2NjA0NTE3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GlJwkMd5JnIQ7kNvwG8JNp-&_nc_oc=AdrXRR1vjN3XhfV36jJmGh4cczuGjrBzsyWUsXe-DpZBBeMs5ojPIC4NUcL9un7MA2E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQPFoFQp77ZOlAF6togaP3vNGvXbyVPRGo282PSWaSwvdg&oe=6AE25924",
-   "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/863115947_18658682296044850_8580776653921461255_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxNDM3Nzk4OTEyOTU1OTM2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JqeerFYMG-MQ7kNvwGo7IqF&_nc_oc=AdqJ2nJGOK6vVCxDvwXPwgqnN8vZJUIzedZYmM7GSeKDc9hD3NbfhVj5qJjjPQjvTjk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=g4bPjQOe7N46bmVOukLlIA&_nc_ss=7a22e&oh=00_AQPCHbRLWygfX6tbJ4O80tvA52Y_0a25q52W_q0wRHMjqg&oe=6AE27172"
+  "topic": "쿠쿠르 티하르 원본 보도사진 찾기",
+  "image_pages": [
+   "https://abcnews.go.com/International/wireStory/ap-photo-garlands-treats-beloved-dogs-nepals-annual-115344913",
+   "https://www.breakingnews.ie/world/in-pictures-treats-for-beloved-dogs-in-nepals-annual-kukur-puja-festival-1689493.html",
+   "https://www.bta.bg/bg/galleries/440839",
+   "https://www.nbcnews.com/news/amp/rcna178350",
+   "https://kathmandupost.com/visual-stories/2022/10/24/people-celebrate-kukur-tihar",
+   "https://kathmandupost.com/visual-stories/2020/11/14/the-day-of-the-dogs",
+   "https://myrepublica.nagariknetwork.com/news/nepal-police-celebrates-kukur-tihar-photo-feature-66-30.html",
+   "https://myrepublica.nagariknetwork.com/news/kukur-tihar-at-central-police-dog-training-school-photo-feature",
+   "https://thehimalayantimes.com/photo-gallery/in-pictures-nepali-army-marks-kukur-tihar",
+   "https://dunyanews.tv/en/World/672899-Dogs-get-their-day-at-Hindu-festival-dedicated-to-them-in-Nepal",
+   "https://www.aol.com/articles/nepal-entire-festival-just-thank-193848170.html",
+   "https://navbharatlive.com/world/nepal-kukur-tihar-dog-worship-diwali-garlands-offerings-festival-1397640.html",
+   "https://www.wionews.com/photos/nepal-celebrates-doggies-with-day-long-festival-76",
+   "https://enca.com/lifestyle/pampered-pooches-nepals-day-dogs-festival",
+   "https://english.onlinekhabar.com/police-celebrate-kukur-tihar-award-given-to-best-dog-ghungroo-photos.html",
+   "https://wsau.com/?p=271553",
+   "https://english.aaj.tv/news/30270499"
   ],
-  "referer": "https://www.instagram.com/",
-  "image_pages": [],
-  "limit": 0
+  "limit": 60
  }
 ]
