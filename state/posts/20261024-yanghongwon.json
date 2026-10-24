@@ -2,7 +2,7 @@
  "id": "20261024-yanghongwon",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-24T11:10:31.885599+09:00",
  "publish_at": "2026-10-24T13:00:00+09:00",
  "topic": "래퍼 양홍원, 10.18 원현주와 결혼 5일 만에 폭로자 A씨가 '모텔 동행' 폭로 → 10.23 소속사 AP Alchemy 입장: 모텔 동행은 인정, 애정 행위·금전 지급 없음, 폭로자 공갈·스토킹·명예훼손 고소",
@@ -46,5 +46,8 @@
   "media/20261024-yanghongwon/02.jpg"
  ],
  "tg_msg": 989,
- "decided_at": "2026-10-24T11:10:34.527887+09:00"
+ "decided_at": "2026-10-24T11:10:34.527887+09:00",
+ "ig_media_id": "18382953913232814",
+ "permalink": "https://www.instagram.com/p/De3OdobjhHM/",
+ "published_at": "2026-10-24T13:01:56.155427+09:00"
 }
