@@ -47,10 +47,25 @@ def with_vote(p):
     return p
 
 
-def latest_post():
+CLOSE_HOUR = 19  # 마감: 게시한 다음 날 저녁 7시(KST, 2026.10.24 사용자 결정)
+
+
+def deadline(p):
+    """게시 다음 날 19:00(KST). 예: 10.24 20:17 게시 → 10.25 19:00 마감."""
+    import datetime as dt
+    pub = dt.datetime.fromisoformat(p["published_at"])
+    return (pub + dt.timedelta(days=1)).replace(hour=CLOSE_HOUR, minute=0, second=0, microsecond=0)
+
+
+def latest_post(peek=False):
+    """마감 시각이 지났고 아직 집계 안 한 게시물 중 가장 최근 것. peek 이면 마감 전이어도 가장 최근 게시물.
+    (2026.10.24 사고: GitHub 예약 실행이 3시간 41분 늦게 돌아, 2시간 반 전에 올린 2화를 '마감'시켜 버림 →
+    마감 시각을 게시 시각 기준으로 따진다.)"""
     ps = [with_vote(p) for p in all_posts() if (p.get("yt") or {}).get("channel") == "life"
-          and p.get("status") == "published" and p.get("yt_id")]
+          and p.get("status") == "published" and p.get("yt_id") and p.get("published_at")]
     ps = [p for p in ps if p.get("vote")]
+    if not peek:
+        ps = [p for p in ps if now() >= deadline(p) and not (OUT / f"{p['id']}.json").exists()]
     return max(ps, key=lambda p: p.get("published_at", "")) if ps else None
 
 
@@ -163,9 +178,9 @@ def message(post, r):
 
 def run(pid=None, peek=False):
     """peek=True: 마감 전 중간 집계. 결과 파일을 저장하지 않고(마감 집계에 영향 없음) 로그에만 찍는다."""
-    post = with_vote(load_post(pid)) if pid else latest_post()
+    post = with_vote(load_post(pid)) if pid else latest_post(peek)
     if not post:
-        print("집계할 life 게시물이 없어요(게시됨 + vote 있는 것).")
+        print("마감 시각이 지난 미집계 게시물이 없어요(게시 다음 날 19:00 마감). 할 일 없음.")
         return
     if (OUT / f"{post['id']}.json").exists() and not pid and not peek:
         print("이미 집계함:", post["id"])
