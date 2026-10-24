@@ -1,13 +1,13 @@
 {
  "id": "20261024-calfring",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-10-24T20:33:25.644027+09:00",
  "publish_at": "2026-10-24T20:33:25.644039+09:00",
  "publish_now": true,
  "topic": "[오늘의쓸모] 송아지 코에 가시 고리를 끼우는 진짜 이유 — 학대가 아니라 엄마 곁에서 젖만 먼저 끊는 '젖떼기 고리', 갑자기 떼는 것보다 울음 96.6%↓",
  "sources": [],
- "seconds": 27.0,
+ "seconds": 27,
  "tts": [
   "없음(자막+음악)"
  ],
@@ -36,5 +36,7 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1041
+ "tg_msg": 1041,
+ "decided_at": "2026-10-24T20:41:01+09:00",
+ "decided_via": "app"
 }
