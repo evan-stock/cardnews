@@ -9,6 +9,9 @@ on:
       id:
         description: "게시물 id(비우면 가장 최근 게시물)"
         default: ""
+      peek:
+        description: "중간 집계만(저장·발송 안 함): 1"
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -32,7 +35,7 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -q requests pyyaml
       - name: 집계
-        run: python -m cardnews.life_vote ${{ inputs.id }}
+        run: python -m cardnews.life_vote ${{ inputs.id }} ${{ inputs.peek && '--peek' || '' }}
       - if: always()
         run: |
           git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com

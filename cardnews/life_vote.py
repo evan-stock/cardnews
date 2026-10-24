@@ -156,15 +156,20 @@ def message(post, r):
     return "\n".join(lines)
 
 
-def run(pid=None):
+def run(pid=None, peek=False):
+    """peek=True: 마감 전 중간 집계. 결과 파일을 저장하지 않고(마감 집계에 영향 없음) 로그에만 찍는다."""
     post = with_vote(load_post(pid)) if pid else latest_post()
     if not post:
         print("집계할 life 게시물이 없어요(게시됨 + vote 있는 것).")
         return
-    if (OUT / f"{post['id']}.json").exists() and not pid:
+    if (OUT / f"{post['id']}.json").exists() and not pid and not peek:
         print("이미 집계함:", post["id"])
         return
     r = tally(post, youtube.access_token("life"))
+    if peek:
+        print("[중간 집계 — 저장·발송 안 함]\n" + message(post, r).replace("🗳 투표 마감", "🗳 중간 집계"))
+        print("PEEK_JSON " + json.dumps(r, ensure_ascii=False))
+        return
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / f"{post['id']}.json").write_text(json.dumps(r, ensure_ascii=False, indent=1), encoding="utf-8")
     msg = message(post, r)
@@ -175,4 +180,5 @@ def run(pid=None):
 
 
 if __name__ == "__main__":
-    run(sys.argv[1] if len(sys.argv) > 1 else None)
+    args = [a for a in sys.argv[1:] if a != "--peek"]
+    run(args[0] if args else None, peek="--peek" in sys.argv)
