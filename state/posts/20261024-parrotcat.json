@@ -1,7 +1,7 @@
 {
  "id": "20261024-parrotcat",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-24T18:47:58.092382+09:00",
  "publish_at": "2026-10-24T18:47:58.092403+09:00",
  "publish_now": true,
@@ -48,5 +48,8 @@
  "draft_hash": "3fb76ae7a59b",
  "tg_msg": 1026,
  "decided_at": "2026-10-24T18:52:46+09:00",
- "decided_via": "app"
+ "decided_via": "app",
+ "yt_id": "L5APBAjN_HA",
+ "permalink": "https://youtube.com/shorts/L5APBAjN_HA",
+ "published_at": "2026-10-24T18:53:34.237341+09:00"
 }
