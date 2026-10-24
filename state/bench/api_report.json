@@ -1,163 +1,40 @@
 {
- "since": "2025-07-01",
+ "since": "2025-09-01",
  "fixed": [],
  "found": [
   {
-   "title": "충성tv",
-   "id": "UC_aIfNQ3TWgRAt-30uEjNAg",
-   "created": "2022-10-30",
-   "subs": "3130",
-   "videos": "2493"
+   "title": "VertASC",
+   "id": "UCkSSQisybPEuovZNjQV301A",
+   "created": "2026-05-26",
+   "subs": "3380",
+   "videos": "261"
   },
   {
-   "title": "도파믹스 (DopaMix)",
-   "id": "UCP9knMhjZsCoy7DsSPQdfzg",
-   "created": "2016-02-27",
-   "subs": "33000",
-   "videos": "464"
-  },
-  {
-   "title": "치즈펫 연구소",
-   "id": "UC5b5m_7xp4OY6JzXc2U00Uw",
-   "created": "2020-09-29",
-   "subs": "23700",
-   "videos": "672"
-  },
-  {
-   "title": "Home and the Open Road",
-   "id": "UCsCo37AnjCumv7paRf15dBA",
-   "created": "2016-01-27",
-   "subs": "670",
-   "videos": "624"
-  },
-  {
-   "title": "Animal Lover Channel",
-   "id": "UCAn3Yy72-j1x3eEyQRYuoEA",
-   "created": "2025-12-03",
+   "title": "일러스트냥이",
+   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
+   "created": "2026-09-25",
    "subs": "0",
-   "videos": "24"
-  },
-  {
-   "title": "Daily Meme Shot",
-   "id": "UC23RJjpLKpvu-xW4yA_fzrQ",
-   "created": "2025-05-27",
-   "subs": "352",
-   "videos": "5103"
-  },
-  {
-   "title": "수면 고양이 요롱이",
-   "id": "UC_qbVBGgtswsAldDoCa6JQg",
-   "created": "2021-09-27",
-   "subs": "549",
-   "videos": "1265"
-  },
-  {
-   "title": "뱅가루차차차",
-   "id": "UC2TPlq9hCkMZO1KukBtU1vA",
-   "created": "2024-11-28",
-   "subs": "3570",
-   "videos": "215"
+   "videos": "4"
   }
  ],
  "search_hits": [
   {
-   "q": "고양이 메인 요리 식탁",
-   "vid": "2fWZ7YG3Q9M",
-   "ch": "도파믹스 (DopaMix)",
-   "cid": "UCP9knMhjZsCoy7DsSPQdfzg",
-   "date": "2026-08-09",
-   "title": "식탁 위에 올라온 오늘의메인 요리는 바로 고양이",
-   "views": 23511
+   "q": "주황 고양이 의자",
+   "vid": "jMcNNZ52I20",
+   "ch": "일러스트냥이",
+   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
+   "date": "2026-10-02",
+   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
+   "views": 13
   },
   {
-   "q": "고양이 메인 요리 식탁",
-   "vid": "NkpPornm-mg",
-   "ch": "뱅가루차차차",
-   "cid": "UC2TPlq9hCkMZO1KukBtU1vA",
-   "date": "2026-01-28",
-   "title": "코인육수 / 고양이집사가 추천하는 겨울철 국물요리 오감식탁 코인육수소개 #고양이집사브이로그 #더진한육수 #코",
-   "views": 1207
-  },
-  {
-   "q": "고양이 메인 요리 식탁",
-   "vid": "sS_ojCPe9kk",
-   "ch": "수면 고양이 요롱이",
-   "cid": "UC_qbVBGgtswsAldDoCa6JQg",
-   "date": "2026-01-25",
-   "title": "아일랜드식탁위 고양이, 난 요리중 #cat #cute #고양이 #아일랜드식탁",
-   "views": 953
-  },
-  {
-   "q": "고양이 메인 요리 식탁",
-   "vid": "8jilL_KS_fI",
-   "ch": "충성tv",
-   "cid": "UC_aIfNQ3TWgRAt-30uEjNAg",
-   "date": "2025-12-07",
-   "title": "길고양이들이랑 대화중 #요리하는남자 #충성tv #식탁위의텃밭 #맛집 #천원반찬 #진영반찬 #야옹이 #길고양이",
-   "views": 575
-  },
-  {
-   "q": "고양이 메인 요리 식탁",
-   "vid": "c8b4r82-_J4",
-   "ch": "충성tv",
-   "cid": "UC_aIfNQ3TWgRAt-30uEjNAg",
-   "date": "2025-10-23",
-   "title": "고양이랑 상견례  #요리하는남자 #맛집 #식탁위의텃밭 #food #충성tv #음식 #koreanfood #요",
-   "views": 914
-  },
-  {
-   "q": "고양이 메인 요리 식탁",
-   "vid": "OK15n4hAR3o",
-   "ch": "충성tv",
-   "cid": "UC_aIfNQ3TWgRAt-30uEjNAg",
-   "date": "2025-11-18",
-   "title": "길고양이들이랑 대화중 #요리하는남자 #충성tv #food #식탁위의텃밭 #천원반찬 #고양이 #고양이일상 #야",
-   "views": 1127
-  },
-  {
-   "q": "고양이 메인 요리 식탁",
-   "vid": "8IxwarnSrXs",
-   "ch": "충성tv",
-   "cid": "UC_aIfNQ3TWgRAt-30uEjNAg",
-   "date": "2025-12-02",
-   "title": "길고양이들이랑 대화중 #요리하는남자 #food #충성tv #식탁위의텃밭 #길고양이 #고양이 #고양이일상 #야",
-   "views": 916
-  },
-  {
-   "q": "접시에 들어간 고양이",
-   "vid": "ndP2xeh7GrE",
-   "ch": "치즈펫 연구소",
-   "cid": "UC5b5m_7xp4OY6JzXc2U00Uw",
-   "date": "2025-08-17",
-   "title": "품절대란 고양이 밥그릇",
-   "views": 29645
-  },
-  {
-   "q": "cat main course dinner table platter",
-   "vid": "omSHcCBUaSk",
-   "ch": "Animal Lover Channel",
-   "cid": "UCAn3Yy72-j1x3eEyQRYuoEA",
-   "date": "2025-12-16",
-   "title": "You Are Not On The Menu!&quot; 🍽️😂 Cat Sits on Dinner Plate ",
-   "views": 54
-  },
-  {
-   "q": "Dennis cat platter",
-   "vid": "YcwgeWQIxL0",
-   "ch": "Home and the Open Road",
-   "cid": "UCsCo37AnjCumv7paRf15dBA",
-   "date": "2026-02-03",
-   "title": "Dennis is trying to ice skate in his frozen water bowl. #cat",
-   "views": 262
-  },
-  {
-   "q": "Dennis cat platter",
-   "vid": "H7mDNGRsaG0",
-   "ch": "Daily Meme Shot",
-   "cid": "UC23RJjpLKpvu-xW4yA_fzrQ",
-   "date": "2026-04-29",
-   "title": "Dennis in the bowl 🐱😂",
-   "views": 22
+   "q": "cat spinning bar stool footrest",
+   "vid": "5K9q4QuOslU",
+   "ch": "VertASC",
+   "cid": "UCkSSQisybPEuovZNjQV301A",
+   "date": "2026-09-28",
+   "title": "Apex predator vs bar stool ring 😭🐾",
+   "views": 18466
   }
  ]
 }
