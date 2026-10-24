@@ -2,7 +2,7 @@
  "id": "20261024-kukurtihar-b",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-24T22:12:00.991776+09:00",
  "publish_at": "2026-10-24T22:08:40+09:00",
  "topic": "네팔 쿠쿠르 티하르(개의 날) 사진 캐러셀",
@@ -62,5 +62,9 @@
   "media/20261024-kukurtihar-b/05.jpg",
   "media/20261024-kukurtihar-b/06.jpg"
  ],
- "tg_msg": 1067
+ "tg_msg": 1067,
+ "decided_at": "2026-10-24T22:17:07.550158+09:00",
+ "ig_media_id": "18101810729550819",
+ "permalink": "https://www.instagram.com/p/De4OI-NIJMa/",
+ "published_at": "2026-10-24T22:18:22.753273+09:00"
 }
