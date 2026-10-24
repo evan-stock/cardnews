@@ -1,7 +1,7 @@
 {
  "id": "20261024-life2",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-10-24T20:10:06.977809+09:00",
  "publish_at": "2026-10-24T20:10:06.977828+09:00",
  "publish_now": true,
@@ -68,5 +68,7 @@
    }
   ]
  },
- "tg_msg": 9
+ "tg_msg": 9,
+ "decided_at": "2026-10-24T20:17:25+09:00",
+ "decided_via": "app"
 }
