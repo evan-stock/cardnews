@@ -1,40 +1,1543 @@
 {
- "since": "2025-09-01",
+ "since": "2025-07-01",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
+   "title": "냐옹이 ",
+   "id": "UCDYRuz8k05HlbOhvrPeSp2g",
+   "created": "2024-10-20",
+   "subs": "101",
+   "videos": "55"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
+   "title": "Jessica Flow",
+   "id": "UCgBGQtuwOaTWg8Gy8Uv5erg",
+   "created": "2015-12-09",
+   "subs": "1260",
+   "videos": "1321"
+  },
+  {
+   "title": "Zoetic Creations\n",
+   "id": "UC5HX1SRCp8VtaIXaXxAd5yA",
+   "created": "2017-06-03",
+   "subs": "18500",
+   "videos": "1981"
+  },
+  {
+   "title": "moimoi",
+   "id": "UCHs2XrVuLoHFitmsqbBydPg",
+   "created": "2026-08-21",
+   "subs": "28",
+   "videos": "60"
+  },
+  {
+   "title": "The Pet Collective",
+   "id": "UCPIvT-zcQl2H0vabdXJGcpg",
+   "created": "2012-01-05",
+   "subs": "9580000",
+   "videos": "10822"
+  },
+  {
+   "title": "길고양이단지네danjine cats",
+   "id": "UCRXID1CYlIu3qnII3e7aQ6g",
+   "created": "2014-09-12",
+   "subs": "20300",
+   "videos": "333"
+  },
+  {
+   "title": "1분새",
+   "id": "UCpOd7sl4el9_OsjwxgW9utQ",
+   "created": "2026-07-24",
+   "subs": "126",
+   "videos": "59"
+  },
+  {
+   "title": "Jenn Wren",
+   "id": "UCx9ov6sBIUjsqeZevKvPZ2Q",
+   "created": "2013-12-09",
+   "subs": "39",
+   "videos": "82"
+  },
+  {
+   "title": "Cornish Rex Cats: Cuteness & Chaos by Svetochka 🐱",
+   "id": "UCtPOaykG2DOKoPI6Kik5zsA",
+   "created": "2025-06-03",
+   "subs": "907",
+   "videos": "536"
+  },
+  {
+   "title": "Cat family",
+   "id": "UCtP2TVnF3D49dQaU2dTb22g",
+   "created": "2026-01-01",
+   "subs": "3880",
+   "videos": "210"
+  },
+  {
+   "title": "😺 Gulumulu Chini 😺",
+   "id": "UCJrTWSdMFSkCqHASlXpwOjg",
+   "created": "2021-04-07",
+   "subs": "185",
+   "videos": "86"
+  },
+  {
+   "title": "Rusty • Polydactyl Cat",
+   "id": "UCe9UFWe25xIJOxGdJRZqb5Q",
+   "created": "2026-08-24",
+   "subs": "101",
+   "videos": "18"
+  },
+  {
+   "title": "Bravo Dada!",
+   "id": "UCOyr4y0OqTnhrhEGZssQHyA",
+   "created": "2019-06-13",
+   "subs": "5910",
+   "videos": "746"
+  },
+  {
+   "title": "Emi Dot Net",
+   "id": "UCkEFpCZ2sVa7wUIaWIWmP1g",
+   "created": "2020-07-26",
+   "subs": "2980",
+   "videos": "1396"
+  },
+  {
+   "title": "개웃긴 동물 채널",
+   "id": "UCo3fb3GxEjLpPJUjLZ4AHig",
+   "created": "2020-11-26",
+   "subs": "5",
+   "videos": "3"
+  },
+  {
+   "title": "Maggie Hernandez",
+   "id": "UC_ZPlNfD4drAUmyTofUBZDQ",
+   "created": "2025-02-24",
+   "subs": "81",
+   "videos": "361"
+  },
+  {
+   "title": "A Real Life in New York ",
+   "id": "UCdCvcm0ljzgn-aORQ0cVHKg",
+   "created": "2006-08-10",
+   "subs": "82",
+   "videos": "80"
+  },
+  {
+   "title": "짤래미",
+   "id": "UCI-1BuUcpz2O4jmOkEX-UAA",
+   "created": "2025-05-15",
+   "subs": "173",
+   "videos": "172"
+  },
+  {
+   "title": "St. Francis & Elisabeth I",
+   "id": "UC4v14KmTseth2tMup4zcaCA",
+   "created": "2023-02-23",
+   "subs": "156",
+   "videos": "20"
+  },
+  {
+   "title": "深夜留白",
+   "id": "UCqMvql1xzIOtHc0-qdhSUvg",
+   "created": "2025-10-07",
+   "subs": "1640",
+   "videos": "450"
+  },
+  {
+   "title": "오늘의쇼핑",
+   "id": "UCfTWC9oNnsneg7p8O3NzImw",
+   "created": "2025-01-01",
+   "subs": "25",
+   "videos": "4795"
+  },
+  {
+   "title": "Itsmangymeow",
+   "id": "UCH9gy7c6zL-eJkiBwCOoa5A",
+   "created": "2024-11-06",
+   "subs": "175",
+   "videos": "122"
+  },
+  {
+   "title": "Animal Reaction Cat",
+   "id": "UCXpqxK0nRTDvPPuv3x1lTAg",
+   "created": "2021-12-30",
+   "subs": "6830",
+   "videos": "329"
+  },
+  {
+   "title": "Ragin Pony",
+   "id": "UC_eUNy8qUyawJR3XyUsIIIw",
+   "created": "2021-01-02",
+   "subs": "179",
+   "videos": "147"
+  },
+  {
+   "title": "PET COLLECTS",
+   "id": "UCMs3pfItRlCH4ZpBLriKjqQ",
+   "created": "2026-05-16",
+   "subs": "158",
+   "videos": "17"
+  },
+  {
+   "title": "Merv the Cat (...& Chad)",
+   "id": "UC2pJiqq1DE5P3qbFvqVpW1g",
+   "created": "2005-12-11",
+   "subs": "420000",
+   "videos": "298"
+  },
+  {
+   "title": "Little Reality Check",
+   "id": "UCw4n_0b49J81IPu6RngOskw",
+   "created": "2025-12-17",
+   "subs": "160",
+   "videos": "113"
+  },
+  {
+   "title": "puppy0711",
+   "id": "UCVhynCZK-u5Rx7zmPYE_-Rw",
+   "created": "2025-07-11",
+   "subs": "14",
+   "videos": "12"
+  },
+  {
+   "title": "Chronicles of a Sassy Cat",
+   "id": "UClpqnqwsWPEdi70p_hj78fQ",
+   "created": "2026-05-12",
+   "subs": "920",
+   "videos": "127"
+  },
+  {
+   "title": "앵듀연듀",
+   "id": "UCtsqkq3MokaEd4EuTqRh86g",
+   "created": "2013-07-08",
+   "subs": "173",
+   "videos": "92"
+  },
+  {
+   "title": "Nimmi Kitten",
+   "id": "UCyRiz5-yC2xWg0pvCYnDkCw",
+   "created": "2025-02-13",
+   "subs": "226",
+   "videos": "113"
+  },
+  {
+   "title": "CrazyPaw",
+   "id": "UCejKxi2Ip4YYTKPRTN8Wwuw",
+   "created": "2025-10-25",
+   "subs": "320",
+   "videos": "58"
+  },
+  {
+   "title": "Chandra Mawa",
+   "id": "UC2ik0n05GewEgNh_hTDmavg",
+   "created": "2025-10-10",
+   "subs": "1320",
+   "videos": "59"
+  },
+  {
+   "title": "Nacho",
+   "id": "UCet1JUnPwU_1vB21rGJpuQg",
+   "created": "2026-06-07",
+   "subs": "98",
+   "videos": "96"
+  },
+  {
+   "title": "Matts Video Adventures",
+   "id": "UCuVAomUXSzUrB0iCjhYWOdg",
+   "created": "2010-06-06",
+   "subs": "230",
+   "videos": "292"
+  },
+  {
+   "title": "catkobe",
+   "id": "UCXb607R2yP9f9SG-PgSyAIw",
+   "created": "2011-11-14",
+   "subs": "1000",
+   "videos": "163"
+  },
+  {
+   "title": "Mighty Oreo",
+   "id": "UCMxxcpQM02VWUjc9R8XLtsA",
+   "created": "2012-03-08",
+   "subs": "108",
+   "videos": "37"
+  },
+  {
+   "title": "Milo",
+   "id": "UCo6oyKketrHL1azLyyMHi-g",
+   "created": "2024-03-14",
+   "subs": "40",
+   "videos": "21"
+  },
+  {
+   "title": "Yeti Goob",
+   "id": "UC39q7phF78RH9CNoaioeg0g",
+   "created": "2026-09-15",
+   "subs": "111",
+   "videos": "39"
+  },
+  {
+   "title": "@Aman",
+   "id": "UCCLAdbnmcrCFQ9efcKo_yNA",
+   "created": "2023-08-13",
+   "subs": "1890",
+   "videos": "1059"
+  },
+  {
+   "title": "Muse.Pawzzle🐱",
+   "id": "UCgvNBrUt42E-m5CcQFpmYfg",
+   "created": "2024-10-22",
+   "subs": "1690",
+   "videos": "445"
+  },
+  {
+   "title": "Purrfect Pages",
+   "id": "UCSC4FYh7rt7RjylHIlRT0mw",
+   "created": "2025-08-06",
+   "subs": "385",
+   "videos": "48"
+  },
+  {
+   "title": "lovers' world",
+   "id": "UC_IClhLrFG3HZoxLbhU99_A",
+   "created": "2025-12-12",
+   "subs": "21",
+   "videos": "23"
+  },
+  {
+   "title": "RomeoJulieta ",
+   "id": "UCrfa-R-MPEB3A7bk84sEtlQ",
+   "created": "2020-01-16",
+   "subs": "139",
+   "videos": "47"
+  },
+  {
+   "title": "Jackson Galaxy",
+   "id": "UCheL-cUqfzUB8dfM_rFOfDQ",
+   "created": "2009-08-15",
+   "subs": "2610000",
+   "videos": "1557"
+  },
+  {
+   "title": "Lucky🐱",
+   "id": "UCndHrUy9fVZFXZwBPYP1ysQ",
+   "created": "2024-07-03",
+   "subs": "22000",
+   "videos": "2914"
+  },
+  {
+   "title": "Ryvorem",
+   "id": "UCV5KdJw_NGx0Vn6dWbwqUhg",
+   "created": "2026-10-11",
+   "subs": "35",
+   "videos": "27"
+  },
+  {
+   "title": "Fluffy",
+   "id": "UCASC4CS_Tr2V_n9chD_GMSQ",
+   "created": "2013-03-19",
+   "subs": "1550",
+   "videos": "1392"
+  },
+  {
+   "title": "Life of Crypto 🐾",
+   "id": "UCB7OXnUGDKd1Szg5j_Q-RSA",
+   "created": "2025-05-09",
+   "subs": "54",
+   "videos": "31"
+  },
+  {
+   "title": "Kitty Leaderboard",
+   "id": "UCwrgCOnJ01Z0SKaCiUHAO3A",
+   "created": "2026-09-28",
+   "subs": "212",
+   "videos": "26"
+  },
+  {
+   "title": "퇴근냥식당",
+   "id": "UCjBUy1iQKJZDoeaYDm3VBXA",
+   "created": "2025-08-15",
+   "subs": "12100",
+   "videos": "63"
+  },
+  {
+   "title": "Birds Nest",
+   "id": "UC4Oc2A-39eeOrNPqrkeBK_Q",
+   "created": "2025-11-24",
+   "subs": "978",
+   "videos": "577"
+  },
+  {
+   "title": "온기로운",
+   "id": "UCdRaVlw0nLgMd7z1kf___sw",
+   "created": "2025-03-10",
+   "subs": "113",
+   "videos": "51"
+  },
+  {
+   "title": "Cute Cat Moments TV",
+   "id": "UCRYbuFoD8JUhI4SkGWjTXGA",
+   "created": "2013-07-12",
+   "subs": "19",
+   "videos": "46"
+  },
+  {
+   "title": "시끌벅적 핫이슈",
+   "id": "UCDSEhT_0hCGMw652thrEiQw",
+   "created": "2025-09-25",
+   "subs": "150",
+   "videos": "23"
+  },
+  {
+   "title": "랭킹오",
+   "id": "UCU6mA6IKScsYYzH_d6OAc5w",
+   "created": "2026-08-06",
+   "subs": "11100",
+   "videos": "67"
+  },
+  {
+   "title": "더빙폭탄",
+   "id": "UC5L6qQJ3J-Izgjgg0NPHxAA",
+   "created": "2026-03-11",
+   "subs": "169",
+   "videos": "55"
+  },
+  {
+   "title": "Cat Window TV",
+   "id": "UC2wel0Y5HLLfNFpnvlx5TEQ",
+   "created": "2026-06-17",
+   "subs": "3",
+   "videos": "11"
+  },
+  {
+   "title": "뭐하징",
+   "id": "UC_Lt25rPd3JXaiC8TYyPtFA",
+   "created": "2022-06-09",
+   "subs": "16",
+   "videos": "3"
+  },
+  {
+   "title": "BlessKipo",
+   "id": "UCSZGsrFgj2Q--igAxG6B_7g",
+   "created": "2026-03-19",
    "subs": "0",
-   "videos": "4"
+   "videos": "1"
+  },
+  {
+   "title": "오늘만봐준다",
+   "id": "UCZOYXZInPLwtEb4sBYTWzjw",
+   "created": "2026-07-28",
+   "subs": "1830",
+   "videos": "192"
+  },
+  {
+   "title": "하루한컷",
+   "id": "UC_71Ce5CM2JyMjDcmJZ2jfQ",
+   "created": "2024-01-28",
+   "subs": "69400",
+   "videos": "624"
+  },
+  {
+   "title": "사건반장",
+   "id": "UCFg8jw3ZIK50CW0G2P_13cA",
+   "created": "2020-02-06",
+   "subs": "438000",
+   "videos": "4834"
+  },
+  {
+   "title": "Birds Color World",
+   "id": "UCLTrXeYJ5edCgHhXyQjrcKA",
+   "created": "2025-11-24",
+   "subs": "1450",
+   "videos": "781"
+  },
+  {
+   "title": "현이네 둥지",
+   "id": "UCoWXKWcmsvXrE0eBEWJClMA",
+   "created": "2017-12-06",
+   "subs": "531",
+   "videos": "267"
+  },
+  {
+   "title": "댕냥뽀짝",
+   "id": "UCPrLbLtKOXwMteJ3zEm1Ebw",
+   "created": "2026-06-12",
+   "subs": "10700",
+   "videos": "209"
+  },
+  {
+   "title": "스트로베리 터틀",
+   "id": "UCnempld6HzR-HNHUC8kPdOg",
+   "created": "2025-09-27",
+   "subs": "114000",
+   "videos": "687"
+  },
+  {
+   "title": "애니멀타이쿤",
+   "id": "UCwuLwDVISyQQ8i7w3ZG9i1w",
+   "created": "2023-08-10",
+   "subs": "201000",
+   "videos": "1592"
+  },
+  {
+   "title": "냥멍인간극장",
+   "id": "UCDx7z_c45-ivd1__Z52CYJQ",
+   "created": "2025-12-30",
+   "subs": "7140",
+   "videos": "25"
+  },
+  {
+   "title": "댕냥파워",
+   "id": "UC4KYmpdCLOaTli4x8i5ZcFg",
+   "created": "2025-08-15",
+   "subs": "2190",
+   "videos": "83"
+  },
+  {
+   "title": "TALKING BIRDS",
+   "id": "UCDZgjAzJ-2Gx4kvouhjUNQA",
+   "created": "2026-09-12",
+   "subs": "5760",
+   "videos": "353"
+  },
+  {
+   "title": "공기유머",
+   "id": "UCmcPw1gr-PZ0QV-OZ__4p4g",
+   "created": "2026-10-02",
+   "subs": "38",
+   "videos": "14"
+  },
+  {
+   "title": "뽀짝주의",
+   "id": "UC3267TCdGkfXmHE1wy6GEBQ",
+   "created": "2026-06-05",
+   "subs": "2960",
+   "videos": "110"
+  },
+  {
+   "title": "Pagi Mathis",
+   "id": "UCKyFsIk-J2uH8F6vFGHwxQQ",
+   "created": "2025-11-30",
+   "subs": "98",
+   "videos": "136"
+  },
+  {
+   "title": "댕냥이",
+   "id": "UC348APVw7Z5K-4kmQKNiOjg",
+   "created": "2015-11-17",
+   "subs": "681",
+   "videos": "67"
+  },
+  {
+   "title": "Cativity",
+   "id": "UCsBt9zHXxauHRnYqHQ5Pziw",
+   "created": "2012-09-22",
+   "subs": "933",
+   "videos": "225"
+  },
+  {
+   "title": "고양이통역사",
+   "id": "UCcN9O7GUZyZhcTYL3rUyy9g",
+   "created": "2025-01-02",
+   "subs": "2030",
+   "videos": "145"
+  },
+  {
+   "title": "앵쀼 quaker parrot",
+   "id": "UCFugewVHJH6WxX6dddeUykg",
+   "created": "2025-11-20",
+   "subs": "119",
+   "videos": "78"
+  },
+  {
+   "title": "동댕지동댕",
+   "id": "UCGSsNs2drBT-rXjsT9Qf2ow",
+   "created": "2025-09-07",
+   "subs": "57400",
+   "videos": "163"
+  },
+  {
+   "title": "말하는 동물원",
+   "id": "UCKzDREdl7rxegC5Fg5M6pzw",
+   "created": "2026-07-10",
+   "subs": "9",
+   "videos": "486"
+  },
+  {
+   "title": "핫멍이",
+   "id": "UChAkyL4RVVnlyHpk5v4aIgw",
+   "created": "2025-12-27",
+   "subs": "2470",
+   "videos": "259"
+  },
+  {
+   "title": "Coco's Days",
+   "id": "UCi3YVOIoOWN485RPlJzxOHQ",
+   "created": "2026-08-24",
+   "subs": "36",
+   "videos": "51"
+  },
+  {
+   "title": "AnimalesJaJa",
+   "id": "UCr16SWbGEkIOIzkgdRdoVQw",
+   "created": "2025-12-30",
+   "subs": "0",
+   "videos": "140"
+  },
+  {
+   "title": "앵무새사남매-루몽다로",
+   "id": "UCkIu9pkxvDcnBs4Tl4seMFw",
+   "created": "2018-07-18",
+   "subs": "244000",
+   "videos": "1751"
+  },
+  {
+   "title": "キュートくま",
+   "id": "UCFh4oWMgYRCS0UuaoF7ui_w",
+   "created": "2026-03-23",
+   "subs": "2000",
+   "videos": "201"
+  },
+  {
+   "title": "애니멀 팜 Animal Farm",
+   "id": "UCEK_PAgyI7zWAqFuDK4rZ8g",
+   "created": "2023-09-13",
+   "subs": "102000",
+   "videos": "1102"
+  },
+  {
+   "title": "Kitty Kingdom TV",
+   "id": "UCt_hhjsdjLxfaZWMqvvofIw",
+   "created": "2022-08-14",
+   "subs": "618",
+   "videos": "549"
+  },
+  {
+   "title": "아홉개",
+   "id": "UCoCH6OJnU6T7h0__vrQTMtw",
+   "created": "2025-04-27",
+   "subs": "8710",
+   "videos": "94"
+  },
+  {
+   "title": "멍냥마미",
+   "id": "UCLhIcT2az9B8Mmm_63Bg35w",
+   "created": "2023-03-13",
+   "subs": "149",
+   "videos": "181"
+  },
+  {
+   "title": "Birds Daily",
+   "id": "UCsy647sqKTuOYWiLAGpcjCg",
+   "created": "2025-11-23",
+   "subs": "1450",
+   "videos": "796"
+  },
+  {
+   "title": "심심한고양이",
+   "id": "UCRWlxQLr1wU37msxXMVXJiA",
+   "created": "2025-03-04",
+   "subs": "2080",
+   "videos": "120"
+  },
+  {
+   "title": "DanceVibe Studio",
+   "id": "UCrfnsucmNMpDaEhMjSsnPMg",
+   "created": "2025-07-21",
+   "subs": "81",
+   "videos": "29"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "앵무새 고양이 창문",
+   "vid": "UPJvLH_QDCs",
+   "ch": "1분새",
+   "cid": "UCpOd7sl4el9_OsjwxgW9utQ",
+   "date": "2026-08-24",
+   "title": "놀리는 맛에 사는 앵무새",
+   "views": 21846
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "q": "앵무새 고양이 창문",
+   "vid": "anGcp_4drxQ",
+   "ch": "길고양이단지네danjine cats",
+   "cid": "UCRXID1CYlIu3qnII3e7aQ6g",
+   "date": "2026-07-27",
+   "title": "유리창문에 부딪혀 의식을 잃은 앵무새 #햇님이",
+   "views": 1864
+  },
+  {
+   "q": "앵무새 고양이 창문",
+   "vid": "Fvw7gpLSArQ",
+   "ch": "앵듀연듀",
+   "cid": "UCtsqkq3MokaEd4EuTqRh86g",
+   "date": "2026-03-10",
+   "title": "창문 좋아하는 앵무새 1 #앵무새#사랑앵무",
+   "views": 1460
+  },
+  {
+   "q": "앵무새 고양이 창문",
+   "vid": "38ARMGyxLEY",
+   "ch": "moimoi",
+   "cid": "UCHs2XrVuLoHFitmsqbBydPg",
+   "date": "2026-09-21",
+   "title": "앵무새 실종은 창문 여는 몇 초 사이에 일어나요 #모이모이 #앵무새 #반려조",
+   "views": 678
+  },
+  {
+   "q": "앵무새 고양이 창문",
+   "vid": "1FvhDdEwjJM",
+   "ch": "앵듀연듀",
+   "cid": "UCtsqkq3MokaEd4EuTqRh86g",
+   "date": "2026-04-29",
+   "title": "삐진 앵무새?! | 창문열어줘~!!!! #앵무새#사랑앵무",
+   "views": 550
+  },
+  {
+   "q": "앵무새 고양이 창문",
+   "vid": "TCkpdvH0FjQ",
+   "ch": "개웃긴 동물 채널",
+   "cid": "UCo3fb3GxEjLpPJUjLZ4AHig",
+   "date": "2025-09-24",
+   "title": "고양이 vs 앵무새 난장판 모음집 ㅋㅋㅋ",
+   "views": 38
+  },
+  {
+   "q": "앵무새 고양이 창문",
+   "vid": "J3dpGJz36gg",
+   "ch": "짤래미",
+   "cid": "UCI-1BuUcpz2O4jmOkEX-UAA",
+   "date": "2026-10-14",
+   "title": "창문 하나 사이에 둔 앵무새와 이웃집 고양이, 둘이 노는 방법",
+   "views": 14
+  },
+  {
+   "q": "앵무새 고양이 창문",
+   "vid": "PHkgYnRQM6k",
+   "ch": "오늘의쇼핑",
+   "cid": "UCfTWC9oNnsneg7p8O3NzImw",
+   "date": "2025-07-14",
+   "title": "꿀벌, 고양이, 강아지, 앵무새까지! 가성비 펫용품 언박싱  리뷰!",
+   "views": 1
+  },
+  {
+   "q": "앵무새 길냥이 야옹",
+   "vid": "ugV-GPSJXu8",
+   "ch": "냐옹이 ",
+   "cid": "UCDYRuz8k05HlbOhvrPeSp2g",
+   "date": "2026-05-09",
+   "title": "두번 하는말 따라하는 앵무새 냥이    #고양이 #고양이일상 #길냥이 #cat #cute",
+   "views": 2069
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "KWla9MWL_iw",
+   "ch": "Merv the Cat (...& Chad)",
+   "cid": "UC2pJiqq1DE5P3qbFvqVpW1g",
+   "date": "2025-08-19",
+   "title": "Merv&#39;s BIRD visits window, TODAY best MORNING EVER #baga",
+   "views": 1696069
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "No46oQSkt_4",
+   "ch": "The Pet Collective",
+   "cid": "UCPIvT-zcQl2H0vabdXJGcpg",
+   "date": "2025-10-19",
+   "title": "Cats Chirp At Birds Outside Car Window",
+   "views": 573325
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "QMAeA20WBB8",
+   "ch": "Jackson Galaxy",
+   "cid": "UCheL-cUqfzUB8dfM_rFOfDQ",
+   "date": "2026-09-26",
+   "title": "Your Cat Sees a Bird and Then THIS Happens: Understanding Ca",
+   "views": 26666
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "XGwvy4SJ7zw",
+   "ch": "深夜留白",
+   "cid": "UCqMvql1xzIOtHc0-qdhSUvg",
+   "date": "2025-11-29",
+   "title": "Bird Keeps Teasing the Cat… and the Cat Loses It! 🤣🐦🐱 #Funny",
+   "views": 6368
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "ZAjj-pFNjBQ",
+   "ch": "CrazyPaw",
+   "cid": "UCejKxi2Ip4YYTKPRTN8Wwuw",
+   "date": "2025-11-12",
+   "title": "Cat Saves Bird from Window Impact — Gentle Intervention",
+   "views": 5736
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "PK3v_-HQFzI",
+   "ch": "Lucky🐱",
+   "cid": "UCndHrUy9fVZFXZwBPYP1ysQ",
+   "date": "2025-09-10",
+   "title": "The bird outside the window is teasing Lucky.😑😑😑 #cat #cute ",
+   "views": 3361
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "D-OxS9H8WXY",
+   "ch": "Animal Reaction Cat",
+   "cid": "UCXpqxK0nRTDvPPuv3x1lTAg",
+   "date": "2025-12-14",
+   "title": "KUCING LUCU DAN SEEKOR BURUNG ⁉️🤣 #shorts #kucing #bird #cat",
+   "views": 2098
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "Oi94VhYjeys",
+   "ch": "Kitty Leaderboard",
+   "cid": "UCwrgCOnJ01Z0SKaCiUHAO3A",
+   "date": "2026-10-14",
+   "title": "Ranking the Most Curious Bird Watching Cat Moments #shorts",
+   "views": 1408
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "qqpMRZsbXFU",
+   "ch": "St. Francis & Elisabeth I",
+   "cid": "UC4v14KmTseth2tMup4zcaCA",
+   "date": "2025-09-24",
+   "title": "We got a window bird feeder 😻 cat TV | #shorts",
+   "views": 1510
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "xSf1elPVKU4",
+   "ch": "Muse.Pawzzle🐱",
+   "cid": "UCgvNBrUt42E-m5CcQFpmYfg",
+   "date": "2026-05-08",
+   "title": "Matilda hosting her daily bird podcast from the window studi",
+   "views": 1658
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "kclKjXj_CF8",
+   "ch": "Life of Crypto 🐾",
+   "cid": "UCB7OXnUGDKd1Szg5j_Q-RSA",
+   "date": "2026-07-14",
+   "title": "He Forgot About the Glass… 😂.     #Shorts #FunnyCats #Cats #",
+   "views": 1387
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "cZIdJ7Y9AVU",
+   "ch": "catkobe",
+   "cid": "UCXb607R2yP9f9SG-PgSyAIw",
+   "date": "2026-04-21",
+   "title": "his face when he saw a big bird",
+   "views": 2438
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "RpETSsfyIDg",
+   "ch": "Itsmangymeow",
+   "cid": "UCH9gy7c6zL-eJkiBwCOoa5A",
+   "date": "2026-07-15",
+   "title": "She really thinks meowing at the window will unlock the “Cat",
+   "views": 1468
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "9B9v_YiNB-I",
+   "ch": "Matts Video Adventures",
+   "cid": "UCuVAomUXSzUrB0iCjhYWOdg",
+   "date": "2026-06-22",
+   "title": "Window bird feeder cat brothers coordinated attack",
+   "views": 1029
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "pFOAs2EeLFo",
+   "ch": "😺 Gulumulu Chini 😺",
+   "cid": "UCJrTWSdMFSkCqHASlXpwOjg",
+   "date": "2026-08-14",
+   "title": "😸Chini vs Bird 🐦",
+   "views": 976
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "YZ6nPxuiyX4",
+   "ch": "A Real Life in New York ",
+   "cid": "UCdCvcm0ljzgn-aORQ0cVHKg",
+   "date": "2026-06-03",
+   "title": "Bird watching from his window seat, Jojo is a 6-year-old res",
+   "views": 898
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "-OqkMoqi44o",
+   "ch": "Jessica Flow",
+   "cid": "UCgBGQtuwOaTWg8Gy8Uv5erg",
+   "date": "2026-03-14",
+   "title": "Cat and Bird STARE OFF It’s like the bird understands how wi",
+   "views": 983
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "16VzAEWz-8k",
+   "ch": "Jenn Wren",
+   "cid": "UCx9ov6sBIUjsqeZevKvPZ2Q",
+   "date": "2025-12-24",
+   "title": "Cats and window bird feeders #cats #windowfeeders",
+   "views": 1893
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "inTuhQhHtzE",
+   "ch": "PET COLLECTS",
+   "cid": "UCMs3pfItRlCH4ZpBLriKjqQ",
+   "date": "2026-07-01",
+   "title": "The &quot;Bird in the Window&quot; Glitch🐈🔭🐦 #shorts #funny ",
+   "views": 1524
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "CZ1RJIRewN0",
+   "ch": "Nacho",
+   "cid": "UCet1JUnPwU_1vB21rGJpuQg",
+   "date": "2026-06-22",
+   "title": "cats really said The bird got too close to the window. My ca",
+   "views": 1712
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "6ibhjY_0mWM",
+   "ch": "lovers' world",
+   "cid": "UC_IClhLrFG3HZoxLbhU99_A",
+   "date": "2025-12-31",
+   "title": "🤟💥Bird vs. Window! My cat’s reaction 😹🐦💥:#CuteCat #CatReacti",
+   "views": 1696
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "or81fi3Ei_4",
+   "ch": "Mighty Oreo",
+   "cid": "UCMxxcpQM02VWUjc9R8XLtsA",
+   "date": "2026-03-30",
+   "title": "When there’s a bird at the window 😅 #catvideos #funny #aww #",
+   "views": 2579
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "9UCJ-mCfjoE",
+   "ch": "Emi Dot Net",
+   "cid": "UCkEFpCZ2sVa7wUIaWIWmP1g",
+   "date": "2026-03-19",
+   "title": "Cats Watching Bird On Window | Leo and Kiki  #shorts",
+   "views": 858
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "n9v0ilZYAQw",
+   "ch": "Chronicles of a Sassy Cat",
+   "cid": "UClpqnqwsWPEdi70p_hj78fQ",
+   "date": "2026-08-22",
+   "title": "🐦 “He’s back.” 😳 The cat knows something about that bird… an",
+   "views": 1317
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "5Wsx3jQxDFk",
+   "ch": "Cat family",
+   "cid": "UCtP2TVnF3D49dQaU2dTb22g",
+   "date": "2026-01-26",
+   "title": "My cats saw a bird outside the window!",
+   "views": 1216
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "1jXphXGNTxM",
+   "ch": "Rusty • Polydactyl Cat",
+   "cid": "UCe9UFWe25xIJOxGdJRZqb5Q",
+   "date": "2026-10-13",
+   "title": "Soft meow alert: parrots incoming",
+   "views": 1527
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "28S1bblBBHI",
+   "ch": "Purrfect Pages",
+   "cid": "UCSC4FYh7rt7RjylHIlRT0mw",
+   "date": "2025-10-24",
+   "title": "These cats don&#39;t have a bird so they watched bird from o",
+   "views": 820
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "wJsI1wFbdHw",
+   "ch": "Fluffy",
+   "cid": "UCASC4CS_Tr2V_n9chD_GMSQ",
+   "date": "2026-04-10",
+   "title": "“Fluffy &amp; Coco vs The Window Bird 🐦🔥 | Hunter Mode ON!” ",
+   "views": 955
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "3DfDK7Cp9hY",
+   "ch": "Maggie Hernandez",
+   "cid": "UC_ZPlNfD4drAUmyTofUBZDQ",
+   "date": "2025-07-08",
+   "title": "Cats Love Bird Watching &amp; Napping on This Window Perch! ",
+   "views": 770
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "BC3c13_HLvc",
+   "ch": "Little Reality Check",
+   "cid": "UCw4n_0b49J81IPu6RngOskw",
+   "date": "2026-01-05",
+   "title": "Cat Watches Bird Outside – Window Crash Chaos! 😹🪟",
+   "views": 751
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "AHXpHShRyCM",
+   "ch": "Bravo Dada!",
+   "cid": "UCOyr4y0OqTnhrhEGZssQHyA",
+   "date": "2026-05-31",
+   "title": "Tabby Cat Ekekeke Chirping &amp; Chattering | Cat&#39;s Chir",
+   "views": 651
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "JR9YsXFEdJs",
+   "ch": "Ryvorem",
+   "cid": "UCV5KdJw_NGx0Vn6dWbwqUhg",
+   "date": "2026-10-12",
+   "title": "Bird TV never takes a day off 🐦📺 What&#39;s your cat&#39;s f",
+   "views": 1077
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "p75kgesn5_k",
+   "ch": "Ragin Pony",
+   "cid": "UC_eUNy8qUyawJR3XyUsIIIw",
+   "date": "2026-09-26",
+   "title": "why do Cats make funny noises at birds? #petfacts #animalfac",
+   "views": 792
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "vEeRHN5gyIs",
+   "ch": "Yeti Goob",
+   "cid": "UC39q7phF78RH9CNoaioeg0g",
+   "date": "2026-10-06",
+   "title": "Yeti saw a stellar jay bird and was fascinated. #cat #cats",
+   "views": 371
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "qOCFRBnJ8y4",
+   "ch": "RomeoJulieta ",
+   "cid": "UCrfa-R-MPEB3A7bk84sEtlQ",
+   "date": "2026-09-27",
+   "title": "Beautiful Cat change her voice when she sees a bird through ",
+   "views": 1150
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "SX7DKXr8E6s",
+   "ch": "Nimmi Kitten",
+   "cid": "UCyRiz5-yC2xWg0pvCYnDkCw",
+   "date": "2025-10-12",
+   "title": "Curious Nimmi Watches a Bird Through the Window 🪟🐦 | Cute Ca",
+   "views": 638
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "06Xd9X1t6ZA",
+   "ch": "@Aman",
+   "cid": "UCCLAdbnmcrCFQ9efcKo_yNA",
+   "date": "2026-07-16",
+   "title": "Cat Golda’s Bird Hunt Failed Again! 😂🕊️ #Cats #Birds #FunnyC",
+   "views": 282
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "bvymhmdH1eQ",
+   "ch": "puppy0711",
+   "cid": "UCVhynCZK-u5Rx7zmPYE_-Rw",
+   "date": "2025-07-20",
+   "title": "a cat looking out the window 고양이こねこ 새 bird",
+   "views": 531
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "Ue9yNE9m3fM",
+   "ch": "Milo",
+   "cid": "UCo6oyKketrHL1azLyyMHi-g",
+   "date": "2025-08-06",
+   "title": "“Hilarious Cat Reaction to Bird Outside the Window! 😂🐱”#cat ",
+   "views": 508
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "z5-yCLTIrE4",
+   "ch": "Cornish Rex Cats: Cuteness & Chaos by Svetochka 🐱",
+   "cid": "UCtPOaykG2DOKoPI6Kik5zsA",
+   "date": "2026-05-26",
+   "title": "His face when he sees a bird 😂 #shorts #funnycat #cats",
+   "views": 222
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "U6dL1P_F7M8",
+   "ch": "Chandra Mawa",
+   "cid": "UC2ik0n05GewEgNh_hTDmavg",
+   "date": "2025-10-19",
+   "title": "Window Friend Story",
+   "views": 466
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "0fnRDlNwa5c",
+   "ch": "Zoetic Creations\n",
+   "cid": "UC5HX1SRCp8VtaIXaXxAd5yA",
+   "date": "2025-11-06",
+   "title": "Cat Window Hammock = Instant Enrichment — Bird TV From the P",
+   "views": 210
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "XjCNd-ejOLM",
+   "ch": "DanceVibe Studio",
+   "cid": "UCrfnsucmNMpDaEhMjSsnPMg",
+   "date": "2025-07-29",
+   "title": "“Bird Alert! 🐦😺 | Cat’s Window Watch”",
+   "views": 202
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "HBevY9pSsDI",
+   "ch": "Cativity",
+   "cid": "UCsBt9zHXxauHRnYqHQ5Pziw",
+   "date": "2026-02-14",
+   "title": "Watching a bird outside the window #Cute #Cat #Routines #Wat",
+   "views": 144
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "ZDgPezbLA2Y",
+   "ch": "Cat Window TV",
+   "cid": "UC2wel0Y5HLLfNFpnvlx5TEQ",
+   "date": "2026-10-12",
+   "title": "Show Your Cat This Meow Test — Will They Answer? #shorts",
+   "views": 54
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "sGhFy29xnms",
+   "ch": "Pagi Mathis",
+   "cid": "UCKyFsIk-J2uH8F6vFGHwxQQ",
+   "date": "2026-02-02",
+   "title": "morning  parakeet chatter bonus cat meow outside of window #",
+   "views": 61
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "3cBE1UqCiD8",
+   "ch": "Cute Cat Moments TV",
+   "cid": "UCRYbuFoD8JUhI4SkGWjTXGA",
+   "date": "2026-05-14",
+   "title": "POV: Your cat argues with the neighborhood bird 😹 Wait for i",
+   "views": 34
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "Xn6rMXk_Z-M",
+   "ch": "Coco's Days",
+   "cid": "UCi3YVOIoOWN485RPlJzxOHQ",
+   "date": "2026-09-18",
+   "title": "The cat is so confused. 🪟🦜😭",
+   "views": 17
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "j93o9p-e64s",
+   "ch": "BlessKipo",
+   "cid": "UCSZGsrFgj2Q--igAxG6B_7g",
+   "date": "2026-10-10",
+   "title": "‎🐱 “Finally… a peaceful day at the window.”‎👀 Spots the bird",
+   "views": 11
+  },
+  {
+   "q": "parrot meows at cat window",
+   "vid": "c9d8dBkudpA",
+   "ch": "AnimalesJaJa",
+   "cid": "UCr16SWbGEkIOIzkgdRdoVQw",
+   "date": "2026-01-05",
+   "title": "Cat vs Parrot: The Window Stare-Down &amp; Nap Time! #shorts",
+   "views": 1
+  },
+  {
+   "q": "african grey parrot cat window look a cat",
+   "vid": "LZYiSIfxeqs",
+   "ch": "TALKING BIRDS",
+   "cid": "UCDZgjAzJ-2Gx4kvouhjUNQA",
+   "date": "2026-10-19",
+   "title": "🦜My Parrot Blames the Cat 😂",
+   "views": 34620
+  },
+  {
+   "q": "clairerosa90",
+   "vid": "k2d_I_28_uI",
+   "ch": "Birds Color World",
+   "cid": "UCLTrXeYJ5edCgHhXyQjrcKA",
+   "date": "2026-01-18",
+   "title": "@clairerosa90:  #birds, #parrot",
+   "views": 382
+  },
+  {
+   "q": "clairerosa90",
+   "vid": "cGKgGoOTMlM",
+   "ch": "Birds Daily",
+   "cid": "UCsy647sqKTuOYWiLAGpcjCg",
+   "date": "2026-02-13",
+   "title": "@clairerosa90: Why are you doing this Alexa? , #birds, #parr",
+   "views": 242
+  },
+  {
+   "q": "clairerosa90",
+   "vid": "7fQHTg1fhao",
+   "ch": "Birds Nest",
+   "cid": "UC4Oc2A-39eeOrNPqrkeBK_Q",
+   "date": "2026-02-10",
+   "title": "@clairerosa90:  #birds, #cockatiel",
+   "views": 185
+  },
+  {
+   "q": "clairerosa90",
+   "vid": "mEvHQ2iFuJg",
+   "ch": "Birds Nest",
+   "cid": "UC4Oc2A-39eeOrNPqrkeBK_Q",
+   "date": "2026-02-10",
+   "title": "@clairerosa90: I called a b!tch by a parrot every day , #bir",
+   "views": 201
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "0IbXFpacTwg",
+   "ch": "아홉개",
+   "cid": "UCoCH6OJnU6T7h0__vrQTMtw",
+   "date": "2025-07-28",
+   "title": "급똥 마렵다고 앵무새가 말하자ㅋㅋ #동물 #앵무새",
+   "views": 8014384
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "HSwJ3B6FsbY",
+   "ch": "스트로베리 터틀",
+   "cid": "UCnempld6HzR-HNHUC8kPdOg",
+   "date": "2026-01-17",
+   "title": "말 잘듣는 앵무새가 귀여운 고양이ㅋㅋ",
+   "views": 2035255
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "BDuLoUPLuNE",
+   "ch": "냥멍인간극장",
+   "cid": "UCDx7z_c45-ivd1__Z52CYJQ",
+   "date": "2026-01-29",
+   "title": "너무 시끄러운 앵무새를 응징하는 고양이 ㅋㅋㅋ",
+   "views": 1589698
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "E2nX2nyrSpk",
+   "ch": "앵무새사남매-루몽다로",
+   "cid": "UCkIu9pkxvDcnBs4Tl4seMFw",
+   "date": "2025-07-10",
+   "title": "자기 덥다고 에어컨 틀으라는 김루이쒸",
+   "views": 735253
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "MPpqf-_ej9I",
+   "ch": "냥멍인간극장",
+   "cid": "UCDx7z_c45-ivd1__Z52CYJQ",
+   "date": "2026-01-21",
+   "title": "고양이에게 드루와~! 시전한 앵무새 ㅋㅋㅋㅋ",
+   "views": 782655
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "mq_Efuq7sGg",
+   "ch": "댕냥파워",
+   "cid": "UC4KYmpdCLOaTli4x8i5ZcFg",
+   "date": "2026-08-20",
+   "title": "앵무새와 고양이 모먼트 랭킹 TOP5",
+   "views": 202603
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "fskPL3GOjCw",
+   "ch": "오늘만봐준다",
+   "cid": "UCZOYXZInPLwtEb4sBYTWzjw",
+   "date": "2026-10-16",
+   "title": "고양이에게 한 대 맞은 앵무새 잠시후 시작된 무서운 반격 ㅎㄷㄷ #동물 #고양이 #냥이 #앵무새",
+   "views": 288601
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "PSRuRziFaLs",
+   "ch": "퇴근냥식당",
+   "cid": "UCjBUy1iQKJZDoeaYDm3VBXA",
+   "date": "2026-03-01",
+   "title": "악마보다 더한 앵무새",
+   "views": 51468
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "XU1yz2dNOaI",
+   "ch": "애니멀 팜 Animal Farm",
+   "cid": "UCEK_PAgyI7zWAqFuDK4rZ8g",
+   "date": "2025-08-02",
+   "title": "새끼 고양이를 괴롭히는 앵무새들의 최후",
+   "views": 49368
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "Z_LV_Hlfs_s",
+   "ch": "핫멍이",
+   "cid": "UChAkyL4RVVnlyHpk5v4aIgw",
+   "date": "2026-04-10",
+   "title": "고양이VS앵무새 웃긴 혐관 모음 #귀여움주의 #동물이야기 #쇼츠 #고양이 #웃긴영상 #심쿵",
+   "views": 32924
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "dxKl-gkhEbg",
+   "ch": "애니멀타이쿤",
+   "cid": "UCwuLwDVISyQQ8i7w3ZG9i1w",
+   "date": "2025-08-27",
+   "title": "“이게 무슨..” 겁도없이 고양이를 부리로 쪼아버린 앵무새의 최후",
+   "views": 30738
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "zpdrpPQ_sQw",
+   "ch": "하루한컷",
+   "cid": "UC_71Ce5CM2JyMjDcmJZ2jfQ",
+   "date": "2026-04-30",
+   "title": "앵무새와 만나버린 고양이 TOP9",
+   "views": 26068
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "_marfYM0NF8",
+   "ch": "댕냥뽀짝",
+   "cid": "UCPrLbLtKOXwMteJ3zEm1Ebw",
+   "date": "2026-07-13",
+   "title": "귀찮게 하지 말고 저리가 임마 #동물 #고양이 #앵무새",
+   "views": 28424
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "dFkzosCt-7A",
+   "ch": "랭킹오",
+   "cid": "UCU6mA6IKScsYYzH_d6OAc5w",
+   "date": "2026-10-14",
+   "title": "역대급 앵무새와 고양이 랭킹 TOP 6",
+   "views": 24758
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "gcPv1mRFYqA",
+   "ch": "동댕지동댕",
+   "cid": "UCGSsNs2drBT-rXjsT9Qf2ow",
+   "date": "2026-01-26",
+   "title": "얘 뭐가 없어졌는데..? #고양이 #앵무새 #반려동물",
+   "views": 35833
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "an6JGWv43sc",
+   "ch": "댕냥이",
+   "cid": "UC348APVw7Z5K-4kmQKNiOjg",
+   "date": "2025-10-15",
+   "title": "앵무새가 괴롭혀도 절대 화 안내는 고양이  #고양이 #funny",
+   "views": 19180
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "MowfVt50Or0",
+   "ch": "뽀짝주의",
+   "cid": "UC3267TCdGkfXmHE1wy6GEBQ",
+   "date": "2026-07-01",
+   "title": "냥이의 베프...? (feat. 앵무새) #고양이 #앵무새",
+   "views": 15659
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "bSyQVtT_Myg",
+   "ch": "キュートくま",
+   "cid": "UCFh4oWMgYRCS0UuaoF7ui_w",
+   "date": "2026-08-20",
+   "title": "인간 앵무새 퇴치중",
+   "views": 16885
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "eACryA8qn_U",
+   "ch": "사건반장",
+   "cid": "UCFg8jw3ZIK50CW0G2P_13cA",
+   "date": "2025-09-01",
+   "title": "&#39;개 짓는 소리 좀..?&#39; &#39;월월&#39; 짖는 앵무새 #제보는 #사건반장 #short",
+   "views": 12832
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "lRF-l2Mn5wA",
+   "ch": "공기유머",
+   "cid": "UCmcPw1gr-PZ0QV-OZ__4p4g",
+   "date": "2026-10-07",
+   "title": "거들먹거리는 앵무새와 화난 고양이 #더빙 #유머 #동물상황극",
+   "views": 9441
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "E0O4hqTlDjI",
+   "ch": "고양이통역사",
+   "cid": "UCcN9O7GUZyZhcTYL3rUyy9g",
+   "date": "2025-07-11",
+   "title": "고양이와 앵무새의 다툼 결과는? #고양이웃긴영상",
+   "views": 5148
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "U0tqlcy_51M",
+   "ch": "심심한고양이",
+   "cid": "UCRWlxQLr1wU37msxXMVXJiA",
+   "date": "2025-07-30",
+   "title": "고양이와앵무새 #고양이 #앵무새#cat #cute",
+   "views": 5141
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "pGX5AfgEGug",
+   "ch": "멍냥마미",
+   "cid": "UCLhIcT2az9B8Mmm_63Bg35w",
+   "date": "2025-08-24",
+   "title": "#Shorts 고양이와 앵무새의 신경전",
+   "views": 2613
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "AcUO2kMxasQ",
+   "ch": "더빙폭탄",
+   "cid": "UC5L6qQJ3J-Izgjgg0NPHxAA",
+   "date": "2026-03-24",
+   "title": "뭐? 삼계탕? 긁힌 앵무새의 분노 #병맛더빙 #더빙 #재밌는영상 #고양이 #상황극 #cat  #웃긴영상 #f",
+   "views": 2284
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "w8kqt5BKU0Y",
+   "ch": "현이네 둥지",
+   "cid": "UCoWXKWcmsvXrE0eBEWJClMA",
+   "date": "2026-05-15",
+   "title": "고양이 소리 내는 히나, 히냥이~",
+   "views": 2191
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "nkgggI_cmXA",
+   "ch": "뭐하징",
+   "cid": "UC_Lt25rPd3JXaiC8TYyPtFA",
+   "date": "2025-07-21",
+   "title": "고양이 앵무새 첫만남",
+   "views": 1559
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "ESr5AgWXWZM",
+   "ch": "앵쀼 quaker parrot",
+   "cid": "UCFugewVHJH6WxX6dddeUykg",
+   "date": "2025-12-23",
+   "title": "고양이 흉내내는 앵무새 #말하는앵무새 #parrot",
+   "views": 958
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "NiEzeFNGnmQ",
+   "ch": "온기로운",
+   "cid": "UCdRaVlw0nLgMd7z1kf___sw",
+   "date": "2025-07-25",
+   "title": "고양이랑 앵무새 같이 키웠더니… 이렇게 양보하네요☺️",
+   "views": 1267
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "wZJ2A2QV-wM",
+   "ch": "시끌벅적 핫이슈",
+   "cid": "UCDSEhT_0hCGMw652thrEiQw",
+   "date": "2025-10-25",
+   "title": "길냥이는 도망갔지만... 내 앵무새도 갔다. #앵무새 #고양이 #웃픈순간 #반전영상",
+   "views": 414
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "d8aJzIKqZqs",
+   "ch": "말하는 동물원",
+   "cid": "UCKzDREdl7rxegC5Fg5M6pzw",
+   "date": "2026-08-30",
+   "title": "말하는 앵무새 EP.263 | 끝까지 못 참는 냉장고 문 닫히는 소리 3초 만에 흉내 낸 썰 #shorts",
+   "views": 353
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "mwO49kHV8y0",
+   "ch": "말하는 동물원",
+   "cid": "UCKzDREdl7rxegC5Fg5M6pzw",
+   "date": "2026-09-05",
+   "title": "말하는 앵무새 EP.294 | 끝까지 못 참는 집사 잔소리 첫마디만 쏙 골라 흉내낸 썰 #shorts",
+   "views": 267
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "TUlWyGf4HP4",
+   "ch": "말하는 동물원",
+   "cid": "UCKzDREdl7rxegC5Fg5M6pzw",
+   "date": "2026-07-12",
+   "title": "말하는 앵무새 EP.30 | 초인종 소리를 완벽하게 흉내 내서 집사를 매번 속인 썰 (결말에 심쿵) #sho",
+   "views": 11
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "1CtDNWsds-k",
+   "ch": "Kitty Kingdom TV",
+   "cid": "UCt_hhjsdjLxfaZWMqvvofIw",
+   "date": "2026-07-20",
+   "title": "😹 앵무새가 고양이 흉내를 너무 잘 내면 생기는 일",
+   "views": 5
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "npEyONnYFKE",
+   "ch": "말하는 동물원",
+   "cid": "UCKzDREdl7rxegC5Fg5M6pzw",
+   "date": "2026-07-17",
+   "title": "말하는 앵무새 EP.67 | 상상툰) 집사가 온종일 집을 비운 날, 집사 목소리 혼자 흉내 내며 외로움 달랜",
+   "views": 3
+  },
+  {
+   "q": "앵무새 고양이 흉내",
+   "vid": "S2RI6U-gcdY",
+   "ch": "말하는 동물원",
+   "cid": "UCKzDREdl7rxegC5Fg5M6pzw",
+   "date": "2026-10-07",
+   "title": "말하는 앵무새 EP.427 | 사연툰) 라디오 뉴스 앵커 목소리 그대로 흉내 낸 썰 #shorts",
+   "views": 2
   }
  ]
 }
