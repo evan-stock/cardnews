@@ -1,0 +1,55 @@
+{
+ "id": "20261024-pugsushi",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-24T13:53:26.778706+09:00",
+ "publish_at": "2026-10-24T13:53:26.778732+09:00",
+ "publish_now": true,
+ "topic": "생일 기념으로 오마카세 카운터에 앉아 17코스를 한 점씩 받아먹는 퍼그(동물쑛 'ㅋㅋ로 끝나는 반응' 틀, 밈+내레이션, 원본 현장음 살림)",
+ "sources": [
+  {
+   "publisher": "TikTok @roodabeguh",
+   "url": "https://www.tiktok.com/@roodabeguh/video/7699592378243353886",
+   "date": "2026.10"
+  },
+  {
+   "publisher": "TAG24",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-23-2026-pug-gets-a-17-course-sushi-omakase-for-his-birthday-3536301",
+   "date": "2026.10.23"
+  },
+  {
+   "publisher": "BSAVA (RVC 연구)",
+   "url": "https://www.bsava.com/?p=20592",
+   "date": "2023.1.27"
+  }
+ ],
+ "seconds": 18.39,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261024-pugsushi/short.mp4"
+ ],
+ "app_file": "media/20261024-pugsushi/short_nobgm.mp4",
+ "yt": {
+  "title": "생일이라 오마카세 간 퍼그, 17코스 받은 반응ㅋㅋ #shorts",
+  "description": "생일을 맞아 오마카세 카운터에 앉은 퍼그 '루'. 셰프가 한 점씩 내어 주는 17코스를 아주 진지하게 받아먹습니다.\n\nTAG24 '오늘의 바이럴 영상'(2026.10.23)에 소개된 영상입니다. 영국 왕립수의대(RVC) 연구에 따르면 퍼그는 다른 견종보다 비만 위험이 3배 이상 높아, 평소엔 간식 양을 잘 조절해 주는 게 좋다고 합니다.\n\n여러분 강아지 생일엔 뭐 해 주세요?\n\n영상: TikTok @roodabeguh\n참고: TAG24(2026.10.23), BSAVA·Royal Veterinary College(2023.1.27)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @roodabeguh 2026.10, TAG24 2026.10.23, BSAVA (RVC 연구) 2023.1.27\n사진·영상: TikTok @roodabeguh\n\n#shorts #퍼그 #강아지 #오마카세 #강아지생일",
+  "tags": [
+   "퍼그",
+   "강아지",
+   "오마카세",
+   "강아지생일",
+   "웃긴강아지",
+   "강아지먹방",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "aeb04a9cfd17",
+ "tg_msg": 1000
+}
