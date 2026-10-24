@@ -2,7 +2,7 @@
  "id": "20261024-chinahouse",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-24T04:10:32.580620+09:00",
  "publish_at": "2026-10-24T12:00:00+09:00",
  "topic": "중국인 소유 국내 주택 2025년 말 6만1439채, 3년 새 1만6550채(36.9%) 증가 — 국토부 자료(김미애 의원실), 2026.10.23 보도",
@@ -64,5 +64,8 @@
   "media/20261024-chinahouse/05.jpg"
  ],
  "tg_msg": 974,
- "decided_at": "2026-10-24T04:10:36.268720+09:00"
+ "decided_at": "2026-10-24T04:10:36.268720+09:00",
+ "ig_media_id": "17906019429350566",
+ "permalink": "https://www.instagram.com/p/De3HhOkDgxv/",
+ "published_at": "2026-10-24T12:00:46.888562+09:00"
 }
