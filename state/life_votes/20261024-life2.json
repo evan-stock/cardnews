@@ -1,0 +1,42 @@
+{
+ "id": "20261024-life2",
+ "yt_id": "UGIWg_e70nU",
+ "counted_at": "2026-10-24T22:43:17.752891+09:00",
+ "rule": "top_liked_comment",
+ "total_comments": 2,
+ "valid_votes": 1,
+ "count_by_option": {
+  "1": 0,
+  "2": 0,
+  "3": 1
+ },
+ "support": {
+  "1": 0,
+  "2": 0,
+  "3": 1
+ },
+ "tie": false,
+ "top": [
+  {
+   "n": 3,
+   "name": "엄마 분식집",
+   "text": "3 엄분식에서 제2의 백종원 ㄱㄱ",
+   "likes": 0,
+   "author": "@singhaarva",
+   "at": "2026-10-24T12:52:55Z"
+  }
+ ],
+ "skipped": [],
+ "winner": {
+  "n": 3,
+  "name": "엄마 분식집",
+  "comment": {
+   "n": 3,
+   "name": "엄마 분식집",
+   "text": "3 엄분식에서 제2의 백종원 ㄱㄱ",
+   "likes": 0,
+   "author": "@singhaarva",
+   "at": "2026-10-24T12:52:55Z"
+  }
+ }
+}
