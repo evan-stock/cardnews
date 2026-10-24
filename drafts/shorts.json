@@ -1,127 +1,151 @@
 {
- "id": "20261023-rottykitten",
+ "id": "20261024-pugsushi",
  "mode": "send",
  "format": "meme",
- "topic": "식탁 위 아기 고양이와 눈이 마주친 로트와일러가 벽에 딱 붙어 겁먹은 눈으로 곁눈질(동물쑛 '대형 고양이를 처음 본 고양이의 반응 ㅋㅋ'·'~의 반응' 틀을 강아지에 적용, 밈+내레이션, 원본 소리 살림)",
+ "topic": "생일 기념으로 오마카세 카운터에 앉아 17코스를 한 점씩 받아먹는 퍼그(동물쑛 'ㅋㅋ로 끝나는 반응' 틀, 밈+내레이션, 원본 현장음 살림)",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 0.8,
  "sfx_max": 3,
  "hook": {
-  "t": "아기 고양이랑 눈 마주친\n'로트와일러의 반응ㅋㅋ'"
+  "t": "생일이라 오마카세 간 퍼그\n'17코스 받은 반응ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @jordanbell354"
+  "TikTok @roodabeguh"
  ],
  "scenes": [
   {
-   "dur": 2.2,
+   "dur": 1.8,
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.9,
-    "audio": 4.5
+    "start": 77.4,
+    "audio": 8
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(덥석)",
+     "x": 0.22,
+     "y": 0.15,
+     "at": 0.1,
+     "s": "nom",
+     "sv": 0.8
+    },
+    {
+     "k": "talk",
+     "t": "샤리 간이\n딱 좋네",
+     "x": 0.68,
+     "y": 0.12,
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "say": "생일을 맞은 퍼그가 오마카세 집에 왔습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 104.0,
+    "audio": 0.3
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(오늘의 손님: 퍼그)",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.3,
+     "s": "dundun",
+     "sv": 0.7
+    }
+   ]
+  },
+  {
+   "say": "코스는 무려 17개, 셰프가 직접 한 점씩 줍니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 10.0,
+    "audio": 0.4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...뭘 봐",
-     "x": 0.78,
+     "t": "손님 입에\n직접 넣어드림",
+     "x": 0.3,
+     "y": 0.12,
+     "at": 1.2,
+     "to": 2.6
+    },
+    {
+     "k": "talk",
+     "t": "역시 단골\n대우가 다르군",
+     "x": 0.7,
+     "y": 0.3,
+     "at": 2.6
+    }
+   ]
+  },
+  {
+   "dur": 2.4,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 65.0,
+    "audio": 8
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(오물오물)",
+     "x": 0.25,
      "y": 0.12,
      "at": 0.2
     },
     {
-     "k": "sfx",
-     "t": "(덜덜)",
-     "x": 0.22,
+     "k": "talk",
+     "t": "다음은 참치?\n좋아 계속 줘",
+     "x": 0.65,
      "y": 0.2,
-     "at": 0.6
+     "at": 0.7
     }
    ]
   },
   {
-   "say": "아기 고양이랑 눈이 마주친 로트와일러인데요.",
+   "say": "참고로 퍼그는 다른 견종보다 비만 위험이 세 배 높습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 3.1,
-    "audio": 1.5
+    "start": 124.3,
+    "audio": 0.4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "저 털뭉치\n뭐야...",
-     "x": 0.3,
+     "t": "오늘은...\n생일이니까",
+     "x": 0.35,
      "y": 0.12,
-     "at": 0.3
+     "at": 0.8
     }
    ]
   },
   {
-   "dur": 1.2,
+   "dur": 2.8,
    "video": {
     "src": "video/v1.mp4",
-    "start": 5.5,
-    "audio": 3
+    "start": 113.2,
+    "audio": 5
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(동공지진)",
-     "x": 0.3,
-     "y": 0.15,
-     "at": 0.0,
-     "s": "dundun",
-     "sv": 0.8
+     "t": "(흡족)",
+     "x": 0.75,
+     "y": 0.42,
+     "at": 0.2
     },
     {
      "k": "talk",
-     "t": "엄마 나 좀\n구해줘...",
-     "x": 0.7,
-     "y": 0.3,
-     "at": 0.4
-    }
-   ]
-  },
-  {
-   "say": "덩치는 훨씬 큰데 벽에 딱 붙었습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 6.8,
-    "audio": 1.5
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "눈 마주치면\n끝이야...",
-     "x": 0.3,
-     "y": 0.12,
-     "at": 0.3,
-     "to": 1.2
-    },
-    {
-     "k": "talk",
-     "t": "무서운 거 아님\n예의 지키는 거임",
+     "t": "사장님\n내년 생일도 예약이요",
      "x": 0.5,
      "y": 0.12,
-     "at": 1.3,
-     "s": "boing",
-     "sv": 0.8
-    }
-   ]
-  },
-  {
-   "say": "로트와일러는 최대 61킬로그램까지 자라는 대형견입니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 0.3,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "그래 봤자\n서열 1위는 나",
-     "x": 0.72,
-     "y": 0.12,
-     "at": 0.3,
+     "at": 0.6,
      "s": "tada",
      "sv": 0.7
     }
@@ -129,15 +153,15 @@
   }
  ],
  "yt": {
-  "title": "아기 고양이랑 눈 마주친 로트와일러의 반응ㅋㅋ #shorts",
-  "description": "식탁 위에 앉은 아기 고양이와 눈이 마주친 로트와일러. 덩치는 몇십 배인데 벽에 딱 붙어서 곁눈질만 합니다.\n\n틱톡에서 53만 회 넘게 재생된 영상입니다(Newsweek 2025.9.24). 미국애견협회(AKC)에 따르면 로트와일러는 키 최대 약 69cm, 몸무게 최대 약 61kg까지 자라는 대형견이고, 어릴 때부터 훈련과 사회화를 해 주는 것이 중요하다고 합니다.\n\n여러분 강아지도 고양이 앞에서 이런가요?\n\n영상: TikTok @jordanbell354\n참고: Newsweek(2025.9.24), American Kennel Club\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "생일이라 오마카세 간 퍼그, 17코스 받은 반응ㅋㅋ #shorts",
+  "description": "생일을 맞아 오마카세 카운터에 앉은 퍼그 '루'. 셰프가 한 점씩 내어 주는 17코스를 아주 진지하게 받아먹습니다.\n\nTAG24 '오늘의 바이럴 영상'(2026.10.23)에 소개된 영상입니다. 영국 왕립수의대(RVC) 연구에 따르면 퍼그는 다른 견종보다 비만 위험이 3배 이상 높아, 평소엔 간식 양을 잘 조절해 주는 게 좋다고 합니다.\n\n여러분 강아지 생일엔 뭐 해 주세요?\n\n영상: TikTok @roodabeguh\n참고: TAG24(2026.10.23), BSAVA·Royal Veterinary College(2023.1.27)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "로트와일러",
+   "퍼그",
    "강아지",
-   "고양이",
-   "강아지반응",
+   "오마카세",
+   "강아지생일",
    "웃긴강아지",
-   "대형견",
+   "강아지먹방",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
@@ -146,14 +170,19 @@
  },
  "sources": [
   {
-   "publisher": "TikTok @jordanbell354",
-   "url": "https://www.tiktok.com/@jordanbell354/video/7552826618650053910",
-   "date": "2025.9"
+   "publisher": "TikTok @roodabeguh",
+   "url": "https://www.tiktok.com/@roodabeguh/video/7699592378243353886",
+   "date": "2026.10"
   },
   {
-   "publisher": "Newsweek",
-   "url": "https://www.newsweek.com/rottweiler-spots-tiny-kitten-what-happens-next-goes-viral-10475709",
-   "date": "2025.9.24"
+   "publisher": "TAG24",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-23-2026-pug-gets-a-17-course-sushi-omakase-for-his-birthday-3536301",
+   "date": "2026.10.23"
+  },
+  {
+   "publisher": "BSAVA (RVC 연구)",
+   "url": "https://www.bsava.com/?p=20592",
+   "date": "2023.1.27"
   }
  ],
  "publish_now": true
