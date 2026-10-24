@@ -1,0 +1,141 @@
+{
+ "id": "20261024-flamingomilk",
+ "media": "media/20261024-flamingomilk",
+ "topic": "피 흘리는 홍학의 정체 — 새끼에게 흘려 주는 빨간 액체는 피가 아니라 '홍학 젖(크롭 밀크)'. 엄마·아빠 둘 다 프로락틴으로 위쪽 소화관에서 만들고, 지방·단백질이 많아 포유류 젖과 비슷. 빨간색은 먹이(새우·조류)의 카로티노이드 색소라 새끼를 키우는 동안 부모는 분홍빛이 빠져 하얗게 바램",
+ "hook": {
+  "t": "새끼에게 '피'를 흘려 주는\n홍학의 숨은 정체ㄷㄷ"
+ },
+ "credit": "영상: X @FBiodiversidad · TikTok @theunvailing",
+ "bgm": {
+  "file": "assets/bgm/worthy/sneaky_adventure.mp3",
+  "start": 48.0,
+  "vol": 1.12
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: Fundación Biodiversidad(스페인 생태전환부 산하 재단) 공식 X @FBiodiversidad 게시물(1861084936461340808, 2024.11.25 — 칠레홍학 두 마리가 새끼에게 붉은 크롭 밀크를 먹이는 장면, 화면 글자 없음)",
+  "영상: TikTok @theunvailing 사육사 본인 원본(7642535048779926814 — 홍학 Nellie 가 사육사 손바닥에 크롭 밀크를 뱉어 주는 장면, 가운데 영어 자막은 y 0.95 크롭으로 피함)"
+ ],
+ "sources": [
+  {
+   "publisher": "SeaWorld 'Flamingo — Care of Young' — 위쪽 소화관 분비물, 단백질 8~9%·지방 15%로 포유류 젖과 비슷, 붉은색은 칸타잔틴 색소, 프로락틴은 암수 모두, 새끼는 회색·흰 솜털로 태어나 2~3년 뒤 분홍",
+   "url": "https://seaworld.org/animals/all-about/flamingos/care-of-young/"
+  },
+  {
+   "publisher": "Popular Science 2024.2.28 'Why flamingo milk is pink' — 새우 속 카로티노이드로 새빨감, 암수 모두 생산, 크롭 밀크를 만드는 새는 비둘기·홍학·황제펭귄(수컷)뿐",
+   "url": "https://www.popsci.com/environment/why-flamingo-milk-is-pink/"
+  },
+  {
+   "publisher": "BBC Wildlife(Discover Wildlife) 'Why are flamingos pink?' — 카로티노이드가 알과 크롭 밀크로 빠져나가 번식기 끝무렵 부모 암수 모두 분홍이 많이 빠져 거의 흰색",
+   "url": "https://www.discoverwildlife.com/animal-facts/birds/why-are-flamingos-pink"
+  },
+  {
+   "publisher": "A-Z Animals 'Flamingo Chicks Drink Crop Milk That Drains Their Parents' Color' — 암수 모두 프로락틴, 약 두 달간 먹임, 먹이는 동안 부모가 하얗게 바래고 끝나면 색이 돌아옴",
+   "url": "https://a-z-animals.com/animals/flamingo-chicks-drink-crop-milk-that-drains-their-parents-color/"
+  }
+ ],
+ "_note": "fbio.mp4 = X @FBiodiversidad/1861084936461340808 (720x720, 23.4초). 0~11.5초 근접(위 홍학 부리에서 아래 홍학 머리로 붉은 젖이 흐르고 아래 홍학이 새끼에게 먹임), 11.5~12.5 디졸브, 12.5~23.4 전체(어른 둘·흰 새끼). keeper.mp4 = TikTok @theunvailing/7642535048779926814 (576x1024, 11.9초). 가운데(세로 0.45~0.55) 영어 자막 → y 0.95(원본 세로 0.565~0.97)로 자막 아래만. Cincinnati Zoo X 1676230593783144449 는 'No video'.",
+ "scenes": [
+  {
+   "text": "홍학 머리 위로 빨간 '피'가 뚝뚝",
+   "video": {
+    "src": "video/fbio.mp4",
+    "start": 0.5,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "그걸 '새끼'가 받아먹는다",
+   "video": {
+    "src": "video/fbio.mp4",
+    "start": 4.0,
+    "x": 0.5,
+    "y": 1.0
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "어디 다쳐서 피를 토하는 걸까?",
+   "video": {
+    "src": "video/fbio.mp4",
+    "start": 8.6,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "알고 보니 이건 홍학의 '젖'이다",
+   "video": {
+    "src": "video/fbio.mp4",
+    "start": 13.0,
+    "x": 0.5,
+    "y": 0.6
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "엄마·아빠 둘 다 '목'에서 만들어 먹인다",
+   "video": {
+    "src": "video/fbio.mp4",
+    "start": 15.6,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "지방·단백질 듬뿍, 포유류 '젖'과 닮았다",
+   "video": {
+    "src": "video/fbio.mp4",
+    "start": 5.5,
+    "x": 0.5,
+    "y": 0.6
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "빨간색은 먹이 새우·조류에서 모은 '색소'",
+   "video": {
+    "src": "video/keeper.mp4",
+    "start": 1.0,
+    "x": 0.5,
+    "y": 0.95
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "다 내주느라 부모는 '하얗게' 바래 간다",
+   "video": {
+    "src": "video/fbio.mp4",
+    "start": 18.6,
+    "x": 0.5,
+    "y": 0.2
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "심지어 사육사 손에도 '나눠' 준다",
+   "video": {
+    "src": "video/keeper.mp4",
+    "start": 8.5,
+    "x": 0.5,
+    "y": 0.95
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "색까지 내주는 '홍학 육아', 구독하고 또 봐요",
+   "video": {
+    "src": "video/fbio.mp4",
+    "start": 20.2,
+    "x": 0.5,
+    "y": 0.6
+   },
+   "dur": 3.0
+  }
+ ]
+}
