@@ -2,7 +2,7 @@
  "id": "20261024-babavanga",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-24T17:04:59.194593+09:00",
  "publish_at": "2026-10-24T18:00:00+09:00",
  "topic": "2026년이 두 달 남은 지금, 바바 반가 '2026 예언' 중 남은 3개",
@@ -80,5 +80,8 @@
   "media/20261024-babavanga/08.jpg"
  ],
  "tg_msg": 1020,
- "decided_at": "2026-10-24T17:05:02.613187+09:00"
+ "decided_at": "2026-10-24T17:05:02.613187+09:00",
+ "ig_media_id": "18110388740244096",
+ "permalink": "https://www.instagram.com/p/De3wwM6lv_0/",
+ "published_at": "2026-10-24T18:01:32.987991+09:00"
 }
