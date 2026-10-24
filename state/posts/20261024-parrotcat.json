@@ -1,0 +1,50 @@
+{
+ "id": "20261024-parrotcat",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-24T18:47:58.092382+09:00",
+ "publish_at": "2026-10-24T18:47:58.092403+09:00",
+ "publish_now": true,
+ "topic": "아프리카회색앵무 코코가 창문 너머 이웃 길냥이에게 'Look a bird/Look a cat/Hello'라고 말 걸다 냥펀치(유리 너머)를 맞고 '야옹'으로 받아친 뒤 'C'mon off ye go'(TikTok @clairerosa90, 북아일랜드 벨파스트, Newsweek 2025.7.10, 180만 회+). 원본은 앵무새 말소리·현장음, 음악 없음.",
+ "sources": [
+  {
+   "publisher": "TikTok @clairerosa90",
+   "url": "https://www.tiktok.com/@clairerosa90/video/7523259906669989142",
+   "date": "2025.7.5"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/parrot-leaves-viewers-speechless-he-chats-local-cat-best-friend-2097147",
+   "date": "2025.7.10"
+  }
+ ],
+ "seconds": 23.429999999999996,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261024-parrotcat/short.mp4"
+ ],
+ "app_file": "media/20261024-parrotcat/short_nobgm.mp4",
+ "yt": {
+  "title": "앵무새가 이상형 고양이 만나면 일어나는 일ㅋㅋ #shorts",
+  "description": "창밖에 놀러 온 이웃집 길냥이에게 푹 빠진 아프리카회색앵무 코코. \"봐봐, 새다!\"... 아니 \"고양이다!\" 열심히 말을 걸어 보지만, 돌아온 건 유리창 너머 냥펀치. 코코의 대답은 \"야옹\"이었습니다.\n\n북아일랜드 벨파스트에 사는 집사 클레어가 올린 영상으로, 틱톡에서 180만 회 넘게 재생됐습니다. VCA 동물병원에 따르면 아프리카회색앵무는 말을 가장 잘하는 앵무새 중 하나로, 휴대폰 벨소리나 초인종 같은 전자음까지 흉내 냅니다.\n\n여러분 집 새는 무슨 말을 하나요?\n\n영상: TikTok @clairerosa90\n참고: Newsweek(2025.7.10)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @clairerosa90 2025.7.5, Newsweek 2025.7.10\n사진·영상: TikTok @clairerosa90\n\n#shorts #앵무새 #아프리카회색앵무 #말하는앵무새 #고양이",
+  "tags": [
+   "앵무새",
+   "아프리카회색앵무",
+   "말하는앵무새",
+   "고양이",
+   "길냥이",
+   "웃긴동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "3fb76ae7a59b",
+ "tg_msg": 1026
+}
