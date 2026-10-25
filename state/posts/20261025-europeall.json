@@ -1,0 +1,142 @@
+{
+ "id": "20261025-europeall",
+ "slot": "evening",
+ "slot_label": "저녁",
+ "status": "approved",
+ "created_at": "2026-10-25T22:23:33.991601+09:00",
+ "publish_at": "2026-10-25T22:23:42.524014+09:00",
+ "topic": "유럽 7개국 동시다발 시위 총집편(영상 캐러셀): 프랑스·알바니아·스페인·이탈리아·벨기에·포르투갈·그리스 + 독일 예고",
+ "category": "이슈",
+ "core": "Al Jazeera 10.24, AFP 10.19, AP/PBS 10.19, Euronews 10.24·10.25, AP 10.24(알바니아·브뤼셀), Reuters/JPost 10.17(브뤼셀), CatalunyaPress 10.25, Euronews 10.20·Reuters 10.25(리스본), AP 10.21(아테네), Anadolu 10.21(독일). 영상: 날짜 확인한 것만.",
+ "risk": "정당·인종 책임론 없음. 영상 캡션의 정치적 문구 가져오지 않음.",
+ "sources": [
+  {
+   "publisher": "Al Jazeera",
+   "date": "2026.10.24",
+   "url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert"
+  },
+  {
+   "publisher": "AP(PBS)",
+   "date": "2026.10.19",
+   "url": "https://www.pbs.org/newshour/world/from-france-to-albania-how-social-unrest-is-fueling-protests-across-europe"
+  },
+  {
+   "publisher": "Euronews",
+   "date": "2026.10.24",
+   "url": "https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal"
+  },
+  {
+   "publisher": "Euronews",
+   "date": "2026.10.25",
+   "url": "https://www.euronews.com/2026/10/25/thousands-march-across-italy-as-protests-bring-isolated-clashes-with-police"
+  },
+  {
+   "publisher": "AP(Spokesman-Review)",
+   "date": "2026.10.24",
+   "url": "https://www.spokesman.com/stories/2026/oct/24/belgian-protesters-and-police-skirmish-at-anti-gov/"
+  },
+  {
+   "publisher": "Jerusalem Post(Reuters)",
+   "date": "2026.10.17",
+   "url": "https://www.jpost.com/international/article-911974"
+  },
+  {
+   "publisher": "CatalunyaPress",
+   "date": "2026.10.25",
+   "url": "https://www.catalunyapress.es/articulo/barcelona/2026-10-25/6064996-mossos-detienen-100-500-personas-participaron-disturbios-sabado-barcelona"
+  },
+  {
+   "publisher": "Reuters(Internazionale)",
+   "date": "2026.10.25",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests"
+  },
+  {
+   "publisher": "AP(CBS)",
+   "date": "2026.10.21",
+   "url": "https://newschannel9.com/news/nation-world/inspired-by-france-greek-students-protest-as-rising-costs-put-education-out-of-reach"
+  },
+  {
+   "publisher": "Anadolu",
+   "date": "2026.10.21",
+   "url": "https://www.aa.com.tr/en/europe/german-student-initiative-calls-for-nationwide-protests-as-police-warn-of-radicals/4095528"
+  },
+  {
+   "publisher": "Observador",
+   "date": "2026.10.25",
+   "url": "https://x.com/observadorpt/status/2114255498094493715"
+  },
+  {
+   "publisher": "la Repubblica",
+   "date": "2026.10.24",
+   "url": "https://x.com/repubblica/status/2114056817365987738"
+  }
+ ],
+ "slides": [
+  {
+   "t": "프랑스에서 시작해 7개국으로\n유럽 전체가 '혼돈'에 빠졌다",
+   "b": ""
+  },
+  {
+   "t": "물가 시위 2주째\n24일에도 '41만 명'",
+   "b": "학교 지원 요구로 시작해 노조까지 합류했습니다. 17일 약 2,400명, 24일 약 1,000명이 체포됐습니다."
+  },
+  {
+   "t": "등록금 시위가\n'반정부 폭동'으로",
+   "b": "13일 대학생 항의로 시작해 총리 사퇴 요구로 커졌습니다. 당국 집계 부상자는 300명이 넘습니다."
+  },
+  {
+   "t": "학생 집회가\n'불길'로 번졌다",
+   "b": "SNS로 모인 약 500명이 30곳 넘게 불을 지르고 상점 14곳 넘게 털었습니다. 체포 약 100명 중 4분의 1이 미성년자입니다."
+  },
+  {
+   "t": "4시간 넘게 충돌\n경찰이 '돌진'했다",
+   "b": "볼로냐에선 저녁 6시부터 4시간 넘게 충돌했고, 경찰은 물대포와 최루탄을 썼습니다. 전국 8개 도시에서 371명이 연행됐습니다."
+  },
+  {
+   "t": "대낮 도심에서\n차량 '박살'",
+   "b": "10월 초엔 대낮에 차량을 부쉈고(영상), 24일엔 학생들이 공유 킥보드를 쌓아 바리케이드를 치고 불을 붙이려 했습니다."
+  },
+  {
+   "t": "집값 텐트 농성\n새벽 '강제 해산'",
+   "b": "24일 수천 명이 행진한 뒤 광장에 텐트 100여 개가 섰습니다. 25일 새벽 2시 경찰이 철거했습니다."
+  },
+  {
+   "t": "'프랑스처럼'\n학생·교사가 거리로",
+   "b": "21일 아테네에 수천 명이 모였습니다. 구호는 \"그리스에서 프랑스까지, 공짜 공교육을\"이었습니다."
+  },
+  {
+   "t": "31일 핼러윈\n'독일'이 예고했다",
+   "b": "학생 단체 'Gen Z steht auf'가 베를린·함부르크 등에서 전국 시위를 예고했습니다."
+  },
+  {
+   "t": "유럽 소식 궁금한 친구에게\n'보내주세요'",
+   "b": "팔로우하면 다음 소식 바로 받아보기"
+  }
+ ],
+ "caption_full": "[프랑스에서 시작해 7개국으로, 유럽 전체가 혼돈에 빠졌다]\n\n프랑스 학생 시위를 시작으로 유럽 곳곳이 들끓고 있습니다. 나라마다 이유는 조금씩 다릅니다. 물가, 등록금, 교육 예산, 연금, 집값. 하지만 이번 주, 한꺼번에 거리로 쏟아져 나왔습니다.\n\n🇫🇷 프랑스: 24일 전국 41만 명(파리 11만 명) 행진, 체포 약 1,000명. 첫 주말인 17일엔 약 2,400명이 체포됐습니다.\n🇦🇱 알바니아: 13일 대학생 등록금 항의로 시작해 총리 사퇴 요구 시위로. 정부 부처 건물에 불, 부상자 300명 이상.\n🇪🇸 스페인: 바르셀로나에서 SNS로 모인 약 500명이 상점을 털고 불을 질러 약 100명 체포. 마드리드는 집값 텐트 농성이 몇 주째.\n🇮🇹 이탈리아: 8개 도시 371명 연행. 볼로냐에선 4시간 넘게 충돌해 물대포·최루탄이 등장했고, 로마에선 일부가 콜로세움 안까지. 밀라노엔 군인 500명.\n🇧🇪 벨기에: 브뤼셀에서 교육 예산·긴축 반대 시위가 이달 내내. 10월 초 차량 파손, 17일 차량 전복, 24일엔 공유 킥보드 바리케이드.\n🇵🇹 포르투갈: 리스본·포르투 텐트 농성을 25일 새벽 경찰이 강제 해산, 31명 체포·최소 11명 부상.\n🇬🇷 그리스: 21일 아테네 학생·교사 수천 명, \"그리스에서 프랑스까지\".\n🇩🇪 그리고 31일 핼러윈, 독일 학생들이 전국 시위를 예고했습니다.\n\n다음은 어디일까요? 💬\n\n전 세계에서 터진 건 오쓸이 제일 먼저 가져옵니다.\n\n출처: Al Jazeera 2026.10.24, AP(PBS) 2026.10.19, Euronews 2026.10.24\n사진: 표지·독일 장: 참고 이미지(AI 생성), X @WithyGrove(파리), X @Absurd__World(티라나), X @AlertaNews24(바르셀로나), X @Italia24HLive(볼로냐), 브뤼셀 현장 SNS 영상(10월 초)\n\n#유럽시위 #프랑스시위 #알바니아 #브뤼셀 #리스본",
+ "credits": [
+  "표지·독일 장: 참고 이미지(AI 생성)",
+  "X @WithyGrove(파리)",
+  "X @Absurd__World(티라나)",
+  "X @AlertaNews24(바르셀로나)",
+  "X @Italia24HLive(볼로냐)",
+  "브뤼셀 현장 SNS 영상(10월 초)",
+  "Observador(리스본)",
+  "아테네 현장 SNS 영상"
+ ],
+ "manual": true,
+ "files": [
+  "media/20261025-europeall/01.jpg",
+  "media/20261025-europeall/02.mp4",
+  "media/20261025-europeall/03.mp4",
+  "media/20261025-europeall/04.mp4",
+  "media/20261025-europeall/05.mp4",
+  "media/20261025-europeall/06.mp4",
+  "media/20261025-europeall/07.mp4",
+  "media/20261025-europeall/08.mp4",
+  "media/20261025-europeall/09.jpg",
+  "media/20261025-europeall/10.jpg"
+ ],
+ "tg_msg": 1161,
+ "decided_at": "2026-10-25T22:23:42.524026+09:00"
+}
