@@ -55,3 +55,13 @@
 |---|---|---|---|---|---|
 | worthy/darkest_child.mp3 | Darkest Child | 54.0초 | vol 0.56 | 긴장·공포 미스터리 | "Darkest Child" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
 | worthy/sneaky_adventure.mp3 | Sneaky Adventure | 48.0초 | vol 1.12 | 엉뚱한 잠입 | "Sneaky Adventure" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+
+## 오늘의쓸모 새 곡 (Kevin MacLeod, incompetech.com — CC BY 4.0, 설명란 표기 필수, 2026.10.25 사용자가 8곡 들어 보고 4곡 선택)
+음량은 하이라이트 20초 평균 -19.5dB 에 맞춘 값(포도 편 미리듣기로 확인). 안 고른 곡: Hypnothis·Mining by Moonlight·Interloper·Unseen Horrors. 같은 날 사용자가 포도 편 Sneaky Adventure 를 '별로'라 함.
+
+| 파일 | 곡 | 하이라이트 시작 | 음량 | 표기 |
+|---|---|---|---|---|
+| worthy/plans_in_motion.mp3 | Plans in Motion | 34.0초 | vol 0.87 | "Plans in Motion" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/killers.mp3 | Killers | 185.5초 | vol 0.38 | "Killers" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/bit_shift.mp3 | Bit Shift | 3.0초 | vol 0.64 | "Bit Shift" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+| worthy/ice_flow.mp3 | Ice Flow | 64.0초 | vol 0.3 | "Ice Flow" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
