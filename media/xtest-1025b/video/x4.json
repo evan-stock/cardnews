@@ -1,0 +1,144 @@
+{
+ "src": "fxtwitter",
+ "author": "actualites_nrv",
+ "name": "Nice Actualités NRV NiceRendezVous™",
+ "date": "Sun Oct 18 16:21:36 +0000 2026",
+ "text": "Nice s'est trouvé un nouvel héros : Pierre le Vendeur chez Micromania.\n#Nice #Nice06",
+ "views": 1633,
+ "likes": 11,
+ "retweets": 3,
+ "quote": "https://x.com/iciazur/status/2111753655892451732",
+ "url": "https://x.com/actualites_nrv/status/2111855226290647419",
+ "id": "2111855226290647419",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "raw": {
+  "fx": {
+   "media": {
+    "all": [
+     {
+      "type": "photo",
+      "id": "2111854032406859776",
+      "url": "https://pbs.twimg.com/media/HU7QDasWUAAPNJN.jpg?name=orig",
+      "width": 1674,
+      "height": 940
+     }
+    ],
+    "photos": [
+     {
+      "type": "photo",
+      "id": "2111854032406859776",
+      "url": "https://pbs.twimg.com/media/HU7QDasWUAAPNJN.jpg?name=orig",
+      "width": 1674,
+      "height": 940
+     }
+    ]
+   },
+   "quote": {
+    "url": "https://x.com/iciazur/status/2111753655892451732",
+    "id": "2111753655892451732",
+    "text": "« J’ai voulu empêcher les gens de rentrer dans Micromania » : Pierre témoigne après les violences du 17 octobre à Nice\n➡️ https://l.ici.fr/Ocew",
+    "raw_text": {
+     "text": "« J’ai voulu empêcher les gens de rentrer dans Micromania » : Pierre témoigne après les violences du 17 octobre à Nice\n➡️ https://t.co/0hMDGffHD5 https://t.co/OhSZzl9fFx",
+     "display_text_range": [
+      0,
+      145
+     ],
+     "facets": [
+      {
+       "type": "url",
+       "indices": [
+        122,
+        145
+       ],
+       "original": "https://t.co/0hMDGffHD5",
+       "replacement": "https://l.ici.fr/Ocew",
+       "display": "l.ici.fr/Ocew"
+      },
+      {
+       "type": "media",
+       "indices": [
+        146,
+        169
+       ],
+       "id": "2111753643619672064",
+       "display": "pic.x.com/OhSZzl9fFx",
+       "original": "https://t.co/OhSZzl9fFx",
+       "replacement": "https://x.com/iciazur/status/2111753655892451732/photo/1"
+      }
+     ]
+    },
+    "author": {
+     "screen_name": "iciazur",
+     "url": "https://x.com/iciazur",
+     "id": "103039725",
+     "followers": 38695,
+     "following": 638,
+     "likes": 2036,
+     "media_count": 20283,
+     "name": "ICI Azur",
+     "description": "Compte officiel de “ICI Azur” (ex-France Bleu)\n Le média de la vie locale",
+     "raw_description": {
+      "text": "Compte officiel de “ICI Azur” (ex-France Bleu)\n Le média de la vie locale",
+      "facets": []
+     },
+     "location": "Nice",
+     "banner_url": "https://pbs.twimg.com/profile_banners/103039725/1734707243",
+     "avatar_url": "https://pbs.twimg.com/profile_images/1870123835975925760/56QZGcrT_200x200.jpg",
+     "joined": "Fri Jan 08 17:31:56 +0000 2010",
+     "protected": false,
+     "website": {
+      "url": "https://www.ici.fr/azur",
+      "display_url": "ici.fr/azur"
+     },
+     "verification": {
+      "verified": false,
+      "verified_at": null,
+      "type": null
+     },
+     "avatar_color": null
+    },
+    "replies": 9,
+    "retweets": 30,
+    "likes": 83,
+    "bookmarks": 8,
+    "quotes": 5,
+    "created_at": "Sun Oct 18 09:38:00 +0000 2026",
+    "created_timestamp": 1792316280,
+    "possibly_sensitive": false,
+    "views": 9127,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "fr",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+     "all": [
+      {
+       "type": "photo",
+       "id": "2111753643619672064",
+       "url": "https://pbs.twimg.com/media/HU50wBUWYAA5-YI.jpg?name=orig",
+       "width": 1080,
+       "height": 1350
+      }
+     ],
+     "photos": [
+      {
+       "type": "photo",
+       "id": "2111753643619672064",
+       "url": "https://pbs.twimg.com/media/HU50wBUWYAA5-YI.jpg?name=orig",
+       "width": 1080,
+       "height": 1350
+      }
+     ]
+    },
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+   }
+  }
+ }
+}
