@@ -1,0 +1,50 @@
+{
+ "id": "20261025-bunnythump",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-25T18:34:07.539834+09:00",
+ "publish_at": "2026-10-25T18:34:07.539854+09:00",
+ "publish_now": true,
+ "topic": "바닥에 내려놓는 걸 싫어하는 롭이어 토끼 허니번(Hunny Bun)이 집사가 내려놓자 등을 돌려 정색하고, 멀리 가서 뒷발로 바닥을 쿵쿵 구르며 항의함(TikTok @kaici.raynee, 2025.5 게시). 원본 소리는 방 현장음 + 쿵쿵 소리(음악 트랙 없음, 집사 말소리 구간 0~7초는 안 씀). 사실: Scottish SPCA — 토끼는 위험을 알릴 때뿐 아니라 짜증 날 때(안기기 싫을 때, 밥이 늦을 때)도 뒷발을 구름.",
+ "sources": [
+  {
+   "publisher": "TikTok @kaici.raynee",
+   "url": "https://www.tiktok.com/@kaici.raynee/video/7505393713267445038",
+   "date": "2025.5"
+  },
+  {
+   "publisher": "Scottish SPCA - Why do rabbits thump?",
+   "url": "https://www.scottishspca.org/advice/rabbits/why-do-rabbits-thump/",
+   "date": ""
+  }
+ ],
+ "seconds": 18.78,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261025-bunnythump/short.mp4"
+ ],
+ "app_file": "media/20261025-bunnythump/short_nobgm.mp4",
+ "yt": {
+  "title": "토끼 함부로 내려놓으면 안 되는 이유ㅋㅋ #shorts",
+  "description": "안겨 있는 게 좋은 토끼 허니번을 바닥에 내려놨더니... 등을 돌려 정색하고, 멀리 가서 뒷발로 바닥을 쿵쿵 구르며 항의합니다. 소리 켜고 들어 보세요.\n\n스코틀랜드 동물학대방지협회(Scottish SPCA)에 따르면 토끼는 위험을 알릴 때뿐 아니라, 안기기 싫거나 밥이 늦는 등 짜증이 날 때도 뒷발을 구릅니다. 다만 쿵쿵이 계속되고 밥을 덜 먹거나 기운이 없다면 아픈 신호일 수 있어 병원 진료가 필요하다고 해요.\n\n여러분 토끼도 이렇게 화내나요?\n\n영상: TikTok @kaici.raynee\n참고: Scottish SPCA 'Why do rabbits thump?'\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @kaici.raynee 2025.5, Scottish SPCA - Why do rabbits thump?\n사진·영상: TikTok @kaici.raynee\n음성: Typecast\n\n#shorts #토끼 #토끼쿵쿵 #토끼발구르기 #토끼반응",
+  "tags": [
+   "토끼",
+   "토끼쿵쿵",
+   "토끼발구르기",
+   "토끼반응",
+   "웃긴토끼",
+   "반려토끼",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "b8c97f61aaea",
+ "tg_msg": 1131
+}

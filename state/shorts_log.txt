@@ -1,1 +1,7 @@
-⏳ 3개 장면 목소리를 맥북에서 만드는 중
+장면 1/6 silent 누적 3.2초
+장면 2/6 typecast 누적 6.8초
+장면 3/6 silent 누적 9.8초
+장면 4/6 typecast 누적 12.5초
+장면 5/6 silent 누적 15.5초
+장면 6/6 typecast 누적 18.8초
+완성: /home/runner/work/cardnews/cardnews/media/20261025-bunnythump/short.mp4 (18.8초, TTS ['silent', 'typecast'])
