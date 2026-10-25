@@ -1,7 +1,7 @@
 {
  "id": "20261025-life3",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-25T20:22:07.387816+09:00",
  "publish_at": "2026-10-25T20:22:07.387834+09:00",
  "publish_now": true,
@@ -70,5 +70,9 @@
    }
   ]
  },
- "tg_msg": 16
+ "tg_msg": 16,
+ "decided_at": "2026-10-25T20:25:44.541640+09:00",
+ "yt_id": "A8a9JVWvObE",
+ "permalink": "https://youtube.com/shorts/A8a9JVWvObE",
+ "published_at": "2026-10-25T20:25:47.112472+09:00"
 }
