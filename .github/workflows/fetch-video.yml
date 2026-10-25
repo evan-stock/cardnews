@@ -20,6 +20,7 @@ jobs:
           for u in $(python3 -c "import json;print('\n'.join(json.load(open('drafts/video.json'))['urls']))"); do
             i=$((i+1))
             case "$u" in
+              *"#html") curl -sSL -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126 Safari/537.36" -o media/$id/video/page$i.html "${u%#html}" || true ;;  # 페이지 원문 저장(영상 주소 추출용)
               *wikimedia.org/w/api.php*) curl -sSL -A "cardnews-bot/1.0 (github.com/evan-stock/cardnews)" -o media/$id/video/api$i.json "$u" || true ;;
               *googlevideo.com/videoplayback*) curl -sSL -A "Mozilla/5.0" -o media/$id/video/bgm$i.mp3 "$u" || true ;;  # 유튜브 오디오 보관함 downloadAudioUrl
               *.m4s*) n=$(printf "%02d" $i); curl -sSL -A "Mozilla/5.0" -o media/$id/video/seg$n.m4s "$u" || true ;;  # HLS/DASH 조각(스팀 트레일러 등)
