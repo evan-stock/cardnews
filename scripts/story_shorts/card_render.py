@@ -32,10 +32,10 @@ import bgm_highlight  # noqa: E402
 W, H, FPS = 1080, 1920, 30
 # 배치 기준(2026.10.18 사용자 지정): '이런제품이?!' 쇼츠와 같은 높이.
 # 로고 9~17% · 제목 20~29% · 영상 30~71% · 자막 73~81%(영상 바로 아래). 시청자 화면에서 앱 글자는 약 82%부터 덮는다.
-HEAD_Y = 128                                  # 로고·채널명
-TITLE_Y = 352                                 # 제목 2줄
-BOX_Y, BOX_H = 580, 780                       # 영상 칸 1080x780
-SUB_Y = BOX_Y + BOX_H + 44                    # 자막 시작(1줄 ≈1470, 2줄 ≈1550에서 끝남)
+HEAD_Y = 96                                   # 로고·채널명 (2026.10.25 영상 칸 780→960)
+TITLE_Y = 256                                 # 제목 2줄
+BOX_Y, BOX_H = 480, 960                       # 영상 칸 1080x960
+SUB_Y = BOX_Y + BOX_H + 36                    # 자막 시작(1줄 ≈1470, 2줄 ≈1550에서 끝남)
 INK, GRAY, YEL = (17, 17, 17), (120, 120, 120), (255, 216, 77)
 FONT = "/usr/share/fonts/opentype/noto/NotoSansCJK-Black.ttc"
 FONT_B = "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc"
@@ -217,7 +217,7 @@ def base_card(script):
     im.paste(lg, (60, HEAD_Y), m)
     d.text((204, HEAD_Y + 14), "@today.worthy", font=font(34, True), fill=GRAY)
     d.text((202, HEAD_Y + 58), "오늘의쓸모", font=font(48), fill=INK)
-    tf = font(script.get("title_size", 88))
+    tf = font(script.get("title_size", 80))
     y = TITLE_Y
     for line in script["hook"]["t"].split("\n")[:2]:
         draw_rich(d, 64, y, line, tf)
