@@ -1,169 +1,189 @@
 {
- "id": "20261025-catplatter",
+ "id": "20261025-dogdad",
  "mode": "send",
  "format": "meme",
- "topic": "통통한 태비 고양이 데니스가 손님상처럼 차려 놓은 원형 식탁 한가운데 서빙 접시 위에 식빵 자세로 들어앉아 '메인 요리'가 됨(TikTok @annadrury59, 촬영자 애나 드루리가 웃으며 다가가 찍음, TAG24 Viral Video of the Day 2025.11.30). 원본 소리는 촬영자의 고양이에게 거는 말투·현장음(음악 트랙 없음). 사실: Hill's Pet — 식빵 자세는 편안함의 표시, 방어·도망 자세가 아님.",
+ "topic": "아빠가 된 강아지 모리(Maury)에게 주인이 갓 태어난 새끼를 얼굴 앞에 들이밀자, 끝까지 고개를 돌려 벽만 보고 카메라를 째려봄(TikTok @srtslug, 2025.8.26 게시, 2,300만 회+, Newsweek 2025.9.11). 원본 소리는 주인 말소리·현장음(음악 트랙 없음). 사실: AKC — 젖을 뗀 뒤에는 많은 아빠 개가 새끼와 놀아 주며 사회성을 가르침.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 0.8,
  "sfx_max": 3,
+ "style": {
+  "sub_y": 0.86
+ },
  "hook": {
-  "t": "저녁상 차려놨더니\n'메인 요리가 고양이ㅋㅋ'"
+  "t": "새끼를 처음 본\n'아빠 강아지의 반응ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @annadrury59"
+  "TikTok @srtslug"
  ],
  "scenes": [
   {
-   "dur": 2.4,
+   "dur": 2.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 13.3,
+    "start": 21.0,
+    "zoom": 1.4,
+    "x": 0.3,
+    "y": 0.15,
     "audio": 1.0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "뭘 봐?\n메인 요리 처음 봐?",
-     "x": 0.66,
+     "t": "아빠~\n나 좀 봐봐",
+     "x": 0.76,
+     "y": 0.62,
+     "at": 0.1
+    },
+    {
+     "k": "talk",
+     "t": "...누구세요?",
+     "x": 0.72,
      "y": 0.1,
-     "at": 0.3,
+     "at": 0.9,
      "s": "dundun",
      "sv": 0.8
     }
    ]
   },
   {
-   "say": "저녁상을 차려 놨더니, 접시 위에 뭔가 올라가 있습니다.",
+   "say": "아빠가 된 강아지에게, 갓 태어난 새끼를 보여 줬습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 9.3,
-    "audio": 0.4
+    "start": 2.0,
+    "zoom": 1.4,
+    "x": 0.3,
+    "y": 0.15,
+    "audio": 0.35
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "(식빵 굽는 중)",
-     "x": 0.4,
-     "y": 0.3,
-     "at": 1.6
+     "k": "sfx",
+     "t": "(벽 감상 중)",
+     "x": 0.72,
+     "y": 0.2,
+     "at": 1.8
     }
    ]
   },
   {
-   "dur": 1.8,
+   "dur": 2.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 15.6,
-    "audio": 1.0
+    "start": 7.0,
+    "zoom": 1.4,
+    "x": 0.3,
+    "y": 0.15,
+    "audio": 1.2
    },
    "caps": [
     {
      "k": "talk",
-     "t": "주문하신 메인\n나왔습니다~",
-     "x": 0.62,
-     "y": 0.1,
+     "t": "벽지 색깔\n참 예쁘다~",
+     "x": 0.7,
+     "y": 0.12,
      "at": 0.2,
-     "s": "pop",
+     "s": "question",
      "sv": 0.8
     },
     {
      "k": "sfx",
-     "t": "(꾸벅)",
-     "x": 0.25,
-     "y": 0.55,
-     "at": 0.7
-    }
-   ]
-  },
-  {
-   "say": "집사가 다가가도, 메인 요리는 꿈쩍도 하지 않습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 17.4,
-    "audio": 0.4
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "(안 비킴)",
-     "x": 0.33,
+     "t": "(먼 산)",
+     "x": 0.3,
      "y": 0.3,
      "at": 1.0
     }
    ]
   },
   {
-   "dur": 2.0,
+   "say": "새끼를 코앞에 들이밀어도, 끝까지 고개를 돌립니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 11.2,
-    "audio": 1.0
+    "start": 32.0,
+    "zoom": 1.4,
+    "x": 0.3,
+    "y": 0.15,
+    "audio": 0.35
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(못 본 척)",
+     "x": 0.72,
+     "y": 0.2,
+     "at": 1.2
+    }
+   ]
+  },
+  {
+   "dur": 2.4,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 17.0,
+    "zoom": 1.4,
+    "x": 0.3,
+    "y": 0.15,
+    "audio": 1.4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "그릇이 내 모양이면\n내 그릇 아님?",
-     "x": 0.6,
+     "t": "찍지 마...\n내 애 아니라고",
+     "x": 0.68,
      "y": 0.1,
-     "at": 0.2,
-     "s": "question",
+     "at": 0.3,
+     "s": "fail",
      "sv": 0.8
     }
    ]
   },
   {
-   "say": "앞발을 숨긴 식빵 자세는, 아주 편안하다는 뜻이랍니다.",
+   "say": "그래도 젖을 떼고 나면, 새끼와 놀아 주는 아빠 개가 많답니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 18.8,
-    "audio": 0.4
+    "start": 45.5,
+    "zoom": 1.4,
+    "x": 0.3,
+    "y": 0.15,
+    "audio": 0.35
    },
    "caps": [
     {
      "k": "talk",
-     "t": "여기\n내 자리야",
-     "x": 0.3,
-     "y": 0.28,
-     "at": 1.0
+     "t": "...그때 보자",
+     "x": 0.72,
+     "y": 0.12,
+     "at": 1.5
     }
    ]
   }
  ],
+ "sources": [
+  {
+   "publisher": "TikTok @srtslug",
+   "url": "https://www.tiktok.com/@srtslug/video/7542921497166368031",
+   "date": "2025.8.26"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/hysterics-dog-refuses-look-puppy-aint-mine-2128080",
+   "date": "2025.9.11"
+  }
+ ],
  "yt": {
-  "title": "저녁상 차려놨더니 메인 요리가 고양이ㅋㅋ #shorts",
-  "description": "손님 맞을 저녁 식탁을 예쁘게 차려 놨더니, 한가운데 서빙 접시에 통통한 고양이 데니스가 쏙. 몸이 접시에 딱 맞아서 원래 데니스 자리처럼 보입니다. 집사가 다가가도 꿈쩍도 안 하는 오늘의 메인 요리.\n\n집사 애나 드루리가 틱톡에 올린 영상입니다. 반려동물 사료 회사 힐스(Hill's)에 따르면 앞발을 몸 밑에 숨긴 '식빵 자세'는 고양이가 편안하다는 표시로, 언제든 뛰쳐나갈 방어 자세가 아니라고 합니다.\n\n여러분 집 고양이는 어디서 식빵을 굽나요?\n\n영상: TikTok @annadrury59\n참고: TAG24(2025.11.30), Hill's Pet Nutrition\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "새끼를 처음 본 아빠 강아지의 반응ㅋㅋ #shorts",
+  "description": "아빠가 된 강아지 모리에게 갓 태어난 새끼를 보여 줬더니, 벽만 보고 끝까지 고개를 돌립니다. 코앞에 들이밀어도 못 본 척, 카메라는 째려보고... 이쯤 되면 '내 애 아니다' 시위.\n\n집사가 틱톡에 올린 영상으로 2,300만 회 넘게 재생됐습니다. 미국애견협회(AKC)에 따르면 갓 태어난 강아지는 아주 연약해서 아빠 개가 처음부터 가까이 있을 필요는 없고, 젖을 뗀 뒤에는 많은 아빠 개가 새끼와 놀아 주며 사회성을 가르친다고 합니다.\n\n여러분 집 댕댕이도 이런 적 있나요?\n\n영상: TikTok @srtslug\n참고: Newsweek(2025.9.11), American Kennel Club\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "고양이",
-   "식빵자세",
-   "뚱냥이",
-   "고양이일상",
-   "웃긴고양이",
+   "강아지",
+   "아빠강아지",
+   "새끼강아지",
+   "강아지반응",
+   "웃긴강아지",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
   "category": 15,
   "privacy": "public"
  },
- "sources": [
-  {
-   "publisher": "TikTok @annadrury59",
-   "url": "https://www.tiktok.com/@annadrury59/video/7577953677642681655",
-   "date": "2025.11"
-  },
-  {
-   "publisher": "TAG24 Viral Video of the Day",
-   "url": "https://www.tag24.com/topic/viral-video-of-the-day/viral-video-of-the-day-for-november-30-2025-cat-becomes-main-course-in-hilarious-dinner-setup-fail-3428549",
-   "date": "2025.11.30"
-  },
-  {
-   "publisher": "Hill's Pet Nutrition",
-   "url": "https://www.hillspet.com/cat-care/behavior-appearance/what-is-a-cat-loaf",
-   "date": ""
-  }
- ],
- "publish_now": true,
- "style": {
-  "sub_y": 0.8
- }
+ "publish_now": true
 }
