@@ -27,6 +27,10 @@ jobs:
               *download.gallery.brightcove.com*) curl -sSL -A "Mozilla/5.0" -o media/$id/video/v$i.mp4 "$u" || true ;;
               *upload.wikimedia.org*|*thumb.wikimedia.org*|*i.namu.wiki*|*bugsm.co.kr*|*foxweather.com/static*|*images.foxweather.com*|*gtv-cdn.com*|*.jpg|*.jpeg|*.png|*.webp|*.gif|*.mp3) ext="${u##*.}"; ext="${ext%%\?*}"; curl -sSL -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126 Safari/537.36" -e "https://namu.wiki/" -o media/$id/video/img$i.$ext "$u" || true ;;
               *.mp4*) curl -sSL -A "Mozilla/5.0" -o media/$id/video/v$i.mp4 "$u" || true ;;
+              *x.com/*/status/*|*twitter.com/*/status/*)  # 2026.10.25: yt-dlp가 '영상 없음'으로 자주 실패 → fxtwitter/vxtwitter 예비 경로. 게시물 정보(x$i.json)는 항상 저장
+                yt-dlp -q --no-playlist -f "bv*[height<=1080]+ba/b" --merge-output-format mp4 -o "media/$id/video/v$i.%(ext)s" "$u" 2>>media/$id/video/log.txt && python3 scripts/x_video.py "$u" media/$id/video $i --meta-only \
+                  || python3 scripts/x_video.py "$u" media/$id/video $i >>media/$id/video/log.txt 2>&1 \
+                  || echo "실패: $u" >> media/$id/video/log.txt ;;
               *) yt-dlp -q --no-playlist $(python3 -c "import json;print(json.load(open('drafts/video.json')).get('args',''))") -f "$(python3 -c "import json;print(json.load(open('drafts/video.json')).get('format','bv*[height<=1080]+ba/b'))")" --merge-output-format mp4 -o "media/$id/video/v$i.%(ext)s" "$u" 2>>media/$id/video/log.txt || echo "실패: $u" >> media/$id/video/log.txt ;;
             esac
           done
