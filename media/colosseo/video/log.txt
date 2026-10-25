@@ -1,0 +1,6 @@
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://www.ilmattino.it/video/primopiano/corteo_a_roma_contro_il_carovita_manifestanti_entrano_nel_colosseo-9846286.html
+실패: https://www.ilmattino.it/video/primopiano/corteo_a_roma_contro_il_carovita_manifestanti_entrano_nel_colosseo-9846286.html
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://www.ilmattino.it/video/primopiano/manifestanti_a_roma_transennano_una_via_che_porta_al_colosseo-9846543.html
+실패: https://www.ilmattino.it/video/primopiano/manifestanti_a_roma_transennano_una_via_che_porta_al_colosseo-9846543.html
