@@ -2,7 +2,7 @@
  "id": "20261025-colosseo-reel",
  "format": "reel",
  "slot": "evening",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-25T13:11:51+09:00",
  "publish_at": "2026-10-25T13:11:51+09:00",
  "decided_at": "2026-10-25T13:11:51+09:00",
@@ -41,5 +41,8 @@
   "RTVE 영상",
   "ElNacional.cat 영상"
  ],
- "manual": true
+ "manual": true,
+ "ig_media_id": "18664017394032692",
+ "permalink": "https://www.instagram.com/reel/De506NXAnAO/",
+ "published_at": "2026-10-25T13:16:06.045114+09:00"
 }
