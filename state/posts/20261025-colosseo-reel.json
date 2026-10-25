@@ -1,0 +1,45 @@
+{
+ "id": "20261025-colosseo-reel",
+ "format": "reel",
+ "slot": "evening",
+ "status": "approved",
+ "created_at": "2026-10-25T13:11:51+09:00",
+ "publish_at": "2026-10-25T13:11:51+09:00",
+ "decided_at": "2026-10-25T13:11:51+09:00",
+ "topic": "프랑스발 시위가 이탈리아·스페인으로: 로마 시위대 콜로세움 진입, 같은 날 밤 바르셀로나 약탈",
+ "category": "이슈",
+ "sources": [
+  {
+   "publisher": "Il Sole 24 ORE",
+   "date": "2026.10.24",
+   "url": "https://en.ilsole24ore.com/art/squares-cordoned-off-across-italia-protest-marches-in-rome-milan-and-turin-AJT6ndtB"
+  },
+  {
+   "publisher": "TGCom24",
+   "date": "2026.10.24",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/roma-manifestanti-entrano-nel-colosseo-forzando-l-ingresso-_118088591-02k.shtml"
+  },
+  {
+   "publisher": "ElNacional.cat",
+   "date": "2026.10.24",
+   "url": "https://www.elnacional.cat/es/sociedad/cientos-personas-quedan-atrapadas-en-corte-ingles-mientras-manifestantes-saquean-comercios-en-barcelona_1714552_102.html"
+  },
+  {
+   "publisher": "Moncloa.com",
+   "date": "2026.10.24",
+   "url": "https://www.moncloa.com/2026/10/24/disturbios-barcelona-plaza-catalunya-3454878"
+  }
+ ],
+ "files": [
+  "media/20261025-colosseo-reel/reel.mp4"
+ ],
+ "cover": "media/20261025-colosseo-reel/reel_cover.jpg",
+ "caption_full": "🚨 2천 년 된 콜로세움 철문을 시위대가 열어젖혔습니다 [유럽 시위 2편]\n\n프랑스에서 시작된 고물가 시위가 이탈리아와 스페인으로 번졌습니다.\n\n🇮🇹 로마(10월 24일): 고물가·반전 행진을 하던 시위대 일부가 콜로세움 입구를 강제로 열고 들어가 경비 인력과 충돌했습니다. 경찰이 입구를 지키는 가운데 시위대는 다시 밖으로 나왔고, 부상자나 문화재 훼손은 보도되지 않았습니다.\n\n🇪🇸 바르셀로나(같은 날 밤): 복면을 쓴 무리가 바리케이드에 불을 지르고 상점을 약탈했습니다. 전자제품 매장이 통째로 털렸고, 근처 백화점에는 손님 수백 명이 갇혔습니다. 경찰은 30명을 체포했습니다.\n\n프랑스, 그리스에 이어 이탈리아와 스페인까지. 다음은 어디일까요? 💬\n\n전 세계에서 터진 건 오쓸이 제일 먼저 가져옵니다. 팔로우하면 다음 편을 바로 받아보실 수 있습니다.\n\n출처: Il Sole 24 ORE·TGCom24·ElNacional·Moncloa 2026.10.24\n사진: 커버: 참고 이미지(AI 생성), TGCom24(Mediaset)·RTVE·ElNacional.cat 영상\n\n#유럽시위 #콜로세움 #로마 #바르셀로나 #해외이슈 #오늘의쓸모",
+ "credits": [
+  "표지: 참고 이미지(AI 생성)",
+  "TGCom24(Mediaset) 영상",
+  "RTVE 영상",
+  "ElNacional.cat 영상"
+ ],
+ "manual": true
+}
