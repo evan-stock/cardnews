@@ -1,0 +1,51 @@
+{
+ "id": "20261025-cannoli",
+ "created": "2026-10-25T19:18:19.757670+09:00",
+ "items": [
+  {
+   "key": "11d8a72af889",
+   "text": "3주 만에 강아지 유치원에 다녀온 닥스훈트입니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "65a3bc206fe0",
+   "text": "엄마 무릎에 눕자마자, 하루 일을 다 이르기 시작합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "c4a2670376e4",
+   "text": "강아지는 반가운 사람을 만나면, 이렇게 낑낑대기도 한답니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
