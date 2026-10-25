@@ -1,40 +1,1281 @@
 {
- "since": "2025-09-01",
+ "since": "2025-06-01",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
+   "title": "AUSport",
+   "id": "UCClhlGAAT3OFu5Hue1U0wEg",
+   "created": "2025-03-01",
+   "subs": "8070",
+   "videos": "1069"
+  },
+  {
+   "title": "Purrfect Fur Pets",
+   "id": "UCuqlsItMVLfs_4svBiB3muQ",
+   "created": "2026-03-20",
+   "subs": "319",
+   "videos": "211"
+  },
+  {
+   "title": "Mays",
+   "id": "UCgspbRaAwLrUWEGwdif_Vsw",
+   "created": "2023-06-25",
+   "subs": "952000",
+   "videos": "1077"
+  },
+  {
+   "title": "Chelly",
+   "id": "UCULjkakfEhn71JG7ry9iygA",
+   "created": "2026-03-11",
+   "subs": "39500",
+   "videos": "309"
+  },
+  {
+   "title": "Kids on Kerth",
+   "id": "UCaTfK1rSKafSXmKz8I0LVYw",
+   "created": "2024-06-19",
+   "subs": "36000",
+   "videos": "2287"
+  },
+  {
+   "title": "az memes",
+   "id": "UChAGqmeyw7GSeQ7u4AW1zNA",
+   "created": "2022-09-12",
+   "subs": "1890",
+   "videos": "68"
+  },
+  {
+   "title": "Cannoli the Weiner Dog",
+   "id": "UCvhoijYHomn76oVMpmSooug",
+   "created": "2025-12-31",
+   "subs": "33",
+   "videos": "16"
+  },
+  {
+   "title": "BlowRanking",
+   "id": "UCjv8CNTnZnBNnOK22KZEtbQ",
+   "created": "2022-01-04",
+   "subs": "131000",
+   "videos": "352"
+  },
+  {
+   "title": "hollowranking",
+   "id": "UCYkhVE7E_Nga3rpbZToLRhQ",
+   "created": "2025-09-25",
+   "subs": "46500",
+   "videos": "26"
+  },
+  {
+   "title": "Oddball Explorations",
+   "id": "UC4MWq6eJ4EE_Cts0cQ5Pugw",
+   "created": "2017-04-30",
+   "subs": "3470",
+   "videos": "823"
+  },
+  {
+   "title": "Draenor",
+   "id": "UCe6FhhnvbsjqZcjalCJUKig",
+   "created": "2025-06-30",
+   "subs": "246000",
+   "videos": "30"
+  },
+  {
+   "title": "Rob’s Ranks",
+   "id": "UCmIwDY-Dh0BrRl0jYx0Tz1A",
+   "created": "2025-09-27",
+   "subs": "13100",
+   "videos": "323"
+  },
+  {
+   "title": "Aleksandra | Szydełkoperz",
+   "id": "UCxOb7fsMULldYq03wa2j2ZA",
+   "created": "2025-12-28",
+   "subs": "4190",
+   "videos": "120"
+  },
+  {
+   "title": "That Other Nate Guy On Youtube",
+   "id": "UC7sXk_dQ7q57dnepFsilzwA",
+   "created": "2022-09-11",
+   "subs": "149000",
+   "videos": "1666"
+  },
+  {
+   "title": "Rose Carter",
+   "id": "UC2qxpkXCxPOpVtjm3LJd3eQ",
+   "created": "2022-06-16",
+   "subs": "7",
+   "videos": "14"
+  },
+  {
+   "title": "Opinionated",
+   "id": "UCyj6RkFMG2zvr2zPIDrCLBw",
+   "created": "2026-09-30",
+   "subs": "441",
+   "videos": "21"
+  },
+  {
+   "title": "Limagry ",
+   "id": "UCAOQEkD-4VZYmBTsY4xj5yA",
+   "created": "2024-09-02",
+   "subs": "547",
+   "videos": "36"
+  },
+  {
+   "title": "Emily Cheree Vlasenko",
+   "id": "UCRsKjR2b84ATmSPBZYVYxtA",
+   "created": "2025-05-24",
+   "subs": "131000",
+   "videos": "412"
+  },
+  {
+   "title": "Lauren Agans",
+   "id": "UCuMYcf_6il9r-eAMUPEtvAg",
+   "created": "2023-02-09",
+   "subs": "70000",
+   "videos": "245"
+  },
+  {
+   "title": "Lilly",
+   "id": "UC7fig7NyApgql4Yc0jPJ6sg",
+   "created": "2025-06-06",
+   "subs": "335",
+   "videos": "14"
+  },
+  {
+   "title": "Dog Smile",
+   "id": "UC8hpUFw-FfwE8ooTtBAuJuw",
+   "created": "2025-02-06",
+   "subs": "11100",
+   "videos": "1372"
+  },
+  {
+   "title": "2GoodRanking",
+   "id": "UCfbQ7-DAPghutMnJueE3toQ",
+   "created": "2025-09-15",
+   "subs": "167000",
+   "videos": "273"
+  },
+  {
+   "title": "웃긴멍냥",
+   "id": "UCooa1eDtKvptv84kjdOgAyA",
+   "created": "2026-09-16",
+   "subs": "78",
+   "videos": "26"
+  },
+  {
+   "title": "Emma Jordyn",
+   "id": "UCQqqPJqqP0QehWXkmlp7kRw",
+   "created": "2018-02-09",
+   "subs": "233000",
+   "videos": "256"
+  },
+  {
+   "title": "Sophie Silva",
+   "id": "UC84ZJujGee7Hrxh4Qcfkfgw",
+   "created": "2012-01-01",
+   "subs": "6260000",
+   "videos": "1052"
+  },
+  {
+   "title": "Bubbles - Official Channel",
+   "id": "UCJXp4cbsfRIS8PQJ3723nWQ",
+   "created": "2023-09-07",
+   "subs": "763000",
+   "videos": "384"
+  },
+  {
+   "title": "Bevellystrange",
+   "id": "UCuL-NbAKIQZHR-Hg0_k56kA",
+   "created": "2015-11-12",
+   "subs": "38300",
+   "videos": "311"
+  },
+  {
+   "title": "Kick Flash ",
+   "id": "UCEhwNwdlJLYT3M_-yiCDgLA",
+   "created": "2025-08-19",
+   "subs": "74900",
+   "videos": "835"
+  },
+  {
+   "title": "The Quick Briif",
+   "id": "UCmmuZ3E3IKN9RzsnhtR4dew",
+   "created": "2025-05-21",
+   "subs": "63800",
+   "videos": "3602"
+  },
+  {
+   "title": "yoangelolo",
+   "id": "UCr2RPX6bUMaO68UKWYLvt8g",
+   "created": "2022-01-04",
+   "subs": "14100000",
+   "videos": "3064"
+  },
+  {
+   "title": "Ash & Vi",
+   "id": "UC-6dqwN-7arHd12HOaO3H_g",
+   "created": "2020-03-30",
+   "subs": "411000",
+   "videos": "463"
+  },
+  {
+   "title": "BubbleGumPop",
+   "id": "UC1Z8ouVBaskJeM5GAyWnLwg",
+   "created": "2025-04-11",
+   "subs": "43000",
    "videos": "261"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
-   "subs": "0",
-   "videos": "4"
+   "title": "Strat_bloxx",
+   "id": "UCYeF9tWAa-P4L2NeFcmGKQA",
+   "created": "2025-04-27",
+   "subs": "29600",
+   "videos": "80"
+  },
+  {
+   "title": "🌸Beaded By Myla🌸",
+   "id": "UCeQd6c0jGCTI4M0A3mt8JEQ",
+   "created": "2025-05-16",
+   "subs": "64700",
+   "videos": "522"
+  },
+  {
+   "title": "Merci",
+   "id": "UCsXcBp6iWFUH6iyr0hnUi3g",
+   "created": "2017-06-13",
+   "subs": "14100",
+   "videos": "34"
+  },
+  {
+   "title": "ZORINOFTBL",
+   "id": "UCvJogrVo0cJa8PgWHAOcY6w",
+   "created": "2024-06-28",
+   "subs": "66700",
+   "videos": "202"
+  },
+  {
+   "title": "POVINME",
+   "id": "UCilHfn-c_lXBU2xoWzHliUQ",
+   "created": "2012-03-20",
+   "subs": "3510000",
+   "videos": "656"
+  },
+  {
+   "title": "juliyav",
+   "id": "UCM1ncw1JOxIV8rrHy_pOXLA",
+   "created": "2022-02-02",
+   "subs": "5600000",
+   "videos": "872"
+  },
+  {
+   "title": "hudsonstuffy",
+   "id": "UCnBDqaq04UEo7hCwgy8jAKg",
+   "created": "2022-03-17",
+   "subs": "261000",
+   "videos": "254"
+  },
+  {
+   "title": "Cannoli",
+   "id": "UCsnbCPk1IJItcCZX5wM_3PQ",
+   "created": "2024-08-10",
+   "subs": "572",
+   "videos": "76"
+  },
+  {
+   "title": "Rankler",
+   "id": "UCumCeHAh0FM9zJgW2oWeQ3g",
+   "created": "2026-08-20",
+   "subs": "12400",
+   "videos": "60"
+  },
+  {
+   "title": "Jeff & Lauren Show",
+   "id": "UCu-D6S4PLuv4gMdfjiOsfDA",
+   "created": "2023-10-20",
+   "subs": "2770000",
+   "videos": "3491"
+  },
+  {
+   "title": "remontada_1927",
+   "id": "UCrAe_JN7pZ5yBTfy29GR6jQ",
+   "created": "2026-03-15",
+   "subs": "71500",
+   "videos": "697"
+  },
+  {
+   "title": "RescueGroups.org",
+   "id": "UC-2K6nb2I-GOH7TWn0Qm5Rw",
+   "created": "2009-01-17",
+   "subs": "49600",
+   "videos": "182667"
+  },
+  {
+   "title": "The Husky Fam",
+   "id": "UC0XK4BA9WI-l94w_jD5UJRg",
+   "created": "2020-02-14",
+   "subs": "2220000",
+   "videos": "265"
+  },
+  {
+   "title": "Caroline Carr",
+   "id": "UCEWzghpKoCvGOU-Fosm6fMA",
+   "created": "2016-09-05",
+   "subs": "843000",
+   "videos": "1112"
+  },
+  {
+   "title": "Aesthetic llama",
+   "id": "UCAAa7bTM_xfVLOmmykrOe0g",
+   "created": "2022-01-24",
+   "subs": "296000",
+   "videos": "147"
+  },
+  {
+   "title": "RayFtbl",
+   "id": "UC64Rkd9RHpBnNT41tNj6Fwg",
+   "created": "2024-02-25",
+   "subs": "296000",
+   "videos": "266"
+  },
+  {
+   "title": "Cannoli",
+   "id": "UCZJX811q1EA8pMJ69raAkrA",
+   "created": "2025-11-16",
+   "subs": "4910",
+   "videos": "194"
+  },
+  {
+   "title": "Cannoli Panettieri",
+   "id": "UCkFEd3Nj1O91tISajOrMT6w",
+   "created": "2026-07-04",
+   "subs": "14",
+   "videos": "3"
+  },
+  {
+   "title": "🔪JasonLivesHauntz🔪",
+   "id": "UCoruibCHxz69wyRTsbN6ZAw",
+   "created": "2025-04-11",
+   "subs": "1230",
+   "videos": "502"
+  },
+  {
+   "title": "The Pet Collective Too",
+   "id": "UCYZKDmmS5NNIaiD6hlNWh7Q",
+   "created": "2012-03-16",
+   "subs": "5750000",
+   "videos": "6918"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "유치원 다녀온 닥스훈트",
+   "vid": "Crq_lqcNl08",
+   "ch": "웃긴멍냥",
+   "cid": "UCooa1eDtKvptv84kjdOgAyA",
+   "date": "2026-09-23",
+   "title": "유치원 다녀온 개, 말이 너무 많음",
+   "views": 17852
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
+   "q": "cannoli dachshund",
+   "vid": "jcPtmkPziaM",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-09-27",
+   "title": "He always knows when a walk is coming #funnydog #cutedog #do",
+   "views": 3230743
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "4iP1e67e6oU",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-10-21",
+   "title": "And then he’ll do it again tomorrow😈 #sassydog #funnydog #do",
+   "views": 117706
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "cvC1pVQhMXo",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-08-14",
+   "title": "His little squeaks🥹 #happydog #souldog #cutedog #sweetdog #m",
+   "views": 87232
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "jsYQhuqsRvQ",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-09-22",
+   "title": "Cannoli 🤝 his ramp #cutedog #funnydog #dogshorts #minidachsh",
+   "views": 50607
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "NaWnGwTwJLw",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-07-09",
+   "title": "He’s still mad about the fly #funnydog #sassydog #dogshorts ",
+   "views": 27603
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "CUUlrzpOsJo",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-08-28",
+   "title": "I love hearing his daycare recaps🥹 #cutedog #happydog #sweet",
+   "views": 25963
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "-I6Z8hYA3g4",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-07-28",
+   "title": "I’ve raised a monster #funnydog #minidachshund #dachshund #d",
+   "views": 23696
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "RTQmTd9zNW4",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-08-16",
+   "title": "What should we try next? #doghumor #dogcomedy #funnydog #cut",
+   "views": 22936
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "wzas7LJp2ZA",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-10-02",
+   "title": "He just wants to feel wanted🥹 #cutedog #dogcuddles #cute #do",
+   "views": 19316
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "6u0pX4ppdTI",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-08-29",
+   "title": "Against all odds, he made it #doghumor #dogcomedy #funnydog ",
+   "views": 19849
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "n9JaLUlx1d4",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-07-05",
+   "title": "This is Cannoli. He’s one in a million💛 #minidachshund #soul",
+   "views": 13539
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "1UoZTeBQU5Y",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-09-29",
+   "title": "The sweetest reunion after 3 days apart #souldog #happydog #",
+   "views": 13153
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "j2JIS2n55Cg",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-04-13",
+   "title": "We thought we timed the walk well…we didn’t🫠☔️ #dogwalk #fun",
+   "views": 16808
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "QHGeJWe_9Hk",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
    "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "title": "There’s so many things to love about Cannoli #souldog #cuted",
+   "views": 12695
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "txtqj0EegC0",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-10-03",
+   "title": "Which nickname is your favorite? #dogshorts #nicknames #cute",
+   "views": 11099
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "Xd1FELLkTd4",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-07-10",
+   "title": "This went better than expected😂 #dogchallenge #funnydog #dog",
+   "views": 12222
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "eWjgVq6TzEk",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-09-02",
+   "title": "I understood every word #happydog #cutedog #dogtalking #mini",
+   "views": 8988
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "IAxX9VYt84Y",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-09-11",
+   "title": "I’ll never get tired of watching him run to me #souldog #hap",
+   "views": 7145
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "DeJJEMdThis",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-05-05",
+   "title": "Which is your favorite sausage? #sausagedog #dachshund #dogh",
+   "views": 7569
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "h0xfCAeK9mI",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-05-18",
+   "title": "It’s hard being this scary and lovable #doghumor #dogcomedy ",
+   "views": 6361
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "gCeMdoMFuaU",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-09-19",
+   "title": "Cannoli’s ladies #bowtie #bowties #cutedog #handsomedog #dog",
+   "views": 5470
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "oRL7iSIWP40",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-04-11",
+   "title": "He’s always been the cutest thing I’ve ever seen #puppy #pup",
+   "views": 6928
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "4VAe9BIGu0Q",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-08-19",
+   "title": "If anyone deserves to feel special &amp; celebrated, it’s hi",
+   "views": 5207
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "IU3quzESgic",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-08-07",
+   "title": "Hi👋 #sendtoafriend #cutedog #handsomeboy #bowtie #minidachsh",
+   "views": 6225
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "i5sdhL3_pk4",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-06-15",
+   "title": "Can anyone else relate? #funnydog #cutedog #doglife #relatab",
+   "views": 4515
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "idag5S1uXJI",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-09-09",
+   "title": "It’s Cannoli’s world, I’m just living in it #funnydog #doghu",
+   "views": 3711
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "fCMATBVY76o",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-10-24",
+   "title": "It’s even better than I imagined😂 #halloween #halloweencostu",
+   "views": 7230
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "5gNfKlqihoY",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-08-23",
+   "title": "Help is on the way #minidachshund #dachshund #cutedog #funny",
+   "views": 2198
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "hpE9n5FrvY0",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-05-06",
+   "title": "Hype him up please! #minidachshund #dachshund #cutedog #bowt",
+   "views": 2940
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "UA4ZTrGPo9s",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-08-11",
+   "title": "He’s doing his best🫛 #funnydog #cutedog #doghumor #dogeating",
+   "views": 1770
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "636jJUaxLyg",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-06-11",
+   "title": "I think he forgot we existed tbh #funnydog #relatable #trave",
+   "views": 1782
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "iu7P6WJeS20",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-08-07",
+   "title": "This is Cannoli. I hope he brings some joy to your day too☀️",
+   "views": 1306
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "TZwRi04TSPI",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-04-16",
+   "title": "Hype him up🍕#bowtie #minidachshund #dachshund #cutedog #dogl",
+   "views": 2021
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "FxTXcMDFecI",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-06-02",
+   "title": "A bow tie for every occasion😎 #cutedog #handsomedog #cute #b",
+   "views": 2034
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "kn4kAjf37IQ",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-05-27",
+   "title": "A great day was had…minus the bath🍦☀️😴👨‍🍳 #openfarmpartner #",
+   "views": 2583
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "x8vAFyDsx_M",
+   "ch": "Cannoli",
+   "cid": "UCsnbCPk1IJItcCZX5wM_3PQ",
+   "date": "2025-06-10",
+   "title": "Cannoli’s Birthday donuts!! #Birthday #Dachshund #WienerDog ",
+   "views": 2210
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "Ie3waALqRj8",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-04-16",
+   "title": "🐥🐤 #cutedog #bowtie #bowties #minidachshund #dachshund #pupp",
+   "views": 2400
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "lBzeP8G_r0o",
+   "ch": "Cannoli",
+   "cid": "UCsnbCPk1IJItcCZX5wM_3PQ",
+   "date": "2025-06-11",
+   "title": "Cannolis Birthday Celebration!!!🎉 #Birthday #Celebration #Da",
+   "views": 1365
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "n5WfIx3exRM",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-04-24",
+   "title": "Are you convinced yet? #dachshund #minidachshund #minidoxie ",
+   "views": 1447
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "L3V2luScnFs",
+   "ch": "Cannoli Panettieri",
+   "cid": "UCkFEd3Nj1O91tISajOrMT6w",
+   "date": "2026-07-04",
+   "title": "just a few of my favorites !!! 🦫🥞🥪",
+   "views": 1286
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "fLMz42KpllA",
+   "ch": "Cannoli",
+   "cid": "UCsnbCPk1IJItcCZX5wM_3PQ",
+   "date": "2025-06-10",
+   "title": "Happy Birthday Cannoli!!🥳🎉🎂#Birthday #Party #LikeAndSub#Cute",
+   "views": 2629
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "_WtYABm4rIU",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-04-19",
+   "title": "Do you like it?? #bowtie #bowties #dachshund #minidachshund ",
+   "views": 1278
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "H4x2VeQno3U",
+   "ch": "Dog Smile",
+   "cid": "UC8hpUFw-FfwE8ooTtBAuJuw",
+   "date": "2026-01-02",
+   "title": "@cannoli.the.ween: does anyone else’s weiner become a noodle",
+   "views": 1175
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "OhJJXerK5q8",
+   "ch": "RescueGroups.org",
+   "cid": "UC-2K6nb2I-GOH7TWn0Qm5Rw",
+   "date": "2025-08-18",
+   "title": "Video of adoptable pet named Cannoli",
+   "views": 335
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "gKabT5mRpJI",
+   "ch": "Cannoli",
+   "cid": "UCsnbCPk1IJItcCZX5wM_3PQ",
+   "date": "2025-08-16",
+   "title": "Yesss cannoli!!! #dachshund #wienerdog #cute #dog #trend #la",
+   "views": 452
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "GbaJL-Z68sY",
+   "ch": "Cannoli",
+   "cid": "UCZJX811q1EA8pMJ69raAkrA",
+   "date": "2026-06-11",
+   "title": "Please hype him up🧁 #bowtie #cutedog #handsomedog #minidachs",
+   "views": 292
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "3AXOZxK5aIo",
+   "ch": "Purrfect Fur Pets",
+   "cid": "UCuqlsItMVLfs_4svBiB3muQ",
+   "date": "2026-08-08",
+   "title": "Cannoli Has Big Italian Energy 🇮🇹🤌",
+   "views": 210
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "YIAVmWFvupw",
+   "ch": "Cannoli the Weiner Dog",
+   "cid": "UCvhoijYHomn76oVMpmSooug",
+   "date": "2026-08-06",
+   "title": "Cannoli needing attention stat #dachshund #doggielife #pets ",
+   "views": 28
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "DhO_w0QDung",
+   "ch": "Cannoli the Weiner Dog",
+   "cid": "UCvhoijYHomn76oVMpmSooug",
+   "date": "2026-08-07",
+   "title": "Cannoli resembles a sea lion 🥰",
+   "views": 30
+  },
+  {
+   "q": "cannoli dachshund",
+   "vid": "SXNJrTGm4rI",
+   "ch": "Cannoli the Weiner Dog",
+   "cid": "UCvhoijYHomn76oVMpmSooug",
+   "date": "2026-01-25",
+   "title": "Cannoli waiting for a treat #puppy #dogsofinstagram #minidas",
+   "views": 31
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "wW5TktGlyXI",
+   "ch": "Sophie Silva",
+   "cid": "UC84ZJujGee7Hrxh4Qcfkfgw",
+   "date": "2025-08-21",
+   "title": "2000s sizing was NO JOKE. (trying discontinued Halloween cos",
+   "views": 35020535
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "PwAyNy1JQH4",
+   "ch": "yoangelolo",
+   "cid": "UCr2RPX6bUMaO68UKWYLvt8g",
+   "date": "2025-10-02",
+   "title": "Choosing Halloween Costumes BLINDFOLDED ​⁠(Spirit Halloween)",
+   "views": 20560779
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "5igWxIqbc4I",
+   "ch": "RayFtbl",
+   "cid": "UC64Rkd9RHpBnNT41tNj6Fwg",
+   "date": "2025-12-17",
+   "title": "Haaland Is The Costume GOAT 🤯🐐 #haaland #shorts",
+   "views": 12173812
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "tWJBdMeRRnM",
+   "ch": "2GoodRanking",
+   "cid": "UCfbQ7-DAPghutMnJueE3toQ",
+   "date": "2025-10-12",
+   "title": "Ranking The BEST Halloween Costumes🎃✨Part 3",
+   "views": 6091807
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "i5jc6JPGal0",
+   "ch": "hudsonstuffy",
+   "cid": "UCnBDqaq04UEo7hCwgy8jAKg",
+   "date": "2025-10-24",
+   "title": "last minute halloween costumes",
+   "views": 5044308
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "u7L8zPF4HAQ",
+   "ch": "Jeff & Lauren Show",
+   "cid": "UCu-D6S4PLuv4gMdfjiOsfDA",
+   "date": "2026-10-06",
+   "title": "Creative Costume Idea! 🎃",
+   "views": 3528542
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "BQR_3vdp4L4",
+   "ch": "hollowranking",
+   "cid": "UCYkhVE7E_Nga3rpbZToLRhQ",
+   "date": "2025-10-05",
+   "title": "Ranking The BEST SCARY Halloween Costume🎃✨Part 2",
+   "views": 2150058
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "3W3_NURH7Ww",
+   "ch": "Aesthetic llama",
+   "cid": "UCAAa7bTM_xfVLOmmykrOe0g",
+   "date": "2025-08-28",
+   "title": "Halloween costumes I BETTER not see this year🙏🫶 #Halloween#c",
+   "views": 1934700
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "EoBBc3n8g7w",
+   "ch": "That Other Nate Guy On Youtube",
+   "cid": "UC7sXk_dQ7q57dnepFsilzwA",
+   "date": "2025-09-30",
+   "title": "Deluxe Ghost Face Costume from Spirit Halloween 2025 #hallow",
+   "views": 1702279
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "vYyk0C2UrgE",
+   "ch": "juliyav",
+   "cid": "UCM1ncw1JOxIV8rrHy_pOXLA",
+   "date": "2025-10-20",
+   "title": "DIY Deer HALLOWEEN Costume EASY And AESTHETIC Halloween LOOK",
+   "views": 1223125
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "G50wTd0-zwI",
+   "ch": "Lauren Agans",
+   "cid": "UCuMYcf_6il9r-eAMUPEtvAg",
+   "date": "2025-10-07",
+   "title": "Sheet you can be for Halloween #diyhalloweencostume",
+   "views": 1100153
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "CrRtDqUTD3Q",
+   "ch": "The Husky Fam",
+   "cid": "UC0XK4BA9WI-l94w_jD5UJRg",
+   "date": "2025-11-03",
+   "title": "Rate My Cows Halloween Costumes 👻",
+   "views": 767623
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "5ieXVgvT3SI",
+   "ch": "Kick Flash ",
+   "cid": "UCEhwNwdlJLYT3M_-yiCDgLA",
+   "date": "2026-06-17",
+   "title": "Christian Pulisic Was Dressed as a Soccer Player EVERY Hallo",
+   "views": 692034
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "1MYdqmxDOQY",
+   "ch": "POVINME",
+   "cid": "UCilHfn-c_lXBU2xoWzHliUQ",
+   "date": "2025-10-31",
+   "title": "GOATS FOR HALLOWEEN 🐐#pov #cats #halloween #goats #shorts",
+   "views": 580932
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "lCs19rc7LEU",
+   "ch": "Rob’s Ranks",
+   "cid": "UCmIwDY-Dh0BrRl0jYx0Tz1A",
+   "date": "2025-10-29",
+   "title": "Ranking The Best SCARY Halloween Costumes🎃🧛🏻‍♀️",
+   "views": 485125
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "KuwMUtWTvf0",
+   "ch": "Bubbles - Official Channel",
+   "cid": "UCJXp4cbsfRIS8PQJ3723nWQ",
+   "date": "2025-10-06",
+   "title": "Bluey and Friends Wear Halloween Costumes 🎃👻 #shorts #hallow",
+   "views": 873006
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "QHdYMc0JVJU",
+   "ch": "Ash & Vi",
+   "cid": "UC-6dqwN-7arHd12HOaO3H_g",
+   "date": "2026-08-15",
+   "title": "Day 1 of non-basic halloween costume ideas! #monsterhigh #ha",
+   "views": 399006
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "nwaUlkFoj9s",
+   "ch": "az memes",
+   "cid": "UChAGqmeyw7GSeQ7u4AW1zNA",
+   "date": "2025-08-14",
+   "title": "halloween #memes",
+   "views": 474142
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "zFV4oL2EH70",
+   "ch": "remontada_1927",
+   "cid": "UCrAe_JN7pZ5yBTfy29GR6jQ",
+   "date": "2026-10-03",
+   "title": "🇲🇽 Mexico’s GOATs at Halloween. 🔥☠️( Pt.1 ) | #mexico #socce",
+   "views": 226223
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "sNw9Klh49_s",
+   "ch": "🌸Beaded By Myla🌸",
+   "cid": "UCeQd6c0jGCTI4M0A3mt8JEQ",
+   "date": "2026-09-28",
+   "title": "Halloween costume ideas for duo# #trending #halloween #short",
+   "views": 319521
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "VQh5qRMBP6U",
+   "ch": "Draenor",
+   "cid": "UCe6FhhnvbsjqZcjalCJUKig",
+   "date": "2025-07-29",
+   "title": "The last girl is the goat☠️🔥",
+   "views": 247238
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "2pof1FtB-2A",
+   "ch": "Strat_bloxx",
+   "cid": "UCYeF9tWAa-P4L2NeFcmGKQA",
+   "date": "2026-09-12",
+   "title": "Halloween costumes this year😭 #memes",
+   "views": 207560
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "yaLko3HpDxM",
+   "ch": "Emma Jordyn",
+   "cid": "UCQqqPJqqP0QehWXkmlp7kRw",
+   "date": "2026-09-21",
+   "title": "UNIQUE &amp; CHIC Halloween Costumes!🎃#halloween #halloweenc",
+   "views": 152615
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "tF_Sln5MRzw",
+   "ch": "Bevellystrange",
+   "cid": "UCuL-NbAKIQZHR-Hg0_k56kA",
+   "date": "2025-12-19",
+   "title": "This show is the goat #pennywise #horror #goth #vintage",
+   "views": 92649
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "fKUyyRvXM4I",
+   "ch": "Rose Carter",
+   "cid": "UC2qxpkXCxPOpVtjm3LJd3eQ",
+   "date": "2026-05-27",
+   "title": "Goat EXPO Costume Contest!",
+   "views": 64
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "SR6x_nV9H-M",
+   "ch": "Lilly",
+   "cid": "UC7fig7NyApgql4Yc0jPJ6sg",
+   "date": "2026-09-27",
+   "title": "HALLOWEEN COSTUMES PART 3 Trio #halloween #costume #forthegi",
+   "views": 83356
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "Km7cds4JcDA",
+   "ch": "BubbleGumPop",
+   "cid": "UC1Z8ouVBaskJeM5GAyWnLwg",
+   "date": "2026-10-11",
+   "title": "Ranking BEST Halloween Costume 9 🔥🐦‍⬛",
+   "views": 59515
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "-C1QNiRTlSY",
+   "ch": "Rankler",
+   "cid": "UCumCeHAh0FM9zJgW2oWeQ3g",
+   "date": "2026-10-10",
+   "title": "Ranking The Best Halloween Costumes Moments 🎃🔥 #shorts #hall",
+   "views": 50765
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "PEYzw8oRTRM",
+   "ch": "BlowRanking",
+   "cid": "UCjv8CNTnZnBNnOK22KZEtbQ",
+   "date": "2025-10-26",
+   "title": "Ranking The Best Halloween Costume🎃✨",
+   "views": 53480
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "KOORtiGdQmM",
+   "ch": "Chelly",
+   "cid": "UCULjkakfEhn71JG7ry9iygA",
+   "date": "2026-10-17",
+   "title": "DTI&#39;S HALLOWEEN UPDATE IS GETTING CRAZY 😭 | DRESS TO IMP",
+   "views": 56517
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "5IEtIu6tH_E",
+   "ch": "ZORINOFTBL",
+   "cid": "UCvJogrVo0cJa8PgWHAOcY6w",
+   "date": "2025-12-27",
+   "title": "Goat doesn&#39;t need Makeup and Costume🥶",
+   "views": 46285
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "5eUGCdc-kNM",
+   "ch": "Kids on Kerth",
+   "cid": "UCaTfK1rSKafSXmKz8I0LVYw",
+   "date": "2025-10-24",
+   "title": "A look back at our Halloween goats last year 🥰 #onthisday #g",
+   "views": 45084
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "UM8Mvhr4CQ4",
+   "ch": "Kids on Kerth",
+   "cid": "UCaTfK1rSKafSXmKz8I0LVYw",
+   "date": "2025-10-30",
+   "title": "Even the goat skeletons hate the rain #skeletons #goats #far",
+   "views": 33020
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "wfOeAux5Au8",
+   "ch": "Kids on Kerth",
+   "cid": "UCaTfK1rSKafSXmKz8I0LVYw",
+   "date": "2025-08-25",
+   "title": "DIY Halloween Skeleton Dungeon With Pallet Interrupted By My",
+   "views": 25746
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "0WHvoVpAqAM",
+   "ch": "Kids on Kerth",
+   "cid": "UCaTfK1rSKafSXmKz8I0LVYw",
+   "date": "2025-08-21",
+   "title": "Some of the best pet Halloween costumes on our goats! #goats",
+   "views": 26527
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "Nezw8yaRsJA",
+   "ch": "Merci",
+   "cid": "UCsXcBp6iWFUH6iyr0hnUi3g",
+   "date": "2025-08-27",
+   "title": "Imagine waking up to this! #halloween #scary #funny #goat",
+   "views": 26163
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "U5UQ0OiPLPE",
+   "ch": "Limagry ",
+   "cid": "UCAOQEkD-4VZYmBTsY4xj5yA",
+   "date": "2026-09-08",
+   "title": "halloween costumes I better not see😭✌️ #shorts #verity #cati",
+   "views": 23203
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "uAT8lDCztQQ",
+   "ch": "Aleksandra | Szydełkoperz",
+   "cid": "UCxOb7fsMULldYq03wa2j2ZA",
+   "date": "2026-09-11",
+   "title": "Check out the Goat hoods made by my amazing testers! 🖤🐐 #cro",
+   "views": 18920
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "2_kYXocbRwQ",
+   "ch": "Caroline Carr",
+   "cid": "UCEWzghpKoCvGOU-Fosm6fMA",
+   "date": "2026-04-21",
+   "title": "1 goblet in and I’m worth 3 goats and a solid treaty .. #ren",
+   "views": 24032
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "YNDjKIEA2Io",
+   "ch": "Aleksandra | Szydełkoperz",
+   "cid": "UCxOb7fsMULldYq03wa2j2ZA",
+   "date": "2026-09-22",
+   "title": "Sooo who’s gonna be a goat this Halloween??? 🐐🎃  #crochetpon",
+   "views": 18974
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "0Z_ZF7LqYdI",
+   "ch": "The Quick Briif",
+   "cid": "UCmmuZ3E3IKN9RzsnhtR4dew",
+   "date": "2025-11-11",
+   "title": "Kelly Osbourne still in the Halloween spirit with her goat #",
+   "views": 20663
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "-QvtLvRSIaw",
+   "ch": "Kids on Kerth",
+   "cid": "UCaTfK1rSKafSXmKz8I0LVYw",
+   "date": "2025-10-26",
+   "title": "It’s Frickin Bats! Throwback of our Goats in costumes 🥰 I lo",
+   "views": 22636
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "PB1A0hOF-Jo",
+   "ch": "Kids on Kerth",
+   "cid": "UCaTfK1rSKafSXmKz8I0LVYw",
+   "date": "2025-09-16",
+   "title": "HALLOWEEN COSTUMES ON GOATS MEAN GIRLS EDITION🤣 #goat #short",
+   "views": 15484
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "yu2o7-sURwk",
+   "ch": "Opinionated",
+   "cid": "UCyj6RkFMG2zvr2zPIDrCLBw",
+   "date": "2026-10-10",
+   "title": "Ranking The Best &quot;Most Terrifying Halloween Costumes 🎃 ",
+   "views": 15476
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "dEG5xgPwYuI",
+   "ch": "Mays",
+   "cid": "UCgspbRaAwLrUWEGwdif_Vsw",
+   "date": "2026-10-02",
+   "title": "99 Nights in the Forest HALLOWEEN COSTUMES in REAL LIFE?! #r",
+   "views": 13195
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "9dsj-snTKXc",
+   "ch": "Emily Cheree Vlasenko",
+   "cid": "UCRsKjR2b84ATmSPBZYVYxtA",
+   "date": "2026-10-08",
+   "title": "turning the goats’ little house into a spooky cottage 🐐🎃🧙🏽‍♀",
+   "views": 12756
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "8vZZFIZuAA0",
+   "ch": "Oddball Explorations",
+   "cid": "UC4MWq6eJ4EE_Cts0cQ5Pugw",
+   "date": "2025-10-23",
+   "title": "The Majestic Halloween Screaming Goat!  #happyhalloween #sil",
+   "views": 8703
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "WhmI5XZH5g8",
+   "ch": "AUSport",
+   "cid": "UCClhlGAAT3OFu5Hue1U0wEg",
+   "date": "2025-10-31",
+   "title": "Wemby is the GOAT of Halloween costumes 🐐🎃 #nba",
+   "views": 12364
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "iMMo1QBvzDI",
+   "ch": "The Pet Collective Too",
+   "cid": "UCYZKDmmS5NNIaiD6hlNWh7Q",
+   "date": "2025-10-29",
+   "title": "Goat Shows Off Fun Costume",
+   "views": 14501
+  },
+  {
+   "q": "goats halloween costumes",
+   "vid": "-2gtuBNc_lw",
+   "ch": "🔪JasonLivesHauntz🔪",
+   "cid": "UCoruibCHxz69wyRTsbN6ZAw",
+   "date": "2026-06-26",
+   "title": "is my goat seriously washed 🫩 #spirithalloween2026 #spiritha",
+   "views": 6189
   }
  ]
 }
