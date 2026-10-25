@@ -1,7 +1,7 @@
 {
  "id": "20261025-grapeplasma",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-25T20:40:08.623337+09:00",
  "publish_at": "2026-10-25T20:40:08.623350+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1145
+ "tg_msg": 1145,
+ "decided_at": "2026-10-25T20:42:28.000575+09:00",
+ "yt_id": "RdiJ-vOKI1o",
+ "permalink": "https://youtube.com/shorts/RdiJ-vOKI1o",
+ "published_at": "2026-10-25T20:42:30.821505+09:00"
 }
