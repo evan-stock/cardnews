@@ -1,0 +1,49 @@
+{
+ "id": "20261025-dogdad",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-25T13:52:00.331562+09:00",
+ "publish_at": "2026-10-25T13:52:00.331581+09:00",
+ "publish_now": true,
+ "topic": "아빠가 된 강아지 모리(Maury)에게 주인이 갓 태어난 새끼를 얼굴 앞에 들이밀자, 끝까지 고개를 돌려 벽만 보고 카메라를 째려봄(TikTok @srtslug, 2025.8.26 게시, 2,300만 회+, Newsweek 2025.9.11). 원본 소리는 주인 말소리·현장음(음악 트랙 없음). 사실: AKC — 젖을 뗀 뒤에는 많은 아빠 개가 새끼와 놀아 주며 사회성을 가르침.",
+ "sources": [
+  {
+   "publisher": "TikTok @srtslug",
+   "url": "https://www.tiktok.com/@srtslug/video/7542921497166368031",
+   "date": "2025.8.26"
+  },
+  {
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/hysterics-dog-refuses-look-puppy-aint-mine-2128080",
+   "date": "2025.9.11"
+  }
+ ],
+ "seconds": 18.810000000000002,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261025-dogdad/short.mp4"
+ ],
+ "app_file": "media/20261025-dogdad/short_nobgm.mp4",
+ "yt": {
+  "title": "새끼를 처음 본 아빠 강아지의 반응ㅋㅋ #shorts",
+  "description": "아빠가 된 강아지 모리에게 갓 태어난 새끼를 보여 줬더니, 벽만 보고 끝까지 고개를 돌립니다. 코앞에 들이밀어도 못 본 척, 카메라는 째려보고... 이쯤 되면 '내 애 아니다' 시위.\n\n집사가 틱톡에 올린 영상으로 2,300만 회 넘게 재생됐습니다. 미국애견협회(AKC)에 따르면 갓 태어난 강아지는 아주 연약해서 아빠 개가 처음부터 가까이 있을 필요는 없고, 젖을 뗀 뒤에는 많은 아빠 개가 새끼와 놀아 주며 사회성을 가르친다고 합니다.\n\n여러분 집 댕댕이도 이런 적 있나요?\n\n영상: TikTok @srtslug\n참고: Newsweek(2025.9.11), American Kennel Club\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @srtslug 2025.8.26, Newsweek 2025.9.11\n사진·영상: TikTok @srtslug\n\n#shorts #강아지 #아빠강아지 #새끼강아지 #강아지반응",
+  "tags": [
+   "강아지",
+   "아빠강아지",
+   "새끼강아지",
+   "강아지반응",
+   "웃긴강아지",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "83bb4b9c402f",
+ "tg_msg": 1115
+}
