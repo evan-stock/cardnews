@@ -1,236 +1,197 @@
 {
- "id": "20261025-bunnythump",
+ "id": "20261025-goatcostume",
  "mode": "send",
  "format": "meme",
- "topic": "바닥에 내려놓는 걸 싫어하는 롭이어 토끼 허니번(Hunny Bun)이 집사가 내려놓자 등을 돌려 정색하고, 멀리 가서 뒷발로 바닥을 쿵쿵 구르며 항의함(TikTok @kaici.raynee, 2025.5 게시). 원본 소리는 방 현장음 + 쿵쿵 소리(음악 트랙 없음, 집사 말소리 구간 0~7초는 안 씀). 사실: Scottish SPCA — 토끼는 위험을 알릴 때뿐 아니라 짜증 날 때(안기기 싫을 때, 밥이 늦을 때)도 뒷발을 구름.",
+ "topic": "할로윈을 앞두고 나이지리안 드워프 염소들에게 꿀벌·박쥐·핫도그 옷을 입힘 — 꿀벌 염소는 신나서 뛰어오고 점프, 박쥐 염소는 나무 더미에서 뛰어내림, 핫도그 염소만 시무룩(TikTok @kidsonkerth, 2024.10 게시). 원본 소리는 틱톡 유행 음원(\"I wasn't sad\")과 비트 음악이라 전 구간 끔. 사실: ANDDA/ADGA — 나이지리안 드워프 염소는 다 커도 어깨 높이 암컷 57cm·수컷 60cm 이하, 평균 약 34kg. PetHelpful 2026.10.18 — 대형견용 코스튬이 대부분 나이지리안 드워프 염소에게 맞는다(농장주 설명).",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.8,
+ "bgm_volume": 1.5,
  "sfx_max": 3,
+ "style": {
+  "sub_y": 0.8
+ },
  "hook": {
-  "t": "토끼 함부로 내려놓으면\n'안 되는 이유ㅋㅋ'"
+  "t": "할로윈 옷 입혀 줬더니\n'핫도그만 정색ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @kaici.raynee"
+  "TikTok @kidsonkerth"
  ],
  "scenes": [
   {
-   "dur": 3.2,
+   "dur": 2.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 37.6,
-    "y": 0.5,
-    "audio": 1.5,
-    "blur": [
-     30,
-     670,
-     430,
-     130
-    ]
+    "start": 0.0,
+    "zoom": 1.05,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "방금...\n나 내려놨냐?",
-     "x": 0.62,
+     "t": "붕붕~\n꿀벌 출동!!",
+     "x": 0.3,
      "y": 0.12,
-     "at": 0.2,
+     "at": 0.1
+    },
+    {
+     "k": "sfx",
+     "t": "(점프!)",
+     "x": 0.72,
+     "y": 0.3,
+     "at": 1.1,
+     "s": "boing",
+     "sv": 0.8
+    }
+   ]
+  },
+  {
+   "say": "할로윈을 앞두고, 염소들에게 옷을 입혀 봤습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 2.9,
+    "zoom": 1.05,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0,
+    "boomerang": true
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(박쥐 착지)",
+     "x": 0.7,
+     "y": 0.15,
+     "at": 1.0
+    }
+   ]
+  },
+  {
+   "dur": 1.4,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 3.4,
+    "zoom": 1.05,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "크앙~\n무섭지?",
+     "x": 0.62,
+     "y": 0.15,
+     "at": 0.1,
      "s": "dundun",
      "sv": 0.8
-    },
-    {
-     "k": "sfx",
-     "t": "(째릿)",
-     "x": 0.75,
-     "y": 0.52,
-     "at": 1.4
     }
    ]
   },
   {
-   "say": "이 토끼, 바닥에 내려놓는 걸 정말 싫어합니다.",
+   "say": "그런데 이 녀석만, 표정이 심상치 않습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 8.0,
-    "y": 0.5,
-    "audio": 0.4,
-    "blur": [
-     300,
-     540,
-     210,
-     70
-    ]
+    "start": 5.0,
+    "zoom": 1.05,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(스윽)",
+     "t": "(핫도그...?)",
      "x": 0.7,
-     "y": 0.2,
-     "at": 0.3
-    }
-   ]
-  },
-  {
-   "dur": 3.0,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 11.5,
-    "y": 0.5,
-    "audio": 1.5,
-    "blur": [
-     300,
-     540,
-     210,
-     70
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "감히...?",
-     "x": 0.72,
-     "y": 0.18,
-     "at": 0.2,
-     "s": "question",
-     "sv": 0.8
-    },
-    {
-     "k": "sfx",
-     "t": "(정색)",
-     "x": 0.3,
      "y": 0.12,
      "at": 1.3
     }
    ]
   },
   {
-   "say": "삐진 토끼는 멀리 가서 자리를 잡더니,",
+   "dur": 2.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 16.4,
-    "zoom": 1.4,
-    "x": 0.64,
-    "y": 0.4,
-    "audio": 0.4,
-    "blur": [
-     180,
-     340,
-     280,
-     75
-    ]
+    "start": 6.0,
+    "zoom": 1.05,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(흥)",
-     "x": 0.55,
-     "y": 0.3,
-     "at": 0.8
-    }
-   ]
-  },
-  {
-   "dur": 3.0,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 42.8,
-    "zoom": 1.5,
-    "x": 0.1,
-    "y": 0.34,
-    "audio": 1.6,
-    "blur": [
-     [
-      2,
-      520,
-      300,
-      140
-     ],
-     [
-      280,
-      460,
-      293,
-      160
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(쿵!! 쿵!!)",
-     "x": 0.62,
-     "y": 0.42,
-     "at": 0.9,
-     "size": 90
+     "k": "talk",
+     "t": "...왜 나만\n핫도그냐고",
+     "x": 0.68,
+     "y": 0.1,
+     "at": 0.2
     },
     {
-     "k": "talk",
-     "t": "항의한다\n쿵쿵쿵!!",
-     "x": 0.42,
-     "y": 0.2,
-     "at": 1.6
+     "k": "sfx",
+     "t": "(정색)",
+     "x": 0.25,
+     "y": 0.18,
+     "at": 1.2,
+     "s": "fail",
+     "sv": 0.8
     }
    ]
   },
   {
-   "say": "토끼는 짜증이 날 때도, 이렇게 뒷발을 구른답니다.",
+   "say": "이 염소들은 다 커도 어깨 높이가 60센티 이하라, 대형견 옷이 딱 맞는답니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 46.5,
-    "zoom": 1.5,
-    "x": 0.1,
-    "y": 0.36,
-    "audio": 0.4,
-    "blur": [
-     60,
-     478,
-     270,
-     70
-    ]
+    "start": 6.4,
+    "zoom": 1.2,
+    "x": 0.5,
+    "y": 0.05,
+    "audio": 0,
+    "boomerang": true
    },
    "caps": [
     {
      "k": "talk",
-     "t": "다시 안아줘\n당장",
-     "x": 0.42,
-     "y": 0.18,
-     "at": 1.5,
-     "s": "fail",
-     "sv": 0.8
+     "t": "...내년엔\n꿀벌 할래",
+     "x": 0.68,
+     "y": 0.1,
+     "at": 2.0
     }
    ]
   }
  ],
  "sources": [
   {
-   "publisher": "TikTok @kaici.raynee",
-   "url": "https://www.tiktok.com/@kaici.raynee/video/7505393713267445038",
-   "date": "2025.5"
+   "publisher": "TikTok @kidsonkerth",
+   "url": "https://www.tiktok.com/@kidsonkerth/video/7421226409517010206",
+   "date": "2024.10"
   },
   {
-   "publisher": "Scottish SPCA - Why do rabbits thump?",
-   "url": "https://www.scottishspca.org/advice/rabbits/why-do-rabbits-thump/",
+   "publisher": "PetHelpful",
+   "url": "https://pethelpful.com/pet-news/nigerian-dwarf-goats-try-on-halloween-costumes",
+   "date": "2026.10.18"
+  },
+  {
+   "publisher": "American Nigerian Dwarf Dairy Association",
+   "url": "https://www.andda.org/breed-information",
    "date": ""
   }
  ],
  "yt": {
-  "title": "토끼 함부로 내려놓으면 안 되는 이유ㅋㅋ #shorts",
-  "description": "안겨 있는 게 좋은 토끼 허니번을 바닥에 내려놨더니... 등을 돌려 정색하고, 멀리 가서 뒷발로 바닥을 쿵쿵 구르며 항의합니다. 소리 켜고 들어 보세요.\n\n스코틀랜드 동물학대방지협회(Scottish SPCA)에 따르면 토끼는 위험을 알릴 때뿐 아니라, 안기기 싫거나 밥이 늦는 등 짜증이 날 때도 뒷발을 구릅니다. 다만 쿵쿵이 계속되고 밥을 덜 먹거나 기운이 없다면 아픈 신호일 수 있어 병원 진료가 필요하다고 해요.\n\n여러분 토끼도 이렇게 화내나요?\n\n영상: TikTok @kaici.raynee\n참고: Scottish SPCA 'Why do rabbits thump?'\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "할로윈 옷 입혀 줬더니 핫도그만 정색한 염소ㅋㅋ #shorts",
+  "description": "할로윈을 앞두고 염소들에게 꿀벌·박쥐·핫도그 옷을 입혀 봤더니... 꿀벌은 신나서 날아오고, 박쥐는 멋지게 착지하는데 핫도그 한 마리만 표정이 영 안 좋습니다.\n\n영상 속 염소들은 몸집이 작은 나이지리안 드워프 염소예요. 미국 나이지리안 드워프 유제품 협회(ANDDA)에 따르면 다 자라도 어깨 높이가 암컷 약 57cm, 수컷 약 60cm 이하라서, 대형견용 할로윈 옷이 대부분 맞는다고 해요.\n\n여러분 반려동물은 올해 무슨 옷 입나요?\n\n영상: TikTok @kidsonkerth\n참고: PetHelpful(2026.10.18), American Nigerian Dwarf Dairy Association\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "토끼",
-   "토끼쿵쿵",
-   "토끼발구르기",
-   "토끼반응",
-   "웃긴토끼",
-   "반려토끼",
+   "염소",
+   "할로윈",
+   "할로윈코스튬",
+   "강아지할로윈옷",
+   "펫코스튬",
+   "웃긴동물",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
   "category": 15,
   "privacy": "public"
  },
- "publish_now": true,
- "style": {
-  "sub_y": 0.82
- }
+ "publish_now": true
 }
