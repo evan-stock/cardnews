@@ -1,13 +1,13 @@
 {
  "id": "20261025-hornlizard",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-10-25T14:33:16.788352+09:00",
  "publish_at": "2026-10-25T14:33:16.788364+09:00",
  "publish_now": true,
  "topic": "[오늘의쓸모] 눈에서 피를 뿜는 뿔도마뱀 — 다친 게 아니라 개·코요테를 노린 최후의 무기",
  "sources": [],
- "seconds": 23.0,
+ "seconds": 23,
  "tts": [
   "없음(자막+음악)"
  ],
@@ -32,5 +32,7 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1119
+ "tg_msg": 1119,
+ "decided_at": "2026-10-25T16:05:49+09:00",
+ "decided_via": "app"
 }
