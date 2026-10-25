@@ -2,7 +2,7 @@
  "id": "20261025-europeall",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-25T22:23:33.991601+09:00",
  "publish_at": "2026-10-25T22:23:42.524014+09:00",
  "topic": "유럽 7개국 동시다발 시위 총집편(영상 캐러셀): 프랑스·알바니아·스페인·이탈리아·벨기에·포르투갈·그리스 + 독일 예고",
@@ -138,5 +138,8 @@
   "media/20261025-europeall/10.jpg"
  ],
  "tg_msg": 1161,
- "decided_at": "2026-10-25T22:23:42.524026+09:00"
+ "decided_at": "2026-10-25T22:23:42.524026+09:00",
+ "ig_media_id": "18157695409514213",
+ "permalink": "https://www.instagram.com/p/De60HtdCF4G/",
+ "published_at": "2026-10-25T22:28:34.768581+09:00"
 }
