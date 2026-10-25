@@ -1,7 +1,7 @@
 {
  "id": "20261026-beachcat",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-26T08:37:13.067201+09:00",
  "publish_at": "2026-10-26T08:37:13.067220+09:00",
  "publish_now": true,
@@ -53,5 +53,8 @@
  "draft_hash": "e18d8671c8de",
  "tg_msg": 1167,
  "decided_at": "2026-10-26T08:43:13+09:00",
- "decided_via": "app"
+ "decided_via": "app",
+ "yt_id": "-H4Drs_o6b0",
+ "permalink": "https://youtube.com/shorts/-H4Drs_o6b0",
+ "published_at": "2026-10-26T08:43:19.060634+09:00"
 }
