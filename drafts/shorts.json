@@ -93,11 +93,12 @@
    "say": "그런데 이 녀석만, 표정이 심상치 않습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 5.0,
+    "start": 5.4,
     "zoom": 1.05,
     "x": 0.5,
     "y": 0.0,
-    "audio": 0
+    "audio": 0,
+    "boomerang": true
    },
    "caps": [
     {
