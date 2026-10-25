@@ -47,7 +47,12 @@ jobs:
           fi
           # 60MB 넘는 영상은 버리지 않고 화질 유지하며 다시 압축(세로 1080x1920 긴 영상 대비), 그래도 크면 삭제
           ls -la media/$id/video >> media/$id/video/log.txt
-          for f in $(find media/$id/video -name '*.mp4' -size +60M); do echo "재압축: $f" >> media/$id/video/log.txt; ffmpeg -loglevel error -y -i "$f" -c:v libx264 -preset veryfast -crf 26 -c:a aac -b:a 128k "${f%.mp4}_c.mp4" 2>>media/$id/video/log.txt && mv "${f%.mp4}_c.mp4" "$f" || true; done
+          for f in $(find media/$id/video -name '*.mp4' -size +60M); do
+            # 길이에 맞춰 50MB 안쪽 비트레이트로(최대 6Mbps), 긴 변은 1920 이하로 다시 압축
+            d=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$f"); br=$(python3 -c "print(max(800,min(6000,int(50*8192/float('$d'))-160)))")
+            echo "재압축: $f ${d}초 → ${br}k" >> media/$id/video/log.txt
+            ffmpeg -loglevel error -y -i "$f" -vf "scale='if(gt(iw,ih),min(1920,iw),-2)':'if(gt(iw,ih),-2,min(1920,ih))'" -c:v libx264 -preset veryfast -b:v ${br}k -maxrate ${br}k -bufsize $((br*2))k -c:a aac -b:a 128k "${f%.mp4}_c.mp4" 2>>media/$id/video/log.txt && mv "${f%.mp4}_c.mp4" "$f" || true
+          done
           for f in $(find media/$id/video -size +60M); do echo "60MB 넘어 삭제: $f $(du -h $f | cut -f1)" >> media/$id/video/log.txt; rm -f "$f"; done
       - if: always()
         run: |
