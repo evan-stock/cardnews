@@ -2,7 +2,7 @@
  "id": "20261025-bukang",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-25T14:50:19.672065+09:00",
  "publish_at": "2026-10-25T14:50:23.319988+09:00",
  "topic": "상어 부캉이 바다로 보내려 하자 등장한 '부캉맘' 피켓 시위, 그리고 부캉이의 선택",
@@ -61,5 +61,8 @@
   "media/20261025-bukang/04.jpg"
  ],
  "tg_msg": 1124,
- "decided_at": "2026-10-25T14:50:23.320001+09:00"
+ "decided_at": "2026-10-25T14:50:23.320001+09:00",
+ "ig_media_id": "18137686435638448",
+ "permalink": "https://www.instagram.com/p/De6AExrm7lf/",
+ "published_at": "2026-10-25T14:53:54.898039+09:00"
 }
