@@ -1,7 +1,7 @@
 {
  "id": "20261025-goatcostume",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-10-25T19:10:47.650392+09:00",
  "publish_at": "2026-10-25T19:10:47.650438+09:00",
  "publish_now": true,
@@ -51,5 +51,6 @@
   "channel": null
  },
  "draft_hash": "5130a36d8d0e",
- "tg_msg": 1137
+ "tg_msg": 1137,
+ "decided_at": "2026-10-25T19:28:36.165567+09:00"
 }

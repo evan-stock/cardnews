@@ -1,7 +1,7 @@
 {
  "id": "20261025-cannoli",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-25T19:24:36.548719+09:00",
  "publish_at": "2026-10-25T19:24:36.548745+09:00",
  "publish_now": true,
@@ -50,5 +50,9 @@
   "channel": null
  },
  "draft_hash": "709aeba82558",
- "tg_msg": 1140
+ "tg_msg": 1140,
+ "decided_at": "2026-10-25T19:28:35.628357+09:00",
+ "yt_id": "7gpcdhPrs4E",
+ "permalink": "https://youtube.com/shorts/7gpcdhPrs4E",
+ "published_at": "2026-10-25T19:28:39.212036+09:00"
 }
