@@ -120,7 +120,7 @@ def main():
     if not vids and card:
         # 기사 링크 글: 영상이 기사 페이지에 있는 경우가 많다 → 기사 주소로 yt-dlp 한 번 더
         import subprocess
-        r = subprocess.run(["yt-dlp", "-q", "--no-playlist", "-f", "bv*[height<=1080]+ba/b", "--merge-output-format", "mp4",
+        r = subprocess.run(["yt-dlp", "-q", "--no-playlist", "-f", "bv*+ba/b", "-S", "res:1920", "--merge-output-format", "mp4",
                             "-o", os.path.join(out, f"v{i}.%(ext)s"), card], capture_output=True, text=True)
         if r.returncode == 0:
             print(f"받음 v{i} (기사 페이지 {card})")
