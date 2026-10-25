@@ -114,7 +114,68 @@ def _request(text, c, key):
     return None, f"HTTP {r.status_code}"
 
 
+def median_pitch(paths):
+    """음성 파일들의 중간 음높이(Hz). 자기상관으로 대략 잰다(2026.10.25, 3화 목소리가 2화보다 높게 나온 일)."""
+    import numpy as np
+    sr, N, F = 16000, 640, []
+    for f in paths:
+        raw = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", str(f), "-ac", "1", "-ar", str(sr), "-f", "s16le", "-"],
+                             capture_output=True).stdout
+        y = np.frombuffer(raw, np.int16).astype(float) / 32768
+        for i in range(0, len(y) - N, 320):
+            x = y[i:i + N]
+            if np.sqrt((x ** 2).mean()) < 0.02:
+                continue
+            x = x - x.mean(); ac = np.correlate(x, x, "full")[N - 1:]
+            lo, hi = sr // 300, sr // 65; k = lo + int(np.argmax(ac[lo:hi]))
+            if ac[0] > 0 and ac[k] / ac[0] > 0.45:
+                F.append(sr / k)
+    return float(np.median(F)) if len(F) > 20 else None
+
+
+def match_pitch(files, target, outdir):
+    """Gemini 는 같은 목소리·지시문이어도 부를 때마다 톤이 달라진다 → 원고 voice.gemini.pitch_hz 에 맞춰
+    음높이만 옮긴다(길이·타이밍 그대로, 반음 0.5개 이내면 그대로 둔다). 실패하면 원본을 돌려준다."""
+    try:
+        cur = median_pitch(files)
+    except Exception as e:  # numpy 없음 등
+        print(f"Gemini TTS: 음높이 측정 실패({e}) → 원본 사용")
+        return files
+    if not cur:
+        return files
+    ratio = max(0.8, min(1.25, target / cur))
+    import math
+    semis = 12 * math.log2(ratio)
+    print(f"Gemini TTS: 음높이 {cur:.0f}Hz → 목표 {target}Hz ({semis:+.1f}반음)")
+    if abs(semis) < 0.5:
+        return files
+    os.makedirs(outdir, exist_ok=True)
+    outs = []
+    for f in files:
+        o = os.path.join(outdir, os.path.basename(str(f)))
+        if not os.path.exists(o):
+            r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(f), "-af",
+                                f"rubberband=pitch={ratio:.4f}:formant=preserved", "-ar", "44100", "-b:a", "160k", o])
+            if r.returncode != 0:  # rubberband 없는 ffmpeg: 재생 속도를 바꿨다가 길이만 되돌림
+                subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(f), "-af",
+                                f"asetrate=44100*{ratio:.4f},aresample=44100,atempo={1 / ratio:.4f}", "-b:a", "160k", o], check=True)
+        outs.append(o)
+    return outs
+
+
 def scene_voices(d, base, conf):
+    """내레이션 장면 번호 → mp3 경로. Gemini 를 못 쓰면 (None, 이유)."""
+    files, why = _scene_voices(d, base, conf)
+    c = cfg(conf, d)
+    if files and c.get("pitch_hz"):
+        idx = list(files)
+        cache = os.path.dirname(files[idx[0]])
+        outs = match_pitch([files[i] for i in idx], float(c["pitch_hz"]), os.path.join(cache, f"pitch_{int(c['pitch_hz'])}"))
+        files = dict(zip(idx, outs))
+    return files, why
+
+
+def _scene_voices(d, base, conf):
     """내레이션 장면 번호 → mp3 경로. Gemini 를 못 쓰면 (None, 이유)."""
     c = cfg(conf, d)
     if not c.get("enabled") or (d.get("voice") or {}).get("engine") not in (None, "gemini"):
