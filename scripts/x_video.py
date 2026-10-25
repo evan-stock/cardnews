@@ -12,6 +12,7 @@ import re
 import sys
 import urllib.request
 
+RAW = {}
 UA = "Mozilla/5.0 (cardnews-bot; +https://github.com/evan-stock/cardnews)"
 
 
@@ -24,6 +25,7 @@ def get_json(url):
 def from_fx(tid):
     d = get_json(f"https://api.fxtwitter.com/status/{tid}")
     t = d.get("tweet") or {}
+    RAW["fx"] = {k: t.get(k) for k in ("media", "card", "quote", "embed_card", "broadcast") if t.get(k)}
     vids = []
     for v in (t.get("media") or {}).get("videos") or []:
         best = v.get("url")
@@ -97,6 +99,8 @@ def main():
     if meta is None:
         meta = {}
     meta.update({"url": url, "id": tid, "videos": vids, "errors": errs})
+    if not vids:
+        meta["raw"] = RAW  # 영상이 없을 때 원인 확인용
     with open(os.path.join(out, f"x{i}.json"), "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=1)
     if meta_only:
