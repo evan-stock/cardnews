@@ -99,14 +99,35 @@ def main():
     if meta is None:
         meta = {}
     meta.update({"url": url, "id": tid, "videos": vids, "errors": errs})
+    fx = RAW.get("fx") or {}
+    card = (fx.get("card") or {}).get("url")
     if not vids:
-        meta["raw"] = RAW  # 영상이 없을 때 원인 확인용
+        # 영상이 없는 이유를 한 단어로 남긴다(지난 '실패'는 대부분 사진 글·기사 링크 글이었다)
+        if card:
+            meta["kind"] = "기사링크"
+        elif (fx.get("media") or {}).get("photos"):
+            meta["kind"] = "사진만"
+        elif fx.get("quote"):
+            meta["kind"] = "인용글(영상 없음)"
+        else:
+            meta["kind"] = "글만/삭제됨"
+        meta["card"] = card
+        meta["quote_url"] = (fx.get("quote") or {}).get("url")
     with open(os.path.join(out, f"x{i}.json"), "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=1)
     if meta_only:
         return 0
+    if not vids and card:
+        # 기사 링크 글: 영상이 기사 페이지에 있는 경우가 많다 → 기사 주소로 yt-dlp 한 번 더
+        import subprocess
+        r = subprocess.run(["yt-dlp", "-q", "--no-playlist", "-f", "bv*[height<=1080]+ba/b", "--merge-output-format", "mp4",
+                            "-o", os.path.join(out, f"v{i}.%(ext)s"), card], capture_output=True, text=True)
+        if r.returncode == 0:
+            print(f"받음 v{i} (기사 페이지 {card})")
+            return 0
+        print(f"기사 페이지에서도 영상 못 받음: {card} {r.stderr[-200:]}")
     if not vids:
-        print(f"예비 경로도 영상 없음: {url} {errs}")
+        print(f"영상 없는 글({meta.get('kind')}): {url}")
         return 1
     for k, v in enumerate(vids, 1):
         name = f"v{i}.mp4" if k == 1 else f"v{i}_{k}.mp4"
