@@ -2,7 +2,7 @@
  "id": "20261025-colosseo",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-25T13:14:59.345330+09:00",
  "publish_at": "2026-10-25T13:15:02.562728+09:00",
  "topic": "프랑스발 시위가 이탈리아·스페인으로: 로마 시위대 콜로세움 진입, 같은 날 밤 바르셀로나 약탈",
@@ -74,5 +74,8 @@
   "media/20261025-colosseo/06.jpg"
  ],
  "tg_msg": 1098,
- "decided_at": "2026-10-25T13:15:02.562743+09:00"
+ "decided_at": "2026-10-25T13:15:02.562743+09:00",
+ "ig_media_id": "17914328529287488",
+ "permalink": "https://www.instagram.com/p/De51YpYjsPV/",
+ "published_at": "2026-10-25T13:20:30.917263+09:00"
 }
