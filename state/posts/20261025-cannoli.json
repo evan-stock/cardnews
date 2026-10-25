@@ -1,0 +1,54 @@
+{
+ "id": "20261025-cannoli",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-25T19:24:36.548719+09:00",
+ "publish_at": "2026-10-25T19:24:36.548745+09:00",
+ "publish_now": true,
+ "topic": "3주 만에 강아지 유치원에 다녀온 장모 미니 닥스훈트 카놀리가 집에 오자마자 엄마 무릎에 누워 낑낑대며 하루 일을 '이르는' 듯한 영상(TikTok @cannoli_the_weenie, TAG24 Viral Video of the Day 2026.8.30). 원본 소리는 강아지 낑낑 소리·현장음(음악 트랙 없음) — 낑낑 구간은 살리고 내레이션 안 겹침. 사실: ASPCA — 인사할 때 낑낑대는 건 대개 반가움·흥분 때문.",
+ "sources": [
+  {
+   "publisher": "TikTok @cannoli_the_weenie",
+   "url": "https://www.tiktok.com/@cannoli_the_weenie/video/7679104032291507486",
+   "date": "2026.8"
+  },
+  {
+   "publisher": "TAG24 Viral Video of the Day",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-august-30-2026-dachshund-comes-home-from-daycare-and-immediately-tells-mom-all-about-his-day-3519346",
+   "date": "2026.8.30"
+  },
+  {
+   "publisher": "ASPCA - Whining",
+   "url": "https://aspca.org/pet-care/dog-care/common-dog-behavior-issues/whining",
+   "date": ""
+  }
+ ],
+ "seconds": 19.85,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261025-cannoli/short.mp4"
+ ],
+ "app_file": "media/20261025-cannoli/short_nobgm.mp4",
+ "yt": {
+  "title": "유치원 다녀오자마자 엄마한테 다 일러바치는 닥스ㅋㅋ #shorts",
+  "description": "3주 만에 강아지 유치원에 다녀온 닥스훈트 카놀리. 집에 오자마자 엄마 무릎에 벌러덩 눕더니, 낑낑대며 오늘 있었던 일을 하나도 빠짐없이 이르기 시작합니다. 소리 켜고 들어 보세요.\n\n미국동물학대방지협회(ASPCA)에 따르면 인사할 때 낑낑대는 강아지는 대개 반갑고 흥분해서 그런 거라고 해요.\n\n여러분 댕댕이도 이렇게 수다 떠나요?\n\n영상: TikTok @cannoli_the_weenie\n참고: TAG24 Viral Video of the Day(2026.8.30), ASPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @cannoli_the_weenie 2026.8, TAG24 Viral Video of the Day 2026.8.30, ASPCA - Whining\n사진·영상: TikTok @cannoli_the_weenie\n음성: Typecast\n\n#shorts #강아지 #닥스훈트 #강아지유치원 #강아지반응",
+  "tags": [
+   "강아지",
+   "닥스훈트",
+   "강아지유치원",
+   "강아지반응",
+   "웃긴강아지",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "709aeba82558",
+ "tg_msg": 1140
+}

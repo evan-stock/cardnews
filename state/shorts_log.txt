@@ -1,1 +1,8 @@
-⏳ 3개 장면 목소리를 맥북에서 만드는 중
+장면 1/7 silent 누적 2.4초
+장면 2/7 typecast 누적 5.6초
+장면 3/7 silent 누적 7.6초
+장면 4/7 typecast 누적 10.9초
+장면 5/7 silent 누적 13.5초
+장면 6/7 silent 누적 15.9초
+장면 7/7 typecast 누적 19.9초
+완성: /home/runner/work/cardnews/cardnews/media/20261025-cannoli/short.mp4 (19.9초, TTS ['silent', 'typecast'])
