@@ -1,0 +1,146 @@
+{
+ "id": "20261025-hornlizard",
+ "media": "media/20261025-hornlizard",
+ "topic": "위협받으면 눈에서 피를 뿜는 뿔도마뱀 — 다친 게 아니라 일부러 머리 혈압을 올려 눈가 혈관을 터뜨리는 최후의 무기. 매·뱀에겐 거의 안 쓰고 입으로 무는 개·코요테 같은 포유류에게 쏨, 피 맛이 지독해 침 흘리며 고개를 털고 물러남(독개미 먹이 성분으로 추정), 몸속 피 3분의 1까지 쓴다고 알려짐",
+ "hook": {
+  "t": "눈에서 '피'를 뿜는\n도마뱀의 숨은 정체ㄷㄷ"
+ },
+ "credit": "영상: TikTok @newscientist(New Scientist 공식)",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: New Scientist 공식 TikTok @newscientist 원본(7431908407382134048, 2024.10 — 텍사스뿔도마뱀 눈에서 피 뿜기·개·도망가는 개 장면. 영어 설명 상자(세로 0.21~0.25)·NS 로고는 y 0.46 이상 크롭으로 피함)"
+ ],
+ "sources": [
+  {
+   "publisher": "Live Science 'Short-horned lizard: the inflatable horny toad that squirts toxic blood from its eyes' 2024.10.19 — 머리에서 나가는 피를 막아 눈가 혈관을 터뜨림, 최대 1.5m, 개·코요테·여우는 고개를 털고 새에겐 안 통함, 수확개미 독 성분 추정, 몸속 피 3분의 1까지",
+   "url": "https://livescience.com/animals/lizards/short-horned-lizard-the-inflatable-horny-toad-that-squirts-toxic-blood-from-its-eyes"
+  },
+  {
+   "publisher": "NPR 2020 (Wade Sherbrooke, 미국자연사박물관 사우스웨스턴 연구소) — 코요테·밥캣이 물었을 때만 쏘고 로드러너·뱀 앞에선 안 쏨, 실험에서 코요테·밥캣이 침을 흘리며 고개를 털었음, 사람 손에선 100마리 중 2마리 정도만",
+   "url": "https://www.npr.org/transcripts/933533854"
+  },
+  {
+   "publisher": "New Scientist TikTok 2024.10 — 텍사스뿔도마뱀, 피 3분의 1·몸무게 2%, 수 피트, 개에게 더 잘 씀",
+   "url": "https://www.tiktok.com/@newscientist/video/7431908407382134048"
+  }
+ ],
+ "_note": "newsci.mp4 576x1024 25.8초. 컷: 2.57 2.94 3.60 4.97 6.57 8.34 9.94 12.05 12.71 14.41 15.18 16.65 18.39 19.19 19.95~21.35(잦은 컷) 24.09. 피 뿜기 6.57~8.34·12.71~14.41·16.65~18.39, 피 고인 눈 9.94~12.05, 개 얼굴 8.34~9.94, 도망가는 개 21.35~24.09(아래쪽 → y 1.0). 영어 설명 상자 세로 0.21~0.25 → y 0.46 이상(보이는 범위 0.27~0.68). 잦은 컷 때문에 tmp_ns.mp4(ffmpeg -i newsci.mp4 -an -c:v libx264 -crf 18 -g 15) 사용.",
+ "scenes": [
+  {
+   "text": "도마뱀 눈에서 '피'가 솟구친다",
+   "video": {
+    "src": "video/tmp_ns.mp4",
+    "start": 6.62,
+    "x": 0.5,
+    "y": 0.46,
+    "speed": 0.7
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "다쳐서 피눈물 흘리는 걸까?",
+   "video": {
+    "src": "video/tmp_ns.mp4",
+    "start": 9.98,
+    "x": 0.5,
+    "y": 0.46,
+    "speed": 0.9
+   },
+   "dur": 2.2
+  },
+  {
+   "text": "아니, 뿔도마뱀이 숨겨 둔 '무기'다",
+   "video": {
+    "src": "video/tmp_ns.mp4",
+    "start": 0.0,
+    "x": 0.5,
+    "y": 0.8,
+    "speed": 1.0
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "머리의 피가 못 빠져나가게 막으면",
+   "video": {
+    "src": "video/tmp_ns.mp4",
+    "start": 4.99,
+    "x": 0.5,
+    "y": 0.46,
+    "speed": 0.7
+   },
+   "dur": 2.2
+  },
+  {
+   "text": "눈가 혈관이 터지며 '1m' 넘게 쏜다",
+   "video": {
+    "src": "video/tmp_ns.mp4",
+    "start": 16.68,
+    "x": 0.5,
+    "y": 0.46,
+    "speed": 0.7
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "그런데 매나 뱀 앞에선 거의 안 쏜다",
+   "video": {
+    "src": "video/tmp_ns.mp4",
+    "start": 12.74,
+    "x": 0.5,
+    "y": 0.46,
+    "speed": 0.7
+   },
+   "dur": 2.3
+  },
+  {
+   "text": "노리는 건 입으로 무는 '개·코요테'",
+   "video": {
+    "src": "video/tmp_ns.mp4",
+    "start": 8.37,
+    "x": 0.5,
+    "y": 0.46,
+    "speed": 0.65
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "피 맛이 지독해 침 흘리며 물러난다",
+   "video": {
+    "src": "video/tmp_ns.mp4",
+    "start": 21.8,
+    "x": 0.5,
+    "y": 1.0,
+    "speed": 1.0
+   },
+   "dur": 2.25
+  },
+  {
+   "text": "몸속 피 '3분의 1'까지 쓰는 반격",
+   "video": {
+    "src": "video/tmp_ns.mp4",
+    "start": 20.12,
+    "x": 0.5,
+    "y": 0.46,
+    "speed": 0.6
+   },
+   "dur": 2.0
+  },
+  {
+   "text": "기묘한 동물 무기, 더 보려면 구독",
+   "video": {
+    "src": "video/tmp_ns.mp4",
+    "start": 6.62,
+    "x": 0.5,
+    "y": 0.46,
+    "speed": 0.7
+   },
+   "dur": 2.4
+  }
+ ]
+}
