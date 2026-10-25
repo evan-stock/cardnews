@@ -2,7 +2,7 @@
  {
   "id": "20261025-iphoneduo",
   "slot": "evening",
-  "mode": "render",
+  "mode": "send",
   "topic": "아이폰 듀오 출시 직후 힌지 라인 화면 불량 인증샷 확산",
   "category": "트렌드·테크 이슈",
   "emotion": "헐(300만 원 가까운 폰이 하루 만에?) + 고소함·불안(사려던 사람)",
@@ -69,6 +69,7 @@
   ],
   "photo_credits": [
    "온라인 커뮤니티 사용자 인증 사진"
-  ]
+  ],
+  "publish_now": true
  }
 ]
