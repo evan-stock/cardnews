@@ -1,0 +1,5 @@
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://www.bbc.com/future-planet
+실패: https://x.com/BBCEarth/status/663144340999569408
+ERROR: [twitter] 1847010026382414087: No video could be found in this tweet
+실패: https://x.com/derptiles/status/1847010026382414087
