@@ -2,7 +2,7 @@
  "id": "20261025-iphoneduo",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-25T09:31:08.580776+09:00",
  "publish_at": "2026-10-25T09:31:11.857881+09:00",
  "topic": "아이폰 듀오 출시 직후 힌지 라인 화면 불량 인증샷 확산",
@@ -66,5 +66,8 @@
   "media/20261025-iphoneduo/07.jpg"
  ],
  "tg_msg": 1084,
- "decided_at": "2026-10-25T09:31:11.857899+09:00"
+ "decided_at": "2026-10-25T09:31:11.857899+09:00",
+ "ig_media_id": "18107791859570262",
+ "permalink": "https://www.instagram.com/p/De5bv3ZmAxE/",
+ "published_at": "2026-10-25T09:36:29.829791+09:00"
 }
