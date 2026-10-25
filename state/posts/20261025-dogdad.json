@@ -1,7 +1,7 @@
 {
  "id": "20261025-dogdad",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-25T13:52:00.331562+09:00",
  "publish_at": "2026-10-25T13:52:00.331581+09:00",
  "publish_now": true,
@@ -45,5 +45,9 @@
   "channel": null
  },
  "draft_hash": "83bb4b9c402f",
- "tg_msg": 1115
+ "tg_msg": 1115,
+ "decided_at": "2026-10-25T13:54:47.802559+09:00",
+ "yt_id": "YHhRaAZRQD0",
+ "permalink": "https://youtube.com/shorts/YHhRaAZRQD0",
+ "published_at": "2026-10-25T13:54:50.865544+09:00"
 }
