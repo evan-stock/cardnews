@@ -16,3 +16,13 @@ drwxr-xr-x 3 runner runner     4096 Oct 26 11:50 ..
 -rw-r--r-- 1 runner runner  2311886 Oct 26 11:50 v4.mp4
 -rw-r--r-- 1 runner runner      972 Oct 26 11:51 x1.json
 -rw-r--r-- 1 runner runner      738 Oct 26 11:51 x2.json
+total 20492
+drwxr-xr-x 2 runner runner    4096 Oct 26 12:03 .
+drwxr-xr-x 3 runner runner    4096 Oct 26 12:03 ..
+-rw-r--r-- 1 runner runner     906 Oct 26 12:03 log.txt
+-rw-r--r-- 1 runner runner 5017721 Oct 26 12:03 v1.mp4
+-rw-r--r-- 1 runner runner 4503420 Oct 26 12:03 v2.mp4
+-rw-r--r-- 1 runner runner 9119413 Oct 26 12:03 v3.mp4
+-rw-r--r-- 1 runner runner 2311886 Oct 26 12:03 v4.mp4
+-rw-r--r-- 1 runner runner     972 Oct 26 12:03 x1.json
+-rw-r--r-- 1 runner runner     738 Oct 26 12:03 x2.json
