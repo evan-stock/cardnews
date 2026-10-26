@@ -1,7 +1,7 @@
 {
  "id": "20261026-gimli",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-26T17:25:47.306054+09:00",
  "publish_at": "2026-10-26T17:25:47.306068+09:00",
  "publish_now": true,
@@ -34,5 +34,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1186
+ "tg_msg": 1186,
+ "decided_at": "2026-10-26T17:28:54.417776+09:00",
+ "yt_id": "Bew6JnU_5Bw",
+ "permalink": "https://youtube.com/shorts/Bew6JnU_5Bw",
+ "published_at": "2026-10-26T17:28:56.783665+09:00"
 }
