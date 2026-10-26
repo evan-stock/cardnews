@@ -1,7 +1,7 @@
 {
  "id": "20261026-life4",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-27T08:25:41.506694+09:00",
  "publish_at": "2026-10-27T08:25:41.506715+09:00",
  "publish_now": true,
@@ -69,5 +69,9 @@
    }
   ]
  },
- "tg_msg": 21
+ "tg_msg": 21,
+ "decided_at": "2026-10-27T08:30:02.191429+09:00",
+ "yt_id": "BcfrJu_I80Y",
+ "permalink": "https://youtube.com/shorts/BcfrJu_I80Y",
+ "published_at": "2026-10-27T08:30:05.557219+09:00"
 }
