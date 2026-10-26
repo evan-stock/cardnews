@@ -1,40 +1,394 @@
 {
- "since": "2025-09-01",
+ "since": "2025-06-01",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
+   "title": "Mila ",
+   "id": "UC1-N3x6VAzdwLtx6sUF8aSA",
+   "created": "2012-09-09",
+   "subs": "41",
+   "videos": "12"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
-   "subs": "0",
+   "title": "Ahoytheregoose",
+   "id": "UCD6Z3rdoZBxFtog1-Zcnc3g",
+   "created": "2026-04-17",
+   "subs": "192",
+   "videos": "42"
+  },
+  {
+   "title": "Zoolora",
+   "id": "UClzmB5jcV0Wmj7sTJBYge9g",
+   "created": "2025-04-19",
+   "subs": "849",
    "videos": "4"
+  },
+  {
+   "title": "Frankie Fangirls",
+   "id": "UC6SIecB0uCG5KOr5m_k3DwA",
+   "created": "2026-09-25",
+   "subs": "1",
+   "videos": "4"
+  },
+  {
+   "title": "Desmond the dog ( #1 lucozade fan )",
+   "id": "UCg3wvFZpIOVGJNd8g-HkCkQ",
+   "created": "2025-12-02",
+   "subs": "2",
+   "videos": "9"
+  },
+  {
+   "title": "Duke service dog",
+   "id": "UC2kYkWcC_G-CjU7hHHzZWDw",
+   "created": "2014-02-02",
+   "subs": "991",
+   "videos": "504"
+  },
+  {
+   "title": "Furever in the Making",
+   "id": "UC5Iy2cB3Ay4dzfBom64CipQ",
+   "created": "2026-05-12",
+   "subs": "140",
+   "videos": "21"
+  },
+  {
+   "title": "Bean The Boston Terrier",
+   "id": "UC2cxpMqq-A0L0rInQlGvTCw",
+   "created": "2016-04-23",
+   "subs": "472",
+   "videos": "33"
+  },
+  {
+   "title": "Kulfi - The Naughty Golden Retriever",
+   "id": "UCBQBkF1Wtvadbv3BJM2JloA",
+   "created": "2022-07-14",
+   "subs": "11400",
+   "videos": "2243"
+  },
+  {
+   "title": "core culture stories ",
+   "id": "UCMpam-RMpOvxZTTgMmgJavA",
+   "created": "2025-12-01",
+   "subs": "3640",
+   "videos": "778"
+  },
+  {
+   "title": "Sunny and Coop",
+   "id": "UClPoiEQbctfNSvH81_lQFGA",
+   "created": "2006-05-18",
+   "subs": "291",
+   "videos": "41"
+  },
+  {
+   "title": "The Moriarty Family",
+   "id": "UCdE-s7nmojuNmT1L6xxmX6A",
+   "created": "2020-12-08",
+   "subs": "1410000",
+   "videos": "865"
+  },
+  {
+   "title": "VetVibes Studio",
+   "id": "UCihhwlVuegkb3ryFdegHGWg",
+   "created": "2026-02-12",
+   "subs": "1680",
+   "videos": "116"
+  },
+  {
+   "title": "jack Videos ",
+   "id": "UC5foZowWuTNuWsbz3F4ouBA",
+   "created": "2026-01-28",
+   "subs": "894",
+   "videos": "137"
+  },
+  {
+   "title": "布臘駝՞˶･₃･˶՞ಣ",
+   "id": "UCQrBJ3wvsxOUFxcxoFp9Efw",
+   "created": "2012-07-21",
+   "subs": "208",
+   "videos": "139"
+  },
+  {
+   "title": "GoldenNuggetCartoon",
+   "id": "UC3UDl23rGbLIEaCHvJKvdvQ",
+   "created": "2026-10-20",
+   "subs": "2",
+   "videos": "8"
+  },
+  {
+   "title": "Rosie and Friends ",
+   "id": "UCcJ5G9RjnFUfHQXlS9leC4w",
+   "created": "2024-12-31",
+   "subs": "1500",
+   "videos": "258"
+  },
+  {
+   "title": "Happy Golden Retriever",
+   "id": "UC-w13aWHD0esGMXtPNCmBpw",
+   "created": "2025-07-04",
+   "subs": "40",
+   "videos": "848"
+  },
+  {
+   "title": "Shri's Inner Circle ",
+   "id": "UCXIrzKi33_1CiihLBAiRhoA",
+   "created": "2013-08-05",
+   "subs": "3740",
+   "videos": "1971"
+  },
+  {
+   "title": "Tequila the Golden Retriever",
+   "id": "UClPY1NGLesxtX5d0mW68USg",
+   "created": "2026-02-13",
+   "subs": "160",
+   "videos": "23"
+  },
+  {
+   "title": "Willow and Wispa",
+   "id": "UCJ8jeNsxmZigwZoT9dGjC4w",
+   "created": "2021-12-29",
+   "subs": "4",
+   "videos": "3"
+  },
+  {
+   "title": "花結日記",
+   "id": "UCE5bEv1kAzYsWpikehgR9-w",
+   "created": "2024-03-20",
+   "subs": "217",
+   "videos": "97"
+  },
+  {
+   "title": "Anisha gamer",
+   "id": "UCjVd80yoc8TXjQlASgkJbzQ",
+   "created": "2023-10-14",
+   "subs": "1430",
+   "videos": "835"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "dachshund screaming owner mouth",
+   "vid": "KTSzCAhf__c",
+   "ch": "布臘駝՞˶･₃･˶՞ಣ",
+   "cid": "UCQrBJ3wvsxOUFxcxoFp9Efw",
+   "date": "2025-11-27",
+   "title": "Dachshund brings a snake home! Cat jumps, owner screams! 😱🐍",
+   "views": 25
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "q": "dog shuts up screaming owner",
+   "vid": "SEEw_LJfoho",
+   "ch": "Bean The Boston Terrier",
+   "cid": "UC2cxpMqq-A0L0rInQlGvTCw",
+   "date": "2025-08-24",
+   "title": "Bean The Boston Terrier screaming at the words “Shut Up!”",
+   "views": 2663
+  },
+  {
+   "q": "dog shuts up screaming owner",
+   "vid": "6mbctyMXc0I",
+   "ch": "Anisha gamer",
+   "cid": "UCjVd80yoc8TXjQlASgkJbzQ",
+   "date": "2026-02-03",
+   "title": "She Screamed… Dog Said SHUT UP 🐶😂",
+   "views": 501
+  },
+  {
+   "q": "dog shuts up screaming owner",
+   "vid": "QZb_f8FkaLA",
+   "ch": "Desmond the dog ( #1 lucozade fan )",
+   "cid": "UCg3wvFZpIOVGJNd8g-HkCkQ",
+   "date": "2026-08-04",
+   "title": "SHUT UP SCREAMING BABIES!! EXTENDED!!",
+   "views": 97
+  },
+  {
+   "q": "dog shuts up screaming owner",
+   "vid": "dfJL0MOO_K4",
+   "ch": "Desmond the dog ( #1 lucozade fan )",
+   "cid": "UCg3wvFZpIOVGJNd8g-HkCkQ",
+   "date": "2026-10-14",
+   "title": "Shut up scream earrape",
+   "views": 14
+  },
+  {
+   "q": "dog shuts up screaming owner",
+   "vid": "wTTpqn2a69U",
+   "ch": "Desmond the dog ( #1 lucozade fan )",
+   "cid": "UCg3wvFZpIOVGJNd8g-HkCkQ",
+   "date": "2026-08-03",
+   "title": "SHUT UP SCREAMING BABIES!! ( kid-friendly edition )",
+   "views": 19
+  },
+  {
+   "q": "dog shuts up screaming owner",
+   "vid": "9w1EafkxsDM",
+   "ch": "Frankie Fangirls",
+   "cid": "UC6SIecB0uCG5KOr5m_k3DwA",
+   "date": "2026-09-26",
+   "title": "Shut up Mum. #cavoodle #petfluencer #frankiefangirls #crying",
+   "views": 8
+  },
+  {
+   "q": "dogs fall in love stuck in traffic",
+   "vid": "KkUdRiHE5XE",
+   "ch": "core culture stories ",
+   "cid": "UCMpam-RMpOvxZTTgMmgJavA",
+   "date": "2026-04-11",
+   "title": "&quot;Stuck in Traffic, Man Calls Dog Owner&quot;#shorts",
+   "views": 7374
+  },
+  {
+   "q": "german shepherd howl off owner",
+   "vid": "BJBSxaoHB3U",
+   "ch": "Rosie and Friends ",
+   "cid": "UCcJ5G9RjnFUfHQXlS9leC4w",
+   "date": "2026-05-07",
+   "title": "The howl-off begins #howlingdog",
+   "views": 517
+  },
+  {
+   "q": "german shepherd howl off owner",
+   "vid": "y-STMyijQWc",
+   "ch": "Willow and Wispa",
+   "cid": "UCJ8jeNsxmZigwZoT9dGjC4w",
+   "date": "2026-04-16",
+   "title": "Willow on Camera... Wispa off camera  #howlingdog #gsd #germ",
+   "views": 34
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "cK-Uc9enO9c",
+   "ch": "The Moriarty Family",
+   "cid": "UCdE-s7nmojuNmT1L6xxmX6A",
+   "date": "2026-02-07",
+   "title": "My dog had to go to the ER today. Turns out Maverick has pne",
+   "views": 711956
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "9Hlt5UU_K8c",
+   "ch": "Sunny and Coop",
+   "cid": "UClPoiEQbctfNSvH81_lQFGA",
+   "date": "2026-07-26",
+   "title": "Golden retriever puppy comes home and meets big brother #gol",
+   "views": 56344
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "xgQfkkUDuOQ",
+   "ch": "VetVibes Studio",
+   "cid": "UCihhwlVuegkb3ryFdegHGWg",
+   "date": "2026-02-27",
+   "title": "Golden Retriever Turned Back Like He Wanted a Refund 😭💉 | Ve",
+   "views": 24590
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "6mPgybxyfkc",
+   "ch": "jack Videos ",
+   "cid": "UC5foZowWuTNuWsbz3F4ouBA",
+   "date": "2026-04-05",
+   "title": "“The Dog Turned Back for Her” #dog #doggielife #goldenretrie",
+   "views": 18581
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "Ss0AOvAl51g",
+   "ch": "Ahoytheregoose",
+   "cid": "UCD6Z3rdoZBxFtog1-Zcnc3g",
+   "date": "2026-04-23",
+   "title": "well, there’s no turning back now 😌#goldenretriever #english",
+   "views": 1748
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "wmpLkclrQ7g",
+   "ch": "花結日記",
+   "cid": "UCE5bEv1kAzYsWpikehgR9-w",
+   "date": "2026-01-20",
+   "title": "Billy Joel/Turn the Ligits Back On #goldenretriever",
+   "views": 1420
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "hLTfBfudr_o",
+   "ch": "Tequila the Golden Retriever",
+   "cid": "UClPY1NGLesxtX5d0mW68USg",
+   "date": "2026-04-11",
+   "title": "When your senior dog turns back to a puppy again 🥹 #goldenre",
+   "views": 1123
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "1VIYvZpSvAI",
+   "ch": "Furever in the Making",
+   "cid": "UC5Iy2cB3Ay4dzfBom64CipQ",
+   "date": "2026-07-29",
+   "title": "When you turn your back on a golden retriever #dogshorts #go",
+   "views": 1733
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "4jQSWkqz3Xk",
+   "ch": "Mila ",
+   "cid": "UC1-N3x6VAzdwLtx6sUF8aSA",
+   "date": "2026-08-31",
+   "title": "Does back sound like turn or is it just me? #goldenretriever",
+   "views": 1526
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "8wD_sZIurSs",
+   "ch": "Zoolora",
+   "cid": "UClzmB5jcV0Wmj7sTJBYge9g",
+   "date": "2025-10-25",
+   "title": "Golden Retriever Turns Back—Then Does the Unexpected",
+   "views": 453
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "vUeS3t4AICE",
+   "ch": "Kulfi - The Naughty Golden Retriever",
+   "cid": "UCBQBkF1Wtvadbv3BJM2JloA",
+   "date": "2026-06-21",
+   "title": "Kulfi turns back to ask why you stop | Golden Retriever #gol",
+   "views": 1260
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "mWyaguibbv4",
+   "ch": "Shri's Inner Circle ",
+   "cid": "UCXIrzKi33_1CiihLBAiRhoA",
+   "date": "2026-06-16",
+   "title": "No turning back once in the car says Muffin #goldenretriever",
+   "views": 1072
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "8OM6hgjZOLo",
+   "ch": "Duke service dog",
+   "cid": "UC2kYkWcC_G-CjU7hHHzZWDw",
+   "date": "2026-08-18",
+   "title": "# #dogsofyoutube #goldenretriever",
+   "views": 232
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "uUarzGNUHIs",
+   "ch": "GoldenNuggetCartoon",
+   "cid": "UC3UDl23rGbLIEaCHvJKvdvQ",
+   "date": "2026-10-24",
+   "title": "Golden Retriever Puppy Steals the Ball and Won&#39;t Give It",
+   "views": 3
+  },
+  {
+   "q": "golden retriever new puppy turns back",
+   "vid": "n7tADIJ82f0",
+   "ch": "Happy Golden Retriever",
+   "cid": "UC-w13aWHD0esGMXtPNCmBpw",
+   "date": "2026-09-04",
+   "title": "Golden Retriever Demands the AC Back After Owner Turns It Of",
+   "views": 0
   }
  ]
 }
