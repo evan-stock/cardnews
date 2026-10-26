@@ -160,6 +160,19 @@ def sick(e): return render_nc(Sick(e, "kid"), 700, 900, look_y=0.05, dist=6.4)
 JOBS.update({"nb_happy": lambda: nb("happy"), "nb_blink": lambda: nb("blink"), "nb_proud": lambda: nb("proud"),
              "sick_frown": lambda: sick("frown"), "sick_blink": lambda: sick("blink")})
 
+
+# ---------- 4화 최종 '생방송 폭로' (10.26): 마이크 쥔 원복 김댓글(손에 쥔 채 함께 렌더) ----------
+class KidUM(KidUT):
+    def body_mats(self): return ["jacket", "pants", "limb", "shoe", "micB", "micM"]
+    def body(self, p):
+        D = KidUT.body(self, p)
+        handle = sd_capsule(p, np.array([0.99, -0.02, 0.55]), np.array([0.9, 0.42, 0.66]), 0.075)
+        head = sd_sph(p, np.array([0.87, 0.56, 0.68]), 0.17)
+        return D + [handle, head]
+for k, v in {"micB": (0.15, 0.15, 0.18), "micM": (0.72, 0.74, 0.8)}.items(): Char.PAL[k] = v
+Char.GLOSS["micM"] = (50, 0.9)
+JOBS.update({"kidum_proud": lambda: kidu(KidUM, "proud"), "kidum_blink": lambda: kidu(KidUM, "blink"), "kidum_o": lambda: kidu(KidUM, "o")})
+
 if __name__ == "__main__":
     out = sys.argv[1]; names = sys.argv[2:] or list(JOBS); os.makedirs(out, exist_ok=True)
     for nm in names:
