@@ -1,7 +1,7 @@
 {
  "id": "20261026-donkeycat",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-26T13:38:22.516441+09:00",
  "publish_at": "2026-10-26T13:38:22.516461+09:00",
  "publish_now": true,
@@ -56,5 +56,9 @@
   "channel": null
  },
  "draft_hash": "8a108583c1ef",
- "tg_msg": 1179
+ "tg_msg": 1179,
+ "decided_at": "2026-10-26T16:07:18.016808+09:00",
+ "yt_id": "iNm3QyZ7pCM",
+ "permalink": "https://youtube.com/shorts/iNm3QyZ7pCM",
+ "published_at": "2026-10-26T16:07:21.285919+09:00"
 }
