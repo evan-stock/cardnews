@@ -27,7 +27,7 @@
  ],
  "manual": true,
  "id": "20261026-h2x2",
- "status": "failed",
+ "status": "held",
  "created_at": "2026-10-26T12:53:43+09:00",
  "publish_at": "2026-10-26T13:02:08+09:00",
  "decided_at": "2026-10-26T13:02:08+09:00",
@@ -35,6 +35,6 @@
   "media/20261026-h2x/reel_v2.mp4"
  ],
  "cover": "media/20261026-h2x/reel_cover.jpg",
- "note": "20261026-h2x(칼 장면 잘림) 수정본 재게시",
+ "note": "20261026-h2x(칼 장면 잘림) 수정본 재게시 / API 업로드 3회 컨테이너 ERROR → 사용자 직접 업로드로 전환",
  "error": "컨테이너 18097868855665678 상태 ERROR"
 }
