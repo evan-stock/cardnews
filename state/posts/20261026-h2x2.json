@@ -27,14 +27,13 @@
  ],
  "manual": true,
  "id": "20261026-h2x2",
- "status": "failed",
+ "status": "approved",
  "created_at": "2026-10-26T12:53:43+09:00",
- "publish_at": "2026-10-26T12:56:49+09:00",
- "decided_at": "2026-10-26T12:56:49+09:00",
+ "publish_at": "2026-10-26T13:02:08+09:00",
+ "decided_at": "2026-10-26T13:02:08+09:00",
  "files": [
   "media/20261026-h2x/reel_v2.mp4"
  ],
  "cover": "media/20261026-h2x/reel_cover.jpg",
- "note": "20261026-h2x(칼 장면 잘림) 수정본 재게시",
- "error": "컨테이너 18097868147665678 상태 ERROR"
+ "note": "20261026-h2x(칼 장면 잘림) 수정본 재게시"
 }
