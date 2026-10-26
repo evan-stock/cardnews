@@ -1,8 +1,8 @@
-Gemini TTS: 사용 (저장본)
-장면 1/6 gemini 누적 2.0초
-장면 2/6 gemini 누적 8.5초
-장면 3/6 gemini 누적 12.0초
-장면 4/6 gemini 누적 16.3초
-장면 5/6 gemini 누적 21.5초
-장면 6/6 gemini 누적 32.4초
-완성: /home/runner/work/cardnews/cardnews/media/20261025-life3/short.mp4 (32.4초, TTS ['gemini'])
+Gemini TTS: 사용 (새로 만듦)
+장면 1/6 gemini 누적 2.4초
+장면 2/6 gemini 누적 7.5초
+장면 3/6 gemini 누적 12.7초
+장면 4/6 gemini 누적 17.4초
+장면 5/6 gemini 누적 24.4초
+장면 6/6 gemini 누적 33.5초
+완성: /home/runner/work/cardnews/cardnews/media/20261026-life4/short.mp4 (33.5초, TTS ['gemini'])
