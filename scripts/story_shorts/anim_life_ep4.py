@@ -1,6 +1,6 @@
 # 인생 댓글로 정함 4화 — 영어유치원 보냈더니 세 살이 '구독' 구걸함 (2026.10.26)
 # 콜드 오픈(영재 방송에서 구독 구걸) → 설정 한 줄 + 1등 댓글 탓 → 영유 반 달 75만 원·영어 이름 코멘트 → 배운 영어 'Like, Subscribe'
-#   → PD가 구독, 판정 '댓글 유도 영재', 출연료 10만 원 손해 → 네 번째 갈림길(댓글 안 달면 또 손짓)
+#   → PD가 구독, 판정 '댓글 유도 영재', 출연료 10만 원 손해 → 섭외 갈림길: 분유 광고 / 대치동 영재학원 / 놀이터 사장(댓글 안 달면 또 손짓)
 # 사용: LIFE_HOLD=3 python3 scripts/story_shorts/anim_life_ep4.py <출력폴더> <3D스프라이트폴더>
 #   3D 스프라이트: life_3d5.py(kidu_* kidut_* kidup_* pd_*) + life_3d3.py(cap bag)
 import math, os, subprocess, sys
@@ -121,7 +121,23 @@ def envelope():
     d.line([(10, 10), (150, 110), (290, 10)], fill=INK, width=6)
     d.text((150, 160), "출연료", font=V1.F(44), fill=(200, 80, 60), anchor="mm"); return im
 
-S["play"] = icon_play(); S["cam"] = icon_cam(); S["phone"] = icon_phone(); S["phone_on"] = icon_phone(True); S["env"] = envelope()
+
+def icon_formula():  # 분유통
+    im = Image.new("RGBA", (170, 200), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+    d.rounded_rectangle((15, 40, 155, 195), radius=18, fill=(250, 250, 252), outline=INK, width=6)
+    d.rounded_rectangle((8, 10, 162, 52), radius=14, fill=(110, 170, 240), outline=INK, width=6)
+    d.ellipse((50, 85, 120, 150), fill=(255, 212, 59), outline=INK, width=4)
+    d.text((85, 172), "분유", font=V1.F(30), fill=(90, 140, 210), anchor="mm"); return im
+
+def icon_sand():  # 모래 양동이 + 삽
+    im = Image.new("RGBA", (220, 200), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+    d.polygon([(30, 70), (150, 70), (135, 190), (45, 190)], fill=(240, 80, 90), outline=INK)
+    d.ellipse((24, 58, 156, 86), fill=(235, 200, 140), outline=INK, width=5)
+    d.arc((40, 10, 140, 110), 200, 340, fill=INK, width=6)
+    d.line([(150, 30), (190, 150)], fill=(255, 200, 60), width=14)
+    d.polygon([(175, 140), (210, 135), (215, 190), (185, 195)], fill=(255, 200, 60), outline=INK); return im
+
+S["formula"] = icon_formula(); S["sand"] = icon_sand(); S["play"] = icon_play(); S["cam"] = icon_cam(); S["phone"] = icon_phone(); S["phone_on"] = icon_phone(True); S["env"] = envelope()
 
 def stamp(im, x, y, k, lines, rotd=-12, size=230, col=RED):
     if k <= 0: return
@@ -193,8 +209,8 @@ V1.SCENES = [
          sub="보름 동안 배운 영어. 'Like, Subscribe.' 그게 다입니다. 댓글로 살다 보니 버릇이 들었어요.", sfx=[("boing", 1.6)]),
     dict(id="s5", say="문제는 하나도 안 풀었습니다. 근데 피디가 구독 눌렀습니다. 판정, 댓글 유도 영재. 출연료 십만 원. 네, 손해입니다.",
          sub="문제는 하나도 안 풀었습니다. 근데 PD가 구독 눌렀습니다. 판정: 댓글 유도 영재. 출연료 10만 원. 네, 손해입니다.", sfx=[("tada", 2.6)]),
-    dict(id="s6", say="영재님, 다음은요? 키즈 유튜버 데뷔, 엄마 카드로 영유 연장, 아니면 동네 어린이집. 댓글 일등대로 갑니다. 댓글 안 달면, 얘가 또 손짓합니다.",
-         sub="영재님, 다음은요? 키즈 유튜버 데뷔, 엄마 카드로 영유 연장, 아니면 동네 어린이집. 댓글 1등대로 갑니다. 댓글 안 달면, 얘가 또 손짓합니다.", sfx=[("question", 0.6)]),
+    dict(id="s6", say="영재님, 섭외 들어왔습니다. 분유 광고 모델, 대치동 영재학원, 아니면 다 거절하고 놀이터 사장. 댓글 일등대로 갑니다. 댓글 안 달면, 얘가 또 손짓합니다.",
+         sub="영재님, 섭외 들어왔습니다. 분유 광고 모델, 대치동 영재학원, 아니면 다 거절하고 놀이터 사장. 댓글 1등대로 갑니다. 댓글 안 달면, 얘가 또 손짓합니다.", sfx=[("question", 0.6)]),
 ]
 V1.HOOK = ["영어유치원 보냈더니", "세 살이 '구독' 구걸함"]
 for sc in V1.SCENES:
@@ -318,7 +334,7 @@ def s5(t, dur):  # 문제는 방치, PD가 구독 → 판정 → 출연료 손�
             stamp(im, 880, 1250, back((t - et - 0.7) / 0.3), ["손해"], -14, 220)
     return chrome(im)
 
-OPTS = (("play", "키즈 유튜버", (235, 80, 90), ""), ("cap", "영유 연장", (90, 150, 235), "엄마 카드"), ("bag", "동네 어린이집", (110, 190, 120), ""))
+OPTS = (("formula", "분유 광고", (90, 150, 235), "모델"), ("cap", "영재학원", (150, 100, 220), "대치동"), ("sand", "놀이터 사장", (240, 150, 60), "다 거절"))
 OX = (190, 540, 890)
 def vote_cards(im, t, cy=1250):
     d = ImageDraw.Draw(im)
@@ -331,9 +347,9 @@ def vote_cards(im, t, cy=1250):
         d.rounded_rectangle((x - w2, cy - h2, x + w2, cy - h2 + 70 * k), radius=34, fill=col, outline=INK, width=6)
         if k > 0.9:
             txt(d, x, cy - h2 + 38, f"{i + 1}번", 48, WHT, stroke=4)
-            put(im, key, x, cy + 5, 0.72 if key != "play" else 0.8); d = ImageDraw.Draw(im)
+            put(im, key, x, cy + 20, 0.66 if key == "cap" else 0.72); d = ImageDraw.Draw(im)
             txt(d, x, cy + h2 - 50, name, 44, INK)
-            if sub: txt(d, x, cy + h2 - 100, sub, 34, col)
+            if sub: txt(d, x, cy - h2 + 102, sub, 36, col)
     return d
 
 def s6(t, dur):  # 네 번째 갈림길 → 댓글 안 달면 또 손짓
@@ -341,7 +357,7 @@ def s6(t, dur):  # 네 번째 갈림길 → 댓글 안 달면 또 손짓
     sw = sp * 0.55; last = sp * 0.78
     if t < sw:
         put(im, kid_key(t, "proud", 0.2), 540, 520, 0.95 * breathe(t)); d = ImageDraw.Draw(im)
-        a = ease((t - 0.1) / 0.4); label(d, 185 + (1 - a) * 40, "네 번째 갈림길", 104)
+        a = ease((t - 0.1) / 0.4); label(d, 185 + (1 - a) * 40, "섭외 들어옴", 110)
         if t > 0.9:
             b = 16 * abs(math.sin((t - 0.9) * 6)); txt(d, 800, 380 - b, "?", 150, (255, 95, 110), stroke=9, sfill=WHT)
     else:
