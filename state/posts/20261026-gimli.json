@@ -1,0 +1,38 @@
+{
+ "id": "20261026-gimli",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-26T17:25:47.306054+09:00",
+ "publish_at": "2026-10-26T17:25:47.306068+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 김리 글라이더 — 1983 고도 12km에서 연료가 바닥난 에어캐나다 767, 파운드·킬로그램 착각, 글라이더 기장, 경주 중인 활주로 착륙, 69명 전원 생존",
+ "sources": [],
+ "seconds": 22.4,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261026-gimli/short_card.mp4"
+ ],
+ "yt": {
+  "title": "하늘에서 연료가 바닥난 여객기ㄷㄷ #shorts",
+  "description": "1983년 7월 23일, 고도 약 12km(41,000ft)를 날던 에어캐나다 143편(보잉 767)의 엔진 2개가 모두 꺼졌습니다. 고장이 아니라 연료가 바닥난 것 — 미터법으로 막 바꾸던 시기, 연료를 킬로그램 대신 파운드로 계산해 필요한 양의 절반만 넣었기 때문이에요.\n글라이더가 취미였던 기장 로버트 피어슨은 엔진 없이 활공해, 부기장이 근무했던 옛 공군 기지 김리 활주로에 내렸습니다. 그날 그 활주로에선 자동차 경주 '가족의 날' 행사가 열리고 있었고, 앞바퀴가 접혀 코로 미끄러지며 멈췄지만 69명 전원이 살았습니다(비상 슬라이드로 내리다 가벼운 부상만). 이 비행기는 수리 뒤 2008년까지 날았어요.\n\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: CBC Archives 'When a metric mix-up led to the Gimli Glider emergency' / Wikipedia 'Gimli Glider' / CBC Manitoba 2018.7\n영상: CBC News 1983 보도(CBC Archives)\n재연: TikTok @aaronrheins (Microsoft Flight Simulator 재연), 일부 장면은 오늘의쓸모 그래픽 재연\n음악: \"Bit Shift\" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0\n\n#shorts #김리글라이더 #비행기 #여객기 #실화 #놀라운사건 #오늘의쓸모 #항공",
+  "tags": [
+   "김리 글라이더",
+   "Gimli Glider",
+   "에어캐나다 143편",
+   "여객기",
+   "비행기 사고",
+   "실화",
+   "놀라운 사건",
+   "미터법",
+   "오늘의쓸모",
+   "shorts"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "tg_msg": 1186
+}
