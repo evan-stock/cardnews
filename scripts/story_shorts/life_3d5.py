@@ -103,6 +103,63 @@ JOBS = {
     "pd_o": lambda: pd("o"), "pd_happy": lambda: pd("happy"), "pd_blink": lambda: pd("blink"),
 }
 
+
+# ---------- 4화 대안 '가짜 김댓글' (10.26): 옆집 애(가르마 + 동그란 안경, 원복), 감기 걸린 김댓글(이불 + 콧물) ----------
+class Neighbor(KidU):
+    """옆집 애: 정수리 컬 대신 2:8 가르마 머리 + 동그란 안경"""
+    def body_mats(self): return ["jacket", "pants", "limb", "shoe", "glass"]
+    def hair(self, p):
+        q = p - HEAD; cap = sd_ellip(p, HEAD + [0, 0.04, -0.02], HR * 1.05)
+        line = 0.3 - 0.6 * np.maximum(0, -q[:, 2]) + 0.08 * np.clip(q[:, 0], -1, 1)
+        return np.maximum(cap, line - q[:, 1])
+    def body(self, p):
+        g = np.minimum(sd_torus_z(p, HEAD + [EYE_X, EYE_Y, 0.95], 0.2, 0.028), sd_torus_z(p, HEAD + [-EYE_X, EYE_Y, 0.95], 0.2, 0.028))
+        g = np.minimum(g, sd_capsule(p, HEAD + [-0.16, EYE_Y + 0.04, 0.99], HEAD + [0.16, EYE_Y + 0.04, 0.99], 0.024))
+        return Kid.body(self, p) + [g]
+    def paint(self, name, p, col):
+        if name == "hair":  # 가르마 선
+            q = p - HEAD
+            return np.where(((np.abs(q[:, 0] + 0.42) < 0.035) & (q[:, 1] > 0.5))[:, None], np.array([0.2, 0.13, 0.1]), col)
+        return KidU.paint(self, name, p, col)
+
+class Sick(KidU):
+    """감기 김댓글: 이불(민트) 두른 몸 + 반쯤 감은 눈 + 콧물. expr: frown(반눈) / blink"""
+    def body_mats(self): return ["mint", "pants", "limb", "shoe"]
+    def body(self, p):
+        torso, shorts, limbs, shoes = Kid.body(self, p)
+        blanket = sd_ellip(p, np.array([0, -0.75, 0.0]), np.array([1.0, 0.85, 0.82]))
+        blanket = smin(blanket, sd_ellip(p, np.array([0, -0.1, -0.15]), np.array([1.05, 0.35, 0.75])), 0.2)
+        return [blanket, far(p), far(p), shoes]
+    def head(self, p):
+        D = KidA.head(self, p)
+        snot = np.minimum(sd_capsule(p, HEAD + [0.07, -0.1, 0.96], HEAD + [0.075, -0.19, 0.95], 0.045), sd_sph(p, HEAD + [0.075, -0.22, 0.94], 0.065))
+        D[3] = snot
+        return D
+    def paint_face(self, p, col):
+        col = Char.paint_face(self, p, col)
+        q = p - HEAD; x, y, z = q[:, 0], q[:, 1], q[:, 2]; front = z > 0.3
+        if self.expr == "frown":
+            for sx in (1, -1):  # 처진 눈썹(안쪽이 올라감)
+                xx = x - sx * EYE_X
+                m = front & (np.abs(xx) < 0.13) & (np.abs(y - (0.27 - 0.06 * sx * xx / 0.13)) < 0.024)
+                col = np.where(m[:, None], INK, col)
+        r = np.sqrt(x ** 2 + (y + 0.44) ** 2)
+        col = np.where((front & (np.abs(r - 0.12) < 0.022) & (y > -0.36))[:, None], INK, col)  # ∩ 입
+        red = (((x / 0.12) ** 2 + ((y + 0.1) / 0.08) ** 2) < 1) & (z > 0.8)  # 빨간 코
+        return np.where(red[:, None], np.array([1.0, 0.5, 0.5]), col)
+    def paint(self, name, p, col):
+        if name == "skin": return self.paint_face(p, col)
+        if name == "mint":  # 이불 물방울 무늬
+            x, y = p[:, 0], p[:, 1]
+            dots = ((np.mod(x * 4, 1) - 0.5) ** 2 + (np.mod(y * 4 + 0.5 * np.floor(x * 4), 1) - 0.5) ** 2) < 0.04
+            return np.where(dots[:, None], np.array([1.0, 1.0, 1.0]), col)
+        return col
+
+def nb(e): return render_nc(Neighbor(e, "kid"), 700, 900, look_y=0.05, dist=6.4)
+def sick(e): return render_nc(Sick(e, "kid"), 700, 900, look_y=0.05, dist=6.4)
+JOBS.update({"nb_happy": lambda: nb("happy"), "nb_blink": lambda: nb("blink"), "nb_proud": lambda: nb("proud"),
+             "sick_frown": lambda: sick("frown"), "sick_blink": lambda: sick("blink")})
+
 if __name__ == "__main__":
     out = sys.argv[1]; names = sys.argv[2:] or list(JOBS); os.makedirs(out, exist_ok=True)
     for nm in names:
