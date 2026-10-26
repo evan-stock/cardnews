@@ -1,0 +1,7 @@
+total 53700
+drwxr-xr-x 2 runner runner     4096 Oct 26 08:16 .
+drwxr-xr-x 4 runner runner     4096 Oct 26 08:15 ..
+-rw-r--r-- 1 runner runner 45681120 Oct 26 08:15 cbc1983.mp4
+-rw-r--r-- 1 runner runner  6199134 Oct 26 08:15 cbc_mixup.mp4
+-rw-r--r-- 1 runner runner        0 Oct 26 08:16 log.txt
+-rw-r--r-- 1 runner runner  3095071 Oct 26 08:16 v1.mp4
