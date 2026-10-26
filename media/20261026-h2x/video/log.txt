@@ -3,3 +3,9 @@ drwxr-xr-x 2 runner runner 4096 Oct 26 03:05 .
 drwxr-xr-x 4 runner runner 4096 Oct 26 03:04 ..
 -rw-r--r-- 1 runner runner    0 Oct 26 03:04 log.txt
 -rw-r--r-- 1 runner runner  706 Oct 26 03:04 x1.json
+total 42068
+drwxr-xr-x 2 runner runner     4096 Oct 26 03:08 .
+drwxr-xr-x 4 runner runner     4096 Oct 26 03:08 ..
+-rw-r--r-- 1 runner runner      210 Oct 26 03:08 log.txt
+-rw-r--r-- 1 runner runner 43060273 Oct 26 03:08 v1.mp4
+-rw-r--r-- 1 runner runner      706 Oct 26 03:08 x1.json
