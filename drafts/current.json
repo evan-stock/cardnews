@@ -1,12 +1,11 @@
-[{"id":"20261026-lula","slot":"lunch","mode":"collect","image_pages":[
-"https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
-"https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election",
-"https://www.wftv.com/news/latest-brazilians/VEG6BRQ4743KRIKQANLVVAYKA4/",
-"https://scc10.com.br/diretoaovoto/lula-reeleito-celebra-virada-historica-em-sao-paulo/",
-"https://acordadf.com.br/noticias/brasil/video-lula-comemora-reeleicao-com-janja-e-aliados-em-sp/",
-"https://www.poder360.com.br/poder-eleicoes-2026/leia-a-integra-do-pronunciamento-da-vitoria-de-lula-2/",
-"https://www.telegraphherald.com/ap/business/image_eb72b95c-621a-5119-9ab4-b0610884542c.html",
-"https://www.hjnews.com/world/brazil-election/image_4de3387a-5bb7-57db-af1f-2fc48f572464.html",
-"https://diariodonordeste.verdesmares.com.br/pontopoder/com-482-no-segundo-turno-flavio-bolsonaro-perde-eleicao-para-presidente-do-brasil-em-2026-1.3800318",
-"https://www.cartacapital.com.br/politica/pt-defende-decisao-de-zanin-sobre-extensao-da-votacao-aliados-de-flavio-bolsonaro-falam-em-fraude/"
-]}]
+[
+ {
+  "id": "20261026-lula",
+  "slot": "lunch",
+  "mode": "collect",
+  "image_pages": [],
+  "image_urls": [
+   "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/assets/v3/editorial/4/de/4de3387a-5bb7-57db-af1f-2fc48f572464/6adeb520752d7.image.jpg"
+  ]
+ }
+]
