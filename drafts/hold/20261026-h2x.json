@@ -1,0 +1,54 @@
+[
+ {
+  "id": "20261026-h2x",
+  "slot": "evening",
+  "mode": "render",
+  "format": "reel",
+  "topic": "중국 유니트리 경호용 휴머노이드 H2-X 공식 영상(10.21): 차 지붕 공중제비, 4m 컨테이너 점프, 칼 든 괴한 막기, 차 들어 올려 깔린 마네킹 구조",
+  "category": "와영상",
+  "emotion": "놀람(이게 진짜 로봇이야?) + 약간의 불안",
+  "core": "Unitree 공식 X 10.21(조회 1,232만), Humanoids Daily 10.21(장면 목록, 실제·무배속 표기, 원격 여부 불명), TechRadar 10.21(8시간은 서 있는 시간, 가격·출시 미정), Asianet 10.23",
+  "risk": "연출 시연임을 본문에 명시. 자율/원격 여부 미공개 명시. 마네킹은 소품.",
+  "video": {
+   "src": "video/v2.mp4",
+   "start": 0,
+   "dur": 17,
+   "x": 0.5,
+   "y": 0.5,
+   "frame": 1.5
+  },
+  "overlay_text": false,
+  "cover": {
+   "img": "cand/reel_cover_final.jpg",
+   "final": true
+  },
+  "hashtags": [
+   "유니트리",
+   "휴머노이드",
+   "로봇",
+   "경호로봇",
+   "중국로봇"
+  ],
+  "photo_credits": [
+   "영상: Unitree Robotics 공식 X"
+  ],
+  "sources": [
+   {
+    "publisher": "Unitree Robotics(X)",
+    "date": "2026.10.21",
+    "url": "https://x.com/UnitreeRobotics/status/2112819774573179175"
+   },
+   {
+    "publisher": "Humanoids Daily",
+    "date": "2026.10.21",
+    "url": "https://www.humanoidsdaily.com/news/unitree-h2-x-kung-fu-guardian-video"
+   },
+   {
+    "publisher": "TechRadar",
+    "date": "2026.10.21",
+    "url": "https://www.techradar.com/ai-platforms-assistants/unitree-reveals-its-h2-x-bodyguard-robot-a-kung-fu-humanoid-with-an-8-hour-battery-life-and-some-serious-martial-arts-skills"
+   }
+  ],
+  "caption": "[칼 든 괴한을 막아서고, 깔린 사람 위 차까지 들어 올렸다]\n\n중국 로봇 기업 유니트리가 10월 21일 경호용 휴머노이드 로봇 'H2-X'를 공개했습니다. 공식 X에 올린 1분짜리 영상은 조회 1,200만 회를 넘었습니다.\n\n영상 속 로봇은 폐차장에서 차 지붕 위로 뛰어올라 공중제비를 돌고, 4m 높이 컨테이너에서 뛰어내립니다. 칼을 든 괴한 앞을 막아서고, 차 앞부분을 들어 올려 밑에 깔린 사람(마네킹)을 꺼낼 수 있게 돕습니다. 유니트리는 빨리 감기 없는 실제 영상이라고 밝혔고, 한 번 충전으로 약 8시간 서 있을 수 있다고 했습니다.\n\n다만 장면은 미리 짠 시연이고, 로봇이 스스로 판단해 움직였는지 사람이 원격으로 조종했는지는 공개되지 않았습니다. 가격과 출시 일정도 나오지 않았습니다.\n\n이런 경호 로봇, 집에 들이고 싶다 vs 무섭다, 여러분은 어느 쪽인가요? 💬\n\n로봇 좋아하는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다."
+ }
+]
