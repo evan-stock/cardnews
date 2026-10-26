@@ -5,7 +5,7 @@
  "hook": {
   "t": "하늘에서 '연료'가 바닥난\n여객기에 생긴 일ㄷㄷ"
  },
- "credit": "영상: CBC News 1983 (CBC Archives)",
+ "credit": "영상: CBC News 1983 (CBC Archives) · 그래픽 재연",
  "bgm": {
   "file": "assets/bgm/worthy/bit_shift.mp3",
   "start": 3.0,
@@ -30,13 +30,13 @@
    "url": "https://www.cbc.ca/news/canada/manitoba/gimli-glider-35-years-1.4756985"
   }
  ],
- "_note": "cbc1983.mp4 = CBC 1983 'Boeing 767 glides to a landing in Gimli' 1280x720 145초(가운데 4:3, 양옆 검은 띠) → tmp_cbc.mp4 = crop=960:720:160:0 -g 15(시각 동일). 20~21 GIMLI MANITOBA 자막, 22~26 옆에서 본 코 박은 767, 27~35 인터뷰(이름 자막) 안 씀, 36~45 엔진·배 밑·슬라이드, 46~47 활주로 옆 자동차·사람, 52~59 하늘로 들린 꼬리, 59~70 정면에서 본 코 박은 767(슬라이드). cbc_mixup.mp4 = CBC 'metric mix-up' 320x240 104초 → tmp_fly.mp4 = -ss 20 -t 16 crop=280:202:0:8 확대(CBC 로고 잘라 냄, 0~4초 GIMLI MAN. 자막 → 4초부터 사용, 수리 뒤 다시 이륙하는 767). tmp 파일은 커밋 안 함. CBC Bryce Bell 인터뷰(v3)는 안 써서 지움. 원본 소리 끔(앵커 말소리).",
+ "_note": "cbc1983.mp4 = CBC 1983 'Boeing 767 glides to a landing in Gimli' 1280x720 145초(가운데 4:3, 양옆 검은 띠) → tmp_cbc.mp4 = crop=960:720:160:0 -g 15(시각 동일). 20~21 GIMLI MANITOBA 자막, 22~26 옆에서 본 코 박은 767, 27~35 인터뷰(이름 자막) 안 씀, 36~45 엔진·배 밑·슬라이드, 46~47 활주로 옆 자동차·사람, 52~59 하늘로 들린 꼬리, 59~70 정면에서 본 코 박은 767(슬라이드). cbc_mixup.mp4 = CBC 'metric mix-up' 320x240 104초 → tmp_fly.mp4 = -ss 20 -t 16 crop=280:202:0:8 확대(CBC 로고 잘라 냄, 0~4초 GIMLI MAN. 자막 → 4초부터 사용, 수리 뒤 다시 이륙하는 767). tmp 파일은 커밋 안 함. CBC Bryce Bell 인터뷰(v3)는 안 써서 지움. 원본 소리 끔(앵커 말소리). 재연 그래픽 = scripts/story_shorts/anim_gimli.py → gfx/(scrape·cockpit·fuel·glide·runway).mp4 (10.26 사용자 '비행기 영상만 나오고 재연이 없어 노잼' 피드백으로 추가).",
  "scenes": [
   {
-   "text": "고도 12km, 여객기 엔진 2개가 '동시에' 꺼졌다",
+   "text": "착륙하자 여객기 코가 활주로를 '긁었다'",
    "video": {
-    "src": "video/tmp_cbc.mp4",
-    "start": 22.2,
+    "src": "gfx/scrape.mp4",
+    "start": 0.2,
     "x": 0.5,
     "y": 0.5,
     "speed": 1.0
@@ -44,21 +44,21 @@
    "dur": 2.8
   },
   {
-   "text": "고장이 아니라 연료통이 텅 비어서였다",
+   "text": "몇 분 전 고도 12km, 엔진 2개가 '동시에' 꺼졌다",
    "video": {
-    "src": "video/tmp_fly.mp4",
-    "start": 8.5,
+    "src": "gfx/cockpit.mp4",
+    "start": 0.0,
     "x": 0.5,
     "y": 0.5,
-    "speed": 0.8
+    "speed": 1.0
    },
-   "dur": 2.6
+   "dur": 3.0
   },
   {
    "text": "파운드를 킬로그램으로 헷갈려, 연료를 '절반'만 넣은 것",
    "video": {
-    "src": "video/tmp_cbc.mp4",
-    "start": 60.0,
+    "src": "gfx/fuel.mp4",
+    "start": 0.2,
     "x": 0.5,
     "y": 0.5,
     "speed": 1.0
@@ -69,45 +69,45 @@
    "text": "그런데 기장의 취미가 하필 '글라이더'",
    "video": {
     "src": "video/tmp_fly.mp4",
-    "start": 11.5,
+    "start": 9.5,
     "x": 0.5,
     "y": 0.5,
     "speed": 0.8
    },
-   "dur": 2.6
-  },
-  {
-   "text": "엔진 없이 미끄러져 옛 공군 활주로로 향했는데",
-   "video": {
-    "src": "video/tmp_cbc.mp4",
-    "start": 52.5,
-    "x": 0.5,
-    "y": 0.5,
-    "speed": 1.0
-   },
-   "dur": 2.8
-  },
-  {
-   "text": "그 활주로엔 자동차 경주를 보던 가족들이",
-   "video": {
-    "src": "video/tmp_cbc.mp4",
-    "start": 46.0,
-    "x": 0.5,
-    "y": 0.6,
-    "speed": 1.0
-   },
    "dur": 2.4
   },
   {
-   "text": "앞바퀴가 접혀 코로 멈췄고, 69명 전원 살았다",
+   "text": "엔진 없이 미끄러져 옛 공군 활주로로",
    "video": {
-    "src": "video/tmp_cbc.mp4",
-    "start": 63.0,
+    "src": "gfx/glide.mp4",
+    "start": 0.0,
     "x": 0.5,
     "y": 0.5,
     "speed": 1.0
    },
    "dur": 3.0
+  },
+  {
+   "text": "그런데 그 활주로엔 경주를 보던 가족들이",
+   "video": {
+    "src": "gfx/runway.mp4",
+    "start": 0.0,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 1.0
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "앞바퀴가 접혀 코로 멈췄고, 69명 전원 살았다",
+   "video": {
+    "src": "video/tmp_cbc.mp4",
+    "start": 60.0,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 1.0
+   },
+   "dur": 2.8
   },
   {
    "text": "단위 하나가 만든 기적, 구독하면 내일도 놀라운 사건",
@@ -118,7 +118,7 @@
     "y": 0.5,
     "speed": 1.0
    },
-   "dur": 2.6
+   "dur": 2.4
   }
  ]
 }
