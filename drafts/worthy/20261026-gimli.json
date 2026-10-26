@@ -5,7 +5,7 @@
  "hook": {
   "t": "하늘에서 '연료'가 바닥난\n여객기에 생긴 일ㄷㄷ"
  },
- "credit": "영상: CBC News 1983 (CBC Archives) · 그래픽 재연",
+ "credit": "영상: CBC News 1983 · 재연: @aaronrheins(MSFS)·그래픽",
  "bgm": {
   "file": "assets/bgm/worthy/bit_shift.mp3",
   "start": 3.0,
@@ -14,7 +14,8 @@
  "orig_vol": 0,
  "products": [],
  "photo_credits": [
-  "영상: CBC News 1983.7 보도 원본 2개(CBC Archives — 'Boeing 767 glides to a landing in Gimli, Man.' cbc.ca/player/play/1281360451571, ''Gimli Glider' lands without fuel due to metric mix-up' cbc.ca/player/play/video/1.3335371). 이름 자막·지명 자막·CBC 로고 구간은 잘라 내거나 쓰지 않음"
+  "영상: CBC News 1983.7 보도 원본 2개(CBC Archives — 'Boeing 767 glides to a landing in Gimli, Man.' cbc.ca/player/play/1281360451571, ''Gimli Glider' lands without fuel due to metric mix-up' cbc.ca/player/play/video/1.3335371). 이름 자막·지명 자막·CBC 로고 구간은 잘라 내거나 쓰지 않음",
+  "재연 영상: TikTok @aaronrheins 본인 Microsoft Flight Simulator 재연(7218564764346125610) — 아래 화면만 크롭(crop=576:416:0:515, 얼굴 화면·단어 자막·빨리감기 아이콘 제외), 35.5초 구름 위 활공·47초 들판 위 접근 장면만 사용. 영상 속 흑백 사진·TV 영화 장면은 안 씀"
  ],
  "sources": [
   {
@@ -30,7 +31,7 @@
    "url": "https://www.cbc.ca/news/canada/manitoba/gimli-glider-35-years-1.4756985"
   }
  ],
- "_note": "cbc1983.mp4 = CBC 1983 'Boeing 767 glides to a landing in Gimli' 1280x720 145초(가운데 4:3, 양옆 검은 띠) → tmp_cbc.mp4 = crop=960:720:160:0 -g 15(시각 동일). 20~21 GIMLI MANITOBA 자막, 22~26 옆에서 본 코 박은 767, 27~35 인터뷰(이름 자막) 안 씀, 36~45 엔진·배 밑·슬라이드, 46~47 활주로 옆 자동차·사람, 52~59 하늘로 들린 꼬리, 59~70 정면에서 본 코 박은 767(슬라이드). cbc_mixup.mp4 = CBC 'metric mix-up' 320x240 104초 → tmp_fly.mp4 = -ss 20 -t 16 crop=280:202:0:8 확대(CBC 로고 잘라 냄, 0~4초 GIMLI MAN. 자막 → 4초부터 사용, 수리 뒤 다시 이륙하는 767). tmp 파일은 커밋 안 함. CBC Bryce Bell 인터뷰(v3)는 안 써서 지움. 원본 소리 끔(앵커 말소리). 재연 그래픽 = scripts/story_shorts/anim_gimli.py → gfx/(scrape·cockpit·fuel·glide·runway).mp4 (10.26 사용자 '비행기 영상만 나오고 재연이 없어 노잼' 피드백으로 추가).",
+ "_note": "cbc1983.mp4 = CBC 1983 'Boeing 767 glides to a landing in Gimli' 1280x720 145초(가운데 4:3, 양옆 검은 띠) → tmp_cbc.mp4 = crop=960:720:160:0 -g 15(시각 동일). 20~21 GIMLI MANITOBA 자막, 22~26 옆에서 본 코 박은 767, 27~35 인터뷰(이름 자막) 안 씀, 36~45 엔진·배 밑·슬라이드, 46~47 활주로 옆 자동차·사람, 52~59 하늘로 들린 꼬리, 59~70 정면에서 본 코 박은 767(슬라이드). cbc_mixup.mp4 = CBC 'metric mix-up' 320x240 104초 → tmp_fly.mp4 = -ss 20 -t 16 crop=280:202:0:8 확대(CBC 로고 잘라 냄, 0~4초 GIMLI MAN. 자막 → 4초부터 사용, 수리 뒤 다시 이륙하는 767). tmp 파일은 커밋 안 함. CBC Bryce Bell 인터뷰(v3)는 안 써서 지움. 원본 소리 끔(앵커 말소리). 재연 그래픽 = scripts/story_shorts/anim_gimli.py → gfx/(scrape·cockpit·fuel·glide·runway).mp4 (10.26 사용자 '비행기 영상만 나오고 재연이 없어 노잼' 피드백으로 추가). sim.mp4 = @aaronrheins 7218564764346125610 (576x1024 63초, 위 얼굴캠·아래 MSFS) → tmp_sim.mp4 = crop=576:416:0:515 확대. Higgsfield AI 재연은 무료 요금제라 '베이직 이상 필요'로 생성 불가(크레딧 6.7).",
  "scenes": [
   {
    "text": "착륙하자 여객기 코가 활주로를 '긁었다'",
@@ -68,19 +69,19 @@
   {
    "text": "그런데 기장의 취미가 하필 '글라이더'",
    "video": {
-    "src": "video/tmp_fly.mp4",
-    "start": 9.5,
+    "src": "video/tmp_sim.mp4",
+    "start": 35.5,
     "x": 0.5,
     "y": 0.5,
-    "speed": 0.8
+    "speed": 1.0
    },
    "dur": 2.4
   },
   {
    "text": "엔진 없이 미끄러져 옛 공군 활주로로",
    "video": {
-    "src": "gfx/glide.mp4",
-    "start": 0.0,
+    "src": "video/tmp_sim.mp4",
+    "start": 47.0,
     "x": 0.5,
     "y": 0.5,
     "speed": 1.0
