@@ -1,167 +1,220 @@
 {
- "id": "20261026-beachcat",
+ "id": "20261026-donkeycat",
  "mode": "send",
  "format": "meme",
- "topic": "태어나서 처음 바다에 간 턱시도 고양이 셀렉(Selleck)이 하네스를 차고 조심조심 물가로 걸어가 발을 담그더니, 갑자기 아무렇지 않게 헤엄치기 시작하는 영상(TikTok @mr.selleck, TAG24 Viral Video of the Day 2026.4.13). 원본 소리는 파도·현장음 + 짧은 소리(음악 트랙 없음) — 살림. 사실: 수의사 프레스턴 투라노 — 고양이는 본능적으로 헤엄칠 줄 알지만 하고 싶어 하지 않을 뿐(Adopt a Pet 2024.3.8).",
+ "topic": "눈 덮인 농장에서 당나귀가 나무 밑에 서자, 나무 위에 있던 메인쿤 고양이들이 줄줄이 내려와 당나귀의 긴 귀를 앞발로 만지며 장난감처럼 갖고 놂 — 당나귀는 꿈쩍 안 하고 참음. 다른 영상에서는 메인쿤 한 마리가 당나귀 등에 타고 이동(TikTok @mcfloofenpantfamily, 2026.2 게시, Parade Pets 2026.2.28·2026.3.14 보도, Cuteness 기사). 원본 소리는 덧입힌 어쿠스틱 기타 음악뿐이라 전 구간 끔. 사실: 메인쿤은 발가락 사이 긴 털과 큰 발 덕분에 눈 위를 잘 걷는다(위키백과 Maine Coon).",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.8,
- "sfx_max": 3,
+ "bgm_volume": 1.5,
+ "sfx_max": 4,
  "style": {
   "sub_y": 0.84
  },
  "hook": {
-  "t": "바다 처음 본 고양이의 반응\n'알고 보니 수영 선수ㅋㅋ'"
+  "t": "고양이 나무 밑에 선 당나귀\n'귀가 장난감 됐다ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @mr.selleck"
+  "TikTok @mcfloofenpantfamily"
  ],
  "scenes": [
   {
-   "dur": 3.0,
+   "dur": 2.4,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 16.5,
+    "src": "video/v2.mp4",
+    "start": 1.6,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 5.0
+    "y": 0.3,
+    "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "비켜!! 수영 선수\n지나간다!!",
-     "x": 0.42,
-     "y": 0.52,
+     "t": "이 귀\n내 거야!!",
+     "x": 0.74,
+     "y": 0.16,
      "at": 0.1
     },
     {
      "k": "sfx",
-     "t": "(첨벙첨벙)",
-     "x": 0.72,
-     "y": 0.75,
-     "at": 0.4,
-     "s": "dundun",
-     "sv": 0.7
+     "t": "(꾹)",
+     "x": 0.84,
+     "y": 0.4,
+     "at": 0.6,
+     "s": "pop",
+     "sv": 0.8
     }
    ]
   },
   {
-   "say": "이 고양이, 태어나서 바다를 처음 봤습니다.",
+   "say": "눈 덮인 농장, 당나귀가 나무 밑에 잠깐 섰는데요.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 0.6,
+    "src": "video/v2.mp4",
+    "start": 4.0,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0.5
+    "y": 0.3,
+    "audio": 0
    },
    "caps": []
   },
   {
    "dur": 3.0,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 9.0,
+    "src": "video/v2.mp4",
+    "start": 13.3,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 2.5
+    "y": 0.3,
+    "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...이거 전부\n물이야?",
-     "x": 0.27,
-     "y": 0.6,
-     "at": 0.2
+     "t": "...또 시작이네",
+     "x": 0.66,
+     "y": 0.8,
+     "at": 0.3
     },
     {
      "k": "sfx",
-     "t": "(갸웃)",
-     "x": 0.75,
-     "y": 0.68,
-     "at": 1.0,
+     "t": "(체념)",
+     "x": 0.8,
+     "y": 0.22,
+     "at": 1.2,
      "s": "question",
      "sv": 0.8
     }
    ]
   },
   {
-   "say": "물을 싫어할 줄 알았는데, 갑자기 헤엄을 칩니다.",
+   "say": "나무 위 메인쿤들이 줄줄이 귀를 만지러 옵니다.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 12.5,
+    "src": "video/v2.mp4",
+    "start": 17.5,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0.4
+    "y": 0.3,
+    "audio": 0
    },
    "caps": []
   },
   {
-   "dur": 3.4,
+   "dur": 2.5,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 20.0,
+    "src": "video/v2.mp4",
+    "start": 23.2,
     "x": 0.5,
-    "y": 0.4,
-    "audio": 2.2
+    "y": 0.3,
+    "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "어? 나 원래\n물개였나 봐",
-     "x": 0.62,
-     "y": 0.3,
+     "t": "잡았다 요놈!",
+     "x": 0.72,
+     "y": 0.12,
      "at": 0.2
     },
     {
      "k": "sfx",
-     "t": "(술술)",
-     "x": 0.72,
-     "y": 0.6,
-     "at": 1.4,
-     "s": "tada",
-     "sv": 0.7
+     "t": "(덥석)",
+     "x": 0.82,
+     "y": 0.42,
+     "at": 1.6,
+     "s": "boing",
+     "sv": 0.8
     }
    ]
   },
   {
-   "say": "수의사에 따르면, 고양이는 원래 헤엄칠 줄 압니다. 안 하고 싶을 뿐이죠.",
+   "dur": 1.6,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 23.6,
+    "src": "video/v2.mp4",
+    "start": 26.9,
     "x": 0.5,
-    "y": 0.4,
-    "audio": 0.5
+    "y": 0.3,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "다음 손님\n들어오세요~",
+     "x": 0.62,
+     "y": 0.82,
+     "at": 0.0
+    }
+   ]
+  },
+  {
+   "say": "메인쿤은 발가락 사이 긴 털 덕분에 눈 위도 잘 걷습니다.",
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 8.5,
+    "x": 0.5,
+    "y": 0.3,
+    "audio": 0
    },
    "caps": []
+  },
+  {
+   "dur": 1.75,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 2.55,
+    "x": 0.6,
+    "y": 0.75,
+    "audio": 0,
+    "zoom": 1.35
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "퇴근은 당나귀 타고",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.0
+    },
+    {
+     "k": "talk",
+     "t": "출발~!",
+     "x": 0.78,
+     "y": 0.45,
+     "at": 0.2,
+     "s": "tada",
+     "sv": 0.7
+    }
+   ]
   }
  ],
  "sources": [
   {
-   "publisher": "TikTok @mr.selleck",
-   "url": "https://www.tiktok.com/@mr.selleck/video/7626934469890411789",
-   "date": "2026.4"
+   "publisher": "TikTok @mcfloofenpantfamily (나무 위 메인쿤과 당나귀)",
+   "url": "https://www.tiktok.com/@mcfloofenpantfamily/video/7606700171652533518",
+   "date": "2026.2"
   },
   {
-   "publisher": "TAG24 Viral Video of the Day",
-   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-april-13-2026-cat-takes-his-first-swim-at-the-beach-and-absolutely-loves-it-3489314",
-   "date": "2026.4.13"
+   "publisher": "TikTok @mcfloofenpantfamily (당나귀 타는 메인쿤)",
+   "url": "https://www.tiktok.com/@mcfloofenpantfamily/video/7610571210161769741",
+   "date": "2026.2"
   },
   {
-   "publisher": "Adopt a Pet - Can Cats Swim?",
-   "url": "https://www.adoptapet.com/blog/behavior-training/can-cats-swim",
-   "date": "2024.3.8"
+   "publisher": "Cuteness - Maine Coon Cats' Friendship With A Donkey",
+   "url": "https://www.cuteness.com/2116322/maine-coon-cats-friendship-donkey-storybook/",
+   "date": "2026"
+  },
+  {
+   "publisher": "Wikipedia - Maine Coon",
+   "url": "https://en.wikipedia.org/wiki/Maine_Coon",
+   "date": "2026.10 확인"
   }
  ],
  "yt": {
-  "title": "바다를 처음 본 고양이의 반응ㅋㅋ #shorts",
-  "description": "태어나서 처음 바다에 온 턱시도 고양이 셀렉. 조심조심 물가로 걸어가 발을 담가 보더니... 갑자기 아무렇지 않게 헤엄치기 시작합니다. 소리 켜고 보세요.\n\n수의사 프레스턴 투라노에 따르면 고양이는 본능적으로 헤엄칠 줄 알지만, 대부분 하고 싶어 하지 않을 뿐이라고 해요. 억지로 물에 넣는 건 금물!\n\n여러분 냥이는 물 좋아하나요?\n\n영상: TikTok @mr.selleck\n참고: TAG24 Viral Video of the Day(2026.4.13), Adopt a Pet(2024.3.8)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "고양이 나무 밑에 서면 안되는 이유ㅋㅋ #shorts",
+  "description": "눈 덮인 농장, 당나귀가 나무 밑에 잠깐 섰을 뿐인데... 나무 위 메인쿤들이 줄줄이 내려와 당나귀 귀를 장난감 삼아 놉니다. 끝까지 꿈쩍 안 하는 당나귀의 인내심ㅋㅋ\n\n메인쿤은 발가락 사이 긴 털과 큰 발 덕분에 눈 위도 잘 걷는 고양이예요. 미국 메인주의 '주 고양이'이기도 하죠.\n\n여러분 냥이도 이렇게 장난치나요?\n\n영상: TikTok @mcfloofenpantfamily\n참고: Cuteness, Wikipedia(Maine Coon)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
    "고양이",
-   "고양이수영",
-   "바다",
-   "고양이반응",
+   "메인쿤",
+   "당나귀",
+   "고양이장난",
    "웃긴고양이",
-   "턱시도고양이",
+   "동물친구",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
