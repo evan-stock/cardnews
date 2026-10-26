@@ -1,88 +1,62 @@
 {
- "id": "20261026-howloff",
+ "id": "20261027-catsquirrel",
  "mode": "send",
  "format": "meme",
- "topic": "호주 멜버른, 집사 클로이가 두 손을 모으고 늑대처럼 하울링하자 장모 저먼 셰퍼드 메이헴이 벽에 기대 두 발로 서서 고개를 쳐들고 더 크게 하울링, 앞발로 집사를 눌러 '내 차례'를 주장하다 결국 집사가 웃음이 터짐(TikTok @absolute_kaos1, 2023.4.24 게시, Newsweek 2023.5.16 — 200만 회+). 원본 소리(하울링·집사 하울링·웃음) 살림, 음악 트랙 없음. 사실: ASPCA — 하울링은 개의 여러 소리 소통 중 하나로, 관심을 끌고 다른 개와 연락하고 '나 여기 있다'를 알리려고 운다.",
+ "topic": "집 2층 계단 앞에서 치즈 태비 고양이와 회색 다람쥐가 서로 쫓고 올라타며 레슬링. 다람쥐가 고양이 등에 올라타고 난간에 매달리고, 고양이는 앞발로 살살 치기만 함(TikTok @tuvok_nutters, TAG24 Viral Video of the Day 2026.10.22). 원본 소리(실내 현장음, 짧은 집사 목소리) 살림, 음악 트랙 없음. 사실: Your Cat 매거진 — 고양이 장난 싸움은 발톱을 숨기고 대개 소리 없이 하며 하악질·으르렁이 없다.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.8,
- "sfx_max": 3,
+ "bgm_volume": 1.0,
+ "sfx_max": 4,
  "hook": {
-  "t": "강아지 앞에서 하울링 했더니\n'목청으로 이겨버림ㅋㅋ'"
+  "t": "고양이 등에 올라탄 다람쥐\n'형아랑 레슬링 중ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @absolute_kaos1"
+  "TikTok @tuvok_nutters"
  ],
  "scenes": [
   {
-   "dur": 2.5,
+   "dur": 2.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 6.8,
+    "start": 9.9,
     "x": 0.5,
-    "y": 0.3,
-    "audio": 1.7
+    "y": 0.0,
+    "audio": 1.5
    },
    "caps": [
-    {
-     "k": "talk",
-     "t": "아우우우~!!",
-     "x": 0.42,
-     "y": 0.1,
-     "at": 0.1
-    },
     {
      "k": "sfx",
-     "t": "(조용, 내 차례)",
-     "x": 0.6,
-     "y": 0.42,
-     "at": 0.8
-    }
-   ]
-  },
-  {
-   "say": "집사가 장난으로 늑대 소리를 따라 해 봤는데요.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 0.4,
-    "x": 0.5,
-    "y": 0.3,
-    "audio": 0.45
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "어? 이거\n우리 말인데?",
-     "x": 0.3,
-     "y": 0.14,
-     "at": 1.2,
-     "s": "question",
+     "t": "(등에 착!)",
+     "x": 0.28,
+     "y": 0.07,
+     "at": 0.15,
+     "s": "boing",
      "sv": 0.8
+    },
+    {
+     "k": "talk",
+     "t": "야... 내려와;;",
+     "x": 0.72,
+     "y": 0.42,
+     "at": 0.05
     }
    ]
   },
   {
-   "dur": 2.8,
+   "say": "이 고양이네 집엔 아주 특이한 동생이 삽니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 4.3,
+    "start": 0.6,
     "x": 0.5,
-    "y": 0.3,
-    "audio": 0.7
+    "y": 0.0,
+    "audio": 0.3
    },
    "caps": [
     {
      "k": "talk",
-     "t": "비켜봐,\n내가 진짜야",
-     "x": 0.24,
-     "y": 0.1,
-     "at": 0.0
-    },
-    {
-     "k": "sfx",
-     "t": "(목청 ON)",
-     "x": 0.62,
-     "y": 0.06,
+     "t": "어디 숨었지...",
+     "x": 0.68,
+     "y": 0.28,
      "at": 0.8
     }
    ]
@@ -91,124 +65,145 @@
    "dur": 2.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 9.6,
+    "start": 4.5,
     "x": 0.5,
-    "y": 0.3,
-    "audio": 0.85
+    "y": 0.0,
+    "audio": 1.5
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...따라올 수\n있겠어?",
-     "x": 0.66,
-     "y": 0.1,
-     "at": 1.7,
-     "s": "dundun",
-     "sv": 0.7
+     "t": "형아 나 여기!",
+     "x": 0.62,
+     "y": 0.06,
+     "at": 0.1
+    },
+    {
+     "k": "sfx",
+     "t": "(날아차기!)",
+     "x": 0.35,
+     "y": 0.5,
+     "at": 1.8,
+     "s": "whoosh",
+     "sv": 0.8
     }
    ]
   },
   {
-   "dur": 3.3,
+   "dur": 3.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 12.5,
+    "start": 28.6,
     "x": 0.5,
-    "y": 0.3,
-    "audio": 1.6
+    "y": 0.0,
+    "audio": 1.5
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "2절 시작",
-     "x": 0.5,
-     "y": 0.72,
-     "at": 0.2
-    },
-    {
      "k": "talk",
-     "t": "아우우우우~~~",
-     "x": 0.68,
-     "y": 0.1,
+     "t": "잡았다 요놈!",
+     "x": 0.72,
+     "y": 0.36,
      "at": 0.4
     }
    ]
   },
   {
-   "dur": 1.8,
+   "dur": 3.5,
    "video": {
     "src": "video/v1.mp4",
-    "start": 15.8,
+    "start": 32.6,
     "x": 0.5,
-    "y": 0.3,
-    "audio": 0.85
+    "y": 0.0,
+    "audio": 1.5
    },
    "caps": [
     {
      "k": "talk",
-     "t": "피날레!!",
+     "t": "하나도\n안 아프지롱~",
      "x": 0.7,
-     "y": 0.1,
+     "y": 0.74,
      "at": 0.3
+    },
+    {
+     "k": "sfx",
+     "t": "(냥냥펀치)",
+     "x": 0.3,
+     "y": 0.3,
+     "at": 1.6,
+     "s": "pop",
+     "sv": 0.9
     }
    ]
   },
   {
-   "say": "결국 웃음이 터진 건 집사였습니다.",
+   "say": "알고 보니 고양이가 살살 봐주는 중이었습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 17.6,
+    "start": 36.0,
     "x": 0.5,
-    "y": 0.3,
-    "audio": 0.5
+    "y": 0.0,
+    "audio": 0.3
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "고양이는 장난 싸움 땐\n발톱을 숨기고 하악질도 안 해요",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "say": "다람쥐가 도망가자, 바로 시치미를 뗍니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 49.3,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0.3
    },
    "caps": [
     {
      "k": "talk",
-     "t": "내가 이겼지?",
-     "x": 0.74,
+     "t": "...아무 일\n없었다냥",
+     "x": 0.68,
      "y": 0.22,
-     "at": 0.3,
+     "at": 1.4,
      "s": "tada",
      "sv": 0.7
-    },
-    {
-     "k": "desc",
-     "t": "개는 하울링으로\n'나 여기 있어'를 알려요 (ASPCA)",
-     "x": 0.5,
-     "y": 0.06,
-     "at": 0.9
     }
    ]
   }
  ],
  "sources": [
   {
-   "publisher": "TikTok @absolute_kaos1 (저먼 셰퍼드 메이헴)",
-   "url": "https://www.tiktok.com/@absolute_kaos1/video/7225580791261089025",
-   "date": "2023.4"
+   "publisher": "TikTok @tuvok_nutters (고양이와 다람쥐)",
+   "url": "https://www.tiktok.com/@tuvok_nutters/video/7698792136862436621",
+   "date": "2026.10"
   },
   {
-   "publisher": "Newsweek - German Shepherd Filmed 'Having a Howl-Off' With His Human Mom",
-   "url": "https://www.newsweek.com/german-shepherd-howls-owner-dog-viral-tiktok-1800538",
-   "date": "2023.5.16"
+   "publisher": "TAG24 - Viral Video of the Day for October 22, 2026: Cat and squirrel become the unlikeliest besties",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-22-2026-cat-and-squirrel-become-the-unlikeliest-besties-3536300",
+   "date": "2026.10.22"
   },
   {
-   "publisher": "ASPCA - Howling (Newsweek 인용)",
-   "url": "https://www.aspca.org/pet-care/dog-care/common-dog-behavior-issues/howling",
+   "publisher": "Your Cat - Is it play or fighting?",
+   "url": "https://www.yourcat.co.uk/cat-advice/is-it-play-or-fighting",
    "date": "2026.10 확인"
   }
  ],
  "yt": {
-  "title": "강아지 말(?) 따라하면 안되는 이유ㅋㅋ #shorts",
-  "description": "집사가 장난으로 늑대 소리를 냈을 뿐인데... 저먼 셰퍼드 메이헴이 벽에 기대 두 발로 서서 진짜 하울링으로 응수합니다. 앞발로 집사 입막음까지ㅋㅋ 소리 켜고 보세요!\n\n개에게 하울링은 여러 소리 소통 중 하나예요. 관심을 끌거나 다른 개와 연락하고, '나 여기 있어'를 알리려고 운대요(ASPCA).\n\n여러분 강아지도 따라 우나요?\n\n영상: TikTok @absolute_kaos1\n참고: Newsweek, ASPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "고양이 집에 다람쥐가 살면 일어나는 일ㅋㅋ #shorts",
+  "description": "등에 올라타고, 난간에 매달리고, 날아차기까지... 다람쥐 동생이 아무리 덤벼도 고양이 형아는 앞발로 살살 치기만 합니다ㅋㅋ\n\n고양이는 장난 싸움을 할 때 발톱을 숨기고, 하악질이나 으르렁 소리 없이 조용히 논대요(Your Cat). 진짜 싸움이면 발톱이 나오고 소리가 커진다고 해요.\n\n여러분 집 고양이도 이렇게 봐주면서 노나요?\n\n영상: TikTok @tuvok_nutters\n참고: TAG24, Your Cat\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "강아지",
-   "저먼셰퍼드",
-   "셰퍼드",
-   "하울링",
-   "웃긴강아지",
-   "강아지소리",
+   "고양이",
+   "다람쥐",
+   "치즈냥이",
+   "고양이레슬링",
+   "웃긴고양이",
+   "고양이영상",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
