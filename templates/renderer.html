@@ -108,6 +108,7 @@ function oneCover(c,s){/* 한 장 승부 표지: 사진 꽉 + 하단 어둡게 +
  const im=s.vid||s.img;if(im)fit(c,im,0,0,W,H);else if(!s.clear){c.fillStyle='#111';c.fillRect(0,0,W,H)}
  const g=c.createLinearGradient(0,H*.42,0,H);g.addColorStop(0,'rgba(0,0,0,0)');g.addColorStop(.45,'rgba(0,0,0,.72)');g.addColorStop(1,'rgba(0,0,0,.97)');c.fillStyle=g;c.fillRect(0,H*.42,W,H*.58);
  const o=s.circle;if(o){const cx=o.x<=1?o.x*W:o.x,cy=o.y<=1?o.y*H:o.y,r=o.r<=1?o.r*W:o.r;c.save();c.strokeStyle='#ff2a2a';c.lineWidth=o.w||16;c.shadowColor='rgba(255,40,40,.75)';c.shadowBlur=26;c.beginPath();c.arc(cx,cy,r,0,7);c.stroke();c.restore()}
+ if(s.inset&&s.inset.im)insetCircle(c,s.inset,null);
  const ls=String(s.t||'').split('\n'),l1=ls.length>1?ls[0]:'',rest=ls.length>1?ls.slice(1):ls,M=W-180,qs={q:false};
  let szB=84;c.font='400 '+szB+'px '+FT;while(szB>56&&rest.some(l=>c.measureText(l.replace(/['‘’]/g,'')).width>M)){szB-=2;c.font='400 '+szB+'px '+FT}
  const F1='"'+(s.f1||'PretendardM')+'",'+F;let sz1=Math.round(szB*.8);c.font='400 '+sz1+'px '+F1;while(sz1>36&&c.measureText(l1).width>M){sz1-=2;c.font='400 '+sz1+'px '+F1}
@@ -176,7 +177,7 @@ function draw(cv,i){const c=cv.getContext('2d'),s=S[i],n=S.length,base=COL[st.co
 function insetCircle(c,o,tt){/* 표지 원형 참고사진 + 짧은 코멘트(흰 테두리, 흰 바탕 검정 글씨) */
  const r=o.r||150,cx=o.x!=null?o.x:W-60-r;let cy=o.y!=null?o.y:Math.round(H*0.46);
  if(o.y==null&&tt!=null)cy=Math.min(cy,tt-r-(o.label?120:60));cy=Math.max(cy,r+130);
- c.save();c.shadowColor='rgba(0,0,0,.45)';c.shadowBlur=24;c.fillStyle='#fff';c.beginPath();c.arc(cx,cy,r+9,0,7);c.fill();c.restore();
+ const rw=o.rw||9;c.save();c.shadowColor=o.ring?'rgba(255,40,40,.6)':'rgba(0,0,0,.45)';c.shadowBlur=24;c.fillStyle=o.ring||'#fff';c.beginPath();c.arc(cx,cy,r+rw,0,7);c.fill();c.restore();
  c.save();c.beginPath();c.arc(cx,cy,r,0,7);c.clip();const im=o.im,w0=im.naturalWidth,h0=im.naturalHeight,k=Math.max(2*r/w0,2*r/h0);
  const fx=o.fx!=null?o.fx:0.5,fy=o.fy!=null?o.fy:0.4,iw=w0*k,ih=h0*k;c.drawImage(im,cx-r-(iw-2*r)*fx,cy-r-(ih-2*r)*fy,iw,ih);c.restore();
  if(o.label){c.font='700 40px '+F;c.textAlign='left';const tw=c.measureText(o.label).width,bx=cx-tw/2-18,by=cy+r+22;
