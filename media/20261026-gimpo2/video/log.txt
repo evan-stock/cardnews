@@ -1,0 +1,8 @@
+ERROR: [twitter] 2114611410982584545: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/64bitcoinkr/status/2114611410982584545
+실패: https://x.com/64bitcoinkr/status/2114611410982584545
+total 16
+drwxr-xr-x 2 runner runner 4096 Oct 26 14:43 .
+drwxr-xr-x 3 runner runner 4096 Oct 26 14:43 ..
+-rw-r--r-- 1 runner runner  220 Oct 26 14:43 log.txt
+-rw-r--r-- 1 runner runner  487 Oct 26 14:43 x1.json
