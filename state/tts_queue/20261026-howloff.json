@@ -1,0 +1,36 @@
+{
+ "id": "20261026-howloff",
+ "created": "2026-10-26T18:34:59.138982+09:00",
+ "items": [
+  {
+   "key": "8aac34c26311",
+   "text": "집사가 장난으로 늑대 소리를 따라 해 봤는데요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "ca1e60f776d6",
+   "text": "결국 웃음이 터진 건 집사였습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}

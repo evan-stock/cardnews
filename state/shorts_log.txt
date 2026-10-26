@@ -1,9 +1,1 @@
-장면 1/8 silent 누적 2.4초
-장면 2/8 typecast 누적 5.7초
-장면 3/8 silent 누적 8.7초
-장면 4/8 typecast 누적 11.6초
-장면 5/8 silent 누적 14.1초
-장면 6/8 silent 누적 15.7초
-장면 7/8 typecast 누적 19.6초
-장면 8/8 silent 누적 21.3초
-완성: /home/runner/work/cardnews/cardnews/media/20261026-donkeycat/short.mp4 (21.3초, TTS ['silent', 'typecast'])
+⏳ 2개 장면 목소리를 맥북에서 만드는 중
