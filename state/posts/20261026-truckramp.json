@@ -1,7 +1,7 @@
 {
  "id": "20261026-truckramp",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-26T21:11:59.772711+09:00",
  "publish_at": "2026-10-26T21:11:59.772726+09:00",
  "publish_now": true,
@@ -36,5 +36,8 @@
  },
  "tg_msg": 1207,
  "decided_at": "2026-10-26T21:53:50+09:00",
- "decided_via": "app"
+ "decided_via": "app",
+ "yt_id": "FZbO-1oaOzQ",
+ "permalink": "https://youtube.com/shorts/FZbO-1oaOzQ",
+ "published_at": "2026-10-26T21:54:37.974218+09:00"
 }
