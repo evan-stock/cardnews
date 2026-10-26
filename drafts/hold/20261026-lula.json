@@ -1,0 +1,32 @@
+[
+ {
+  "id": "20261026-lula",
+  "slot": "lunch",
+  "mode": "render",
+  "topic": "브라질 대선 결선(10.25): 1차에서 졌던 80세 룰라가 플라비우 보우소나루를 약 440만 표 차로 뒤집고 4선. 개표 중 역전, 마감 무렵 2시간 투표 연장 논란",
+  "category": "이슈",
+  "emotion": "놀람(80세에 역전 4선)",
+  "core": "Al Jazeera 10.26(현대사 첫 1차 패배 후 역전, 80세·4번째 임기), CBS 10.25(100% 개표 51.8%·약 440만 표, 연장은 양 캠프 요청), Bloomberg Línea 10.25(개표 타임라인·역전), CartaCapital 10.25(양측 반응, 증거 제시 없음)",
+  "risk": "정치(비팔로워 추천 제외). '부정선거' 표현 안 씀, 연장과 승패 인과 단정 안 함, 양측 입장 병기. 플라비우 승복 여부 미확인으로 명시.",
+  "slides": [
+   {
+    "t": "1차에서 졌던 80세 룰라\n결선에서 '뒤집었다'",
+    "lay": "one"
+   },
+   {
+    "t": "해외 소식 궁금한 친구에게\n'보내주세요'",
+    "b": "팔로우하면 매일 해외 화제 소식"
+   }
+  ],
+  "images": ["cover", "cover"],
+  "hashtags": ["룰라", "브라질대선", "브라질", "해외이슈", "대통령선거"],
+  "photo_credits": ["AP/Silvia Izquierdo(룰라 지지자, 10.25)"],
+  "sources": [
+   {"publisher": "Al Jazeera", "date": "2026.10.26", "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election"},
+   {"publisher": "CBS News", "date": "2026.10.25", "url": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/"},
+   {"publisher": "Bloomberg Línea", "date": "2026.10.25", "url": "https://www.bloomberglinea.com.br/brasil/ao-vivo-brasil-vota-no-2-turno-para-escolher-entre-lula-e-flavio-bolsonaro-como-presidente/"},
+   {"publisher": "CartaCapital", "date": "2026.10.25", "url": "https://www.cartacapital.com.br/politica/pt-defende-decisao-de-zanin-sobre-extensao-da-votacao-aliados-de-flavio-bolsonaro-falam-em-fraude/"}
+  ],
+  "caption": "[1차에서 졌던 80세 룰라, 결선에서 뒤집었다]\n\n브라질 대선 결선 투표가 10월 25일(현지) 치러졌습니다. 룰라 대통령이 51.8%를 얻어 플라비우 보우소나루 상원의원을 약 440만 표 차로 이겼습니다. 4일 1차 투표에서는 45% 대 47%로 뒤졌는데, 1차에서 지고 결선에서 뒤집은 후보는 브라질 현대사에서 처음입니다. 80세인 룰라는 내년 1월 네 번째 임기를 시작합니다.\n\n개표도 한 편의 드라마였습니다. 개표 중반 한때 플라비우가 앞서 나갔지만, 절반쯤 개표됐을 때 룰라가 다시 앞질러 끝까지 지켰습니다.\n\n논란도 남았습니다. 일부 도시에서 버스 운행이 줄고 남부에 폭우가 내리자 두 캠프가 모두 투표 연장을 요청했고, 대법관이 마감 무렵 투표를 2시간 늘렸습니다. 룰라 측은 유권자가 투표소에 가지 못하는 일을 막은 결정이라고 했고, 플라비우 측 인사들은 '사법 쿠데타'라며 반발했습니다. 부정의 증거는 나오지 않았고, 플라비우 본인의 승복 여부는 아직 알려지지 않았습니다.\n\n80세에 네 번째 임기, 여러분은 '대단하다'와 '너무 오래 한다' 중 어느 쪽인가요? 💬\n\n해외 소식 궁금한 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다."
+ }
+]
