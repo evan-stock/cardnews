@@ -2,7 +2,7 @@
  "id": "20261026-gimpo3",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-27T00:05:01.263224+09:00",
  "publish_at": "2026-10-27T00:00:59+09:00",
  "topic": "김포 애기봉 스타벅스 전망대에서 보이는 북한 개풍군 해안 자주포(10/25~26)",
@@ -57,5 +57,9 @@
   "media/20261026-gimpo3/03.jpg",
   "media/20261026-gimpo3/04.jpg"
  ],
- "tg_msg": 1227
+ "tg_msg": 1227,
+ "decided_at": "2026-10-27T00:08:45.706028+09:00",
+ "ig_media_id": "17932618692166132",
+ "permalink": "https://www.instagram.com/p/De9kireEoFf/",
+ "published_at": "2026-10-27T00:10:12.474727+09:00"
 }
