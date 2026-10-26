@@ -1,0 +1,8 @@
+ERROR: [twitter] 2114602699782263224: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/lucifer5670/status/2114602699782263224
+실패: https://x.com/lucifer5670/status/2114602699782263224
+total 16
+drwxr-xr-x 2 runner runner 4096 Oct 26 14:51 .
+drwxr-xr-x 3 runner runner 4096 Oct 26 14:51 ..
+-rw-r--r-- 1 runner runner  220 Oct 26 14:51 log.txt
+-rw-r--r-- 1 runner runner  769 Oct 26 14:51 x1.json
