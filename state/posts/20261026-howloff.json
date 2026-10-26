@@ -1,0 +1,55 @@
+{
+ "id": "20261026-howloff",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-26T18:41:54.122590+09:00",
+ "publish_at": "2026-10-26T18:41:54.122608+09:00",
+ "publish_now": true,
+ "topic": "호주 멜버른, 집사 클로이가 두 손을 모으고 늑대처럼 하울링하자 장모 저먼 셰퍼드 메이헴이 벽에 기대 두 발로 서서 고개를 쳐들고 더 크게 하울링, 앞발로 집사를 눌러 '내 차례'를 주장하다 결국 집사가 웃음이 터짐(TikTok @absolute_kaos1, 2023.4.24 게시, Newsweek 2023.5.16 — 200만 회+). 원본 소리(하울링·집사 하울링·웃음) 살림, 음악 트랙 없음. 사실: ASPCA — 하울링은 개의 여러 소리 소통 중 하나로, 관심을 끌고 다른 개와 연락하고 '나 여기 있다'를 알리려고 운다.",
+ "sources": [
+  {
+   "publisher": "TikTok @absolute_kaos1 (저먼 셰퍼드 메이헴)",
+   "url": "https://www.tiktok.com/@absolute_kaos1/video/7225580791261089025",
+   "date": "2023.4"
+  },
+  {
+   "publisher": "Newsweek - German Shepherd Filmed 'Having a Howl-Off' With His Human Mom",
+   "url": "https://www.newsweek.com/german-shepherd-howls-owner-dog-viral-tiktok-1800538",
+   "date": "2023.5.16"
+  },
+  {
+   "publisher": "ASPCA - Howling (Newsweek 인용)",
+   "url": "https://www.aspca.org/pet-care/dog-care/common-dog-behavior-issues/howling",
+   "date": "2026.10 확인"
+  }
+ ],
+ "seconds": 19.38,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261026-howloff/short.mp4"
+ ],
+ "app_file": "media/20261026-howloff/short_nobgm.mp4",
+ "yt": {
+  "title": "강아지 말(?) 따라하면 안되는 이유ㅋㅋ #shorts",
+  "description": "집사가 장난으로 늑대 소리를 냈을 뿐인데... 저먼 셰퍼드 메이헴이 벽에 기대 두 발로 서서 진짜 하울링으로 응수합니다. 앞발로 집사 입막음까지ㅋㅋ 소리 켜고 보세요!\n\n개에게 하울링은 여러 소리 소통 중 하나예요. 관심을 끌거나 다른 개와 연락하고, '나 여기 있어'를 알리려고 운대요(ASPCA).\n\n여러분 강아지도 따라 우나요?\n\n영상: TikTok @absolute_kaos1\n참고: Newsweek, ASPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @absolute_kaos1 (저먼 셰퍼드 메이헴) 2023.4, Newsweek - German Shepherd Filmed 'Having a Howl-Off' With His Human Mom 2023.5.16, ASPCA - Howling (Newsweek 인용) 2026.10 확인\n사진·영상: TikTok @absolute_kaos1\n음성: Typecast\n\n#shorts #강아지 #저먼셰퍼드 #셰퍼드 #하울링",
+  "tags": [
+   "강아지",
+   "저먼셰퍼드",
+   "셰퍼드",
+   "하울링",
+   "웃긴강아지",
+   "강아지소리",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "4e39aa58def8",
+ "tg_msg": 1200
+}
