@@ -1,0 +1,51 @@
+{
+ "id": "20261027-catsquirrel",
+ "created": "2026-10-27T08:32:18.026144+09:00",
+ "items": [
+  {
+   "key": "80e151d024e7",
+   "text": "이 고양이네 집엔 아주 특이한 동생이 삽니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "e8f4efab2067",
+   "text": "알고 보니 고양이가 살살 봐주는 중이었습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "다람쥐가 도망가자, 바로 시치미를 뗍니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "2d73731497ba",
+   "text": "다람쥐가 도망가자, 바로 시치미를 뗍니다.",
+   "ctx": {
+    "previous_text": "알고 보니 고양이가 살살 봐주는 중이었습니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
