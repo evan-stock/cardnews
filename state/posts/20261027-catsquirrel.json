@@ -1,7 +1,7 @@
 {
  "id": "20261027-catsquirrel",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-27T08:37:54.961000+09:00",
  "publish_at": "2026-10-27T08:37:54.961019+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "b99ce4f0e511",
- "tg_msg": 1234
+ "tg_msg": 1234,
+ "decided_at": "2026-10-27T08:41:18.432783+09:00",
+ "yt_id": "Z8I4gqdf_MQ",
+ "permalink": "https://youtube.com/shorts/Z8I4gqdf_MQ",
+ "published_at": "2026-10-27T08:41:21.203599+09:00"
 }
