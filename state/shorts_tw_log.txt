@@ -1,4 +1,4 @@
-Gemini TTS: 사용 (새로 만듦)
+Gemini TTS: 사용 (저장본)
 장면 1/8 gemini 누적 4.6초
 장면 2/8 gemini 누적 8.3초
 장면 3/8 gemini 누적 12.9초
@@ -7,4 +7,4 @@ Gemini TTS: 사용 (새로 만듦)
 장면 6/8 gemini 누적 26.1초
 장면 7/8 gemini 누적 28.9초
 장면 8/8 gemini 누적 32.4초
-완성: /home/runner/work/cardnews/cardnews/media/20261027-grandma/short.mp4 (32.4초, TTS ['gemini'])
+완성: /home/runner/work/cardnews/cardnews/media/20261027-grandma/short.mp4 (25.9초, TTS ['gemini'])
