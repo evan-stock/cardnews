@@ -5,15 +5,15 @@
   "mode": "collect",
   "topic": "인스타그램 최대 90분 가로 영상 'Features' 테스트(10/26)",
   "image_pages": [
-   "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-   "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
-   "https://www.thenationalnews.com/future/technology/2026/10/26/instagram-video-length-adam-mosseri/",
-   "https://www.androidheadlines.com/2026/10/instagram-features-tests-90-minute-long-form-videos.html",
-   "https://www.shacknews.com/article/151148/instagram-90-minute-videos",
-   "https://manofmany.com/culture/instagram-longform-90-minute-videos",
-   "https://www.online-tech-tips.com/instagram-features-longform-horizontal-video/",
-   "https://www.androidpure.com/instagram-features-long-form-video/"
+   "https://www.shacknews.com/article/151148/instagram-90-minute-videos"
   ],
-  "limit": 30
+  "limit": 30,
+  "image_urls": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Head_of_Instagram_Adam_Mosseri_META_%2852321290009%29_%28cropped%29.jpg/1920px-Head_of_Instagram_Adam_Mosseri_META_%2852321290009%29_%28cropped%29.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Head_of_Instagram_Adam_Mosseri_META_%2852321290009%29.jpg/1920px-Head_of_Instagram_Adam_Mosseri_META_%2852321290009%29.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Head_of_Instagram_Adam_Mosseri_META_%2852321174173%29.jpg/1920px-Head_of_Instagram_Adam_Mosseri_META_%2852321174173%29.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Head_of_Instagram_Adam_Mosseri_META_%2852321174293%29.jpg/1920px-Head_of_Instagram_Adam_Mosseri_META_%2852321174293%29.jpg"
+  ],
+  "referer": "https://commons.wikimedia.org/"
  }
 ]
