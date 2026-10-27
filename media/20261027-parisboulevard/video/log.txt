@@ -10,3 +10,22 @@ drwxr-xr-x 3 runner runner  4096 Oct 27 00:50 ..
 -rw-r--r-- 1 runner runner 14426 Oct 27 00:50 api7.json
 -rw-r--r-- 1 runner runner 64906 Oct 27 00:50 api8.json
 -rw-r--r-- 1 runner runner     0 Oct 27 00:50 log.txt
+total 8908
+drwxr-xr-x 2 runner runner    4096 Oct 27 01:07 .
+drwxr-xr-x 3 runner runner    4096 Oct 27 01:06 ..
+-rw-r--r-- 1 runner runner   25336 Oct 27 01:06 api1.json
+-rw-r--r-- 1 runner runner   54176 Oct 27 01:06 api2.json
+-rw-r--r-- 1 runner runner   38602 Oct 27 01:06 api3.json
+-rw-r--r-- 1 runner runner   48479 Oct 27 01:06 api4.json
+-rw-r--r-- 1 runner runner   19804 Oct 27 01:06 api5.json
+-rw-r--r-- 1 runner runner   19388 Oct 27 01:06 api6.json
+-rw-r--r-- 1 runner runner   14426 Oct 27 01:06 api7.json
+-rw-r--r-- 1 runner runner   64906 Oct 27 01:06 api8.json
+-rw-r--r-- 1 runner runner 1249521 Oct 27 01:07 img1.org&utm_campaign=imageinfo&utm_content=thumbnail
+-rw-r--r-- 1 runner runner  437291 Oct 27 01:07 img2.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+-rw-r--r-- 1 runner runner 1370131 Oct 27 01:07 img3.org&utm_campaign=imageinfo&utm_content=thumbnail
+-rw-r--r-- 1 runner runner 1510043 Oct 27 01:07 img4.org&utm_campaign=imageinfo&utm_content=thumbnail
+-rw-r--r-- 1 runner runner  663069 Oct 27 01:07 img5.org&utm_campaign=imageinfo&utm_content=thumbnail
+-rw-r--r-- 1 runner runner 3419455 Oct 27 01:07 img6.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+-rw-r--r-- 1 runner runner  151459 Oct 27 01:07 img7.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+-rw-r--r-- 1 runner runner     609 Oct 27 01:06 log.txt
