@@ -1,230 +1,206 @@
 {
- "id": "20261027-guineacat",
+ "id": "20261028-stickercat",
  "mode": "send",
  "format": "meme",
- "topic": "치즈 고양이 터커(미국 노스캐롤라이나)가 하얀 기니피그를 처음 만나 고개를 갸웃하고 킁킁대며 다가가지만 사냥 본능은 전혀 없이 멍하니 카메라를 쳐다봄(TikTok @juliaandtucker, 160만 회+, 좋아요 약 40만, Newsweek 2024.10.30). 집사 캡션 'No predator instincts whatsoever'. 원본 소리는 전 구간 사람 목소리/음악으로 보이는 연속 화음뿐이라 끔. 사실: Dogster(수의사 검수) — 고양이는 배가 고파서가 아니라 재미로 사냥하기도 한다(Newsweek 인용).",
+ "topic": "차 뒷좌석의 흑백 강아지(암컷)가 옆 차 창문의 '고양이'를 보고 쉬지 않고 짖는데, 주인이 카메라를 돌려 보니 눈이 휘둥그레진 고양이 얼굴 차량 스티커(데칼)였음(TikTok @belmelly, 2025.9.15 게시, 87.4만 회+·좋아요 17.1만, iHeartDogs 2025.10). 원본 소리(짖는 소리) 살림, 음악 트랙 없음. 사실: Paul E. Miller(위스콘신대 수의대 안과) — 개의 시력은 약 20/75, 사람이 23m(75피트)에서 보는 걸 개는 6m(20피트)까지 와야 봄.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 1.8,
+ "bgm_volume": 0.7,
  "sfx_max": 4,
  "hook": {
-  "t": "기니피그 처음 본 고양이\n'뇌정지 와버림ㅋㅋ'"
+  "t": "모르는 고양이에게 욕(?)하는 강아지\n'근데 고양이 정체가ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @juliaandtucker"
+  "TikTok @belmelly"
  ],
  "scenes": [
   {
-   "dur": 1.9,
+   "dur": 1.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 11.1,
     "x": 0.5,
-    "y": 0.3,
-    "audio": 0,
-    "blur": [
-     [
-      148,
-      605,
-      282,
-      115
-     ]
-    ]
+    "y": 0.5,
+    "start": 1.25,
+    "audio": 0.85
    },
    "caps": [
     {
      "k": "talk",
-     "t": "이... 이게 뭐냥..?",
-     "x": 0.6,
-     "y": 0.34,
-     "at": 0.1
-    },
-    {
-     "k": "sfx",
-     "t": "(킁킁)",
-     "x": 0.24,
-     "y": 0.42,
-     "at": 0.4,
-     "s": "question",
-     "sv": 0.8
-    }
-   ]
-  },
-  {
-   "say": "치즈냥 터커, 기니피그를 처음 만났습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 0.0,
-    "x": 0.5,
-    "y": 0.3,
-    "audio": 0,
-    "blur": [
-     [
-      148,
-      605,
-      282,
-      115
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "흰 털뭉치가... 움직여",
-     "x": 0.6,
-     "y": 0.22,
-     "at": 0.9
-    }
-   ]
-  },
-  {
-   "dur": 2.2,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 6.1,
-    "x": 0.5,
-    "y": 0.3,
-    "audio": 0,
-    "blur": [
-     [
-      148,
-      605,
-      282,
-      115
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(동공 확장)",
-     "x": 0.74,
-     "y": 0.08,
-     "at": 0.15,
-     "s": "dundun",
-     "sv": 0.8
-    },
-    {
-     "k": "talk",
-     "t": "나보다 더 털뭉치잖아..?",
+     "t": "야!! 너 거기 딱 기다려!!",
      "x": 0.42,
-     "y": 0.62,
-     "at": 0.7
-    }
-   ]
-  },
-  {
-   "say": "그런데 사냥 본능은 어디 가고, 고개만 갸웃.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 8.0,
-    "x": 0.5,
-    "y": 0.3,
-    "audio": 0,
-    "blur": [
-     [
-      148,
-      605,
-      282,
-      115
-     ]
-    ]
-   },
-   "caps": [
+     "y": 0.13,
+     "at": 0.05
+    },
     {
-     "k": "talk",
-     "t": "...먹는 거 아니지?",
-     "x": 0.7,
-     "y": 0.3,
-     "at": 1.0
+     "k": "sfx",
+     "t": "(왈왈!!)",
+     "x": 0.2,
+     "y": 0.42,
+     "at": 0.15
     }
    ]
   },
   {
-   "say": "고양이는 배가 불러도 재미로 사냥한다는데, 터커는 예외였습니다.",
+   "dur": 2.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 13.0,
     "x": 0.5,
-    "y": 0.3,
-    "audio": 0,
-    "blur": [
-     [
-      148,
-      605,
-      282,
-      115
-     ]
-    ]
+    "y": 0.5,
+    "start": 2.9,
+    "audio": 0.85
    },
    "caps": [
     {
      "k": "desc",
-     "t": "고양이는 배고프지 않아도\n재미로 사냥하기도 한대요 (Dogster)",
+     "t": "누구한테 이렇게 짖나 했더니...",
      "x": 0.5,
-     "y": 0.12,
+     "y": 0.1,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "say": "근데 이 고양이, 표정이 그대로입니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 4.3,
+    "audio": 0.4
+   },
+   "caps": []
+  },
+  {
+   "dur": 1.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 5.05,
+    "audio": 0,
+    "zoom": 1.15,
+    "boomerang": true
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "정체: 차 유리 스티커",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.1,
+     "s": "dundun",
+     "sv": 0.8
+    },
+    {
+     "k": "sfx",
+     "t": "(동공 지진)",
+     "x": 0.72,
+     "y": 0.3,
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "dur": 1.9,
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 6.4,
+    "audio": 0.85
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "스티커여도 기분 나빠!!",
+     "x": 0.42,
+     "y": 0.13,
+     "at": 0.1
+    },
+    {
+     "k": "sfx",
+     "t": "(왈!!)",
+     "x": 0.2,
+     "y": 0.42,
      "at": 0.4
     }
    ]
   },
   {
-   "dur": 1.5,
+   "say": "강아지 시력은 사람의 4분의 1 정도라, 진짜 고양이로 보였을지도 모릅니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 17.6,
     "x": 0.5,
-    "y": 0.3,
+    "y": 0.5,
+    "start": 3.6,
     "audio": 0,
-    "blur": [
-     [
-      148,
-      605,
-      282,
-      115
-     ]
-    ]
+    "zoom": 1.15,
+    "boomerang": true
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "개의 시력은 약 20/75\n(위스콘신대 수의대 Paul E. Miller)",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "dur": 1.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 0.3,
+    "audio": 0.85
    },
    "caps": [
     {
      "k": "talk",
-     "t": "나 방금 뭘 본 거지...",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.05
+     "t": "...그래도 내가 이긴 거지?",
+     "x": 0.45,
+     "y": 0.13,
+     "at": 0.1
     },
     {
      "k": "sfx",
-     "t": "(뇌정지)",
-     "x": 0.78,
-     "y": 0.38,
-     "at": 0.5,
-     "s": "fail",
-     "sv": 0.6
+     "t": "(뿌듯)",
+     "x": 0.25,
+     "y": 0.45,
+     "at": 0.6,
+     "s": "pop",
+     "sv": 0.8
     }
    ]
   }
  ],
  "sources": [
   {
-   "publisher": "TikTok @juliaandtucker (the time tucker met a guinea pig)",
-   "url": "https://www.tiktok.com/@juliaandtucker/video/7429831171514584350",
-   "date": "2024.10"
+   "publisher": "TikTok @belmelly",
+   "url": "https://www.tiktok.com/@belmelly/video/7550240273847176462",
+   "date": "2025.9.15"
   },
   {
-   "publisher": "Newsweek - Hysterics As Cat Meets Guinea Pig for First Time: 'Broke His Brain'",
-   "url": "https://www.newsweek.com/hysterics-cat-meets-guinea-pig-first-time-broke-his-brain-1977082",
-   "date": "2024.10.30"
+   "publisher": "iHeartDogs - Dog Barks At 'Cat' In Next Car Until Owner Discovers the Truth",
+   "url": "https://iheartdogs.com/?p=4761416",
+   "date": "2025.10"
+  },
+  {
+   "publisher": "Paul E. Miller DVM (UW-Madison) - Vision in Animals: What do Dogs and Cats See? (VIN)",
+   "url": "https://www.vin.com/doc/?id=3844144",
+   "date": "2001"
   }
  ],
  "yt": {
-  "title": "기니피그를 처음 본 고양이의 반응ㅋㅋ #shorts",
-  "description": "처음 보는 하얀 털뭉치(기니피그)를 만난 치즈냥 터커... 킁킁대며 다가가더니 결국 뇌정지ㅋㅋ\n\n고양이는 배가 고프지 않아도 재미로 사냥을 하기도 한대요(Dogster). 그런데 집사 말로는 터커는 '사냥 본능이 하나도 없다'고 하네요. 그래도 고양이와 기니피그 같은 작은 동물은 꼭 사람이 지켜볼 때만 만나게 해 주세요.\n\n여러분 고양이는 어떤 반응일까요?\n\n영상: TikTok @juliaandtucker\n참고: Newsweek, Dogster\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "모르는 고양이에게 욕(?)하던 강아지의 최후ㅋㅋ #shorts",
+  "description": "옆 차 창문에 고양이가 보이자 쉬지 않고 짖는 강아지... 그런데 그 고양이의 정체는 차 유리에 붙은 스티커였습니다ㅋㅋ\n\n개의 시력은 약 20/75 정도라고 해요. 사람이 23m 거리에서 알아보는 걸 개는 6m까지 다가가야 알아본다는 뜻이죠(위스콘신대 수의대 Paul E. Miller). 대신 움직임에는 훨씬 민감하다고 하네요.\n\n여러분 강아지도 이런 적 있나요?\n\n영상: TikTok @belmelly\n참고: iHeartDogs, VIN(Paul E. Miller DVM)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "고양이",
-   "치즈냥",
-   "기니피그",
-   "고양이반응",
-   "웃긴고양이",
+   "강아지",
+   "고양이스티커",
+   "강아지반응",
+   "웃긴강아지",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
