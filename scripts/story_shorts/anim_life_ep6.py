@@ -268,9 +268,9 @@ def s3(t, dur):  # 3만 벌고 → 관리사무소 벌금 5만 → 12만 3천
             txt(d, 540, 112, "통장 잔고", 46, WHT, stroke=5)
             txt(d, 540, 222, f"{won:,}원", 100, col, stroke=8)
             if 0.4 < t < t_m + 0.4:
-                k = back((t - 0.4) / 0.3); txt(d, 900, 70, "+3만", int(76 * min(k, 1.15)) or 1, GREEN, stroke=7, sfill=WHT)
+                k = back((t - 0.4) / 0.3); txt(d, 960, 330, "+3만", int(76 * min(k, 1.15)) or 1, GREEN, stroke=7, sfill=WHT)
             if t > t_m:
-                k = back((t - t_m) / 0.3); txt(d, 900, 70, "-5만", int(80 * min(k, 1.15)) or 1, RED, stroke=7, sfill=WHT)
+                k = back((t - t_m) / 0.3); txt(d, 960, 330, "-5만", int(80 * min(k, 1.15)) or 1, RED, stroke=7, sfill=WHT)
     return chrome(im)
 
 def apt_pic(d, x0, y0, x1, y1):
