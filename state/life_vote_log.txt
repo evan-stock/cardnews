@@ -1,1 +1,10 @@
-마감 시각이 지난 미집계 게시물이 없어요(게시 다음 날 19:00 마감). 할 일 없음.
+[중간 집계 — 저장·발송 안 함]
+🗳 중간 집계: 인생 댓글로 정함 4화
+댓글 2개 중 선택지 댓글 0개 (규칙: 좋아요 가장 많은 댓글 1개)
+
+
+👉 선택지 댓글이 없어요. 원칙대로 김댓글이 직접 고르는 편으로 가요.
+
+1등 댓글이 마음에 안 들면 채팅에서 'n번으로 바꿔'라고 하면 돼요.
+https://youtube.com/shorts/BcfrJu_I80Y
+PEEK_JSON {"id": "20261026-life4", "yt_id": "BcfrJu_I80Y", "counted_at": "2026-10-27T19:39:25.810584+09:00", "rule": "top_liked_comment", "total_comments": 2, "valid_votes": 0, "count_by_option": {"1": 0, "2": 0, "3": 0}, "support": {"1": 0, "2": 0, "3": 0}, "tie": false, "top": [], "skipped": [], "winner": null}
