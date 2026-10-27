@@ -2,7 +2,7 @@
  "id": "20261027-milexempt",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-10-27T20:03:43.851225+09:00",
  "publish_at": "2026-10-27T21:00:00+09:00",
  "topic": "국방부, 예체능 병역특례 감축하고 '30대 후반 현역 복무' 추진(조선일보 단독 10/27)",
@@ -82,5 +82,7 @@
   "media/20261027-milexempt/06.jpg",
   "media/20261027-milexempt/07.jpg"
  ],
- "tg_msg": 1283
+ "tg_msg": 1283,
+ "decided_at": "2026-10-27T21:27:01+09:00",
+ "decided_via": "app"
 }
