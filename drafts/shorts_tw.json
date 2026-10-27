@@ -1,104 +1,124 @@
 {
- "id": "20261018-sprite2",
+ "id": "20261027-parisboulevard",
  "mode": "render",
- "topic": "[실험] 붉은 번개(스프라이트) 103년 이야기 — 잘난지식 이야기형 쇼츠",
+ "topic": "[실험] 오쓸 TTS 릴스 1편: 파리 거리가 유난히 넓은 진짜 이유(유럽 시위 시리즈 잇기) — letterbox 양식 + Gemini 목소리",
  "hook": {
-  "t": "증거 없던 '붉은 번개'\n찍히기까지 '103년'"
+  "t": "파리 거리가 유난히 넓은\n'진짜 이유'"
  },
  "style": {
-  "mascot": null,
-  "sub_size": 84,
-  "title_size": 84,
+  "layout": "letterbox",
+  "band": 400,
+  "video_h": 900,
+  "title_size": 92,
+  "title_base": [
+   255,
+   255,
+   255
+  ],
+  "sub_size": 78,
+  "sub_y": 0.735,
   "chunk": 12,
-  "gap": 0.04
+  "gap": 0.06,
+  "font_title": "assets/fonts/Pretendard-Black.otf",
+  "font_sub": "assets/fonts/Pretendard-Black.otf",
+  "logo": "brand/logo_typo_A.png",
+  "logo_w": 330,
+  "logo_bottom": 90,
+  "mascot": null,
+  "zoom": 0.08
  },
- "credit": "영상: @florian.riou · 사진: NASA",
+ "voice": {
+  "engine": "gemini",
+  "gemini": {
+   "voice": "Sadaltager",
+   "style": "인스타 릴스 해외 이슈 해설. 흥미를 끄는 30대 남성 해설자 말투, 차분하고 또박또박, 과장하지 않기",
+   "tempo": 1.2
+  }
+ },
+ "credit": "영상: X @WithyGrove · @realMaalouf | 사진: 위키미디어 공용 | 일부 재현 그래픽",
  "photo_credits": [
-  "@florian.riou (Storyful)",
-  "NASA"
+  "X @WithyGrove",
+  "X @realMaalouf",
+  "Charles Marville",
+  "Charles François Thibault",
+  "Gustave Le Gray",
+  "Charles Reutlinger",
+  "Nadar"
  ],
  "scenes": [
   {
-   "say": "구름 위에서 터지는 이 '붉은 번개', 사진으로 증명되기까지 103년이 걸렸습니다.",
+   "say": "요즘 시위로 들끓는 파리, 이 도시의 넓은 길에는 '폭동'의 역사가 숨어 있습니다.",
    "video": {
-    "src": "video/flash.mp4",
-    "start": 0,
-    "x": 0.5,
-    "y": 0.45
-   }
-  },
-  {
-   "say": "첫 목격 기록은 1886년. 하지만 증거는 없었습니다.",
-   "video": {
-    "src": "video/a1886.mp4",
+    "src": "../20261025-europeall/video/fr.mp4",
     "start": 0,
     "x": 0.5,
     "y": 0.5
    }
   },
   {
-   "say": "비행기보다 다섯 배 넘게 높은 50에서 90킬로미터 상공에서, 눈 깜짝할 새 사라지니까요.",
+   "say": "170년 전 파리는 좁고 구불구불한 '골목'으로 가득했습니다.",
+   "img": "cand/alley.jpg",
+   "zoom": 0.08
+  },
+  {
+   "say": "1830년과 1848년, 시민들은 이 골목을 '바리케이드'로 막고 정부를 무너뜨렸습니다.",
+   "img": "cand/barricade1848.jpg",
+   "zoom": 0.08
+  },
+  {
+   "say": "그 뒤 나폴레옹 3세는 오스만 남작에게 파리를 대대적으로 뜯어고치게 했습니다.",
+   "img": "cand/napoleon_haussmann.jpg",
+   "zoom": 0.04
+  },
+  {
+   "say": "골목을 허문 자리에는 넓고 곧은 '대로'가 뚫렸습니다.",
+   "img": "cand/opera.jpg",
+   "zoom": 0.08
+  },
+  {
+   "say": "바리케이드는 치기 어렵게, 군대는 빨리 움직이게 하려는 목적도 있었습니다.",
    "video": {
-    "src": "video/aalt.mp4",
-    "start": 0,
+    "src": "video/boulevard_anim.mp4",
+    "start": 2.2,
     "x": 0.5,
     "y": 0.5
    }
   },
   {
-   "say": "1925년엔 훗날 노벨상을 받는 물리학자가 이론으로 예측까지 했지만, 아무도 찍지 못했습니다.",
+   "say": "물론 그게 전부는 아닙니다. 하수도와 가스등, 공원도 이때 함께 생겼습니다.",
+   "img": "cand/sewer.jpg",
+   "zoom": 0.08
+  },
+  {
+   "say": "그런데 그 넓은 길은 지금, 시위대가 모이는 '무대'가 됐습니다.",
    "video": {
-    "src": "video/a1925.mp4",
-    "start": 0,
+    "src": "../20261025-tourriot/video/v1.mp4",
+    "start": 2,
+    "x": 0.5,
+    "y": 0.6
+   }
+  },
+  {
+   "say": "전 세계에서 터진 건, 오늘의쓸모가 제일 먼저 가져옵니다. 팔로우하고 놓치지 마세요.",
+   "video": {
+    "src": "../20261025-europeall/video/fr.mp4",
+    "start": 4,
     "x": 0.5,
     "y": 0.5
-   }
-  },
-  {
-   "say": "그러다 1989년, 미국 미네소타대 연구진이 카메라를 시험하다 '우연히' 찍어버립니다.",
-   "video": {
-    "src": "video/a1989.mp4",
-    "start": 0,
-    "x": 0.5,
-    "y": 0.5
-   }
-  },
-  {
-   "say": "그 뒤 비행기와 우주정거장에서도 잇따라 찍히면서, 진짜 자연현상으로 인정받았습니다.",
-   "img": "cand/iss.jpg",
-   "zoom": 0.1
-  },
-  {
-   "say": "지금은 사진작가들이 수백 킬로미터 떨어진 폭풍을 노려, 이런 장면까지 담아냅니다.",
-   "video": {
-    "src": "video/finalpan.mp4",
-    "start": 0,
-    "x": 0.5,
-    "y": 0.45
-   }
-  },
-  {
-   "say": "이런 뜻밖의 발견, 매일 올립니다. 팔로우하고 놓치지 마세요.",
-   "img": "cand/final.jpg",
-   "zoom": 0.05,
+   },
    "end": true
   }
  ],
  "sources": [
   {
-   "publisher": "Wikipedia 'Sprite (lightning)'",
-   "url": "https://en.wikipedia.org/wiki/Sprite_(lightning)"
+   "publisher": "Smarthistory",
+   "url": "https://smarthistory.org/?p=1430",
+   "date": ""
   },
   {
-   "publisher": "Fox Weather",
-   "date": "2026.10.16"
-  },
-  {
-   "publisher": "NASA"
+   "publisher": "Smarthistory",
+   "url": "https://smarthistory.org/haussmann-the-demolisher-and-the-creation-of-modern-paris",
+   "date": ""
   }
- ],
- "speed": 1.25,
- "bgm": "assets/bgm/mystery_investigations.mp3",
- "bgm_volume": 0.16,
- "bgm_credit": "\"Investigations\" Kevin MacLeod (incompetech.com) / CC BY 4.0"
+ ]
 }
