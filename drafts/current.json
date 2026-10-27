@@ -1,19 +1,16 @@
 [
  {
-  "id": "20261027-ukstockpile",
+  "id": "20261027-ukwar1000",
   "slot": "evening",
   "mode": "collect",
   "limit": 30,
   "image_pages": [
-   "https://www.radiox.co.uk/news/uk-world/government-launches-new-push-to-prepare-uk-fo/",
-   "https://www.radiox.co.uk/news/uk-world/what-is-in-the-be-ready-checklist-as-britons/",
-   "https://ukdefencejournal.org.uk/households-asked-to-prepare-for-three-days-of-disruption/",
-   "https://www.wionews.com/world/uk-be-ready-campaign-three-days-emergency-supplies-1792846396936",
-   "https://www.yorkshirepost.co.uk/news/government-three-day-emergency-kit-checklist-what-you-need-9305513",
-   "https://arynews.tv/uk-tells-public-to-keep-three-days-emergency-supplies-at-home",
-   "https://news.liga.net/en/world/news/britain-is-preparing-for-an-emergency-in-case-there-is-no-electricity-or-water",
-   "https://novaramedia.com/?p=69210",
-   "https://www.ajbell.co.uk/news/articles/uk-pm-defends-stockpiling-advice-unexpected-events-more-common"
+   "https://www.lbc.co.uk/article/defence-prepping-army-war-wes-streeting-5HjdkPy_2/",
+   "https://www.ladbible.com/news/uk-news/defence-secretary-uk-prepare-war-1000-days-966692-20261025",
+   "https://www.huffingtonpost.co.uk/entry/west-streeting-ready-for-war_uk_6addc181e4b04f5132f46176",
+   "https://en.iz.ru/en/2190328/2026-10-25/head-british-ministry-defense-called-1000-days-prepare-war",
+   "https://londonlovesbusiness.com/defence-secretary-tells-brits-to-prepare-for-war-and-buy-water-and-food/",
+   "https://www.adsadvance.co.uk/uk-defence-industry-1000-days-prepare-war/"
   ],
   "slides": [
    {
