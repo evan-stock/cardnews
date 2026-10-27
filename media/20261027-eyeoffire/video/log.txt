@@ -1,0 +1,12 @@
+ERROR: [twitter] 1411033716592300032: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/acarrizales_/status/1411033716592300032
+실패: https://x.com/acarrizales_/status/1411033716592300032
+total 1764
+drwxr-xr-x 2 runner runner   4096 Oct 27 11:26 .
+drwxr-xr-x 3 runner runner   4096 Oct 27 11:26 ..
+-rw-r--r-- 1 runner runner    229 Oct 27 11:26 log.txt
+-rw-r--r-- 1 runner runner 869945 Oct 27 11:26 v1.mp4
+-rw-r--r-- 1 runner runner 909187 Oct 27 11:26 v2.mp4
+-rw-r--r-- 1 runner runner    785 Oct 27 11:26 x1.json
+-rw-r--r-- 1 runner runner    748 Oct 27 11:26 x2.json
+-rw-r--r-- 1 runner runner    706 Oct 27 11:26 x3.json
