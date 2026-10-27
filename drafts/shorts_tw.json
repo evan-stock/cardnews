@@ -1,9 +1,10 @@
 {
- "id": "20261027-grandma",
+ "id": "20261027-giletsjaunes",
  "mode": "render",
- "topic": "[TTS 릴스 2편] 93세 할머니가 보이스피싱범을 역으로 잡았다(시가현 아이쇼, 10.22 체포) — 수정 양식(제목·로고 위치)",
+ "speed": 1.25,
+ "topic": "[TTS 릴스 3편] 프랑스 시위대가 다 노란 조끼 입는 이유(2008 형광 조끼 의무·2018 유류세)",
  "hook": {
-  "t": "93세 할머니가 보이스피싱범을\n'역으로' 잡았다"
+  "t": "프랑스 시위대가 다\n'노란 조끼' 입는 이유"
  },
  "style": {
   "layout": "letterbox",
@@ -28,79 +29,81 @@
   "logo_w": 250,
   "logo_y": 1455,
   "mascot": null,
-  "zoom": 0.0
+  "zoom": 0.06
  },
  "voice": {
   "engine": "gemini",
   "gemini": {
    "voice": "Sadaltager",
-   "style": "인스타 릴스 해외 화제 해설. 흥미를 끄는 30대 남성 해설자 말투, 통쾌한 이야기라 살짝 밝게, 또박또박, 과장하지 않기",
+   "style": "인스타 릴스 해외 이슈 해설. 흥미를 끄는 30대 남성 해설자 말투, 차분하고 또박또박, 과장하지 않기",
    "tempo": 1.2
   }
  },
- "credit": "출처 SoraNews24 · 교토신문  |  전 장면 재현 그래픽",
+ "credit": "영상 Marie Gendron(위키미디어) · X @WithyGrove  |  일부 재현 그래픽",
  "photo_credits": [
-  "재현 그래픽(오늘의쓸모 제작)"
+  "Marie Gendron (CC BY 3.0)",
+  "X @WithyGrove",
+  "Chabe01 (CC BY-SA 4.0)"
  ],
  "scenes": [
   {
-   "say": "93세 할머니가 사기범을 집으로 불렀습니다. '경찰'이 기다리는 집으로요.",
+   "say": "프랑스 시위 영상마다 나오는 이 '노란 조끼', 왜 다들 똑같이 입고 나올까요?",
    "video": {
-    "src": "video/g1.mp4",
+    "src": "video/b1.mp4",
     "start": 0,
     "x": 0.5,
     "y": 0.5
    }
   },
   {
-   "say": "일본 시가현에 사는 할머니에게, 경찰이라며 전화가 걸려 왔습니다.",
+   "say": "답은 프랑스 '자동차' 안에 있습니다.",
    "video": {
-    "src": "video/g2.mp4",
+    "src": "video/gilet_anim.mp4",
     "start": 0,
     "x": 0.5,
     "y": 0.5
    }
   },
   {
-   "say": "통장에서 돈이 몰래 빠져나갔다며, 수사관이 현금카드를 가지러 가겠다고 했죠.",
+   "say": "2008년부터 프랑스 운전자는 차 안에 형광 조끼를 꼭 둬야 합니다. 없으면 벌금 135유로예요.",
    "video": {
-    "src": "video/g3.mp4",
-    "start": 0,
+    "src": "video/gilet_anim.mp4",
+    "start": 1.6,
     "x": 0.5,
     "y": 0.5
    }
   },
   {
-   "say": "할머니는 바로 사기인 걸 알아챘고, '진짜' 경찰에 신고했습니다.",
+   "say": "2018년, 정부가 경유 세금을 더 올리겠다고 하자, 차 없이는 출근도 못 하는 운전자들이 폭발했습니다.",
    "video": {
-    "src": "video/g4.mp4",
-    "start": 0,
+    "src": "video/b1.mp4",
+    "start": 9,
     "x": 0.5,
     "y": 0.5
    }
   },
   {
-   "say": "속은 척 기다리자, 10월 22일 47세 남성이 집에 나타났습니다. 할머니 나이의 '절반'이었죠.",
+   "say": "그들은 차에 있던 바로 그 조끼를 꺼내 입고 거리로 나왔습니다. 첫날에만 약 30만 명이었죠.",
    "video": {
-    "src": "video/g5.mp4",
-    "start": 0,
+    "src": "video/b2.mp4",
+    "start": 60,
     "x": 0.5,
     "y": 0.5
    }
   },
   {
-   "say": "기다리던 경찰이 그 자리에서 사기 미수 혐의로 '체포'했습니다.",
+   "say": "누구나 갖고 있고, 멀리서도 잘 보이고, '도와 달라'는 신호. 그렇게 노란 조끼는 '분노'의 상징이 됐습니다.",
    "video": {
-    "src": "video/g6.mp4",
-    "start": 0,
+    "src": "video/b2.mp4",
+    "start": 10,
     "x": 0.5,
     "y": 0.5
    }
   },
   {
-   "say": "경찰은 일당이 더 있다고 보고 수사하고 있습니다.",
+   "say": "그리고 이번 10월 물가 시위도, 바로 이 노란 조끼 운동이 불렀습니다.",
    "video": {
-    "src": "video/g7.mp4",
+    "src": "../20261025-europeall/video/fr.mp4",
     "start": 0,
     "x": 0.5,
     "y": 0.5
@@ -108,21 +111,26 @@
   },
   {
    "say": "지금 터진 세계 소식, 오늘의쓸모에서 제일 먼저 보세요.",
-   "video": {
-    "src": "video/g6.mp4",
-    "start": 2.6,
-    "x": 0.5,
-    "y": 0.5
-   },
+   "img": "cand/champs.jpg",
+   "zoom": 0.06,
    "end": true
   }
  ],
  "sources": [
   {
-   "publisher": "SoraNews24",
-   "url": "https://soranews24.com/2026/10/25/93-year-old-japanese-grannie-helps-set-trap-for-scam-artist-half-her-age/",
-   "date": "2026.10.25"
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+   "date": ""
+  },
+  {
+   "publisher": "French Property",
+   "url": "https://www.french-property.com/newsletter/2008/12/16/hi-vis-jacket-france",
+   "date": "2008.12.16"
+  },
+  {
+   "publisher": "Kuwait Times(AFP)",
+   "url": "https://kuwaittimes.com/article/51769/world/looting-fires-and-clashes-as-france-protests-over-soaring-prices/",
+   "date": "2026.10.17"
   }
- ],
- "speed": 1.25
+ ]
 }
