@@ -18,6 +18,7 @@ jobs:
       TZ: Asia/Seoul
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}  # 2026.10.27 오쓸 TTS 릴스 = Gemini 목소리
     steps:
       - uses: actions/checkout@v4
         with: {fetch-depth: 0}

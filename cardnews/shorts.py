@@ -49,8 +49,17 @@ def scfg():
                "mascot": None}, **CFG.get("shorts", {})}
 
 
+def banded(sc):
+    """band(위 검정 띠 + 아래 영상 꽉) 또는 letterbox(위 제목 띠 + 가운데 영상 + 아래 검정 자막·로고 칸)."""
+    return sc.get("layout") in ("band", "letterbox")
+
+
 def area(sc):
-    """영상이 들어가는 영역 (위쪽 y, 높이). band 레이아웃이면 검정 띠 아래, 아니면 전체 화면."""
+    """영상이 들어가는 영역 (위쪽 y, 높이). band 레이아웃이면 검정 띠 아래, 아니면 전체 화면.
+    letterbox(2026.10.27 오쓸 TTS 릴스, 사용자 결정): 위 제목 띠 + 가운데 영상(video_h) + 아래 검정 칸(자막·로고)."""
+    if sc.get("layout") == "letterbox":
+        b = int(sc["band"]) // 2 * 2
+        return b, int(sc.get("video_h", 920)) // 2 * 2
     if sc.get("layout") == "band":
         b = int(sc["band"]) // 2 * 2
         return b, H - b
@@ -133,7 +142,17 @@ def band_png(hook, out, sc, credit=""):
         tw = d.textlength(tag, font=f)
         d.rounded_rectangle((36, top + 28, 36 + tw + 44, top + 96), 14, fill=RED)
         d.text((58, top + 62), tag, font=f, fill=WHITE, anchor="lm")
-    if credit:
+    if sc.get("layout") == "letterbox":  # 영상 아래 검정 칸: 오른쪽 작은 출처 + 하단 가운데 로고
+        _, ah = area(sc)
+        if credit:
+            d.text((W - 30, top + ah + 14), credit, font=font(26, True), fill=(170, 170, 170), anchor="ra")
+        lg = sc.get("logo")
+        if lg and os.path.exists(ROOT / lg):
+            li = Image.open(ROOT / lg).convert("RGBA")
+            lw = int(sc.get("logo_w", 330))
+            li = li.resize((lw, int(li.height * lw / li.width)), Image.LANCZOS)
+            im.alpha_composite(li, ((W - li.width) // 2, H - int(sc.get("logo_bottom", 90)) - li.height))
+    elif credit:
         d.text((40, H - 70), credit, font=font(30, True), fill=(235, 235, 235), stroke_width=3, stroke_fill=(0, 0, 0))
     m = sc.get("mascot")
     if m and os.path.exists(ROOT / m):
@@ -283,7 +302,7 @@ def fit_cover(img, w, h, cx=0.5, cy=0.5):
 def still(path, out, cx=0.5, cy=0.5, sc=None):
     """사진을 영상 영역에 맞춘다. band 레이아웃: 띠 아래(1080x1490)를 꽉 채운다(가로 사진도 크롭)."""
     img = Image.open(path).convert("RGB")
-    if sc and sc.get("layout") == "band":
+    if sc and banded(sc):
         _, ah = area(sc)
         fit_cover(img, W, ah, cx, cy).save(out, quality=94)
         return
@@ -388,8 +407,8 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
         fit = v.get("fit", "auto")
         top, ah = area(sc)
         if fit == "auto":  # 가로 영상은 잘리지 않게 가운데 띠로, 세로 영상은 꽉 채움
-            fit = "fit" if vw / vh > (1.1 if sc.get("layout") != "band" else 9.9) else "fill"  # band: 기본 꽉 채움(x로 크롭 위치)
-        if sc.get("layout") == "band":
+            fit = "fit" if vw / vh > (1.1 if not banded(sc) else 9.9) else "fill"  # band: 기본 꽉 채움(x로 크롭 위치)
+        if banded(sc):
             if fit == "fit":  # 아주 넓은 영상: 영역 안 가운데 띠 + 흐린 배경
                 fh = min(int(vh * W / vw) // 2 * 2, ah)
                 vf = (f"[0:v]split[a0][b0];[a0]scale=-2:{ah},crop=1080:{ah},boxblur=30:2,eq=brightness=-0.18[bb];"
@@ -422,7 +441,7 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
         if scene.get("img"):
             still(str(base / scene["img"]), st, scene.get("x", 0.5), scene.get("y", 0.5), sc)
         else:
-            blank(st, area(sc)[1] if sc.get("layout") == "band" else H)
+            blank(st, area(sc)[1] if banded(sc) else H)
         z = float(scene.get("zoom", sc["zoom"]))
         cmd += ["-loop", "1", "-framerate", str(FPS), "-t", str(dur), "-i", st]
         top, ah = area(sc)
@@ -557,7 +576,7 @@ def render(d):
     title = None
     if d.get("hook"):
         title = f"{tmp}/title.png"
-        if sc.get("layout") == "band":
+        if banded(sc):
             credit = d.get("credit") or ("영상: " + ", ".join(list(dict.fromkeys(d.get("photo_credits", [])))[:2])
                                          if d.get("photo_credits") else "")
             band_png(d["hook"], title, sc, credit)
