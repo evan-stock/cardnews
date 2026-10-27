@@ -2,7 +2,7 @@
  "id": "20261027-igfeatures",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-27T14:46:55.497260+09:00",
  "publish_at": "2026-10-27T15:00:00+09:00",
  "topic": "인스타그램 최대 90분 가로 영상 'Features' 테스트(10/26 발표)",
@@ -72,5 +72,8 @@
   "media/20261027-igfeatures/07.jpg"
  ],
  "tg_msg": 1255,
- "decided_at": "2026-10-27T14:46:58.251176+09:00"
+ "decided_at": "2026-10-27T14:46:58.251176+09:00",
+ "ig_media_id": "18104851700630648",
+ "permalink": "https://www.instagram.com/p/De_Kj5ulf-A/",
+ "published_at": "2026-10-27T15:01:43.941077+09:00"
 }
