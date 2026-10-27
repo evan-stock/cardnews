@@ -1,0 +1,16 @@
+ERROR: [twitter] 2114321116533547081: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+기사 페이지에서도 영상 못 받음: https://www.reuters.com/world/africa/borr-drilling-rig-sinks-offshore-gabon-five-personnel-missing-2026-10-25/?taid=6addea9ad8cb980001b81257&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter 980001b81257&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter: Unable to download webpage: HTTP Error 401: HTTP Forbidden (caused by <HTTPError 401: HTTP Forbidden>)
+
+영상 없는 글(기사링크): https://x.com/ReutersAfrica/status/2114321116533547081
+실패: https://x.com/ReutersAfrica/status/2114321116533547081
+total 31100
+drwxr-xr-x 2 runner runner     4096 Oct 27 15:27 .
+drwxr-xr-x 3 runner runner     4096 Oct 27 15:27 ..
+-rw-r--r-- 1 runner runner      859 Oct 27 15:27 log.txt
+-rw-r--r-- 1 runner runner  5761064 Oct 27 15:27 v1.mp4
+-rw-r--r-- 1 runner runner  5761064 Oct 27 15:27 v2.mp4
+-rw-r--r-- 1 runner runner 20288130 Oct 27 15:27 v3.mp4
+-rw-r--r-- 1 runner runner     1033 Oct 27 15:27 x1.json
+-rw-r--r-- 1 runner runner     1119 Oct 27 15:27 x2.json
+-rw-r--r-- 1 runner runner     1217 Oct 27 15:27 x3.json
+-rw-r--r-- 1 runner runner     1085 Oct 27 15:27 x4.json
