@@ -104,7 +104,7 @@ def patterns(opt):
     n = int(opt["n"])
     words = [opt["name"], *opt.get("kw", [])]
     pats = [re.escape(w) for w in words if w]
-    pats += [rf"(?<![0-9]){n}\s*번", rf"^\s*{n}\s*[.!)]*\s*$", *[re.escape(c) for c in NUM.get(n, [])]]
+    pats += [rf"(?<![0-9]){n}\s*번", rf"^\s*[{n}{chr(0xFF10 + n)}](?![0-9.,등위살])", *[re.escape(c) for c in NUM.get(n, [])]]  # 맨 앞 숫자: "2", "2 가자", "2요", "２" (2026.10.27 "2 …" 댓글 누락 수정)
     return re.compile("|".join(pats), re.IGNORECASE | re.MULTILINE)
 
 
