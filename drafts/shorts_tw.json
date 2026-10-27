@@ -4,7 +4,7 @@
  "speed": 1.25,
  "topic": "[TTS 릴스 3편] 프랑스 시위대가 다 노란 조끼 입는 이유(2008 형광 조끼 의무·2018 유류세)",
  "hook": {
-  "t": "프랑스 시위대가 다\n'노란 조끼' 입는 이유"
+  "t": "프랑스 시위 하면\n왜 '노란 조끼'일까"
  },
  "style": {
   "layout": "letterbox",
@@ -47,7 +47,7 @@
  ],
  "scenes": [
   {
-   "say": "프랑스 시위 영상마다 나오는 이 '노란 조끼', 왜 다들 똑같이 입고 나올까요?",
+   "say": "프랑스 시위 하면 떠오르는 이 '노란 조끼', 왜 하필 이걸 입고 나왔을까요?",
    "video": {
     "src": "video/b1.mp4",
     "start": 0,
@@ -101,7 +101,7 @@
    }
   },
   {
-   "say": "그리고 이번 10월 물가 시위도, 바로 이 노란 조끼 운동이 불렀습니다.",
+   "say": "이번 10월 물가 시위에도 노란 조끼 운동이 다시 합류했습니다. 다만 이번 주인공은 학생들이라, 조끼는 예전만큼 많지 않죠.",
    "video": {
     "src": "../20261025-europeall/video/fr.mp4",
     "start": 0,
@@ -131,6 +131,16 @@
    "publisher": "Kuwait Times(AFP)",
    "url": "https://kuwaittimes.com/article/51769/world/looting-fires-and-clashes-as-france-protests-over-soaring-prices/",
    "date": "2026.10.17"
+  },
+  {
+   "publisher": "Lyon Mag",
+   "url": "https://www.lyonmag.com/article/154371/le-retour-des-gilets-jaunes-ce-samedi-a-lyon-de-premieres-actions-menees-ce-matin",
+   "date": "2026.10.17"
+  },
+  {
+   "publisher": "Sortiraparis",
+   "url": "https://www.sortiraparis.com/en/news/in-paris/articles/353907-strike-on-october-17-2026-yellow-vests-protests-by-students-transport-disruptions-what-s-planned",
+   "date": "2026.10"
   }
  ]
 }
