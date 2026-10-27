@@ -1,72 +1,19 @@
 [
  {
-  "id": "20261026-gimpo3",
+  "id": "20261027-igfeatures",
   "slot": "evening",
-  "mode": "send",
-  "topic": "김포 애기봉 스타벅스 전망대에서 보이는 북한 개풍군 해안 자주포(10/25~26)",
-  "category": "국내 이슈 · 실제 사진·영상 캐러셀",
-  "core": "25~26일 김포 애기봉 전망대에서 황해도 개풍군 해안가 접경지역에 122mm 자주포로 추정되는 북한군 자주포가 남쪽을 향해 배치된 모습이 언론 카메라에 포착(연합·뉴스1·SBS). 김여정 19일 담화 '전술적 타격 수단들의 증강 배치' 언급. 포병은 보통 은폐하는데 망원 카메라에 잡힐 만큼 노출한 것은 이례적, 전문가들은 무력시위로 평가. 애기봉~북한 해안 직선 약 1.95km(지도 측정). 애기봉생태공원 안 스타벅스(김포애기봉생태공원점)는 민통선 안이라 신분 확인 후 출입, 전망대 망원경으로 북한 조망.",
-  "risk": "X 원글 '지금 김포 뷰'는 정확히는 애기봉 전망대 망원 촬영이라 그렇게 표기. 1.95km는 애기봉~맞은편 해안 직선거리(사용자 지도 측정)이고 자주포 위치까지의 거리가 아님 → 지도 라벨만 '애기봉↔북한 해안'. 영상 원촬영자 미상, X @xjs3054 게시본. 정당·정치인 언급 없음. 빨간 머리 동그라미(circle)는 규칙상 미사용, 지도 원형 inset만. 사진은 X @lucifer5670 게시물(원촬영자 미상). X 글의 '스벅을 정조준' 표현은 확인 불가라 쓰지 않고 '스벅 전망대에서 보인다'로만. 표지 사진=X 사진, 2장 영상=X @xjs3054.",
-  "slides": [
-   {
-    "lay": "one",
-    "t": "김포 애기봉 스타벅스 근황\n강 건너 '자주포 뷰'"
-   },
-   {
-    "raw": true,
-    "video": {
-     "src": "video/v1.mp4",
-     "start": 0,
-     "dur": 23.3,
-     "x": 0.6,
-     "y": 0.5
-    }
-   },
-   {
-    "sub": "스타벅스 김포애기봉생태공원점",
-    "t": "망원경 너머가 '북한'",
-    "b": "민간인 통제구역 안이라 신분 확인을 거쳐야 들어가는 매장입니다. 전망대 망원경으로 강 건너 북한 개풍군이 보입니다."
-   },
-   {
-    "raw": true
-   }
+  "mode": "collect",
+  "topic": "인스타그램 최대 90분 가로 영상 'Features' 테스트(10/26)",
+  "image_pages": [
+   "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+   "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
+   "https://www.thenationalnews.com/future/technology/2026/10/26/instagram-video-length-adam-mosseri/",
+   "https://www.androidheadlines.com/2026/10/instagram-features-tests-90-minute-long-form-videos.html",
+   "https://www.shacknews.com/article/151148/instagram-90-minute-videos",
+   "https://manofmany.com/culture/instagram-longform-90-minute-videos",
+   "https://www.online-tech-tips.com/instagram-features-longform-horizontal-video/",
+   "https://www.androidpure.com/instagram-features-long-form-video/"
   ],
-  "images": [
-   "cover",
-   "cover",
-   "sbux",
-   "map"
-  ],
-  "caption": "🚨 김포 애기봉 스타벅스 근황… 강 건너 '자주포 뷰'가 됐습니다\n\n경기 김포시 애기봉생태공원 안 스타벅스는 민간인 통제구역 안에 있어 신분 확인을 거쳐야 들어갈 수 있고, 전망대 망원경으로 강 건너 북한 땅을 볼 수 있는 곳입니다. 그런데 25일과 26일, 이곳 애기봉에서 북한 황해도 개풍군 해안가에 122mm 자주포로 추정되는 북한군 자주포가 남쪽을 향해 배치된 모습이 포착됐습니다. 애기봉에서 맞은편 북한 해안까지는 직선으로 약 2km입니다.\n\n포병은 보통 적의 감시를 피해 숨겨 두는데, 우리 언론 망원 카메라에 잡힐 만큼 드러낸 건 이례적이라 전문가들은 일종의 무력시위로 보고 있습니다. 앞서 김여정은 19일 담화에서 '전술적 타격 수단들의 증강 배치'를 언급했고, 확성기 심리전 재개를 둘러싸고 남북 긴장이 높아진 상태입니다.\n\n커피 마시러 갔다가 이 장면 보면 어떤 기분일까요? 💬\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
-  "sources": [
-   {
-    "publisher": "연합뉴스",
-    "date": "2026.10.26",
-    "url": "https://m.news.nate.com/view/20261026n21524"
-   },
-   {
-    "publisher": "SBS",
-    "date": "2026.10.26",
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814071"
-   },
-   {
-    "publisher": "주간경향",
-    "date": "2026.10.25",
-    "url": "https://weekly.khan.co.kr/article/202610252239001/"
-   }
-  ],
-  "photo_credits": [
-   "X @lucifer5670",
-   "영상 X @xjs3054",
-   "지도 캡처"
-  ],
-  "hashtags": [
-   "김포",
-   "애기봉",
-   "스타벅스",
-   "북한군",
-   "자주포"
-  ],
-  "publish_at": "2026-10-27T00:00:59+09:00"
+  "limit": 30
  }
 ]
