@@ -1,214 +1,219 @@
 {
- "id": "20261027-catsquirrel",
+ "id": "20261027-puppykitten",
  "mode": "send",
  "format": "meme",
- "topic": "집 2층 계단 앞에서 치즈 태비 고양이와 회색 다람쥐가 서로 쫓고 올라타며 레슬링. 다람쥐가 고양이 등에 올라타고 난간에 매달리고, 고양이는 앞발로 살살 치기만 함(TikTok @tuvok_nutters, TAG24 Viral Video of the Day 2026.10.22). 원본 소리(실내 현장음, 짧은 집사 목소리) 살림, 음악 트랙 없음. 사실: Your Cat 매거진 — 고양이 장난 싸움은 발톱을 숨기고 대개 소리 없이 하며 하악질·으르렁이 없다.",
+ "topic": "검은 강아지가 처음 본 검은 아기 고양이에게 첫눈에 반해 주인 품에서 낑낑대며 몸부림치고 달려들려 하는데, 아기 고양이는 침대 위에 얌전히 앉아 무표정으로 강아지와 카메라를 빤히 쳐다봄(TikTok @finn.and.luno 2025.10.5 게시, Newsweek 2025.10.21). 원본 소리(강아지 낑낑 소리) 살림, 음악 트랙 없음. 사실: 퓨리나 — 개와 고양이는 둘 다 어릴 때 만나야 잘 지낼 가능성이 높고, 얼굴을 보기 전에 서로의 냄새(담요 등)부터 익히게 하면 좋다.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 1.0,
+ "bgm_volume": 0.8,
  "sfx_max": 4,
  "hook": {
-  "t": "고양이 등에 올라탄 다람쥐\n'형아랑 레슬링 중ㅋㅋ'"
+  "t": "이상형 냥이 만난 강아지\n'근데 냥이는 정색ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @tuvok_nutters"
+  "TikTok @finn.and.luno"
  ],
  "scenes": [
   {
-   "dur": 2.6,
+   "dur": 2.5,
    "video": {
     "src": "video/v1.mp4",
-    "start": 9.9,
+    "start": 0.9,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 1.5
+    "y": 0.3,
+    "audio": 2.0,
+    "blur": [
+     [
+      130,
+      243,
+      320,
+      40
+     ]
+    ]
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(등에 착!)",
-     "x": 0.28,
-     "y": 0.07,
-     "at": 0.15,
-     "s": "boing",
-     "sv": 0.8
+     "k": "talk",
+     "t": "헉... 내 이상형ㅠㅠ",
+     "x": 0.62,
+     "y": 0.1,
+     "at": 0.1
     },
     {
-     "k": "talk",
-     "t": "야... 내려와;;",
-     "x": 0.72,
+     "k": "sfx",
+     "t": "(낑낑)",
+     "x": 0.25,
      "y": 0.42,
-     "at": 0.05
+     "at": 0.4
     }
    ]
   },
   {
-   "say": "이 고양이네 집엔 아주 특이한 동생이 삽니다.",
+   "say": "첫눈에 반한 상대는, 아기 고양이.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.6,
+    "start": 5.0,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 0.3
+    "y": 0.3,
+    "audio": 0.3,
+    "blur": [
+     [
+      130,
+      243,
+      320,
+      40
+     ]
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "어디 숨었지...",
-     "x": 0.68,
-     "y": 0.28,
+     "t": "...뭐야 쟤?",
+     "x": 0.72,
+     "y": 0.3,
      "at": 0.8
     }
    ]
   },
   {
-   "dur": 2.6,
+   "dur": 2.2,
    "video": {
     "src": "video/v1.mp4",
-    "start": 4.5,
+    "start": 14.6,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 1.5
+    "y": 0.3,
+    "audio": 1.0,
+    "blur": [
+     [
+      130,
+      243,
+      320,
+      40
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(정색)",
+     "x": 0.28,
+     "y": 0.3,
+     "at": 0.2,
+     "s": "dundun",
+     "sv": 0.8
+    },
+    {
+     "k": "talk",
+     "t": "관심 없는데.",
+     "x": 0.7,
+     "y": 0.22,
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "dur": 1.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 10.8,
+    "x": 0.5,
+    "y": 0.3,
+    "audio": 2.0,
+    "blur": [
+     [
+      130,
+      243,
+      320,
+      40
+     ]
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "형아 나 여기!",
-     "x": 0.62,
-     "y": 0.06,
-     "at": 0.1
+     "t": "냥이야 나랑 놀자!!",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.05
     },
     {
      "k": "sfx",
-     "t": "(날아차기!)",
-     "x": 0.35,
-     "y": 0.5,
-     "at": 1.8,
+     "t": "(돌진)",
+     "x": 0.25,
+     "y": 0.6,
+     "at": 0.3,
      "s": "whoosh",
      "sv": 0.8
     }
    ]
   },
   {
-   "dur": 3.0,
+   "say": "하지만 고양이는 끝까지 철벽이었습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 28.6,
+    "start": 7.5,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 1.5
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "잡았다 요놈!",
-     "x": 0.72,
-     "y": 0.36,
-     "at": 0.4
-    }
-   ]
-  },
-  {
-   "dur": 3.5,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 32.6,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 1.5
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "하나도\n안 아프지롱~",
-     "x": 0.7,
-     "y": 0.74,
-     "at": 0.3
-    },
-    {
-     "k": "sfx",
-     "t": "(냥냥펀치)",
-     "x": 0.3,
-     "y": 0.3,
-     "at": 1.6,
-     "s": "pop",
-     "sv": 0.9
-    }
-   ]
-  },
-  {
-   "say": "알고 보니 고양이가 살살 봐주는 중이었습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 36.0,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0.3
+    "y": 0.3,
+    "audio": 0.3,
+    "blur": [
+     [
+      130,
+      243,
+      320,
+      40
+     ]
+    ]
    },
    "caps": [
     {
      "k": "desc",
-     "t": "고양이는 장난 싸움 땐\n발톱을 숨기고 하악질도 안 해요",
+     "t": "개와 고양이는 둘 다 어릴 때 만나야\n친해지기 쉽대요 (퓨리나)",
      "x": 0.5,
-     "y": 0.08,
-     "at": 0.5
-    }
-   ]
-  },
-  {
-   "say": "다람쥐가 도망가자, 바로 시치미를 뗍니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 49.3,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0.3
-   },
-   "caps": [
+     "y": 0.13,
+     "at": 0.6
+    },
     {
      "k": "talk",
-     "t": "...아무 일\n없었다냥",
-     "x": 0.68,
-     "y": 0.22,
+     "t": "...저리 가",
+     "x": 0.72,
+     "y": 0.34,
      "at": 1.4,
-     "s": "tada",
-     "sv": 0.7
+     "s": "fail",
+     "sv": 0.6
     }
    ]
   }
  ],
  "sources": [
   {
-   "publisher": "TikTok @tuvok_nutters (고양이와 다람쥐)",
-   "url": "https://www.tiktok.com/@tuvok_nutters/video/7698792136862436621",
-   "date": "2026.10"
+   "publisher": "TikTok @finn.and.luno (puppy meeting kitten)",
+   "url": "https://www.tiktok.com/@finn.and.luno/video/7557863392439045389",
+   "date": "2025.10.5"
   },
   {
-   "publisher": "TAG24 - Viral Video of the Day for October 22, 2026: Cat and squirrel become the unlikeliest besties",
-   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-22-2026-cat-and-squirrel-become-the-unlikeliest-besties-3536300",
-   "date": "2026.10.22"
-  },
-  {
-   "publisher": "Your Cat - Is it play or fighting?",
-   "url": "https://www.yourcat.co.uk/cat-advice/is-it-play-or-fighting",
-   "date": "2026.10 확인"
+   "publisher": "Newsweek - Puppy and Kitten Meet for First Time—Laughter at Vastly Different Reactions",
+   "url": "https://www.newsweek.com/puppy-kitten-meet-first-time-laughter-vastly-different-reactions-10911573",
+   "date": "2025.10.21"
   }
  ],
  "yt": {
-  "title": "고양이 집에 다람쥐가 살면 일어나는 일ㅋㅋ #shorts",
-  "description": "등에 올라타고, 난간에 매달리고, 날아차기까지... 다람쥐 동생이 아무리 덤벼도 고양이 형아는 앞발로 살살 치기만 합니다ㅋㅋ\n\n고양이는 장난 싸움을 할 때 발톱을 숨기고, 하악질이나 으르렁 소리 없이 조용히 논대요(Your Cat). 진짜 싸움이면 발톱이 나오고 소리가 커진다고 해요.\n\n여러분 집 고양이도 이렇게 봐주면서 노나요?\n\n영상: TikTok @tuvok_nutters\n참고: TAG24, Your Cat\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "강아지가 이상형 고양이 만나면 일어나는 일ㅋㅋ #shorts",
+  "description": "처음 본 아기 고양이에게 첫눈에 반해 낑낑대며 몸부림치는 강아지... 그런데 고양이는 끝까지 무표정으로 철벽ㅋㅋ\n\n퓨리나에 따르면 개와 고양이는 둘 다 어릴 때 만나야 잘 지낼 가능성이 높고, 얼굴을 보기 전에 담요 같은 걸로 서로의 냄새부터 익히게 하면 좋대요. 고양이가 피할 곳을 만들어 주고, 강아지가 쫓아가게 두지 않는 것도 중요하다고 해요.\n\n이 둘, 나중엔 친해졌을까요?\n\n영상: TikTok @finn.and.luno\n참고: Newsweek, Purina\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
+   "강아지",
    "고양이",
-   "다람쥐",
-   "치즈냥이",
-   "고양이레슬링",
-   "웃긴고양이",
-   "고양이영상",
+   "아기고양이",
+   "이상형",
+   "검은고양이",
+   "웃긴강아지",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
   "category": 15,
   "privacy": "public"
  },
- "publish_now": true
+ "publish_now": true,
+ "style": {
+  "sub_y": 0.84
+ }
 }
