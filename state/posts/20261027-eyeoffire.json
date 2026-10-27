@@ -1,7 +1,7 @@
 {
  "id": "20261027-eyeoffire",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-10-27T20:32:48.751059+09:00",
  "publish_at": "2026-10-27T20:32:48.751074+09:00",
  "publish_now": true,
@@ -33,5 +33,7 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1288
+ "tg_msg": 1288,
+ "decided_at": "2026-10-27T21:27:19+09:00",
+ "decided_via": "app"
 }
