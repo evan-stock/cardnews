@@ -2,7 +2,7 @@
  "id": "20261027-guryongfire",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-27T18:14:01.780106+09:00",
  "publish_at": "2026-10-27T18:11:02+09:00",
  "topic": "강남 구룡마을 화재(10/27 오후 3시 50분께), 대응 2단계",
@@ -46,5 +46,9 @@
   "media/20261027-guryongfire/01.jpg",
   "media/20261027-guryongfire/02.mp4"
  ],
- "tg_msg": 1263
+ "tg_msg": 1263,
+ "decided_at": "2026-10-27T18:23:45.091633+09:00",
+ "ig_media_id": "18138202702650780",
+ "permalink": "https://www.instagram.com/p/De_h80IimPV/",
+ "published_at": "2026-10-27T18:26:06.490906+09:00"
 }
