@@ -1,0 +1,53 @@
+{
+ "id": "20261028-stickercat",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-28T08:47:54.216709+09:00",
+ "publish_at": "2026-10-28T08:47:54.216729+09:00",
+ "publish_now": true,
+ "topic": "차 뒷좌석의 흑백 강아지(암컷)가 옆 차 창문의 '고양이'를 보고 쉬지 않고 짖는데, 주인이 카메라를 돌려 보니 눈이 휘둥그레진 고양이 얼굴 차량 스티커(데칼)였음(TikTok @belmelly, 2025.9.15 게시, 87.4만 회+·좋아요 17.1만, iHeartDogs 2025.10). 원본 소리(짖는 소리) 살림, 음악 트랙 없음. 사실: Paul E. Miller(위스콘신대 수의대 안과) — 개의 시력은 약 20/75, 사람이 23m(75피트)에서 보는 걸 개는 6m(20피트)까지 와야 봄.",
+ "sources": [
+  {
+   "publisher": "TikTok @belmelly",
+   "url": "https://www.tiktok.com/@belmelly/video/7550240273847176462",
+   "date": "2025.9.15"
+  },
+  {
+   "publisher": "iHeartDogs - Dog Barks At 'Cat' In Next Car Until Owner Discovers the Truth",
+   "url": "https://iheartdogs.com/?p=4761416",
+   "date": "2025.10"
+  },
+  {
+   "publisher": "Paul E. Miller DVM (UW-Madison) - Vision in Animals: What do Dogs and Cats See? (VIN)",
+   "url": "https://www.vin.com/doc/?id=3844144",
+   "date": "2001"
+  }
+ ],
+ "seconds": 15.34,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261028-stickercat/short.mp4"
+ ],
+ "app_file": "media/20261028-stickercat/short_nobgm.mp4",
+ "yt": {
+  "title": "모르는 고양이에게 욕(?)하던 강아지의 최후ㅋㅋ #shorts",
+  "description": "옆 차 창문에 고양이가 보이자 쉬지 않고 짖는 강아지... 그런데 그 고양이의 정체는 차 유리에 붙은 스티커였습니다ㅋㅋ\n\n개의 시력은 약 20/75 정도라고 해요. 사람이 23m 거리에서 알아보는 걸 개는 6m까지 다가가야 알아본다는 뜻이죠(위스콘신대 수의대 Paul E. Miller). 대신 움직임에는 훨씬 민감하다고 하네요.\n\n여러분 강아지도 이런 적 있나요?\n\n영상: TikTok @belmelly\n참고: iHeartDogs, VIN(Paul E. Miller DVM)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @belmelly 2025.9.15, iHeartDogs - Dog Barks At 'Cat' In Next Car Until Owner Discovers the Truth 2025.10, Paul E. Miller DVM (UW-Madison) - Vision in Animals: What do Dogs and Cats See? (VIN) 2001\n사진·영상: TikTok @belmelly\n음성: Typecast\n\n#shorts #강아지 #고양이스티커 #강아지반응 #웃긴강아지",
+  "tags": [
+   "강아지",
+   "고양이스티커",
+   "강아지반응",
+   "웃긴강아지",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "f2ba9e8dcb19",
+ "tg_msg": 1308
+}
