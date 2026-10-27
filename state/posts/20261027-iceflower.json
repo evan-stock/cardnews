@@ -1,7 +1,7 @@
 {
  "id": "20261027-iceflower",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-10-27T14:44:58.887860+09:00",
  "publish_at": "2026-10-27T14:44:58.887872+09:00",
  "publish_now": true,
@@ -35,5 +35,7 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1247
+ "tg_msg": 1247,
+ "decided_at": "2026-10-27T16:31:07+09:00",
+ "decided_via": "app"
 }
