@@ -38,7 +38,7 @@ def frame(t):
             d.line((cx,cy,cx+R*math.cos(a_),cy+R*math.sin(a_)),fill=YEL,width=26)
         r=60*min(1,g*2); d.ellipse((cx-r,cy-r,cx+r,cy+r),fill=BG,outline=YEL,width=14)
         al=int(255*ease((t-3.8)/0.4))
-        d.text((W//2,830),"넓고 곧은 대로",font=f_lab,fill=WHITE+(al,),anchor="mm",stroke_width=5,stroke_fill=(0,0,0,al))
+        d.text((W//2,830),"일자로 쭉 뻗은 대로",font=f_lab,fill=WHITE+(al,),anchor="mm",stroke_width=5,stroke_fill=(0,0,0,al))
     m=t-4.9  # 군대 점 이동
     if m>0:
         for j,a_ in enumerate(rays[::3]):
