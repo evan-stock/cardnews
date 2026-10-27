@@ -1,10 +1,10 @@
-Gemini TTS: 사용 (저장본)
-장면 1/8 gemini 누적 4.6초
-장면 2/8 gemini 누적 8.3초
-장면 3/8 gemini 누적 12.9초
-장면 4/8 gemini 누적 16.7초
-장면 5/8 gemini 누적 22.8초
-장면 6/8 gemini 누적 26.1초
-장면 7/8 gemini 누적 28.9초
-장면 8/8 gemini 누적 32.4초
-완성: /home/runner/work/cardnews/cardnews/media/20261027-grandma/short.mp4 (25.9초, TTS ['gemini'])
+Gemini TTS: 사용 (새로 만듦)
+장면 1/8 gemini 누적 3.9초
+장면 2/8 gemini 누적 5.9초
+장면 3/8 gemini 누적 12.2초
+장면 4/8 gemini 누적 18.8초
+장면 5/8 gemini 누적 24.2초
+장면 6/8 gemini 누적 30.9초
+장면 7/8 gemini 누적 34.8초
+장면 8/8 gemini 누적 37.9초
+완성: /home/runner/work/cardnews/cardnews/media/20261027-giletsjaunes/short.mp4 (30.3초, TTS ['gemini'])
