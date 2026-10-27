@@ -1,77 +1,79 @@
 {
- "id": "20261027-puppykitten",
+ "id": "20261027-guineacat",
  "mode": "send",
  "format": "meme",
- "topic": "검은 강아지가 처음 본 검은 아기 고양이에게 첫눈에 반해 주인 품에서 낑낑대며 몸부림치고 달려들려 하는데, 아기 고양이는 침대 위에 얌전히 앉아 무표정으로 강아지와 카메라를 빤히 쳐다봄(TikTok @finn.and.luno 2025.10.5 게시, Newsweek 2025.10.21). 원본 소리(강아지 낑낑 소리) 살림, 음악 트랙 없음. 사실: 퓨리나 — 개와 고양이는 둘 다 어릴 때 만나야 잘 지낼 가능성이 높고, 얼굴을 보기 전에 서로의 냄새(담요 등)부터 익히게 하면 좋다.",
+ "topic": "치즈 고양이 터커(미국 노스캐롤라이나)가 하얀 기니피그를 처음 만나 고개를 갸웃하고 킁킁대며 다가가지만 사냥 본능은 전혀 없이 멍하니 카메라를 쳐다봄(TikTok @juliaandtucker, 160만 회+, 좋아요 약 40만, Newsweek 2024.10.30). 집사 캡션 'No predator instincts whatsoever'. 원본 소리는 전 구간 사람 목소리/음악으로 보이는 연속 화음뿐이라 끔. 사실: Dogster(수의사 검수) — 고양이는 배가 고파서가 아니라 재미로 사냥하기도 한다(Newsweek 인용).",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.8,
+ "bgm_volume": 1.8,
  "sfx_max": 4,
  "hook": {
-  "t": "이상형 냥이 만난 강아지\n'근데 냥이는 정색ㅋㅋ'"
+  "t": "기니피그 처음 본 고양이\n'뇌정지 와버림ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @finn.and.luno"
+  "TikTok @juliaandtucker"
  ],
  "scenes": [
   {
-   "dur": 2.5,
+   "dur": 1.9,
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.9,
+    "start": 11.1,
     "x": 0.5,
     "y": 0.3,
-    "audio": 2.0,
+    "audio": 0,
     "blur": [
      [
-      130,
-      243,
-      320,
-      40
+      148,
+      605,
+      282,
+      115
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "헉... 내 이상형ㅠㅠ",
-     "x": 0.62,
-     "y": 0.1,
+     "t": "이... 이게 뭐냥..?",
+     "x": 0.6,
+     "y": 0.34,
      "at": 0.1
     },
     {
      "k": "sfx",
-     "t": "(낑낑)",
-     "x": 0.25,
+     "t": "(킁킁)",
+     "x": 0.24,
      "y": 0.42,
-     "at": 0.4
+     "at": 0.4,
+     "s": "question",
+     "sv": 0.8
     }
    ]
   },
   {
-   "say": "첫눈에 반한 상대는, 아기 고양이.",
+   "say": "치즈냥 터커, 기니피그를 처음 만났습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 5.0,
+    "start": 0.0,
     "x": 0.5,
     "y": 0.3,
-    "audio": 0.3,
+    "audio": 0,
     "blur": [
      [
-      130,
-      243,
-      320,
-      40
+      148,
+      605,
+      282,
+      115
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...뭐야 쟤?",
-     "x": 0.72,
-     "y": 0.3,
-     "at": 0.8
+     "t": "흰 털뭉치가... 움직여",
+     "x": 0.6,
+     "y": 0.22,
+     "at": 0.9
     }
    ]
   },
@@ -79,105 +81,123 @@
    "dur": 2.2,
    "video": {
     "src": "video/v1.mp4",
-    "start": 14.6,
+    "start": 6.1,
     "x": 0.5,
     "y": 0.3,
-    "audio": 1.0,
+    "audio": 0,
     "blur": [
      [
-      130,
-      243,
-      320,
-      40
+      148,
+      605,
+      282,
+      115
      ]
     ]
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(정색)",
-     "x": 0.28,
-     "y": 0.3,
-     "at": 0.2,
+     "t": "(동공 확장)",
+     "x": 0.74,
+     "y": 0.08,
+     "at": 0.15,
      "s": "dundun",
      "sv": 0.8
     },
     {
      "k": "talk",
-     "t": "관심 없는데.",
-     "x": 0.7,
-     "y": 0.22,
-     "at": 0.6
+     "t": "나보다 더 털뭉치잖아..?",
+     "x": 0.42,
+     "y": 0.62,
+     "at": 0.7
     }
    ]
   },
   {
-   "dur": 1.6,
+   "say": "그런데 사냥 본능은 어디 가고, 고개만 갸웃.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 10.8,
+    "start": 8.0,
     "x": 0.5,
     "y": 0.3,
-    "audio": 2.0,
+    "audio": 0,
     "blur": [
      [
-      130,
-      243,
-      320,
-      40
+      148,
+      605,
+      282,
+      115
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "냥이야 나랑 놀자!!",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.05
-    },
-    {
-     "k": "sfx",
-     "t": "(돌진)",
-     "x": 0.25,
-     "y": 0.6,
-     "at": 0.3,
-     "s": "whoosh",
-     "sv": 0.8
+     "t": "...먹는 거 아니지?",
+     "x": 0.7,
+     "y": 0.3,
+     "at": 1.0
     }
    ]
   },
   {
-   "say": "하지만 고양이는 끝까지 철벽이었습니다.",
+   "say": "고양이는 배가 불러도 재미로 사냥한다는데, 터커는 예외였습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 7.5,
+    "start": 13.0,
     "x": 0.5,
     "y": 0.3,
-    "audio": 0.3,
+    "audio": 0,
     "blur": [
      [
-      130,
-      243,
-      320,
-      40
+      148,
+      605,
+      282,
+      115
      ]
     ]
    },
    "caps": [
     {
      "k": "desc",
-     "t": "개와 고양이는 둘 다 어릴 때 만나야\n친해지기 쉽대요 (퓨리나)",
+     "t": "고양이는 배고프지 않아도\n재미로 사냥하기도 한대요 (Dogster)",
      "x": 0.5,
-     "y": 0.13,
-     "at": 0.6
-    },
+     "y": 0.12,
+     "at": 0.4
+    }
+   ]
+  },
+  {
+   "dur": 1.5,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 17.6,
+    "x": 0.5,
+    "y": 0.3,
+    "audio": 0,
+    "blur": [
+     [
+      148,
+      605,
+      282,
+      115
+     ]
+    ]
+   },
+   "caps": [
     {
      "k": "talk",
-     "t": "...저리 가",
-     "x": 0.72,
-     "y": 0.34,
-     "at": 1.4,
+     "t": "나 방금 뭘 본 거지...",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.05
+    },
+    {
+     "k": "sfx",
+     "t": "(뇌정지)",
+     "x": 0.78,
+     "y": 0.38,
+     "at": 0.5,
      "s": "fail",
      "sv": 0.6
     }
@@ -186,26 +206,25 @@
  ],
  "sources": [
   {
-   "publisher": "TikTok @finn.and.luno (puppy meeting kitten)",
-   "url": "https://www.tiktok.com/@finn.and.luno/video/7557863392439045389",
-   "date": "2025.10.5"
+   "publisher": "TikTok @juliaandtucker (the time tucker met a guinea pig)",
+   "url": "https://www.tiktok.com/@juliaandtucker/video/7429831171514584350",
+   "date": "2024.10"
   },
   {
-   "publisher": "Newsweek - Puppy and Kitten Meet for First Time—Laughter at Vastly Different Reactions",
-   "url": "https://www.newsweek.com/puppy-kitten-meet-first-time-laughter-vastly-different-reactions-10911573",
-   "date": "2025.10.21"
+   "publisher": "Newsweek - Hysterics As Cat Meets Guinea Pig for First Time: 'Broke His Brain'",
+   "url": "https://www.newsweek.com/hysterics-cat-meets-guinea-pig-first-time-broke-his-brain-1977082",
+   "date": "2024.10.30"
   }
  ],
  "yt": {
-  "title": "강아지가 이상형 고양이 만나면 일어나는 일ㅋㅋ #shorts",
-  "description": "처음 본 아기 고양이에게 첫눈에 반해 낑낑대며 몸부림치는 강아지... 그런데 고양이는 끝까지 무표정으로 철벽ㅋㅋ\n\n퓨리나에 따르면 개와 고양이는 둘 다 어릴 때 만나야 잘 지낼 가능성이 높고, 얼굴을 보기 전에 담요 같은 걸로 서로의 냄새부터 익히게 하면 좋대요. 고양이가 피할 곳을 만들어 주고, 강아지가 쫓아가게 두지 않는 것도 중요하다고 해요.\n\n이 둘, 나중엔 친해졌을까요?\n\n영상: TikTok @finn.and.luno\n참고: Newsweek, Purina\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "기니피그를 처음 본 고양이의 반응ㅋㅋ #shorts",
+  "description": "처음 보는 하얀 털뭉치(기니피그)를 만난 치즈냥 터커... 킁킁대며 다가가더니 결국 뇌정지ㅋㅋ\n\n고양이는 배가 고프지 않아도 재미로 사냥을 하기도 한대요(Dogster). 그런데 집사 말로는 터커는 '사냥 본능이 하나도 없다'고 하네요. 그래도 고양이와 기니피그 같은 작은 동물은 꼭 사람이 지켜볼 때만 만나게 해 주세요.\n\n여러분 고양이는 어떤 반응일까요?\n\n영상: TikTok @juliaandtucker\n참고: Newsweek, Dogster\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "강아지",
    "고양이",
-   "아기고양이",
-   "이상형",
-   "검은고양이",
-   "웃긴강아지",
+   "치즈냥",
+   "기니피그",
+   "고양이반응",
+   "웃긴고양이",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
