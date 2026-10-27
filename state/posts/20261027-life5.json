@@ -1,7 +1,7 @@
 {
  "id": "20261027-life5",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-27T20:27:08.972497+09:00",
  "publish_at": "2026-10-27T20:27:08.972516+09:00",
  "publish_now": true,
@@ -70,5 +70,9 @@
    }
   ]
  },
- "tg_msg": 25
+ "tg_msg": 25,
+ "decided_at": "2026-10-27T20:29:17.753997+09:00",
+ "yt_id": "tjZPBs2gdtM",
+ "permalink": "https://youtube.com/shorts/tjZPBs2gdtM",
+ "published_at": "2026-10-27T20:29:21.349752+09:00"
 }
