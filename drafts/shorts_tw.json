@@ -1,108 +1,116 @@
 {
- "id": "20261027-parisboulevard",
+ "id": "20261027-grandma",
  "mode": "render",
- "topic": "[실험] 오쓸 TTS 릴스 1편 v2: 파리 길이 일자로 쭉 뻗은 진짜 이유 — 정답 장면 강화",
+ "topic": "[TTS 릴스 2편] 93세 할머니가 보이스피싱범을 역으로 잡았다(시가현 아이쇼, 10.22 체포) — 수정 양식(제목·로고 위치)",
  "hook": {
-  "t": "파리 길이 일자로 쭉 뻗은\n'진짜 이유'"
+  "t": "93세 할머니가 보이스피싱범을\n'역으로' 잡았다"
  },
  "style": {
   "layout": "letterbox",
-  "band": 400,
-  "video_h": 900,
-  "title_size": 92,
+  "band": 490,
+  "title_pad_bottom": 24,
+  "video_h": 780,
+  "title_size": 86,
   "title_base": [
    255,
    255,
    255
   ],
-  "sub_size": 78,
-  "sub_y": 0.735,
-  "chunk": 12,
-  "gap": 0.06,
+  "sub_size": 76,
+  "sub_y": 0.693,
+  "sub_max_w": 860,
+  "chunk": 10,
+  "credit_center": true,
+  "credit_size": 25,
   "font_title": "assets/fonts/Pretendard-Black.otf",
   "font_sub": "assets/fonts/Pretendard-Black.otf",
   "logo": "brand/logo_typo_A.png",
-  "logo_w": 330,
-  "logo_bottom": 90,
+  "logo_w": 250,
+  "logo_y": 1455,
   "mascot": null,
-  "zoom": 0.08
+  "zoom": 0.0
  },
  "voice": {
   "engine": "gemini",
   "gemini": {
    "voice": "Sadaltager",
-   "style": "인스타 릴스 해외 이슈 해설. 흥미를 끄는 30대 남성 해설자 말투, 차분하고 또박또박, 과장하지 않기",
+   "style": "인스타 릴스 해외 화제 해설. 흥미를 끄는 30대 남성 해설자 말투, 통쾌한 이야기라 살짝 밝게, 또박또박, 과장하지 않기",
    "tempo": 1.2
   }
  },
- "credit": "영상: X @WithyGrove · @realMaalouf | 사진: 위키미디어 공용 | 일부 재현 그래픽",
+ "credit": "출처 SoraNews24 · 교토신문  |  전 장면 재현 그래픽",
  "photo_credits": [
-  "X @WithyGrove",
-  "X @realMaalouf",
-  "Charles Marville",
-  "Charles François Thibault",
-  "Gustave Le Gray",
-  "Charles Reutlinger",
-  "Nadar"
+  "재현 그래픽(오늘의쓸모 제작)"
  ],
  "scenes": [
   {
-   "say": "요즘 시위로 들끓는 파리, 이 도시의 곧게 뻗은 길에는 '폭동'의 역사가 숨어 있습니다.",
+   "say": "93세 할머니가 사기범을 집으로 불렀습니다. '경찰'이 기다리는 집으로요.",
    "video": {
-    "src": "../20261025-europeall/video/fr.mp4",
+    "src": "video/g1.mp4",
     "start": 0,
     "x": 0.5,
     "y": 0.5
    }
   },
   {
-   "say": "170년 전 파리는 좁고 구불구불한 '골목'으로 가득했습니다.",
-   "img": "cand/alley.jpg",
-   "zoom": 0.08
-  },
-  {
-   "say": "1830년과 1848년, 시민들은 이 골목을 '바리케이드'로 막고 정부를 무너뜨렸습니다.",
-   "img": "cand/barricade1848.jpg",
-   "zoom": 0.08
-  },
-  {
-   "say": "그 뒤 나폴레옹 3세는 오스만 남작에게 파리를 대대적으로 뜯어고치게 했습니다.",
-   "img": "cand/napoleon_haussmann.jpg",
-   "zoom": 0.04
-  },
-  {
-   "say": "골목을 허문 자리에, 넓고 '일자로 쭉' 뻗은 대로가 뚫렸습니다.",
-   "img": "cand/opera.jpg",
-   "zoom": 0.08
-  },
-  {
-   "say": "답은 '바리케이드'였습니다. 시민들이 길을 못 막게, 군대는 빨리 들어오게요.",
+   "say": "일본 시가현에 사는 할머니에게, 경찰이라며 전화가 걸려 왔습니다.",
    "video": {
-    "src": "video/boulevard_anim.mp4",
-    "start": 2.2,
+    "src": "video/g2.mp4",
+    "start": 0,
     "x": 0.5,
     "y": 0.5
    }
   },
   {
-   "say": "물론 그게 전부는 아닙니다. 하수도와 가스등, 공원도 이때 함께 생겼습니다.",
-   "img": "cand/sewer.jpg",
-   "zoom": 0.08
+   "say": "통장에서 돈이 몰래 빠져나갔다며, 수사관이 현금카드를 가지러 가겠다고 했죠.",
+   "video": {
+    "src": "video/g3.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   }
   },
   {
-   "say": "그런데 그 곧은 길은 지금, 시위대가 모이는 '무대'가 됐습니다.",
+   "say": "할머니는 바로 사기인 걸 알아챘고, '진짜' 경찰에 신고했습니다.",
    "video": {
-    "src": "../20261025-tourriot/video/v1.mp4",
-    "start": 2,
+    "src": "video/g4.mp4",
+    "start": 0,
     "x": 0.5,
-    "y": 0.6
+    "y": 0.5
+   }
+  },
+  {
+   "say": "속은 척 기다리자, 10월 22일 47세 남성이 집에 나타났습니다. 할머니 나이의 '절반'이었죠.",
+   "video": {
+    "src": "video/g5.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  {
+   "say": "기다리던 경찰이 그 자리에서 사기 미수 혐의로 '체포'했습니다.",
+   "video": {
+    "src": "video/g6.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  {
+   "say": "경찰은 일당이 더 있다고 보고 수사하고 있습니다.",
+   "video": {
+    "src": "video/g7.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
    }
   },
   {
    "say": "지금 터진 세계 소식, 오늘의쓸모에서 제일 먼저 보세요.",
    "video": {
-    "src": "../20261025-europeall/video/fr.mp4",
-    "start": 4,
+    "src": "video/g6.mp4",
+    "start": 2.6,
     "x": 0.5,
     "y": 0.5
    },
@@ -111,14 +119,9 @@
  ],
  "sources": [
   {
-   "publisher": "Smarthistory",
-   "url": "https://smarthistory.org/?p=1430",
-   "date": ""
-  },
-  {
-   "publisher": "Smarthistory",
-   "url": "https://smarthistory.org/haussmann-the-demolisher-and-the-creation-of-modern-paris",
-   "date": ""
+   "publisher": "SoraNews24",
+   "url": "https://soranews24.com/2026/10/25/93-year-old-japanese-grannie-helps-set-trap-for-scam-artist-half-her-age/",
+   "date": "2026.10.25"
   }
  ]
 }

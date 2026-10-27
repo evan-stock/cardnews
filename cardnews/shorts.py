@@ -144,14 +144,21 @@ def band_png(hook, out, sc, credit=""):
         d.text((58, top + 62), tag, font=f, fill=WHITE, anchor="lm")
     if sc.get("layout") == "letterbox":  # 영상 아래 검정 칸: 오른쪽 작은 출처 + 하단 가운데 로고
         _, ah = area(sc)
+        # 2026.10.27 사용자 수정안: 출처는 짧게 가운데, 로고는 자막 바로 아래(logo_y) — 아래 계정명·본문 줄과
+        # 위 '내 릴스'·뒤로가기 UI에 가리지 않게. 제목은 title_pad_bottom 으로 띠 아래쪽에 붙인다.
         if credit:
-            d.text((W - 30, top + ah + 14), credit, font=font(26, True), fill=(170, 170, 170), anchor="ra")
+            if sc.get("credit_center"):
+                d.text((W // 2, top + ah + 16), credit, font=font(int(sc.get("credit_size", 26)), True),
+                       fill=(165, 165, 165), anchor="ma")
+            else:
+                d.text((W - 30, top + ah + 14), credit, font=font(26, True), fill=(170, 170, 170), anchor="ra")
         lg = sc.get("logo")
         if lg and os.path.exists(ROOT / lg):
             li = Image.open(ROOT / lg).convert("RGBA")
             lw = int(sc.get("logo_w", 330))
             li = li.resize((lw, int(li.height * lw / li.width)), Image.LANCZOS)
-            im.alpha_composite(li, ((W - li.width) // 2, H - int(sc.get("logo_bottom", 90)) - li.height))
+            ly = int(sc["logo_y"]) if sc.get("logo_y") is not None else H - int(sc.get("logo_bottom", 90)) - li.height
+            im.alpha_composite(li, ((W - li.width) // 2, ly))
     elif credit:
         d.text((40, H - 70), credit, font=font(30, True), fill=(235, 235, 235), stroke_width=3, stroke_fill=(0, 0, 0))
     m = sc.get("mascot")
@@ -197,7 +204,7 @@ def sub_png(text, out, sc, label=None):
     base = tuple(sc["sub_color"]) if sc.get("sub_color") else None
     hi = tuple(sc["sub_hi"]) if sc.get("sub_hi") else None
     for line in lines:
-        used = draw_line(d, y, line, sc["sub_size"], max_w=W - 60, stroke=sc.get("sub_stroke", 12), base=base, hi=hi,
+        used = draw_line(d, y, line, sc["sub_size"], max_w=int(sc.get("sub_max_w", W - 60)), stroke=sc.get("sub_stroke", 12), base=base, hi=hi,
                          fpath=sc.get("font_sub"))
         y += int(used * 1.28)
     if label:
