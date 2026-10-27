@@ -1,7 +1,7 @@
 {
  "id": "20261027-puppykitten",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-27T13:42:03.645973+09:00",
  "publish_at": "2026-10-27T13:42:03.645994+09:00",
  "publish_now": true,
@@ -46,5 +46,9 @@
   "channel": null
  },
  "draft_hash": "a417232e9899",
- "tg_msg": 1243
+ "tg_msg": 1243,
+ "decided_at": "2026-10-27T13:45:21.709818+09:00",
+ "yt_id": "pByH_6elMwQ",
+ "permalink": "https://youtube.com/shorts/pByH_6elMwQ",
+ "published_at": "2026-10-27T13:45:24.482080+09:00"
 }
