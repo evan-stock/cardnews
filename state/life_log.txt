@@ -1,7 +1,0 @@
-Gemini TTS: 사용 (저장본)
-장면 1/5 gemini 누적 2.7초
-장면 2/5 gemini 누적 9.0초
-장면 3/5 gemini 누적 14.2초
-장면 4/5 gemini 누적 18.0초
-장면 5/5 gemini 누적 26.2초
-완성: /home/runner/work/cardnews/cardnews/media/20261027-life5/short.mp4 (26.2초, TTS ['gemini'])
