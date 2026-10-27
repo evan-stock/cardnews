@@ -1,0 +1,140 @@
+{
+ "id": "20261027-iceflower",
+ "media": "media/20261027-iceflower",
+ "topic": "봄 서리가 오는 밤, 과수원이 꽃 핀 사과나무에 밤새 물을 뿌려 꽃을 통째로 얼음에 가두는 이유 — 물이 얼 때 내놓는 열(1g당 약 80cal) 덕에 얼음 속 꽃은 0℃ 근처에 머물러 영하에서도 살아남는다(이상적 조건에서 약 -9℃까지, SRF Meteo). 해 뜰 때까지 멈추면 오히려 증발로 열을 빼앗겨 더 위험. 미국 펜실베이니아 Russell Farms 는 2026.4 영하 4℃(24℉) 밤에 이 방법으로 사과 대부분을 지킴(안 했으면 90% 잃었을 것). 한국 과수원도 '미세살수'로 저온 피해를 막음",
+ "hook": {
+  "t": "꽃 핀 사과나무를\n일부러 '얼리는' 이유ㄷㄷ"
+ },
+ "credit": "영상: WBNG 12 News(2026.4.22, Russell Farms)",
+ "bgm": {
+  "file": "assets/bgm/worthy/plans_in_motion.mp3",
+  "start": 34.0,
+  "vol": 0.87
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "과수원 영상: WBNG 12 News(미국 뉴욕주 빙엄턴) 2026.4.22 'Irrigation innovation keeps apples safe in the cold'(Cameron Brown 기자) — 펜실베이니아 브래크니 Russell Farms 사과 과수원. 기사 페이지 영상을 받아 아래 뉴스 자막 띠(세로 0.80~)를 crop=1280:572:0:0 으로 잘라 냄"
+ ],
+ "sources": [
+  {
+   "publisher": "WBNG 12 News 2026.4.22 — Russell Farms, 물을 뿌려 꽃눈을 얼음으로 감싸면 32℉(0℃)에 머묾, 4월 중순 24℉(약 -4℃) 밤에 작물 대부분을 지킴, 안 했으면 90%를 잃었을 것",
+   "url": "https://www.wbng.com/2026/04/22/innovation-keeps-apples-safe-cold/"
+  },
+  {
+   "publisher": "SRF Meteo 'Frostschutz: Wie Eis vor Frost schützt'(2026.3) — 얼 때 나오는 열(응고열)로 꽃이 약 0℃ 유지, 이상적이면 약 -9℃까지, 살수를 멈추면 얼음이 빠르게 식어 꽃눈이 얼 수 있음",
+   "url": "https://www.srf.ch/meteo/meteo-stories/frostschutz-wie-eis-vor-frost-schuetzt"
+  },
+  {
+   "publisher": "Wine Anorak 2020.3.30 'Frost protection using sprinklers: how it really works' — 얼음이 단열재가 아니라 물 1g 이 얼 때 내놓는 80cal 가 보호, 멈추면 '냉장고'가 됨",
+   "url": "https://wineanorak.com/2020/03/30/frost-protection-using-sprinklers-how-it-really-works/"
+  },
+  {
+   "publisher": "FOX 13 Utah 2026.4.17 'Burgess Orchards coats grounds with ice to protect crops from cold'",
+   "url": "https://www.fox13now.com/news/local-news/utah-county/cooler-than-being-cool-burgess-orchards-coats-grounds-with-ice-to-protect-crops-from-cold"
+  },
+  {
+   "publisher": "파이낸셜뉴스 2021.3.30 — 전북농업기술원, 개화기 저온 피해 대비 방상팬·미세살수 장치 점검 당부",
+   "url": "https://www.fnnews.com/news/202103301034292492"
+  }
+ ],
+ "_note": "wbng.mp4 = WBNG 기사 페이지 영상(1280x720, 140초, 아래 뉴스 자막 띠) → tmp_wbng.mp4 = -an crop=1280:572:0:0 -g 15(시각 동일, 81MB 라 커밋 안 함). 컷(장면 검출로 확인): 27.5~30.2 얼어붙은 과수원(번호 말뚝), 30.3~33.3 얼음 낀 가지에 물 뿌리는 스프링클러, 36.9~39.2 얼음에 갇힌 꽃가지 근접, 46.0~48.9 얼음 공에 갇힌 꽃, 49.0~53.9 꽃을 만지는 매니저(안 씀), 101.8~103.8 스프링클러, 114.1~117.4 얼어붙은 과수원 길, 125.6~127.5 사과 바구니. 앞 0~8 스튜디오·자막 구간은 안 씀. 원본 소리 끔(말소리).",
+ "scenes": [
+  {
+   "text": "꽃 핀 사과나무에 밤새 '얼음물'을 뿌린다",
+   "video": {
+    "src": "video/tmp_wbng.mp4",
+    "start": 30.35,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 0.8,
+    "fit": "cover"
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "아침이 되자 꽃이 통째로 얼음 속에",
+   "video": {
+    "src": "video/tmp_wbng.mp4",
+    "start": 37.0,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 0.6,
+    "fit": "cover"
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "꽃을 얼려 죽이는 것 같지만, 진짜는 정반대",
+   "video": {
+    "src": "video/tmp_wbng.mp4",
+    "start": 27.6,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 0.9,
+    "fit": "cover"
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "물은 얼 때 '열'을 내놓는다",
+   "video": {
+    "src": "video/tmp_wbng.mp4",
+    "start": 102.0,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 0.6,
+    "fit": "cover"
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "그 열로 얼음 속 꽃은 0도, 바깥이 영하 4도여도 멀쩡",
+   "video": {
+    "src": "video/tmp_wbng.mp4",
+    "start": 46.1,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 0.8,
+    "fit": "cover"
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "단, 해 뜰 때까지 계속! 멈추면 오히려 '냉동고'",
+   "video": {
+    "src": "video/tmp_wbng.mp4",
+    "start": 114.4,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 0.7,
+    "fit": "cover"
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "안 뿌렸으면 사과 90%를 잃었을 거라고",
+   "video": {
+    "src": "video/tmp_wbng.mp4",
+    "start": 125.7,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 0.75,
+    "fit": "cover"
+   },
+   "dur": 2.2
+  },
+  {
+   "text": "한국 과수원도 쓰는 방법, 내일도 '반전' 보러 구독",
+   "video": {
+    "src": "video/tmp_wbng.mp4",
+    "start": 30.5,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 0.6,
+    "fit": "cover"
+   },
+   "dur": 2.6
+  }
+ ]
+}
