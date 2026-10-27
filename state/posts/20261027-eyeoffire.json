@@ -1,7 +1,7 @@
 {
  "id": "20261027-eyeoffire",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-27T20:32:48.751059+09:00",
  "publish_at": "2026-10-27T20:32:48.751074+09:00",
  "publish_now": true,
@@ -35,5 +35,8 @@
  },
  "tg_msg": 1288,
  "decided_at": "2026-10-27T21:27:19+09:00",
- "decided_via": "app"
+ "decided_via": "app",
+ "yt_id": "8cMFo6Zn6kE",
+ "permalink": "https://youtube.com/shorts/8cMFo6Zn6kE",
+ "published_at": "2026-10-27T21:28:01.681262+09:00"
 }
