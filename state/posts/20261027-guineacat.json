@@ -1,7 +1,7 @@
 {
  "id": "20261027-guineacat",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-27T18:49:54.275088+09:00",
  "publish_at": "2026-10-27T18:49:54.275111+09:00",
  "publish_now": true,
@@ -45,5 +45,9 @@
   "channel": null
  },
  "draft_hash": "e25887affe7e",
- "tg_msg": 1270
+ "tg_msg": 1270,
+ "decided_at": "2026-10-27T18:53:42.381397+09:00",
+ "yt_id": "h9Uiy7sTnOw",
+ "permalink": "https://youtube.com/shorts/h9Uiy7sTnOw",
+ "published_at": "2026-10-27T18:53:45.021739+09:00"
 }
