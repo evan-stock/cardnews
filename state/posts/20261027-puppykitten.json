@@ -1,0 +1,50 @@
+{
+ "id": "20261027-puppykitten",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-27T13:42:03.645973+09:00",
+ "publish_at": "2026-10-27T13:42:03.645994+09:00",
+ "publish_now": true,
+ "topic": "검은 강아지가 처음 본 검은 아기 고양이에게 첫눈에 반해 주인 품에서 낑낑대며 몸부림치고 달려들려 하는데, 아기 고양이는 침대 위에 얌전히 앉아 무표정으로 강아지와 카메라를 빤히 쳐다봄(TikTok @finn.and.luno 2025.10.5 게시, Newsweek 2025.10.21). 원본 소리(강아지 낑낑 소리) 살림, 음악 트랙 없음. 사실: 퓨리나 — 개와 고양이는 둘 다 어릴 때 만나야 잘 지낼 가능성이 높고, 얼굴을 보기 전에 서로의 냄새(담요 등)부터 익히게 하면 좋다.",
+ "sources": [
+  {
+   "publisher": "TikTok @finn.and.luno (puppy meeting kitten)",
+   "url": "https://www.tiktok.com/@finn.and.luno/video/7557863392439045389",
+   "date": "2025.10.5"
+  },
+  {
+   "publisher": "Newsweek - Puppy and Kitten Meet for First Time—Laughter at Vastly Different Reactions",
+   "url": "https://www.newsweek.com/puppy-kitten-meet-first-time-laughter-vastly-different-reactions-10911573",
+   "date": "2025.10.21"
+  }
+ ],
+ "seconds": 11.530000000000001,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261027-puppykitten/short.mp4"
+ ],
+ "app_file": "media/20261027-puppykitten/short_nobgm.mp4",
+ "yt": {
+  "title": "강아지가 이상형 고양이 만나면 일어나는 일ㅋㅋ #shorts",
+  "description": "처음 본 아기 고양이에게 첫눈에 반해 낑낑대며 몸부림치는 강아지... 그런데 고양이는 끝까지 무표정으로 철벽ㅋㅋ\n\n퓨리나에 따르면 개와 고양이는 둘 다 어릴 때 만나야 잘 지낼 가능성이 높고, 얼굴을 보기 전에 담요 같은 걸로 서로의 냄새부터 익히게 하면 좋대요. 고양이가 피할 곳을 만들어 주고, 강아지가 쫓아가게 두지 않는 것도 중요하다고 해요.\n\n이 둘, 나중엔 친해졌을까요?\n\n영상: TikTok @finn.and.luno\n참고: Newsweek, Purina\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @finn.and.luno (puppy meeting kitten) 2025.10.5, Newsweek - Puppy and Kitten Meet for First Time—Laughter at Vastly Different Reactions 2025.10.21\n사진·영상: TikTok @finn.and.luno\n음성: Typecast\n\n#shorts #강아지 #고양이 #아기고양이 #이상형",
+  "tags": [
+   "강아지",
+   "고양이",
+   "아기고양이",
+   "이상형",
+   "검은고양이",
+   "웃긴강아지",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "a417232e9899",
+ "tg_msg": 1243
+}
