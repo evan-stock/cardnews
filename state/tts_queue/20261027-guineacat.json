@@ -1,0 +1,51 @@
+{
+ "id": "20261027-guineacat",
+ "created": "2026-10-27T18:40:57.472096+09:00",
+ "items": [
+  {
+   "key": "c4813d020ae6",
+   "text": "치즈냥 터커, 기니피그를 처음 만났습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "fcafd90739b9",
+   "text": "그런데 사냥 본능은 어디 가고, 고개만 갸웃.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "고양이는 배가 불러도 재미로 사냥한다는데, 터커는 예외였습니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "8f34e1e8121f",
+   "text": "고양이는 배가 불러도 재미로 사냥한다는데, 터커는 예외였습니다.",
+   "ctx": {
+    "previous_text": "그런데 사냥 본능은 어디 가고, 고개만 갸웃.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
