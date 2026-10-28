@@ -1,7 +1,7 @@
 {
  "id": "20261028-supercool",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-28T20:50:03.812670+09:00",
  "publish_at": "2026-10-28T20:50:03.812683+09:00",
  "publish_now": true,
@@ -36,5 +36,8 @@
  },
  "tg_msg": 1396,
  "decided_at": "2026-10-29T00:15:27+09:00",
- "decided_via": "app"
+ "decided_via": "app",
+ "yt_id": "Re2g1054sl0",
+ "permalink": "https://youtube.com/shorts/Re2g1054sl0",
+ "published_at": "2026-10-29T00:16:31.583588+09:00"
 }
