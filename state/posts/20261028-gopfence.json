@@ -2,7 +2,7 @@
  "id": "20261028-gopfence",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-28T08:47:16.784602+09:00",
  "publish_at": "2026-10-28T09:00:00+09:00",
  "topic": "30대 민간인 여성이 철원 민통선을 넘어 GOP 철책 광망 훼손, 군은 처음 식별한 뒤 20여 시간 만에 신병 확보(10.24~25). 합참 \"'민통선이 뚫렸다'는 표현은 혼동\"",
@@ -58,5 +58,8 @@
   "media/20261028-gopfence/04.jpg"
  ],
  "tg_msg": 1306,
- "decided_at": "2026-10-28T08:47:20.259748+09:00"
+ "decided_at": "2026-10-28T08:47:20.259748+09:00",
+ "ig_media_id": "18118361843009095",
+ "permalink": "https://www.instagram.com/p/DfBGHy9gMBd/",
+ "published_at": "2026-10-28T09:01:26.245148+09:00"
 }
