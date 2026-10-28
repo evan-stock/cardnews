@@ -77,9 +77,10 @@ tick = noise(0.03, 0.006, 7000) * 0.55 + tone(2200, 0.03, d=0.008) * 0.25
 for k, s in enumerate(np.arange(0.0, rr.T_SHEL, 0.5)):
     add(tick, s, 0.7 if k % 2 == 0 else 0.45, 0.3 if k % 2 else -0.3)
 
-# 3) 시작 임팩트
-add(kick(1.2, 90, 30, 0.45), 0.0, 1.0)
-add(noise(1.5, 0.5, 900), 0.0, 0.35)
+# 3) 시작: 재난문자식 긴급 경보(높은 두 음 빠르게 교대) + 가벼운 저음
+for k in range(6):
+    add(alert_beep(1480 if k % 2 == 0 else 990, on=0.1, gap=0.02, n_beeps=1), 0.02 + k * 0.12, 0.5)
+add(kick(0.6, 90, 40, 0.2), 0.0, 0.6)
 
 # 4) 나라 켜질 때: 저음 펄스 + 삑
 for i, c in enumerate(rr.SEQ):
@@ -120,9 +121,14 @@ def card_hits(t0, nlines, big):
 
 card_hits(rr.T_SHEL, 3, {1})
 card_hits(rr.T_END, 2, {1})
-# 마지막: 긴 여운 + 심장박동 두 번
-add(kick(0.4, 70, 40, 0.12), rr.T_END + 1.4, 0.9); add(kick(0.4, 70, 40, 0.12), rr.T_END + 1.7, 0.7)
-add(kick(0.4, 70, 40, 0.12), rr.T_END + 2.4, 0.9); add(kick(0.4, 70, 40, 0.12), rr.T_END + 2.7, 0.7)
+# 마지막: 공습경보 사이렌(천천히 올라가 울렁이며 유지)
+dur = TOTAL - rr.T_END - 0.2
+n = int(dur * SR); ts = np.arange(n) / SR
+fr = 260 + 420 * np.clip(ts / 1.3, 0, 1) ** 0.7 + 18 * np.sin(2 * np.pi * 0.9 * ts)
+ph = 2 * np.pi * np.cumsum(fr) / SR
+siren = sum(np.sin(h * ph) / h for h in (1, 2, 3, 4, 5)) * 0.6
+siren *= np.clip(ts / 0.4, 0, 1) * np.clip((dur - ts) / 0.6, 0, 1)
+add(siren, rr.T_END + 0.2, 0.32, -0.15); add(np.roll(siren, 900), rr.T_END + 0.2, 0.22, 0.15)
 
 # 마스터: 소프트 클립 + 정규화(-1dBFS)
 mix = np.stack([L, R], 1)[: int(TOTAL * SR)]
