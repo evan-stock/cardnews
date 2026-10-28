@@ -1,10 +1,7 @@
-[{"id":"20261028-kjupics","slot":"evening","mode":"collect","limit":30,"slides":[{"t":"수집"}],
- "image_pages":["https://en.wikipedia.org/wiki/Kim_Jong_Un",
-  "https://ko.wikipedia.org/wiki/김정은",
-  "https://www.newspim.com/news/view/20261028000029",
-  "https://kbmaeil.com/article/20261024500059",
-  "https://khan.co.kr/article/202610240948001",
-  "https://khan.co.kr/article/202610241505001",
-  "https://economist.co.kr/article/view/ecn202610240004",
-  "https://www.insight.co.kr/news/579013",
-  "https://www.imaeil.com/page/view/2026022620583183353"]}]
+[{"id":"20261028-cyberpics","slot":"evening","mode":"collect","limit":30,"slides":[{"t":"수집"}],
+ "image_pages":["https://www.seoul.co.kr/news/politics/north/2026/10/28/20261028500252",
+  "https://www.seoul.co.kr/news/society/accident/2026/10/29/20261029014001",
+  "https://www.segye.com/newsView/20261028517076",
+  "https://www.newdaily.co.kr/site/data/html/2026/10/28/2026102800272.html",
+  "https://m.boannews.com/html/detail.html?idx=142426",
+  "https://m.boannews.com/html/detail.html?idx=124880"]}]
