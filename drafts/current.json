@@ -1,11 +1,14 @@
-[{"id":"20261028-hynixnr","slot":"lunch","mode":"collect",
-"topic":"하이닉스 카드용 SK하이닉스 뉴스룸 공식 이미지 수집",
-"image_pages":[
-"https://news.skhynix.co.kr/q3-2026-business-results/",
-"https://news.skhynix.co.kr/q2-2026-business-results/",
-"https://news.skhynix.co.kr/q1-2026-business-results/",
-"https://news.skhynix.co.kr/2026-market-outlook/",
-"https://news.skhynix.co.kr/?p=57656",
-"https://www.asiae.co.kr/en/article/2026010608453113913",
-"https://www.tweaktown.com/news/104464/sk-hynix-confirms-both-hbm4-and-hbm4e-memory-are-coming-this-year-for-next-gen-ai-gpus/index.html"
+[{"id":"20261028-hynixnr2","slot":"lunch","mode":"collect",
+"topic":"하이닉스 카드용 SK하이닉스 뉴스룸 공식 이미지",
+"image_urls":[
+"https://skhynix-prd-data.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2026/10/q3-2026-business-results_THUMB.jpg",
+"https://skhynix-prd-data.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2026/10/SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-2026%EB%85%84-3%EB%B6%84%EA%B8%B0-%EA%B2%BD%EC%98%81%EC%8B%A4%EC%A0%81-%EB%B0%9C%ED%91%9C_%EA%B8%B0%ED%83%80_%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BD_PRESS_2026_01_4.jpg",
+"https://skhynix-prd-data.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2026/07/2q-2026-business-results_Thumb.jpg",
+"https://skhynix-prd-data.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2026/04/q1-2026-business-results_THUMB-1200x675.jpg",
+"https://skhynix-prd-data.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2025/12/2026-market-outlook_thumb.jpg",
+"https://skhynix-prd-data.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2026/10/19th-semiconductor-day_THUMB-1200x675.jpg",
+"https://skhynix-prd-data.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2026/10/ocp-global-summit-2026-Thumb-1200x675.jpg",
+"https://skhynix-prd-data.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2026/10/ai-infrastructure-insight-ep4-Thumb-1200x675.jpg",
+"https://skhynix-prd-data.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2026/10/ai-ecosystem-series-ep4_THUMB-1200x675.jpg",
+"https://skhynix-prd-data.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2026/03/78th-annual-general-meeting-thm-1200x675.jpg"
 ]}]
