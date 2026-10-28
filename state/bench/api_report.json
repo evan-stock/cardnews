@@ -1,136 +1,40 @@
 {
- "since": "2025-06-01",
+ "since": "2025-09-01",
  "fixed": [],
  "found": [
   {
-   "title": "PetCine – Animal Drama Stories",
-   "id": "UCZWNL6de7n7lgc63S3eJWrA",
-   "created": "2025-12-01",
-   "subs": "334",
-   "videos": "129"
+   "title": "VertASC",
+   "id": "UCkSSQisybPEuovZNjQV301A",
+   "created": "2026-05-26",
+   "subs": "3380",
+   "videos": "261"
   },
   {
-   "title": "YuniTheVeterinarian",
-   "id": "UColdwjCAedanavq2o2FubPw",
-   "created": "2025-09-16",
-   "subs": "30",
-   "videos": "37"
-  },
-  {
-   "title": "GigglePaws & Tails",
-   "id": "UCrpQ0q_nH6_dSi__3fKnQsA",
-   "created": "2025-09-02",
-   "subs": "108000",
-   "videos": "125"
-  },
-  {
-   "title": "The Dodo",
-   "id": "UCINb0wqPz-A0dV9nARjJlOQ",
-   "created": "2014-03-21",
-   "subs": "18800000",
-   "videos": "15098"
-  },
-  {
-   "title": "Happy Animation Cartoonz",
-   "id": "UCjQEixzuJWG8eTeZUOSq5hQ",
-   "created": "2026-07-09",
-   "subs": "682",
-   "videos": "222"
-  },
-  {
-   "title": "민망문",
-   "id": "UCP43wJBw9w-qEIyz6bzifUQ",
-   "created": "2025-04-13",
-   "subs": "7",
-   "videos": "19"
-  },
-  {
-   "title": "갓즐 Enjoy Together",
-   "id": "UCezljMR3BNLeodC3TDMOZrg",
-   "created": "2022-08-28",
-   "subs": "196000",
-   "videos": "346"
-  },
-  {
-   "title": "Cats & Cravings",
-   "id": "UC9LsEBoGuxhFGcH9ymsv-aA",
-   "created": "2013-07-06",
-   "subs": "1080",
-   "videos": "753"
+   "title": "일러스트냥이",
+   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
+   "created": "2026-09-25",
+   "subs": "0",
+   "videos": "4"
   }
  ],
  "search_hits": [
   {
-   "q": "dog scared of tiny kitten vet",
-   "vid": "NU0CL4DfyP4",
-   "ch": "GigglePaws & Tails",
-   "cid": "UCrpQ0q_nH6_dSi__3fKnQsA",
-   "date": "2025-10-01",
-   "title": "Funny Dogs Afraid of Cats 😱 | Hilarious Reactions #funny #do",
-   "views": 9210516
+   "q": "주황 고양이 의자",
+   "vid": "jMcNNZ52I20",
+   "ch": "일러스트냥이",
+   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
+   "date": "2026-10-02",
+   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
+   "views": 13
   },
   {
-   "q": "dog scared of tiny kitten vet",
-   "vid": "egePMURdwb4",
-   "ch": "The Dodo",
-   "cid": "UCINb0wqPz-A0dV9nARjJlOQ",
-   "date": "2026-09-30",
-   "title": "Terrified Kitten Dodging Highway Traffic Makes An Incredible",
-   "views": 150317
-  },
-  {
-   "q": "dog scared of tiny kitten vet",
-   "vid": "jzLAMVNBzhg",
-   "ch": "PetCine – Animal Drama Stories",
-   "cid": "UCZWNL6de7n7lgc63S3eJWrA",
-   "date": "2026-02-16",
-   "title": "What My Husky Is Really Scared Of (Not What You Think) #shor",
-   "views": 1070
-  },
-  {
-   "q": "dog scared of tiny kitten vet",
-   "vid": "G1h74xhZ3xs",
-   "ch": "YuniTheVeterinarian",
-   "cid": "UColdwjCAedanavq2o2FubPw",
-   "date": "2025-09-16",
-   "title": "Rescue of the Tiny Kitten 🐈🐕‍🦺 #viral #shorts",
-   "views": 249
-  },
-  {
-   "q": "dog scared of tiny kitten vet",
-   "vid": "MaGEfSLY-H8",
-   "ch": "Happy Animation Cartoonz",
-   "cid": "UCjQEixzuJWG8eTeZUOSq5hQ",
-   "date": "2026-10-17",
-   "title": "Scared Golden Retriever vs Tiny Brave Cat at the Vet 😭🏥 #Sho",
-   "views": 29
-  },
-  {
-   "q": "dogtor off duty kitten",
-   "vid": "h0Y6LIHxOuQ",
-   "ch": "Cats & Cravings",
-   "cid": "UC9LsEBoGuxhFGcH9ymsv-aA",
-   "date": "2025-09-16",
-   "title": "Junior Doctor’s Day Off = Cat Cuddles 🐾💙 #DayOff#DoctorLife#",
-   "views": 82
-  },
-  {
-   "q": "아기고양이 무서워하는 강아지 동물병원",
-   "vid": "j43c4hYVp28",
-   "ch": "갓즐 Enjoy Together",
-   "cid": "UCezljMR3BNLeodC3TDMOZrg",
-   "date": "2025-10-06",
-   "title": "자유분방한 동물 병원 고양이들 때문에 수의사가 황당해진 이유",
-   "views": 10556897
-  },
-  {
-   "q": "아기고양이 무서워하는 강아지 동물병원",
-   "vid": "LdEIoLFkUwM",
-   "ch": "민망문",
-   "cid": "UCP43wJBw9w-qEIyz6bzifUQ",
-   "date": "2026-08-05",
-   "title": "동물병원에서 데려온 아픈 아기 고양이가 이렇게 컸습니다#shorts  #고양이 #cat #반려동물",
-   "views": 849
+   "q": "cat spinning bar stool footrest",
+   "vid": "5K9q4QuOslU",
+   "ch": "VertASC",
+   "cid": "UCkSSQisybPEuovZNjQV301A",
+   "date": "2026-09-28",
+   "title": "Apex predator vs bar stool ring 😭🐾",
+   "views": 18466
   }
  ]
 }

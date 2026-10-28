@@ -1,168 +1,166 @@
 {
- "id": "20261028-doorcat",
+ "id": "20261029-pigeondog",
  "mode": "send",
  "format": "meme",
- "topic": "문 위에 올라가 있는 턱시도 고양이 소프에게 집사가 '거기 올라가도 돼?'라고 잔소리하자 냥펀치 두 방 — 안경이 코끝까지 흘러내린 집사가 멍하니 카메라를 봄(TikTok @goghsyrup, 250만 회+, TAG24 2023.11.1). 원본 소리(집사 잔소리·냥펀치·웃음) 살림, 음악 트랙 없음. 사실: PetMD(수의사 해나 하트) — 고양이는 본능적으로 높은 곳을 찾고, 높은 곳에서 안전하다고 느낀다.",
+ "topic": "산책 중 잔디밭에 앉기만 하면 비둘기 수백 마리가 몰려드는 강아지 왓슨 — 도망은커녕 한가운데 드러눕고, 비둘기가 등에 내려앉아도 꿈쩍 안 함(TikTok @sorrell_grace, 2026.8.28 게시, 540만 회·좋아요 110만, TAG24 2026.10.11). 원본 소리(날갯짓·구구 소리·현장음) 살림, 음악 트랙 없음. 사실: 비둘기는 자기를 쫓던 사람을 옷을 바꿔 입어도 알아보고 피한다(Animal Cognition 2011, 파리 낭테르대 Belguermi 등 — LiveScience 보도).",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 0.7,
  "sfx_max": 4,
  "hook": {
-  "t": "문 위 고양이 혼내면 안되는 이유\n'안경 날아갈 뻔ㅋㅋ'"
+  "t": "비둘기들이 이상형 만나면\n'일어나는 일ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @goghsyrup"
+  "TikTok @sorrell_grace"
  ],
  "scenes": [
   {
-   "dur": 1.6,
+   "dur": 2.6,
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
-    "y": 0.0,
-    "start": 2.0,
-    "audio": 12
+    "y": 0.5,
+    "start": 42.4,
+    "audio": 14
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(퍽!)",
-     "x": 0.7,
-     "y": 0.33,
-     "at": 0.3,
-     "s": "thud",
-     "sv": 0.8
+     "t": "(착지!)",
+     "x": 0.28,
+     "y": 0.2,
+     "at": 0.4,
+     "s": "boing",
+     "sv": 0.7
     },
     {
      "k": "talk",
-     "t": "잔소리 금지",
-     "x": 0.3,
-     "y": 0.27,
-     "at": 0.7
-    }
-   ]
-  },
-  {
-   "say": "사건은 3초 전, 집사의 잔소리로 시작됐습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.0,
-    "start": 0.0,
-    "audio": 0.4,
-    "boomerang": true
-   },
-   "caps": []
-  },
-  {
-   "dur": 0.9,
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.0,
-    "start": 1.45,
-    "audio": 12
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "집사: 너 거기 올라가도 돼?",
-     "x": 0.5,
-     "y": 0.42,
-     "at": 0.0
-    }
-   ]
-  },
-  {
-   "dur": 1.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.0,
-    "start": 2.3,
-    "audio": 12
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(냥펀치!!)",
-     "x": 0.72,
-     "y": 0.36,
-     "at": 0.0,
-     "s": "thud",
-     "sv": 0.8
-    },
-    {
-     "k": "talk",
-     "t": "응 돼",
-     "x": 0.3,
-     "y": 0.27,
-     "at": 0.35
-    },
-    {
-     "k": "sfx",
-     "t": "(한 대 더)",
-     "x": 0.72,
-     "y": 0.45,
+     "t": "또 시작이네...",
+     "x": 0.68,
+     "y": 0.22,
      "at": 1.0
     }
    ]
   },
   {
-   "dur": 2.0,
+   "say": "이 강아지가 잔디밭에 앉자마자, 비둘기들이 몰려듭니다.",
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
-    "y": 0.0,
-    "start": 3.9,
-    "audio": 3
+    "y": 0.5,
+    "start": 21.9,
+    "audio": 4
+   },
+   "caps": []
+  },
+  {
+   "dur": 2.4,
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 25.4,
+    "audio": 12
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(멍...)",
-     "x": 0.55,
-     "y": 0.45,
-     "at": 0.2,
-     "s": "question",
-     "sv": 0.8
+     "t": "(철푸덕)",
+     "x": 0.25,
+     "y": 0.48,
+     "at": 0.3,
+     "s": "slide",
+     "sv": 0.7
     },
     {
      "k": "talk",
-     "t": "또 할 말 있어?",
-     "x": 0.33,
+     "t": "자리 깔았다~ 모여!",
+     "x": 0.6,
+     "y": 0.4,
+     "at": 0.8
+    }
+   ]
+  },
+  {
+   "say": "도망은커녕, 비둘기 떼 한가운데 드러누워 버립니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 28.0,
+    "audio": 4
+   },
+   "caps": []
+  },
+  {
+   "dur": 2.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 47.3,
+    "audio": 10
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(자리 잡음)",
+     "x": 0.24,
+     "y": 0.12,
+     "at": 0.2,
+     "s": "pop",
+     "sv": 0.7
+    },
+    {
+     "k": "talk",
+     "t": "거기 내 등인데...",
+     "x": 0.64,
      "y": 0.27,
      "at": 0.9
     }
    ]
   },
   {
-   "say": "잔소리 한 마디의 대가는, 냥펀치 두 방이었습니다.",
+   "dur": 2.4,
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
-    "y": 0.0,
-    "start": 5.0,
-    "audio": 0.4
+    "y": 0.5,
+    "start": 53.4,
+    "audio": 10
    },
-   "caps": []
+   "caps": [
+    {
+     "k": "talk",
+     "t": "인기 많은 것도 피곤하다",
+     "x": 0.6,
+     "y": 0.3,
+     "at": 0.2
+    },
+    {
+     "k": "sfx",
+     "t": "(구구구구)",
+     "x": 0.3,
+     "y": 0.62,
+     "at": 0.8
+    }
+   ]
   },
   {
-   "say": "고양이는 높은 곳에 있어야 안전하다고 느낀다고 합니다.",
+   "say": "비둘기는 자기를 쫓던 사람 얼굴도 기억한다고 합니다.",
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
-    "y": 0.0,
-    "start": 0.0,
-    "audio": 0,
-    "boomerang": true
+    "y": 0.5,
+    "start": 56.0,
+    "audio": 4
    },
    "caps": [
     {
      "k": "desc",
-     "t": "높은 곳 = 안전 구역\n(PetMD 수의사)",
+     "t": "비둘기는 얼굴을 기억함\n(2011 동물인지 연구)",
      "x": 0.5,
-     "y": 0.62,
+     "y": 0.12,
      "at": 0.3
     }
    ]
@@ -170,30 +168,30 @@
  ],
  "sources": [
   {
-   "publisher": "TikTok @goghsyrup",
-   "url": "https://www.tiktok.com/@goghsyrup/video/7294640510080159008",
-   "date": "2023.10"
+   "publisher": "TikTok @sorrell_grace",
+   "url": "https://www.tiktok.com/@sorrell_grace/video/7679120869448289558",
+   "date": "2026.8.28"
   },
   {
-   "publisher": "TAG24 - Cat \"chose violence\" after being told off by owner in hysterical TikTok video",
-   "url": "https://tag24.com/animals/cats/cat-chose-violence-after-being-told-off-by-owner-in-hysterical-tiktok-video-2999721",
-   "date": "2023.11.1"
+   "publisher": "TAG24 - Viral Video of the Day for October 11, 2026: Sweet dog becomes best buds with unlikely flock",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-11-2026-sweet-dog-becomes-best-buds-with-unlikely-flock-in-adorable-tiktok-3536289",
+   "date": "2026.10.11"
   },
   {
-   "publisher": "PetMD - Why Do Cats Like High Places? (Hannah Hart, DVM)",
-   "url": "https://www.petmd.com/cat/behavior/why-do-cats-like-high-places",
-   "date": "2025.2.11"
+   "publisher": "LiveScience - Pigeons Recognize Human Faces (Animal Cognition 2011)",
+   "url": "https://livescience.com/14895-pigeons-recognize-human-faces.html",
+   "date": "2011.7"
   }
  ],
  "yt": {
-  "title": "문 위에 올라간 고양이 혼내면 안되는 이유ㅋㅋ #shorts",
-  "description": "문 꼭대기에 올라간 고양이에게 \"너 거기 올라가도 돼?\" 한 마디 했을 뿐인데... 돌아온 건 냥펀치 두 방ㅋㅋ\n\n고양이는 본능적으로 높은 곳을 찾는대요. 높은 곳에서 주변을 내려다보면 안전하다고 느끼기 때문이라고 하네요(PetMD 수의사 해나 하트). 문 위 대신 캣타워나 캣선반을 마련해 주면 좋아요.\n\n여러분 집 고양이도 잔소리하면 이렇게 대답하나요?\n\n영상: TikTok @goghsyrup\n참고: TAG24, PetMD\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "비둘기들이 이상형 강아지 만나면 일어나는 일ㅋㅋ #shorts",
+  "description": "산책하다 잔디밭에 앉기만 하면 비둘기들이 몰려오는 강아지 왓슨ㅋㅋ 도망은커녕 한가운데 드러눕고, 등에 비둘기가 앉아도 꿈쩍 안 해요.\n\n비둘기는 생각보다 똑똑해서, 자기를 쫓던 사람은 옷을 바꿔 입어도 얼굴로 알아보고 피한다는 연구가 있어요(Animal Cognition 2011). 왓슨이 절대 안 쫓는다는 걸 아는 걸지도요?\n\n여러분 강아지는 비둘기 보면 어떻게 하나요?\n\n영상: TikTok @sorrell_grace\n참고: TAG24, LiveScience\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "고양이",
-   "냥펀치",
-   "턱시도고양이",
-   "웃긴고양이",
-   "고양이반응",
+   "강아지",
+   "비둘기",
+   "웃긴강아지",
+   "강아지산책",
+   "강아지반응",
    "웃긴동물",
    "동물쇼츠",
    "오늘의털뭉치"
@@ -203,6 +201,6 @@
  },
  "publish_now": true,
  "style": {
-  "sub_y": 0.45
+  "sub_y": 0.84
  }
 }
