@@ -65,3 +65,19 @@
 | worthy/killers.mp3 | Killers | 185.5초 | vol 0.38 | "Killers" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
 | worthy/bit_shift.mp3 | Bit Shift | 3.0초 | vol 0.64 | "Bit Shift" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
 | worthy/ice_flow.mp3 | Ice Flow | 64.0초 | vol 0.3 | "Ice Flow" Kevin MacLeod (incompetech.com) / Licensed under CC BY 4.0 |
+
+## 오늘의쓸모 유튜브 오디오 보관함 곡 (2026.10.29 사용자가 직접 고른 8곡 — 기본 배경음악)
+라이선스: YouTube 오디오 보관함 라이선스(CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE) — 유튜브 영상에 표기 없이 사용 가능, 수익 창출 가능. 유튜브 스튜디오 오디오 보관함에서 받음.
+하이라이트 시작은 bgm_highlight.py --len 20, 음량은 하이라이트 20초 평균 -19.5dB 에 맞춘 값.
+사용자가 이전 Kevin MacLeod 곡들을 마음에 안 들어 해서(10.29 "브금이 마음에 안 드는데") 이 8곡을 우선 돌려 쓴다.
+
+| 파일 | 곡 | 아티스트 | 장르·분위기 | 하이라이트 시작 | 음량 |
+|---|---|---|---|---|---|
+| worthy/the_awakening.mp3 | The Awakening | Patrick Patrikios | 영화음악·어두움 | 30.0초 | vol 0.38 |
+| worthy/subway_dreams.mp3 | Subway Dreams | Dan Henig | 일렉트로닉·극적 | 46.0초 | vol 0.28 |
+| worthy/demon.mp3 | Demon | JVNA | 일렉트로닉·화남 | 12.0초 | vol 0.26 |
+| worthy/inescapable.mp3 | Inescapable | Ugonna Onyekwe | 영화음악·어두움 | 107.0초 | vol 0.49 |
+| worthy/statement.mp3 | Statement | NEFFEX | 얼터너티브·화남 (랩 가사 있음) | 10.0초 | vol 0.3 |
+| worthy/danger_snow.mp3 | Danger Snow | Dan Henig | 일렉트로닉·화남 | 24.0초 | vol 0.25 |
+| worthy/how_it_began.mp3 | How it Began | Silent Partner | 팝·밝음 | 14.5초 | vol 0.56 |
+| worthy/dark_tranquility.mp3 | Dark Tranquility | Anno Domini Beats | 힙합·화남 | 32.0초 | vol 0.45 |
