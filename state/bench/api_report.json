@@ -1,40 +1,209 @@
 {
- "since": "2025-09-01",
+ "since": "2024-06-01",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
+   "title": "Rafi & Becca",
+   "id": "UCmsYrBYaqiPL71cKIjCqo2A",
+   "created": "2018-10-28",
+   "subs": "72500",
+   "videos": "6843"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
-   "subs": "0",
-   "videos": "4"
+   "title": "FelineFlashback",
+   "id": "UCVaysFARzUWj8zx6Q_wqY5A",
+   "created": "2025-11-13",
+   "subs": "187",
+   "videos": "172"
+  },
+  {
+   "title": "Birdie Chaos",
+   "id": "UCPamSdtWNxIOC-HwkvIUq8w",
+   "created": "2026-09-03",
+   "subs": "39",
+   "videos": "75"
+  },
+  {
+   "title": "SomeFun ProX",
+   "id": "UCUJi3YxFRiNBQ0WEIAxDNmA",
+   "created": "2020-06-02",
+   "subs": "42",
+   "videos": "60"
+  },
+  {
+   "title": "simba_the golden retriever",
+   "id": "UChs4A_hcIAwoGN5bntJqgCg",
+   "created": "2023-07-02",
+   "subs": "79",
+   "videos": "57"
+  },
+  {
+   "title": "BMW PET SHOP BD",
+   "id": "UC8e-F0Lc_EtH09rhmLclc3w",
+   "created": "2025-11-16",
+   "subs": "65",
+   "videos": "116"
+  },
+  {
+   "title": "핫템에딧",
+   "id": "UCGoF5v2O-AMvoSCuAZ12ESg",
+   "created": "2016-07-29",
+   "subs": "23200",
+   "videos": "359"
+  },
+  {
+   "title": "애니멀띵",
+   "id": "UCQPdYonMT3Y6uoVdNgn9ssQ",
+   "created": "2021-03-20",
+   "subs": "98500",
+   "videos": "357"
+  },
+  {
+   "title": "앵보스",
+   "id": "UC1xLJD5n6xGMNtlcnweR3ZA",
+   "created": "2012-04-02",
+   "subs": "476",
+   "videos": "257"
+  },
+  {
+   "title": "마수리",
+   "id": "UCbcqEB_4OFMKk1XZPA6JEvA",
+   "created": "2026-04-20",
+   "subs": "3560",
+   "videos": "199"
+  },
+  {
+   "title": "animaizeer",
+   "id": "UCriDCQyGW8ctMEvegb-mgAA",
+   "created": "2026-03-06",
+   "subs": "9",
+   "videos": "10"
+  },
+  {
+   "title": "우리집개새",
+   "id": "UCdscjGkh9LsLUA0ISynpjfQ",
+   "created": "2012-12-02",
+   "subs": "13500",
+   "videos": "740"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "cockatiel on golden retriever head",
+   "vid": "FkpCsnaXhno",
+   "ch": "animaizeer",
+   "cid": "UCriDCQyGW8ctMEvegb-mgAA",
+   "date": "2026-03-07",
+   "title": "Ever wondered what goes through a pet&#39;s head while waiti",
+   "views": 1433
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "q": "cockatiel on golden retriever head",
+   "vid": "H4RFzYIYimo",
+   "ch": "FelineFlashback",
+   "cid": "UCVaysFARzUWj8zx6Q_wqY5A",
+   "date": "2025-12-11",
+   "title": "Golden Retriever Puppy Meets a Cockatiel, Kitten, and Hamste",
+   "views": 560
+  },
+  {
+   "q": "cockatiel on golden retriever head",
+   "vid": "qwcV3bOl7-A",
+   "ch": "simba_the golden retriever",
+   "cid": "UChs4A_hcIAwoGN5bntJqgCg",
+   "date": "2024-06-10",
+   "title": "dancing on head #kiwi #cute #cockatiel #birds #pets #youtube",
+   "views": 33
+  },
+  {
+   "q": "golden retriever cockatiel whistling",
+   "vid": "tAtJsCwudG0",
+   "ch": "Rafi & Becca",
+   "cid": "UCmsYrBYaqiPL71cKIjCqo2A",
+   "date": "2024-07-22",
+   "title": "dog reaction to a whistle sound #dogdog #parrot #birds #pets",
+   "views": 501
+  },
+  {
+   "q": "golden retriever cockatiel whistling",
+   "vid": "YDT77vJ5A8s",
+   "ch": "Birdie Chaos",
+   "cid": "UCPamSdtWNxIOC-HwkvIUq8w",
+   "date": "2026-09-23",
+   "title": "The Bird Whistled… and the Dog ANSWERED 😂 #FunnyPets",
+   "views": 20
+  },
+  {
+   "q": "golden retriever cockatiel whistling",
+   "vid": "EoBawHqIDMk",
+   "ch": "BMW PET SHOP BD",
+   "cid": "UC8e-F0Lc_EtH09rhmLclc3w",
+   "date": "2026-10-22",
+   "title": "🐾 Discover Your New Best Friend at BMW Pet Shop",
+   "views": 19
+  },
+  {
+   "q": "golden retriever cockatiel whistling",
+   "vid": "uOiPHPtwIhk",
+   "ch": "SomeFun ProX",
+   "cid": "UCUJi3YxFRiNBQ0WEIAxDNmA",
+   "date": "2026-04-23",
+   "title": "Parrot Whistling in Happy Mood #funk #parrot #goldenretrieve",
+   "views": 1
+  },
+  {
+   "q": "강아지 머리 위 앵무새",
+   "vid": "bunAyMPkrWM",
+   "ch": "우리집개새",
+   "cid": "UCdscjGkh9LsLUA0ISynpjfQ",
+   "date": "2025-08-27",
+   "title": "앵무새한테기습뽀뽀하면? #귀여운 #강아지 #parrot #반려동물 #반려조#앵무새#카이큐#노란머리카이큐#펫#",
+   "views": 923598
+  },
+  {
+   "q": "강아지 머리 위 앵무새",
+   "vid": "ABJpja8cfJY",
+   "ch": "우리집개새",
+   "cid": "UCdscjGkh9LsLUA0ISynpjfQ",
+   "date": "2025-06-11",
+   "title": "뚜껑물고 협상하러 온 앵무새 #강아지 #동물키우기 #반려견 #애견영상 #귀여운 #강아지브이로그 #반려동물 #",
+   "views": 34533
+  },
+  {
+   "q": "강아지 머리 위 앵무새",
+   "vid": "YJTFOb5K_wU",
+   "ch": "핫템에딧",
+   "cid": "UCGoF5v2O-AMvoSCuAZ12ESg",
+   "date": "2026-08-31",
+   "title": "앵무새 3마리가 머리 위를 차지하자… 강아지가 보인 반응ㅋㅋ",
+   "views": 2591
+  },
+  {
+   "q": "강아지 머리 위 앵무새",
+   "vid": "a5XsiSq1T3w",
+   "ch": "앵보스",
+   "cid": "UC1xLJD5n6xGMNtlcnweR3ZA",
+   "date": "2026-05-26",
+   "title": "[앵보스] 아빠 머리는 앵무새 전용 활주로 ✈️",
+   "views": 2333
+  },
+  {
+   "q": "리트리버 머리 위 새",
+   "vid": "7xVi1BPxJW4",
+   "ch": "애니멀띵",
+   "cid": "UCQPdYonMT3Y6uoVdNgn9ssQ",
+   "date": "2026-09-26",
+   "title": "머리에 새가 올라와 당황한 댕댕이",
+   "views": 1132047
+  },
+  {
+   "q": "리트리버 머리 위 새",
+   "vid": "hgpEQPXq-RY",
+   "ch": "마수리",
+   "cid": "UCbcqEB_4OFMKk1XZPA6JEvA",
+   "date": "2026-09-04",
+   "title": "머리에 참새가 앉아 시스템 고장나버린 리트리버의 4단계 감정변화ㅋㅋㅋ #강아지 #리트리버 #웃긴동물 #댕댕이",
+   "views": 37820
   }
  ]
 }
