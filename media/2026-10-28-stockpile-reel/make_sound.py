@@ -128,7 +128,7 @@ fr = 260 + 420 * np.clip(ts / 1.3, 0, 1) ** 0.7 + 18 * np.sin(2 * np.pi * 0.9 * 
 ph = 2 * np.pi * np.cumsum(fr) / SR
 siren = sum(np.sin(h * ph) / h for h in (1, 2, 3, 4, 5)) * 0.6
 siren *= np.clip(ts / 0.4, 0, 1) * np.clip((dur - ts) / 0.6, 0, 1)
-add(siren, rr.T_END + 0.2, 0.32, -0.15); add(np.roll(siren, 900), rr.T_END + 0.2, 0.22, 0.15)
+# (사이렌은 사용자 요청으로 뺌, 2026.10.28)
 
 # 마스터: 소프트 클립 + 정규화(-1dBFS)
 mix = np.stack([L, R], 1)[: int(TOTAL * SR)]
