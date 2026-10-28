@@ -118,8 +118,8 @@ def card_hits(t0, nlines, big):
         else:
             add(kick(0.3, 140, 60, 0.07), tk, 0.6)
 
-card_hits(rr.T_SHEL, 5, {2})
-card_hits(rr.T_END, 4, {3})
+card_hits(rr.T_SHEL, 3, {1})
+card_hits(rr.T_END, 2, {1})
 # 마지막: 긴 여운 + 심장박동 두 번
 add(kick(0.4, 70, 40, 0.12), rr.T_END + 1.4, 0.9); add(kick(0.4, 70, 40, 0.12), rr.T_END + 1.7, 0.7)
 add(kick(0.4, 70, 40, 0.12), rr.T_END + 2.4, 0.9); add(kick(0.4, 70, 40, 0.12), rr.T_END + 2.7, 0.7)
