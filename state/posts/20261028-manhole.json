@@ -1,13 +1,13 @@
 {
  "id": "20261028-manhole",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-10-28T09:37:56.084867+09:00",
  "publish_at": "2026-10-28T09:37:56.084880+09:00",
  "publish_now": true,
  "topic": "[오늘의쓸모] 폭우 때 맨홀 뚜껑이 물기둥과 함께 날아가는 이유(하수관 속 갇힌 공기) + 흙탕물 아래 숨은 구멍·추락방지망 설치율 7.7%",
  "sources": [],
- "seconds": 21.0,
+ "seconds": 21,
  "tts": [
   "없음(자막+음악)"
  ],
@@ -35,5 +35,7 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1315
+ "tg_msg": 1315,
+ "decided_at": "2026-10-28T19:20:47+09:00",
+ "decided_via": "app"
 }
