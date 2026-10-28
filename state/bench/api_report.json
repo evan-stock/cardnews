@@ -1,40 +1,1498 @@
 {
- "since": "2025-09-01",
+ "since": "2026-08-01",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
+   "title": "쉼표하나",
+   "id": "UC-1Z0HFeCNFMwaQTK1cQm2g",
+   "created": "2025-07-30",
+   "subs": "2920",
+   "videos": "129"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
+   "title": "Juandré Botes",
+   "id": "UCyy7dH4hKG60cnJDjIq8y-w",
+   "created": "2016-02-21",
+   "subs": "54",
+   "videos": "33"
+  },
+  {
+   "title": "Legal_Fuhrer",
+   "id": "UCXMxkARmFN9eh9I-ISXmWhQ",
+   "created": "2023-04-29",
+   "subs": "52700",
+   "videos": "1842"
+  },
+  {
+   "title": "come_back_YT07",
+   "id": "UC44gFwf0w0p_1-W9yh0_jMg",
+   "created": "2024-02-29",
+   "subs": "125000",
+   "videos": "2505"
+  },
+  {
+   "title": "USA AI Hub",
+   "id": "UCsCEGjqYeExkkXGF53XWUKg",
+   "created": "2026-07-27",
+   "subs": "263",
+   "videos": "405"
+  },
+  {
+   "title": "India 2D",
+   "id": "UC2wZKZxI9QN7uxKMGwF51UQ",
+   "created": "2026-07-29",
+   "subs": "297000",
+   "videos": "249"
+  },
+  {
+   "title": "Corgi Tutu",
+   "id": "UC7prLfE2ftO1osssni8a4LA",
+   "created": "2020-12-30",
+   "subs": "127000",
+   "videos": "1529"
+  },
+  {
+   "title": "Raquel Bred",
+   "id": "UCp0vhJccik27XDE1aPmtWvA",
+   "created": "2019-08-18",
+   "subs": "122000",
+   "videos": "3990"
+  },
+  {
+   "title": "WHy ?",
+   "id": "UCef-c6t2jFENvaXJOdd3L_A",
+   "created": "2018-07-06",
+   "subs": "343000",
+   "videos": "1649"
+  },
+  {
+   "title": "Everyday with Mame 🐺 マメといっしょ。",
+   "id": "UCuUQinWvIvcM9R8dN3LUSyg",
+   "created": "2017-10-10",
+   "subs": "66",
+   "videos": "54"
+  },
+  {
+   "title": "QavinoToons",
+   "id": "UCVBKXaANIMdtbfvfGIGv9pQ",
+   "created": "2026-08-26",
+   "subs": "200",
+   "videos": "28"
+  },
+  {
+   "title": "Randomz3",
+   "id": "UCwc9e0K6sg9Z7hzGuuSdkaA",
+   "created": "2024-03-05",
+   "subs": "634",
+   "videos": "1321"
+  },
+  {
+   "title": "Ricardo",
+   "id": "UCe_YWXc89ZWmuCLAl3ixd6w",
+   "created": "2014-11-04",
+   "subs": "2560000",
+   "videos": "320"
+  },
+  {
+   "title": "NEETHI KATHALU",
+   "id": "UCF3_Rrwqa2zvL8YY7s3exuQ",
+   "created": "2026-07-14",
+   "subs": "1120",
+   "videos": "305"
+  },
+  {
+   "title": "THE THY TOYS",
+   "id": "UCgUPj7Yej6-WSxjec1d2NrQ",
+   "created": "2025-10-12",
+   "subs": "912",
+   "videos": "192"
+  },
+  {
+   "title": "TUNCAY TÜNTAŞ ",
+   "id": "UCuFkKKT6HnjJJlKKWPUOZzQ",
+   "created": "2007-12-11",
+   "subs": "273000",
+   "videos": "2233"
+  },
+  {
+   "title": "ss pet vlogger",
+   "id": "UCy2ogj7ZNCi5RhVEAQHhIUA",
+   "created": "2021-11-12",
+   "subs": "1520000",
+   "videos": "1059"
+  },
+  {
+   "title": "코코야옹-펫토리",
+   "id": "UConSGrZQ2Ly0-VeAMJoPe7w",
+   "created": "2026-03-24",
+   "subs": "2470",
+   "videos": "171"
+  },
+  {
+   "title": "Russian kabutari",
+   "id": "UCy3TSAmBUXHWsEcPYJibmIA",
+   "created": "2024-12-04",
+   "subs": "19300",
+   "videos": "2467"
+  },
+  {
+   "title": "Bubba & Paws",
+   "id": "UC92kNy9VFIGV_lOfWFJ0L-w",
+   "created": "2026-09-07",
+   "subs": "542",
+   "videos": "58"
+  },
+  {
+   "title": "ToonMootion ",
+   "id": "UCf3B1ROQKUBYRvXVrxCBXRw",
+   "created": "2013-05-01",
+   "subs": "40200",
+   "videos": "234"
+  },
+  {
+   "title": "News bar 90",
+   "id": "UCwmHuMISKpTjqjyRY5Hxzxg",
+   "created": "2026-08-16",
+   "subs": "10100",
+   "videos": "325"
+  },
+  {
+   "title": "AI STORY MAKER",
+   "id": "UCCRhhtHttLARJsH5wMsAoQQ",
+   "created": "2016-11-10",
+   "subs": "1460000",
+   "videos": "52"
+  },
+  {
+   "title": "R.M COMEDY #SHORTS",
+   "id": "UCU5KS-o2w5u0TS-Md5auxOg",
+   "created": "2023-10-21",
+   "subs": "15400",
+   "videos": "409"
+  },
+  {
+   "title": "Just Dance",
+   "id": "UChIjW4BWKLqpojTrS_tX0mg",
+   "created": "2009-10-29",
+   "subs": "2440000",
+   "videos": "2263"
+  },
+  {
+   "title": "Be Still’s Loft ",
+   "id": "UCsqw1V4_j6IdD-cf7KEUhNg",
+   "created": "2015-04-18",
+   "subs": "710",
+   "videos": "408"
+  },
+  {
+   "title": "Ozzu the Shih Tzu",
+   "id": "UCpTCyj9KN-IXhU5c5SciuJA",
+   "created": "2022-01-02",
+   "subs": "94900",
+   "videos": "1145"
+  },
+  {
+   "title": "Our Bharata",
+   "id": "UCfwI6YqLiHxtdPuxyoir3Fg",
+   "created": "2026-02-28",
+   "subs": "722000",
+   "videos": "279"
+  },
+  {
+   "title": "YT Pigeons",
+   "id": "UCldmBjgkR025i_C1DCr6bpw",
+   "created": "2022-05-19",
+   "subs": "320000",
+   "videos": "1817"
+  },
+  {
+   "title": "Ruhaan Pets Vlog",
+   "id": "UCLUWA0SGeSdRPKW3X85vgAQ",
+   "created": "2024-12-17",
+   "subs": "1490",
+   "videos": "146"
+  },
+  {
+   "title": "Pawsitive Tales",
+   "id": "UCCaF0HBpn76KT4zPVE-22tg",
+   "created": "2025-08-04",
+   "subs": "4370",
+   "videos": "37"
+  },
+  {
+   "title": "La vie de Sora ",
+   "id": "UC9kgolIXXIWklUaWoXZYwMw",
+   "created": "2023-07-27",
+   "subs": "251000",
+   "videos": "819"
+  },
+  {
+   "title": "PyariSiDuniya-913",
+   "id": "UCIzE-hrT6XfMpwwGuM2pe4g",
+   "created": "2025-12-14",
+   "subs": "854",
+   "videos": "161"
+  },
+  {
+   "title": "Rashmi Kushwaha",
+   "id": "UCCggsO1Ae-RutzV-umUDRMQ",
+   "created": "2025-11-08",
+   "subs": "18100",
+   "videos": "191"
+  },
+  {
+   "title": "HAPPY PETS LOFT",
+   "id": "UCTgokUxe9Ya8o6J6CsjAeDw",
+   "created": "2023-02-11",
+   "subs": "32600",
+   "videos": "876"
+  },
+  {
+   "title": "Emilańska ",
+   "id": "UC5oEQUFzuPMpYzV7FU4cbgg",
+   "created": "2023-10-25",
+   "subs": "1060",
+   "videos": "254"
+  },
+  {
+   "title": "Pritam Creation ",
+   "id": "UCzo19MNASYw0UqK16m9cOtg",
+   "created": "2026-06-08",
+   "subs": "4200",
+   "videos": "33"
+  },
+  {
+   "title": "The Pet Collective",
+   "id": "UCPIvT-zcQl2H0vabdXJGcpg",
+   "created": "2012-01-05",
+   "subs": "9580000",
+   "videos": "10835"
+  },
+  {
+   "title": "Глеб Рандалайнен",
+   "id": "UCQz1XMX-QeSGUyZV7Dtgc5A",
+   "created": "2008-04-22",
+   "subs": "6600000",
+   "videos": "2325"
+  },
+  {
+   "title": "Star Pet Vlogger ",
+   "id": "UCsfvlkhJBeL3S3rIz8ZblcA",
+   "created": "2026-06-23",
+   "subs": "43200",
+   "videos": "97"
+  },
+  {
+   "title": "Ajhar Smart Toys",
+   "id": "UC1qUkUiYk9mh6keBmFwuvNw",
+   "created": "2025-11-06",
+   "subs": "116000",
+   "videos": "502"
+  },
+  {
+   "title": "AR pet Vlogs",
+   "id": "UC76L3kN3lOTLPPpsi0Pajmw",
+   "created": "2026-07-02",
+   "subs": "73800",
+   "videos": "109"
+  },
+  {
+   "title": "Arif fauna",
+   "id": "UCaHhOgmpOKUxaKB5XWoIZ9Q",
+   "created": "2021-04-01",
+   "subs": "110000",
+   "videos": "207"
+  },
+  {
+   "title": "고릴라픽",
+   "id": "UCsdSDxlsHZJHBy_N5xetlLw",
+   "created": "2026-07-14",
+   "subs": "423",
+   "videos": "92"
+  },
+  {
+   "title": "Geny",
+   "id": "UCer21zq7GOCYfZXO48EljMQ",
+   "created": "2026-07-20",
+   "subs": "479",
+   "videos": "56"
+  },
+  {
+   "title": "Silent Soul_K",
+   "id": "UCfzUdA1RpGkqscIsMpZoTiw",
+   "created": "2018-04-17",
+   "subs": "41800",
+   "videos": "790"
+  },
+  {
+   "title": "BuzzLogy",
+   "id": "UC20qkVm0tFcN3yLkB_Zarlw",
+   "created": "2025-03-18",
+   "subs": "165000",
+   "videos": "375"
+  },
+  {
+   "title": "Bark Fun Effects",
+   "id": "UCepYQiq6CzZ4z0gQMA8BGCA",
+   "created": "2025-01-07",
+   "subs": "1330",
+   "videos": "412"
+  },
+  {
+   "title": "IndianHolic",
+   "id": "UCzFq_4k3t1Gxzuq0zJxVxiA",
+   "created": "2026-10-04",
+   "subs": "2620",
+   "videos": "8"
+  },
+  {
+   "title": "Funzey",
+   "id": "UCbMdRadA17BOzhTMkNullzg",
+   "created": "2016-04-09",
+   "subs": "57",
+   "videos": "14"
+  },
+  {
+   "title": "  karma shorts video",
+   "id": "UChFetUVmbkg-qr_u3PR3-Fw",
+   "created": "2019-08-30",
+   "subs": "121",
+   "videos": "55"
+  },
+  {
+   "title": "마루별",
+   "id": "UCDM1QTADn7Xulk9is7qP8cQ",
+   "created": "2026-06-28",
+   "subs": "483",
+   "videos": "273"
+  },
+  {
+   "title": "ENJOY the life",
+   "id": "UCTPiew1E-dIty_ghf4ByODQ",
+   "created": "2026-06-27",
+   "subs": "141",
+   "videos": "164"
+  },
+  {
+   "title": "헤이거기",
+   "id": "UCFrwop1we2SxPFvNCeZ_nwA",
+   "created": "2012-10-03",
+   "subs": "489",
+   "videos": "515"
+  },
+  {
+   "title": "봄고소_\"봄은 고양이로소이다\"",
+   "id": "UC4yNFUUO2NdDHxvTBUBq8Eg",
+   "created": "2026-03-19",
+   "subs": "60800",
+   "videos": "361"
+  },
+  {
+   "title": "말하는 동물원",
+   "id": "UCKzDREdl7rxegC5Fg5M6pzw",
+   "created": "2026-07-10",
+   "subs": "9",
+   "videos": "509"
+  },
+  {
+   "title": "해찬란라이프",
+   "id": "UCH1U7-4QvVJyvBNIys1dbpg",
+   "created": "2013-09-23",
+   "subs": "143",
+   "videos": "197"
+  },
+  {
+   "title": "Fedyafilms",
+   "id": "UCfEatAncsQqnB0kNkiLOWVA",
+   "created": "2023-11-08",
+   "subs": "280",
+   "videos": "465"
+  },
+  {
+   "title": "사람같은 동물들 · PawLikeUs",
+   "id": "UCwe0PPA_wV_OspYj-idklBA",
+   "created": "2025-08-09",
+   "subs": "151",
+   "videos": "56"
+  },
+  {
+   "title": "Sri ram Gopal",
+   "id": "UCAdVl2VHWuz35wrURF1w46w",
+   "created": "2023-07-23",
    "subs": "0",
-   "videos": "4"
+   "videos": "27"
+  },
+  {
+   "title": "별이는둘리",
+   "id": "UCZEtRFdqTzbNcCf18doYsYg",
+   "created": "2019-12-11",
+   "subs": "1250",
+   "videos": "277"
+  },
+  {
+   "title": "량이향이",
+   "id": "UCaunUvxcnV1wysQTWL2HXCQ",
+   "created": "2014-12-06",
+   "subs": "35",
+   "videos": "61"
+  },
+  {
+   "title": "오지랖 판정단",
+   "id": "UCRZdCRxxzaoM2MGRwcTwRNw",
+   "created": "2026-09-21",
+   "subs": "404",
+   "videos": "104"
+  },
+  {
+   "title": "한줄기바람",
+   "id": "UCZRLqFzJN6xsjjnaK15PA9A",
+   "created": "2012-09-30",
+   "subs": "14",
+   "videos": "41"
+  },
+  {
+   "title": "hannapetscomedy",
+   "id": "UC7tlJ1Jb9a5x8FLZHYJNWcA",
+   "created": "2026-06-26",
+   "subs": "73",
+   "videos": "43"
+  },
+  {
+   "title": "정해영",
+   "id": "UC1j--qer4ZRlnM5TuD3UoMQ",
+   "created": "2014-07-16",
+   "subs": "2",
+   "videos": "2"
+  },
+  {
+   "title": "끌릭모모TV",
+   "id": "UCN98Le19biRtJTnvoVMS1wA",
+   "created": "2019-11-23",
+   "subs": "195",
+   "videos": "721"
+  },
+  {
+   "title": "김나성",
+   "id": "UCzKAZ-CheXJ3JAXBeskrJ_Q",
+   "created": "2017-04-27",
+   "subs": "1690",
+   "videos": "2298"
+  },
+  {
+   "title": "Real World Dog Training UK",
+   "id": "UCsf5h5JWnPLAciRrTDN2BZA",
+   "created": "2026-08-02",
+   "subs": "136",
+   "videos": "57"
+  },
+  {
+   "title": "Liya Dubai",
+   "id": "UCnXKpks7t4-EgQJUOqeqS2Q",
+   "created": "2026-04-23",
+   "subs": "22",
+   "videos": "54"
+  },
+  {
+   "title": " 연 이132",
+   "id": "UCWzwCJYpGbJOcfoDgrPOVMA",
+   "created": "2020-09-06",
+   "subs": "107",
+   "videos": "342"
+  },
+  {
+   "title": "루이와비똥이네",
+   "id": "UC2oZHHlv86K0uiHmq7kJANw",
+   "created": "2020-06-16",
+   "subs": "348",
+   "videos": "390"
+  },
+  {
+   "title": "금란라이프26",
+   "id": "UCHL6CtOHXhlt2kwaD_4BN2w",
+   "created": "2020-04-14",
+   "subs": "12500",
+   "videos": "554"
+  },
+  {
+   "title": "승혜인생여행",
+   "id": "UCbmT5fe_JjxYPNqB6y8qjUQ",
+   "created": "2021-06-01",
+   "subs": "3000",
+   "videos": "1627"
+  },
+  {
+   "title": "Tiffy",
+   "id": "UCK_kUF7vhF6Oy7JT0XlnZyQ",
+   "created": "2026-10-11",
+   "subs": "7",
+   "videos": "8"
+  },
+  {
+   "title": "L'Option Relax",
+   "id": "UCTHjcg7EAO5mOR6s-aeAMhA",
+   "created": "2026-02-16",
+   "subs": "26",
+   "videos": "35"
+  },
+  {
+   "title": "Planet Uncovered",
+   "id": "UCIjJS8e-ISOEBT7LKklYQVg",
+   "created": "2021-12-22",
+   "subs": "234",
+   "videos": "305"
+  },
+  {
+   "title": "KOREA_BusanFamily",
+   "id": "UCkU3Js0pABAsHNweDUG8sZg",
+   "created": "2013-09-10",
+   "subs": "1850",
+   "videos": "2647"
+  },
+  {
+   "title": "sm pet world",
+   "id": "UC3mP1bfeVCkGG7omX0EI0HA",
+   "created": "2023-12-25",
+   "subs": "659",
+   "videos": "597"
+  },
+  {
+   "title": "Akash Sarkar",
+   "id": "UCYU8ArdnMfkYS_pVfOm_EuA",
+   "created": "2025-02-05",
+   "subs": "365",
+   "videos": "249"
+  },
+  {
+   "title": "챠밍다육💕",
+   "id": "UCocSgONLbTVZzqdneQOJmbQ",
+   "created": "2013-04-19",
+   "subs": "335",
+   "videos": "259"
+  },
+  {
+   "title": "달달일상",
+   "id": "UCk3YEMN0W7dMIdMw5g73_0A",
+   "created": "2026-03-02",
+   "subs": "17",
+   "videos": "16"
+  },
+  {
+   "title": "오늘의 털뭉치",
+   "id": "UCfMNny--gglnXUIHZSIFdFw",
+   "created": "2026-10-11",
+   "subs": "94",
+   "videos": "39"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "watson pigeons dog",
+   "vid": "Cyz9l7pw6Hc",
+   "ch": "Глеб Рандалайнен",
+   "cid": "UCQz1XMX-QeSGUyZV7Dtgc5A",
+   "date": "2026-10-18",
+   "title": "Пёс Ватсон подружился с голубями 💙",
+   "views": 835657
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "q": "watson pigeons dog",
+   "vid": "gxGHjBF1Txg",
+   "ch": "Pawsitive Tales",
+   "cid": "UCCaF0HBpn76KT4zPVE-22tg",
+   "date": "2026-10-12",
+   "title": "How a 10-Year-Old Dog Befriended a Flock of Pigeons 🕊️🥰",
+   "views": 5637
+  },
+  {
+   "q": "watson pigeons dog",
+   "vid": "QkuK_zFIwSc",
+   "ch": "고릴라픽",
+   "cid": "UCsdSDxlsHZJHBy_N5xetlLw",
+   "date": "2026-10-14",
+   "title": "비둘기들이 사랑한 강아지 The Dog Loved by Pigeons",
+   "views": 1156
+  },
+  {
+   "q": "watson pigeons dog",
+   "vid": "xfEsG7Ariu0",
+   "ch": "Juandré Botes",
+   "cid": "UCyy7dH4hKG60cnJDjIq8y-w",
+   "date": "2026-10-12",
+   "title": "He made pigeon friends.",
+   "views": 148
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "PJexYINSVg8",
+   "ch": "Our Bharata",
+   "cid": "UCfwI6YqLiHxtdPuxyoir3Fg",
+   "date": "2026-09-30",
+   "title": "Best Friends Ever! 🕊️🐕 Hunger Asked for Water. Kindness Brou",
+   "views": 4549851
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "Dh13-wuUiyY",
+   "ch": "Legal_Fuhrer",
+   "cid": "UCXMxkARmFN9eh9I-ISXmWhQ",
+   "date": "2026-10-19",
+   "title": "This Dog Saw a Hungry Pigeon… What He Did Next Is Beautiful!",
+   "views": 2101151
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "Jr0zGSWJyec",
+   "ch": "News bar 90",
+   "cid": "UCwmHuMISKpTjqjyRY5Hxzxg",
+   "date": "2026-09-19",
+   "title": "Dog Shares Its Food With a Hungry Pigeon..!",
+   "views": 1360065
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "3sKZWIDMG64",
+   "ch": "BuzzLogy",
+   "cid": "UC20qkVm0tFcN3yLkB_Zarlw",
+   "date": "2026-10-17",
+   "title": "This Dog Became Best Friends With a Flock of Pigeons #dog #d",
+   "views": 364957
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "bYo3u30fzgM",
+   "ch": "TUNCAY TÜNTAŞ ",
+   "cid": "UCuFkKKT6HnjJJlKKWPUOZzQ",
+   "date": "2026-08-19",
+   "title": "Güvercini köpek gibi eğitmiş",
+   "views": 435814
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "zfRpCt1ObN8",
+   "ch": "Arif fauna",
+   "cid": "UCaHhOgmpOKUxaKB5XWoIZ9Q",
+   "date": "2026-09-25",
+   "title": "kharb पाशी loft kase banaya | kabutar bazi 🕊️😎 #shorts #ytsh",
+   "views": 270909
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "3CclLLXVybY",
+   "ch": "India 2D",
+   "cid": "UC2wZKZxI9QN7uxKMGwF51UQ",
+   "date": "2026-10-05",
+   "title": "The Pigeon Asked for Water… The Dog Came Back With Food 🐦🐶❤️",
+   "views": 232850
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "m5TgQuuV5Oc",
+   "ch": "ss pet vlogger",
+   "cid": "UCy2ogj7ZNCi5RhVEAQHhIUA",
+   "date": "2026-09-25",
+   "title": "New setup for pigeons🕊️ #minivlog #breedingpair #vlog #pets ",
+   "views": 160276
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "jlz4vsb00nY",
+   "ch": "La vie de Sora ",
+   "cid": "UC9kgolIXXIWklUaWoXZYwMw",
+   "date": "2026-08-20",
+   "title": "Mission pigeons !!! #chien #chiot #educationcanine #chiens #",
+   "views": 158851
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "nzUKF7lXeF0",
+   "ch": "Star Pet Vlogger ",
+   "cid": "UCsfvlkhJBeL3S3rIz8ZblcA",
+   "date": "2026-08-22",
+   "title": "Pigeon hatch his eggs #shorts #petvlogs",
+   "views": 127508
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "rttfo4r3Q-o",
+   "ch": "AR pet Vlogs",
+   "cid": "UC76L3kN3lOTLPPpsi0Pajmw",
+   "date": "2026-09-10",
+   "title": "trap bana kar jungali kabutar pakad liya 😭💔😱 #minivlog #vira",
+   "views": 93597
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "M9Jj9LRNPXE",
+   "ch": "The Pet Collective",
+   "cid": "UCPIvT-zcQl2H0vabdXJGcpg",
+   "date": "2026-09-12",
+   "title": "Sneaky Dog Tries To Sneak Up On Pigeon",
+   "views": 100855
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "nSw9ZbQ9hno",
+   "ch": "Corgi Tutu",
+   "cid": "UC7prLfE2ftO1osssni8a4LA",
+   "date": "2026-10-11",
+   "title": "Little pigeon-toed steps, super smooth when getting dressed!",
+   "views": 89185
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "LpiFvA8M-4s",
+   "ch": "Ruhaan Pets Vlog",
+   "cid": "UCLUWA0SGeSdRPKW3X85vgAQ",
+   "date": "2026-08-03",
+   "title": "Kabutari ne anda kyu pheki? #kabutar #pigeons #pets #birds #",
+   "views": 42609
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "OzsYwEnYSLw",
+   "ch": "Ajhar Smart Toys",
+   "cid": "UC1qUkUiYk9mh6keBmFwuvNw",
+   "date": "2026-08-27",
+   "title": "Egg Wala Pigeon And RC Unicorn Dog Unboxing 🦄😱",
+   "views": 41809
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "J04rRSwd9eU",
+   "ch": "Pritam Creation ",
+   "cid": "UCzo19MNASYw0UqK16m9cOtg",
+   "date": "2026-10-27",
+   "title": "LOFT KE UNDER YE KON GUSH GAYA 😨🐶",
+   "views": 27377
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "vE61PGWCb_c",
+   "ch": "YT Pigeons",
+   "cid": "UCldmBjgkR025i_C1DCr6bpw",
+   "date": "2026-08-28",
+   "title": "Wonderful Latest New Pigeon Collection 🥰💕 || #shorts #shorts",
+   "views": 33895
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "j5m4aombNzw",
+   "ch": "R.M COMEDY #SHORTS",
+   "cid": "UCU5KS-o2w5u0TS-Md5auxOg",
+   "date": "2026-10-20",
+   "title": "Dog, the pigeons survived because of you #cat #shorts",
+   "views": 30035
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "uWm1SULHxNQ",
+   "ch": "쉼표하나",
+   "cid": "UC-1Z0HFeCNFMwaQTK1cQm2g",
+   "date": "2026-10-27",
+   "title": "&quot;얘는 사냥꾼이에요&quot; 비둘기를 두 번 놓친 9개월 흑구 진돗개가 대신 해낸 일",
+   "views": 33225
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "EXI6hVB2HEM",
+   "ch": "Just Dance",
+   "cid": "UChIjW4BWKLqpojTrS_tX0mg",
+   "date": "2026-09-15",
+   "title": "Is the coach a pigeon 🐦‍⬛, a dog 🐶 or a Grandma 👵 ? Who know",
+   "views": 34546
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "DLDx7qtKQoo",
+   "ch": "Ricardo",
+   "cid": "UCe_YWXc89ZWmuCLAl3ixd6w",
+   "date": "2026-10-19",
+   "title": "Las palomas eligieron a este perrito como su líder!",
+   "views": 28591
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "qMqVft_QnN0",
+   "ch": "Ozzu the Shih Tzu",
+   "cid": "UCpTCyj9KN-IXhU5c5SciuJA",
+   "date": "2026-09-10",
+   "title": "My Dog hates pigeons 🤦🏻‍♀️ #pets #dogs #dogshorts #funny #do",
+   "views": 27458
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "ZlbwKHS8Qms",
+   "ch": "Silent Soul_K",
+   "cid": "UCfzUdA1RpGkqscIsMpZoTiw",
+   "date": "2026-10-07",
+   "title": "🐶❤️ Dog Shares His Bread With a Hungry Pigeon | Pure Kindnes",
+   "views": 23206
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "1OjiyH4wAPg",
+   "ch": "Rashmi Kushwaha",
+   "cid": "UCCggsO1Ae-RutzV-umUDRMQ",
+   "date": "2026-09-24",
+   "title": "Dog Shares His Food With a Hungry Pigeon🐶🐦#DogAndPigeon #Kin",
+   "views": 22550
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "f4JbEZuVBMQ",
+   "ch": "AI STORY MAKER",
+   "cid": "UCCRhhtHttLARJsH5wMsAoQQ",
+   "date": "2026-09-15",
+   "title": "Pigeon and Genie funny story #pigeon #dog #genie #story #sho",
+   "views": 23147
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "wck_5Bkw4MY",
+   "ch": "ToonMootion ",
+   "cid": "UCf3B1ROQKUBYRvXVrxCBXRw",
+   "date": "2026-10-07",
+   "title": "A Thirsty Pigeon Asked for Water… But the Dog Gave Him Food ",
+   "views": 22081
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "J71ak171uCE",
+   "ch": "Randomz3",
+   "cid": "UCwc9e0K6sg9Z7hzGuuSdkaA",
+   "date": "2026-09-12",
+   "title": "Controlled fog for the pigeon",
+   "views": 21556
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "6JETKxGTukU",
+   "ch": "Randomz3",
+   "cid": "UCwc9e0K6sg9Z7hzGuuSdkaA",
+   "date": "2026-08-26",
+   "title": "Dog chasing pigeons",
+   "views": 20376
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "M2mWQ922FCo",
+   "ch": "Raquel Bred",
+   "cid": "UCp0vhJccik27XDE1aPmtWvA",
+   "date": "2026-09-17",
+   "title": "Las palomas me persiguen #perrita #mascotas #cuidados",
+   "views": 20330
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "tlJDQsyccs4",
+   "ch": "Ozzu the Shih Tzu",
+   "cid": "UCpTCyj9KN-IXhU5c5SciuJA",
+   "date": "2026-10-19",
+   "title": "My dog hates pigeon 🤦🏻‍♀️ #dogs #shorts # #pets #shihtzu #do",
+   "views": 16451
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "QPDzs46ASU4",
+   "ch": "WHy ?",
+   "cid": "UCef-c6t2jFENvaXJOdd3L_A",
+   "date": "2026-10-10",
+   "title": "Pigeon time🥹 #animals #dog #dogs #dogshorts #cute #pigeon #b",
+   "views": 16057
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "z5lO3EWJq4k",
+   "ch": "Randomz3",
+   "cid": "UCwc9e0K6sg9Z7hzGuuSdkaA",
+   "date": "2026-08-25",
+   "title": "Dog vs pigeon",
+   "views": 12700
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "DVKgbBBzuBA",
+   "ch": "come_back_YT07",
+   "cid": "UC44gFwf0w0p_1-W9yh0_jMg",
+   "date": "2026-09-05",
+   "title": "pigeon ke upar dog Mein attack kar diya aur kabutar Ghayal H",
+   "views": 12974
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "54b0zMiKzzw",
+   "ch": "코코야옹-펫토리",
+   "cid": "UConSGrZQ2Ly0-VeAMJoPe7w",
+   "date": "2026-09-29",
+   "title": "비둘기를 잡아라!!",
+   "views": 12595
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "_wcQa4qnEmE",
+   "ch": "Randomz3",
+   "cid": "UCwc9e0K6sg9Z7hzGuuSdkaA",
+   "date": "2026-09-12",
+   "title": "2 pigeons escaped from the hunter dog",
+   "views": 9900
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "-GTvURImB_Q",
+   "ch": "Bubba & Paws",
+   "cid": "UC92kNy9VFIGV_lOfWFJ0L-w",
+   "date": "2026-09-30",
+   "title": "Baby Gets Startled by a Pigeon 🐦🐶 | Dog Stays Close to Baby",
+   "views": 11734
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "ht5ZdvxLGSg",
+   "ch": "Bark Fun Effects",
+   "cid": "UCepYQiq6CzZ4z0gQMA8BGCA",
+   "date": "2026-08-20",
+   "title": "Puppy Dog Pals | We Pigeons Love That Stuff!! Sponsored by K",
+   "views": 5103
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "lovJ1HdK9hM",
+   "ch": "Geny",
+   "cid": "UCer21zq7GOCYfZXO48EljMQ",
+   "date": "2026-08-10",
+   "title": "🐱🐶🕊️ Cat, Dog &amp; Pigeon – A Beautiful Friendship Story ❤️",
+   "views": 10092
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "lZ_hnCwwkxQ",
+   "ch": "NEETHI KATHALU",
+   "cid": "UCF3_Rrwqa2zvL8YY7s3exuQ",
+   "date": "2026-10-20",
+   "title": "ఆవు, పావురం, కుక్క స్నేహం#TeluguStories #AnimalStories #Telu",
+   "views": 7965
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "BQshyLuMPAw",
+   "ch": "AI STORY MAKER",
+   "cid": "UCCRhhtHttLARJsH5wMsAoQQ",
+   "date": "2026-09-16",
+   "title": "Pigeon And Genie River Story #shorts #pigeons #dog #Genie",
+   "views": 4423
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "hTw7Cr9JbmQ",
+   "ch": "IndianHolic",
+   "cid": "UCzFq_4k3t1Gxzuq0zJxVxiA",
+   "date": "2026-10-06",
+   "title": "The Pigeon Asked for Water... The Dog Came Back With Food 🐦🐶",
+   "views": 5299
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "wxskaIFvgo8",
+   "ch": "QavinoToons",
+   "cid": "UCVBKXaANIMdtbfvfGIGv9pQ",
+   "date": "2026-10-24",
+   "title": "😂 A Pigeon ROBBED a Cat &amp; Dog! 🐱🐶🐦 #Shorts",
+   "views": 4656
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "2Xuz56Jfh2g",
+   "ch": "HAPPY PETS LOFT",
+   "cid": "UCTgokUxe9Ya8o6J6CsjAeDw",
+   "date": "2026-09-14",
+   "title": "#pigeon #kabootar #birds #dog",
+   "views": 4897
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "c99cjOehWp0",
+   "ch": "USA AI Hub",
+   "cid": "UCsCEGjqYeExkkXGF53XWUKg",
+   "date": "2026-09-21",
+   "title": "the dog and pigeon 🐦",
+   "views": 4949
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "gxGHjBF1Txg",
+   "ch": "Pawsitive Tales",
+   "cid": "UCCaF0HBpn76KT4zPVE-22tg",
+   "date": "2026-10-12",
+   "title": "How a 10-Year-Old Dog Befriended a Flock of Pigeons 🕊️🥰",
+   "views": 5637
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "PpU5naELAXM",
+   "ch": "Emilańska ",
+   "cid": "UC5oEQUFzuPMpYzV7FU4cbgg",
+   "date": "2026-09-04",
+   "title": "Z niechcenia😅#pets #zwierzaki #animals #dog #pigeon #funny #",
+   "views": 2662
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "0b8PUXhNgIc",
+   "ch": "PyariSiDuniya-913",
+   "cid": "UCIzE-hrT6XfMpwwGuM2pe4g",
+   "date": "2026-10-07",
+   "title": "The Pigeon Asked for Water… The Dog Came Back With Food 🐦🐶❤️",
+   "views": 2921
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "ABNRTSQgqvg",
+   "ch": "Funzey",
+   "cid": "UCbMdRadA17BOzhTMkNullzg",
+   "date": "2026-10-19",
+   "title": "This Polish Guy Has a Dog, a Duck and a Pigeon 🐶🦆🕊️",
+   "views": 2563
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "JE30Bq271mA",
+   "ch": "Be Still’s Loft ",
+   "cid": "UCsqw1V4_j6IdD-cf7KEUhNg",
+   "date": "2026-09-19",
+   "title": "#dog #pitbull #birds #goodmorning #pigeon",
+   "views": 2570
+  },
+  {
+   "q": "dog and his pigeons",
+   "vid": "BxSCMNzkWsc",
+   "ch": "HAPPY PETS LOFT",
+   "cid": "UCTgokUxe9Ya8o6J6CsjAeDw",
+   "date": "2026-09-11",
+   "title": "Dog hunting Pigeon #pigeon #kabutar #birds",
+   "views": 3298
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "3sKZWIDMG64",
+   "ch": "BuzzLogy",
+   "cid": "UC20qkVm0tFcN3yLkB_Zarlw",
+   "date": "2026-10-17",
+   "title": "This Dog Became Best Friends With a Flock of Pigeons #dog #d",
+   "views": 364957
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "n61jUnAq-Bg",
+   "ch": "Russian kabutari",
+   "cid": "UCy3TSAmBUXHWsEcPYJibmIA",
+   "date": "2026-10-09",
+   "title": "Kabutar #pigeon #kabootar #kabutar #birds",
+   "views": 113227
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "gxGHjBF1Txg",
+   "ch": "Pawsitive Tales",
+   "cid": "UCCaF0HBpn76KT4zPVE-22tg",
+   "date": "2026-10-12",
+   "title": "How a 10-Year-Old Dog Befriended a Flock of Pigeons 🕊️🥰",
+   "views": 5637
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "itkdW2hCFPY",
+   "ch": "THE THY TOYS",
+   "cid": "UCgUPj7Yej6-WSxjec1d2NrQ",
+   "date": "2026-08-04",
+   "title": "The Most Insane Pigeon Gathering Ever! 🕊️",
+   "views": 992
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "rwESqVAnn5c",
+   "ch": "Everyday with Mame 🐺 マメといっしょ。",
+   "cid": "UCuUQinWvIvcM9R8dN3LUSyg",
+   "date": "2026-09-18",
+   "title": "ハスキー vs ハトの群れ Husky vs. Flock of Pigeons #マメといっしょ #ハスキー #犬 #",
+   "views": 1335
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "LFiCDXnX3VI",
+   "ch": "sm pet world",
+   "cid": "UC3mP1bfeVCkGG7omX0EI0HA",
+   "date": "2026-08-10",
+   "title": "Alex vs Bandar😡 #minivlog #pigeon #kabutar #dog #dogshorts #",
+   "views": 1446
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "5Ft5ECaL-0E",
+   "ch": "  karma shorts video",
+   "cid": "UChFetUVmbkg-qr_u3PR3-Fw",
+   "date": "2026-10-25",
+   "title": "#shreeganesh #jaymamadev #birds #kabootar #parvati #kabutar ",
+   "views": 1182
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "uXBqtjpbyc4",
+   "ch": "Fedyafilms",
+   "cid": "UCfEatAncsQqnB0kNkiLOWVA",
+   "date": "2026-10-08",
+   "title": "When The Local Guard Dog Wants His Moment On Camera 🐕😳",
+   "views": 1229
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "kdv9PtdrjRU",
+   "ch": "Planet Uncovered",
+   "cid": "UCIjJS8e-ISOEBT7LKklYQVg",
+   "date": "2026-08-07",
+   "title": "This Man Walks Pigeons Like Dogs 🕊️😳 #shorts",
+   "views": 573
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "hP7Y_XXp1DQ",
+   "ch": "Akash Sarkar",
+   "cid": "UCYU8ArdnMfkYS_pVfOm_EuA",
+   "date": "2026-08-18",
+   "title": "Dog 🐕 Kabutar 🕊️🥰 #pigeon #vilogpigeon #kabutar #kabootarba ",
+   "views": 558
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "ff3I9Ph5zFs",
+   "ch": "Akash Sarkar",
+   "cid": "UCYU8ArdnMfkYS_pVfOm_EuA",
+   "date": "2026-08-16",
+   "title": "Dog 🐕 #pigeon #kabutar #kabootarba #pigeonlaver #birds #kabo",
+   "views": 272
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "uBNINiZO6s4",
+   "ch": "L'Option Relax",
+   "cid": "UCTHjcg7EAO5mOR6s-aeAMhA",
+   "date": "2026-08-23",
+   "title": "Soirée montage de bbq #pigeons #dogs #dyna-glo",
+   "views": 430
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "yUdXp6vDwMk",
+   "ch": "Real World Dog Training UK",
+   "cid": "UCsf5h5JWnPLAciRrTDN2BZA",
+   "date": "2026-09-09",
+   "title": "Luna Rescued a Baby Pigeon | We Named Him Speckled Jim Junio",
+   "views": 210
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "xfEsG7Ariu0",
+   "ch": "Juandré Botes",
+   "cid": "UCyy7dH4hKG60cnJDjIq8y-w",
+   "date": "2026-10-12",
+   "title": "He made pigeon friends.",
+   "views": 148
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "d44uEA3r9do",
+   "ch": "Tiffy",
+   "cid": "UCK_kUF7vhF6Oy7JT0XlnZyQ",
+   "date": "2026-10-11",
+   "title": "Tiny Dog vs. BIG PIGEON ATTITUDE! 😤🐶😂 #maltipoo",
+   "views": 42
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "YUY-7cTj3aQ",
+   "ch": "ENJOY the life",
+   "cid": "UCTPiew1E-dIty_ghf4ByODQ",
+   "date": "2026-10-28",
+   "title": "Street Dog Among a Flock of Pigeons 🐕🐦#Dogs #Pigeons #Animal",
+   "views": 69
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "WtGbVnPlmkE",
+   "ch": "Sri ram Gopal",
+   "cid": "UCAdVl2VHWuz35wrURF1w46w",
+   "date": "2026-09-29",
+   "title": "Dog Shares His Meal With 30 Pigeons 🐶🐦",
+   "views": 12
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "ES1ZT6yMT1s",
+   "ch": "Liya Dubai",
+   "cid": "UCnXKpks7t4-EgQJUOqeqS2Q",
+   "date": "2026-08-04",
+   "title": "😱 I Thought He Was Walking Dogs… Then I Saw the PIGEONS 🐦😂",
+   "views": 3
+  },
+  {
+   "q": "pigeons flock to dog",
+   "vid": "rKmVrwQsqN8",
+   "ch": "hannapetscomedy",
+   "cid": "UC7tlJ1Jb9a5x8FLZHYJNWcA",
+   "date": "2026-10-28",
+   "title": "Grandpa Walks His Pigeons Like You Walk Your Dog 🐦",
+   "views": 92
+  },
+  {
+   "q": "pigeon dog watson",
+   "vid": "Cyz9l7pw6Hc",
+   "ch": "Глеб Рандалайнен",
+   "cid": "UCQz1XMX-QeSGUyZV7Dtgc5A",
+   "date": "2026-10-18",
+   "title": "Пёс Ватсон подружился с голубями 💙",
+   "views": 835657
+  },
+  {
+   "q": "pigeon dog watson",
+   "vid": "gxGHjBF1Txg",
+   "ch": "Pawsitive Tales",
+   "cid": "UCCaF0HBpn76KT4zPVE-22tg",
+   "date": "2026-10-12",
+   "title": "How a 10-Year-Old Dog Befriended a Flock of Pigeons 🕊️🥰",
+   "views": 5637
+  },
+  {
+   "q": "pigeon dog watson",
+   "vid": "QkuK_zFIwSc",
+   "ch": "고릴라픽",
+   "cid": "UCsdSDxlsHZJHBy_N5xetlLw",
+   "date": "2026-10-14",
+   "title": "비둘기들이 사랑한 강아지 The Dog Loved by Pigeons",
+   "views": 1156
+  },
+  {
+   "q": "pigeon dog watson",
+   "vid": "xfEsG7Ariu0",
+   "ch": "Juandré Botes",
+   "cid": "UCyy7dH4hKG60cnJDjIq8y-w",
+   "date": "2026-10-12",
+   "title": "He made pigeon friends.",
+   "views": 148
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "WxPo4pgF-8Y",
+   "ch": "오늘의 털뭉치",
+   "cid": "UCfMNny--gglnXUIHZSIFdFw",
+   "date": "2026-10-17",
+   "title": "산책 중 누웠더니 비둘기 숙소가 된 강아지 #shorts",
+   "views": 9470
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "KfHf2FIUTPw",
+   "ch": "김나성",
+   "cid": "UCzKAZ-CheXJ3JAXBeskrJ_Q",
+   "date": "2026-09-16",
+   "title": "2026년 9월 17일#공원지킴이#비둘기들#그늘에서#가을볕즐기는모습#귀엽네요.(♡))#강문경#눈뜨고있는한🤷‍",
+   "views": 1703
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "QkuK_zFIwSc",
+   "ch": "고릴라픽",
+   "cid": "UCsdSDxlsHZJHBy_N5xetlLw",
+   "date": "2026-10-14",
+   "title": "비둘기들이 사랑한 강아지 The Dog Loved by Pigeons",
+   "views": 1156
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "agdIW0lI1YY",
+   "ch": "달달일상",
+   "cid": "UCk3YEMN0W7dMIdMw5g73_0A",
+   "date": "2026-08-08",
+   "title": "한강에서 자리비우면 안되는 이유 #한강 #공원 #비둘기",
+   "views": 1461
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "nTAsYv8pLkc",
+   "ch": "KOREA_BusanFamily",
+   "cid": "UCkU3Js0pABAsHNweDUG8sZg",
+   "date": "2026-08-10",
+   "title": "비둘기를 부르는 소년 The Boy Calling the Pigeon 부산시민공원 Busan Citizens",
+   "views": 2264
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "9HB32cSHAb4",
+   "ch": "사람같은 동물들 · PawLikeUs",
+   "cid": "UCwe0PPA_wV_OspYj-idklBA",
+   "date": "2026-10-23",
+   "title": "비둘기만 보면 자리에 앉는 강아지, 다 떠나자 “어디 갔지?”",
+   "views": 1139
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "u8NfpGoRGOs",
+   "ch": "마루별",
+   "cid": "UCDM1QTADn7Xulk9is7qP8cQ",
+   "date": "2026-10-17",
+   "title": "비둘기랑 공원 산책하는 법ㅋ 🕊 #shorts",
+   "views": 1043
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "_wuHOvEHWAo",
+   "ch": "챠밍다육💕",
+   "cid": "UCocSgONLbTVZzqdneQOJmbQ",
+   "date": "2026-09-12",
+   "title": "🌸공원에 주인공 비둘기🌸🌟사람을 무서워 하지 않아요🌟 #챠밍다육 # #여행 일상#여행#공원",
+   "views": 1188
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "k2NQulyum_Y",
+   "ch": "오지랖 판정단",
+   "cid": "UCRZdCRxxzaoM2MGRwcTwRNw",
+   "date": "2026-10-18",
+   "title": "&quot;할머니, 비둘기한테 밥 좀 주지 마세요&quot;… 공원 벤치 할머니에게 소리친 여자, 강아지가 ",
+   "views": 314
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "25GxODgtV_8",
+   "ch": "해찬란라이프",
+   "cid": "UCH1U7-4QvVJyvBNIys1dbpg",
+   "date": "2026-08-18",
+   "title": "한강버스기다리며 비둘기랑시원한 강바람과#한강버스#한강공원#서울여행#교통카드로 항강버스#한강유람선",
+   "views": 381
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "hDvOqJs1AcY",
+   "ch": "량이향이",
+   "cid": "UCaunUvxcnV1wysQTWL2HXCQ",
+   "date": "2026-10-08",
+   "title": "흔한.공원의.비둘기.군단",
+   "views": 228
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "dqJ17fwjkow",
+   "ch": " 연 이132",
+   "cid": "UCWzwCJYpGbJOcfoDgrPOVMA",
+   "date": "2026-09-14",
+   "title": "호돌이와 미미  공원비둘기까지 작은 동물원 ##미미#호돌이#보라매공원산책냥이미미#산책#자연#작은동물원",
+   "views": 46
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "-RbFAy9FtcM",
+   "ch": "금란라이프26",
+   "cid": "UCHL6CtOHXhlt2kwaD_4BN2w",
+   "date": "2026-10-06",
+   "title": "비둘기가 닭떼같네요~ #공원산책 #비둘기떼 #산책 #일상기록 #금란라이프26",
+   "views": 74
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "1sUI15mO300",
+   "ch": "끌릭모모TV",
+   "cid": "UCN98Le19biRtJTnvoVMS1wA",
+   "date": "2026-10-15",
+   "title": "끌릭모모TV - 군산 월명공원 비둘기 밥주기(blog.naver.com/everx3)",
+   "views": 20
+  },
+  {
+   "q": "비둘기 강아지 공원",
+   "vid": "4-D-jckgwUo",
+   "ch": "한줄기바람",
+   "cid": "UCZRLqFzJN6xsjjnaK15PA9A",
+   "date": "2026-10-09",
+   "title": "광교호수공원 비둘기들  #광교호수공원 #비둘기 #수원시",
+   "views": 7
+  },
+  {
+   "q": "비둘기 떼 강아지",
+   "vid": "M1KMG_P1m_4",
+   "ch": "봄고소_\"봄은 고양이로소이다\"",
+   "cid": "UC4yNFUUO2NdDHxvTBUBq8Eg",
+   "date": "2026-08-25",
+   "title": "광장 비둘기 떼 사이를 계속 맴도는 길고양이",
+   "views": 118706
+  },
+  {
+   "q": "비둘기 떼 강아지",
+   "vid": "WxPo4pgF-8Y",
+   "ch": "오늘의 털뭉치",
+   "cid": "UCfMNny--gglnXUIHZSIFdFw",
+   "date": "2026-10-17",
+   "title": "산책 중 누웠더니 비둘기 숙소가 된 강아지 #shorts",
+   "views": 9470
+  },
+  {
+   "q": "비둘기 떼 강아지",
+   "vid": "gngCiwUDl-8",
+   "ch": "별이는둘리",
+   "cid": "UCZEtRFdqTzbNcCf18doYsYg",
+   "date": "2026-08-15",
+   "title": "강아지 산책 중 비둘기 떼 발견!!",
+   "views": 1238
+  },
+  {
+   "q": "비둘기 떼 강아지",
+   "vid": "qKXJdzwVsKM",
+   "ch": "헤이거기",
+   "cid": "UCFrwop1we2SxPFvNCeZ_nwA",
+   "date": "2026-09-04",
+   "title": "가을이 오는구나 비둘기떼의 비상 #헤이거기 #비둘기 #shorts",
+   "views": 1260
+  },
+  {
+   "q": "비둘기 떼 강아지",
+   "vid": "bYMhtKKoezU",
+   "ch": "루이와비똥이네",
+   "cid": "UC2oZHHlv86K0uiHmq7kJANw",
+   "date": "2026-09-29",
+   "title": "비둘기 떼보단 냄세수사에 진심인 비똥이ㅋㅋ | Bbitong’s Scent Mission",
+   "views": 1026
+  },
+  {
+   "q": "비둘기 떼 강아지",
+   "vid": "GkvYdY0yrO4",
+   "ch": "정해영",
+   "cid": "UC1j--qer4ZRlnM5TuD3UoMQ",
+   "date": "2026-09-04",
+   "title": "비둘기떼",
+   "views": 1189
+  },
+  {
+   "q": "비둘기 떼 강아지",
+   "vid": "o2Ty11RpanY",
+   "ch": "말하는 동물원",
+   "cid": "UCKzDREdl7rxegC5Fg5M6pzw",
+   "date": "2026-08-09",
+   "title": "말하는 강아지 EP.199 | 산책 나가서 처음 만난 비둘기 떼한테 겁먹고 집사 다리 사이로 숨은 썰 (반전",
+   "views": 223
+  },
+  {
+   "q": "비둘기 떼 강아지",
+   "vid": "-RbFAy9FtcM",
+   "ch": "금란라이프26",
+   "cid": "UCHL6CtOHXhlt2kwaD_4BN2w",
+   "date": "2026-10-06",
+   "title": "비둘기가 닭떼같네요~ #공원산책 #비둘기떼 #산책 #일상기록 #금란라이프26",
+   "views": 74
+  },
+  {
+   "q": "비둘기 떼 강아지",
+   "vid": "PxGLEjVohBY",
+   "ch": "승혜인생여행",
+   "cid": "UCbmT5fe_JjxYPNqB6y8qjUQ",
+   "date": "2026-09-20",
+   "title": "&quot;비둘기 떼가 모인 이 장면, 그냥 지나칠 수 없었습니 다&quot;#비둘기 #자연영상 #힐링영상 ",
+   "views": 78
   }
  ]
 }
