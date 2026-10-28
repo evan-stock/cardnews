@@ -1,0 +1,111 @@
+{
+ "id": "20261028-supercool",
+ "media": "media/20261028-supercool",
+ "topic": "물을 붓자마자 얼음 기둥이 솟는 이유 — 어는점 아래로 내려갔는데도 얼음이 시작될 '씨앗(결정핵)'이 없어 액체로 남은 과냉각 물. 충격이나 얼음 조각에 닿는 순간 결정이 연쇄로 번져 순식간에 언다. 겨울 '어는 비'가 바로 과냉각 빗방울 — 땅·물체에 닿는 순간 얼어 블랙아이스를 만든다(기상청). 블랙아이스 사망자는 적설 사고의 약 3.7배(한국교통연구원).",
+ "hook": {
+  "t": "붓는 순간 '얼음'이\n되는 물의 정체ㄷㄷ"
+ },
+ "credit": "영상: Evan Era(TikTok @evaneramagic)·PBS Nature",
+ "bgm": {
+  "file": "assets/bgm/worthy/ice_flow.mp3",
+  "start": 64.0,
+  "vol": 0.3
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "얼음 기둥·물병 영상: 마술사 Evan Era 본인 TikTok @evaneramagic 7180883800153509166 'Supercooled Water Trick'(2022.12.25, 조회 510만·좋아요 56.5만 — 10.28 info json 확인) — 확대·배속 가공",
+  "유리병 얼음 결정 영상: PBS Nature 공식 TikTok @pbsnature 7331013739283582254(2024.2.2, 생물학자 Thor Hanson, 조회 24만)"
+ ],
+ "sources": [
+  {
+   "publisher": "기상청 날씨이해 교재(hands_20) — 어는 비의 원리는 과냉각 현상과 같다, 어는점 이하에서도 얼지 않던 빗방울이 지표에 떨어지면서 순식간에 얼어붙는다, 블랙아이스·항공기 착빙",
+   "url": "https://www.kma.go.kr/down/e-learning/hands/hands_20.pdf"
+  },
+  {
+   "publisher": "알래스카대 지구물리연구소 Alaska Science Forum — 액체 물은 -40도까지 존재할 수 있다, 얼려면 얼음 핵(외부 입자)이 필요, 흔들면 더 빨리 언다",
+   "url": "https://www.gi.alaska.edu/alaska-science-forum/winter-rainbows-and-supercooled-water"
+  },
+  {
+   "publisher": "위키트리 — 과냉각: 어는점 아래인데도 결정이 시작될 핵이 없어 액체로 남는 현상, 가벼운 충격에 순식간에 결정화",
+   "url": "https://www.wikitree.co.kr/articles/1107999"
+  },
+  {
+   "publisher": "경기일보 2025.1.16 — 한국교통연구원 최근 5년 블랙아이스 관련 사망자 170명, 적설 관련 46명의 약 3.7배; 다리·터널 출입구·그늘진 커브길에서 잘 생김",
+   "url": "https://www.kyeonggi.com/article/20250116580370"
+  }
+ ],
+ "_note": "A~G 는 v3(evaneramagic)·v1(pbsnature) 에서 ffmpeg 로 미리 확대(crop)·배속 가공한 1080x780 클립(-an -g 15). A=v3 18.5~23.7 x1.75 확대1.44(crop 400x289+60+390), B=v3 25.2~28 병 속 슬러시, C=v1 40~42.4 결정, D=v3 36.3~45.3 x3 위에서 아래로 어는 병, E=v3 19.6~21.5 x0.7 확대1.5 리플레이, F=v3 14.8~17.8 붓기 시작, G=v3 0.2~3.4 눈 속 물병.",
+ "scenes": [
+  {
+   "text": "물을 붓자마자 '얼음 기둥'이 솟는다",
+   "video": {
+    "src": "video/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.9
+  },
+  {
+   "text": "병 속 물까지 순식간에 '하얗게'",
+   "video": {
+    "src": "video/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.7
+  },
+  {
+   "text": "마술 같지만 이 물은 이미 '영하'였다",
+   "video": {
+    "src": "video/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "얼음이 시작될 '씨앗'이 없어 못 얼던 과냉각 물",
+   "video": {
+    "src": "video/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.9
+  },
+  {
+   "text": "얼음에 닿는 순간 결정이 연쇄로 '쫙'",
+   "video": {
+    "src": "video/E.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "겨울 '어는 비'가 바로 이 물 — 닿자마자 도로가 얼음판",
+   "video": {
+    "src": "video/F.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "블랙아이스 사망, 눈길의 3.7배! 구독하고 겨울 대비",
+   "video": {
+    "src": "video/G.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.2
+  }
+ ]
+}
