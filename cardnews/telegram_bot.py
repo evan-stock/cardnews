@@ -87,7 +87,7 @@ def send_document(path, caption=""):
 
 def send_preview(post):
     send_album(post["files"])
-    when = post["publish_at"][11:16]
+    when = post["publish_at"][5:16].replace("-", "/", 1).replace("T", " ")  # 날짜까지 표시(예: 10/29 08:30)
     src = "\n".join(f"- {s.get('publisher', '')} {s.get('date', '')} {s.get('url', '')}" for s in post["sources"])
     risk = f"\n⚠️ 확인할 점: {post['risk']}" if post.get("risk") else ""
     text = (f"📰 [{post['slot_label']} {when} 게시 예정] {post['topic']}\n"

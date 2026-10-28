@@ -177,15 +177,16 @@ def build(d, base, send):
             "risk": d.get("risk", ""), "sources": d["sources"], "slides": [{"t": s["t"], "b": s["b"]} for s in slides],
             "caption_full": build_caption(d, credits), "credits": credits, "manual": True}
     from . import telegram_bot as tg
-    post["files"] = files
-    post["tg_msg"] = tg.send_preview(post)
-    post["files"] = [os.path.relpath(f, ROOT) for f in files]
+    # 게시 시각을 먼저 확정한 뒤 미리보기를 보낸다(전에는 미리보기에 슬롯 기본 시각이 찍혀 실제 예약과 달랐음, 2026.10.29 수정)
     if d.get("publish_now"):
         post.update(status="approved", publish_at=now().isoformat(), decided_at=now().isoformat())
     elif d.get("publish_at"):  # 채팅에서 승인받고 시각을 정한 경우: "2026-10-15T21:00:00+09:00"
         post.update(publish_at=d["publish_at"])
         if d.get("approved"):
             post.update(status="approved", decided_at=now().isoformat())
+    post["files"] = files
+    post["tg_msg"] = tg.send_preview(post)
+    post["files"] = [os.path.relpath(f, ROOT) for f in files]
     save_post(post)
 
 
