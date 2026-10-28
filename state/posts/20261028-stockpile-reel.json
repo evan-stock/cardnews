@@ -2,7 +2,7 @@
  "id": "20261028-stockpile-reel",
  "format": "reel",
  "slot": "lunch",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-28T13:26:41+09:00",
  "publish_at": "2026-10-28T13:26:41+09:00",
  "decided_at": "2026-10-28T13:26:41+09:00",
@@ -39,5 +39,8 @@
   "자체 제작 모션그래픽(지도: Natural Earth)",
   "사운드: 자체 합성"
  ],
- "manual": true
+ "manual": true,
+ "ig_media_id": "18437214076196156",
+ "permalink": "https://www.instagram.com/reel/DfBknouj-oS/",
+ "published_at": "2026-10-28T13:27:45.515887+09:00"
 }
