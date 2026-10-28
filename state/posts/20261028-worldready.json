@@ -2,7 +2,7 @@
  "id": "20261028-worldready",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-28T10:37:59.814429+09:00",
  "publish_at": "2026-10-28T10:38:03.290716+09:00",
  "topic": "세계 각국이 국민·군에 '버틸 준비' 요구: 미군 기지 90일 자립(FORTRESS, 폭스 보도), EU 72시간(무력 침공 등), 영국 3일, 일본 1주일(재해)",
@@ -73,5 +73,8 @@
   "media/20261028-worldready/05.jpg"
  ],
  "tg_msg": 1321,
- "decided_at": "2026-10-28T10:38:03.290735+09:00"
+ "decided_at": "2026-10-28T10:38:03.290735+09:00",
+ "ig_media_id": "18356676100218557",
+ "permalink": "https://www.instagram.com/p/DfBRhS6FN7j/",
+ "published_at": "2026-10-28T10:41:02.338735+09:00"
 }
