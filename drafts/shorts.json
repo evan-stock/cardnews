@@ -1,186 +1,168 @@
 {
- "id": "20261028-birdhead",
+ "id": "20261028-doorcat",
  "mode": "send",
  "format": "meme",
- "topic": "계단 위에 앉은 골든 리트리버 댈러스의 머리 위에 왕관앵무(코카티엘)가 올라앉아 한참 휘파람 공연 — 리트리버는 무표정으로 참다가 고개를 휙 쳐들어 떨어뜨리려 하지만 새는 버티고, 주인이 '왜 그래?' 묻자 카메라를 멍하니 쳐다봄(TikTok @elizabethmb8, 약 98.6만 회·좋아요 15.9만, Newsweek 2024.6.26). 원본 소리(새 휘파람) 살림, 음악 트랙 없음. 사실: VCA 동물병원 — 왕관앵무는 휘파람을 아주 잘하고 말은 조금 하는 정도(목소리도 휘파람 같음).",
+ "topic": "문 위에 올라가 있는 턱시도 고양이 소프에게 집사가 '거기 올라가도 돼?'라고 잔소리하자 냥펀치 두 방 — 안경이 코끝까지 흘러내린 집사가 멍하니 카메라를 봄(TikTok @goghsyrup, 250만 회+, TAG24 2023.11.1). 원본 소리(집사 잔소리·냥펀치·웃음) 살림, 음악 트랙 없음. 사실: PetMD(수의사 해나 하트) — 고양이는 본능적으로 높은 곳을 찾고, 높은 곳에서 안전하다고 느낀다.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 0.7,
  "sfx_max": 4,
  "hook": {
-  "t": "강아지 머리 위에서 노래하는 앵무새\n'근데 관객 표정이ㅋㅋ'"
+  "t": "문 위 고양이 혼내면 안되는 이유\n'안경 날아갈 뻔ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @elizabethmb8"
+  "TikTok @goghsyrup"
  ],
  "scenes": [
   {
-   "dur": 2.6,
+   "dur": 1.6,
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
-    "y": 0.45,
-    "start": 1.6,
-    "audio": 16
+    "y": 0.0,
+    "start": 2.0,
+    "audio": 12
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(삐리리~♪)",
-     "x": 0.72,
-     "y": 0.13,
-     "at": 0.1
+     "t": "(퍽!)",
+     "x": 0.7,
+     "y": 0.33,
+     "at": 0.3,
+     "s": "thud",
+     "sv": 0.8
     },
     {
      "k": "talk",
-     "t": "내 머리... 무대 아닌데",
-     "x": 0.42,
-     "y": 0.86,
-     "at": 1.0
+     "t": "잔소리 금지",
+     "x": 0.3,
+     "y": 0.27,
+     "at": 0.7
     }
    ]
   },
   {
-   "say": "이 새는 지금, 강아지 머리 위에서 공연 중입니다.",
+   "say": "사건은 3초 전, 집사의 잔소리로 시작됐습니다.",
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
-    "y": 0.45,
-    "start": 4.2,
-    "audio": 4
+    "y": 0.0,
+    "start": 0.0,
+    "audio": 0.4,
+    "boomerang": true
    },
    "caps": []
-  },
-  {
-   "dur": 2.5,
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.45,
-    "start": 6.7,
-    "audio": 16
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "언제 끝나...",
-     "x": 0.6,
-     "y": 0.86,
-     "at": 0.2
-    },
-    {
-     "k": "sfx",
-     "t": "(해탈)",
-     "x": 0.8,
-     "y": 0.5,
-     "at": 0.9
-    }
-   ]
-  },
-  {
-   "say": "관객은 단 한 명, 표정은 이미 퇴근했습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.45,
-    "start": 9.3,
-    "audio": 4
-   },
-   "caps": []
-  },
-  {
-   "dur": 2.0,
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.45,
-    "start": 11.7,
-    "audio": 16
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "앵콜 받는다~♪",
-     "x": 0.58,
-     "y": 0.12,
-     "at": 0.1
-    }
-   ]
   },
   {
    "dur": 0.9,
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
-    "y": 0.45,
-    "start": 13.9,
-    "audio": 16
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(휙!)",
-     "x": 0.75,
-     "y": 0.35,
-     "at": 0.05,
-     "s": "whoosh",
-     "sv": 0.8
-    },
-    {
-     "k": "sfx",
-     "t": "(휘청)",
-     "x": 0.25,
-     "y": 0.1,
-     "at": 0.4
-    }
-   ]
-  },
-  {
-   "dur": 2.3,
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.0,
-    "y": 0.45,
-    "start": 15.9,
-    "audio": 2,
-    "zoom": 1.3
+    "y": 0.0,
+    "start": 1.45,
+    "audio": 12
    },
    "caps": [
     {
      "k": "desc",
-     "t": "그래도 안 내려감",
+     "t": "집사: 너 거기 올라가도 돼?",
      "x": 0.5,
-     "y": 0.1,
-     "at": 0.05,
-     "s": "dundun",
+     "y": 0.42,
+     "at": 0.0
+    }
+   ]
+  },
+  {
+   "dur": 1.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.0,
+    "start": 2.3,
+    "audio": 12
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(냥펀치!!)",
+     "x": 0.72,
+     "y": 0.36,
+     "at": 0.0,
+     "s": "thud",
      "sv": 0.8
     },
     {
      "k": "talk",
-     "t": "...나 좀 살려줘",
-     "x": 0.55,
-     "y": 0.88,
-     "at": 0.8
+     "t": "응 돼",
+     "x": 0.3,
+     "y": 0.27,
+     "at": 0.35
+    },
+    {
+     "k": "sfx",
+     "t": "(한 대 더)",
+     "x": 0.72,
+     "y": 0.45,
+     "at": 1.0
     }
    ]
   },
   {
-   "say": "왕관앵무는 말보다 휘파람을 훨씬 잘하는 새라고 합니다.",
+   "dur": 2.0,
    "video": {
     "src": "video/v1.mp4",
-    "x": 0.0,
-    "y": 0.45,
-    "start": 16.1,
+    "x": 0.5,
+    "y": 0.0,
+    "start": 3.9,
+    "audio": 3
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(멍...)",
+     "x": 0.55,
+     "y": 0.45,
+     "at": 0.2,
+     "s": "question",
+     "sv": 0.8
+    },
+    {
+     "k": "talk",
+     "t": "또 할 말 있어?",
+     "x": 0.33,
+     "y": 0.27,
+     "at": 0.9
+    }
+   ]
+  },
+  {
+   "say": "잔소리 한 마디의 대가는, 냥펀치 두 방이었습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.0,
+    "start": 5.0,
+    "audio": 0.4
+   },
+   "caps": []
+  },
+  {
+   "say": "고양이는 높은 곳에 있어야 안전하다고 느낀다고 합니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.0,
+    "start": 0.0,
     "audio": 0,
-    "boomerang": true,
-    "zoom": 1.3
+    "boomerang": true
    },
    "caps": [
     {
      "k": "desc",
-     "t": "왕관앵무 = 휘파람 장인\n(VCA 동물병원)",
+     "t": "높은 곳 = 안전 구역\n(PetMD 수의사)",
      "x": 0.5,
-     "y": 0.12,
+     "y": 0.62,
      "at": 0.3
     }
    ]
@@ -188,30 +170,30 @@
  ],
  "sources": [
   {
-   "publisher": "TikTok @elizabethmb8",
-   "url": "https://www.tiktok.com/@elizabethmb8/video/7383408303029751046",
-   "date": "2024.6"
+   "publisher": "TikTok @goghsyrup",
+   "url": "https://www.tiktok.com/@goghsyrup/video/7294640510080159008",
+   "date": "2023.10"
   },
   {
-   "publisher": "Newsweek - Golden Retriever's Resigned Look Over New Pet Leaves Everyone in Stitches",
-   "url": "https://www.newsweek.com/golden-retriever-parrot-pets-together-1917487",
-   "date": "2024.6.26"
+   "publisher": "TAG24 - Cat \"chose violence\" after being told off by owner in hysterical TikTok video",
+   "url": "https://tag24.com/animals/cats/cat-chose-violence-after-being-told-off-by-owner-in-hysterical-tiktok-video-2999721",
+   "date": "2023.11.1"
   },
   {
-   "publisher": "VCA Animal Hospitals - Cockatiels: General Information",
-   "url": "https://vcahospitals.com/know-your-pet/cockatiels---general-information",
-   "date": ""
+   "publisher": "PetMD - Why Do Cats Like High Places? (Hannah Hart, DVM)",
+   "url": "https://www.petmd.com/cat/behavior/why-do-cats-like-high-places",
+   "date": "2025.2.11"
   }
  ],
  "yt": {
-  "title": "믿는 구석이 있었던 앵무새의 행동ㅋㅋ #shorts",
-  "description": "골든 리트리버 머리 위에 자리 잡고 휘파람 공연을 시작한 왕관앵무... 관객(?) 리트리버의 표정이 점점 해탈해 갑니다ㅋㅋ\n\n왕관앵무(코카티엘)는 휘파람을 아주 잘하는 새예요. 말도 조금 하지만 목소리마저 휘파람 같다고 하네요(VCA 동물병원).\n\n여러분 집 강아지는 이 공연 끝까지 봐줄 수 있을까요?\n\n영상: TikTok @elizabethmb8\n참고: Newsweek, VCA Animal Hospitals\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "문 위에 올라간 고양이 혼내면 안되는 이유ㅋㅋ #shorts",
+  "description": "문 꼭대기에 올라간 고양이에게 \"너 거기 올라가도 돼?\" 한 마디 했을 뿐인데... 돌아온 건 냥펀치 두 방ㅋㅋ\n\n고양이는 본능적으로 높은 곳을 찾는대요. 높은 곳에서 주변을 내려다보면 안전하다고 느끼기 때문이라고 하네요(PetMD 수의사 해나 하트). 문 위 대신 캣타워나 캣선반을 마련해 주면 좋아요.\n\n여러분 집 고양이도 잔소리하면 이렇게 대답하나요?\n\n영상: TikTok @goghsyrup\n참고: TAG24, PetMD\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "앵무새",
-   "왕관앵무",
-   "코카티엘",
-   "골든리트리버",
-   "강아지",
+   "고양이",
+   "냥펀치",
+   "턱시도고양이",
+   "웃긴고양이",
+   "고양이반응",
    "웃긴동물",
    "동물쇼츠",
    "오늘의털뭉치"
@@ -221,6 +203,6 @@
  },
  "publish_now": true,
  "style": {
-  "sub_y": 0.84
+  "sub_y": 0.45
  }
 }
