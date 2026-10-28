@@ -1,17 +1,17 @@
 {
- "id": "20261029-pigeondog",
+ "id": "20261029-costumedog",
  "mode": "send",
  "format": "meme",
- "topic": "산책 중 잔디밭에 앉기만 하면 비둘기 수백 마리가 몰려드는 강아지 왓슨 — 도망은커녕 한가운데 드러눕고, 비둘기가 등에 내려앉아도 꿈쩍 안 함(TikTok @sorrell_grace, 2026.8.28 게시, 540만 회·좋아요 110만, TAG24 2026.10.11). 원본 소리(날갯짓·구구 소리·현장음) 살림, 음악 트랙 없음. 사실: 비둘기는 자기를 쫓던 사람을 옷을 바꿔 입어도 알아보고 피한다(Animal Cognition 2011, 파리 낭테르대 Belguermi 등 — LiveScience 보도).",
+ "topic": "집사가 할로윈 플래퍼 소품(진주 머리띠·깃털 장식·진주 목걸이)을 샀는데 자기 대신 흰 강아지 토비에게 하나씩 입힘 — 토비는 끝까지 무표정(TikTok @mr.tobiman, 2026.10.28 게시, 240만 회·좋아요 48만, TAG24 2026.10.28). 원본 소리는 집사의 영어 설명이 계속 이어져 말소리 구간은 끔, 말 없는 구간만 작게 살림. 사실: AKC — 의상은 행사 전에 미리 조금씩 입혀 익숙해지게 하라.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.7,
+ "bgm_volume": 1.5,
  "sfx_max": 4,
  "hook": {
-  "t": "비둘기들이 이상형 만나면\n'일어나는 일ㅋㅋ'"
+  "t": "할로윈 소품 샀는데\n'주인공이 바뀜ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @sorrell_grace"
+  "TikTok @mr.tobiman"
  ],
  "scenes": [
   {
@@ -20,77 +20,64 @@
     "src": "video/v1.mp4",
     "x": 0.5,
     "y": 0.5,
-    "start": 42.4,
-    "audio": 14
+    "start": 56.2,
+    "audio": 3
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(착지!)",
-     "x": 0.28,
-     "y": 0.2,
-     "at": 0.4,
-     "s": "boing",
-     "sv": 0.7
-    },
-    {
-     "k": "talk",
-     "t": "또 시작이네...",
-     "x": 0.68,
-     "y": 0.22,
-     "at": 1.0
-    }
-   ]
-  },
-  {
-   "say": "이 강아지가 잔디밭에 앉자마자, 비둘기들이 몰려듭니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "start": 21.9,
-    "audio": 4
-   },
-   "caps": []
-  },
-  {
-   "dur": 2.4,
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "start": 25.4,
-    "audio": 12
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(철푸덕)",
+     "t": "(정색)",
      "x": 0.25,
-     "y": 0.48,
-     "at": 0.3,
-     "s": "slide",
+     "y": 0.42,
+     "at": 0.2,
+     "s": "question",
      "sv": 0.7
     },
     {
      "k": "talk",
-     "t": "자리 깔았다~ 모여!",
-     "x": 0.6,
-     "y": 0.4,
-     "at": 0.8
+     "t": "...이게 맞아?",
+     "x": 0.72,
+     "y": 0.42,
+     "at": 0.9
     }
    ]
   },
   {
-   "say": "도망은커녕, 비둘기 떼 한가운데 드러누워 버립니다.",
+   "say": "집사가 할로윈 소품을 샀는데, 입는 건 강아지입니다.",
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
     "y": 0.5,
-    "start": 28.0,
-    "audio": 4
+    "start": 12.0,
+    "audio": 0
    },
    "caps": []
+  },
+  {
+   "dur": 2.2,
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 15.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "나한테 왜 이래",
+     "x": 0.72,
+     "y": 0.3,
+     "at": 0.2
+    },
+    {
+     "k": "sfx",
+     "t": "(멍...)",
+     "x": 0.2,
+     "y": 0.62,
+     "at": 0.9
+    }
+   ]
   },
   {
    "dur": 2.6,
@@ -98,27 +85,38 @@
     "src": "video/v1.mp4",
     "x": 0.5,
     "y": 0.5,
-    "start": 47.3,
-    "audio": 10
+    "start": 24.8,
+    "audio": 3
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(자리 잡음)",
-     "x": 0.24,
-     "y": 0.12,
-     "at": 0.2,
-     "s": "pop",
+     "t": "(촤르륵)",
+     "x": 0.25,
+     "y": 0.62,
+     "at": 0.3,
+     "s": "sparkle",
      "sv": 0.7
     },
     {
      "k": "talk",
-     "t": "거기 내 등인데...",
-     "x": 0.64,
-     "y": 0.27,
-     "at": 0.9
+     "t": "아직 동의 안 했다",
+     "x": 0.7,
+     "y": 0.62,
+     "at": 1.0
     }
    ]
+  },
+  {
+   "say": "깃털에 진주 목걸이까지, 표정은 끝까지 그대로입니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 30.0,
+    "audio": 0
+   },
+   "caps": []
   },
   {
    "dur": 2.4,
@@ -126,39 +124,34 @@
     "src": "video/v1.mp4",
     "x": 0.5,
     "y": 0.5,
-    "start": 53.4,
-    "audio": 10
+    "start": 44.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "인기 많은 것도 피곤하다",
-     "x": 0.6,
-     "y": 0.3,
-     "at": 0.2
-    },
-    {
-     "k": "sfx",
-     "t": "(구구구구)",
-     "x": 0.3,
-     "y": 0.62,
-     "at": 0.8
+     "t": "사진 다 찍었지? 벗겨줘",
+     "x": 0.5,
+     "y": 0.75,
+     "at": 0.3,
+     "s": "pop",
+     "sv": 0.6
     }
    ]
   },
   {
-   "say": "비둘기는 자기를 쫓던 사람 얼굴도 기억한다고 합니다.",
+   "say": "새 옷은 며칠에 걸쳐 조금씩 익숙해지게 해 주라고 합니다.",
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
     "y": 0.5,
-    "start": 56.0,
-    "audio": 4
+    "start": 60.5,
+    "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "비둘기는 얼굴을 기억함\n(2011 동물인지 연구)",
+     "t": "할로윈 의상은 미리 천천히 적응\n(미국켄넬클럽 AKC)",
      "x": 0.5,
      "y": 0.12,
      "at": 0.3
@@ -168,31 +161,31 @@
  ],
  "sources": [
   {
-   "publisher": "TikTok @sorrell_grace",
-   "url": "https://www.tiktok.com/@sorrell_grace/video/7679120869448289558",
-   "date": "2026.8.28"
+   "publisher": "TikTok @mr.tobiman",
+   "url": "https://www.tiktok.com/@mr.tobiman/video/7701510108173421837",
+   "date": "2026.10.28"
   },
   {
-   "publisher": "TAG24 - Viral Video of the Day for October 11, 2026: Sweet dog becomes best buds with unlikely flock",
-   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-11-2026-sweet-dog-becomes-best-buds-with-unlikely-flock-in-adorable-tiktok-3536289",
-   "date": "2026.10.11"
+   "publisher": "TAG24 - Viral Video of the Day for October 28, 2026: This dog is not impressed with his Halloween costume!",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-28-2026-this-dog-is-not-impressed-with-his-halloween-costume-3536306",
+   "date": "2026.10.28"
   },
   {
-   "publisher": "LiveScience - Pigeons Recognize Human Faces (Animal Cognition 2011)",
-   "url": "https://livescience.com/14895-pigeons-recognize-human-faces.html",
-   "date": "2011.7"
+   "publisher": "AKC - Dog Halloween Costume Safety",
+   "url": "https://www.akc.org/expert-advice/lifestyle/dog-halloween-costume-safety/",
+   "date": ""
   }
  ],
  "yt": {
-  "title": "비둘기들이 이상형 강아지 만나면 일어나는 일ㅋㅋ #shorts",
-  "description": "산책하다 잔디밭에 앉기만 하면 비둘기들이 몰려오는 강아지 왓슨ㅋㅋ 도망은커녕 한가운데 드러눕고, 등에 비둘기가 앉아도 꿈쩍 안 해요.\n\n비둘기는 생각보다 똑똑해서, 자기를 쫓던 사람은 옷을 바꿔 입어도 얼굴로 알아보고 피한다는 연구가 있어요(Animal Cognition 2011). 왓슨이 절대 안 쫓는다는 걸 아는 걸지도요?\n\n여러분 강아지는 비둘기 보면 어떻게 하나요?\n\n영상: TikTok @sorrell_grace\n참고: TAG24, LiveScience\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "할로윈 소품 입혀 본 강아지의 반응ㅋㅋ #shorts",
+  "description": "집사가 할로윈 소품(진주 머리띠·깃털 장식·진주 목걸이)을 샀는데... 정작 입은 건 강아지 토비ㅋㅋ 하나씩 늘어날 때마다 표정은 점점 무(無).\n\n미국켄넬클럽(AKC)은 할로윈 의상을 행사 며칠 전부터 조금씩 입혀 보고 간식으로 칭찬해 익숙해지게 하라고 조언해요. 귀를 납작하게 내리거나 꼬리를 말아 넣으면 불편하다는 신호래요.\n\n여러분 강아지는 옷 입히면 어떤 표정인가요?\n\n영상: TikTok @mr.tobiman\n참고: TAG24, AKC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
    "강아지",
-   "비둘기",
+   "할로윈",
+   "강아지옷",
+   "강아지코스튬",
    "웃긴강아지",
-   "강아지산책",
    "강아지반응",
-   "웃긴동물",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
