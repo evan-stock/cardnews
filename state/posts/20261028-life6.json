@@ -1,7 +1,7 @@
 {
  "id": "20261028-life6",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-28T20:02:17.581520+09:00",
  "publish_at": "2026-10-28T20:02:17.581564+09:00",
  "publish_now": true,
@@ -70,5 +70,9 @@
    }
   ]
  },
- "tg_msg": 30
+ "tg_msg": 30,
+ "decided_at": "2026-10-28T20:05:19.492247+09:00",
+ "yt_id": "VUBEXrkgkl8",
+ "permalink": "https://youtube.com/shorts/VUBEXrkgkl8",
+ "published_at": "2026-10-28T20:05:23.313449+09:00"
 }
