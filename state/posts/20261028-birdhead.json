@@ -1,0 +1,55 @@
+{
+ "id": "20261028-birdhead",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-28T13:42:51.493191+09:00",
+ "publish_at": "2026-10-28T13:42:51.493213+09:00",
+ "publish_now": true,
+ "topic": "계단 위에 앉은 골든 리트리버 댈러스의 머리 위에 왕관앵무(코카티엘)가 올라앉아 한참 휘파람 공연 — 리트리버는 무표정으로 참다가 고개를 휙 쳐들어 떨어뜨리려 하지만 새는 버티고, 주인이 '왜 그래?' 묻자 카메라를 멍하니 쳐다봄(TikTok @elizabethmb8, 약 98.6만 회·좋아요 15.9만, Newsweek 2024.6.26). 원본 소리(새 휘파람) 살림, 음악 트랙 없음. 사실: VCA 동물병원 — 왕관앵무는 휘파람을 아주 잘하고 말은 조금 하는 정도(목소리도 휘파람 같음).",
+ "sources": [
+  {
+   "publisher": "TikTok @elizabethmb8",
+   "url": "https://www.tiktok.com/@elizabethmb8/video/7383408303029751046",
+   "date": "2024.6"
+  },
+  {
+   "publisher": "Newsweek - Golden Retriever's Resigned Look Over New Pet Leaves Everyone in Stitches",
+   "url": "https://www.newsweek.com/golden-retriever-parrot-pets-together-1917487",
+   "date": "2024.6.26"
+  },
+  {
+   "publisher": "VCA Animal Hospitals - Cockatiels: General Information",
+   "url": "https://vcahospitals.com/know-your-pet/cockatiels---general-information",
+   "date": ""
+  }
+ ],
+ "seconds": 20.93,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261028-birdhead/short.mp4"
+ ],
+ "app_file": "media/20261028-birdhead/short_nobgm.mp4",
+ "yt": {
+  "title": "믿는 구석이 있었던 앵무새의 행동ㅋㅋ #shorts",
+  "description": "골든 리트리버 머리 위에 자리 잡고 휘파람 공연을 시작한 왕관앵무... 관객(?) 리트리버의 표정이 점점 해탈해 갑니다ㅋㅋ\n\n왕관앵무(코카티엘)는 휘파람을 아주 잘하는 새예요. 말도 조금 하지만 목소리마저 휘파람 같다고 하네요(VCA 동물병원).\n\n여러분 집 강아지는 이 공연 끝까지 봐줄 수 있을까요?\n\n영상: TikTok @elizabethmb8\n참고: Newsweek, VCA Animal Hospitals\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @elizabethmb8 2024.6, Newsweek - Golden Retriever's Resigned Look Over New Pet Leaves Everyone in Stitches 2024.6.26, VCA Animal Hospitals - Cockatiels: General Information\n사진·영상: TikTok @elizabethmb8\n음성: Typecast\n\n#shorts #앵무새 #왕관앵무 #코카티엘 #골든리트리버",
+  "tags": [
+   "앵무새",
+   "왕관앵무",
+   "코카티엘",
+   "골든리트리버",
+   "강아지",
+   "웃긴동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "81dac7cd47af",
+ "tg_msg": 1338
+}
