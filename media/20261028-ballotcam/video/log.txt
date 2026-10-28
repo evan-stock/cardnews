@@ -1,0 +1,17 @@
+total 162264
+drwxr-xr-x 2 runner runner     4096 Oct 28 08:42 .
+drwxr-xr-x 4 runner runner     4096 Oct 28 08:42 ..
+-rw-r--r-- 1 runner runner        0 Oct 28 08:42 log.txt
+-rw-r--r-- 1 runner runner 78475130 Oct 28 08:42 v1.mp4
+-rw-r--r-- 1 runner runner 12634413 Oct 28 08:42 v2.mp4
+-rw-r--r-- 1 runner runner 23174779 Oct 28 08:42 v3.mp4
+-rw-r--r-- 1 runner runner  6945462 Oct 28 08:42 v4.mp4
+-rw-r--r-- 1 runner runner 40382831 Oct 28 08:42 v5.mp4
+-rw-r--r-- 1 runner runner  4504692 Oct 28 08:42 v6.mp4
+-rw-r--r-- 1 runner runner      890 Oct 28 08:42 x1.json
+-rw-r--r-- 1 runner runner      833 Oct 28 08:42 x2.json
+-rw-r--r-- 1 runner runner      738 Oct 28 08:42 x3.json
+-rw-r--r-- 1 runner runner      816 Oct 28 08:42 x4.json
+-rw-r--r-- 1 runner runner      606 Oct 28 08:42 x5.json
+-rw-r--r-- 1 runner runner      658 Oct 28 08:42 x6.json
+재압축: media/20261028-ballotcam/video/v1.mp4 160.658866초 → 2389k
