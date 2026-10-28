@@ -1,7 +1,7 @@
 {
  "id": "20261029-pigeondog",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-10-29T08:33:39.531093+09:00",
  "publish_at": "2026-10-29T08:33:39.531122+09:00",
  "publish_now": true,
@@ -51,5 +51,6 @@
   "channel": null
  },
  "draft_hash": "4551106bee9e",
- "tg_msg": 1438
+ "tg_msg": 1438,
+ "note": "10.17 20261017-pigeondog 와 같은 원본(@sorrell_grace) — 중복으로 취소(사용자 지적 10.29)"
 }
