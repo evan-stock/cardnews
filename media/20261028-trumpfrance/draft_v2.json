@@ -1,0 +1,60 @@
+[
+ {
+  "id": "20261028-trumpfrance",
+  "slot": "evening",
+  "mode": "render",
+  "topic": "트럼프, 텍사스 코퍼스크리스티 유세(10.27)에서 \"혁명 좋아하는 게 아니면 프랑스 가지 마라, 차라리 레미제라블을 봐라\"",
+  "images": [
+   "paris_charge",
+   "paris_charge"
+  ],
+  "slides": [
+   {
+    "lay": "one",
+    "t": "\"혁명 좋아하는 게 아니면\"\n트럼프 \"프랑스 가지 마라\"",
+    "inset": {
+     "img": "cand/trump_rally.jpg",
+     "label": "10.27 텍사스 유세",
+     "x": 840,
+     "y": 330,
+     "r": 170,
+     "fx": 0.5,
+     "fy": 0.3
+    }
+   },
+   {
+    "t": "동맹국 대통령이 '가지 마라'는 나라,\n그게 지금의 '프랑스'다",
+    "b": "프랑스 여행 계획 있는 친구에게 보내주세요"
+   }
+  ],
+  "caption": "[\"혁명 좋아하는 게 아니면\"… 트럼프 \"프랑스 가지 마라\"]\n\n트럼프 미국 대통령이 현지시각 27일 텍사스 코퍼스크리스티 중간선거 유세에서 프랑스 시위를 꺼냈습니다. 휴가 가서 돈을 쓸 거면 프랑스는 피하라며 \"혁명을 좋아하는 게 아니라면 프랑스에 가지 마라, 차라리 '레미제라블'을 보러 가는 게 낫다\"고 말했습니다. 프랑스는 \"아름다운 곳\"이라면서도 \"프랑스 사람들은 혁명을 정말 잘한다\"고 덧붙였습니다.\n\n프랑스에서는 17일 물가 항의 시위 도중 약탈과 방화가 번졌고, 정부가 그날 상황을 통제하지 못했다고 인정했습니다. 마크롱 대통령은 21일 이름을 밝히지 않은 채 \"프랑스를 희생양 삼아 선거운동을 하는\" 외국 지도자들의 \"용납할 수 없고 멍청하기까지 한 발언\"을 비판했습니다. 오는 31일 핼러윈에는 파리에서 다시 대규모 행진이 예고돼 있습니다.\n\n동맹국 대통령이 '가지 마라'는 나라, 그게 지금의 프랑스입니다.\n여러분은 지금 파리 여행, 가시겠어요? 💬\n\n프랑스 여행 계획 있는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "hashtags": [
+   "트럼프",
+   "프랑스시위",
+   "파리",
+   "해외이슈",
+   "오늘의쓸모"
+  ],
+  "sources": [
+   {
+    "publisher": "RealClearPolitics",
+    "date": "2026.10.27",
+    "url": "https://www.realclearpolitics.com/video/2026/10/27/trump_dont_go_to_france_unless_you_like_revolution_youre_better_off_going_out_to_see_les_mis.html"
+   },
+   {
+    "publisher": "Yahoo News",
+    "date": "2026.10.27",
+    "url": "https://www.yahoo.com/news/politics/articles/trump-dont-france-unless-revolution-130000771.html"
+   },
+   {
+    "publisher": "Euronews",
+    "date": "2026.10.21",
+    "url": "https://www.euronews.com/2026/10/21/in-apparent-swipe-at-trump-macron-slams-stupid-comments-by-foreign-leaders-on-france-prote"
+   }
+  ],
+  "credits": [
+   "C-SPAN(트럼프 유세)",
+   "현지 SNS 영상(파리 시위, 10.25)"
+  ]
+ }
+]
