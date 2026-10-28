@@ -1,0 +1,10 @@
+ERROR: [TikTok] 7587992808443759903: Your IP address is blocked from accessing this post
+실패: https://www.tiktok.com/@pearlsare4ever/video/7587992808443759903
+total 2732
+drwxr-xr-x 2 runner runner    4096 Oct 28 23:39 .
+drwxr-xr-x 3 runner runner    4096 Oct 28 23:38 ..
+-rw-r--r-- 1 runner runner     162 Oct 28 23:38 log.txt
+-rw-r--r-- 1 runner runner   22772 Oct 28 23:39 v2.info.json
+-rw-r--r-- 1 runner runner 1666533 Oct 28 23:39 v2.mp4
+-rw-r--r-- 1 runner runner   16190 Oct 28 23:39 v3.info.json
+-rw-r--r-- 1 runner runner 1076550 Oct 28 23:39 v3.mp4
