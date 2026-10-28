@@ -1,7 +1,7 @@
 {
  "id": "20261028-birdhead",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-28T13:42:51.493191+09:00",
  "publish_at": "2026-10-28T13:42:51.493213+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "81dac7cd47af",
- "tg_msg": 1338
+ "tg_msg": 1338,
+ "decided_at": "2026-10-28T13:44:17.188942+09:00",
+ "yt_id": "TWG-KOJLQis",
+ "permalink": "https://youtube.com/shorts/TWG-KOJLQis",
+ "published_at": "2026-10-28T13:44:20.520692+09:00"
 }
