@@ -1,7 +1,7 @@
 {
  "id": "20261028-manhole",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-28T09:37:56.084867+09:00",
  "publish_at": "2026-10-28T09:37:56.084880+09:00",
  "publish_now": true,
@@ -37,5 +37,8 @@
  },
  "tg_msg": 1315,
  "decided_at": "2026-10-28T19:20:47+09:00",
- "decided_via": "app"
+ "decided_via": "app",
+ "yt_id": "0KVjwPZot_I",
+ "permalink": "https://youtube.com/shorts/0KVjwPZot_I",
+ "published_at": "2026-10-28T19:21:56.610903+09:00"
 }
