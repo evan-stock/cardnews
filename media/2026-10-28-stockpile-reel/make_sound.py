@@ -52,6 +52,18 @@ def noise(dur, d=0.1, cut=4000):
     return lowpass(rng.standard_normal(n), cut) * env(n, 0.001, d)
 
 
+def alert_beep(f0=1250, on=0.09, gap=0.05, n_beeps=2):
+    """재난문자·경보기 같은 '삐-삐' : 평평한 음량의 각진 소리 두 번."""
+    seg = int(on * SR); t = np.arange(seg) / SR
+    s = sum(np.sin(2 * np.pi * f0 * h * t) / h for h in (1, 3, 5, 7)) * 0.8
+    edge = int(0.004 * SR); e = np.ones(seg); e[:edge] = np.linspace(0, 1, edge); e[-edge:] = np.linspace(1, 0, edge)
+    one = s * e
+    out = np.zeros(int((on + gap) * SR) * n_beeps)
+    for k in range(n_beeps):
+        i = k * int((on + gap) * SR); out[i:i + seg] += one
+    return out
+
+
 # 1) 배경: 낮은 드론 + 서서히 커지는 긴장
 drone = (np.sin(2 * np.pi * 55 * t_all) * 0.5 + np.sin(2 * np.pi * 82.4 * t_all) * 0.3
          + np.sin(2 * np.pi * 110.3 * t_all) * 0.12) * (0.75 + 0.25 * np.sin(2 * np.pi * 0.25 * t_all))
@@ -72,8 +84,8 @@ add(noise(1.5, 0.5, 900), 0.0, 0.35)
 # 4) 나라 켜질 때: 저음 펄스 + 삑
 for i, c in enumerate(rr.SEQ):
     t0 = c[4]
-    add(kick(0.35, 120, 45, 0.12), t0, 0.8)
-    add(tone(1046 + (i % 3) * 120, 0.18, d=0.06), t0, 0.28, 0.2 if i % 2 else -0.2)
+    add(kick(0.35, 120, 45, 0.12), t0, 0.5)
+    add(alert_beep(), t0, 0.42)
 
 # 5) EU: 큰 한 방
 add(kick(1.4, 80, 28, 0.6), rr.T_EU, 1.2)
