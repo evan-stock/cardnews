@@ -2,7 +2,7 @@
  "id": "20261028-ballotcam",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-28T18:04:29.821711+09:00",
  "publish_at": "2026-10-28T18:01:21+09:00",
  "topic": "147일 만에 연 투표지 247만 장 공개검증, 참관인 촬영·생중계 금지로 3시간 지연",
@@ -77,5 +77,9 @@
   "media/20261028-ballotcam/07.mp4",
   "media/20261028-ballotcam/08.jpg"
  ],
- "tg_msg": 1360
+ "tg_msg": 1360,
+ "decided_at": "2026-10-28T18:05:44.422473+09:00",
+ "ig_media_id": "18115292530853915",
+ "permalink": "https://www.instagram.com/p/DfCEsmNjaZ5/",
+ "published_at": "2026-10-28T18:08:08.053981+09:00"
 }
