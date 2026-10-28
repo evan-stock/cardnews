@@ -1,7 +1,7 @@
 {
  "id": "20261028-doorcat",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-10-28T18:33:33.370451+09:00",
  "publish_at": "2026-10-28T18:33:33.370474+09:00",
  "publish_now": true,
@@ -51,5 +51,7 @@
   "channel": null
  },
  "draft_hash": "86de69280fda",
- "tg_msg": 1377
+ "tg_msg": 1377,
+ "decided_at": "2026-10-28T19:22:43+09:00",
+ "decided_via": "app"
 }
