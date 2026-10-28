@@ -1,206 +1,218 @@
 {
- "id": "20261028-stickercat",
+ "id": "20261028-birdhead",
  "mode": "send",
  "format": "meme",
- "topic": "차 뒷좌석의 흑백 강아지(암컷)가 옆 차 창문의 '고양이'를 보고 쉬지 않고 짖는데, 주인이 카메라를 돌려 보니 눈이 휘둥그레진 고양이 얼굴 차량 스티커(데칼)였음(TikTok @belmelly, 2025.9.15 게시, 87.4만 회+·좋아요 17.1만, iHeartDogs 2025.10). 원본 소리(짖는 소리) 살림, 음악 트랙 없음. 사실: Paul E. Miller(위스콘신대 수의대 안과) — 개의 시력은 약 20/75, 사람이 23m(75피트)에서 보는 걸 개는 6m(20피트)까지 와야 봄.",
+ "topic": "계단 위에 앉은 골든 리트리버 댈러스의 머리 위에 왕관앵무(코카티엘)가 올라앉아 한참 휘파람 공연 — 리트리버는 무표정으로 참다가 고개를 휙 쳐들어 떨어뜨리려 하지만 새는 버티고, 주인이 '왜 그래?' 묻자 카메라를 멍하니 쳐다봄(TikTok @elizabethmb8, 약 98.6만 회·좋아요 15.9만, Newsweek 2024.6.26). 원본 소리(새 휘파람) 살림, 음악 트랙 없음. 사실: VCA 동물병원 — 왕관앵무는 휘파람을 아주 잘하고 말은 조금 하는 정도(목소리도 휘파람 같음).",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 0.7,
  "sfx_max": 4,
  "hook": {
-  "t": "모르는 고양이에게 욕(?)하는 강아지\n'근데 고양이 정체가ㅋㅋ'"
+  "t": "강아지 머리 위에서 노래하는 앵무새\n'근데 관객 표정이ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @belmelly"
+  "TikTok @elizabethmb8"
  ],
  "scenes": [
   {
-   "dur": 1.6,
+   "dur": 2.6,
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
-    "y": 0.5,
-    "start": 1.25,
-    "audio": 0.85
+    "y": 0.45,
+    "start": 1.6,
+    "audio": 16
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(삐리리~♪)",
+     "x": 0.72,
+     "y": 0.13,
+     "at": 0.1
+    },
+    {
+     "k": "talk",
+     "t": "내 머리... 무대 아닌데",
+     "x": 0.42,
+     "y": 0.86,
+     "at": 1.0
+    }
+   ]
+  },
+  {
+   "say": "이 새는 지금, 강아지 머리 위에서 공연 중입니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.45,
+    "start": 4.2,
+    "audio": 4
+   },
+   "caps": []
+  },
+  {
+   "dur": 2.5,
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.45,
+    "start": 6.7,
+    "audio": 16
    },
    "caps": [
     {
      "k": "talk",
-     "t": "야!! 너 거기 딱 기다려!!",
-     "x": 0.42,
-     "y": 0.13,
-     "at": 0.05
+     "t": "언제 끝나...",
+     "x": 0.6,
+     "y": 0.86,
+     "at": 0.2
     },
     {
      "k": "sfx",
-     "t": "(왈왈!!)",
-     "x": 0.2,
-     "y": 0.42,
-     "at": 0.15
+     "t": "(해탈)",
+     "x": 0.8,
+     "y": 0.5,
+     "at": 0.9
     }
    ]
+  },
+  {
+   "say": "관객은 단 한 명, 표정은 이미 퇴근했습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.45,
+    "start": 9.3,
+    "audio": 4
+   },
+   "caps": []
   },
   {
    "dur": 2.0,
    "video": {
     "src": "video/v1.mp4",
     "x": 0.5,
-    "y": 0.5,
-    "start": 2.9,
-    "audio": 0.85
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "누구한테 이렇게 짖나 했더니...",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.1
-    }
-   ]
-  },
-  {
-   "say": "근데 이 고양이, 표정이 그대로입니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "start": 4.3,
-    "audio": 0.4
-   },
-   "caps": []
-  },
-  {
-   "dur": 1.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "start": 5.05,
-    "audio": 0,
-    "zoom": 1.15,
-    "boomerang": true
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "정체: 차 유리 스티커",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.1,
-     "s": "dundun",
-     "sv": 0.8
-    },
-    {
-     "k": "sfx",
-     "t": "(동공 지진)",
-     "x": 0.72,
-     "y": 0.3,
-     "at": 0.6
-    }
-   ]
-  },
-  {
-   "dur": 1.9,
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "start": 6.4,
-    "audio": 0.85
+    "y": 0.45,
+    "start": 11.7,
+    "audio": 16
    },
    "caps": [
     {
      "k": "talk",
-     "t": "스티커여도 기분 나빠!!",
-     "x": 0.42,
-     "y": 0.13,
+     "t": "앵콜 받는다~♪",
+     "x": 0.58,
+     "y": 0.12,
      "at": 0.1
+    }
+   ]
+  },
+  {
+   "dur": 0.9,
+   "video": {
+    "src": "video/v1.mp4",
+    "x": 0.5,
+    "y": 0.45,
+    "start": 13.9,
+    "audio": 16
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(휙!)",
+     "x": 0.75,
+     "y": 0.35,
+     "at": 0.05,
+     "s": "whoosh",
+     "sv": 0.8
     },
     {
      "k": "sfx",
-     "t": "(왈!!)",
-     "x": 0.2,
-     "y": 0.42,
+     "t": "(휘청)",
+     "x": 0.25,
+     "y": 0.1,
      "at": 0.4
     }
    ]
   },
   {
-   "say": "강아지 시력은 사람의 4분의 1 정도라, 진짜 고양이로 보였을지도 모릅니다.",
+   "dur": 2.3,
    "video": {
     "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "start": 3.6,
-    "audio": 0,
-    "zoom": 1.15,
-    "boomerang": true
+    "x": 0.0,
+    "y": 0.45,
+    "start": 15.9,
+    "audio": 2,
+    "zoom": 1.3
    },
    "caps": [
     {
      "k": "desc",
-     "t": "개의 시력은 약 20/75\n(위스콘신대 수의대 Paul E. Miller)",
+     "t": "그래도 안 내려감",
      "x": 0.5,
      "y": 0.1,
-     "at": 0.3
+     "at": 0.05,
+     "s": "dundun",
+     "sv": 0.8
+    },
+    {
+     "k": "talk",
+     "t": "...나 좀 살려줘",
+     "x": 0.55,
+     "y": 0.88,
+     "at": 0.8
     }
    ]
   },
   {
-   "dur": 1.6,
+   "say": "왕관앵무는 말보다 휘파람을 훨씬 잘하는 새라고 합니다.",
    "video": {
     "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "start": 0.3,
-    "audio": 0.85
+    "x": 0.0,
+    "y": 0.45,
+    "start": 16.1,
+    "audio": 0,
+    "boomerang": true,
+    "zoom": 1.3
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "...그래도 내가 이긴 거지?",
-     "x": 0.45,
-     "y": 0.13,
-     "at": 0.1
-    },
-    {
-     "k": "sfx",
-     "t": "(뿌듯)",
-     "x": 0.25,
-     "y": 0.45,
-     "at": 0.6,
-     "s": "pop",
-     "sv": 0.8
+     "k": "desc",
+     "t": "왕관앵무 = 휘파람 장인\n(VCA 동물병원)",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.3
     }
    ]
   }
  ],
  "sources": [
   {
-   "publisher": "TikTok @belmelly",
-   "url": "https://www.tiktok.com/@belmelly/video/7550240273847176462",
-   "date": "2025.9.15"
+   "publisher": "TikTok @elizabethmb8",
+   "url": "https://www.tiktok.com/@elizabethmb8/video/7383408303029751046",
+   "date": "2024.6"
   },
   {
-   "publisher": "iHeartDogs - Dog Barks At 'Cat' In Next Car Until Owner Discovers the Truth",
-   "url": "https://iheartdogs.com/?p=4761416",
-   "date": "2025.10"
+   "publisher": "Newsweek - Golden Retriever's Resigned Look Over New Pet Leaves Everyone in Stitches",
+   "url": "https://www.newsweek.com/golden-retriever-parrot-pets-together-1917487",
+   "date": "2024.6.26"
   },
   {
-   "publisher": "Paul E. Miller DVM (UW-Madison) - Vision in Animals: What do Dogs and Cats See? (VIN)",
-   "url": "https://www.vin.com/doc/?id=3844144",
-   "date": "2001"
+   "publisher": "VCA Animal Hospitals - Cockatiels: General Information",
+   "url": "https://vcahospitals.com/know-your-pet/cockatiels---general-information",
+   "date": ""
   }
  ],
  "yt": {
-  "title": "모르는 고양이에게 욕(?)하던 강아지의 최후ㅋㅋ #shorts",
-  "description": "옆 차 창문에 고양이가 보이자 쉬지 않고 짖는 강아지... 그런데 그 고양이의 정체는 차 유리에 붙은 스티커였습니다ㅋㅋ\n\n개의 시력은 약 20/75 정도라고 해요. 사람이 23m 거리에서 알아보는 걸 개는 6m까지 다가가야 알아본다는 뜻이죠(위스콘신대 수의대 Paul E. Miller). 대신 움직임에는 훨씬 민감하다고 하네요.\n\n여러분 강아지도 이런 적 있나요?\n\n영상: TikTok @belmelly\n참고: iHeartDogs, VIN(Paul E. Miller DVM)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "믿는 구석이 있었던 앵무새의 행동ㅋㅋ #shorts",
+  "description": "골든 리트리버 머리 위에 자리 잡고 휘파람 공연을 시작한 왕관앵무... 관객(?) 리트리버의 표정이 점점 해탈해 갑니다ㅋㅋ\n\n왕관앵무(코카티엘)는 휘파람을 아주 잘하는 새예요. 말도 조금 하지만 목소리마저 휘파람 같다고 하네요(VCA 동물병원).\n\n여러분 집 강아지는 이 공연 끝까지 봐줄 수 있을까요?\n\n영상: TikTok @elizabethmb8\n참고: Newsweek, VCA Animal Hospitals\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
+   "앵무새",
+   "왕관앵무",
+   "코카티엘",
+   "골든리트리버",
    "강아지",
-   "고양이스티커",
-   "강아지반응",
-   "웃긴강아지",
+   "웃긴동물",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
