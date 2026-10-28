@@ -1,0 +1,43 @@
+{
+ "id": "20261028-stockpile-reel",
+ "format": "reel",
+ "slot": "lunch",
+ "status": "approved",
+ "created_at": "2026-10-28T13:26:41+09:00",
+ "publish_at": "2026-10-28T13:26:41+09:00",
+ "decided_at": "2026-10-28T13:26:41+09:00",
+ "topic": "영국·일본 등 17개국+EU 가정 비상용품 비축 권고 vs 한국 대피시설 수용률 미달 — 모션그래픽 지도 릴스",
+ "category": "해외 이슈·한국 비교",
+ "sources": [
+  {
+   "publisher": "경향신문",
+   "date": "2026.10.28",
+   "url": "https://www.khan.co.kr/article/202610280946001/"
+  },
+  {
+   "publisher": "뉴데일리",
+   "date": "2026.10.28",
+   "url": "https://www.newdaily.co.kr/site/data/html/2026/10/28/2026102800113.html"
+  },
+  {
+   "publisher": "신아일보",
+   "date": "2026.09.27",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065988"
+  },
+  {
+   "publisher": "AP(KRDO)",
+   "date": "2025.11.18",
+   "url": "https://krdo.com/news/2025/11/18/taiwan-rolls-out-handbook-on-how-to-prepare-for-natural-disasters-and-a-chinese-invasion/"
+  }
+ ],
+ "files": [
+  "media/20261028-stockpile-reel/reel.mp4"
+ ],
+ "cover": "media/20261028-stockpile-reel/reel_cover.jpg",
+ "caption_full": "[영국·일본은 국민에 '3일치' 비축 권고… 한국 정부는?]\n\n영국 정부는 지난 22일 '비 레디(Be Ready)' 캠페인을 시작하며 전기·수도·통신이 끊겨도 최소 72시간을 버틸 수 있도록 물과 식량, 손전등, 라디오, 현금을 준비하라고 국민에게 권고했습니다. 일본도 11월 2일 방재청 출범에 맞춰 가정마다 최소 3일분, 가능하면 1주일분의 식량과 물을 비축해 달라고 요청할 예정입니다.\n\nEU는 이미 2025년 3월 '72시간 자립'을 권고했고, 스웨덴·노르웨이는 1주일을 안내하고 있습니다. 대만은 980만 전 가구에 '1주일치 비축'을 담은 생존 핸드북을 나눠줬습니다.\n\n그사이 한국은 전국 시군구 4곳 중 1곳(55곳)이 민방위 대피시설 수용률 100%에 못 미칩니다. 27곳은 주민 절반도 수용하지 못합니다(행정안전부 국회 제출 자료, 2025년 말 기준).\n\n북한과 마주한 나라가 대비는 제일 태평합니다. \"괜한 불안 조장\"이라고 생각하는 분, 댓글로 와 주세요 💬\n\n가족에게 보내서 우리 집 비상용품부터 점검해 보세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.\n\n출처: 경향신문·뉴데일리 2026.10.28, 신아일보 2026.9.27, AP 2025.11.18\n참고: @joneshop 게시물\n\n#비상식량 #생존배낭 #전쟁대비 #민방위 #해외이슈",
+ "credits": [
+  "자체 제작 모션그래픽(지도: Natural Earth)",
+  "사운드: 자체 합성"
+ ],
+ "manual": true
+}
