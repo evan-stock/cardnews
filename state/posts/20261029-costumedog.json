@@ -1,7 +1,7 @@
 {
  "id": "20261029-costumedog",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-29T09:12:33.662830+09:00",
  "publish_at": "2026-10-29T09:12:33.662851+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "de7f3d3063ab",
- "tg_msg": 1444
+ "tg_msg": 1444,
+ "decided_at": "2026-10-29T09:16:58.031188+09:00",
+ "yt_id": "BkiQUvLzE3I",
+ "permalink": "https://youtube.com/shorts/BkiQUvLzE3I",
+ "published_at": "2026-10-29T09:17:01.118118+09:00"
 }
