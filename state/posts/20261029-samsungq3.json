@@ -2,7 +2,7 @@
  "id": "20261029-samsungq3",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-29T11:18:26.425458+09:00",
  "publish_at": "2026-10-29T11:15:21+09:00",
  "topic": "삼성전자 3분기 확정실적 영업이익 107조4400억(4분기 연속 최대), 반도체 106.5조, DX 0.8조 적자, 2027 HBM 솔드아웃, 배당 30조 주당 4601원",
@@ -74,5 +74,9 @@
   "media/20261029-samsungq3/06.jpg",
   "media/20261029-samsungq3/07.jpg"
  ],
- "tg_msg": 1477
+ "tg_msg": 1477,
+ "decided_at": "2026-10-29T11:25:01.084067+09:00",
+ "ig_media_id": "18110935613598298",
+ "permalink": "https://www.instagram.com/p/DfD7fP9DkYk/",
+ "published_at": "2026-10-29T11:26:23.566174+09:00"
 }
