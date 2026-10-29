@@ -1,1 +1,8 @@
-⏳ 3개 장면 목소리를 맥북에서 만드는 중
+장면 1/7 silent 누적 2.6초
+장면 2/7 typecast 누적 5.8초
+장면 3/7 silent 누적 8.0초
+장면 4/7 silent 누적 10.6초
+장면 5/7 typecast 누적 14.4초
+장면 6/7 silent 누적 16.8초
+장면 7/7 typecast 누적 20.2초
+완성: /home/runner/work/cardnews/cardnews/media/20261029-costumedog/short.mp4 (20.2초, TTS ['silent', 'typecast'])
