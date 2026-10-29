@@ -1,20 +1,6 @@
-[
- {
-  "id": "20261029-nksecurity2",
-  "slot": "evening",
-  "mode": "collect",
-  "topic": "김여정 피할 방법 없다(10.4), 한국 극초음속 첫 시험발사(10.8), 북 12일 900km, 러 파병 북한군 드론 경험(미8군사령관)",
-  "image_pages": [
-   "https://supple.kr/news/cmutl3cno003dii7u0tg8pqjc",
-   "https://supple.kr/news/cmv4q92se0000tmngjqqlbg3i",
-   "https://www.heraldk.com/article/2026100316573460193",
-   "https://www.segye.com/newsView/20261012509353",
-   "https://www.segye.com/newsView/20261012511820",
-   "https://www.hankyung.com/article/2026100426231",
-   "https://biz.heraldcorp.com/article/10917180",
-   "https://www.koreadaily.com/article/20260821181922128",
-   "https://www.fnnews.com/news/202610131622562364",
-   "https://www.mt.co.kr/world/2026/08/13/2026081319115989194"
-  ]
- }
-]
+[{"id":"20261029-peacepics","slot":"evening","mode":"collect","limit":30,"slides":[{"t":"수집"}],
+ "image_pages":["https://www.newspim.com/news/view/20261029000025",
+  "https://www.khan.co.kr/article/202608162134005",
+  "https://m.news.nate.com/view/20260816n06849",
+  "https://supple.kr/news/cmvt71g6cn40cm5vum4p1br3y",
+  "https://www.newstomato.com/ReadNews.aspx?no=1318511"]}]
