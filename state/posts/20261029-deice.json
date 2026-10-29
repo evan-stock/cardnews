@@ -1,7 +1,7 @@
 {
  "id": "20261029-deice",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-10-29T09:54:02.967522+09:00",
  "publish_at": "2026-10-29T09:54:02.967535+09:00",
  "publish_now": true,
@@ -34,5 +34,6 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1465
+ "tg_msg": 1465,
+ "decided_at": "2026-10-29T10:14:29.749981+09:00"
 }
