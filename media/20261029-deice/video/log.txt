@@ -1,0 +1,8 @@
+total 4680
+drwxr-xr-x 2 runner runner    4096 Oct 29 00:28 .
+drwxr-xr-x 3 runner runner    4096 Oct 29 00:28 ..
+-rw-r--r-- 1 runner runner       0 Oct 29 00:28 log.txt
+-rw-r--r-- 1 runner runner   22711 Oct 29 00:28 v1.info.json
+-rw-r--r-- 1 runner runner  744659 Oct 29 00:28 v1.mp4
+-rw-r--r-- 1 runner runner   23025 Oct 29 00:28 v2.info.json
+-rw-r--r-- 1 runner runner 3988888 Oct 29 00:28 v2.mp4
