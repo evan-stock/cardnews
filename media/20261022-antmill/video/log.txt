@@ -1,2 +1,0 @@
-ERROR: [generic] 067424155X: Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
-실패: https://x.com/DanielKronauer/status/1321834594220580866
