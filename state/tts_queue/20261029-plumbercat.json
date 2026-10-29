@@ -1,0 +1,51 @@
+{
+ "id": "20261029-plumbercat",
+ "created": "2026-10-29T18:33:20.376083+09:00",
+ "items": [
+  {
+   "key": "e0929e3ca68b",
+   "text": "열여섯 살 고양이 아서의 찬장에 배관공이 들어왔습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "322f2bf60db7",
+   "text": "그런데 아저씨도 지지 않고 야옹으로 대꾸합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "ab86faf8ee05",
+   "text": "고양이는 좁고 어두운 곳을 안전한 은신처로 느낀다고 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
