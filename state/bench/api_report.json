@@ -1,40 +1,436 @@
 {
- "since": "2025-09-01",
+ "since": "2025-06-01",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
+   "title": "Meoww-Alllll",
+   "id": "UC8bT9J52CUKe91Mmbm3BM5g",
+   "created": "2019-01-05",
+   "subs": "7040",
+   "videos": "588"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
-   "subs": "0",
-   "videos": "4"
+   "title": "Rocky",
+   "id": "UC6_p5c3EBY0x5kO3cR_VXug",
+   "created": "2020-07-18",
+   "subs": "443000",
+   "videos": "457"
+  },
+  {
+   "title": "브레인톡톡",
+   "id": "UC1FcDaFXc-_jxJh7AGDInkw",
+   "created": "2026-03-02",
+   "subs": "1580",
+   "videos": "59"
+  },
+  {
+   "title": "Just-Cool-Vids",
+   "id": "UC8k3fH_-hV9a0wUDgC5RUsw",
+   "created": "2025-06-03",
+   "subs": "314",
+   "videos": "34"
+  },
+  {
+   "title": "냥냥타임",
+   "id": "UCo1cX1vy4DibAqsxFI-Xnmg",
+   "created": "2026-10-21",
+   "subs": "4",
+   "videos": "13"
+  },
+  {
+   "title": "Arms of Grace",
+   "id": "UCaeyossbM_XspZ3LvyRI3Ew",
+   "created": "2026-07-28",
+   "subs": "1510",
+   "videos": "26"
+  },
+  {
+   "title": "포치고치",
+   "id": "UC-g86ow6n9V_0z18aOB08ZQ",
+   "created": "2026-05-14",
+   "subs": "76",
+   "videos": "40"
+  },
+  {
+   "title": "천사천명",
+   "id": "UC-sIk2Y4Qk51Ie0EeSP9buA",
+   "created": "2026-09-23",
+   "subs": "24",
+   "videos": "31"
+  },
+  {
+   "title": "엥글픽",
+   "id": "UCQGJ2KPGay5_o6aX7MHxOQw",
+   "created": "2026-05-08",
+   "subs": "361",
+   "videos": "148"
+  },
+  {
+   "title": "Best of Cute Animals",
+   "id": "UCCMQWkC8dx01Greaa4B2cNw",
+   "created": "2024-12-26",
+   "subs": "103",
+   "videos": "49"
+  },
+  {
+   "title": "쇼츠지만",
+   "id": "UCRvM8nGTLdCr3Mq_wuOR7LQ",
+   "created": "2025-07-17",
+   "subs": "6",
+   "videos": "2"
+  },
+  {
+   "title": "포슬포동체",
+   "id": "UCgcenE5Xiusjc7Vkl2BF3Hw",
+   "created": "2026-04-08",
+   "subs": "2220",
+   "videos": "222"
+  },
+  {
+   "title": "한국 vs 세계",
+   "id": "UCGtqty4DP8gbnCeT0aFIrSQ",
+   "created": "2026-06-29",
+   "subs": "1150",
+   "videos": "105"
+  },
+  {
+   "title": "낯선장면",
+   "id": "UCpwGUB-MOjeZaTN0raULQRQ",
+   "created": "2026-08-08",
+   "subs": "42",
+   "videos": "93"
+  },
+  {
+   "title": "애니멀로그",
+   "id": "UCA258nAPmv2ooZt77YGmP7Q",
+   "created": "2025-11-11",
+   "subs": "17400",
+   "videos": "276"
+  },
+  {
+   "title": "아이고내팔자야",
+   "id": "UCHQqG5qMN0K52tzpxQR4aNA",
+   "created": "2025-11-04",
+   "subs": "12600",
+   "videos": "73"
+  },
+  {
+   "title": "Sir Arthur Meows",
+   "id": "UCdmIkrsgwCRrBACbiFMOJTw",
+   "created": "2025-09-17",
+   "subs": "3410",
+   "videos": "196"
+  },
+  {
+   "title": "Heartfelt Pets",
+   "id": "UCWlY9QH3GzL8WFocYQJRGZQ",
+   "created": "2026-01-18",
+   "subs": "7",
+   "videos": "3"
+  },
+  {
+   "title": "토닥토닥_PET",
+   "id": "UCdRosMm8ZJZcmvEyAmCS9KA",
+   "created": "2025-12-05",
+   "subs": "1300",
+   "videos": "216"
+  },
+  {
+   "title": "속마음 스케치",
+   "id": "UClSybkTdmGTfXGvK5I2hGXQ",
+   "created": "2026-09-19",
+   "subs": "577",
+   "videos": "90"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "cat meows at plumber cupboard",
+   "vid": "TnymdPglLII",
+   "ch": "Sir Arthur Meows",
+   "cid": "UCdmIkrsgwCRrBACbiFMOJTw",
+   "date": "2025-09-17",
+   "title": "Angry that the Plumber is in HIS Cupboard",
+   "views": 12057
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "q": "cat meows at plumber cupboard",
+   "vid": "AH27Jy2ziDg",
+   "ch": "Sir Arthur Meows",
+   "cid": "UCdmIkrsgwCRrBACbiFMOJTw",
+   "date": "2025-12-21",
+   "title": "Cat must inspect the cupboard- NOW!",
+   "views": 6625
+  },
+  {
+   "q": "sir arthur cat plumber meow",
+   "vid": "IiepcL4hmRk",
+   "ch": "Meoww-Alllll",
+   "cid": "UC8bT9J52CUKe91Mmbm3BM5g",
+   "date": "2026-02-02",
+   "title": "Arthur! What is the matter? 🥰🥰",
+   "views": 1724930
+  },
+  {
+   "q": "sir arthur cat plumber meow",
+   "vid": "WjOHL7x3678",
+   "ch": "Sir Arthur Meows",
+   "cid": "UCdmIkrsgwCRrBACbiFMOJTw",
+   "date": "2025-10-05",
+   "title": "Meow Compilation No.1",
+   "views": 8738
+  },
+  {
+   "q": "sir arthur cat plumber meow",
+   "vid": "TnymdPglLII",
+   "ch": "Sir Arthur Meows",
+   "cid": "UCdmIkrsgwCRrBACbiFMOJTw",
+   "date": "2025-09-17",
+   "title": "Angry that the Plumber is in HIS Cupboard",
+   "views": 12057
+  },
+  {
+   "q": "sir arthur cat plumber meow",
+   "vid": "AH27Jy2ziDg",
+   "ch": "Sir Arthur Meows",
+   "cid": "UCdmIkrsgwCRrBACbiFMOJTw",
+   "date": "2025-12-21",
+   "title": "Cat must inspect the cupboard- NOW!",
+   "views": 6625
+  },
+  {
+   "q": "sir arthur cat plumber meow",
+   "vid": "PyVz9OZITwk",
+   "ch": "Sir Arthur Meows",
+   "cid": "UCdmIkrsgwCRrBACbiFMOJTw",
+   "date": "2026-09-13",
+   "title": "Cat who thinks he is a plumber",
+   "views": 7250
+  },
+  {
+   "q": "sir arthur cat plumber meow",
+   "vid": "hNd5SOeHhLg",
+   "ch": "Sir Arthur Meows",
+   "cid": "UCdmIkrsgwCRrBACbiFMOJTw",
+   "date": "2026-01-09",
+   "title": "Cat Vs Plumber The Sequel",
+   "views": 5830
+  },
+  {
+   "q": "sir arthur cat plumber meow",
+   "vid": "hsY77kq8bAs",
+   "ch": "Sir Arthur Meows",
+   "cid": "UCdmIkrsgwCRrBACbiFMOJTw",
+   "date": "2026-09-26",
+   "title": "Cat thinks he&#39;s a plumber.",
+   "views": 5555
+  },
+  {
+   "q": "german shepherd kitten first time anxious",
+   "vid": "yK847E_MoM4",
+   "ch": "Rocky",
+   "cid": "UC6_p5c3EBY0x5kO3cR_VXug",
+   "date": "2025-07-29",
+   "title": "German Shepherd Confused by Attack of Tiny Kittens [Too Much",
+   "views": 3980409
+  },
+  {
+   "q": "german shepherd kitten first time anxious",
+   "vid": "DNoWBdkL6_s",
+   "ch": "Heartfelt Pets",
+   "cid": "UCWlY9QH3GzL8WFocYQJRGZQ",
+   "date": "2026-01-18",
+   "title": "Giant Dog Meets Tiny Kitten For The First Time - Heartwarmin",
+   "views": 83
+  },
+  {
+   "q": "german shepherd kitten first time anxious",
+   "vid": "sTQEutrwy_0",
+   "ch": "Just-Cool-Vids",
+   "cid": "UC8k3fH_-hV9a0wUDgC5RUsw",
+   "date": "2025-06-03",
+   "title": "German shepherd first time in snow ❄️",
+   "views": 232
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "stTcVsD79SE",
+   "ch": "속마음 스케치",
+   "cid": "UClSybkTdmGTfXGvK5I2hGXQ",
+   "date": "2026-10-06",
+   "title": "갓 태어난 새끼 고양이를 처음 본 아기 셰퍼드",
+   "views": 53517
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "Zo1YVUzRv3E",
+   "ch": "애니멀로그",
+   "cid": "UCA258nAPmv2ooZt77YGmP7Q",
+   "date": "2026-01-30",
+   "title": "엄마 고양이 육아 도와주는 셰퍼드 #동물 #강아지 #고양이",
+   "views": 37329
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "C4m42LDkaxA",
+   "ch": "포슬포동체",
+   "cid": "UCgcenE5Xiusjc7Vkl2BF3Hw",
+   "date": "2026-06-21",
+   "title": "거대 셰퍼드 무서워하더니 품에 쏙 파고들어 꼭 껴안고 잠든 아기 고양이 🐱🐶 #포슬포동체 #대형견 #아기고양",
+   "views": 35875
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "6Vr7i6OR3fk",
+   "ch": "포슬포동체",
+   "cid": "UCgcenE5Xiusjc7Vkl2BF3Hw",
+   "date": "2026-06-18",
+   "title": "덩치 차이 수십 배 대형 셰퍼드 처음 보고 경계하다 품속으로 파고들어 잠든 아기 고양이 🐱🐶 #포슬포동체 #",
+   "views": 34524
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "_OxZOfV8kM0",
+   "ch": "Best of Cute Animals",
+   "cid": "UCCMQWkC8dx01Greaa4B2cNw",
+   "date": "2025-06-14",
+   "title": "아기고양이 처음본 셰퍼드의 반응",
+   "views": 35631
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "i9tmYjRQGxg",
+   "ch": "엥글픽",
+   "cid": "UCQGJ2KPGay5_o6aX7MHxOQw",
+   "date": "2026-10-22",
+   "title": "새끼 고양이들을 처음 만난 아기 셰퍼드의 조심스러운 인사",
+   "views": 25077
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "xUvfzzzNzow",
+   "ch": "포슬포동체",
+   "cid": "UCgcenE5Xiusjc7Vkl2BF3Hw",
+   "date": "2026-07-13",
+   "title": "커다란 셰퍼드 삼촌이 무섭지도 않은지 다리 사이로 쏙 파고들어 삼촌 당황하게 만든 용감한 아기 고양이 🐱 #",
+   "views": 22698
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "PNwjWaJHv0E",
+   "ch": "쇼츠지만",
+   "cid": "UCRvM8nGTLdCr3Mq_wuOR7LQ",
+   "date": "2025-07-17",
+   "title": "고양이가 놀란 이유ㅋㅋ 셰퍼드의 반전 행동",
+   "views": 21636
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "VR4rKQPuN6A",
+   "ch": "펫무드",
+   "cid": "UCGtqty4DP8gbnCeT0aFIrSQ",
+   "date": "2026-08-09",
+   "title": "산적 얼굴 셰퍼드가 새끼고양이 앞에서 하는 행동",
+   "views": 11666
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "rprtFSXict8",
+   "ch": "토닥토닥_PET",
+   "cid": "UCdRosMm8ZJZcmvEyAmCS9KA",
+   "date": "2026-10-10",
+   "title": "아기 고양이를 들인 셰퍼드의 3주 뒤",
+   "views": 14475
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "3zMNfBoujBs",
+   "ch": "속마음 스케치",
+   "cid": "UClSybkTdmGTfXGvK5I2hGXQ",
+   "date": "2026-10-02",
+   "title": "버려진 아기 고양이를 처음 만난 셰퍼드",
+   "views": 13817
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "rFp22Fg9AS4",
+   "ch": "포치고치",
+   "cid": "UC-g86ow6n9V_0z18aOB08ZQ",
+   "date": "2026-05-30",
+   "title": "자기 발바닥만 한 아기 냥이 처음 본 거대 셰퍼드 반응 🐾 #강아지와고양이",
+   "views": 11123
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "098KuCPr8K4",
+   "ch": "속마음 스케치",
+   "cid": "UClSybkTdmGTfXGvK5I2hGXQ",
+   "date": "2026-10-14",
+   "title": "셰퍼드 얼굴에 앞발 든 아기냥",
+   "views": 7512
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "Ije3ht7rzME",
+   "ch": "포슬포동체",
+   "cid": "UCgcenE5Xiusjc7Vkl2BF3Hw",
+   "date": "2026-06-23",
+   "title": "거대한 셰퍼드가 조심스럽게 엎드리자 품속으로 쏙 파고드는 아기 고양이들 🐾 #셰퍼드 #아기고양이 #포슬포동체",
+   "views": 6571
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "UAgbnsM8Uqc",
+   "ch": "아이고내팔자야",
+   "cid": "UCHQqG5qMN0K52tzpxQR4aNA",
+   "date": "2026-10-28",
+   "title": "버려진 아깽이가 셰퍼드를 처음 만난 결과",
+   "views": 4616
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "uq4x41PMuAM",
+   "ch": "천사천명",
+   "cid": "UC-sIk2Y4Qk51Ie0EeSP9buA",
+   "date": "2026-10-17",
+   "title": "셰퍼드가 아기 고양이를 보고 보여준 의외의 반응 #감동 #셰퍼드 #고양이",
+   "views": 1305
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "H8d0L8CfbrQ",
+   "ch": "Arms of Grace",
+   "cid": "UCaeyossbM_XspZ3LvyRI3Ew",
+   "date": "2026-09-04",
+   "title": "너 정말 괜찮겠어? 세퍼드 형아를 침대 삼은 꼬꼬미 아기냥이",
+   "views": 1609
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "dWf9Alnji6I",
+   "ch": "낯선장면",
+   "cid": "UCpwGUB-MOjeZaTN0raULQRQ",
+   "date": "2026-10-04",
+   "title": "아기 고양이가 처음 본 셰퍼드 품을 파고든 이유",
+   "views": 1195
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "J9cBAfvVB0c",
+   "ch": "브레인톡톡",
+   "cid": "UC1FcDaFXc-_jxJh7AGDInkw",
+   "date": "2026-09-25",
+   "title": "보기만 해도 아찔한 체급 차이… 쪼꼬미 아기고양이🐱 vs 살면서 처음 본 셰퍼드🐶 #고양이 #셰퍼드 #강아지",
+   "views": 135
+  },
+  {
+   "q": "셰퍼드 아기고양이 처음",
+   "vid": "PrMJWxbsvmo",
+   "ch": "냥냥타임",
+   "cid": "UCo1cX1vy4DibAqsxFI-Xnmg",
+   "date": "2026-10-22",
+   "title": "36kg 셰퍼드에게 몰래 다가간 아기 고양이의 최후ㅋㅋ #고양이 #고양이쇼츠 #반려묘",
+   "views": 3
   }
  ]
 }
