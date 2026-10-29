@@ -1,0 +1,8 @@
+ERROR: [twitter] 2115674009765564763: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/libertymimikyu/status/2115674009765564763
+실패: https://x.com/libertymimikyu/status/2115674009765564763
+total 16
+drwxr-xr-x 2 runner runner 4096 Oct 29 05:59 .
+drwxr-xr-x 4 runner runner 4096 Oct 29 05:59 ..
+-rw-r--r-- 1 runner runner  226 Oct 29 05:59 log.txt
+-rw-r--r-- 1 runner runner  499 Oct 29 05:59 x1.json
