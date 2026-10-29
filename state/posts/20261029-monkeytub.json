@@ -1,7 +1,7 @@
 {
  "id": "20261029-monkeytub",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-10-29T13:35:19.536786+09:00",
  "publish_at": "2026-10-29T13:35:19.536811+09:00",
  "publish_now": true,
@@ -51,5 +51,6 @@
   "channel": null
  },
  "draft_hash": "4bd49973d220",
- "tg_msg": 1492
+ "tg_msg": 1492,
+ "decided_at": "2026-10-29T13:41:58.124111+09:00"
 }
