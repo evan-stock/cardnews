@@ -1,8 +1,1 @@
-장면 1/7 silent 누적 2.6초
-장면 2/7 typecast 누적 6.3초
-장면 3/7 silent 누적 8.7초
-장면 4/7 typecast 누적 11.9초
-장면 5/7 silent 누적 14.5초
-장면 6/7 silent 누적 16.9초
-장면 7/7 typecast 누적 20.3초
-완성: /home/runner/work/cardnews/cardnews/media/20261029-pigeondog/short.mp4 (20.3초, TTS ['silent', 'typecast'])
+⏳ 3개 장면 목소리를 맥북에서 만드는 중
