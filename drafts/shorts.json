@@ -1,159 +1,174 @@
 {
- "id": "20261029-costumedog",
+ "id": "20261029-monkeytub",
  "mode": "send",
  "format": "meme",
- "topic": "집사가 할로윈 플래퍼 소품(진주 머리띠·깃털 장식·진주 목걸이)을 샀는데 자기 대신 흰 강아지 토비에게 하나씩 입힘 — 토비는 끝까지 무표정(TikTok @mr.tobiman, 2026.10.28 게시, 240만 회·좋아요 48만, TAG24 2026.10.28). 원본 소리는 집사의 영어 설명이 계속 이어져 말소리 구간은 끔, 말 없는 구간만 작게 살림. 사실: AKC — 의상은 행사 전에 미리 조금씩 입혀 익숙해지게 하라.",
+ "topic": "미국 집 마당 온수 욕조 앞에서 거미원숭이 루스터가 물이 차갑다고 안 들어가고 버티다가, 집사가 온수를 켜 데워 주자 그제야 들어가 사람처럼 앉아 반신욕(TikTok @our_life_adventures, 2026.10.6 게시, 110만 회·좋아요 16.6만, TAG24 Viral Video of the Day 2026.10.25). 원본 소리는 처음부터 끝까지 덧입힌 음악 트랙이라 전 구간 끔. 사실: 내셔널지오그래픽 — 거미원숭이는 멕시코 중부~볼리비아의 열대우림에 살고, 꼬리는 몸보다 길며 꼬리 하나로 몸무게를 버틸 수 있다.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 1.5,
  "sfx_max": 4,
  "hook": {
-  "t": "할로윈 소품 샀는데\n'주인공이 바뀜ㅋㅋ'"
+  "t": "찬물은 거부하던 원숭이\n'물 데워 주자 생긴 일ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @mr.tobiman"
+  "TikTok @our_life_adventures"
  ],
  "scenes": [
   {
-   "dur": 2.6,
+   "dur": 3.0,
    "video": {
-    "src": "video/v1.mp4",
+    "src": "../20261029-midcand/video/v1.mp4",
     "x": 0.5,
     "y": 0.5,
-    "start": 56.2,
-    "audio": 3
+    "start": 81.6,
+    "audio": 0
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(정색)",
-     "x": 0.25,
-     "y": 0.42,
+     "k": "talk",
+     "t": "크으~ 이제야\n좀 살겠네",
+     "x": 0.7,
+     "y": 0.58,
      "at": 0.2,
-     "s": "question",
-     "sv": 0.7
-    },
-    {
-     "k": "talk",
-     "t": "...이게 맞아?",
-     "x": 0.72,
-     "y": 0.42,
-     "at": 0.9
-    }
-   ]
-  },
-  {
-   "say": "집사가 할로윈 소품을 샀는데, 입는 건 강아지입니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "start": 12.0,
-    "audio": 0
-   },
-   "caps": []
-  },
-  {
-   "dur": 2.2,
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "start": 15.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "나한테 왜 이래",
-     "x": 0.72,
-     "y": 0.3,
-     "at": 0.2
-    },
-    {
-     "k": "sfx",
-     "t": "(멍...)",
-     "x": 0.2,
-     "y": 0.62,
-     "at": 0.9
-    }
-   ]
-  },
-  {
-   "dur": 2.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "start": 24.8,
-    "audio": 3
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(촤르륵)",
-     "x": 0.25,
-     "y": 0.62,
-     "at": 0.3,
+     "to": 2.9,
      "s": "sparkle",
      "sv": 0.7
     },
     {
-     "k": "talk",
-     "t": "아직 동의 안 했다",
-     "x": 0.7,
-     "y": 0.62,
-     "at": 1.0
+     "k": "sfx",
+     "t": "(노곤)",
+     "x": 0.22,
+     "y": 0.7,
+     "at": 1.0,
+     "to": 2.9
     }
    ]
   },
   {
-   "say": "깃털에 진주 목걸이까지, 표정은 끝까지 그대로입니다.",
+   "say": "사실 이 원숭이, 아까는 욕조 앞에서 버텼습니다.",
    "video": {
-    "src": "video/v1.mp4",
+    "src": "../20261029-midcand/video/v1.mp4",
     "x": 0.5,
     "y": 0.5,
-    "start": 30.0,
+    "start": 20.0,
     "audio": 0
    },
    "caps": []
   },
   {
-   "dur": 2.4,
+   "dur": 3.2,
    "video": {
-    "src": "video/v1.mp4",
+    "src": "../20261029-midcand/video/v1.mp4",
     "x": 0.5,
     "y": 0.5,
-    "start": 44.0,
+    "start": 24.6,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "사진 다 찍었지? 벗겨줘",
+     "t": "손 잡아도 안 들어가\n차갑다고!!",
      "x": 0.5,
-     "y": 0.75,
-     "at": 0.3,
-     "s": "pop",
-     "sv": 0.6
+     "y": 0.12,
+     "at": 0.2,
+     "to": 3.1,
+     "s": "fail",
+     "sv": 0.7
+    },
+    {
+     "k": "sfx",
+     "t": "(절레절레)",
+     "x": 0.25,
+     "y": 0.45,
+     "at": 0.8,
+     "to": 3.1
     }
    ]
   },
   {
-   "say": "새 옷은 며칠에 걸쳐 조금씩 익숙해지게 해 주라고 합니다.",
+   "say": "결국 집사가 온수를 틀어 물을 데워 줬습니다.",
    "video": {
-    "src": "video/v1.mp4",
+    "src": "../20261029-midcand/video/v1.mp4",
     "x": 0.5,
     "y": 0.5,
-    "start": 60.5,
+    "start": 36.0,
+    "audio": 0
+   },
+   "caps": []
+  },
+  {
+   "dur": 2.6,
+   "video": {
+    "src": "../20261029-midcand/video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 46.6,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "오 이제 됐다!",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.2,
+     "to": 2.5
+    },
+    {
+     "k": "sfx",
+     "t": "(첨벙)",
+     "x": 0.3,
+     "y": 0.62,
+     "at": 0.9,
+     "to": 2.5,
+     "s": "whoosh",
+     "sv": 0.7
+    }
+   ]
+  },
+  {
+   "dur": 3.0,
+   "video": {
+    "src": "../20261029-midcand/video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 52.5,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "온도 딱 좋고~",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.2,
+     "to": 2.9
+    },
+    {
+     "k": "sfx",
+     "t": "(반신욕 중)",
+     "x": 0.75,
+     "y": 0.62,
+     "at": 1.0,
+     "to": 2.9
+    }
+   ]
+  },
+  {
+   "say": "거미원숭이는 원래 중남미 열대우림에서 삽니다.",
+   "video": {
+    "src": "../20261029-midcand/video/v1.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 91.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "할로윈 의상은 미리 천천히 적응\n(미국켄넬클럽 AKC)",
+     "t": "꼬리 하나로 몸무게를 버틸 수 있음\n(내셔널지오그래픽)",
      "x": 0.5,
-     "y": 0.12,
+     "y": 0.1,
      "at": 0.3
     }
    ]
@@ -161,31 +176,31 @@
  ],
  "sources": [
   {
-   "publisher": "TikTok @mr.tobiman",
-   "url": "https://www.tiktok.com/@mr.tobiman/video/7701510108173421837",
-   "date": "2026.10.28"
+   "publisher": "TikTok @our_life_adventures",
+   "url": "https://www.tiktok.com/@our_life_adventures/video/7693706278249565453",
+   "date": "2026.10.6"
   },
   {
-   "publisher": "TAG24 - Viral Video of the Day for October 28, 2026: This dog is not impressed with his Halloween costume!",
-   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-28-2026-this-dog-is-not-impressed-with-his-halloween-costume-3536306",
-   "date": "2026.10.28"
+   "publisher": "TAG24 - Viral Video of the Day for October 25, 2026: This monkey has higher hot tub standards than you do!",
+   "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-25-2026-this-monkey-has-higher-hot-tub-standards-than-you-do-3536303",
+   "date": "2026.10.25"
   },
   {
-   "publisher": "AKC - Dog Halloween Costume Safety",
-   "url": "https://www.akc.org/expert-advice/lifestyle/dog-halloween-costume-safety/",
+   "publisher": "National Geographic - Spider monkeys",
+   "url": "https://www.nationalgeographic.com/animals/mammals/facts/spider-monkeys",
    "date": ""
   }
  ],
  "yt": {
-  "title": "할로윈 소품 입혀 본 강아지의 반응ㅋㅋ #shorts",
-  "description": "집사가 할로윈 소품(진주 머리띠·깃털 장식·진주 목걸이)을 샀는데... 정작 입은 건 강아지 토비ㅋㅋ 하나씩 늘어날 때마다 표정은 점점 무(無).\n\n미국켄넬클럽(AKC)은 할로윈 의상을 행사 며칠 전부터 조금씩 입혀 보고 간식으로 칭찬해 익숙해지게 하라고 조언해요. 귀를 납작하게 내리거나 꼬리를 말아 넣으면 불편하다는 신호래요.\n\n여러분 강아지는 옷 입히면 어떤 표정인가요?\n\n영상: TikTok @mr.tobiman\n참고: TAG24, AKC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "온수 욕조 데워 주자 원숭이의 반응ㅋㅋ #shorts",
+  "description": "찬물이라고 욕조 앞에서 버티던 거미원숭이 루스터... 집사가 온수를 켜 주자 그제야 들어가서 사람처럼 반신욕ㅋㅋ\n\n내셔널지오그래픽에 따르면 거미원숭이는 멕시코 중부부터 볼리비아까지 중남미 열대우림에 살아요. 꼬리가 몸보다 길고, 꼬리 하나로 몸무게를 버틸 수 있어서 '다섯 번째 손'이라고 불린대요.\n\n여러분 반려동물은 따뜻한 물 좋아하나요?\n\n영상: TikTok @our_life_adventures\n참고: TAG24, National Geographic\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "강아지",
-   "할로윈",
-   "강아지옷",
-   "강아지코스튬",
-   "웃긴강아지",
-   "강아지반응",
+   "원숭이",
+   "거미원숭이",
+   "온수욕조",
+   "반신욕",
+   "웃긴동물",
+   "동물반응",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
