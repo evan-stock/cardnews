@@ -2,7 +2,7 @@
  "id": "20261029-nksecurity",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-29T19:44:31.919634+09:00",
  "publish_at": "2026-10-29T19:41:13+09:00",
  "topic": "같은 날 대비: 10.29 06:10 뉴스핌 단독 '정부, 북미 정상회담에서 종전선언 발표 추진'(정부 소식통) → 12:30 원산 단거리 탄도미사일 등 10여 발(약 250km, 올해 17번째, 작년 6번)",
@@ -95,5 +95,9 @@
   "media/20261029-nksecurity/07.jpg",
   "media/20261029-nksecurity/08.jpg"
  ],
- "tg_msg": 1515
+ "tg_msg": 1515,
+ "decided_at": "2026-10-29T19:48:28.596099+09:00",
+ "ig_media_id": "18164114338434403",
+ "permalink": "https://www.instagram.com/p/DfE1HH7EdJM/",
+ "published_at": "2026-10-29T19:49:46.105901+09:00"
 }
