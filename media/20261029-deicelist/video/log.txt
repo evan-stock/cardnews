@@ -1,0 +1,14 @@
+WARNING: The program functionality for this site has been marked as broken, and will probably not work.
+ERROR: No working app info is available
+실패: https://www.tiktok.com/tag/deicing
+ERROR: [tiktok:user] lukathearcher13: Unable to extract secondary user ID. If you are able to get the channel_id from a video posted by this user, try using "tiktokuser:channel_id" as the input URL (replacing `channel_id` with its actual value)
+실패: https://www.tiktok.com/@lukathearcher13
+WARNING: The program functionality for this site has been marked as broken, and will probably not work.
+ERROR: No working app info is available
+실패: https://www.tiktok.com/tag/frozenpipes
+ERROR: [tiktok:user] willethehvacgoat: Unable to extract secondary user ID. If you are able to get the channel_id from a video posted by this user, try using "tiktokuser:channel_id" as the input URL (replacing `channel_id` with its actual value)
+실패: https://www.tiktok.com/@willethehvacgoat
+total 12
+drwxr-xr-x 2 runner runner 4096 Oct 29 00:41 .
+drwxr-xr-x 3 runner runner 4096 Oct 29 00:41 ..
+-rw-r--r-- 1 runner runner  966 Oct 29 00:41 log.txt
