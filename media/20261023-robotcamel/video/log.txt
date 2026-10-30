@@ -1,2 +1,0 @@
-ERROR: [twitter] 456828261436100608: No video could be found in this tweet
-실패: https://x.com/Hassing2000/status/456828261436100608
