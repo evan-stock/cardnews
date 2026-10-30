@@ -2,7 +2,7 @@
  "id": "20261030-binance",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-30T18:52:54.632615+09:00",
  "publish_at": "2026-10-30T18:52:54.632716+09:00",
  "topic": "바이낸스 63억 달러 해킹, 원인은 엔지니어 노트북 한 대",
@@ -68,5 +68,8 @@
   "media/20261030-binance/04.jpg",
   "media/20261030-binance/05.jpg"
  ],
- "tg_msg": 1531
+ "tg_msg": 1531,
+ "ig_media_id": "18065546939537004",
+ "permalink": "https://www.instagram.com/p/DfHT98rlram/",
+ "published_at": "2026-10-30T18:57:52.996378+09:00"
 }
