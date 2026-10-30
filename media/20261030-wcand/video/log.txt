@@ -1,0 +1,29 @@
+ERROR: [twitter] 2046627521941131479: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/accuweather/status/2046627521941131479
+실패: https://x.com/accuweather/status/2046627521941131479
+total 29520
+drwxr-xr-x 2 runner runner    4096 Oct 30 11:25 .
+drwxr-xr-x 3 runner runner    4096 Oct 30 11:25 ..
+-rw-r--r-- 1 runner runner     220 Oct 30 11:25 log.txt
+-rw-r--r-- 1 runner runner  424843 Oct 30 11:25 page11.html
+-rw-r--r-- 1 runner runner  372205 Oct 30 11:25 page12.html
+-rw-r--r-- 1 runner runner  371737 Oct 30 11:25 page13.html
+-rw-r--r-- 1 runner runner    9984 Oct 30 11:25 v1.info.json
+-rw-r--r-- 1 runner runner 2851766 Oct 30 11:25 v1.mp4
+-rw-r--r-- 1 runner runner   11804 Oct 30 11:25 v10.info.json
+-rw-r--r-- 1 runner runner 8379602 Oct 30 11:25 v10.mp4
+-rw-r--r-- 1 runner runner   22388 Oct 30 11:25 v2.info.json
+-rw-r--r-- 1 runner runner  976274 Oct 30 11:25 v2.mp4
+-rw-r--r-- 1 runner runner   28885 Oct 30 11:25 v3.info.json
+-rw-r--r-- 1 runner runner 3331821 Oct 30 11:25 v3.mp4
+-rw-r--r-- 1 runner runner   12853 Oct 30 11:25 v4.info.json
+-rw-r--r-- 1 runner runner 2304555 Oct 30 11:25 v4.mp4
+-rw-r--r-- 1 runner runner 5445504 Oct 30 11:25 v5.mp4
+-rw-r--r-- 1 runner runner   20215 Oct 30 11:25 v6.info.json
+-rw-r--r-- 1 runner runner 1501071 Oct 30 11:25 v6.mp4
+-rw-r--r-- 1 runner runner 2086868 Oct 30 11:25 v7.mp4
+-rw-r--r-- 1 runner runner   19630 Oct 30 11:25 v9.info.json
+-rw-r--r-- 1 runner runner 1996462 Oct 30 11:25 v9.mp4
+-rw-r--r-- 1 runner runner     735 Oct 30 11:25 x5.json
+-rw-r--r-- 1 runner runner     908 Oct 30 11:25 x7.json
+-rw-r--r-- 1 runner runner     545 Oct 30 11:25 x8.json

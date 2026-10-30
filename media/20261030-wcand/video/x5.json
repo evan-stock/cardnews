@@ -1,0 +1,22 @@
+{
+ "src": "fxtwitter",
+ "author": "WeatherNation",
+ "name": "WeatherNation",
+ "date": "Sat Dec 13 22:30:00 +0000 2025",
+ "text": "What do you do to entertain yourself when it's -10° outside?\n\nHow about the boiling water trick! Cold air can hold very little moisture, so when hot water is thrown into the air, it nearly instantly turns into a gas or solid (snow)! #WIwx",
+ "views": 5893,
+ "likes": 46,
+ "retweets": 7,
+ "quote": null,
+ "url": "https://x.com/WeatherNation/status/1999970084203209091",
+ "id": "1999970084203209091",
+ "videos": [
+  {
+   "url": "https://video.twimg.com/amplify_video/1999914100856586240/vid/avc1/1080x1920/9VKYebkV_0b82vxB.mp4?tag=16",
+   "w": 1080,
+   "h": 1920,
+   "dur": 18.268
+  }
+ ],
+ "errors": []
+}
