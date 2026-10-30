@@ -1,129 +1,232 @@
 {
- "id": "20261031-crane",
- "mode": "render",
- "topic": "타워크레인 기사의 퇴근길 (오늘의쓸모 새 형식 1편: 화면 꽉 + 내레이션, 벤치마크 깔끔맨)",
- "_note": "제목 띠 없음(layout full), 아래 자막만. 원본: X @PicturesFoIder 1948454522566697452 (720x1280, 125초, 화면 글자 없음). 수치 근거: 매일신문 2018.6.13(60m·약 200칸·10~15분·오전 5시간·빈 병·하루 4번), Construction Enquirer 2020.7.3(Terex T-lift 시험) | 10.31 자막을 깔끔맨식(Pretendard ExtraBold·흐린 그림자·살짝 기울임·짧게 끊기)으로 | 10.31 00:59 사용자 채팅 승인(음악 C 문릿) → 바로 업로드, 반응 보고 새 형식 판단 | 01:09 사용자 요청: Gemini 목소리로 다시 → 들어보고 업로드 | 01:27 사용자 선택: Gemini Puck(빠르게, tempo 1.2)",
- "style": {
-  "layout": "full",
-  "sub_y": 0.77,
-  "sub_size": 74,
-  "chunk": 9,
-  "sub_stroke": 2,
-  "font_sub": "assets/fonts/Pretendard-ExtraBold.otf",
-  "sub_shadow": true,
-  "sub_italic": 0.08
+ "id": "20261031-tsundere",
+ "mode": "send",
+ "format": "meme",
+ "topic": "반가워서 쪼르르 달려온 길고양이가 발밑에 오자 안 반가운 척 갑자기 그루밍, 그러다 올려다보며 냐옹(X @gubakim 김구바, 2026.10.28, 조회 101만). 사용자 지정 소재(10.31 08:07 회차). 원본 소리(고양이 울음·거리 소리) 살림. 사실: Petfinder — 두 가지 상반된 행동 동기가 부딪힐 때 그루밍으로 대신하는 '전위 행동', 그루밍은 고양이를 진정시킴.",
+ "bgm": "assets/bgm/worthy/curious_kitten.mp3",
+ "bgm_start": 11.0,
+ "bgm_volume": 0.8,
+ "sfx_max": 4,
+ "hook": {
+  "t": "반가워서 달려와 놓고\n'안 반가운 척ㅋㅋ'"
  },
+ "photo_credits": [
+  "X @gubakim (김구바)"
+ ],
  "scenes": [
   {
-   "say": "타워크레인 기사는 퇴근을 어떻게 할까요?",
+   "dur": 3.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 36.5
-   }
+    "start": 23.7,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 9
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "흥...\n반가워서 온 거 아니거든",
+     "x": 0.5,
+     "y": 0.2,
+     "at": 0.05,
+     "to": 3.0,
+     "s": "slide",
+     "sv": 0.8
+    },
+    {
+     "k": "sfx",
+     "t": "(핥핥)",
+     "x": 0.72,
+     "y": 0.62,
+     "at": 0.4,
+     "to": 2.6
+    }
+   ]
   },
   {
-   "say": "이 좁은 유리 조종석이 이분의 사무실입니다.",
+   "say": "이 고양이, 집사를 보자마자 저 멀리서 달려왔습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.5
-   }
+    "start": 0.5,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 3
+   },
+   "caps": []
   },
   {
-   "say": "엘리베이터는 없습니다. 내려가는 길은 철 사다리 하나뿐이죠.",
+   "dur": 2.4,
    "video": {
     "src": "video/v1.mp4",
-    "start": 41
-   }
+    "start": 5.0,
+    "x": 0.45,
+    "y": 0.5,
+    "audio": 9
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "집사다!!\n집사다아!!",
+     "x": 0.5,
+     "y": 0.2,
+     "at": 0.05,
+     "to": 2.4,
+     "s": "whoosh",
+     "sv": 0.8
+    },
+    {
+     "k": "sfx",
+     "t": "(쪼르르)",
+     "x": 0.72,
+     "y": 0.72,
+     "at": 0.3,
+     "to": 2.2
+    }
+   ]
   },
   {
-   "say": "높이 60미터 크레인이면 사다리만 약 200칸. 국내 한 기사는 오르는 데만 10분에서 15분이 걸린다고 해요.",
+   "say": "그런데 코앞에 오더니 갑자기 속도를 줄입니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 49
-   }
+    "start": 12.0,
+    "x": 0.45,
+    "y": 0.5,
+    "audio": 3
+   },
+   "caps": []
   },
   {
-   "say": "그래서 한번 올라가면 오전 내내 다섯 시간을 내려오지 않습니다.",
+   "dur": 3.3,
    "video": {
     "src": "video/v1.mp4",
-    "start": 59
-   }
+    "start": 17.7,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 9
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "왔...냐옹",
+     "x": 0.3,
+     "y": 0.2,
+     "at": 0.9,
+     "to": 2.5
+    },
+    {
+     "k": "sfx",
+     "t": "(앗 차)",
+     "x": 0.7,
+     "y": 0.25,
+     "at": 2.5,
+     "to": 3.3,
+     "s": "question",
+     "sv": 0.7
+    }
+   ]
   },
   {
-   "say": "화장실이 없어 작은 볼일은 빈 병에 해결하고, 일부러 덜 먹는 기사도 있죠.",
+   "dur": 2.7,
    "video": {
     "src": "video/v1.mp4",
-    "start": 66
-   }
+    "start": 21.0,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 9
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "아니 그냥...\n털이 좀 신경 쓰여서",
+     "x": 0.5,
+     "y": 0.18,
+     "at": 0.05,
+     "to": 2.7
+    },
+    {
+     "k": "sfx",
+     "t": "(딴청)",
+     "x": 0.75,
+     "y": 0.6,
+     "at": 0.5,
+     "to": 2.5
+    }
+   ]
   },
   {
-   "say": "이런 길을 하루 네 번 오르내립니다.",
+   "say": "고양이는 두 마음이 부딪히면 그루밍으로 마음을 달랜다고 합니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 76
-   }
+    "start": 29.3,
+    "x": 0.45,
+    "y": 0.5,
+    "audio": 3,
+    "boomerang": true
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "'전위 행동' (Petfinder)\n다가갈까 말까 갈등될 때 그루밍",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.3
+    }
+   ]
   },
   {
-   "say": "그래서 요즘 해외에선 크레인 기둥에 작은 승강기를 다는 현장도 생겼어요.",
+   "dur": 2.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 84
-   }
-  },
-  {
-   "say": "그런데 사다리를 다 내려와도, 아직 땅이 아닙니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 103.5
-   }
-  },
-  {
-   "say": "공사 중인 건물로 건너가 엘리베이터를 타야, 그제야 진짜 퇴근이죠.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 111
-   }
+    "start": 27.0,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 11
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "...근데 간식은?",
+     "x": 0.5,
+     "y": 0.18,
+     "at": 0.3,
+     "to": 2.0,
+     "s": "sparkle",
+     "sv": 0.6
+    }
+   ]
   }
  ],
- "bgm": "assets/bgm/worthy/moonlit.mp3",
- "bgm_start": 65,
- "bgm_volume": 0.25,
- "photo_credits": [
-  "X @PicturesFoIder"
- ],
- "yt": {
-  "channel": "shop",
-  "title": "타워크레인 기사가 퇴근하는 방법 #shorts",
-  "description": "까마득한 높이의 조종석에서 기사는 어떻게 내려올까요? 사다리 약 200칸, 화장실 없는 하루.\n\n영상: X @PicturesFoIder\n참고: 매일신문(2018.6.13) 타워크레인 기사 인터뷰, Construction Enquirer(2020.7.3)\n음악: Moonlit – Dyalla (YouTube 오디오 보관함)",
-  "tags": [
-   "타워크레인",
-   "크레인기사",
-   "건설현장",
-   "직업",
-   "상식",
-   "오늘의쓸모"
-  ],
-  "privacy": "public"
- },
  "sources": [
   {
-   "publisher": "매일신문",
-   "date": "2018.6.13",
-   "url": "https://www.imaeil.com/page/view/2018061318074403091"
+   "publisher": "X @gubakim (김구바)",
+   "url": "https://x.com/gubakim/status/2115428611318829077",
+   "date": "2026-10-28"
   },
   {
-   "publisher": "Construction Enquirer",
-   "date": "2020.7.3",
-   "url": "https://constructionenquirer.com/2020/07/03/tower-crane-lifts-end-long-climb-for-operators/"
+   "publisher": "Petfinder - Why Do Cats Lick Themselves?",
+   "url": "https://www.petfinder.com/cats/cat-grooming/cats-meticulous-nature/",
+   "date": "2023-02-10"
   }
  ],
+ "yt": {
+  "title": "반가운 거 들키면 안 되는 고양이 ㅋㅋ #shorts",
+  "description": "저 멀리서 쪼르르 달려와 놓고... 발밑에 도착하자마자 갑자기 안 반가운 척 그루밍ㅋㅋ 그래 놓고 결국 올려다보며 냐옹.\n\n고양이는 다가갈까 말까처럼 두 마음이 부딪힐 때 대신 그루밍을 하기도 한대요. 이걸 '전위 행동'이라고 하는데, 그루밍이 마음을 진정시켜 준다고 해요.\n\n여러분 고양이도 반가운 티 안 내려고 딴청 피우나요?\n\n영상: X @gubakim (김구바)\n참고: Petfinder\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "tags": [
+   "고양이",
+   "길고양이",
+   "츤데레고양이",
+   "고양이그루밍",
+   "고양이반응",
+   "웃긴고양이",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public"
+ },
  "publish_now": true,
- "voice": {
-  "engine": "gemini",
-  "gemini": {
-   "voice": "Puck",
-   "tempo": 1.2,
-   "style": "유튜브 쇼츠 상식 해설 내레이션. 밝고 친근한 20~30대 남성, 빠르고 경쾌하게, 문장 사이 쉬지 말고 이어서 읽기"
-  }
+ "style": {
+  "sub_y": 0.84
  }
 }
