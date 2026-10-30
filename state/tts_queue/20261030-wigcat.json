@@ -1,0 +1,51 @@
+{
+ "id": "20261030-wigcat",
+ "created": "2026-10-30T18:30:08.267778+09:00",
+ "items": [
+  {
+   "key": "8deec591d65d",
+   "text": "집사가 고양이 형제 중 한 마리에게 가발을 씌웠습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "70f24a49cf4f",
+   "text": "동생은 형을 처음 보는 고양이로 아는 눈치입니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "고양이는 얼굴보다 냄새로 서로를 알아본다고 합니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "ad3a112409c3",
+   "text": "고양이는 얼굴보다 냄새로 서로를 알아본다고 합니다.",
+   "ctx": {
+    "previous_text": "동생은 형을 처음 보는 고양이로 아는 눈치입니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
