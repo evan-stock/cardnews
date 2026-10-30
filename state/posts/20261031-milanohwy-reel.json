@@ -1,0 +1,38 @@
+{
+ "id": "20261031-milanohwy-reel",
+ "format": "reel",
+ "slot": "night",
+ "status": "approved",
+ "created_at": "2026-10-31T01:46:25+09:00",
+ "publish_at": "2026-10-31T01:46:25+09:00",
+ "decided_at": "2026-10-31T01:46:25+09:00",
+ "topic": "이탈리아 10.30 생활비 총파업: 밀라노 3만 명(경찰 추산) 순환고속도로 1시간 반 점거, 50여 개 도시 동시 시위",
+ "category": "해외 사건 · 실제 영상",
+ "sources": [
+  {
+   "publisher": "ANSA",
+   "date": "2026.10.30",
+   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/sciopero-generale-e-cortei-in-tutta-italia.-scontri-a-torino-cariche-in-piazza-castello_a6c5a68a-dc6a-450e-9dac-8c7c47dc898a.html"
+  },
+  {
+   "publisher": "Il Messaggero",
+   "date": "2026.10.30",
+   "url": "https://www.ilmessaggero.it/video/cronaca/milano_tangenziale_est-9858707.html"
+  },
+  {
+   "publisher": "Il Giorno",
+   "date": "2026.10.30",
+   "url": "https://www.ilgiorno.it/milano/cronaca/cortei-30-ottobre-sciopero-diretta-j7fqi10y"
+  }
+ ],
+ "files": [
+  "media/20261031-milanohwy-reel/reel.mp4"
+ ],
+ "cover": "media/20261031-milanohwy-reel/reel_cover.jpg",
+ "credits": [
+  "Il Messaggero 영상",
+  "@Italia24HLive(Milano InMovimento) 영상"
+ ],
+ "manual": true,
+ "caption_full": "🚨 차가 다니던 고속도로를 3만 명이 걸어서 막았습니다 [유럽 시위]\n\n10월 30일(현지시각) 이탈리아 50여 개 도시에서 생활비 총파업 시위가 동시에 열렸습니다.\n\n🇮🇹 밀라노: 경찰 추산 약 3만 명이 순환고속도로에 올라 2km 넘게 행진했습니다. 고속도로는 1시간 반 동안 막혔고, 근처 주유소 벽에는 \"기름값 2유로는 폭력\"이라는 낙서가 남았습니다.\n\n물가와 기름값은 오르는데 월급은 그대로라는 게 시위대의 외침이었습니다. 토리노·베네치아·로마 등에서도 시위가 이어졌고, 일부 도시에서는 경찰이 물대포를 쏘며 행렬을 막았습니다.\n\n월급 빼고 다 오르면, 결국 거리로 나올 수밖에 없는 걸까요? 💬\n\n전 세계에서 터진 건 오쓸이 제일 먼저 가져옵니다. 팔로우하면 다음 편을 바로 받아보실 수 있습니다.\n\n출처: ANSA·Il Messaggero·Il Giorno 2026.10.30\n영상: Il Messaggero, @Italia24HLive(Milano InMovimento)\n\n#유럽시위 #이탈리아 #밀라노 #총파업 #해외이슈 #오늘의쓸모"
+}
