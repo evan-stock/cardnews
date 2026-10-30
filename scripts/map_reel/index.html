@@ -1,0 +1,171 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:PB;src:url(fonts/Pretendard-Black.otf)}
+@font-face{font-family:PM;src:url(fonts/Pretendard-Medium.otf)}
+@font-face{font-family:PS;src:url(fonts/Pretendard-SemiBold.otf)}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;background:#0a0b0d;overflow:hidden}
+#stage{position:absolute;inset:0;overflow:hidden}
+.abs{position:absolute}
+#bg{position:absolute;inset:-60px;background-size:cover;background-position:center;filter:blur(38px) brightness(.32) saturate(.9)}
+#bg2{position:absolute;inset:-60px;background-size:cover;background-position:center;filter:blur(38px) brightness(.32) saturate(.9)}
+#shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,11,13,.55) 0%,rgba(10,11,13,.15) 30%,rgba(10,11,13,.25) 70%,rgba(10,11,13,.85) 100%)}
+#logo{left:70px;top:112px;height:46px}
+#tag{left:70px;top:186px;font-family:PS;font-size:30px;color:#FFD84D;border:2px solid #FFD84D;border-radius:999px;padding:6px 20px 8px;letter-spacing:-.5px}
+.title{left:68px;font-family:PB;font-size:96px;letter-spacing:-3px;line-height:1;white-space:nowrap}
+#panel{left:40px;top:500px;width:1000px;height:880px;border-radius:30px;overflow:hidden;background:#0f1216;box-shadow:0 0 0 1.5px rgba(255,255,255,.08),0 30px 80px rgba(0,0,0,.55)}
+#intro{position:absolute;inset:0;background-size:cover;background-position:center 80%}
+#map{position:absolute;left:0;top:0}
+.pin{position:absolute;width:0;height:0}
+.pin .dot{position:absolute;left:-13px;top:-13px;width:26px;height:26px;border-radius:50%;background:#FFD84D;box-shadow:0 0 0 5px rgba(10,11,13,.85),0 0 24px rgba(255,216,77,.9)}
+.pin .ring{position:absolute;left:-13px;top:-13px;width:26px;height:26px;border-radius:50%;border:3px solid #FFD84D}
+.pin .glow{position:absolute;left:-90px;top:-90px;width:180px;height:180px;border-radius:50%;background:radial-gradient(circle,rgba(255,216,77,.38),rgba(255,216,77,0) 70%)}
+.pin .lab{position:absolute;left:22px;top:-23px;white-space:nowrap;font-family:PS;font-size:27px;color:#fff;background:rgba(10,11,13,.82);border:1.5px solid rgba(255,216,77,.7);border-radius:10px;padding:3px 12px 5px}
+.pin.left .lab{left:auto;right:22px}
+.pin.below .lab{left:-50px;top:20px}
+.sdot{position:absolute;width:14px;height:14px;margin:-7px 0 0 -7px;border-radius:50%;background:#FFD84D;box-shadow:0 0 14px rgba(255,216,77,.9)}
+.card{position:absolute;width:420px;background:#0a0b0d;border-radius:18px;overflow:hidden;box-shadow:0 0 0 3px #FFD84D,0 18px 50px rgba(0,0,0,.7)}
+.card .ph{width:420px;height:300px;background-size:cover;background-position:center}
+.card .cap{font-family:PM;font-size:22px;color:#cfd2d8;padding:10px 16px 12px;line-height:1.3}
+.card .cap b{font-family:PB;color:#FFD84D;font-weight:normal}
+.stat{position:absolute;width:420px;height:330px;background:rgba(10,11,13,.92);border-radius:18px;box-shadow:0 0 0 3px #FFD84D,0 18px 50px rgba(0,0,0,.7);padding:34px 36px}
+.stat .s1{font-family:PS;font-size:30px;color:#cfd2d8}
+.stat .s2{white-space:nowrap;font-family:PB;font-size:96px;color:#FFD84D;letter-spacing:-3px;line-height:1.15;margin-top:14px}
+.stat .s3{font-family:PM;font-size:27px;color:#fff;margin-top:12px;line-height:1.35}
+#lines{position:absolute;left:0;top:0;width:1000px;height:880px;pointer-events:none}
+#credit{right:58px;top:1352px;font-family:PM;font-size:20px;color:rgba(255,255,255,.55);text-align:right}
+.btm{position:absolute;left:70px;width:960px;white-space:nowrap}
+.ctx{font-family:PS;font-size:34px;color:#a9adb5;letter-spacing:-.5px}
+.l1{font-family:PB;font-size:78px;color:#fff;letter-spacing:-2.5px;line-height:1}
+.l2{font-family:PB;font-size:78px;color:#FFD84D;letter-spacing:-2.5px;line-height:1}
+#cta{position:absolute;inset:0;opacity:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:rgba(10,11,13,.72)}
+#cta .c1{font-family:PM;font-size:44px;color:#d7dae0;margin-bottom:22px}
+#cta .c2{font-family:PB;font-size:104px;color:#fff;letter-spacing:-3px;line-height:1.15;text-align:center}
+#cta .c2 span{color:#FFD84D}
+#cta .btn{margin-top:70px;font-family:PS;font-size:46px;color:#fff;border:3px solid #fff;border-radius:999px;padding:18px 46px 22px}
+#cta img{margin-top:90px;height:56px}
+</style></head>
+<body><div id="stage">
+<div id="bg"></div><div id="bg2"></div><div id="shade"></div>
+<img id="logo" class="abs" src="logo.png">
+<div id="tag" class="abs">이탈리아 총파업 · 10월 30일</div>
+<div id="t1" class="abs title" style="top:262px;color:#fff">지금 이탈리아,</div>
+<div id="t2" class="abs title" style="top:372px;color:#FFD84D">'50곳'이 멈췄다</div>
+<div id="panel" class="abs">
+  <svg id="map" width="1000" height="880" viewBox="0 0 1000 880"></svg>
+  <div id="dots"></div>
+  <svg id="lines" viewBox="0 0 1000 880"></svg>
+  <div id="pins"></div>
+  <div id="cards"></div>
+  <div id="intro"></div>
+</div>
+<div id="credit" class="abs"></div>
+<div id="bA" class="btm"><div class="ctx"></div><div class="l1"></div><div class="l2"></div></div>
+<div id="bB" class="btm"><div class="ctx"></div><div class="l1"></div><div class="l2"></div></div>
+<div id="cta">
+  <div class="c1">내일(31일)은 파리 차례</div>
+  <div class="c2">유럽이 지금<br><span>멈추고 있다</span></div>
+  <div class="btn">＋ 팔로우 @today.worthy</div>
+  <img src="logo.png">
+</div>
+</div>
+<script src="data.js"></script>
+<script>
+const G = window.GEO;
+const S = window.SCENES;
+const $ = s => document.querySelector(s);
+const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+const ease=x=>1-Math.pow(1-clamp(x),3);
+const easeIO=x=>{x=clamp(x);return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2};
+const back=x=>{x=clamp(x);const c1=1.70158,c3=c1+1;return 1+c3*Math.pow(x-1,3)+c1*Math.pow(x-1,2)};
+const NS='http://www.w3.org/2000/svg';
+// 지도
+const map=$('#map');
+const sea=document.createElementNS(NS,'rect');sea.setAttribute('width',1000);sea.setAttribute('height',880);sea.setAttribute('fill','#0f1318');map.appendChild(sea);
+// 격자 느낌
+for(let i=0;i<1000;i+=50){const l=document.createElementNS(NS,'line');l.setAttribute('x1',i);l.setAttribute('x2',i);l.setAttribute('y1',0);l.setAttribute('y2',880);l.setAttribute('stroke','rgba(255,255,255,.025)');map.appendChild(l)}
+for(let i=0;i<880;i+=50){const l=document.createElementNS(NS,'line');l.setAttribute('y1',i);l.setAttribute('y2',i);l.setAttribute('x1',0);l.setAttribute('x2',1000);l.setAttribute('stroke','rgba(255,255,255,.025)');map.appendChild(l)}
+G.others.forEach(d=>{const p=document.createElementNS(NS,'path');p.setAttribute('d',d);p.setAttribute('fill','#1b1f26');p.setAttribute('stroke','#2a2f38');p.setAttribute('stroke-width','1.2');map.appendChild(p)});
+const it=document.createElementNS(NS,'path');it.setAttribute('d',G.italy);it.setAttribute('fill','#2c3039');map.appendChild(it);
+const itS=document.createElementNS(NS,'path');itS.setAttribute('d',G.italy);itS.setAttribute('fill','none');itS.setAttribute('stroke','#FFD84D');itS.setAttribute('stroke-width','2.4');itS.setAttribute('stroke-linejoin','round');map.appendChild(itS);
+const LEN=itS.getTotalLength();itS.style.strokeDasharray=LEN;
+// 지명(옅게)
+[['프랑스',70,120],['스위스',250,40],['오스트리아',560,40],['아드리아해',700,330],['티레니아해',330,560],['지중해',150,820]].forEach(([n,x,y])=>{const t=document.createElementNS(NS,'text');t.textContent=n;t.setAttribute('x',x);t.setAttribute('y',y);t.setAttribute('fill','rgba(255,255,255,.28)');t.setAttribute('font-family','PM');t.setAttribute('font-size','24');map.appendChild(t)});
+// 핀·카드·선 만들기
+const pinEls={},cardEls={},lineEls={};
+S.scenes.forEach((sc,i)=>{
+  sc.pins.forEach(p=>{
+    const [x,y]=G.pts[p.k];const el=document.createElement('div');el.className='pin'+(p.left?' left':'')+(p.below?' below':'');el.style.left=x+'px';el.style.top=y+'px';
+    el.innerHTML='<div class="glow"></div><div class="ring"></div><div class="dot"></div><div class="lab">'+p.name+'</div>';
+    $('#pins').appendChild(el);pinEls[p.k]={el,sc:i};
+  });
+  if(sc.card){const c=sc.card;let el;
+    if(c.stat){el=document.createElement('div');el.className='stat';el.innerHTML='<div class="s1">'+c.s1+'</div><div class="s2">'+c.s2+'</div><div class="s3">'+c.s3+'</div>'}
+    else{el=document.createElement('div');el.className='card';el.innerHTML='<div class="ph" style="background-image:url('+c.img+');background-position:'+(c.pos||'center')+'"></div><div class="cap">'+c.cap+'</div>'}
+    el.style.left=c.x+'px';el.style.top=c.y+'px';$('#cards').appendChild(el);cardEls[i]=el;
+    const ln=document.createElementNS(NS,'path');ln.setAttribute('fill','none');ln.setAttribute('stroke','#FFD84D');ln.setAttribute('stroke-width','3');ln.setAttribute('stroke-dasharray','10 9');
+    $('#lines').appendChild(ln);lineEls[i]=ln;
+  }
+});
+(S.dots||[]).forEach((k,j)=>{const [x,y]=G.pts[k];const d=document.createElement('div');d.className='sdot';d.style.left=x+'px';d.style.top=y+'px';d.dataset.j=j;$('#dots').appendChild(d)});
+const dotEls=[...document.querySelectorAll('.sdot')];
+$('#intro').style.backgroundImage='url('+S.intro.img+')';
+function setB(el,b){el.querySelector('.ctx').textContent=b.ctx;el.querySelector('.l1').textContent=b.l1;el.querySelector('.l2').textContent=b.l2}
+function placeB(el,a,dy){el.style.opacity=a;el.querySelector('.ctx').style.cssText='position:absolute;top:'+(1438+dy)+'px';el.querySelector('.l1').style.cssText='position:absolute;top:'+(1500+dy*1.3)+'px';el.querySelector('.l2').style.cssText='position:absolute;top:'+(1594+dy*1.6)+'px';}
+// 하단 자막 구간
+const segs=[{t:0,b:S.intro.b,img:S.intro.img,credit:S.intro.credit}].concat(S.scenes.map(s=>({t:s.t,b:s.b,img:s.card&&s.card.img||null,credit:s.credit||''}))).concat([{t:S.recap.t,b:S.recap.b,img:null,credit:''}]);
+window.render=function(t){
+  // 배경 흐림 사진: 구간의 사진(없으면 직전 사진)
+  let si=0;segs.forEach((s,i)=>{if(t>=s.t)si=i});
+  let img=null;for(let i=si;i>=0;i--){if(segs[i].img){img=segs[i].img;break}}
+  if($('#bg').dataset.i!==img){$('#bg').style.backgroundImage='url('+img+')';$('#bg').dataset.i=img}
+  $('#bg').style.transform='scale('+(1.05+0.03*Math.sin(t/4))+')';
+  $('#bg2').style.opacity=0;
+  // 인트로 사진 → 지도 전환
+  const ia=1-easeIO((t-S.intro.end+0.45)/0.6);
+  $('#intro').style.opacity=ia;$('#intro').style.transformOrigin='0% 100%';$('#intro').style.transform='scale('+(1.6+t*0.03)+')';
+  // 이탈리아 윤곽 그리기
+  const dr=ease((t-S.intro.end+0.2)/1.0);itS.style.strokeDashoffset=LEN*(1-dr);
+  it.setAttribute('fill','rgba(44,48,57,'+(0.3+0.7*dr)+')');
+  // 지도 천천히 확대
+  const z=1+0.035*clamp((t-S.intro.end)/20);
+  ['#map','#dots','#lines','#pins','#cards'].forEach(s=>{$(s).style.transformOrigin='500px 440px';$(s).style.transform='scale('+z+')'});
+  // 핀
+  Object.entries(pinEls).forEach(([k,{el,sc}])=>{const st=S.scenes[sc].t+0.15;const u=t-st;
+    if(u<0){el.style.opacity=0;return}
+    el.style.opacity=1;
+    const drop=back(u/0.5);const dot=el.querySelector('.dot');dot.style.transform='translateY('+(-70*(1-drop))+'px) scale('+(0.4+0.6*drop)+')';
+    const ring=el.querySelector('.ring');const ph=((u-0.3)%1.4)/1.4;ring.style.opacity=u<0.3?0:(1-ph)*0.9;ring.style.transform='scale('+(1+ph*3.2)+')';
+    const glow=el.querySelector('.glow');glow.style.opacity=clamp(u/0.8)*(t>=S.recap.t?1:0.8);glow.style.transform='scale('+(0.6+0.4*ease(u/1)+(t>=S.recap.t?0.15*Math.sin((t-S.recap.t)*4):0))+')';
+    const lab=el.querySelector('.lab');const cur=(t<S.recap.t)&&(sc===S.scenes.findIndex((x,i)=>t>=x.t&&(!S.scenes[i+1]||t<S.scenes[i+1].t)));lab.style.opacity=ease((u-0.25)/0.35)*(cur||t>=S.recap.t?1:0.55);lab.style.transform='translateX('+(el.classList.contains('below')?0:el.classList.contains('left')?1:-1)*14*(1-ease((u-0.25)/0.35))+'px)';
+  });
+  // 카드·점선
+  S.scenes.forEach((sc,i)=>{const el=cardEls[i];if(!el)return;const ln=lineEls[i];const c=sc.card;
+    const end=(S.scenes[i+1]?S.scenes[i+1].t:S.recap.t);const u=t-(sc.t+0.45);const out=clamp((t-(end-0.3))/0.3);
+    const [px,py]=G.pts[c.from||sc.pins[0].k];
+    const w=el.offsetWidth,h=el.offsetHeight;const cx=c.x+w/2,cy=c.y+h/2;
+    // 점선: 핀에서 카드 가까운 모서리로
+    const ex=Math.max(c.x,Math.min(px,c.x+w)),ey=Math.max(c.y,Math.min(py,c.y+h));
+    const tx=(ex===px&&ey===py)?cx:ex,ty=(ex===px&&ey===py)?cy:ey;
+    const lp=ease(u/0.4);const mx=px+(tx-px)*lp,my=py+(ty-py)*lp;
+    ln.setAttribute('d','M'+px+' '+py+' L'+mx+' '+my);ln.style.opacity=u<0?0:(1-out);
+    const cu=ease((u-0.2)/0.45);const s=0.55+0.45*back((u-0.2)/0.5);
+    el.style.opacity=u<0.2?0:cu*(1-out);
+    el.style.transformOrigin=((px-c.x)/w*100)+'% '+((py-c.y)/h*100)+'%';
+    el.style.transform='scale('+(u<0.2?0.55:s*(1-0.08*out))+')';
+    const ph=el.querySelector('.ph');if(ph)ph.style.transform='scale('+(1.0+0.06*clamp(u/3))+')';
+  });
+  // 정리 장면: 나머지 도시 점들
+  dotEls.forEach((d,j)=>{const u=t-(S.recap.t+0.25+j*0.07);d.style.opacity=u<0?0:1;d.style.transform='scale('+(u<0?0:back(u/0.35))+')'});
+  // 하단 자막 교체(밀어 올리며)
+  const s=segs[si],prev=segs[si-1];const u=t-s.t;
+  setB($('#bA'),s.b);const k=si===0?1:ease(u/0.4);placeB($('#bA'),k,40*(1-k));
+  if(prev&&u<0.3){setB($('#bB'),prev.b);const q=ease(u/0.3);placeB($('#bB'),1-q,-30*q)}else{$('#bB').style.opacity=0}
+  $('#credit').textContent=(t<S.recap.t?(s.credit||''):'');
+  // CTA
+  const ca=ease((t-S.cta)/0.5);$('#cta').style.opacity=ca;
+  ['#panel','#bA','#bB','#credit'].forEach(q=>$(q).style.filter=ca>0?'blur('+(14*ca)+'px)':'none');
+};
+window.ready=true;
+</script></body></html>
