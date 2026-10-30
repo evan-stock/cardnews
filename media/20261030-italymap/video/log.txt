@@ -1,0 +1,11 @@
+total 996
+drwxr-xr-x 2 runner runner   4096 Oct 30 14:49 .
+drwxr-xr-x 3 runner runner   4096 Oct 30 14:49 ..
+-rw-r--r-- 1 runner runner 211332 Oct 30 14:49 img1.jpg
+-rw-r--r-- 1 runner runner 251559 Oct 30 14:49 img2.jpg
+-rw-r--r-- 1 runner runner 226302 Oct 30 14:49 img3.jpg
+-rw-r--r-- 1 runner runner  29937 Oct 30 14:49 img4.jpg
+-rw-r--r-- 1 runner runner  91985 Oct 30 14:49 img5.jpg
+-rw-r--r-- 1 runner runner 114385 Oct 30 14:49 img6.jpg
+-rw-r--r-- 1 runner runner  69692 Oct 30 14:49 img7.webp
+-rw-r--r-- 1 runner runner      0 Oct 30 14:49 log.txt
