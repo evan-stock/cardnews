@@ -69,7 +69,10 @@ def cutout(src, a):
     bg = Image.new("RGBA", (W, H), bgcol + (255,))
     d = ImageDraw.Draw(bg)
     if a.big:
-        d.text((W // 2, -60), a.big, font=font(FB, 820), fill=Y + (255,), anchor="ma")
+        sz = 820  # 글자가 길면(예: -30%) 가로 폭에 맞춰 줄인다
+        while sz > 200 and d.textlength(a.big, font=font(FB, sz)) > W - 40:
+            sz -= 20
+        d.text((W // 2, -60 * sz // 820), a.big, font=font(FB, sz), fill=Y + (255,), anchor="ma")
     if a.tag:
         d.text((70, 70), a.tag, font=font(FB, 38), fill=(255, 255, 255, 255))
     s = 1180 / cut.width
