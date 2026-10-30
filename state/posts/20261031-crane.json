@@ -1,7 +1,7 @@
 {
  "id": "20261031-crane",
  "kind": "short",
- "status": "hold",
+ "status": "approved",
  "created_at": "2026-10-31T01:07:41.274289+09:00",
  "publish_at": "2026-10-31T01:07:41.274313+09:00",
  "publish_now": true,
@@ -18,9 +18,9 @@
    "url": "https://constructionenquirer.com/2020/07/03/tower-crane-lifts-end-long-climb-for-operators/"
   }
  ],
- "seconds": 34.92,
+ "seconds": 42.28,
  "tts": [
-  "typecast"
+  "gemini"
  ],
  "files": [
   "media/20261031-crane/short.mp4"
@@ -28,7 +28,7 @@
  "app_file": "media/20261031-crane/short_nobgm.mp4",
  "yt": {
   "title": "타워크레인 기사가 퇴근하는 방법 #shorts",
-  "description": "까마득한 높이의 조종석에서 기사는 어떻게 내려올까요? 사다리 약 200칸, 화장실 없는 하루.\n\n영상: X @PicturesFoIder\n참고: 매일신문(2018.6.13) 타워크레인 기사 인터뷰, Construction Enquirer(2020.7.3)\n음악: Moonlit – Dyalla (YouTube 오디오 보관함)\n\n출처: 매일신문 2018.6.13, Construction Enquirer 2020.7.3\n사진·영상: X @PicturesFoIder\n음성: Typecast\n\n#shorts #타워크레인 #크레인기사 #건설현장 #직업",
+  "description": "까마득한 높이의 조종석에서 기사는 어떻게 내려올까요? 사다리 약 200칸, 화장실 없는 하루.\n\n영상: X @PicturesFoIder\n참고: 매일신문(2018.6.13) 타워크레인 기사 인터뷰, Construction Enquirer(2020.7.3)\n음악: Moonlit – Dyalla (YouTube 오디오 보관함)\n\n출처: 매일신문 2018.6.13, Construction Enquirer 2020.7.3\n사진·영상: X @PicturesFoIder\n음성: Gemini TTS\n\n#shorts #타워크레인 #크레인기사 #건설현장 #직업",
   "tags": [
    "타워크레인",
    "크레인기사",
@@ -44,6 +44,6 @@
  },
  "draft_hash": "2137249beb0d",
  "tg_msg": 1544,
- "decided_at": "2026-10-31T01:07:51.715482+09:00",
- "hold_reason": "10.31 01:09 사용자: 제미나이 목소리로 바꿀 수 있나 → 다시 만들기 전 업로드 보류"
+ "decided_at": "2026-10-31T01:40:00+09:00",
+ "hold_reason": "10.31 01:09 사용자: 제미나이 목소리로 바꿀 수 있나 → 다시 만들기 전 업로드 보류 | 01:40 사용자 채팅: Sadaltager(Gemini) 판으로 올리기 → approved (short.mp4 = 7ea7037 렌더)"
 }
