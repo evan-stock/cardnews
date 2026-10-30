@@ -1,5 +1,17 @@
 키 있음, 글자 수 53
-  Sadaltager HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 6h7m20s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
-  Sadaltager HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 6h7m14s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
-  Sadaltager HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 6h7m4s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
-Sadaltager: 실패
+  Fenrir HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 3 requests per minute on Free Tier). Please retry in 14s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Fenrir HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 3 requests per minute on Free Tier). Please retry in 9s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Sadachbia HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 14h37m20s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Sadachbia HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 3 requests per minute on Free Tier). Please retry in 14s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Sadachbia HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 14h37m4s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Orus HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 14h36m49s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Orus HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 14h36m44s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Orus HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 14h36m34s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+Puck: 성공 10.7초
+Puck: 길이 맞춤 9.0초 (속도 x1.19)
+Fenrir: 성공 10.7초
+Fenrir: 길이 맞춤 9.0초 (속도 x1.18)
+Achird: 성공 10.5초
+Achird: 길이 맞춤 9.0초 (속도 x1.16)
+Sadachbia: 실패
+Orus: 실패
