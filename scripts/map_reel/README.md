@@ -1,13 +1,44 @@
-# 지도 애니메이션 릴스 틀 (2026.10.30, 첫 시안: 이탈리아 총파업)
+# 지도 애니메이션 릴스 틀 (2026.10.30 사용자 채택: "이거 틀 좋으니까 나중에 활용할 수 있게")
 
-pickd 지도 릴스 구조(위 제목 고정 + 가운데 지도 + 아래 2줄 자막, 장면마다 핀이 쌓임)를 오늘의쓸모 브랜드(today.worthy 로고, 노랑 #FFD84D, Pretendard)로 다시 만든 틀.
+pickd 지도 릴스 구조(위 제목 고정 + 가운데 지도 + 아래 2줄 자막, 장면마다 핀이 쌓임)를 오늘의쓸모 브랜드(today.worthy 로고, 노랑 #FFD84D, Pretendard)로 다시 만든 틀. 첫 시안: 이탈리아 총파업(`drafts/map_reel/20261030-italymap.json`).
 
-## 만드는 법
-1. `geo.mjs`: 나라(world-atlas countries-50m, ISO 숫자 id)와 도시 좌표 → `geo.json` (`npm i world-atlas@2 topojson-client d3-geo` 후 `node geo.mjs`)
-2. `data.js`: 장면 목록(핀 k·이름·left/below, 카드 사진·위치·설명 또는 stat 숫자 카드, 하단 ctx/l1/l2, 시각 t), 정리 장면 점(dots), CTA 시각, 전체 길이
-3. 작업 폴더에 `fonts/`(Pretendard Black·Medium·SemiBold), `logo.png`(brand/logo_typo_A.png), `ph/`(사진) 복사
-4. `node render.js shots 1,4.5,...`로 미리보기 → `node render.js frames 30` → ffmpeg로 mp4
-   (playwright는 작업공간 기본 설치본 사용, 새로 설치하지 않는다)
+**언제 쓰나:** 장소가 여러 개인 뉴스(여러 도시 동시 시위, 태풍·지진 경로, 매장 철수, 나라별 반응). 장소가 하나면 쓰지 않는다.
 
-- 장면당 약 3.3초, 핀 → 점선 → 사진 카드(0.45초 뒤), 하단 자막은 밀어 올리며 교체
-- 첫 프레임에 제목·자막이 다 보이게(인트로 자막은 페이드 없음) → 첫 프레임이 커버 역할
+## 한 줄 사용법
+```
+python3 scripts/map_reel/build.py drafts/map_reel/<id>.json           # 미리보기 사진(work/<id>/shots) → 눈으로 확인
+python3 scripts/map_reel/build.py drafts/map_reel/<id>.json --video   # media/<id>/map_reel.mp4 + map_reel_cover.jpg
+```
+- 30fps 프레임을 Playwright로 찍고 ffmpeg로 묶는다(약 3분). playwright는 작업공간 기본 설치본을 쓴다(새로 설치하지 않는다).
+- 지도 패키지(world-atlas 등)는 처음 실행 때 `npm i`로 자동 설치.
+- 사진은 먼저 `drafts/video.json`(fetch-video 워크플로)으로 `media/<id>/video/`에 받아 두고 원고에 그 경로를 쓴다.
+
+## 원고(spec) 형식 — 예시 파일을 복사해서 고친다
+| 키 | 내용 |
+|---|---|
+| `id` | 게시물 id (`20261030-italymap`) |
+| `tag` | 노란 테두리 꼬리표 (`이탈리아 총파업 · 10월 30일`) |
+| `title` | 위 고정 제목 2줄 `[흰 줄, 노란 줄]` (줄당 9~10자) |
+| `map.highlight` | 강조할 나라 ISO 숫자 코드(이탈리아 380, 프랑스 250, 스페인 724, 한국 410, 일본 392, 미국 840, 영국 826, 독일 276) |
+| `map.fit` / `map.bbox` | (선택) 화면에 맞출 나라들 또는 `[서경,남위,동경,북위]`. 없으면 highlight에 맞춤 |
+| `map.labels` | 옅은 지명 `[이름, 경도, 위도]` |
+| `cities` | 핀·점 좌표 `{키: [경도, 위도]}` |
+| `intro` | 첫 3.3초 사진 `img`, `credit`, 하단 자막 `b:{ctx,l1,l2}` |
+| `scenes[]` | 장면(기본 3.3초, `len`으로 바꿈): `pins[{k,name,left?,below?}]`, `card`(사진 `{img,x,y,cap}` 또는 숫자 `{stat:true,from,x,y,s1,s2,s3}`), `credit`, `b` |
+| `recap` | 정리 장면 하단 자막 `{ctx,l1,l2}` — 우리 입장을 세게 |
+| `dots` | 정리 장면에 우르르 뜨는 작은 점(도시 키) — **실제 확인된 곳만** |
+| `cta` | `[얇은 줄, 굵은 흰 줄, 굵은 노란 줄]` |
+| `sfx` / `sfx_bed` | 효과음 켜기(기본 true) / 밑에 깔리는 심장박동(기본 true) |
+
+- 카드 자리: 지도 패널은 1000x880. 카드는 420x약350. 핀과 겹치지 않는 빈 바다·이웃나라 쪽에 둔다(이탈리아는 오른쪽 위 `560,330`, 왼쪽 아래 `40,470`).
+- 라벨이 겹치면 `left`(왼쪽) / `below`(아래)로 옮긴다.
+- 첫 프레임에 제목·자막이 다 보인다 → 첫 프레임이 커버(`map_reel_cover.jpg`).
+
+## 소리
+- `sfx.py`가 화면 타이밍에 맞춰 효과음을 직접 합성한다(저작권 없음): 전환 '휙', 윤곽 그리기, 핀 '퉁', 카드 '팝', 정리 '쿵'+점 '틱틱', CTA '띵', 낮은 심장박동.
+- 배경음악은 인스타 앱에서 얹는다(원본 소리와 같이 쓸 수 있음). 효과음이 묻히면 앱에서 원본 볼륨을 올린다.
+
+## 지킬 것(이탈리아 시안에서 정한 것)
+- 사진 날짜 확인: 기사 생중계의 그날 항목에 붙은 사진만, 가능하면 EXIF 촬영 시각 확인(밀라노 사진은 LaPresse 10.30 12:52 촬영).
+- 출처는 사진 오른쪽 아래 `credit`에, 통신사 사진이면 통신사 이름(LaPresse·ANSA 등)을 먼저.
+- 노조·정당·정치인 이름, 정치 구호(팔레스타인 국기 등)는 화면에서 빼거나 잘라낸다. 다친 사람 장면은 안 쓴다.

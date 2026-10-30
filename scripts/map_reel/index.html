@@ -42,16 +42,16 @@ html,body{width:1080px;height:1920px;background:#0a0b0d;overflow:hidden}
 #cta{position:absolute;inset:0;opacity:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:rgba(10,11,13,.72)}
 #cta .c1{font-family:PM;font-size:44px;color:#d7dae0;margin-bottom:22px}
 #cta .c2{font-family:PB;font-size:104px;color:#fff;letter-spacing:-3px;line-height:1.15;text-align:center}
-#cta .c2 span{color:#FFD84D}
+#cta .c2 .b{color:#FFD84D}
 #cta .btn{margin-top:70px;font-family:PS;font-size:46px;color:#fff;border:3px solid #fff;border-radius:999px;padding:18px 46px 22px}
 #cta img{margin-top:90px;height:56px}
 </style></head>
 <body><div id="stage">
 <div id="bg"></div><div id="bg2"></div><div id="shade"></div>
 <img id="logo" class="abs" src="logo.png">
-<div id="tag" class="abs">이탈리아 총파업 · 10월 30일</div>
-<div id="t1" class="abs title" style="top:262px;color:#fff">지금 이탈리아,</div>
-<div id="t2" class="abs title" style="top:372px;color:#FFD84D">'50곳'이 멈췄다</div>
+<div id="tag" class="abs"></div>
+<div id="t1" class="abs title" style="top:262px;color:#fff"></div>
+<div id="t2" class="abs title" style="top:372px;color:#FFD84D"></div>
 <div id="panel" class="abs">
   <svg id="map" width="1000" height="880" viewBox="0 0 1000 880"></svg>
   <div id="dots"></div>
@@ -64,8 +64,8 @@ html,body{width:1080px;height:1920px;background:#0a0b0d;overflow:hidden}
 <div id="bA" class="btm"><div class="ctx"></div><div class="l1"></div><div class="l2"></div></div>
 <div id="bB" class="btm"><div class="ctx"></div><div class="l1"></div><div class="l2"></div></div>
 <div id="cta">
-  <div class="c1">내일(31일)은 파리 차례</div>
-  <div class="c2">유럽이 지금<br><span>멈추고 있다</span></div>
+  <div class="c1"></div>
+  <div class="c2"><span class="a"></span><br><span class="b"></span></div>
   <div class="btn">＋ 팔로우 @today.worthy</div>
   <img src="logo.png">
 </div>
@@ -75,6 +75,8 @@ html,body{width:1080px;height:1920px;background:#0a0b0d;overflow:hidden}
 const G = window.GEO;
 const S = window.SCENES;
 const $ = s => document.querySelector(s);
+$('#tag').textContent=S.tag;$('#t1').textContent=S.title[0];$('#t2').textContent=S.title[1];
+$('#cta .c1').textContent=S.ctaText[0];$('#cta .a').textContent=S.ctaText[1];$('#cta .b').textContent=S.ctaText[2];
 const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
 const ease=x=>1-Math.pow(1-clamp(x),3);
 const easeIO=x=>{x=clamp(x);return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2};
@@ -87,11 +89,12 @@ const sea=document.createElementNS(NS,'rect');sea.setAttribute('width',1000);sea
 for(let i=0;i<1000;i+=50){const l=document.createElementNS(NS,'line');l.setAttribute('x1',i);l.setAttribute('x2',i);l.setAttribute('y1',0);l.setAttribute('y2',880);l.setAttribute('stroke','rgba(255,255,255,.025)');map.appendChild(l)}
 for(let i=0;i<880;i+=50){const l=document.createElementNS(NS,'line');l.setAttribute('y1',i);l.setAttribute('y2',i);l.setAttribute('x1',0);l.setAttribute('x2',1000);l.setAttribute('stroke','rgba(255,255,255,.025)');map.appendChild(l)}
 G.others.forEach(d=>{const p=document.createElementNS(NS,'path');p.setAttribute('d',d);p.setAttribute('fill','#1b1f26');p.setAttribute('stroke','#2a2f38');p.setAttribute('stroke-width','1.2');map.appendChild(p)});
-const it=document.createElementNS(NS,'path');it.setAttribute('d',G.italy);it.setAttribute('fill','#2c3039');map.appendChild(it);
-const itS=document.createElementNS(NS,'path');itS.setAttribute('d',G.italy);itS.setAttribute('fill','none');itS.setAttribute('stroke','#FFD84D');itS.setAttribute('stroke-width','2.4');itS.setAttribute('stroke-linejoin','round');map.appendChild(itS);
+const HL=G.highlight.join(' ');
+const it=document.createElementNS(NS,'path');it.setAttribute('d',HL);it.setAttribute('fill','#2c3039');map.appendChild(it);
+const itS=document.createElementNS(NS,'path');itS.setAttribute('d',HL);itS.setAttribute('fill','none');itS.setAttribute('stroke','#FFD84D');itS.setAttribute('stroke-width','2.4');itS.setAttribute('stroke-linejoin','round');map.appendChild(itS);
 const LEN=itS.getTotalLength();itS.style.strokeDasharray=LEN;
 // 지명(옅게)
-[['프랑스',70,120],['스위스',250,40],['오스트리아',560,40],['아드리아해',700,330],['티레니아해',330,560],['지중해',150,820]].forEach(([n,x,y])=>{const t=document.createElementNS(NS,'text');t.textContent=n;t.setAttribute('x',x);t.setAttribute('y',y);t.setAttribute('fill','rgba(255,255,255,.28)');t.setAttribute('font-family','PM');t.setAttribute('font-size','24');map.appendChild(t)});
+G.labels.forEach(([n,x,y])=>{const t=document.createElementNS(NS,'text');t.textContent=n;t.setAttribute('x',x);t.setAttribute('y',y);t.setAttribute('fill','rgba(255,255,255,.28)');t.setAttribute('font-family','PM');t.setAttribute('font-size','24');t.setAttribute('text-anchor','middle');map.appendChild(t)});
 // 핀·카드·선 만들기
 const pinEls={},cardEls={},lineEls={};
 S.scenes.forEach((sc,i)=>{
