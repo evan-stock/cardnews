@@ -1,184 +1,173 @@
 {
- "id": "20261030-crushdog",
+ "id": "20261030-wigcat",
  "mode": "send",
  "format": "meme",
- "topic": "남자를 무서워하던 구조견이 집사의 남자친구에게 빠져, 소파에 사람처럼 앉아 앞발로 손을 붙잡고 쓰다듬기를 조름(TikTok @dittawiggles). 원본은 덧입힌 음악 트랙이라 소리 전부 끔. 사실: SF SPCA 등 3-3-3 가이드 — 입양견은 3일·3주·3개월에 걸쳐 적응, 3개월쯤 집을 완전히 편하게 느낌.",
+ "topic": "집사가 고양이 형제 중 한 마리에게 가발을 씌우자, 다른 한 마리가 형을 못 알아보고 동공지진(TikTok @pancakeandtruffles). 원본 소리는 덧입힌 반복 효과음·음악 트랙이라 전부 끔. 사실: Vetstreet(수의사 감수) — 고양이는 냄새로 서로를 알아봐서, 동물병원에 다녀와 냄새가 달라진 형제를 낯선 고양이로 여기는 '비인식 공격성'이 생기기도 함.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 1.6,
  "sfx_max": 4,
  "hook": {
-  "t": "남자만 보면 숨던 구조견\n'이상형 만나면 생기는 일ㅋㅋ'"
+  "t": "형한테 가발 씌웠더니\n'동생 반응ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @dittawiggles"
+  "TikTok @pancakeandtruffles"
  ],
  "scenes": [
   {
-   "dur": 2.6,
+   "dur": 1.4,
    "video": {
-    "src": "../20261030-morncand/video/v2.mp4",
-    "x": 0.45,
-    "y": 0.55,
-    "start": 3.6,
+    "src": "../20261030-evecand/video/v2.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 14.5,
     "audio": 0,
     "blur": [
-     40,
-     190,
-     500,
-     115
-    ],
-    "zoom": 1.15
+     10,
+     750,
+     556,
+     75
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "손 멈추지 마라...",
-     "x": 0.32,
-     "y": 0.3,
-     "at": 0.1,
-     "to": 2.6,
-     "s": "pop",
-     "sv": 0.8
+     "t": "어때?\n나 좀 달라졌지?",
+     "x": 0.5,
+     "y": 0.2,
+     "at": 0.05,
+     "to": 1.4,
+     "s": "sparkle",
+     "sv": 0.7
     },
     {
      "k": "sfx",
-     "t": "(척)",
-     "x": 0.62,
-     "y": 0.45,
+     "t": "(찰랑)",
+     "x": 0.82,
+     "y": 0.42,
      "at": 0.3,
-     "to": 1.6
+     "to": 1.4
     }
    ]
   },
   {
-   "say": "이 개는 원래 남자만 보면 숨던 구조견이었습니다.",
+   "dur": 2.4,
    "video": {
-    "src": "../20261030-morncand/video/v2.mp4",
+    "src": "../20261030-evecand/video/v2.mp4",
     "x": 0.5,
     "y": 0.5,
     "start": 0.0,
     "audio": 0,
     "blur": [
-     40,
-     190,
-     500,
-     115
+     10,
+     750,
+     556,
+     75
     ]
-   },
-   "caps": []
-  },
-  {
-   "dur": 2.2,
-   "video": {
-    "src": "../20261030-morncand/video/v2.mp4",
-    "x": 0.45,
-    "y": 0.55,
-    "start": 6.3,
-    "audio": 0,
-    "blur": [
-     40,
-     190,
-     500,
-     115
-    ],
-    "zoom": 1.15
    },
    "caps": [
     {
      "k": "talk",
-     "t": "어딜 가?\n아직 안 끝났어",
-     "x": 0.3,
-     "y": 0.28,
+     "t": "누... 누구세요?",
+     "x": 0.45,
+     "y": 0.2,
      "at": 0.1,
-     "to": 2.2,
+     "to": 2.4,
      "s": "question",
      "sv": 0.7
     },
     {
      "k": "sfx",
-     "t": "(덥석)",
-     "x": 0.6,
-     "y": 0.5,
-     "at": 0.9,
-     "to": 2.2
+     "t": "(동공지진)",
+     "x": 0.75,
+     "y": 0.36,
+     "at": 0.6,
+     "to": 2.4
     }
    ]
   },
   {
-   "say": "그런데 집사 남자친구에게는 앞발부터 내밉니다.",
+   "say": "집사가 고양이 형제 중 한 마리에게 가발을 씌웠습니다.",
    "video": {
-    "src": "../20261030-morncand/video/v2.mp4",
-    "x": 0.4,
-    "y": 0.55,
-    "start": 13.3,
+    "src": "../20261030-evecand/video/v2.mp4",
+    "x": 0.6,
+    "y": 0.5,
+    "start": 4.5,
     "audio": 0,
     "blur": [
-     40,
-     190,
-     500,
-     115
-    ],
-    "zoom": 1.15
+     10,
+     750,
+     556,
+     75
+    ]
    },
    "caps": []
   },
   {
-   "dur": 1.2,
+   "dur": 2.0,
    "video": {
-    "src": "../20261030-morncand/video/v2.mp4",
+    "src": "../20261030-evecand/video/v2.mp4",
     "x": 0.4,
-    "y": 0.55,
-    "start": 10.0,
+    "y": 0.5,
+    "start": 12.4,
     "audio": 0,
     "blur": [
-     40,
-     190,
-     500,
-     115
+     10,
+     750,
+     556,
+     75
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "하아... 거기...",
-     "x": 0.4,
-     "y": 0.18,
+     "t": "우리 집에\n저런 애 없었는데...",
+     "x": 0.5,
+     "y": 0.2,
      "at": 0.05,
-     "to": 1.2,
-     "s": "sparkle",
+     "to": 2.0,
+     "s": "dundun",
      "sv": 0.6
-    },
-    {
-     "k": "sfx",
-     "t": "(녹음)",
-     "x": 0.72,
-     "y": 0.45,
-     "at": 0.3,
-     "to": 1.2
     }
    ]
   },
   {
-   "say": "구조견이 새집에 완전히 마음을 여는 데는 석 달쯤 걸린다고 합니다.",
+   "say": "동생은 형을 처음 보는 고양이로 아는 눈치입니다.",
    "video": {
-    "src": "../20261030-morncand/video/v2.mp4",
-    "x": 0.4,
-    "y": 0.55,
-    "start": 11.2,
+    "src": "../20261030-evecand/video/v2.mp4",
+    "x": 0.6,
+    "y": 0.5,
+    "start": 8.0,
     "audio": 0,
     "blur": [
-     40,
-     190,
-     500,
-     115
+     10,
+     750,
+     556,
+     75
+    ]
+   },
+   "caps": []
+  },
+  {
+   "say": "고양이는 얼굴보다 냄새로 서로를 알아본다고 합니다.",
+   "video": {
+    "src": "../20261030-evecand/video/v2.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 0.0,
+    "audio": 0,
+    "blur": [
+     10,
+     750,
+     556,
+     75
     ],
     "boomerang": true
    },
    "caps": [
     {
      "k": "desc",
-     "t": "구조견 적응 '3-3-3 법칙'\n3일, 3주, 3개월 (SF SPCA)",
+     "t": "고양이 '비인식 공격성'\n냄새가 바뀌면 형제도 경계 (Vetstreet)",
      "x": 0.5,
      "y": 0.12,
      "at": 0.3
@@ -186,30 +175,30 @@
    ]
   },
   {
-   "dur": 1.6,
+   "dur": 1.2,
    "video": {
-    "src": "../20261030-morncand/video/v2.mp4",
-    "x": 0.45,
-    "y": 0.55,
-    "start": 8.4,
+    "src": "../20261030-evecand/video/v2.mp4",
+    "x": 0.5,
+    "y": 0.5,
+    "start": 15.55,
     "audio": 0,
     "blur": [
-     40,
-     190,
-     500,
-     115
+     10,
+     750,
+     556,
+     75
     ],
-    "zoom": 1.15
+    "boomerang": true
    },
    "caps": [
     {
      "k": "talk",
-     "t": "오빠 손은\n이제 내 거야",
-     "x": 0.3,
-     "y": 0.3,
+     "t": "이게 그렇게\n이상해...?",
+     "x": 0.5,
+     "y": 0.2,
      "at": 0.05,
-     "to": 1.6,
-     "s": "heart",
+     "to": 1.2,
+     "s": "fail",
      "sv": 0.6
     }
    ]
@@ -217,25 +206,30 @@
  ],
  "sources": [
   {
-   "publisher": "TikTok @dittawiggles",
-   "url": "https://www.tiktok.com/@dittawiggles/video/7653631789474401558",
-   "date": "2026"
+   "publisher": "TikTok @pancakeandtruffles",
+   "url": "https://www.tiktok.com/@pancakeandtruffles/video/7587848032666815774",
+   "date": "2025"
   },
   {
-   "publisher": "SF SPCA - 3-3-3 Guideline",
-   "url": "https://www.sfspca.org/?p=99017",
+   "publisher": "Newsweek",
+   "url": "https://www.newsweek.com/cat-notices-brother-new-hairstyle-hysterics-reaction-11541858",
+   "date": "2026-02-19"
+  },
+  {
+   "publisher": "Vetstreet - Nonrecognition Aggression in Cats",
+   "url": "https://www.vetstreet.com/care/nonrecognition-aggression-in-cats",
    "date": ""
   }
  ],
  "yt": {
-  "title": "남자 무서워하던 강아지가 이상형 만나면 일어나는 일ㅋㅋ #shorts",
-  "description": "남자만 보면 숨던 구조견이... 집사 남자친구한테는 소파에 사람처럼 앉아서 앞발로 손을 붙잡고 '더 쓰다듬어'를 시전ㅋㅋ\n\n입양 보호 단체들이 말하는 '3-3-3 법칙'에 따르면 구조견은 첫 3일은 긴장하고, 3주쯤 생활에 익숙해지고, 3개월쯤 지나야 새집을 완전히 편하게 느낀대요. 천천히 기다려 준 덕분이겠죠?\n\n여러분 강아지의 이상형은 누구인가요?\n\n영상: TikTok @dittawiggles\n참고: SF SPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "가발 쓴 형을 처음 본 고양이의 반응ㅋㅋ #shorts",
+  "description": "집사가 고양이 형제 중 한 마리에게 가발을 씌웠더니... 동생이 형을 못 알아보고 동공지진ㅋㅋ\n\n고양이는 얼굴보다 냄새로 서로를 알아본대요. 그래서 동물병원에 다녀와 냄새가 달라진 형제를 낯선 고양이로 착각하고 경계하는 '비인식 공격성'이 생기기도 한답니다.\n\n여러분 고양이는 집사 머리 바뀌면 알아보나요?\n\n영상: TikTok @pancakeandtruffles\n참고: Vetstreet, Newsweek\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "강아지",
-   "구조견",
-   "유기견입양",
-   "강아지이상형",
-   "웃긴강아지",
+   "고양이",
+   "고양이형제",
+   "가발고양이",
+   "고양이반응",
+   "웃긴고양이",
    "동물반응",
    "동물쇼츠",
    "오늘의털뭉치"
