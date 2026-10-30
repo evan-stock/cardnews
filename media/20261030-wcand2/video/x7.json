@@ -1,0 +1,34 @@
+{
+ "src": "fxtwitter",
+ "author": "mackinacbridge",
+ "name": "The Mackinac Bridge",
+ "date": "Wed Apr 02 11:55:37 +0000 2025",
+ "text": "More footage of the suspender cable ice coming loose overnight.",
+ "views": 16739,
+ "likes": 231,
+ "retweets": 54,
+ "quote": null,
+ "url": "https://x.com/mackinacbridge/status/1907401532087148803",
+ "id": "1907401532087148803",
+ "videos": [
+  {
+   "url": "https://video.twimg.com/amplify_video/1907400707700850688/vid/avc1/1280x720/vC4gLzhqSy1n8Hb2.mp4?tag=14",
+   "w": 1280,
+   "h": 720,
+   "dur": 11.313
+  },
+  {
+   "url": "https://video.twimg.com/amplify_video/1907400707696680960/vid/avc1/1280x720/a9lufOPfngU1kQWs.mp4?tag=14",
+   "w": 1280,
+   "h": 720,
+   "dur": 7.636
+  },
+  {
+   "url": "https://video.twimg.com/amplify_video/1907400707688235008/vid/avc1/1280x720/Y1rDBMtG9Yf8S7ls.mp4?tag=14",
+   "w": 1280,
+   "h": 720,
+   "dur": 9.998
+  }
+ ],
+ "errors": []
+}

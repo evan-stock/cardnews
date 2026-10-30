@@ -1,0 +1,27 @@
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Y13hDBj8bUc: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: https://www.youtube.com/shorts/Y13hDBj8bUc
+total 15336
+drwxr-xr-x 2 runner runner    4096 Oct 30 11:31 .
+drwxr-xr-x 3 runner runner    4096 Oct 30 11:30 ..
+-rw-r--r-- 1 runner runner     599 Oct 30 11:31 log.txt
+-rw-r--r-- 1 runner runner  691944 Oct 30 11:30 v1.mp4
+-rw-r--r-- 1 runner runner   22775 Oct 30 11:31 v10.info.json
+-rw-r--r-- 1 runner runner 1489879 Oct 30 11:31 v10.mp4
+-rw-r--r-- 1 runner runner 2918057 Oct 30 11:30 v2.mp4
+-rw-r--r-- 1 runner runner   26308 Oct 30 11:30 v3.info.json
+-rw-r--r-- 1 runner runner 3292133 Oct 30 11:31 v3.mp4
+-rw-r--r-- 1 runner runner   22830 Oct 30 11:31 v4.info.json
+-rw-r--r-- 1 runner runner  263215 Oct 30 11:31 v4.mp4
+-rw-r--r-- 1 runner runner   19580 Oct 30 11:31 v5.info.json
+-rw-r--r-- 1 runner runner 1611324 Oct 30 11:31 v5.mp4
+-rw-r--r-- 1 runner runner   29329 Oct 30 11:31 v6.info.json
+-rw-r--r-- 1 runner runner 1523638 Oct 30 11:31 v6.mp4
+-rw-r--r-- 1 runner runner  486501 Oct 30 11:31 v7.mp4
+-rw-r--r-- 1 runner runner 2033583 Oct 30 11:31 v8.mp4
+-rw-r--r-- 1 runner runner   20244 Oct 30 11:31 v9.info.json
+-rw-r--r-- 1 runner runner 1198933 Oct 30 11:31 v9.mp4
+-rw-r--r-- 1 runner runner     706 Oct 30 11:30 x1.json
+-rw-r--r-- 1 runner runner     578 Oct 30 11:30 x2.json
+-rw-r--r-- 1 runner runner     904 Oct 30 11:31 x7.json
+-rw-r--r-- 1 runner runner     874 Oct 30 11:31 x8.json
