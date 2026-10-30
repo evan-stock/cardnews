@@ -2,7 +2,7 @@
  "id": "20261031-intelcrash",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-31T05:46:25.012191+09:00",
  "publish_at": "2026-10-31T05:46:25.012292+09:00",
  "topic": "인텔 하루 -30% 폭락, 알파벳·아마존 이어 美 기술주 검은 금요일",
@@ -69,5 +69,8 @@
   "media/20261031-intelcrash/04.jpg",
   "media/20261031-intelcrash/05.jpg"
  ],
- "tg_msg": 1554
+ "tg_msg": 1554,
+ "ig_media_id": "18204951130329713",
+ "permalink": "https://www.instagram.com/p/DfIe0NGCTBf/",
+ "published_at": "2026-10-31T05:51:53.036675+09:00"
 }
