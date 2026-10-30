@@ -1,10 +1,4 @@
-{"id": "20261030-wcand3", "frames": 0, "args": "--write-info-json", "try": 3, "urls": [
+{"id": "20261030-candleice", "frames": 0, "args": "--write-info-json", "format": "bv*[height<=1920]+ba/b", "try": 4, "urls": [
 "https://www.instagram.com/reel/DJS2d3rtw6d/",
-"https://www.instagram.com/reel/DJNNcd2zN3D/",
-"https://www.tiktok.com/@outsidemagazine/video/7499127612799814958",
-"https://www.tiktok.com/@bbcnews/video/7300520515494546721",
-"https://www.tiktok.com/@bbc/video/7300961230519291169",
-"https://www.tiktok.com/@places/video/7316507268336438561",
-"https://www.tiktok.com/@goodnewscorrespondent/video/7326198385466215710",
-"https://www.tiktok.com/@espn/video/7439093577684143406"
+"https://www.instagram.com/reel/DJNNcd2zN3D/"
 ]}
