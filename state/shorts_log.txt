@@ -1,1 +1,11 @@
-⏳ 10개 장면 목소리를 맥북에서 만드는 중
+장면 1/10 typecast 누적 2.3초
+장면 2/10 typecast 누적 4.8초
+장면 3/10 typecast 누적 8.2초
+장면 4/10 typecast 누적 14.2초
+장면 5/10 typecast 누적 17.8초
+장면 6/10 typecast 누적 22.2초
+장면 7/10 typecast 누적 24.2초
+장면 8/10 typecast 누적 28.2초
+장면 9/10 typecast 누적 31.1초
+장면 10/10 typecast 누적 34.9초
+완성: /home/runner/work/cardnews/cardnews/media/20261031-crane/short.mp4 (34.9초, TTS ['typecast'])
