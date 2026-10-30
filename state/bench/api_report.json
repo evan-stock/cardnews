@@ -1,56 +1,40 @@
 {
- "since": "2025-06-01",
+ "since": "2025-09-01",
  "fixed": [],
  "found": [
   {
-   "title": "The Furry Diaries",
-   "id": "UCFtvgcA6Ocacy1nqRXriEsw",
-   "created": "2024-09-18",
-   "subs": "15200",
-   "videos": "247"
+   "title": "VertASC",
+   "id": "UCkSSQisybPEuovZNjQV301A",
+   "created": "2026-05-26",
+   "subs": "3380",
+   "videos": "261"
   },
   {
-   "title": "PetHugVibes",
-   "id": "UCNy63izV2Pk36U89618Aj3w",
-   "created": "2025-07-24",
-   "subs": "47800",
-   "videos": "256"
-  },
-  {
-   "title": "Meow & Woof",
-   "id": "UCxGYFBjoyxZigz6rnRzWHew",
-   "created": "2018-09-12",
-   "subs": "84000",
-   "videos": "491"
+   "title": "일러스트냥이",
+   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
+   "created": "2026-09-25",
+   "subs": "0",
+   "videos": "4"
   }
  ],
  "search_hits": [
   {
-   "q": "dog falls in love with boyfriend paw pets more",
-   "vid": "iJMJsr3S5Wk",
-   "ch": "Meow & Woof",
-   "cid": "UCxGYFBjoyxZigz6rnRzWHew",
-   "date": "2025-08-14",
-   "title": "Dog Falls in Love with My Boyfriend at First Sight Too 😍",
-   "views": 8390547
+   "q": "주황 고양이 의자",
+   "vid": "jMcNNZ52I20",
+   "ch": "일러스트냥이",
+   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
+   "date": "2026-10-02",
+   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
+   "views": 13
   },
   {
-   "q": "dog falls in love with boyfriend paw pets more",
-   "vid": "c7J5Ye6FLwY",
-   "ch": "PetHugVibes",
-   "cid": "UCNy63izV2Pk36U89618Aj3w",
-   "date": "2025-10-20",
-   "title": "My dog fell in love with my boyfriend 😭#dog #dogs #love #for",
-   "views": 3057947
-  },
-  {
-   "q": "dog falls in love with boyfriend paw pets more",
-   "vid": "snAs-fwMzLU",
-   "ch": "The Furry Diaries",
-   "cid": "UCFtvgcA6Ocacy1nqRXriEsw",
-   "date": "2025-08-08",
-   "title": "my dog is falling in love with my boyfriend 🥺 #dog #cutedog ",
-   "views": 77274
+   "q": "cat spinning bar stool footrest",
+   "vid": "5K9q4QuOslU",
+   "ch": "VertASC",
+   "cid": "UCkSSQisybPEuovZNjQV301A",
+   "date": "2026-09-28",
+   "title": "Apex predator vs bar stool ring 😭🐾",
+   "views": 18466
   }
  ]
 }
