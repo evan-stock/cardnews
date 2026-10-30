@@ -1,0 +1,48 @@
+{
+ "id": "20261031-crane",
+ "kind": "short",
+ "status": "approved",
+ "created_at": "2026-10-31T01:07:41.274289+09:00",
+ "publish_at": "2026-10-31T01:07:41.274313+09:00",
+ "publish_now": true,
+ "topic": "타워크레인 기사의 퇴근길 (오늘의쓸모 새 형식 1편: 화면 꽉 + 내레이션, 벤치마크 깔끔맨)",
+ "sources": [
+  {
+   "publisher": "매일신문",
+   "date": "2018.6.13",
+   "url": "https://www.imaeil.com/page/view/2018061318074403091"
+  },
+  {
+   "publisher": "Construction Enquirer",
+   "date": "2020.7.3",
+   "url": "https://constructionenquirer.com/2020/07/03/tower-crane-lifts-end-long-climb-for-operators/"
+  }
+ ],
+ "seconds": 34.92,
+ "tts": [
+  "typecast"
+ ],
+ "files": [
+  "media/20261031-crane/short.mp4"
+ ],
+ "app_file": "media/20261031-crane/short_nobgm.mp4",
+ "yt": {
+  "title": "타워크레인 기사가 퇴근하는 방법 #shorts",
+  "description": "까마득한 높이의 조종석에서 기사는 어떻게 내려올까요? 사다리 약 200칸, 화장실 없는 하루.\n\n영상: X @PicturesFoIder\n참고: 매일신문(2018.6.13) 타워크레인 기사 인터뷰, Construction Enquirer(2020.7.3)\n음악: Moonlit – Dyalla (YouTube 오디오 보관함)\n\n출처: 매일신문 2018.6.13, Construction Enquirer 2020.7.3\n사진·영상: X @PicturesFoIder\n음성: Typecast\n\n#shorts #타워크레인 #크레인기사 #건설현장 #직업",
+  "tags": [
+   "타워크레인",
+   "크레인기사",
+   "건설현장",
+   "직업",
+   "상식",
+   "오늘의쓸모"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "draft_hash": "2137249beb0d",
+ "tg_msg": 1544,
+ "decided_at": "2026-10-31T01:07:51.715482+09:00"
+}
