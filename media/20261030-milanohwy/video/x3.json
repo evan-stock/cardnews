@@ -1,0 +1,22 @@
+{
+ "src": "fxtwitter",
+ "author": "localteamit",
+ "name": "Local Team",
+ "date": "Fri Oct 30 14:12:31 +0000 2026",
+ "text": "Il corteo organizzato a Milano in occasione dello sciopero generale dell'USB imbocca la tangenziale est.",
+ "views": 3396,
+ "likes": 105,
+ "retweets": 20,
+ "quote": null,
+ "url": "https://x.com/localteamit/status/2116171395013148809",
+ "id": "2116171395013148809",
+ "videos": [
+  {
+   "url": "https://video.twimg.com/amplify_video/2116171233045680128/vid/avc1/1280x720/llr8GVqLXMZG1r7z.mp4?tag=29",
+   "w": 1280,
+   "h": 720,
+   "dur": 97.66
+  }
+ ],
+ "errors": []
+}
