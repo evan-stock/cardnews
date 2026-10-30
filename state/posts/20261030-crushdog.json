@@ -1,0 +1,50 @@
+{
+ "id": "20261030-crushdog",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-30T17:47:51.401398+09:00",
+ "publish_at": "2026-10-30T17:47:51.401420+09:00",
+ "publish_now": true,
+ "topic": "남자를 무서워하던 구조견이 집사의 남자친구에게 빠져, 소파에 사람처럼 앉아 앞발로 손을 붙잡고 쓰다듬기를 조름(TikTok @dittawiggles). 원본은 덧입힌 음악 트랙이라 소리 전부 끔. 사실: SF SPCA 등 3-3-3 가이드 — 입양견은 3일·3주·3개월에 걸쳐 적응, 3개월쯤 집을 완전히 편하게 느낌.",
+ "sources": [
+  {
+   "publisher": "TikTok @dittawiggles",
+   "url": "https://www.tiktok.com/@dittawiggles/video/7653631789474401558",
+   "date": "2026"
+  },
+  {
+   "publisher": "SF SPCA - 3-3-3 Guideline",
+   "url": "https://www.sfspca.org/?p=99017",
+   "date": ""
+  }
+ ],
+ "seconds": 18.700000000000003,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261030-crushdog/short.mp4"
+ ],
+ "app_file": "media/20261030-crushdog/short_nobgm.mp4",
+ "yt": {
+  "title": "남자 무서워하던 강아지가 이상형 만나면 일어나는 일ㅋㅋ #shorts",
+  "description": "남자만 보면 숨던 구조견이... 집사 남자친구한테는 소파에 사람처럼 앉아서 앞발로 손을 붙잡고 '더 쓰다듬어'를 시전ㅋㅋ\n\n입양 보호 단체들이 말하는 '3-3-3 법칙'에 따르면 구조견은 첫 3일은 긴장하고, 3주쯤 생활에 익숙해지고, 3개월쯤 지나야 새집을 완전히 편하게 느낀대요. 천천히 기다려 준 덕분이겠죠?\n\n여러분 강아지의 이상형은 누구인가요?\n\n영상: TikTok @dittawiggles\n참고: SF SPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @dittawiggles 2026, SF SPCA - 3-3-3 Guideline\n사진·영상: TikTok @dittawiggles\n\n#shorts #강아지 #구조견 #유기견입양 #강아지이상형",
+  "tags": [
+   "강아지",
+   "구조견",
+   "유기견입양",
+   "강아지이상형",
+   "웃긴강아지",
+   "동물반응",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "82d6904fa0ba",
+ "tg_msg": 1522
+}

@@ -1,1 +1,9 @@
-⏳ 3개 장면 목소리를 맥북에서 만드는 중
+맥북 목소리 안 옴 → Gemini TTS: 사용 (새로 만듦)
+장면 1/7 silent 누적 2.6초
+장면 2/7 gemini 누적 6.2초
+장면 3/7 silent 누적 8.4초
+장면 4/7 gemini 누적 12.0초
+장면 5/7 silent 누적 13.2초
+장면 6/7 gemini 누적 17.1초
+장면 7/7 silent 누적 18.7초
+완성: /home/runner/work/cardnews/cardnews/media/20261030-crushdog/short.mp4 (18.7초, TTS ['gemini', 'silent'])
