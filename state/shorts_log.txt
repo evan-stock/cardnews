@@ -1,12 +1,17 @@
-Gemini TTS: 사용 (새로 만듦)
-장면 1/10 gemini 누적 2.8초
-장면 2/10 gemini 누적 5.7초
-장면 3/10 gemini 누적 9.9초
-장면 4/10 gemini 누적 17.4초
-장면 5/10 gemini 누적 21.9초
-장면 6/10 gemini 누적 26.8초
-장면 7/10 gemini 누적 29.7초
-장면 8/10 gemini 누적 34.1초
-장면 9/10 gemini 누적 37.7초
-장면 10/10 gemini 누적 42.1초
-완성: /home/runner/work/cardnews/cardnews/media/20261031-crane/short.mp4 (42.1초, TTS ['gemini'])
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 808, in <module>
+    main(sys.argv[1])
+  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 804, in main
+    one(d)
+  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 753, in one
+    return _one(d)
+           ^^^^^^^
+  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 767, in _one
+    out, total, engines = render(d)
+                          ^^^^^^^^^
+  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 644, in render
+    raise RuntimeError(f"Gemini 목소리를 못 만듦: {why}")
+RuntimeError: Gemini 목소리를 못 만듦: 하루 한도 초과(429)
+Gemini TTS: 실패 (하루 한도 초과(429))
