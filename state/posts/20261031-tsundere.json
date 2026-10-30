@@ -1,0 +1,50 @@
+{
+ "id": "20261031-tsundere",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-10-31T08:34:58.120505+09:00",
+ "publish_at": "2026-10-31T08:34:58.120525+09:00",
+ "publish_now": true,
+ "topic": "반가워서 쪼르르 달려온 길고양이가 발밑에 오자 안 반가운 척 갑자기 그루밍, 그러다 올려다보며 냐옹(X @gubakim 김구바, 2026.10.28, 조회 101만). 사용자 지정 소재(10.31 08:07 회차). 원본 소리(고양이 울음·거리 소리) 살림. 사실: Petfinder — 두 가지 상반된 행동 동기가 부딪힐 때 그루밍으로 대신하는 '전위 행동', 그루밍은 고양이를 진정시킴.",
+ "sources": [
+  {
+   "publisher": "X @gubakim (김구바)",
+   "url": "https://x.com/gubakim/status/2115428611318829077",
+   "date": "2026-10-28"
+  },
+  {
+   "publisher": "Petfinder - Why Do Cats Lick Themselves?",
+   "url": "https://www.petfinder.com/cats/cat-grooming/cats-meticulous-nature/",
+   "date": "2023-02-10"
+  }
+ ],
+ "seconds": 23.89,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261031-tsundere/short.mp4"
+ ],
+ "app_file": "media/20261031-tsundere/short_nobgm.mp4",
+ "yt": {
+  "title": "반가운 거 들키면 안 되는 고양이 ㅋㅋ #shorts",
+  "description": "저 멀리서 쪼르르 달려와 놓고... 발밑에 도착하자마자 갑자기 안 반가운 척 그루밍ㅋㅋ 그래 놓고 결국 올려다보며 냐옹.\n\n고양이는 다가갈까 말까처럼 두 마음이 부딪힐 때 대신 그루밍을 하기도 한대요. 이걸 '전위 행동'이라고 하는데, 그루밍이 마음을 진정시켜 준다고 해요.\n\n여러분 고양이도 반가운 티 안 내려고 딴청 피우나요?\n\n영상: X @gubakim (김구바)\n참고: Petfinder\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: X @gubakim (김구바) 2026-10-28, Petfinder - Why Do Cats Lick Themselves? 2023-02-10\n사진·영상: X @gubakim (김구바)\n음성: Typecast\n\n#shorts #고양이 #길고양이 #츤데레고양이 #고양이그루밍",
+  "tags": [
+   "고양이",
+   "길고양이",
+   "츤데레고양이",
+   "고양이그루밍",
+   "고양이반응",
+   "웃긴고양이",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "06cc50154461",
+ "tg_msg": 1560
+}
