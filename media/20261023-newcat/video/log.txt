@@ -1,2 +1,0 @@
-ERROR: [TikTok] 7229330324902268187: Your IP address is blocked from accessing this post
-실패: https://www.tiktok.com/@errsunday/video/7229330324902268187
