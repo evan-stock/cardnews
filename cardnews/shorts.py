@@ -207,6 +207,21 @@ def sub_png(text, out, sc, label=None):
         used = draw_line(d, y, line, sc["sub_size"], max_w=int(sc.get("sub_max_w", W - 60)), stroke=sc.get("sub_stroke", 12), base=base, hi=hi,
                          fpath=sc.get("font_sub"))
         y += int(used * 1.28)
+    if sc.get("sub_shadow"):  # 깔끔맨식(2026.10.31): 굵은 테두리 대신 흐린 그림자 + 살짝 기울임
+        from PIL import ImageFilter
+        sh = sc["sub_shadow"] if isinstance(sc["sub_shadow"], dict) else {}
+        a = im.split()[3]
+        shadow = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        shadow.putalpha(a.point(lambda p: int(p * sh.get("alpha", 0.85))))
+        shadow = shadow.filter(ImageFilter.GaussianBlur(sh.get("blur", 7)))
+        out_im = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        out_im.alpha_composite(shadow, (sh.get("dx", 3), sh.get("dy", 5)))
+        out_im.alpha_composite(im)
+        im = out_im
+    if sc.get("sub_italic"):  # 가로 기울임(0.1 정도), 자막 줄 높이 기준
+        k = float(sc["sub_italic"])
+        cy = int(H * sc["sub_y"])
+        im = im.transform((W, H), Image.AFFINE, (1, k, -k * cy, 0, 1, 0), resample=Image.BICUBIC)
     if label:
         d.text((40, int(H * sc["sub_y"]) - 70), "※ " + label, font=font(34, True), fill=(235, 235, 235),
                stroke_width=4, stroke_fill=(0, 0, 0))
