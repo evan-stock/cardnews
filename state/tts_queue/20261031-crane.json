@@ -1,0 +1,156 @@
+{
+ "id": "20261031-crane",
+ "created": "2026-10-31T00:25:26.779816+09:00",
+ "items": [
+  {
+   "key": "022f6ea7b94a",
+   "text": "타워크레인 기사는 퇴근을 어떻게 할까요?",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "이 좁은 유리 조종석이 이분의 사무실입니다."
+   },
+   "voice": {
+    "voice_id": "tc_632293f759d649937b97f323",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "c329a8d89799",
+   "text": "이 좁은 유리 조종석이 이분의 사무실입니다.",
+   "ctx": {
+    "previous_text": "타워크레인 기사는 퇴근을 어떻게 할까요?",
+    "next_text": "엘리베이터는 없습니다. 내려가는 길은 철 사다리 하나뿐이죠."
+   },
+   "voice": {
+    "voice_id": "tc_632293f759d649937b97f323",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "62845b3fd4d9",
+   "text": "엘리베이터는 없습니다. 내려가는 길은 철 사다리 하나뿐이죠.",
+   "ctx": {
+    "previous_text": "이 좁은 유리 조종석이 이분의 사무실입니다.",
+    "next_text": "높이 60미터 크레인이면 사다리만 약 200칸. 국내 한 기사는 오르는 데만 10분에서 15분이 걸린다고 해요."
+   },
+   "voice": {
+    "voice_id": "tc_632293f759d649937b97f323",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "0d03840c43a3",
+   "text": "높이 60미터 크레인이면 사다리만 약 200칸. 국내 한 기사는 오르는 데만 10분에서 15분이 걸린다고 해요.",
+   "ctx": {
+    "previous_text": "엘리베이터는 없습니다. 내려가는 길은 철 사다리 하나뿐이죠.",
+    "next_text": "그래서 한번 올라가면 오전 내내 다섯 시간을 내려오지 않습니다."
+   },
+   "voice": {
+    "voice_id": "tc_632293f759d649937b97f323",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "6928e238041d",
+   "text": "그래서 한번 올라가면 오전 내내 다섯 시간을 내려오지 않습니다.",
+   "ctx": {
+    "previous_text": "높이 60미터 크레인이면 사다리만 약 200칸. 국내 한 기사는 오르는 데만 10분에서 15분이 걸린다고 해요.",
+    "next_text": "화장실이 없어 작은 볼일은 빈 병에 해결하고, 일부러 덜 먹는 기사도 있죠."
+   },
+   "voice": {
+    "voice_id": "tc_632293f759d649937b97f323",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "3bf4e740d2a7",
+   "text": "화장실이 없어 작은 볼일은 빈 병에 해결하고, 일부러 덜 먹는 기사도 있죠.",
+   "ctx": {
+    "previous_text": "그래서 한번 올라가면 오전 내내 다섯 시간을 내려오지 않습니다.",
+    "next_text": "이런 길을 하루 네 번 오르내립니다."
+   },
+   "voice": {
+    "voice_id": "tc_632293f759d649937b97f323",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "a826e33ec2f8",
+   "text": "이런 길을 하루 네 번 오르내립니다.",
+   "ctx": {
+    "previous_text": "화장실이 없어 작은 볼일은 빈 병에 해결하고, 일부러 덜 먹는 기사도 있죠.",
+    "next_text": "그래서 요즘 해외에선 크레인 기둥에 작은 승강기를 다는 현장도 생겼어요."
+   },
+   "voice": {
+    "voice_id": "tc_632293f759d649937b97f323",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "53de9ea0031a",
+   "text": "그래서 요즘 해외에선 크레인 기둥에 작은 승강기를 다는 현장도 생겼어요.",
+   "ctx": {
+    "previous_text": "이런 길을 하루 네 번 오르내립니다.",
+    "next_text": "그런데 사다리를 다 내려와도, 아직 땅이 아닙니다."
+   },
+   "voice": {
+    "voice_id": "tc_632293f759d649937b97f323",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "40243279272d",
+   "text": "그런데 사다리를 다 내려와도, 아직 땅이 아닙니다.",
+   "ctx": {
+    "previous_text": "그래서 요즘 해외에선 크레인 기둥에 작은 승강기를 다는 현장도 생겼어요.",
+    "next_text": "공사 중인 건물로 건너가 엘리베이터를 타야, 그제야 진짜 퇴근이죠."
+   },
+   "voice": {
+    "voice_id": "tc_632293f759d649937b97f323",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "9e0541f081c1",
+   "text": "공사 중인 건물로 건너가 엘리베이터를 타야, 그제야 진짜 퇴근이죠.",
+   "ctx": {
+    "previous_text": "그런데 사다리를 다 내려와도, 아직 땅이 아닙니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_632293f759d649937b97f323",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
