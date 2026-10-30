@@ -1,7 +1,7 @@
 {
  "id": "20261030-wigcat",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-30T19:24:13.893867+09:00",
  "publish_at": "2026-10-30T19:24:13.893887+09:00",
  "publish_now": true,
@@ -53,5 +53,8 @@
  "draft_hash": "72d817dca145",
  "tg_msg": 1537,
  "decided_at": "2026-10-30T20:17:39+09:00",
- "decided_via": "app"
+ "decided_via": "app",
+ "yt_id": "38YYuWRh2sA",
+ "permalink": "https://youtube.com/shorts/38YYuWRh2sA",
+ "published_at": "2026-10-30T20:18:20.041519+09:00"
 }
