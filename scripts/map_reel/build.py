@@ -28,7 +28,7 @@ def main():
     # 사진 복사(저장소 기준 경로) → ph/
     def ph(p):
         if not p: return None
-        src = os.path.join(ROOT, p); dst = 'ph/' + os.path.basename(p)
+        src = os.path.join(ROOT, p); dst = 'ph/' + p.replace('/', '_')  # 다른 폴더 같은 파일 이름(img4.jpg 등)이 겹치지 않게
         shutil.copy(src, os.path.join(work, dst)); return dst
 
     # 시각 자동 계산: 인트로 3.3초 → 장면마다 scene_len(기본 3.3) → 정리 3.1초 → CTA 2.6초
