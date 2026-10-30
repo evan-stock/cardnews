@@ -1,0 +1,51 @@
+{
+ "id": "20261030-crushdog",
+ "created": "2026-10-30T17:30:55.425456+09:00",
+ "items": [
+  {
+   "key": "a2d12dd63fc3",
+   "text": "이 개는 원래 남자만 보면 숨던 구조견이었습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "56ac14f4bc02",
+   "text": "그런데 집사 남자친구에게는 앞발부터 내밉니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "14e7d286d83f",
+   "text": "구조견이 새집에 완전히 마음을 여는 데는 석 달쯤 걸린다고 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
