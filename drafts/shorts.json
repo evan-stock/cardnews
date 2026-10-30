@@ -1,8 +1,8 @@
 {
  "id": "20261031-crane",
- "mode": "render",
+ "mode": "send",
  "topic": "타워크레인 기사의 퇴근길 (오늘의쓸모 새 형식 1편: 화면 꽉 + 내레이션, 벤치마크 깔끔맨)",
- "_note": "제목 띠 없음(layout full), 아래 자막만. 원본: X @PicturesFoIder 1948454522566697452 (720x1280, 125초, 화면 글자 없음). 수치 근거: 매일신문 2018.6.13(60m·약 200칸·10~15분·오전 5시간·빈 병·하루 4번), Construction Enquirer 2020.7.3(Terex T-lift 시험) | 10.31 자막을 깔끔맨식(Pretendard ExtraBold·흐린 그림자·살짝 기울임·짧게 끊기)으로",
+ "_note": "제목 띠 없음(layout full), 아래 자막만. 원본: X @PicturesFoIder 1948454522566697452 (720x1280, 125초, 화면 글자 없음). 수치 근거: 매일신문 2018.6.13(60m·약 200칸·10~15분·오전 5시간·빈 병·하루 4번), Construction Enquirer 2020.7.3(Terex T-lift 시험) | 10.31 자막을 깔끔맨식(Pretendard ExtraBold·흐린 그림자·살짝 기울임·짧게 끊기)으로 | 10.31 00:59 사용자 채팅 승인(음악 C 문릿) → 바로 업로드, 반응 보고 새 형식 판단",
  "style": {
   "layout": "full",
   "sub_y": 0.77,
@@ -85,16 +85,16 @@
    }
   }
  ],
- "bgm": "assets/bgm/worthy/curious_kitten.mp3",
- "bgm_start": 11,
- "bgm_volume": 1.3,
+ "bgm": "assets/bgm/worthy/moonlit.mp3",
+ "bgm_start": 65,
+ "bgm_volume": 0.25,
  "photo_credits": [
   "X @PicturesFoIder"
  ],
  "yt": {
   "channel": "shop",
   "title": "타워크레인 기사가 퇴근하는 방법 #shorts",
-  "description": "까마득한 높이의 조종석에서 기사는 어떻게 내려올까요? 사다리 약 200칸, 화장실 없는 하루.\n\n영상: X @PicturesFoIder\n참고: 매일신문(2018.6.13) 타워크레인 기사 인터뷰, Construction Enquirer(2020.7.3)\n음악: The Curious Kitten – Aaron Kenny (YouTube 오디오 보관함)",
+  "description": "까마득한 높이의 조종석에서 기사는 어떻게 내려올까요? 사다리 약 200칸, 화장실 없는 하루.\n\n영상: X @PicturesFoIder\n참고: 매일신문(2018.6.13) 타워크레인 기사 인터뷰, Construction Enquirer(2020.7.3)\n음악: Moonlit – Dyalla (YouTube 오디오 보관함)",
   "tags": [
    "타워크레인",
    "크레인기사",
@@ -116,5 +116,7 @@
    "date": "2020.7.3",
    "url": "https://constructionenquirer.com/2020/07/03/tower-crane-lifts-end-long-climb-for-operators/"
   }
- ]
+ ],
+ "approved": true,
+ "publish_now": true
 }
