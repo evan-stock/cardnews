@@ -9,3 +9,14 @@ drwxr-xr-x 3 runner runner   4096 Oct 30 14:49 ..
 -rw-r--r-- 1 runner runner 114385 Oct 30 14:49 img6.jpg
 -rw-r--r-- 1 runner runner  69692 Oct 30 14:49 img7.webp
 -rw-r--r-- 1 runner runner      0 Oct 30 14:49 log.txt
+total 216
+drwxr-xr-x 2 runner runner   4096 Oct 30 15:41 .
+drwxr-xr-x 3 runner runner   4096 Oct 30 15:41 ..
+-rw-r--r-- 1 runner runner    173 Oct 30 15:42 img1.jpg
+-rw-r--r-- 1 runner runner     94 Oct 30 15:42 img2.jpg
+-rw-r--r-- 1 runner runner     94 Oct 30 15:42 img3.jpg
+-rw-r--r-- 1 runner runner     94 Oct 30 15:42 img4.jpg
+-rw-r--r-- 1 runner runner     94 Oct 30 15:42 img5.jpg
+-rw-r--r-- 1 runner runner 114385 Oct 30 15:41 img6.jpg
+-rw-r--r-- 1 runner runner  69692 Oct 30 15:41 img7.webp
+-rw-r--r-- 1 runner runner    557 Oct 30 15:41 log.txt
