@@ -1,7 +1,7 @@
 {
  "id": "20261030-wigcat",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-10-30T19:24:13.893867+09:00",
  "publish_at": "2026-10-30T19:24:13.893887+09:00",
  "publish_now": true,
@@ -51,5 +51,7 @@
   "channel": null
  },
  "draft_hash": "72d817dca145",
- "tg_msg": 1537
+ "tg_msg": 1537,
+ "decided_at": "2026-10-30T20:17:39+09:00",
+ "decided_via": "app"
 }
