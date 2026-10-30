@@ -1,17 +1,1 @@
-Traceback (most recent call last):
-  File "<frozen runpy>", line 198, in _run_module_as_main
-  File "<frozen runpy>", line 88, in _run_code
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 808, in <module>
-    main(sys.argv[1])
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 804, in main
-    one(d)
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 753, in one
-    return _one(d)
-           ^^^^^^^
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 767, in _one
-    out, total, engines = render(d)
-                          ^^^^^^^^^
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 644, in render
-    raise RuntimeError(f"Gemini 목소리를 못 만듦: {why}")
-RuntimeError: Gemini 목소리를 못 만듦: 하루 한도 초과(429)
-Gemini TTS: 실패 (하루 한도 초과(429))
+⏳ 3개 장면 목소리를 맥북에서 만드는 중
