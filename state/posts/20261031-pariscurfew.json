@@ -2,7 +2,7 @@
  "id": "20261031-pariscurfew",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-31T10:32:13.604998+09:00",
  "publish_at": "2026-10-31T10:28:36+09:00",
  "topic": "핼러윈 밤 파리 통금(레퓌블리크·레알 23~6시, 미성년자 21~6시), 시위 3차",
@@ -59,5 +59,9 @@
   "media/20261031-pariscurfew/04.jpg",
   "media/20261031-pariscurfew/05.jpg"
  ],
- "tg_msg": 1577
+ "tg_msg": 1577,
+ "decided_at": "2026-10-31T10:33:41.774145+09:00",
+ "ig_media_id": "17915870754508876",
+ "permalink": "https://www.instagram.com/p/DfI_L-olPkH/",
+ "published_at": "2026-10-31T10:34:46.246967+09:00"
 }
