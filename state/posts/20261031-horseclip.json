@@ -1,7 +1,7 @@
 {
  "id": "20261031-horseclip",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-10-31T14:42:25.348590+09:00",
  "publish_at": "2026-10-31T14:42:25.348602+09:00",
  "publish_now": true,
@@ -32,5 +32,7 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1612
+ "tg_msg": 1612,
+ "decided_at": "2026-10-31T18:12:55+09:00",
+ "decided_via": "app"
 }
