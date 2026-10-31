@@ -1,224 +1,237 @@
 {
- "id": "20261031-tsundere",
+ "id": "20261031-donkeylove",
  "mode": "send",
  "format": "meme",
- "topic": "반가워서 쪼르르 달려온 길고양이가 발밑에 오자 안 반가운 척 갑자기 그루밍, 그러다 올려다보며 냐옹(X @gubakim 김구바, 2026.10.28, 조회 101만). 사용자 지정 소재(10.31 08:07 회차). 원본 소리(고양이 울음·거리 소리) 살림. 사실: Petfinder — 두 가지 상반된 행동 동기가 부딪힐 때 그루밍으로 대신하는 '전위 행동', 그루밍은 고양이를 진정시킴.",
+ "topic": "담 너머 당나귀 두 마리에게 매일 코인사하러 가는 로트와일러 로키(틱톡 @rachelizabethx, 아일랜드, Newsweek 2024.1.25 보도 '심각한 당나귀 집착'). 동물쑛 '이상형 ○○ 만나면 일어나는 일' 틀. 사실: The Donkey Sanctuary — 당나귀는 영역 본능 때문에 개·고양이 같은 작은 동물을 쫓거나 공격하기도 함. 원본 소리 중 사람 말소리 구간은 끔.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.8,
+ "bgm_volume": 1.0,
  "sfx_max": 4,
  "hook": {
-  "t": "반가워서 달려와 놓고\n'안 반가운 척ㅋㅋ'"
+  "t": "이상형 당나귀 만나면\n'일어나는 일ㅋㅋ'"
  },
  "photo_credits": [
-  "X @gubakim (김구바)"
+  "TikTok @rachelizabethx"
  ],
  "scenes": [
   {
+   "dur": 2.6,
+   "video": {
+    "src": "../20261031-cand13/video/v1.mp4",
+    "start": 0.2,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
+    "blur": [
+     [
+      70,
+      100,
+      436,
+      95
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "저기요...\n혹시 시간 되세요?",
+     "x": 0.6,
+     "y": 0.2,
+     "at": 0.05,
+     "to": 2.6,
+     "s": "heart",
+     "sv": 0.7
+    },
+    {
+     "k": "sfx",
+     "t": "(쭈욱)",
+     "x": 0.75,
+     "y": 0.62,
+     "at": 0.5,
+     "to": 2.4
+    }
+   ]
+  },
+  {
+   "say": "이 로트와일러, 담 너머 당나귀에게 단단히 반했습니다.",
+   "video": {
+    "src": "../20261031-cand13/video/v1.mp4",
+    "start": 2.7,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
+    "blur": [
+     [
+      115,
+      790,
+      346,
+      90
+     ]
+    ]
+   },
+   "caps": []
+  },
+  {
    "dur": 3.0,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 23.7,
+    "src": "../20261031-cand13/video/v1.mp4",
+    "start": 7.1,
     "x": 0.5,
     "y": 0.5,
-    "audio": 9
+    "audio": 0.8,
+    "blur": [
+     [
+      115,
+      790,
+      346,
+      90
+     ]
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "흥...\n반가워서 온 거 아니거든",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 0.05,
+     "t": "얘 또 왔네...",
+     "x": 0.28,
+     "y": 0.27,
+     "at": 0.1,
+     "to": 1.6
+    },
+    {
+     "k": "talk",
+     "t": "둘 다 내 스타일♡",
+     "x": 0.68,
+     "y": 0.33,
+     "at": 1.4,
      "to": 3.0,
-     "s": "slide",
-     "sv": 0.8
+     "s": "sparkle",
+     "sv": 0.6
     },
     {
      "k": "sfx",
-     "t": "(핥핥)",
+     "t": "(킁킁)",
      "x": 0.72,
-     "y": 0.62,
-     "at": 0.4,
-     "to": 2.6
-    }
-   ]
-  },
-  {
-   "say": "이 고양이, 집사를 보자마자 저 멀리서 달려왔습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 0.5,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 3
-   },
-   "caps": []
-  },
-  {
-   "dur": 2.4,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 5.0,
-    "x": 0.45,
-    "y": 0.5,
-    "audio": 9
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "집사다!!\n집사다아!!",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 0.05,
-     "to": 2.4,
-     "s": "whoosh",
-     "sv": 0.8
-    },
-    {
-     "k": "sfx",
-     "t": "(쪼르르)",
-     "x": 0.72,
-     "y": 0.72,
-     "at": 0.3,
-     "to": 2.2
-    }
-   ]
-  },
-  {
-   "say": "그런데 코앞에 오더니 갑자기 속도를 줄입니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 12.0,
-    "x": 0.45,
-    "y": 0.5,
-    "audio": 3
-   },
-   "caps": []
-  },
-  {
-   "dur": 3.3,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 17.7,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 9
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "왔...냐옹",
-     "x": 0.3,
-     "y": 0.2,
-     "at": 0.9,
-     "to": 2.5
-    },
-    {
-     "k": "sfx",
-     "t": "(앗 차)",
-     "x": 0.7,
-     "y": 0.25,
-     "at": 2.5,
-     "to": 3.3,
-     "s": "question",
-     "sv": 0.7
-    }
-   ]
-  },
-  {
-   "dur": 2.7,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 21.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 9
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "아니 그냥...\n털이 좀 신경 쓰여서",
-     "x": 0.5,
-     "y": 0.18,
-     "at": 0.05,
-     "to": 2.7
-    },
-    {
-     "k": "sfx",
-     "t": "(딴청)",
-     "x": 0.75,
      "y": 0.6,
-     "at": 0.5,
-     "to": 2.5
+     "at": 0.4,
+     "to": 2.8
     }
    ]
   },
   {
-   "say": "고양이는 두 마음이 부딪히면 그루밍으로 마음을 달랜다고 합니다.",
+   "say": "주인 말로는 하루도 빠짐없이 이렇게 인사하러 온다고 합니다.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 29.3,
-    "x": 0.45,
+    "src": "../20261031-cand13/video/v1.mp4",
+    "start": 9.0,
+    "x": 0.5,
     "y": 0.5,
-    "audio": 3,
-    "boomerang": true
+    "audio": 0,
+    "blur": [
+     [
+      115,
+      790,
+      346,
+      90
+     ]
+    ]
+   },
+   "caps": []
+  },
+  {
+   "say": "원래 당나귀는 개를 쫓아내기도 한다는데, 이 둘은 예외인가 봅니다.",
+   "video": {
+    "src": "../20261031-cand13/video/v1.mp4",
+    "start": 3.6,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
+    "boomerang": true,
+    "blur": [
+     [
+      115,
+      790,
+      346,
+      90
+     ]
+    ]
    },
    "caps": [
     {
      "k": "desc",
-     "t": "'전위 행동' (Petfinder)\n다가갈까 말까 갈등될 때 그루밍",
+     "t": "당나귀는 영역 본능이 강해\n개도 쫓아내곤 한대요\n(The Donkey Sanctuary)",
      "x": 0.5,
      "y": 0.12,
-     "at": 0.3
+     "at": 0.3,
+     "size": 56
     }
    ]
   },
   {
-   "dur": 2.0,
+   "dur": 2.6,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 27.0,
+    "src": "../20261031-cand13/video/v1.mp4",
+    "start": 11.9,
     "x": 0.5,
     "y": 0.5,
-    "audio": 11
+    "audio": 0,
+    "boomerang": true,
+    "blur": [
+     [
+      115,
+      790,
+      346,
+      90
+     ]
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...근데 간식은?",
-     "x": 0.5,
-     "y": 0.18,
-     "at": 0.3,
-     "to": 2.0,
-     "s": "sparkle",
-     "sv": 0.6
+     "t": "내일 또 올게♡",
+     "x": 0.6,
+     "y": 0.3,
+     "at": 0.1,
+     "to": 2.6,
+     "s": "pop",
+     "sv": 0.8
+    },
+    {
+     "k": "sfx",
+     "t": "(쪽)",
+     "x": 0.55,
+     "y": 0.6,
+     "at": 0.6,
+     "to": 2.2
     }
    ]
   }
  ],
  "sources": [
   {
-   "publisher": "X @gubakim (김구바)",
-   "url": "https://x.com/gubakim/status/2115428611318829077",
-   "date": "2026-10-28"
+   "publisher": "TikTok @rachelizabethx",
+   "url": "https://www.tiktok.com/@rachelizabethx/video/7322226113428720929",
+   "date": "2024-01"
   },
   {
-   "publisher": "Petfinder - Why Do Cats Lick Themselves?",
-   "url": "https://www.petfinder.com/cats/cat-grooming/cats-meticulous-nature/",
-   "date": "2023-02-10"
+   "publisher": "Newsweek - Hysterics at Rottweiler with a 'serious donkey obsession'",
+   "url": "https://www.newsweek.com/hysterics-rottweiler-serious-donkey-obsession-1863505",
+   "date": "2024-01-25"
+  },
+  {
+   "publisher": "The Donkey Sanctuary - Keeping donkeys with other animals",
+   "url": "https://thedonkeysanctuary.org.uk/for-owners/owners-resources/keeping-donkeys-with-other-animals",
+   "date": ""
   }
  ],
  "yt": {
-  "title": "반가운 거 들키면 안 되는 고양이 ㅋㅋ #shorts",
-  "description": "저 멀리서 쪼르르 달려와 놓고... 발밑에 도착하자마자 갑자기 안 반가운 척 그루밍ㅋㅋ 그래 놓고 결국 올려다보며 냐옹.\n\n고양이는 다가갈까 말까처럼 두 마음이 부딪힐 때 대신 그루밍을 하기도 한대요. 이걸 '전위 행동'이라고 하는데, 그루밍이 마음을 진정시켜 준다고 해요.\n\n여러분 고양이도 반가운 티 안 내려고 딴청 피우나요?\n\n영상: X @gubakim (김구바)\n참고: Petfinder\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "이상형 당나귀 만나면 일어나는 일ㅋㅋ #shorts",
+  "description": "담 너머 당나귀 두 마리한테 단단히 반한 로트와일러 로키ㅋㅋ 주인 말로는 하루도 빠짐없이 코인사하러 간대요.\n\n당나귀는 영역 본능이 강해서 개나 고양이 같은 작은 동물을 쫓거나 공격하기도 한대요. 그래서 처음 만날 땐 꼭 조심해야 한다는데, 이 둘은 예외인가 봐요.\n\n여러분 강아지도 이상형이 따로 있나요?\n\n영상: TikTok @rachelizabethx\n참고: Newsweek, The Donkey Sanctuary\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "고양이",
-   "길고양이",
-   "츤데레고양이",
-   "고양이그루밍",
-   "고양이반응",
-   "웃긴고양이",
+   "강아지",
+   "로트와일러",
+   "당나귀",
+   "이상형",
+   "강아지반응",
+   "웃긴강아지",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
