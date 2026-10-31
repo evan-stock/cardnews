@@ -1,0 +1,20 @@
+ERROR: [twitter] 1893141197310288050: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+영상 없는 글(글만/삭제됨): https://x.com/FOX4/status/1893141197310288050
+실패: https://x.com/FOX4/status/1893141197310288050
+ERROR: [twitter] 1884792730645111285: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+기사 페이지에서도 영상 못 받음: https://quchronicle.com/88828/featured/pipe-burst-in-moutainview-residence-hall-causes-students-to-relocate/ ERROR: [generic] Got HTTP Error 403 caused by Cloudflare anti-bot challenge; try again with  --extractor-args "generic:impersonate"
+
+영상 없는 글(기사링크): https://x.com/QUChronicle/status/1884792730645111285
+실패: https://x.com/QUChronicle/status/1884792730645111285
+ERROR: [twitter] 1606378400440061971: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/TheBloggess/status/1606378400440061971
+실패: https://x.com/TheBloggess/status/1606378400440061971
+total 2716
+drwxr-xr-x 2 runner runner    4096 Oct 31 00:49 .
+drwxr-xr-x 3 runner runner    4096 Oct 31 00:49 ..
+-rw-r--r-- 1 runner runner    1263 Oct 31 00:49 log.txt
+-rw-r--r-- 1 runner runner 2749294 Oct 31 00:49 v2.mp4
+-rw-r--r-- 1 runner runner     735 Oct 31 00:49 x1.json
+-rw-r--r-- 1 runner runner     587 Oct 31 00:49 x2.json
+-rw-r--r-- 1 runner runner     750 Oct 31 00:49 x3.json
+-rw-r--r-- 1 runner runner     571 Oct 31 00:49 x4.json
