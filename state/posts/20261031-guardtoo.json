@@ -1,7 +1,7 @@
 {
  "id": "20261031-guardtoo",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-31T18:36:02.835638+09:00",
  "publish_at": "2026-10-31T18:36:02.835661+09:00",
  "publish_now": true,
@@ -53,5 +53,8 @@
  "draft_hash": "479f01169510",
  "tg_msg": 1615,
  "decided_at": "2026-10-31T18:57:52+09:00",
- "decided_via": "app"
+ "decided_via": "app",
+ "yt_id": "-Rc0YcUmIAA",
+ "permalink": "https://youtube.com/shorts/-Rc0YcUmIAA",
+ "published_at": "2026-10-31T18:58:22.141081+09:00"
 }
