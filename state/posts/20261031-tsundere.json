@@ -1,7 +1,7 @@
 {
  "id": "20261031-tsundere",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-10-31T08:34:58.120505+09:00",
  "publish_at": "2026-10-31T08:34:58.120525+09:00",
  "publish_now": true,
@@ -48,5 +48,8 @@
  "draft_hash": "06cc50154461",
  "tg_msg": 1560,
  "decided_at": "2026-10-31T10:01:52+09:00",
- "decided_via": "app"
+ "decided_via": "app",
+ "yt_id": "ajhSko7-nmQ",
+ "permalink": "https://youtube.com/shorts/ajhSko7-nmQ",
+ "published_at": "2026-10-31T10:02:57.776029+09:00"
 }
