@@ -3,13 +3,13 @@ import json, subprocess, sys, traceback, os
 base = "media/20261031-polandcourt-reel/video/"
 log = []
 try:
-    r = subprocess.run([sys.executable, "-m", "pip", "install", "-q", "faster-whisper"], capture_output=True, text=True)
+    r = subprocess.run([sys.executable, "-m", "pip", "install", "-q", "-U", "faster-whisper", "av"], capture_output=True, text=True)
     log.append(r.stdout[-1500:] + r.stderr[-1500:])
     from faster_whisper import WhisperModel
     m = WhisperModel("small", device="cpu", compute_type="int8")
     out = {}
     for v in ["v1", "v2"]:
-        src = base + v + ".wav"
+        import wave, numpy as np; wf = wave.open(base + v + ".wav"); src = np.frombuffer(wf.readframes(wf.getnframes()), dtype=np.int16).astype(np.float32) / 32768.0
         segs, info = m.transcribe(src, language="pl", word_timestamps=True)
         out[v] = [{"s": round(s.start, 2), "e": round(s.end, 2), "t": s.text,
                    "w": [[round(w.start, 2), round(w.end, 2), w.word] for w in (s.words or [])]} for s in segs]
