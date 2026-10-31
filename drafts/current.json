@@ -1,3 +1,13 @@
-[{"id":"20261031-polandcourt-fox","slot":"evening","mode":"collect","topic":"폴란드 릴스 커버 사진(Fox News)",
- "image_urls":["https://pbs.twimg.com/media/HV7PcgSWQAA3Nzf?format=jpg&name=orig","https://pbs.twimg.com/media/HV7PgsaXEAAsv1u?format=jpg&name=orig"],
- "referer":"https://x.com/","image_pages":[],"slides":[{"t":"수집","lay":"one"}],"images":[]}]
+[{"id":"20261031-binance2","slot":"evening","mode":"collect","topic":"바이낸스 해킹 2편: 북한 트레이더트레이터 배후 지목","limit":30,
+ "image_pages":[
+  "https://www.segye.com/newsView/20261031504891",
+  "https://www.koreatimes.com/article/11629795",
+  "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know",
+  "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+  "https://news.bitcoin.com/security/binance-hack-north-korea-lazarus-tradertraitor/",
+  "https://en.wikipedia.org/wiki/Park_Jin_Hyok",
+  "https://en.wikipedia.org/wiki/Lazarus_Group",
+  "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+  "https://en.wikipedia.org/wiki/Hwasong-19",
+  "https://en.wikipedia.org/wiki/Reconnaissance_General_Bureau"
+ ],"slides":[{"t":"수집","lay":"one"}],"images":[]}]
