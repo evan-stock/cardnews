@@ -5,13 +5,11 @@ log = []
 try:
     r = subprocess.run([sys.executable, "-m", "pip", "install", "-q", "faster-whisper"], capture_output=True, text=True)
     log.append(r.stdout[-1500:] + r.stderr[-1500:])
-    for v in ["v1", "v2"]:
-        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", base + v + ".mp4", "-ac", "1", "-ar", "16000", "/tmp/" + v + ".wav"], check=False)
     from faster_whisper import WhisperModel
     m = WhisperModel("small", device="cpu", compute_type="int8")
     out = {}
     for v in ["v1", "v2"]:
-        src = "/tmp/" + v + ".wav" if os.path.exists("/tmp/" + v + ".wav") else base + v + ".mp4"
+        src = base + v + ".wav"
         segs, info = m.transcribe(src, language="pl", word_timestamps=True)
         out[v] = [{"s": round(s.start, 2), "e": round(s.end, 2), "t": s.text,
                    "w": [[round(w.start, 2), round(w.end, 2), w.word] for w in (s.words or [])]} for s in segs]
