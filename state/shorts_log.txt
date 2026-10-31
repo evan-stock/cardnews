@@ -1,1 +1,8 @@
-⏳ 3개 장면 목소리를 맥북에서 만드는 중
+장면 1/7 silent 누적 2.8초
+장면 2/7 typecast 누적 6.5초
+장면 3/7 silent 누적 8.7초
+장면 4/7 silent 누적 10.7초
+장면 5/7 typecast 누적 13.9초
+장면 6/7 typecast 누적 19.0초
+장면 7/7 silent 누적 21.4초
+완성: /home/runner/work/cardnews/cardnews/media/20261101-otternap/short.mp4 (21.4초, TTS ['silent', 'typecast'])
