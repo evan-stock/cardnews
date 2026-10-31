@@ -1,0 +1,25 @@
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] mB5tiINdPAI: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: https://www.youtube.com/shorts/mB5tiINdPAI
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] xEG4XZz4HXQ: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: https://www.youtube.com/shorts/xEG4XZz4HXQ
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Y13hDBj8bUc: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: https://www.youtube.com/shorts/Y13hDBj8bUc
+total 16228
+drwxr-xr-x 2 runner runner    4096 Oct 31 11:28 .
+drwxr-xr-x 3 runner runner    4096 Oct 31 11:27 ..
+-rw-r--r-- 1 runner runner    1797 Oct 31 11:27 log.txt
+-rw-r--r-- 1 runner runner 4478263 Oct 31 11:27 v1.mp4
+-rw-r--r-- 1 runner runner   29175 Oct 31 11:27 v2.info.json
+-rw-r--r-- 1 runner runner 2579904 Oct 31 11:27 v2.mp4
+-rw-r--r-- 1 runner runner   22854 Oct 31 11:27 v3.info.json
+-rw-r--r-- 1 runner runner  263215 Oct 31 11:27 v3.mp4
+-rw-r--r-- 1 runner runner   22797 Oct 31 11:28 v7.info.json
+-rw-r--r-- 1 runner runner  554729 Oct 31 11:28 v7.mp4
+-rw-r--r-- 1 runner runner 4985065 Oct 31 11:28 v8.mp4
+-rw-r--r-- 1 runner runner   19414 Oct 31 11:28 v9.info.json
+-rw-r--r-- 1 runner runner 3618151 Oct 31 11:28 v9.mp4
+-rw-r--r-- 1 runner runner     533 Oct 31 11:27 x1.json
+-rw-r--r-- 1 runner runner     542 Oct 31 11:28 x8.json
