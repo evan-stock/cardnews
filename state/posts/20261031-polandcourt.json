@@ -2,7 +2,7 @@
  "id": "20261031-polandcourt",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-31T11:43:59.393800+09:00",
  "publish_at": "2026-10-31T11:40:37+09:00",
  "topic": "폴란드 헌법재판소 소장 직무정지·경찰 배치, 대통령 세네갈행 회항, '쿠데타' 공방",
@@ -69,5 +69,9 @@
   "media/20261031-polandcourt/05.jpg",
   "media/20261031-polandcourt/06.jpg"
  ],
- "tg_msg": 1588
+ "tg_msg": 1588,
+ "decided_at": "2026-10-31T11:47:56.669881+09:00",
+ "ig_media_id": "18082887482350243",
+ "permalink": "https://www.instagram.com/p/DfJHwMfF9wp/",
+ "published_at": "2026-10-31T11:49:08.484108+09:00"
 }
