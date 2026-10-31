@@ -1,40 +1,140 @@
 {
- "since": "2025-09-01",
- "fixed": [],
- "found": [
+ "since": "2026-10-01",
+ "fixed": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
-  },
-  {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
-   "subs": "0",
-   "videos": "4"
+   "handle": "UCw5W1VrlzG7bjHEBxpupBlg",
+   "title": "펫스파이",
+   "id": "UCw5W1VrlzG7bjHEBxpupBlg",
+   "created": "2026-06-28",
+   "subs": "3140",
+   "videos": "147",
+   "before": {
+    "n": 88,
+    "median": 26303,
+    "max": 3898845,
+    "over10k": 75
+   },
+   "after": {
+    "n": 53,
+    "median": 26253,
+    "max": 1220047,
+    "over10k": 46
+   },
+   "last3d": {
+    "n": 6,
+    "median": 24141,
+    "max": 83115,
+    "over10k": 4
+   },
+   "recent": [
+    {
+     "id": "FbmqDJqA_s8",
+     "date": "2026-10-30",
+     "title": "댕댕이 앞에서 허세 부리던 아기 호랑이의 최종 보스 등장ㅋㅋ",
+     "views": 27395,
+     "dur": "PT14S"
+    },
+    {
+     "id": "20wJ1UOaqyU",
+     "date": "2026-10-30",
+     "title": "아장아장 걷던 아기 고양이가 분유 앞에서 보여준 반전ㅋㅋ",
+     "views": 20966,
+     "dur": "PT13S"
+    },
+    {
+     "id": "vexc1J4PQU4",
+     "date": "2026-10-29",
+     "title": "내리막길에서 친구 만나러 초고속으로 내려온 숏다리 코기ㅋㅋ",
+     "views": 9200,
+     "dur": "PT17S"
+    },
+    {
+     "id": "75hxBTIDZYw",
+     "date": "2026-10-29",
+     "title": "물줄기 잡으려다 현타 제대로 온 카멜레온ㅋㅋ",
+     "views": 9764,
+     "dur": "PT14S"
+    },
+    {
+     "id": "efffQ8m5C_A",
+     "date": "2026-10-28",
+     "title": "새 한 마리 잡으려다 영혼까지 털려버린 고양이ㅋㅋ",
+     "views": 27316,
+     "dur": "PT16S"
+    },
+    {
+     "id": "IFATdIZmr4U",
+     "date": "2026-10-28",
+     "title": "세상 구경 나온 아기 고양이들이 서로에게 벌인 황당한 짓ㅋㅋ",
+     "views": 83115,
+     "dur": "PT16S"
+    },
+    {
+     "id": "P-Clmnv6cRQ",
+     "date": "2026-10-27",
+     "title": "집에 들어가려던 웰시코기 때문에 백구가 당한 황당한 봉변ㅋㅋ",
+     "views": 33579,
+     "dur": "PT13S"
+    },
+    {
+     "id": "FyY3PzXHDDo",
+     "date": "2026-10-27",
+     "title": "통통한 냥이를 삼킨 초록 괴물의 대환장 먹방ㅋㅋ",
+     "views": 31269,
+     "dur": "PT12S"
+    },
+    {
+     "id": "MvZWRMlPDEo",
+     "date": "2026-10-26",
+     "title": "고양이 재워놓고 진짜 자는지 검사하는 집사의 황당한 육아법ㅋㅋ",
+     "views": 50620,
+     "dur": "PT21S"
+    },
+    {
+     "id": "IFD7aDihD_A",
+     "date": "2026-10-26",
+     "title": "거대한 고양이 발을 발견하고 집사의 정체를 의심하는 냥이ㅋㅋ",
+     "views": 23135,
+     "dur": "PT12S"
+    },
+    {
+     "id": "e-OJCrgcqXk",
+     "date": "2026-10-25",
+     "title": "마사지기가 갑자기 멈춰버리자 고양이가 보인 뜻밖의 행동 ㅋㅋ",
+     "views": 2684,
+     "dur": "PT19S"
+    },
+    {
+     "id": "RoeK9wlL3wY",
+     "date": "2026-10-25",
+     "title": "엄마가 말려도 집사 손가락을 포기 못 하는 아기 호랑이ㅋㅋ",
+     "views": 89218,
+     "dur": "PT20S"
+    },
+    {
+     "id": "_I-l1tiMw6k",
+     "date": "2026-10-24",
+     "title": "무시무시한 대형견 앞에서\r유혹의 몸짓을 선보이는 냥이 ㅋㅋ",
+     "views": 28802,
+     "dur": "PT23S"
+    },
+    {
+     "id": "vwCTqftR8Jo",
+     "date": "2026-10-24",
+     "title": "장난감 차가 움직이자 엄청난 반사신경을 보여준 고양이ㅋㅋ",
+     "views": 17100,
+     "dur": "PT14S"
+    },
+    {
+     "id": "azO1T5wRIf0",
+     "date": "2026-10-23",
+     "title": "먹을 것 때문에 싸우던 아기 원숭이 형제의 반전 케미ㅋㅋ",
+     "views": 6306,
+     "dur": "PT18S"
+    }
+   ]
   }
  ],
- "search_hits": [
-  {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
-  },
-  {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
-  }
- ]
+ "found": [],
+ "search_hits": []
 }
