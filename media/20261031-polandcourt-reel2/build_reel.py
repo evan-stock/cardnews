@@ -5,11 +5,11 @@ FB='assets/fonts/Pretendard-Black.otf'; FM='assets/fonts/Pretendard-Medium.otf';
 Y=(255,216,77); BY0,BH=660,720
 def top():
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
-    lg=Image.open('brand/logo_typo_A.png').convert('RGBA'); h=46; lg=lg.resize((int(lg.width*h/lg.height),h)); im.alpha_composite(lg,(70,150))
+    lg=Image.open('brand/logo_typo_A.png').convert('RGBA'); h=46; lg=lg.resize((int(lg.width*h/lg.height),h)); im.alpha_composite(lg,(70,238))
     f=ImageFont.truetype(FX,34); tag='폴란드 헌재 사태'; tw=d.textlength(tag,font=f)
-    d.rounded_rectangle((70,222,70+tw+36,274),radius=8,fill=Y); d.text((88,248),tag,font=f,fill=(0,0,0),anchor='lm')
-    f=ImageFont.truetype(FB,78); L=['좌파 친EU 총리','헌재 점거 시도','대통령 급히 귀국','쿠데타 저지 출동']
-    for i,l in enumerate(L): d.text((70,345+i*88),l,font=f,fill=Y if i==3 else (255,255,255),anchor='ls')
+    d.rounded_rectangle((70,310,70+tw+36,362),radius=8,fill=Y); d.text((88,336),tag,font=f,fill=(0,0,0),anchor='lm')
+    f=ImageFont.truetype(FB,78); L=['좌파 친EU 총리','헌재 점거 쿠데타','대통령 긴급 귀국']
+    for i,l in enumerate(L): d.text((70,433+i*88),l,font=f,fill=Y if i==2 else (255,255,255),anchor='ls')
     im.save(f'{R}/top.png')
 def cap(i,small,b1,b2):
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
