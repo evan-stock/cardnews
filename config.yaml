@@ -42,7 +42,7 @@ images:
 # 릴스: 게시 때 카드뉴스 전체를 자동으로 넘기는 9:16 영상(무음, 잘림 없음)을 만들어 텔레그램으로 보내고,
 # mode=auto 면 카드뉴스 게시 직후 릴스도 자동 업로드한다(음악은 앱에서 추가).
 reels:
-  enabled: true
+  enabled: false  # 2026.10.31 사용자 지시: 캐러셀 게시 후 카드 넘김 릴스 영상은 안 보냄 (진짜 릴스 게시물과는 무관)
   mode: telegram        # auto | telegram (telegram: 영상만 텔레그램으로 보내고 업로드는 직접)
   share_to_feed: false  # false: 릴스는 릴스 탭에만(2026.10.20 격자=캐러셀, 릴스=릴스 탭 분리 운용). 게시물별로 state에 share_to_feed: true면 격자에도
   first_card: 2.0       # 표지 노출 초
