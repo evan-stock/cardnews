@@ -1,13 +1,20 @@
-[{"id":"20261031-binance2","slot":"evening","mode":"collect","topic":"바이낸스 해킹 2편: 북한 트레이더트레이터 배후 지목","limit":30,
- "image_pages":[
-  "https://www.segye.com/newsView/20261031504891",
-  "https://www.koreatimes.com/article/11629795",
-  "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know",
-  "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
-  "https://news.bitcoin.com/security/binance-hack-north-korea-lazarus-tradertraitor/",
-  "https://en.wikipedia.org/wiki/Park_Jin_Hyok",
-  "https://en.wikipedia.org/wiki/Lazarus_Group",
-  "https://en.wikipedia.org/wiki/Kim_Jong_Un",
-  "https://en.wikipedia.org/wiki/Hwasong-19",
-  "https://en.wikipedia.org/wiki/Reconnaissance_General_Bureau"
- ],"slides":[{"t":"수집","lay":"one"}],"images":[]}]
+[
+ {
+  "id": "20261101-blocus",
+  "slot": "evening",
+  "mode": "collect",
+  "image_pages": [
+   "https://www.catalannews.com/society-science/item/tiktok-activates-specialized-task-force-after-unrest-in-barcelona",
+   "https://www.theolivepress.es/spain-news/2026/10/27/what-is-blocus-barcelona-protests/",
+   "https://www.diaridetarragona.com/catalunya/273965/blocus-plataforma-anonima-alento-protesta-violenta-barcelona.html",
+   "https://www.diaridetarragona.com/catalunya/274097/tiktok-activa-grupo-trabajo-especializado-disturbios-barcelona.html",
+   "https://en.ara.cat/society/can-the-riots-of-saturday-in-barcelona-repeat-themselves-blocus-announces-new-calls-this-weekend_1_5891820.html",
+   "https://www.que.es/2026/10/30/blocus-saqueos-halloween-barcelona/",
+   "https://www.moncloa.com/2026/10/29/disturbios-blocus-barcelona-31-octubre-3457427/",
+   "https://www.moncloa.com/2026/10/26/disturbios-barcelona-31-octubre-detenidos-3455834",
+   "https://metropoliabierta.elespanol.com/sucesos/20261030/alerta-barcelona-convocatoria-blocus-sabado-directo-comercios-blindan-posibles-ataques/1003742807609_10.html",
+   "https://www.vozpopuli.com/espana/cataluna/blocus-el-grupo-anonimo-que-alento-en-tiktok-a-replicar-las-protestas-de-francia-en-barcelona.html",
+   "https://www.aa.com.tr/en/europe/barcelona-police-on-alert-for-fresh-halloween-riots-in-spain/4102699"
+  ]
+ }
+]
