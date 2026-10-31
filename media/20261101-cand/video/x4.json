@@ -1,0 +1,12 @@
+{
+ "url": "https://x.com/calmturtie/status/2042403273936978111",
+ "id": "2042403273936978111",
+ "videos": [],
+ "errors": [
+  "from_fx: HTTP Error 404: Not Found",
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "글만/삭제됨",
+ "card": null,
+ "quote_url": null
+}
