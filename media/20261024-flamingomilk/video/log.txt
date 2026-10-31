@@ -1,2 +1,0 @@
-ERROR: [twitter] 1676230593783144449: No video could be found in this tweet
-실패: https://x.com/CincinnatiZoo/status/1676230593783144449
