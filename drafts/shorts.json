@@ -1,225 +1,207 @@
 {
- "id": "20261031-guardtoo",
+ "id": "20261101-otternap",
  "mode": "send",
  "format": "meme",
- "topic": "남편 곁에 아내가 못 오게 복도·안방 앞을 지키는 코카투 찰리 주니어(틱톡 @charliejuniorcockatoo, 영국, 2025.6.22 게시 680만 회·좋아요 83.8만, Newsweek 2025.6.24 보도 — 25살, 구조 6개월 차, 전 주인 광고에 '아들은 좋아하고 엄마는 싫어함'). 펫스파이 '~하는 ○○ㅋㅋ' 틀. 사실: Texas A&M 수의대 Pet Talk(2021.3.12, Dr. Sharman Hoppes) — 새는 주인을 짝으로 여기기도 하고, 그 사람에게 너무 가까이 오는 사람을 지키려 물기도 함.",
+ "topic": "사육사 무릎에서 낮잠 자던 작은발톱수달 핑을 깨우자 입이 찢어지게 하품하고 버티다 결국 돌아누움(틱톡 @maggaroninchees, 미국 플로리다 사육사 매기, 2026.2.4 게시, 약 1,000만 회·좋아요 190만+, Newsweek 2026.3.27 보도). 동물쑛 '~하면 안되는 이유' 틀. 사실: Woodland Park Zoo — 작은발톱수달은 수달 13종 중 가장 작고, 최소 12가지 소리를 내는 수다쟁이.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 0.8,
  "sfx_max": 4,
  "hook": {
-  "t": "남편 근처엔 못 가!\n'아내 막는 앵무새ㅋㅋ'"
+  "t": "낮잠 자는 수달\n'깨우면 안 되는 이유ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @charliejuniorcockatoo"
+  "TikTok @maggaroninchees"
  ],
  "scenes": [
   {
-   "dur": 2.6,
+   "dur": 2.8,
    "video": {
-    "src": "../20261031-evecand/video/v1.mp4",
-    "start": 0.4,
+    "src": "../20261101-cand/video/v1.mp4",
+    "start": 0.0,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 8,
+    "y": 0.45,
+    "audio": 6,
     "blur": [
      [
-      95,
-      92,
-      410,
-      170
+      155,
+      720,
+      380,
+      120
      ]
     ]
    },
    "caps": [
-    {
-     "k": "talk",
-     "t": "어딜 들어와!!",
-     "x": 0.72,
-     "y": 0.2,
-     "at": 0.05,
-     "to": 2.6,
-     "s": "shock",
-     "sv": 0.6
-    },
     {
      "k": "sfx",
-     "t": "(볏 쫙!)",
-     "x": 0.78,
-     "y": 0.55,
-     "at": 0.3,
-     "to": 2.4
-    }
-   ]
-  },
-  {
-   "say": "이 코카투, 안방 앞을 지키는 경비원입니다.",
-   "video": {
-    "src": "../20261031-evecand/video/v1.mp4",
-    "start": 2.6,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 3,
-    "blur": [
-     [
-      95,
-      92,
-      410,
-      170
-     ]
-    ]
-   },
-   "caps": []
-  },
-  {
-   "say": "아내가 남편 곁에 가는 걸 절대 허락하지 않거든요.",
-   "video": {
-    "src": "../20261031-evecand/video/v1.mp4",
-    "start": 8.4,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 3
-   },
-   "caps": []
-  },
-  {
-   "dur": 3.0,
-   "video": {
-    "src": "../20261031-evecand/video/v1.mp4",
-    "start": 23.6,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 8,
-    "blur": [
-     [
-      40,
-      148,
-      320,
-      62
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "아직도 안 갔어?",
+     "t": "(하아아아암)",
      "x": 0.3,
-     "y": 0.1,
+     "y": 0.12,
      "at": 0.1,
-     "to": 3.0,
-     "s": "question",
+     "to": 2.7,
+     "s": "boing",
      "sv": 0.7
     },
     {
-     "k": "sfx",
-     "t": "(째릿)",
-     "x": 0.2,
-     "y": 0.45,
-     "at": 0.6,
+     "k": "talk",
+     "t": "누가 깨웠냐...",
+     "x": 0.7,
+     "y": 0.62,
+     "at": 0.9,
      "to": 2.8
     }
    ]
   },
   {
-   "dur": 3.2,
+   "say": "이 수달, 사육사 무릎에서 낮잠 자다 방금 깼습니다.",
    "video": {
-    "src": "../20261031-evecand/video/v1.mp4",
-    "start": 30.4,
+    "src": "../20261101-cand/video/v1.mp4",
+    "start": 2.8,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 8
+    "y": 0.45,
+    "audio": 0.4,
+    "blur": [
+     [
+      155,
+      720,
+      380,
+      120
+     ]
+    ]
+   },
+   "caps": []
+  },
+  {
+   "dur": 2.2,
+   "video": {
+    "src": "../20261101-cand/video/v1.mp4",
+    "start": 9.0,
+    "x": 0.5,
+    "y": 0.45,
+    "audio": 5
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "(남편 독차지 중)",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.2,
-     "to": 3.2
-    },
-    {
      "k": "talk",
-     "t": "오빠는 내 거야♡",
-     "x": 0.32,
-     "y": 0.3,
-     "at": 0.4,
-     "to": 3.2,
-     "s": "heart",
+     "t": "코는 건드리지 마라",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.1,
+     "to": 2.2,
+     "s": "question",
      "sv": 0.7
     }
    ]
   },
   {
-   "say": "새는 주인을 짝으로 여기기도 해서, 가까이 오는 사람을 경계한답니다.",
+   "dur": 2.0,
    "video": {
-    "src": "../20261031-evecand/video/v1.mp4",
-    "start": 33.6,
+    "src": "../20261101-cand/video/v1.mp4",
+    "start": 11.8,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 3
+    "y": 0.45,
+    "audio": 6
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "새는 주인을 짝으로 여기고\n다가오는 사람을 막기도 한대요\n(텍사스A&M 수의대)",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.3,
-     "size": 54
+     "k": "sfx",
+     "t": "(쩌어억)",
+     "x": 0.25,
+     "y": 0.15,
+     "at": 0.2,
+     "to": 2.0
+    },
+    {
+     "k": "talk",
+     "t": "5분만 더...",
+     "x": 0.72,
+     "y": 0.2,
+     "at": 0.6,
+     "to": 2.0
     }
    ]
   },
   {
-   "dur": 2.6,
+   "say": "사육사는 이 순간이 일하면서 제일 괴롭다고 하네요.",
    "video": {
-    "src": "../20261031-evecand/video/v1.mp4",
-    "start": 45.4,
+    "src": "../20261101-cand/video/v1.mp4",
+    "start": 14.0,
     "x": 0.5,
-    "y": 0.5,
+    "y": 0.45,
+    "audio": 0.4
+   },
+   "caps": []
+  },
+  {
+   "say": "작은발톱수달은 수달 중 가장 작고, 열두 가지 넘는 소리로 말한답니다.",
+   "video": {
+    "src": "../20261101-cand/video/v1.mp4",
+    "start": 17.0,
+    "x": 0.5,
+    "y": 0.45,
+    "audio": 0.4
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "작은발톱수달은 수달 13종 중 가장 작고\n최소 12가지 소리로 대화한대요\n(우드랜드파크 동물원)",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.3,
+     "size": 50
+    }
+   ]
+  },
+  {
+   "dur": 2.4,
+   "video": {
+    "src": "../20261101-cand/video/v1.mp4",
+    "start": 20.4,
+    "x": 0.5,
+    "y": 0.45,
     "audio": 4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "또 오기만 해 봐",
-     "x": 0.55,
+     "t": "안 일어나. 끝.",
+     "x": 0.6,
      "y": 0.15,
-     "at": 0.1,
-     "to": 2.6,
-     "s": "pop",
-     "sv": 0.8
+     "at": 0.6,
+     "to": 2.4,
+     "s": "fail",
+     "sv": 0.6
     }
    ]
   }
  ],
  "sources": [
   {
-   "publisher": "TikTok @charliejuniorcockatoo",
-   "url": "https://www.tiktok.com/@charliejuniorcockatoo/video/7518676610396998934",
-   "date": "2025-06-22"
+   "publisher": "TikTok @maggaroninchees",
+   "url": "https://www.tiktok.com/@maggaroninchees/video/7603160151675112718",
+   "date": "2026-02-04"
   },
   {
-   "publisher": "Newsweek - Woman Adopts 'Evil' Cockatoo, Now He's Causing Problems in Her Marriage",
-   "url": "https://www.newsweek.com/cockatoo-will-not-let-woman-near-husband-tiktok-2089858",
-   "date": "2025-06-24"
+   "publisher": "Newsweek - Otter's Relationship With Sanctuary Keeper Melts Hearts",
+   "url": "https://www.newsweek.com/otters-relationship-sanctuary-keeper-melts-hearts-11734479",
+   "date": "2026-03-27"
   },
   {
-   "publisher": "Texas A&M VMBS Pet Talk - Social Behaviors Of Birds, Part 1",
-   "url": "https://vetmed.tamu.edu/news/pet-talk/social-birds-part-1/",
-   "date": "2021-03-12"
+   "publisher": "Woodland Park Zoo Blog - Welcome little Sotong, an Asian small-clawed otter",
+   "url": "https://blog.zoo.org/2022/02/welcome-little-sotong-asian-small.html",
+   "date": "2022-02"
   }
  ],
  "yt": {
-  "title": "아내는 남편 근처에도 못 가게 막는 앵무새ㅋㅋ #shorts",
-  "description": "볏 쫙 세우고 문 앞을 지키는 코카투 찰리ㅋㅋ 아내가 남편 곁에 가려고만 하면 이렇게 막아선대요. 정작 남편한테는 딱 붙어서 애교 폭발.\n\n새는 주인을 짝처럼 여기기도 해서, 그 사람에게 너무 가까이 오는 사람을 지키려고 물기도 한대요.\n\n여러분 반려동물도 집에서 좋아하는 사람이 따로 있나요?\n\n영상: TikTok @charliejuniorcockatoo\n참고: Newsweek, Texas A&M 수의대 Pet Talk\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "낮잠 자는 수달 깨우면 안 되는 이유ㅋㅋ #shorts",
+  "description": "사육사 무릎에서 꿀잠 자던 수달 핑ㅋㅋ 깨우자마자 입이 찢어지게 하품하고, 끝까지 안 일어나고 버팁니다.\n\n작은발톱수달은 수달 13종 중 가장 작고, 최소 12가지 소리로 대화하는 수다쟁이래요.\n\n여러분 반려동물도 깨우면 이런 표정 짓나요?\n\n영상: TikTok @maggaroninchees\n참고: Newsweek, Woodland Park Zoo\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "앵무새",
-   "코카투",
-   "질투",
-   "앵무새반응",
-   "웃긴앵무새",
-   "반려조",
+   "수달",
+   "작은발톱수달",
+   "낮잠",
+   "하품",
+   "귀여운동물",
+   "동물원",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
