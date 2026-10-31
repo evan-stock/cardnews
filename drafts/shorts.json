@@ -1,237 +1,225 @@
 {
- "id": "20261031-donkeylove",
+ "id": "20261031-guardtoo",
  "mode": "send",
  "format": "meme",
- "topic": "담 너머 당나귀 두 마리에게 매일 코인사하러 가는 로트와일러 로키(틱톡 @rachelizabethx, 아일랜드, Newsweek 2024.1.25 보도 '심각한 당나귀 집착'). 동물쑛 '이상형 ○○ 만나면 일어나는 일' 틀. 사실: The Donkey Sanctuary — 당나귀는 영역 본능 때문에 개·고양이 같은 작은 동물을 쫓거나 공격하기도 함. 원본 소리 중 사람 말소리 구간은 끔.",
+ "topic": "남편 곁에 아내가 못 오게 복도·안방 앞을 지키는 코카투 찰리 주니어(틱톡 @charliejuniorcockatoo, 영국, 2025.6.22 게시 680만 회·좋아요 83.8만, Newsweek 2025.6.24 보도 — 25살, 구조 6개월 차, 전 주인 광고에 '아들은 좋아하고 엄마는 싫어함'). 펫스파이 '~하는 ○○ㅋㅋ' 틀. 사실: Texas A&M 수의대 Pet Talk(2021.3.12, Dr. Sharman Hoppes) — 새는 주인을 짝으로 여기기도 하고, 그 사람에게 너무 가까이 오는 사람을 지키려 물기도 함.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 1.0,
+ "bgm_volume": 0.8,
  "sfx_max": 4,
  "hook": {
-  "t": "이상형 당나귀 만나면\n'일어나는 일ㅋㅋ'"
+  "t": "남편 근처엔 못 가!\n'아내 막는 앵무새ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @rachelizabethx"
+  "TikTok @charliejuniorcockatoo"
  ],
  "scenes": [
   {
    "dur": 2.6,
    "video": {
-    "src": "../20261031-cand13/video/v1.mp4",
-    "start": 0.2,
+    "src": "../20261031-evecand/video/v1.mp4",
+    "start": 0.4,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0,
+    "audio": 8,
     "blur": [
      [
-      70,
-      100,
-      436,
-      95
+      95,
+      92,
+      410,
+      170
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "저기요...\n혹시 시간 되세요?",
-     "x": 0.6,
+     "t": "어딜 들어와!!",
+     "x": 0.72,
      "y": 0.2,
      "at": 0.05,
      "to": 2.6,
-     "s": "heart",
-     "sv": 0.7
+     "s": "shock",
+     "sv": 0.6
     },
     {
      "k": "sfx",
-     "t": "(쭈욱)",
-     "x": 0.75,
-     "y": 0.62,
-     "at": 0.5,
+     "t": "(볏 쫙!)",
+     "x": 0.78,
+     "y": 0.55,
+     "at": 0.3,
      "to": 2.4
     }
    ]
   },
   {
-   "say": "이 로트와일러, 담 너머 당나귀에게 단단히 반했습니다.",
+   "say": "이 코카투, 안방 앞을 지키는 경비원입니다.",
    "video": {
-    "src": "../20261031-cand13/video/v1.mp4",
-    "start": 2.7,
+    "src": "../20261031-evecand/video/v1.mp4",
+    "start": 2.6,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0,
+    "audio": 3,
     "blur": [
      [
-      115,
-      790,
-      346,
-      90
+      95,
+      92,
+      410,
+      170
      ]
     ]
+   },
+   "caps": []
+  },
+  {
+   "say": "아내가 남편 곁에 가는 걸 절대 허락하지 않거든요.",
+   "video": {
+    "src": "../20261031-evecand/video/v1.mp4",
+    "start": 8.4,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 3
    },
    "caps": []
   },
   {
    "dur": 3.0,
    "video": {
-    "src": "../20261031-cand13/video/v1.mp4",
-    "start": 7.1,
+    "src": "../20261031-evecand/video/v1.mp4",
+    "start": 23.6,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0.8,
+    "audio": 8,
     "blur": [
      [
-      115,
-      790,
-      346,
-      90
+      40,
+      148,
+      320,
+      62
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "얘 또 왔네...",
-     "x": 0.28,
-     "y": 0.27,
+     "t": "아직도 안 갔어?",
+     "x": 0.3,
+     "y": 0.1,
      "at": 0.1,
-     "to": 1.6
-    },
-    {
-     "k": "talk",
-     "t": "둘 다 내 스타일♡",
-     "x": 0.68,
-     "y": 0.33,
-     "at": 1.4,
      "to": 3.0,
-     "s": "sparkle",
-     "sv": 0.6
+     "s": "question",
+     "sv": 0.7
     },
     {
      "k": "sfx",
-     "t": "(킁킁)",
-     "x": 0.72,
-     "y": 0.6,
-     "at": 0.4,
+     "t": "(째릿)",
+     "x": 0.2,
+     "y": 0.45,
+     "at": 0.6,
      "to": 2.8
     }
    ]
   },
   {
-   "say": "주인 말로는 하루도 빠짐없이 이렇게 인사하러 온다고 합니다.",
+   "dur": 3.2,
    "video": {
-    "src": "../20261031-cand13/video/v1.mp4",
-    "start": 9.0,
+    "src": "../20261031-evecand/video/v1.mp4",
+    "start": 30.4,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0,
-    "blur": [
-     [
-      115,
-      790,
-      346,
-      90
-     ]
-    ]
-   },
-   "caps": []
-  },
-  {
-   "say": "원래 당나귀는 개를 쫓아내기도 한다는데, 이 둘은 예외인가 봅니다.",
-   "video": {
-    "src": "../20261031-cand13/video/v1.mp4",
-    "start": 3.6,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
-    "boomerang": true,
-    "blur": [
-     [
-      115,
-      790,
-      346,
-      90
-     ]
-    ]
+    "audio": 8
    },
    "caps": [
     {
      "k": "desc",
-     "t": "당나귀는 영역 본능이 강해\n개도 쫓아내곤 한대요\n(The Donkey Sanctuary)",
+     "t": "(남편 독차지 중)",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.2,
+     "to": 3.2
+    },
+    {
+     "k": "talk",
+     "t": "오빠는 내 거야♡",
+     "x": 0.32,
+     "y": 0.3,
+     "at": 0.4,
+     "to": 3.2,
+     "s": "heart",
+     "sv": 0.7
+    }
+   ]
+  },
+  {
+   "say": "새는 주인을 짝으로 여기기도 해서, 가까이 오는 사람을 경계한답니다.",
+   "video": {
+    "src": "../20261031-evecand/video/v1.mp4",
+    "start": 33.6,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 3
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "새는 주인을 짝으로 여기고\n다가오는 사람을 막기도 한대요\n(텍사스A&M 수의대)",
      "x": 0.5,
      "y": 0.12,
      "at": 0.3,
-     "size": 56
+     "size": 54
     }
    ]
   },
   {
    "dur": 2.6,
    "video": {
-    "src": "../20261031-cand13/video/v1.mp4",
-    "start": 11.9,
+    "src": "../20261031-evecand/video/v1.mp4",
+    "start": 45.4,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0,
-    "boomerang": true,
-    "blur": [
-     [
-      115,
-      790,
-      346,
-      90
-     ]
-    ]
+    "audio": 4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "내일 또 올게♡",
-     "x": 0.6,
-     "y": 0.3,
+     "t": "또 오기만 해 봐",
+     "x": 0.55,
+     "y": 0.15,
      "at": 0.1,
      "to": 2.6,
      "s": "pop",
      "sv": 0.8
-    },
-    {
-     "k": "sfx",
-     "t": "(쪽)",
-     "x": 0.55,
-     "y": 0.6,
-     "at": 0.6,
-     "to": 2.2
     }
    ]
   }
  ],
  "sources": [
   {
-   "publisher": "TikTok @rachelizabethx",
-   "url": "https://www.tiktok.com/@rachelizabethx/video/7322226113428720929",
-   "date": "2024-01"
+   "publisher": "TikTok @charliejuniorcockatoo",
+   "url": "https://www.tiktok.com/@charliejuniorcockatoo/video/7518676610396998934",
+   "date": "2025-06-22"
   },
   {
-   "publisher": "Newsweek - Hysterics at Rottweiler with a 'serious donkey obsession'",
-   "url": "https://www.newsweek.com/hysterics-rottweiler-serious-donkey-obsession-1863505",
-   "date": "2024-01-25"
+   "publisher": "Newsweek - Woman Adopts 'Evil' Cockatoo, Now He's Causing Problems in Her Marriage",
+   "url": "https://www.newsweek.com/cockatoo-will-not-let-woman-near-husband-tiktok-2089858",
+   "date": "2025-06-24"
   },
   {
-   "publisher": "The Donkey Sanctuary - Keeping donkeys with other animals",
-   "url": "https://thedonkeysanctuary.org.uk/for-owners/owners-resources/keeping-donkeys-with-other-animals",
-   "date": ""
+   "publisher": "Texas A&M VMBS Pet Talk - Social Behaviors Of Birds, Part 1",
+   "url": "https://vetmed.tamu.edu/news/pet-talk/social-birds-part-1/",
+   "date": "2021-03-12"
   }
  ],
  "yt": {
-  "title": "이상형 당나귀 만나면 일어나는 일ㅋㅋ #shorts",
-  "description": "담 너머 당나귀 두 마리한테 단단히 반한 로트와일러 로키ㅋㅋ 주인 말로는 하루도 빠짐없이 코인사하러 간대요.\n\n당나귀는 영역 본능이 강해서 개나 고양이 같은 작은 동물을 쫓거나 공격하기도 한대요. 그래서 처음 만날 땐 꼭 조심해야 한다는데, 이 둘은 예외인가 봐요.\n\n여러분 강아지도 이상형이 따로 있나요?\n\n영상: TikTok @rachelizabethx\n참고: Newsweek, The Donkey Sanctuary\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "아내는 남편 근처에도 못 가게 막는 앵무새ㅋㅋ #shorts",
+  "description": "볏 쫙 세우고 문 앞을 지키는 코카투 찰리ㅋㅋ 아내가 남편 곁에 가려고만 하면 이렇게 막아선대요. 정작 남편한테는 딱 붙어서 애교 폭발.\n\n새는 주인을 짝처럼 여기기도 해서, 그 사람에게 너무 가까이 오는 사람을 지키려고 물기도 한대요.\n\n여러분 반려동물도 집에서 좋아하는 사람이 따로 있나요?\n\n영상: TikTok @charliejuniorcockatoo\n참고: Newsweek, Texas A&M 수의대 Pet Talk\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "강아지",
-   "로트와일러",
-   "당나귀",
-   "이상형",
-   "강아지반응",
-   "웃긴강아지",
+   "앵무새",
+   "코카투",
+   "질투",
+   "앵무새반응",
+   "웃긴앵무새",
+   "반려조",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
