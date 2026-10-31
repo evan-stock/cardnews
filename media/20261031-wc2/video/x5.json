@@ -1,0 +1,22 @@
+{
+ "src": "fxtwitter",
+ "author": "ABC",
+ "name": "ABC News",
+ "date": "Wed Jan 30 00:14:08 +0000 2019",
+ "text": "It’s so cold in Chicago, crews had to set fire to commuter rail tracks to keep the trains moving smoothly. https://abcn.ws/2DHw8Du",
+ "views": null,
+ "likes": 9892,
+ "retweets": 5840,
+ "quote": null,
+ "url": "https://x.com/ABC/status/1090402748808421376",
+ "id": "1090402748808421376",
+ "videos": [
+  {
+   "url": "https://video.twimg.com/ext_tw_video/1090402539541917696/pu/vid/720x720/beeMwOD_PLPiZrSP.mp4?tag=6",
+   "w": 720,
+   "h": 720,
+   "dur": 22.589
+  }
+ ],
+ "errors": []
+}
