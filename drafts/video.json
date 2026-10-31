@@ -1,3 +1,6 @@
-{"id": "20261031-wa3", "frames": 0, "args": "--write-info-json", "format": "bv*[height<=1920]+ba/b", "urls": [
-"https://www.tiktok.com/@peachie.peach21/video/7598604024182476046"
+{"id": "20261031-wa4", "frames": 0, "args": "--write-info-json", "urls": [
+"https://x.com/FOX4/status/1893141197310288050",
+"https://x.com/WTHRcom/status/2017428664510521661",
+"https://x.com/QUChronicle/status/1884792730645111285",
+"https://x.com/TheBloggess/status/1606378400440061971"
 ]}
