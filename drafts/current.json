@@ -1,25 +1,39 @@
 [
  {
-  "id": "20261031-polandcourt",
+  "id": "20261031-polandcourt-c2",
   "slot": "evening",
   "mode": "collect",
-  "topic": "폴란드 헌법재판소 소장 직무정지·경찰 배치, 대통령 세네갈행 회항, '쿠데타' 공방",
+  "topic": "폴란드 헌재 표지 사진 추가 수집",
   "limit": 30,
+  "image_urls": [
+   "https://pbs.twimg.com/media/HV5bD-KXYAAFyGs?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HV5F0N8WYAACbEO?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HV5J5c2XkAAdB5w?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HV5Mq1kW8AA118O?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HV7IcGRXwAAPwAf?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HV5Z1g0WoAISsnw?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HV5mxcxXUAA4TtC?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HV6OFJ7WcAA5mNC?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HV6DRcoXEAAB9qd?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HV5pK67X0AAJwqV?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HV64wK1WUAAcSmz?format=jpg&name=large"
+  ],
+  "referer": "https://x.com/",
   "image_pages": [
    "https://notesfrompoland.com/2026/10/30/chaos-at-polands-constitutional-court-as-government-backed-judges-seek-to-oust-chief-justice/",
-   "https://www.sbhnews.com/news/poland-constitutional-crisis-accusations-coup-police-2026-10-31-AM-07-37",
-   "https://greekcitytimes.com/2026/10/31/poland-constitutional-crisis/",
-   "https://sfg.media/en/a/poland-constitutional-tribunal-leadership-dispute",
-   "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court",
-   "https://www.washingtonexaminer.com/news/world/4786243/karol-nawrocki-poland-coup-d-etat-donald-tusk/",
-   "https://aroundprague.cz/en/news/world/poland-constitutional-tribunal-police-nawrocki-tusk",
-   "https://www.yahoo.com/news/politics/articles/poland-court-suspensions-spark-protests-001930142.html",
-   "https://hotair.com/tree-hugging-sister/2026/10/30/holy-smokes-looks-like-poland-might-be-in-the-middle-of-a-tusk-orchestrated-coup-n3820528",
-   "https://en.wikipedia.org/wiki/Karol_Nawrocki",
-   "https://en.wikipedia.org/wiki/Donald_Tusk",
-   "https://en.wikipedia.org/wiki/Bogdan_%C5%9Awi%C4%99czkowski"
+   "https://www.rmf24.pl/fakty/polska",
+   "https://tvn24.pl/polska",
+   "https://www.polsatnews.pl/",
+   "https://wpolityce.pl/",
+   "https://www.reuters.com/world/europe/",
+   "https://apnews.com/hub/poland"
   ],
-  "slides": [{"t": "수집", "lay": "one"}],
+  "slides": [
+   {
+    "t": "수집",
+    "lay": "one"
+   }
+  ],
   "images": []
  }
 ]
