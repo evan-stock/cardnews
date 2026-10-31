@@ -1,0 +1,22 @@
+{
+ "src": "fxtwitter",
+ "author": "FoxNews",
+ "name": "Fox News",
+ "date": "Fri Jan 30 11:04:42 +0000 2026",
+ "text": "SLIPPERY SLOPE: A vehicle spins multiple times after the driver loses control on a road blanketed in ice.",
+ "views": 176607,
+ "likes": 565,
+ "retweets": 104,
+ "quote": null,
+ "url": "https://x.com/FoxNews/status/2017192242839015764",
+ "id": "2017192242839015764",
+ "videos": [
+  {
+   "url": "https://video.twimg.com/amplify_video/2017191367521230848/vid/avc1/1080x1920/ZvORFkAPRdlliswc.mp4?tag=21",
+   "w": 1080,
+   "h": 1920,
+   "dur": 11.533
+  }
+ ],
+ "errors": []
+}

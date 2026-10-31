@@ -1,0 +1,26 @@
+ERROR: [twitter] 1777619297054941193: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+받음 v2.mp4 1936KB (fxtwitter)
+ERROR: [twitter] 2016666376044167264: No video could be found in this tweet
+받음 v4.mp4 3552KB (fxtwitter)
+ERROR: [twitter] 2017236398353301942: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+영상 없는 글(글만/삭제됨): https://x.com/13abc/status/2017236398353301942
+실패: https://x.com/13abc/status/2017236398353301942
+ERROR: [twitter] 1864629880429629744: Video #1 is unavailable
+영상 없는 글(글만/삭제됨): https://x.com/sciencegirl/status/1864645195595231586
+실패: https://x.com/sciencegirl/status/1864645195595231586
+total 21188
+drwxr-xr-x 2 runner runner    4096 Oct 31 00:27 .
+drwxr-xr-x 3 runner runner    4096 Oct 31 00:27 ..
+-rw-r--r-- 1 runner runner     966 Oct 31 00:27 log.txt
+-rw-r--r-- 1 runner runner 5907996 Oct 31 00:27 v1.mp4
+-rw-r--r-- 1 runner runner 1982858 Oct 31 00:27 v2.mp4
+-rw-r--r-- 1 runner runner 3558859 Oct 31 00:27 v3.mp4
+-rw-r--r-- 1 runner runner 3637281 Oct 31 00:27 v4.mp4
+-rw-r--r-- 1 runner runner 6554661 Oct 31 00:27 v7.mp4
+-rw-r--r-- 1 runner runner     617 Oct 31 00:27 x1.json
+-rw-r--r-- 1 runner runner     554 Oct 31 00:27 x2.json
+-rw-r--r-- 1 runner runner     563 Oct 31 00:27 x3.json
+-rw-r--r-- 1 runner runner    1182 Oct 31 00:27 x4.json
+-rw-r--r-- 1 runner runner     688 Oct 31 00:27 x5.json
+-rw-r--r-- 1 runner runner     529 Oct 31 00:27 x6.json
+-rw-r--r-- 1 runner runner     587 Oct 31 00:27 x7.json
