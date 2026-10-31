@@ -1,0 +1,117 @@
+{
+ "id": "20261031-horseclip",
+ "media": "media/20261031-horseclip",
+ "topic": "겨울을 앞두고 말의 두꺼운 겨울털을 바리깡으로 싹 미는(클리핑) 이유 — 운동하는 말은 땀을 많이 흘리는데, 긴 겨울털은 젖으면 잘 마르지 않아 땀이 식으며 몸이 차가워지고 아플 수 있다. 그래서 털을 밀어 빨리 마르게 하고, 대신 담요를 입힌다(독일 설문: 깎는 말 88%가 겨울 직전·겨울에 깎고, 90% 넘게 밤낮 담요). 무늬는 어차피 깎는 김에 하는 재미.",
+ "hook": {
+  "t": "추운데 말 털을\n'싹' 미는 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: TikTok @equitality(2021.10)·@clipper.queen(2022.9)",
+ "bgm": {
+  "file": "assets/bgm/worthy/how_it_began.mp3",
+  "start": 14.5,
+  "vol": 0.56
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @equitality https://www.tiktok.com/@equitality/video/7024168031525948677 (2021.10.28, 조회 1,420만·좋아요 140만 — 10.31 media/20261031-wb1/video/v1.info.json 확인). 원본 영어 자막 구간은 크롭으로 가림.",
+  "영상: TikTok @clipper.queen https://www.tiktok.com/@clipper.queen/video/7140674334447766790 (2022.9.7, 조회 170만·좋아요 6.3만 — v3.info.json 확인). 크롭 가공."
+ ],
+ "sources": [
+  {
+   "publisher": "Ranvet 'Clipping horses in winter' — 깎은 말은 운동 뒤 빨리 식고 마름, 오래 식으며 생기는 '식은땀'을 줄임, 많이 깎을수록 담요·관리 필요",
+   "url": "https://www.ranvet.com.au/clipping-horses-in-winter/"
+  },
+  {
+   "publisher": "Mad Barn 연구 요약 — 2018 독일 말 주인 설문(J. Applied Animal Welfare Science): 깎는 말 88%가 겨울 직전·겨울에, 시기는 털 길이·땀 양·마르는 시간 기준, 90% 넘게 밤낮 담요",
+   "url": "https://madbarn.com/research/coat-clipping-of-horses-a-survey"
+  },
+  {
+   "publisher": "TikTok @equitality 원본 설명 — '운동하면 땀을 많이 흘리고 긴 털은 추울 때 빨리 안 말라서, 아프지 않게 깎는다. 깎은 뒤엔 늘 담요를 입힌다'",
+   "url": "https://www.tiktok.com/@equitality/video/7024168031525948677"
+  }
+ ],
+ "_note": "클립은 media/20261031-wb1/video/v1.mp4(576x1024, 위쪽 영어 자막 피해 y 240~ 크롭)·v3.mp4 에서 ffmpeg 로 미리 만든 1080x780(-an). C=v1 20.0~22.7 crop 500x362+40+360(2.16배), B=v1 17.5~19.3 crop 480x346+96+240 0.7배 슬로, G=v1 44.8~47.6 털 더미, E=v1 3.2~5.85, F=v3 5.5~8.15, D=v1 23.2~25.85, H=v1 25.4~26.95 crop 520x376+56+300 0.6배 슬로(단풍잎 드러남), I=v3 22.0~24.7(하트). 원본 첫 장면의 배트맨 로고 스텐실은 상표라 안 씀.",
+ "scenes": [
+  {
+   "text": "겨울 코앞인데 털을 '뭉텅' 민다",
+   "video": {
+    "src": "video/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "엉덩이엔 '단풍잎' 무늬까지 남긴다",
+   "video": {
+    "src": "video/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "이 추위에 얼어 죽으라는 걸까?",
+   "video": {
+    "src": "video/G.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "알고 보니 정반대, '감기' 걸리지 말라고",
+   "video": {
+    "src": "video/E.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "말은 달리면 땀을 '줄줄' 흘리는데",
+   "video": {
+    "src": "video/F.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "긴 겨울털은 젖으면 안 말라 몸이 '꽁꽁'",
+   "video": {
+    "src": "video/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "그래서 털을 밀고 '담요'를 입힌다",
+   "video": {
+    "src": "video/H.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "무늬는 덤! 이런 쓸모 더 알고 싶으면 구독",
+   "video": {
+    "src": "video/I.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.7
+  }
+ ]
+}
