@@ -1,0 +1,116 @@
+{
+ "id": "20261031-babynap",
+ "media": "media/20261031-babynap",
+ "topic": "북유럽(노르웨이·스웨덴·핀란드·덴마크)에서 영하의 겨울에도 아기를 유모차에 태워 밖에서 낮잠 재우는 이유 — 학대처럼 보이지만 오래된 육아 전통으로, 핀란드 오울루대 Tourula 연구에서 부모들은 바깥 낮잠이 보통 1.5~3시간(실내 1~2시간)으로 더 길다고 답했다. 털옷·침낭으로 꽁꽁 싸고 모니터로 살피며, 덴마크 보건당국 등은 영하 10도 밑이면 안으로 들이라고 권한다.",
+ "hook": {
+  "t": "영하 눈밭에 아기를\n'혼자' 재우는 이유ㄷㄷ"
+ },
+ "credit": "영상: TikTok @life_on_svalbard(2026.2, 노르웨이 스발바르)",
+ "bgm": {
+  "file": "assets/bgm/worthy/the_awakening.mp3",
+  "start": 30.0,
+  "vol": 0.38
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @life_on_svalbard https://www.tiktok.com/@life_on_svalbard/video/7605704433829285142 (2026.2.11, 조회 860만·좋아요 62.5만 — 10.31 media/20261031-wc2/video/v7.info.json 확인, 엄마 본인 영상). 원본 영어 자막·댓글 스티커 구간은 크롭으로 가림, 밝기 보정."
+ ],
+ "sources": [
+  {
+   "publisher": "Galaxus 'Where babies are left to nap outdoors in sub-zero temperatures' — 핀란드 오울루대 Marjo Tourula 연구: 실내 낮잠 보통 1~2시간, 바깥 1.5~3시간(부모 응답), 적정 약 영하 5도, 덴마크 보건당국 '영하 10도 밑이면 안으로'",
+   "url": "https://www.galaxus.fr/en/page/where-babies-are-left-to-nap-outdoors-in-sub-zero-temperatures-31257"
+  },
+  {
+   "publisher": "The Local Norway 2024.10.21 'Why do Norwegians leave their babies outside?' — 2008 연구: 바깥에서 더 오래 잠, 영하 10도 밑이면 저체온 위험(NRK 의사), 털옷·방한 유모차·모니터",
+   "url": "https://www.thelocal.no/20241021/why-do-norwegians-leave-their-babies-outside"
+  },
+  {
+   "publisher": "Business Insider — 북유럽 바깥 낮잠은 흔한 관습, 어린이집 바깥 낮잠 공간, 전문가: 감독(지켜보기)이 핵심",
+   "url": "https://businessinsider.nl/parents-in-nordic-countries-have-their-babies-nap-outside-in-subzero-temperatures-so-they-sleep-longer-and-better"
+  }
+ ],
+ "_note": "클립은 media/20261031-wc2/video/v7.mp4(576x1024, 영어 자막 72~78% 높이·0~6초 댓글 스티커 18~30%)에서 ffmpeg 로 미리 만든 1080x780(-an, eq gamma 1.22 밝기 보정). B=9.15~10.9 crop 520x376+28+210 0.7배 슬로 + 1→1.15배 천천히 줌인(눈 덮인 유모차), A=6.95~8.75 crop 480x347+48+250 0.75배(자는 아기 얼굴), G=31.0~33.6 crop 576x416+0+290(북극 설원 유모차), C=11.9~13.9 crop 576x416+0+260 0.8배(눈 쌓인 덮개), D=15.0~16.8 crop 480x347+48+290 0.8배(덮개 아래 아기), F=26.4~28.9 crop 524x378+26+330, M=23.9~25.6 crop 576x416+0+250 0.8배(모니터), H=37.0~40.2 crop 576x416+0+40(엄마가 아기 안아 올림).",
+ "scenes": [
+  {
+   "text": "눈 덮인 유모차, 안을 열어 보니",
+   "video": {
+    "src": "video/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "영하의 밤, 아기가 '혼자' 자고 있다",
+   "video": {
+    "src": "video/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "여긴 북극곰도 사는 노르웨이 '스발바르'",
+   "video": {
+    "src": "video/G.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "학대라며 '신고하라'는 댓글까지 달렸다",
+   "video": {
+    "src": "video/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "그런데 북유럽에선 '일부러' 밖에서 재운다",
+   "video": {
+    "src": "video/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.25
+  },
+  {
+   "text": "찬 공기 속에서 '훨씬 오래' 자기 때문",
+   "video": {
+    "src": "video/F.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "집 안 1~2시간, 밖에선 '1.5~3시간' 잔다",
+   "video": {
+    "src": "video/M.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.1
+  },
+  {
+   "text": "영하 10도 밑이면 안으로, 이런 쓸모 더 보려면 구독",
+   "video": {
+    "src": "video/H.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.2
+  }
+ ]
+}
