@@ -10,14 +10,15 @@ def spaced(d,xy,t,f,fill,sp):
     x,y=xy
     for ch in t: d.text((x,y),ch,font=f,fill=fill); x+=d.textlength(ch,font=f)+sp
 def base(tag,t1,t2):
-    im=Image.new('RGBA',(1080,1920),BG+(255,)); d=ImageDraw.Draw(im)
+    im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
     lg=Image.open('brand/logo_typo_A.png').convert('RGBA'); lg=lg.resize((int(lg.width*46/lg.height),46)); im.alpha_composite(lg,(70,112))
     f=F('SemiBold',30); tw=d.textlength(tag,font=f)-0.5*len(tag)
     d.rounded_rectangle((70,186,70+tw+40,186+52),radius=26,outline=Y,width=2); spaced(d,(90,192),tag,f,Y,-0.5)
-    f=F('Black',96); spaced(d,(68,262),t1,f,(255,255,255),-3); spaced(d,(68,372),t2,f,Y,-3)
+    f=F('Black',96); spaced(d,(68,252),t1,f,(255,255,255),-3); spaced(d,(68,362),t2,f,Y,-3)
     # 패널 자리 투명(영상이 비치게) + 둥근 모서리
-    m=Image.new('L',(1080,1920),0); ImageDraw.Draw(m).rounded_rectangle((PX,PY,PX+PW,PY+PH),radius=30,fill=255)
-    a=im.split()[3]; a.paste(0,mask=m); im.putalpha(a); im.save(f'{R}/base.png')
+    d.rounded_rectangle((PX-1,PY-1,PX+PW+1,PY+PH+1),radius=31,outline=(255,255,255,20),width=2)
+    im.save(f'{R}/base.png')
+    m=Image.new('RGBA',(PW,PH),(0,0,0,0)); ImageDraw.Draw(m).rounded_rectangle((0,0,PW-1,PH-1),radius=30,fill=(255,255,255,255)); m.save(f'{R}/mask.png')
 def cap(i,ctx,l1,l2,credit):
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
     if credit:
@@ -30,12 +31,14 @@ def build(spec):
     for k,sc in enumerate(spec['scenes']):
         inp=['-ss',str(sc['ss']),'-t',str(sc['dur']),'-i',sc['src'],'-i',f'{R}/base.png']
         crop=sc.get('crop','iw:ih:0:0')
-        fc=(f"color=c=0x0a0b0d:s=1080x1920:d={sc['dur']}:r=30[bg];[0:v]crop={crop},scale={PW}:{PH}:force_original_aspect_ratio=increase,crop={PW}:{PH},setsar=1[p];"
-            f"[bg][p]overlay={PX}:{PY}:shortest=1[b0];[b0][1:v]overlay[b1]")
+        inp+=['-i',f'{R}/mask.png']
+        fc=(f"[0:v]crop={crop},split[a1][a2];[a1]scale=1200:2134:force_original_aspect_ratio=increase,crop=1200:2134,gblur=sigma=38,eq=saturation=0.9,colorchannelmixer=rr=.32:gg=.32:bb=.32,crop=1080:1920,setsar=1[bg];"
+            f"[a2]scale={PW}:{PH}:force_original_aspect_ratio=increase,crop={PW}:{PH},setsar=1,format=rgba[p0];[p0][2:v]alphamerge[p];"
+            f"[bg][p]overlay={PX}:{PY}[b0];[b0][1:v]overlay[b1]")
         last='b1'
         for j,c in enumerate(sc['caps']):
             cap(ci,c[2],c[3],c[4],sc.get('credit','')); inp+=['-i',f'{R}/cap{ci}.png']
-            fc+=f";[{last}][{2+j}:v]overlay=enable='between(t,{c[0]},{c[1]})'[c{j}]"; last=f'c{j}'; ci+=1
+            fc+=f";[{last}][{3+j}:v]overlay=enable='between(t,{c[0]},{c[1]})'[c{j}]"; last=f'c{j}'; ci+=1
         out=f'{R}/s{k}.mp4'
         subprocess.run(['ffmpeg','-v','error','-y',*inp,'-filter_complex',fc,'-map',f'[{last}]','-map','0:a?','-r','30','-c:v','libx264','-preset','veryfast','-crf','20','-pix_fmt','yuv420p','-c:a','aac','-ar','44100','-ac','2','-b:a','160k',out],check=True)
         segs.append(out)
