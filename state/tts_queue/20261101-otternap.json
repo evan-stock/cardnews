@@ -1,0 +1,51 @@
+{
+ "id": "20261101-otternap",
+ "created": "2026-11-01T08:37:55.049008+09:00",
+ "items": [
+  {
+   "key": "d6f17a94cba3",
+   "text": "이 수달, 사육사 무릎에서 낮잠 자다 방금 깼습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "3b1505125e96",
+   "text": "사육사는 이 순간이 일하면서 제일 괴롭다고 하네요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "작은발톱수달은 수달 중 가장 작고, 열두 가지 넘는 소리로 말한답니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "6d6ad45e618d",
+   "text": "작은발톱수달은 수달 중 가장 작고, 열두 가지 넘는 소리로 말한답니다.",
+   "ctx": {
+    "previous_text": "사육사는 이 순간이 일하면서 제일 괴롭다고 하네요.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
