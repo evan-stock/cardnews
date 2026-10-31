@@ -1,0 +1,22 @@
+{
+ "src": "fxtwitter",
+ "author": "AlexWallasch",
+ "name": "Alexander Wallasch",
+ "date": "Sat Oct 31 16:52:44 +0000 2026",
+ "text": "Berlin jetzt ausser Kontrolle",
+ "views": 35326,
+ "likes": 588,
+ "retweets": 124,
+ "quote": null,
+ "url": "https://x.com/alexwallasch/status/2116574101968240789",
+ "id": "2116574101968240789",
+ "videos": [
+  {
+   "url": "https://video.twimg.com/amplify_video/2116574043117649920/vid/avc1/1024x576/KlKcQ3wK3JVXPXt7.mp4?tag=29",
+   "w": 1024,
+   "h": 576,
+   "dur": 45.345
+  }
+ ],
+ "errors": []
+}
