@@ -1,7 +1,1 @@
-장면 1/6 silent 누적 2.6초
-장면 2/6 typecast 누적 6.1초
-장면 3/6 silent 누적 9.1초
-장면 4/6 typecast 누적 12.6초
-장면 5/6 typecast 누적 17.2초
-장면 6/6 silent 누적 19.8초
-완성: /home/runner/work/cardnews/cardnews/media/20261031-donkeylove/short.mp4 (19.8초, TTS ['silent', 'typecast'])
+⏳ 3개 장면 목소리를 맥북에서 만드는 중

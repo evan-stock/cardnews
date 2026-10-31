@@ -1,0 +1,51 @@
+{
+ "id": "20261031-guardtoo",
+ "created": "2026-10-31T18:28:16.048478+09:00",
+ "items": [
+  {
+   "key": "65949f778bb6",
+   "text": "이 코카투, 안방 앞을 지키는 경비원입니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "아내가 남편 곁에 가는 걸 절대 허락하지 않거든요."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "0dd9b452d8e1",
+   "text": "아내가 남편 곁에 가는 걸 절대 허락하지 않거든요.",
+   "ctx": {
+    "previous_text": "이 코카투, 안방 앞을 지키는 경비원입니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "ca239c7f2e55",
+   "text": "새는 주인을 짝으로 여기기도 해서, 가까이 오는 사람을 경계한답니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
