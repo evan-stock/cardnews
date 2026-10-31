@@ -1,0 +1,12 @@
+{
+ "url": "https://x.com/DamnThatsInter/status/1864629880429629744",
+ "id": "1864629880429629744",
+ "videos": [],
+ "errors": [
+  "from_fx: HTTP Error 404: Not Found",
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "글만/삭제됨",
+ "card": null,
+ "quote_url": null
+}

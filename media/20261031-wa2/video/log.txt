@@ -1,0 +1,24 @@
+ERROR: [twitter] 1607773669702488064: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/SaycheeseDGTL/status/1607773669702488064
+실패: https://x.com/SaycheeseDGTL/status/1607773669702488064
+ERROR: [twitter] 1012707937494523907: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/yorozuna/status/1012707937494523907
+실패: https://x.com/yorozuna/status/1012707937494523907
+ERROR: [twitter] 1864629880429629744: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/DamnThatsInter/status/1864629880429629744
+실패: https://x.com/DamnThatsInter/status/1864629880429629744
+ERROR: [twitter] 1965452440914022599: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/grok/status/1965452440914022599
+실패: https://x.com/grok/status/1965452440914022599
+total 5408
+drwxr-xr-x 2 runner runner    4096 Oct 31 00:35 .
+drwxr-xr-x 3 runner runner    4096 Oct 31 00:35 ..
+-rw-r--r-- 1 runner runner     884 Oct 31 00:35 log.txt
+-rw-r--r-- 1 runner runner 1808774 Oct 31 00:35 v2.mp4
+-rw-r--r-- 1 runner runner 3690111 Oct 31 00:35 v3.mp4
+-rw-r--r-- 1 runner runner     548 Oct 31 00:35 x1.json
+-rw-r--r-- 1 runner runner     958 Oct 31 00:35 x2.json
+-rw-r--r-- 1 runner runner     873 Oct 31 00:35 x3.json
+-rw-r--r-- 1 runner runner     860 Oct 31 00:35 x4.json
+-rw-r--r-- 1 runner runner     274 Oct 31 00:35 x5.json
+-rw-r--r-- 1 runner runner     692 Oct 31 00:35 x6.json
