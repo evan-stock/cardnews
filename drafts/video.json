@@ -1,8 +1,3 @@
-{"id": "20261031-wa2", "frames": 0, "args": "--write-info-json", "urls": [
-"https://x.com/SaycheeseDGTL/status/1607773669702488064",
-"https://x.com/Nippon_Times/status/2015191467430404274",
-"https://x.com/grahoo/status/1095964835982979072",
-"https://x.com/yorozuna/status/1012707937494523907",
-"https://x.com/DamnThatsInter/status/1864629880429629744",
-"https://x.com/grok/status/1965452440914022599"
+{"id": "20261031-wa3", "frames": 0, "args": "--write-info-json", "format": "bv*[height<=1920]+ba/b", "urls": [
+"https://www.tiktok.com/@peachie.peach21/video/7598604024182476046"
 ]}
