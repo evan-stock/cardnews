@@ -59,7 +59,8 @@ jobs:
                       "seconds": float(d.get("seconds", 0)), "tts": ["없음(자막+음악)"], "files": [d["file"]],
                       "yt": {"title": yt["title"][:100], "description": yt.get("description", "")[:4900],
                              "tags": yt.get("tags", [])[:15], "category": int(yt["category"]),
-                             "privacy": yt.get("privacy", "public"), "synthetic": False, "channel": yt["channel"]}}
+                             "privacy": yt.get("privacy", "public"), "synthetic": False, "channel": yt["channel"],
+                             **({"thumb": yt["thumb"]} if yt.get("thumb") else {})}}
               post["tg_msg"] = send_preview(post, d["file"])
               save_post(post)
               print(f"{dt.datetime.now():%Y-%m-%d %H:%M} 미리보기 보냄(승인 대기) {pid} {yt['title']}")

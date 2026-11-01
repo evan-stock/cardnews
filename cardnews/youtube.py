@@ -4,6 +4,7 @@ Secrets: YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN
 최초 1회(내 컴퓨터에서): python -m cardnews.youtube auth <CLIENT_ID> <CLIENT_SECRET>
   → 브라우저에서 채널 계정으로 허용 → 출력되는 refresh token을 YT_REFRESH_TOKEN 에 등록
 """
+from pathlib import Path
 import datetime as dt
 import json
 import sys
@@ -63,6 +64,14 @@ def upload(path, yt, publish_at=None):
     if r2.status_code not in (200, 201):
         raise RuntimeError(f"유튜브 업로드 실패 {r2.status_code}: {r2.text[:300]}")
     vid = r2.json()["id"]
+    if yt.get("thumb"):  # 2026.11.02: 실사 썸네일(저장소 기준 경로). 실패해도 업로드는 그대로 둔다
+        try:
+            tp = Path(yt["thumb"]) if Path(yt["thumb"]).is_absolute() else Path(__file__).resolve().parent.parent / yt["thumb"]
+            rt = requests.post(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}&uploadType=media",
+                               headers={**h, "Content-Type": "image/jpeg"}, data=tp.read_bytes(), timeout=120)
+            print("썸네일", rt.status_code, rt.text[:200])
+        except Exception as e:
+            print("썸네일 실패(영상은 올라감):", e)
     return vid, f"https://youtube.com/shorts/{vid}", status
 
 
