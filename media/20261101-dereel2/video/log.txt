@@ -1,0 +1,11 @@
+ERROR: [Instagram] DfKyLP_R1Mc: This content isn't available to everyone: It can't be seen by certain audiences.
+실패: https://www.instagram.com/p/DfKyLP_R1Mc/
+total 6052
+drwxr-xr-x 2 runner runner    4096 Nov  1 02:44 .
+drwxr-xr-x 3 runner runner    4096 Nov  1 02:44 ..
+-rw-r--r-- 1 runner runner     162 Nov  1 02:44 log.txt
+-rw-r--r-- 1 runner runner  626867 Nov  1 02:44 v2.mp4
+-rw-r--r-- 1 runner runner  701016 Nov  1 02:44 v3.mp4
+-rw-r--r-- 1 runner runner  964344 Nov  1 02:44 v4.mp4
+-rw-r--r-- 1 runner runner 2560632 Nov  1 02:44 v5.mp4
+-rw-r--r-- 1 runner runner 1318532 Nov  1 02:44 v6.mp4
