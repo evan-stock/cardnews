@@ -2,7 +2,7 @@
  "id": "20261101-genzde",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-01T12:00:43.372090+09:00",
  "publish_at": "2026-11-01T11:57:33+09:00",
  "topic": "독일 Z세대 시위(10.31): 낮 평화 행진 → 밤 베를린 체포 56·프랑크푸르트 약탈·쾰른 물대포 (영상 캐러셀)",
@@ -77,5 +77,9 @@
   "media/20261101-genzde/07.mp4",
   "media/20261101-genzde/08.jpg"
  ],
- "tg_msg": 1638
+ "tg_msg": 1638,
+ "decided_at": "2026-11-01T12:07:56.589380+09:00",
+ "ig_media_id": "17935955694409452",
+ "permalink": "https://www.instagram.com/p/DfLu05PE2m5/",
+ "published_at": "2026-11-01T12:09:26.530862+09:00"
 }
