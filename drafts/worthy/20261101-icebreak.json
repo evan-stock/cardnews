@@ -1,0 +1,26 @@
+{
+ "id": "20261101-icebreak",
+ "media": "media/20261101-icebreak",
+ "topic": "스웨덴 북쪽 바다의 쇄빙선 Polar Explorer가 두꺼운 얼음판을 쩍쩍 깨며 지나가는 장면 — 쇄빙선은 날카로운 뱃머리로 얼음을 자르는 게 아니라, 비스듬한 뱃머리로 얼음 위에 올라탄 뒤 배 무게로 눌러 깬다(SlashGear, Cool Antarctica, Encyc). 사용자가 11.01 09:17 회차 2차 후보 중 1번을 직접 고름.",
+ "hook": {"t": "쇄빙선은 얼음을\n'자르지' 않는다ㄷㄷ"},
+ "credit": "영상: TikTok @countingcountries (스웨덴 쇄빙선 Polar Explorer)",
+ "bgm": {"file": "assets/bgm/worthy/danger_snow.mp3", "start": 24.0, "vol": 0.25},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": ["영상: TikTok @countingcountries https://www.tiktok.com/@countingcountries/video/7210390920066420014 (2023.3.14, 조회 280만·좋아요 30.1만 — 11.01 media/20261101-wb1/video/v1.info.json 확인). 촬영자 본인 영상, 원본 첫 3초 자막 구간은 쓰지 않음. 크롭·확대·슬로 가공."],
+ "sources": [
+  {"publisher": "SlashGear — 쇄빙선은 얼음 위로 올라타 배 무게로 깨도록 설계, 둥글고 비스듬한 선체", "url": "https://www.slashgear.com/1851680/icebreaker-ship-explained-how-different-from-other-vessels"},
+  {"publisher": "Cool Antarctica — 뱃머리가 완만하게 위로 비스듬해 얼음 위로 올라탄 뒤 배 무게로 깸, 덩치에 비해 무거움", "url": "https://coolantarctica.com/Antarctica%20fact%20file/ships/icebreaker.php"},
+  {"publisher": "Encyc 'Icebreaker' — 얼음 위로 일부 올라탄 뒤 배 무게(중력)로 뚫고 나감", "url": "https://encyc.org/wiki/Icebreaker"}
+ ],
+ "_note": "클립은 media/20261101-wb1/video/v1.mp4(576x1024)에서 미리 만든 1080x780(-an). A=3.8~6.4 crop 480x347+20+470(1.2배, 0.75배 슬로), B=10.3~12.7 crop 576x416+0+300(뱃머리 앞 얼음에 금), G=41.8~44.4 crop 576x416+0+300(얼음 위 빨간 뱃머리), R=5.4~7.6 crop 400x289+40+520(1.44배, 0.6배 슬로 리플레이), D=23.2~24.1 crop 576x416+0+350(0.45배 슬로, 뒤집히는 얼음판), C=7.8~10.1 crop 576x416+0+450(깨진 뱃길), F=26.5~29.6 crop 576x416+0+250(구명복 입고 얼음물로).",
+ "scenes": [
+  {"text": "배가 밀고 가자 얼음판이 '쩍쩍' 뒤집힌다", "video": {"src": "video/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "날카로운 뱃머리로 얼음을 '썰고' 갈까?", "video": {"src": "video/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "그런데 뱃머리가 '비스듬히' 누워 있다", "video": {"src": "video/G.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.5},
+  {"text": "알고 보니 얼음 '위로' 올라탄 다음", "video": {"src": "video/R.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "배 '무게'로 꾹 눌러서 깨부순다", "video": {"src": "video/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.0},
+  {"text": "지나간 자리엔 깨진 얼음 '길'이 남는다", "video": {"src": "video/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.3},
+  {"text": "그 뱃길에서 구명복 입고 '둥둥'까지! 신기했다면 구독", "video": {"src": "video/F.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0}
+ ]
+}
