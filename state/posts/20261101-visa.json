@@ -2,7 +2,7 @@
  "id": "20261101-visa",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-01T23:01:07.564307+09:00",
  "publish_at": "2026-11-01T23:01:07.564370+09:00",
  "topic": "미국이 비자로 막은 사람들, 이번엔 한국 국방위원장(진성준 관용비자 거절·루비오 '수십 년 전 행동')",
@@ -73,5 +73,8 @@
   "media/20261101-visa/07.jpg",
   "media/20261101-visa/08.jpg"
  ],
- "tg_msg": 1670
+ "tg_msg": 1670,
+ "ig_media_id": "17915185833558241",
+ "permalink": "https://www.instagram.com/p/DfM59OKlRSt/",
+ "published_at": "2026-11-01T23:06:13.279624+09:00"
 }
