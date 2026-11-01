@@ -1,8 +1,1 @@
-장면 1/7 silent 누적 1.9초
-장면 2/7 typecast 누적 4.9초
-장면 3/7 typecast 누적 8.2초
-장면 4/7 typecast 누적 10.1초
-장면 5/7 silent 누적 14.0초
-장면 6/7 silent 누적 16.6초
-장면 7/7 typecast 누적 20.4초
-완성: /home/runner/work/cardnews/cardnews/media/20261101-pouty/short.mp4 (20.4초, TTS ['silent', 'typecast'])
+⏳ 3개 장면 목소리를 맥북에서 만드는 중
