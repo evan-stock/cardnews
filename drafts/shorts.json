@@ -1,309 +1,272 @@
 {
- "id": "20261101-catnanny",
+ "id": "20261102-gundog",
  "mode": "send",
  "format": "meme",
- "topic": "임신한 집사가 집안일을 15분 넘게 하면 다리를 깨물고 소리치며 소파로 끌고 가 앉히는 태비 고양이 마일로(인스타 @mr.milothechonk, 200만 회+·좋아요 29.5만, CatTime 2026.10.26 보도). 펫스파이 '~한 행동ㅋㅋ'·동물쑛 'ㅋㅋ' 반응 틀. 원본 소리는 전 구간 덧입힌 음악 트랙으로 보여 끔. 사실: CDC — 임신 중엔 가능하면 고양이 화장실 청소를 다른 사람이 맡기(톡소플라스마).",
+ "topic": "30kg 사냥개(저먼 쇼트헤어드 포인터)가 처제네 집 고양이 앞을 끝내 못 지나가 주인이 안아서 데리고 나간 영상(TikTok @why.is.the.gundog 2편, Newsweek 2026.1.27 보도 — 1편 42.8만 회). 동물쑛 '대형 고양이를 처음 본 고양이의 반응 ㅋㅋ' 틀. 원본 소리는 사람 말소리·웃음 현장음뿐(음악 아님)이라 낮게 살림. 사실: AVMA — 강아지 사회화 민감기 생후 3~14주.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 2.0,
+ "bgm_volume": 1.0,
  "sfx_max": 4,
  "hook": {
-  "t": "임신한 집사가 집안일 하면\n'단속 나오는 고양이ㅋㅋ'"
+  "t": "30kg 사냥개가 고양이를\n'처음 본 반응ㅋㅋ'"
  },
  "photo_credits": [
-  "Instagram @mr.milothechonk"
+  "TikTok @why.is.the.gundog"
  ],
  "scenes": [
   {
-   "dur": 2.2,
+   "dur": 2.4,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 44.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
+    "src": "video/v2.mp4",
+    "start": 32.7,
+    "x": 0.6,
+    "y": 0.0,
+    "zoom": 1.0,
+    "audio": 4,
     "blur": [
      [
-      140,
-      325,
-      370,
-      200
+      128,
+      560,
+      224,
+      82
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "그만 좀 움직이라고!!",
-     "x": 0.5,
-     "y": 0.3,
+     "t": "형님... 저 좀 데리고 나가 주세요",
+     "x": 0.3,
+     "y": 0.4,
      "at": 0.0,
-     "to": 2.2
+     "to": 2.4
     },
     {
      "k": "sfx",
-     "t": "(앙)",
-     "x": 0.75,
+     "t": "(번쩍)",
+     "x": 0.82,
      "y": 0.62,
-     "at": 0.5,
-     "to": 2.2,
-     "s": "thud",
+     "at": 0.3,
+     "to": 2.4,
+     "s": "boing",
      "sv": 0.7
     }
    ]
   },
   {
-   "say": "임신한 집사가 집안일만 하면 벌어지는 일입니다.",
+   "say": "30킬로 사냥개가 처음으로 고양이 있는 집에 놀러 갔는데요.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 36.8,
+    "src": "video/v2.mp4",
+    "start": 1.8,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
+    "y": 0.3,
+    "audio": 0.4,
     "blur": [
      [
-      165,
-      895,
-      335,
-      145
+      128,
+      560,
+      224,
+      82
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "설거지 내려놔!!",
-     "x": 0.72,
-     "y": 0.36,
-     "at": 0.3
+     "t": "여기 냄새 뭐야...",
+     "x": 0.62,
+     "y": 0.4,
+     "at": 0.4
     }
    ]
   },
   {
+   "dur": 2.6,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 24.3,
+    "src": "video/v2.mp4",
+    "start": 8.0,
     "x": 0.5,
-    "y": 0.9,
-    "audio": 0,
+    "y": 0.3,
+    "audio": 4,
     "blur": [
      [
-      185,
-      430,
-      350,
-      145
+      128,
+      560,
+      224,
+      82
      ]
-    ],
-    "zoom": 1.3
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "계단은 더 안 돼!!",
+     "t": "저... 저기 뭐 있어",
      "x": 0.55,
-     "y": 0.3,
-     "at": 0.2,
+     "y": 0.18,
+     "at": 0.1,
      "to": 2.6
     },
     {
      "k": "sfx",
-     "t": "(졸졸)",
-     "x": 0.25,
-     "y": 0.62,
-     "at": 0.3,
+     "t": "(흠칫)",
+     "x": 0.2,
+     "y": 0.42,
+     "at": 0.4,
      "to": 2.6,
-     "s": "sneak",
-     "sv": 0.6
-    }
-   ],
-   "dur": 2.6
-  },
-  {
-   "dur": 2.3,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 47.6,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
-    "blur": [
-     [
-      95,
-      900,
-      410,
-      120
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "따라와. 소파로.",
-     "x": 0.55,
-     "y": 0.18,
-     "at": 0.2,
-     "to": 2.3
-    }
-   ]
-  },
-  {
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 53.2,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
-    "blur": [
-     [
-      95,
-      890,
-      400,
-      150
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "여기. 앉아.",
-     "x": 0.72,
-     "y": 0.2,
-     "at": 0.3
-    }
-   ],
-   "say": "결국 소파까지 데려가서 앉혀 버립니다."
-  },
-  {
-   "dur": 2.2,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 57.2,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
-    "blur": [
-     [
-      55,
-      830,
-      500,
-      195
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "도망 못 가게 감시 중",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 0.2,
-     "to": 2.2,
-     "s": "pop",
+     "s": "shock",
      "sv": 0.7
     }
    ]
   },
   {
-   "dur": 2.2,
+   "say": "거실 구석 고양이 때문에 한 발짝도 못 지나갑니다.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 64.3,
+    "src": "video/v2.mp4",
+    "start": 12.6,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
+    "y": 0.3,
+    "audio": 0.4,
     "blur": [
      [
-      105,
-      855,
-      390,
-      150
+      128,
+      560,
+      224,
+      82
      ]
     ]
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(뻗음)",
-     "x": 0.3,
-     "y": 0.28,
-     "at": 0.2,
-     "to": 2.2
-    },
-    {
      "k": "talk",
-     "t": "오늘 업무 끝. 퇴근.",
+     "t": "난 여기까지만 갈래",
      "x": 0.6,
-     "y": 0.18,
-     "at": 0.6,
-     "to": 2.2,
-     "s": "fail",
-     "sv": 0.6
+     "y": 0.4,
+     "at": 0.5
     }
    ]
   },
   {
-   "say": "임신 중엔 고양이 화장실 청소를 다른 가족에게 맡기는 게 좋답니다.",
+   "dur": 2.6,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 66.6,
+    "src": "video/v2.mp4",
+    "start": 20.4,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
-    "boomerang": true,
+    "y": 0.3,
+    "audio": 4,
     "blur": [
      [
-      105,
-      855,
-      390,
-      150
+      128,
+      560,
+      224,
+      82
      ]
     ]
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "임신 중엔 고양이 화장실 청소를\n가능하면 다른 사람이 맡기\n(미국 질병통제예방센터 CDC)",
+     "k": "talk",
+     "t": "형님 다리 뒤가 제일 안전해",
      "x": 0.5,
      "y": 0.12,
-     "at": 0.2,
-     "size": 48
+     "at": 0.1,
+     "to": 2.6
     },
     {
+     "k": "sfx",
+     "t": "(덜덜)",
+     "x": 0.3,
+     "y": 0.35,
+     "at": 0.3,
+     "to": 2.6
+    }
+   ]
+  },
+  {
+   "say": "결국 형님이 번쩍 안아서 데리고 나갑니다.",
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 28.4,
+    "x": 0.5,
+    "y": 0.3,
+    "audio": 0.4,
+    "blur": [
+     [
+      128,
+      560,
+      224,
+      82
+     ]
+    ]
+   },
+   "caps": []
+  },
+  {
+   "dur": 3.2,
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 37.6,
+    "x": 0.5,
+    "y": 0.3,
+    "audio": 4,
+    "blur": [
+     [
+      128,
+      560,
+      224,
+      82
+     ]
+    ],
+    "boomerang": true
+   },
+   "caps": [
+    {
      "k": "talk",
-     "t": "그건 아빠 담당이야",
+     "t": "나 아무것도 안 했는데?",
      "x": 0.5,
-     "y": 0.4,
-     "at": 1.2
+     "y": 0.33,
+     "at": 0.2,
+     "to": 3.2,
+     "s": "sparkle",
+     "sv": 0.6
+    },
+    {
+     "k": "desc",
+     "t": "강아지 사회화 민감기는 생후 3~14주\n이때 여러 경험을 해야 낯선 것에 덜 겁먹어요\n(미국수의사회 AVMA)",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.8,
+     "to": 3.2,
+     "size": 44
     }
    ]
   }
  ],
  "sources": [
   {
-   "publisher": "Instagram @mr.milothechonk",
-   "url": "https://www.instagram.com/reels/De5qPhQt9P8/",
-   "date": "2026-10"
+   "publisher": "TikTok @why.is.the.gundog",
+   "url": "https://www.tiktok.com/@why.is.the.gundog/video/7588661230014090499",
+   "date": "2025-12"
   },
   {
-   "publisher": "CatTime(NewsBreak) - Cat Has Decided His Pregnant Owner Needs To Sit Down, & He's Not Taking No for an Answer",
-   "url": "https://www.newsbreak.com/cattime-1587466/4967206092863-cat-has-decided-his-pregnant-owner-needs-to-sit-down-he-s-not-taking-no-for-an-answer",
-   "date": "2026-10-26"
+   "publisher": "Newsweek - Hunting Dog Meets Family Cat, Internet Can't Cope With How He Reacts",
+   "url": "https://www.newsweek.com/hunting-dog-meets-family-cat-internet-cant-cope-reacts-11422576",
+   "date": "2026-01-27"
   },
   {
-   "publisher": "CDC - Toxoplasmosis: cat owners",
-   "url": "https://www.cdc.gov/parasites/toxoplasmosis/resources/printresources/catowners.pdf",
+   "publisher": "AVMA - Socialization of dogs and cats",
+   "url": "https://www.avma.org/KB/Resources/Reference/AnimalWelfare/Pages/Socialization.aspx",
    "date": ""
   }
  ],
  "yt": {
-  "title": "임신한 집사가 집안일만 하면 단속 나오는 고양이ㅋㅋ #shorts",
-  "description": "집사가 임신한 뒤로 보호 본능 폭발한 고양이 마일로ㅋㅋ 15분 넘게 집안일을 하면 따라다니며 잔소리하고, 다리를 앙 깨물고, 결국 소파까지 데려가 앉혀 놓습니다. 다 앉히고 나서야 바닥에 뻗어 퇴근하는 마일로...\n\n참고로 미국 질병통제예방센터(CDC)는 임신 중엔 가능하면 고양이 화장실 청소를 다른 사람이 맡고, 어쩔 수 없으면 장갑을 끼고 손을 씻으라고 권해요(톡소플라스마 예방).\n\n여러분 냥이도 집사 걱정해 주나요?\n\n영상: Instagram @mr.milothechonk\n참고: CatTime, CDC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "30kg 사냥개가 고양이를 처음 본 반응ㅋㅋ #shorts",
+  "description": "처제네 집에 처음 놀러 간 30kg 사냥개(저먼 쇼트헤어드 포인터)ㅋㅋ 거실 구석에 앉아 있는 고양이 앞을 끝내 못 지나가고 주인 다리 뒤에 숨더니... 결국 형님 품에 안겨서 퇴장합니다. 정작 고양이는 아무것도 안 함ㅋㅋ\n\n참고로 미국수의사회(AVMA)는 강아지 사회화 민감기를 생후 3~14주로 보고, 이때 여러 긍정적인 경험을 해야 낯선 상황을 덜 무서워한다고 해요.\n\n여러분 강아지도 고양이 무서워하나요?\n\n영상: TikTok @why.is.the.gundog\n참고: Newsweek, AVMA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
+   "강아지",
+   "사냥개",
    "고양이",
-   "냥이",
-   "집사",
-   "임신",
-   "고양이행동",
+   "대형견",
+   "겁쟁이강아지",
    "귀여운동물",
    "동물쇼츠",
    "오늘의털뭉치"
