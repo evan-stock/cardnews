@@ -1,7 +1,7 @@
 {
  "id": "20261031-babynap",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-10-31T20:48:03.085895+09:00",
  "publish_at": "2026-10-31T20:48:03.085910+09:00",
  "publish_now": true,
@@ -32,5 +32,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1618
+ "tg_msg": 1618,
+ "decided_at": "2026-11-01T10:23:54.076405+09:00",
+ "yt_id": "8iWEAXhkqCY",
+ "permalink": "https://youtube.com/shorts/8iWEAXhkqCY",
+ "published_at": "2026-11-01T10:23:57.849921+09:00"
 }
