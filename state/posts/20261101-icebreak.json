@@ -1,0 +1,36 @@
+{
+ "id": "20261101-icebreak",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-01T10:53:22.289686+09:00",
+ "publish_at": "2026-11-01T10:53:22.289700+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 쇄빙선은 얼음을 자르지 않고 올라타서 무게로 깬다",
+ "sources": [],
+ "seconds": 17.6,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261101-icebreak/short_card.mp4"
+ ],
+ "yt": {
+  "title": "쇄빙선은 얼음을 '자르지' 않는다ㄷㄷ #shorts",
+  "description": "두꺼운 바다 얼음을 쩍쩍 깨며 가는 쇄빙선. 날카로운 뱃머리로 썰고 가는 것 같지만, 사실은 비스듬한 뱃머리로 얼음 위에 올라탄 뒤 배 무게로 눌러 깹니다.\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: SlashGear 'What Is An Icebreaker', Cool Antarctica 'Icebreakers and Ice Strengthened Ships', Encyc 'Icebreaker'\n※ 아주 두꺼운 얼음에서는 물러났다 다시 들이받기를 반복하기도 합니다.\n영상: TikTok @countingcountries (스웨덴 쇄빙선 Polar Explorer, 2023.3)\n\n#쇄빙선 #얼음 #겨울 #배 #신기한영상 #과학 #오늘의쓸모 #shorts",
+  "tags": [
+   "쇄빙선",
+   "얼음",
+   "겨울",
+   "배",
+   "icebreaker",
+   "신기한영상",
+   "과학",
+   "오늘의쓸모"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "tg_msg": 1629
+}
