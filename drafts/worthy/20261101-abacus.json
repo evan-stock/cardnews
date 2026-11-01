@@ -1,0 +1,29 @@
+{
+ "id": "20261101-abacus",
+ "media": "media/20261101-abacus",
+ "topic": "중국 란저우 어린이 암산 대회(2019.10, 245명·15분)에서 아이들이 허공에 손가락을 파닥파닥 튕기는 장면 — 장난이나 컨닝이 아니라 머릿속에 그린 주판의 알을 손가락으로 튕기는 '주산식 암산'. 손을 못 쓰게 하면 중급 아이들은 점수가 떨어지고(Cho & So 2018), 고수는 손 없이도 똑같이 푼다. 사용자가 11.01 14:17 회차 후보 중 2번을 직접 고름.",
+ "hook": {"t": "시험 중에 손을 휘젓는\n아이들의 '정체'ㄷㄷ"},
+ "credit": "영상: 梨视频 Pear Video (중국 란저우 암산 대회, 2019)",
+ "bgm": {"file": "assets/bgm/worthy/how_it_began.mp3", "start": 14.5, "vol": 0.56},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: 梨视频(Pear Video) '少儿速算比赛 245名小学生甩手速算'(2019.10, 拍客 梨甘肃, 영상 제공 인터뷰이) — v.qq.com/x/cover/mzc00200e3k96pv/k3006a9zm3t.html 에서 받음. 원본 중국어 자막·로고 구간은 크롭으로 뺌, 확대·슬로 가공.",
+  "같은 장면 반응 수치: Sixth Tone Facebook 'Mental Abacus' https://www.facebook.com/sixthtone/videos/758707107914343/ 조회 109만(2019.10.12 — 11.01 media/20261101-abacus/video/v1.info.json 확인). 같은 소재: TikTok @mothershipsg 7527496138711158024 560만·좋아요 38.5만(media/20261101-wm3/video/v1.info.json), 틈새지식 '암산 천재들이 손을 허공에 휘젓는 이유' 266만(state/bench/틈새지식.tsv)."
+ ],
+ "sources": [
+  {"publisher": "Sixth Tone(2019.10.12) / That's China(2019.10.12) — 란저우 대회 245명, 15분, 최고 219문제(3개 오답), 강사: 실력이 높을수록 손을 덜 쓴다", "url": "https://www.thatsmags.com/china/post/29655/watch-chinese-students-use-hand-swinging-technique-at-math-competition"},
+  {"publisher": "Cho & So (2018) Frontiers in Psychology 'A Feel for Numbers' — 6~8세 176명, 중급은 손을 못 쓰게 하면 성적 하락, 고급은 손 없이도 같은 성적", "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01267/text"},
+  {"publisher": "Frank & Barner (2011) J. Exp. Psych: General, Discover·Phys.org 요약 — 주판 암산 사용자는 상상 주판의 알을 옮기듯 손가락을 튕김", "url": "https://discovermagazine.com/mind/a-mental-abacus-lets-math-whizzes-bypass-language"}
+ ],
+ "_note": "클립은 media/20261101-abacus/video/v3.mp4(1280x720, 梨视频)에서 미리 만든 1080x780(-an, 대비1.06·채도1.12). A=63.6~66.4 crop 720x520+380+110(1.5배, 손 파닥), B=18.0~20.6 crop 640x462+200+0(2배, 얼굴 옆 손), C=58.3~60.6 crop 880x636+250+0(대회장 전경), D=68.3~70.3 crop 800x578+330+70(0.71배 슬로, 손가락 튕김), E=75.8~78.4 crop 640x462+0+185(손 든 여자아이), F=4.0~6.7 crop 800x578+200+60(219문제 소년), G=89.8~93.1 crop 880x636+170+0(차분히 쓰는 아이들).",
+ "scenes": [
+  {"text": "시험 중에 손을 '파닥파닥' 휘젓는 아이", "video": {"src": "video/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "장난일까? 아니면 '컨닝' 신호?", "video": {"src": "video/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "그런데 245명이 '전부' 이러고 있다", "video": {"src": "video/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.2},
+  {"text": "알고 보니 머릿속 '주판알'을 튕기는 중", "video": {"src": "video/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "손을 못 쓰게 하자 점수가 '뚝' 떨어졌다", "video": {"src": "video/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.5},
+  {"text": "이 아이는 15분에 '219문제'를 풀었다", "video": {"src": "video/F.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "진짜 고수는 '손 없이' 푼다! 신기했다면 구독", "video": {"src": "video/G.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.2}
+ ]
+}
