@@ -1,0 +1,20 @@
+{
+ "src": "fxtwitter",
+ "author": "accuweather",
+ "name": "AccuWeather",
+ "date": "Tue Apr 21 16:30:00 +0000 2026",
+ "text": "Flooding and strong winds triggered a rare “ice shove” along Michigan’s Black Lake, forcing large sheets of ice into homes.",
+ "views": 14388,
+ "likes": 183,
+ "retweets": 54,
+ "quote": null,
+ "url": "https://x.com/accuweather/status/2046627521941131479",
+ "id": "2046627521941131479",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "사진만",
+ "card": null,
+ "quote_url": null
+}
