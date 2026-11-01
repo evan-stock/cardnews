@@ -1,20 +1,9 @@
-[
- {
-  "id": "20261101-blocus",
-  "slot": "evening",
-  "mode": "collect",
-  "image_pages": [
-   "https://www.catalannews.com/society-science/item/tiktok-activates-specialized-task-force-after-unrest-in-barcelona",
-   "https://www.theolivepress.es/spain-news/2026/10/27/what-is-blocus-barcelona-protests/",
-   "https://www.diaridetarragona.com/catalunya/273965/blocus-plataforma-anonima-alento-protesta-violenta-barcelona.html",
-   "https://www.diaridetarragona.com/catalunya/274097/tiktok-activa-grupo-trabajo-especializado-disturbios-barcelona.html",
-   "https://en.ara.cat/society/can-the-riots-of-saturday-in-barcelona-repeat-themselves-blocus-announces-new-calls-this-weekend_1_5891820.html",
-   "https://www.que.es/2026/10/30/blocus-saqueos-halloween-barcelona/",
-   "https://www.moncloa.com/2026/10/29/disturbios-blocus-barcelona-31-octubre-3457427/",
-   "https://www.moncloa.com/2026/10/26/disturbios-barcelona-31-octubre-detenidos-3455834",
-   "https://metropoliabierta.elespanol.com/sucesos/20261030/alerta-barcelona-convocatoria-blocus-sabado-directo-comercios-blindan-posibles-ataques/1003742807609_10.html",
-   "https://www.vozpopuli.com/espana/cataluna/blocus-el-grupo-anonimo-que-alento-en-tiktok-a-replicar-las-protestas-de-francia-en-barcelona.html",
-   "https://www.aa.com.tr/en/europe/barcelona-police-on-alert-for-fresh-halloween-riots-in-spain/4102699"
-  ]
- }
-]
+[{"id":"20261101-berlin","slot":"evening","mode":"collect","image_pages":[
+"https://berlin.t-online.de/region/berlin/id_101506976/27-polizisten-bei-abenddemo-in-berlin-mitte-leicht-verletzt-festnahmen.html",
+"https://berlin.t-online.de/region/berlin/id_101506564/gen-z-demo-in-berlin-tausende-menschen-bei-protest-und-viel-polizei.html",
+"https://www.berliner-zeitung.de/article/gen-z-proteste-in-berlin-liveblog-10547017",
+"https://www.tagesspiegel.de/gesellschaft/liveblog/barrikaden-brennen-in-hamburg-bollerwurfe-in-berlin-wasserwerfer-einsatz-in-koln-16223578.html",
+"https://taz.de/Berlin-Demo-von-Gen-Z-regelt/!6226313/",
+"https://www.stuttgarter-zeitung.de/politik/gen-z-demos-in-mehr-als-30-staedten-erst-friedlicher-protest-dann-ausschreitungen-am-abend-79632807.html",
+"https://de.nachrichten.yahoo.com/ausschreitungen-genz-protest-berlin-27-224649528.html",
+"https://www.zdfheute.de/politik/deutschland/gen-z-proteste-deutschland-liveblog-100.html"]}]
