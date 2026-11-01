@@ -1,7 +1,7 @@
 {
  "id": "20261101-clearice",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-11-01T21:50:12.099543+09:00",
  "publish_at": "2026-11-01T21:50:12.099559+09:00",
  "publish_now": true,
@@ -33,5 +33,7 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1660
+ "tg_msg": 1660,
+ "decided_at": "2026-11-01T22:01:26+09:00",
+ "decided_via": "app"
 }
