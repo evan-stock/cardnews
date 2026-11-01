@@ -1,0 +1,122 @@
+{
+ "id": "20261102-icehole",
+ "media": "media/20261102-icehole",
+ "topic": "얼음 구멍을 물고기 수백 마리가 입을 내밀고 꽉 채운 장면 — 낚시 대박이 아니라 겨울 질식(замор): 얼음이 공기를 막아 물속 산소가 바닥나면 물고기가 구멍으로 몰림. 러시아 아스트라한은 2014년 얼음에 구멍 2만5천 개를 뚫고 갈대를 꽂아 숨길이 안 얼게 함. 잘난지 'Why people break the ice in Siberia' 890만 소재 재활용(사용자 11.02 00:50 선택).",
+ "hook": {
+  "t": "얼음 구멍에 '물고기'가\n꽉 들어찬 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: TikTok @serg8703 · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/killers.mp3",
+  "start": 185.5,
+  "vol": 0.38
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @serg8703 https://www.tiktok.com/@serg8703/video/7061635967312055553 (2022.2.6, #заморрыбы, 조회 1,280만·좋아요 19.8만 — media/20261102-icehole/video/v2.info.json), 촬영자 본인.",
+  "영상: TikTok @serg8703 https://www.tiktok.com/@serg8703/video/7061963170742619394 (2022.2.7, 조회 2,160만·좋아요 33.8만 — v1.info.json), 촬영자 본인.",
+  "모션그래픽: scripts/story_shorts/anim_icehole.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "The Moscow Times 2014.2.26 — 아스트라한에서 질식하는 물고기를 살리려 얼음에 구멍 2만5천 개 이상",
+   "url": "https://www.themoscowtimes.com/2014/02/26/environmentalists-punch-air-holes-in-ice-to-save-fish-a32501"
+  },
+  {
+   "publisher": "OutdoorHub/RIA Novosti 2014.2.26 — 1ha당 10~12개, 갈대를 꽂아 숨 쉬게 하고 안 얼게, 두꺼운 얼음·눈이 물속 산소 부족을 부름",
+   "url": "https://outdoorhub.com/?p=365776"
+  },
+  {
+   "publisher": "벨라루스 노보그루도크 지방정부 — 결빙기엔 구멍으로 산소가 들어오며, 산소가 모자라면 물고기가 구멍으로 먼저 몰림",
+   "url": "https://novogrudok.gov.by/uploads/files/Statjja-1.doc"
+  },
+  {
+   "publisher": "벨라루스 비텝스크 주 오르샤 — 얼음이 공기 속 산소를 막아 겨울 떼죽음(замор), 인공 구멍이 효과적",
+   "url": "https://orsha.vitebsk-region.gov.by/sdelaem-lunki-spasem-rybu-ot-zamora-eko-aktsiya-kotoraya-nuzhna-kak-vozdukh/en"
+  }
+ ],
+ "_note": "클립은 미리 만든 1080x780(-an, 대비·채도 살짝↑, unsharp). A=v2 16.0~18.6 crop 576x416+0+300 0.77배 슬로(입 수백 개 근접), B=v2 4.6~7.6 +0+500(구멍 전체), C=v1 1.8~4.8 +0+120(손으로 강꼬치 건짐), D=v1 37~40 +0+250(얼음 아래 물고기 떼), G=v2 28.4~31.4 +0+150(구멍 가장자리 물고기 얼굴). 그래픽 gfx/lid·rush·reeds = anim_icehole.py.",
+ "scenes": [
+  {
+   "text": "얼음 구멍 속에 '입'이 수백 개",
+   "video": {
+    "src": "clip/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "구멍 하나를 물고기가 꽉 채웠다",
+   "video": {
+    "src": "clip/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "큰 고기까지 손으로 '줍줍' 낚시 대박?",
+   "video": {
+    "src": "clip/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "아니다, 다 '숨 막혀서' 올라온 것",
+   "video": {
+    "src": "clip/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "꽁꽁 언 얼음이 공기를 막는 '뚜껑'이 되면",
+   "video": {
+    "src": "gfx/lid.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "물속 산소가 바닥나 '구멍' 아래로 몰린다",
+   "video": {
+    "src": "gfx/rush.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "그래서 러시아는 얼음에 구멍 '2만5천 개'",
+   "video": {
+    "src": "gfx/reeds.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "얼음 구멍은 물고기 '숨구멍'이었다, 구독",
+   "video": {
+    "src": "clip/G.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  }
+ ]
+}
