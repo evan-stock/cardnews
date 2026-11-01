@@ -1,0 +1,15 @@
+WARNING: [abcotvs] pa-weather-woman-finds-car-ice-fishtown-philadelphia-apparent-pipe-burst-nearby-during-winter-storm: Failed to download m3u8 information: HTTP Error 404: Not Found
+total 16156
+drwxr-xr-x 2 runner runner    4096 Nov  1 05:40 .
+drwxr-xr-x 3 runner runner    4096 Nov  1 05:40 ..
+-rw-r--r-- 1 runner runner     183 Nov  1 05:40 log.txt
+-rw-r--r-- 1 runner runner   20974 Nov  1 05:40 v1.info.json
+-rw-r--r-- 1 runner runner 1703471 Nov  1 05:40 v1.mp4
+-rw-r--r-- 1 runner runner   21043 Nov  1 05:40 v2.info.json
+-rw-r--r-- 1 runner runner 1327786 Nov  1 05:40 v2.mp4
+-rw-r--r-- 1 runner runner   21197 Nov  1 05:40 v3.info.json
+-rw-r--r-- 1 runner runner 1998728 Nov  1 05:40 v3.mp4
+-rw-r--r-- 1 runner runner   18744 Nov  1 05:40 v4.info.json
+-rw-r--r-- 1 runner runner 8642225 Nov  1 05:40 v4.mp4
+-rw-r--r-- 1 runner runner 2756596 Nov  1 05:40 v5.mp4
+-rw-r--r-- 1 runner runner     708 Nov  1 05:40 x5.json
