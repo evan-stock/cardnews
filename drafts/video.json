@@ -1,6 +1,4 @@
-{"id":"20261101-abacus","frames":0,"args":"--write-info-json","urls":[
-"https://www.facebook.com/sixthtone/videos/758707107914343/",
-"https://m.163.com/v/video/VJ2RSG5F5.html",
-"https://v.qq.com/x/cover/mzc00200e3k96pv/k3006a9zm3t.html",
-"https://www.tiktok.com/@mothershipsg/video/7527496138711158024"
+{"id":"20261101-pigeye","frames":0,"args":"--download-sections *00:00:15-00:01:30","urls":[
+"https://www.youtube.com/watch?v=hhkqLdTqFjU",
+"https://www.youtube.com/watch?v=9-ikwFUmEh0"
 ]}
