@@ -1,0 +1,28 @@
+WARNING: Unable to download format bytevc1_540p_254354-1. Skipping...
+WARNING: Unable to download format bytevc1_540p_254354-0. Skipping...
+ERROR: [twitter] 1765232789547258116: Suspended
+영상 없는 글(글만/삭제됨): https://x.com/sciencegirl/status/1765245938770096242
+실패: https://x.com/sciencegirl/status/1765245938770096242
+total 55228
+drwxr-xr-x 2 runner runner     4096 Nov  1 11:27 .
+drwxr-xr-x 3 runner runner     4096 Nov  1 11:26 ..
+-rw-r--r-- 1 runner runner      339 Nov  1 11:27 log.txt
+-rw-r--r-- 1 runner runner     9476 Nov  1 11:26 v1.info.json
+-rw-r--r-- 1 runner runner  5021650 Nov  1 11:26 v1.mp4
+-rw-r--r-- 1 runner runner    19846 Nov  1 11:26 v2.info.json
+-rw-r--r-- 1 runner runner 10540049 Nov  1 11:26 v2.mp4
+-rw-r--r-- 1 runner runner    19575 Nov  1 11:26 v3.info.json
+-rw-r--r-- 1 runner runner   768620 Nov  1 11:26 v3.mp4
+-rw-r--r-- 1 runner runner    19142 Nov  1 11:26 v4.info.json
+-rw-r--r-- 1 runner runner 26840255 Nov  1 11:26 v4.mp4
+-rw-r--r-- 1 runner runner  5730994 Nov  1 11:27 v5.mp4
+-rw-r--r-- 1 runner runner    19485 Nov  1 11:27 v6.info.json
+-rw-r--r-- 1 runner runner  1590188 Nov  1 11:27 v6.mp4
+-rw-r--r-- 1 runner runner    22852 Nov  1 11:27 v7.info.json
+-rw-r--r-- 1 runner runner   263215 Nov  1 11:27 v7.mp4
+-rw-r--r-- 1 runner runner    19584 Nov  1 11:27 v8.info.json
+-rw-r--r-- 1 runner runner  1611324 Nov  1 11:27 v8.mp4
+-rw-r--r-- 1 runner runner  4005376 Nov  1 11:27 v9.mp4
+-rw-r--r-- 1 runner runner      592 Nov  1 11:27 x10.json
+-rw-r--r-- 1 runner runner     1886 Nov  1 11:27 x5.json
+-rw-r--r-- 1 runner runner      605 Nov  1 11:27 x9.json
