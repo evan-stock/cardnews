@@ -1,0 +1,66 @@
+{
+ "id": "20261101-pouty",
+ "created": "2026-11-01T13:23:31.180031+09:00",
+ "items": [
+  {
+   "key": "3692042ca67e",
+   "text": "수의사가 살이 조금 쪘다고 했을 뿐인데요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "집에 오자마자 구석으로 가서 시위 중입니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "4499376a3505",
+   "text": "집에 오자마자 구석으로 가서 시위 중입니다.",
+   "ctx": {
+    "previous_text": "수의사가 살이 조금 쪘다고 했을 뿐인데요.",
+    "next_text": "결국 아빠가 달래러 왔는데요."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "251f65a31e56",
+   "text": "결국 아빠가 달래러 왔는데요.",
+   "ctx": {
+    "previous_text": "집에 오자마자 구석으로 가서 시위 중입니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "399c9853197e",
+   "text": "미국에선 진료받은 개의 59%가 과체중이었답니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
