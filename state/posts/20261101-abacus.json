@@ -1,7 +1,7 @@
 {
  "id": "20261101-abacus",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-01T15:48:10.070076+09:00",
  "publish_at": "2026-11-01T15:48:10.070092+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1651
+ "tg_msg": 1651,
+ "decided_at": "2026-11-01T17:43:03.280154+09:00",
+ "yt_id": "XatWOAEorN8",
+ "permalink": "https://youtube.com/shorts/XatWOAEorN8",
+ "published_at": "2026-11-01T17:43:06.967568+09:00"
 }
