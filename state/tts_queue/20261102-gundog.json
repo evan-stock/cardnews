@@ -1,0 +1,51 @@
+{
+ "id": "20261102-gundog",
+ "created": "2026-11-02T08:35:50.710620+09:00",
+ "items": [
+  {
+   "key": "a4693fcd3b77",
+   "text": "30킬로 사냥개가 처음으로 고양이 있는 집에 놀러 갔는데요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "809a1649f18c",
+   "text": "거실 구석 고양이 때문에 한 발짝도 못 지나갑니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "8106f8577e52",
+   "text": "결국 형님이 번쩍 안아서 데리고 나갑니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
