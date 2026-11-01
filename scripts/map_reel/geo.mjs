@@ -15,7 +15,7 @@ const pad = m.pad || [150, 40, 150, 30];
 let fitObj;
 if (m.bbox) {
   const [x0, y0, x1, y1] = m.bbox;
-  fitObj = { type: 'Feature', geometry: { type: 'Polygon', coordinates: [[[x0, y0], [x1, y0], [x1, y1], [x0, y1], [x0, y0]]] } };
+  fitObj = { type: 'MultiPoint', coordinates: [[x0, y0], [x1, y0], [x1, y1], [x0, y1]] };  // 다각형은 감는 방향 때문에 지구 전체로 잡혀서 점 4개로 맞춤
 } else {
   const ids = (m.fit || m.highlight).map(String);
   fitObj = { type: 'FeatureCollection', features: all.filter(f => ids.includes(f.id)) };
