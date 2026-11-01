@@ -1,40 +1,552 @@
 {
- "since": "2025-09-01",
+ "since": "2026-01-01",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
+   "title": "CAY2",
+   "id": "UCqfgfd5AlVeJsDZ3OgbxoRg",
+   "created": "2026-06-01",
+   "subs": "19",
+   "videos": "21"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
-   "subs": "0",
-   "videos": "4"
+   "title": "Farm life in Spain",
+   "id": "UCNtqiHmDRq8VTJCPHPgMvTw",
+   "created": "2007-10-09",
+   "subs": "633",
+   "videos": "306"
+  },
+  {
+   "title": "템보고가",
+   "id": "UCX4anKcQ6cIEPDmhGgGbt6w",
+   "created": "2023-10-31",
+   "subs": "60",
+   "videos": "117"
+  },
+  {
+   "title": "나은이의 발견",
+   "id": "UCSR0Z4DhTqxM_zO3Y_tZDKw",
+   "created": "2026-03-10",
+   "subs": "79",
+   "videos": "184"
+  },
+  {
+   "title": "카푸의 댕터뷰",
+   "id": "UCMuS5LDMW0Lwm3EpsgwucZg",
+   "created": "2025-08-14",
+   "subs": "6050",
+   "videos": "104"
+  },
+  {
+   "title": "지방녀의 일기",
+   "id": "UCntySyhI-Mr4RTT8KSLFX5g",
+   "created": "2011-04-30",
+   "subs": "106",
+   "videos": "274"
+  },
+  {
+   "title": "팝컷",
+   "id": "UCF2_wMXwOV4lRq0OaeV4plg",
+   "created": "2026-07-23",
+   "subs": "571",
+   "videos": "80"
+  },
+  {
+   "title": "포슬포동체",
+   "id": "UCgcenE5Xiusjc7Vkl2BF3Hw",
+   "created": "2026-04-08",
+   "subs": "2220",
+   "videos": "222"
+  },
+  {
+   "title": "킹찰스 유벼리♡",
+   "id": "UCWxO_3Vsqget4ocowPl36NA",
+   "created": "2020-04-03",
+   "subs": "241",
+   "videos": "216"
+  },
+  {
+   "title": "일분레딧",
+   "id": "UC5GEbutNQEHoUFl2e12__6g",
+   "created": "2026-03-21",
+   "subs": "151",
+   "videos": "219"
+  },
+  {
+   "title": "돈돼지",
+   "id": "UCSyh5dAKKd8xudh7NRKt3LA",
+   "created": "2025-12-18",
+   "subs": "7570",
+   "videos": "221"
+  },
+  {
+   "title": "조희아",
+   "id": "UCwp6aN-1jqfnj4_tQkYQ2LA",
+   "created": "2025-10-24",
+   "subs": "3970",
+   "videos": "219"
+  },
+  {
+   "title": "콩쌈브라더스",
+   "id": "UCDGwNQKkDPp9ZCV-A7GS1jw",
+   "created": "2026-05-10",
+   "subs": "64",
+   "videos": "90"
+  },
+  {
+   "title": "깜꾸아빠",
+   "id": "UCBvKFm13MZVGrfvRjzst_kQ",
+   "created": "2014-05-14",
+   "subs": "239",
+   "videos": "140"
+  },
+  {
+   "title": "아기사슴소보로",
+   "id": "UCgA0YCAE4CZkt09qQlqC0lQ",
+   "created": "2024-03-27",
+   "subs": "91300",
+   "videos": "726"
+  },
+  {
+   "title": "까미행운이",
+   "id": "UCyQRcZI9mSoM2NT7BcJuXww",
+   "created": "2020-11-27",
+   "subs": "586",
+   "videos": "355"
+  },
+  {
+   "title": "우아",
+   "id": "UCZoRKamhIG9bGJgPN89xUtA",
+   "created": "2026-06-14",
+   "subs": "25",
+   "videos": "8"
+  },
+  {
+   "title": "세상은 아직 따뜻해",
+   "id": "UCy58kkqNstqu0JtQ9Xwnarw",
+   "created": "2026-10-03",
+   "subs": "1850",
+   "videos": "34"
+  },
+  {
+   "title": "타이거산",
+   "id": "UC8LrcwnBMg86ND-fBNNZCdg",
+   "created": "2020-06-10",
+   "subs": "124",
+   "videos": "244"
+  },
+  {
+   "title": "Nabbly",
+   "id": "UC2Cnt2EnJmAff76TbJwsS7g",
+   "created": "2026-03-17",
+   "subs": "27",
+   "videos": "26"
+  },
+  {
+   "title": "골댕로그",
+   "id": "UCgm7s38d7MKGO3-NDazlGlg",
+   "created": "2026-02-06",
+   "subs": "25400",
+   "videos": "396"
+  },
+  {
+   "title": "BbBiB",
+   "id": "UCgHDdDEEQo-keUkbw9gZbGQ",
+   "created": "2012-07-03",
+   "subs": "8",
+   "videos": "51"
+  },
+  {
+   "title": "댕크크",
+   "id": "UCw5s3K2GsbMCXfeFbTiQnAQ",
+   "created": "2017-07-13",
+   "subs": "2880",
+   "videos": "240"
+  },
+  {
+   "title": "담이네 무해한 하루",
+   "id": "UCoJHvvQzG8zPdTo8-wT78qw",
+   "created": "2026-02-28",
+   "subs": "76",
+   "videos": "36"
+  },
+  {
+   "title": "라온이네하우스 Raonine House",
+   "id": "UCDwGp3xQZvMkcWdxhOfcMfA",
+   "created": "2019-08-20",
+   "subs": "318000",
+   "videos": "568"
+  },
+  {
+   "title": "슈가파크(SugarPark)",
+   "id": "UC5qnaVZND4ragTVwAjR6xSA",
+   "created": "2013-07-03",
+   "subs": "7500",
+   "videos": "8361"
+  },
+  {
+   "title": "진돗개 로이 Jindo Roy",
+   "id": "UCmFCkXYV8V5msEZ9qudqi9g",
+   "created": "2025-05-18",
+   "subs": "7240",
+   "videos": "219"
+  },
+  {
+   "title": "나는야 박소금",
+   "id": "UCgSl7_DL2hCxksdOM2JZspg",
+   "created": "2025-07-11",
+   "subs": "689",
+   "videos": "20"
+  },
+  {
+   "title": "하찮은 따뭉이",
+   "id": "UCN4IBe_qoJd9cTn7YJMttTw",
+   "created": "2024-01-08",
+   "subs": "8740",
+   "videos": "1638"
+  },
+  {
+   "title": "BearVideoHub",
+   "id": "UCHpDzYlYC81EasYw7p06-Dw",
+   "created": "2024-09-02",
+   "subs": "16",
+   "videos": "17"
+  },
+  {
+   "title": "여우냥",
+   "id": "UCaZFgvIYTL1YTRBEDYJfQhA",
+   "created": "2025-11-14",
+   "subs": "97800",
+   "videos": "291"
+  },
+  {
+   "title": "TinyTale Toons",
+   "id": "UCgZjwMtP-8jfutc46BAxQDA",
+   "created": "2026-07-26",
+   "subs": "1080",
+   "videos": "99"
+  },
+  {
+   "title": "동물쑛",
+   "id": "UCqGA2pYRNqpVCnaztHqO-jA",
+   "created": "2017-11-14",
+   "subs": "113000",
+   "videos": "1043"
+  },
+  {
+   "title": "크림이와 눈땡이",
+   "id": "UCeayXCDueb3RFNsEhfrTl4w",
+   "created": "2026-03-04",
+   "subs": "26",
+   "videos": "18"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "fy5m3QP0r9M",
+   "ch": "라온이네하우스 Raonine House",
+   "cid": "UCDwGp3xQZvMkcWdxhOfcMfA",
+   "date": "2026-04-16",
+   "title": "겁많은 고양이에게 쥐를 선물한 댕댕이의 최후#쥐와 고양이#웃긴동물#귀여운 고양이",
+   "views": 28999942
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "rQjbrnD-cPg",
+   "ch": "여우냥",
+   "cid": "UCaZFgvIYTL1YTRBEDYJfQhA",
+   "date": "2026-05-25",
+   "title": "아기 냥이들이 리트리버를 무서워하자 어미 냥이가 보인 행동",
+   "views": 19745230
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "HmSPZI2Pmxk",
+   "ch": "아기사슴소보로",
+   "cid": "UCgA0YCAE4CZkt09qQlqC0lQ",
+   "date": "2026-02-10",
+   "title": "아기 리트리버가 고양이를 무서워한 이유",
+   "views": 3967864
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "9z94eOJVdwg",
+   "ch": "동물쑛",
+   "cid": "UCqGA2pYRNqpVCnaztHqO-jA",
+   "date": "2026-03-14",
+   "title": "쥐가 고양이를 무서워 하는 이유",
+   "views": 66727
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "MYHQ2mTl10k",
+   "ch": "조희아",
+   "cid": "UCwp6aN-1jqfnj4_tQkYQ2LA",
+   "date": "2026-01-06",
+   "title": "높은 곳을 무서워 하는 강아지 주인 믿고 내려가봐~",
+   "views": 33741
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "yDQ9KLv41Ls",
+   "ch": "골댕로그",
+   "cid": "UCgm7s38d7MKGO3-NDazlGlg",
+   "date": "2026-06-01",
+   "title": "사람을 무서워하는 고양이가 매일 찾아온 이유 #고양이 #동물",
+   "views": 40994
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "gMYta52nE-0",
+   "ch": "팝컷",
+   "cid": "UCF2_wMXwOV4lRq0OaeV4plg",
+   "date": "2026-08-07",
+   "title": "아기 리트리버가 고양이를 무서워하는 이유 #웃긴동물 #귀여운강아지",
+   "views": 38462
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "3g-zfzG6VYw",
+   "ch": "돈돼지",
+   "cid": "UCSyh5dAKKd8xudh7NRKt3LA",
+   "date": "2026-06-27",
+   "title": "개가 고양이를 무서워하는 이유 랭킹 TOP6",
+   "views": 30585
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "m_eoXZ63DKw",
+   "ch": "포슬포동체",
+   "cid": "UCgcenE5Xiusjc7Vkl2BF3Hw",
+   "date": "2026-06-01",
+   "title": "대형견 셰퍼드 무서워 하던 아기 고양이들이  셰퍼드 품에 안기게 된 사연 🐶🐱 안심 #포슬포동체 #대형견 #",
+   "views": 28534
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "4LO01D3Lqnc",
+   "ch": "세상은 아직 따뜻해",
+   "cid": "UCy58kkqNstqu0JtQ9Xwnarw",
+   "date": "2026-10-13",
+   "title": "무서워하는 아기 고양이들 곁에서 가만히 기다린 골든리트리버가 한 행동 #강아지 #고양이 #감동",
+   "views": 14525
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "__r8cBTnMeM",
+   "ch": "카푸의 댕터뷰",
+   "cid": "UCMuS5LDMW0Lwm3EpsgwucZg",
+   "date": "2026-02-24",
+   "title": "강아지가 아기 고양이에게 놀란 이유 #강아지인터뷰",
+   "views": 31167
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "rxcj2k0yXgE",
+   "ch": "진돗개 로이 Jindo Roy",
+   "cid": "UCmFCkXYV8V5msEZ9qudqi9g",
+   "date": "2026-03-19",
+   "title": "큰소리 무서워하는 쫄보개의 변화 #둔감화훈련 #아기백구 #진돗개 #진돗개백구 #진돗개사랑 #진돗개쇼츠 #강아",
+   "views": 14404
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "pO871YuSXDo",
+   "ch": "일분레딧",
+   "cid": "UC5GEbutNQEHoUFl2e12__6g",
+   "date": "2026-07-03",
+   "title": "엄마를 무서워하는 강아지들 반응ㅋㅋ",
+   "views": 5783
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "i3rT3Qat0FM",
+   "ch": "우아",
+   "cid": "UCZoRKamhIG9bGJgPN89xUtA",
+   "date": "2026-06-24",
+   "title": "강아지는 고양이가 무서워",
+   "views": 4221
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "hp5HOaX8eNM",
+   "ch": "Nabbly",
+   "cid": "UC2Cnt2EnJmAff76TbJwsS7g",
+   "date": "2026-03-30",
+   "title": "강아지 보는건 좋은데 무서워하는 사람 특        #강아지 #갱얼쥐 #공원 #산책 #썰 #공감 #아침운동",
+   "views": 2733
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "PArNKWh_iKU",
+   "ch": "나는야 박소금",
+   "cid": "UCgSl7_DL2hCxksdOM2JZspg",
+   "date": "2026-05-09",
+   "title": "수박 무서워하는 강아지  #쫄보 #비숑프리제 #강아지 #강아지브이로그 #수박 #여름 #수박먹방",
+   "views": 4496
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "sR_K0uZkoe8",
+   "ch": "하찮은 따뭉이",
+   "cid": "UCN4IBe_qoJd9cTn7YJMttTw",
+   "date": "2026-10-15",
+   "title": "물 무서워 하는 강아지랑 첫 남해여행 ㅋㅋ",
+   "views": 2695
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "x8Vmjb_8GM0",
+   "ch": "나은이의 발견",
+   "cid": "UCSR0Z4DhTqxM_zO3Y_tZDKw",
+   "date": "2026-10-27",
+   "title": "겁 많은 강아지와 고양이 그리고 아기",
+   "views": 1456
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "ZM90IdjsCOw",
+   "ch": "까미행운이",
+   "cid": "UCyQRcZI9mSoM2NT7BcJuXww",
+   "date": "2026-03-16",
+   "title": "#개와 고양이 #  냥이 무서워하는  강아지",
+   "views": 1480
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "DTHZtNno9U8",
+   "ch": "CAY2",
+   "cid": "UCqfgfd5AlVeJsDZ3OgbxoRg",
+   "date": "2026-06-22",
+   "title": "아기 고양이를 무서워하는 1살 강아지 ㅋㅋㅋ#shorts#4k",
+   "views": 1598
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "GHzYobfK_80",
+   "ch": "크림이와 눈땡이",
+   "cid": "UCeayXCDueb3RFNsEhfrTl4w",
+   "date": "2026-03-09",
+   "title": "&quot;무서워하는 고양이 안심시키는 강아지💕 | 크림이♥눈땡이 일상 #shorts&quot;",
+   "views": 2678
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "4gqpqw_yGJg",
+   "ch": "깜꾸아빠",
+   "cid": "UCBvKFm13MZVGrfvRjzst_kQ",
+   "date": "2026-05-24",
+   "title": "쥐 무서워하는 고양이 #강아지 #고양이 #dog #cat",
+   "views": 1033
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "nU4dqEnecYQ",
+   "ch": "슈가파크(SugarPark)",
+   "cid": "UC5qnaVZND4ragTVwAjR6xSA",
+   "date": "2026-07-31",
+   "title": "드라이아이스 무서워하는 고양이와 강아지🐾 #로빈 #개냥이 #토리 #진도믹스  #겁쟁이",
+   "views": 820
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "AHDi5pPEims",
+   "ch": "댕크크",
+   "cid": "UCw5s3K2GsbMCXfeFbTiQnAQ",
+   "date": "2026-02-25",
+   "title": "강아지들이 로봇청소기를 무서워하는 이유 😂 #하늘멍냥 #강아지 #고양이 #반려견 #반려묘 #멍멍 #냥냥 #멍",
+   "views": 589
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "U0_N6-LCVdI",
+   "ch": "담이네 무해한 하루",
+   "cid": "UCoJHvvQzG8zPdTo8-wT78qw",
+   "date": "2026-05-14",
+   "title": "고양이 무서워 하는 나도 예뻐한다",
+   "views": 938
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "DkHph7dYPZY",
+   "ch": "킹찰스 유벼리♡",
+   "cid": "UCWxO_3Vsqget4ocowPl36NA",
+   "date": "2026-01-29",
+   "title": "옷 입기 무서워하는 아기강아지 킹찰스ㅋ 애기때네~",
+   "views": 342
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "BNwYzDZAfRE",
+   "ch": "지방녀의 일기",
+   "cid": "UCntySyhI-Mr4RTT8KSLFX5g",
+   "date": "2026-05-27",
+   "title": "광교 고양이카페 도전 브이로그- 고양이 무서워하는 딸과 고양이카페 도전한날. 힐링타임 고양이❤️.",
+   "views": 404
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "2pnhOm-FNNo",
+   "ch": "콩쌈브라더스",
+   "cid": "UCDGwNQKkDPp9ZCV-A7GS1jw",
+   "date": "2026-05-10",
+   "title": "쥐 무서워 하는 고양이 #고양이일상 #고양이동영상 #브리티시쇼트헤어 #쥐띠운세 #고양이 #고양이쇼츠 #고양이",
+   "views": 19
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "yngft9VWkII",
+   "ch": "타이거산",
+   "cid": "UC8LrcwnBMg86ND-fBNNZCdg",
+   "date": "2026-07-18",
+   "title": "고양이 무서워하는 엄마 근황",
+   "views": 8
+  },
+  {
+   "q": "아기고양이 무서워하는 강아지",
+   "vid": "__LZXvIzmPk",
+   "ch": "BbBiB",
+   "cid": "UCgHDdDEEQo-keUkbw9gZbGQ",
+   "date": "2026-09-05",
+   "title": "고양이가 물을 무서워하는 진짜 이유",
+   "views": 5
+  },
+  {
+   "q": "고양이 보고 도망가는 대형견",
+   "vid": "JqInsI8SW1U",
+   "ch": "템보고가",
+   "cid": "UCX4anKcQ6cIEPDmhGgGbt6w",
+   "date": "2026-10-11",
+   "title": "대형견이 미쳐버린 꽃게 · 도망가는 꽃게 장난감 #쇼츠",
+   "views": 1450
+  },
+  {
+   "q": "hunting dog scared of kitten",
+   "vid": "himLZlTww00",
+   "ch": "TinyTale Toons",
+   "cid": "UCgZjwMtP-8jfutc46BAxQDA",
+   "date": "2026-08-09",
+   "title": "A Tiny Kitten Saved an Injured Bird... Then a Hero Dog Arriv",
+   "views": 184676
+  },
+  {
+   "q": "hunting dog scared of kitten",
+   "vid": "mKxPhk29KQI",
+   "ch": "Farm life in Spain",
+   "cid": "UCNtqiHmDRq8VTJCPHPgMvTw",
+   "date": "2026-07-26",
+   "title": "This white kitten has ZERO fear! 😹​#funnykittens #funnycatsa",
+   "views": 941
+  },
+  {
+   "q": "pointer scared of kitten",
+   "vid": "YsD3UnaB2KA",
+   "ch": "BearVideoHub",
+   "cid": "UCHpDzYlYC81EasYw7p06-Dw",
+   "date": "2026-06-06",
+   "title": "Caption:😹 Cat gets scared by a laser pointer! Watch this hil",
+   "views": 2015
   }
  ]
 }
