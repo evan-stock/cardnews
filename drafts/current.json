@@ -1,140 +1,15 @@
-[
- {
-  "id": "20261101-genzde",
-  "slot": "evening",
-  "mode": "send",
-  "topic": "독일 Z세대 시위(10.31): 낮 평화 행진 → 밤 베를린 체포 56·프랑크푸르트 약탈·쾰른 물대포 (영상 캐러셀)",
-  "category": "국제이슈·유럽시위",
-  "emotion": "불안·허탈(평화 시위가 밤의 폭력·약탈에 묻혔다)",
-  "risk": "약탈은 베를린이 아니라 프랑크푸르트. 이민자·집단 탓 게시물 제외. 정치 깃발·배너 크롭. 표지 얼굴 흐림. loot 영상 정확한 촬영 위치는 원 게시물도 '미확인' → 프랑크푸르트 시내로만 표기.",
-  "slides": [
-   {
-    "t": "독일 Z세대 시위, 낮엔 평화 행진\n밤엔 '약탈'까지 터졌다",
-    "lay": "one"
-   },
-   {
-    "sub": "오후 · 베를린 브란덴부르크 문",
-    "t": "낮엔 5,000명\n'평화' 행진",
-    "b": "경찰 집계 약 5,000명이 모여 학교 예산·생활비·징병제 반대를 외쳤습니다. 독일 30여 개 도시에서 같은 시위가 열렸습니다.",
-    "video": {
-     "src": "video/day.mp4",
-     "start": 0,
-     "dur": 5,
-     "x": 0.5,
-     "y": 0.5,
-     "audio": true
-    }
-   },
-   {
-    "sub": "저녁 · 베를린 로젠탈러 광장",
-    "t": "밤 행진엔 복면,\n돌·병·폭죽이 날아왔다",
-    "b": "시위 단체가 선을 그은 별도 행진(최대 3,500명)에서 경찰에게 돌·병·계란·폭죽이 날아들었습니다.",
-    "video": {
-     "src": "video/flare.mp4",
-     "start": 0,
-     "dur": 5,
-     "x": 0.5,
-     "y": 0.5,
-     "audio": true
-    }
-   },
-   {
-    "sub": "베를린 · 경찰 발표",
-    "t": "트램까지 멈췄다\n경찰 27명 부상, '56명' 체포",
-    "b": "경찰은 행진을 목적지 전에 멈춰 세웠습니다. 다친 경찰 27명은 경상으로 근무를 이어갔습니다.",
-    "video": {
-     "src": "video/tram.mp4",
-     "start": 0,
-     "dur": 5,
-     "x": 0.5,
-     "y": 0.5,
-     "audio": true
-    }
-   },
-   {
-    "sub": "밤 · 프랑크푸르트 시내",
-    "t": "깨진 쇼윈도 안으로\n'약탈'이 시작됐다",
-    "b": "dpa 기자들은 사람들이 가게에 들어가 운동화 등을 훔치는 장면을 봤습니다. 총포상 유리창도 깨졌습니다.",
-    "video": {
-     "src": "video/loot.mp4",
-     "start": 0,
-     "dur": 5.5,
-     "x": 0.5,
-     "y": 0.5,
-     "audio": true
-    }
-   },
-   {
-    "sub": "프랑크푸르트 · 차일 거리",
-    "t": "경찰에 '화염병',\n특공대까지 투입",
-    "b": "화염병과 폭죽이 날아들자 특공대와 물대포가 투입됐고, 밤 10시 무렵 쇼핑가 차일 거리가 통제됐습니다.",
-    "video": {
-     "src": "video/zeil.mp4",
-     "start": 0,
-     "dur": 5,
-     "x": 0.5,
-     "y": 0.5,
-     "audio": true
-    }
-   },
-   {
-    "sub": "쾰른",
-    "t": "쾰른엔\n'물대포'",
-    "b": "쾰른에서도 경찰이 물대포로 시위대를 밀어냈습니다.",
-    "video": {
-     "src": "video/koeln.mp4",
-     "start": 0,
-     "dur": 5,
-     "x": 0.5,
-     "y": 0.5,
-     "audio": true
-    }
-   },
-   {
-    "t": "낮 5천 명의 목소리를\n밤의 '약탈'이 덮었다",
-    "b": "유럽 시위 관심 있는 친구에게 · 후속은 팔로우하면 먼저"
-   }
-  ],
-  "images": [
-   "cover",
-   "cover",
-   "cover",
-   "cover",
-   "cover",
-   "cover",
-   "cover",
-   "cover"
-  ],
-  "sources": [
-   {
-    "publisher": "dpa",
-    "date": "2026.10.31"
-   },
-   {
-    "publisher": "Berliner Zeitung",
-    "date": "2026.10.31"
-   },
-   {
-    "publisher": "t-online",
-    "date": "2026.10.31"
-   },
-   {
-    "publisher": "Tagesspiegel",
-    "date": "2026.10.31"
-   }
-  ],
-  "photo_credits": [
-   "Tagesspiegel",
-   "Instagram @berlintipsbyjuan·@dasistberlinbitch·@gbr.nachrichten·@trusted69flagger·@5vision·@hochumstritten"
-  ],
-  "hashtags": [
-   "독일시위",
-   "Z세대",
-   "프랑크푸르트",
-   "베를린",
-   "유럽시위"
-  ],
-  "caption": "[독일 Z세대 시위, 낮엔 평화 행진 밤엔 약탈까지]\n\n핼러윈인 10월 31일(현지시간) 독일 30여 개 도시에서 Z세대 시위 'Gen Z regelt(Z세대가 해낸다)'가 열렸습니다. 베를린 브란덴부르크 문 앞에는 경찰 집계 약 5,000명이 모여 학교 예산과 생활비, 징병제 반대를 외쳤고, 낮 집회는 충돌 없이 끝났습니다.\n\n분위기는 해가 지면서 바뀌었습니다. 베를린에서는 시위 단체가 선을 그은 별도 행진에서 경찰에게 돌과 병, 폭죽이 날아들었고, 트램이 멈춰 섰습니다. 경찰관 27명이 가볍게 다쳤고 56명이 체포됐습니다. 프랑크푸르트에서는 깨진 쇼윈도로 사람들이 가게에 들어가 물건을 훔쳤고, 총포상까지 공격받았습니다. 경찰에게 화염병이 날아들자 특공대와 물대포가 투입됐습니다. 쾰른에서도 물대포가 쓰였습니다.\n\n평화 시위의 목소리, 밤의 약탈에 묻혀도 괜찮을까요?\n\n유럽 시위 관심 있는 친구에게 보내주세요! 후속 소식은 팔로우하면 먼저 받아보실 수 있습니다.",
-  "publish_at": "2026-11-01T11:57:33+09:00"
- }
-]
+[{"id":"20261101-brickballot","slot":"evening","mode":"collect",
+"image_pages":[
+"https://www.dailyjn.com/news/articleView.html?idxno=104777",
+"https://www.freezinenews.com/news/articleView.html?idxno=31008",
+"https://www.truthdaily.co.kr/news/articleView.html?idxno=6969",
+"https://www.polinews.co.kr/news/articleView.html?idxno=747139",
+"https://fnnews.com/news/202610301802586507",
+"https://biz.heraldcorp.com/article/10920972",
+"https://www.khan.co.kr/article/202606071553001",
+"https://www.mindlenews.com/news/articleView.html?idxno=11812",
+"https://www.pennmike.com/news/articleView.html?idxno=116268",
+"https://news.nate.com/view/20261030n29727",
+"https://www.dt.co.kr/article/12091955"
+],
+"slides":[{"t":"x"}],"images":[]}]
