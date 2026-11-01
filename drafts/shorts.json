@@ -1,174 +1,175 @@
 {
- "id": "20261101-otternap",
+ "id": "20261101-pouty",
  "mode": "send",
  "format": "meme",
- "topic": "사육사 무릎에서 낮잠 자던 작은발톱수달 핑을 깨우자 입이 찢어지게 하품하고 버티다 결국 돌아누움(틱톡 @maggaroninchees, 미국 플로리다 사육사 매기, 2026.2.4 게시, 약 1,000만 회·좋아요 190만+, Newsweek 2026.3.27 보도). 동물쑛 '~하면 안되는 이유' 틀. 사실: Woodland Park Zoo — 작은발톱수달은 수달 13종 중 가장 작고, 최소 12가지 소리를 내는 수다쟁이.",
+ "topic": "수의사에게 '살짝 과체중'이라는 말을 듣고 집에 와서 부엌 구석 벽만 보고 삐진 골든리트리버 매버릭, 아빠가 달래자 결국 슬픈 눈으로 돌아보고 핥아 줌(틱톡 @imbluethesiberiann, The Moriarty Family, 300만 회+, PetHelpful 2026.10.20·Yahoo 2026.10.28 보도). 펫스파이 '~했다가 제대로 삐진 ○○' 틀. 원본에 덧입힌 피아노 음악이 전 구간에 깔려 있어 원본 소리 전부 끔. 사실: APOP 2022 — 미국 수의사 진료에서 개 59%가 과체중·비만.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.8,
+ "bgm_volume": 2.0,
  "sfx_max": 4,
  "hook": {
-  "t": "낮잠 자는 수달\n'깨우면 안 되는 이유ㅋㅋ'"
+  "t": "살쪘다는 말 듣고\n'제대로 삐진 골든ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @maggaroninchees"
+  "TikTok @imbluethesiberiann"
  ],
  "scenes": [
   {
-   "dur": 2.8,
+   "dur": 1.9,
    "video": {
-    "src": "../20261101-cand/video/v1.mp4",
-    "start": 0.0,
+    "src": "video/v1.mp4",
+    "start": 8.0,
     "x": 0.5,
-    "y": 0.45,
-    "audio": 6,
-    "blur": [
-     [
-      155,
-      720,
-      380,
-      120
-     ]
-    ]
+    "y": 0.5,
+    "audio": 0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(하아아아암)",
+     "t": "(벽만 봄)",
      "x": 0.3,
      "y": 0.12,
-     "at": 0.1,
-     "to": 2.7,
-     "s": "boing",
+     "at": 0.0,
+     "to": 1.9,
+     "s": "dundun",
      "sv": 0.7
     },
     {
      "k": "talk",
-     "t": "누가 깨웠냐...",
-     "x": 0.7,
-     "y": 0.62,
-     "at": 0.9,
-     "to": 2.8
+     "t": "말 시키지 마.",
+     "x": 0.68,
+     "y": 0.3,
+     "at": 0.4,
+     "to": 1.9
     }
    ]
   },
   {
-   "say": "이 수달, 사육사 무릎에서 낮잠 자다 방금 깼습니다.",
+   "say": "수의사가 살이 조금 쪘다고 했을 뿐인데요.",
    "video": {
-    "src": "../20261101-cand/video/v1.mp4",
-    "start": 2.8,
+    "src": "video/v1.mp4",
+    "start": 10.0,
     "x": 0.5,
-    "y": 0.45,
-    "audio": 0.4,
-    "blur": [
-     [
-      155,
-      720,
-      380,
-      120
-     ]
-    ]
-   },
-   "caps": []
-  },
-  {
-   "dur": 2.2,
-   "video": {
-    "src": "../20261101-cand/video/v1.mp4",
-    "start": 9.0,
-    "x": 0.5,
-    "y": 0.45,
-    "audio": 5
+    "y": 0.5,
+    "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "코는 건드리지 마라",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.1,
-     "to": 2.2,
-     "s": "question",
-     "sv": 0.7
+     "t": "털이 찐 거거든?",
+     "x": 0.45,
+     "y": 0.22,
+     "at": 0.6
     }
    ]
   },
   {
-   "dur": 2.0,
+   "say": "집에 오자마자 구석으로 가서 시위 중입니다.",
    "video": {
-    "src": "../20261101-cand/video/v1.mp4",
-    "start": 11.8,
+    "src": "video/v1.mp4",
+    "start": 15.0,
     "x": 0.5,
-    "y": 0.45,
-    "audio": 6
+    "y": 0.5,
+    "audio": 0
+   },
+   "caps": []
+  },
+  {
+   "say": "결국 아빠가 달래러 왔는데요.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 25.6,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
+   "caps": []
+  },
+  {
+   "dur": 3.9,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 36.0,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(쩌어억)",
-     "x": 0.25,
-     "y": 0.15,
-     "at": 0.2,
-     "to": 2.0
+     "t": "(슬쩍)",
+     "x": 0.72,
+     "y": 0.2,
+     "at": 0.4,
+     "to": 2.4
     },
     {
      "k": "talk",
-     "t": "5분만 더...",
-     "x": 0.72,
-     "y": 0.2,
-     "at": 0.6,
-     "to": 2.0
+     "t": "...진짜 안 뚱뚱해?",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 2.6,
+     "to": 3.9,
+     "s": "sparkle",
+     "sv": 0.6
     }
    ]
   },
   {
-   "say": "사육사는 이 순간이 일하면서 제일 괴롭다고 하네요.",
+   "dur": 2.6,
    "video": {
-    "src": "../20261101-cand/video/v1.mp4",
-    "start": 14.0,
+    "src": "video/v1.mp4",
+    "start": 40.0,
     "x": 0.5,
-    "y": 0.45,
-    "audio": 0.4
+    "y": 0.5,
+    "audio": 0
    },
-   "caps": []
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(할짝)",
+     "x": 0.7,
+     "y": 0.15,
+     "at": 0.9,
+     "to": 2.6,
+     "s": "pop",
+     "sv": 0.7
+    },
+    {
+     "k": "talk",
+     "t": "이번만 봐준다",
+     "x": 0.5,
+     "y": 0.3,
+     "at": 1.0,
+     "to": 2.6
+    }
+   ]
   },
   {
-   "say": "작은발톱수달은 수달 중 가장 작고, 열두 가지 넘는 소리로 말한답니다.",
+   "say": "미국에선 진료받은 개의 59%가 과체중이었답니다.",
    "video": {
-    "src": "../20261101-cand/video/v1.mp4",
-    "start": 17.0,
+    "src": "video/v1.mp4",
+    "start": 43.0,
     "x": 0.5,
-    "y": 0.45,
-    "audio": 0.4
+    "y": 0.5,
+    "audio": 0,
+    "boomerang": true
    },
    "caps": [
     {
      "k": "desc",
-     "t": "작은발톱수달은 수달 13종 중 가장 작고\n최소 12가지 소리로 대화한대요\n(우드랜드파크 동물원)",
+     "t": "미국 수의사 진료 개 59%가\n과체중·비만이었대요\n(미국 반려동물비만예방협회 2022)",
      "x": 0.5,
      "y": 0.12,
-     "at": 0.3,
-     "size": 50
-    }
-   ]
-  },
-  {
-   "dur": 2.4,
-   "video": {
-    "src": "../20261101-cand/video/v1.mp4",
-    "start": 20.4,
-    "x": 0.5,
-    "y": 0.45,
-    "audio": 4
-   },
-   "caps": [
+     "at": 0.2,
+     "size": 48
+    },
     {
      "k": "talk",
-     "t": "안 일어나. 끝.",
-     "x": 0.6,
-     "y": 0.15,
-     "at": 0.6,
-     "to": 2.4,
+     "t": "난 그 41%야",
+     "x": 0.35,
+     "y": 0.4,
+     "at": 1.0,
      "s": "fail",
      "sv": 0.6
     }
@@ -177,31 +178,36 @@
  ],
  "sources": [
   {
-   "publisher": "TikTok @maggaroninchees",
-   "url": "https://www.tiktok.com/@maggaroninchees/video/7603160151675112718",
-   "date": "2026-02-04"
+   "publisher": "TikTok @imbluethesiberiann (The Moriarty Family)",
+   "url": "https://www.tiktok.com/@imbluethesiberiann/video/7697732841244822814",
+   "date": "2026-10"
   },
   {
-   "publisher": "Newsweek - Otter's Relationship With Sanctuary Keeper Melts Hearts",
-   "url": "https://www.newsweek.com/otters-relationship-sanctuary-keeper-melts-hearts-11734479",
-   "date": "2026-03-27"
+   "publisher": "PetHelpful - Golden Retriever Gets Told He's Overweight at the Vet and His Offended Reaction Is Priceless",
+   "url": "https://pethelpful.com/pet-news/golden-retriever-pouting-corner-after-vet-weight-news",
+   "date": "2026-10-20"
   },
   {
-   "publisher": "Woodland Park Zoo Blog - Welcome little Sotong, an Asian small-clawed otter",
-   "url": "https://blog.zoo.org/2022/02/welcome-little-sotong-asian-small.html",
-   "date": "2022-02"
+   "publisher": "Yahoo - Golden Retriever Maverick Pouts After Vet's Weight Comment",
+   "url": "https://www.yahoo.com/lifestyle/articles/golden-retriever-maverick-pouts-vets-200500514.html",
+   "date": "2026-10-28"
+  },
+  {
+   "publisher": "Association for Pet Obesity Prevention - 2022 State of Pet Obesity Report",
+   "url": "https://www.petobesityprevention.org/2022-state-of-pet-obesity-report-summary",
+   "date": "2022"
   }
  ],
  "yt": {
-  "title": "낮잠 자는 수달 깨우면 안 되는 이유ㅋㅋ #shorts",
-  "description": "사육사 무릎에서 꿀잠 자던 수달 핑ㅋㅋ 깨우자마자 입이 찢어지게 하품하고, 끝까지 안 일어나고 버팁니다.\n\n작은발톱수달은 수달 13종 중 가장 작고, 최소 12가지 소리로 대화하는 수다쟁이래요.\n\n여러분 반려동물도 깨우면 이런 표정 짓나요?\n\n영상: TikTok @maggaroninchees\n참고: Newsweek, Woodland Park Zoo\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "수의사한테 살쪘다는 말 듣고 제대로 삐진 골든리트리버ㅋㅋ #shorts",
+  "description": "병원에서 '살짝 통통하네요' 한마디 듣고 온 골든 매버릭ㅋㅋ 집에 오자마자 구석에서 벽만 보고 시위합니다. 아빠가 달래 주자 결국 슬쩍 돌아보는데...\n\n미국 반려동물비만예방협회(APOP) 2022년 조사에선 진료받은 개의 59%가 과체중·비만이었대요.\n\n여러분 댕댕이도 삐지면 구석 가나요?\n\n영상: TikTok @imbluethesiberiann (The Moriarty Family)\n참고: PetHelpful, Yahoo, APOP\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "수달",
-   "작은발톱수달",
-   "낮잠",
-   "하품",
+   "골든리트리버",
+   "강아지",
+   "삐짐",
+   "댕댕이",
+   "강아지다이어트",
    "귀여운동물",
-   "동물원",
    "동물쇼츠",
    "오늘의털뭉치"
   ],
