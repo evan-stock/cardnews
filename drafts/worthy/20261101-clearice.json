@@ -1,0 +1,117 @@
+{
+ "id": "20261101-clearice",
+ "media": "media/20261101-clearice",
+ "topic": "바닥이 다 보이는 투명한 호수 얼음 위 스케이트 — 위험해 보이지만 기포 없이 천천히 언 투명 얼음이 가장 단단하고, 하얀 눈얼음은 그 절반(미네소타 DNR). 공기가 빠지며 천천히 얼어야 투명해짐(Gizmodo). 블랙아이스가 안 보이는 것도 같은 투명 얼음이기 때문. 사용자가 11.01 20:17 회차 후보 중 4번을 직접 고름.",
+ "hook": {
+  "t": "물 위를 '걷는' 듯한\n투명 얼음의 정체ㄷㄷ"
+ },
+ "credit": "영상: TikTok @laura.kottlowski · @elladjbalde",
+ "bgm": {
+  "file": "assets/bgm/worthy/inescapable.mp3",
+  "start": 107.0,
+  "vol": 0.49
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @laura.kottlowski https://www.tiktok.com/@laura.kottlowski/video/7444733564949744939 (2024.12.5, 조회 1,940만·좋아요 120만 — 11.01 media/20261101-wm2/video/v6.info.json 확인), 촬영자 본인.",
+  "영상: TikTok @elladjbalde https://www.tiktok.com/@elladjbalde/video/7306686658827619627 (캐나다 밴프 국립공원 'wild ice', 2023.11.29, 조회 29.6만 — media/20261101-wm2/video/v4.info.json), 촬영자 본인. 크롭·확대·슬로 가공."
+ ],
+ "sources": [
+  {
+   "publisher": "Minnesota DNR — 하얀 얼음(눈얼음)은 새 투명 얼음의 약 절반 강도, 걸어서 활동은 투명 얼음 4인치(약 10cm) 이상",
+   "url": "https://dnr.state.mn.us/safety/ice/thickness.html"
+  },
+  {
+   "publisher": "Gizmodo — 투명 얼음은 고요한 호수에서 천천히 얼며 공기가 빠져나가 기포가 거의 없고 결정이 커서 투명",
+   "url": "https://gizmodo.com/whats-the-explanation-behind-this-incredible-lake-walki-1669578742"
+  },
+  {
+   "publisher": "Smithsonian — 완전히 투명한 얼어붙은 호수",
+   "url": "https://www.smithsonianmag.com/smart-news/backpackers-walk-across-completely-clear-frozen-lake-180953590/"
+  }
+ ],
+ "_note": "클립은 미리 만든 1080x780(-an, 대비·채도 살짝↑). A=wm2 v4 5.3~8.1 crop 576x416+0+440(밴프, 가라앉은 나무 위 운동화), B=v6 8.0~10.8 crop 576x416+0+380, C=v6 3.1~5.8 crop +0+420(돌 들고 던짐), D=v6 13.0~15.8 crop +0+260(셀카), E=v6 25.2~26.8 crop 480x347+96+80(1.2배, 0.6배 슬로, 하얀 얼음 조각), F=v4 12.3~15.5 crop +0+520(검고 투명한 얼음·금·통나무), G=v6 36~39 crop +0+400, H=v6 50~53.4 crop +0+400.",
+ "scenes": [
+  {
+   "text": "스케이트 아래로 '나무'가 둥둥",
+   "video": {
+    "src": "video/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "발밑이 전부 호수 '바닥'이다",
+   "video": {
+    "src": "video/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "이렇게 투명하면 금방 깨질 것 같은데",
+   "video": {
+    "src": "video/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "알고 보니 '투명한' 얼음이 제일 단단하다",
+   "video": {
+    "src": "video/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "하얀 얼음은 공기 방울투성이라 힘이 '절반'",
+   "video": {
+    "src": "video/E.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "바람 없이 '천천히' 얼면 공기가 빠져 유리처럼 맑아진다",
+   "video": {
+    "src": "video/F.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "도로 '블랙아이스'가 안 보이는 것도 같은 이유",
+   "video": {
+    "src": "video/G.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "그래도 두께 10cm 전엔 금지! 겨울 상식 더 보려면 구독",
+   "video": {
+    "src": "video/H.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.2
+  }
+ ]
+}
