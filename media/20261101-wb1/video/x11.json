@@ -1,0 +1,20 @@
+{
+ "src": "fxtwitter",
+ "author": "YellowstoneNPS",
+ "name": "Yellowstone National Park",
+ "date": "Thu Oct 08 14:30:00 +0000 2020",
+ "text": "The red fox is a superb hunter.\n\nWith their well-developed sense of hearing and ability to utilize Earth's magnetic field, a red fox can hear very low-frequency sounds of prey beneath 3 feet of snow and pounce on it with remarkable accuracy!\n\nLearn more: https://www.nps.gov/yell/learn/nature/red-fox.htm",
+ "views": null,
+ "likes": 1590,
+ "retweets": 277,
+ "quote": null,
+ "url": "https://x.com/YellowstoneNPS/status/1314211448139051016",
+ "id": "1314211448139051016",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "사진만",
+ "card": null,
+ "quote_url": null
+}

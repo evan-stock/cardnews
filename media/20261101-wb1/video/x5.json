@@ -1,0 +1,22 @@
+{
+ "src": "fxtwitter",
+ "author": "CBSNews",
+ "name": "CBS News",
+ "date": "Sat Jan 15 23:00:14 +0000 2022",
+ "text": "RARE ICE DISK: A spectacular rotating ice disk formed in a river in Westbrook, Maine, video filmed by the City of Westbrook shows. The viral disk made its first appearance in 2019 before partially forming again in 2020.",
+ "views": null,
+ "likes": 882,
+ "retweets": 173,
+ "quote": null,
+ "url": "https://x.com/CBSNews/status/1482487820350627842",
+ "id": "1482487820350627842",
+ "videos": [
+  {
+   "url": "https://video.twimg.com/amplify_video/1482487769947688971/vid/720x720/4BbhJJ6KCUi3IXLE.mp4?tag=14",
+   "w": 1080,
+   "h": 1080,
+   "dur": 48.21
+  }
+ ],
+ "errors": []
+}
