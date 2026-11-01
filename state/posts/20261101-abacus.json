@@ -1,0 +1,37 @@
+{
+ "id": "20261101-abacus",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-01T15:19:19.981021+09:00",
+ "publish_at": "2026-11-01T15:19:19.981034+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 암산 대회 아이들이 허공에 손가락을 튕기는 이유 — 머릿속 주판알 튕기기 (음악 교체본: Subway Dreams, 미리보기 다시 보냄)",
+ "sources": [],
+ "seconds": 18.3,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261101-abacus/short_card.mp4"
+ ],
+ "yt": {
+  "title": "시험 중에 손을 휘젓는 아이들의 정체ㄷㄷ #shorts",
+  "description": "중국 란저우 어린이 암산 대회(2019, 245명·15분). 아이들이 허공에 손가락을 파닥파닥 튕기는 건 장난이 아니라, 머릿속에 그린 주판의 알을 손가락으로 옮기는 '주산식 암산'이에요. 연구에선 중급 아이들은 손을 못 쓰게 하면 점수가 떨어졌고, 고급 아이들은 손 없이도 똑같이 풀었어요(6~8세 대상 연구라 모든 경우에 해당하진 않아요).\n\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: Sixth Tone·That's China(2019.10.12), Cho & So(2018) Frontiers in Psychology, Frank & Barner(2011) J. Exp. Psych: General\n영상: 梨视频 Pear Video(중국 란저우 암산 대회, 2019)\n\n#암산 #주산 #주판 #신기한영상 #공부 #쇼츠",
+  "tags": [
+   "암산",
+   "주산",
+   "주판",
+   "주산암산",
+   "암산대회",
+   "중국",
+   "신기한영상",
+   "공부",
+   "오늘의쓸모"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "tg_msg": 1649
+}
