@@ -1,0 +1,33 @@
+ERROR: [twitter] 1384590731705212930: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/rcmpmb/status/1384590731705212930
+실패: https://x.com/rcmpmb/status/1384590731705212930
+ERROR: [twitter] 1892227730990637489: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+영상 없는 글(글만/삭제됨): https://x.com/ABC7Chicago/status/1892227730990637489
+실패: https://x.com/ABC7Chicago/status/1892227730990637489
+ERROR: [twitter] 2028350352890761698: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/WMUR9/status/2028350352890761698
+실패: https://x.com/WMUR9/status/2028350352890761698
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://local12.com/news/nation-world/you-could-hear-it-go-boom-gas-pump-erupts-in-flames-at-sheetz-in-virginia?-yt
+영상 없는 글(사진만): https://x.com/Local12/status/2116413615553102076
+실패: https://x.com/Local12/status/2116413615553102076
+total 25740
+drwxr-xr-x 2 runner runner     4096 Nov  1 00:39 .
+drwxr-xr-x 3 runner runner     4096 Nov  1 00:39 ..
+-rw-r--r-- 1 runner runner     1153 Nov  1 00:39 log.txt
+-rw-r--r-- 1 runner runner    25766 Nov  1 00:39 v1.info.json
+-rw-r--r-- 1 runner runner  2689390 Nov  1 00:39 v1.mp4
+-rw-r--r-- 1 runner runner    25867 Nov  1 00:39 v10.info.json
+-rw-r--r-- 1 runner runner  3178521 Nov  1 00:39 v10.mp4
+-rw-r--r-- 1 runner runner    19303 Nov  1 00:39 v5.info.json
+-rw-r--r-- 1 runner runner 12517531 Nov  1 00:39 v5.mp4
+-rw-r--r-- 1 runner runner    19590 Nov  1 00:39 v7.info.json
+-rw-r--r-- 1 runner runner  3262714 Nov  1 00:39 v7.mp4
+-rw-r--r-- 1 runner runner    22488 Nov  1 00:39 v8.info.json
+-rw-r--r-- 1 runner runner  3104607 Nov  1 00:39 v8.mp4
+-rw-r--r-- 1 runner runner    21290 Nov  1 00:39 v9.info.json
+-rw-r--r-- 1 runner runner  1413444 Nov  1 00:39 v9.mp4
+-rw-r--r-- 1 runner runner      688 Nov  1 00:39 x2.json
+-rw-r--r-- 1 runner runner      763 Nov  1 00:39 x3.json
+-rw-r--r-- 1 runner runner      632 Nov  1 00:39 x4.json
+-rw-r--r-- 1 runner runner      482 Nov  1 00:39 x6.json
