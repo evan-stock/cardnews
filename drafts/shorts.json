@@ -1,164 +1,268 @@
 {
- "id": "20261101-pouty",
+ "id": "20261101-catnanny",
  "mode": "send",
  "format": "meme",
- "topic": "수의사에게 '살짝 과체중'이라는 말을 듣고 집에 와서 부엌 구석 벽만 보고 삐진 골든리트리버 매버릭, 아빠가 달래자 결국 슬픈 눈으로 돌아보고 핥아 줌(틱톡 @imbluethesiberiann, The Moriarty Family, 300만 회+, PetHelpful 2026.10.20·Yahoo 2026.10.28 보도). 펫스파이 '~했다가 제대로 삐진 ○○' 틀. 원본에 덧입힌 피아노 음악이 전 구간에 깔려 있어 원본 소리 전부 끔. 사실: APOP 2022 — 미국 수의사 진료에서 개 59%가 과체중·비만.",
+ "topic": "임신한 집사가 집안일을 15분 넘게 하면 다리를 깨물고 소리치며 소파로 끌고 가 앉히는 태비 고양이 마일로(인스타 @mr.milothechonk, 200만 회+·좋아요 29.5만, CatTime 2026.10.26 보도). 펫스파이 '~한 행동ㅋㅋ'·동물쑛 'ㅋㅋ' 반응 틀. 원본 소리는 전 구간 덧입힌 음악 트랙으로 보여 끔. 사실: CDC — 임신 중엔 가능하면 고양이 화장실 청소를 다른 사람이 맡기(톡소플라스마).",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 2.0,
  "sfx_max": 4,
  "hook": {
-  "t": "살쪘다는 말 듣고\n'제대로 삐진 골든ㅋㅋ'"
+  "t": "임신한 집사가 집안일 하면\n'단속 나오는 고양이ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @imbluethesiberiann"
+  "Instagram @mr.milothechonk"
  ],
  "scenes": [
   {
-   "dur": 1.9,
+   "dur": 2.2,
    "video": {
     "src": "video/v1.mp4",
-    "start": 8.0,
+    "start": 44.0,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0
+    "audio": 0,
+    "blur": [
+     [
+      140,
+      325,
+      370,
+      200
+     ]
+    ]
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(벽만 봄)",
-     "x": 0.3,
-     "y": 0.12,
+     "k": "talk",
+     "t": "그만 좀 움직이라고!!",
+     "x": 0.5,
+     "y": 0.3,
      "at": 0.0,
-     "to": 1.9,
-     "s": "dundun",
-     "sv": 0.7
+     "to": 2.2
     },
     {
-     "k": "talk",
-     "t": "말 시키지 마.",
-     "x": 0.68,
-     "y": 0.3,
-     "at": 0.4,
-     "to": 1.9
+     "k": "sfx",
+     "t": "(앙)",
+     "x": 0.75,
+     "y": 0.62,
+     "at": 0.5,
+     "to": 2.2,
+     "s": "thud",
+     "sv": 0.7
     }
    ]
   },
   {
-   "say": "수의사가 살이 조금 쪘다고 했을 뿐인데요.",
+   "say": "임신한 집사가 집안일만 하면 벌어지는 일입니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 10.0,
+    "start": 36.8,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0
+    "audio": 0,
+    "blur": [
+     [
+      165,
+      895,
+      335,
+      145
+     ]
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "털이 찐 거거든?",
-     "x": 0.45,
-     "y": 0.22,
-     "at": 0.6
+     "t": "설거지 내려놔!!",
+     "x": 0.72,
+     "y": 0.36,
+     "at": 0.3
     }
    ]
   },
   {
-   "say": "집에 오자마자 구석으로 가서 시위 중입니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 15.0,
+    "start": 24.3,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0
-   },
-   "caps": []
-  },
-  {
-   "say": "결국 아빠가 달래러 왔는데요.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 25.6,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0
-   },
-   "caps": []
-  },
-  {
-   "dur": 3.9,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 36.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0
+    "y": 0.9,
+    "audio": 0,
+    "blur": [
+     [
+      185,
+      430,
+      350,
+      145
+     ]
+    ],
+    "zoom": 1.3
    },
    "caps": [
+    {
+     "k": "talk",
+     "t": "계단은 더 안 돼!!",
+     "x": 0.55,
+     "y": 0.3,
+     "at": 0.2,
+     "to": 2.6
+    },
     {
      "k": "sfx",
-     "t": "(슬쩍)",
+     "t": "(졸졸)",
+     "x": 0.25,
+     "y": 0.62,
+     "at": 0.3,
+     "to": 2.6,
+     "s": "sneak",
+     "sv": 0.6
+    }
+   ],
+   "dur": 2.6
+  },
+  {
+   "dur": 2.3,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 47.6,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
+    "blur": [
+     [
+      95,
+      900,
+      410,
+      120
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "따라와. 소파로.",
+     "x": 0.55,
+     "y": 0.18,
+     "at": 0.2,
+     "to": 2.3
+    }
+   ]
+  },
+  {
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 53.2,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
+    "blur": [
+     [
+      95,
+      890,
+      400,
+      150
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "여기. 앉아.",
      "x": 0.72,
      "y": 0.2,
-     "at": 0.4,
-     "to": 2.4
+     "at": 0.3
+    }
+   ],
+   "say": "결국 소파까지 데려가서 앉혀 버립니다."
+  },
+  {
+   "dur": 2.2,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 57.2,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
+    "blur": [
+     [
+      55,
+      830,
+      500,
+      195
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "도망 못 가게 감시 중",
+     "x": 0.5,
+     "y": 0.2,
+     "at": 0.2,
+     "to": 2.2,
+     "s": "pop",
+     "sv": 0.7
+    }
+   ]
+  },
+  {
+   "dur": 2.2,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 64.3,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
+    "blur": [
+     [
+      105,
+      855,
+      390,
+      150
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(뻗음)",
+     "x": 0.3,
+     "y": 0.28,
+     "at": 0.2,
+     "to": 2.2
     },
     {
      "k": "talk",
-     "t": "...진짜 안 뚱뚱해?",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 2.6,
-     "to": 3.9,
-     "s": "sparkle",
+     "t": "오늘 업무 끝. 퇴근.",
+     "x": 0.6,
+     "y": 0.18,
+     "at": 0.6,
+     "to": 2.2,
+     "s": "fail",
      "sv": 0.6
     }
    ]
   },
   {
-   "dur": 2.6,
+   "say": "임신 중엔 고양이 화장실 청소를 다른 가족에게 맡기는 게 좋답니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 40.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(할짝)",
-     "x": 0.7,
-     "y": 0.15,
-     "at": 0.9,
-     "to": 2.6,
-     "s": "pop",
-     "sv": 0.7
-    },
-    {
-     "k": "talk",
-     "t": "이번만 봐준다",
-     "x": 0.5,
-     "y": 0.3,
-     "at": 1.0,
-     "to": 2.6
-    }
-   ]
-  },
-  {
-   "say": "미국에선 진료받은 개의 59%가 과체중이었답니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 43.0,
+    "start": 66.6,
     "x": 0.5,
     "y": 0.5,
     "audio": 0,
-    "boomerang": true
+    "boomerang": true,
+    "blur": [
+     [
+      105,
+      855,
+      390,
+      150
+     ]
+    ]
    },
    "caps": [
     {
      "k": "desc",
-     "t": "미국 수의사 진료 개 59%가\n과체중·비만이었대요\n(미국 반려동물비만예방협회 2022)",
+     "t": "임신 중엔 고양이 화장실 청소를\n가능하면 다른 사람이 맡기\n(미국 질병통제예방센터 CDC)",
      "x": 0.5,
      "y": 0.12,
      "at": 0.2,
@@ -166,47 +270,40 @@
     },
     {
      "k": "talk",
-     "t": "난 그 41%야",
-     "x": 0.35,
+     "t": "그건 아빠 담당이야",
+     "x": 0.5,
      "y": 0.4,
-     "at": 1.0,
-     "s": "fail",
-     "sv": 0.6
+     "at": 1.2
     }
    ]
   }
  ],
  "sources": [
   {
-   "publisher": "TikTok @imbluethesiberiann (The Moriarty Family)",
-   "url": "https://www.tiktok.com/@imbluethesiberiann/video/7697732841244822814",
+   "publisher": "Instagram @mr.milothechonk",
+   "url": "https://www.instagram.com/reels/De5qPhQt9P8/",
    "date": "2026-10"
   },
   {
-   "publisher": "PetHelpful - Golden Retriever Gets Told He's Overweight at the Vet and His Offended Reaction Is Priceless",
-   "url": "https://pethelpful.com/pet-news/golden-retriever-pouting-corner-after-vet-weight-news",
-   "date": "2026-10-20"
+   "publisher": "CatTime(NewsBreak) - Cat Has Decided His Pregnant Owner Needs To Sit Down, & He's Not Taking No for an Answer",
+   "url": "https://www.newsbreak.com/cattime-1587466/4967206092863-cat-has-decided-his-pregnant-owner-needs-to-sit-down-he-s-not-taking-no-for-an-answer",
+   "date": "2026-10-26"
   },
   {
-   "publisher": "Yahoo - Golden Retriever Maverick Pouts After Vet's Weight Comment",
-   "url": "https://www.yahoo.com/lifestyle/articles/golden-retriever-maverick-pouts-vets-200500514.html",
-   "date": "2026-10-28"
-  },
-  {
-   "publisher": "Association for Pet Obesity Prevention - 2022 State of Pet Obesity Report",
-   "url": "https://www.petobesityprevention.org/2022-state-of-pet-obesity-report-summary",
-   "date": "2022"
+   "publisher": "CDC - Toxoplasmosis: cat owners",
+   "url": "https://www.cdc.gov/parasites/toxoplasmosis/resources/printresources/catowners.pdf",
+   "date": ""
   }
  ],
  "yt": {
-  "title": "수의사한테 살쪘다는 말 듣고 제대로 삐진 골든리트리버ㅋㅋ #shorts",
-  "description": "병원에서 '살짝 통통하네요' 한마디 듣고 온 골든 매버릭ㅋㅋ 집에 오자마자 구석에서 벽만 보고 시위합니다. 아빠가 달래 주자 결국 슬쩍 돌아보는데...\n\n미국 반려동물비만예방협회(APOP) 2022년 조사에선 진료받은 개의 59%가 과체중·비만이었대요.\n\n여러분 댕댕이도 삐지면 구석 가나요?\n\n영상: TikTok @imbluethesiberiann (The Moriarty Family)\n참고: PetHelpful, Yahoo, APOP\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "임신한 집사가 집안일만 하면 단속 나오는 고양이ㅋㅋ #shorts",
+  "description": "집사가 임신한 뒤로 보호 본능 폭발한 고양이 마일로ㅋㅋ 15분 넘게 집안일을 하면 따라다니며 잔소리하고, 다리를 앙 깨물고, 결국 소파까지 데려가 앉혀 놓습니다. 다 앉히고 나서야 바닥에 뻗어 퇴근하는 마일로...\n\n참고로 미국 질병통제예방센터(CDC)는 임신 중엔 가능하면 고양이 화장실 청소를 다른 사람이 맡고, 어쩔 수 없으면 장갑을 끼고 손을 씻으라고 권해요(톡소플라스마 예방).\n\n여러분 냥이도 집사 걱정해 주나요?\n\n영상: Instagram @mr.milothechonk\n참고: CatTime, CDC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "골든리트리버",
-   "강아지",
-   "삐짐",
-   "댕댕이",
-   "강아지다이어트",
+   "고양이",
+   "냥이",
+   "집사",
+   "임신",
+   "고양이행동",
    "귀여운동물",
    "동물쇼츠",
    "오늘의털뭉치"
