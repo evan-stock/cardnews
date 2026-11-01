@@ -1,7 +1,7 @@
 {
  "id": "20261102-icehole",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-02T01:04:42.083437+09:00",
  "publish_at": "2026-11-02T01:04:42.083455+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1673
+ "tg_msg": 1673,
+ "decided_at": "2026-11-02T01:08:20.774559+09:00",
+ "yt_id": "t7ub07qzl3k",
+ "permalink": "https://youtube.com/shorts/t7ub07qzl3k",
+ "published_at": "2026-11-02T01:08:23.171209+09:00"
 }
