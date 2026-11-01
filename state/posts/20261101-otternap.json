@@ -1,7 +1,7 @@
 {
  "id": "20261101-otternap",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-01T08:46:01.446357+09:00",
  "publish_at": "2026-11-01T08:46:01.446384+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "81c35f55fa99",
- "tg_msg": 1623
+ "tg_msg": 1623,
+ "decided_at": "2026-11-01T10:16:37.926539+09:00",
+ "yt_id": "VEZFN7-noHo",
+ "permalink": "https://youtube.com/shorts/VEZFN7-noHo",
+ "published_at": "2026-11-01T10:16:40.944222+09:00"
 }
