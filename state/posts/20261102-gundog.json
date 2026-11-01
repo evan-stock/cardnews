@@ -1,0 +1,55 @@
+{
+ "id": "20261102-gundog",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-02T08:42:31.590581+09:00",
+ "publish_at": "2026-11-02T08:42:31.590603+09:00",
+ "publish_now": true,
+ "topic": "30kg 사냥개(저먼 쇼트헤어드 포인터)가 처제네 집 고양이 앞을 끝내 못 지나가 주인이 안아서 데리고 나간 영상(TikTok @why.is.the.gundog 2편, Newsweek 2026.1.27 보도 — 1편 42.8만 회). 동물쑛 '대형 고양이를 처음 본 고양이의 반응 ㅋㅋ' 틀. 원본 소리는 사람 말소리·웃음 현장음뿐(음악 아님)이라 낮게 살림. 사실: AVMA — 강아지 사회화 민감기 생후 3~14주.",
+ "sources": [
+  {
+   "publisher": "TikTok @why.is.the.gundog",
+   "url": "https://www.tiktok.com/@why.is.the.gundog/video/7588661230014090499",
+   "date": "2025-12"
+  },
+  {
+   "publisher": "Newsweek - Hunting Dog Meets Family Cat, Internet Can't Cope With How He Reacts",
+   "url": "https://www.newsweek.com/hunting-dog-meets-family-cat-internet-cant-cope-reacts-11422576",
+   "date": "2026-01-27"
+  },
+  {
+   "publisher": "AVMA - Socialization of dogs and cats",
+   "url": "https://www.avma.org/KB/Resources/Reference/AnimalWelfare/Pages/Socialization.aspx",
+   "date": ""
+  }
+ ],
+ "seconds": 20.119999999999997,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261102-gundog/short.mp4"
+ ],
+ "app_file": "media/20261102-gundog/short_nobgm.mp4",
+ "yt": {
+  "title": "30kg 사냥개가 고양이를 처음 본 반응ㅋㅋ #shorts",
+  "description": "처제네 집에 처음 놀러 간 30kg 사냥개(저먼 쇼트헤어드 포인터)ㅋㅋ 거실 구석에 앉아 있는 고양이 앞을 끝내 못 지나가고 주인 다리 뒤에 숨더니... 결국 형님 품에 안겨서 퇴장합니다. 정작 고양이는 아무것도 안 함ㅋㅋ\n\n참고로 미국수의사회(AVMA)는 강아지 사회화 민감기를 생후 3~14주로 보고, 이때 여러 긍정적인 경험을 해야 낯선 상황을 덜 무서워한다고 해요.\n\n여러분 강아지도 고양이 무서워하나요?\n\n영상: TikTok @why.is.the.gundog\n참고: Newsweek, AVMA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @why.is.the.gundog 2025-12, Newsweek - Hunting Dog Meets Family Cat, Internet Can't Cope With How He Reacts 2026-01-27, AVMA - Socialization of dogs and cats\n사진·영상: TikTok @why.is.the.gundog\n음성: Typecast\n\n#shorts #강아지 #사냥개 #고양이 #대형견",
+  "tags": [
+   "강아지",
+   "사냥개",
+   "고양이",
+   "대형견",
+   "겁쟁이강아지",
+   "귀여운동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "904c47dcb841",
+ "tg_msg": 1682
+}
