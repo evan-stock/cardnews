@@ -1,0 +1,14 @@
+ERROR: [twitter] 2083579238180151465: No video could be found in this tweet
+영상 없는 글(인용글(영상 없음)): https://x.com/friedgaerong/status/2083579238180151465
+실패: https://x.com/friedgaerong/status/2083579238180151465
+ERROR: [twitter] 2085448054631776594: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/thinkingtree413/status/2085448054631776594
+실패: https://x.com/thinkingtree413/status/2085448054631776594
+total 1784
+drwxr-xr-x 2 runner runner    4096 Nov  2 23:19 .
+drwxr-xr-x 3 runner runner    4096 Nov  2 23:19 ..
+-rw-r--r-- 1 runner runner     465 Nov  2 23:19 log.txt
+-rw-r--r-- 1 runner runner 1391679 Nov  2 23:19 v1.mp4
+-rw-r--r-- 1 runner runner  410441 Nov  2 23:19 v4.mp4
+-rw-r--r-- 1 runner runner     580 Nov  2 23:19 x2.json
+-rw-r--r-- 1 runner runner     446 Nov  2 23:19 x3.json

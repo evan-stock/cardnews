@@ -1,0 +1,20 @@
+{
+ "src": "fxtwitter",
+ "author": "friedgaerong",
+ "name": "개롱튀김",
+ "date": "Sat Aug 01 15:42:56 +0000 2026",
+ "text": "잔뜩 삐진 강아지 둥가둥가로 달래줘야만",
+ "views": 489,
+ "likes": 3,
+ "retweets": 0,
+ "quote": "https://x.com/meett_ovo/status/2083573990505976093",
+ "url": "https://x.com/friedgaerong/status/2083579238180151465",
+ "id": "2083579238180151465",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "인용글(영상 없음)",
+ "card": null,
+ "quote_url": "https://x.com/meett_ovo/status/2083573990505976093"
+}
