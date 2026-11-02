@@ -1,1 +1,7 @@
-⏳ 2개 장면 목소리를 맥북에서 만드는 중
+장면 1/6 silent 누적 2.4초
+장면 2/6 typecast 누적 5.2초
+장면 3/6 silent 누적 8.2초
+장면 4/6 typecast 누적 11.3초
+장면 5/6 silent 누적 15.3초
+장면 6/6 silent 누적 19.1초
+완성: /home/runner/work/cardnews/cardnews/media/20261102-goatbag/short.mp4 (19.1초, TTS ['silent', 'typecast'])
