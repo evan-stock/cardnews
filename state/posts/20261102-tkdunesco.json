@@ -2,7 +2,7 @@
  "id": "20261102-tkdunesco",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-02T20:16:09.829770+09:00",
  "publish_at": "2026-11-02T20:16:09.829828+09:00",
  "topic": "북한은 2024.3 유네스코에 태권도 신청, 한국은 2026.3에야 신청 — 북한 등재 권고 예상, 한국 심사는 2028",
@@ -69,5 +69,8 @@
   "media/20261102-tkdunesco/06.jpg",
   "media/20261102-tkdunesco/07.jpg"
  ],
- "tg_msg": 1728
+ "tg_msg": 1728,
+ "ig_media_id": "18001379535034612",
+ "permalink": "https://www.instagram.com/p/DfPL-U0mwo-/",
+ "published_at": "2026-11-02T20:21:56.121687+09:00"
 }
