@@ -1,10 +1,6 @@
-{
-"id": "20261102-jbk",
-"frames": 0,
-"args": "--write-info-json",
-"urls": [
-"https://petapixel.com/2025/11/21/this-floating-camera-in-space-demonstrates-the-dzhanibekov-effect#html",
-"https://viory.video/en/videos/x4014_13022024/weird-science-in-space-cosmonaut-borisov-demonstrates-dzhanibekov-effect-in-zero-gravity-exclusive-#html",
-"https://www.tiktok.com/@cosmoknowledge/video/7644952612629941518"
-]
-}
+{"id": "20261102-jbk2", "frames": 0, "args": "--write-info-json", "urls": [
+"https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=Dzhanibekov&srnamespace=6&format=json",
+"https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=tennis%20racket%20theorem%20space%20station&srnamespace=6&format=json",
+"https://commons.wikimedia.org/w/api.php?action=query&titles=File:Dzhanibekov_effect.ogv|File:Dzhanibekov_effect.webm|File:Dzhanibekov%27s_effect.ogv&prop=imageinfo&iiprop=url|size&format=json",
+"https://storage.viory.video/video_projects/2024/02/13/x4014_13022024/x4014_13022024_overlay_360.mp4"
+]}
