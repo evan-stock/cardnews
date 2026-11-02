@@ -1,81 +1,98 @@
 {
- "id": "20261102-goatbag",
+ "id": "20261102-catstop",
  "mode": "send",
  "format": "meme",
- "topic": "생애 첫 미용실에 간 흰 염소 딜(TikTok @girlwithedogs, PetHelpful 2026.10.29 보도) — 뿔에 수영장 누들 끼우고, 목욕 중 개처럼 몸 털고, 빗질은 거부, 드라이 후 솜사탕처럼 부풀어 퇴장. 펫스파이 '~의 최후ㅋㅋ' 틀. 원본 소리(물·드라이어·미용사 감탄) 살림, 음악 없음. 사실: NC State Extension — 염소는 비가 오면 풀 뜯기도 멈추고 비 피할 곳을 찾음.",
+ "topic": "고양이 호텔에 맡겨진 회색 고양이가 쓰다듬으려는 손에 몸을 빼고 앞발을 들어 '스톱'하는 장면(TikTok @dustyandscout, Newsweek 2026.4.1 보도, 약 40만 회). 펫스파이 '~가 한 행동ㅋㅋ' 틀. 원본 소리는 틱톡 음악 트랙이라 전부 끔. 사실: 영국 링컨대(Applied Animal Behaviour Science) — 고양이는 볼, 턱, 눈과 귀 사이를 쓰다듬을 때 가장 좋아하고 꼬리 시작 부분은 가장 싫어함.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.8,
+ "bgm_volume": 2.5,
  "sfx_max": 4,
  "hook": {
-  "t": "생애 첫 미용실 간 염소의\n'충격적인 최후ㅋㅋ'"
+  "t": "고양이 호텔 맡겨진 냥이의\n'확실한 선 긋기ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @girlwithedogs"
+  "TikTok @dustyandscout"
+ ],
+ "sources": [
+  {
+   "publisher": "TikTok @dustyandscout",
+   "url": "https://www.tiktok.com/@dustyandscout/video/7599319100212464917",
+   "date": "2026"
+  },
+  {
+   "publisher": "Newsweek - Cat Arrives at Pets Hotel—Immediately Sets a Boundary: 'That's Far Enough'",
+   "url": "https://www.newsweek.com/cat-arrives-pets-hotel-sets-boundary-11768556",
+   "date": "2026-04-01"
+  },
+  {
+   "publisher": "Mental Floss - Where Your Cat Wants to Be Petted, According to Science (University of Lincoln, Applied Animal Behaviour Science)",
+   "url": "https://www.mentalfloss.com/animals/cats/where-your-cat-wants-be-petted-according-science",
+   "date": "2015-07-01"
+  }
  ],
  "scenes": [
   {
-   "dur": 2.4,
+   "dur": 2.8,
    "video": {
     "src": "video/v2.mp4",
-    "start": 18.5,
+    "start": 7.5,
     "x": 0.5,
-    "y": 0.4,
-    "audio": 1.2,
+    "y": 0.5,
+    "audio": 0,
     "blur": [
      [
-      40,
-      770,
-      496,
-      100
+      30,
+      165,
+      516,
+      130
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "이거 왜 끼운 거야...?",
-     "x": 0.5,
-     "y": 0.66,
-     "at": 0.0,
-     "to": 2.4
+     "t": "거기까지.",
+     "x": 0.72,
+     "y": 0.27,
+     "at": 0.1,
+     "to": 2.6
     },
     {
      "k": "sfx",
-     "t": "(뿔 보호대 장착)",
-     "x": 0.5,
-     "y": 0.06,
+     "t": "(손바닥 컷)",
+     "x": 0.24,
+     "y": 0.47,
      "at": 0.3,
-     "to": 2.4,
-     "s": "boing",
-     "sv": 0.7
+     "to": 2.6,
+     "s": "pop",
+     "sv": 0.9
     }
    ]
   },
   {
-   "say": "염소 딜이 태어나 처음으로 미용실에 왔는데요.",
+   "say": "고양이 호텔에 처음 맡겨진 날인데요.",
    "video": {
     "src": "video/v2.mp4",
-    "start": 6.0,
+    "start": 0.0,
     "x": 0.5,
-    "y": 0.4,
-    "audio": 0.4,
+    "y": 0.5,
+    "audio": 0,
     "blur": [
      [
-      40,
-      770,
-      496,
-      100
+      30,
+      165,
+      516,
+      130
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "여기 어디야...",
-     "x": 0.62,
-     "y": 0.22,
-     "at": 0.4
+     "t": "...여긴 어디냥",
+     "x": 0.5,
+     "y": 0.33,
+     "at": 0.5
     }
    ]
   },
@@ -83,185 +100,119 @@
    "dur": 3.0,
    "video": {
     "src": "video/v2.mp4",
-    "start": 63.6,
+    "start": 2.2,
     "x": 0.5,
-    "y": 0.4,
-    "audio": 2.5,
+    "y": 0.5,
+    "audio": 0,
     "blur": [
      [
-      40,
-      770,
-      496,
-      100
+      30,
+      165,
+      516,
+      130
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "털털털털!!",
-     "x": 0.4,
-     "y": 0.18,
-     "at": 0.4,
+     "t": "손가락 치워라",
+     "x": 0.7,
+     "y": 0.34,
+     "at": 0.2,
      "to": 3.0
     },
     {
      "k": "sfx",
-     "t": "(개처럼 털기)",
-     "x": 0.72,
-     "y": 0.62,
-     "at": 0.5,
+     "t": "(슬쩍 피함)",
+     "x": 0.25,
+     "y": 0.24,
+     "at": 0.4,
      "to": 3.0,
      "s": "whoosh",
-     "sv": 0.8
-    }
-   ]
-  },
-  {
-   "say": "드라이를 했더니 몸이 점점 부풀기 시작합니다.",
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 104.0,
-    "x": 0.5,
-    "y": 0.4,
-    "audio": 0.4,
-    "blur": [
-     [
-      40,
-      770,
-      496,
-      100
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "나 커지는 중?",
-     "x": 0.6,
-     "y": 0.2,
-     "at": 0.6
-    }
-   ]
-  },
-  {
-   "dur": 4.0,
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 129.0,
-    "x": 0.5,
-    "y": 0.4,
-    "audio": 6,
-    "blur": [
-     [
-      40,
-      770,
-      496,
-      100
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "빗질은 안 된다고",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 0.0,
-     "to": 2.3
-    },
-    {
-     "k": "talk",
-     "t": "했지?",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 2.4,
-     "to": 4.0
-    },
-    {
-     "k": "sfx",
-     "t": "(정색)",
-     "x": 0.22,
-     "y": 0.5,
-     "at": 2.4,
-     "to": 4.0,
-     "s": "shock",
      "sv": 0.7
     }
    ]
   },
   {
-   "dur": 3.8,
+   "say": "머리를 쓰다듬자 결국 앞발까지 꺼냅니다.",
    "video": {
     "src": "video/v2.mp4",
-    "start": 151.0,
-    "x": 0.6,
-    "y": 0.4,
-    "audio": 1.5,
+    "start": 5.5,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
     "blur": [
      [
-      40,
-      770,
-      496,
-      100
+      30,
+      165,
+      516,
+      130
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "나 솜사탕 됐어",
-     "x": 0.4,
-     "y": 0.42,
+     "t": "머리는 안 된다고",
+     "x": 0.68,
+     "y": 0.33,
+     "at": 0.4
+    }
+   ]
+  },
+  {
+   "dur": 3.4,
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 8.1,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
+    "blur": [
+     [
+      30,
+      165,
+      516,
+      130
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "만지려면 예약하고 와",
+     "x": 0.62,
+     "y": 0.36,
      "at": 0.1,
-     "to": 3.8,
+     "to": 3.4,
      "s": "sparkle",
      "sv": 0.6
     },
     {
      "k": "desc",
-     "t": "염소는 원래 물을 싫어해서\n비가 오면 풀 뜯기도 멈추고 피할 곳부터 찾아요\n(미국 노스캐롤라이나주립대 농업지도국)",
+     "t": "고양이는 볼, 턱, 눈과 귀 사이를 좋아하고\n꼬리 시작 부분은 제일 싫어한대요\n(영국 링컨대 연구)",
      "x": 0.5,
-     "y": 0.1,
-     "at": 0.6,
-     "to": 3.8,
-     "size": 42
+     "y": 0.09,
+     "at": 0.5,
+     "to": 3.4,
+     "size": 46
     }
    ]
   }
  ],
- "sources": [
-  {
-   "publisher": "TikTok @girlwithedogs",
-   "url": "https://www.tiktok.com/@girlwithedogs/video/7700630400586075399",
-   "date": "2026-10"
-  },
-  {
-   "publisher": "PetHelpful - Fluffy Goat Takes a Trip to the Groomer, and the Cutest Chaos Ensues",
-   "url": "https://pethelpful.com/pet-news/fluffy-goat-takes-a-trip-to-the-groomer",
-   "date": "2026-10-29"
-  },
-  {
-   "publisher": "NC State Extension - Housing and Facilities for Meat Goats",
-   "url": "https://content.ces.ncsu.edu/housing-and-facilities-for-meat-goats",
-   "date": ""
-  }
- ],
  "yt": {
-  "title": "생애 첫 미용실 간 염소의 충격적인 최후ㅋㅋ #shorts",
-  "description": "태어나 처음 미용실에 온 염소 딜ㅋㅋ 뿔에는 수영장 누들을 끼우고, 목욕하다 강아지처럼 몸을 털털 털고, 빗질만은 정색하며 거부... 그런데 드라이를 마치니 완전 솜사탕이 돼서 나갑니다ㅋㅋ\n\n참고로 미국 노스캐롤라이나주립대 농업지도국(NC State Extension)에 따르면 염소는 비가 오면 풀 뜯기도 멈추고 비 피할 곳부터 찾을 만큼 젖는 걸 싫어한대요.\n\n여러분 반려동물은 목욕 좋아하나요?\n\n영상: TikTok @girlwithedogs\n참고: PetHelpful, NC State Extension\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "고양이 호텔에 맡겼더니 쓰다듬는 손에 냥이가 한 행동ㅋㅋ #shorts",
+  "description": "고양이 호텔에 처음 맡겨진 회색 냥이ㅋㅋ 손가락이 다가오자 슬쩍 몸을 빼고, 머리를 쓰다듬자 앞발을 번쩍 들어 '거기까지' 선언... 그리고 아무 일 없었다는 듯 평온ㅋㅋ\n\n참고로 영국 링컨대 연구(Applied Animal Behaviour Science)에 따르면 고양이는 볼, 턱, 눈과 귀 사이를 쓰다듬을 때 가장 좋아하고, 꼬리 시작 부분은 가장 싫어한대요.\n\n여러분 냥이는 어디 만지는 걸 좋아하나요?\n\n영상: TikTok @dustyandscout\n참고: Newsweek, Mental Floss(University of Lincoln)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "염소",
-   "미용",
-   "애견미용",
-   "목욕",
-   "귀여운동물",
-   "동물쇼츠",
-   "웃긴동물",
+   "고양이",
+   "냥이",
+   "고양이호텔",
+   "고양이반응",
+   "츤데레",
+   "shorts",
    "오늘의털뭉치"
-  ],
-  "category": 15,
-  "privacy": "public"
+  ]
  },
  "publish_now": true,
  "style": {
