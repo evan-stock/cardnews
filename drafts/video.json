@@ -1,6 +1,10 @@
-{"id": "20261102-goatbag", "frames": 0, "args": "--playlist-items 1-25 --match-filter description~=(?i)goat", "urls": [
-"https://www.tiktok.com/@marvin.outside",
-"https://www.tiktok.com/@girlwithedogs/video/7700630400586075399",
-"https://x.com/unnie_hi/status/2081568831361929713",
-"https://www.tiktok.com/@marvin.outside#html"
+{"id": "20261102-wb1", "frames": 0, "args": "--write-info-json", "urls": [
+"https://www.tiktok.com/@hospicelens/video/7247555015379029294",
+"https://www.tiktok.com/@syncmedia24/video/7247618645117914395",
+"https://www.tiktok.com/@unilad/video/7379643711711431968",
+"https://www.tiktok.com/@karenexplora/video/7210370115941027078",
+"https://www.tiktok.com/@salvusmermaid/video/7334720386283719942",
+"https://www.tiktok.com/@5starswimschools/video/7460068388946267410",
+"https://www.tiktok.com/@padi/video/7568386200231283981",
+"https://www.tiktok.com/@sambentley/video/7462798177062620449"
 ]}
