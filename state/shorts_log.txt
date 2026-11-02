@@ -1,1 +1,6 @@
-⏳ 2개 장면 목소리를 맥북에서 만드는 중
+장면 1/5 silent 누적 2.8초
+장면 2/5 typecast 누적 5.0초
+장면 3/5 silent 누적 8.0초
+장면 4/5 typecast 누적 10.8초
+장면 5/5 silent 누적 14.2초
+완성: /home/runner/work/cardnews/cardnews/media/20261102-catstop/short.mp4 (14.2초, TTS ['silent', 'typecast'])

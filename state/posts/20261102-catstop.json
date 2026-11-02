@@ -1,0 +1,54 @@
+{
+ "id": "20261102-catstop",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-02T18:47:21.364227+09:00",
+ "publish_at": "2026-11-02T18:47:21.364252+09:00",
+ "publish_now": true,
+ "topic": "고양이 호텔에 맡겨진 회색 고양이가 쓰다듬으려는 손에 몸을 빼고 앞발을 들어 '스톱'하는 장면(TikTok @dustyandscout, Newsweek 2026.4.1 보도, 약 40만 회). 펫스파이 '~가 한 행동ㅋㅋ' 틀. 원본 소리는 틱톡 음악 트랙이라 전부 끔. 사실: 영국 링컨대(Applied Animal Behaviour Science) — 고양이는 볼, 턱, 눈과 귀 사이를 쓰다듬을 때 가장 좋아하고 꼬리 시작 부분은 가장 싫어함.",
+ "sources": [
+  {
+   "publisher": "TikTok @dustyandscout",
+   "url": "https://www.tiktok.com/@dustyandscout/video/7599319100212464917",
+   "date": "2026"
+  },
+  {
+   "publisher": "Newsweek - Cat Arrives at Pets Hotel—Immediately Sets a Boundary: 'That's Far Enough'",
+   "url": "https://www.newsweek.com/cat-arrives-pets-hotel-sets-boundary-11768556",
+   "date": "2026-04-01"
+  },
+  {
+   "publisher": "Mental Floss - Where Your Cat Wants to Be Petted, According to Science (University of Lincoln, Applied Animal Behaviour Science)",
+   "url": "https://www.mentalfloss.com/animals/cats/where-your-cat-wants-be-petted-according-science",
+   "date": "2015-07-01"
+  }
+ ],
+ "seconds": 14.25,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261102-catstop/short.mp4"
+ ],
+ "app_file": "media/20261102-catstop/short_nobgm.mp4",
+ "yt": {
+  "title": "고양이 호텔에 맡겼더니 쓰다듬는 손에 냥이가 한 행동ㅋㅋ #shorts",
+  "description": "고양이 호텔에 처음 맡겨진 회색 냥이ㅋㅋ 손가락이 다가오자 슬쩍 몸을 빼고, 머리를 쓰다듬자 앞발을 번쩍 들어 '거기까지' 선언... 그리고 아무 일 없었다는 듯 평온ㅋㅋ\n\n참고로 영국 링컨대 연구(Applied Animal Behaviour Science)에 따르면 고양이는 볼, 턱, 눈과 귀 사이를 쓰다듬을 때 가장 좋아하고, 꼬리 시작 부분은 가장 싫어한대요.\n\n여러분 냥이는 어디 만지는 걸 좋아하나요?\n\n영상: TikTok @dustyandscout\n참고: Newsweek, Mental Floss(University of Lincoln)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @dustyandscout 2026, Newsweek - Cat Arrives at Pets Hotel—Immediately Sets a Boundary: 'That's Far Enough' 2026-04-01, Mental Floss - Where Your Cat Wants to Be Petted, According to Science (University of Lincoln, Applied Animal Behaviour Science) 2015-07-01\n사진·영상: TikTok @dustyandscout\n음성: Typecast\n\n#shorts #고양이 #냥이 #고양이호텔 #고양이반응",
+  "tags": [
+   "고양이",
+   "냥이",
+   "고양이호텔",
+   "고양이반응",
+   "츤데레",
+   "shorts",
+   "오늘의털뭉치"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "91eb72057b07",
+ "tg_msg": 1720
+}
