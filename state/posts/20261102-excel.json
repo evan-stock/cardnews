@@ -2,7 +2,7 @@
  "id": "20261102-excel",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-03T01:03:51.560898+09:00",
  "publish_at": "2026-11-03T08:00:00+09:00",
  "topic": "유튜브, 국내 엑셀방송 채널 잇단 삭제(10.23~) — 후원 1740억·초등생 모방 국감 지적 뒤, '전통무용학원' 위장 등 풍선효과",
@@ -68,5 +68,8 @@
   "media/20261102-excel/06.jpg",
   "media/20261102-excel/07.jpg"
  ],
- "tg_msg": 1750
+ "tg_msg": 1750,
+ "ig_media_id": "18154557466510753",
+ "permalink": "https://www.instagram.com/p/DfQeEFGEm3L/",
+ "published_at": "2026-11-03T08:19:11.321898+09:00"
 }
