@@ -2,7 +2,7 @@
  "id": "20261102-inmatecash",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-02T10:02:06.914217+09:00",
  "publish_at": "2026-11-02T09:56:55+09:00",
  "topic": "교도소 수용자 7만3565명분 민생지원금(소비쿠폰·고유가 피해지원금) 수령",
@@ -68,5 +68,9 @@
   "media/20261102-inmatecash/05.jpg",
   "media/20261102-inmatecash/06.jpg"
  ],
- "tg_msg": 1696
+ "tg_msg": 1696,
+ "decided_at": "2026-11-02T10:10:34.089468+09:00",
+ "ig_media_id": "18398553007163930",
+ "permalink": "https://www.instagram.com/p/DfOGJZgjYlc/",
+ "published_at": "2026-11-02T10:11:50.758366+09:00"
 }
