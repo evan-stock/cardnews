@@ -1,0 +1,36 @@
+ERROR: [twitter] 1905554724830806320: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/ProfJiriDvorak/status/1905554724830806320
+실패: https://x.com/ProfJiriDvorak/status/1905554724830806320
+ERROR: [TikTok] 7181892828740455685: Your IP address is blocked from accessing this post
+실패: https://www.tiktok.com/@visit/video/7181892828740455685
+ERROR: [twitter] 2017236398353301942: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/13abc/status/2017236398353301942
+실패: https://x.com/13abc/status/2017236398353301942
+total 95100
+drwxr-xr-x 2 runner runner     4096 Nov  2 12:04 .
+drwxr-xr-x 3 runner runner     4096 Nov  2 12:02 ..
+-rw-r--r-- 1 runner runner      601 Nov  2 12:04 log.txt
+-rw-r--r-- 1 runner runner    22695 Nov  2 12:02 v1.info.json
+-rw-r--r-- 1 runner runner  3885447 Nov  2 12:02 v1.mp4
+-rw-r--r-- 1 runner runner  7441128 Nov  2 12:03 v10.mp4
+-rw-r--r-- 1 runner runner 11651072 Nov  2 12:03 v11.mp4
+-rw-r--r-- 1 runner runner 31059100 Nov  2 12:04 v12.mp4
+-rw-r--r-- 1 runner runner    19605 Nov  2 12:04 v14.info.json
+-rw-r--r-- 1 runner runner   761564 Nov  2 12:04 v14.mp4
+-rw-r--r-- 1 runner runner    23198 Nov  2 12:02 v2.info.json
+-rw-r--r-- 1 runner runner  3093140 Nov  2 12:02 v2.mp4
+-rw-r--r-- 1 runner runner  5425778 Nov  2 12:02 v3.mp4
+-rw-r--r-- 1 runner runner 12918192 Nov  2 12:03 v5.mp4
+-rw-r--r-- 1 runner runner    16268 Nov  2 12:03 v7.info.json
+-rw-r--r-- 1 runner runner   343182 Nov  2 12:03 v7.mp4
+-rw-r--r-- 1 runner runner  5445504 Nov  2 12:03 v8.mp4
+-rw-r--r-- 1 runner runner 15208021 Nov  2 12:03 v9.mp4
+-rw-r--r-- 1 runner runner      851 Nov  2 12:03 x10.json
+-rw-r--r-- 1 runner runner     1169 Nov  2 12:03 x11.json
+-rw-r--r-- 1 runner runner     2266 Nov  2 12:04 x12.json
+-rw-r--r-- 1 runner runner      688 Nov  2 12:04 x13.json
+-rw-r--r-- 1 runner runner      631 Nov  2 12:03 x3.json
+-rw-r--r-- 1 runner runner      719 Nov  2 12:03 x4.json
+-rw-r--r-- 1 runner runner      637 Nov  2 12:03 x5.json
+-rw-r--r-- 1 runner runner      735 Nov  2 12:03 x8.json
+-rw-r--r-- 1 runner runner     1002 Nov  2 12:03 x9.json
