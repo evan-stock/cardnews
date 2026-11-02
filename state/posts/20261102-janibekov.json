@@ -1,7 +1,7 @@
 {
  "id": "20261102-janibekov",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-02T15:03:36.101737+09:00",
  "publish_at": "2026-11-02T15:03:36.101749+09:00",
  "publish_now": true,
@@ -31,5 +31,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1715
+ "tg_msg": 1715,
+ "decided_at": "2026-11-02T15:15:15.054390+09:00",
+ "yt_id": "WXpTo317d0s",
+ "permalink": "https://youtube.com/shorts/WXpTo317d0s",
+ "published_at": "2026-11-02T15:15:17.691583+09:00"
 }
