@@ -2,9 +2,15 @@
  "id": "20261102-jal516",
  "media": "media/20261102-jal516",
  "topic": "2024.1.2 하네다 JAL516 — 불덩이로 미끄러진 A350에서 379명 전원 탈출. 8개 문 중 3개만 쓸 수 있었고 기내 방송도 고장, 승객들은 짐을 두고 나와 18분 만에 마지막 한 명까지. 한국 연결: 2025.1.28 김해 에어부산 화재 때 짐 꺼내던 승객이 통로를 막아 비판. (09:17 회차 후보 1번, 사용자 선택)",
- "hook": {"t": "불타는 비행기에서\n'379명'이 다 살았다"},
+ "hook": {
+  "t": "불타는 여객기에서 379명이\n'전부' 살아 나온 이유"
+ },
  "credit": "영상: TBS NEWS(Al Jazeera) · NYT 승객 영상 · 그래픽: 오늘의쓸모",
- "bgm": {"file": "assets/bgm/worthy/the_awakening.mp3", "start": 30.0, "vol": 0.38},
+ "bgm": {
+  "file": "assets/bgm/worthy/the_awakening.mp3",
+  "start": 30.0,
+  "vol": 0.38
+ },
  "orig_vol": 0,
  "products": [],
  "photo_credits": [
@@ -14,20 +20,104 @@
   "모션그래픽: scripts/story_shorts/anim_jal516.py (오늘의쓸모 제작)."
  ],
  "sources": [
-  {"publisher": "Reuters(Bangkok Post 게재) 'Inside the escape from Flight JL516' — 367+12명 전원 생존, 8개 문 중 3개만 사용, 기내 인터폰 고장, 승객들은 짐을 두고 나옴", "url": "https://bangkokpost.com/world/2717666/inside-the-escape-from-flight-jl516"},
-  {"publisher": "Reuters 2024.1.3 'JAL jet passengers recount 18 minutes of terror' — 17:47 충돌, 18:05 전원 탈출, 메가폰으로 안전한 문 3곳 안내", "url": "https://uk.marketscreener.com/quote/stock/JAPAN-AIRLINES-CO-LTD-11551593/news/JAL-jet-passengers-recount-18-minutes-of-terror-while-awaiting-escape-45671492"},
-  {"publisher": "뉴시스 2025.1.31 — 에어부산 BX391 김해 화재 176명 탈출, 전문가 '짐 찾지 말고 바로 탈출', 90초 룰", "url": "https://www.newsis.com/view/NISX20250131_0003048773"},
-  {"publisher": "위키트리 — 에어부산 화재 때 짐 꺼내던 승객이 통로를 막아 '국민 빌런' 비판", "url": "https://www.wikitree.co.kr/articles/1022027"}
+  {
+   "publisher": "Reuters(Bangkok Post 게재) 'Inside the escape from Flight JL516' — 367+12명 전원 생존, 8개 문 중 3개만 사용, 기내 인터폰 고장, 승객들은 짐을 두고 나옴",
+   "url": "https://bangkokpost.com/world/2717666/inside-the-escape-from-flight-jl516"
+  },
+  {
+   "publisher": "Reuters 2024.1.3 'JAL jet passengers recount 18 minutes of terror' — 17:47 충돌, 18:05 전원 탈출, 메가폰으로 안전한 문 3곳 안내",
+   "url": "https://uk.marketscreener.com/quote/stock/JAPAN-AIRLINES-CO-LTD-11551593/news/JAL-jet-passengers-recount-18-minutes-of-terror-while-awaiting-escape-45671492"
+  },
+  {
+   "publisher": "뉴시스 2025.1.31 — 에어부산 BX391 김해 화재 176명 탈출, 전문가 '짐 찾지 말고 바로 탈출', 90초 룰",
+   "url": "https://www.newsis.com/view/NISX20250131_0003048773"
+  },
+  {
+   "publisher": "위키트리 — 에어부산 화재 때 짐 꺼내던 승객이 통로를 막아 '국민 빌런' 비판",
+   "url": "https://www.wikitree.co.kr/articles/1022027"
+  }
  ],
  "_note": "클립 1080x780(-an, 대비·채도 살짝↑, unsharp). A=v7 19.9~22.7 crop 556x401+96+112(불덩이로 미끄러지는 기체, 1.3배), B=v7 3.3~6.1 crop 580x418+0+165(불길 앞으로 걸어 나오는 승객), C=v9 6.2~9.2 crop 576x416+0+60(창밖 시뻘건 불), D=v9 22.0~24.8 +0+300(활주로의 승객들과 불타는 기체), E=v7 20.8~22.8 crop 460x332+120+190 0.75배 슬로(불덩이 리플레이 1.56배). 그래픽 gfx/exits·aisle·busan = anim_jal516.py.",
  "scenes": [
-  {"text": "활주로를 '불덩이'로 미끄러지는 여객기", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
-  {"text": "그런데 불길 앞으로 사람들이 '걸어' 나온다", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
-  {"text": "창밖은 시뻘건 불, 기내는 연기로 꽉", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
-  {"text": "문 8개 중 쓸 수 있는 문은 '3개'뿐", "video": {"src": "gfx/exits.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
-  {"text": "승무원 외침 \"짐은 두고 내리세요!\"", "video": {"src": "gfx/aisle.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
-  {"text": "모두 빈손으로, 18분 만에 '379명' 전원 탈출", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
-  {"text": "한국 에어부산 화재 땐 짐 챙기다 통로가 '꽉'", "video": {"src": "gfx/busan.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
-  {"text": "비행기 불나면 가방은 두고 '몸만', 구독", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6}
+  {
+   "text": "활주로를 '불덩이'로 미끄러지는 여객기",
+   "video": {
+    "src": "clip/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "그런데 불길 앞으로 사람들이 '걸어' 나온다",
+   "video": {
+    "src": "clip/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "창밖은 시뻘건 불, 기내는 연기로 꽉",
+   "video": {
+    "src": "clip/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "문 8개 중 쓸 수 있는 문은 '3개'뿐",
+   "video": {
+    "src": "gfx/exits.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "승무원 외침 \"짐은 두고 내리세요!\"",
+   "video": {
+    "src": "gfx/aisle.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "모두 빈손으로, 18분 만에 '379명' 전원 탈출",
+   "video": {
+    "src": "clip/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "한국 에어부산 화재 땐 짐 챙기다 통로가 '꽉'",
+   "video": {
+    "src": "gfx/busan.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "비행기 불나면 가방은 두고 '몸만', 구독",
+   "video": {
+    "src": "clip/E.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  }
  ]
 }
