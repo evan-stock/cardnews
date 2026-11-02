@@ -1,0 +1,21 @@
+ERROR: [twitter] 1905533681508237572: No video could be found in this tweet
+받음 v5 (기사 페이지 https://www.bbc.co.uk/news/live/c4gex01m7n5t?post=asset%3Ae00f93b6-71d2-4cd9-9fa6-9b2e4aaf4ad6#post)
+total 34176
+drwxr-xr-x 2 runner runner     4096 Nov  2 13:40 .
+drwxr-xr-x 3 runner runner     4096 Nov  2 13:40 ..
+-rw-r--r-- 1 runner runner      205 Nov  2 13:40 log.txt
+-rw-r--r-- 1 runner runner    22869 Nov  2 13:40 v1.info.json
+-rw-r--r-- 1 runner runner  5219118 Nov  2 13:40 v1.mp4
+-rw-r--r-- 1 runner runner    21433 Nov  2 13:40 v2.info.json
+-rw-r--r-- 1 runner runner  1662188 Nov  2 13:40 v2.mp4
+-rw-r--r-- 1 runner runner    19704 Nov  2 13:40 v3.info.json
+-rw-r--r-- 1 runner runner  2902906 Nov  2 13:40 v3.mp4
+-rw-r--r-- 1 runner runner 11647424 Nov  2 13:40 v4.mp4
+-rw-r--r-- 1 runner runner  6601311 Nov  2 13:40 v6.mp4
+-rw-r--r-- 1 runner runner    22921 Nov  2 13:40 v7.info.json
+-rw-r--r-- 1 runner runner  1548662 Nov  2 13:40 v7.mp4
+-rw-r--r-- 1 runner runner    12747 Nov  2 13:40 v8.info.json
+-rw-r--r-- 1 runner runner  5263531 Nov  2 13:40 v8.mp4
+-rw-r--r-- 1 runner runner      686 Nov  2 13:40 x4.json
+-rw-r--r-- 1 runner runner      680 Nov  2 13:40 x5.json
+-rw-r--r-- 1 runner runner      562 Nov  2 13:40 x6.json
