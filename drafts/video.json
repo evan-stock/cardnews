@@ -1,6 +1,4 @@
-{"id": "20261102-jbk2", "frames": 0, "args": "--write-info-json", "urls": [
-"https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=Dzhanibekov&srnamespace=6&format=json",
-"https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=tennis%20racket%20theorem%20space%20station&srnamespace=6&format=json",
-"https://commons.wikimedia.org/w/api.php?action=query&titles=File:Dzhanibekov_effect.ogv|File:Dzhanibekov_effect.webm|File:Dzhanibekov%27s_effect.ogv&prop=imageinfo&iiprop=url|size&format=json",
-"https://storage.viory.video/video_projects/2024/02/13/x4014_13022024/x4014_13022024_overlay_360.mp4"
+{"id": "20261102-jbk3", "frames": 0, "urls": [
+"https://upload.wikimedia.org/wikipedia/commons/b/be/Dzhanibekov_effect.ogv",
+"https://commons.wikimedia.org/w/api.php?action=query&titles=File:Dzhanibekov_effect.ogv&prop=imageinfo&iiprop=extmetadata&format=json"
 ]}
