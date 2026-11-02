@@ -1,7 +1,7 @@
 {
  "id": "20261102-goatbag",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-02T13:41:41.541848+09:00",
  "publish_at": "2026-11-02T13:41:41.541869+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "12a9ea174918",
- "tg_msg": 1710
+ "tg_msg": 1710,
+ "decided_at": "2026-11-02T13:44:22.966634+09:00",
+ "yt_id": "ULxTGWB6OGY",
+ "permalink": "https://youtube.com/shorts/ULxTGWB6OGY",
+ "published_at": "2026-11-02T13:44:26.264430+09:00"
 }
