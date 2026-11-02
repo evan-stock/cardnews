@@ -1,7 +1,7 @@
 {
  "id": "20261103-sulk2",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-03T08:45:10.669727+09:00",
  "publish_at": "2026-11-03T08:45:10.669748+09:00",
  "publish_now": true,
@@ -56,5 +56,9 @@
   "channel": null
  },
  "draft_hash": "64ccf94e7a68",
- "tg_msg": 1754
+ "tg_msg": 1754,
+ "decided_at": "2026-11-03T08:49:28.501010+09:00",
+ "yt_id": "BcFnK7Rr-3U",
+ "permalink": "https://youtube.com/shorts/BcFnK7Rr-3U",
+ "published_at": "2026-11-03T08:49:30.760376+09:00"
 }
