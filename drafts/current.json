@@ -2,7 +2,7 @@
 {
 "id": "20261102-midterm",
 "slot": "lunch",
-"mode": "render",
+"mode": "send",
 "topic": "트럼프가 지면 오히려 한국이 위험한 이유(미국 중간선거 D-1)",
 "category": "국제이슈·한미관계",
 "emotion": "불안(내 일: 관세·청구서)",
@@ -76,6 +76,8 @@
 "publisher": "파이낸셜뉴스",
 "date": "2026.10.29"
 }
-]
+],
+"approved": true,
+"publish_at": "2026-11-02T12:00:00+09:00"
 }
 ]
