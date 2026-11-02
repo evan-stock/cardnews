@@ -1,20 +1,22 @@
 [
  {
-  "id": "20261102-tkdunesco",
+  "id": "20261102-excel",
   "slot": "evening",
   "mode": "collect",
   "limit": 30,
   "image_pages": [
-   "https://www.khan.co.kr/article/202611021504001/",
-   "https://biz.heraldcorp.com/article/10922897",
-   "https://www.dailian.co.kr/news/view/1709648/",
-   "https://zdnet.co.kr/view/?no=20261102155650",
-   "https://www.tongilnews.com/news/articleView.html?idxno=218024",
-   "https://ko.wikipedia.org/wiki/%ED%83%9C%EA%B6%8C%EB%8F%84",
-   "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C%ED%83%9C%EA%B6%8C%EB%8F%84%EC%97%B0%EB%A7%B9",
-   "https://en.wikipedia.org/wiki/International_Taekwon-Do_Federation",
-   "https://en.wikipedia.org/wiki/Taekwondo",
-   "https://nocutnews.co.kr/news/5878118"
-  ]
+   "https://www.hankyung.com/article/2026110210911",
+   "https://www.hankyung.com/article/202610306289i",
+   "https://www.gukjenews.com/news/articleView.html?idxno=3736966",
+   "https://www.sportsseoul.com/news/read/1643632",
+   "https://gall.dcinside.com/board/view/?id=dcbest&no=474972",
+   "https://gall.dcinside.com/board/view/?id=dcbest&no=473238",
+   "https://mbong.kr/gif/130618758"
+  ],
+  "image_urls": [
+   "https://dcimg6.dcinside.co.kr/viewimage.php?id=2eb5ca3cee&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bee67fc3c34577d2fad85a5ca522a6ec96500d4ed906ae353338755a601d4a8239002a1e1d8bc317",
+   "https://dcimg6.dcinside.co.kr/viewimage.php?id=2eb5ca3cee&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bee67fc3c34577d2fad85a57a525ade296560f4fda06ca376f71eee50febc39bd5cb00b2781ce8ec"
+  ],
+  "referer": "https://gall.dcinside.com/"
  }
 ]
