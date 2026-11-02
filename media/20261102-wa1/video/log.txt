@@ -1,0 +1,38 @@
+ERROR: [twitter] 1884528258919575711: No video could be found in this tweet
+받음 v5.mp4 7207KB (fxtwitter)
+ERROR: [twitter] 1912627271724331024: No video could be found in this tweet
+영상 없는 글(인용글(영상 없음)): https://x.com/UCSDJacobs/status/1912627271724331024
+실패: https://x.com/UCSDJacobs/status/1912627271724331024
+total 37052
+drwxr-xr-x 2 runner runner    4096 Nov  2 00:30 .
+drwxr-xr-x 3 runner runner    4096 Nov  2 00:29 ..
+-rw-r--r-- 1 runner runner     342 Nov  2 00:30 log.txt
+-rw-r--r-- 1 runner runner  755756 Nov  2 00:29 v1.mp4
+-rw-r--r-- 1 runner runner 6466427 Nov  2 00:30 v10.mp4
+-rw-r--r-- 1 runner runner  445814 Nov  2 00:30 v11.mp4
+-rw-r--r-- 1 runner runner  480985 Nov  2 00:30 v12.mp4
+-rw-r--r-- 1 runner runner   23930 Nov  2 00:30 v13.info.json
+-rw-r--r-- 1 runner runner  575621 Nov  2 00:30 v13.mp4
+-rw-r--r-- 1 runner runner   23031 Nov  2 00:30 v14.info.json
+-rw-r--r-- 1 runner runner 2807611 Nov  2 00:30 v14.mp4
+-rw-r--r-- 1 runner runner 1637611 Nov  2 00:29 v2.mp4
+-rw-r--r-- 1 runner runner 4708518 Nov  2 00:29 v3.mp4
+-rw-r--r-- 1 runner runner 3081158 Nov  2 00:30 v4.mp4
+-rw-r--r-- 1 runner runner 7380934 Nov  2 00:30 v5.mp4
+-rw-r--r-- 1 runner runner 2820216 Nov  2 00:30 v6.mp4
+-rw-r--r-- 1 runner runner 2696287 Nov  2 00:30 v7.mp4
+-rw-r--r-- 1 runner runner 1750095 Nov  2 00:30 v8.mp4
+-rw-r--r-- 1 runner runner   22850 Nov  2 00:30 v9.info.json
+-rw-r--r-- 1 runner runner 2172942 Nov  2 00:30 v9.mp4
+-rw-r--r-- 1 runner runner     755 Nov  2 00:29 x1.json
+-rw-r--r-- 1 runner runner     726 Nov  2 00:30 x10.json
+-rw-r--r-- 1 runner runner     807 Nov  2 00:30 x11.json
+-rw-r--r-- 1 runner runner    1999 Nov  2 00:30 x12.json
+-rw-r--r-- 1 runner runner     756 Nov  2 00:30 x15.json
+-rw-r--r-- 1 runner runner     886 Nov  2 00:29 x2.json
+-rw-r--r-- 1 runner runner     904 Nov  2 00:29 x3.json
+-rw-r--r-- 1 runner runner     769 Nov  2 00:30 x4.json
+-rw-r--r-- 1 runner runner    1252 Nov  2 00:30 x5.json
+-rw-r--r-- 1 runner runner     802 Nov  2 00:30 x6.json
+-rw-r--r-- 1 runner runner     733 Nov  2 00:30 x7.json
+-rw-r--r-- 1 runner runner     649 Nov  2 00:30 x8.json
