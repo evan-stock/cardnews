@@ -1,68 +1,65 @@
 {
- "id": "20261102-catstop",
+ "id": "20261103-sulk2",
  "mode": "send",
  "format": "meme",
- "topic": "고양이 호텔에 맡겨진 회색 고양이가 쓰다듬으려는 손에 몸을 빼고 앞발을 들어 '스톱'하는 장면(TikTok @dustyandscout, Newsweek 2026.4.1 보도, 약 40만 회). 펫스파이 '~가 한 행동ㅋㅋ' 틀. 원본 소리는 틱톡 음악 트랙이라 전부 끔. 사실: 영국 링컨대(Applied Animal Behaviour Science) — 고양이는 볼, 턱, 눈과 귀 사이를 쓰다듬을 때 가장 좋아하고 꼬리 시작 부분은 가장 싫어함.",
+ "topic": "12주 된 헝가리안 비즐라 아기 강아지 오티스가 아빠 손을 깨물다 '안 돼' 소리를 듣고 가족이 웃자 아빠 무릎에 발라당 누워 단단히 삐짐, 옆눈질(TikTok @otisbegotus, 약 30만 회, Newsweek 2025.6.25·iHeartDogs 2025.7.1 보도). 펫스파이 '~했다가 제대로 삐진 ○○' 틀 + '삐진' 시리즈. 원본 소리(가족 말소리·웃음, 음악 아님) 살림. 사실: AKC — 생후 12~16주에 젖니가 빠지고 영구치가 나기 시작함.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 2.5,
+ "bgm_volume": 0.9,
  "sfx_max": 4,
  "hook": {
-  "t": "고양이 호텔 맡겨진 냥이의\n'확실한 선 긋기ㅋㅋ'"
+  "t": "깨물지 말라고 했더니\n'단단히 삐진 아기 댕댕이ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @dustyandscout"
+  "TikTok @otisbegotus"
  ],
  "sources": [
   {
-   "publisher": "TikTok @dustyandscout",
-   "url": "https://www.tiktok.com/@dustyandscout/video/7599319100212464917",
-   "date": "2026"
+   "publisher": "TikTok @otisbegotus",
+   "url": "https://www.tiktok.com/@otisbegotus/video/7519098171046235405",
+   "date": "2025"
   },
   {
-   "publisher": "Newsweek - Cat Arrives at Pets Hotel—Immediately Sets a Boundary: 'That's Far Enough'",
-   "url": "https://www.newsweek.com/cat-arrives-pets-hotel-sets-boundary-11768556",
-   "date": "2026-04-01"
+   "publisher": "Newsweek - Puppy Left Feeling 'So Mad' at New Owners, Reason Goes Viral",
+   "url": "https://www.newsweek.com/hungarian-vizsla-puppy-mad-new-owners-reason-2090418",
+   "date": "2025-06-25"
   },
   {
-   "publisher": "Mental Floss - Where Your Cat Wants to Be Petted, According to Science (University of Lincoln, Applied Animal Behaviour Science)",
-   "url": "https://www.mentalfloss.com/animals/cats/where-your-cat-wants-be-petted-according-science",
-   "date": "2015-07-01"
+   "publisher": "iHeartDogs - Puppy Throws a Pout That's Too Dramatic Not to Love",
+   "url": "https://iheartdogs.com/dramatic-puppy-sulk-goes-viral/",
+   "date": "2025-07-01"
+  },
+  {
+   "publisher": "AKC - Timeline of Puppy Teething",
+   "url": "https://www.akc.org/expert-advice/health/timeline-of-puppy-teething/",
+   "date": ""
   }
  ],
  "scenes": [
   {
-   "dur": 2.8,
+   "dur": 2.6,
    "video": {
-    "src": "video/v2.mp4",
-    "start": 7.5,
+    "src": "video/v1.mp4",
+    "start": 19.7,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
-    "blur": [
-     [
-      30,
-      165,
-      516,
-      130
-     ]
-    ]
+    "y": 0.2,
+    "audio": 2.5
    },
    "caps": [
     {
      "k": "talk",
-     "t": "거기까지.",
-     "x": 0.72,
-     "y": 0.27,
+     "t": "말 걸지 마.",
+     "x": 0.5,
+     "y": 0.08,
      "at": 0.1,
      "to": 2.6
     },
     {
      "k": "sfx",
-     "t": "(손바닥 컷)",
-     "x": 0.24,
-     "y": 0.47,
-     "at": 0.3,
+     "t": "(부루퉁)",
+     "x": 0.8,
+     "y": 0.5,
+     "at": 0.4,
      "to": 2.6,
      "s": "pop",
      "sv": 0.9
@@ -70,146 +67,96 @@
    ]
   },
   {
-   "say": "고양이 호텔에 처음 맡겨진 날인데요.",
+   "say": "손을 깨물다가 혼이 났는데요.",
    "video": {
-    "src": "video/v2.mp4",
-    "start": 0.0,
+    "src": "video/v1.mp4",
+    "start": 4.45,
+    "zoom": 1.4,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
-    "blur": [
-     [
-      30,
-      165,
-      516,
-      130
-     ]
-    ]
+    "y": 0,
+    "audio": 0.4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...여긴 어디냥",
+     "t": "깨문 거 아니고 맛본 건데",
      "x": 0.5,
-     "y": 0.33,
-     "at": 0.5
-    }
-   ]
-  },
-  {
-   "dur": 3.0,
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 2.2,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
-    "blur": [
-     [
-      30,
-      165,
-      516,
-      130
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "손가락 치워라",
-     "x": 0.7,
-     "y": 0.34,
-     "at": 0.2,
-     "to": 3.0
-    },
-    {
-     "k": "sfx",
-     "t": "(슬쩍 피함)",
-     "x": 0.25,
-     "y": 0.24,
-     "at": 0.4,
-     "to": 3.0,
-     "s": "whoosh",
-     "sv": 0.7
-    }
-   ]
-  },
-  {
-   "say": "머리를 쓰다듬자 결국 앞발까지 꺼냅니다.",
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 5.5,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
-    "blur": [
-     [
-      30,
-      165,
-      516,
-      130
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "머리는 안 된다고",
-     "x": 0.68,
-     "y": 0.33,
+     "y": 0.2,
      "at": 0.4
     }
    ]
   },
   {
-   "dur": 3.4,
+   "dur": 2.6,
    "video": {
-    "src": "video/v2.mp4",
-    "start": 8.1,
+    "src": "video/v1.mp4",
+    "start": 0.3,
+    "zoom": 1.4,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
-    "blur": [
-     [
-      30,
-      165,
-      516,
-      130
-     ]
-    ]
+    "y": 0,
+    "audio": 2.5
    },
    "caps": [
     {
      "k": "talk",
-     "t": "만지려면 예약하고 와",
-     "x": 0.62,
-     "y": 0.36,
+     "t": "웃지 마. 나 진지해",
+     "x": 0.5,
+     "y": 0.2,
      "at": 0.1,
-     "to": 3.4,
-     "s": "sparkle",
-     "sv": 0.6
+     "to": 1.3
     },
     {
-     "k": "desc",
-     "t": "고양이는 볼, 턱, 눈과 귀 사이를 좋아하고\n꼬리 시작 부분은 제일 싫어한대요\n(영국 링컨대 연구)",
+     "k": "talk",
+     "t": "이건 선 넘었지",
      "x": 0.5,
-     "y": 0.09,
-     "at": 0.5,
-     "to": 3.4,
-     "size": 46
+     "y": 0.2,
+     "at": 1.35,
+     "to": 2.6
+    },
+    {
+     "k": "sfx",
+     "t": "(발라당 시위 중)",
+     "x": 0.5,
+     "y": 0.05,
+     "at": 0.3,
+     "to": 2.6,
+     "s": "boing",
+     "sv": 0.7
+    }
+   ]
+  },
+  {
+   "say": "생후 12주부터는 젖니가 빠지고 영구치가 나기 시작한대요.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 17.1,
+    "x": 0.5,
+    "y": 0.2,
+    "audio": 0.4
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "간식 두 개면 풀어 줌",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.8,
+     "s": "sparkle",
+     "sv": 0.6
     }
    ]
   }
  ],
  "yt": {
-  "title": "고양이 호텔에 맡겼더니 쓰다듬는 손에 냥이가 한 행동ㅋㅋ #shorts",
-  "description": "고양이 호텔에 처음 맡겨진 회색 냥이ㅋㅋ 손가락이 다가오자 슬쩍 몸을 빼고, 머리를 쓰다듬자 앞발을 번쩍 들어 '거기까지' 선언... 그리고 아무 일 없었다는 듯 평온ㅋㅋ\n\n참고로 영국 링컨대 연구(Applied Animal Behaviour Science)에 따르면 고양이는 볼, 턱, 눈과 귀 사이를 쓰다듬을 때 가장 좋아하고, 꼬리 시작 부분은 가장 싫어한대요.\n\n여러분 냥이는 어디 만지는 걸 좋아하나요?\n\n영상: TikTok @dustyandscout\n참고: Newsweek, Mental Floss(University of Lincoln)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "손 깨물지 말라고 했더니 단단히 삐진 아기 강아지ㅋㅋ #shorts",
+  "description": "아빠 손을 깨물다가 '안 돼' 소리를 들은 12주 아기 비즐라 오티스ㅋㅋ 가족들이 웃자 아빠 무릎에 발라당 누워서 시위 시작... 말 걸어도 옆눈질만ㅋㅋ\n\n참고로 미국애견협회(AKC)에 따르면 강아지는 생후 12~16주쯤 젖니가 빠지고 영구치가 나기 시작해요.\n\n여러분 댕댕이는 삐지면 어떻게 하나요?\n\n영상: TikTok @otisbegotus\n참고: Newsweek, iHeartDogs, AKC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "고양이",
-   "냥이",
-   "고양이호텔",
-   "고양이반응",
-   "츤데레",
+   "강아지",
+   "아기강아지",
+   "삐진강아지",
+   "비즐라",
+   "강아지반응",
+   "댕댕이",
    "shorts",
    "오늘의털뭉치"
   ]
