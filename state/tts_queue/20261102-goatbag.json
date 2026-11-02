@@ -1,0 +1,36 @@
+{
+ "id": "20261102-goatbag",
+ "created": "2026-11-02T13:35:53.161845+09:00",
+ "items": [
+  {
+   "key": "1406bb4aa5bb",
+   "text": "염소 딜이 태어나 처음으로 미용실에 왔는데요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "3f7105d0c4f8",
+   "text": "드라이를 했더니 몸이 점점 부풀기 시작합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
