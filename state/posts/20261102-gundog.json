@@ -1,7 +1,7 @@
 {
  "id": "20261102-gundog",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-02T08:42:31.590581+09:00",
  "publish_at": "2026-11-02T08:42:31.590603+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "904c47dcb841",
- "tg_msg": 1682
+ "tg_msg": 1682,
+ "decided_at": "2026-11-02T09:19:12.067669+09:00",
+ "yt_id": "1j02Rw_Jbew",
+ "permalink": "https://youtube.com/shorts/1j02Rw_Jbew",
+ "published_at": "2026-11-02T09:19:14.810780+09:00"
 }
