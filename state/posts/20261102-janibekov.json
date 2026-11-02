@@ -1,0 +1,35 @@
+{
+ "id": "20261102-janibekov",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-02T15:03:36.101737+09:00",
+ "publish_at": "2026-11-02T15:03:36.101749+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 자니베코프 효과 — 우주에서 저절로 뒤집히는 T자 손잡이(중간축 정리)",
+ "sources": [],
+ "seconds": 19.3,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261102-jbk/short_card.mp4"
+ ],
+ "yt": {
+  "title": "우주에서 저절로 뒤집히는 자니베코프 효과 #shorts",
+  "description": "우주정거장에서 돌던 T자 손잡이가 아무도 안 건드렸는데 반 바퀴씩 '휙' 뒤집힙니다. 1985년 소련 우주비행사 자니베코프가 처음 본 이 현상의 비밀은 '가운데 축'. 그럼 지구도 뒤집힐까요?\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: That's Maths 'The Intermediate Axis Theorem'(2019), COMSOL 블로그 'Why Do Tennis Rackets Tumble?', UC Berkeley Rotations 'A tumbling T-handle in space', Astronomy.com 'The forgotten rescue of the Salyut 7 space station'\n※ '소련이 10년간 비밀로 했다'는 이야기는 널리 알려진 설로, 공식 문서로 확인된 것은 아닙니다.\n영상: NASA(퍼블릭 도메인, Wikimedia Commons) / 그래픽: 오늘의쓸모(강체 회전 방정식으로 계산)\n\n#자니베코프효과 #테니스라켓정리 #우주 #물리 #과학 #신기한과학 #쇼츠",
+  "tags": [
+   "자니베코프 효과",
+   "테니스 라켓 정리",
+   "중간축 정리",
+   "우주정거장",
+   "물리",
+   "과학",
+   "오늘의쓸모"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "tg_msg": 1715
+}
