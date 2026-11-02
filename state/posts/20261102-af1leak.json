@@ -2,7 +2,7 @@
  "id": "20261102-af1leak",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-02T23:10:32.813143+09:00",
  "publish_at": "2026-11-02T23:10:32.813205+09:00",
  "topic": "[KBS 단독] 대통령 전용기(공군 1호기) 탑승자 168명 여권번호 등 개인정보, 보안 유료 사이트에 5개월째 노출",
@@ -55,5 +55,8 @@
   "media/20261102-af1leak/05.jpg",
   "media/20261102-af1leak/06.jpg"
  ],
- "tg_msg": 1739
+ "tg_msg": 1739,
+ "ig_media_id": "18102981215170319",
+ "permalink": "https://www.instagram.com/p/DfPfmTolWEq/",
+ "published_at": "2026-11-02T23:13:26.078214+09:00"
 }

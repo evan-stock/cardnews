@@ -1,7 +1,7 @@
 {
  "id": "20261102-skypool",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-02T22:49:04.761837+09:00",
  "publish_at": "2026-11-02T22:49:04.761853+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "channel": "shop",
   "thumb": "media/20261102-skypool/thumb/thumb.jpg"
  },
- "tg_msg": 1732
+ "tg_msg": 1732,
+ "decided_at": "2026-11-02T23:11:48.552350+09:00",
+ "yt_id": "f3h1zGKMkiI",
+ "permalink": "https://youtube.com/shorts/f3h1zGKMkiI",
+ "published_at": "2026-11-02T23:13:34.105307+09:00"
 }
