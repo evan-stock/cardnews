@@ -1,0 +1,9 @@
+ERROR: [generic] Got HTTP Error 403 caused by Cloudflare anti-bot challenge; try again with  --extractor-args "generic:impersonate"
+실패: https://www.dogdrip.net/732192737
+total 36
+drwxr-xr-x 2 runner runner 4096 Nov  2 11:40 .
+drwxr-xr-x 3 runner runner 4096 Nov  2 11:40 ..
+-rw-r--r-- 1 runner runner  174 Nov  2 11:40 log.txt
+-rw-r--r-- 1 runner runner 5656 Nov  2 11:40 page1.html
+-rw-r--r-- 1 runner runner 7299 Nov  2 11:40 page2.html
+-rw-r--r-- 1 runner runner 5656 Nov  2 11:40 page4.html
