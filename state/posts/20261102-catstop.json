@@ -1,7 +1,7 @@
 {
  "id": "20261102-catstop",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-11-02T18:47:21.364227+09:00",
  "publish_at": "2026-11-02T18:47:21.364252+09:00",
  "publish_now": true,
@@ -50,5 +50,7 @@
   "channel": null
  },
  "draft_hash": "91eb72057b07",
- "tg_msg": 1720
+ "tg_msg": 1720,
+ "decided_at": "2026-11-02T20:26:03+09:00",
+ "decided_via": "app"
 }
