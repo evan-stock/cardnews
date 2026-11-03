@@ -1,0 +1,78 @@
+{
+ "id": "20261103-moai",
+ "media": "media/20261103-moai",
+ "topic": "이스터섬 모아이는 어떻게 옮겼나 — 학자들은 통나무설, 섬 사람들은 대대로 '석상이 걸어왔다'고 전함(신화 취급) → 밧줄 3개로 좌우로 흔들면 4.35톤 복제품이 '걷는다'(Lipo·Hunt 2012 실험, 2025 J. Archaeol. Sci. 18명·40분·100m, D자 밑면·앞으로 기운 몸). 잘난지 '헛소리 취급반던 모아이 전설' 250만 소재 재활용, 사용자 11.03 20:17 회차 후보 2번 + '잘난지랑 스토리 구성 비슷하게' 요청.",
+ "hook": {
+  "t": "석상에 밧줄을 걸고\n'흔들자'"
+ },
+ "credit": "영상: Carl Lipo(실험) · NOVA PBS · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/the_awakening.mp3",
+  "start": 30.0,
+  "vol": 0.38
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: Carl Lipo(빙엄턴대) 2012 모아이 '걷기' 실험 — X @sciencegirl 1834820442542034988 게시본(📹 Carl Lipo 표기, 조회 1,675만·좋아요 7.5만, media/20261103-wc1/video/x2.json·v2.mp4).",
+  "영상: NOVA PBS 'Easter Island Origins' TikTok @novapbs 7335564808252624171 (media/20261103-wc1/video/v1.mp4).",
+  "모션그래픽: scripts/story_shorts/anim_moai.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "Lipo & Hunt 2025, Journal of Archaeological Science 183:106383 — 962개 분석, D자 밑면·앞으로 기운 몸, 4.35톤 복제품 18명이 40분에 100m (Sci.News 2025.10.7 요약)",
+   "url": "https://www.sci.news/archaeology/walking-moai-hypothesis-14269.html"
+  },
+  {
+   "publisher": "University of Arizona 인류학과 — 라파누이 구전 '석상이 걸어왔다', 서양 학자들은 신화로 치부하고 통나무설, 최대 약 80톤",
+   "url": "https://anthropology.arizona.edu/news/dr-terry-hunt-publishes-walking-statues-oral-history-meets-archaeology"
+  },
+  {
+   "publisher": "EurekAlert 보도자료 — 4.35톤, 18명, 100m, 40분, 폭 약 4.5m 오목한 길",
+   "url": "https://www.eurekalert.org/news-releases/1101043"
+  }
+ ],
+ "_note": "클립 1080x780(-an, 대비·채도 살짝↑, unsharp). A = v2 0.4~1.8 crop 700x505+250+20(1.4초) → v1(NOVA) 53.0~54.3 밑면 근접 crop 576x416+0+240(1.3초) → v2 4.0~4.8 얼굴 crop 420x303+395+25 0.6배 슬로 — 첫 3초 3컷(0/1.4/2.7초 전환). B = v1 24~26.8 줄지어 선 모아이(NOVA 로고·자막 크롭). C = v1 28~30.8 길가에 쓰러진 모아이. D = v2 6~9 밧줄 당기는 사람들 넓게. E = v2 9~10.8 crop 560x404+330+60 0.6배 슬로 리플레이. 효과음(0초 thud, 1.4·2.7초 whoosh, 걷는 장면 thud)은 렌더 뒤 ffmpeg 로 섞음. 그래픽 gfx/roll·legend·walk = anim_moai.py.",
+ "scenes": [
+  {
+   "text": "바퀴도 없는데, 이게 어떻게 움직일까요?",
+   "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.6
+  },
+  {
+   "text": "이스터섬 거대 석상 '모아이' 900여 개",
+   "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "학자들은 '통나무로 굴렸다'고 봤는데",
+   "video": {"src": "gfx/roll.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.8
+  },
+  {
+   "text": "섬 사람들은 대대로 '걸어서 왔다'고 했다",
+   "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "다들 '말도 안 되는 전설'로 넘겼다",
+   "video": {"src": "gfx/legend.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "그런데 밧줄 3개로 좌우로 흔들자 '뚜벅뚜벅'",
+   "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "둥근 밑면에 앞으로 기운 몸, '걷기 좋은' 모양이었다",
+   "video": {"src": "gfx/walk.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "전설이 진짜였던 셈, 구독도 뚜벅뚜벅 와 주세요",
+   "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.8
+  }
+ ]
+}
