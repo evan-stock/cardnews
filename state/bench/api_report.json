@@ -1,40 +1,794 @@
 {
- "since": "2025-09-01",
+ "since": "2026-10-20",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
+   "title": "Cute_coffey",
+   "id": "UCMLj0y-u7aGEkdts0sxkQqQ",
+   "created": "2014-10-20",
+   "subs": "21000",
+   "videos": "1744"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
-   "subs": "0",
-   "videos": "4"
+   "title": "devi singh",
+   "id": "UCE8JNVZH9r5CQuM7AgWESZw",
+   "created": "2014-03-25",
+   "subs": "2520",
+   "videos": "110"
+  },
+  {
+   "title": "Normie the Service Dog",
+   "id": "UC-aetkQT7byUKWG_ZheOsmA",
+   "created": "2025-02-22",
+   "subs": "7920",
+   "videos": "645"
+  },
+  {
+   "title": "हेमंत कुमार ",
+   "id": "UCkgStyA6ons6cx3DLBLAIMg",
+   "created": "2025-10-17",
+   "subs": "197",
+   "videos": "461"
+  },
+  {
+   "title": "JAYLERR",
+   "id": "UCfUOIFLj-K3JRmdxGZNf1Lg",
+   "created": "2020-02-11",
+   "subs": "43700",
+   "videos": "184"
+  },
+  {
+   "title": "Milo's Story",
+   "id": "UC_FkVtTLnXn8CoHDEehzP1g",
+   "created": "2026-02-14",
+   "subs": "1230",
+   "videos": "78"
+  },
+  {
+   "title": "Judge Harlan",
+   "id": "UCSFMBR6UdyAUW5PIV9Xctaw",
+   "created": "2007-09-11",
+   "subs": "189",
+   "videos": "64"
+  },
+  {
+   "title": "Hellcat lover 2",
+   "id": "UCoy4S9d-7ZjSufqF3ncKBZg",
+   "created": "2026-10-15",
+   "subs": "16",
+   "videos": "16"
+  },
+  {
+   "title": "Dholu choudhary ",
+   "id": "UCtaH2D5B3w7GfjSreiGH-cQ",
+   "created": "2024-10-03",
+   "subs": "40",
+   "videos": "32"
+  },
+  {
+   "title": "Melissa Matthews",
+   "id": "UCBvLmmovbM7ykbjat-KiRWg",
+   "created": "2026-10-18",
+   "subs": "16",
+   "videos": "6"
+  },
+  {
+   "title": "OliverT ",
+   "id": "UCyVnmSgwg7N7Q52xnrzJnVQ",
+   "created": "2026-10-19",
+   "subs": "54",
+   "videos": "25"
+  },
+  {
+   "title": "Maverick’s Doodle Adventures ",
+   "id": "UCCMJB-CCNfAbGbYnJPtbmPQ",
+   "created": "2023-07-16",
+   "subs": "44700",
+   "videos": "1963"
+  },
+  {
+   "title": "Babies View",
+   "id": "UCSeNrl18KbCU5XyatBVIchw",
+   "created": "2023-02-10",
+   "subs": "994000",
+   "videos": "5149"
+  },
+  {
+   "title": "Life With Zubie",
+   "id": "UCIlLRQCmsS-XJCqYkYGR90A",
+   "created": "2011-10-10",
+   "subs": "1540",
+   "videos": "55"
+  },
+  {
+   "title": "Doggo Vibes",
+   "id": "UCRQ5bZjYLxdfUc0FvgyFRpg",
+   "created": "2026-04-04",
+   "subs": "4530",
+   "videos": "914"
+  },
+  {
+   "title": "Ginger's Golden Paws Mukbang - Raw & Real",
+   "id": "UC-S4OwUufJYq2BYrbJOLUJQ",
+   "created": "2026-10-23",
+   "subs": "10",
+   "videos": "12"
+  },
+  {
+   "title": "Adventures with Moody Mozzy",
+   "id": "UCnXtZfw4_TbSdHmzt0mIwAA",
+   "created": "2026-01-21",
+   "subs": "355",
+   "videos": "82"
+  },
+  {
+   "title": "Basically Us 😂",
+   "id": "UCyJ_sdWN7nDiFpsVKHjbveQ",
+   "created": "2024-01-31",
+   "subs": "62",
+   "videos": "35"
+  },
+  {
+   "title": "The Stumpy Brigade",
+   "id": "UCoE7DLvL_XB3e_Frx73E5fA",
+   "created": "2016-11-30",
+   "subs": "27200",
+   "videos": "1753"
+  },
+  {
+   "title": "lynn & Idol",
+   "id": "UCO8UjvCRuCNKDxw-BYDQWPw",
+   "created": "2026-10-06",
+   "subs": "27",
+   "videos": "26"
+  },
+  {
+   "title": "all in one Biswas",
+   "id": "UCX-f1c4wo2kXNLOBDzP-CRA",
+   "created": "2023-06-03",
+   "subs": "34",
+   "videos": "187"
+  },
+  {
+   "title": "Noddy ",
+   "id": "UCsG6qfl58Q8bQU37WCxpA2A",
+   "created": "2025-12-21",
+   "subs": "332",
+   "videos": "472"
+  },
+  {
+   "title": "Pawsitive Chance",
+   "id": "UCCeNeqn4WqJSOwYnnA6Wu1A",
+   "created": "2025-05-24",
+   "subs": "2150",
+   "videos": "181"
+  },
+  {
+   "title": " Brainless Chick 🐥",
+   "id": "UCepuYLtsOAWPDt7vK9GBdig",
+   "created": "2026-10-06",
+   "subs": "67",
+   "videos": "21"
+  },
+  {
+   "title": " Tail of Triumph - Lyrics",
+   "id": "UCJZny0K5Cckvk1zoEzd1Jmg",
+   "created": "2026-10-13",
+   "subs": "17",
+   "videos": "11"
+  },
+  {
+   "title": "SpotReels ",
+   "id": "UCVHqKT2kXnQ-NwjNNKyC6ow",
+   "created": "2025-03-28",
+   "subs": "11600",
+   "videos": "4617"
+  },
+  {
+   "title": "NomanKing",
+   "id": "UCCavPfUrVqNswnP1XzUQIFw",
+   "created": "2025-10-27",
+   "subs": "1870",
+   "videos": "195"
+  },
+  {
+   "title": "Smart Dog Academy",
+   "id": "UCkXA03y6V-7wzRdufDDbjMA",
+   "created": "2026-10-20",
+   "subs": "39",
+   "videos": "15"
+  },
+  {
+   "title": "Cool Chris",
+   "id": "UCf2jN3uE_hOusb7giaCQSwQ",
+   "created": "2017-10-26",
+   "subs": "133",
+   "videos": "35"
+  },
+  {
+   "title": "Paws & Hearts Stories",
+   "id": "UCzsNiwaCWnMP6JfKVeP4vkg",
+   "created": "2025-12-10",
+   "subs": "731",
+   "videos": "158"
+  },
+  {
+   "title": "The Enlightened Smartass",
+   "id": "UCTIvi9aNtZzJmWyETo4psxw",
+   "created": "2025-09-02",
+   "subs": "181",
+   "videos": "82"
+  },
+  {
+   "title": "Falkor The English Cream",
+   "id": "UC_uOTdmUgmJS9RjTq_M-eHQ",
+   "created": "2026-10-20",
+   "subs": "8",
+   "videos": "5"
+  },
+  {
+   "title": "ভোলা মাল্টিমিডিয়া Bhola Maltimidiya",
+   "id": "UCSXOBvmvzxBiPteaSwcdWPA",
+   "created": "2018-05-06",
+   "subs": "62",
+   "videos": "48"
+  },
+  {
+   "title": "Soso The Cute Lab",
+   "id": "UCHK_DXVA4W_y2V-689PPH8g",
+   "created": "2022-08-30",
+   "subs": "29900",
+   "videos": "1042"
+  },
+  {
+   "title": "Character world",
+   "id": "UCP2JlaDq2ELd7wiX4JmViQQ",
+   "created": "2026-08-14",
+   "subs": "939",
+   "videos": "240"
+  },
+  {
+   "title": "The pawfect mother",
+   "id": "UClQb1L5WbN_bTbtt5sfeRuw",
+   "created": "2022-09-09",
+   "subs": "5660",
+   "videos": "1799"
+  },
+  {
+   "title": "PixelloSprout",
+   "id": "UCPr0DU8tXzUxNhmugYp49Tg",
+   "created": "2026-07-12",
+   "subs": "1050",
+   "videos": "1971"
+  },
+  {
+   "title": "Corey Moriarty",
+   "id": "UCt8Malp-uZncKokwCM7rKqg",
+   "created": "2024-04-30",
+   "subs": "335000",
+   "videos": "145"
+  },
+  {
+   "title": "Faronas Dunfield",
+   "id": "UCGeAj-uPMEW438VK-qogtug",
+   "created": "2026-09-01",
+   "subs": "87",
+   "videos": "101"
+  },
+  {
+   "title": "RoyalGoldenMax",
+   "id": "UCKEMC_k8pwMmdk3guLuR50g",
+   "created": "2025-11-21",
+   "subs": "1390",
+   "videos": "935"
+  },
+  {
+   "title": "Cchamp the golden retriever ",
+   "id": "UCs_yscMZD_MsPUd_tU75q6A",
+   "created": "2022-08-06",
+   "subs": "1530",
+   "videos": "762"
+  },
+  {
+   "title": "Zumi Spaniel",
+   "id": "UC8Kbn6bqkj2mmRTHbGf7oew",
+   "created": "2026-06-10",
+   "subs": "442",
+   "videos": "174"
+  },
+  {
+   "title": "Baily Lazar-Singh",
+   "id": "UCuXM88MNCwC38nz2ZrP6I0A",
+   "created": "2020-09-09",
+   "subs": "77",
+   "videos": "38"
+  },
+  {
+   "title": "Cozy Life & Beyond",
+   "id": "UCNXlMFQpWwHHfYzYXTTWEnA",
+   "created": "2026-10-11",
+   "subs": "55",
+   "videos": "31"
+  },
+  {
+   "title": "MemeIn60",
+   "id": "UCowkqRpDT4hDJeig6hBz9yQ",
+   "created": "2026-09-22",
+   "subs": "30",
+   "videos": "30"
+  },
+  {
+   "title": "Cung Piano Lesson ",
+   "id": "UCbg09lCBBcmCIwqKpM1MsQw",
+   "created": "2023-08-29",
+   "subs": "75",
+   "videos": "126"
+  },
+  {
+   "title": "sweta and Ritik 2468",
+   "id": "UCYzFa7FbuJaiEifm52Vqqzw",
+   "created": "2024-11-01",
+   "subs": "38",
+   "videos": "56"
+  },
+  {
+   "title": "Paws & Palms",
+   "id": "UCm7BuFrB18PsXM1pAeOX_Pg",
+   "created": "2026-06-03",
+   "subs": "163",
+   "videos": "151"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "who does the dog listen to golden retriever",
+   "vid": "6zQ006ZP1ds",
+   "ch": "Corey Moriarty",
+   "cid": "UCt8Malp-uZncKokwCM7rKqg",
+   "date": "2026-10-29",
+   "title": "Just a well behaved boy 🥰 #dog #dogs #goldenretriever #puppy",
+   "views": 1273365
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "q": "who does the dog listen to golden retriever",
+   "vid": "K6iPgmNzXUw",
+   "ch": "JAYLERR",
+   "cid": "UCfUOIFLj-K3JRmdxGZNf1Lg",
+   "date": "2026-10-28",
+   "title": "‘Golden Retriever’ JAYLERR Feat. BILLKIN - OFFICIAL MV",
+   "views": 797232
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "pNUDtBZPx1k",
+   "ch": "Life With Zubie",
+   "cid": "UCIlLRQCmsS-XJCqYkYGR90A",
+   "date": "2026-10-29",
+   "title": "My 🐾Dog Is Literally TALKING to Me About Dad!🥹 #dog #funny #",
+   "views": 28437
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "cyK83FaPhFw",
+   "ch": "PixelloSprout",
+   "cid": "UCPr0DU8tXzUxNhmugYp49Tg",
+   "date": "2026-11-01",
+   "title": "The Living Room Interrogation! 🐶👉 #shorts",
+   "views": 14759
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "CuAg8xwcros",
+   "ch": "Soso The Cute Lab",
+   "cid": "UCHK_DXVA4W_y2V-689PPH8g",
+   "date": "2026-10-26",
+   "title": "Are you evan listening?🐶🫤#cute#puppy#sortsvideo",
+   "views": 13827
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "wgsO25A15eY",
+   "ch": "Babies View",
+   "cid": "UCSeNrl18KbCU5XyatBVIchw",
+   "date": "2026-10-25",
+   "title": "Baby Hank&#39;s best move 🤪 #dogtricks#puppy #goldenretrieve",
+   "views": 8526
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "439Gug79ypQ",
+   "ch": "Doggo Vibes",
+   "cid": "UCRQ5bZjYLxdfUc0FvgyFRpg",
+   "date": "2026-10-26",
+   "title": "His listening ears are on 95% of the time 😂 #dog #dogvideos ",
+   "views": 5346
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "Cfw3VL781QA",
+   "ch": "sweta and Ritik 2468",
+   "cid": "UCYzFa7FbuJaiEifm52Vqqzw",
+   "date": "2026-10-29",
+   "title": "🐕 Golden Retriever Helps With Chores",
+   "views": 7404
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "cO6_yAuYGSc",
+   "ch": "devi singh",
+   "cid": "UCE8JNVZH9r5CQuM7AgWESZw",
+   "date": "2026-10-31",
+   "title": "His brain completely short-circuited at &quot;DAD&quot;! 😭💻 ",
+   "views": 5171
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "26MfDzjOtao",
+   "ch": "Melissa Matthews",
+   "cid": "UCBvLmmovbM7ykbjat-KiRWg",
+   "date": "2026-10-25",
+   "title": "Dog Steals Headphones in Hollywood!",
+   "views": 7019
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "BRJdwP7xWac",
+   "ch": "Milo's Story",
+   "cid": "UC_FkVtTLnXn8CoHDEehzP1g",
+   "date": "2026-10-20",
+   "title": "👂 What Do You Hear? 🐶🎧 (1)",
+   "views": 9534
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "AMrN0M5dbRw",
+   "ch": "OliverT ",
+   "cid": "UCyVnmSgwg7N7Q52xnrzJnVQ",
+   "date": "2026-10-23",
+   "title": "My Dog Started Talking And It’s Brutally Honest",
+   "views": 5560
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "FlSJj5VtViE",
+   "ch": "Maverick’s Doodle Adventures ",
+   "cid": "UCCMJB-CCNfAbGbYnJPtbmPQ",
+   "date": "2026-10-22",
+   "title": "Humans Never Listen😂 #dog #funnydogs #goldendoodle",
+   "views": 4214
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "LlYmrrtRitc",
+   "ch": "Cool Chris",
+   "cid": "UCf2jN3uE_hOusb7giaCQSwQ",
+   "date": "2026-10-26",
+   "title": "I love my dog even though he still won’t listen",
+   "views": 3361
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "tbczg5s1Y6o",
+   "ch": "all in one Biswas",
+   "cid": "UCX-f1c4wo2kXNLOBDzP-CRA",
+   "date": "2026-10-27",
+   "title": "🐕 Golden Retriever Learns To Help With Chores",
+   "views": 3252
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "Y9WVZ2_XKZI",
+   "ch": "Basically Us 😂",
+   "cid": "UCyJ_sdWN7nDiFpsVKHjbveQ",
+   "date": "2026-10-21",
+   "title": "My Dog Refuses to Listen 😂🐶 #Shorts",
+   "views": 2494
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "EalUjITeEXg",
+   "ch": "Character world",
+   "cid": "UCP2JlaDq2ELd7wiX4JmViQQ",
+   "date": "2026-10-25",
+   "title": "The Dog Kept Warning Him… He Didn’t Listen! 😰#DogWarning #My",
+   "views": 2092
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "g3FXi7Z2eHY",
+   "ch": "Baily Lazar-Singh",
+   "cid": "UCuXM88MNCwC38nz2ZrP6I0A",
+   "date": "2026-10-24",
+   "title": "how can I sit here and listen to disrespect 😤 #goldenretriev",
+   "views": 2484
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "ol3LxgJ-xPA",
+   "ch": "Zumi Spaniel",
+   "cid": "UC8Kbn6bqkj2mmRTHbGf7oew",
+   "date": "2026-10-29",
+   "title": "If mind of her own had a face 😂 selective listening! #dog #p",
+   "views": 1752
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "fAgTYnwHU98",
+   "ch": "Falkor The English Cream",
+   "cid": "UC_uOTdmUgmJS9RjTq_M-eHQ",
+   "date": "2026-10-22",
+   "title": "“DO NOT MOVE!” 😂 Alexa enters the conversation 🐾",
+   "views": 1301
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "6-LiD7SqejU",
+   "ch": "SpotReels ",
+   "cid": "UCVHqKT2kXnQ-NwjNNKyC6ow",
+   "date": "2026-10-21",
+   "title": "My girlfriend been listening to these true crime podcast",
+   "views": 2161
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "9tpQFSlYRAE",
+   "ch": "Paws & Palms",
+   "cid": "UCm7BuFrB18PsXM1pAeOX_Pg",
+   "date": "2026-10-22",
+   "title": "Golden retriever puppy&#39;s cute post-milk sounds ASMR! 🍼🐶 ",
+   "views": 1543
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "WPfvAZ1BE4w",
+   "ch": "The Enlightened Smartass",
+   "cid": "UCTIvi9aNtZzJmWyETo4psxw",
+   "date": "2026-10-27",
+   "title": "October 27, 2026",
+   "views": 1249
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "jEYnLeTAQR8",
+   "ch": " Tail of Triumph - Lyrics",
+   "cid": "UCJZny0K5Cckvk1zoEzd1Jmg",
+   "date": "2026-10-24",
+   "title": "Healing The Hidden Wound — Roy Stone. Listen on Spotify, App",
+   "views": 1249
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "bY_eVAMRKPs",
+   "ch": "हेमंत कुमार ",
+   "cid": "UCkgStyA6ons6cx3DLBLAIMg",
+   "date": "2026-10-29",
+   "title": "🐕 Golden Retriever Helps With Chores",
+   "views": 1644
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "kL2vJlsJJbE",
+   "ch": " Brainless Chick 🐥",
+   "cid": "UCepuYLtsOAWPDt7vK9GBdig",
+   "date": "2026-11-02",
+   "title": "My Dog is not listening to me 😔#shorts #ytshorts",
+   "views": 2037
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "ynFNwhZxyrw",
+   "ch": "Pawsitive Chance",
+   "cid": "UCCeNeqn4WqJSOwYnnA6Wu1A",
+   "date": "2026-10-25",
+   "title": "Cue discrimination means your dog can respond confidently be",
+   "views": 1706
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "OFqNKon9B9Q",
+   "ch": "Faronas Dunfield",
+   "cid": "UCGeAj-uPMEW438VK-qogtug",
+   "date": "2026-10-24",
+   "title": "A newly learned song, sung to Big Golden hair, doesn&#39;t s",
+   "views": 1368
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "QZFQz6Lzz04",
+   "ch": "Paws & Hearts Stories",
+   "cid": "UCzsNiwaCWnMP6JfKVeP4vkg",
+   "date": "2026-10-25",
+   "title": "Why Did He Refuse Her Brush? 🥺❤️ #DogLove #GoldenRetriever #",
+   "views": 1517
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "_EtmCIJ0NCU",
+   "ch": "Judge Harlan",
+   "cid": "UCSFMBR6UdyAUW5PIV9Xctaw",
+   "date": "2026-10-20",
+   "title": "EIGHTY KIDS SING TO A GOLDEN RETRIEVER",
+   "views": 1438
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "FC5j4_5Jm88",
+   "ch": "Adventures with Moody Mozzy",
+   "cid": "UCnXtZfw4_TbSdHmzt0mIwAA",
+   "date": "2026-10-21",
+   "title": "POV: Your service dog listens to every flight attendant inst",
+   "views": 1382
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "dGlYFxJHrjc",
+   "ch": "Dholu choudhary ",
+   "cid": "UCtaH2D5B3w7GfjSreiGH-cQ",
+   "date": "2026-10-27",
+   "title": "Smart Golden Retriever Helps With Chores! #story #dog #love ",
+   "views": 1604
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "TNPSDp51SYg",
+   "ch": "Noddy ",
+   "cid": "UCsG6qfl58Q8bQU37WCxpA2A",
+   "date": "2026-10-24",
+   "title": "Noddy Listening to English Like He Understands Everything #y",
+   "views": 1017
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "qnso3uH6LHw",
+   "ch": "The Stumpy Brigade",
+   "cid": "UCoE7DLvL_XB3e_Frx73E5fA",
+   "date": "2026-10-26",
+   "title": "Listen to this dog. Go vote. #shorts #dog",
+   "views": 1068
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "D8aABhazeWA",
+   "ch": "Normie the Service Dog",
+   "cid": "UC-aetkQT7byUKWG_ZheOsmA",
+   "date": "2026-11-02",
+   "title": "Dogs really do speak, you just have to know how to listen",
+   "views": 1325
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "gHQhIvNJlho",
+   "ch": "Hellcat lover 2",
+   "cid": "UCoy4S9d-7ZjSufqF3ncKBZg",
+   "date": "2026-11-01",
+   "title": "November 1, 2026",
+   "views": 1277
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "1lOAPC7VVOU",
+   "ch": "Cozy Life & Beyond",
+   "cid": "UCNXlMFQpWwHHfYzYXTTWEnA",
+   "date": "2026-10-20",
+   "title": "Ben Loves Listening to the Birds! 🐶🐦💕 #Shorts",
+   "views": 1319
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "0b7wej8Xen4",
+   "ch": "lynn & Idol",
+   "cid": "UCO8UjvCRuCNKDxw-BYDQWPw",
+   "date": "2026-10-29",
+   "title": "Idol Is LOVING His Water! 😂💦Just listen to Idol! 😂💦 He’s enj",
+   "views": 1200
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "wclO6xZ_IJE",
+   "ch": "Cute_coffey",
+   "cid": "UCMLj0y-u7aGEkdts0sxkQqQ",
+   "date": "2026-10-27",
+   "title": "My golden retriever is not listen to me 😞",
+   "views": 1090
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "U-1A0JCBlbU",
+   "ch": "Cung Piano Lesson ",
+   "cid": "UCbg09lCBBcmCIwqKpM1MsQw",
+   "date": "2026-10-26",
+   "title": "My Dog Decided To Clean The TV #shortvideo",
+   "views": 1424
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "1AyDsqfYSSc",
+   "ch": "MemeIn60",
+   "cid": "UCowkqRpDT4hDJeig6hBz9yQ",
+   "date": "2026-10-22",
+   "title": "listen 🎧#laughoutloud",
+   "views": 1491
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "xvE8QhTA6kY",
+   "ch": "ভোলা মাল্টিমিডিয়া Bhola Maltimidiya",
+   "cid": "UCSXOBvmvzxBiPteaSwcdWPA",
+   "date": "2026-10-26",
+   "title": "not listening to the words❤️",
+   "views": 1423
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "TIY7bTAZSbQ",
+   "ch": "NomanKing",
+   "cid": "UCCavPfUrVqNswnP1XzUQIFw",
+   "date": "2026-10-29",
+   "title": "🐕 Clever Dog Opens The Door To Welcome His Owner",
+   "views": 998
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "IaFkZ1lRM38",
+   "ch": "Cchamp the golden retriever ",
+   "cid": "UCs_yscMZD_MsPUd_tU75q6A",
+   "date": "2026-10-30",
+   "title": "Sun raha hai na #ytshorts #goldenretreiver #funny #pets",
+   "views": 1103
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "8LdYAEvDiwM",
+   "ch": "The pawfect mother",
+   "cid": "UClQb1L5WbN_bTbtt5sfeRuw",
+   "date": "2026-10-23",
+   "title": "When doesn’t want to move he won’t listen to me #shorts #dog",
+   "views": 1237
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "GxauThQ-NkU",
+   "ch": "Milo's Story",
+   "cid": "UC_FkVtTLnXn8CoHDEehzP1g",
+   "date": "2026-10-22",
+   "title": "👂 What Do You Hear? (3) 🐶🎧",
+   "views": 1290
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "CHOaJSupLgw",
+   "ch": "Ginger's Golden Paws Mukbang - Raw & Real",
+   "cid": "UC-S4OwUufJYq2BYrbJOLUJQ",
+   "date": "2026-10-29",
+   "title": "Meet The Cutest Kibble Monster In The World! 🐾✨#GoldenRetrie",
+   "views": 1331
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "YFY1JCHvXsg",
+   "ch": "Smart Dog Academy",
+   "cid": "UCkXA03y6V-7wzRdufDDbjMA",
+   "date": "2026-10-21",
+   "title": "Your Dog Won&#39;t Listen? Try This Simple Trick! 🐶 #shorts",
+   "views": 1215
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "IgDDor05SrE",
+   "ch": "RoyalGoldenMax",
+   "cid": "UCKEMC_k8pwMmdk3guLuR50g",
+   "date": "2026-10-28",
+   "title": "&quot;Will Max Listen to Me? Let’s Find Out! 🐶😎” #shorts #sh",
+   "views": 1014
+  },
+  {
+   "q": "who does the dog listen to golden retriever",
+   "vid": "neWifLXfJc8",
+   "ch": "Milo's Story",
+   "cid": "UC_FkVtTLnXn8CoHDEehzP1g",
+   "date": "2026-10-25",
+   "title": "👂 What Do You Hear? 🐶🎧 (4)",
+   "views": 1349
   }
  ]
 }
