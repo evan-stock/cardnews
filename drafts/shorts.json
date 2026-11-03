@@ -1,162 +1,191 @@
 {
- "id": "20261103-sulk2",
+ "id": "20261103-grudge",
  "mode": "send",
  "format": "meme",
- "topic": "12주 된 헝가리안 비즐라 아기 강아지 오티스가 아빠 손을 깨물다 '안 돼' 소리를 듣고 가족이 웃자 아빠 무릎에 발라당 누워 단단히 삐짐, 옆눈질(TikTok @otisbegotus, 약 30만 회, Newsweek 2025.6.25·iHeartDogs 2025.7.1 보도). 펫스파이 '~했다가 제대로 삐진 ○○' 틀 + '삐진' 시리즈. 원본 소리(가족 말소리·웃음, 음악 아님) 살림. 사실: AKC — 생후 12~16주에 젖니가 빠지고 영구치가 나기 시작함.",
+ "topic": "주인 바지에 구멍을 낸 강아지 루나가 혼나는 동안 초롱초롱한 눈으로 억울한 척 쳐다보다가, 손가락으로 가리키자 귀를 접고 눈을 피하고 결국 도망감(TikTok @bea.albino, 800만 회 안팎, TAG24 2022.12.8 보도). 펫스파이 '~의 반응ㅋㅋ' 틀, 귀여움 1순위(큰 눈 얼굴 클로즈업 + 억울함). 원본 소리(주인이 혼내는 말소리, 음악 아님) 살림. 사실: Horowitz 2009(Behavioural Processes) — 개의 '죄책감 표정'은 잘못했는지보다 주인이 혼낼 때 더 많이 나옴, 잘못 안 했는데 혼난 개가 가장 심한 표정.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.9,
+ "bgm_volume": 0.8,
  "sfx_max": 4,
  "hook": {
-  "t": "깨물지 말라고 했더니\n'단단히 삐진 아기 댕댕이ㅋㅋ'"
+  "t": "바지에 구멍 내 놓고 혼나는\n'댕댕이의 억울한 표정ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @otisbegotus"
+  "TikTok @bea.albino"
  ],
  "sources": [
   {
-   "publisher": "TikTok @otisbegotus",
-   "url": "https://www.tiktok.com/@otisbegotus/video/7519098171046235405",
-   "date": "2025"
+   "publisher": "TikTok @bea.albino",
+   "url": "https://www.tiktok.com/@bea.albino/video/7171814783711186182",
+   "date": "2022"
   },
   {
-   "publisher": "Newsweek - Puppy Left Feeling 'So Mad' at New Owners, Reason Goes Viral",
-   "url": "https://www.newsweek.com/hungarian-vizsla-puppy-mad-new-owners-reason-2090418",
-   "date": "2025-06-25"
+   "publisher": "TAG24 - This dog's hysterical reaction to getting a scolding is viral gold",
+   "url": "https://tag24.com/animals/dogs/this-dogs-hysterical-reaction-to-getting-a-scolding-is-viral-gold-2684909",
+   "date": "2022-12-08"
   },
   {
-   "publisher": "iHeartDogs - Puppy Throws a Pout That's Too Dramatic Not to Love",
-   "url": "https://iheartdogs.com/dramatic-puppy-sulk-goes-viral/",
-   "date": "2025-07-01"
-  },
-  {
-   "publisher": "AKC - Timeline of Puppy Teething",
-   "url": "https://www.akc.org/expert-advice/health/timeline-of-puppy-teething/",
+   "publisher": "Scientific American - Don't Be Fooled When a Dog Looks Guilty (Horowitz 2009, Behavioural Processes)",
+   "url": "https://www.scientificamerican.com/article/don-t-be-fooled-when-a-dog-looks-guilty",
    "date": ""
   }
  ],
  "scenes": [
   {
-   "dur": 2.6,
+   "dur": 1.7,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 19.7,
-    "x": 0.5,
-    "y": 0.2,
-    "audio": 2.5
+    "src": "video/v5.mp4",
+    "start": 6.8,
+    "zoom": 1.15,
+    "x": 0.42,
+    "y": 0.25,
+    "audio": 1.0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "말 걸지 마.",
+     "t": "제가요?",
+     "x": 0.72,
+     "y": 0.2,
+     "at": 0.1,
+     "to": 1.7
+    },
+    {
+     "k": "sfx",
+     "t": "(초롱초롱)",
+     "x": 0.25,
+     "y": 0.12,
+     "at": 0.3,
+     "to": 1.7,
+     "s": "sparkle",
+     "sv": 0.6
+    }
+   ]
+  },
+  {
+   "say": "주인 바지를 뜯어서 구멍을 냈는데요.",
+   "video": {
+    "src": "video/v5.mp4",
+    "start": 1.0,
+    "x": 0.5,
+    "y": 0.4,
+    "audio": 0.4
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "증거물 1호",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "dur": 2.0,
+   "video": {
+    "src": "video/v5.mp4",
+    "start": 9.25,
+    "zoom": 1.15,
+    "x": 0.42,
+    "y": 0.25,
+    "audio": 1.0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "그 구멍 원래 있던 거 아님?",
      "x": 0.5,
      "y": 0.08,
      "at": 0.1,
-     "to": 2.6
-    },
-    {
-     "k": "sfx",
-     "t": "(부루퉁)",
-     "x": 0.8,
-     "y": 0.5,
-     "at": 0.4,
-     "to": 2.6,
-     "s": "pop",
-     "sv": 0.9
+     "to": 2.0,
+     "s": "question",
+     "sv": 0.8
     }
    ]
   },
   {
-   "say": "손을 깨물다가 혼이 났는데요.",
+   "dur": 2.3,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 4.45,
-    "zoom": 1.4,
-    "x": 0.5,
-    "y": 0,
-    "audio": 0.4
+    "src": "video/v5.mp4",
+    "start": 13.0,
+    "zoom": 1.15,
+    "x": 0.42,
+    "y": 0.25,
+    "audio": 1.0
    },
    "caps": [
-    {
-     "k": "talk",
-     "t": "깨문 거 아니고 맛본 건데",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 0.4
-    }
-   ]
-  },
-  {
-   "dur": 2.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 0.3,
-    "zoom": 1.4,
-    "x": 0.5,
-    "y": 0,
-    "audio": 2.5
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "웃지 마. 나 진지해",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 0.1,
-     "to": 1.3
-    },
-    {
-     "k": "talk",
-     "t": "이건 선 넘었지",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 1.35,
-     "to": 2.6
-    },
     {
      "k": "sfx",
-     "t": "(발라당 시위 중)",
-     "x": 0.5,
-     "y": 0.05,
+     "t": "(움찔)",
+     "x": 0.25,
+     "y": 0.15,
      "at": 0.3,
-     "to": 2.6,
-     "s": "boing",
-     "sv": 0.7
+     "to": 2.3
+    },
+    {
+     "k": "talk",
+     "t": "손가락은 좀 치워 줄래..?",
+     "x": 0.5,
+     "y": 0.75,
+     "at": 0.4,
+     "to": 2.3
     }
    ]
   },
   {
-   "say": "생후 12주부터는 젖니가 빠지고 영구치가 나기 시작한대요.",
+   "say": "그런데 개의 미안한 표정은, 잘못했을 때보다 혼날 때 더 자주 나온대요.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 17.1,
-    "x": 0.5,
-    "y": 0.2,
+    "src": "video/v5.mp4",
+    "start": 15.5,
+    "zoom": 1.15,
+    "x": 0.42,
+    "y": 0.25,
     "audio": 0.4
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "간식 두 개면 풀어 줌",
+     "k": "sfx",
+     "t": "(눈 안 마주침)",
      "x": 0.5,
-     "y": 0.1,
-     "at": 0.8,
-     "s": "sparkle",
-     "sv": 0.6
+     "y": 0.12,
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "dur": 1.4,
+   "video": {
+    "src": "video/v5.mp4",
+    "start": 19.5,
+    "x": 0.45,
+    "y": 0.4,
+    "audio": 1.0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "난 이만 튈게",
+     "x": 0.5,
+     "y": 0.15,
+     "at": 0.6,
+     "to": 1.4,
+     "s": "whoosh",
+     "sv": 0.8
     }
    ]
   }
  ],
  "yt": {
-  "title": "손 깨물지 말라고 했더니 단단히 삐진 아기 강아지ㅋㅋ #shorts",
-  "description": "아빠 손을 깨물다가 '안 돼' 소리를 들은 12주 아기 비즐라 오티스ㅋㅋ 가족들이 웃자 아빠 무릎에 발라당 누워서 시위 시작... 말 걸어도 옆눈질만ㅋㅋ\n\n참고로 미국애견협회(AKC)에 따르면 강아지는 생후 12~16주쯤 젖니가 빠지고 영구치가 나기 시작해요.\n\n여러분 댕댕이는 삐지면 어떻게 하나요?\n\n영상: TikTok @otisbegotus\n참고: Newsweek, iHeartDogs, AKC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "주인 바지에 구멍 내 놓고 혼나던 댕댕이의 억울한 반응ㅋㅋ #shorts",
+  "description": "주인 바지를 뜯어 구멍을 낸 댕댕이 루나ㅋㅋ 혼나는 내내 초롱초롱한 눈으로 '제가요?'... 손가락으로 가리키자 귀를 접고 눈을 피하더니 결국 도망ㅋㅋ\n\n참고로 2009년 미국 바너드대 호로위츠 연구에 따르면, 개의 '미안한 표정'은 실제로 잘못했는지보다 주인이 혼낼 때 더 자주 나타났대요. 잘못 안 했는데 혼난 개가 오히려 가장 미안한 표정을 지었다고 해요.\n\n여러분 댕댕이는 혼나면 어떤 표정을 짓나요?\n\n영상: TikTok @bea.albino\n참고: TAG24, Scientific American(Horowitz 2009, Behavioural Processes)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
    "강아지",
-   "아기강아지",
-   "삐진강아지",
-   "비즐라",
-   "강아지반응",
    "댕댕이",
+   "강아지반응",
+   "혼나는강아지",
+   "억울한강아지",
+   "강아지표정",
    "shorts",
    "오늘의털뭉치"
   ]
