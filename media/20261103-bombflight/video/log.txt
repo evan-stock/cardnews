@@ -1,0 +1,26 @@
+ERROR: [twitter] 2117570246215147963: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/MarioNawfal/status/2117570246215147963
+실패: https://x.com/MarioNawfal/status/2117570246215147963
+total 14700
+drwxr-xr-x 2 runner runner    4096 Nov  3 14:18 .
+drwxr-xr-x 3 runner runner    4096 Nov  3 14:17 ..
+-rw-r--r-- 1 runner runner     220 Nov  3 14:17 log.txt
+-rw-r--r-- 1 runner runner  905984 Nov  3 14:17 v1.mp4
+-rw-r--r-- 1 runner runner  904640 Nov  3 14:17 v10.mp4
+-rw-r--r-- 1 runner runner 5052798 Nov  3 14:17 v2.mp4
+-rw-r--r-- 1 runner runner 1098410 Nov  3 14:17 v3.mp4
+-rw-r--r-- 1 runner runner  905984 Nov  3 14:17 v4.mp4
+-rw-r--r-- 1 runner runner  905984 Nov  3 14:17 v5.mp4
+-rw-r--r-- 1 runner runner  127192 Nov  3 14:17 v6.mp4
+-rw-r--r-- 1 runner runner  561671 Nov  3 14:17 v7.mp4
+-rw-r--r-- 1 runner runner 4513646 Nov  3 14:17 v9.mp4
+-rw-r--r-- 1 runner runner     740 Nov  3 14:17 x1.json
+-rw-r--r-- 1 runner runner     797 Nov  3 14:18 x10.json
+-rw-r--r-- 1 runner runner     904 Nov  3 14:17 x2.json
+-rw-r--r-- 1 runner runner    1206 Nov  3 14:17 x3.json
+-rw-r--r-- 1 runner runner     701 Nov  3 14:17 x4.json
+-rw-r--r-- 1 runner runner     743 Nov  3 14:17 x5.json
+-rw-r--r-- 1 runner runner     761 Nov  3 14:17 x6.json
+-rw-r--r-- 1 runner runner    1097 Nov  3 14:17 x7.json
+-rw-r--r-- 1 runner runner    1141 Nov  3 14:17 x8.json
+-rw-r--r-- 1 runner runner    1826 Nov  3 14:17 x9.json
