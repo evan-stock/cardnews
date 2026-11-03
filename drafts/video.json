@@ -1,12 +1,8 @@
-{"id": "20261103-bombflight", "frames": 0, "urls": [
-"https://x.com/visegrad24/status/2117569195722293625",
-"https://x.com/RMF24pl/status/2117572606035394859",
-"https://x.com/TheNatGB/status/2117602739068747974",
-"https://x.com/solodeida/status/2117608928062181513",
-"https://x.com/JamalibnAmin/status/2117610996944543757",
-"https://x.com/EuroPostAgency/status/2117590112443793734",
-"https://x.com/trendingblog247/status/2117294114299346956",
-"https://x.com/MarioNawfal/status/2117570246215147963",
-"https://x.com/theinformant_x/status/2117605356239261772",
-"https://x.com/ThayzzySmith/status/2117583271596871704"
+{"id": "20261104-goldtest", "frames": 0, "args": "--playlist-end 12 --print-to-file %(id)s|%(timestamp)s|%(view_count)s|%(duration)s|%(title).70s media/20261104-goldtest/video/list.txt", "urls": [
+"https://www.tiktok.com/@imbluethesiberiann",
+"https://www.tiktok.com/@bakedbeandoggo/video/7614153913129913631",
+"https://x.com/kmmmm0606/status/2082067185779044802",
+"https://x.com/buitengebieden/status/2103370365841895693",
+"https://x.com/thingsmytaste/status/2075608754620629017",
+"https://x.com/salgururu_/status/2076891288843288931"
 ]}
