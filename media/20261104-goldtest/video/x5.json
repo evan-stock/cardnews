@@ -1,0 +1,28 @@
+{
+ "src": "fxtwitter",
+ "author": "thingsmytaste",
+ "name": "봄웅웅",
+ "date": "Fri Jul 10 15:51:04 +0000 2026",
+ "text": "계란말이 기다려 강아지",
+ "views": 783,
+ "likes": 23,
+ "retweets": 5,
+ "quote": null,
+ "url": "https://x.com/thingsmytaste/status/2075608754620629017",
+ "id": "2075608754620629017",
+ "videos": [
+  {
+   "url": "https://video.twimg.com/amplify_video/2075608610508570624/vid/avc1/1440x2560/2lp0um03FhOiohxu.mp4?tag=28",
+   "w": 1440,
+   "h": 2560,
+   "dur": 33.7
+  },
+  {
+   "url": "https://video.twimg.com/amplify_video/2075608610479230976/vid/avc1/1080x1920/e8S6RjGH9wnukkYg.mp4?tag=28",
+   "w": 1080,
+   "h": 1920,
+   "dur": 3.066
+  }
+ ],
+ "errors": []
+}
