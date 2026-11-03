@@ -7,9 +7,9 @@
  },
  "credit": "영상: TikTok @jonsimo · 그래픽: 오늘의쓸모",
  "bgm": {
-  "file": "assets/bgm/worthy/the_awakening.mp3",
-  "start": 30.0,
-  "vol": 0.38
+  "file": "assets/bgm/worthy/subway_dreams.mp3",
+  "start": 46.0,
+  "vol": 0.28
  },
  "orig_vol": 0,
  "products": [],
@@ -33,12 +33,75 @@
  ],
  "_note": "클립 1080x780(-an, 대비·채도 살짝↑, unsharp). 원본 v16 576x1024. A = 5.5~6.4 crop 576x416+0+300 0.69배 슬로 → 15.4~16.4 같은 크롭 0.83배(초근접) → 12.4~12.9(가지 위 떼) — 첫 3초 3컷(0/1.3/2.5초 전환). 'The Dance of the Wooly Aphids' 글자(4~8.5초)는 안 씀. B = 19.5~22.1 갈래 가지. C = 10.5~11.4 한 마리(crop y230, 0.67배) + 14.0~14.8 한 마리 근접(0.63배). D = 5.5~6.4 crop 400x289+88+360 0.31배 슬로 리플레이(2.7배 확대). 원본 소리(음악) 끔 → 효과음(0초 dundun, 1.3·2.5초 whoosh, 15.25초 '콕' pop)은 렌더 뒤 ffmpeg 로 섞음. 그래픽 gfx/wax·sway·stab = anim_aphid.py.",
  "scenes": [
-  {"text": "이 솜뭉치, 왜 혼자 흔들릴까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
-  {"text": "곰팡이도 솜도 아닌, 전부 '벌레'", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
-  {"text": "흰 털은 몸에서 뽑아낸 '왁스 실'", "video": {"src": "gfx/wax.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
-  {"text": "나무 수액을 빨아 먹고 사는 '진딧물'", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
-  {"text": "건드리면 수백 마리가 다 같이 '흔들흔들'", "video": {"src": "gfx/sway.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
-  {"text": "어떤 애들은 바늘 같은 입으로 '콕' 찌른다", "video": {"src": "gfx/stab.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
-  {"text": "보송해 보여도 손대지 마세요, 구독은 대환영", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8}
+  {
+   "text": "이 솜뭉치, 왜 혼자 흔들릴까요?",
+   "video": {
+    "src": "clip/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "곰팡이도 솜도 아닌, 전부 '벌레'",
+   "video": {
+    "src": "clip/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "흰 털은 몸에서 뽑아낸 '왁스 실'",
+   "video": {
+    "src": "gfx/wax.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "나무 수액을 빨아 먹고 사는 '진딧물'",
+   "video": {
+    "src": "clip/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "건드리면 수백 마리가 다 같이 '흔들흔들'",
+   "video": {
+    "src": "gfx/sway.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "어떤 애들은 바늘 같은 입으로 '콕' 찌른다",
+   "video": {
+    "src": "gfx/stab.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "보송해 보여도 손대지 마세요, 구독은 대환영",
+   "video": {
+    "src": "clip/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  }
  ]
 }
