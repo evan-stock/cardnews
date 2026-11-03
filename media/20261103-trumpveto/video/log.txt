@@ -13,3 +13,19 @@ drwxr-xr-x 4 runner runner 4096 Nov  3 01:43 ..
 -rw-r--r-- 1 runner runner 2325 Nov  3 01:44 x3.json
 -rw-r--r-- 1 runner runner  591 Nov  3 01:44 x4.json
 -rw-r--r-- 1 runner runner 1227 Nov  3 01:44 x5.json
+total 98016
+drwxr-xr-x 2 runner runner     4096 Nov  3 01:51 .
+drwxr-xr-x 4 runner runner     4096 Nov  3 01:50 ..
+-rw-r--r-- 1 runner runner      695 Nov  3 01:50 log.txt
+-rw-r--r-- 1 runner runner     3274 Nov  3 01:50 v1.info.json
+-rw-r--r-- 1 runner runner  1927204 Nov  3 01:50 v1.mp4
+-rw-r--r-- 1 runner runner  2848991 Nov  3 01:50 v2.mp4
+-rw-r--r-- 1 runner runner 23614679 Nov  3 01:51 v3.mp4
+-rw-r--r-- 1 runner runner 65995021 Nov  3 01:51 v4.mp4
+-rw-r--r-- 1 runner runner  5932753 Nov  3 01:51 v5.mp4
+-rw-r--r-- 1 runner runner      823 Nov  3 01:50 x1.json
+-rw-r--r-- 1 runner runner      650 Nov  3 01:50 x2.json
+-rw-r--r-- 1 runner runner     2325 Nov  3 01:51 x3.json
+-rw-r--r-- 1 runner runner      591 Nov  3 01:51 x4.json
+-rw-r--r-- 1 runner runner     1227 Nov  3 01:51 x5.json
+재압축: media/20261103-trumpveto/video/v4.mp4 100.330667초 → 3922k
