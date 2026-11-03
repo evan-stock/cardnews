@@ -1,0 +1,20 @@
+{
+ "src": "fxtwitter",
+ "author": "LastQuake",
+ "name": "EMSC",
+ "date": "Fri Mar 23 13:13:11 +0000 2018",
+ "text": "An impressive video: Huge crack opens in Kenya's Rift Valley http://www.bbc.com/news/av/world-africa-43501954/huge-crack-opens-in-kenya-s-rift-valley",
+ "views": null,
+ "likes": 15,
+ "retweets": 7,
+ "quote": null,
+ "url": "https://x.com/lastquake/status/977171399851864064",
+ "id": "977171399851864064",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "글만/삭제됨",
+ "card": null,
+ "quote_url": null
+}

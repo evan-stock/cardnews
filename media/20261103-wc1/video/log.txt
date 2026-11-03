@@ -1,0 +1,52 @@
+ERROR: [generic] Got HTTP Error 403 caused by Cloudflare anti-bot challenge; try again with  --extractor-args "generic:impersonate"
+영상 없는 글(사진만): https://x.com/artnet/status/1978559350777041013
+실패: https://x.com/artnet/status/1978559350777041013
+ERROR: [twitter] 977171399851864064: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+영상 없는 글(글만/삭제됨): https://x.com/lastquake/status/977171399851864064
+실패: https://x.com/lastquake/status/977171399851864064
+ERROR: [twitter] 1612024836473192448: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/NobelPrize/status/1612024836473192448
+실패: https://x.com/NobelPrize/status/1612024836473192448
+total 59008
+drwxr-xr-x 2 runner runner    4096 Nov  3 11:30 .
+drwxr-xr-x 3 runner runner    4096 Nov  3 11:29 ..
+-rw-r--r-- 1 runner runner     864 Nov  3 11:30 log.txt
+-rw-r--r-- 1 runner runner   22771 Nov  3 11:29 v1.info.json
+-rw-r--r-- 1 runner runner 4451938 Nov  3 11:29 v1.mp4
+-rw-r--r-- 1 runner runner  498875 Nov  3 11:29 v10.mp4
+-rw-r--r-- 1 runner runner   25750 Nov  3 11:29 v11.info.json
+-rw-r--r-- 1 runner runner 2903904 Nov  3 11:29 v11.mp4
+-rw-r--r-- 1 runner runner 7831076 Nov  3 11:29 v13.mp4
+-rw-r--r-- 1 runner runner 2996180 Nov  3 11:29 v14.mp4
+-rw-r--r-- 1 runner runner 8523605 Nov  3 11:30 v15.mp4
+-rw-r--r-- 1 runner runner   19504 Nov  3 11:30 v16.info.json
+-rw-r--r-- 1 runner runner 5071374 Nov  3 11:30 v16.mp4
+-rw-r--r-- 1 runner runner   19445 Nov  3 11:30 v17.info.json
+-rw-r--r-- 1 runner runner 3841269 Nov  3 11:30 v17.mp4
+-rw-r--r-- 1 runner runner   22510 Nov  3 11:30 v18.info.json
+-rw-r--r-- 1 runner runner  815365 Nov  3 11:30 v18.mp4
+-rw-r--r-- 1 runner runner   21306 Nov  3 11:30 v19.info.json
+-rw-r--r-- 1 runner runner 3396496 Nov  3 11:30 v19.mp4
+-rw-r--r-- 1 runner runner 2778956 Nov  3 11:29 v2.mp4
+-rw-r--r-- 1 runner runner   23384 Nov  3 11:30 v20.info.json
+-rw-r--r-- 1 runner runner  801724 Nov  3 11:30 v20.mp4
+-rw-r--r-- 1 runner runner   19401 Nov  3 11:29 v4.info.json
+-rw-r--r-- 1 runner runner 3015939 Nov  3 11:29 v4.mp4
+-rw-r--r-- 1 runner runner   17606 Nov  3 11:29 v5.info.json
+-rw-r--r-- 1 runner runner 5437463 Nov  3 11:29 v5.mp4
+-rw-r--r-- 1 runner runner   22827 Nov  3 11:29 v6.info.json
+-rw-r--r-- 1 runner runner 2057649 Nov  3 11:29 v6.mp4
+-rw-r--r-- 1 runner runner   22695 Nov  3 11:29 v7.info.json
+-rw-r--r-- 1 runner runner 2816448 Nov  3 11:29 v7.mp4
+-rw-r--r-- 1 runner runner   19824 Nov  3 11:29 v8.info.json
+-rw-r--r-- 1 runner runner 2433714 Nov  3 11:29 v8.mp4
+-rw-r--r-- 1 runner runner   23411 Nov  3 11:29 v9.info.json
+-rw-r--r-- 1 runner runner  371062 Nov  3 11:29 v9.mp4
+-rw-r--r-- 1 runner runner     550 Nov  3 11:29 x10.json
+-rw-r--r-- 1 runner runner     556 Nov  3 11:29 x12.json
+-rw-r--r-- 1 runner runner     566 Nov  3 11:29 x13.json
+-rw-r--r-- 1 runner runner     706 Nov  3 11:29 x14.json
+-rw-r--r-- 1 runner runner     614 Nov  3 11:30 x15.json
+-rw-r--r-- 1 runner runner     667 Nov  3 11:29 x2.json
+-rw-r--r-- 1 runner runner     702 Nov  3 11:30 x21.json
+-rw-r--r-- 1 runner runner    1266 Nov  3 11:29 x3.json
