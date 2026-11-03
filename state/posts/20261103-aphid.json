@@ -1,7 +1,7 @@
 {
  "id": "20261103-aphid",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-03T19:30:54.435901+09:00",
  "publish_at": "2026-11-03T19:30:54.435916+09:00",
  "publish_now": true,
@@ -34,5 +34,9 @@
   "channel": "shop",
   "thumb": "media/20261103-aphid/thumb/thumb.jpg"
  },
- "tg_msg": 1796
+ "tg_msg": 1796,
+ "decided_at": "2026-11-03T19:38:49.898911+09:00",
+ "yt_id": "-Kmm4QgxGnI",
+ "permalink": "https://youtube.com/shorts/-Kmm4QgxGnI",
+ "published_at": "2026-11-03T19:38:58.575219+09:00"
 }
