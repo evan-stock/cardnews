@@ -1,7 +1,7 @@
 {
  "id": "20261103-whaleshark",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-03T09:54:40.378153+09:00",
  "publish_at": "2026-11-03T09:54:40.378165+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "channel": "shop",
   "thumb": "media/20261103-whaleshark/thumb/thumb.jpg"
  },
- "tg_msg": 1758
+ "tg_msg": 1758,
+ "decided_at": "2026-11-03T10:27:29.315724+09:00",
+ "yt_id": "PgEkuC7rAL8",
+ "permalink": "https://youtube.com/shorts/PgEkuC7rAL8",
+ "published_at": "2026-11-03T10:27:35.299947+09:00"
 }
