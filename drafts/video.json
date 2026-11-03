@@ -1,8 +1,4 @@
-{"id": "20261104-goldtest", "frames": 0, "args": "--playlist-end 12 --print-to-file %(id)s|%(timestamp)s|%(view_count)s|%(duration)s|%(title).70s media/20261104-goldtest/video/list.txt", "urls": [
-"https://www.tiktok.com/@imbluethesiberiann",
-"https://www.tiktok.com/@bakedbeandoggo/video/7614153913129913631",
-"https://x.com/kmmmm0606/status/2082067185779044802",
-"https://x.com/buitengebieden/status/2103370365841895693",
-"https://x.com/thingsmytaste/status/2075608754620629017",
-"https://x.com/salgururu_/status/2076891288843288931"
+{"id": "20261104-goldpool", "frames": 0, "urls": [
+"https://www.instagram.com/p/DfPoRtkREYL/",
+"https://www.instagram.com/reels/DfK9DwEvTRC/"
 ]}
