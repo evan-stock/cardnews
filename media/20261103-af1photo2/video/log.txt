@@ -1,0 +1,11 @@
+total 392
+drwxr-xr-x 2 runner runner  4096 Nov  3 03:35 .
+drwxr-xr-x 3 runner runner  4096 Nov  3 03:35 ..
+-rw-r--r-- 1 runner runner 47004 Nov  3 03:35 img1.jpg
+-rw-r--r-- 1 runner runner 43441 Nov  3 03:35 img2.jpg
+-rw-r--r-- 1 runner runner 68116 Nov  3 03:35 img3.jpg
+-rw-r--r-- 1 runner runner 91487 Nov  3 03:35 img4.jpg
+-rw-r--r-- 1 runner runner 48336 Nov  3 03:35 img5.jpg
+-rw-r--r-- 1 runner runner 44968 Nov  3 03:35 img6.jpg
+-rw-r--r-- 1 runner runner 38458 Nov  3 03:35 img7.jpg
+-rw-r--r-- 1 runner runner     0 Nov  3 03:35 log.txt
