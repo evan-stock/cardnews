@@ -1,0 +1,10 @@
+total 16780
+drwxr-xr-x 2 runner runner     4096 Nov  3 00:46 .
+drwxr-xr-x 3 runner runner     4096 Nov  3 00:46 ..
+-rw-r--r-- 1 runner runner        0 Nov  3 00:46 log.txt
+-rw-r--r-- 1 runner runner     5319 Nov  3 00:46 v1.info.json
+-rw-r--r-- 1 runner runner  2978097 Nov  3 00:46 v1.mp4
+-rw-r--r-- 1 runner runner    19192 Nov  3 00:46 v2.info.json
+-rw-r--r-- 1 runner runner 13469913 Nov  3 00:46 v2.mp4
+-rw-r--r-- 1 runner runner   685234 Nov  3 00:46 v3.mp4
+-rw-r--r-- 1 runner runner      566 Nov  3 00:46 x3.json
