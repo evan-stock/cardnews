@@ -2,7 +2,7 @@
  "id": "20261103-kimyojong",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-03T10:25:00.155901+09:00",
  "publish_at": "2026-11-03T12:00:00+09:00",
  "topic": "바이낸스 8조원대 해킹 배후로 FBI가 北 트레이더트레이터 지목 → 김여정 담화 \"황당무계한 낭설\", 회수 자금 귀속 거론하며 미국 배후론 암시",
@@ -73,5 +73,8 @@
   "media/20261103-kimyojong/06.jpg",
   "media/20261103-kimyojong/07.jpg"
  ],
- "tg_msg": 1766
+ "tg_msg": 1766,
+ "ig_media_id": "18147376669601070",
+ "permalink": "https://www.instagram.com/p/DfQ3fcbFPTR/",
+ "published_at": "2026-11-03T12:01:24.560570+09:00"
 }
