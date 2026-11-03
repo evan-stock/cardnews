@@ -1,14 +1,6 @@
 {"id": "20261103-seoulmap", "frames": 0, "urls": [
-"https://t1.daumcdn.net/news/202611/03/seoul/20261103151343053wooq.jpg",
-"https://wimg.heraldcorp.com/news/cms/2026/11/03/rcv.YNA.20261103.PYH2026110308580001300_P1.jpg",
-"https://wimg.sedaily.com/news/cms/2026/11/03/news-p.v1.20261103.8117f54c1473430f814e07d7c4671f04_P1.jpg",
-"https://t1.daumcdn.net/news/202611/03/YTN/20261103144910033ehve.jpg",
-"https://s.bizhankook.com/attachments_webp/2026/10/136508_34ee4ff7.webp",
-"https://newsroom.etomato.com/userfiles/1%286416%29.jpg",
-"https://newsroom.etomato.com/userfiles/2%282648%29.jpg",
-"https://newsroom.etomato.com/userfiles/20260729_144859_76935240.jpg",
-"https://newsroom.etomato.com/userfiles/20260729_145028_76935240.jpg",
-"https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=Dobong%20apartment&srnamespace=6&format=json&srlimit=30",
-"https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=Seokgwan&srnamespace=6&format=json&srlimit=30",
-"https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%EB%B0%A9%ED%95%99%EB%8F%99&srnamespace=6&format=json&srlimit=30"
+"https://commons.wikimedia.org/wiki/Special:FilePath/Dobong-gu_Apartment_1.jpg",
+"https://commons.wikimedia.org/wiki/Special:FilePath/Nowon-gu_apartment_buildings_seen_from_Dobong-gu.jpg",
+"https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=Seoul%20apartment%20complex&srnamespace=6&format=json&srlimit=40",
+"https://commons.wikimedia.org/w/api.php?action=query&titles=File:Dobong-gu_Apartment_1.jpg|File:Nowon-gu_apartment_buildings_seen_from_Dobong-gu.jpg&prop=imageinfo&iiprop=url|extmetadata&format=json"
 ]}
