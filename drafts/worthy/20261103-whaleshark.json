@@ -1,0 +1,83 @@
+{
+ "id": "20261103-whaleshark",
+ "media": "media/20261103-whaleshark",
+ "topic": "인도네시아 첸드라와시 만에서 고래상어가 어부 뗏목(바간) 그물에 입을 대고 그물 속 작은 물고기를 빨아 먹음 — 도둑 같지만 어부들은 고래상어를 '행운'으로 여겨 쫓지 않고 매일 아침 먹이까지 던져 주며, 지금은 고래상어 관광이 주민 소득이 됨. 사용자 11.03 09:17 회차 후보 2번 선택(잘난지 '고래상어가 물고기 훔쳐먹자 어부반응' 940만 소재 재활용).",
+ "hook": {
+  "t": "이 도둑을 어부들은\n'쫓아내지' 않습니다"
+ },
+ "credit": "영상: Conservation International · TikTok @rahmatchandra90 · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/dark_tranquility.mp3",
+  "start": 32.0,
+  "vol": 0.45
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: Conservation International 공식 Facebook 'Whale Shark \"Sucks\" Fish From Net' https://www.facebook.com/conservation.intl/videos/10153488334782112/ (2015.7.7 게시, 조회 24만 — media/20261103-whaleshark/video/v1.info.json). 첸드라와시 만 고래상어 표지 조사 중 촬영(Australian Geographic 2013.11).",
+  "영상: TikTok @rahmatchandra90 https://www.tiktok.com/@rahmatchandra90/video/7531241361933192504 (2025.7.26, 나비레 소와 해변 바간 — media/20261103-wa1/video/v4.info.json).",
+  "소재 수치: 잘난지 '고래상어가 물고기 훔쳐먹자 어부반응ㄷㄷ' 940만(state/bench/잘난지.tsv 100번). 같은 장면 X @RebeccaH2030 1448520479933874182 좋아요 5.3만(media/20261103-wa1/video/x3.json).",
+  "모션그래픽: scripts/story_shorts/anim_whaleshark.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "Australian Geographic 2013.11 — Conservation International 과학자들이 첸드라와시 만 국립공원에서 촬영, 바간 불빛·그물에 모인 작은 물고기를 먹음, 어부들은 고래상어를 행운으로 여김",
+   "url": "https://www.australiangeographic.com.au/topics/wildlife/2013/11/cheeky-whale-shark-gets-a-free-feed"
+  },
+  {
+   "publisher": "Rappler — 크와티소레 마을 바간 어부들이 매일 아침 작은 물고기(ikan puri)를 던져 주며 행운을 빎, 자주 오는 고래상어에 이름을 붙임, 최대 18m",
+   "url": "https://www.rappler.com/world/68976-cendrawasih-bay-papua-whale-sharks/"
+  },
+  {
+   "publisher": "Conservation International 블로그 — 바간 어부들은 고래상어를 골칫거리가 아닌 '행운의 신호'로 봄, 고래상어 관광이 주민의 중요한 소득원",
+   "url": "https://conservation.org/blog/deep-dive-new-findings-from-our-whale-shark-watchers"
+  },
+  {
+   "publisher": "My Modern Met — 그물을 들어 올릴 때 그물코로 빠져나온 작은 물고기를 고래상어가 먹음, 어부들은 수십 년간 먹이를 줌",
+   "url": "https://mymodernmet.com/whale-sharks-biographic"
+  }
+ ],
+ "_note": "클립 1080x780(-an, 대비·채도 살짝↑, unsharp). A = CI v1 24.5~25.8 crop 380x274+120+70 → 31.3~32.5 crop 380x274+90+66 → 36.0~36.5 crop 400x289+160+71 0.7배 슬로 (첫 3초 3컷: 0/1.3/2.5초 전환, CI 로고(왼쪽 위)는 크롭으로 뺌). B = CI v1 12.5~ crop 420x303+200+57. E = wa1 v4 24.0~ crop 576x416+0+520(바간 아래 고래상어). G = wa1 v4 9.3~ crop 576x416+0+400(뗏목 옆 사람 손과 고래상어). H = CI v1 25.0~ crop 300x217+120+66 0.7배 슬로 리플레이(2.1배 확대). 그래픽 gfx/size·bagan·luck = anim_whaleshark.py. 효과음(0초 두둥·컷 전환 휙)은 렌더 뒤 ffmpeg 로 섞음.",
+ "scenes": [
+  {
+   "text": "이 거대한 입, 지금 뭘 하는 걸까요?",
+   "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "어부 그물 속 물고기를 '쪽쪽' 빨아 먹는 중",
+   "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.5
+  },
+  {
+   "text": "범인은 세상에서 가장 큰 물고기 '고래상어'",
+   "video": {"src": "gfx/size.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "밤새 불빛으로 모은 물고기가 그물코로 '술술'",
+   "video": {"src": "gfx/bagan.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.1
+  },
+  {
+   "text": "그런데 어부들은 이 도둑을 쫓지 않는다",
+   "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "고래상어는 '행운'이라 아침마다 먹이까지 준다",
+   "video": {"src": "gfx/luck.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "이제는 고래상어 보러 '관광객'이 찾아온다",
+   "video": {"src": "clip/G.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "도둑이 아니라 '복덩이'였던 셈, 구독도 복 받아요",
+   "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.7
+  }
+ ]
+}
