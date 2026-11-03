@@ -1,7 +1,7 @@
 {
  "id": "20261103-stare",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-03T18:50:59.310976+09:00",
  "publish_at": "2026-11-03T18:50:59.310996+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "a956f643db59",
- "tg_msg": 1790
+ "tg_msg": 1790,
+ "decided_at": "2026-11-03T18:53:47.954674+09:00",
+ "yt_id": "vp12I3BdWy8",
+ "permalink": "https://youtube.com/shorts/vp12I3BdWy8",
+ "published_at": "2026-11-03T18:53:51.020466+09:00"
 }
