@@ -1,0 +1,44 @@
+ERROR: [TikTok] 7449284800860441861: Your IP address is blocked from accessing this post
+실패: https://www.tiktok.com/@flyoverchina_af/video/7449284800860441861
+ERROR: [twitter] 1752200657216606656: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/CGTNOfficial/status/1752200657216606656
+실패: https://x.com/CGTNOfficial/status/1752200657216606656
+ERROR: [twitter] 1620441998384844800: Video #1 is unavailable
+영상 없는 글(글만/삭제됨): https://x.com/BR_OpenIce/status/1620441998384844800
+실패: https://x.com/BR_OpenIce/status/1620441998384844800
+ERROR: [twitter] 1485082742241079298: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/TheHersheyBears/status/1485082742241079298
+실패: https://x.com/TheHersheyBears/status/1485082742241079298
+ERROR: [twitter] 1661134912911441920: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/sibucho_labo/status/1661134912911441920
+실패: https://x.com/sibucho_labo/status/1661134912911441920
+total 40552
+drwxr-xr-x 2 runner runner    4096 Nov  3 05:33 .
+drwxr-xr-x 3 runner runner    4096 Nov  3 05:33 ..
+-rw-r--r-- 1 runner runner    1046 Nov  3 05:33 log.txt
+-rw-r--r-- 1 runner runner   14987 Nov  3 05:33 v1.info.json
+-rw-r--r-- 1 runner runner 2482817 Nov  3 05:33 v1.mp4
+-rw-r--r-- 1 runner runner   16612 Nov  3 05:33 v11.info.json
+-rw-r--r-- 1 runner runner  350702 Nov  3 05:33 v11.mp4
+-rw-r--r-- 1 runner runner   19738 Nov  3 05:33 v12.info.json
+-rw-r--r-- 1 runner runner 2534664 Nov  3 05:33 v12.mp4
+-rw-r--r-- 1 runner runner   10279 Nov  3 05:33 v13.info.json
+-rw-r--r-- 1 runner runner 5991412 Nov  3 05:33 v13.mp4
+-rw-r--r-- 1 runner runner   19444 Nov  3 05:33 v14.info.json
+-rw-r--r-- 1 runner runner 1480544 Nov  3 05:33 v14.mp4
+-rw-r--r-- 1 runner runner   25982 Nov  3 05:33 v15.info.json
+-rw-r--r-- 1 runner runner 1965825 Nov  3 05:33 v15.mp4
+-rw-r--r-- 1 runner runner   13424 Nov  3 05:33 v2.info.json
+-rw-r--r-- 1 runner runner 6318488 Nov  3 05:33 v2.mp4
+-rw-r--r-- 1 runner runner 4875550 Nov  3 05:33 v4.mp4
+-rw-r--r-- 1 runner runner   25679 Nov  3 05:33 v6.info.json
+-rw-r--r-- 1 runner runner 7522990 Nov  3 05:33 v6.mp4
+-rw-r--r-- 1 runner runner   19432 Nov  3 05:33 v7.info.json
+-rw-r--r-- 1 runner runner 5958693 Nov  3 05:33 v7.mp4
+-rw-r--r-- 1 runner runner   21523 Nov  3 05:33 v8.info.json
+-rw-r--r-- 1 runner runner 1781906 Nov  3 05:33 v8.mp4
+-rw-r--r-- 1 runner runner     607 Nov  3 05:33 x10.json
+-rw-r--r-- 1 runner runner     844 Nov  3 05:33 x16.json
+-rw-r--r-- 1 runner runner     647 Nov  3 05:33 x4.json
+-rw-r--r-- 1 runner runner     702 Nov  3 05:33 x5.json
+-rw-r--r-- 1 runner runner     623 Nov  3 05:33 x9.json
