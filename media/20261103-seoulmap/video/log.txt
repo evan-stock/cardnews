@@ -14,3 +14,21 @@ drwxr-xr-x 3 runner runner    4096 Nov  3 13:08 ..
 -rw-r--r-- 1 runner runner  286429 Nov  3 13:09 img8.jpg
 -rw-r--r-- 1 runner runner 4393316 Nov  3 13:09 img9.jpg
 -rw-r--r-- 1 runner runner       0 Nov  3 13:09 log.txt
+total 20912
+drwxr-xr-x 2 runner runner    4096 Nov  3 13:15 .
+drwxr-xr-x 3 runner runner    4096 Nov  3 13:14 ..
+-rw-r--r-- 1 runner runner    3430 Nov  3 13:14 api10.json
+-rw-r--r-- 1 runner runner     608 Nov  3 13:14 api11.json
+-rw-r--r-- 1 runner runner    3503 Nov  3 13:14 api12.json
+-rw-r--r-- 1 runner runner   16749 Nov  3 13:15 api3.json
+-rw-r--r-- 1 runner runner    5573 Nov  3 13:15 api4.json
+-rw-r--r-- 1 runner runner 5668821 Nov  3 13:15 img1.jpg
+-rw-r--r-- 1 runner runner 3847544 Nov  3 13:15 img2.jpg
+-rw-r--r-- 1 runner runner  604707 Nov  3 13:14 img3.jpg
+-rw-r--r-- 1 runner runner   49458 Nov  3 13:14 img4.jpg
+-rw-r--r-- 1 runner runner   55616 Nov  3 13:14 img5.webp
+-rw-r--r-- 1 runner runner 3109211 Nov  3 13:14 img6.jpg
+-rw-r--r-- 1 runner runner 3326180 Nov  3 13:14 img7.jpg
+-rw-r--r-- 1 runner runner  286429 Nov  3 13:14 img8.jpg
+-rw-r--r-- 1 runner runner 4393316 Nov  3 13:14 img9.jpg
+-rw-r--r-- 1 runner runner     860 Nov  3 13:14 log.txt
