@@ -1,32 +1,37 @@
 {
- "id": "20261103-stare",
+ "id": "20261104-goldduck",
  "mode": "send",
  "format": "meme",
- "topic": "그루밍을 막 끝낸 검은 고양이의 배를 주인이 손으로 쓱 만지자, 고개를 천천히 돌려 정색하고 한참 노려보다 입맛을 다심(TikTok @daneed89, 2024.8.15, 약 890만 회, Newsweek 2024.9.12 보도). 귀여움 1순위(검은 고양이 얼굴 클로즈업 + 정색). 펫스파이 '~했더니 ~의 반응ㅋㅋ' / 동물쑛 '~하면 안되는 이유' 틀. 원본 소리는 TikTok 음원(Monkeyshine-JP)이라 전부 끔. 사실: 코넬대 고양이건강센터 — 고양이는 하루의 30~50%를 그루밍에 씀.",
+ "topic": "주인이 무서운 인형을 보여 주자, 골든리트리버 구스가 자기 애착 오리 인형을 물어다 인형 옆에 가져다 놓고(새 친구 선물), 계속 쳐다보는 인형이 불편해 결국 오리를 다시 물고 떠남. 이어 막내 골든 바우어가 등장해 인형을 덮쳐 응징(TikTok·Instagram The Moriarty Family @imbluethesiberiann, 2026.11.1경, 약 200만 회, TAG24 2026.11.2 보도). 삐진 골든(20261101-pouty, 4.9만)과 같은 집 골든. 귀여움 1순위(골든 + 큰 노란 오리 인형). 펫스파이 '~했더니 ~가 한 행동ㅋㅋ' 틀. 원본 소리(주인 말소리·웃음) 전부 끔. 원본 캡션은 크롭으로 밀어냄(흐림 없음). 사실: AKC — 리트리버는 잡은 오리를 상처 없이 물어 오도록 입이 부드러워, 날달걀을 물어도 깨지지 않을 정도.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 2.6,
+ "bgm_volume": 2.4,
  "sfx_max": 4,
  "hook": {
-  "t": "방금 핥아 닦은 배를 만졌더니\n'정색하는 냥이ㅋㅋ'"
+  "t": "무서운 인형 보여줬더니\n'애착 오리 들고 온 골댕이ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @daneed89"
+  "TikTok @imbluethesiberiann"
  ],
  "sources": [
   {
-   "publisher": "TikTok @daneed89",
-   "url": "https://www.tiktok.com/@daneed89/video/7403454751456775454",
-   "date": "2024-08-15"
+   "publisher": "TikTok @imbluethesiberiann (The Moriarty Family)",
+   "url": "https://www.tiktok.com/@imbluethesiberiann",
+   "date": "2026-11"
   },
   {
-   "publisher": "Newsweek - Cat's reaction when owner betrays cleanliness goes viral",
-   "url": "https://www.newsweek.com/cat-reaction-when-owner-betrays-cleanliness-goes-vrial-1952983",
-   "date": "2024-09-12"
+   "publisher": "Instagram @imbluethesiberian - My 5 dogs react to a scary doll",
+   "url": "https://www.instagram.com/reels/DfK9DwEvTRC/",
+   "date": "2026-11"
   },
   {
-   "publisher": "Cornell Feline Health Center - Cats Lick Too Much",
-   "url": "https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/cats-lick-too-much",
+   "publisher": "TAG24 - These dogs don't do creepy dolls",
+   "url": "https://tag24.com/en/topic/animals/dogs/these-dogs-dont-do-creepy-dolls-the-devil-ain-t-coming-here-3546191",
+   "date": "2026-11-02"
+  },
+  {
+   "publisher": "AKC - Golden Retriever facts",
+   "url": "https://www.akc.org/expert-advice/lifestyle/golden-retriever-facts/",
    "date": ""
   }
  ],
@@ -35,47 +40,47 @@
    "dur": 2.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 9.4,
-    "zoom": 1.6,
-    "x": 0.4,
-    "y": 0.0,
+    "start": 83.8,
+    "zoom": 1.4,
+    "x": 0.85,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "너 방금 뭐 했어?",
+     "k": "sfx",
+     "t": "(애착 오리 지참)",
      "x": 0.5,
-     "y": 0.62,
-     "at": 0.1,
-     "to": 2.0
+     "y": 0.08,
+     "at": 0.0,
+     "to": 2.0,
+     "s": "pop",
+     "sv": 0.8
     },
     {
-     "k": "sfx",
-     "t": "(정색)",
-     "x": 0.22,
-     "y": 0.12,
+     "k": "talk",
+     "t": "이거... 너 줄게",
+     "x": 0.5,
+     "y": 0.8,
      "at": 0.3,
-     "to": 2.0,
-     "s": "dundun",
-     "sv": 0.8
+     "to": 2.0
     }
    ]
   },
   {
-   "say": "그루밍을 막 끝낸 배를, 주인이 손으로 쓱 만졌는데요.",
+   "say": "무서운 인형을 처음 본 골든리트리버 구스.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.4,
-    "zoom": 1.6,
-    "x": 0.4,
-    "y": 0.0,
+    "start": 74.8,
+    "zoom": 1.4,
+    "x": 0.8,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "방금 다 닦은 곳",
+     "t": "주인이 들고 온 무서운 인형",
      "x": 0.5,
      "y": 0.1,
      "at": 0.2
@@ -83,121 +88,171 @@
    ]
   },
   {
-   "dur": 2.6,
+   "dur": 3.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 4.4,
-    "zoom": 1.6,
-    "x": 0.4,
-    "y": 0.0,
+    "start": 80.3,
+    "zoom": 1.4,
+    "x": 0.6,
+    "y": 0.85,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "새 친구한테\n내 보물 줄게!",
+     "x": 0.5,
+     "y": 0.78,
+     "at": 0.4,
+     "to": 3.0
+    },
+    {
+     "k": "sfx",
+     "t": "(쓱)",
+     "x": 0.25,
+     "y": 0.45,
+     "at": 1.4,
+     "to": 2.6,
+     "s": "whoosh",
+     "sv": 0.7
+    }
+   ]
+  },
+  {
+   "dur": 2.4,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 85.0,
+    "zoom": 1.4,
+    "x": 0.85,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(천천히 고개 돌림)",
+     "t": "(동공지진)",
      "x": 0.5,
-     "y": 0.1,
+     "y": 0.08,
      "at": 0.2,
-     "to": 2.6
-    },
-    {
-     "k": "talk",
-     "t": "...거기 방금 닦은 거 안 보였냐",
-     "x": 0.5,
-     "y": 0.62,
-     "at": 0.6,
-     "to": 2.6,
+     "to": 2.4,
      "s": "question",
      "sv": 0.8
+    },
+    {
+     "k": "talk",
+     "t": "근데 쟤 왜 자꾸\n날 쳐다봐...",
+     "x": 0.5,
+     "y": 0.8,
+     "at": 0.4,
+     "to": 2.4
     }
    ]
   },
   {
-   "dur": 2.0,
+   "dur": 2.3,
    "video": {
     "src": "video/v1.mp4",
-    "start": 12.0,
-    "zoom": 1.6,
-    "x": 0.4,
-    "y": 0.0,
+    "start": 88.0,
+    "zoom": 1.4,
+    "x": 0.85,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(쩝)",
-     "x": 0.7,
-     "y": 0.42,
-     "at": 0.65,
-     "to": 1.6,
-     "s": "nom",
-     "sv": 0.8
-    },
-    {
      "k": "talk",
-     "t": "손맛 나잖아...",
+     "t": "...없던 일로 하자\n오리는 내 거야",
      "x": 0.5,
-     "y": 0.62,
-     "at": 0.8,
-     "to": 2.0
+     "y": 0.8,
+     "at": 0.2,
+     "to": 2.3
     }
    ]
   },
   {
-   "say": "고양이는 하루의 30에서 50퍼센트를 그루밍에 쓴다고 합니다.",
+   "say": "그때, 막내 바우어가 등장합니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 5.8,
-    "zoom": 1.6,
+    "start": 96.0,
+    "zoom": 1.4,
     "x": 0.4,
-    "y": 0.0,
+    "y": 0.69,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "하루 30~50% 그루밍 (코넬대 수의대)",
+     "t": "막내 골든 바우어",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "dur": 3.4,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 98.4,
+    "zoom": 1.3,
+    "x": 0.6,
+    "y": 0.6,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(응징)",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 0.3,
+     "to": 3.4,
+     "s": "thud",
+     "sv": 0.9
+    },
+    {
+     "k": "talk",
+     "t": "형 괴롭히는 인형\n내가 처리한다!!",
+     "x": 0.5,
+     "y": 0.82,
+     "at": 0.4,
+     "to": 3.4
+    }
+   ]
+  },
+  {
+   "say": "리트리버는 원래 사냥한 오리를 상처 없이 물어 오던 개라서, 날달걀을 물어도 안 깨질 만큼 입이 부드럽다고 합니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 89.4,
+    "zoom": 1.4,
+    "x": 0.8,
+    "y": 1.0,
+    "audio": 0,
+    "boomerang": true
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "날달걀도 안 깨지는 입 (AKC)",
      "x": 0.5,
      "y": 0.1,
      "at": 0.3
     }
    ]
-  },
-  {
-   "dur": 1.8,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 13.2,
-    "zoom": 1.6,
-    "x": 0.4,
-    "y": 0.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "처음부터 다시 닦는다 진짜",
-     "x": 0.5,
-     "y": 0.62,
-     "at": 0.1,
-     "to": 1.8,
-     "s": "fail",
-     "sv": 0.7
-    }
-   ]
   }
  ],
  "yt": {
-  "title": "방금 그루밍 끝낸 배를 만졌더니 정색하는 고양이의 반응ㅋㅋ #shorts",
-  "description": "그루밍을 막 끝낸 배를 주인이 손으로 쓱 만지자... 천천히 고개를 돌려 한참 노려보는 냥이ㅋㅋ 마지막엔 입맛까지 쩝\n\n참고로 미국 코넬대 수의대 고양이건강센터에 따르면, 고양이는 하루의 30~50%를 그루밍하는 데 쓴대요. 그렇게 공들여 닦은 곳을 만졌으니 정색할 만하죠?\n\n여러분 냥이도 이런 표정 지은 적 있나요?\n\n영상: TikTok @daneed89\n참고: Newsweek, Cornell Feline Health Center\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "무서운 인형 보여줬더니 애착 오리 들고 온 골든리트리버ㅋㅋ #shorts",
+  "description": "무서운 인형을 처음 본 골든리트리버 구스... 자기 애착 오리를 물어다 선물하더니, 인형이 계속 쳐다보자 슬그머니 다시 챙겨 감ㅋㅋ 막내 바우어는 바로 응징 들어감\n\n참고로 미국켄넬클럽(AKC)에 따르면 리트리버는 사냥한 오리를 상처 없이 물어 오던 개라서, 날달걀을 물어도 안 깨질 만큼 입이 부드럽대요. 오리 인형을 그렇게 소중히 물고 다니는 이유가 있었네요.\n\n여러분 댕댕이 애착인형은 뭔가요?\n\n영상: TikTok @imbluethesiberiann (The Moriarty Family)\n참고: TAG24, AKC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "고양이",
-   "냥이",
-   "검은고양이",
-   "고양이반응",
-   "정색하는고양이",
-   "고양이그루밍",
+   "골든리트리버",
+   "골댕이",
+   "강아지",
+   "강아지반응",
+   "애착인형",
+   "강아지장난감",
    "shorts",
    "오늘의털뭉치"
   ]
