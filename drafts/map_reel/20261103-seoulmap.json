@@ -65,16 +65,16 @@
  },
  "scene_len": 3.6,
  "intro": {
-  "img": "media/20261103-seoulmap/video/lee_smile_yna.jpg",
-  "credit": "사진: 연합뉴스(자료 사진)",
+  "img": "media/20261103-seoulmap/video/lee_yna.jpg",
+  "credit": "사진: 연합뉴스 11.3 국무회의",
   "b": {
    "ctx": "이재명 대통령 · 11월 3일 국무회의",
    "l1": "\"놀라울 정도로",
    "l2": "떨어지고 있다\""
   },
-  "pos": "50% 30%",
-  "origin": "50% 35%",
-  "zoom": 1.05
+  "pos": "70% 30%",
+  "origin": "62% 38%",
+  "zoom": 1.12
  },
  "scenes": [
   {
