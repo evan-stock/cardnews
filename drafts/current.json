@@ -1,2 +1,21 @@
-[{"id":"20261104-cnchip","slot":"lunch","mode":"collect",
-"image_pages":["https://en.wikipedia.org/wiki/Xi_Jinping","https://ko.wikipedia.org/wiki/시진핑","https://www.newsis.com/view/NISX20230612_0002335382","https://www.hankyung.com/article/2025122317621","https://www.hankyung.com/article/2026081882061","https://bizhankook.com/articles/31243.html","https://www.dailian.co.kr/news/view2/1698107","https://weekly.khan.co.kr/article/202609270949011","https://www.heraldk.com/article/2026042302160053418","https://hankyung.com/article/202607305245g"]}]
+[
+ {
+  "id": "20261104-cnchip",
+  "slot": "lunch",
+  "mode": "collect",
+  "image_pages": [
+   "https://en.wikipedia.org/wiki/Xi_Jinping",
+   "https://www.newsis.com/view/NISX20230612_0002335382",
+   "https://www.hankyung.com/article/2025122317621",
+   "https://www.hankyung.com/article/2026081882061",
+   "https://bizhankook.com/articles/31243.html",
+   "https://www.dailian.co.kr/news/view2/1698107",
+   "https://weekly.khan.co.kr/article/202609270949011",
+   "https://www.heraldk.com/article/2026042302160053418",
+   "https://hankyung.com/article/202607305245g"
+  ],
+  "image_urls": [
+   "https://upload.wikimedia.org/wikipedia/commons/3/32/Xi_Jinping_in_2022.jpg"
+  ]
+ }
+]
