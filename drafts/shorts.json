@@ -1,191 +1,203 @@
 {
- "id": "20261103-grudge",
+ "id": "20261103-stare",
  "mode": "send",
  "format": "meme",
- "topic": "주인 바지에 구멍을 낸 강아지 루나가 혼나는 동안 초롱초롱한 눈으로 억울한 척 쳐다보다가, 손가락으로 가리키자 귀를 접고 눈을 피하고 결국 도망감(TikTok @bea.albino, 800만 회 안팎, TAG24 2022.12.8 보도). 펫스파이 '~의 반응ㅋㅋ' 틀, 귀여움 1순위(큰 눈 얼굴 클로즈업 + 억울함). 원본 소리(주인이 혼내는 말소리, 음악 아님) 살림. 사실: Horowitz 2009(Behavioural Processes) — 개의 '죄책감 표정'은 잘못했는지보다 주인이 혼낼 때 더 많이 나옴, 잘못 안 했는데 혼난 개가 가장 심한 표정.",
+ "topic": "그루밍을 막 끝낸 검은 고양이의 배를 주인이 손으로 쓱 만지자, 고개를 천천히 돌려 정색하고 한참 노려보다 입맛을 다심(TikTok @daneed89, 2024.8.15, 약 890만 회, Newsweek 2024.9.12 보도). 귀여움 1순위(검은 고양이 얼굴 클로즈업 + 정색). 펫스파이 '~했더니 ~의 반응ㅋㅋ' / 동물쑛 '~하면 안되는 이유' 틀. 원본 소리는 TikTok 음원(Monkeyshine-JP)이라 전부 끔. 사실: 코넬대 고양이건강센터 — 고양이는 하루의 30~50%를 그루밍에 씀.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.8,
+ "bgm_volume": 2.6,
  "sfx_max": 4,
  "hook": {
-  "t": "바지에 구멍 내 놓고 혼나는\n'댕댕이의 억울한 표정ㅋㅋ'"
+  "t": "방금 핥아 닦은 배를 만졌더니\n'정색하는 냥이ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @bea.albino"
+  "TikTok @daneed89"
  ],
  "sources": [
   {
-   "publisher": "TikTok @bea.albino",
-   "url": "https://www.tiktok.com/@bea.albino/video/7171814783711186182",
-   "date": "2022"
+   "publisher": "TikTok @daneed89",
+   "url": "https://www.tiktok.com/@daneed89/video/7403454751456775454",
+   "date": "2024-08-15"
   },
   {
-   "publisher": "TAG24 - This dog's hysterical reaction to getting a scolding is viral gold",
-   "url": "https://tag24.com/animals/dogs/this-dogs-hysterical-reaction-to-getting-a-scolding-is-viral-gold-2684909",
-   "date": "2022-12-08"
+   "publisher": "Newsweek - Cat's reaction when owner betrays cleanliness goes viral",
+   "url": "https://www.newsweek.com/cat-reaction-when-owner-betrays-cleanliness-goes-vrial-1952983",
+   "date": "2024-09-12"
   },
   {
-   "publisher": "Scientific American - Don't Be Fooled When a Dog Looks Guilty (Horowitz 2009, Behavioural Processes)",
-   "url": "https://www.scientificamerican.com/article/don-t-be-fooled-when-a-dog-looks-guilty",
+   "publisher": "Cornell Feline Health Center - Cats Lick Too Much",
+   "url": "https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/cats-lick-too-much",
    "date": ""
   }
  ],
  "scenes": [
   {
-   "dur": 1.7,
+   "dur": 2.0,
    "video": {
-    "src": "video/v5.mp4",
-    "start": 6.8,
-    "zoom": 1.15,
-    "x": 0.42,
-    "y": 0.25,
-    "audio": 1.0
+    "src": "video/v1.mp4",
+    "start": 9.4,
+    "zoom": 1.6,
+    "x": 0.4,
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "제가요?",
-     "x": 0.72,
-     "y": 0.2,
+     "t": "너 방금 뭐 했어?",
+     "x": 0.5,
+     "y": 0.62,
      "at": 0.1,
-     "to": 1.7
+     "to": 2.0
     },
     {
      "k": "sfx",
-     "t": "(초롱초롱)",
-     "x": 0.25,
+     "t": "(정색)",
+     "x": 0.22,
      "y": 0.12,
      "at": 0.3,
-     "to": 1.7,
-     "s": "sparkle",
-     "sv": 0.6
+     "to": 2.0,
+     "s": "dundun",
+     "sv": 0.8
     }
    ]
   },
   {
-   "say": "주인 바지를 뜯어서 구멍을 냈는데요.",
+   "say": "그루밍을 막 끝낸 배를, 주인이 손으로 쓱 만졌는데요.",
    "video": {
-    "src": "video/v5.mp4",
-    "start": 1.0,
-    "x": 0.5,
-    "y": 0.4,
-    "audio": 0.4
+    "src": "video/v1.mp4",
+    "start": 0.4,
+    "zoom": 1.6,
+    "x": 0.4,
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "증거물 1호",
+     "t": "방금 다 닦은 곳",
      "x": 0.5,
-     "y": 0.12,
-     "at": 0.3
+     "y": 0.1,
+     "at": 0.2
     }
    ]
   },
   {
-   "dur": 2.0,
+   "dur": 2.6,
    "video": {
-    "src": "video/v5.mp4",
-    "start": 9.25,
-    "zoom": 1.15,
-    "x": 0.42,
-    "y": 0.25,
-    "audio": 1.0
+    "src": "video/v1.mp4",
+    "start": 4.4,
+    "zoom": 1.6,
+    "x": 0.4,
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "그 구멍 원래 있던 거 아님?",
+     "k": "sfx",
+     "t": "(천천히 고개 돌림)",
      "x": 0.5,
-     "y": 0.08,
-     "at": 0.1,
-     "to": 2.0,
+     "y": 0.1,
+     "at": 0.2,
+     "to": 2.6
+    },
+    {
+     "k": "talk",
+     "t": "...거기 방금 닦은 거 안 보였냐",
+     "x": 0.5,
+     "y": 0.62,
+     "at": 0.6,
+     "to": 2.6,
      "s": "question",
      "sv": 0.8
     }
    ]
   },
   {
-   "dur": 2.3,
+   "dur": 2.0,
    "video": {
-    "src": "video/v5.mp4",
-    "start": 13.0,
-    "zoom": 1.15,
-    "x": 0.42,
-    "y": 0.25,
-    "audio": 1.0
+    "src": "video/v1.mp4",
+    "start": 12.0,
+    "zoom": 1.6,
+    "x": 0.4,
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(움찔)",
-     "x": 0.25,
-     "y": 0.15,
-     "at": 0.3,
-     "to": 2.3
+     "t": "(쩝)",
+     "x": 0.7,
+     "y": 0.42,
+     "at": 0.65,
+     "to": 1.6,
+     "s": "nom",
+     "sv": 0.8
     },
     {
      "k": "talk",
-     "t": "손가락은 좀 치워 줄래..?",
+     "t": "손맛 나잖아...",
      "x": 0.5,
-     "y": 0.75,
-     "at": 0.4,
-     "to": 2.3
+     "y": 0.62,
+     "at": 0.8,
+     "to": 2.0
     }
    ]
   },
   {
-   "say": "그런데 개의 미안한 표정은, 잘못했을 때보다 혼날 때 더 자주 나온대요.",
+   "say": "고양이는 하루의 30에서 50퍼센트를 그루밍에 쓴다고 합니다.",
    "video": {
-    "src": "video/v5.mp4",
-    "start": 15.5,
-    "zoom": 1.15,
-    "x": 0.42,
-    "y": 0.25,
-    "audio": 0.4
+    "src": "video/v1.mp4",
+    "start": 5.8,
+    "zoom": 1.6,
+    "x": 0.4,
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(눈 안 마주침)",
+     "k": "desc",
+     "t": "하루 30~50% 그루밍 (코넬대 수의대)",
      "x": 0.5,
-     "y": 0.12,
-     "at": 0.5
+     "y": 0.1,
+     "at": 0.3
     }
    ]
   },
   {
-   "dur": 1.4,
+   "dur": 1.8,
    "video": {
-    "src": "video/v5.mp4",
-    "start": 19.5,
-    "x": 0.45,
-    "y": 0.4,
-    "audio": 1.0
+    "src": "video/v1.mp4",
+    "start": 13.2,
+    "zoom": 1.6,
+    "x": 0.4,
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "난 이만 튈게",
+     "t": "처음부터 다시 닦는다 진짜",
      "x": 0.5,
-     "y": 0.15,
-     "at": 0.6,
-     "to": 1.4,
-     "s": "whoosh",
-     "sv": 0.8
+     "y": 0.62,
+     "at": 0.1,
+     "to": 1.8,
+     "s": "fail",
+     "sv": 0.7
     }
    ]
   }
  ],
  "yt": {
-  "title": "주인 바지에 구멍 내 놓고 혼나던 댕댕이의 억울한 반응ㅋㅋ #shorts",
-  "description": "주인 바지를 뜯어 구멍을 낸 댕댕이 루나ㅋㅋ 혼나는 내내 초롱초롱한 눈으로 '제가요?'... 손가락으로 가리키자 귀를 접고 눈을 피하더니 결국 도망ㅋㅋ\n\n참고로 2009년 미국 바너드대 호로위츠 연구에 따르면, 개의 '미안한 표정'은 실제로 잘못했는지보다 주인이 혼낼 때 더 자주 나타났대요. 잘못 안 했는데 혼난 개가 오히려 가장 미안한 표정을 지었다고 해요.\n\n여러분 댕댕이는 혼나면 어떤 표정을 짓나요?\n\n영상: TikTok @bea.albino\n참고: TAG24, Scientific American(Horowitz 2009, Behavioural Processes)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "방금 그루밍 끝낸 배를 만졌더니 정색하는 고양이의 반응ㅋㅋ #shorts",
+  "description": "그루밍을 막 끝낸 배를 주인이 손으로 쓱 만지자... 천천히 고개를 돌려 한참 노려보는 냥이ㅋㅋ 마지막엔 입맛까지 쩝\n\n참고로 미국 코넬대 수의대 고양이건강센터에 따르면, 고양이는 하루의 30~50%를 그루밍하는 데 쓴대요. 그렇게 공들여 닦은 곳을 만졌으니 정색할 만하죠?\n\n여러분 냥이도 이런 표정 지은 적 있나요?\n\n영상: TikTok @daneed89\n참고: Newsweek, Cornell Feline Health Center\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "tags": [
-   "강아지",
-   "댕댕이",
-   "강아지반응",
-   "혼나는강아지",
-   "억울한강아지",
-   "강아지표정",
+   "고양이",
+   "냥이",
+   "검은고양이",
+   "고양이반응",
+   "정색하는고양이",
+   "고양이그루밍",
    "shorts",
    "오늘의털뭉치"
   ]
