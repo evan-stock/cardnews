@@ -1,0 +1,51 @@
+{
+ "id": "20261104-goldduck",
+ "created": "2026-11-04T08:59:56.225198+09:00",
+ "items": [
+  {
+   "key": "e59addfa4c58",
+   "text": "무서운 인형을 처음 본 골든리트리버 구스.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "687b80c9c8f1",
+   "text": "그때, 막내 바우어가 등장합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "6f617e57417a",
+   "text": "리트리버는 원래 사냥한 오리를 상처 없이 물어 오던 개라서, 날달걀을 물어도 안 깨질 만큼 입이 부드럽다고 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
