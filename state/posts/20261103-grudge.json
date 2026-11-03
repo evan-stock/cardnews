@@ -1,7 +1,7 @@
 {
  "id": "20261103-grudge",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-03T13:34:31.052287+09:00",
  "publish_at": "2026-11-03T13:34:31.052310+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
   "channel": null
  },
  "draft_hash": "18262e8e3a3b",
- "tg_msg": 1783
+ "tg_msg": 1783,
+ "decided_at": "2026-11-03T15:27:58.973865+09:00",
+ "yt_id": "r0J73erI38k",
+ "permalink": "https://youtube.com/shorts/r0J73erI38k",
+ "published_at": "2026-11-03T15:28:02.379264+09:00"
 }
