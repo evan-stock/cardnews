@@ -3,3 +3,13 @@ drwxr-xr-x 2 runner runner 4096 Nov  3 01:37 .
 drwxr-xr-x 4 runner runner 4096 Nov  3 01:37 ..
 -rw-r--r-- 1 runner runner    0 Nov  3 01:37 log.txt
 -rw-r--r-- 1 runner runner 3274 Nov  3 01:37 v1.info.json
+total 36
+drwxr-xr-x 2 runner runner 4096 Nov  3 01:45 .
+drwxr-xr-x 4 runner runner 4096 Nov  3 01:43 ..
+-rw-r--r-- 1 runner runner  215 Nov  3 01:43 log.txt
+-rw-r--r-- 1 runner runner 3274 Nov  3 01:43 v1.info.json
+-rw-r--r-- 1 runner runner  823 Nov  3 01:43 x1.json
+-rw-r--r-- 1 runner runner  650 Nov  3 01:43 x2.json
+-rw-r--r-- 1 runner runner 2325 Nov  3 01:44 x3.json
+-rw-r--r-- 1 runner runner  591 Nov  3 01:44 x4.json
+-rw-r--r-- 1 runner runner 1227 Nov  3 01:44 x5.json
