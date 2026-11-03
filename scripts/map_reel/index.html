@@ -33,6 +33,12 @@ html,body{width:1080px;height:1920px;background:#0a0b0d;overflow:hidden}
 .stat .s1{font-family:PS;font-size:30px;color:#cfd2d8}
 .stat .s2{white-space:nowrap;font-family:PB;font-size:96px;color:#FFD84D;letter-spacing:-3px;line-height:1.15;margin-top:14px}
 .stat .s3{font-family:PM;font-size:27px;color:#fff;margin-top:12px;line-height:1.35}
+/* 사진 + 숫자 카드(2026.11.03 집값 릴스: "애니메이션에 관련 사진이 없다" → 숫자 카드 위에 실제 단지 사진) */
+.pstat .ph{height:230px}
+.pstat .sbox{padding:14px 22px 18px}
+.pstat .s1{font-family:PS;font-size:24px;color:#cfd2d8}
+.pstat .s2{white-space:nowrap;font-family:PB;font-size:74px;color:#FFD84D;letter-spacing:-2.5px;line-height:1.1;margin-top:4px}
+.pstat .s3{font-family:PM;font-size:23px;color:#fff;margin-top:4px;line-height:1.3}
 #lines{position:absolute;left:0;top:0;width:1000px;height:880px;pointer-events:none}
 #credit{right:58px;top:1352px;font-family:PM;font-size:20px;color:rgba(255,255,255,.55);text-align:right}
 .btm{position:absolute;left:70px;width:960px;white-space:nowrap}
@@ -104,7 +110,8 @@ S.scenes.forEach((sc,i)=>{
     $('#pins').appendChild(el);pinEls[p.k]={el,sc:i};
   });
   if(sc.card){const c=sc.card;let el;
-    if(c.stat){el=document.createElement('div');el.className='stat';el.innerHTML='<div class="s1">'+c.s1+'</div><div class="s2">'+c.s2+'</div><div class="s3">'+c.s3+'</div>'}
+    if(c.stat&&c.img){el=document.createElement('div');el.className='card pstat';el.innerHTML='<div class="ph" style="background-image:url('+c.img+');background-position:'+(c.pos||'center')+'"></div><div class="sbox"><div class="s1">'+c.s1+'</div><div class="s2">'+c.s2+'</div><div class="s3">'+c.s3+'</div></div>'}
+    else if(c.stat){el=document.createElement('div');el.className='stat';el.innerHTML='<div class="s1">'+c.s1+'</div><div class="s2">'+c.s2+'</div><div class="s3">'+c.s3+'</div>'}
     else{el=document.createElement('div');el.className='card';el.innerHTML='<div class="ph" style="background-image:url('+c.img+');background-position:'+(c.pos||'center')+'"></div><div class="cap">'+c.cap+'</div>'}
     el.style.left=c.x+'px';el.style.top=c.y+'px';$('#cards').appendChild(el);cardEls[i]=el;
     const ln=document.createElementNS(NS,'path');ln.setAttribute('fill','none');ln.setAttribute('stroke','#FFD84D');ln.setAttribute('stroke-width','3');ln.setAttribute('stroke-dasharray','10 9');
@@ -113,7 +120,7 @@ S.scenes.forEach((sc,i)=>{
 });
 (S.dots||[]).forEach((k,j)=>{const [x,y]=G.pts[k];const d=document.createElement('div');d.className='sdot';d.style.left=x+'px';d.style.top=y+'px';d.dataset.j=j;$('#dots').appendChild(d)});
 const dotEls=[...document.querySelectorAll('.sdot')];
-$('#intro').style.backgroundImage='url('+S.intro.img+')';
+$('#intro').style.backgroundImage='url('+S.intro.img+')';if(S.intro.pos)$('#intro').style.backgroundPosition=S.intro.pos;
 function setB(el,b){el.querySelector('.ctx').textContent=b.ctx;el.querySelector('.l1').textContent=b.l1;el.querySelector('.l2').textContent=b.l2}
 function placeB(el,a,dy){el.style.opacity=a;el.querySelector('.ctx').style.cssText='position:absolute;top:'+(1438+dy)+'px';el.querySelector('.l1').style.cssText='position:absolute;top:'+(1500+dy*1.3)+'px';el.querySelector('.l2').style.cssText='position:absolute;top:'+(1594+dy*1.6)+'px';}
 // 하단 자막 구간
@@ -127,7 +134,7 @@ window.render=function(t){
   $('#bg2').style.opacity=0;
   // 인트로 사진 → 지도 전환
   const ia=1-easeIO((t-S.intro.end+0.45)/0.6);
-  $('#intro').style.opacity=ia;$('#intro').style.transformOrigin='0% 100%';$('#intro').style.transform='scale('+(1.6+t*0.03)+')';
+  $('#intro').style.opacity=ia;$('#intro').style.transformOrigin=S.intro.origin||'0% 100%';$('#intro').style.transform='scale('+((S.intro.zoom||1.6)+t*0.03)+')';
   // 이탈리아 윤곽 그리기
   const dr=ease((t-S.intro.end+0.2)/1.0);itS.style.strokeDashoffset=LEN*(1-dr);
   it.setAttribute('fill','rgba(44,48,57,'+(0.3+0.7*dr)+')');
