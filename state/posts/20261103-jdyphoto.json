@@ -2,7 +2,7 @@
  "id": "20261103-jdyphoto",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-03T12:56:52.533509+09:00",
  "publish_at": "2026-11-03T12:52:57+09:00",
  "topic": "북한 바이낸스 8조 해킹 지목 + 10.1 NSC 북한 해킹 독자제재에 정동영 통일부 장관 반대(전언) + 김여정 담화",
@@ -81,5 +81,8 @@
   "media/20261103-jdyphoto/07.jpg",
   "media/20261103-jdyphoto/08.jpg"
  ],
- "tg_msg": 1779
+ "tg_msg": 1779,
+ "ig_media_id": "18102872027380639",
+ "permalink": "https://www.instagram.com/p/DfQ-iSFl-Sa/",
+ "published_at": "2026-11-03T13:02:29.222952+09:00"
 }
