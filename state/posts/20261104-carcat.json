@@ -1,0 +1,36 @@
+{
+ "id": "20261104-carcat",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-04T16:32:58.192758+09:00",
+ "publish_at": "2026-11-04T16:32:58.192773+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 겨울 엔진룸에 숨는 길고양이와 시동 전 보닛 노크(모닝노크)",
+ "sources": [],
+ "seconds": 23.3,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261104-carcat/short_card.mp4"
+ ],
+ "yt": {
+  "title": "겨울엔 시동 걸기 전에 꼭 노크하세요 #shorts",
+  "description": "정비소에 '엔진에 새끼 고양이가 갇혔다'는 차가 들어왔습니다. 보닛을 열고, 차 밑을 뜯고 나서야 겨우 꺼낸 새끼 고양이. 시동을 끈 엔진은 한참 동안 따뜻해서, 추운 날 길고양이들이 엔진룸이나 바퀴 안쪽으로 숨어듭니다. 모르고 시동을 걸면 빠르게 도는 엔진 벨트에 휘말릴 수 있어요. 일본 JAF에는 2023년 12월 한 달에만 이런 구조 요청이 24건 들어왔습니다. 그래서 겨울엔 시동 전에 보닛을 몇 번 두드리고, 문을 세게 닫거나 경적을 울려 주세요. 한국에선 '모닝노크', 일본에선 '猫バンバン'이라고 부릅니다. 두드린 뒤 기척이 있으면 보닛을 열어 확인하세요.\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: 데일리벳(2015.11.24 한국고양이보호협회·네슬레퓨리나 모닝노크 캠페인, 2017.12.12 카라 캠페인), 쿠루마뉴스(2024.2.21, JAF 발표)\n영상: TikTok @royaltyautoservice / 그래픽: 오늘의쓸모\nMusic: \"Killers\" Kevin MacLeod (incompetech.com) / Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/\n\n#모닝노크 #길고양이 #겨울운전 #자동차 #고양이 #오늘의쓸모 #shorts",
+  "tags": [
+   "모닝노크",
+   "길고양이",
+   "겨울",
+   "자동차",
+   "엔진룸",
+   "고양이",
+   "겨울운전",
+   "오늘의쓸모"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "tg_msg": 1840
+}
