@@ -1,0 +1,117 @@
+{
+ "id": "20261104-carcat",
+ "media": "media/20261104-carcat",
+ "topic": "겨울 엔진룸에 숨는 길고양이 — 시동 끈 엔진의 잔열을 찾아 들어가고, 모르고 시동 걸면 엔진 벨트에 휘말림 → 시동 전 보닛 노크(한국 '모닝노크', 일본 '猫バンバン'). 사용자 11.04 14:17 회차 1번 선택.",
+ "hook": {
+  "t": "겨울엔 시동 전에\n꼭 '노크'하세요"
+ },
+ "credit": "영상: TikTok @royaltyautoservice · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/killers.mp3",
+  "start": 185.5,
+  "vol": 0.38
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @royaltyautoservice https://www.tiktok.com/@royaltyautoservice/video/7407120530840685870 (2024.8.25, 조회 550만·좋아요 67만 — media/20261104-wb1/video/v1.info.json, 사본 media/20261104-carcat/video/royalty.info.json, 정비소 본인 게시).",
+  "모션그래픽: scripts/story_shorts/anim_carcat.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "데일리벳 2015.11.24 — 한국고양이보호협회·네슬레퓨리나 '모닝노크': 잔열 남은 엔진룸에 길고양이가 숨음, 보닛 노크·문 세게 닫기·경적",
+   "url": "https://www.dailyvet.co.kr/?p=52652"
+  },
+  {
+   "publisher": "데일리벳 2017.12.12 — 카라·전국 대학 길고양이 동아리 모닝노크 캠페인",
+   "url": "https://www.dailyvet.co.kr/?p=87689"
+  },
+  {
+   "publisher": "쿠루마뉴스 2024.2.21 — JAF: 2023.12 한 달 엔진룸 고양이 구조 요청 24건, 고속으로 도는 엔진 벨트에 휘말림, 두드린 뒤 기척 있으면 보닛 열어 확인",
+   "url": "https://kuruma-news.jp/post/746712"
+  }
+ ],
+ "_note": "원본 v1(576x1024, 283초). A = 3컷(116.0~117.3 엔진 틈 새끼 고양이 얼굴 crop 400x289+88+225 / 176.0~177.2 차 밑 정비사 얼굴 / 122.0~122.7 고양이 얼굴 1.9배 확대 0.6배 슬로) — 컷 전환 1.3·2.5초. B 31.0 보닛 열고 엔진룸 뒤지기, C 182.0 차 밑으로 손 뻗기, D 189.5 고양이 꺼내기, H 227.0 장갑 위 고양이 얼굴 0.6배 슬로(장갑 로고는 아래로 잘라 냄). 그래픽 gfx/heat·belt·knock = anim_carcat.py. 효과음 없음, 원본 소리 끔.",
+ "scenes": [
+  {
+   "text": "시동 걸기 직전, 엔진 속에서 이 눈이…",
+   "video": {
+    "src": "clip/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.6
+  },
+  {
+   "text": "엔진에 새끼 '고양이'가 갇혔다는 연락",
+   "video": {
+    "src": "clip/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "시동 끈 엔진은 한참 '따뜻', 추운 날 고양이가 쏙",
+   "video": {
+    "src": "gfx/heat.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.1
+  },
+  {
+   "text": "차 밑을 뜯고서야 겨우 손이 닿았다",
+   "video": {
+    "src": "clip/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "모르고 시동 걸면 빠르게 도는 '벨트'에 휘말린다",
+   "video": {
+    "src": "gfx/belt.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.1
+  },
+  {
+   "text": "이 녀석은 운 좋게 '구조' 성공",
+   "video": {
+    "src": "clip/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "그래서 겨울엔 시동 전 보닛을 '똑똑'",
+   "video": {
+    "src": "gfx/knock.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.1
+  },
+  {
+   "text": "한국에선 '모닝노크', 구독도 똑똑 눌러 주세요",
+   "video": {
+    "src": "clip/H.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  }
+ ]
+}
