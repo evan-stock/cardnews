@@ -1,0 +1,56 @@
+{
+ "id": "20261104-bigdog",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-04T14:11:19.622381+09:00",
+ "publish_at": "2026-11-04T14:11:19.622407+09:00",
+ "publish_now": true,
+ "topic": "아기 고양이(턱시도) 루시가 도베르만 디젤의 큰 침대를 차지하자, 디젤이 코로 밀어 보고 냥펀치를 맞은 뒤 끙끙 낑낑 '사이렌 소리'로 항의함(Facebook 릴스, 디젤 엄마 Hanny Thomas, 2026.7, Parade Pets·Yahoo 2026.7.21 보도). 대형견 반전(무서운 덩치 vs 아기 고양이에게 쫄림) — 그레이트데인 침대 편(1.73만) 틀. 원본 소리는 덧입힌 음악이 전 구간에 깔려 있어 전부 끔(디젤 낑낑 소리는 자막으로). 원본 캡션은 zoom 1.4~1.5 크롭으로 밀어냄(흐림 없음). 사실: AKC — 도베르만은 1890년대 독일 세금 징수원 루이 도베르만이 자기를 지키려고 만든 경호견.",
+ "sources": [
+  {
+   "publisher": "Facebook 릴스 - Hanny Thomas (도베르만 디젤)",
+   "url": "https://www.facebook.com/reel/3124048574459527",
+   "date": "2026-07"
+  },
+  {
+   "publisher": "Yahoo/Parade Pets - Big Scary Doberman Hilariously Faces Off With a Small Kitten Over His Bed",
+   "url": "https://www.yahoo.com/lifestyle/articles/big-scary-doberman-hilariously-faces-084800106.html",
+   "date": "2026-07-21"
+  },
+  {
+   "publisher": "AKC - Doberman Pinscher History",
+   "url": "https://www.akc.org/expert-advice/dog-breeds/doberman-pinscher-history/",
+   "date": ""
+  }
+ ],
+ "seconds": 23.25,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261104-bigdog/short.mp4"
+ ],
+ "app_file": "media/20261104-bigdog/short_nobgm.mp4",
+ "yt": {
+  "title": "아기 고양이한테 침대 뺏긴 도베르만의 반응ㅋㅋ #shorts",
+  "description": "자기 이름까지 써 있는 침대를 아기 고양이 루시에게 뺏긴 도베르만 디젤... 코로 살살 밀어 보다가 냥펀치 맞고, 결국 낑낑 사이렌 소리로 항의 시작ㅋㅋ\n\n참고로 미국켄넬클럽(AKC)에 따르면 도베르만은 1890년대 독일의 세금 징수원 루이 도베르만이 자기를 지키려고 만든 경호견이래요. 그런 경호견도 아기 고양이 앞에선 소용없었네요.\n\n여러분 집 댕댕이도 냥이한테 자리 뺏기나요?\n\n영상: Facebook Hanny Thomas (디젤 보호자)\n참고: Parade Pets, AKC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: Facebook 릴스 - Hanny Thomas (도베르만 디젤) 2026-07, Yahoo/Parade Pets - Big Scary Doberman Hilariously Faces Off With a Small Kitten Over His Bed 2026-07-21, AKC - Doberman Pinscher History\n사진·영상: Facebook Hanny Thomas\n\n#shorts #도베르만 #대형견 #아기고양이 #고양이",
+  "tags": [
+   "도베르만",
+   "대형견",
+   "아기고양이",
+   "고양이",
+   "강아지",
+   "강아지반응",
+   "강아지침대",
+   "shorts",
+   "오늘의털뭉치"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "5deebd3a1283",
+ "tg_msg": 1832
+}
