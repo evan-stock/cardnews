@@ -1,154 +1,163 @@
 {
- "id": "20261104-yell",
+ "id": "20261105-bandage",
  "mode": "send",
  "format": "meme",
- "topic": "집사들이 자러 갈 때 밖으로 뛰쳐나갔던 턱시도 고양이 위니가 다음 날 아침 쓰레기통 위에서 집사를 올려다보며 큰 소리로 야옹야옹 따지고, 문을 열어 주자 신나서 끼룩대며 들어와 아침밥 먹고 집사 품에 안겨 다 용서함(TikTok @moustachewinnie, 2025.12.30, 78만 회·좋아요 15.8만, Newsweek 2026.1.2 보도). 원본 소리(야옹·끼룩) 살림, 덧입힌 음악 없음(스펙트럼 확인). 원본 캡션은 zoom 1.5 크롭으로 밀어냄(흐림 없음). 사실: Newsweek이 인용한 PetMD — 너무 춥거나 더운 날씨는 고양이에게 저체온증·동상·열사병을 일으킬 수 있음.",
+ "topic": "언니(오스트레일리안 셰퍼드 계열 갈색 강아지)가 다리 붕대를 갈 때마다 바닥에 턱을 괴고 시무룩해지던 사모예드에게, 집사가 멀쩡한 다리에도 붕대를 감아 주자 곧바로 해맑게 웃으며 붕대 다리로 걸어 다님(TikTok @babybearyuki, 2024.9.27, 87만 회, Newsweek 2024.10.1 보도). 원본에 덧입힌 음악(The Cranberries 'Linger' 커버)이 깔려 원본 소리 전부 끔. 원본 캡션은 zoom 크롭으로 화면 밖으로 밀어냄(흐림 없음). 사실: UC 샌디에이고 연구(Harris & Prouvost 2014, PLOS ONE) — 주인이 가짜 강아지 인형을 챙길 때 개들이 주인을 밀거나 끼어드는 질투 행동을 보임.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.8,
+ "bgm_volume": 2.0,
  "sfx_max": 3,
  "hook": {
-  "t": "밤새 밖에서 놀다 온 고양이\n'아침부터 잔소리 폭발ㅋㅋ'"
+  "t": "멀쩡한 다리에 붕대 감아 달래\n'질투 폭발 사모예드ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @moustachewinnie"
+  "TikTok @babybearyuki"
  ],
  "sources": [
   {
-   "publisher": "TikTok @moustachewinnie (턱시도 고양이 위니)",
-   "url": "https://www.tiktok.com/@moustachewinnie/video/7589636863694998806",
-   "date": "2025-12-30"
+   "publisher": "TikTok @babybearyuki (사모예드)",
+   "url": "https://www.tiktok.com/@babybearyuki/video/7418942116073573665",
+   "date": "2024-09-27"
   },
   {
-   "publisher": "Newsweek - Tuxedo Cat's Reaction After Being Left Outside Has Internet in Stitches",
-   "url": "https://www.newsweek.com/tuxedo-cats-reaction-after-being-left-outside-has-internet-in-stitches-11298578",
-   "date": "2026-01-02"
+   "publisher": "Newsweek - Dog's Sulking Over Sibling's Bandage Has Internet in Stitches",
+   "url": "https://www.newsweek.com/dog-sulking-sibling-gets-bandage-1961898",
+   "date": "2024-10-01"
+  },
+  {
+   "publisher": "Phys.org - Dogs get especially jealous of other dogs, study finds (UC San Diego, PLOS ONE)",
+   "url": "https://phys.org/news/2014-07-dogs-jealous.html",
+   "date": "2014-07-23"
   }
  ],
  "scenes": [
   {
-   "dur": 1.6,
+   "dur": 2.4,
    "video": {
     "src": "video/v1.mp4",
-    "start": 4.8,
-    "zoom": 1.5,
+    "start": 4.6,
+    "zoom": 1.35,
     "x": 0.5,
-    "y": 0.72,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "야!!\n문 열어!!",
-     "x": 0.3,
-     "y": 0.2,
-     "at": 0.1,
-     "to": 1.6
-    },
-    {
-     "k": "sfx",
-     "t": "(버럭)",
-     "x": 0.75,
-     "y": 0.12,
-     "at": 0.2,
-     "to": 1.6
-    }
-   ]
-  },
-  {
-   "dur": 4.0,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 6.5,
-    "zoom": 1.5,
-    "x": 0.5,
-    "y": 0.75,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "밤새 문도\n안 열어주고!!",
-     "x": 0.3,
-     "y": 0.13,
-     "at": 0.1,
-     "to": 2.0
-    },
-    {
-     "k": "talk",
-     "t": "동물보호단체에\n신고할 거야!!",
-     "x": 0.32,
-     "y": 0.13,
-     "at": 2.0,
-     "to": 4.0
-    },
-    {
-     "k": "sfx",
-     "t": "(잔소리 폭격)",
-     "x": 0.75,
-     "y": 0.82,
-     "at": 0.4,
-     "to": 4.0
-    }
-   ]
-  },
-  {
-   "dur": 3.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 12.6,
-    "zoom": 1.3,
-    "x": 0.5,
-    "y": 0.8,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "문 열어주자마자",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.1,
-     "to": 3.6
-    },
-    {
-     "k": "sfx",
-     "t": "(신나서 끼룩!)",
-     "x": 0.45,
-     "y": 0.45,
-     "at": 2.0,
-     "to": 3.6
-    }
-   ]
-  },
-  {
-   "say": "밤새 밖에서 놀다 온 턱시도 고양이 위니, 아침밥 한 그릇에 화가 싹 풀렸습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 21.6,
-    "zoom": 1.5,
-    "x": 0.4,
-    "y": 0.15,
+    "y": 0.25,
     "audio": 0
    },
    "caps": [
     {
+     "k": "talk",
+     "t": "언니만\n붕대 해주고...",
+     "x": 0.5,
+     "y": 0.2,
+     "at": 0.1,
+     "to": 2.4
+    },
+    {
      "k": "sfx",
-     "t": "(냠냠)",
-     "x": 0.7,
-     "y": 0.3,
-     "at": 0.6,
-     "s": "nom",
-     "sv": 0.8
+     "t": "(시무룩)",
+     "x": 0.78,
+     "y": 0.72,
+     "at": 0.4,
+     "to": 2.4,
+     "s": "slide",
+     "sv": 0.7
     }
    ]
   },
   {
-   "say": "다만 너무 춥거나 더운 날씨는 고양이에게 저체온증이나 열사병을 일으킬 수 있다고 하니, 밤에는 집 안에 두는 게 좋겠습니다.",
+   "say": "언니 다리 붕대를 갈아줄 때마다, 이 사모예드는 이렇게 삐졌는데요.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 27.6,
-    "zoom": 1.5,
+    "start": 1.9,
+    "zoom": 1.35,
+    "x": 0.5,
+    "y": 0.25,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "언니 붕대 가는 중",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "dur": 5.4,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 7.0,
+    "zoom": 1.35,
+    "x": 0.5,
+    "y": 0.25,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "나도!!\n나도 감아줘!!",
+     "x": 0.3,
+     "y": 0.15,
+     "at": 0.1,
+     "to": 2.6
+    },
+    {
+     "k": "desc",
+     "t": "안 다쳤는데 앞발 쓱",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 2.6,
+     "to": 5.4
+    },
+    {
+     "k": "sfx",
+     "t": "(초집중)",
+     "x": 0.25,
+     "y": 0.3,
+     "at": 3.2,
+     "to": 5.4,
+     "s": "pop",
+     "sv": 0.7
+    }
+   ]
+  },
+  {
+   "dur": 2.4,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 16.8,
+    "zoom": 1.12,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "나도 환자다~",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.1,
+     "to": 2.4
+    },
+    {
+     "k": "sfx",
+     "t": "(해맑)",
+     "x": 0.8,
+     "y": 0.3,
+     "at": 0.3,
+     "to": 2.4,
+     "s": "sparkle",
+     "sv": 0.7
+    }
+   ]
+  },
+  {
+   "say": "실제로 미국 UC 샌디에이고 연구에서도, 개들은 주인이 강아지 인형을 챙겨 주자 끼어들며 질투했다고 합니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 18.6,
+    "zoom": 1.3,
     "x": 0.5,
     "y": 0.2,
     "audio": 0,
@@ -157,28 +166,27 @@
    "caps": [
     {
      "k": "talk",
-     "t": "...이번만\n봐준다",
-     "x": 0.72,
-     "y": 0.28,
-     "at": 0.3,
-     "s": "heart",
-     "sv": 0.7
+     "t": "이제 공평하지?",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.4
     }
    ]
   }
  ],
  "yt": {
-  "title": "밤새 밖에서 놀다 온 고양이의 아침 잔소리ㅋㅋ #shorts",
-  "description": "집사들 잘 때 몰래 나갔다가 아침에 돌아온 턱시도 고양이 위니ㅋㅋ 문 안 열어줬다고 쓰레기통 위에서 한참 따지더니, 아침밥 한 그릇에 다 용서해 줍니다.\n\n너무 춥거나 더운 날씨는 고양이에게 저체온증·동상·열사병을 일으킬 수 있대요(PetMD, Newsweek 인용). 밤에는 집 안이 제일 안전해요.\n\n여러분 고양이도 이렇게 잔소리하나요?\n\n영상: TikTok @moustachewinnie\n참고: Newsweek, PetMD\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @moustachewinnie 2025-12-30, Newsweek - Tuxedo Cat's Reaction After Being Left Outside Has Internet in Stitches 2026-01-02\n사진·영상: TikTok @moustachewinnie\n음성: Typecast\n\n#shorts #고양이 #턱시도냥 #고양이잔소리 #냥스타그램",
+  "title": "언니만 붕대 감아주자 단단히 삐진 사모예드ㅋㅋ #shorts",
+  "description": "언니 다리 붕대 갈 때마다 바닥에 턱 괴고 시무룩해지던 사모예드ㅋㅋ 결국 멀쩡한 다리에도 붕대를 감아 줬더니, 바로 해맑아졌습니다.\n\n실제로 UC 샌디에이고 연구(2014, PLOS ONE)에서 개들은 주인이 강아지 인형을 챙겨 줄 때 주인을 밀거나 사이에 끼어드는 질투 행동을 보였대요.\n\n여러분 강아지도 이렇게 질투하나요?\n\n영상: TikTok @babybearyuki\n참고: Newsweek, Phys.org(UC San Diego 연구)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @babybearyuki\n음성: Typecast\n\n#shorts #사모예드 #강아지 #질투 #삐진강아지",
   "tags": [
-   "고양이",
-   "턱시도고양이",
-   "고양이 잔소리",
-   "냥이",
-   "고양이 쇼츠",
-   "cat",
-   "tuxedo cat",
-   "shorts"
+   "사모예드",
+   "강아지",
+   "삐진강아지",
+   "질투",
+   "댕댕이",
+   "강아지쇼츠",
+   "samoyed",
+   "funny dog",
+   "털뭉치"
   ]
  },
  "publish_now": true
