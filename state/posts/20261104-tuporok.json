@@ -2,7 +2,7 @@
  "id": "20261104-tuporok",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-04T20:23:30.233099+09:00",
  "publish_at": "2026-11-04T20:23:30.233172+09:00",
  "topic": "선관위 특검, 중앙선관위 '투표록 사후 위·변조 지시' 정황 압수수색(11.4)",
@@ -84,5 +84,8 @@
   "media/20261104-tuporok/06.jpg",
   "media/20261104-tuporok/07.jpg"
  ],
- "tg_msg": 1852
+ "tg_msg": 1852,
+ "ig_media_id": "18142740832627077",
+ "permalink": "https://www.instagram.com/p/DfUWnbrkVeV/",
+ "published_at": "2026-11-04T20:31:10.368743+09:00"
 }
