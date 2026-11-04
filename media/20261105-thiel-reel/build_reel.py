@@ -22,6 +22,16 @@ def top(path):
         f=fit(d,txt,78,940)
         d.text((70,433+i*88),txt,font=f,fill=Y if i==len(L)-1 else (255,255,255),anchor='ls')
     im.save(path)
+def sub(path,b1,b2):
+    im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
+    d.text((540,1440),'피터 틸 · 9월 24일 인터뷰 (선거 6주 전)',font=ImageFont.truetype(FM,36),fill=(220,220,220),anchor='ms')
+    b2=b2 if b2!='"' else ''
+    if not b2: b1=b1+'"' if not b1.endswith('"') else b1
+    ls=[b1]+([b2] if b2 else [])
+    for i,t in enumerate(ls):
+        f=fit(d,t,64,960)
+        d.text((540,1535+i*84),t,font=f,fill=(255,255,255),anchor='ms',stroke_width=5,stroke_fill=(0,0,0))
+    im.save(path)
 def cap(path,small,b1,b2):
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
     d.text((70,1450),small,font=ImageFont.truetype(FM,38),fill=(225,225,225),anchor='ls')
@@ -31,19 +41,24 @@ def cap(path,small,b1,b2):
 top(f'{R}/top.png')
 SM='피터 틸 · 독일 MD MEETS 인터뷰'
 # (원본 시작, 길이, 자막들[(t0,t1,small,b1,b2)])
-CAPS=[(0,3.25,'9월 24일 공개 · '+SM.split(' · ')[1],'"이번 가을 중간선거에서','공화당이 참패하면"'),
- (3.25,9.75,SM,'"민주당은 2028년엔','뭘 해도 이긴다고 믿을 것"'),
- (9.75,16,SM,'"그러면 극좌를 막을','방어벽이 무너진다"'),
- (16,21.5,SM,'"민주사회주의자 승리를','총력으로 막지 않을 것"'),
- (21.5,29.25,'중간선거 6주 전 발언','"한 달 반 뒤 중간선거에서','민주당이 꽤 선전한다"'),
- (29.25,36.75,SM,'"그러면 중도좌파든 극좌든','신경 안 쓰게 된다"')]
+CAPS=[(0,3.25,'"이번 가을 중간선거에서','공화당이 참패하면"'),
+ (3.25,6.25,'"그러면 민주당은','"'),
+ (6.25,9.75,'"2028년엔 뭘 해도','이긴다고 생각할 거예요"'),
+ (9.75,13.25,'"그러니 아마도','"'),
+ (13.25,16,'"극좌를 막는 방어벽 역할을','제대로 못 할 겁니다"'),
+ (16,18.5,'"민주사회주의자가','이기는 걸 막으려고"'),
+ (18.5,21.5,'"총력을 다하진','않을 거란 얘기죠"'),
+ (21.5,25.25,'"그래서 한 달 반 뒤','중간선거에서 민주당이"'),
+ (25.25,29.25,'"꽤 선전할 거고','그러면 대선 후보가"'),
+ (29.25,33.25,'"중도좌파든 극좌든','상관없게 될 거예요"'),
+ (33.25,36.75,'"완전히 열린 판이','되는 거죠"')]
 SS=13.5; DUR=36.75
 inputs=['-ss',str(SS),'-t',str(DUR),'-i',SRC,'-i',f'{R}/top.png']
 fc=(f"[0:v]split[s1][s2];[s1]crop={CROP},scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:3,eq=brightness=-0.28[bg];"
     f"[s2]crop={CROP},scale=1080:{BH},setsar=1[fg];[bg][fg]overlay=0:{BY0}[b0];[b0][1:v]overlay[b1]")
 last='b1'
 for j,c in enumerate(CAPS):
-    cap(f'{R}/c{j}.png',*c[2:]); inputs+=['-i',f'{R}/c{j}.png']
+    sub(f'{R}/c{j}.png',*c[2:]); inputs+=['-i',f'{R}/c{j}.png']
     fc+=f";[{last}][{j+2}:v]overlay=enable='between(t,{c[0]},{c[1]-0.01})'[c{j}]"; last=f'c{j}'
 subprocess.run(['ffmpeg','-v','error','-y',*inputs,'-filter_complex',fc+f";[{last}]setsar=1[vo]",'-map','[vo]','-map','0:a','-r','30','-c:v','libx264','-preset','veryfast','-crf','20','-pix_fmt','yuv420p','-c:a','aac','-ar','44100','-ac','2','-b:a','160k',f'{R}/s0.mp4'],check=True)
 # 결말 장면 2개: 마지막 프레임 정지 + 자막
