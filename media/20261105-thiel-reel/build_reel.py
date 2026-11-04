@@ -4,7 +4,7 @@ os.chdir('/home/claude/cardnews')
 R='/home/claude/build/w'; os.makedirs(R,exist_ok=True)
 FB='assets/fonts/Pretendard-Black.otf'; FM='assets/fonts/Pretendard-Medium.otf'; FX='assets/fonts/Pretendard-ExtraBold.otf'
 Y=(255,216,77); BY0,BH=660,720
-SRC='media/20261105-thiel-reel/video/v1.mp4'; CROP='720:480:243:8'
+SRC='media/20261105-thiel-reel2/video/v1.mp4'; CROP='1020:680:93:0'
 TAG='팔란티어 창업자 · 9월 인터뷰'
 L=['피터 틸 예언','그대로 맞았다','다음은 극좌 대통령?']
 def fit(d,t,size,maxw,font=FB):
