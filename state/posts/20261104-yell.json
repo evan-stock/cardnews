@@ -1,7 +1,7 @@
 {
  "id": "20261104-yell",
  "kind": "short",
- "status": "pending",
+ "status": "approved",
  "created_at": "2026-11-04T19:23:55.062015+09:00",
  "publish_at": "2026-11-04T19:23:55.062038+09:00",
  "publish_now": true,
@@ -46,5 +46,7 @@
   "channel": null
  },
  "draft_hash": "1d8e50c65dd7",
- "tg_msg": 1843
+ "tg_msg": 1843,
+ "decided_at": "2026-11-04T20:03:45+09:00",
+ "decided_via": "app"
 }
