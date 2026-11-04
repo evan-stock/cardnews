@@ -1,7 +1,7 @@
 {
  "id": "20261105-bandage",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-05T08:29:03.088778+09:00",
  "publish_at": "2026-11-05T08:29:03.088798+09:00",
  "publish_now": true,
@@ -52,5 +52,9 @@
   "channel": null
  },
  "draft_hash": "6b452f075127",
- "tg_msg": 1870
+ "tg_msg": 1870,
+ "decided_at": "2026-11-05T08:32:02.982320+09:00",
+ "yt_id": "Kb6-ljb6hCo",
+ "permalink": "https://youtube.com/shorts/Kb6-ljb6hCo",
+ "published_at": "2026-11-05T08:32:05.559094+09:00"
 }
