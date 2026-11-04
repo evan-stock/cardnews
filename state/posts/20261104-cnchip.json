@@ -2,7 +2,7 @@
  "id": "20261104-cnchip",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-04T09:17:06.379914+09:00",
  "publish_at": "2026-11-04T09:10:26+09:00",
  "topic": "한국 반도체가 중국으로 빠져나간 수법 6가지(사람·손글씨·공장 복제·협력업체·파일 쪼개기·납땜) — 오늘 HBM 납땜 밀수 보도를 마지막 장으로",
@@ -94,5 +94,9 @@
   "media/20261104-cnchip/09.jpg",
   "media/20261104-cnchip/10.jpg"
  ],
- "tg_msg": 1818
+ "tg_msg": 1818,
+ "decided_at": "2026-11-04T09:20:25.427099+09:00",
+ "ig_media_id": "18643927159059339",
+ "permalink": "https://www.instagram.com/p/DfTKCIqj-Ob/",
+ "published_at": "2026-11-04T09:21:56.933851+09:00"
 }
