@@ -1,0 +1,9 @@
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] NdBBtxMufFQ: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+실패: https://www.youtube.com/shorts/NdBBtxMufFQ
+total 21508
+drwxr-xr-x 2 runner runner     4096 Nov  4 00:24 .
+drwxr-xr-x 3 runner runner     4096 Nov  4 00:24 ..
+-rw-r--r-- 1 runner runner       64 Nov  4 00:24 fmt.txt
+-rw-r--r-- 1 runner runner      599 Nov  4 00:24 log.txt
+-rw-r--r-- 1 runner runner 22006675 Nov  4 00:24 v1.mp4
