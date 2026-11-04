@@ -1,0 +1,36 @@
+{
+ "id": "20261104-yell",
+ "created": "2026-11-04T19:12:27.754743+09:00",
+ "items": [
+  {
+   "key": "8e46b541b6c7",
+   "text": "밤새 밖에서 놀다 온 턱시도 고양이 위니, 아침밥 한 그릇에 화가 싹 풀렸습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "다만 너무 춥거나 더운 날씨는 고양이에게 저체온증이나 열사병을 일으킬 수 있다고 하니, 밤에는 집 안에 두는 게 좋겠습니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "2eb3aab0b0d5",
+   "text": "다만 너무 춥거나 더운 날씨는 고양이에게 저체온증이나 열사병을 일으킬 수 있다고 하니, 밤에는 집 안에 두는 게 좋겠습니다.",
+   "ctx": {
+    "previous_text": "밤새 밖에서 놀다 온 턱시도 고양이 위니, 아침밥 한 그릇에 화가 싹 풀렸습니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
