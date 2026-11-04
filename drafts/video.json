@@ -1,4 +1,14 @@
-{"id": "20261104-goldhq", "frames": 0, "format": "bv*+ba/b", "args": "--print-to-file %(format_id)s|%(width)sx%(height)s|%(vbr)s media/20261104-goldhq/video/fmt.txt", "urls": [
-"https://www.instagram.com/reels/DfK9DwEvTRC/",
-"https://www.youtube.com/shorts/NdBBtxMufFQ"
+{"id": "20261104-wa1", "frames": 0, "args": "--write-info-json", "urls": [
+"https://www.tiktok.com/@foxweather/video/7057610023828065583",
+"https://www.tiktok.com/@nbcchicago/video/7324524581144874282",
+"https://x.com/ABC/status/1090402748808421376",
+"https://x.com/Chopsyturvey/status/1877371046614970822",
+"https://www.tiktok.com/@entrelligence/video/7320449599917935890",
+"https://www.tiktok.com/@techmoments_/video/7447913982360325398",
+"https://x.com/SaycheeseDGTL/status/1607773669702488064",
+"https://x.com/Nippon_Times/status/2015191467430404274",
+"https://x.com/CurieuxExplorer/status/1892150982781358278",
+"https://www.tiktok.com/@slow_motion_2023/video/7196010900631997701",
+"https://x.com/Masterji_UPWale/status/2025543761531695428",
+"https://x.com/USCPSC/status/1459673198732189697"
 ]}
