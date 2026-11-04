@@ -1,10 +1,1 @@
-맥북 목소리 안 옴 → Gemini TTS: 사용 (저장본)
-장면 1/8 silent 누적 2.0초
-장면 2/8 gemini 누적 5.0초
-장면 3/8 silent 누적 8.1초
-장면 4/8 silent 누적 10.5초
-장면 5/8 silent 누적 12.8초
-장면 6/8 gemini 누적 14.9초
-장면 7/8 silent 누적 18.3초
-장면 8/8 gemini 누적 26.2초
-완성: /home/runner/work/cardnews/cardnews/media/20261104-goldduck/short.mp4 (26.2초, TTS ['gemini', 'silent'])
+⏳ 3개 장면 목소리를 맥북에서 만드는 중
