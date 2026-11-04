@@ -1,4 +1,4 @@
-{"id": "20261104-goldpool", "frames": 0, "urls": [
-"https://www.instagram.com/p/DfPoRtkREYL/",
-"https://www.instagram.com/reels/DfK9DwEvTRC/"
+{"id": "20261104-goldhq", "frames": 0, "format": "bv*+ba/b", "args": "--print-to-file %(format_id)s|%(width)sx%(height)s|%(vbr)s media/20261104-goldhq/video/fmt.txt", "urls": [
+"https://www.instagram.com/reels/DfK9DwEvTRC/",
+"https://www.youtube.com/shorts/NdBBtxMufFQ"
 ]}
