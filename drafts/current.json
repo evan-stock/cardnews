@@ -1,11 +1,24 @@
-[{"id":"20261104-uspolls","slot":"evening","mode":"collect",
-"image_pages":[
-"https://www.westernjournal.com/poll-worker-appears-celebrate-charlie-kirks-assassination-controversial-t-shirt/",
-"https://redstate.com/terichristoph/2026/11/03/minnesota-poll-worker-sparks-outrage-with-sick-halloween-shirt-n2208981",
-"https://yournews.com/2026/11/03/7250948/minnesota-poll-workers-blood-splattered-problem-solved-shirt-sparks-outrage-calls/",
-"https://www.yahoo.com/news/politics/articles/fact-focus-false-accusations-unverified-021525042.html",
-"https://www.yahoo.com/news/politics/articles/experts-officials-westchester-county-elections-001434894.html",
-"https://www.washingtontimes.com/news/2026/nov/3/election-day-unfolds-relatively-problems-voters-disrupted-weather/",
-"https://www.ijpr.org/elections/2026-11-03/election-day-unfolds-with-relatively-few-problems-some-voters-disrupted-by-weather-machine-issues",
-"https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi",
-"https://www.yahoo.com/news/politics/articles/election-day-2026-few-problems-205806079.html"]}]
+[
+ {
+  "id": "20261104-midkr",
+  "slot": "evening",
+  "mode": "collect",
+  "image_pages": [
+   "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+   "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+   "https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/",
+   "https://www.ms.now/liveblog/midterm-election-results-2026-live-updates",
+   "https://www.yahoo.com/news/politics/live/midterms-2026-live-updates-election-day-voters-head-to-the-polls-as-democrats-look-to-flip-gop-control-of-the-house-and-senate-110000715.html",
+   "https://www.sisajournal.com/news/articleView.html?idxno=392858",
+   "https://www.sidae.com/article/2026110411050327633",
+   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611040074",
+   "https://m.news.nate.com/view/20261104n26792",
+   "https://www.segye.com/newsView/20260618515990",
+   "https://www.heraldk.com/article/2026072319094443557",
+   "https://en.wikipedia.org/wiki/2026_United_States_elections",
+   "https://en.wikipedia.org/wiki/United_States_Capitol",
+   "https://en.wikipedia.org/wiki/Hakeem_Jeffries",
+   "https://en.wikipedia.org/wiki/Port_of_Busan"
+  ]
+ }
+]
