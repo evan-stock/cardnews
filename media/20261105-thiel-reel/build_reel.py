@@ -6,7 +6,7 @@ FB='assets/fonts/Pretendard-Black.otf'; FM='assets/fonts/Pretendard-Medium.otf';
 Y=(255,216,77); BY0,BH=660,720
 SRC='media/20261105-thiel-reel/video/v1.mp4'; CROP='720:480:243:8'
 TAG='팔란티어 창업자 · 9월 인터뷰'
-L=['피터 틸 두 달 전 예언','"중간선거 민주당 승리"','다음은 \'극좌 대통령\'?']
+L=['피터 틸 예언','그대로 맞았다','다음은 극좌 대통령?']
 def fit(d,t,size,maxw,font=FB):
     while True:
         f=ImageFont.truetype(font,size)
@@ -54,7 +54,7 @@ CAPS=[(0,3.25,'"이번 가을 중간선거에서','공화당이 참패하면"'),
  (33.25,36.75,'"완전히 열린 판이','되는 거죠"')]
 SS=13.5; DUR=36.75
 inputs=['-ss',str(SS),'-t',str(DUR),'-i',SRC,'-i',f'{R}/top.png']
-fc=(f"[0:v]split[s1][s2];[s1]crop={CROP},scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:3,eq=brightness=-0.28[bg];"
+fc=(f"[0:v]split[s1][s2];[s1]crop={CROP},scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,drawbox=x=0:y=0:w=iw:h=ih:color=black:t=fill[bg];"
     f"[s2]crop={CROP},scale=1080:{BH},setsar=1[fg];[bg][fg]overlay=0:{BY0}[b0];[b0][1:v]overlay[b1]")
 last='b1'
 for j,c in enumerate(CAPS):
@@ -67,7 +67,7 @@ END=[('11월 3일 미국 중간선거 결과','민주당, 상원·하원','모�
 subprocess.run(['ffmpeg','-v','error','-y','-ss',str(SS+30.5),'-i',SRC,'-frames:v','1',f'{R}/freeze.png'],check=True)
 for k,(s,b1,b2,d) in enumerate(END):
     cap(f'{R}/e{k}.png',s,b1,b2)
-    fc=(f"[0:v]crop={CROP},split[s1][s2];[s1]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:3,eq=brightness=-0.28[bg];"
+    fc=(f"[0:v]crop={CROP},split[s1][s2];[s1]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,drawbox=x=0:y=0:w=iw:h=ih:color=black:t=fill[bg];"
         f"[s2]scale=1080:{BH},setsar=1,eq=brightness=-0.12[fg];[bg][fg]overlay=0:{BY0}[b0];[b0][1:v]overlay[b1];[b1][2:v]overlay,setsar=1[vo]")
     subprocess.run(['ffmpeg','-v','error','-y','-loop','1','-t',str(d),'-i',f'{R}/freeze.png','-i',f'{R}/top.png','-i',f'{R}/e{k}.png','-f','lavfi','-t',str(d),'-i','anullsrc=r=44100:cl=stereo',
         '-filter_complex',fc,'-map','[vo]','-map','3:a','-r','30','-c:v','libx264','-preset','veryfast','-crf','20','-pix_fmt','yuv420p','-c:a','aac','-ar','44100','-ac','2','-b:a','160k','-shortest',f'{R}/e{k}.mp4'],check=True)
