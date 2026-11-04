@@ -1,0 +1,50 @@
+{
+ "id": "20261104-yell",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-04T19:23:55.062015+09:00",
+ "publish_at": "2026-11-04T19:23:55.062038+09:00",
+ "publish_now": true,
+ "topic": "집사들이 자러 갈 때 밖으로 뛰쳐나갔던 턱시도 고양이 위니가 다음 날 아침 쓰레기통 위에서 집사를 올려다보며 큰 소리로 야옹야옹 따지고, 문을 열어 주자 신나서 끼룩대며 들어와 아침밥 먹고 집사 품에 안겨 다 용서함(TikTok @moustachewinnie, 2025.12.30, 78만 회·좋아요 15.8만, Newsweek 2026.1.2 보도). 원본 소리(야옹·끼룩) 살림, 덧입힌 음악 없음(스펙트럼 확인). 원본 캡션은 zoom 1.5 크롭으로 밀어냄(흐림 없음). 사실: Newsweek이 인용한 PetMD — 너무 춥거나 더운 날씨는 고양이에게 저체온증·동상·열사병을 일으킬 수 있음.",
+ "sources": [
+  {
+   "publisher": "TikTok @moustachewinnie (턱시도 고양이 위니)",
+   "url": "https://www.tiktok.com/@moustachewinnie/video/7589636863694998806",
+   "date": "2025-12-30"
+  },
+  {
+   "publisher": "Newsweek - Tuxedo Cat's Reaction After Being Left Outside Has Internet in Stitches",
+   "url": "https://www.newsweek.com/tuxedo-cats-reaction-after-being-left-outside-has-internet-in-stitches-11298578",
+   "date": "2026-01-02"
+  }
+ ],
+ "seconds": 22.08,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261104-yell/short.mp4"
+ ],
+ "app_file": "media/20261104-yell/short_nobgm.mp4",
+ "yt": {
+  "title": "밤새 밖에서 놀다 온 고양이의 아침 잔소리ㅋㅋ #shorts",
+  "description": "집사들 잘 때 몰래 나갔다가 아침에 돌아온 턱시도 고양이 위니ㅋㅋ 문 안 열어줬다고 쓰레기통 위에서 한참 따지더니, 아침밥 한 그릇에 다 용서해 줍니다.\n\n너무 춥거나 더운 날씨는 고양이에게 저체온증·동상·열사병을 일으킬 수 있대요(PetMD, Newsweek 인용). 밤에는 집 안이 제일 안전해요.\n\n여러분 고양이도 이렇게 잔소리하나요?\n\n영상: TikTok @moustachewinnie\n참고: Newsweek, PetMD\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @moustachewinnie 2025-12-30, Newsweek - Tuxedo Cat's Reaction After Being Left Outside Has Internet in Stitches 2026-01-02\n사진·영상: TikTok @moustachewinnie\n음성: Typecast\n\n#shorts #고양이 #턱시도냥 #고양이잔소리 #냥스타그램\n\n출처: TikTok @moustachewinnie (턱시도 고양이 위니) 2025-12-30, Newsweek - Tuxedo Cat's Reaction After Being Left Outside Has Internet in Stitches 2026-01-02\n사진·영상: TikTok @moustachewinnie\n음성: Typecast\n\n#shorts #고양이 #턱시도고양이 #고양이 잔소리 #냥이",
+  "tags": [
+   "고양이",
+   "턱시도고양이",
+   "고양이 잔소리",
+   "냥이",
+   "고양이 쇼츠",
+   "cat",
+   "tuxedo cat",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "1d8e50c65dd7",
+ "tg_msg": 1843
+}
