@@ -1,0 +1,20 @@
+{
+ "src": "fxtwitter",
+ "author": "USCPSC",
+ "name": "US Consumer Product Safety Commission",
+ "date": "Sun Nov 14 00:03:04 +0000 2021",
+ "text": "Soon.",
+ "views": null,
+ "likes": 16678,
+ "retweets": 2767,
+ "quote": null,
+ "url": "https://x.com/USCPSC/status/1459673198732189697",
+ "id": "1459673198732189697",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "사진만",
+ "card": null,
+ "quote_url": null
+}
