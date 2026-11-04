@@ -1,237 +1,185 @@
 {
- "id": "20261104-bigdog",
+ "id": "20261104-yell",
  "mode": "send",
  "format": "meme",
- "topic": "아기 고양이(턱시도) 루시가 도베르만 디젤의 큰 침대를 차지하자, 디젤이 코로 밀어 보고 냥펀치를 맞은 뒤 끙끙 낑낑 '사이렌 소리'로 항의함(Facebook 릴스, 디젤 엄마 Hanny Thomas, 2026.7, Parade Pets·Yahoo 2026.7.21 보도). 대형견 반전(무서운 덩치 vs 아기 고양이에게 쫄림) — 그레이트데인 침대 편(1.73만) 틀. 원본 소리는 덧입힌 음악이 전 구간에 깔려 있어 전부 끔(디젤 낑낑 소리는 자막으로). 원본 캡션은 zoom 1.4~1.5 크롭으로 밀어냄(흐림 없음). 사실: AKC — 도베르만은 1890년대 독일 세금 징수원 루이 도베르만이 자기를 지키려고 만든 경호견.",
+ "topic": "집사들이 자러 갈 때 밖으로 뛰쳐나갔던 턱시도 고양이 위니가 다음 날 아침 쓰레기통 위에서 집사를 올려다보며 큰 소리로 야옹야옹 따지고, 문을 열어 주자 신나서 끼룩대며 들어와 아침밥 먹고 집사 품에 안겨 다 용서함(TikTok @moustachewinnie, 2025.12.30, 78만 회·좋아요 15.8만, Newsweek 2026.1.2 보도). 원본 소리(야옹·끼룩) 살림, 덧입힌 음악 없음(스펙트럼 확인). 원본 캡션은 zoom 1.5 크롭으로 밀어냄(흐림 없음). 사실: Newsweek이 인용한 PetMD — 너무 춥거나 더운 날씨는 고양이에게 저체온증·동상·열사병을 일으킬 수 있음.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 2.4,
- "sfx_max": 4,
+ "bgm_volume": 0.8,
+ "sfx_max": 3,
  "hook": {
-  "t": "아기 고양이한테 침대 뺏긴\n'도베르만의 반응ㅋㅋ'"
+  "t": "밤새 밖에서 놀다 온 고양이\n'아침부터 잔소리 폭발ㅋㅋ'"
  },
  "photo_credits": [
-  "Facebook Hanny Thomas"
+  "TikTok @moustachewinnie"
  ],
  "sources": [
   {
-   "publisher": "Facebook 릴스 - Hanny Thomas (도베르만 디젤)",
-   "url": "https://www.facebook.com/reel/3124048574459527",
-   "date": "2026-07"
+   "publisher": "TikTok @moustachewinnie (턱시도 고양이 위니)",
+   "url": "https://www.tiktok.com/@moustachewinnie/video/7589636863694998806",
+   "date": "2025-12-30"
   },
   {
-   "publisher": "Yahoo/Parade Pets - Big Scary Doberman Hilariously Faces Off With a Small Kitten Over His Bed",
-   "url": "https://www.yahoo.com/lifestyle/articles/big-scary-doberman-hilariously-faces-084800106.html",
-   "date": "2026-07-21"
-  },
-  {
-   "publisher": "AKC - Doberman Pinscher History",
-   "url": "https://www.akc.org/expert-advice/dog-breeds/doberman-pinscher-history/",
-   "date": ""
+   "publisher": "Newsweek - Tuxedo Cat's Reaction After Being Left Outside Has Internet in Stitches",
+   "url": "https://www.newsweek.com/tuxedo-cats-reaction-after-being-left-outside-has-internet-in-stitches-11298578",
+   "date": "2026-01-02"
   }
  ],
  "scenes": [
   {
-   "dur": 2.6,
+   "dur": 1.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.0,
-    "zoom": 1.6,
-    "x": 0.9,
-    "y": 0.197,
-    "audio": 0
+    "start": 4.8,
+    "zoom": 1.5,
+    "x": 0.5,
+    "y": 0.72,
+    "audio": 1.0
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(정색)",
+     "k": "talk",
+     "t": "야!!\n문 열어!!",
      "x": 0.3,
-     "y": 0.08,
-     "at": 0.2,
-     "to": 2.6,
-     "s": "dundun",
-     "sv": 0.8
-    },
-    {
-     "k": "talk",
-     "t": "야... 거기\n내 침대거든?",
-     "x": 0.42,
-     "y": 0.2,
-     "at": 0.3,
-     "to": 2.6
-    }
-   ]
-  },
-  {
-   "say": "덩치 큰 도베르만 디젤, 아기 고양이에게 침대를 뺏겼습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 2.4,
-    "zoom": 1.6,
-    "x": 0.9,
-    "y": 0.197,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "침대 주인: 도베르만 디젤",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.2
-    }
-   ]
-  },
-  {
-   "dur": 2.8,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 5.2,
-    "zoom": 1.8,
-    "x": 1.0,
-    "y": 0.387,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(냥펀치)",
-     "x": 0.35,
-     "y": 0.5,
-     "at": 0.4,
-     "to": 1.8,
-     "s": "pop",
-     "sv": 0.9
-    },
-    {
-     "k": "talk",
-     "t": "여기 이제\n내 거야 멍멍아",
-     "x": 0.68,
-     "y": 0.25,
-     "at": 0.6,
-     "to": 2.8
-    }
-   ]
-  },
-  {
-   "dur": 1.8,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 8.0,
-    "zoom": 1.8,
-    "x": 1.0,
-    "y": 0.387,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(당당)",
-     "x": 0.5,
      "y": 0.2,
      "at": 0.1,
-     "to": 1.8
+     "to": 1.6
     },
     {
-     "k": "talk",
-     "t": "뭐.",
-     "x": 0.78,
-     "y": 0.38,
-     "at": 0.4,
-     "to": 1.8
+     "k": "sfx",
+     "t": "(버럭)",
+     "x": 0.75,
+     "y": 0.12,
+     "at": 0.2,
+     "to": 1.6
     }
    ]
   },
   {
-   "say": "말로는 안 되자, 디젤이 꺼낸 마지막 카드는.",
+   "dur": 4.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 10.6,
-    "zoom": 1.4,
-    "x": 0.2,
-    "y": 0.1,
-    "audio": 0
+    "start": 6.5,
+    "zoom": 1.5,
+    "x": 0.5,
+    "y": 0.75,
+    "audio": 1.0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "밤새 문도\n안 열어주고!!",
+     "x": 0.3,
+     "y": 0.13,
+     "at": 0.1,
+     "to": 2.0
+    },
+    {
+     "k": "talk",
+     "t": "동물보호단체에\n신고할 거야!!",
+     "x": 0.32,
+     "y": 0.13,
+     "at": 2.0,
+     "to": 4.0
+    },
+    {
+     "k": "sfx",
+     "t": "(잔소리 폭격)",
+     "x": 0.75,
+     "y": 0.82,
+     "at": 0.4,
+     "to": 4.0
+    }
+   ]
+  },
+  {
+   "dur": 3.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 12.6,
+    "zoom": 1.3,
+    "x": 0.5,
+    "y": 0.8,
+    "audio": 1.0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "침대 탈환 작전",
+     "t": "문 열어주자마자",
      "x": 0.5,
      "y": 0.1,
-     "at": 0.2
+     "at": 0.1,
+     "to": 3.6
+    },
+    {
+     "k": "sfx",
+     "t": "(신나서 끼룩!)",
+     "x": 0.45,
+     "y": 0.45,
+     "at": 2.0,
+     "to": 3.6
     }
    ]
   },
   {
-   "dur": 4.4,
+   "say": "밤새 밖에서 놀다 온 턱시도 고양이 위니, 아침밥 한 그릇에 화가 싹 풀렸습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 13.2,
-    "zoom": 1.4,
-    "x": 0.2,
-    "y": 0.1,
+    "start": 21.6,
+    "zoom": 1.5,
+    "x": 0.4,
+    "y": 0.15,
     "audio": 0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(삐뽀삐뽀 사이렌 시전)",
-     "x": 0.5,
-     "y": 0.08,
-     "at": 0.3,
-     "to": 4.4,
-     "s": "boing",
-     "sv": 0.8
-    },
-    {
-     "k": "talk",
-     "t": "끼잉... 끼이잉...\n내 침대 돌려줘어...",
-     "x": 0.5,
+     "t": "(냠냠)",
+     "x": 0.7,
      "y": 0.3,
      "at": 0.6,
-     "to": 4.4
+     "s": "nom",
+     "sv": 0.8
     }
    ]
   },
   {
-   "say": "원래 경호견으로 만든 견종이지만, 아기 고양이는 못 이겼습니다.",
+   "say": "다만 너무 춥거나 더운 날씨는 고양이에게 저체온증이나 열사병을 일으킬 수 있다고 하니, 밤에는 집 안에 두는 게 좋겠습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 7.9,
-    "zoom": 1.8,
-    "x": 1.0,
-    "y": 0.387,
+    "start": 27.6,
+    "zoom": 1.5,
+    "x": 0.5,
+    "y": 0.2,
     "audio": 0,
     "boomerang": true
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "도베르만 = 원래 경호견 (AKC)",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.3
+     "k": "talk",
+     "t": "...이번만\n봐준다",
+     "x": 0.72,
+     "y": 0.28,
+     "at": 0.3,
+     "s": "heart",
+     "sv": 0.7
     }
    ]
   }
  ],
  "yt": {
-  "title": "아기 고양이한테 침대 뺏긴 도베르만의 반응ㅋㅋ #shorts",
-  "description": "자기 이름까지 써 있는 침대를 아기 고양이 루시에게 뺏긴 도베르만 디젤... 코로 살살 밀어 보다가 냥펀치 맞고, 결국 낑낑 사이렌 소리로 항의 시작ㅋㅋ\n\n참고로 미국켄넬클럽(AKC)에 따르면 도베르만은 1890년대 독일의 세금 징수원 루이 도베르만이 자기를 지키려고 만든 경호견이래요. 그런 경호견도 아기 고양이 앞에선 소용없었네요.\n\n여러분 집 댕댕이도 냥이한테 자리 뺏기나요?\n\n영상: Facebook Hanny Thomas (디젤 보호자)\n참고: Parade Pets, AKC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "title": "밤새 밖에서 놀다 온 고양이의 아침 잔소리ㅋㅋ #shorts",
+  "description": "집사들 잘 때 몰래 나갔다가 아침에 돌아온 턱시도 고양이 위니ㅋㅋ 문 안 열어줬다고 쓰레기통 위에서 한참 따지더니, 아침밥 한 그릇에 다 용서해 줍니다.\n\n너무 춥거나 더운 날씨는 고양이에게 저체온증·동상·열사병을 일으킬 수 있대요(PetMD, Newsweek 인용). 밤에는 집 안이 제일 안전해요.\n\n여러분 고양이도 이렇게 잔소리하나요?\n\n영상: TikTok @moustachewinnie\n참고: Newsweek, PetMD\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n출처: TikTok @moustachewinnie 2025-12-30, Newsweek - Tuxedo Cat's Reaction After Being Left Outside Has Internet in Stitches 2026-01-02\n사진·영상: TikTok @moustachewinnie\n음성: Typecast\n\n#shorts #고양이 #턱시도냥 #고양이잔소리 #냥스타그램",
   "tags": [
-   "도베르만",
-   "대형견",
-   "아기고양이",
    "고양이",
-   "강아지",
-   "강아지반응",
-   "강아지침대",
-   "shorts",
-   "오늘의털뭉치"
+   "턱시도고양이",
+   "고양이 잔소리",
+   "냥이",
+   "고양이 쇼츠",
+   "cat",
+   "tuxedo cat",
+   "shorts"
   ]
  },
- "publish_now": true,
- "style": {
-  "sub_y": 0.9
- }
+ "publish_now": true
 }
