@@ -62,8 +62,8 @@ for j,c in enumerate(CAPS):
     fc+=f";[{last}][{j+2}:v]overlay=enable='between(t,{c[0]},{c[1]-0.01})'[c{j}]"; last=f'c{j}'
 subprocess.run(['ffmpeg','-v','error','-y',*inputs,'-filter_complex',fc+f";[{last}]setsar=1[vo]",'-map','[vo]','-map','0:a','-r','30','-c:v','libx264','-preset','veryfast','-crf','20','-pix_fmt','yuv420p','-c:a','aac','-ar','44100','-ac','2','-b:a','160k',f'{R}/s0.mp4'],check=True)
 # 결말 장면 2개: 마지막 프레임 정지 + 자막
-END=[('11월 3일 미국 중간선거 결과','민주당, 상원·하원','모두 뒤집었다',4),
-     ('틸의 다음 경고','"극좌 대통령 후보 확률 50%"','"그건 미국의 끝"',4.5)]
+END=[('11월 3일 미국 중간선거 결과','민주당, 상원·하원','모두 뒤집었다',2.7),
+     ('틸의 다음 경고','"극좌 대통령 후보 확률 50%"','"그건 미국의 끝"',3)]
 subprocess.run(['ffmpeg','-v','error','-y','-ss',str(SS+30.5),'-i',SRC,'-frames:v','1',f'{R}/freeze.png'],check=True)
 for k,(s,b1,b2,d) in enumerate(END):
     cap(f'{R}/e{k}.png',s,b1,b2)
