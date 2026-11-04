@@ -1,6 +1,1 @@
-장면 1/5 silent 누적 1.6초
-장면 2/5 silent 누적 5.6초
-장면 3/5 silent 누적 9.2초
-장면 4/5 typecast 누적 14.3초
-장면 5/5 typecast 누적 22.1초
-완성: /home/runner/work/cardnews/cardnews/media/20261104-yell/short.mp4 (22.1초, TTS ['silent', 'typecast'])
+⏳ 2개 장면 목소리를 맥북에서 만드는 중
