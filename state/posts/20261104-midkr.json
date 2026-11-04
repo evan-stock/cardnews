@@ -2,7 +2,7 @@
  "id": "20261104-midkr",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-05T01:17:54.989765+09:00",
  "publish_at": "2026-11-05T07:00:00+09:00",
  "topic": "트럼프 중간선거 참패, 앞으로 벌어질 일 6가지(1월 3일 전 몰아치기·거부권 버티기·관세·대미투자·반도체·주한미군)",
@@ -92,5 +92,8 @@
   "media/20261104-midkr/08.jpg",
   "media/20261104-midkr/09.jpg"
  ],
- "tg_msg": 1866
+ "tg_msg": 1866,
+ "ig_media_id": "17892616416618585",
+ "permalink": "https://www.instagram.com/p/DfVew4xmDf6/",
+ "published_at": "2026-11-05T07:01:34.259571+09:00"
 }
