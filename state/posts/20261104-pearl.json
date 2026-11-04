@@ -1,0 +1,37 @@
+{
+ "id": "20261104-pearl",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-04T12:59:54.892673+09:00",
+ "publish_at": "2026-11-04T12:59:54.892684+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 공중에 멈춰 떠 있는 물방울의 정체 — 1초 50~60방울씩 떨어지는 물에 박자를 맞춘 깜빡이는 조명(스트로보) 착시(잘난지 100만 소재)",
+ "sources": [],
+ "seconds": 22.5,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261104-pearl/short_card.mp4"
+ ],
+ "yt": {
+  "title": "공중에 뜬 물방울의 정체 #shorts",
+  "description": "손가락 바로 옆에서 물방울이 공중에 멈춰 있습니다. 중력이 꺼진 걸까요? 사실 이 물방울들은 노즐에서 1초에 50~60개씩 쉬지 않고 떨어지는 중입니다. 비밀은 조명. 물방울이 떨어지는 박자에 딱 맞춰 플래시가 깜빡이면, 비출 때마다 다음 물방울이 같은 자리에 와 있어서 우리 눈엔 멈춘 것처럼 보입니다. 박자를 살짝 당기면 거꾸로 올라가 보이기까지 하죠.\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: 워터펄(株式会社ウォーターパール) 제품 안내(IPROS — 1초 약 50~60방울, 전용 스트로보 조명, 잔상 현상), Science Buddies 'Stroboscopic Effect: Levitating Water Drops'\n※ 영상 속 설치물은 일본 워터펄의 특허 장치이며, 물방울을 둥글게 만드는 방식(음파 등)은 회사 안내를 따랐습니다.\n영상: TikTok @waterpearljapan (Water Pearl, Tokyo) / 그래픽: 오늘의쓸모\nMusic: Inescapable - Ugonna Onyekwe (YouTube Audio Library)\n\n#착시 #물방울 #스트로보 #과학 #신기한이유 #오늘의쓸모 #shorts",
+  "tags": [
+   "착시",
+   "물방울",
+   "스트로보",
+   "워터펄",
+   "공중부양",
+   "과학",
+   "신기한이유",
+   "오늘의쓸모"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop",
+  "thumb": "media/20261104-pearl/thumb/thumb.jpg"
+ },
+ "tg_msg": 1827
+}
