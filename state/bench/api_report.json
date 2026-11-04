@@ -1,40 +1,72 @@
 {
- "since": "2025-09-01",
+ "since": "2026-10-20",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
+   "title": "Mountain Top Trade",
+   "id": "UCmtMiRHLjxCMBEzMe_U8jtA",
+   "created": "2015-09-24",
+   "subs": "139",
+   "videos": "184"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
-   "subs": "0",
-   "videos": "4"
+   "title": "킥킥곰",
+   "id": "UCMemICM2wlhcm9s7cqpbEJw",
+   "created": "2026-10-30",
+   "subs": "6",
+   "videos": "3"
+  },
+  {
+   "title": "VaderTheDobie",
+   "id": "UC9y5zM67qxAtX3xL7gjUcAA",
+   "created": "2024-04-06",
+   "subs": "30700",
+   "videos": "1630"
+  },
+  {
+   "title": "SHADDY 2X",
+   "id": "UCfVKF3Z1xi2rA9ZxsDsUYug",
+   "created": "2025-07-16",
+   "subs": "326000",
+   "videos": "568"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "cat feeding its toy food bowl",
+   "vid": "f-iTVp173tQ",
+   "ch": "Mountain Top Trade",
+   "cid": "UCmtMiRHLjxCMBEzMe_U8jtA",
+   "date": "2026-10-30",
+   "title": "Review of Slow Feeder Cat Bowl, Easy to Clean Silicone Bowl,",
+   "views": 64
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "q": "kitten trying to feed stuffed toy",
+   "vid": "JxjUebGsGFI",
+   "ch": "SHADDY 2X",
+   "cid": "UCfVKF3Z1xi2rA9ZxsDsUYug",
+   "date": "2026-10-20",
+   "title": "Funny Cat Family Feeding Toy Challenge! 🐱🍟🥤#shorts",
+   "views": 7189
+  },
+  {
+   "q": "고양이 인형 밥 먹여주는",
+   "vid": "skrxuI8Ru5w",
+   "ch": "킥킥곰",
+   "cid": "UCMemICM2wlhcm9s7cqpbEJw",
+   "date": "2026-11-02",
+   "title": "인형한테 밥 먹이는 고양이 레전드ㅋㅋ #shorts",
+   "views": 2
+  },
+  {
+   "q": "doberman cat stole bed",
+   "vid": "4-ETa0KxNrk",
+   "ch": "VaderTheDobie",
+   "cid": "UC9y5zM67qxAtX3xL7gjUcAA",
+   "date": "2026-10-28",
+   "title": "Doberman Wants To Know Why?",
+   "views": 14101
   }
  ]
 }
