@@ -2,7 +2,7 @@
  "id": "20261105-musklaser",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-05T09:33:30.053919+09:00",
  "publish_at": "2026-11-05T13:00:00+09:00",
  "topic": "머스크 중간선거 6천억 쓰고 44곳 중 3곳, 다음 날 '우주 레이저' 트윗",
@@ -52,5 +52,8 @@
   "media/20261105-musklaser/01.jpg",
   "media/20261105-musklaser/02.jpg"
  ],
- "tg_msg": 1883
+ "tg_msg": 1883,
+ "ig_media_id": "17918489580466195",
+ "permalink": "https://www.instagram.com/p/DfWH-3MDS2B/",
+ "published_at": "2026-11-05T13:01:44.085859+09:00"
 }
