@@ -1,20 +1,21 @@
 [
  {
-  "id": "20261105-musklaser",
+  "id": "20261105-dessert",
   "slot": "lunch",
   "mode": "collect",
-  "topic": "머스크 중간선거 6천억 쓰고 44곳 중 3곳, '우주 레이저' 트윗",
+  "limit": 30,
   "image_pages": [
-   "https://foxsanantonio.com/news/nation-world/elon-musk-jokes-that-his-election-interference-space-lasers-didnt-work-for-the-midterms-starlink-gop-democrats",
-   "https://en.wikipedia.org/wiki/Elon_Musk",
-   "https://commons.wikimedia.org/wiki/Category:Elon_Musk_in_2025",
-   "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
-   "https://thedailybeast.com/elon-musk-finally-responds-to-bombshell-election-meddling-claim"
-  ],
-  "read_pages": [
-   "https://foxsanantonio.com/news/nation-world/elon-musk-jokes-that-his-election-interference-space-lasers-didnt-work-for-the-midterms-starlink-gop-democrats",
-   "https://xcancel.com/search?f=tweets&q=from%3Aelonmusk+space+lasers"
-  ],
-  "sources": []
+   "https://www.hankyung.com/article/2026110569927",
+   "https://www.imaeil.com/page/view/2026110507324098408",
+   "https://news.mtn.co.kr/article/2026102214103288000",
+   "https://news.mtn.co.kr/news-detail/2026100813575682104",
+   "https://news.mtn.co.kr/news-detail/2026070710141784403",
+   "https://www.fnnews.com/news/202607061610378244",
+   "https://mobile.newsis.com/view/NISX20260701_0003690801",
+   "https://ja.wikipedia.org/wiki/フルーツサンド",
+   "https://en.wikipedia.org/wiki/Fruit_sandwich",
+   "https://ko.wikipedia.org/wiki/민형배",
+   "https://ko.wikipedia.org/wiki/후르츠_산도"
+  ]
  }
 ]
