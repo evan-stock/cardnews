@@ -2,7 +2,7 @@
  "id": "20261105-koreawar",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-05T18:07:31.814551+09:00",
  "publish_at": "2026-11-05T18:14:06+09:00",
  "topic": "공화당 중간선거 참패 후 일본 정부 '트럼프, 노벨상 노리고 한국전쟁 종결 나설 수도' 경계",
@@ -90,5 +90,8 @@
   "media/20261105-koreawar/06.jpg",
   "media/20261105-koreawar/07.jpg"
  ],
- "tg_msg": 1914
+ "tg_msg": 1914,
+ "ig_media_id": "18127888492682314",
+ "permalink": "https://www.instagram.com/p/DfWsAHfnKTi/",
+ "published_at": "2026-11-05T18:16:29.762624+09:00"
 }
