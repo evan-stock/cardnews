@@ -2,7 +2,7 @@
  "id": "20261105-dessert",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-05T09:23:38.709051+09:00",
  "publish_at": "2026-11-05T12:00:00+09:00",
  "topic": "6조 호남 반도체 예산 심의 지원위원회 산업 분야 민간위원 3명 중 반도체 전문가 0명(디저트카페 대표·정형외과 전문의 출신 총장·민주당 대선 조직 출신)",
@@ -67,5 +67,8 @@
   "media/20261105-dessert/06.jpg",
   "media/20261105-dessert/07.jpg"
  ],
- "tg_msg": 1880
+ "tg_msg": 1880,
+ "ig_media_id": "18082574972441821",
+ "permalink": "https://www.instagram.com/p/DfWBJwzjR9M/",
+ "published_at": "2026-11-05T12:02:04.629416+09:00"
 }
