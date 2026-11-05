@@ -1,0 +1,35 @@
+{
+ "id": "20261105-agarwood",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-05T16:19:04.519397+09:00",
+ "publish_at": "2026-11-05T16:19:04.519409+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 침향 — 살아 있는 나무에 일부러 상처·불을 내는 이유(잘난지 150만 소재 재활용)",
+ "sources": [],
+ "seconds": 23.6,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261105-agarwood/short_card.mp4"
+ ],
+ "yt": {
+  "title": "금보다 비싼 나무의 상처 #shorts",
+  "description": "멀쩡한 나무에 칼집을 내고 불까지 지지는 이유. 아퀼라리아 나무는 다치면 상처를 막으려고 검은 수지를 만들고, 그게 바로 귀한 향나무 '침향'이 됩니다. 자연에선 일부 나무에서만 생겨 농장에선 일부러 상처를 냅니다.\n\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: Wikipedia 'Agarwood', PMC9181942 침향 형성 리뷰(2022), Premiere Peau 'Agarwood'\n※ 1.4kg 조각 값(20만 링깃)은 영상 속 판매자 소개 값이며, 침향 값은 등급에 따라 크게 다릅니다.\n영상: Miki Lee(TikTok @lee_miki), TikTok @vanessa_cwy\n그래픽: 오늘의쓸모\n\n#침향 #아퀼라리아 #나무 #향 #신기한사실 #쇼츠 #shorts",
+  "tags": [
+   "침향",
+   "agarwood",
+   "아퀼라리아",
+   "나무",
+   "향",
+   "신기한사실",
+   "오늘의쓸모"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "tg_msg": 1901
+}
