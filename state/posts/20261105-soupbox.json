@@ -1,0 +1,56 @@
+{
+ "id": "20261105-soupbox",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-05T13:49:27.549409+09:00",
+ "publish_at": "2026-11-05T13:49:27.549430+09:00",
+ "publish_now": true,
+ "topic": "집사가 양파·마늘 들어간 수프를 끓이자 한 입도 못 얻어먹은 삼색(톨티) 고양이가 주방 조리대 위 빈 물비누 박스(집사 표현 '감정 지원 박스')에 들어가 집사를 째려보며 시위(TikTok @roseshorty1, 2026.1, 약 100만 회·21.5만 좋아요, Newsweek 2026.2.24 보도). 원본에 덧입힌 소리가 전 구간 일정하게 깔려 원본 소리 전부 끔. 원본 캡션(세로 58~80%)은 zoom 크롭으로 화면 밖으로 밀어냄(흐림 없음). 사실: 양파·마늘(파속 식물)은 고양이 적혈구를 손상시켜 빈혈을 일으킬 수 있음(ASPCA).",
+ "sources": [
+  {
+   "publisher": "TikTok @roseshorty1 (삼색 고양이)",
+   "url": "https://www.tiktok.com/@roseshorty1/video/7594591684424404254",
+   "date": "2026-01"
+  },
+  {
+   "publisher": "Newsweek - Woman Realizes Cat Is 'Mad Again' With Her—Internet Can't Cope With Reason",
+   "url": "https://www.newsweek.com/woman-realizes-cat-is-mad-again-with-her-internet-cant-cope-with-reason-11572897",
+   "date": "2026-02-24"
+  },
+  {
+   "publisher": "ASPCA - Toxic and Non-Toxic Plants: Onion / Garlic",
+   "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion",
+   "date": ""
+  }
+ ],
+ "seconds": 21.61,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261105-soupbox/short.mp4"
+ ],
+ "app_file": "media/20261105-soupbox/short_nobgm.mp4",
+ "yt": {
+  "title": "수프 한 입 못 얻어먹고 제대로 삐진 고양이ㅋㅋ #shorts",
+  "description": "집사가 수프를 끓이자 한 입도 못 얻어먹은 고양이ㅋㅋ 조리대 위 '감정 지원 박스'에 들어가서 끝까지 집사를 째려봤습니다.\n\n사실 수프엔 양파와 마늘이 들어 있었대요. 양파·마늘 같은 파속 식물은 고양이 적혈구를 손상시켜 빈혈을 일으킬 수 있어 주면 안 됩니다(ASPCA).\n\n여러분 고양이도 이렇게 삐지나요?\n\n영상: TikTok @roseshorty1\n참고: Newsweek, ASPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @roseshorty1\n음성: Typecast\n\n#shorts #고양이 #삐진고양이 #냥이 #삼색이\n\n출처: TikTok @roseshorty1 (삼색 고양이) 2026-01, Newsweek - Woman Realizes Cat Is 'Mad Again' With Her—Internet Can't Cope With Reason 2026-02-24, ASPCA - Toxic and Non-Toxic Plants: Onion / Garlic\n사진·영상: TikTok @roseshorty1\n음성: Typecast\n\n#shorts #고양이 #삐진고양이 #냥이 #삼색이",
+  "tags": [
+   "고양이",
+   "삐진고양이",
+   "냥이",
+   "삼색이",
+   "고양이쇼츠",
+   "집사",
+   "cat",
+   "funny cat",
+   "털뭉치"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "65ed6f5f11c7",
+ "tg_msg": 1896
+}
