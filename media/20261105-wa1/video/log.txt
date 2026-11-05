@@ -1,0 +1,32 @@
+ERROR: [TikTok] 7213738728525761797: Your IP address is blocked from accessing this post
+실패: https://www.tiktok.com/@africanstream/video/7213738728525761797
+total 44520
+drwxr-xr-x 2 runner runner     4096 Nov  5 00:32 .
+drwxr-xr-x 3 runner runner     4096 Nov  5 00:31 ..
+-rw-r--r-- 1 runner runner      161 Nov  5 00:31 log.txt
+-rw-r--r-- 1 runner runner   372005 Nov  5 00:32 page14.html
+-rw-r--r-- 1 runner runner   379192 Nov  5 00:32 page15.html
+-rw-r--r-- 1 runner runner    21485 Nov  5 00:31 v1.info.json
+-rw-r--r-- 1 runner runner  2750515 Nov  5 00:31 v1.mp4
+-rw-r--r-- 1 runner runner    23475 Nov  5 00:31 v11.info.json
+-rw-r--r-- 1 runner runner  3743065 Nov  5 00:31 v11.mp4
+-rw-r--r-- 1 runner runner    13176 Nov  5 00:32 v12.info.json
+-rw-r--r-- 1 runner runner 11985735 Nov  5 00:32 v12.mp4
+-rw-r--r-- 1 runner runner    23315 Nov  5 00:32 v13.info.json
+-rw-r--r-- 1 runner runner  5553877 Nov  5 00:32 v13.mp4
+-rw-r--r-- 1 runner runner    19743 Nov  5 00:31 v2.info.json
+-rw-r--r-- 1 runner runner   872282 Nov  5 00:31 v2.mp4
+-rw-r--r-- 1 runner runner    19356 Nov  5 00:31 v3.info.json
+-rw-r--r-- 1 runner runner   914420 Nov  5 00:31 v3.mp4
+-rw-r--r-- 1 runner runner    22773 Nov  5 00:31 v4.info.json
+-rw-r--r-- 1 runner runner  2464547 Nov  5 00:31 v4.mp4
+-rw-r--r-- 1 runner runner    22717 Nov  5 00:31 v5.info.json
+-rw-r--r-- 1 runner runner  3987104 Nov  5 00:31 v5.mp4
+-rw-r--r-- 1 runner runner    29180 Nov  5 00:31 v6.info.json
+-rw-r--r-- 1 runner runner  4953122 Nov  5 00:31 v6.mp4
+-rw-r--r-- 1 runner runner    29178 Nov  5 00:31 v7.info.json
+-rw-r--r-- 1 runner runner  1052735 Nov  5 00:31 v7.mp4
+-rw-r--r-- 1 runner runner    19633 Nov  5 00:31 v8.info.json
+-rw-r--r-- 1 runner runner  3322509 Nov  5 00:31 v8.mp4
+-rw-r--r-- 1 runner runner    25740 Nov  5 00:31 v9.info.json
+-rw-r--r-- 1 runner runner  2903904 Nov  5 00:31 v9.mp4
