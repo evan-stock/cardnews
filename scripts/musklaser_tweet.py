@@ -33,11 +33,13 @@ def main(bg_path, tweet_path, reply_path, out):
     bg = ImageOps.fit(Image.open(bg_path).convert("RGB"), (W, H))
     bg = Image.blend(bg.filter(ImageFilter.GaussianBlur(28)), Image.new("RGB", (W, H), (0, 0, 0)), 0.8)
     d = ImageDraw.Draw(bg)
-    d.text((90, 92), "머스크 X 게시물 (실제 캡처)", font=font(SEMI, 34), fill=YEL)
+    f_t = font(BLACK, 58)
+    segs_draw(d, 90, 120, [("\"이번엔 내 ", "white"), ("'선거 개입용", YEL)], f_t)
+    segs_draw(d, 90, 196, [("우주 레이저'", YEL), ("가 안 먹혔나 보네\"", "white")], f_t)
 
     tw = framed(Image.open(tweet_path), 900)
-    bg.paste(tw, (90, 150), tw)
-    y = 150 + tw.height + 30
+    bg.paste(tw, (90, 310), tw)
+    y = 310 + tw.height + 34
 
     d.text((90, y), "9시간 뒤 본인 댓글로 올린 사진", font=font(MED, 30), fill=(160, 166, 172))
     y += 52
@@ -50,16 +52,6 @@ def main(bg_path, tweet_path, reply_path, out):
     d.text((90 + 440 + 30, y + 208), "발생했습니다\"", font=font(SEMI, 30), fill="white")
     y += rp.height + 40
 
-    f_ko = font(BLACK, 46)
-    segs_draw(d, 90, y, [("이번엔 내 ", "white"), ("'선거 개입용 우주 레이저'", YEL), ("가", "white")], f_ko)
-    segs_draw(d, 90, y + 60, [("안 먹혔나 보네", "white")], f_ko)
-    y += 60 + 74
-
-    f_b = font(MED, 30)
-    for ln in ["우주 레이저는 그가 위성으로 2024년 대선을 조작했다는",
-               "의혹(당국은 근거 없다고 부인)을 비꼰 말입니다."]:
-        d.text((90, y), ln, font=f_b, fill=(225, 225, 225))
-        y += 44
     print("본문 끝 y =", y)
 
     f_btn = font(SEMI, 32)
