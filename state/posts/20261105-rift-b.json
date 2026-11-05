@@ -1,7 +1,7 @@
 {
  "id": "20261105-rift-b",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-05T12:01:52.950227+09:00",
  "publish_at": "2026-11-05T12:01:52.950240+09:00",
  "publish_now": true,
@@ -32,5 +32,6 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1887
+ "tg_msg": 1887,
+ "note": "사용자 직접 업로드(음악 입혀서) — 중복 방지"
 }
