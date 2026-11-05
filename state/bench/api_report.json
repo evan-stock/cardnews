@@ -1,40 +1,2928 @@
 {
- "since": "2025-09-01",
+ "since": "2024-08-01",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
+   "title": "Blacky & Friends 🧡 ",
+   "id": "UCmjOq3FGlCTEbpmHgUcXVmQ",
+   "created": "2025-12-21",
+   "subs": "7370",
+   "videos": "161"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
-   "subs": "0",
-   "videos": "4"
+   "title": "Cub & Pup",
+   "id": "UCDnO9bRpDpArVnCJpgdAwhQ",
+   "created": "2026-07-11",
+   "subs": "425",
+   "videos": "35"
+  },
+  {
+   "title": "Woof World",
+   "id": "UC-U6hnCuuhVGHdkCJ--NfgA",
+   "created": "2024-06-16",
+   "subs": "1620000",
+   "videos": "1204"
+  },
+  {
+   "title": "The Pet Collective",
+   "id": "UCPIvT-zcQl2H0vabdXJGcpg",
+   "created": "2012-01-05",
+   "subs": "9580000",
+   "videos": "10859"
+  },
+  {
+   "title": "LADbible Ireland",
+   "id": "UClSowyKlkeVytg18eFy5ing",
+   "created": "2025-01-02",
+   "subs": "422000",
+   "videos": "4163"
+  },
+  {
+   "title": "Golden and Cat Story",
+   "id": "UCDjuMAQuJCPdO2Q30V3y9cw",
+   "created": "2026-09-27",
+   "subs": "1300",
+   "videos": "30"
+  },
+  {
+   "title": "The Dodo",
+   "id": "UCINb0wqPz-A0dV9nARjJlOQ",
+   "created": "2014-03-21",
+   "subs": "18800000",
+   "videos": "15133"
+  },
+  {
+   "title": "Tucker Budzyn",
+   "id": "UCNSzfesc7IgWZwg4n6uXr1A",
+   "created": "2018-07-14",
+   "subs": "5970000",
+   "videos": "353"
+  },
+  {
+   "title": "Johnny Ringer",
+   "id": "UCFwdCbFxYsAhT86p4kRDK1w",
+   "created": "2016-06-28",
+   "subs": "100",
+   "videos": "747"
+  },
+  {
+   "title": "Dusty Douglas",
+   "id": "UCMSIDB9jvhqBKby2qk6E4VA",
+   "created": "2014-08-28",
+   "subs": "5250000",
+   "videos": "891"
+  },
+  {
+   "title": "InfamousHistory",
+   "id": "UCjAYoDxzb9Ck-S47EoMnezw",
+   "created": "2026-02-23",
+   "subs": "55600",
+   "videos": "715"
+  },
+  {
+   "title": "CutiePaws",
+   "id": "UCy0Q0eVNUIREF5TzfgvZJIQ",
+   "created": "2026-01-22",
+   "subs": "1990",
+   "videos": "22"
+  },
+  {
+   "title": "Miracle Lights 10M",
+   "id": "UC69BSX44OBQwCJYLd36Bfug",
+   "created": "2025-03-18",
+   "subs": "31300",
+   "videos": "1015"
+  },
+  {
+   "title": "ZYMEN ",
+   "id": "UCsMj39TBpsIQS0aaOdXsxWg",
+   "created": "2026-05-17",
+   "subs": "24300",
+   "videos": "922"
+  },
+  {
+   "title": "Global pets clinic 🐶",
+   "id": "UClSL-mFmSepM2h5LDoFNzFA",
+   "created": "2018-08-05",
+   "subs": "219000",
+   "videos": "3076"
+  },
+  {
+   "title": "Cesar Millan",
+   "id": "UCDyz_T0uPt66D_b4kukhdDA",
+   "created": "2006-05-23",
+   "subs": "3640000",
+   "videos": "2105"
+  },
+  {
+   "title": "LADbible Shorts",
+   "id": "UCflpy-GNxlahbdRdN5CRUsA",
+   "created": "2015-12-22",
+   "subs": "4300000",
+   "videos": "9516"
+  },
+  {
+   "title": "Poke My Heart",
+   "id": "UCq-vSTqa-OPeMzx5fjH9w_w",
+   "created": "2011-09-01",
+   "subs": "3050000",
+   "videos": "6317"
+  },
+  {
+   "title": "CARLOSVLOGZZZ",
+   "id": "UC7tpJorH-UUULC4AyfUVajA",
+   "created": "2016-03-09",
+   "subs": "4200",
+   "videos": "126"
+  },
+  {
+   "title": "Lucie Woos",
+   "id": "UC_HeJKFCGdIbrVbmnKothYw",
+   "created": "2017-01-30",
+   "subs": "6530",
+   "videos": "30"
+  },
+  {
+   "title": "아기사슴소보로",
+   "id": "UCgA0YCAE4CZkt09qQlqC0lQ",
+   "created": "2024-03-27",
+   "subs": "91200",
+   "videos": "732"
+  },
+  {
+   "title": "Pets and Animals Antics Hub",
+   "id": "UC_eGgtsfE4S53umgnkyXd2A",
+   "created": "2024-11-05",
+   "subs": "707000",
+   "videos": "3261"
+  },
+  {
+   "title": "Pets Peace",
+   "id": "UCfe8fBbq4aHbQIpWivly9Zw",
+   "created": "2025-02-20",
+   "subs": "22200",
+   "videos": "4338"
+  },
+  {
+   "title": "Terraon",
+   "id": "UClKV3Bi6NSZJV3nTQU49sog",
+   "created": "2025-09-27",
+   "subs": "195000",
+   "videos": "913"
+  },
+  {
+   "title": "Fushaer0313",
+   "id": "UC9b45Uk4s7cHg1OBf_97-Cg",
+   "created": "2026-06-01",
+   "subs": "68400",
+   "videos": "114"
+  },
+  {
+   "title": "Cute Cats and puppies",
+   "id": "UCkHlRI5qhChmkW7HYEOaFgw",
+   "created": "2023-07-27",
+   "subs": "119000",
+   "videos": "1101"
+  },
+  {
+   "title": "Lovinseconds5",
+   "id": "UC-X-0sWSaDFfToT1QA8g62A",
+   "created": "2023-07-13",
+   "subs": "107000",
+   "videos": "567"
+  },
+  {
+   "title": "Furry Healing House",
+   "id": "UCbl7YU1YAGDTuKV1vdi-Oyw",
+   "created": "2022-10-26",
+   "subs": "26600",
+   "videos": "346"
+  },
+  {
+   "title": "Life With A Landcloud",
+   "id": "UCPHEZwHCdwWohY7axruy4gA",
+   "created": "2019-02-16",
+   "subs": "1460000",
+   "videos": "1362"
+  },
+  {
+   "title": "Jaw-Dropping Facts",
+   "id": "UCfHTrA_ceeXZePMJRtuCuNQ",
+   "created": "2017-12-28",
+   "subs": "1270000",
+   "videos": "292"
+  },
+  {
+   "title": "Wildscape",
+   "id": "UCcOHAwseFpzjeI7ZSGEY0PA",
+   "created": "2025-03-01",
+   "subs": "1540",
+   "videos": "89"
+  },
+  {
+   "title": "Matty, Kaido, Gojo",
+   "id": "UCUwOpVAJ-pCnP0MUOjCl0pg",
+   "created": "2023-05-10",
+   "subs": "444000",
+   "videos": "803"
+  },
+  {
+   "title": "HeroDog Rescue",
+   "id": "UC0AGZ1cJed9GcSC2kBVw8AQ",
+   "created": "2025-07-18",
+   "subs": "192000",
+   "videos": "370"
+  },
+  {
+   "title": "GlobeGlobe",
+   "id": "UCK3gVWXdp1JAn5KlsNs8MoA",
+   "created": "2026-01-05",
+   "subs": "94800",
+   "videos": "205"
+  },
+  {
+   "title": "The Pet Translator",
+   "id": "UCuZSB3dUJNcvd7ELitwPNhQ",
+   "created": "2024-10-07",
+   "subs": "1740",
+   "videos": "128"
+  },
+  {
+   "title": "Heart Stories",
+   "id": "UCrJx81b83eeOKjA_VClrPxw",
+   "created": "2025-08-25",
+   "subs": "172000",
+   "videos": "35"
+  },
+  {
+   "title": "Supertails",
+   "id": "UC8NkWr7_hP39Qk61gF6PVUQ",
+   "created": "2021-07-19",
+   "subs": "9910",
+   "videos": "436"
+  },
+  {
+   "title": "Meow or Never-77",
+   "id": "UCO5pi6c97krK2zU8oBgJ9Fg",
+   "created": "2025-03-01",
+   "subs": "421",
+   "videos": "147"
+  },
+  {
+   "title": "benobil",
+   "id": "UCKs5wqocO1IL2Ph579oNDpQ",
+   "created": "2023-06-21",
+   "subs": "4",
+   "videos": "21"
+  },
+  {
+   "title": "BG",
+   "id": "UCkS8oMiBmGQgSF2c1Jx-YJw",
+   "created": "2025-01-14",
+   "subs": "161000",
+   "videos": "336"
+  },
+  {
+   "title": "Levi, Smuckers & The Twins",
+   "id": "UCDH3P8BMqcBQTxl2YIUgthg",
+   "created": "2023-12-03",
+   "subs": "383000",
+   "videos": "725"
+  },
+  {
+   "title": "Thepainfreepettrainer",
+   "id": "UCeqOC1qMqGSQrUr4irNUg5Q",
+   "created": "2018-11-09",
+   "subs": "277000",
+   "videos": "201"
+  },
+  {
+   "title": "Golden Retriever Daily",
+   "id": "UCzNnUNpJ7I_Zqg_HIxwXd8Q",
+   "created": "2026-06-27",
+   "subs": "11500",
+   "videos": "105"
+  },
+  {
+   "title": "SaltAndSavage",
+   "id": "UCeRalsDVL10ww4albk-csRA",
+   "created": "2026-01-11",
+   "subs": "2320",
+   "videos": "141"
+  },
+  {
+   "title": "Brady & Graffiti the Corgis",
+   "id": "UCN7v1dqJvmYQZ2HBsXvF48w",
+   "created": "2022-03-17",
+   "subs": "368000",
+   "videos": "1305"
+  },
+  {
+   "title": "WeRateDogs",
+   "id": "UC5JWr3uyRSVcoUSk41-qkSw",
+   "created": "2016-12-30",
+   "subs": "1190000",
+   "videos": "773"
+  },
+  {
+   "title": "BellTower",
+   "id": "UCbZPpMyDGPcGDDwOmvQPMUQ",
+   "created": "2021-10-02",
+   "subs": "48400",
+   "videos": "88"
+  },
+  {
+   "title": "MATILHA",
+   "id": "UCuR43cbaEtsskSpkRvCEv3g",
+   "created": "2017-04-10",
+   "subs": "66500",
+   "videos": "411"
+  },
+  {
+   "title": "Wally Dog",
+   "id": "UCk9xnajMVvvf_0WE4XLVGaQ",
+   "created": "2024-03-06",
+   "subs": "158000",
+   "videos": "421"
+  },
+  {
+   "title": "Damon The Himalayan Husky",
+   "id": "UCXiJ9ptXRGhREJ1y1e0VhCg",
+   "created": "2021-08-03",
+   "subs": "8170",
+   "videos": "911"
+  },
+  {
+   "title": "MajestySoul_Gypsy_CocoaBruva",
+   "id": "UCTgPwy0C8P10eqZRyfU40HA",
+   "created": "2021-03-06",
+   "subs": "7090",
+   "videos": "794"
+  },
+  {
+   "title": "Bogibear TV ",
+   "id": "UClNQVniysZ2HOeKyinlUAaw",
+   "created": "2022-10-18",
+   "subs": "240",
+   "videos": "125"
+  },
+  {
+   "title": "Iggmoe Actual",
+   "id": "UCNIEljE47RmvSauAfhrimfg",
+   "created": "2014-02-06",
+   "subs": "660",
+   "videos": "1671"
+  },
+  {
+   "title": "Rewindr",
+   "id": "UCQjCri2xZuszzF9f6UpA3rw",
+   "created": "2026-01-05",
+   "subs": "329",
+   "videos": "56"
+  },
+  {
+   "title": "Best Moments ",
+   "id": "UC7vavFh72rtuKx9LovoHheA",
+   "created": "2019-03-01",
+   "subs": "1260",
+   "videos": "934"
+  },
+  {
+   "title": "뭉땅",
+   "id": "UC6wtGnl18_9GCns9IjL-a7A",
+   "created": "2013-07-21",
+   "subs": "205000",
+   "videos": "3245"
+  },
+  {
+   "title": "APacksJourney",
+   "id": "UCge-PM6ninoN1fAU3EBAo5g",
+   "created": "2019-08-06",
+   "subs": "6830",
+   "videos": "447"
+  },
+  {
+   "title": "포항항항항항항항",
+   "id": "UCyGkaXicoYDMu84mjMW-TQg",
+   "created": "2026-03-22",
+   "subs": "16300",
+   "videos": "468"
+  },
+  {
+   "title": "Pet Madness Universe",
+   "id": "UCwceter_EfBci5ExrMJplXg",
+   "created": "2026-02-12",
+   "subs": "901000",
+   "videos": "456"
+  },
+  {
+   "title": "아기와 강아지",
+   "id": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "created": "2024-07-22",
+   "subs": "12000",
+   "videos": "71"
+  },
+  {
+   "title": "Rural Life with my 3 Pretty Pets ",
+   "id": "UCRDXvJzmhL1GkEy8rNIx_PQ",
+   "created": "2024-12-19",
+   "subs": "129",
+   "videos": "34"
+  },
+  {
+   "title": "Thor the German Shepherd",
+   "id": "UCWZAxrbbqHVs0_sqfhepTPg",
+   "created": "2017-01-18",
+   "subs": "9670",
+   "videos": "474"
+  },
+  {
+   "title": "The Farmer's Dog",
+   "id": "UC3leux6UUKfAiNxlZeiMg7g",
+   "created": "2019-01-29",
+   "subs": "14200",
+   "videos": "106"
+  },
+  {
+   "title": " Furry  Bunch",
+   "id": "UCPSHs6L9yJ5aZY6oh6vilrA",
+   "created": "2020-06-03",
+   "subs": "676",
+   "videos": "196"
+  },
+  {
+   "title": "Alexandre Anton",
+   "id": "UCNHKIu9H3ItEzzhJU2-P5wA",
+   "created": "2013-04-10",
+   "subs": "9010",
+   "videos": "1357"
+  },
+  {
+   "title": "씩씩티비",
+   "id": "UCUoc5cUZofKEljAmYZL_0TQ",
+   "created": "2026-05-18",
+   "subs": "334",
+   "videos": "22"
+  },
+  {
+   "title": "1분월드 - 1min World",
+   "id": "UC4njkOdvyKofPrjBseHewpg",
+   "created": "2023-01-27",
+   "subs": "431000",
+   "videos": "3006"
+  },
+  {
+   "title": "XtreamSam",
+   "id": "UCEP0QJM59XDuxjerWlID37w",
+   "created": "2026-01-26",
+   "subs": "42",
+   "videos": "18"
+  },
+  {
+   "title": "Selected Films",
+   "id": "UCDy4G4ct5XrKPibfEtDwVGA",
+   "created": "2024-12-10",
+   "subs": "175000",
+   "videos": "246"
+  },
+  {
+   "title": "Wackyworldmoment",
+   "id": "UCcusVvbc4UpNqTbN7T3mYmA",
+   "created": "2026-03-29",
+   "subs": "24100",
+   "videos": "81"
+  },
+  {
+   "title": "Pawture Studio ",
+   "id": "UCLeg_974aUD85ft4QjTAq4A",
+   "created": "2025-10-12",
+   "subs": "1210",
+   "videos": "71"
+  },
+  {
+   "title": "PetsVideoBox",
+   "id": "UCbwRcUlic-PYSjFtAx5kT2Q",
+   "created": "2026-09-21",
+   "subs": "1",
+   "videos": "8"
+  },
+  {
+   "title": "Paws & Whiskers",
+   "id": "UCnXfaeq4SOaytB8vCJGDPOw",
+   "created": "2026-01-11",
+   "subs": "38",
+   "videos": "5"
+  },
+  {
+   "title": "Hayes",
+   "id": "UCcfCCC9ThR5msfwm4aw4Jlw",
+   "created": "2020-08-20",
+   "subs": "18400",
+   "videos": "848"
+  },
+  {
+   "title": "@wendy.robbis",
+   "id": "UC-hpAMnYK-PfeePuNxzFMxQ",
+   "created": "2026-02-12",
+   "subs": "6800",
+   "videos": "110"
+  },
+  {
+   "title": "Nature Nuggets Hub",
+   "id": "UC8UXQ60DOCRRaDAbMV3HtIg",
+   "created": "2024-01-20",
+   "subs": "405",
+   "videos": "601"
+  },
+  {
+   "title": "동글펫",
+   "id": "UCwTCXUvPnHlhIxtyNZVn3zw",
+   "created": "2025-01-30",
+   "subs": "30800",
+   "videos": "262"
+  },
+  {
+   "title": "GalinaAI",
+   "id": "UC-xZG9XAj3KFv4NVzevqpMQ",
+   "created": "2025-03-05",
+   "subs": "913",
+   "videos": "120"
+  },
+  {
+   "title": "Pawly",
+   "id": "UCnqeZFmLUzuyCyjtFNvDC0A",
+   "created": "2026-02-12",
+   "subs": "437",
+   "videos": "68"
+  },
+  {
+   "title": "SirButtons",
+   "id": "UCMim8nb-aGagHRgcPNicenA",
+   "created": "2026-09-03",
+   "subs": "44",
+   "videos": "53"
+  },
+  {
+   "title": "JoyNest",
+   "id": "UC4_nz6DJG4GylURsHDbSrIA",
+   "created": "2026-02-26",
+   "subs": "4330",
+   "videos": "108"
+  },
+  {
+   "title": " RanjiS PETS",
+   "id": "UClTcGv7lmrPDx-Xt1vlftAg",
+   "created": "2021-11-02",
+   "subs": "16100",
+   "videos": "1923"
+  },
+  {
+   "title": "천사골든과 아기",
+   "id": "UCsfzFRPycUGAqqnuFYB2Abg",
+   "created": "2025-12-09",
+   "subs": "5280",
+   "videos": "567"
+  },
+  {
+   "title": "Raktindra",
+   "id": "UCnsTXSVvr5ecKuFboMKJ2cQ",
+   "created": "2022-01-16",
+   "subs": "24900",
+   "videos": "621"
+  },
+  {
+   "title": "Andrea Huber",
+   "id": "UCSCEqPpuxhUvR6c0HHvGesA",
+   "created": "2026-07-09",
+   "subs": "2",
+   "videos": "5"
+  },
+  {
+   "title": "유머사막여우",
+   "id": "UC0ejWhXfJGaceQrcqsE8AZQ",
+   "created": "2026-01-31",
+   "subs": "11000",
+   "videos": "308"
+  },
+  {
+   "title": "Husky Thursday",
+   "id": "UCLQcpVBo7HkwaJfUvC7c2eg",
+   "created": "2026-06-02",
+   "subs": "123",
+   "videos": "25"
+  },
+  {
+   "title": "AsterThePanda!",
+   "id": "UCylqkwGt80uNzAcMPbC7qxw",
+   "created": "2025-10-21",
+   "subs": "23",
+   "videos": "15"
+  },
+  {
+   "title": "RealitySpark",
+   "id": "UCNwIJTUj028dnriqD0r6JrA",
+   "created": "2025-04-14",
+   "subs": "1350",
+   "videos": "832"
+  },
+  {
+   "title": "The Husky Moon",
+   "id": "UCkmrxSw3irNY-YQaRqUyZXw",
+   "created": "2020-12-19",
+   "subs": "228000",
+   "videos": "1425"
+  },
+  {
+   "title": "Bulldog Reaction 🐾 Zephyrka girl 🐕",
+   "id": "UCgsYCEIoBAVel-xiun4RmPQ",
+   "created": "2011-03-06",
+   "subs": "841000",
+   "videos": "606"
+  },
+  {
+   "title": "Life With Furries",
+   "id": "UCSpq4LVlZoWarpXkay00SvA",
+   "created": "2023-12-09",
+   "subs": "522",
+   "videos": "115"
+  },
+  {
+   "title": "Kucuk Esnaf",
+   "id": "UC6ymHZI4UX8Ei5sppLEV4gA",
+   "created": "2012-11-13",
+   "subs": "1640",
+   "videos": "62"
+  },
+  {
+   "title": "AnimalCare Channel",
+   "id": "UCh2xVS8t6SnqvBd6BEBaqyQ",
+   "created": "2025-06-08",
+   "subs": "2110",
+   "videos": "230"
+  },
+  {
+   "title": "Joe Camillo",
+   "id": "UC1YlJJgz5h6T6dR1A7io6Kw",
+   "created": "2011-10-14",
+   "subs": "697",
+   "videos": "229"
+  },
+  {
+   "title": "Maya Husky",
+   "id": "UComxirWZgXemamKVQfSdDLw",
+   "created": "2020-06-27",
+   "subs": "629000",
+   "videos": "309"
+  },
+  {
+   "title": "귯삐",
+   "id": "UCXwbEj1QZiUjtNcWzP-GI_A",
+   "created": "2025-04-14",
+   "subs": "17100",
+   "videos": "71"
+  },
+  {
+   "title": "VOLF THE SIBERIAN HUSKY",
+   "id": "UCuMfGTD_V5QeddAz1l8L-mQ",
+   "created": "2023-06-22",
+   "subs": "108000",
+   "videos": "1415"
+  },
+  {
+   "title": "무비뒷담화",
+   "id": "UC8Mv14vXID4at0Ngr38Vj2w",
+   "created": "2026-09-16",
+   "subs": "53",
+   "videos": "43"
+  },
+  {
+   "title": "개랑해TV-조재호강아지훈련사",
+   "id": "UC1ibLq0agGwR9EJRFKTxZKg",
+   "created": "2014-01-19",
+   "subs": "49700",
+   "videos": "1601"
+  },
+  {
+   "title": "Paws and Hearts",
+   "id": "UCBYDFbyas0KtmK-ie1LSOMg",
+   "created": "2025-12-30",
+   "subs": "386",
+   "videos": "47"
+  },
+  {
+   "title": "게임&뮤직&재미",
+   "id": "UChoZr4-UJ-vxQZQJr1n8n2Q",
+   "created": "2023-11-21",
+   "subs": "749",
+   "videos": "389"
+  },
+  {
+   "title": "AI Paradox",
+   "id": "UCLaih05G75CyByab6Ig2Ofg",
+   "created": "2025-10-15",
+   "subs": "8100",
+   "videos": "614"
+  },
+  {
+   "title": "Bob Bounce",
+   "id": "UCfs3TDHEmohCSy9YFbRQdbw",
+   "created": "2021-09-29",
+   "subs": "4130",
+   "videos": "149"
+  },
+  {
+   "title": "Bio_trend",
+   "id": "UCYsL-rAH5dZjwNUAvWI-Svw",
+   "created": "2011-10-29",
+   "subs": "720",
+   "videos": "2178"
+  },
+  {
+   "title": "잠시만여우",
+   "id": "UCpe7WEKfN1s2l-6ExljNT2w",
+   "created": "2024-05-12",
+   "subs": "91700",
+   "videos": "317"
+  },
+  {
+   "title": "토닥스토리룸",
+   "id": "UC5BjKyiNAHPFn2gwMsFpXrg",
+   "created": "2025-11-16",
+   "subs": "79",
+   "videos": "31"
+  },
+  {
+   "title": "헤니알",
+   "id": "UCDMBCMQsPN4RwVIOZxSC_rg",
+   "created": "2023-09-24",
+   "subs": "96100",
+   "videos": "711"
+  },
+  {
+   "title": "짜릿한 리키",
+   "id": "UC_iWrFjbaXFZF47L3-twXMw",
+   "created": "2020-08-08",
+   "subs": "556",
+   "videos": "66"
+  },
+  {
+   "title": "Babies And Animals",
+   "id": "UCPtEXt7h6gWbuLWGml-xhow",
+   "created": "2025-11-04",
+   "subs": "3110",
+   "videos": "366"
+  },
+  {
+   "title": "눈물과꼬리(TEARS & TAILS)",
+   "id": "UC2NpJrbqBlzlbbNUWqGlX3g",
+   "created": "2025-12-09",
+   "subs": "467",
+   "videos": "151"
+  },
+  {
+   "title": "Moonnya",
+   "id": "UCYsKYebV9I-czVVPm7mdYUA",
+   "created": "2024-05-25",
+   "subs": "125000",
+   "videos": "327"
+  },
+  {
+   "title": "숏여우",
+   "id": "UChBRTHSyiah6poSscWqptBg",
+   "created": "2013-09-01",
+   "subs": "153000",
+   "videos": "357"
+  },
+  {
+   "title": "빵술빵술 술빵이",
+   "id": "UCwa6MY9snR_yreaqFRtDgJQ",
+   "created": "2025-04-10",
+   "subs": "764",
+   "videos": "81"
+  },
+  {
+   "title": "개모래",
+   "id": "UC6RlHHDAw8tGhUJiHY7B5RQ",
+   "created": "2021-08-27",
+   "subs": "841",
+   "videos": "70"
+  },
+  {
+   "title": "귀여운고",
+   "id": "UCO2_sDY7SKMa_lcQ3EJxT6w",
+   "created": "2026-07-31",
+   "subs": "50",
+   "videos": "22"
+  },
+  {
+   "title": "토끼부려",
+   "id": "UCVY6kLmJUy-H3sY5WEgzdbg",
+   "created": "2026-05-16",
+   "subs": "23",
+   "videos": "24"
+  },
+  {
+   "title": "뿌꾸러기",
+   "id": "UCisYfg4QlmFX_JmtW2wwT4Q",
+   "created": "2021-09-27",
+   "subs": "1440",
+   "videos": "214"
+  },
+  {
+   "title": "빅숑 비숑 율무",
+   "id": "UCtY64P7cXm8XRAojzvZ5-MA",
+   "created": "2013-02-02",
+   "subs": "28",
+   "videos": "18"
+  },
+  {
+   "title": "뮤트홈",
+   "id": "UCsfEbw8nNCpV68FBNgYMHCw",
+   "created": "2026-05-28",
+   "subs": "1320",
+   "videos": "119"
+  },
+  {
+   "title": "Baby_and_Buddy",
+   "id": "UCBKkL7LCiexybrkIbPwhIRw",
+   "created": "2025-10-15",
+   "subs": "750",
+   "videos": "119"
+  },
+  {
+   "title": "HarleyQuinnTheGolden",
+   "id": "UCQ9G0BYU0en3q7uS1dpLVDQ",
+   "created": "2016-01-04",
+   "subs": "345",
+   "videos": "73"
+  },
+  {
+   "title": "아댕이TV",
+   "id": "UCFDJiH1V1KY31j7Xqkb4JdQ",
+   "created": "2025-11-07",
+   "subs": "1060",
+   "videos": "37"
+  },
+  {
+   "title": "김덕구",
+   "id": "UCuJfkHw1FawNro5YkkuPnJw",
+   "created": "2024-03-09",
+   "subs": "16400",
+   "videos": "325"
+  },
+  {
+   "title": "몽냥",
+   "id": "UCWB7qL_0gn8fbZ0JleVPgNw",
+   "created": "2025-09-27",
+   "subs": "96500",
+   "videos": "272"
+  },
+  {
+   "title": "Love 동물의 짤",
+   "id": "UCiwOpeJkSnRLbBGuI0AcCiQ",
+   "created": "2024-04-15",
+   "subs": "101000",
+   "videos": "769"
+  },
+  {
+   "title": "개그만봐",
+   "id": "UCBBtdWfDRGYwA6fmcw3Gwbg",
+   "created": "2025-06-30",
+   "subs": "9820",
+   "videos": "171"
+  },
+  {
+   "title": "귯걸",
+   "id": "UCvynn5D7H5i6TuN5HSN1KfA",
+   "created": "2025-06-03",
+   "subs": "83800",
+   "videos": "465"
+  },
+  {
+   "title": "누리마미",
+   "id": "UCfQQem3HG90-o9--Pk0w4mQ",
+   "created": "2012-11-22",
+   "subs": "44",
+   "videos": "19"
+  },
+  {
+   "title": "말티즈 뚠뚠",
+   "id": "UCJxhIjgo6TtYcMAWIcUOaWQ",
+   "created": "2021-03-27",
+   "subs": "517",
+   "videos": "237"
+  },
+  {
+   "title": "고니Gonny",
+   "id": "UC4NLe7Fv9_pGMJDCbzoS2AA",
+   "created": "2025-06-26",
+   "subs": "34900",
+   "videos": "192"
+  },
+  {
+   "title": "멍마들",
+   "id": "UCOWlTxwMeFNobymU5rID-8A",
+   "created": "2018-07-24",
+   "subs": "122000",
+   "videos": "254"
+  },
+  {
+   "title": "Animal howling",
+   "id": "UCrI3iouSzapPkLr2hfg0NmQ",
+   "created": "2025-12-16",
+   "subs": "22",
+   "videos": "12"
+  },
+  {
+   "title": "그랬냐?",
+   "id": "UCg78b0eZfgD0-azeuTKd2EA",
+   "created": "2025-03-14",
+   "subs": "24",
+   "videos": "16"
+  },
+  {
+   "title": "두두의 견생일기",
+   "id": "UCgVr0INIjq1P1xE_E6-FHqw",
+   "created": "2023-07-03",
+   "subs": "561",
+   "videos": "61"
+  },
+  {
+   "title": "노트펫",
+   "id": "UC2JJ3pd8EbYOmOnI994zAwQ",
+   "created": "2015-06-15",
+   "subs": "154000",
+   "videos": "2411"
+  },
+  {
+   "title": "MS Tot Central",
+   "id": "UCeIWrTL38qpvj29nbqDcq9Q",
+   "created": "2026-06-08",
+   "subs": "763",
+   "videos": "98"
+  },
+  {
+   "title": "리트리버 김보리",
+   "id": "UCp206ZpF037Xubaozer1gWA",
+   "created": "2015-12-31",
+   "subs": "541",
+   "videos": "137"
+  },
+  {
+   "title": "Tony - The Dog",
+   "id": "UC95UR7MVF82uHcANto0IyEA",
+   "created": "2020-09-19",
+   "subs": "68600",
+   "videos": "25"
+  },
+  {
+   "title": "Mr. Cool",
+   "id": "UCOtrL-eNP0FfhBlIOh0FRvA",
+   "created": "2021-01-25",
+   "subs": "390000",
+   "videos": "285"
+  },
+  {
+   "title": "TNgoldendoodle",
+   "id": "UChZFtEK4fvUYTigFG12g0nA",
+   "created": "2009-04-14",
+   "subs": "380",
+   "videos": "81"
+  },
+  {
+   "title": "Alnimals",
+   "id": "UCTD6XaxIasnu-TSnOs4YKlA",
+   "created": "2025-09-24",
+   "subs": "39100",
+   "videos": "247"
+  },
+  {
+   "title": "LaughSnap",
+   "id": "UCulR6aFIKRvedpmFD8hvkcQ",
+   "created": "2026-01-31",
+   "subs": "681",
+   "videos": "76"
+  },
+  {
+   "title": "비숑 구름tv",
+   "id": "UCZ3ADsjOYH4yuqUMqaNbO1A",
+   "created": "2021-03-16",
+   "subs": "347",
+   "videos": "44"
+  },
+  {
+   "title": "lk y",
+   "id": "UC7Tx_xeUrAV4TGN27N_o-Gg",
+   "created": "2012-11-08",
+   "subs": "1000",
+   "videos": "796"
+  },
+  {
+   "title": "한입채리",
+   "id": "UCnQtQVY70_lOLCs_igm48lg",
+   "created": "2019-06-19",
+   "subs": "70",
+   "videos": "45"
+  },
+  {
+   "title": "HUflyyy",
+   "id": "UCHReQc8eJcg72IrGGo1tD6g",
+   "created": "2025-10-20",
+   "subs": "503",
+   "videos": "169"
+  },
+  {
+   "title": "Happyloop",
+   "id": "UC8xVl_gtn37vP5KwRlAk0ww",
+   "created": "2026-01-06",
+   "subs": "42",
+   "videos": "67"
+  },
+  {
+   "title": "오늘또숏",
+   "id": "UCww6seJG2kmdSJkVsGOq2Hw",
+   "created": "2024-09-14",
+   "subs": "1570",
+   "videos": "68"
+  },
+  {
+   "title": "FluffyMomentsClips",
+   "id": "UCjiPeTiaC5tvZuAKYsgK8xg",
+   "created": "2025-10-24",
+   "subs": "5530",
+   "videos": "129"
+  },
+  {
+   "title": "ZIPIR",
+   "id": "UC8vyRZ5wTAWNbo5ja19OZjA",
+   "created": "2025-11-18",
+   "subs": "145",
+   "videos": "24"
+  },
+  {
+   "title": "KittenVybz",
+   "id": "UCGoX-SuBXK3WVolKSL42XiA",
+   "created": "2025-10-10",
+   "subs": "681",
+   "videos": "78"
+  },
+  {
+   "title": "Kikiandarlie vlogs",
+   "id": "UCGuHhy4p0bsCA2gDNHYfSsg",
+   "created": "2019-11-01",
+   "subs": "336",
+   "videos": "136"
+  },
+  {
+   "title": "Golden Retrievers",
+   "id": "UClHK9Fd-UbsWvMbtkw79kpg",
+   "created": "2014-03-08",
+   "subs": "474",
+   "videos": "118"
+  },
+  {
+   "title": "CapyBops",
+   "id": "UCrdEm6lF9NjlfTw9ELehQRA",
+   "created": "2024-07-29",
+   "subs": "4760",
+   "videos": "532"
+  },
+  {
+   "title": "Always Golden pups",
+   "id": "UCMHjnreZhZxM-LwoABsBsIw",
+   "created": "2020-10-14",
+   "subs": "23",
+   "videos": "30"
+  },
+  {
+   "title": "Royalpaws",
+   "id": "UCBjJ0GfHbWrvzZzjtKq5rAQ",
+   "created": "2025-11-04",
+   "subs": "571",
+   "videos": "282"
+  },
+  {
+   "title": "CalicoCastle",
+   "id": "UCNMMBzlWFA3CHqbWiG__zNg",
+   "created": "2022-04-10",
+   "subs": "3910",
+   "videos": "895"
+  },
+  {
+   "title": "Yousaf facts",
+   "id": "UC8RJij0TerFjnsWZ_MPA1sw",
+   "created": "2023-03-21",
+   "subs": "525",
+   "videos": "172"
+  },
+  {
+   "title": "Zimbolo",
+   "id": "UCjE_lskfLiwLQoaDVaqBbjA",
+   "created": "2026-10-04",
+   "subs": "7",
+   "videos": "11"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "golden retriever puppies howl",
+   "vid": "H3YX5XXWL4w",
+   "ch": "Tucker Budzyn",
+   "cid": "UCNSzfesc7IgWZwg4n6uXr1A",
+   "date": "2024-12-15",
+   "title": "This is why you lock the doors...and change the sheets 🐺💩",
+   "views": 92276042
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "q": "golden retriever puppies howl",
+   "vid": "63HhUCwTrZQ",
+   "ch": "WeRateDogs",
+   "cid": "UC5JWr3uyRSVcoUSk41-qkSw",
+   "date": "2025-02-19",
+   "title": "Top 10 Talking Dogs of All Time",
+   "views": 9768907
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "bNT6ZvrlfD0",
+   "ch": "SaltAndSavage",
+   "cid": "UCeRalsDVL10ww4albk-csRA",
+   "date": "2026-01-15",
+   "title": "He dropped his favorite stick for this... 🥺❤️",
+   "views": 14098607
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "u1W3Npzk5pc",
+   "ch": "LADbible Shorts",
+   "cid": "UCflpy-GNxlahbdRdN5CRUsA",
+   "date": "2025-08-19",
+   "title": "Teaching my puppy to howl 🤣 (🎥: Collab)",
+   "views": 11676446
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "q8Jzru8bcwQ",
+   "ch": "Lucie Woos",
+   "cid": "UC_HeJKFCGdIbrVbmnKothYw",
+   "date": "2026-07-05",
+   "title": "We can understand why mama cow was so confused by Lucie! #do",
+   "views": 7253274
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "0OLB8ZR0ekY",
+   "ch": "Cub & Pup",
+   "cid": "UCDnO9bRpDpArVnCJpgdAwhQ",
+   "date": "2026-07-20",
+   "title": "Golden Puppy and Baby Howling Together 🥺🐺 #viral #shorts #tr",
+   "views": 205746
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "1iFhrEErL68",
+   "ch": "Heart Stories",
+   "cid": "UCrJx81b83eeOKjA_VClrPxw",
+   "date": "2025-12-24",
+   "title": "He Hurt an Old Woman—The Retriever Did Not Forgive",
+   "views": 9059632
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "XlJ7jCzhCRA",
+   "ch": "Damon The Himalayan Husky",
+   "cid": "UCXiJ9ptXRGhREJ1y1e0VhCg",
+   "date": "2026-04-30",
+   "title": "Golden Vs Husky Howling #huskyhowling #huskyshorts #goldenre",
+   "views": 5472578
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "znwARmiSHWw",
+   "ch": "Levi, Smuckers & The Twins",
+   "cid": "UCDH3P8BMqcBQTxl2YIUgthg",
+   "date": "2026-02-03",
+   "title": "yes my husky howls every time my babies cry. He’s just a lit",
+   "views": 4915167
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "yD5NXI5g93M",
+   "ch": "Wally Dog",
+   "cid": "UCk9xnajMVvvf_0WE4XLVGaQ",
+   "date": "2025-07-20",
+   "title": "A Day in the Life of my Overly Emotional Golden Retriever #s",
+   "views": 1884492
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "aFj0jQXxD-o",
+   "ch": "Dusty Douglas",
+   "cid": "UCMSIDB9jvhqBKby2qk6E4VA",
+   "date": "2025-10-08",
+   "title": "Whitney HOWLston 🎶",
+   "views": 2463841
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "EYOhceD9L2U",
+   "ch": "Jaw-Dropping Facts",
+   "cid": "UCfHTrA_ceeXZePMJRtuCuNQ",
+   "date": "2024-09-16",
+   "title": "Dog Howling Sounds to Make your Dog Howl (Guaranteed). Dogs ",
+   "views": 929158
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "R3PWZ0QobKU",
+   "ch": "MATILHA",
+   "cid": "UCuR43cbaEtsskSpkRvCEv3g",
+   "date": "2026-03-21",
+   "title": "Shimbalaiê… #goldenretriever #cachorros #comedia",
+   "views": 2010824
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "2VkScp4vHxc",
+   "ch": "Pets and Animals Antics Hub",
+   "cid": "UC_eGgtsfE4S53umgnkyXd2A",
+   "date": "2025-05-01",
+   "title": "cute golden retriever Dog barking #puppy #dog #dogvideos #pe",
+   "views": 1365890
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "DIQoDU5gt4Y",
+   "ch": "Furry Healing House",
+   "cid": "UCbl7YU1YAGDTuKV1vdi-Oyw",
+   "date": "2025-10-16",
+   "title": "Puppy Learns to HOWL from Baby! 🤣 Husky Puppy Copies Everyth",
+   "views": 1166496
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "eM1OWr-Cxig",
+   "ch": "Pets and Animals Antics Hub",
+   "cid": "UC_eGgtsfE4S53umgnkyXd2A",
+   "date": "2025-09-22",
+   "title": "two cute golden retriever puppies barking, sitting together ",
+   "views": 1094603
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "GoS0noFVHSQ",
+   "ch": "The Pet Translator",
+   "cid": "UCuZSB3dUJNcvd7ELitwPNhQ",
+   "date": "2025-10-07",
+   "title": "How to Say “I Love You” in Dog Language ❤️🐶| Pet Translator",
+   "views": 773324
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "ZD8upMIBpNI",
+   "ch": "Levi, Smuckers & The Twins",
+   "cid": "UCDH3P8BMqcBQTxl2YIUgthg",
+   "date": "2024-12-05",
+   "title": "how to teach your dog to howl. Don’t skip step 5. #husky #do",
+   "views": 156210
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "itoUbFTDxsg",
+   "ch": "The Pet Collective",
+   "cid": "UCPIvT-zcQl2H0vabdXJGcpg",
+   "date": "2025-09-16",
+   "title": "Golden Puppy Hears His Own Bark For The First Time!",
+   "views": 210422
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "nif5f7gTr38",
+   "ch": "Woof World",
+   "cid": "UC-U6hnCuuhVGHdkCJ--NfgA",
+   "date": "2026-04-26",
+   "title": "The tiniest but mightiest howl I’ve ever heard 🥹❤️",
+   "views": 413279
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "wk1JP3nkAXs",
+   "ch": "BellTower",
+   "cid": "UCbZPpMyDGPcGDDwOmvQPMUQ",
+   "date": "2026-08-23",
+   "title": "This Sound Makes Dogs HOWL?! 😳",
+   "views": 301558
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "-9B5bCfdQrI",
+   "ch": "Pets and Animals Antics Hub",
+   "cid": "UC_eGgtsfE4S53umgnkyXd2A",
+   "date": "2025-07-28",
+   "title": "cute golden retriever dogs playing and barking #dog #barking",
+   "views": 414445
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "Z9Son-YVa7A",
+   "ch": "Golden and Cat Story",
+   "cid": "UCDjuMAQuJCPdO2Q30V3y9cw",
+   "date": "2026-10-04",
+   "title": "A Tiny Dachshund Puppy Meets Two Golden Retriever Puppies fo",
+   "views": 126177
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "o6WqWaG_OUw",
+   "ch": "InfamousHistory",
+   "cid": "UCjAYoDxzb9Ck-S47EoMnezw",
+   "date": "2026-09-04",
+   "title": "PUPPY HEARS OWN BARK FOR FIRST TIME",
+   "views": 197167
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "hMHRwqwrKbk",
+   "ch": "Johnny Ringer",
+   "cid": "UCFwdCbFxYsAhT86p4kRDK1w",
+   "date": "2025-06-01",
+   "title": "Golden Retriever Puppie’s First Howl”",
+   "views": 52
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "UvZEhEprHFg",
+   "ch": "benobil",
+   "cid": "UCKs5wqocO1IL2Ph579oNDpQ",
+   "date": "2026-10-28",
+   "title": "Golden retriever howling ",
+   "views": 8
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "q8LMkWnrQu8",
+   "ch": "Brady & Graffiti the Corgis",
+   "cid": "UCN7v1dqJvmYQZ2HBsXvF48w",
+   "date": "2026-08-19",
+   "title": "Howls under Gesso the roof 😅",
+   "views": 135462
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "luv5zfwLyMg",
+   "ch": "HeroDog Rescue",
+   "cid": "UC0AGZ1cJed9GcSC2kBVw8AQ",
+   "date": "2025-11-04",
+   "title": "Cuteness Overload! Baby and 6 Golden Retriever Puppies Howl ",
+   "views": 119323
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "U_5UrF5KGZU",
+   "ch": "Terraon",
+   "cid": "UClKV3Bi6NSZJV3nTQU49sog",
+   "date": "2026-09-04",
+   "title": "Tiny golden retriever puppies learn to howl",
+   "views": 116960
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "cth00BkZkhw",
+   "ch": "Global pets clinic 🐶",
+   "cid": "UClSL-mFmSepM2h5LDoFNzFA",
+   "date": "2025-08-18",
+   "title": "Puppy howling @globalpetsclinic",
+   "views": 157884
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "mdiB-x8Ts9E",
+   "ch": "Supertails",
+   "cid": "UC8NkWr7_hP39Qk61gF6PVUQ",
+   "date": "2024-10-01",
+   "title": "Here&#39;s why dogs howl at night!  | Expert Advice by Super",
+   "views": 72905
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "f_gSejT1tGw",
+   "ch": "Cute Cats and puppies",
+   "cid": "UCkHlRI5qhChmkW7HYEOaFgw",
+   "date": "2025-06-11",
+   "title": "the husky tries to wake the golden retriever up with funny v",
+   "views": 93265
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "_rzg7jQRaGE",
+   "ch": "아기사슴소보로",
+   "cid": "UCgA0YCAE4CZkt09qQlqC0lQ",
+   "date": "2026-08-28",
+   "title": "리트리버 하울링 vs 삑삑 vs 사이렌 소리",
+   "views": 93447
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "p_s_6ynDqC0",
+   "ch": "Wildscape",
+   "cid": "UCcOHAwseFpzjeI7ZSGEY0PA",
+   "date": "2025-06-18",
+   "title": "Golden Retriever Barking in Bamboo Forest 🐶 | Loud Dog Sound",
+   "views": 97684
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "HhrPaUlQbEI",
+   "ch": "Life With A Landcloud",
+   "cid": "UCPHEZwHCdwWohY7axruy4gA",
+   "date": "2025-07-28",
+   "title": "He had only howled ONE time in his seven years of life befor",
+   "views": 66692
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "Gvh1HIUsxNc",
+   "ch": "Golden Retriever Daily",
+   "cid": "UCzNnUNpJ7I_Zqg_HIxwXd8Q",
+   "date": "2026-07-22",
+   "title": "Golden Retriever puppy litter jailbreak attempt 🐾 escape pla",
+   "views": 68165
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "tDsWXa4jpu0",
+   "ch": "The Pet Collective",
+   "cid": "UCPIvT-zcQl2H0vabdXJGcpg",
+   "date": "2024-11-28",
+   "title": "Puppy Howls For The First Time!",
+   "views": 30162
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "mRFy4YAS2Wo",
+   "ch": "Matty, Kaido, Gojo",
+   "cid": "UCUwOpVAJ-pCnP0MUOjCl0pg",
+   "date": "2026-02-23",
+   "title": "Howling NYC dogs clear the streets #dog #puppy #funny",
+   "views": 55039
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "OkpmWbl4XWQ",
+   "ch": "Poke My Heart",
+   "cid": "UCq-vSTqa-OPeMzx5fjH9w_w",
+   "date": "2024-12-22",
+   "title": "Cutest attempt at howling we&#39;ve ever seen! #puppy",
+   "views": 24865
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "7M4ho58ISKI",
+   "ch": "GlobeGlobe",
+   "cid": "UCK3gVWXdp1JAn5KlsNs8MoA",
+   "date": "2026-10-22",
+   "title": "Her last pack howl with us in the car before her appointment",
+   "views": 51267
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "_AZ7e3-NUak",
+   "ch": "Lucie Woos",
+   "cid": "UC_HeJKFCGdIbrVbmnKothYw",
+   "date": "2026-09-04",
+   "title": "woo woo! #goldenretriever #dogs #dogshorts #doglife #dogvide",
+   "views": 47686
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "SFq8-NqgsBY",
+   "ch": "ZYMEN ",
+   "cid": "UCsMj39TBpsIQS0aaOdXsxWg",
+   "date": "2026-09-04",
+   "title": "les goldens quoi #chien #triste",
+   "views": 38334
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "Iqbeir4kmXY",
+   "ch": "BG",
+   "cid": "UCkS8oMiBmGQgSF2c1Jx-YJw",
+   "date": "2025-04-30",
+   "title": "Dog Makes Hilarious Noises When Coming down the Stairs 😂",
+   "views": 33361
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "-U8H4tza1W4",
+   "ch": "Golden Retriever Daily",
+   "cid": "UCzNnUNpJ7I_Zqg_HIxwXd8Q",
+   "date": "2026-08-06",
+   "title": "Golden Retriever puppy wearing a little bumblebee bib 😭 tiny",
+   "views": 36686
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "yI02s1iWjUI",
+   "ch": "Fushaer0313",
+   "cid": "UC9b45Uk4s7cHg1OBf_97-Cg",
+   "date": "2026-09-01",
+   "title": "Dad hammers his golden retriever&#39;s paw and makes him how",
+   "views": 30558
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "H6ZBoF_7D3c",
+   "ch": "Pets Peace",
+   "cid": "UCfe8fBbq4aHbQIpWivly9Zw",
+   "date": "2025-08-05",
+   "title": "Drive by howl chicago goldenretriever @dhenry323 #doglover #",
+   "views": 35967
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "cmjfDKDDdrU",
+   "ch": "Meow or Never-77",
+   "cid": "UCO5pi6c97krK2zU8oBgJ9Fg",
+   "date": "2025-03-08",
+   "title": "Puppy’s First Howl Attempt! ?? #shorts #dog #cute #funny #fy",
+   "views": 15841
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "Pnj7gaXEEXI",
+   "ch": "CutiePaws",
+   "cid": "UCy0Q0eVNUIREF5TzfgvZJIQ",
+   "date": "2026-04-06",
+   "title": "Their howl was so good they were punished for it?! #shorts",
+   "views": 24612
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "ns3HjqqifeI",
+   "ch": "Blacky & Friends 🧡 ",
+   "cid": "UCmjOq3FGlCTEbpmHgUcXVmQ",
+   "date": "2026-02-18",
+   "title": "Golden Retriever Dad Teaches His Puppies to Howl",
+   "views": 37856
+  },
+  {
+   "q": "golden retriever puppies howl",
+   "vid": "FwwsmrDM5SQ",
+   "ch": "Miracle Lights 10M",
+   "cid": "UC69BSX44OBQwCJYLd36Bfug",
+   "date": "2025-05-05",
+   "title": "Golden&#39;s Howl Saves Frozen Newborn! 🐾❄️ Abandoned in Sno",
+   "views": 34158
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "u1W3Npzk5pc",
+   "ch": "LADbible Shorts",
+   "cid": "UCflpy-GNxlahbdRdN5CRUsA",
+   "date": "2025-08-19",
+   "title": "Teaching my puppy to howl 🤣 (🎥: Collab)",
+   "views": 11676446
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "gNUXzRPTBKY",
+   "ch": "The Dodo",
+   "cid": "UCINb0wqPz-A0dV9nARjJlOQ",
+   "date": "2025-06-15",
+   "title": "Wolfdog&#39;s Human Mom Teaches Him How To Howl | The Dodo",
+   "views": 1219490
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "HDnIajcHh_A",
+   "ch": "Cesar Millan",
+   "cid": "UCDyz_T0uPt66D_b4kukhdDA",
+   "date": "2024-08-02",
+   "title": "How do you stop your dog from barking? #dogtrainer #pets",
+   "views": 1436922
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "xMhNfRKV4qw",
+   "ch": "CARLOSVLOGZZZ",
+   "cid": "UC7tpJorH-UUULC4AyfUVajA",
+   "date": "2024-09-13",
+   "title": "Husky puppy howls for the first time",
+   "views": 1013502
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "ZD8upMIBpNI",
+   "ch": "Levi, Smuckers & The Twins",
+   "cid": "UCDH3P8BMqcBQTxl2YIUgthg",
+   "date": "2024-12-05",
+   "title": "how to teach your dog to howl. Don’t skip step 5. #husky #do",
+   "views": 156210
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "hIHr_9Iw3cQ",
+   "ch": "LADbible Ireland",
+   "cid": "UClSowyKlkeVytg18eFy5ing",
+   "date": "2026-08-01",
+   "title": "Husky Puppy Learns to Howl 🥹",
+   "views": 318533
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "3bTBEmmy6b8",
+   "ch": "Thepainfreepettrainer",
+   "cid": "UCeqOC1qMqGSQrUr4irNUg5Q",
+   "date": "2025-01-28",
+   "title": "How to Teach Your Dog to Stop Barking When You Go Out of Sig",
+   "views": 137469
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "uhHGDlmNI4w",
+   "ch": "Lovinseconds5",
+   "cid": "UC-X-0sWSaDFfToT1QA8g62A",
+   "date": "2025-05-30",
+   "title": "&quot;Husky Mom Teaches Puppy to Whistle 💤🎤🐶 #cutepuppy #sho",
+   "views": 258238
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "ZWVnUJtCitg",
+   "ch": "Thepainfreepettrainer",
+   "cid": "UCeqOC1qMqGSQrUr4irNUg5Q",
+   "date": "2025-02-14",
+   "title": "How to teach your dog to stop resource guarding #dogtrainer ",
+   "views": 103454
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "rwI6LJGtgSs",
+   "ch": "Pet Madness Universe",
+   "cid": "UCwceter_EfBci5ExrMJplXg",
+   "date": "2026-08-16",
+   "title": "teaching small puppies howl 😂 #dog #funny #pets #doggielife ",
+   "views": 141370
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "_Ubp9OTNPqs",
+   "ch": "Maya Husky",
+   "cid": "UComxirWZgXemamKVQfSdDLw",
+   "date": "2025-09-08",
+   "title": "Teaching the Puppy how to HOWL!😍 #shorts #puppy #husky",
+   "views": 86727
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "j8lhWbDa_Kk",
+   "ch": "The Farmer's Dog",
+   "cid": "UC3leux6UUKfAiNxlZeiMg7g",
+   "date": "2024-08-28",
+   "title": "Why Does My Dog Howl? | Dogs Decoded",
+   "views": 51595
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "zi6YpMOspuA",
+   "ch": "Furry Healing House",
+   "cid": "UCbl7YU1YAGDTuKV1vdi-Oyw",
+   "date": "2025-10-14",
+   "title": "TOO CUTE! Fluffy Samoyed Puppy Teaches Baby How to Howl #sho",
+   "views": 68745
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "J7PaiQOoq8w",
+   "ch": "VOLF THE SIBERIAN HUSKY",
+   "cid": "UCuMfGTD_V5QeddAz1l8L-mQ",
+   "date": "2025-04-07",
+   "title": "Husky teaches mom HOWLING😻🚨❤️ #husky #howlingdog #funnyhusky",
+   "views": 45272
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "QLb2kj2HABQ",
+   "ch": "JoyNest",
+   "cid": "UC4_nz6DJG4GylURsHDbSrIA",
+   "date": "2026-06-11",
+   "title": "Teaching a puppy how to howl#cute #puppy #howl #dogsoftiktok",
+   "views": 23150
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "8MwKXG9XIvE",
+   "ch": "Best Moments ",
+   "cid": "UC7vavFh72rtuKx9LovoHheA",
+   "date": "2026-01-19",
+   "title": "Baby Teaches Husky Puppies to Howl! Adorable Choir!",
+   "views": 32478
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "KphYS3pV93E",
+   "ch": "Selected Films",
+   "cid": "UCDy4G4ct5XrKPibfEtDwVGA",
+   "date": "2026-06-26",
+   "title": "Teaching a puppy to howl.#funny #youtube #dog",
+   "views": 18331
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "-sXzA51AYfc",
+   "ch": "Bulldog Reaction 🐾 Zephyrka girl 🐕",
+   "cid": "UCgsYCEIoBAVel-xiun4RmPQ",
+   "date": "2025-04-28",
+   "title": "How to teach a dog to howl in 5 seconds❓Watch &amp; smile 😃 ",
+   "views": 28355
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "YBo_WYqVs4A",
+   "ch": "Paws & Whiskers",
+   "cid": "UCnXfaeq4SOaytB8vCJGDPOw",
+   "date": "2026-01-12",
+   "title": "Baby teaches his dog how to howl! 😂💞  #shorts #dogs #puppy #",
+   "views": 23285
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "pKLSq7n_tc8",
+   "ch": "Furry Healing House",
+   "cid": "UCbl7YU1YAGDTuKV1vdi-Oyw",
+   "date": "2025-12-08",
+   "title": "Baby Teaches Husky Puppy How to HOWL! 🐺 Hilarious First Less",
+   "views": 18382
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "jdT0PVTkHQk",
+   "ch": "GalinaAI",
+   "cid": "UC-xZG9XAj3KFv4NVzevqpMQ",
+   "date": "2025-11-22",
+   "title": "A toddler teaches a husky puppy howl 🐾 #dogs #babyshorts #hu",
+   "views": 14291
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "v-0kS9WKcFM",
+   "ch": "@wendy.robbis",
+   "cid": "UC-hpAMnYK-PfeePuNxzFMxQ",
+   "date": "2026-05-24",
+   "title": "Teaching a puppy to howl#funnyvideos #funnydog #dogsoftiktok",
+   "views": 10611
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "Mgja2Aqmmjs",
+   "ch": "The Husky Moon",
+   "cid": "UCkmrxSw3irNY-YQaRqUyZXw",
+   "date": "2026-01-18",
+   "title": "I THOUGHT teaching the dogs to howl would be fun!! So loud!!",
+   "views": 7553
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "FEAkSst6Dlo",
+   "ch": "Wackyworldmoment",
+   "cid": "UCcusVvbc4UpNqTbN7T3mYmA",
+   "date": "2026-07-10",
+   "title": "How to Teach Your Dog to Howl #funny #funnyvideo #pets #dog",
+   "views": 3532
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "srr6AdlIeeg",
+   "ch": "Kucuk Esnaf",
+   "cid": "UC6ymHZI4UX8Ei5sppLEV4gA",
+   "date": "2026-09-03",
+   "title": "Mama husky teaching her babies how to howl properly #husky #",
+   "views": 5731
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "mVLVUsOPl2g",
+   "ch": "Hayes",
+   "cid": "UCcfCCC9ThR5msfwm4aw4Jlw",
+   "date": "2026-02-03",
+   "title": "Father Husky Teaches Puppy Son to Howl 🥺",
+   "views": 4820
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "EQSkSkpzdZs",
+   "ch": "Husky Thursday",
+   "cid": "UCLQcpVBo7HkwaJfUvC7c2eg",
+   "date": "2026-09-21",
+   "title": "My Husky Had to Teach His Sister How to Howl 😂🐺",
+   "views": 3868
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "z-VkTWK34ao",
+   "ch": "MajestySoul_Gypsy_CocoaBruva",
+   "cid": "UCTgPwy0C8P10eqZRyfU40HA",
+   "date": "2026-06-13",
+   "title": "🐶🐾Teaching The Little Fella To Howl #Pups #PupHowling #CuteP",
+   "views": 2533
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "awZA6MIpI9o",
+   "ch": "APacksJourney",
+   "cid": "UCge-PM6ninoN1fAU3EBAo5g",
+   "date": "2026-07-21",
+   "title": "Teaching my husky puppy to howl 🐺❤️ #Husky #Puppy #DogTraini",
+   "views": 1761
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "K_RzSPdr818",
+   "ch": "Pawture Studio ",
+   "cid": "UCLeg_974aUD85ft4QjTAq4A",
+   "date": "2026-03-12",
+   "title": "Husky Teaches Puppy to Howl… But This Happens 😂🐶 #shorts #pu",
+   "views": 2789
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "VcqzUTd_JEM",
+   "ch": "Raktindra",
+   "cid": "UCnsTXSVvr5ecKuFboMKJ2cQ",
+   "date": "2026-09-25",
+   "title": "Husky teaches puppy how to howl (Hilarious reaction) 🥺😂#husk",
+   "views": 2000
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "smiTRgB9Zro",
+   "ch": " RanjiS PETS",
+   "cid": "UClTcGv7lmrPDx-Xt1vlftAg",
+   "date": "2025-10-31",
+   "title": "Husky Mom Teaches Her Puppies How to Howl 🐺💞 Cutest Family M",
+   "views": 1523
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "nl1wpX-Dha0",
+   "ch": " Furry  Bunch",
+   "cid": "UCPSHs6L9yJ5aZY6oh6vilrA",
+   "date": "2024-08-28",
+   "title": "School of Huskies😬The mother husky teaches the cubs to howl😅",
+   "views": 857
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "VagiV7eE9Xo",
+   "ch": "SirButtons",
+   "cid": "UCMim8nb-aGagHRgcPNicenA",
+   "date": "2026-11-02",
+   "title": "day 1 teaching Sir Buttons to howl #puppy #dog #sirbuttond",
+   "views": 1222
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "0NTMSKg9B9o",
+   "ch": "Pawly",
+   "cid": "UCnqeZFmLUzuyCyjtFNvDC0A",
+   "date": "2026-04-04",
+   "title": "Husky Teaches Puppy How to Howl 🐺❄️ #dogs #pets #petvideos #",
+   "views": 1541
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "ojWUIN2n12g",
+   "ch": "Rural Life with my 3 Pretty Pets ",
+   "cid": "UCRDXvJzmhL1GkEy8rNIx_PQ",
+   "date": "2025-10-12",
+   "title": "#ASMR. Funny Husky mom teaching her puppy to howl for the fi",
+   "views": 2592
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "ZHqi47miwFY",
+   "ch": "Alexandre Anton",
+   "cid": "UCNHKIu9H3ItEzzhJU2-P5wA",
+   "date": "2026-10-12",
+   "title": "We just Taught Ozzy a new thing 🤣 #pomeranian #howl",
+   "views": 1109
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "ra2UvKrJOgc",
+   "ch": "AsterThePanda!",
+   "cid": "UCylqkwGt80uNzAcMPbC7qxw",
+   "date": "2026-03-17",
+   "title": "teaching puppy how to howl #youtubeshorts #cutie #fluffy #do",
+   "views": 1678
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "VLJkPWTj8nA",
+   "ch": "Life With Furries",
+   "cid": "UCSpq4LVlZoWarpXkay00SvA",
+   "date": "2026-09-05",
+   "title": "Dad teaching me howling 🐶🐺❤️🐺❤️🐶♥️ #fyp #howling #explore #c",
+   "views": 1267
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "W5JqTJaHOnQ",
+   "ch": "RealitySpark",
+   "cid": "UCNwIJTUj028dnriqD0r6JrA",
+   "date": "2025-12-27",
+   "title": "Baby Teaches Puppy to Howl 🥹🐶 (Then Does This…)",
+   "views": 676
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "q7vJtnj7H6U",
+   "ch": "Bogibear TV ",
+   "cid": "UClNQVniysZ2HOeKyinlUAaw",
+   "date": "2026-08-14",
+   "title": "Teaching My Dad How to Howl!",
+   "views": 668
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "z6E8WuNN_9g",
+   "ch": "Nature Nuggets Hub",
+   "cid": "UC8UXQ60DOCRRaDAbMV3HtIg",
+   "date": "2026-07-25",
+   "title": "How Wolves Teach Pups to Howl and Navigate",
+   "views": 657
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "0VolGB1FRmk",
+   "ch": "Joe Camillo",
+   "cid": "UC1YlJJgz5h6T6dR1A7io6Kw",
+   "date": "2026-10-22",
+   "title": "Teaching the plushy to howl! #plushy #gatsby",
+   "views": 1070
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "wy0yQ12FNBg",
+   "ch": "AnimalCare Channel",
+   "cid": "UCh2xVS8t6SnqvBd6BEBaqyQ",
+   "date": "2026-02-22",
+   "title": "Husky Mom Teaches Her Puppies to Howl… What Happens Next Mel",
+   "views": 367
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "-GMnn24aPBI",
+   "ch": "PetsVideoBox",
+   "cid": "UCbwRcUlic-PYSjFtAx5kT2Q",
+   "date": "2026-09-22",
+   "title": "Cutest Duo Ever! 😘🐶 Husky Puppy Teaches Baby How To Howl! 🤣 ",
+   "views": 255
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "By4RghEuVNI",
+   "ch": "Iggmoe Actual",
+   "cid": "UCNIEljE47RmvSauAfhrimfg",
+   "date": "2025-06-05",
+   "title": "Mako Teaches Me to Howl, Part 2",
+   "views": 97
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "nYLJhNxqqtY",
+   "ch": "XtreamSam",
+   "cid": "UCEP0QJM59XDuxjerWlID37w",
+   "date": "2026-05-14",
+   "title": "I taught my dog how to howl",
+   "views": 235
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "il8QgEajah8",
+   "ch": "Andrea Huber",
+   "cid": "UCSCEqPpuxhUvR6c0HHvGesA",
+   "date": "2026-07-09",
+   "title": "Did my German Shepherd teach my Rottweiler how to howl?",
+   "views": 100
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "BU-lw7b9Xks",
+   "ch": "Thor the German Shepherd",
+   "cid": "UCWZAxrbbqHVs0_sqfhepTPg",
+   "date": "2025-12-24",
+   "title": "Husky Teaches Puppy to Howl... PUPPY&#39;S ATTEMPT! 🐺🐕😂 (SO ",
+   "views": 90
+  },
+  {
+   "q": "owner teaches puppies to howl",
+   "vid": "csZU7PJ7pLs",
+   "ch": "Rewindr",
+   "cid": "UCQjCri2xZuszzF9f6UpA3rw",
+   "date": "2026-02-19",
+   "title": "Kid Teaching Puppy to Howl...",
+   "views": 24
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "kvWEmoSk0kM",
+   "ch": "귯삐",
+   "cid": "UCXwbEj1QZiUjtNcWzP-GI_A",
+   "date": "2025-07-13",
+   "title": "영원히 철이 들지 않는 골든 리트리버 ㅎㅎ",
+   "views": 2831568
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "jbYDGqxgxWw",
+   "ch": "동글펫",
+   "cid": "UCwTCXUvPnHlhIxtyNZVn3zw",
+   "date": "2025-08-03",
+   "title": "천사견 골든 리트리버의 충격적 반전, 모두를 놀라게 한 순간",
+   "views": 1273786
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "eak9kiQQ2LY",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-10-24",
+   "title": "댕댕이와 대화가 통하는 순간",
+   "views": 1250195
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "_n4k22isxH4",
+   "ch": "천사골든과 아기",
+   "cid": "UCsfzFRPycUGAqqnuFYB2Abg",
+   "date": "2026-11-01",
+   "title": "The dog howled at the moon. The kitten tried. 골든이 달을 보고 하울링,",
+   "views": 697583
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "qGTOozPFfJc",
+   "ch": "아기사슴소보로",
+   "cid": "UCgA0YCAE4CZkt09qQlqC0lQ",
+   "date": "2026-02-21",
+   "title": "아기 리트리버는 하울링을 많이 한다고?",
+   "views": 580563
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "sSdFI1v-MG4",
+   "ch": "1분월드 - 1min World",
+   "cid": "UC4njkOdvyKofPrjBseHewpg",
+   "date": "2024-09-12",
+   "title": "아기 댕댕이들의 하찮고 귀여운 짧은 하울링 🐾❤️ #shorts #cute #animals #아기댕댕이 #아",
+   "views": 181039
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "o1s5eVAK4-M",
+   "ch": "개랑해TV-조재호강아지훈련사",
+   "cid": "UC1ibLq0agGwR9EJRFKTxZKg",
+   "date": "2025-08-12",
+   "title": "새끼강아지 시기때 꼭 해야 되는 훈련",
+   "views": 393803
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "urjHlvpuvQE",
+   "ch": "뭉땅",
+   "cid": "UC6wtGnl18_9GCns9IjL-a7A",
+   "date": "2024-09-14",
+   "title": "&quot;나도 할 수 있어!&quot;.. 보호자가 댕댕이 앞에서 하울링을 하고 있는 이유",
+   "views": 109563
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "w2Bl37NHx44",
+   "ch": "아기사슴소보로",
+   "cid": "UCgA0YCAE4CZkt09qQlqC0lQ",
+   "date": "2026-09-23",
+   "title": "하울링 1등 리트리버",
+   "views": 182341
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "2lOWDXkzSfw",
+   "ch": "포항항항항항항항",
+   "cid": "UCyGkaXicoYDMu84mjMW-TQg",
+   "date": "2026-06-24",
+   "title": "천둥과 같은다는 로트와일러의 하울링ㄷㄷ",
+   "views": 115469
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "_rzg7jQRaGE",
+   "ch": "아기사슴소보로",
+   "cid": "UCgA0YCAE4CZkt09qQlqC0lQ",
+   "date": "2026-08-28",
+   "title": "리트리버 하울링 vs 삑삑 vs 사이렌 소리",
+   "views": 93447
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "E7GKY0cZGdc",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-10-28",
+   "title": "무슨 대화를 하길래 이렇게 행복한 거야?",
+   "views": 65567
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "FrfYIv3MsYg",
+   "ch": "1분월드 - 1min World",
+   "cid": "UC4njkOdvyKofPrjBseHewpg",
+   "date": "2025-01-18",
+   "title": "아기 댕댕이 하울링 조기 교육 중? 🐾❤️ #shorts",
+   "views": 19396
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "PMa79ovvy14",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-11",
+   "title": "지금 무슨 대화를 나누는 걸까요?",
+   "views": 55296
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "yd3ujGI2vc4",
+   "ch": "유머사막여우",
+   "cid": "UC0ejWhXfJGaceQrcqsE8AZQ",
+   "date": "2026-04-24",
+   "title": "리트리버 하울링의 이유 #하울링 #찹츄",
+   "views": 39846
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "cdyRx21d8I4",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-06",
+   "title": "우리 집 강아지가 아기랑 노는 법",
+   "views": 53149
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "Jg8HNFmAVTE",
+   "ch": "씩씩티비",
+   "cid": "UCUoc5cUZofKEljAmYZL_0TQ",
+   "date": "2026-05-22",
+   "title": "하울링 따라하는 아기찹츄",
+   "views": 39919
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "Oerizl7tuAg",
+   "ch": "무비뒷담화",
+   "cid": "UC8Mv14vXID4at0Ngr38Vj2w",
+   "date": "2026-09-18",
+   "title": "&quot;어... 계셨어요?&quot; 눈 마주치자마자 공연 종료됨 🐶",
+   "views": 37510
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "_ybfJyamDPA",
+   "ch": "김덕구",
+   "cid": "UCuJfkHw1FawNro5YkkuPnJw",
+   "date": "2026-05-21",
+   "title": "주인하울링 따라하는 아기찹츄",
+   "views": 36337
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "4vwXO45GBE0",
+   "ch": "고니Gonny",
+   "cid": "UC4NLe7Fv9_pGMJDCbzoS2AA",
+   "date": "2025-10-31",
+   "title": "🎵 아기랑 아기 리트리버가 하울링을 해요!",
+   "views": 38653
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "SPDAeMK8KlE",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-07",
+   "title": "강아지와 아기의 &#39;대화&#39;",
+   "views": 53312
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "EDSKU7f0amc",
+   "ch": "헤니알",
+   "cid": "UCDMBCMQsPN4RwVIOZxSC_rg",
+   "date": "2025-08-27",
+   "title": "삑삑거리던 아기 강아지의 하울링 실력 변화",
+   "views": 30674
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "UTYfW_6Owp8",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-08",
+   "title": "강아지 &#39;아우~ 뽀뽀 콤보에 빵 터진 아기 웃음",
+   "views": 42753
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "LgzulnxioFU",
+   "ch": "귯걸",
+   "cid": "UCvynn5D7H5i6TuN5HSN1KfA",
+   "date": "2026-05-08",
+   "title": "리트리버 키우는데 옆집에서 소 키우냐고 물어봄 #강아지 #리트리버 #반려견",
+   "views": 30383
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "JMbsm9Z1d10",
+   "ch": "그랬냐?",
+   "cid": "UCg78b0eZfgD0-azeuTKd2EA",
+   "date": "2025-04-15",
+   "title": "집나간 집주인 기다리는 댕댕이 #하울링 #리트리버 #강아지",
+   "views": 36865
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "xbjvGoHLoRg",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-13",
+   "title": "서로 대화 주고받는 아기와 댕댕이",
+   "views": 38759
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "6BkqZ3rVrsw",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-10-30",
+   "title": "서로의 말을 알아듣는 걸까요?",
+   "views": 38147
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "gKibZeCsMR4",
+   "ch": "노트펫",
+   "cid": "UC2JJ3pd8EbYOmOnI994zAwQ",
+   "date": "2024-08-21",
+   "title": "어른에게 하울링 배우는 아기 강아지",
+   "views": 11816
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "OXFH_P4jiHE",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-06",
+   "title": "강아지와 아기의 귀여운 대화",
+   "views": 33399
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "alVsLj-1C2k",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-07",
+   "title": "서로가 신기한 강아지와 아기",
+   "views": 29948
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "KzoozzwtA_E",
+   "ch": "개그만봐",
+   "cid": "UCBBtdWfDRGYwA6fmcw3Gwbg",
+   "date": "2025-09-16",
+   "title": "아기 리트리버의 충격적인 목소리 반전  #리트리버 #골든리트리버 #강아지성장기 #강아지하울링 #웃긴강아지 #",
+   "views": 21752
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "eItIXpXehX4",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-10-27",
+   "title": "강아지와 &#39;멍멍&#39; 대화가 통하는 아기",
+   "views": 37000
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "AipnJC7uM2Y",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-11",
+   "title": "벌써부터 찐친 예약! 아기와 리트리버의 심쿵 교감",
+   "views": 28000
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "dwHL9O7nE9o",
+   "ch": "뮤트홈",
+   "cid": "UCsfEbw8nNCpV68FBNgYMHCw",
+   "date": "2026-06-06",
+   "title": "아기 리트리버의 하울링",
+   "views": 29656
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "z55sqMyKFbY",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-08",
+   "title": "보고만 있어도 힐링되는 아기와 강아지 케미",
+   "views": 24816
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "Ork-zfYvGyk",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-13",
+   "title": "강아지와 대화가 통하는 아기",
+   "views": 9564
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "6mT7iSDdGLc",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-10-29",
+   "title": "서로 말 통하는 아기랑 골든 리트리버",
+   "views": 7445
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "x63b_Rth8T4",
+   "ch": "짜릿한 리키",
+   "cid": "UC_iWrFjbaXFZF47L3-twXMw",
+   "date": "2024-09-04",
+   "title": "리트리버 하울링 🤭 #labrador #labradorretriever #cute #animals",
+   "views": 3523
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "EoyWX6VSGFY",
+   "ch": "두두의 견생일기",
+   "cid": "UCgVr0INIjq1P1xE_E6-FHqw",
+   "date": "2024-09-06",
+   "title": "골든리트리버의 하찮은 하울링 #goldenretriever #puppy #강아지 #골댕이 #골든리트리버",
+   "views": 3768
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "hbbVrNGfvtE",
+   "ch": "lk y",
+   "cid": "UC7Tx_xeUrAV4TGN27N_o-Gg",
+   "date": "2026-01-09",
+   "title": "​🐶풍선 소리에 깜짝! &amp;&quot;거울 속의 나. 세상 무해한 아기 인절미의 하울링 🐾#@lky67",
+   "views": 4704
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "Ar-e6_2CYVY",
+   "ch": "귀여운고",
+   "cid": "UCO2_sDY7SKMa_lcQ3EJxT6w",
+   "date": "2026-10-31",
+   "title": "아기 강아지 하울링 TOP5, 1위는 눈도 못 뜬 아기 강아지ㅠㅠ",
+   "views": 3523
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "ttHHBibmSx8",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-12",
+   "title": "대형견과 아기의 다정한 교감 순간",
+   "views": 6591
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "J4zjENPIoLk",
+   "ch": "토닥스토리룸",
+   "cid": "UC5BjKyiNAHPFn2gwMsFpXrg",
+   "date": "2025-11-17",
+   "title": "널 어떻게 하면 좋으니~ #골든리트리버아기 #강아지하울링 #귀여움주의 #강아지첫울음 #펫숏츠 #반려견영상 #",
+   "views": 2739
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "q7rU0y0U7sY",
+   "ch": "개모래",
+   "cid": "UC6RlHHDAw8tGhUJiHY7B5RQ",
+   "date": "2024-08-08",
+   "title": "하울링하는 아기 리트리버, 귀여움 폭발! 🐶😆",
+   "views": 1517
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "RaWXTV42x-A",
+   "ch": "아댕이TV",
+   "cid": "UCFDJiH1V1KY31j7Xqkb4JdQ",
+   "date": "2025-11-10",
+   "title": "골든 리트리버 댕댕이 하울링에 빵 터진 아기!🐶👶",
+   "views": 2678
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "IL9IKpwaSys",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-07",
+   "title": "쿵짝이 잘 맞는 아기와 강아지",
+   "views": 2324
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "rL6uvl3gy-0",
+   "ch": "토끼부려",
+   "cid": "UCVY6kLmJUy-H3sY5WEgzdbg",
+   "date": "2026-10-27",
+   "title": "아기 골든리트리버의 생애 첫 하울링",
+   "views": 1572
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "IDQ8jikRzv4",
+   "ch": "lk y",
+   "cid": "UC7Tx_xeUrAV4TGN27N_o-Gg",
+   "date": "2025-12-27",
+   "title": "🐶&quot;아우우~&quot; 소리까지 완벽한 아기 리트리버와 아기 말티즈의 하울링 듀엣 🐶#@lky671",
+   "views": 3437
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "hq5OH7UTd4Y",
+   "ch": "리트리버 김보리",
+   "cid": "UCp206ZpF037Xubaozer1gWA",
+   "date": "2026-03-12",
+   "title": "리트리버 하울링 (너무어설픔..) 화재경보기 사이렌소리",
+   "views": 1596
+  },
+  {
+   "q": "골든리트리버 아기 하울링",
+   "vid": "ZGYbPdSQiFc",
+   "ch": "빅숑 비숑 율무",
+   "cid": "UCtY64P7cXm8XRAojzvZ5-MA",
+   "date": "2024-09-29",
+   "title": "아기 비숑의 하울링",
+   "views": 614
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "OUNnlp7aKV0",
+   "ch": "Love 동물의 짤",
+   "cid": "UCiwOpeJkSnRLbBGuI0AcCiQ",
+   "date": "2024-09-05",
+   "title": "귀여운 강아지에게 늑대울음 소리 가르쳐주기",
+   "views": 2023814
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "joZcT8BXKJQ",
+   "ch": "잠시만여우",
+   "cid": "UCpe7WEKfN1s2l-6ExljNT2w",
+   "date": "2025-04-05",
+   "title": "늑대 VS 허스키 하울링 #동물 #늑대 #강아지",
+   "views": 732378
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "5OyHhNqyjVo",
+   "ch": "숏여우",
+   "cid": "UChBRTHSyiah6poSscWqptBg",
+   "date": "2025-04-23",
+   "title": "허스키 하울링의 단계적 진화 #동물 #강아지",
+   "views": 231518
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "FONAas4TN00",
+   "ch": "멍마들",
+   "cid": "UCOWlTxwMeFNobymU5rID-8A",
+   "date": "2026-04-09",
+   "title": "#멍마들  🐾 강아지가 따라 짖는 노래! 댕댕이 합창단🎶 - Doggy Choir🎶",
+   "views": 27536
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "OXFH_P4jiHE",
+   "ch": "아기와 강아지",
+   "cid": "UC4ruyx7H-rN5HWmPGWFoPJQ",
+   "date": "2025-11-06",
+   "title": "강아지와 아기의 귀여운 대화",
+   "views": 33399
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "IKiUGodb-LU",
+   "ch": "빵술빵술 술빵이",
+   "cid": "UCwa6MY9snR_yreaqFRtDgJQ",
+   "date": "2026-06-30",
+   "title": "⚠️개 짖는 소리 주의🐶🔊 하울링 따라하는 강아지🚨",
+   "views": 2495
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "bURD8S8wNgc",
+   "ch": "누리마미",
+   "cid": "UCfQQem3HG90-o9--Pk0w4mQ",
+   "date": "2026-06-23",
+   "title": "홈캠으로 보는 우리누리의 하울링 #강아지일상 #비숑브이로그 #강아지 #비숑브히제 #강아지하울링#누리",
+   "views": 2182
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "f9cQKEArIG4",
+   "ch": "몽냥",
+   "cid": "UCWB7qL_0gn8fbZ0JleVPgNw",
+   "date": "2025-11-06",
+   "title": "“세상에서 제일 귀여운 듀엣… 아기 vs 사모예드 강아지 🐶👶🎵”",
+   "views": 26865
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "qJaC4GTJLgU",
+   "ch": "뿌꾸러기",
+   "cid": "UCisYfg4QlmFX_JmtW2wwT4Q",
+   "date": "2024-09-26",
+   "title": "🚨강아지 하울링 늑대소환✨",
+   "views": 3270
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "vQyQRQ0gMyo",
+   "ch": "눈물과꼬리(TEARS & TAILS)",
+   "cid": "UC2NpJrbqBlzlbbNUWqGlX3g",
+   "date": "2025-12-27",
+   "title": "허스키가 먼저 울자, 아기가 따라 했다 😂",
+   "views": 2904
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "hb0-BpPrVQw",
+   "ch": "비숑 구름tv",
+   "cid": "UCZ3ADsjOYH4yuqUMqaNbO1A",
+   "date": "2025-05-21",
+   "title": "#구름이 #비숑 #이발 하는날 #하울링따라하기",
+   "views": 1226
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "C0EE6eoQTjU",
+   "ch": "오늘또숏",
+   "cid": "UCww6seJG2kmdSJkVsGOq2Hw",
+   "date": "2024-09-24",
+   "title": "강아지가 하울링을 하며 슬퍼하는 이유",
+   "views": 277
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "oqG_t06qD2M",
+   "ch": "말티즈 뚠뚠",
+   "cid": "UCJxhIjgo6TtYcMAWIcUOaWQ",
+   "date": "2025-11-28",
+   "title": "다이소 하울링 따라하기 ㅋㅋ #shorts",
+   "views": 203
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "5UsIBSrHzZ8",
+   "ch": "한입채리",
+   "cid": "UCnQtQVY70_lOLCs_igm48lg",
+   "date": "2025-06-25",
+   "title": "우리 강아지 조만간 말하겠음…#강아지 #하울링 #푸들 #말하는강아지 #강아지울음소리",
+   "views": 367
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "HaqBNBrGB7E",
+   "ch": "Bio_trend",
+   "cid": "UCYsL-rAH5dZjwNUAvWI-Svw",
+   "date": "2026-03-29",
+   "title": "&quot;아우우~&quot; 강아지가 사이렌 소리 우는 이유?#강아지심리 #하울링 #사이렌소리 #강아지본능",
+   "views": 334
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "x5D7ZK0dB_c",
+   "ch": "게임&뮤직&재미",
+   "cid": "UChoZr4-UJ-vxQZQJr1n8n2Q",
+   "date": "2025-05-13",
+   "title": "tv보고하울링따라하기",
+   "views": 51
+  },
+  {
+   "q": "강아지 하울링 따라하기",
+   "vid": "VZdQY5_WbAs",
+   "ch": "Animal howling",
+   "cid": "UCrI3iouSzapPkLr2hfg0NmQ",
+   "date": "2025-12-31",
+   "title": "사람도 따라하기 힘든 강아지의 목욕 루틴",
+   "views": 15
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "ZQaFFaOLGSY",
+   "ch": "Tony - The Dog",
+   "cid": "UC95UR7MVF82uHcANto0IyEA",
+   "date": "2024-10-24",
+   "title": "🐕  Dog Crying Sound - [ Including Puppies Crying and Whining",
+   "views": 6878672
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "no5F-76svdA",
+   "ch": "Moonnya",
+   "cid": "UCYsKYebV9I-czVVPm7mdYUA",
+   "date": "2024-11-27",
+   "title": "This Golden Retriever Accidentally Endangers Her Puppy&#39;s",
+   "views": 2886187
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "DIQoDU5gt4Y",
+   "ch": "Furry Healing House",
+   "cid": "UCbl7YU1YAGDTuKV1vdi-Oyw",
+   "date": "2025-10-16",
+   "title": "Puppy Learns to HOWL from Baby! 🤣 Husky Puppy Copies Everyth",
+   "views": 1166496
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "0OLB8ZR0ekY",
+   "ch": "Cub & Pup",
+   "cid": "UCDnO9bRpDpArVnCJpgdAwhQ",
+   "date": "2026-07-20",
+   "title": "Golden Puppy and Baby Howling Together 🥺🐺 #viral #shorts #tr",
+   "views": 205746
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "luv5zfwLyMg",
+   "ch": "HeroDog Rescue",
+   "cid": "UC0AGZ1cJed9GcSC2kBVw8AQ",
+   "date": "2025-11-04",
+   "title": "Cuteness Overload! Baby and 6 Golden Retriever Puppies Howl ",
+   "views": 119323
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "WyOeIXAaBjA",
+   "ch": "Mr. Cool",
+   "cid": "UCOtrL-eNP0FfhBlIOh0FRvA",
+   "date": "2025-11-24",
+   "title": "Puppy Howls &amp; Baby Laughs Hysterically! 😂 #shorts #puppy",
+   "views": 166264
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "YpAhtqwwaQs",
+   "ch": "Woof World",
+   "cid": "UC-U6hnCuuhVGHdkCJ--NfgA",
+   "date": "2025-03-04",
+   "title": "There&#39;s nothing sweeter than a newborn puppy! 😍❤️ #short",
+   "views": 84499
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "PitJ3LEKUw0",
+   "ch": "Alnimals",
+   "cid": "UCTD6XaxIasnu-TSnOs4YKlA",
+   "date": "2025-10-21",
+   "title": "Baby howls like a golden retriever... and the retriever resp",
+   "views": 43620
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "FwwsmrDM5SQ",
+   "ch": "Miracle Lights 10M",
+   "cid": "UC69BSX44OBQwCJYLd36Bfug",
+   "date": "2025-05-05",
+   "title": "Golden&#39;s Howl Saves Frozen Newborn! 🐾❄️ Abandoned in Sno",
+   "views": 34158
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "lq8e1GJVKTA",
+   "ch": "Baby_and_Buddy",
+   "cid": "UCBKkL7LCiexybrkIbPwhIRw",
+   "date": "2025-10-17",
+   "title": "“Baby &amp; Dog Howling Together 🐾&quot;",
+   "views": 34685
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "A9lWkwUIrGU",
+   "ch": "LaughSnap",
+   "cid": "UCulR6aFIKRvedpmFD8hvkcQ",
+   "date": "2026-04-13",
+   "title": "Baby Tries to Howl… Golden Retriever Puppy Joins the Convers",
+   "views": 36364
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "RMeXozueTZE",
+   "ch": "FluffyMomentsClips",
+   "cid": "UCjiPeTiaC5tvZuAKYsgK8xg",
+   "date": "2025-10-30",
+   "title": "Baby Starts Howling Contest With Golden Retriever Pups",
+   "views": 28633
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "Hk1Rhm3b4rE",
+   "ch": "Happyloop",
+   "cid": "UC8xVl_gtn37vP5KwRlAk0ww",
+   "date": "2026-01-16",
+   "title": "Golden Retriever Puppy Gives Baby Howling Lessons 📣🤣  #Short",
+   "views": 21377
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "29w5ekGul2I",
+   "ch": "MS Tot Central",
+   "cid": "UCeIWrTL38qpvj29nbqDcq9Q",
+   "date": "2026-09-07",
+   "title": "Puppy Howls With Baby! 🐶🎶 #shorts",
+   "views": 16846
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "StUCKUthxBQ",
+   "ch": "Paws and Hearts",
+   "cid": "UCBYDFbyas0KtmK-ie1LSOMg",
+   "date": "2026-01-05",
+   "title": "Golden Retriever howls when the baby says momma 🐶❤️ #cutedog",
+   "views": 18493
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "DcHVkMNGrbE",
+   "ch": "AI Paradox",
+   "cid": "UCLaih05G75CyByab6Ig2Ofg",
+   "date": "2026-03-09",
+   "title": "🐺Baby Tries to Howl Like Husky😂👶",
+   "views": 21087
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "ApvtWs1ACAE",
+   "ch": "AI Paradox",
+   "cid": "UCLaih05G75CyByab6Ig2Ofg",
+   "date": "2026-02-10",
+   "title": "👶🐶Tiny Boss Baby Stops a Howling Golden in One Word😆",
+   "views": 13753
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "GA8hxHJsP9I",
+   "ch": "TNgoldendoodle",
+   "cid": "UChZFtEK4fvUYTigFG12g0nA",
+   "date": "2024-11-08",
+   "title": "#puppy #puppydog #cutepuppy #goldendoodle #doodles #howling ",
+   "views": 5828
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "8ErirNxICkk",
+   "ch": "Bob Bounce",
+   "cid": "UCfs3TDHEmohCSy9YFbRQdbw",
+   "date": "2025-11-08",
+   "title": "Bebé y cachorros aullando...🐕👶😍",
+   "views": 8915
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "mRFKJxiedXU",
+   "ch": "Babies And Animals",
+   "cid": "UCPtEXt7h6gWbuLWGml-xhow",
+   "date": "2025-12-07",
+   "title": "Baby Howls with Golden Puppies — Cutest Chaos Ever!#baby#cut",
+   "views": 9174
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "7sMdPpuUSh8",
+   "ch": "HUflyyy",
+   "cid": "UCHReQc8eJcg72IrGGo1tD6g",
+   "date": "2025-11-21",
+   "title": "Baby and 7 golden retriever puppies Howl Back!Cutest Sync!🤣🐶",
+   "views": 5364
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "9R6xYK2kIIs",
+   "ch": "Paws and Hearts",
+   "cid": "UCBYDFbyas0KtmK-ie1LSOMg",
+   "date": "2026-01-17",
+   "title": "Baby and his Golden Retriever are howling #puppy #baby #gold",
+   "views": 6437
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "ndwLAi7HXUk",
+   "ch": "HarleyQuinnTheGolden",
+   "cid": "UCQ9G0BYU0en3q7uS1dpLVDQ",
+   "date": "2025-05-29",
+   "title": "Puppy howling at the firetrucks and ambulances again! BEST H",
+   "views": 2481
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "a3OghFL8iMg",
+   "ch": "KittenVybz",
+   "cid": "UCGoX-SuBXK3WVolKSL42XiA",
+   "date": "2026-03-08",
+   "title": "He Is So Proud Of Himself 🐕🐕❤",
+   "views": 3051
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "5ISXnc33zxo",
+   "ch": "Golden Retrievers",
+   "cid": "UClHK9Fd-UbsWvMbtkw79kpg",
+   "date": "2026-05-18",
+   "title": "Sunny’s Puppy #9 Is Here! Another Baby Girl",
+   "views": 1529
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "t_hGJTFOfYo",
+   "ch": "Kikiandarlie vlogs",
+   "cid": "UCGuHhy4p0bsCA2gDNHYfSsg",
+   "date": "2025-06-03",
+   "title": "3-Day-Old Golden Retriever Puppy – Cutest Newborn Moments!",
+   "views": 2889
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "gFoO_7Ny_sY",
+   "ch": "Always Golden pups",
+   "cid": "UCMHjnreZhZxM-LwoABsBsIw",
+   "date": "2025-05-12",
+   "title": "Golden puppy howling",
+   "views": 1865
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "mnT5ybNjAD8",
+   "ch": "ZIPIR",
+   "cid": "UC8vyRZ5wTAWNbo5ja19OZjA",
+   "date": "2025-11-27",
+   "title": "Baby &amp; Golden Puppy Howling Duet – I’m Still Crying",
+   "views": 721
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "kFQQrQNj32w",
+   "ch": "CapyBops",
+   "cid": "UCrdEm6lF9NjlfTw9ELehQRA",
+   "date": "2026-03-24",
+   "title": "When A Golden Retriever Puppy Sneezes On You! 🥰 (Howling Too",
+   "views": 87
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "w_WMTgHsNj0",
+   "ch": "Zimbolo",
+   "cid": "UCjE_lskfLiwLQoaDVaqBbjA",
+   "date": "2026-10-08",
+   "title": "This baby’s reaction to a puppy Howling is priceless 🤣🐕 #cut",
+   "views": 20
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "kXB2dEiWrGQ",
+   "ch": "Yousaf facts",
+   "cid": "UC8RJij0TerFjnsWZ_MPA1sw",
+   "date": "2026-01-16",
+   "title": "“Baby Surrounded by Golden Retriever Puppies… Then They All ",
+   "views": 8
+  },
+  {
+   "q": "newborn puppies howling golden",
+   "vid": "t9DSYiV2Fig",
+   "ch": "Royalpaws",
+   "cid": "UCBjJ0GfHbWrvzZzjtKq5rAQ",
+   "date": "2025-12-02",
+   "title": "Baby &amp; Puppy Howl in Perfect Harmony 🐾✨ | Pure Golden Ho",
+   "views": 14
+  },
+  {
+   "q": "great dane mastiff mad at me",
+   "vid": "s2gduITKG_o",
+   "ch": "CalicoCastle",
+   "cid": "UCNMMBzlWFA3CHqbWiG__zNg",
+   "date": "2024-08-23",
+   "title": "My great Dane is so mad at me 💀 #funnydogs",
+   "views": 11462
   }
  ]
 }
