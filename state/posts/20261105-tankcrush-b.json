@@ -1,7 +1,7 @@
 {
  "id": "20261105-tankcrush-b",
  "kind": "short",
- "status": "pending",
+ "status": "manual",
  "created_at": "2026-11-05T21:22:40.912753+09:00",
  "publish_at": "2026-11-05T21:22:40.912769+09:00",
  "publish_now": true,
@@ -33,5 +33,6 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1923
+ "tg_msg": 1923,
+ "decided_at": "2026-11-05T21:27:10.781763+09:00"
 }
