@@ -1,7 +1,7 @@
 {
  "id": "20261105-tankcrush",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-05T21:10:11.654333+09:00",
  "publish_at": "2026-11-05T21:10:11.654347+09:00",
  "publish_now": true,
@@ -33,5 +33,6 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1921
+ "tg_msg": 1921,
+ "note": "사용자 제목 변경 → 20261105-tankcrush-b 로 다시 보냄(tg 1921 무시)"
 }
