@@ -1,72 +1,230 @@
 {
- "id": "20261105-soupbox",
+ "id": "20261105-daniff",
  "mode": "send",
  "format": "meme",
- "topic": "집사가 양파·마늘 들어간 수프를 끓이자 한 입도 못 얻어먹은 삼색(톨티) 고양이가 주방 조리대 위 빈 물비누 박스(집사 표현 '감정 지원 박스')에 들어가 집사를 째려보며 시위(TikTok @roseshorty1, 2026.1, 약 100만 회·21.5만 좋아요, Newsweek 2026.2.24 보도). 원본에 덧입힌 소리가 전 구간 일정하게 깔려 원본 소리 전부 끔. 원본 캡션(세로 58~80%)은 zoom 크롭으로 화면 밖으로 밀어냄(흐림 없음). 사실: 양파·마늘(파속 식물)은 고양이 적혈구를 손상시켜 빈혈을 일으킬 수 있음(ASPCA).",
+ "topic": "'안 돼' 소리를 듣고 자기 전 간식까지 거절하며 고개를 홱 돌린 그레이트데인-마스티프 믹스(데니프) 샘슨(TikTok @sunshinesa9169 7560402848320654605, 2025.9, Cuteness 2026.1.2 보도 'Pouts Just Like A Toddler After Being Told No'). 옆에 작은 테리어 동생. 주인 말소리가 전 구간 이어져 원본 소리 전부 끔(동물 소리 없음 — 원본에 짖음·낑낑 없음). 원본 캡션 'Handsome Samson'(세로 약 12%)은 zoom 1.25 + y 0.5 크롭으로 위로 밀어냄(흐림 없음). 사실: 수의 테크니션 Kait Hembree(Newsweek 인용) — 개가 서운하거나 부정적 감정이면 몸짓으로 분명히 드러난다.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 2.0,
  "sfx_max": 3,
  "hook": {
-  "t": "수프 한 입 안 줬더니\n'박스 들어가서 째려보는 중ㅋㅋ'"
+  "t": "'안 돼' 한 마디 했을 뿐인데\n'고개 홱 돌린 초대형견ㅋㅋ'"
  },
- "photo_credits": ["TikTok @roseshorty1"],
+ "photo_credits": [
+  "TikTok @sunshinesa9169"
+ ],
  "sources": [
-  {"publisher": "TikTok @roseshorty1 (삼색 고양이)", "url": "https://www.tiktok.com/@roseshorty1/video/7594591684424404254", "date": "2026-01"},
-  {"publisher": "Newsweek - Woman Realizes Cat Is 'Mad Again' With Her—Internet Can't Cope With Reason", "url": "https://www.newsweek.com/woman-realizes-cat-is-mad-again-with-her-internet-cant-cope-with-reason-11572897", "date": "2026-02-24"},
-  {"publisher": "ASPCA - Toxic and Non-Toxic Plants: Onion / Garlic", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion", "date": ""}
+  {
+   "publisher": "TikTok @sunshinesa9169 (데니프 샘슨)",
+   "url": "https://www.tiktok.com/@sunshinesa9169/video/7560402848320654605",
+   "date": "2025-09"
+  },
+  {
+   "publisher": "Cuteness - Rare Great Dane-Mastiff Mix Pouts Just Like A Toddler After Being Told 'No'",
+   "url": "https://www.cuteness.com/2062559/rare-great-dane-mastiff-mix-pouts-toddler-told-no",
+   "date": "2026-01-02"
+  }
  ],
  "scenes": [
   {
-   "dur": 2.4,
-   "video": {"src": "video/v1.mp4", "start": 4.6, "zoom": 1.45, "x": 0.38, "y": 0.0, "audio": 0},
+   "dur": 2.6,
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 2.2,
+    "zoom": 1.25,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
    "caps": [
-    {"k": "talk", "t": "흥.", "x": 0.7, "y": 0.42, "at": 0.2, "to": 2.4},
-    {"k": "sfx", "t": "(째릿)", "x": 0.2, "y": 0.42, "at": 0.6, "to": 2.4, "s": "tick", "sv": 0.7}
+    {
+     "k": "talk",
+     "t": "흥.",
+     "x": 0.2,
+     "y": 0.3,
+     "at": 0.3,
+     "to": 2.6
+    },
+    {
+     "k": "sfx",
+     "t": "(고개 홱)",
+     "x": 0.78,
+     "y": 0.62,
+     "at": 0.4,
+     "to": 2.6,
+     "s": "whoosh",
+     "sv": 0.7
+    }
    ]
   },
   {
-   "say": "집사가 수프를 끓이기 시작하자, 이 고양이는 박스 안으로 들어가 버렸는데요.",
-   "video": {"src": "video/v1.mp4", "start": 0.0, "zoom": 1.45, "x": 0.4, "y": 0.0, "audio": 0},
+   "say": "'안 돼'라는 말을 들은 이 초대형견, 자기 전 간식까지 거절해 버렸는데요.",
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 4.6,
+    "zoom": 1.25,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
    "caps": [
-    {"k": "desc", "t": "양파, 마늘 듬뿍 수프", "x": 0.5, "y": 0.27, "at": 0.1}
+    {
+     "k": "desc",
+     "t": "그레이트데인 × 마스티프 믹스",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "dur": 3.0,
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 10.0,
+    "zoom": 1.25,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "말 시키지 마.\n지금 서운하니까.",
+     "x": 0.3,
+     "y": 0.18,
+     "at": 0.2,
+     "to": 3.0
+    },
+    {
+     "k": "sfx",
+     "t": "(먼 산)",
+     "x": 0.8,
+     "y": 0.58,
+     "at": 0.8,
+     "to": 3.0
+    }
+   ]
+  },
+  {
+   "dur": 2.2,
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 19.7,
+    "zoom": 1.25,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "하아암~\n안 들려~",
+     "x": 0.25,
+     "y": 0.2,
+     "at": 0.4,
+     "to": 2.2
+    }
+   ]
+  },
+  {
+   "dur": 1.9,
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 24.6,
+    "zoom": 1.25,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "옆에서 다 보고 있던 동생",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.1,
+     "to": 1.9
+    },
+    {
+     "k": "talk",
+     "t": "형 또 저런다...",
+     "x": 0.72,
+     "y": 0.3,
+     "at": 0.4,
+     "to": 1.9,
+     "s": "question",
+     "sv": 0.6
+    }
+   ]
+  },
+  {
+   "say": "수의 테크니션에 따르면, 개가 서운하면 그 마음이 몸짓으로 다 드러난다고 합니다.",
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 30.4,
+    "zoom": 1.25,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "그리고 결국 침대에서 내려옴",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.1
+    }
    ]
   },
   {
    "dur": 3.4,
-   "video": {"src": "video/v1.mp4", "start": 3.4, "zoom": 1.45, "x": 0.38, "y": 0.0, "audio": 0},
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 42.8,
+    "zoom": 1.25,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
    "caps": [
-    {"k": "desc", "t": "그 박스 = 감정 지원 박스", "x": 0.5, "y": 0.27, "at": 0.1, "to": 3.4},
-    {"k": "talk", "t": "나만 빼고\n맛있는 거 먹지?", "x": 0.68, "y": 0.4, "at": 0.5, "to": 3.4, "s": "question", "sv": 0.6}
-   ]
-  },
-  {
-   "dur": 3.2,
-   "video": {"src": "video/v1.mp4", "start": 5.2, "zoom": 1.55, "x": 0.38, "y": 0.0, "audio": 0, "boomerang": true},
-   "caps": [
-    {"k": "talk", "t": "한 입 줄 때까지\n여기서 안 나간다", "x": 0.5, "y": 0.36, "at": 0.1, "to": 3.2},
-    {"k": "sfx", "t": "(시위 중)", "x": 0.8, "y": 0.62, "at": 0.8, "to": 3.2, "s": "dundun", "sv": 0.6}
-   ]
-  },
-  {
-   "say": "사실 양파와 마늘은 고양이 적혈구를 망가뜨릴 수 있어서, 절대 주면 안 되는 음식입니다.",
-   "video": {"src": "video/v1.mp4", "start": 4.2, "zoom": 1.45, "x": 0.38, "y": 0.0, "audio": 0, "boomerang": true},
-   "caps": [
-    {"k": "desc", "t": "양파, 마늘 = 고양이에게 독", "x": 0.5, "y": 0.27, "at": 0.1}
-   ]
-  },
-  {
-   "dur": 2.6,
-   "video": {"src": "video/v1.mp4", "start": 6.0, "zoom": 1.6, "x": 0.38, "y": 0.0, "audio": 0, "boomerang": true},
-   "caps": [
-    {"k": "talk", "t": "그래도\n서운한 건 서운한 거다", "x": 0.5, "y": 0.36, "at": 0.1, "to": 2.6}
+    {
+     "k": "talk",
+     "t": "...근데 아까 그 간식\n아직 유효하지?",
+     "x": 0.5,
+     "y": 0.22,
+     "at": 0.2,
+     "to": 3.4
+    },
+    {
+     "k": "sfx",
+     "t": "(슬쩍)",
+     "x": 0.8,
+     "y": 0.5,
+     "at": 0.9,
+     "to": 3.4,
+     "s": "dundun",
+     "sv": 0.6
+    }
    ]
   }
  ],
  "yt": {
-  "title": "수프 한 입 못 얻어먹고 제대로 삐진 고양이ㅋㅋ #shorts",
-  "description": "집사가 수프를 끓이자 한 입도 못 얻어먹은 고양이ㅋㅋ 조리대 위 '감정 지원 박스'에 들어가서 끝까지 집사를 째려봤습니다.\n\n사실 수프엔 양파와 마늘이 들어 있었대요. 양파·마늘 같은 파속 식물은 고양이 적혈구를 손상시켜 빈혈을 일으킬 수 있어 주면 안 됩니다(ASPCA).\n\n여러분 고양이도 이렇게 삐지나요?\n\n영상: TikTok @roseshorty1\n참고: Newsweek, ASPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @roseshorty1\n음성: Typecast\n\n#shorts #고양이 #삐진고양이 #냥이 #삼색이",
-  "tags": ["고양이", "삐진고양이", "냥이", "삼색이", "고양이쇼츠", "집사", "cat", "funny cat", "털뭉치"]
+  "title": "'안 돼' 한 마디에 제대로 삐진 그레이트데인 믹스ㅋㅋ #shorts",
+  "description": "'안 돼' 소리를 들은 초대형견 샘슨(그레이트데인 × 마스티프 믹스)ㅋㅋ 자기 전 간식까지 거절하고 고개를 홱 돌려 버렸습니다. 옆에서는 작은 동생이 다 지켜보고 있었고요.\n\n수의 테크니션 Kait Hembree는 개가 서운하거나 기분이 상하면 몸짓으로 분명히 드러난다고 말했습니다(Newsweek 인용, Cuteness 보도).\n\n여러분 강아지도 이렇게 삐지나요?\n\n영상: TikTok @sunshinesa9169\n참고: Cuteness\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @sunshinesa9169\n음성: Typecast\n\n#shorts #강아지 #삐진강아지 #그레이트데인 #마스티프 #대형견",
+  "tags": [
+   "강아지",
+   "삐진강아지",
+   "대형견",
+   "그레이트데인",
+   "마스티프",
+   "데니프",
+   "강아지쇼츠",
+   "dog",
+   "great dane",
+   "털뭉치"
+  ]
  },
  "publish_now": true
 }
