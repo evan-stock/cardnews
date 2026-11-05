@@ -1,0 +1,20 @@
+{
+ "src": "fxtwitter",
+ "author": "mayonaka_cat",
+ "name": "고양이는멍멍",
+ "date": "Sun Jul 26 13:54:52 +0000 2026",
+ "text": "🎶",
+ "views": 713,
+ "likes": 42,
+ "retweets": 10,
+ "quote": null,
+ "url": "https://x.com/mayonaka_cat/status/2081377715517857959",
+ "id": "2081377715517857959",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "사진만",
+ "card": null,
+ "quote_url": null
+}

@@ -1,0 +1,28 @@
+ERROR: [twitter] 2084604501349236965: No video could be found in this tweet
+받음 v2.mp4 4092KB (fxtwitter)
+ERROR: [twitter] 2080129466744111232: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/P_JH_L/status/2080129466744111232
+실패: https://x.com/P_JH_L/status/2080129466744111232
+ERROR: [twitter] 2081377715517857959: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/mayonaka_cat/status/2081377715517857959
+실패: https://x.com/mayonaka_cat/status/2081377715517857959
+ERROR: [twitter] 2041685632280613036: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/Ka_xr1/status/2041685632280613036
+실패: https://x.com/Ka_xr1/status/2041685632280613036
+ERROR: [twitter] 2067208132368154764: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/dailycatsclips/status/2067208132368154764
+실패: https://x.com/dailycatsclips/status/2067208132368154764
+total 6328
+drwxr-xr-x 2 runner runner    4096 Nov  5 04:27 .
+drwxr-xr-x 3 runner runner    4096 Nov  5 04:27 ..
+-rw-r--r-- 1 runner runner     984 Nov  5 04:27 log.txt
+-rw-r--r-- 1 runner runner  630007 Nov  5 04:27 v1.mp4
+-rw-r--r-- 1 runner runner 4190624 Nov  5 04:27 v2.mp4
+-rw-r--r-- 1 runner runner  906261 Nov  5 04:27 v3.mp4
+-rw-r--r-- 1 runner runner  706792 Nov  5 04:27 v8.mp4
+-rw-r--r-- 1 runner runner     585 Nov  5 04:27 x2.json
+-rw-r--r-- 1 runner runner     575 Nov  5 04:27 x3.json
+-rw-r--r-- 1 runner runner     418 Nov  5 04:27 x4.json
+-rw-r--r-- 1 runner runner     426 Nov  5 04:27 x5.json
+-rw-r--r-- 1 runner runner     415 Nov  5 04:27 x6.json
+-rw-r--r-- 1 runner runner     274 Nov  5 04:27 x7.json
