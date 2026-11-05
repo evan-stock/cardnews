@@ -1,0 +1,39 @@
+{
+ "id": "20261105-rift",
+ "media": "media/20261105-rift",
+ "topic": "2018.3 케냐 마이마히우–나록 도로를 가른 거대한 틈 — '아프리카가 둘로 갈라진다' 소동이 났지만 그 틈 자체는 폭우가 땅속 옛 단층의 화산재를 씻어 낸 것. 그래도 동아프리카 열곡은 실제로 해마다 몇 mm씩 벌어지는 중이고, 2005년 에티오피아 아파르에선 약 60km 틈이 3주 만에 열렸다. 사용자 11.05 09:17 회차 3번 선택(잘난지 170만 소재 — 잘난지 영상 확인 후 다른 각도로 구성).",
+ "hook": {
+  "t": "아프리카 땅이 하룻밤에\n'쩍' 갈라지자"
+ },
+ "credit": "영상: TRT World(2018.3.27) · 지도: Natural Earth · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/dark_tranquility.mp3",
+  "start": 32.0,
+  "vol": 0.45
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TRT World 공식 X https://x.com/trtworld/status/978539811966341120 (2018.3.27 'Kenya's Rift Valley cracks damage roads and farmland' 리포트, 1280x720 — media/20261105-rift2/video/v1.mp4, x1.json). 방송사 로고·하단 뉴스 자막띠는 크롭으로 뺌.",
+  "지도: Natural Earth 1:50m 육지·호수(퍼블릭 도메인) — scripts/story_shorts/data/africa_rift.json",
+  "모션그래픽: scripts/story_shorts/anim_rift.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "National Geographic 2018.4 'Why This Giant Crack Opened Up In Kenya' — 폭우가 옛 단층을 메운 화산재 등 무른 흙을 씻어 내 생긴 틈, 동아프리카 열곡 자체는 실제로 천천히 벌어지는 중", "url": "https://www.nationalgeographic.com/science/article/east-african-great-rift-valley-crack-spd"},
+  {"publisher": "TRT World 2018.3.27 — 케냐 리프트밸리 틈, 깊이 최대 약 50m·폭 약 15m로 보도, 도로·농지 피해", "url": "https://www.trtworld.com/africa/kenya-s-rift-valley-cracks-damage-roads-and-farmland-16253"},
+  {"publisher": "Wright et al. 2006 Nature 442 — 2005.9.14~10.4 에티오피아 아파르 다바후, 길이 약 60km 암맥이 최대 약 8m 벌어짐", "url": "https://ui.adsabs.harvard.edu/abs/2006Natur.442..291W/abstract"},
+  {"publisher": "COMET(NERC) — 아파르 지각이 갈라지는 과정(대륙이 찢어져 바다가 생기는 단계)", "url": "https://comet.nerc.ac.uk/research-impact/parting-of-the-earths-crust-in-the-afar-depression-ethiopia"},
+  {"publisher": "PBS NewsHour 2018 — 케냐 틈과 동아프리카 열곡(누비아판·소말리판 분리)", "url": "https://www.pbs.org/newshour/science/large-crack-in-east-african-rift-is-evidence-of-continent-split"}
+ ],
+ "_note": "원본 TRT World v1(1280x720). 위 로고(y<60)·아래 뉴스띠(y>640)를 피해 crop 803x580(+x,60) → 1080x780(-an, 대비·채도 살짝↑, unsharp, setsar 1). A = 3컷(56.4~57.7 드론: 틈 옆에 선 사람 / 58.3~59.5 틈 깊이 1.6배 확대 / 28.5~29.25 들판을 가르는 틈 0.7배 슬로) 컷 전환 1.33·2.57초. B 40.0~41.9 0.72배(틈이 차 다니는 도로까지), E 30.0~32.7(들판의 틈), H 56.4~58.1 1.3배 확대 0.6배 슬로 리플레이. 그래픽 gfx/buzz·ash·plates·afar = anim_rift.py. 효과음 없음, 원본 소리 끔(리포터 말소리).",
+ "scenes": [
+  {"text": "이 틈은 대체 어디까지 이어질까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.6},
+  {"text": "차 다니는 도로까지 '쭉' 끊어 놨다", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "정말 대륙이 쪼개지는 순간일까?", "video": {"src": "gfx/buzz.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "알고 보니 찢어진 게 아니라 '씻겨 나간' 것", "video": {"src": "gfx/ash.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "그럼 아프리카가 갈라진다는 건 헛소문?", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "헛소문은 아니에요, 속도가 느릴 뿐", "video": {"src": "gfx/plates.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.2},
+  {"text": "한 번에 60km가 열린 적도 있어요", "video": {"src": "gfx/afar.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "이 틈이 바다 될 때까지, 구독은 유지!", "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8}
+ ]
+}
