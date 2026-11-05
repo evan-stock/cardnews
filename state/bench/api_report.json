@@ -1,161 +1,40 @@
 {
- "since": "2026-01-01",
+ "since": "2025-09-01",
  "fixed": [],
  "found": [
   {
-   "title": "토리와 천사들",
-   "id": "UCLxDFLnf29-JeGRWgcBM4pA",
-   "created": "2015-12-22",
-   "subs": "401",
-   "videos": "558"
+   "title": "VertASC",
+   "id": "UCkSSQisybPEuovZNjQV301A",
+   "created": "2026-05-26",
+   "subs": "3380",
+   "videos": "261"
   },
   {
-   "title": "Dannyeo 단순한 여자",
-   "id": "UCg6WRCJmrdasf9-IdAO4bFA",
-   "created": "2021-01-25",
-   "subs": "139",
-   "videos": "276"
-  },
-  {
-   "title": "부엉키티 (BooeongKitty)",
-   "id": "UCedZIA0cBEPZNiPl7fMlRxQ",
-   "created": "2014-12-03",
-   "subs": "1080",
-   "videos": "1306"
-  },
-  {
-   "title": "멍뭉몽이",
-   "id": "UCyd5Vr2HTC7WzcX5pWH79jw",
-   "created": "2025-11-19",
-   "subs": "2320",
-   "videos": "233"
-  },
-  {
-   "title": "뚱땅똥땅땅",
-   "id": "UCDAemGlmjOUpFBfZt7ltG4A",
-   "created": "2026-07-06",
-   "subs": "1260",
-   "videos": "197"
-  },
-  {
-   "title": "댕댕이와 냥냥이 스토리",
-   "id": "UCUYP6dVqexNMN_QfOw18Rwg",
-   "created": "2025-08-05",
-   "subs": "927",
-   "videos": "148"
-  },
-  {
-   "title": "스트로베리 터틀",
-   "id": "UCnempld6HzR-HNHUC8kPdOg",
-   "created": "2025-09-27",
-   "subs": "130000",
-   "videos": "702"
-  },
-  {
-   "title": "Maryanne",
-   "id": "UCOyBUzGFYJ87nwwRbu2JCJA",
-   "created": "2026-03-15",
-   "subs": "61",
-   "videos": "29"
-  },
-  {
-   "title": "그루밍데이 고양이cat vlog",
-   "id": "UCUw1C3Jn6RTS9pR899ufATQ",
-   "created": "2019-11-11",
-   "subs": "538000",
-   "videos": "1231"
+   "title": "일러스트냥이",
+   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
+   "created": "2026-09-25",
+   "subs": "0",
+   "videos": "4"
   }
  ],
  "search_hits": [
   {
-   "q": "cat emotional support box stare",
-   "vid": "MFSwBB1p33w",
-   "ch": "Maryanne",
-   "cid": "UCOyBUzGFYJ87nwwRbu2JCJA",
-   "date": "2026-03-15",
-   "title": "“When you watch them cook the whole time and still get nothi",
-   "views": 18
+   "q": "주황 고양이 의자",
+   "vid": "jMcNNZ52I20",
+   "ch": "일러스트냥이",
+   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
+   "date": "2026-10-02",
+   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
+   "views": 13
   },
   {
-   "q": "삐진 고양이 박스",
-   "vid": "BMNw0YC3fgI",
-   "ch": "스트로베리 터틀",
-   "cid": "UCnempld6HzR-HNHUC8kPdOg",
-   "date": "2026-02-23",
-   "title": "애착인형 뺏겨서 삐진 고양이ㅋㅋ",
-   "views": 29368123
-  },
-  {
-   "q": "삐진 고양이 박스",
-   "vid": "yoOs1raDYLM",
-   "ch": "그루밍데이 고양이cat vlog",
-   "cid": "UCUw1C3Jn6RTS9pR899ufATQ",
-   "date": "2026-09-09",
-   "title": "장난감에 한대 맞고 왕삐진 고양이",
-   "views": 31229
-  },
-  {
-   "q": "삐진 고양이 박스",
-   "vid": "aA8BcU1jDF8",
-   "ch": "멍뭉몽이",
-   "cid": "UCyd5Vr2HTC7WzcX5pWH79jw",
-   "date": "2026-01-19",
-   "title": "역대급 삐진 고양이 TOP7",
-   "views": 14960
-  },
-  {
-   "q": "삐진 고양이 박스",
-   "vid": "YdXUgPQD5tA",
-   "ch": "뚱땅똥땅땅",
-   "cid": "UCDAemGlmjOUpFBfZt7ltG4A",
-   "date": "2026-08-17",
-   "title": "박스 버린다고 했더니 삐져버린 냥이",
-   "views": 14196
-  },
-  {
-   "q": "삐진 고양이 박스",
-   "vid": "jPBw11daoLg",
-   "ch": "댕댕이와 냥냥이 스토리",
-   "cid": "UCUYP6dVqexNMN_QfOw18Rwg",
-   "date": "2026-01-11",
-   "title": "안아주지 않아서 삐진냥이 #고양이 #동물키우기 #강아지",
-   "views": 2754
-  },
-  {
-   "q": "삐진 고양이 박스",
-   "vid": "Ns8k5yPlcFA",
-   "ch": "부엉키티 (BooeongKitty)",
-   "cid": "UCedZIA0cBEPZNiPl7fMlRxQ",
-   "date": "2026-03-08",
-   "title": "삐진 척하다가 잠들어 버린 고양이",
-   "views": 1636
-  },
-  {
-   "q": "삐진 고양이 박스",
-   "vid": "g2lP3_xN4os",
-   "ch": "토리와 천사들",
-   "cid": "UCLxDFLnf29-JeGRWgcBM4pA",
-   "date": "2026-05-28",
-   "title": "단풍이 삐진 이후 그리고×X(풀영상)",
-   "views": 1493
-  },
-  {
-   "q": "삐진 고양이 박스",
-   "vid": "Rcr4Vzm43Ns",
-   "ch": "Dannyeo 단순한 여자",
-   "cid": "UCg6WRCJmrdasf9-IdAO4bFA",
-   "date": "2026-07-26",
-   "title": "187. 언제 들어온거고~?힉ㅜ 털이 재빨래각😮‍💨 삐진 블루베리 박스로 이동😍 #torontolife #고",
-   "views": 504
-  },
-  {
-   "q": "삐진 고양이 박스",
-   "vid": "JG-zNTMz8fg",
-   "ch": "부엉키티 (BooeongKitty)",
-   "cid": "UCedZIA0cBEPZNiPl7fMlRxQ",
-   "date": "2026-04-23",
-   "title": "약 먹고 기분 상해서 은둔한 고양이🤣",
-   "views": 821
+   "q": "cat spinning bar stool footrest",
+   "vid": "5K9q4QuOslU",
+   "ch": "VertASC",
+   "cid": "UCkSSQisybPEuovZNjQV301A",
+   "date": "2026-09-28",
+   "title": "Apex predator vs bar stool ring 😭🐾",
+   "views": 18466
   }
  ]
 }

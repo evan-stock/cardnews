@@ -1,193 +1,72 @@
 {
- "id": "20261105-bandage",
+ "id": "20261105-soupbox",
  "mode": "send",
  "format": "meme",
- "topic": "언니(오스트레일리안 셰퍼드 계열 갈색 강아지)가 다리 붕대를 갈 때마다 바닥에 턱을 괴고 시무룩해지던 사모예드에게, 집사가 멀쩡한 다리에도 붕대를 감아 주자 곧바로 해맑게 웃으며 붕대 다리로 걸어 다님(TikTok @babybearyuki, 2024.9.27, 87만 회, Newsweek 2024.10.1 보도). 원본에 덧입힌 음악(The Cranberries 'Linger' 커버)이 깔려 원본 소리 전부 끔. 원본 캡션은 zoom 크롭으로 화면 밖으로 밀어냄(흐림 없음). 사실: UC 샌디에이고 연구(Harris & Prouvost 2014, PLOS ONE) — 주인이 가짜 강아지 인형을 챙길 때 개들이 주인을 밀거나 끼어드는 질투 행동을 보임.",
+ "topic": "집사가 양파·마늘 들어간 수프를 끓이자 한 입도 못 얻어먹은 삼색(톨티) 고양이가 주방 조리대 위 빈 물비누 박스(집사 표현 '감정 지원 박스')에 들어가 집사를 째려보며 시위(TikTok @roseshorty1, 2026.1, 약 100만 회·21.5만 좋아요, Newsweek 2026.2.24 보도). 원본에 덧입힌 소리가 전 구간 일정하게 깔려 원본 소리 전부 끔. 원본 캡션(세로 58~80%)은 zoom 크롭으로 화면 밖으로 밀어냄(흐림 없음). 사실: 양파·마늘(파속 식물)은 고양이 적혈구를 손상시켜 빈혈을 일으킬 수 있음(ASPCA).",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 2.0,
  "sfx_max": 3,
  "hook": {
-  "t": "멀쩡한 다리에 붕대 감아 달래\n'질투 폭발 사모예드ㅋㅋ'"
+  "t": "수프 한 입 안 줬더니\n'박스 들어가서 째려보는 중ㅋㅋ'"
  },
- "photo_credits": [
-  "TikTok @babybearyuki"
- ],
+ "photo_credits": ["TikTok @roseshorty1"],
  "sources": [
-  {
-   "publisher": "TikTok @babybearyuki (사모예드)",
-   "url": "https://www.tiktok.com/@babybearyuki/video/7418942116073573665",
-   "date": "2024-09-27"
-  },
-  {
-   "publisher": "Newsweek - Dog's Sulking Over Sibling's Bandage Has Internet in Stitches",
-   "url": "https://www.newsweek.com/dog-sulking-sibling-gets-bandage-1961898",
-   "date": "2024-10-01"
-  },
-  {
-   "publisher": "Phys.org - Dogs get especially jealous of other dogs, study finds (UC San Diego, PLOS ONE)",
-   "url": "https://phys.org/news/2014-07-dogs-jealous.html",
-   "date": "2014-07-23"
-  }
+  {"publisher": "TikTok @roseshorty1 (삼색 고양이)", "url": "https://www.tiktok.com/@roseshorty1/video/7594591684424404254", "date": "2026-01"},
+  {"publisher": "Newsweek - Woman Realizes Cat Is 'Mad Again' With Her—Internet Can't Cope With Reason", "url": "https://www.newsweek.com/woman-realizes-cat-is-mad-again-with-her-internet-cant-cope-with-reason-11572897", "date": "2026-02-24"},
+  {"publisher": "ASPCA - Toxic and Non-Toxic Plants: Onion / Garlic", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion", "date": ""}
  ],
  "scenes": [
   {
    "dur": 2.4,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 4.6,
-    "zoom": 1.35,
-    "x": 0.5,
-    "y": 0.25,
-    "audio": 0
-   },
+   "video": {"src": "video/v1.mp4", "start": 4.6, "zoom": 1.45, "x": 0.38, "y": 0.0, "audio": 0},
    "caps": [
-    {
-     "k": "talk",
-     "t": "언니만\n붕대 해주고...",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 0.1,
-     "to": 2.4
-    },
-    {
-     "k": "sfx",
-     "t": "(시무룩)",
-     "x": 0.78,
-     "y": 0.72,
-     "at": 0.4,
-     "to": 2.4,
-     "s": "slide",
-     "sv": 0.7
-    }
+    {"k": "talk", "t": "흥.", "x": 0.7, "y": 0.42, "at": 0.2, "to": 2.4},
+    {"k": "sfx", "t": "(째릿)", "x": 0.2, "y": 0.42, "at": 0.6, "to": 2.4, "s": "tick", "sv": 0.7}
    ]
   },
   {
-   "say": "언니 다리 붕대를 갈아줄 때마다, 이 사모예드는 이렇게 삐졌는데요.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 1.9,
-    "zoom": 1.35,
-    "x": 0.5,
-    "y": 0.25,
-    "audio": 0
-   },
+   "say": "집사가 수프를 끓이기 시작하자, 이 고양이는 박스 안으로 들어가 버렸는데요.",
+   "video": {"src": "video/v1.mp4", "start": 0.0, "zoom": 1.45, "x": 0.4, "y": 0.0, "audio": 0},
    "caps": [
-    {
-     "k": "desc",
-     "t": "언니 붕대 가는 중",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.1
-    }
+    {"k": "desc", "t": "양파, 마늘 듬뿍 수프", "x": 0.5, "y": 0.27, "at": 0.1}
    ]
   },
   {
-   "dur": 5.4,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 7.0,
-    "zoom": 1.35,
-    "x": 0.5,
-    "y": 0.25,
-    "audio": 0
-   },
+   "dur": 3.4,
+   "video": {"src": "video/v1.mp4", "start": 3.4, "zoom": 1.45, "x": 0.38, "y": 0.0, "audio": 0},
    "caps": [
-    {
-     "k": "talk",
-     "t": "나도!!\n나도 감아줘!!",
-     "x": 0.3,
-     "y": 0.15,
-     "at": 0.1,
-     "to": 2.6
-    },
-    {
-     "k": "desc",
-     "t": "안 다쳤는데 앞발 쓱",
-     "x": 0.5,
-     "y": 0.08,
-     "at": 2.6,
-     "to": 5.4
-    },
-    {
-     "k": "sfx",
-     "t": "(초집중)",
-     "x": 0.25,
-     "y": 0.3,
-     "at": 3.2,
-     "to": 5.4,
-     "s": "pop",
-     "sv": 0.7
-    }
+    {"k": "desc", "t": "그 박스 = 감정 지원 박스", "x": 0.5, "y": 0.27, "at": 0.1, "to": 3.4},
+    {"k": "talk", "t": "나만 빼고\n맛있는 거 먹지?", "x": 0.68, "y": 0.4, "at": 0.5, "to": 3.4, "s": "question", "sv": 0.6}
    ]
   },
   {
-   "dur": 2.4,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 16.8,
-    "zoom": 1.12,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0
-   },
+   "dur": 3.2,
+   "video": {"src": "video/v1.mp4", "start": 5.2, "zoom": 1.55, "x": 0.38, "y": 0.0, "audio": 0, "boomerang": true},
    "caps": [
-    {
-     "k": "talk",
-     "t": "나도 환자다~",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.1,
-     "to": 2.4
-    },
-    {
-     "k": "sfx",
-     "t": "(해맑)",
-     "x": 0.8,
-     "y": 0.3,
-     "at": 0.3,
-     "to": 2.4,
-     "s": "sparkle",
-     "sv": 0.7
-    }
+    {"k": "talk", "t": "한 입 줄 때까지\n여기서 안 나간다", "x": 0.5, "y": 0.36, "at": 0.1, "to": 3.2},
+    {"k": "sfx", "t": "(시위 중)", "x": 0.8, "y": 0.62, "at": 0.8, "to": 3.2, "s": "dundun", "sv": 0.6}
    ]
   },
   {
-   "say": "실제로 미국 UC 샌디에이고 연구에서도, 개들은 주인이 강아지 인형을 챙겨 주자 끼어들며 질투했다고 합니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 18.6,
-    "zoom": 1.3,
-    "x": 0.5,
-    "y": 0.2,
-    "audio": 0,
-    "boomerang": true
-   },
+   "say": "사실 양파와 마늘은 고양이 적혈구를 망가뜨릴 수 있어서, 절대 주면 안 되는 음식입니다.",
+   "video": {"src": "video/v1.mp4", "start": 4.2, "zoom": 1.45, "x": 0.38, "y": 0.0, "audio": 0, "boomerang": true},
    "caps": [
-    {
-     "k": "talk",
-     "t": "이제 공평하지?",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.4
-    }
+    {"k": "desc", "t": "양파, 마늘 = 고양이에게 독", "x": 0.5, "y": 0.27, "at": 0.1}
+   ]
+  },
+  {
+   "dur": 2.6,
+   "video": {"src": "video/v1.mp4", "start": 6.0, "zoom": 1.6, "x": 0.38, "y": 0.0, "audio": 0, "boomerang": true},
+   "caps": [
+    {"k": "talk", "t": "그래도\n서운한 건 서운한 거다", "x": 0.5, "y": 0.36, "at": 0.1, "to": 2.6}
    ]
   }
  ],
  "yt": {
-  "title": "언니만 붕대 감아주자 단단히 삐진 사모예드ㅋㅋ #shorts",
-  "description": "언니 다리 붕대 갈 때마다 바닥에 턱 괴고 시무룩해지던 사모예드ㅋㅋ 결국 멀쩡한 다리에도 붕대를 감아 줬더니, 바로 해맑아졌습니다.\n\n실제로 UC 샌디에이고 연구(2014, PLOS ONE)에서 개들은 주인이 강아지 인형을 챙겨 줄 때 주인을 밀거나 사이에 끼어드는 질투 행동을 보였대요.\n\n여러분 강아지도 이렇게 질투하나요?\n\n영상: TikTok @babybearyuki\n참고: Newsweek, Phys.org(UC San Diego 연구)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @babybearyuki\n음성: Typecast\n\n#shorts #사모예드 #강아지 #질투 #삐진강아지",
-  "tags": [
-   "사모예드",
-   "강아지",
-   "삐진강아지",
-   "질투",
-   "댕댕이",
-   "강아지쇼츠",
-   "samoyed",
-   "funny dog",
-   "털뭉치"
-  ]
+  "title": "수프 한 입 못 얻어먹고 제대로 삐진 고양이ㅋㅋ #shorts",
+  "description": "집사가 수프를 끓이자 한 입도 못 얻어먹은 고양이ㅋㅋ 조리대 위 '감정 지원 박스'에 들어가서 끝까지 집사를 째려봤습니다.\n\n사실 수프엔 양파와 마늘이 들어 있었대요. 양파·마늘 같은 파속 식물은 고양이 적혈구를 손상시켜 빈혈을 일으킬 수 있어 주면 안 됩니다(ASPCA).\n\n여러분 고양이도 이렇게 삐지나요?\n\n영상: TikTok @roseshorty1\n참고: Newsweek, ASPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @roseshorty1\n음성: Typecast\n\n#shorts #고양이 #삐진고양이 #냥이 #삼색이",
+  "tags": ["고양이", "삐진고양이", "냥이", "삼색이", "고양이쇼츠", "집사", "cat", "funny cat", "털뭉치"]
  },
  "publish_now": true
 }
