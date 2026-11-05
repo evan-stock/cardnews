@@ -5,3 +5,4 @@ total 12
 drwxr-xr-x 2 runner runner 4096 Nov  5 08:07 .
 drwxr-xr-x 3 runner runner 4096 Nov  5 08:07 ..
 -rw-r--r-- 1 runner runner  600 Nov  5 08:07 log.txt
+맥북(사용자 네트워크)에서 yt-dlp로 받음 2026-11-05 17:31 KST
