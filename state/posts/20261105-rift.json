@@ -1,7 +1,7 @@
 {
  "id": "20261105-rift",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-05T11:46:36.951296+09:00",
  "publish_at": "2026-11-05T11:46:36.951311+09:00",
  "publish_now": true,
@@ -32,5 +32,6 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1885
+ "tg_msg": 1885,
+ "note": "사용자 제목 변경(5번) → 20261105-rift-b 로 다시 보냄. 이 메시지(tg 1885)는 무시"
 }
