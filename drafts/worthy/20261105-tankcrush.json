@@ -1,0 +1,38 @@
+{
+ "id": "20261105-tankcrush",
+ "media": "media/20261105-tankcrush",
+ "topic": "철도 탱크차가 아무것도 안 부딪혔는데 찌그러지는 이유 — 뜨거운 김으로 세척한 뒤 뚜껑을 닫으면 김이 식어 물이 되며 속이 거의 진공이 되고, 바깥 공기(1㎡당 약 10톤)가 탱크를 눌러 찌그러뜨림. 사용자 11.05 20:17 회차 3번 선택.",
+ "hook": {
+  "t": "이 탱크는\n'사고'가 아닙니다"
+ },
+ "credit": "영상: TikTok @hospicelens · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/killers.mp3",
+  "start": 185.5,
+  "vol": 0.38
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @hospicelens https://www.tiktok.com/@hospicelens/video/7247555015379029294 ('Train Tank vacuum implosion at 1 atmospheric pressure', 회색·검은 탱크차 두 장면) — media/20261105-wb3/video/v1.mp4. 위아래 검은 띠는 크롭.",
+  "모션그래픽: scripts/story_shorts/anim_tankcrush.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "Paul Mueller Company Academy 'Top 4 causes of implosions in tanks' — 뜨거운 세척(김) 뒤 밀폐된 탱크가 식으며 진공이 생기고 통기구가 막히면 대기압에 찌그러짐", "url": "https://academy.paulmueller.com/top-4-causes-of-implosions-in-tanks"},
+  {"publisher": "MythBusters 2016 'Tanker Crush' — 탱크차에 김을 채우고 밀폐한 뒤 식히자 대기압으로 찌그러짐(확인됨)", "url": "https://mythresults.com/tanker-crush"},
+  {"publisher": "WERMAC 'Tank Implosion' — 진공 상태 탱크에 대기압이 가하는 힘, 진공 방지 밸브(벤트)의 역할", "url": "https://wermac.org/equipment/tank_implosion.html"},
+  {"publisher": "대기압 101.3kPa ≈ 1㎡당 약 10.3톤(1kgf/㎠)", "url": "https://en.wikipedia.org/wiki/Atmospheric_pressure"}
+ ],
+ "_note": "원본 v1(720x952, 영상 부분 720x542 y202). A=3컷: 검은 탱크 8.06~8.58 0.4배 슬로(이미 찌그러지는 중) / 8.14~8.64 왼쪽 끝 1.6배 확대 0.42배 슬로 / 회색 탱크 0.84~1.74 → 컷 전환 1.37·2.6초. B 검은 탱크 5.6~7.8 멀쩡(1.1배). C 7.8~10.0 찌그러짐 정속. D 회색 0~2.2. G 회색 1.0~3.0 김 새는 꼭대기 1.8배 확대 0.77배 슬로. H 검은 탱크 7.85~9.25 1.3배 확대 0.5배 슬로 리플레이. 대비·채도 살짝↑·샤픈. 그래픽 gfx/steam·press·vent = anim_tankcrush.py. 효과음 없음, 원본 소리 끔(거의 무음).",
+ "scenes": [
+  {"text": "아무것도 안 부딪혔는데, 왜 이렇게 됐을까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.4},
+  {"text": "방금까지 멀쩡하던 기차 탱크가", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.2},
+  {"text": "단 1초 만에 '와그작'", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.2},
+  {"text": "옆 탱크도 똑같이… 안에서 터진 걸까?", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.2},
+  {"text": "범인은 대개 세척할 때 넣은 '뜨거운 김'", "video": {"src": "gfx/steam.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.2},
+  {"text": "김이 식어 속이 비자, 바깥 공기가 '꾹'", "video": {"src": "gfx/press.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "꼭대기로 김이 새어 나오는 게 보이죠?", "video": {"src": "clip/G.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "뚜껑만 열어 뒀어도 멀쩡했을 탱크", "video": {"src": "gfx/vent.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "공기의 무게, 다음 편도 구독!", "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6}
+ ]
+}
