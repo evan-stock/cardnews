@@ -1,0 +1,30 @@
+ERROR: [twitter] 2020464207586615469: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/martinrogerEE/status/2020464207586615469
+실패: https://x.com/martinrogerEE/status/2020464207586615469
+ERROR: [twitter] 1731285655102128328: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/estembassyuk/status/1731285655102128328
+실패: https://x.com/estembassyuk/status/1731285655102128328
+total 40924
+drwxr-xr-x 2 runner runner    4096 Nov  6 05:25 .
+drwxr-xr-x 3 runner runner    4096 Nov  6 05:24 ..
+-rw-r--r-- 1 runner runner     453 Nov  6 05:25 log.txt
+-rw-r--r-- 1 runner runner   29131 Nov  6 05:24 v1.info.json
+-rw-r--r-- 1 runner runner 2579904 Nov  6 05:24 v1.mp4
+-rw-r--r-- 1 runner runner 4478263 Nov  6 05:25 v2.mp4
+-rw-r--r-- 1 runner runner    3744 Nov  6 05:25 v3.info.json
+-rw-r--r-- 1 runner runner  411316 Nov  6 05:25 v3.mp3
+-rw-r--r-- 1 runner runner   22929 Nov  6 05:25 v4.info.json
+-rw-r--r-- 1 runner runner 2286964 Nov  6 05:25 v4.mp4
+-rw-r--r-- 1 runner runner   22685 Nov  6 05:25 v5.info.json
+-rw-r--r-- 1 runner runner 3407897 Nov  6 05:25 v5.mp4
+-rw-r--r-- 1 runner runner 5251243 Nov  6 05:25 v6.mp4
+-rw-r--r-- 1 runner runner   19002 Nov  6 05:25 v7.info.json
+-rw-r--r-- 1 runner runner 9607570 Nov  6 05:25 v7.mp4
+-rw-r--r-- 1 runner runner 6022323 Nov  6 05:25 v8.mp4
+-rw-r--r-- 1 runner runner 7692735 Nov  6 05:25 v9.mp4
+-rw-r--r-- 1 runner runner     552 Nov  6 05:25 x10.json
+-rw-r--r-- 1 runner runner     648 Nov  6 05:25 x11.json
+-rw-r--r-- 1 runner runner     533 Nov  6 05:25 x2.json
+-rw-r--r-- 1 runner runner     906 Nov  6 05:25 x6.json
+-rw-r--r-- 1 runner runner     989 Nov  6 05:25 x8.json
+-rw-r--r-- 1 runner runner     643 Nov  6 05:25 x9.json
