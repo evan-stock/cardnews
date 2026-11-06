@@ -1,81 +1,81 @@
 {
- "id": "20261106-t13",
+ "id": "20261106-t18",
  "mode": "send",
  "format": "meme",
- "topic": "아빠가 동생 골든 리지에게 뽀뽀하는 동안 소파에서 째려보는 골든리트리버 레일라(Instagram @layla_the_goldengirl 릴스 DT0dNU_k1t4, 2026.1.22, 좋아요 74만, DogTime 2026.1.23 보도). 원본 소리는 전 구간 일정한 음량(덧입힌 음원으로 판단)이라 전부 끔. 원본 캡션(세로 17~25%)은 zoom 1.2 + y 1.0 크롭으로 위로 밀어냄(흐림 없음). 사실: Harris & Prouvost 2014 PLOS ONE(UC샌디에이고) — 주인이 움직이는 강아지 인형을 예뻐하자 개들이 밀치기·끼어들기 같은 질투 행동을 보임.",
+ "topic": "계단 한가운데 대자로 드러누운 턱시도 아기 고양이 때문에 내려가다 멈칫·유턴하고, 결국 벽에 딱 붙어 살금살금 비켜 지나가는 그레이트데인(Instagram @ohhitsnik 릴스 DWPj3vZD2CB, 2026.3 게시, 약 100만 회·좋아요 6.7만, Newsweek 2026.3.30 보도 '117lb Great Dane Meets 7lb Kitten'). 원본 캡션 'The power imbalance is so unfair...'(세로 67~74%, 전 구간)는 zoom 1.35 + y 0.03 크롭으로 화면 아래 밖으로 밀어냄(흐림 없음). 원본 소리는 배경 -45dB 무음 + 짧은 중저음 소리(사람 소리인지 구분 불가, 동물 소리 아님)라 전부 끔. 사실: AKC 'Is the Great Dane a Good Fit for You?' — gentle giants, friendly, patient, highly dependable / 110~175파운드.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 2.0,
  "sfx_max": 3,
  "hook": {
-  "t": "동생만 뽀뽀받는 걸 본 언니 골댕이\n'표정 관리 실패ㅋㅋ'"
+  "t": "3kg 아깽이가 계단을 막아버림\n'53kg 대형견의 선택은ㅋㅋ'"
  },
  "photo_credits": [
-  "Instagram @layla_the_goldengirl"
+  "Instagram @ohhitsnik"
  ],
  "sources": [
   {
-   "publisher": "Instagram @layla_the_goldengirl (골든리트리버 레일라·리지)",
-   "url": "https://www.instagram.com/reel/DT0dNU_k1t4/",
-   "date": "2026-01-22"
+   "publisher": "Instagram @ohhitsnik (그레이트데인 + 턱시도 아기 고양이)",
+   "url": "https://www.instagram.com/reel/DWPj3vZD2CB/",
+   "date": "2026-03"
   },
   {
-   "publisher": "DogTime - Golden Retriever's 'Jealousy Has No Bounds' When Sibling Gets Attention",
-   "url": "https://dogtime.com/news/204083-dogs-jealous-golden-retriever-video-sibling",
-   "date": "2026-01-23"
+   "publisher": "Newsweek - 117LB Great Dane Meets 7LB Kitten, What Happens Next Caught on Camera",
+   "url": "https://www.newsweek.com/117lb-great-dane-7lb-kitten-what-happens-next-camera-11755962",
+   "date": "2026-03-30"
   },
   {
-   "publisher": "Harris & Prouvost (2014) Jealousy in Dogs, PLOS ONE",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094597",
-   "date": "2014-07-23"
+   "publisher": "AKC - Is the Great Dane a Good Fit for You?",
+   "url": "https://www.akc.org/expert-advice/dog-breeds/great-dane-right-for-you/",
+   "date": "2026-06-03"
   }
  ],
  "scenes": [
   {
    "dur": 3.0,
    "video": {
-    "src": "video/v3.mp4",
-    "start": 6.0,
-    "zoom": 1.2,
-    "x": 0.75,
-    "y": 1.0,
+    "src": "video/v1.mp4",
+    "start": 1.2,
+    "zoom": 1.35,
+    "x": 0.12,
+    "y": 0.03,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...방금 뭐 한 거야?",
-     "x": 0.55,
-     "y": 0.55,
-     "at": 0.2,
-     "to": 3.0
+     "t": "...저기요?",
+     "x": 0.48,
+     "y": 0.28,
+     "at": 0.3,
+     "to": 2.0
     },
     {
      "k": "sfx",
-     "t": "(째릿)",
-     "x": 0.8,
-     "y": 0.1,
-     "at": 0.4,
+     "t": "(조용히 유턴)",
+     "x": 0.6,
+     "y": 0.42,
+     "at": 2.0,
      "to": 3.0,
-     "s": "dundun",
+     "s": "whoosh",
      "sv": 0.9
     }
    ]
   },
   {
-   "say": "아빠가 동생 골댕이한테 뽀뽀를 퍼붓는 동안, 언니 레일라는요.",
+   "say": "몸무게 53킬로 그레이트데인이, 3킬로 아기 고양이 앞에서 길이 막혔습니다.",
    "video": {
-    "src": "video/v3.mp4",
-    "start": 0.0,
-    "zoom": 1.2,
-    "x": 0.5,
-    "y": 1.0,
+    "src": "video/v1.mp4",
+    "start": 5.6,
+    "zoom": 1.35,
+    "x": 0.3,
+    "y": 0.03,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "동생 리지 뽀뽀 타임",
+     "t": "계단 통행 금지 (아깽이 낮잠 중)",
      "x": 0.5,
      "y": 0.1,
      "at": 0.3
@@ -83,101 +83,101 @@
    ]
   },
   {
-   "dur": 3.5,
+   "dur": 2.4,
    "video": {
-    "src": "video/v3.mp4",
-    "start": 7.0,
-    "zoom": 1.2,
-    "x": 0.75,
-    "y": 1.0,
+    "src": "video/v1.mp4",
+    "start": 10.0,
+    "zoom": 1.35,
+    "x": 0.3,
+    "y": 0.03,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "나는? 나는 왜 안 해줘?",
-     "x": 0.55,
-     "y": 0.55,
-     "at": 0.3,
-     "to": 3.5
+     "t": "깨우면 안 돼... 살금... 살금...",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.2,
+     "to": 2.4
     },
     {
      "k": "sfx",
-     "t": "(부들부들)",
-     "x": 0.3,
-     "y": 0.75,
-     "at": 0.8,
-     "to": 3.5,
-     "s": "shock",
+     "t": "(사뿐사뿐)",
+     "x": 0.72,
+     "y": 0.42,
+     "at": 0.6,
+     "to": 2.4,
+     "s": "tick",
      "sv": 0.8
     }
    ]
   },
   {
-   "say": "실제로 한 연구에선, 주인이 강아지 인형만 예뻐해도 개들이 질투 행동을 보였다고 합니다.",
+   "say": "미국켄넬클럽은 그레이트데인을, 참을성 많은 온순한 거인이라고 부릅니다.",
    "video": {
-    "src": "video/v3.mp4",
-    "start": 5.5,
-    "zoom": 1.2,
-    "x": 0.75,
-    "y": 1.0,
-    "audio": 0,
-    "boomerang": true
+    "src": "video/v1.mp4",
+    "start": 12.3,
+    "zoom": 1.35,
+    "x": 0.3,
+    "y": 0.03,
+    "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "질투 = 강아지도 느끼는 감정",
+     "t": "덩치만 큰 쫄보 아님 (배려임)",
      "x": 0.5,
-     "y": 0.42,
-     "at": 0.5
+     "y": 0.1,
+     "at": 0.4
     }
    ]
   },
   {
-   "dur": 2.6,
+   "dur": 2.7,
    "video": {
-    "src": "video/v3.mp4",
-    "start": 8.4,
-    "zoom": 1.2,
-    "x": 0.75,
-    "y": 1.0,
+    "src": "video/v1.mp4",
+    "start": 15.8,
+    "zoom": 1.35,
+    "x": 0.3,
+    "y": 0.03,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "아빠... 두고 보자.",
-     "x": 0.55,
-     "y": 0.55,
-     "at": 0.2,
-     "to": 2.6
+     "t": "실례합니다아... 지나갈게요...",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.1,
+     "to": 1.7
     },
     {
-     "k": "sfx",
-     "t": "(복수 계획 중)",
-     "x": 0.3,
-     "y": 0.75,
-     "at": 0.6,
-     "to": 2.6,
-     "s": "tick",
-     "sv": 0.8
+     "k": "talk",
+     "t": "(꿈쩍도 안 함)",
+     "x": 0.68,
+     "y": 0.62,
+     "at": 1.5,
+     "to": 2.7,
+     "s": "pop",
+     "sv": 0.9
     }
    ]
   }
  ],
  "yt": {
-  "title": "아빠가 동생한테만 뽀뽀하자 제대로 삐진 골댕이ㅋㅋ #shorts",
-  "description": "아빠가 동생 골든리트리버 리지에게 뽀뽀를 퍼붓는 동안ㅋㅋ 소파 위 언니 레일라의 표정을 보세요. 째릿... 이건 질투가 확실합니다.\n\n2014년 미국 UC샌디에이고 연구팀(PLOS ONE)은 주인이 움직이는 강아지 인형을 예뻐하자 개들이 주인을 건드리거나 사이에 끼어드는 등 질투로 볼 만한 행동을 보였다고 발표했습니다.\n\n여러분 집 강아지도 질투하나요?\n\n영상: Instagram @layla_the_goldengirl\n참고: DogTime, PLOS ONE(Harris & Prouvost, 2014)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: Instagram @layla_the_goldengirl\n음성: Typecast\n\n#shorts #골든리트리버 #골댕이 #삐진강아지 #질투 #강아지쇼츠",
+  "title": "계단 막고 드러누운 아기 고양이 앞에서 그레이트데인이 한 행동ㅋㅋ #shorts",
+  "description": "3kg 아기 고양이가 계단 한가운데 대자로 드러눕자ㅋㅋ 53kg 그레이트데인은 멈칫, 유턴, 그리고... 벽에 딱 붙어 살금살금 지나갑니다. 아깽이는 끝까지 꿈쩍도 안 했습니다.\n\n미국켄넬클럽(AKC)은 그레이트데인을 '온순한 거인(gentle giant)'이라 부르며, 다정하고 참을성 많고 믿음직한 견종으로 소개합니다. 몸무게는 보통 50~80kg(110~175파운드)입니다.\n\n여러분 집 서열 1위는 누구인가요?\n\n영상: Instagram @ohhitsnik\n참고: Newsweek, AKC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: Instagram @ohhitsnik\n음성: Typecast\n\n#shorts #그레이트데인 #대형견 #아기고양이 #아깽이 #강아지쇼츠 #고양이쇼츠",
   "tags": [
-   "골든리트리버",
-   "골댕이",
-   "삐진강아지",
-   "질투하는강아지",
-   "강아지질투",
+   "그레이트데인",
+   "대형견",
+   "아기고양이",
+   "아깽이",
+   "강아지와고양이",
    "강아지쇼츠",
-   "golden retriever",
-   "jealous dog",
+   "고양이쇼츠",
+   "great dane",
+   "kitten",
    "털뭉치"
   ]
  },
