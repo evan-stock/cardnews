@@ -2,7 +2,7 @@
  "id": "20261106-chipshock",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-06T18:36:56.513658+09:00",
  "publish_at": "2026-11-06T18:32:34+09:00",
  "topic": "美 민주당 안사리 '첫날 AI 개발 중단·초지능 금지' X글(조회 1700만) + 머스크 '멋진 신세계' → 반도체 -12% → 코스피 서킷브레이커",
@@ -125,5 +125,6 @@
   "media/20261106-chipshock/08.jpg",
   "media/20261106-chipshock/09.jpg"
  ],
- "tg_msg": 1983
+ "tg_msg": 1983,
+ "decided_at": "2026-11-06T18:53:10.787610+09:00"
 }
