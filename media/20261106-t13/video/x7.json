@@ -1,0 +1,20 @@
+{
+ "src": "fxtwitter",
+ "author": "dorimibu",
+ "name": "도림",
+ "date": "Sat May 16 09:05:47 +0000 2026",
+ "text": "아기고양이가 울지도 않고 씩씩하네요",
+ "views": 109,
+ "likes": 0,
+ "retweets": 0,
+ "quote": null,
+ "url": "https://x.com/dorimibu/status/2055575426660257849",
+ "id": "2055575426660257849",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "글만/삭제됨",
+ "card": null,
+ "quote_url": null
+}
