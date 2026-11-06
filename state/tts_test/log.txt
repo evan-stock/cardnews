@@ -1,9 +1,9 @@
 키 있음, 글자 수 53
-  Aoede HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 3 requests per minute on Free Tier). Please retry in 14s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
-  Aoede HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 3 requests per minute on Free Tier). Please retry in 8s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
-  Aoede HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 3 requests per minute on Free Tier). Please retry in 58s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
-  Leda HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 3 requests per minute on Free Tier). Please retry in 39s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
-  Leda HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 3 requests per minute on Free Tier). Please retry in 21s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
-Kore: 성공 33.2초
-Aoede: 실패
-Leda: 성공 34.6초
+  Kore HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 22h14m53s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Kore HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 22h14m48s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Kore HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 22h14m38s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Leda HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 22h14m23s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Leda HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 22h14m18s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+  Leda HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 22h14m7s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+Kore: 실패
+Leda: 실패
