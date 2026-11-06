@@ -1,117 +1,27 @@
 [
  {
-  "id": "20261106-firsts",
+  "id": "20261106-chipshock",
   "slot": "evening",
-  "mode": "send",
-  "topic": "미국 중간선거 '최초' 당선인 모음(댄 고·엘사예드·보텀스·할랜드·파파스·먼슨)",
-  "category": "국제(미국 중간선거)",
-  "emotion": "놀람·신기함(+한국계 반가움)",
-  "core": "댄 고 MA-6 당선(제주 고씨, 고광림 손자, 역대 7번째 한국계 연방의원), 엘사예드 첫 무슬림 상원(약 7%p), 보텀스 첫 흑인 여성 주지사, 할랜드 첫 원주민 여성 주지사, 파파스 첫 공개 동성애자 남성 상원, 먼슨 낙선(약 6%p).",
-  "risk": "엘사예드(이스라엘 비판·트럼프 공격), 파파스(동성애) 댓글 공방 가능 → 사실만, 평가 없음.",
+  "mode": "collect",
+  "topic": "미국 선거 → AI 데이터센터 규제 공포 → 반도체 폭락 → 코스피 서킷브레이커",
+  "image_pages": [
+   "https://www.newspim.com/news/view/20261106000202",
+   "https://www.fnnews.com/news/202611060834391434",
+   "https://www.etoday.co.kr/news/view/2644855",
+   "https://www.etoday.co.kr/news/view/2644861",
+   "https://www.gukjenews.com/news/articleView.html?idxno=3743953",
+   "https://www.ebn.co.kr/news/articleView.html?idxno=1730674",
+   "https://www.ntoday.co.kr/news/articleView.html?idxno=130670",
+   "https://www.issueon.co.kr/news/articleView.html?idxno=14331",
+   "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks",
+   "https://www.sherwood.news/tech/sen-sanders-and-rep-ocasio-cortez-introduce-data-center-moratorium-bill/"
+  ],
+  "limit": 40,
   "slides": [
    {
-    "t": "제주 고씨 손자부터 첫 무슬림 상원의원까지\n미국 선거 '최초' 당선인들",
-    "lay": "one",
-    "inset": {
-     "img": "cand/press02.jpg",
-     "label": "첫 무슬림 상원",
-     "fx": 0.5,
-     "fy": 0.3,
-     "y": 640,
-     "r": 135
-    }
-   },
-   {
-    "sub": "매사추세츠 연방 하원 · 댄 고(41)",
-    "t": "'제주 고씨' 손자, 미 의회 입성",
-    "b": "주미 대사대리를 지낸 고광림 박사의 손자입니다.\n매사추세츠 첫 아시아계 연방 하원의원, 역대 7번째 한국계 연방의원입니다."
-   },
-   {
-    "sub": "미시간 연방 상원 · 압둘 엘사예드(42)",
-    "t": "미국 첫 '무슬림' 상원의원",
-    "b": "트럼프는 선거 중 그를 \"지하디스트\"라고 불렀습니다.\n이집트 이민자의 아들인 의사 출신으로, 약 7%p 차로 이겼습니다."
-   },
-   {
-    "sub": "조지아 주지사 · 키샤 랜스 보텀스",
-    "t": "250년 만에 첫 '흑인 여성' 주지사",
-    "b": "미국 역사상 흑인 여성이 주지사가 된 건 처음입니다.\n애틀랜타 시장 출신으로, 조지아에서 1998년 이후 첫 민주당 주지사입니다."
-   },
-   {
-    "sub": "뉴멕시코 주지사 · 뎁 할랜드",
-    "t": "첫 '원주민 여성' 주지사",
-    "b": "\"건국 250주년에, 미국 첫 원주민 여성 주지사로 섭니다\"\n바이든 정부에서 첫 원주민 출신 장관을 지냈습니다."
-   },
-   {
-    "sub": "뉴햄프셔 연방 상원 · 크리스 파파스",
-    "t": "첫 '커밍아웃' 남성 상원의원",
-    "b": "당선 연설에서 남편 밴 벤틀리에게 감사 인사를 했고,\n지지자들의 환호가 쏟아졌습니다."
-   },
-   {
-    "sub": "아쉽게 놓친 '최초' · 신디 먼슨",
-    "t": "첫 한국계 주지사, 이번엔 실패",
-    "b": "한국인 어머니와 베트남전 참전용사 아버지의 딸입니다.\n오클라호마 주지사에 도전했지만 약 6%p 차로 졌습니다."
-   },
-   {
-    "t": "미국 정치의 얼굴이\n'바뀌고' 있다",
-    "b": "다음 편: 이번 선거가 AI·반도체 주가에 남긴 충격"
+    "t": "x"
    }
   ],
-  "images": [
-   "cover_koh",
-   "press01",
-   "press05",
-   "press03",
-   "haaland",
-   "pappas",
-   "press04",
-   "cover_koh"
-  ],
-  "caption": "[제주 고씨 손자부터 첫 무슬림 상원의원까지]\n\n3일(현지 시각) 치러진 미국 중간선거에서 '최초' 기록이 쏟아졌습니다. 민주당이 상·하원을 모두 가져간 이번 선거에서 인종·종교·성 정체성의 벽을 처음 넘은 당선인이 여럿 나왔습니다.\n\n한국과 인연이 깊은 사람도 있습니다. 매사추세츠 제6선거구에서 당선된 댄 고(41·한국명 고원영)는 주미 대사대리를 지낸 고광림 박사의 손자로, 아버지를 따라 제주 고씨 성을 씁니다. 매사추세츠에서 아시아계가 연방 하원에 뽑힌 건 처음이고, 역대 7번째 한국계 연방의원입니다.\n\n미시간에서는 이집트 이민자의 아들인 의사 압둘 엘사예드가 미국 첫 무슬림 상원의원이 됐습니다. 선거 기간 트럼프 대통령은 그를 \"지하디스트\"라고 불렀지만, 엘사예드는 약 7%p 차로 이겼습니다. 조지아에서는 키샤 랜스 보텀스가 미국 역사상 첫 흑인 여성 주지사가, 뉴멕시코에서는 뎁 할랜드가 첫 원주민 여성 주지사가 됐습니다. 뉴햄프셔의 크리스 파파스는 커밍아웃한 남성으로는 처음 상원에 입성합니다.\n\n반면 한국인 어머니를 둔 신디 먼슨은 오클라호마 주지사에 도전해 첫 한국계 주지사를 노렸지만, 공화당 후보에게 약 6%p 차로 졌습니다.\n\n이 중 가장 놀라운 '최초'는 누구인가요?\n\n생각나는 친구에게 보내주세요! 팔로우하면 다음 편 '이번 선거가 AI·반도체 주가에 남긴 충격'을 먼저 받아보실 수 있습니다.",
-  "hashtags": [
-   "미국중간선거",
-   "댄고",
-   "엘사예드",
-   "최초",
-   "미국선거"
-  ],
-  "sources": [
-   {
-    "publisher": "이투데이(연합뉴스)",
-    "url": "https://www.etoday.co.kr/news/view/2644201",
-    "date": "2026.11.04"
-   },
-   {
-    "publisher": "아주경제",
-    "url": "https://www.ajunews.com/view/20261104155439579",
-    "date": "2026.11.04"
-   },
-   {
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
-    "date": "2026.11.04"
-   },
-   {
-    "publisher": "Axios",
-    "url": "https://www.axios.com/2026/11/04/2026-midterm-elections-american-politics",
-    "date": "2026.11.04"
-   },
-   {
-    "publisher": "NBC Washington",
-    "url": "https://www.nbcwashington.com/elections/2026-midterms-historic-firsts/4177472/",
-    "date": "2026.11.04"
-   },
-   {
-    "publisher": "미주중앙일보",
-    "url": "https://koreadaily.com/article/20261104193739340",
-    "date": "2026.11.04"
-   }
-  ],
-  "photo_credits": [
-   "연합뉴스(이투데이)",
-   "위키미디어 커먼즈",
-   "NPR",
-   "NBC"
-  ],
-  "publish_now": true
+  "sources": []
  }
 ]
