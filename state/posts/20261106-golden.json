@@ -1,0 +1,52 @@
+{
+ "id": "20261106-golden",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-06T09:18:39.289096+09:00",
+ "publish_at": "2026-11-06T09:18:39.289116+09:00",
+ "publish_now": true,
+ "topic": "아기 골든리트리버를 데려온 지 2주, 오렌지 고양이 체스터가 냥냥펀치를 날려도 계속 들이대는 강아지(TikTok @itsjustemmak 7584997737322515733, 2025.12.18, 130만 회·22만 좋아요, Newsweek 2026.1.2 보도). 원본 소리는 덧입힌 음악으로 보여(11.5~43초 RMS -19~-25dB 일정) 전부 끔. 원본 캡션(세로 77~86%)은 zoom 1.3 + y 0.25(주방 장면 y 0) 크롭으로 아래로 밀어냄(흐림 없음). 사실: Blue Cross(Newsweek 인용) — 강아지가 못 닿는 고양이만의 안전한 공간을 마련하고 쫓아다니지 못하게.",
+ "sources": [
+  {
+   "publisher": "TikTok @itsjustemmak (골든리트리버 아기 + 고양이 체스터)",
+   "url": "https://www.tiktok.com/@itsjustemmak/video/7584997737322515733",
+   "date": "2025-12-18"
+  },
+  {
+   "publisher": "Newsweek - Owner Gets Golden Retriever Puppy, Cat Hasn't Had a 'Minute of Peace' Since",
+   "url": "https://www.newsweek.com/owner-gets-golden-retriever-cat-hasnt-had-peace-since-11298665",
+   "date": "2026-01-02"
+  }
+ ],
+ "seconds": 23.31,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261106-golden/short.mp4"
+ ],
+ "app_file": "media/20261106-golden/short_nobgm.mp4",
+ "yt": {
+  "title": "아기 골댕이가 집에 온 뒤 고양이에게 생긴 일ㅋㅋ #shorts",
+  "description": "아기 골든리트리버를 데려온 지 2주ㅋㅋ 고양이 체스터가 냥냥펀치를 날려도 강아지는 해맑게 계속 들이댑니다. 자는 척해도, 높은 곳으로 피신해도 소용없었는데... 마지막엔 고양이의 반격까지.\n\n영국 동물 단체 Blue Cross는 강아지를 들일 때 강아지가 닿지 못하는 고양이만의 안전한 공간을 꼭 마련하고, 강아지가 고양이를 쫓아다니지 못하게 하라고 조언합니다(Newsweek 보도).\n\n여러분 집 고양이는 강아지랑 친해졌나요?\n\n영상: TikTok @itsjustemmak\n참고: Newsweek\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @itsjustemmak\n음성: Typecast\n\n#shorts #골든리트리버 #아기강아지 #고양이 #냥냥펀치 #강아지와고양이\n\n출처: TikTok @itsjustemmak (골든리트리버 아기 + 고양이 체스터) 2025-12-18, Newsweek - Owner Gets Golden Retriever Puppy, Cat Hasn't Had a 'Minute of Peace' Since 2026-01-02\n사진·영상: TikTok @itsjustemmak\n\n#shorts #골든리트리버 #골댕이 #아기강아지 #고양이",
+  "tags": [
+   "골든리트리버",
+   "골댕이",
+   "아기강아지",
+   "고양이",
+   "냥냥펀치",
+   "강아지와고양이",
+   "강아지쇼츠",
+   "golden retriever puppy",
+   "cat",
+   "털뭉치"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "e1c8adc70f74",
+ "tg_msg": 1931
+}
