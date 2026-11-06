@@ -19,7 +19,7 @@ jobs:
           c=json.load(open('drafts/edge_tts.json')); out=c['out']; os.makedirs(os.path.dirname(out),exist_ok=True)
           async def go():
               words=[]
-              tts=edge_tts.Communicate(c['text'], c.get('voice','ko-KR-SunHiNeural'), rate=c.get('rate','+0%'), pitch=c.get('pitch','+0Hz'))
+              tts=edge_tts.Communicate(c['text'], c.get('voice','ko-KR-SunHiNeural'), rate=c.get('rate','+0%'), pitch=c.get('pitch','+0Hz'), boundary='WordBoundary')
               with open(out+'.mp3','wb') as f:
                   async for ch in tts.stream():
                       if ch['type']=='audio': f.write(ch['data'])
