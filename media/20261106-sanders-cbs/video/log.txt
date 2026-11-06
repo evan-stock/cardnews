@@ -1,0 +1,6 @@
+ERROR: [cbsnews] bernie-sanders-interview-ai-nuclear-weapons: Unable to download webpage: HTTP Error 406: Not Acceptable (caused by <HTTPError 406: Not Acceptable>)
+실패: https://www.cbsnews.com/news/bernie-sanders-interview-ai-nuclear-weapons/
+total 12
+drwxr-xr-x 2 runner runner 4096 Nov  6 10:35 .
+drwxr-xr-x 3 runner runner 4096 Nov  6 10:35 ..
+-rw-r--r-- 1 runner runner  247 Nov  6 10:35 log.txt
