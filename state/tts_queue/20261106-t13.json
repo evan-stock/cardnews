@@ -1,0 +1,36 @@
+{
+ "id": "20261106-t13",
+ "created": "2026-11-06T13:34:03.294027+09:00",
+ "items": [
+  {
+   "key": "00eaf548356f",
+   "text": "아빠가 동생 골댕이한테 뽀뽀를 퍼붓는 동안, 언니 레일라는요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "4cc09eaefa7a",
+   "text": "실제로 한 연구에선, 주인이 강아지 인형만 예뻐해도 개들이 질투 행동을 보였다고 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
