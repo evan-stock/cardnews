@@ -2,7 +2,7 @@
  "id": "20261106-firsts",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-06T10:32:49.216279+09:00",
  "publish_at": "2026-11-06T10:32:49.216358+09:00",
  "topic": "미국 중간선거 '최초' 당선인 모음(댄 고·엘사예드·보텀스·할랜드·파파스·먼슨)",
@@ -94,5 +94,8 @@
   "media/20261106-firsts/07.jpg",
   "media/20261106-firsts/08.jpg"
  ],
- "tg_msg": 1940
+ "tg_msg": 1940,
+ "ig_media_id": "18144596296613704",
+ "permalink": "https://www.instagram.com/p/DfYcDZXjR0o/",
+ "published_at": "2026-11-06T10:35:36.411517+09:00"
 }
