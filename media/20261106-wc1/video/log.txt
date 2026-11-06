@@ -1,0 +1,42 @@
+ERROR: [twitter] 1793007214258540898: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/ModernNotoriety/status/1793007214258540898
+실패: https://x.com/ModernNotoriety/status/1793007214258540898
+ERROR: [twitter] 1793014121132171531: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/pubity/status/1793014121132171531
+실패: https://x.com/pubity/status/1793014121132171531
+ERROR: [twitter] 1994954680552824881: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/jeffmadams/status/1994954680552824881
+실패: https://x.com/jeffmadams/status/1994954680552824881
+ERROR: [twitter] 1833422921705922704: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/CuriosityonX/status/1833422921705922704
+실패: https://x.com/CuriosityonX/status/1833422921705922704
+total 39880
+drwxr-xr-x 2 runner runner     4096 Nov  6 11:28 .
+drwxr-xr-x 3 runner runner     4096 Nov  6 11:27 ..
+-rw-r--r-- 1 runner runner      885 Nov  6 11:28 log.txt
+-rw-r--r-- 1 runner runner    22786 Nov  6 11:27 v1.info.json
+-rw-r--r-- 1 runner runner  1995591 Nov  6 11:27 v1.mp4
+-rw-r--r-- 1 runner runner    23140 Nov  6 11:28 v10.info.json
+-rw-r--r-- 1 runner runner  7018688 Nov  6 11:28 v10.mp4
+-rw-r--r-- 1 runner runner    10229 Nov  6 11:28 v11.info.json
+-rw-r--r-- 1 runner runner 13953018 Nov  6 11:28 v11.mp4
+-rw-r--r-- 1 runner runner    16427 Nov  6 11:28 v12.info.json
+-rw-r--r-- 1 runner runner  3328062 Nov  6 11:28 v12.mp4
+-rw-r--r-- 1 runner runner  2719647 Nov  6 11:28 v13.mp4
+-rw-r--r-- 1 runner runner    20185 Nov  6 11:28 v15.info.json
+-rw-r--r-- 1 runner runner  1501071 Nov  6 11:28 v15.mp4
+-rw-r--r-- 1 runner runner     9592 Nov  6 11:27 v2.info.json
+-rw-r--r-- 1 runner runner   594422 Nov  6 11:27 v2.mp4
+-rw-r--r-- 1 runner runner    20055 Nov  6 11:28 v3.info.json
+-rw-r--r-- 1 runner runner  1708743 Nov  6 11:28 v3.mp4
+-rw-r--r-- 1 runner runner    20077 Nov  6 11:28 v4.info.json
+-rw-r--r-- 1 runner runner  3912311 Nov  6 11:28 v4.mp4
+-rw-r--r-- 1 runner runner    22758 Nov  6 11:28 v5.info.json
+-rw-r--r-- 1 runner runner  3111021 Nov  6 11:28 v5.mp4
+-rw-r--r-- 1 runner runner    22722 Nov  6 11:28 v9.info.json
+-rw-r--r-- 1 runner runner   729623 Nov  6 11:28 v9.mp4
+-rw-r--r-- 1 runner runner      710 Nov  6 11:28 x13.json
+-rw-r--r-- 1 runner runner      607 Nov  6 11:28 x14.json
+-rw-r--r-- 1 runner runner      505 Nov  6 11:28 x6.json
+-rw-r--r-- 1 runner runner      458 Nov  6 11:28 x7.json
+-rw-r--r-- 1 runner runner      690 Nov  6 11:28 x8.json
