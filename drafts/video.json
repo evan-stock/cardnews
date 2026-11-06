@@ -1,8 +1,3 @@
-{"id":"20261106-snowpipe","frames":0,"args":"--write-info-json","urls":[
-"https://x.com/yorozuna/status/1012707937494523907",
-"https://x.com/Grahoo/status/1095964835982979072",
-"https://x.com/h2ham/status/2016481037283700887",
-"https://commons.wikimedia.org/w/api.php?action=query&list=search&srnamespace=6&srlimit=40&format=json&srsearch=%E6%B6%88%E9%9B%AA%E3%83%91%E3%82%A4%E3%83%97",
-"https://commons.wikimedia.org/w/api.php?action=query&list=search&srnamespace=6&srlimit=40&format=json&srsearch=snow+melting+sprinkler+road+japan",
-"https://commons.wikimedia.org/w/api.php?action=query&list=search&srnamespace=6&srlimit=40&format=json&srsearch=%E6%B6%88%E9%9B%AA%E8%A8%AD%E5%82%99"
+{"id":"20261106-snowpipe2","frames":0,"args":"--write-info-json","urls":[
+"https://x.com/AvatarDomy/status/1892098729408106946"
 ]}
