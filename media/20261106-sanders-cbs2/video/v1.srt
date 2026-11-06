@@ -1,0 +1,199 @@
+1
+00:00:00,000 --> 00:00:03,880
+And the president his administration and the head of the Republican Party are all
+
+2
+00:00:03,880 --> 00:00:07,280
+dismissing fears about artificial intelligence down playing recent
+
+3
+00:00:07,280 --> 00:00:10,840
+warnings from tech leaders about the risks to humanity and saying it's up
+
+4
+00:00:10,840 --> 00:00:13,420
+to individual companies to make sure their products are safe.
+
+5
+00:00:14,000 --> 00:00:17,400
+They can self-police they can self-regulate they don't need the
+
+6
+00:00:17,400 --> 00:00:19,800
+government to tell them to slow it down if they want to slow it down they
+
+7
+00:00:19,800 --> 00:00:23,300
+should but we cannot exact we cannot have a
+
+8
+00:00:23,300 --> 00:00:27,160
+moratorium on the development of AI okay because then we will lose our
+
+9
+00:00:27,160 --> 00:00:30,520
+edge to China and that has serious national security implications for
+
+10
+00:00:30,520 --> 00:00:35,140
+every american family. Earlier today two unlikely allies came
+
+11
+00:00:35,140 --> 00:00:38,540
+together to voice their concerns about AI independent senator Bernie Sanders
+
+12
+00:00:38,540 --> 00:00:41,980
+and former president trump advisor presidential advisor
+
+13
+00:00:41,980 --> 00:00:44,580
+Steve Bannon. Our CBS News congressional correspondent
+
+14
+00:00:44,580 --> 00:00:47,040
+Caitlin Huey Burns spoke to Sanders ahead of the event.
+
+15
+00:00:47,900 --> 00:00:52,600
+We have to ban the development of super intelligence
+
+16
+00:00:52,600 --> 00:00:57,240
+and AI intelligence which is smarter than human beings.
+
+17
+00:00:57,640 --> 00:01:04,060
+Secondly we have to have a pause on advanced AI to prevent what we have seen
+
+18
+00:01:04,060 --> 00:01:09,640
+in the last couple of weeks where AI is escaping human control hacking into
+
+19
+00:01:09,640 --> 00:01:15,420
+other computers developing viruses and other threats to humanity.
+
+20
+00:01:15,840 --> 00:01:19,420
+Ahead of the event senator Sanders elaborated on his proposal with
+
+21
+00:01:19,420 --> 00:01:23,740
+Caitlin Huey Burns. And Caitlin Huey Burns joins us now.
+
+22
+00:01:23,900 --> 00:01:27,120
+Caitlin it's good to see you so it's not every day that we see senator Sanders
+
+23
+00:01:27,120 --> 00:01:30,340
+and Steve Pannon agreeing on something what points do they make today?
+
+24
+00:01:31,340 --> 00:01:34,760
+Yeah this whole AI crisis is essentially creating
+
+25
+00:01:34,760 --> 00:01:37,900
+some of the most interesting bedfellows to say the least
+
+26
+00:01:37,900 --> 00:01:42,400
+and what was so striking about today was that you had Bernie Sanders on stage
+
+27
+00:01:42,400 --> 00:01:46,400
+first followed by Steve Bannon they did not appear together but
+
+28
+00:01:46,400 --> 00:01:53,700
+they did have some similar themes including that in their words the oligarchs in their words
+
+29
+00:01:53,700 --> 00:01:59,580
+to describe these tech companies just have too much power and they want to see it rained in
+
+30
+00:01:59,580 --> 00:02:05,880
+in some way. Now Lindsay they disagree on exactly how to do that but they believe the problem
+
+31
+00:02:05,880 --> 00:02:12,380
+is the same. Bernie Sanders wants federal legislation and he is coming out with a proposal
+
+32
+00:02:13,180 --> 00:02:19,500
+that would essentially put a ban on developing AI super intelligence until there are guard rails
+
+33
+00:02:19,500 --> 00:02:26,640
+placed on the industry. Steve Bannon wants the executive branch to weigh in here and apply
+
+34
+00:02:26,640 --> 00:02:32,340
+some more pressure on China so there are odds at how to go forward but the question that I have
+
+35
+00:02:32,340 --> 00:02:38,240
+when it comes to the legislative part of this is whether Congress understands what the problem
+
+36
+00:02:38,240 --> 00:02:44,200
+is in the first place and how they can possibly get to a point of being able to regulate that.
+
+37
+00:02:44,460 --> 00:02:49,800
+I posed this question to Bernie Sanders in our interview earlier today asking him if he believes
+
+38
+00:02:49,800 --> 00:02:54,500
+that his colleagues understand the technology they're trying to regulate take a listen.
+
+39
+00:02:56,120 --> 00:03:00,360
+You've got to listen to the people who know the most the people who have developed this
+
+40
+00:03:00,360 --> 00:03:05,860
+technology the people who are telling us we are losing control of the technology we developed
+
+41
+00:03:05,860 --> 00:03:10,940
+and I think when you have a president Mr. Trump who talks about this as a hoax
+
+42
+00:03:10,940 --> 00:03:15,760
+I think it is embarrassingly stupid for the leader of this country to hold that position.
+
+43
+00:03:15,900 --> 00:03:19,720
+You listen to the people who know the most and you act accordingly.
+
+44
+00:03:21,480 --> 00:03:27,020
+So he is also responding to the way in which it's the you know top leaders of these AI
+
+45
+00:03:27,020 --> 00:03:32,580
+companies saying that they want some kind of regulation here and Sanders said even if members
+
+46
+00:03:32,580 --> 00:03:39,320
+of Congress don't completely understand it in his view there is room for experts to educate here.
+
+47
+00:03:39,560 --> 00:03:44,920
+So there are a variety of different proposals on Capitol Hill and we can talk about some of
+
+48
+00:03:44,920 --> 00:03:51,660
+them but it was notable today that this is an issue that is scrambling alliances in Washington.
+
+49
+00:03:52,160 --> 00:03:57,660
+The politics are very complicated and it doesn't really necessarily fall on partisan lines.
+
+50
+00:03:58,000 --> 00:03:59,220
+Caitlin, who he burns. Thank you.
