@@ -1,0 +1,56 @@
+{
+ "id": "20261106-t13",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-06T13:50:54.384784+09:00",
+ "publish_at": "2026-11-06T13:50:54.384803+09:00",
+ "publish_now": true,
+ "topic": "아빠가 동생 골든 리지에게 뽀뽀하는 동안 소파에서 째려보는 골든리트리버 레일라(Instagram @layla_the_goldengirl 릴스 DT0dNU_k1t4, 2026.1.22, 좋아요 74만, DogTime 2026.1.23 보도). 원본 소리는 전 구간 일정한 음량(덧입힌 음원으로 판단)이라 전부 끔. 원본 캡션(세로 17~25%)은 zoom 1.2 + y 1.0 크롭으로 위로 밀어냄(흐림 없음). 사실: Harris & Prouvost 2014 PLOS ONE(UC샌디에이고) — 주인이 움직이는 강아지 인형을 예뻐하자 개들이 밀치기·끼어들기 같은 질투 행동을 보임.",
+ "sources": [
+  {
+   "publisher": "Instagram @layla_the_goldengirl (골든리트리버 레일라·리지)",
+   "url": "https://www.instagram.com/reel/DT0dNU_k1t4/",
+   "date": "2026-01-22"
+  },
+  {
+   "publisher": "DogTime - Golden Retriever's 'Jealousy Has No Bounds' When Sibling Gets Attention",
+   "url": "https://dogtime.com/news/204083-dogs-jealous-golden-retriever-video-sibling",
+   "date": "2026-01-23"
+  },
+  {
+   "publisher": "Harris & Prouvost (2014) Jealousy in Dogs, PLOS ONE",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094597",
+   "date": "2014-07-23"
+  }
+ ],
+ "seconds": 18.98,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261106-t13/short.mp4"
+ ],
+ "app_file": "media/20261106-t13/short_nobgm.mp4",
+ "yt": {
+  "title": "아빠가 동생한테만 뽀뽀하자 제대로 삐진 골댕이ㅋㅋ #shorts",
+  "description": "아빠가 동생 골든리트리버 리지에게 뽀뽀를 퍼붓는 동안ㅋㅋ 소파 위 언니 레일라의 표정을 보세요. 째릿... 이건 질투가 확실합니다.\n\n2014년 미국 UC샌디에이고 연구팀(PLOS ONE)은 주인이 움직이는 강아지 인형을 예뻐하자 개들이 주인을 건드리거나 사이에 끼어드는 등 질투로 볼 만한 행동을 보였다고 발표했습니다.\n\n여러분 집 강아지도 질투하나요?\n\n영상: Instagram @layla_the_goldengirl\n참고: DogTime, PLOS ONE(Harris & Prouvost, 2014)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: Instagram @layla_the_goldengirl\n음성: Typecast\n\n#shorts #골든리트리버 #골댕이 #삐진강아지 #질투 #강아지쇼츠\n\n출처: Instagram @layla_the_goldengirl (골든리트리버 레일라·리지) 2026-01-22, DogTime - Golden Retriever's 'Jealousy Has No Bounds' When Sibling Gets Attention 2026-01-23, Harris & Prouvost (2014) Jealousy in Dogs, PLOS ONE 2014-07-23\n사진·영상: Instagram @layla_the_goldengirl\n\n#shorts #골든리트리버 #골댕이 #삐진강아지 #질투하는강아지",
+  "tags": [
+   "골든리트리버",
+   "골댕이",
+   "삐진강아지",
+   "질투하는강아지",
+   "강아지질투",
+   "강아지쇼츠",
+   "golden retriever",
+   "jealous dog",
+   "털뭉치"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "25fe20d696af",
+ "tg_msg": 1950
+}
