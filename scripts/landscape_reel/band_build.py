@@ -1,4 +1,4 @@
-"""띠형 가로 영상 릴스(2026.10.31 사용자 확정). 저장소 루트에서 실행: python3 scripts/landscape_reel/band_build.py
+"""띠형 가로 영상 릴스(2026.10.31 사용자 확정, 2026.11.06 상하단 검정 배경). 저장소 루트에서 실행: python3 scripts/landscape_reel/band_build.py
 사용: 아래 top()의 tag·L(제목 3줄)과 S(장면 목록: src, ss, dur, 띠 crop, 자막[(시작,끝,작은줄,굵은1,굵은2)])만 바꾼다. 결과는 work/reel.mp4.
 """
 import subprocess, os
@@ -30,7 +30,7 @@ S=[ # src, ss, dur, crop(w:h:x:y) for band (3:2), caption list [(t0,t1,small,b1,
 ]
 segs=[]; ci=0
 for k,(src,ss,dur,crop,caps) in enumerate(S):
-    inputs=['-ss',str(ss),'-t',str(dur),'-i',src,'-i',f'{R}/top.png']; fc=(f"[0:v]split[s1][s2];[s1]crop={crop},scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:3,eq=brightness=-0.28[bg];"
+    inputs=['-ss',str(ss),'-t',str(dur),'-i',src,'-i',f'{R}/top.png']; fc=(f"[0:v]split[s1][s2];[s1]crop={crop},scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,drawbox=c=black:t=fill[bg];"
         f"[s2]crop={crop},scale=1080:{BH},setsar=1[fg];[bg][fg]overlay=0:{BY0}[b0];[b0][1:v]overlay[b1]")
     last='b1'
     for j,(t0,t1,s,b1,b2) in enumerate(caps):
