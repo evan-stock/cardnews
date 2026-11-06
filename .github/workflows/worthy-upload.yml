@@ -61,6 +61,10 @@ jobs:
                              "tags": yt.get("tags", [])[:15], "category": int(yt["category"]),
                              "privacy": yt.get("privacy", "public"), "synthetic": False, "channel": yt["channel"],
                              **({"thumb": yt["thumb"]} if yt.get("thumb") else {})}}
+              # [📱 직접 올리기] 버튼은 음원 없는 판을 보낸다(2026.11.06 사용자) — 원고 app_file 또는 같은 폴더 short_card_nomusic.mp4
+              nm = d.get("app_file") or os.path.join(os.path.dirname(d["file"]), "short_card_nomusic.mp4")
+              if os.path.exists(nm):
+                  post["app_file"] = nm
               post["tg_msg"] = send_preview(post, d["file"])
               save_post(post)
               print(f"{dt.datetime.now():%Y-%m-%d %H:%M} 미리보기 보냄(승인 대기) {pid} {yt['title']}")

@@ -298,6 +298,19 @@ def _send_app_kit(p):
     """[📱 앱으로 직접 올리기]: 유튜브 앱에서 쇼츠 음원(유행곡)을 붙여 올릴 수 있게 원본 화질 파일과 문구를 보낸다.
     배경음악이 있던 영상은 배경음악을 뺀 판(short_nobgm.mp4)을 보낸다. 이 게시물은 자동 업로드하지 않는다."""
     path = ROOT / (p.get("app_file") or p["files"][0])
+    if not p.get("app_file"):  # 2026.11.06 사용자: '직접 올리기'는 음원 없는 버전으로
+        for nm in ("short_card_nomusic.mp4", "short_nobgm.mp4"):  # 같은 폴더에 미리 만든 음악 없는 판이 있으면 그것
+            if (path.parent / nm).exists():
+                path = path.parent / nm
+                break
+        else:
+            if (p.get("yt") or {}).get("channel") == "shop" and shutil.which("ffmpeg"):
+                # 오늘의쓸모는 목소리 없이 자막+배경음악뿐 → 소리를 통째로 뺀 판을 즉석에서 만든다
+                import subprocess
+                nb = path.parent / "short_card_nomusic.mp4"
+                r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(path), "-an", "-c:v", "copy", str(nb)])
+                if r.returncode == 0 and nb.exists():
+                    path = nb
     try:
         tg.send_document(str(path), f"📱 {p['topic']}\n저장 → 유튜브 앱 + → 동영상 업로드 → '사운드 추가'에서 음원 선택 → "
                                     "음량 조절에서 원본(내레이션·효과음) 크기 맞추기")
