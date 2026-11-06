@@ -1,215 +1,183 @@
 {
- "id": "20261106-golden",
+ "id": "20261106-t13",
  "mode": "send",
  "format": "meme",
- "topic": "아기 골든리트리버를 데려온 지 2주, 오렌지 고양이 체스터가 냥냥펀치를 날려도 계속 들이대는 강아지(TikTok @itsjustemmak 7584997737322515733, 2025.12.18, 130만 회·22만 좋아요, Newsweek 2026.1.2 보도). 원본 소리는 덧입힌 음악으로 보여(11.5~43초 RMS -19~-25dB 일정) 전부 끔. 원본 캡션(세로 77~86%)은 zoom 1.3 + y 0.25(주방 장면 y 0) 크롭으로 아래로 밀어냄(흐림 없음). 사실: Blue Cross(Newsweek 인용) — 강아지가 못 닿는 고양이만의 안전한 공간을 마련하고 쫓아다니지 못하게.",
+ "topic": "아빠가 동생 골든 리지에게 뽀뽀하는 동안 소파에서 째려보는 골든리트리버 레일라(Instagram @layla_the_goldengirl 릴스 DT0dNU_k1t4, 2026.1.22, 좋아요 74만, DogTime 2026.1.23 보도). 원본 소리는 전 구간 일정한 음량(덧입힌 음원으로 판단)이라 전부 끔. 원본 캡션(세로 17~25%)은 zoom 1.2 + y 1.0 크롭으로 위로 밀어냄(흐림 없음). 사실: Harris & Prouvost 2014 PLOS ONE(UC샌디에이고) — 주인이 움직이는 강아지 인형을 예뻐하자 개들이 밀치기·끼어들기 같은 질투 행동을 보임.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 2.0,
  "sfx_max": 3,
  "hook": {
-  "t": "오자마자 냥펀치 맞은 아기 골댕이\n'근데 1도 포기 안 함ㅋㅋ'"
+  "t": "동생만 뽀뽀받는 걸 본 언니 골댕이\n'표정 관리 실패ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @itsjustemmak"
+  "Instagram @layla_the_goldengirl"
  ],
  "sources": [
   {
-   "publisher": "TikTok @itsjustemmak (골든리트리버 아기 + 고양이 체스터)",
-   "url": "https://www.tiktok.com/@itsjustemmak/video/7584997737322515733",
-   "date": "2025-12-18"
+   "publisher": "Instagram @layla_the_goldengirl (골든리트리버 레일라·리지)",
+   "url": "https://www.instagram.com/reel/DT0dNU_k1t4/",
+   "date": "2026-01-22"
   },
   {
-   "publisher": "Newsweek - Owner Gets Golden Retriever Puppy, Cat Hasn't Had a 'Minute of Peace' Since",
-   "url": "https://www.newsweek.com/owner-gets-golden-retriever-cat-hasnt-had-peace-since-11298665",
-   "date": "2026-01-02"
+   "publisher": "DogTime - Golden Retriever's 'Jealousy Has No Bounds' When Sibling Gets Attention",
+   "url": "https://dogtime.com/news/204083-dogs-jealous-golden-retriever-video-sibling",
+   "date": "2026-01-23"
+  },
+  {
+   "publisher": "Harris & Prouvost (2014) Jealousy in Dogs, PLOS ONE",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094597",
+   "date": "2014-07-23"
   }
  ],
  "scenes": [
   {
    "dur": 3.0,
    "video": {
-    "src": "video/v2.mp4",
-    "start": 0.0,
-    "zoom": 1.3,
-    "x": 0.5,
-    "y": 0.25,
+    "src": "video/v3.mp4",
+    "start": 6.0,
+    "zoom": 1.2,
+    "x": 0.75,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "저리 가라고!!",
-     "x": 0.3,
-     "y": 0.13,
+     "t": "...방금 뭐 한 거야?",
+     "x": 0.55,
+     "y": 0.55,
      "at": 0.2,
      "to": 3.0
     },
     {
      "k": "sfx",
-     "t": "(냥냥펀치)",
-     "x": 0.75,
-     "y": 0.62,
-     "at": 0.3,
+     "t": "(째릿)",
+     "x": 0.8,
+     "y": 0.1,
+     "at": 0.4,
      "to": 3.0,
-     "s": "pop",
+     "s": "dundun",
      "sv": 0.9
     }
    ]
   },
   {
-   "dur": 2.4,
+   "say": "아빠가 동생 골댕이한테 뽀뽀를 퍼붓는 동안, 언니 레일라는요.",
    "video": {
-    "src": "video/v2.mp4",
-    "start": 5.3,
-    "zoom": 1.3,
+    "src": "video/v3.mp4",
+    "start": 0.0,
+    "zoom": 1.2,
     "x": 0.5,
-    "y": 0.25,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "하나도 안 아픈데?",
-     "x": 0.62,
-     "y": 0.2,
-     "at": 1.2,
-     "to": 2.4
-    },
-    {
-     "k": "sfx",
-     "t": "(해맑)",
-     "x": 0.75,
-     "y": 0.68,
-     "at": 1.4,
-     "to": 2.4,
-     "s": "sparkle",
-     "sv": 0.8
-    }
-   ]
-  },
-  {
-   "say": "아기 골든리트리버가 집에 온 지 2주, 이 고양이는 단 1분도 쉬지 못했는데요.",
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 11.5,
-    "zoom": 1.3,
-    "x": 0.5,
-    "y": 0.25,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "자는 척해도 소용없음",
+     "t": "동생 리지 뽀뽀 타임",
      "x": 0.5,
      "y": 0.1,
-     "at": 2.0
-    }
-   ]
-  },
-  {
-   "dur": 3.0,
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 18.6,
-    "zoom": 1.3,
-    "x": 0.5,
-    "y": 0.25,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "형아 또 놀자!!",
-     "x": 0.68,
-     "y": 0.13,
-     "at": 0.8,
-     "to": 3.0
-    },
-    {
-     "k": "talk",
-     "t": "...제발.",
-     "x": 0.2,
-     "y": 0.3,
-     "at": 1.6,
-     "to": 3.0
-    }
-   ]
-  },
-  {
-   "say": "전문가들은 강아지를 들이면, 고양이만 올라갈 수 있는 피신처를 꼭 만들어 주라고 합니다.",
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 23.6,
-    "zoom": 1.3,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "높은 곳으로 피신한 고양이",
-     "x": 0.5,
-     "y": 0.36,
      "at": 0.3
     }
    ]
   },
   {
-   "dur": 3.2,
+   "dur": 3.5,
    "video": {
-    "src": "video/v2.mp4",
-    "start": 46.4,
-    "zoom": 1.3,
-    "x": 0.3,
-    "y": 0.25,
+    "src": "video/v3.mp4",
+    "start": 7.0,
+    "zoom": 1.2,
+    "x": 0.75,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "그리고 강아지가 잠들자",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.0,
-     "to": 3.2
-    },
-    {
      "k": "talk",
-     "t": "이제 내 차례다",
-     "x": 0.27,
+     "t": "나는? 나는 왜 안 해줘?",
+     "x": 0.55,
      "y": 0.55,
-     "at": 0.6,
-     "to": 3.2
+     "at": 0.3,
+     "to": 3.5
     },
     {
      "k": "sfx",
-     "t": "(톡톡)",
-     "x": 0.62,
-     "y": 0.47,
-     "at": 1.0,
-     "to": 3.2,
-     "s": "dundun",
+     "t": "(부들부들)",
+     "x": 0.3,
+     "y": 0.75,
+     "at": 0.8,
+     "to": 3.5,
+     "s": "shock",
+     "sv": 0.8
+    }
+   ]
+  },
+  {
+   "say": "실제로 한 연구에선, 주인이 강아지 인형만 예뻐해도 개들이 질투 행동을 보였다고 합니다.",
+   "video": {
+    "src": "video/v3.mp4",
+    "start": 5.5,
+    "zoom": 1.2,
+    "x": 0.75,
+    "y": 1.0,
+    "audio": 0,
+    "boomerang": true
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "질투 = 강아지도 느끼는 감정",
+     "x": 0.5,
+     "y": 0.42,
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "dur": 2.6,
+   "video": {
+    "src": "video/v3.mp4",
+    "start": 8.4,
+    "zoom": 1.2,
+    "x": 0.75,
+    "y": 1.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "아빠... 두고 보자.",
+     "x": 0.55,
+     "y": 0.55,
+     "at": 0.2,
+     "to": 2.6
+    },
+    {
+     "k": "sfx",
+     "t": "(복수 계획 중)",
+     "x": 0.3,
+     "y": 0.75,
+     "at": 0.6,
+     "to": 2.6,
+     "s": "tick",
      "sv": 0.8
     }
    ]
   }
  ],
  "yt": {
-  "title": "아기 골댕이가 집에 온 뒤 고양이에게 생긴 일ㅋㅋ #shorts",
-  "description": "아기 골든리트리버를 데려온 지 2주ㅋㅋ 고양이 체스터가 냥냥펀치를 날려도 강아지는 해맑게 계속 들이댑니다. 자는 척해도, 높은 곳으로 피신해도 소용없었는데... 마지막엔 고양이의 반격까지.\n\n영국 동물 단체 Blue Cross는 강아지를 들일 때 강아지가 닿지 못하는 고양이만의 안전한 공간을 꼭 마련하고, 강아지가 고양이를 쫓아다니지 못하게 하라고 조언합니다(Newsweek 보도).\n\n여러분 집 고양이는 강아지랑 친해졌나요?\n\n영상: TikTok @itsjustemmak\n참고: Newsweek\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @itsjustemmak\n음성: Typecast\n\n#shorts #골든리트리버 #아기강아지 #고양이 #냥냥펀치 #강아지와고양이",
+  "title": "아빠가 동생한테만 뽀뽀하자 제대로 삐진 골댕이ㅋㅋ #shorts",
+  "description": "아빠가 동생 골든리트리버 리지에게 뽀뽀를 퍼붓는 동안ㅋㅋ 소파 위 언니 레일라의 표정을 보세요. 째릿... 이건 질투가 확실합니다.\n\n2014년 미국 UC샌디에이고 연구팀(PLOS ONE)은 주인이 움직이는 강아지 인형을 예뻐하자 개들이 주인을 건드리거나 사이에 끼어드는 등 질투로 볼 만한 행동을 보였다고 발표했습니다.\n\n여러분 집 강아지도 질투하나요?\n\n영상: Instagram @layla_the_goldengirl\n참고: DogTime, PLOS ONE(Harris & Prouvost, 2014)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: Instagram @layla_the_goldengirl\n음성: Typecast\n\n#shorts #골든리트리버 #골댕이 #삐진강아지 #질투 #강아지쇼츠",
   "tags": [
    "골든리트리버",
    "골댕이",
-   "아기강아지",
-   "고양이",
-   "냥냥펀치",
-   "강아지와고양이",
+   "삐진강아지",
+   "질투하는강아지",
+   "강아지질투",
    "강아지쇼츠",
-   "golden retriever puppy",
-   "cat",
+   "golden retriever",
+   "jealous dog",
    "털뭉치"
   ]
  },
