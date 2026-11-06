@@ -1,22 +1,24 @@
 [
  {
-  "id": "20261106-crashrecovery",
-  "slot": "lunch",
+  "id": "20261106-firsts",
+  "slot": "evening",
   "mode": "collect",
-  "topic": "간밤 S&P 500 4.4%·반도체 12.3% 폭락 + 역대 폭락 회복 기간",
+  "topic": "미국 중간선거 '최초' 당선인 모음",
   "image_pages": [
-   "https://fortune.com/2026/11/05/wall-street-drop-off-tech-ai-plunge-2-trillion/",
-   "https://www.benzinga.com/markets/equities/26/11/62961405/chip-stocks-worst-day-since-2020-soxx-bear-market",
-   "https://finance.yahoo.com/markets/stocks/articles/stocks-plunge-dem-midterm-sweep-205246551.html",
-   "https://ktvz.com/news/2026/11/05/stocks-plunge-as-ai-worries-crush-tech-shares/",
-   "https://pro.thestreet.com/market-commentary/ai-rout-sends-the-tech-sector-to-its-worst-day-since-the-covid-crash",
-   "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
-   "https://en.wikipedia.org/wiki/Dot-com_bubble",
-   "https://en.wikipedia.org/wiki/2008_financial_crisis",
-   "https://en.wikipedia.org/wiki/2020_stock_market_crash",
-   "https://en.wikipedia.org/wiki/New_York_Stock_Exchange"
+   "https://en.wikipedia.org/wiki/Dan_Koh",
+   "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+   "https://en.wikipedia.org/wiki/Keisha_Lance_Bottoms",
+   "https://en.wikipedia.org/wiki/Deb_Haaland",
+   "https://en.wikipedia.org/wiki/Chris_Pappas",
+   "https://en.wikipedia.org/wiki/Cyndi_Munson",
+   "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks",
+   "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
+   "https://www.etoday.co.kr/news/view/2644201",
+   "https://www.newspim.com/news/view/20261104000878",
+   "https://www.nbcwashington.com/elections/2026-midterms-historic-firsts/4177472/",
+   "https://www.axios.com/2026/11/04/2026-midterm-elections-american-politics"
   ],
-  "limit": 30,
+  "limit": 40,
   "slides": [
    {
     "t": "x"
