@@ -1,0 +1,1265 @@
+[
+ {
+  "start": 0.0,
+  "end": 5.36,
+  "text": "Breaking. Democrats are pushing to ban AI superintelligence, with up to 20 years in prison",
+  "words": [
+   {
+    "w": " Breaking.",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " Democrats",
+    "s": 1.02,
+    "e": 1.42
+   },
+   {
+    "w": " are",
+    "s": 1.42,
+    "e": 1.7
+   },
+   {
+    "w": " pushing",
+    "s": 1.7,
+    "e": 1.96
+   },
+   {
+    "w": " to",
+    "s": 1.96,
+    "e": 2.22
+   },
+   {
+    "w": " ban",
+    "s": 2.22,
+    "e": 2.38
+   },
+   {
+    "w": " AI",
+    "s": 2.38,
+    "e": 2.68
+   },
+   {
+    "w": " superintelligence,",
+    "s": 2.68,
+    "e": 3.76
+   },
+   {
+    "w": " with",
+    "s": 3.96,
+    "e": 4.08
+   },
+   {
+    "w": " up",
+    "s": 4.08,
+    "e": 4.2
+   },
+   {
+    "w": " to",
+    "s": 4.2,
+    "e": 4.34
+   },
+   {
+    "w": " 20",
+    "s": 4.34,
+    "e": 4.64
+   },
+   {
+    "w": " years",
+    "s": 4.64,
+    "e": 4.9
+   },
+   {
+    "w": " in",
+    "s": 4.9,
+    "e": 5.1
+   },
+   {
+    "w": " prison",
+    "s": 5.1,
+    "e": 5.36
+   }
+  ]
+ },
+ {
+  "start": 5.36,
+  "end": 6.5,
+  "text": "for violating the law.",
+  "words": [
+   {
+    "w": " for",
+    "s": 5.36,
+    "e": 5.64
+   },
+   {
+    "w": " violating",
+    "s": 5.64,
+    "e": 6.04
+   },
+   {
+    "w": " the",
+    "s": 6.04,
+    "e": 6.26
+   },
+   {
+    "w": " law.",
+    "s": 6.26,
+    "e": 6.5
+   }
+  ]
+ },
+ {
+  "start": 6.7,
+  "end": 11.54,
+  "text": "\"- We have to ban, B-A-N, the development of superintelligence.\"",
+  "words": [
+   {
+    "w": " \"-",
+    "s": 6.7,
+    "e": 6.7
+   },
+   {
+    "w": " We",
+    "s": 6.7,
+    "e": 7.14
+   },
+   {
+    "w": " have",
+    "s": 7.14,
+    "e": 7.4
+   },
+   {
+    "w": " to",
+    "s": 7.4,
+    "e": 7.58
+   },
+   {
+    "w": " ban,",
+    "s": 7.58,
+    "e": 7.96
+   },
+   {
+    "w": " B",
+    "s": 8.2,
+    "e": 8.36
+   },
+   {
+    "w": "-A",
+    "s": 8.36,
+    "e": 8.44
+   },
+   {
+    "w": "-N,",
+    "s": 8.44,
+    "e": 8.64
+   },
+   {
+    "w": " the",
+    "s": 9.38,
+    "e": 9.76
+   },
+   {
+    "w": " development",
+    "s": 9.76,
+    "e": 10.18
+   },
+   {
+    "w": " of",
+    "s": 10.18,
+    "e": 10.42
+   },
+   {
+    "w": " superintelligence.\"",
+    "s": 10.42,
+    "e": 11.54
+   }
+  ]
+ },
+ {
+  "start": 11.54,
+  "end": 18.62,
+  "text": "\"- You're also proposing a penalty, 20 years in prison for those who don't abide by those rules.\"",
+  "words": [
+   {
+    "w": " \"-",
+    "s": 11.54,
+    "e": 11.62
+   },
+   {
+    "w": " You're",
+    "s": 11.62,
+    "e": 11.92
+   },
+   {
+    "w": " also",
+    "s": 11.92,
+    "e": 12.14
+   },
+   {
+    "w": " proposing",
+    "s": 12.14,
+    "e": 12.78
+   },
+   {
+    "w": " a",
+    "s": 12.78,
+    "e": 13.14
+   },
+   {
+    "w": " penalty,",
+    "s": 13.14,
+    "e": 13.6
+   },
+   {
+    "w": " 20",
+    "s": 13.94,
+    "e": 14.44
+   },
+   {
+    "w": " years",
+    "s": 14.44,
+    "e": 15.08
+   },
+   {
+    "w": " in",
+    "s": 15.08,
+    "e": 15.44
+   },
+   {
+    "w": " prison",
+    "s": 15.44,
+    "e": 15.84
+   },
+   {
+    "w": " for",
+    "s": 15.84,
+    "e": 16.18
+   },
+   {
+    "w": " those",
+    "s": 16.18,
+    "e": 16.52
+   },
+   {
+    "w": " who",
+    "s": 16.52,
+    "e": 16.84
+   },
+   {
+    "w": " don't",
+    "s": 16.84,
+    "e": 17.46
+   },
+   {
+    "w": " abide",
+    "s": 17.46,
+    "e": 17.82
+   },
+   {
+    "w": " by",
+    "s": 17.82,
+    "e": 18.08
+   },
+   {
+    "w": " those",
+    "s": 18.08,
+    "e": 18.32
+   },
+   {
+    "w": " rules.\"",
+    "s": 18.32,
+    "e": 18.62
+   }
+  ]
+ },
+ {
+  "start": 18.62,
+  "end": 19.58,
+  "text": "\"- Yeah, that's right.\"",
+  "words": [
+   {
+    "w": " \"-",
+    "s": 18.62,
+    "e": 18.62
+   },
+   {
+    "w": " Yeah,",
+    "s": 18.62,
+    "e": 18.82
+   },
+   {
+    "w": " that's",
+    "s": 19.1,
+    "e": 19.34
+   },
+   {
+    "w": " right.\"",
+    "s": 19.34,
+    "e": 19.58
+   }
+  ]
+ },
+ {
+  "start": 19.58,
+  "end": 24.46,
+  "text": "Arizona congresswoman Yasemin Ansari says stopping advanced AI development should be",
+  "words": [
+   {
+    "w": " Arizona",
+    "s": 19.58,
+    "e": 19.92
+   },
+   {
+    "w": " congresswoman",
+    "s": 19.92,
+    "e": 20.7
+   },
+   {
+    "w": " Yasemin",
+    "s": 20.7,
+    "e": 21.18
+   },
+   {
+    "w": " Ansari",
+    "s": 21.18,
+    "e": 21.64
+   },
+   {
+    "w": " says",
+    "s": 21.64,
+    "e": 22.26
+   },
+   {
+    "w": " stopping",
+    "s": 22.26,
+    "e": 22.7
+   },
+   {
+    "w": " advanced",
+    "s": 22.7,
+    "e": 23.16
+   },
+   {
+    "w": " AI",
+    "s": 23.16,
+    "e": 23.38
+   },
+   {
+    "w": " development",
+    "s": 23.38,
+    "e": 23.92
+   },
+   {
+    "w": " should",
+    "s": 23.92,
+    "e": 24.3
+   },
+   {
+    "w": " be",
+    "s": 24.3,
+    "e": 24.46
+   }
+  ]
+ },
+ {
+  "start": 24.46,
+  "end": 28.3,
+  "text": "a day one priority for Democrats. And there's already a bill to make it happen.",
+  "words": [
+   {
+    "w": " a",
+    "s": 24.46,
+    "e": 24.58
+   },
+   {
+    "w": " day",
+    "s": 24.58,
+    "e": 24.76
+   },
+   {
+    "w": " one",
+    "s": 24.76,
+    "e": 24.98
+   },
+   {
+    "w": " priority",
+    "s": 24.98,
+    "e": 25.46
+   },
+   {
+    "w": " for",
+    "s": 25.46,
+    "e": 25.7
+   },
+   {
+    "w": " Democrats.",
+    "s": 25.7,
+    "e": 26.08
+   },
+   {
+    "w": " And",
+    "s": 26.54,
+    "e": 26.72
+   },
+   {
+    "w": " there's",
+    "s": 26.72,
+    "e": 26.94
+   },
+   {
+    "w": " already",
+    "s": 26.94,
+    "e": 27.3
+   },
+   {
+    "w": " a",
+    "s": 27.3,
+    "e": 27.48
+   },
+   {
+    "w": " bill",
+    "s": 27.48,
+    "e": 27.6
+   },
+   {
+    "w": " to",
+    "s": 27.6,
+    "e": 27.76
+   },
+   {
+    "w": " make",
+    "s": 27.76,
+    "e": 27.9
+   },
+   {
+    "w": " it",
+    "s": 27.9,
+    "e": 28.02
+   },
+   {
+    "w": " happen.",
+    "s": 28.02,
+    "e": 28.3
+   }
+  ]
+ },
+ {
+  "start": 28.3,
+  "end": 32.84,
+  "text": "In September, Bernie Sanders and Greg Kassar introduced legislation that would permanently",
+  "words": [
+   {
+    "w": " In",
+    "s": 28.3,
+    "e": 28.74
+   },
+   {
+    "w": " September,",
+    "s": 28.74,
+    "e": 29.08
+   },
+   {
+    "w": " Bernie",
+    "s": 29.5,
+    "e": 29.66
+   },
+   {
+    "w": " Sanders",
+    "s": 29.66,
+    "e": 30.0
+   },
+   {
+    "w": " and",
+    "s": 30.0,
+    "e": 30.32
+   },
+   {
+    "w": " Greg",
+    "s": 30.32,
+    "e": 30.52
+   },
+   {
+    "w": " Kassar",
+    "s": 30.52,
+    "e": 30.9
+   },
+   {
+    "w": " introduced",
+    "s": 30.9,
+    "e": 31.36
+   },
+   {
+    "w": " legislation",
+    "s": 31.36,
+    "e": 31.98
+   },
+   {
+    "w": " that",
+    "s": 31.98,
+    "e": 32.28
+   },
+   {
+    "w": " would",
+    "s": 32.28,
+    "e": 32.4
+   },
+   {
+    "w": " permanently",
+    "s": 32.4,
+    "e": 32.84
+   }
+  ]
+ },
+ {
+  "start": 32.84,
+  "end": 38.02,
+  "text": "ban artificial superintelligence. But it doesn't stop there. The proposal would temporarily pause",
+  "words": [
+   {
+    "w": " ban",
+    "s": 32.84,
+    "e": 33.18
+   },
+   {
+    "w": " artificial",
+    "s": 33.18,
+    "e": 33.64
+   },
+   {
+    "w": " superintelligence.",
+    "s": 33.64,
+    "e": 34.68
+   },
+   {
+    "w": " But",
+    "s": 34.96,
+    "e": 35.12
+   },
+   {
+    "w": " it",
+    "s": 35.12,
+    "e": 35.24
+   },
+   {
+    "w": " doesn't",
+    "s": 35.24,
+    "e": 35.48
+   },
+   {
+    "w": " stop",
+    "s": 35.48,
+    "e": 35.76
+   },
+   {
+    "w": " there.",
+    "s": 35.76,
+    "e": 35.98
+   },
+   {
+    "w": " The",
+    "s": 36.26,
+    "e": 36.38
+   },
+   {
+    "w": " proposal",
+    "s": 36.38,
+    "e": 36.76
+   },
+   {
+    "w": " would",
+    "s": 36.76,
+    "e": 37.02
+   },
+   {
+    "w": " temporarily",
+    "s": 37.02,
+    "e": 37.46
+   },
+   {
+    "w": " pause",
+    "s": 37.46,
+    "e": 38.02
+   }
+  ]
+ },
+ {
+  "start": 38.02,
+  "end": 43.08,
+  "text": "advanced AI development until a new federal regulator establishes safety rules. It would",
+  "words": [
+   {
+    "w": " advanced",
+    "s": 38.02,
+    "e": 38.54
+   },
+   {
+    "w": " AI",
+    "s": 38.54,
+    "e": 38.74
+   },
+   {
+    "w": " development",
+    "s": 38.74,
+    "e": 39.26
+   },
+   {
+    "w": " until",
+    "s": 39.26,
+    "e": 39.76
+   },
+   {
+    "w": " a",
+    "s": 39.76,
+    "e": 39.94
+   },
+   {
+    "w": " new",
+    "s": 39.94,
+    "e": 40.16
+   },
+   {
+    "w": " federal",
+    "s": 40.16,
+    "e": 40.42
+   },
+   {
+    "w": " regulator",
+    "s": 40.42,
+    "e": 41.06
+   },
+   {
+    "w": " establishes",
+    "s": 41.06,
+    "e": 41.86
+   },
+   {
+    "w": " safety",
+    "s": 41.86,
+    "e": 42.08
+   },
+   {
+    "w": " rules.",
+    "s": 42.08,
+    "e": 42.46
+   },
+   {
+    "w": " It",
+    "s": 42.82,
+    "e": 42.96
+   },
+   {
+    "w": " would",
+    "s": 42.96,
+    "e": 43.08
+   }
+  ]
+ },
+ {
+  "start": 43.08,
+  "end": 47.3,
+  "text": "create an entire Department of Artificial Intelligence to monitor powerful AI models.",
+  "words": [
+   {
+    "w": " create",
+    "s": 43.08,
+    "e": 43.32
+   },
+   {
+    "w": " an",
+    "s": 43.32,
+    "e": 43.48
+   },
+   {
+    "w": " entire",
+    "s": 43.48,
+    "e": 43.8
+   },
+   {
+    "w": " Department",
+    "s": 43.8,
+    "e": 44.22
+   },
+   {
+    "w": " of",
+    "s": 44.22,
+    "e": 44.42
+   },
+   {
+    "w": " Artificial",
+    "s": 44.42,
+    "e": 44.86
+   },
+   {
+    "w": " Intelligence",
+    "s": 44.86,
+    "e": 45.46
+   },
+   {
+    "w": " to",
+    "s": 45.46,
+    "e": 45.8
+   },
+   {
+    "w": " monitor",
+    "s": 45.8,
+    "e": 46.1
+   },
+   {
+    "w": " powerful",
+    "s": 46.1,
+    "e": 46.5
+   },
+   {
+    "w": " AI",
+    "s": 46.5,
+    "e": 46.9
+   },
+   {
+    "w": " models.",
+    "s": 46.9,
+    "e": 47.3
+   }
+  ]
+ },
+ {
+  "start": 47.74,
+  "end": 51.7,
+  "text": "And companies that violate the ban could face what lawmakers call the corporate death",
+  "words": [
+   {
+    "w": " And",
+    "s": 47.74,
+    "e": 47.9
+   },
+   {
+    "w": " companies",
+    "s": 47.9,
+    "e": 48.24
+   },
+   {
+    "w": " that",
+    "s": 48.24,
+    "e": 48.52
+   },
+   {
+    "w": " violate",
+    "s": 48.52,
+    "e": 48.84
+   },
+   {
+    "w": " the",
+    "s": 48.84,
+    "e": 49.1
+   },
+   {
+    "w": " ban",
+    "s": 49.1,
+    "e": 49.38
+   },
+   {
+    "w": " could",
+    "s": 49.38,
+    "e": 49.6
+   },
+   {
+    "w": " face",
+    "s": 49.6,
+    "e": 49.9
+   },
+   {
+    "w": " what",
+    "s": 49.9,
+    "e": 50.1
+   },
+   {
+    "w": " lawmakers",
+    "s": 50.1,
+    "e": 50.46
+   },
+   {
+    "w": " call",
+    "s": 50.46,
+    "e": 50.92
+   },
+   {
+    "w": " the",
+    "s": 50.92,
+    "e": 51.1
+   },
+   {
+    "w": " corporate",
+    "s": 51.1,
+    "e": 51.4
+   },
+   {
+    "w": " death",
+    "s": 51.4,
+    "e": 51.7
+   }
+  ]
+ },
+ {
+  "start": 51.7,
+  "end": 56.44,
+  "text": "penalty. Individuals could face up to 20 years in federal prison. And this comes after",
+  "words": [
+   {
+    "w": " penalty.",
+    "s": 51.7,
+    "e": 52.08
+   },
+   {
+    "w": " Individuals",
+    "s": 52.6,
+    "e": 53.2
+   },
+   {
+    "w": " could",
+    "s": 53.2,
+    "e": 53.3
+   },
+   {
+    "w": " face",
+    "s": 53.3,
+    "e": 53.52
+   },
+   {
+    "w": " up",
+    "s": 53.52,
+    "e": 53.72
+   },
+   {
+    "w": " to",
+    "s": 53.72,
+    "e": 53.86
+   },
+   {
+    "w": " 20",
+    "s": 53.86,
+    "e": 54.16
+   },
+   {
+    "w": " years",
+    "s": 54.16,
+    "e": 54.42
+   },
+   {
+    "w": " in",
+    "s": 54.42,
+    "e": 54.64
+   },
+   {
+    "w": " federal",
+    "s": 54.64,
+    "e": 54.88
+   },
+   {
+    "w": " prison.",
+    "s": 54.88,
+    "e": 55.28
+   },
+   {
+    "w": " And",
+    "s": 55.56,
+    "e": 55.74
+   },
+   {
+    "w": " this",
+    "s": 55.74,
+    "e": 55.88
+   },
+   {
+    "w": " comes",
+    "s": 55.88,
+    "e": 56.1
+   },
+   {
+    "w": " after",
+    "s": 56.1,
+    "e": 56.44
+   }
+  ]
+ },
+ {
+  "start": 56.44,
+  "end": 61.18,
+  "text": "an NBC exit poll found that 56 percent of voters considered AI and data centers",
+  "words": [
+   {
+    "w": " an",
+    "s": 56.44,
+    "e": 56.58
+   },
+   {
+    "w": " NBC",
+    "s": 56.58,
+    "e": 56.88
+   },
+   {
+    "w": " exit",
+    "s": 56.88,
+    "e": 57.3
+   },
+   {
+    "w": " poll",
+    "s": 57.3,
+    "e": 57.58
+   },
+   {
+    "w": " found",
+    "s": 57.58,
+    "e": 57.88
+   },
+   {
+    "w": " that",
+    "s": 57.88,
+    "e": 58.04
+   },
+   {
+    "w": " 56",
+    "s": 58.04,
+    "e": 58.48
+   },
+   {
+    "w": " percent",
+    "s": 58.48,
+    "e": 59.04
+   },
+   {
+    "w": " of",
+    "s": 59.04,
+    "e": 59.22
+   },
+   {
+    "w": " voters",
+    "s": 59.22,
+    "e": 59.48
+   },
+   {
+    "w": " considered",
+    "s": 59.48,
+    "e": 59.98
+   },
+   {
+    "w": " AI",
+    "s": 59.98,
+    "e": 60.3
+   },
+   {
+    "w": " and",
+    "s": 60.3,
+    "e": 60.68
+   },
+   {
+    "w": " data",
+    "s": 60.68,
+    "e": 60.86
+   },
+   {
+    "w": " centers",
+    "s": 60.86,
+    "e": 61.18
+   }
+  ]
+ },
+ {
+  "start": 61.18,
+  "end": 64.18,
+  "text": "a crucial or major factor in their midterm vote.",
+  "words": [
+   {
+    "w": " a",
+    "s": 61.18,
+    "e": 61.84
+   },
+   {
+    "w": " crucial",
+    "s": 61.84,
+    "e": 62.2
+   },
+   {
+    "w": " or",
+    "s": 62.2,
+    "e": 62.5
+   },
+   {
+    "w": " major",
+    "s": 62.5,
+    "e": 62.78
+   },
+   {
+    "w": " factor",
+    "s": 62.78,
+    "e": 63.18
+   },
+   {
+    "w": " in",
+    "s": 63.18,
+    "e": 63.4
+   },
+   {
+    "w": " their",
+    "s": 63.4,
+    "e": 63.5
+   },
+   {
+    "w": " midterm",
+    "s": 63.5,
+    "e": 63.86
+   },
+   {
+    "w": " vote.",
+    "s": 63.86,
+    "e": 64.18
+   }
+  ]
+ },
+ {
+  "start": 65.2,
+  "end": 69.94,
+  "text": "Supporters say the restrictions would protect humanity from AI systems beyond human control.",
+  "words": [
+   {
+    "w": " Supporters",
+    "s": 65.2,
+    "e": 65.64
+   },
+   {
+    "w": " say",
+    "s": 65.64,
+    "e": 65.96
+   },
+   {
+    "w": " the",
+    "s": 65.96,
+    "e": 66.08
+   },
+   {
+    "w": " restrictions",
+    "s": 66.08,
+    "e": 66.5
+   },
+   {
+    "w": " would",
+    "s": 66.5,
+    "e": 66.8
+   },
+   {
+    "w": " protect",
+    "s": 66.8,
+    "e": 67.1
+   },
+   {
+    "w": " humanity",
+    "s": 67.1,
+    "e": 67.58
+   },
+   {
+    "w": " from",
+    "s": 67.58,
+    "e": 67.86
+   },
+   {
+    "w": " AI",
+    "s": 67.86,
+    "e": 68.12
+   },
+   {
+    "w": " systems",
+    "s": 68.12,
+    "e": 68.62
+   },
+   {
+    "w": " beyond",
+    "s": 68.62,
+    "e": 69.12
+   },
+   {
+    "w": " human",
+    "s": 69.12,
+    "e": 69.46
+   },
+   {
+    "w": " control.",
+    "s": 69.46,
+    "e": 69.94
+   }
+  ]
+ },
+ {
+  "start": 70.36,
+  "end": 74.3,
+  "text": "Critics warn sweeping restrictions could slow innovation and put America at a disadvantage.",
+  "words": [
+   {
+    "w": " Critics",
+    "s": 70.36,
+    "e": 70.56
+   },
+   {
+    "w": " warn",
+    "s": 70.56,
+    "e": 70.82
+   },
+   {
+    "w": " sweeping",
+    "s": 70.82,
+    "e": 71.1
+   },
+   {
+    "w": " restrictions",
+    "s": 71.1,
+    "e": 71.78
+   },
+   {
+    "w": " could",
+    "s": 71.78,
+    "e": 72.1
+   },
+   {
+    "w": " slow",
+    "s": 72.1,
+    "e": 72.3
+   },
+   {
+    "w": " innovation",
+    "s": 72.3,
+    "e": 72.74
+   },
+   {
+    "w": " and",
+    "s": 72.74,
+    "e": 73.16
+   },
+   {
+    "w": " put",
+    "s": 73.16,
+    "e": 73.3
+   },
+   {
+    "w": " America",
+    "s": 73.3,
+    "e": 73.66
+   },
+   {
+    "w": " at",
+    "s": 73.66,
+    "e": 73.94
+   },
+   {
+    "w": " a",
+    "s": 73.94,
+    "e": 74.04
+   },
+   {
+    "w": " disadvantage.",
+    "s": 74.04,
+    "e": 74.3
+   }
+  ]
+ },
+ {
+  "start": 75.04,
+  "end": 77.56,
+  "text": "The bill has not become law. So here's the question.",
+  "words": [
+   {
+    "w": " The",
+    "s": 75.04,
+    "e": 75.12
+   },
+   {
+    "w": " bill",
+    "s": 75.12,
+    "e": 75.36
+   },
+   {
+    "w": " has",
+    "s": 75.36,
+    "e": 75.56
+   },
+   {
+    "w": " not",
+    "s": 75.56,
+    "e": 75.76
+   },
+   {
+    "w": " become",
+    "s": 75.76,
+    "e": 75.98
+   },
+   {
+    "w": " law.",
+    "s": 75.98,
+    "e": 76.3
+   },
+   {
+    "w": " So",
+    "s": 76.56,
+    "e": 76.74
+   },
+   {
+    "w": " here's",
+    "s": 76.74,
+    "e": 77.14
+   },
+   {
+    "w": " the",
+    "s": 77.14,
+    "e": 77.24
+   },
+   {
+    "w": " question.",
+    "s": 77.24,
+    "e": 77.56
+   }
+  ]
+ },
+ {
+  "start": 78.62,
+  "end": 82.02,
+  "text": "Can Washington regulate superintelligence before it even exists?",
+  "words": [
+   {
+    "w": " Can",
+    "s": 78.62,
+    "e": 78.78
+   },
+   {
+    "w": " Washington",
+    "s": 78.78,
+    "e": 79.18
+   },
+   {
+    "w": " regulate",
+    "s": 79.18,
+    "e": 79.72
+   },
+   {
+    "w": " superintelligence",
+    "s": 79.72,
+    "e": 80.7
+   },
+   {
+    "w": " before",
+    "s": 80.7,
+    "e": 81.06
+   },
+   {
+    "w": " it",
+    "s": 81.06,
+    "e": 81.3
+   },
+   {
+    "w": " even",
+    "s": 81.3,
+    "e": 81.56
+   },
+   {
+    "w": " exists?",
+    "s": 81.56,
+    "e": 82.02
+   }
+  ]
+ }
+]
