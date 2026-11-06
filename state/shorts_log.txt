@@ -1,6 +1,1 @@
-장면 1/5 silent 누적 3.0초
-장면 2/5 typecast 누적 8.4초
-장면 3/5 silent 누적 10.8초
-장면 4/5 typecast 누적 15.6초
-장면 5/5 silent 누적 18.3초
-완성: /home/runner/work/cardnews/cardnews/media/20261106-t18/short.mp4 (18.3초, TTS ['silent', 'typecast'])
+이미 보낸 원고(변경 없음) → 건너뜀: 20261106-t18 published
