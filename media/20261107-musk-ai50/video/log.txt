@@ -1,0 +1,8 @@
+total 502060
+drwxr-xr-x 2 runner runner      4096 Nov  6 16:58 .
+drwxr-xr-x 3 runner runner      4096 Nov  6 16:56 ..
+-rw-r--r-- 1 runner runner         0 Nov  6 16:56 log.txt
+-rw-r--r-- 1 runner runner 514093267 Nov  6 16:58 v1.mp4
+-rw-r--r-- 1 runner runner      2145 Nov  6 16:58 x1.json
+재압축: media/20261107-musk-ai50/video/v1.mp4 2845.326803초 → 800k
+60MB 넘어 삭제: media/20261107-musk-ai50/video/v1.mp4 283M
