@@ -1,132 +1,83 @@
 {
- "id": "20261106-t18",
+ "id": "20261107-t08",
  "mode": "send",
  "format": "meme",
- "topic": "계단 한가운데 대자로 드러누운 턱시도 아기 고양이 때문에 내려가다 멈칫·유턴하고, 결국 벽에 딱 붙어 살금살금 비켜 지나가는 그레이트데인(Instagram @ohhitsnik 릴스 DWPj3vZD2CB, 2026.3 게시, 약 100만 회·좋아요 6.7만, Newsweek 2026.3.30 보도 '117lb Great Dane Meets 7lb Kitten'). 원본 캡션 'The power imbalance is so unfair...'(세로 67~74%, 전 구간)는 zoom 1.35 + y 0.03 크롭으로 화면 아래 밖으로 밀어냄(흐림 없음). 원본 소리는 배경 -45dB 무음 + 짧은 중저음 소리(사람 소리인지 구분 불가, 동물 소리 아님)라 전부 끔. 사실: AKC 'Is the Great Dane a Good Fit for You?' — gentle giants, friendly, patient, highly dependable / 110~175파운드.",
+ "topic": "주인만 보면 달려와 손에 올라타고, 침대 다른 곳에 내려놓으면 엄마한테 전력질주하는 흰 골든햄스터 밀크셰이크(TikTok @milkshake.ham 7600031464930970902, 2026.1 게시, Newsweek 2026.1.28 보도 — 24시간 만에 66만 회). 원본 캡션(위 14~27%·가운데 38%·아래 72~80%)은 장면마다 zoom·y 크롭으로 밀어내고, 1장면 'the way he's waiting'(72%)·5장면 '*sprinting to mom*'(38%)은 우리 자막으로 덮음(흐림 없음). 원본 소리는 전 구간 -11~-19dB로 일정한 덧입힌 음악 트랙이라 전부 끔. 사실: PetMD 'Are Hamsters Blind?'(2026.3.26, Melissa Witherell DVM) — 근시라 얼굴은 잘 못 알아보고 냄새·목소리·일과로 익숙한 사람을 알아봄.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
  "bgm_volume": 2.0,
- "sfx_max": 3,
+ "sfx_max": 4,
  "hook": {
-  "t": "3kg 아깽이가 계단을 막아버림\n'53kg 대형견의 선택은ㅋㅋ'"
+  "t": "햄스터는 정 없다던데\n'우리 애 반응 실화임?ㅋㅋ'"
  },
  "photo_credits": [
-  "Instagram @ohhitsnik"
+  "TikTok @milkshake.ham"
  ],
  "sources": [
   {
-   "publisher": "Instagram @ohhitsnik (그레이트데인 + 턱시도 아기 고양이)",
-   "url": "https://www.instagram.com/reel/DWPj3vZD2CB/",
-   "date": "2026-03"
+   "publisher": "TikTok @milkshake.ham (골든햄스터 밀크셰이크)",
+   "url": "https://www.tiktok.com/@milkshake.ham/video/7600031464930970902",
+   "date": "2026-01"
   },
   {
-   "publisher": "Newsweek - 117LB Great Dane Meets 7LB Kitten, What Happens Next Caught on Camera",
-   "url": "https://www.newsweek.com/117lb-great-dane-7lb-kitten-what-happens-next-camera-11755962",
-   "date": "2026-03-30"
+   "publisher": "Newsweek - Hamster Realizes Owner Is Home, Viewers Not Prepared for His Reaction",
+   "url": "https://www.newsweek.com/hamster-realizes-owners-home-reaction-11429190",
+   "date": "2026-01-28"
   },
   {
-   "publisher": "AKC - Is the Great Dane a Good Fit for You?",
-   "url": "https://www.akc.org/expert-advice/dog-breeds/great-dane-right-for-you/",
-   "date": "2026-06-03"
+   "publisher": "PetMD - Are Hamsters Blind?",
+   "url": "https://www.petmd.com/exotic/are-hamsters-blind",
+   "date": "2026-03-26"
   }
  ],
  "scenes": [
   {
-   "dur": 3.0,
+   "dur": 2.6,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 1.2,
-    "zoom": 1.35,
-    "x": 0.12,
-    "y": 0.03,
-    "audio": 0
+    "src": "video/v1b.mp4",
+    "start": 0.15,
+    "zoom": 1.6,
+    "x": 0.5,
+    "y": 0.614,
+    "audio": 0,
+    "boomerang": true
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...저기요?",
-     "x": 0.48,
-     "y": 0.28,
-     "at": 0.3,
-     "to": 2.0
-    },
-    {
-     "k": "sfx",
-     "t": "(조용히 유턴)",
-     "x": 0.6,
-     "y": 0.42,
-     "at": 2.0,
-     "to": 3.0,
-     "s": "whoosh",
-     "sv": 0.9
-    }
-   ]
-  },
-  {
-   "say": "몸무게 53킬로 그레이트데인이, 3킬로 아기 고양이 앞에서 길이 막혔습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 5.6,
-    "zoom": 1.35,
-    "x": 0.3,
-    "y": 0.03,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "계단 통행 금지 (아깽이 낮잠 중)",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.3
-    }
-   ]
-  },
-  {
-   "dur": 2.4,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 10.0,
-    "zoom": 1.35,
-    "x": 0.3,
-    "y": 0.03,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "깨우면 안 돼... 살금... 살금...",
-     "x": 0.5,
-     "y": 0.1,
+     "t": "엄마 언제 와...?",
+     "x": 0.7,
+     "y": 0.12,
      "at": 0.2,
-     "to": 2.4
+     "to": 2.6
     },
     {
      "k": "sfx",
-     "t": "(사뿐사뿐)",
-     "x": 0.72,
-     "y": 0.42,
-     "at": 0.6,
-     "to": 2.4,
+     "t": "(목 빠지게 기다리는 중)",
+     "x": 0.5,
+     "y": 0.815,
+     "at": 0.0,
+     "to": 2.6,
      "s": "tick",
-     "sv": 0.8
+     "sv": 0.8,
+     "size": 70
     }
    ]
   },
   {
-   "say": "미국켄넬클럽은 그레이트데인을, 참을성 많은 온순한 거인이라고 부릅니다.",
+   "say": "손만 내밀면, 이 햄스터는 매번 이렇게 올라탑니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 12.3,
-    "zoom": 1.35,
-    "x": 0.3,
-    "y": 0.03,
+    "start": 6.3,
+    "zoom": 1.4,
+    "x": 0.5,
+    "y": 0.74,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "덩치만 큰 쫄보 아님 (배려임)",
+     "t": "손 = 내 엘리베이터",
      "x": 0.5,
      "y": 0.1,
      "at": 0.4
@@ -134,50 +85,143 @@
    ]
   },
   {
-   "dur": 2.7,
+   "dur": 3.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 15.8,
-    "zoom": 1.35,
-    "x": 0.3,
-    "y": 0.03,
+    "start": 20.5,
+    "zoom": 1.25,
+    "x": 0.5,
+    "y": 0.658,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "실례합니다아... 지나갈게요...",
+     "t": "엄마다!!!",
      "x": 0.5,
-     "y": 0.1,
+     "y": 0.12,
      "at": 0.1,
-     "to": 1.7
+     "to": 1.6,
+     "s": "pop",
+     "sv": 0.9
     },
     {
      "k": "talk",
-     "t": "(꿈쩍도 안 함)",
-     "x": 0.68,
+     "t": "안아줘 안아줘",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 1.7,
+     "to": 3.6
+    }
+   ]
+  },
+  {
+   "say": "그런데 다른 곳에 내려놓으려고 하면요.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 27.0,
+    "zoom": 1.3,
+    "x": 0.5,
+    "y": 0.907,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "침대에 살포시 내려놓기",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "dur": 1.8,
+   "video": {
+    "src": "video/v1c.mp4",
+    "start": 0.1,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "엄마아아아!!!",
+     "x": 0.41,
+     "y": 0.36,
+     "at": 0.0,
+     "to": 1.8,
+     "s": "whoosh",
+     "sv": 0.9,
+     "size": 110
+    }
+   ]
+  },
+  {
+   "say": "햄스터는 눈이 나빠서, 냄새와 목소리로 주인을 알아본다고 합니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 33.5,
+    "zoom": 1.4,
+    "x": 0.5,
+    "y": 0.132,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "1주일 만에 엄마 냄새 맡은 반응",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "dur": 2.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 55.9,
+    "zoom": 1.3,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "집? 안 가. 여기가 내 집임",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.1,
+     "to": 2.6
+    },
+    {
+     "k": "sfx",
+     "t": "(찰싹)",
+     "x": 0.72,
      "y": 0.62,
-     "at": 1.5,
-     "to": 2.7,
-     "s": "pop",
-     "sv": 0.9
+     "at": 0.9,
+     "to": 2.6,
+     "s": "heart",
+     "sv": 0.8
     }
    ]
   }
  ],
  "yt": {
-  "title": "계단 막고 드러누운 아기 고양이 앞에서 그레이트데인이 한 행동ㅋㅋ #shorts",
-  "description": "3kg 아기 고양이가 계단 한가운데 대자로 드러눕자ㅋㅋ 53kg 그레이트데인은 멈칫, 유턴, 그리고... 벽에 딱 붙어 살금살금 지나갑니다. 아깽이는 끝까지 꿈쩍도 안 했습니다.\n\n미국켄넬클럽(AKC)은 그레이트데인을 '온순한 거인(gentle giant)'이라 부르며, 다정하고 참을성 많고 믿음직한 견종으로 소개합니다. 몸무게는 보통 50~80kg(110~175파운드)입니다.\n\n여러분 집 서열 1위는 누구인가요?\n\n영상: Instagram @ohhitsnik\n참고: Newsweek, AKC\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: Instagram @ohhitsnik\n음성: Typecast\n\n#shorts #그레이트데인 #대형견 #아기고양이 #아깽이 #강아지쇼츠 #고양이쇼츠",
+  "title": "다른 데 내려놓으면 엄마한테 전력질주하는 햄스터ㅋㅋ #shorts",
+  "description": "주인 손만 보면 달려와 올라타는 햄스터 밀크셰이크ㅋㅋ 침대 다른 쪽에 살짝 내려놨더니... 엄마한테 전력질주합니다. 1주일 만에 엄마를 본 날엔 팔에 매달려 내려오질 않았대요.\n\n수의사 매체 PetMD에 따르면 햄스터는 근시라 얼굴은 잘 못 알아보지만, 냄새와 목소리, 일과로 익숙한 사람을 알아본다고 합니다.\n\n여러분 집 햄찌도 이렇게 반겨 주나요?\n\n영상: TikTok @milkshake.ham\n참고: Newsweek, PetMD\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @milkshake.ham\n음성: Typecast\n\n#shorts #햄스터 #골든햄스터 #햄찌 #햄스터쇼츠 #귀여운동물",
   "tags": [
-   "그레이트데인",
-   "대형견",
-   "아기고양이",
-   "아깽이",
-   "강아지와고양이",
-   "강아지쇼츠",
-   "고양이쇼츠",
-   "great dane",
-   "kitten",
+   "햄스터",
+   "골든햄스터",
+   "햄찌",
+   "햄스터쇼츠",
+   "귀여운동물",
+   "hamster",
+   "syrian hamster",
    "털뭉치"
   ]
  },
