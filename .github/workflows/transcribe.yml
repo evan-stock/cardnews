@@ -1,0 +1,41 @@
+name: transcribe
+# drafts/transcribe.json {"files":["media/<id>/video/v2.mp4",...],"model":"small","lang":"en"}
+# → 같은 폴더에 <이름>.words.json(단어 타임스탬프) + <이름>.srt 저장. 대사 자막 만들 때 사용(2026.11.06).
+on:
+  push:
+    paths: ["drafts/transcribe.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install -y -qq ffmpeg && pip install -q faster-whisper
+      - name: transcribe
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from faster_whisper import WhisperModel
+          cfg=json.load(open('drafts/transcribe.json'))
+          m=WhisperModel(cfg.get('model','small'), device='cpu', compute_type='int8')
+          def ts(t):
+              h=int(t//3600); mi=int(t%3600//60); s=t%60
+              return f"{h:02d}:{mi:02d}:{int(s):02d},{int(round((s-int(s))*1000)):03d}"
+          for f in cfg['files']:
+              segs,_=m.transcribe(f, language=cfg.get('lang','en'), word_timestamps=True, vad_filter=False)
+              out=[]; srt=[]
+              for i,s in enumerate(segs,1):
+                  out.append({"start":round(s.start,2),"end":round(s.end,2),"text":s.text.strip(),
+                              "words":[{"w":w.word,"s":round(w.start,2),"e":round(w.end,2)} for w in (s.words or [])]})
+                  srt.append(f"{i}\n{ts(s.start)} --> {ts(s.end)}\n{s.text.strip()}\n")
+              b=os.path.splitext(f)[0]
+              json.dump(out,open(b+'.words.json','w'),ensure_ascii=False,indent=1)
+              open(b+'.srt','w').write('\n'.join(srt))
+              print(f, len(out))
+          PY
+      - run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          git add -A media
+          git diff --cached --quiet || { git commit -m "transcribe"; for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*7)); done; }
