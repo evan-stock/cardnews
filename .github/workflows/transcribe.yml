@@ -16,7 +16,7 @@ jobs:
       - name: transcribe
         run: |
           python3 - <<'PY'
-          import json, os
+          import json, os, subprocess, numpy as np
           from faster_whisper import WhisperModel
           cfg=json.load(open('drafts/transcribe.json'))
           m=WhisperModel(cfg.get('model','small'), device='cpu', compute_type='int8')
@@ -24,7 +24,8 @@ jobs:
               h=int(t//3600); mi=int(t%3600//60); s=t%60
               return f"{h:02d}:{mi:02d}:{int(s):02d},{int(round((s-int(s))*1000)):03d}"
           for f in cfg['files']:
-              segs,_=m.transcribe(f, language=cfg.get('lang','en'), word_timestamps=True, vad_filter=False)
+              a=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-i',f,'-ac','1','-ar','16000','-f','f32le','-'],capture_output=True,check=True).stdout,np.float32)
+              segs,_=m.transcribe(a, language=cfg.get('lang','en'), word_timestamps=True, vad_filter=False)
               out=[]; srt=[]
               for i,s in enumerate(segs,1):
                   out.append({"start":round(s.start,2),"end":round(s.end,2),"text":s.text.strip(),
