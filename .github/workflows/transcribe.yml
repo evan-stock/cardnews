@@ -1,5 +1,6 @@
 name: transcribe
 # drafts/transcribe.json {"files":["media/<id>/video/v2.mp4",...],"model":"small","lang":"en"}
+# files에 http 주소도 가능(그때는 "out":"media/<id>/video/v1" 지정, 2026.11.07)
 # → 같은 폴더에 <이름>.words.json(단어 타임스탬프) + <이름>.srt 저장. 대사 자막 만들 때 사용(2026.11.06).
 on:
   push:
@@ -31,7 +32,8 @@ jobs:
                   out.append({"start":round(s.start,2),"end":round(s.end,2),"text":s.text.strip(),
                               "words":[{"w":w.word,"s":round(w.start,2),"e":round(w.end,2)} for w in (s.words or [])]})
                   srt.append(f"{i}\n{ts(s.start)} --> {ts(s.end)}\n{s.text.strip()}\n")
-              b=os.path.splitext(f)[0]
+              b=os.path.splitext(f)[0] if not f.startswith('http') else cfg['out']
+              os.makedirs(os.path.dirname(b),exist_ok=True)
               json.dump(out,open(b+'.words.json','w'),ensure_ascii=False,indent=1)
               open(b+'.srt','w').write('\n'.join(srt))
               print(f, len(out))
