@@ -66,7 +66,9 @@ for voice in cfg["voices"]:
     dst = f"{out}/gemini_{voice}{cfg.get('tag','')}.mp3"
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", *inputs, "-filter_complex", ";".join(filt),
                     "-map", "[o]", "-b:a", "128k", dst], check=True)
-    for p in parts:
+    for i, p in enumerate(parts):
+        if cfg.get("keep_parts"):
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", p, "-b:a", "160k", f"{out}/gemini_{voice}{cfg.get('tag','')}_{i}.mp3"], check=True)
         os.remove(p)
     dur = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", dst],
                          capture_output=True, text=True).stdout.strip()
