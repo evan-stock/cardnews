@@ -1,0 +1,118 @@
+{
+ "id": "20261106-doorplug",
+ "media": "media/20261106-doorplug",
+ "topic": "알래스카항공 1282편(2024.1.5) — 고도 약 4,900m에서 막아 둔 비상문(도어 플러그)이 통째로 떨어져 나갔지만, 구멍 바로 옆 26A·26B 가 빈자리였고 다들 벨트를 맨 채라 177명 모두 무사히 착륙. 사용자 11.06 09:17 회차 1번 선택.",
+ "hook": {
+  "t": "비행 중 비행기 벽이\n'통째로' 뜯겨 나갔다"
+ },
+ "credit": "영상: CBS News(STRINGER/Huy Tran)·Daily Mail(KPTV) · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/the_awakening.mp3",
+  "start": 30.0,
+  "vol": 0.38
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "기내 영상: TikTok @cbsnews https://www.tiktok.com/@cbsnews/video/7327755652913237290 (화면 표기 STRINGER/Huy Tran) — media/20261106-wa2/video/v1.mp4. 위 CBS 문구·표기는 크롭(y 320~736).",
+  "동체 구멍·착륙 뒤 기내: TikTok @dailymail https://www.tiktok.com/@dailymail/video/7321829376947932458 (KPTV 화면 포함) — media/20261106-wa2/video/v3.mp4. 문구·자막 크롭. 휴대폰 화면(개인정보) 장면은 안 씀.",
+  "모션그래픽: scripts/story_shorts/anim_doorplug.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "NTSB 최종보고서 DCA24MA063(2025.6) — 도어 플러그 고정 볼트 4개가 보잉 공장 수리 뒤 다시 끼워지지 않음, 고도 약 16,000ft, 승객 171명·승무원 6명, 26A·26B 빈자리",
+   "url": "https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx"
+  },
+  {
+   "publisher": "CBS News 2024.1 — 10대 승객 셔츠가 뜯겨 나감, 좌석벨트 표시등 켜져 있었음",
+   "url": "https://www.cbsnews.com/news/alaska-airlines-flight-1282-passengers-describe-terrifying-moment/"
+  },
+  {
+   "publisher": "Wikipedia 'Alaska Airlines Flight 1282' — 사망자 없음, 경상 일부, 휴대폰 2대·도어 플러그 지상에서 발견",
+   "url": "https://en.wikipedia.org/wiki/Alaska_Airlines_Flight_1282"
+  }
+ ],
+ "_note": "A=3컷: v1 0.3~1.2 0.7배 슬로(구멍 너머 도시 불빛·펄럭이는 단열재) / 5.5~6.4 1.4배 확대 0.75배 슬로 / 2.0~2.9 1.15배 → 컷 전환 1.29·2.49초. B v3 4.3~6.7 바깥 동체 구멍(KPTV). C v1 8.8~10.8 1.1배 0.85배 슬로(산소마스크·잔해 휘날림). E v3 0.2~2.6 착륙 뒤 기내 구멍(경찰차 불빛). H v1 0.3~1.7 1.3배 확대 0.55배 슬로 리플레이. 그래픽 plug·suck·seats = anim_doorplug.py. 효과음 없음. 원본 소리 끔(CBS 편집본 소리라 바람 소리만인지 확인 못 함).",
+ "scenes": [
+  {
+   "text": "4,900m 상공에서 이 구멍이 '뻥' 열렸는데",
+   "video": {
+    "src": "clip/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "창문이 아니라 벽 한쪽이 통째로 사라졌어요",
+   "video": {
+    "src": "clip/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "떨어진 건 막아 둔 비상문 '도어 플러그'",
+   "video": {
+    "src": "gfx/plug.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "기내 공기가 구멍 밖으로 한꺼번에 '쑥'",
+   "video": {
+    "src": "gfx/suck.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "10대 승객은 셔츠까지 뜯겨 나갔는데",
+   "video": {
+    "src": "clip/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.3
+  },
+  {
+   "text": "구멍 옆 두 자리는 '빈자리', 다들 벨트를 맨 채였죠",
+   "video": {
+    "src": "gfx/seats.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.3
+  },
+  {
+   "text": "그렇게 177명 모두 무사히 착륙",
+   "video": {
+    "src": "clip/E.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "앉아 있을 땐 벨트는 꼭! 다음 편도 하늘 이야기",
+   "video": {
+    "src": "clip/H.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  }
+ ]
+}
