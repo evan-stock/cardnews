@@ -1,7 +1,7 @@
 {
  "id": "20261106-t18",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-06T18:39:52.781046+09:00",
  "publish_at": "2026-11-06T18:39:52.781073+09:00",
  "publish_now": true,
@@ -53,5 +53,9 @@
   "channel": null
  },
  "draft_hash": "bafa66f9d0ed",
- "tg_msg": 1985
+ "tg_msg": 1985,
+ "decided_at": "2026-11-06T18:44:50.131452+09:00",
+ "yt_id": "hXotCzBVqL4",
+ "permalink": "https://youtube.com/shorts/hXotCzBVqL4",
+ "published_at": "2026-11-06T18:44:53.904276+09:00"
 }
