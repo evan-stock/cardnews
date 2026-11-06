@@ -1,7 +1,7 @@
 {
  "id": "20261106-brinicle",
  "kind": "short",
- "status": "pending",
+ "status": "manual",
  "created_at": "2026-11-06T22:24:19.442405+09:00",
  "publish_at": "2026-11-06T22:24:19.442418+09:00",
  "publish_now": true,
@@ -34,5 +34,6 @@
   "channel": "shop"
  },
  "app_file": "media/20261106-brinicle/short_card_nomusic.mp4",
- "tg_msg": 1990
+ "tg_msg": 1990,
+ "decided_at": "2026-11-06T22:59:50.030999+09:00"
 }
