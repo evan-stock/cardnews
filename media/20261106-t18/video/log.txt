@@ -1,0 +1,17 @@
+ERROR: [twitter] 2031006808660480041: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/coerquette/status/2031006808660480041
+실패: https://x.com/coerquette/status/2031006808660480041
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Mi_fYfpycT0: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+영상 없는 글(사진만): https://x.com/yotsumeddd/status/2106386450904404226
+실패: https://x.com/yotsumeddd/status/2106386450904404226
+total 7624
+drwxr-xr-x 2 runner runner    4096 Nov  6 09:16 .
+drwxr-xr-x 3 runner runner    4096 Nov  6 09:16 ..
+-rw-r--r-- 1 runner runner     915 Nov  6 09:16 log.txt
+-rw-r--r-- 1 runner runner 3181206 Nov  6 09:16 v1.mp4
+-rw-r--r-- 1 runner runner 4085869 Nov  6 09:16 v2.mp4
+-rw-r--r-- 1 runner runner  510144 Nov  6 09:16 v5.mp4
+-rw-r--r-- 1 runner runner     610 Nov  6 09:16 x2.json
+-rw-r--r-- 1 runner runner     270 Nov  6 09:16 x3.json
+-rw-r--r-- 1 runner runner     742 Nov  6 09:16 x4.json
