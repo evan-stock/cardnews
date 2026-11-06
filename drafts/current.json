@@ -1,22 +1,17 @@
 [
  {
-  "id": "20261106-chipshock",
+  "id": "20261106-f4",
   "slot": "evening",
   "mode": "collect",
-  "topic": "미국 선거 → AI 데이터센터 규제 공포 → 반도체 폭락 → 코스피 서킷브레이커",
+  "topic": "F4 긴급회동",
   "image_pages": [
-   "https://www.newspim.com/news/view/20261106000202",
-   "https://www.fnnews.com/news/202611060834391434",
-   "https://www.etoday.co.kr/news/view/2644855",
-   "https://www.etoday.co.kr/news/view/2644861",
-   "https://www.gukjenews.com/news/articleView.html?idxno=3743953",
-   "https://www.ebn.co.kr/news/articleView.html?idxno=1730674",
-   "https://www.ntoday.co.kr/news/articleView.html?idxno=130670",
-   "https://www.issueon.co.kr/news/articleView.html?idxno=14331",
-   "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks",
-   "https://www.sherwood.news/tech/sen-sanders-and-rep-ocasio-cortez-introduce-data-center-moratorium-bill/"
+   "https://biz.sbs.co.kr/article/20000344674",
+   "https://www.ddaily.co.kr/page/view/2026110610165670172",
+   "https://futurechosun.com/archives/165771",
+   "https://bloomingbit.io/feed/news/123788",
+   "http://www.mediadale.com/news/articleView.html?idxno=295421"
   ],
-  "limit": 40,
+  "limit": 20,
   "slides": [
    {
     "t": "x"
