@@ -1,0 +1,32 @@
+{
+ "id": "20261106-snowpipe",
+ "media": "media/20261106-snowpipe",
+ "topic": "일본 니가타·도야마 등 눈 많은 도시의 '소세쓰 파이프(消雪パイプ)' — 겨울에도 12~13℃인 지하수를 도로 노즐로 뿌려 눈을 바로 녹임. 1961년 나가오카시가 전국 최초 도로 설치. 더 추운 홋카이도·산간은 물이 얼어 못 씀. 사용자 11.06 14:17 회차 3번 선택.",
+ "hook": {
+  "t": "눈 오는 날 일부러\n'물'을 뿌리는 도로"
+ },
+ "credit": "영상: X @Grahoo(도야마 촬영자) · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/how_it_began.mp3", "start": 14.5, "vol": 0.56},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "도로 노즐 영상: X @Grahoo(うさふー) https://x.com/Grahoo/status/1095964835982979072 (촬영자 본인, 도야마 '融雪装置') — media/20261106-snowpipe/video/v2.mp4",
+  "모션그래픽: scripts/story_shorts/anim_snowpipe.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "新潟県 長岡地域振興局 '消雪パイプ' — 지하수 수온 겨울에도 12~13℃, 1961년(昭和36年) 長岡市가 전국 최초 도로 설치, 1963 폭설로 전국 보급", "url": "https://www.pref.niigata.lg.jp/sec/nagaoka_seibi/1195402265145.html"},
+  {"publisher": "新潟県 '長岡地域における地盤沈下' — 지하수 채취에 따른 지반 침하 주의보·경보", "url": "https://www.pref.niigata.lg.jp/site/kankyo/1331240506475.html"},
+  {"publisher": "Wikipedia(日) '消雪パイプ' — 北海道·山間部처럼 추운 곳은 물 자체가 얼어 ロードヒーティング 사용", "url": "https://ja.wikipedia.org/wiki/%E6%B6%88%E9%9B%AA%E3%83%91%E3%82%A4%E3%83%97"},
+  {"publisher": "三条市役所 공식 X(2022.12) — 도로가 갈색인 건 물속 철분이 산화한 것", "url": "https://x.com/sanjo_city/status/1602948737965633537"}
+ ],
+ "_note": "A=3컷(v2 6.7~ 1.8배 0.6배 슬로 노즐 근접 / 8.4~ 1.35배 0.6배 / 0.0~ 1.15배 0.8배 넓은 길) → 컷 1.3·2.5초. B v2 1.6~ 1.1배. C v2 4.0~ 1.25배 0.75배(갈색 연석). H v2 6.8~ 1.45배 0.55배 리플레이. 그래픽 under·melt·limit = anim_snowpipe.py. 효과음 없음, 원본 소리 없음.",
+ "scenes": [
+  {"text": "영하에 물을 뿌리면, 빙판이 되지 않을까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 4.0},
+  {"text": "그런데 눈이 쏟아져도 이 길엔 안 쌓여요", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "비밀은 땅속 깊이서 끌어올린 '지하수'", "video": {"src": "gfx/under.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.2},
+  {"text": "겨울에도 12~13℃라 눈이 닿자마자 '사르르'", "video": {"src": "gfx/melt.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "이 동네 길이 갈색인 것도 물속 철분 때문", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.5},
+  {"text": "단, 훨씬 추운 곳에선 물이 얼어 못 써요", "video": {"src": "gfx/limit.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.2},
+  {"text": "다음 편엔 더 추운 홋카이도의 방법, 구독!", "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.7}
+ ]
+}
