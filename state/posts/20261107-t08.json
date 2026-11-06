@@ -1,0 +1,55 @@
+{
+ "id": "20261107-t08",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-07T08:42:38.993490+09:00",
+ "publish_at": "2026-11-07T08:42:38.993510+09:00",
+ "publish_now": true,
+ "topic": "주인만 보면 달려와 손에 올라타고, 침대 다른 곳에 내려놓으면 엄마한테 전력질주하는 흰 골든햄스터 밀크셰이크(TikTok @milkshake.ham 7600031464930970902, 2026.1 게시, Newsweek 2026.1.28 보도 — 24시간 만에 66만 회). 원본 캡션(위 14~27%·가운데 38%·아래 72~80%)은 장면마다 zoom·y 크롭으로 밀어내고, 1장면 'the way he's waiting'(72%)·5장면 '*sprinting to mom*'(38%)은 우리 자막으로 덮음(흐림 없음). 원본 소리는 전 구간 -11~-19dB로 일정한 덧입힌 음악 트랙이라 전부 끔. 사실: PetMD 'Are Hamsters Blind?'(2026.3.26, Melissa Witherell DVM) — 근시라 얼굴은 잘 못 알아보고 냄새·목소리·일과로 익숙한 사람을 알아봄.",
+ "sources": [
+  {
+   "publisher": "TikTok @milkshake.ham (골든햄스터 밀크셰이크)",
+   "url": "https://www.tiktok.com/@milkshake.ham/video/7600031464930970902",
+   "date": "2026-01"
+  },
+  {
+   "publisher": "Newsweek - Hamster Realizes Owner Is Home, Viewers Not Prepared for His Reaction",
+   "url": "https://www.newsweek.com/hamster-realizes-owners-home-reaction-11429190",
+   "date": "2026-01-28"
+  },
+  {
+   "publisher": "PetMD - Are Hamsters Blind?",
+   "url": "https://www.petmd.com/exotic/are-hamsters-blind",
+   "date": "2026-03-26"
+  }
+ ],
+ "seconds": 20.840000000000003,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261107-t08/short.mp4"
+ ],
+ "app_file": "media/20261107-t08/short_nobgm.mp4",
+ "yt": {
+  "title": "다른 데 내려놓으면 엄마한테 전력질주하는 햄스터ㅋㅋ #shorts",
+  "description": "주인 손만 보면 달려와 올라타는 햄스터 밀크셰이크ㅋㅋ 침대 다른 쪽에 살짝 내려놨더니... 엄마한테 전력질주합니다. 1주일 만에 엄마를 본 날엔 팔에 매달려 내려오질 않았대요.\n\n수의사 매체 PetMD에 따르면 햄스터는 근시라 얼굴은 잘 못 알아보지만, 냄새와 목소리, 일과로 익숙한 사람을 알아본다고 합니다.\n\n여러분 집 햄찌도 이렇게 반겨 주나요?\n\n영상: TikTok @milkshake.ham\n참고: Newsweek, PetMD\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @milkshake.ham\n음성: Typecast\n\n#shorts #햄스터 #골든햄스터 #햄찌 #햄스터쇼츠 #귀여운동물\n\n출처: TikTok @milkshake.ham (골든햄스터 밀크셰이크) 2026-01, Newsweek - Hamster Realizes Owner Is Home, Viewers Not Prepared for His Reaction 2026-01-28, PetMD - Are Hamsters Blind? 2026-03-26\n사진·영상: TikTok @milkshake.ham\n음성: Typecast\n\n#shorts #햄스터 #골든햄스터 #햄찌 #햄스터쇼츠",
+  "tags": [
+   "햄스터",
+   "골든햄스터",
+   "햄찌",
+   "햄스터쇼츠",
+   "귀여운동물",
+   "hamster",
+   "syrian hamster",
+   "털뭉치"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "976fe950d4c6",
+ "tg_msg": 1998
+}
