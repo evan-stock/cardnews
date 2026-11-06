@@ -1,7 +1,7 @@
 {
  "id": "20261106-doorplug",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-06T11:58:11.294788+09:00",
  "publish_at": "2026-11-06T11:58:11.294802+09:00",
  "publish_now": true,
@@ -31,5 +31,9 @@
   "synthetic": false,
   "channel": "shop"
  },
- "tg_msg": 1945
+ "tg_msg": 1945,
+ "decided_at": "2026-11-06T12:08:19.122465+09:00",
+ "yt_id": "f_-BvZmp56w",
+ "permalink": "https://youtube.com/shorts/f_-BvZmp56w",
+ "published_at": "2026-11-06T12:08:21.856790+09:00"
 }
