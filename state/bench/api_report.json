@@ -1,40 +1,113 @@
 {
- "since": "2025-09-01",
+ "since": "2025-06-01",
  "fixed": [],
  "found": [
   {
-   "title": "VertASC",
-   "id": "UCkSSQisybPEuovZNjQV301A",
-   "created": "2026-05-26",
-   "subs": "3380",
-   "videos": "261"
+   "title": "TinyPetsKingdom",
+   "id": "UCeqZC1S9-vyZLX0Nto94Pfw",
+   "created": "2025-07-31",
+   "subs": "7050",
+   "videos": "122"
   },
   {
-   "title": "일러스트냥이",
-   "id": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "created": "2026-09-25",
-   "subs": "0",
-   "videos": "4"
+   "title": "GigglePaws & Tails",
+   "id": "UCrpQ0q_nH6_dSi__3fKnQsA",
+   "created": "2025-09-02",
+   "subs": "108000",
+   "videos": "125"
+  },
+  {
+   "title": "TonengTime",
+   "id": "UCea_nSaOjBDaNsDECEocLAQ",
+   "created": "2025-05-30",
+   "subs": "16400",
+   "videos": "87"
+  },
+  {
+   "title": "RingCritters",
+   "id": "UCCAbmuoy58ZV1rLjPtjRUhQ",
+   "created": "2025-11-30",
+   "subs": "83",
+   "videos": "35"
+  },
+  {
+   "title": "Tiny Heroes kp",
+   "id": "UCFNtcJPVHDaBr2QeJmAC6YQ",
+   "created": "2024-10-13",
+   "subs": "4660",
+   "videos": "39"
+  },
+  {
+   "title": "Mrmalone0959",
+   "id": "UCYD0esHkMb7b-ZGgO1jLrzw",
+   "created": "2026-02-09",
+   "subs": "4",
+   "videos": "3"
   }
  ],
  "search_hits": [
   {
-   "q": "주황 고양이 의자",
-   "vid": "jMcNNZ52I20",
-   "ch": "일러스트냥이",
-   "cid": "UC9A2H_lNTqlAPY-QLAGEmqQ",
-   "date": "2026-10-02",
-   "title": "고양이가 손가락을 튕긴 순간… 거대한 호랑이가 나타났다 🐱🐯😎 #cat #호랑이",
-   "views": 13
+   "q": "hamster runs to owner hand every time",
+   "vid": "Tg78PoGl318",
+   "ch": "TonengTime",
+   "cid": "UCea_nSaOjBDaNsDECEocLAQ",
+   "date": "2025-09-11",
+   "title": "What Will You Do if Your Hamster is Not Moving? #hamster #pe",
+   "views": 869926
   },
   {
-   "q": "cat spinning bar stool footrest",
-   "vid": "5K9q4QuOslU",
-   "ch": "VertASC",
-   "cid": "UCkSSQisybPEuovZNjQV301A",
-   "date": "2026-09-28",
-   "title": "Apex predator vs bar stool ring 😭🐾",
-   "views": 18466
+   "q": "hamster runs to owner hand every time",
+   "vid": "KfJRDnoGBAs",
+   "ch": "TinyPetsKingdom",
+   "cid": "UCeqZC1S9-vyZLX0Nto94Pfw",
+   "date": "2025-10-10",
+   "title": "Easy Tricks To Make Your Hamster Friendly",
+   "views": 49743
+  },
+  {
+   "q": "hamster runs to owner hand every time",
+   "vid": "DARpDQfbDwE",
+   "ch": "Tiny Heroes kp",
+   "cid": "UCFNtcJPVHDaBr2QeJmAC6YQ",
+   "date": "2026-07-19",
+   "title": "Hamster Runs To Hand On Command 🤫",
+   "views": 1230
+  },
+  {
+   "q": "hamster runs to owner hand every time",
+   "vid": "16JO7fpPDNs",
+   "ch": "TinyPetsKingdom",
+   "cid": "UCeqZC1S9-vyZLX0Nto94Pfw",
+   "date": "2025-10-12",
+   "title": "Is Your Hamster Stressed ? 3 Signs to Watch For",
+   "views": 47989
+  },
+  {
+   "q": "dog sees reflection in phone camera",
+   "vid": "5_ExhIYCMlU",
+   "ch": "GigglePaws & Tails",
+   "cid": "UCrpQ0q_nH6_dSi__3fKnQsA",
+   "date": "2025-09-27",
+   "title": "Dog Sees Himself in Mirror 🤣| Mirror Prank on Dogs #funny #d",
+   "views": 5838874
+  },
+  {
+   "q": "dog sees reflection in phone camera",
+   "vid": "Vj6D0pZaf6Y",
+   "ch": "RingCritters",
+   "cid": "UCCAbmuoy58ZV1rLjPtjRUhQ",
+   "date": "2025-12-02",
+   "title": "Dog Sees Its REFLECTION 🪞🐶💥 | LOSES IT 😂 #ringcamera #cutean",
+   "views": 1682
+  },
+  {
+   "q": "dog sees reflection in phone camera",
+   "vid": "MGZBNZ_fooI",
+   "ch": "Mrmalone0959",
+   "cid": "UCYD0esHkMb7b-ZGgO1jLrzw",
+   "date": "2026-02-10",
+   "title": "A dog seeing its own reflection caught by Ring camera ￼",
+   "views": 1401
   }
  ]
 }
