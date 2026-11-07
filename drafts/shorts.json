@@ -1,134 +1,231 @@
 {
- "id": "20261107-t08",
+ "id": "20261107-t13",
  "mode": "send",
  "format": "meme",
- "topic": "주인만 보면 달려와 손에 올라타고, 침대 다른 곳에 내려놓으면 엄마한테 전력질주하는 흰 골든햄스터 밀크셰이크(TikTok @milkshake.ham 7600031464930970902, 2026.1 게시, Newsweek 2026.1.28 보도 — 24시간 만에 66만 회). 원본 캡션(위 14~27%·가운데 38%·아래 72~80%)은 장면마다 zoom·y 크롭으로 밀어내고, 1장면 'the way he's waiting'(72%)·5장면 '*sprinting to mom*'(38%)은 우리 자막으로 덮음(흐림 없음). 원본 소리는 전 구간 -11~-19dB로 일정한 덧입힌 음악 트랙이라 전부 끔. 사실: PetMD 'Are Hamsters Blind?'(2026.3.26, Melissa Witherell DVM) — 근시라 얼굴은 잘 못 알아보고 냄새·목소리·일과로 익숙한 사람을 알아봄.",
+ "topic": "몽타주 A(주장형) 시험: '골댕이 입은 비어 있으면 안 된다' — 서로 다른 원작자 골든리트리버 클립 엮기. 생달걀 물기(TikTok @caligoldengurl 2022.6), 손님 맞이 인형(TikTok @goldenretriever_luna 2023.6), 손님 양말 벗기기(TikTok @lifeof.lucca 2023.2), 바나나 살살 먹기(TikTok @tucker_thegentleman 2024.7), 아기 골든 장난감 으르렁(TikTok @cissathegoldenpup 2024.1, 원본 소리 살림 ×18), 공 물고 달리기(TikTok @chance_the_mini_golden 2024.2). 원본 소리는 덧입힌 음악·훈련사 해설 음성이라 끔. 원본 캡션은 zoom·y 크롭으로 밀어내고, 인형 클립 가운데 캡션은 단색 띠 + 우리 자막으로 덮음(흐림 없음). 사실: 위키백과 Golden Retriever — 19세기 스코틀랜드 Dudley Marjoribanks가 개량한 사냥새 회수견, 사냥 훈련을 받지 않은 개도 주인에게 장난감·물건을 가져다주는 게 흔함.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 2.0,
- "sfx_max": 4,
+ "bgm_volume": 0.8,
+ "sfx_max": 3,
  "hook": {
-  "t": "햄스터는 정 없다던데\n'우리 애 반응 실화임?ㅋㅋ'"
+  "t": "골댕이 입이 비어 있으면\n'안 되는 이유ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @milkshake.ham"
+  "TikTok @caligoldengurl, @goldenretriever_luna, @lifeof.lucca, @tucker_thegentleman, @cissathegoldenpup, @chance_the_mini_golden"
  ],
  "sources": [
   {
-   "publisher": "TikTok @milkshake.ham (골든햄스터 밀크셰이크)",
-   "url": "https://www.tiktok.com/@milkshake.ham/video/7600031464930970902",
-   "date": "2026-01"
+   "publisher": "TikTok @caligoldengurl (생달걀 물기)",
+   "url": "https://www.tiktok.com/@caligoldengurl/video/7107814965402258714",
+   "date": "2022-06-11"
   },
   {
-   "publisher": "Newsweek - Hamster Realizes Owner Is Home, Viewers Not Prepared for His Reaction",
-   "url": "https://www.newsweek.com/hamster-realizes-owners-home-reaction-11429190",
-   "date": "2026-01-28"
+   "publisher": "TikTok @goldenretriever_luna (손님 맞이 인형)",
+   "url": "https://www.tiktok.com/@goldenretriever_luna/video/7244760345611390210",
+   "date": "2023-06-15"
   },
   {
-   "publisher": "PetMD - Are Hamsters Blind?",
-   "url": "https://www.petmd.com/exotic/are-hamsters-blind",
-   "date": "2026-03-26"
+   "publisher": "TikTok @lifeof.lucca (양말 벗기기)",
+   "url": "https://www.tiktok.com/@lifeof.lucca/video/7202673300378488107",
+   "date": "2023-02-21"
+  },
+  {
+   "publisher": "TikTok @tucker_thegentleman (바나나)",
+   "url": "https://www.tiktok.com/@tucker_thegentleman/video/7392920532267699498",
+   "date": "2024-07-18"
+  },
+  {
+   "publisher": "TikTok @cissathegoldenpup (아기 골든 장난감 으르렁)",
+   "url": "https://www.tiktok.com/@cissathegoldenpup/video/7326316660359515438",
+   "date": "2024-01-20"
+  },
+  {
+   "publisher": "TikTok @chance_the_mini_golden (공 물고 달리기)",
+   "url": "https://www.tiktok.com/@chance_the_mini_golden/video/7332192040677149983",
+   "date": "2024-02-05"
+  },
+  {
+   "publisher": "Wikipedia - Golden Retriever",
+   "url": "https://en.wikipedia.org/wiki/Golden_Retriever",
+   "date": "2026-11"
   }
  ],
  "scenes": [
   {
-   "dur": 2.6,
+   "dur": 2.1,
    "video": {
-    "src": "video/v1b.mp4",
-    "start": 0.15,
-    "zoom": 1.6,
+    "src": "video/v7b.mp4",
+    "start": 0.8,
+    "zoom": 1.0,
     "x": 0.5,
-    "y": 0.614,
-    "audio": 0,
-    "boomerang": true
+    "y": 0.5,
+    "audio": 0
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "엄마 언제 와...?",
-     "x": 0.7,
-     "y": 0.12,
-     "at": 0.2,
-     "to": 2.6
+     "k": "desc",
+     "t": "생달걀을 물려 줬더니",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.0,
+     "to": 2.1
     },
     {
      "k": "sfx",
-     "t": "(목 빠지게 기다리는 중)",
+     "t": "(숨도 안 쉼)",
      "x": 0.5,
-     "y": 0.815,
-     "at": 0.0,
-     "to": 2.6,
-     "s": "tick",
-     "sv": 0.8,
-     "size": 70
+     "y": 0.86,
+     "at": 0.4,
+     "to": 2.1,
+     "s": "ding",
+     "sv": 0.8
     }
    ]
   },
   {
-   "say": "손만 내밀면, 이 햄스터는 매번 이렇게 올라탑니다.",
+   "say": "손님이 오면, 일단 인형부터 물고 나옵니다.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 6.3,
-    "zoom": 1.4,
+    "src": "video/v1b.mp4",
+    "start": 0.0,
+    "zoom": 1.0,
     "x": 0.5,
-    "y": 0.74,
+    "y": 0.3,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(인형 필수 지참)",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.0,
+     "size": 64
+    }
+   ]
+  },
+  {
+   "dur": 2.6,
+   "video": {
+    "src": "video/v4.mp4",
+    "start": 2.6,
+    "zoom": 1.45,
+    "x": 0.5,
+    "y": 0.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "손 = 내 엘리베이터",
+     "t": "물 게 없으면 손님 양말이라도",
      "x": 0.5,
      "y": 0.1,
-     "at": 0.4
-    }
-   ]
-  },
-  {
-   "dur": 3.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 20.5,
-    "zoom": 1.25,
-    "x": 0.5,
-    "y": 0.658,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "엄마다!!!",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.1,
-     "to": 1.6,
-     "s": "pop",
-     "sv": 0.9
+     "at": 0.0,
+     "to": 2.6
     },
     {
      "k": "talk",
-     "t": "안아줘 안아줘",
+     "t": "이거 저 주시는 거죠?",
      "x": 0.5,
-     "y": 0.12,
-     "at": 1.7,
-     "to": 3.6
+     "y": 0.86,
+     "at": 1.0,
+     "to": 2.6,
+     "s": "slide",
+     "sv": 0.8
     }
    ]
   },
   {
-   "say": "그런데 다른 곳에 내려놓으려고 하면요.",
+   "dur": 3.5,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 27.0,
-    "zoom": 1.3,
+    "src": "video/v3.mp4",
+    "start": 28.0,
+    "zoom": 1.0,
     "x": 0.5,
-    "y": 1.0,
+    "y": 0.5,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "침대에 살포시 내려놓기",
+     "t": "바나나도 앞니로만 살~살",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.0,
+     "to": 3.5
+    },
+    {
+     "k": "talk",
+     "t": "소중하니까...",
+     "x": 0.3,
+     "y": 0.86,
+     "at": 1.2,
+     "to": 3.5
+    }
+   ]
+  },
+  {
+   "dur": 3.2,
+   "video": {
+    "src": "video/v9.mp4",
+    "start": 10.8,
+    "zoom": 1.3,
+    "x": 0.5,
+    "y": 0.8,
+    "audio": 18
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "아기 때부터 이랬습니다",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.0,
+     "to": 3.2
+    },
+    {
+     "k": "talk",
+     "t": "으르릉... 내 꺼야",
+     "x": 0.5,
+     "y": 0.86,
+     "at": 0.3,
+     "to": 3.2
+    }
+   ]
+  },
+  {
+   "say": "공을 물고 달릴 때도, 표정이 딱 이렇습니다.",
+   "video": {
+    "src": "video/v8.mp4",
+    "start": 0.4,
+    "zoom": 1.5,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "입이 꽉 차야 행복함",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "say": "골든리트리버는 사냥한 새를 물어 오던 개라, 지금도 주인에게 물건을 갖다주는 게 흔하다고 합니다.",
+   "video": {
+    "src": "video/v3.mp4",
+    "start": 9.4,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "원래 직업: 사냥한 새 물어 오기",
      "x": 0.5,
      "y": 0.1,
      "at": 0.3
@@ -136,10 +233,10 @@
    ]
   },
   {
-   "dur": 1.65,
+   "dur": 2.3,
    "video": {
-    "src": "video/v1c.mp4",
-    "start": 0.2,
+    "src": "video/v3.mp4",
+    "start": 41.4,
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.5,
@@ -148,63 +245,11 @@
    "caps": [
     {
      "k": "talk",
-     "t": "엄마아아아!!!",
-     "x": 0.41,
-     "y": 0.36,
-     "at": 0.0,
-     "to": 1.65,
-     "s": "whoosh",
-     "sv": 0.9,
-     "size": 110
-    }
-   ]
-  },
-  {
-   "say": "햄스터는 눈이 나빠서, 냄새와 목소리로 주인을 알아본다고 합니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 33.5,
-    "zoom": 1.4,
-    "x": 0.5,
-    "y": 0.132,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "1주일 만에 엄마 냄새 맡은 반응",
+     "t": "그러니까... 뭐라도 줘",
      "x": 0.5,
      "y": 0.1,
-     "at": 0.3
-    }
-   ]
-  },
-  {
-   "dur": 2.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 55.9,
-    "zoom": 1.3,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "집? 안 가. 여기가 내 집임",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.1,
-     "to": 2.6
-    },
-    {
-     "k": "sfx",
-     "t": "(찰싹)",
-     "x": 0.72,
-     "y": 0.62,
-     "at": 0.9,
-     "to": 2.6,
+     "at": 0.2,
+     "to": 2.3,
      "s": "heart",
      "sv": 0.8
     }
@@ -212,16 +257,17 @@
   }
  ],
  "yt": {
-  "title": "다른 데 내려놓으면 엄마한테 전력질주하는 햄스터ㅋㅋ #shorts",
-  "description": "주인 손만 보면 달려와 올라타는 햄스터 밀크셰이크ㅋㅋ 침대 다른 쪽에 살짝 내려놨더니... 엄마한테 전력질주합니다. 1주일 만에 엄마를 본 날엔 팔에 매달려 내려오질 않았대요.\n\n수의사 매체 PetMD에 따르면 햄스터는 근시라 얼굴은 잘 못 알아보지만, 냄새와 목소리, 일과로 익숙한 사람을 알아본다고 합니다.\n\n여러분 집 햄찌도 이렇게 반겨 주나요?\n\n영상: TikTok @milkshake.ham\n참고: Newsweek, PetMD\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사진·영상: TikTok @milkshake.ham\n음성: Typecast\n\n#shorts #햄스터 #골든햄스터 #햄찌 #햄스터쇼츠 #귀여운동물",
+  "title": "손님 오면 일단 뭐라도 물고 나오는 골댕이들ㅋㅋ",
+  "description": "생달걀을 물려 줘도 안 깨뜨리고, 손님이 오면 인형부터 물고 나오고, 물 게 없으면 손님 양말까지ㅋㅋ 아기 때부터 장난감 물고 으르렁. 골댕이들은 입이 비어 있으면 안 되나 봐요.\n\n위키백과(Golden Retriever)에 따르면 골든리트리버는 19세기 스코틀랜드에서 사냥한 새를 물어 오는 사냥개로 개량됐고, 사냥 훈련을 받지 않은 개도 주인에게 장난감이나 물건을 가져다주는 경우가 흔하다고 합니다.\n\n여러분 집 골댕이는 뭘 물고 오나요?\n\n영상: TikTok @caligoldengurl, @goldenretriever_luna, @lifeof.lucca, @tucker_thegentleman, @cissathegoldenpup, @chance_the_mini_golden\n참고: Wikipedia\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #골든리트리버 #골댕이 #강아지쇼츠 #리트리버 #귀여운강아지",
   "tags": [
-   "햄스터",
-   "골든햄스터",
-   "햄찌",
-   "햄스터쇼츠",
-   "귀여운동물",
-   "hamster",
-   "syrian hamster",
+   "골든리트리버",
+   "골댕이",
+   "리트리버",
+   "강아지쇼츠",
+   "강아지인형",
+   "귀여운강아지",
+   "golden retriever",
+   "soft mouth",
    "털뭉치"
   ]
  },
