@@ -83,8 +83,12 @@ for h in cfg.get("handles", []):
 cids = {}
 for q in cfg.get("queries", []):
     try:
-        j = get("search", part="snippet", type="video", q=q, regionCode="KR", relevanceLanguage="ko",
-                videoDuration="short", order="viewCount", publishedAfter=SINCE + "T00:00:00Z", maxResults=50)
+        # 2026.11.07: region·lang 을 설정으로(빈 문자열이면 전 세계 검색 — 오늘의쓸모 소재 찾기용)
+        sp = dict(part="snippet", type="video", q=q, videoDuration="short", order="viewCount",
+                  publishedAfter=SINCE + "T00:00:00Z", maxResults=cfg.get("per_query", 50))
+        if cfg.get("region", "KR"): sp["regionCode"] = cfg.get("region", "KR")
+        if cfg.get("lang", "ko"): sp["relevanceLanguage"] = cfg.get("lang", "ko")
+        j = get("search", **sp)
         for it in j.get("items", []):
             rep["search_hits"].append({"q": q, "vid": it["id"]["videoId"], "ch": it["snippet"]["channelTitle"],
                                        "cid": it["snippet"]["channelId"], "date": it["snippet"]["publishedAt"][:10],
@@ -97,10 +101,17 @@ for q in cfg.get("queries", []):
 vids = [h["vid"] for h in rep["search_hits"] if "vid" in h]
 vv = {}
 for k in range(0, len(vids), 50):
-    for v in get("videos", part="statistics", id=",".join(vids[k:k+50])).get("items", []):
-        vv[v["id"]] = int(v["statistics"].get("viewCount", 0))
+    for v in get("videos", part="snippet,statistics", id=",".join(vids[k:k+50])).get("items", []):
+        vv[v["id"]] = (int(v["statistics"].get("viewCount", 0)), v["snippet"].get("description", "")[:300])
 for h in rep["search_hits"]:
-    if "vid" in h: h["views"] = vv.get(h["vid"])
+    if "vid" in h:
+        h["views"], h["desc"] = vv.get(h["vid"], (None, ""))
+# 2026.11.07: 소재 찾기용 요약(조회수순, 원작자 표기 확인용 설명 포함)
+if cfg.get("hits_txt"):
+    hs = sorted([h for h in rep["search_hits"] if h.get("views")], key=lambda h: -h["views"])
+    with open("state/bench/api_hits.txt", "w") as f:
+        for h in hs:
+            f.write(f"{h['views']}\t{h['q']}\t{h['ch']}\t{h['date']}\thttps://youtube.com/shorts/{h['vid']}\t{h['title']}\t{h['desc'].replace(chr(10), ' ')}\n")
 
 # 채널 정보 → 2026년 생긴 채널은 최근 업로드까지
 ids = list(cids)
