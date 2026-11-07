@@ -1,0 +1,36 @@
+{
+ "id": "20261108-t08",
+ "created": "2026-11-08T08:26:04.507226+09:00",
+ "items": [
+  {
+   "key": "60a1fc3c454b",
+   "text": "아빠가 일어나도, 다섯 마리 모두 꿈쩍도 안 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "그런데 엄마가 일어나는 순간..."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "1f07c3b05cb8",
+   "text": "그런데 엄마가 일어나는 순간...",
+   "ctx": {
+    "previous_text": "아빠가 일어나도, 다섯 마리 모두 꿈쩍도 안 합니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
