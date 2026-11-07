@@ -1,4 +1,3 @@
-model gemini-3-pro-image-preview
 man_sheet: 실패
 brain_boss: 실패
 kidney_foreman: 실패
