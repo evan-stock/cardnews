@@ -1,0 +1,7 @@
+file '/home/claude/cardnews/media/20261107-ueno-reel/work/s0.mp4'
+file '/home/claude/cardnews/media/20261107-ueno-reel/work/s1.mp4'
+file '/home/claude/cardnews/media/20261107-ueno-reel/work/s2.mp4'
+file '/home/claude/cardnews/media/20261107-ueno-reel/work/s3.mp4'
+file '/home/claude/cardnews/media/20261107-ueno-reel/work/s4.mp4'
+file '/home/claude/cardnews/media/20261107-ueno-reel/work/s5.mp4'
+file '/home/claude/cardnews/media/20261107-ueno-reel/work/s6.mp4'
