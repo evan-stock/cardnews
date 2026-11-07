@@ -1,273 +1,206 @@
 {
- "id": "20261107-t13",
+ "id": "20261107-t18",
  "mode": "send",
  "format": "meme",
- "topic": "몽타주 A(주장형) 시험: '골댕이 입은 비어 있으면 안 된다' — 서로 다른 원작자 골든리트리버 클립 엮기. 생달걀 물기(TikTok @caligoldengurl 2022.6), 손님 맞이 인형(TikTok @goldenretriever_luna 2023.6), 손님 양말 벗기기(TikTok @lifeof.lucca 2023.2), 바나나 살살 먹기(TikTok @tucker_thegentleman 2024.7), 아기 골든 장난감 으르렁(TikTok @cissathegoldenpup 2024.1, 원본 소리 살림 ×18), 공 물고 달리기(TikTok @chance_the_mini_golden 2024.2). 원본 소리는 덧입힌 음악·훈련사 해설 음성이라 끔. 원본 캡션은 zoom·y 크롭으로 밀어내고, 인형 클립 가운데 캡션은 단색 띠 + 우리 자막으로 덮음(흐림 없음). 사실: 위키백과 Golden Retriever — 19세기 스코틀랜드 Dudley Marjoribanks가 개량한 사냥새 회수견, 사냥 훈련을 받지 않은 개도 주인에게 장난감·물건을 가져다주는 게 흔함.",
+ "topic": "외로울까 봐 아기 고양이(검은 아깽이 Toothless)를 데려왔더니 첫째 고양이(Feather, 고등어태비 턱시도)가 '째릿' 정색. 원본 TikTok @toothlessandfeather 7538976533289995575 (2025.8, Newsweek 2025.9.26 보도 70만 회·14.9만 좋아요). 한 원본, 6초 원본을 장면별로 나눠 씀. 원본 캡션('Thinking our cat was lonely...' 위쪽, 'she hates him' 가운데)은 원본 위에 진회색 둥근 라벨을 그려 덮고 그 위에 우리 자막(흐림 0초). 원본 소리는 TikTok 덧입힌 음원으로 보여 끔. 사실: Cats Protection '며칠이 아니라 몇 주', SF SPCA '몇 주~몇 달'. 주인 캡션: 지금은 사이좋게 지냄.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.8,
+ "bgm_volume": 2.0,
  "sfx_max": 3,
+ "style": {
+  "band": 480,
+  "title_pad_bottom": 18,
+  "sub_y": 0.72
+ },
  "hook": {
-  "t": "골댕이 입이 비어 있으면\n'안 되는 이유ㅋㅋ'"
+  "t": "혼자 심심할까 봐 선물했는데\n'첫째 표정이...'"
  },
  "photo_credits": [
-  "TikTok @caligoldengurl, @goldenretriever_luna, @lifeof.lucca, @tucker_thegentleman, @cissathegoldenpup, @chance_the_mini_golden"
+  "TikTok @toothlessandfeather"
  ],
  "sources": [
   {
-   "publisher": "TikTok @caligoldengurl (생달걀 물기)",
-   "url": "https://www.tiktok.com/@caligoldengurl/video/7107814965402258714",
-   "date": "2022-06-11"
+   "publisher": "TikTok @toothlessandfeather",
+   "url": "https://www.tiktok.com/@toothlessandfeather/video/7538976533289995575",
+   "date": "2025-08"
   },
   {
-   "publisher": "TikTok @goldenretriever_luna (손님 맞이 인형)",
-   "url": "https://www.tiktok.com/@goldenretriever_luna/video/7244760345611390210",
-   "date": "2023-06-15"
+   "publisher": "Newsweek - Owners get lonely cat a kitten, plan hilariously backfires",
+   "url": "https://www.newsweek.com/owners-get-lonely-cat-a-kitten-plan-hilariously-backfires-10789797",
+   "date": "2025-09-26"
   },
   {
-   "publisher": "TikTok @lifeof.lucca (양말 벗기기)",
-   "url": "https://www.tiktok.com/@lifeof.lucca/video/7202673300378488107",
-   "date": "2023-02-21"
+   "publisher": "Cats Protection - Introducing a new cat into your home",
+   "url": "https://www.cats.org.uk/tain/news/introducing-a-new-cat-into-your-home",
+   "date": "2021-06-23"
   },
   {
-   "publisher": "TikTok @tucker_thegentleman (바나나)",
-   "url": "https://www.tiktok.com/@tucker_thegentleman/video/7392920532267699498",
-   "date": "2024-07-18"
-  },
-  {
-   "publisher": "TikTok @cissathegoldenpup (아기 골든 장난감 으르렁)",
-   "url": "https://www.tiktok.com/@cissathegoldenpup/video/7326316660359515438",
-   "date": "2024-01-20"
-  },
-  {
-   "publisher": "TikTok @chance_the_mini_golden (공 물고 달리기)",
-   "url": "https://www.tiktok.com/@chance_the_mini_golden/video/7332192040677149983",
-   "date": "2024-02-05"
-  },
-  {
-   "publisher": "Wikipedia - Golden Retriever",
-   "url": "https://en.wikipedia.org/wiki/Golden_Retriever",
-   "date": "2026-11"
+   "publisher": "San Francisco SPCA - Introducing Cats",
+   "url": "https://www.sfspca.org/wp-content/uploads/2019/04/sfspca-introducing-cats.pdf",
+   "date": "2019"
   }
  ],
  "scenes": [
   {
    "dur": 2.1,
    "video": {
-    "src": "video/v7b.mp4",
-    "start": 0.8,
+    "src": "video/v1c.mp4",
+    "start": 1.45,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.5,
+    "y": 0.0,
+    "audio": 0,
+    "boomerang": true
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "...저게 뭐냥",
+     "at": 0.0,
+     "to": 2.1,
+     "s": "dundun",
+     "sv": 0.9,
+     "x": 0.569,
+     "y": 0.574,
+     "size": 80
+    }
+   ]
+  },
+  {
+   "say": "외로울까 봐, 첫째에게 아기 동생을 데려왔습니다.",
+   "video": {
+    "src": "video/v1a.mp4",
+    "start": 0.0,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "생달걀을 물려 줬더니",
-     "x": 0.5,
-     "y": 0.1,
+     "t": "외로운 첫째를 위한\n'깜짝 선물'",
      "at": 0.0,
-     "to": 2.1
-    },
-    {
-     "k": "sfx",
-     "t": "(숨도 안 쉼)",
-     "x": 0.5,
-     "y": 0.86,
-     "at": 0.4,
-     "to": 2.1,
-     "s": "ding",
-     "sv": 0.8
+     "x": 0.534,
+     "y": 0.268
     }
    ]
   },
   {
-   "say": "손님이 오면, 일단 인형부터 물고 나옵니다.",
+   "dur": 2.4,
    "video": {
-    "src": "video/v1b.mp4",
-    "start": 0.0,
+    "src": "video/v1c.mp4",
+    "start": 0.2,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.3,
-    "audio": 0
+    "y": 0.0,
+    "audio": 0,
+    "boomerang": true
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "언니 안녕?",
+     "at": 0.3,
+     "to": 2.4,
+     "s": "pop",
+     "sv": 0.8,
+     "x": 0.569,
+     "y": 0.574,
+     "size": 80
+    }
+   ]
+  },
+  {
+   "dur": 2.0,
+   "video": {
+    "src": "video/v1c.mp4",
+    "start": 1.45,
+    "zoom": 1.2,
+    "x": 0.5,
+    "y": 0.1,
+    "audio": 0,
+    "boomerang": true
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(인형 필수 지참)",
-     "x": 0.5,
-     "y": 0.1,
+     "t": "(째릿...)",
      "at": 0.0,
-     "size": 64
+     "to": 2.0,
+     "x": 0.582,
+     "y": 0.629,
+     "size": 82
+    }
+   ]
+  },
+  {
+   "say": "고양이가 새 식구를 받아들이는 데는, 며칠이 아니라 몇 주가 걸린다고 합니다.",
+   "video": {
+    "src": "video/v1a.mp4",
+    "start": 0.4,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "첫째 입장:\n'허락한 적 없음'",
+     "at": 0.0,
+     "x": 0.534,
+     "y": 0.268
     }
    ]
   },
   {
    "dur": 2.6,
    "video": {
-    "src": "video/v4.mp4",
-    "start": 2.6,
-    "zoom": 1.45,
+    "src": "video/v1c.mp4",
+    "start": 0.85,
+    "zoom": 1.0,
     "x": 0.5,
     "y": 0.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "물 게 없으면 손님 양말이라도",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.0,
-     "to": 2.6
-    },
-    {
-     "k": "talk",
-     "t": "이거 저 주시는 거죠?",
-     "x": 0.5,
-     "y": 0.86,
-     "at": 1.0,
-     "to": 2.6,
-     "s": "slide",
-     "sv": 0.8
-    }
-   ]
-  },
-  {
-   "dur": 3.5,
-   "video": {
-    "src": "video/v3.mp4",
-    "start": 28.0,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "바나나도 앞니로만 살~살",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.0,
-     "to": 3.5
-    },
-    {
-     "k": "talk",
-     "t": "소중하니까...",
-     "x": 0.3,
-     "y": 0.86,
-     "at": 1.2,
-     "to": 3.5
-    }
-   ]
-  },
-  {
-   "dur": 3.2,
-   "video": {
-    "src": "video/v9.mp4",
-    "start": 10.8,
-    "zoom": 1.3,
-    "x": 0.5,
-    "y": 0.8,
-    "audio": 18
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "아기 때부터 이랬습니다",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.0,
-     "to": 3.2
-    },
-    {
-     "k": "talk",
-     "t": "으르릉... 내 꺼야",
-     "x": 0.5,
-     "y": 0.86,
-     "at": 0.3,
-     "to": 3.2
-    }
-   ]
-  },
-  {
-   "say": "공을 물고 달릴 때도, 표정이 딱 이렇습니다.",
-   "video": {
-    "src": "video/v8.mp4",
-    "start": 0.4,
-    "zoom": 1.5,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0
+    "audio": 0,
+    "boomerang": true
    },
    "caps": [
     {
      "k": "talk",
-     "t": "입이 꽉 차야 행복함",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.3
-    }
-   ]
-  },
-  {
-   "say": "골든리트리버는 사냥한 새를 물어 오던 개라, 지금도 주인에게 물건을 갖다주는 게 흔하다고 합니다.",
-   "video": {
-    "src": "video/v3.mp4",
-    "start": 9.4,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "원래 직업: 사냥한 새 물어 오기",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.3
-    }
-   ]
-  },
-  {
-   "dur": 2.3,
-   "video": {
-    "src": "video/v3.mp4",
-    "start": 41.4,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "그러니까... 뭐라도 줘",
-     "x": 0.5,
-     "y": 0.1,
+     "t": "반품... 안 되냐옹?",
      "at": 0.2,
-     "to": 2.3,
-     "s": "heart",
-     "sv": 0.8
+     "to": 2.6,
+     "s": "boing",
+     "sv": 0.8,
+     "x": 0.569,
+     "y": 0.574,
+     "size": 80
+    },
+    {
+     "k": "desc",
+     "t": "(지금은 둘이 잘 지낸다고 합니다)",
+     "x": 0.5,
+     "y": 0.06,
+     "at": 0.6,
+     "to": 2.6,
+     "size": 46
     }
    ]
   }
  ],
  "yt": {
-  "title": "손님 오면 일단 뭐라도 물고 나오는 골댕이들ㅋㅋ",
-  "description": "생달걀을 물려 줘도 안 깨뜨리고, 손님이 오면 인형부터 물고 나오고, 물 게 없으면 손님 양말까지ㅋㅋ 아기 때부터 장난감 물고 으르렁. 골댕이들은 입이 비어 있으면 안 되나 봐요.\n\n위키백과(Golden Retriever)에 따르면 골든리트리버는 19세기 스코틀랜드에서 사냥한 새를 물어 오는 사냥개로 개량됐고, 사냥 훈련을 받지 않은 개도 주인에게 장난감이나 물건을 가져다주는 경우가 흔하다고 합니다.\n\n여러분 집 골댕이는 뭘 물고 오나요?\n\n영상: TikTok @caligoldengurl, @goldenretriever_luna, @lifeof.lucca, @tucker_thegentleman, @cissathegoldenpup, @chance_the_mini_golden\n참고: Wikipedia\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #골든리트리버 #골댕이 #강아지쇼츠 #리트리버 #귀여운강아지",
+  "title": "외로워 보이는 고양이에게 동생을 데려왔더니 보인 진짜 반응",
+  "description": "첫째가 혼자 심심해 보여서 아기 고양이를 데려왔는데... 첫째 표정이 이렇게 될 줄은 몰랐습니다. 주인 말로는 지금은 둘이 사이좋게 지낸다고 해요.\n\n고양이끼리 서로 받아들이는 데는 며칠이 아니라 몇 주가 걸리는 경우가 많고(Cats Protection), 길면 몇 달이 걸리기도 한다고 합니다(SF SPCA). 냄새부터 천천히 익히게 하는 게 좋다고 해요.\n\n여러분 집 첫째는 동생 처음 봤을 때 어땠나요?\n\n영상: TikTok @toothlessandfeather\n참고: Newsweek, Cats Protection, San Francisco SPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #고양이 #아기고양이 #냥이 #고양이쇼츠 #합사",
   "tags": [
-   "골든리트리버",
-   "골댕이",
-   "리트리버",
-   "강아지쇼츠",
-   "강아지인형",
-   "귀여운강아지",
-   "golden retriever",
-   "soft mouth",
+   "고양이",
+   "아기고양이",
+   "고양이합사",
+   "냥이",
+   "고양이쇼츠",
+   "첫째고양이",
+   "kitten",
+   "cat stink eye",
    "털뭉치"
   ]
  },
