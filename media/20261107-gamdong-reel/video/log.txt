@@ -1,0 +1,7 @@
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://www.threads.com/@polypoid23/post/DfZ9WRAFvIy
+실패: https://www.threads.com/@polypoid23/post/DfZ9WRAFvIy
+total 12
+drwxr-xr-x 2 runner runner 4096 Nov  7 05:47 .
+drwxr-xr-x 3 runner runner 4096 Nov  7 05:47 ..
+-rw-r--r-- 1 runner runner  203 Nov  7 05:47 log.txt
