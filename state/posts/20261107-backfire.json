@@ -1,7 +1,7 @@
 {
  "id": "20261107-backfire",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-07T14:53:11.470071+09:00",
  "publish_at": "2026-11-07T14:53:11.470083+09:00",
  "publish_now": true,
@@ -34,5 +34,9 @@
   "channel": "shop"
  },
  "app_file": "media/20261107-backfire/short_card_nomusic.mp4",
- "tg_msg": 2017
+ "tg_msg": 2017,
+ "decided_at": "2026-11-07T14:59:07.637948+09:00",
+ "yt_id": "HtdvW-pvl-8",
+ "permalink": "https://youtube.com/shorts/HtdvW-pvl-8",
+ "published_at": "2026-11-07T14:59:10.020134+09:00"
 }
