@@ -1,7 +1,7 @@
 {
  "id": "20261107-t13",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-07T13:46:40.778592+09:00",
  "publish_at": "2026-11-07T13:46:40.778616+09:00",
  "publish_now": true,
@@ -72,5 +72,9 @@
   "channel": null
  },
  "draft_hash": "b747a1092e26",
- "tg_msg": 2013
+ "tg_msg": 2013,
+ "decided_at": "2026-11-07T14:06:39.430063+09:00",
+ "yt_id": "b7_7Pp6a3kE",
+ "permalink": "https://youtube.com/shorts/b7_7Pp6a3kE",
+ "published_at": "2026-11-07T14:06:42.469336+09:00"
 }
