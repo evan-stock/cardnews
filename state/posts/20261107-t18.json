@@ -1,0 +1,61 @@
+{
+ "id": "20261107-t18",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-07T18:39:44.518860+09:00",
+ "publish_at": "2026-11-07T18:39:44.518879+09:00",
+ "publish_now": true,
+ "topic": "외로울까 봐 아기 고양이(검은 아깽이 Toothless)를 데려왔더니 첫째 고양이(Feather, 고등어태비 턱시도)가 '째릿' 정색. 원본 TikTok @toothlessandfeather 7538976533289995575 (2025.8, Newsweek 2025.9.26 보도 70만 회·14.9만 좋아요). 한 원본, 6초 원본을 장면별로 나눠 씀. 원본 캡션('Thinking our cat was lonely...' 위쪽, 'she hates him' 가운데)은 원본 위에 진회색 둥근 라벨을 그려 덮고 그 위에 우리 자막(흐림 0초). 원본 소리는 TikTok 덧입힌 음원으로 보여 끔. 사실: Cats Protection '며칠이 아니라 몇 주', SF SPCA '몇 주~몇 달'. 주인 캡션: 지금은 사이좋게 지냄.",
+ "sources": [
+  {
+   "publisher": "TikTok @toothlessandfeather",
+   "url": "https://www.tiktok.com/@toothlessandfeather/video/7538976533289995575",
+   "date": "2025-08"
+  },
+  {
+   "publisher": "Newsweek - Owners get lonely cat a kitten, plan hilariously backfires",
+   "url": "https://www.newsweek.com/owners-get-lonely-cat-a-kitten-plan-hilariously-backfires-10789797",
+   "date": "2025-09-26"
+  },
+  {
+   "publisher": "Cats Protection - Introducing a new cat into your home",
+   "url": "https://www.cats.org.uk/tain/news/introducing-a-new-cat-into-your-home",
+   "date": "2021-06-23"
+  },
+  {
+   "publisher": "San Francisco SPCA - Introducing Cats",
+   "url": "https://www.sfspca.org/wp-content/uploads/2019/04/sfspca-introducing-cats.pdf",
+   "date": "2019"
+  }
+ ],
+ "seconds": 16.89,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261107-t18/short.mp4"
+ ],
+ "app_file": "media/20261107-t18/short_nobgm.mp4",
+ "yt": {
+  "title": "외로워 보이는 고양이에게 동생을 데려왔더니 보인 진짜 반응 #shorts",
+  "description": "첫째가 혼자 심심해 보여서 아기 고양이를 데려왔는데... 첫째 표정이 이렇게 될 줄은 몰랐습니다. 주인 말로는 지금은 둘이 사이좋게 지낸다고 해요.\n\n고양이끼리 서로 받아들이는 데는 며칠이 아니라 몇 주가 걸리는 경우가 많고(Cats Protection), 길면 몇 달이 걸리기도 한다고 합니다(SF SPCA). 냄새부터 천천히 익히게 하는 게 좋다고 해요.\n\n여러분 집 첫째는 동생 처음 봤을 때 어땠나요?\n\n영상: TikTok @toothlessandfeather\n참고: Newsweek, Cats Protection, San Francisco SPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #고양이 #아기고양이 #냥이 #고양이쇼츠 #합사\n\n출처: TikTok @toothlessandfeather 2025-08, Newsweek - Owners get lonely cat a kitten, plan hilariously backfires 2025-09-26, Cats Protection - Introducing a new cat into your home 2021-06-23\n사진·영상: TikTok @toothlessandfeather\n음성: Typecast\n\n#shorts #고양이 #아기고양이 #고양이합사 #냥이",
+  "tags": [
+   "고양이",
+   "아기고양이",
+   "고양이합사",
+   "냥이",
+   "고양이쇼츠",
+   "첫째고양이",
+   "kitten",
+   "cat stink eye",
+   "털뭉치"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "ca312154936f",
+ "tg_msg": 2023
+}
