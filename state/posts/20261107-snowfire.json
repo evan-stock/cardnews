@@ -1,7 +1,7 @@
 {
  "id": "20261107-snowfire",
  "kind": "short",
- "status": "pending",
+ "status": "manual",
  "created_at": "2026-11-07T11:03:59.366142+09:00",
  "publish_at": "2026-11-07T11:03:59.366155+09:00",
  "publish_now": true,
@@ -33,5 +33,6 @@
   "channel": "shop"
  },
  "app_file": "media/20261107-snowfire/short_card_nomusic.mp4",
- "tg_msg": 2005
+ "tg_msg": 2005,
+ "decided_at": "2026-11-07T11:19:11.719889+09:00"
 }
