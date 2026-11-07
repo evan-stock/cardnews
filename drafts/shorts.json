@@ -1,11 +1,9 @@
 {
- "id": "20261107-t18",
+ "id": "20261108-t08",
  "mode": "send",
  "format": "meme",
- "topic": "외로울까 봐 아기 고양이(검은 아깽이 Toothless)를 데려왔더니 첫째 고양이(Feather, 고등어태비 턱시도)가 '째릿' 정색. 원본 TikTok @toothlessandfeather 7538976533289995575 (2025.8, Newsweek 2025.9.26 보도 70만 회·14.9만 좋아요). 한 원본, 6초 원본을 장면별로 나눠 씀. 원본 캡션('Thinking our cat was lonely...' 위쪽, 'she hates him' 가운데)은 원본 위에 진회색 둥근 라벨을 그려 덮고 그 위에 우리 자막(흐림 0초). 원본 소리는 TikTok 덧입힌 음원으로 보여 끔. 사실: Cats Protection '며칠이 아니라 몇 주', SF SPCA '몇 주~몇 달'. 주인 캡션: 지금은 사이좋게 지냄.",
- "bgm": "assets/bgm/worthy/curious_kitten.mp3",
- "bgm_start": 11.0,
- "bgm_volume": 2.0,
+ "topic": "아빠가 거실을 나갈 땐 꿈쩍도 안 하던 댕댕이 다섯 마리(골든리트리버 3·허스키 2)가 엄마가 일어나자 전부 우르르 따라 나가고 아빠만 혼자 남음. 원본: 원작자 본인 유튜브 Corey Moriarty 'Stage 5 clingers… but only for mom'(2026.10.14, 1,209만 회) — 유튜브 API 전 세계 쇼츠 조회수순 검색으로 찾고 맥북 유튜브 받기로 받음. 원본 덧입힌 음악 살림(우리 bgm 없음). 원본 캡션('When dad leaves the room vs...', 'When mom leaves the room...')은 zoom 1.1·y 0.85 크롭으로 화면 밖으로(흐림 0초). 되감기 안 씀, 원본 16.4초를 순서대로 한 번만 씀. 사실: 개는 보호자를 '안전 기지'로 삼는다(Horn·Huber·Range 2013, PLOS ONE, 빈 수의대).",
+ "bgm_volume": 0,
  "sfx_max": 3,
  "style": {
   "band": 480,
@@ -13,194 +11,176 @@
   "sub_y": 0.72
  },
  "hook": {
-  "t": "혼자 심심할까 봐 선물했는데\n'첫째 표정이...'"
+  "t": "아빠가 나갈 때 vs 엄마가 나갈 때\n'댕댕이들 반응ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @toothlessandfeather"
+  "YouTube @Corey Moriarty"
  ],
  "sources": [
   {
-   "publisher": "TikTok @toothlessandfeather",
-   "url": "https://www.tiktok.com/@toothlessandfeather/video/7538976533289995575",
-   "date": "2025-08"
+   "publisher": "YouTube Corey Moriarty - Stage 5 clingers… but only for mom",
+   "url": "https://www.youtube.com/shorts/ERk-x_YRAfM",
+   "date": "2026-10-14"
   },
   {
-   "publisher": "Newsweek - Owners get lonely cat a kitten, plan hilariously backfires",
-   "url": "https://www.newsweek.com/owners-get-lonely-cat-a-kitten-plan-hilariously-backfires-10789797",
-   "date": "2025-09-26"
-  },
-  {
-   "publisher": "Cats Protection - Introducing a new cat into your home",
-   "url": "https://www.cats.org.uk/tain/news/introducing-a-new-cat-into-your-home",
-   "date": "2021-06-23"
-  },
-  {
-   "publisher": "San Francisco SPCA - Introducing Cats",
-   "url": "https://www.sfspca.org/wp-content/uploads/2019/04/sfspca-introducing-cats.pdf",
-   "date": "2019"
+   "publisher": "Horn, Huber & Range (2013) The Importance of the Secure Base Effect for Domestic Dogs, PLOS ONE",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3577677/",
+   "date": "2013"
   }
  ],
  "scenes": [
   {
-   "dur": 2.1,
+   "dur": 3.2,
    "video": {
-    "src": "video/v1c.mp4",
-    "start": 1.45,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0,
-    "boomerang": true
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "...저게 뭐냥",
-     "at": 0.0,
-     "to": 2.1,
-     "s": "dundun",
-     "sv": 0.9,
-     "x": 0.569,
-     "y": 0.574,
-     "size": 80
-    }
-   ]
-  },
-  {
-   "say": "외로울까 봐, 첫째에게 아기 동생을 데려왔습니다.",
-   "video": {
-    "src": "video/v1a.mp4",
+    "src": "video/v1.mp4",
     "start": 0.0,
-    "zoom": 1.0,
+    "zoom": 1.1,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 0
+    "y": 0.85,
+    "audio": 1.0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "외로운 첫째를 위한\n'깜짝 선물'",
+     "t": "아빠가 거실을 나가면?",
+     "x": 0.5,
+     "y": 0.07,
      "at": 0.0,
-     "x": 0.534,
-     "y": 0.268
-    }
-   ]
-  },
-  {
-   "dur": 2.4,
-   "video": {
-    "src": "video/v1c.mp4",
-    "start": 0.2,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0,
-    "boomerang": true
-   },
-   "caps": [
+     "to": 3.2
+    },
     {
      "k": "talk",
-     "t": "언니 안녕?",
-     "at": 0.3,
-     "to": 2.4,
-     "s": "pop",
-     "sv": 0.8,
-     "x": 0.569,
-     "y": 0.574,
-     "size": 80
+     "t": "(평화...)",
+     "x": 0.62,
+     "y": 0.36,
+     "at": 0.6,
+     "to": 3.2,
+     "size": 70
     }
    ]
   },
   {
-   "dur": 2.0,
+   "say": "아빠가 일어나도, 다섯 마리 모두 꿈쩍도 안 합니다.",
    "video": {
-    "src": "video/v1c.mp4",
-    "start": 1.45,
-    "zoom": 1.2,
+    "src": "video/v1.mp4",
+    "start": 3.2,
+    "zoom": 1.1,
     "x": 0.5,
-    "y": 0.1,
-    "audio": 0,
-    "boomerang": true
+    "y": 0.85,
+    "audio": 0.5
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(째릿...)",
-     "at": 0.0,
-     "to": 2.0,
-     "x": 0.582,
-     "y": 0.629,
-     "size": 82
+     "t": "(미동도 없음)",
+     "x": 0.62,
+     "y": 0.36,
+     "at": 1.0,
+     "s": "tick",
+     "sv": 0.8
     }
    ]
   },
   {
-   "say": "고양이가 새 식구를 받아들이는 데는, 며칠이 아니라 몇 주가 걸린다고 합니다.",
+   "say": "그런데 엄마가 일어나는 순간...",
    "video": {
-    "src": "video/v1a.mp4",
-    "start": 0.4,
-    "zoom": 1.0,
+    "src": "video/v1.mp4",
+    "start": 7.1,
+    "zoom": 1.1,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 0
+    "y": 0.85,
+    "audio": 0.5
    },
    "caps": [
     {
      "k": "desc",
-     "t": "첫째 입장:\n'허락한 적 없음'",
-     "at": 0.0,
-     "x": 0.534,
-     "y": 0.268
+     "t": "엄마가 나가면?",
+     "x": 0.5,
+     "y": 0.07,
+     "at": 0.0
     }
    ]
   },
   {
-   "dur": 2.6,
+   "dur": 3.6,
    "video": {
-    "src": "video/v1c.mp4",
-    "start": 0.85,
-    "zoom": 1.0,
+    "src": "video/v1.mp4",
+    "start": 9.4,
+    "zoom": 1.1,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 0,
-    "boomerang": true
+    "y": 0.85,
+    "audio": 1.0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "반품... 안 되냐옹?",
-     "at": 0.2,
-     "to": 2.6,
-     "s": "boing",
+     "t": "엄마 어디 가!!",
+     "x": 0.64,
+     "y": 0.44,
+     "at": 0.1,
+     "to": 3.6,
+     "s": "whoosh",
+     "sv": 0.9,
+     "size": 80
+    },
+    {
+     "k": "talk",
+     "t": "나도 갈래!!",
+     "x": 0.3,
+     "y": 0.22,
+     "at": 0.9,
+     "to": 3.6,
+     "size": 74
+    }
+   ]
+  },
+  {
+   "dur": 3.3,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 13.0,
+    "zoom": 1.1,
+    "x": 0.5,
+    "y": 0.85,
+    "audio": 1.0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "...나는?",
+     "x": 0.72,
+     "y": 0.36,
+     "at": 0.3,
+     "to": 3.3,
+     "s": "fail",
      "sv": 0.8,
-     "x": 0.569,
-     "y": 0.574,
      "size": 80
     },
     {
      "k": "desc",
-     "t": "(지금은 둘이 잘 지낸다고 합니다)",
+     "t": "개는 가장 의지하는 보호자를\n'안전 기지'로 삼는다고 합니다",
      "x": 0.5,
-     "y": 0.06,
-     "at": 0.6,
-     "to": 2.6,
-     "size": 46
+     "y": 0.07,
+     "at": 0.4,
+     "to": 3.3,
+     "size": 50
     }
    ]
   }
  ],
  "yt": {
-  "title": "외로워 보이는 고양이에게 동생을 데려왔더니 보인 진짜 반응",
-  "description": "첫째가 혼자 심심해 보여서 아기 고양이를 데려왔는데... 첫째 표정이 이렇게 될 줄은 몰랐습니다. 주인 말로는 지금은 둘이 사이좋게 지낸다고 해요.\n\n고양이끼리 서로 받아들이는 데는 며칠이 아니라 몇 주가 걸리는 경우가 많고(Cats Protection), 길면 몇 달이 걸리기도 한다고 합니다(SF SPCA). 냄새부터 천천히 익히게 하는 게 좋다고 해요.\n\n여러분 집 첫째는 동생 처음 봤을 때 어땠나요?\n\n영상: TikTok @toothlessandfeather\n참고: Newsweek, Cats Protection, San Francisco SPCA\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #고양이 #아기고양이 #냥이 #고양이쇼츠 #합사",
+  "title": "아빠가 나갈 땐 꿈쩍도 안 하던 댕댕이들, 엄마가 일어나자ㅋㅋ #shorts",
+  "description": "아빠가 거실을 나갈 땐 다섯 마리 모두 꿈쩍도 안 하더니... 엄마가 일어나자마자 전원 출동. 혼자 남은 아빠는 무슨 생각을 했을까요?\n\n개는 아기처럼 가장 의지하는 보호자를 '안전 기지'로 삼는다는 연구가 있습니다(Horn·Huber·Range 2013, PLOS ONE). 보호자가 곁에 있을 때 더 편안하고 적극적으로 움직인다고 해요.\n\n여러분 집 댕댕이는 누구 껌딱지인가요?\n\n영상: YouTube Corey Moriarty (원작자 채널)\n참고: PLOS ONE (Horn, Huber & Range, 2013)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #골든리트리버 #허스키 #댕댕이 #강아지 #골댕이 #강아지쇼츠",
   "tags": [
-   "고양이",
-   "아기고양이",
-   "고양이합사",
-   "냥이",
-   "고양이쇼츠",
-   "첫째고양이",
-   "kitten",
-   "cat stink eye",
+   "골든리트리버",
+   "허스키",
+   "댕댕이",
+   "강아지",
+   "골댕이",
+   "엄마껌딱지",
+   "강아지쇼츠",
+   "golden retriever",
+   "husky",
    "털뭉치"
   ]
  },
