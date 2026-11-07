@@ -1,0 +1,31 @@
+{
+ "id": "20261107-backfire",
+ "media": "media/20261107-backfire",
+ "topic": "산불 앞에서 소방관이 일부러 불을 뿜는 이유 — 맞불(백파이어·백번): 산불이 올 길목의 풀·나무(연료)를 먼저 태워 빈 땅을 만들면 도착한 산불이 탈 게 없어 멈춤. 바람이 바뀌면 위험해 전문 대원만 함. 사용자 11.07 14:17 회차 3번 선택(질문형 제목).",
+ "hook": {"t": "산불 끄러 온 소방관이\n왜 '불'을 지를까요?"},
+ "credit": "영상: HellSlacker via Storyful(NowThis) · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/killers.mp3", "start": 185.5, "vol": 0.38},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "산불 맞불 실사(장면 1·2·5·7·8): X @nowthisimpact 1310643686938566657(2020.9.28 캘리포니아 산불, 화면 표기 'HellSlacker via Storyful') — media/20261107-backfire/video/nowthis.mp4. 원본 아래쪽 영어 자막·왼쪽 세로 표기는 크롭으로 피함.",
+  "모션그래픽: scripts/story_shorts/anim_backfire.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "NSW Rural Fire Service(X) — Back burning은 다가오는 산불 앞에 불을 놓는 전술", "url": "https://x.com/NSWRFS/status/1952119963709288521"},
+  {"publisher": "National Interagency Fire Center(X) — 드립 토치로 back burn·처방 화입 점화", "url": "https://x.com/NIFC_Fire/status/1334519007760818178"},
+  {"publisher": "Wildfire Today — Carr Fire 대규모 backfiring 작전", "url": "https://wildfiretoday.com/firefighters-conducting-very-large-backfiring-operation-at-the-carr-fire/"},
+  {"publisher": "Queensland Fire Department(X) — 주민이 직접 맞불을 놓지 말라는 경고", "url": "https://x.com/QldFireDept/status/1719225204776538258"}
+ ],
+ "_note": "A=2컷(nowthis 1.75초~ 넓은 화염 분사 0.85배 / 3.05초~ 불티 근접 0.85배) → 컷 1.3초, 2.63초에 장면2(11초~ 다른 화염 분사). 답(빈 땅 만들기)은 8.0초 그래픽에서 처음. 효과음 없음, 원본 소리 없음.",
+ "scenes": [
+  {"text": "산불이 코앞까지 왔는데, 이 소방관이 하는 일은", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "불을 끄기는커녕, 산을 따라 불길을 길게 긋는 중", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "산불은 풀과 나무, '탈 것'을 따라 번지는데", "video": {"src": "gfx/spread.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "그 길목을 먼저 태워 '빈 땅'을 만드는 거예요", "video": {"src": "gfx/line.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "불로 불을 막는 작전, 이게 바로 '맞불'", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "도착한 산불은 탈 게 없어 그 자리에서 멈춰요", "video": {"src": "gfx/stop.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "단, 바람이 바뀌면 거꾸로 번져 전문 대원만 해요", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "불 끄는 별난 방법, 다음 편도 구독하고 보기", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6}
+ ]
+}
