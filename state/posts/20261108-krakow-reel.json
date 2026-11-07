@@ -1,0 +1,39 @@
+{
+ "id": "20261108-krakow-reel",
+ "format": "reel",
+ "slot": "night",
+ "status": "approved",
+ "created_at": "2026-11-08T01:24:06+09:00",
+ "publish_at": "2026-11-08T01:24:06+09:00",
+ "decided_at": "2026-11-08T01:24:06+09:00",
+ "topic": "폴란드 크라쿠프 중앙광장 차량 총격, 5명 사망·10여 명 부상",
+ "category": "해외 사건",
+ "sources": [
+  {
+   "publisher": "Małopolska Policja",
+   "date": "2026.11.07",
+   "url": "https://x.com/kwpkrakow"
+  },
+  {
+   "publisher": "RMF24",
+   "date": "2026.11.07",
+   "url": "https://www.rmf24.pl/regiony/krakow/news-strzelanina-na-rynku-glownym-w-krakowie-sa-zabici-i-ranni,nIdn,1025257"
+  },
+  {
+   "publisher": "WP",
+   "date": "2026.11.07",
+   "url": "https://wiadomosci.wp.pl/krakow/strzelanina-w-krakowie-nie-zyje-piec-osob-7348490074384832a"
+  }
+ ],
+ "files": [
+  "media/20261108-krakow-reel/reel.mp4"
+ ],
+ "cover": "media/20261108-krakow-reel/reel_cover.jpg",
+ "credits": [
+  "X @0xgeorgeeth",
+  "X @visegrad24"
+ ],
+ "manual": true,
+ "caption_full": "[폴란드 크라쿠프 중앙광장 총격]\n\n7일 오후 3시쯤(현지시간) 폴란드 크라쿠프 구시가지 중앙광장에서 차를 타고 온 남성이 사람들을 향해 무차별 총격을 가했습니다.\n\n현지 경찰에 따르면 5명이 숨지고 경찰관 2명을 포함해 10여 명이 다쳤습니다. 범인은 경찰 총에 맞은 뒤 체포돼 병원으로 옮겨졌습니다. 투스크 총리는 이번 사건을 '테러(zamach)'라고 불렀고, 범행 동기는 조사 중입니다.\n\n크라쿠프는 아우슈비츠·소금광산 여행으로 한국인 관광객이 많이 찾는 도시입니다. 한국인 피해 여부는 아직 확인되지 않았습니다. 현지에 계신 분은 외교부 안내에 따라 안전한 곳에 머물러 주세요.\n\n생각나는 친구에게 보내주세요! 팔로우하면 해외 속보를 가장 먼저 받아보실 수 있습니다.\n\n출처: 말로폴스카 경찰, RMF24·Polsat News·Reuters 2026.11.7\n영상: X @0xgeorgeeth @visegrad24 (현지 제보)\n\n#폴란드 #크라쿠프 #총격 #테러 #속보",
+ "risk": "쓰러진 사람·부상자·근접 얼굴 장면 제외. 한국인 피해 미확인."
+}
