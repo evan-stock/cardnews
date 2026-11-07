@@ -1,0 +1,37 @@
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] xr6b9b8FYKk: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+영상 없는 글(글만/삭제됨): https://x.com/GA_DOI/status/1993038901041045936
+실패: https://x.com/GA_DOI/status/1993038901041045936
+total 102476
+drwxr-xr-x 2 runner runner     4096 Nov  7 00:30 .
+drwxr-xr-x 3 runner runner     4096 Nov  7 00:29 ..
+-rw-r--r-- 1 runner runner      689 Nov  7 00:30 log.txt
+-rw-r--r-- 1 runner runner    22704 Nov  7 00:29 v1.info.json
+-rw-r--r-- 1 runner runner  2101679 Nov  7 00:29 v1.mp4
+-rw-r--r-- 1 runner runner    22957 Nov  7 00:30 v10.info.json
+-rw-r--r-- 1 runner runner   447272 Nov  7 00:30 v10.mp4
+-rw-r--r-- 1 runner runner 25086970 Nov  7 00:30 v11.mp4
+-rw-r--r-- 1 runner runner 24827136 Nov  7 00:30 v12.mp4
+-rw-r--r-- 1 runner runner 22749885 Nov  7 00:30 v13.mp4
+-rw-r--r-- 1 runner runner    16604 Nov  7 00:30 v15.info.json
+-rw-r--r-- 1 runner runner  1142641 Nov  7 00:30 v15.mp4
+-rw-r--r-- 1 runner runner    22843 Nov  7 00:29 v2.info.json
+-rw-r--r-- 1 runner runner  2165277 Nov  7 00:29 v2.mp4
+-rw-r--r-- 1 runner runner    22652 Nov  7 00:29 v3.info.json
+-rw-r--r-- 1 runner runner  3899998 Nov  7 00:29 v3.mp4
+-rw-r--r-- 1 runner runner    22688 Nov  7 00:29 v4.info.json
+-rw-r--r-- 1 runner runner   695570 Nov  7 00:29 v4.mp4
+-rw-r--r-- 1 runner runner    22844 Nov  7 00:29 v5.info.json
+-rw-r--r-- 1 runner runner  2057429 Nov  7 00:30 v5.mp4
+-rw-r--r-- 1 runner runner    19567 Nov  7 00:30 v6.info.json
+-rw-r--r-- 1 runner runner  8274452 Nov  7 00:30 v6.mp4
+-rw-r--r-- 1 runner runner    26025 Nov  7 00:30 v7.info.json
+-rw-r--r-- 1 runner runner  1884450 Nov  7 00:30 v7.mp4
+-rw-r--r-- 1 runner runner    21312 Nov  7 00:30 v8.info.json
+-rw-r--r-- 1 runner runner  2588018 Nov  7 00:30 v8.mp4
+-rw-r--r-- 1 runner runner    21769 Nov  7 00:30 v9.info.json
+-rw-r--r-- 1 runner runner  6686984 Nov  7 00:30 v9.mp4
+-rw-r--r-- 1 runner runner      643 Nov  7 00:30 x11.json
+-rw-r--r-- 1 runner runner     2004 Nov  7 00:30 x12.json
+-rw-r--r-- 1 runner runner      630 Nov  7 00:30 x13.json
+-rw-r--r-- 1 runner runner      667 Nov  7 00:30 x14.json
