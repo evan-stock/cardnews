@@ -1,0 +1,33 @@
+{
+ "id": "20261107-snowfire",
+ "media": "media/20261107-snowfire",
+ "topic": "라이터를 대도 녹지 않고 까맣게 그을리는 눈 — '정부가 뿌린 가짜(플라스틱) 눈' 소문의 진짜 이유: 녹은 물을 주변 눈(대부분 빈 공간)이 빨아들이고 일부는 수증기로, 검은 자국은 라이터 가스 그을음. 2014 애틀랜타·2021 텍사스·2026 미국 동부 폭설 때마다 반복. 사용자 11.07 09:17 회차 8번 선택.",
+ "hook": {"t": "폭설 때마다 퍼지는\n'가짜 눈' 소문"},
+ "credit": "영상: AccuWeather·닐 디그래스 타이슨 외 · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/the_awakening.mp3", "start": 30.0, "vol": 0.38},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "눈뭉치에 라이터 근접(장면 1·8): TikTok @accuweather 7600222962456841503(2026.1.28, 뉴저지 Veronica Ylvisaker 영상 인용) — media/20261107-snowfire/video/aw.mp4",
+  "그을린 눈뭉치 든 남성(장면 2): TikTok @yourlifeiswhatyoumakeit 7458849831184813354 — video/v3.mp4",
+  "닐 디그래스 타이슨 실험(장면 5): TikTok @neildegrassetyson 6933370377313766662(2021.2.26) — video/v2.mp4",
+  "모션그래픽: scripts/story_shorts/anim_snowfire.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "PolitiFact 2021.2.19 'No, snow isn't government-generated. Here's what a snowball does when you put a lighter to it' — 녹은 물을 주변 눈이 흡수, 검은 자국은 라이터 그을음", "url": "https://politifact.com/factchecks/2021/feb/19/facebook-posts/no-snow-isnt-government-generated-what-snowball-do/"},
+  {"publisher": "Full Fact 'Videos showing burning snow do not prove it is fake'", "url": "https://fullfact.org/environment/snow-turning-black-lighter-experiment-chemsnow-chemtrails/"},
+  {"publisher": "USA Today 팩트체크(Yahoo) 'Sublimation, not government conspiracy, explains snowmelt videos'", "url": "https://www.yahoo.com/entertainment/fact-check-sublimation-not-government-010350024.html"},
+  {"publisher": "Yahoo News 2014.1 애틀랜타 'chemtrail snow' 소문 반박", "url": "https://ca.news.yahoo.com/blogs/geekquinox/chemtrails-nanobots-please-fell-atlanta-real-snow-actually-232729838.html"},
+  {"publisher": "AccuWeather TikTok 2026.1.28 'Snow is not made of plastic' 해명", "url": "https://www.tiktok.com/@accuweather/video/7600222962456841503"}
+ ],
+ "_note": "A=3컷(aw 1.6~ 넓게 0.85배 / 3.7~ 근접 확대 0.65배 / 6.9~ 그을린 면+불꽃 0.75배) → 컷 1.3·2.53초. AccuWeather 화면의 원작자 표기·로고(위)와 앵커 얼굴(아래)은 크롭으로 피함. 답(그을음·흡수)은 6.4초 그래픽에서 처음. 효과음 없음, 원본 소리 끔(앵커 목소리).",
+ "scenes": [
+  {"text": "라이터를 대도 녹지 않는 이 눈, 진짜 눈일까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 4.0},
+  {"text": "'정부가 뿌린 가짜 눈'이라는 영상이 쏟아졌는데", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "비밀은 눈 속 '빈 공간', 녹은 물을 옆 눈이 '쏙'", "video": {"src": "gfx/sponge.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.4},
+  {"text": "까만 자국은 눈이 아니라 라이터 가스의 '그을음'", "video": {"src": "gfx/soot.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "천체물리학자 닐 디그래스 타이슨도 '진짜 눈' 인증", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "그런데도 이 소문, 폭설 때마다 다시 돌아요", "video": {"src": "gfx/years.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "올겨울 눈 오면 직접 해 보고, 겨울 비밀은 구독으로!", "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.7}
+ ]
+}
