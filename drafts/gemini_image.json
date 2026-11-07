@@ -1,0 +1,25 @@
+{
+ "style": "Premium stylized 3D cartoon render for a vertical YouTube Short. Soft cinematic lighting: warm key light, cool fill, warm rim light, gentle subsurface scattering on skin, contact shadows and ambient occlusion so nothing floats, saturated but tasteful colors, slight bloom and film grain. Clean simple shapes with rich small details, like a high-end indie animation studio. Original characters only, do not imitate any existing franchise. No text unless specified.",
+ "prompts": [
+  {
+   "name": "man_sheet",
+   "aspect": "9:16",
+   "prompt": "Character design of an ordinary Korean office worker in his late 20s, cartoon proportions: a very large perfectly round head sitting directly on a soft rounded body with no visible neck, short stubby legs, white mitten-like hands. Short black side-parted hair with a soft fringe. Face drawn simply: round eyes with white sclera and dark pupils, thick dark eyebrows, small mouth, faint blush. Wearing a teal zip-up hoodie with drawstrings and kangaroo pockets, dark navy pants, white sneakers, a blue lanyard with a white ID card on his chest. Standing in a relaxed 3/4 pose, slightly tired but friendly expression. Plain warm beige studio background with a soft floor shadow."
+  },
+  {
+   "name": "brain_boss",
+   "aspect": "9:16",
+   "prompt": "A cute brain character who is the manager of a control room inside the human body. The brain is glossy, wet-looking pink with realistic winding gyri and sulci, a smooth area in front with a simple cartoon face (round eyes, determined eyebrows, small mouth). Tiny pink arms with mitten hands and short legs with dark shoes. Wearing a black gaming headset with a boom microphone. Standing in a dark navy control room full of glowing monitors, a big console with colorful glowing buttons, a red rotating alarm beacon casting red light. The brain points at a monitor in alarm."
+  },
+  {
+   "name": "kidney_foreman",
+   "aspect": "9:16",
+   "prompt": "A cute bean-shaped kidney character, deep reddish-brown glossy surface, simple cartoon face with determined eyes, wearing a yellow construction hard hat, tiny arms with mitten hands and short legs with work boots. He is a factory foreman inside the human body, gripping and turning a big red valve wheel on a copper pipe. Industrial factory background with pipes, gauges, stacked white sacks, hazard stripes, warm work lights."
+  },
+  {
+   "name": "ramen_room",
+   "aspect": "9:16",
+   "prompt": "Night scene in a small cozy Korean studio apartment. The office worker character (huge round head, teal zip-up hoodie, blue lanyard ID card) sits on a cushion at a low wooden table and drinks spicy red ramen soup straight from a dented yellow aluminum pot, tilting his head back, the pot rim touching his lips, eyes squeezed happily. Steam rises. Clutter around: instant noodle boxes, kimchi dish, chopsticks, a desk with a glowing monitor, a bed, laundry rack, a warm table lamp, a window with a night city skyline and moon. Camera at a 3/4 side angle at table height."
+  }
+ ]
+}
