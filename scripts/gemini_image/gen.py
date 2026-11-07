@@ -8,29 +8,38 @@ H = {"x-goog-api-key": key}
 models = requests.get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", headers=H, timeout=60).json().get("models", [])
 img = [m["name"].split("/")[-1] for m in models if "image" in m["name"] and "generateContent" in m.get("supportedGenerationMethods", [])]
 print("이미지 모델:", img)
-pref = [cfg.get("model")] if cfg.get("model") else []
-pref += [m for m in img if "pro" in m] + [m for m in img if "flash" in m] + img
-model = next((m for m in pref if m in img), None)
-if not model: print("이미지 모델 없음"); sys.exit(1)
-print("사용 모델:", model)
+order = [cfg.get("model")] if cfg.get("model") else []
+order += [m for m in img if "flash" in m and "lite" not in m] + [m for m in img if "pro" in m] + img
+cands = []
+for m in order:
+    if m in img and m not in cands: cands.append(m)
+if not cands: print("이미지 모델 없음"); sys.exit(1)
+print("후보 모델:", cands)
 style = cfg.get("style", "")
-report = [f"model {model}"]
+report = []
+bad = set()
 for it in cfg["prompts"]:
     body = {"contents": [{"parts": [{"text": (style + "\n\n" + it["prompt"]).strip()}]}],
             "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": it.get("aspect", "9:16")}}}
-    for attempt in range(3):
-        r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent", json=body, headers=H, timeout=300)
-        if r.status_code == 200: break
-        print(it["name"], "HTTP", r.status_code, r.text[:300]); time.sleep(8 * (attempt + 1))
-    else:
-        report.append(f"{it['name']}: 실패"); continue
     ok = False
-    for c in r.json().get("candidates", []):
-        for p in c.get("content", {}).get("parts", []):
-            d = p.get("inlineData") or p.get("inline_data")
-            if d and d.get("data"):
-                ext = "png" if "png" in d.get("mimeType", d.get("mime_type", "png")) else "jpg"
-                open(f"{out}/{it['name']}.{ext}", "wb").write(base64.b64decode(d["data"])); ok = True; break
-        if ok: break
-    report.append(f"{it['name']}: {'성공' if ok else '이미지 없음 ' + json.dumps(r.json())[:200]}")
+    for model in [m for m in cands if m not in bad]:
+        r = None
+        for attempt in range(2):
+            r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent", json=body, headers=H, timeout=300)
+            if r.status_code == 200: break
+            print(it["name"], model, "HTTP", r.status_code, r.text[:160].replace("\n", " "))
+            if r.status_code in (429, 403, 404) and ("limit: 0" in r.text or r.status_code != 429): break
+            time.sleep(10)
+        if r.status_code != 200:
+            if "limit: 0" in r.text or r.status_code in (403, 404): bad.add(model)
+            continue
+        for c in r.json().get("candidates", []):
+            for p in c.get("content", {}).get("parts", []):
+                d = p.get("inlineData") or p.get("inline_data")
+                if d and d.get("data"):
+                    ext = "png" if "png" in d.get("mimeType", d.get("mime_type", "png")) else "jpg"
+                    open(f"{out}/{it['name']}.{ext}", "wb").write(base64.b64decode(d["data"])); ok = True; break
+            if ok: break
+        if ok: report.append(f"{it['name']}: 성공 ({model})"); break
+    if not ok: report.append(f"{it['name']}: 실패")
 print("\n".join(report)); open(f"{out}/report.txt", "w").write("\n".join(report) + "\n")
