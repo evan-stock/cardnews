@@ -1,0 +1,63 @@
+{
+ "id": "20261108-wb1",
+ "finished_at": "2026-11-08T14:28:52+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=jnfhkiwHV3o",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wb1/video/y1.mp4",
+   "audio": "media/20261108-wb1/video/y1_audio.m4a",
+   "mb": 57.5,
+   "error": "재시도 실패",
+   "view_count": 1799,
+   "title": "Arkansas (SSN 800) Christening Bottle Break"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=wGSza7FC2Ss",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wb1/video/y2.mp4",
+   "audio": "media/20261108-wb1/video/y2_audio.m4a",
+   "mb": 32.6,
+   "view_count": 183196,
+   "title": "British adventurer Karl Bushby completes 28-year walk around the world"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=rufnWLVQcKg",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wb1/video/y3.mp4",
+   "audio": "media/20261108-wb1/video/y3_audio.m4a",
+   "mb": 1.4,
+   "view_count": 11652615,
+   "title": "Admiral Jeremiah Denton Blinks Morse Code Warning as P.O.W."
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=q1k62yPisss",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": false,
+   "error": "[audio] ok"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/watch?v=BnZiQ7F211E",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wb1/video/y5.mp4",
+   "audio": "media/20261108-wb1/video/y5_audio.m4a",
+   "mb": 2.5,
+   "view_count": 20109,
+   "title": "Sending heaving line ashore | SHIPS MOORING OPERATION"
+  }
+ ]
+}
