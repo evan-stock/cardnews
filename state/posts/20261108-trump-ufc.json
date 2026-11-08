@@ -2,7 +2,7 @@
  "id": "20261108-trump-ufc",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-08T13:01:53.253089+09:00",
  "publish_at": "2026-11-08T13:01:53.253154+09:00",
  "topic": "트럼프, UFC 회장 데이나 화이트에 백악관 대변인 제안 + UFC 챔피언 6명 호출",
@@ -91,5 +91,8 @@
   "media/20261108-trump-ufc/07.jpg",
   "media/20261108-trump-ufc/08.jpg"
  ],
- "tg_msg": 2072
+ "tg_msg": 2072,
+ "ig_media_id": "17915444799288865",
+ "permalink": "https://www.instagram.com/p/Dfd2wIXkbA8/",
+ "published_at": "2026-11-08T13:05:06.576235+09:00"
 }
