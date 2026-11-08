@@ -1,6 +1,16 @@
-[{"id":"20261108-trump-ufc","slot":"lunch","mode":"collect","topic":"트럼프, UFC 회장 데이나 화이트에 백악관 대변인 제안",
-"image_pages":["https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
-"https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-"https://m.sedaily.com/article/20111486",
-"https://en.wikipedia.org/wiki/Dana_White",
-"https://www.sportbible.com/mma/ufc/ufc-news/donald-trump-dana-white-request-ufc-white-house-300023-20260414"]}]
+[
+ {
+  "id": "20261108-trump-ufc",
+  "slot": "lunch",
+  "mode": "collect",
+  "topic": "트럼프 UFC 대변인 추가 사진",
+  "image_pages": [
+   "https://en.wikipedia.org/wiki/Khabib_Nurmagomedov",
+   "https://en.wikipedia.org/wiki/Islam_Makhachev",
+   "https://en.wikipedia.org/wiki/Stephen_Miller_(political_advisor)",
+   "https://en.wikipedia.org/wiki/James_S._Brady_Press_Briefing_Room",
+   "https://en.wikipedia.org/wiki/Daniel_Cormier",
+   "https://en.wikipedia.org/wiki/Justin_Gaethje"
+  ]
+ }
+]
