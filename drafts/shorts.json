@@ -1,297 +1,173 @@
 {
- "id": "20261108-t13",
+ "id": "20261108-t18",
  "mode": "send",
  "format": "meme",
- "topic": "몽타주 A(주장형): '허스키한테 한 마디 하면 열 마디가 돌아온다' — 서로 다른 원작자 허스키 클립 6개(원작자 5명, 모두 원작자 본인 유튜브 채널, 맥북 유튜브 받기). MistyMapleHuskies 아기 허스키 Maple(2026.11.04) 2구간, MyBoyMarble 'Typical teenage husky talk back'(2026.10.19), Sarah O'Hagan 'Two Vocal Huskies Arguing'(2026.10.27), Corey Moriarty 잠옷 허스키 Titan 'How my 5 dogs are at bedtime'(2026.10.22), Husky Connection 'Upside Down Husky Chat'(2026.10.29). 원본 소리(허스키 울음·투덜) 전부 살림, 우리 bgm 낮게 0.5. 원본 글자: 글자 없는 구간만 골라 쓰고 Titan 클립은 zoom 1.15·y 0.75 크롭으로 위 캡션을 밀어냄(흐림 0초, 상자 없음). 되감기 안 씀. 사실: AKC 'Can Huskies Talk?' — 허스키는 썰매견으로 무리와 소리로 소통했고 잘 짖지 않고 하울·투덜거림으로 '말'한다.",
- "bgm": "assets/bgm/worthy/curious_kitten.mp3",
- "bgm_start": 11.0,
- "bgm_volume": 0.5,
+ "topic": "한 원본: YouTube 원작자 본인 채널 Wanderlust Samoyed 'Running into the cozy season'(2026.10.14, 1,545만 회·6.7만 좋아요). 주인이 핼러윈 머리띠·모자를 들고 서 있으면 사모예드가 멀리서 달려와 스스로 머리를 쏙 넣는 장면 5번(호박→박쥐 날개→박쥐 망토→마녀 모자→악마 뿔). 원본 글자 없음(크롭·흐림·상자 없음). 원본에 덧입힌 음악 살림(우리 bgm 없음), 사람 말소리 없음. 되감기 안 씀(16.7초 원본을 순서대로 한 번). 사실: AKC '10 things you probably didn't know about the smiling Samoyed' — 올라간 입꼬리(사미 스마일) 덕에 침이 덜 흘러 얼굴에 고드름이 생기지 않는다.",
+ "bgm_volume": 0,
  "sfx_max": 3,
  "style": {
   "band": 480,
   "title_pad_bottom": 18,
-  "sub_y": 0.72
+  "sub_y": 0.87
  },
  "hook": {
-  "t": "한 마디 하면 열 마디 돌아오는\n'허스키들 말대꾸ㅋㅋ'"
+  "t": "머리띠만 들고 서 있으면\n'알아서 머리 넣으러 오는 사모예드ㅋㅋ'"
  },
  "photo_credits": [
-  "YouTube @MistyMapleHuskies, @MyBoyMarble, @Sarah O'Hagan, @Corey Moriarty, @Husky Connection"
+  "YouTube @Wanderlust Samoyed"
  ],
  "sources": [
   {
-   "publisher": "YouTube MistyMapleHuskies - Husky had a full-on meltdown when I told him to sit down",
-   "url": "https://www.youtube.com/shorts/JfR1zXybITg",
-   "date": "2026-11-04"
+   "publisher": "YouTube Wanderlust Samoyed - Running into the cozy season",
+   "url": "https://www.youtube.com/shorts/QETkOG7zaPo",
+   "date": "2026-10-14"
   },
   {
-   "publisher": "YouTube MyBoyMarble - Typical teenage husky talk back",
-   "url": "https://www.youtube.com/shorts/2JNqJ2KOu8g",
-   "date": "2026-10-19"
-  },
-  {
-   "publisher": "YouTube Sarah O'Hagan - Two Vocal Huskies Arguing",
-   "url": "https://www.youtube.com/shorts/YDoidM5oNs0",
-   "date": "2026-10-27"
-  },
-  {
-   "publisher": "YouTube Corey Moriarty - bedtime (Titan)",
-   "url": "https://www.youtube.com/shorts/hK9gQ6qRWeM",
-   "date": "2026-10-22"
-  },
-  {
-   "publisher": "YouTube Husky Connection - Upside Down Husky Chat",
-   "url": "https://www.youtube.com/shorts/iqPiI0xbrWA",
-   "date": "2026-10-29"
-  },
-  {
-   "publisher": "AKC - Can Huskies Talk?",
-   "url": "https://www.akc.org/expert-advice/advice/can-huskies-talk/",
+   "publisher": "AKC - 10 Things You Probably Didn't Know About the Smiling Samoyed",
+   "url": "https://www.akc.org/expert-advice/lifestyle/10-things-you-probably-didnt-know-about-the-smiling-samoyed/",
    "date": "2026-11"
   }
  ],
  "scenes": [
   {
-   "dur": 3.6,
+   "dur": 3.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.8,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.45,
-    "audio": 0.8
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "앉으라고 한마디 했을 뿐인데",
-     "x": 0.5,
-     "y": 0.07,
-     "at": 0.0,
-     "to": 3.6
-    },
-    {
-     "k": "talk",
-     "t": "내가 왜애!!",
-     "x": 0.5,
-     "y": 0.76,
-     "at": 0.4,
-     "to": 3.6,
-     "size": 84
-    }
-   ]
-  },
-  {
-   "say": "허스키한테 한 마디 하면, 열 마디가 돌아옵니다.",
-   "video": {
-    "src": "video/v3.mp4",
-    "start": 0.6,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.6,
-    "audio": 0.4
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(말대꾸 장전 중)",
-     "x": 0.5,
-     "y": 0.22,
-     "at": 1.2,
-     "s": "dundun",
-     "sv": 0.8
-    }
-   ]
-  },
-  {
-   "dur": 3.8,
-   "video": {
-    "src": "video/v3.mp4",
-    "start": 3.2,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.6,
-    "audio": 0.7
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "잠깐 붙잡았을 뿐인데",
-     "x": 0.5,
-     "y": 0.07,
-     "at": 0.0,
-     "to": 3.8
-    },
-    {
-     "k": "talk",
-     "t": "아빠는 맨날 나만 갖고 그래!!",
-     "x": 0.5,
-     "y": 0.76,
-     "at": 0.3,
-     "to": 3.8,
-     "size": 70
-    }
-   ]
-  },
-  {
-   "dur": 3.2,
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 3.8,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.4,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "형제끼리도 한 치의 양보 없음",
-     "x": 0.5,
-     "y": 0.07,
-     "at": 0.0,
-     "to": 3.2
-    },
-    {
-     "k": "talk",
-     "t": "내 자리라고!!",
-     "x": 0.5,
-     "y": 0.76,
-     "at": 0.2,
-     "to": 3.2,
-     "size": 80
-    }
-   ]
-  },
-  {
-   "dur": 2.7,
-   "video": {
-    "src": "video/v4.mp4",
-    "start": 1.1,
-    "zoom": 1.15,
-    "x": 0.5,
-    "y": 0.65,
-    "audio": 3.0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "잘 시간이라고 했더니",
-     "x": 0.5,
-     "y": 0.07,
-     "at": 0.0,
-     "to": 2.7
-    },
-    {
-     "k": "talk",
-     "t": "안 잘 건데?!",
-     "x": 0.5,
-     "y": 0.76,
-     "at": 0.3,
-     "to": 2.7,
-     "size": 84
-    }
-   ]
-  },
-  {
-   "say": "누워서도, 수다는 멈추지 않습니다.",
-   "video": {
-    "src": "video/v5.mp4",
     "start": 0.0,
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0.4
+    "audio": 0.7
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(거꾸로 수다 시작)",
+     "t": "(다다다다)",
      "x": 0.5,
-     "y": 0.22,
-     "at": 0.6
-    }
-   ]
-  },
-  {
-   "dur": 3.2,
-   "video": {
-    "src": "video/v5.mp4",
-    "start": 2.3,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 1.6
-   },
-   "caps": [
+     "y": 0.62,
+     "at": 0.3,
+     "to": 1.6,
+     "s": "whoosh",
+     "sv": 0.7
+    },
     {
      "k": "talk",
-     "t": "누나 내 말 좀 들어봐",
+     "t": "나 불렀지?!",
      "x": 0.5,
-     "y": 0.76,
-     "at": 0.2,
-     "to": 3.2,
-     "size": 74
+     "y": 0.87,
+     "at": 1.8,
+     "to": 3.0,
+     "size": 84
     }
    ]
   },
   {
-   "say": "허스키는 썰매견 시절 무리끼리 소리로 소통해서, 짖는 대신 이렇게 수다를 떤다고 합니다.",
+   "say": "다른 머리띠를 들자, 또 알아서 달려옵니다.",
    "video": {
-    "src": "video/v7.mp4",
-    "start": 2.6,
+    "src": "video/v1.mp4",
+    "start": 3.0,
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0.4
+    "audio": 0.35
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "원래 직업: 썰매견 (소리로 팀워크)",
+     "k": "sfx",
+     "t": "(쏙)",
      "x": 0.5,
-     "y": 0.07,
-     "at": 0.3,
-     "s": "ding",
+     "y": 0.25,
+     "at": 2.3,
+     "s": "pop",
      "sv": 0.8
     }
    ]
   },
   {
-   "dur": 2.6,
+   "dur": 3.0,
    "video": {
-    "src": "video/v7.mp4",
-    "start": 7.7,
+    "src": "video/v1.mp4",
+    "start": 7.0,
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0.8
+    "audio": 0.6
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "그러니까 끝까지 들으라고!!",
+     "k": "desc",
+     "t": "이번엔 박쥐 망토",
      "x": 0.5,
-     "y": 0.76,
-     "at": 0.1,
-     "to": 2.6,
-     "size": 72
+     "y": 0.07,
+     "at": 0.0,
+     "to": 3.0
+    },
+    {
+     "k": "talk",
+     "t": "구멍 찾았다!",
+     "x": 0.5,
+     "y": 0.87,
+     "at": 1.6,
+     "to": 3.0,
+     "size": 84
+    }
+   ]
+  },
+  {
+   "say": "모자를 내밀어도, 망설임이 없습니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 10.0,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0.35
+   },
+   "caps": []
+  },
+  {
+   "dur": 3.5,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 13.0,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0.6
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "올라간 입꼬리 덕에 침이 덜 흘러\n얼굴에 고드름이 안 생긴대요 (AKC)",
+     "x": 0.5,
+     "y": 0.07,
+     "at": 0.0,
+     "to": 3.5
+    },
+    {
+     "k": "talk",
+     "t": "악마 아니고 천사임",
+     "x": 0.5,
+     "y": 0.87,
+     "at": 1.4,
+     "to": 3.5,
+     "size": 80,
+     "s": "ding",
+     "sv": 0.7
     }
    ]
   }
  ],
  "yt": {
-  "title": "한 마디 하면 열 마디 돌아오는 허스키들 말대꾸ㅋㅋ #shorts",
-  "description": "앉으라고 한마디 했을 뿐인데, 잘 시간이라고 했을 뿐인데... 허스키들은 절대 그냥 안 넘어가요ㅋㅋ 누워서도 거꾸로 수다 중.\n\n미국애견협회(AKC)에 따르면 허스키는 큰 무리로 썰매를 끌며 소리로 서로 소통하던 개라, 잘 짖지 않는 대신 하울링·투덜거림으로 '말'을 한다고 합니다.\n\n여러분 집 강아지도 말대꾸하나요?\n\n영상: YouTube @MistyMapleHuskies, @MyBoyMarble, @Sarah O'Hagan, @Corey Moriarty, @Husky Connection (모두 원작자 채널)\n참고: AKC(American Kennel Club)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #허스키 #시베리안허스키 #말대꾸 #강아지 #강아지쇼츠 #댕댕이",
+  "title": "머리띠만 들고 있으면 알아서 머리 넣으러 오는 사모예드ㅋㅋ #shorts",
+  "description": "호박, 박쥐 날개, 망토, 마녀 모자, 악마 뿔까지... 들고만 있으면 멀리서 달려와 스스로 머리를 쏙 넣는 사모예드ㅋㅋ 표정 보면 본인이 제일 신났어요.\n\n미국애견협회(AKC)에 따르면 사모예드의 트레이드마크인 올라간 입꼬리(사미 스마일)는 침이 덜 흐르게 해서 추운 시베리아에서 얼굴에 고드름이 생기지 않게 도와준다고 합니다.\n\n여러분 집 강아지는 옷 입혀 주면 어떤가요?\n\n영상: YouTube @Wanderlust Samoyed (원작자 채널)\n참고: AKC(American Kennel Club)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #사모예드 #강아지 #강아지쇼츠 #댕댕이 #강아지머리띠 #귀여운강아지",
   "tags": [
-   "허스키",
-   "시베리안허스키",
-   "말하는강아지",
-   "말대꾸",
+   "사모예드",
+   "samoyed",
+   "강아지머리띠",
    "강아지쇼츠",
    "댕댕이",
-   "husky",
-   "talking husky",
+   "귀여운강아지",
    "털뭉치"
   ]
  },
