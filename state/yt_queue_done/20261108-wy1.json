@@ -1,0 +1,66 @@
+{
+ "id": "20261108-wy1",
+ "finished_at": "2026-11-08T09:33:43+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=Bet1jgj3s68",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wy1/video/y1.mp4",
+   "audio": "media/20261108-wy1/video/y1_audio.m4a",
+   "mb": 4.7,
+   "view_count": 26416,
+   "title": "Old spacesuit released into space"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=JkRpw1klc-Q",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wy1/video/y2.mp4",
+   "audio": "media/20261108-wy1/video/y2_audio.m4a",
+   "mb": 9.9,
+   "view_count": 3319,
+   "title": "OTD in Space – February 3: ISS Astronauts Launch SuitSat"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=tJ6Pc-VEG2k",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wy1/video/y3.mp4",
+   "audio": "media/20261108-wy1/video/y3_audio.m4a",
+   "mb": 10.4,
+   "view_count": 13032,
+   "title": "WATCH: Synchronized snow plowing"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=UEc29dH1Tj4",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wy1/video/y4.mp4",
+   "audio": "media/20261108-wy1/video/y4_audio.m4a",
+   "mb": 28.1,
+   "view_count": 554992,
+   "title": "THE SPINNING JAVELIN - Banned Javelin Technique"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/watch?v=52rvqtiBoow",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wy1/video/y5.mp4",
+   "audio": "media/20261108-wy1/video/y5_audio.m4a",
+   "mb": 6.1,
+   "view_count": 452427,
+   "title": "JAVELIN THROWING WITH THE SPINNING TECHNIQUE."
+  }
+ ]
+}
