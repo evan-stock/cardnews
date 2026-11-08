@@ -1,0 +1,50 @@
+{
+ "id": "20261109-t08",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-09T08:34:24.922211+09:00",
+ "publish_at": "2026-11-09T08:34:24.922234+09:00",
+ "publish_now": true,
+ "topic": "한 원본: YouTube Pawfect Moments 'Puppy's reaction insane'(2026.10.18, 389만 회, 15초 720p). 아기 골든리트리버가 발톱 깎기 중 얌전히 있다가 5.6초부터 고개를 젖히고 길게 '아우우~' 울고, 10초 뒤로 짧게 낑낑·왕왕 항의. 원본 위 캡션 'She is the biggest Drama Queen In our house'는 크롭(y 0.66)으로 화면 밖으로. 원본 소리(동물 울음·발톱깎이 딸깍) 전부 살림, 덧입힌 음악 없음, 사람 말소리 없음. 되감기 안 씀(0.5~15초를 순서대로 한 번). 사실: AKC 'How to Trim Your Dog's Nails at Home' — 발톱 속 '퀵'에 혈관과 신경이 있고, 아기 때부터 발을 자주 만져 주면 발톱 깎기에 익숙해진다.",
+ "sources": [
+  {
+   "publisher": "YouTube Pawfect Moments - Puppy's reaction insane",
+   "url": "https://www.youtube.com/shorts/ZshhaZLlqKU",
+   "date": "2026-10-18"
+  },
+  {
+   "publisher": "AKC - How to Trim Your Dog's Nails at Home",
+   "url": "https://www.akc.org/expert-advice/health/how-to-trim-dogs-nails-safely/",
+   "date": "2026-11"
+  }
+ ],
+ "seconds": 14.37,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261109-t08/short.mp4"
+ ],
+ "app_file": "media/20261109-t08/short_nobgm.mp4",
+ "yt": {
+  "title": "발톱 하나 깎았을 뿐인데 온 동네 떠나가게 우는 아기 골댕이ㅋㅋ #shorts",
+  "description": "발톱깎이 딸깍 한 번에 고개 젖히고 '아우우우~' 대성통곡하는 아기 골든리트리버ㅋㅋ 아픈 게 아니라 그냥 억울한 거예요.\n\n미국애견협회(AKC)에 따르면 강아지 발톱 속 분홍색 부분(퀵)에는 혈관과 신경이 있어서 끝만 조금씩 깎아야 하고, 아기 때부터 발을 자주 만져 주고 간식으로 칭찬해 주면 커서도 발톱 깎기에 익숙해진다고 합니다.\n\n여러분 집 강아지도 발톱 깎을 때 이렇게 엄살 부리나요?\n\n영상: YouTube @Pawfect Moments\n참고: AKC(American Kennel Club)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #골든리트리버 #아기골댕이 #강아지 #강아지쇼츠 #댕댕이 #강아지발톱\n\n출처: YouTube Pawfect Moments - Puppy's reaction insane 2026-10-18, AKC - How to Trim Your Dog's Nails at Home 2026-11\n사진·영상: YouTube @Pawfect Moments\n음성: Typecast\n\n#shorts #골든리트리버 #아기골댕이 #골댕이 #golden retriever puppy",
+  "tags": [
+   "골든리트리버",
+   "아기골댕이",
+   "골댕이",
+   "golden retriever puppy",
+   "강아지발톱",
+   "강아지쇼츠",
+   "댕댕이",
+   "털뭉치"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "78418905e01b",
+ "tg_msg": 2194
+}
