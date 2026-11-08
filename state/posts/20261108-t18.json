@@ -1,11 +1,11 @@
 {
  "id": "20261108-t18",
  "kind": "short",
- "status": "published",
- "created_at": "2026-11-08T18:43:02.675619+09:00",
- "publish_at": "2026-11-08T18:43:02.675640+09:00",
+ "status": "pending",
+ "created_at": "2026-11-08T19:31:16.237936+09:00",
+ "publish_at": "2026-11-08T19:31:16.237957+09:00",
  "publish_now": true,
- "topic": "한 원본: YouTube 원작자 본인 채널 Wanderlust Samoyed 'Running into the cozy season'(2026.10.14, 1,545만 회·6.7만 좋아요). 주인이 핼러윈 머리띠·모자를 들고 서 있으면 사모예드가 멀리서 달려와 스스로 머리를 쏙 넣는 장면 5번(호박→박쥐 날개→박쥐 망토→마녀 모자→악마 뿔). 원본 글자 없음(크롭·흐림·상자 없음). 원본에 덧입힌 음악 살림(우리 bgm 없음), 사람 말소리 없음. 되감기 안 씀(16.7초 원본을 순서대로 한 번). 사실: AKC '10 things you probably didn't know about the smiling Samoyed' — 올라간 입꼬리(사미 스마일) 덕에 침이 덜 흘러 얼굴에 고드름이 생기지 않는다.",
+ "topic": "한 원본: YouTube 원작자 본인 채널 Wanderlust Samoyed 'Running into the cozy season'(2026.10.14, 1,545만 회·6.7만 좋아요). 주인이 핼러윈 머리띠·모자를 들고 서 있으면 사모예드가 멀리서 달려와 스스로 머리를 쏙 넣는 장면 5번(호박→박쥐 날개→박쥐 망토→마녀 모자→악마 뿔). 원본 글자 없음(크롭·흐림·상자 없음). 원본에 동물 소리가 없어 원본 소리(덧입힌 음악) 전부 끄고 우리 bgm curious_kitten 2.5 (11.08 18:50 사용자 지시), 사람 말소리 없음. 되감기 안 씀(16.7초 원본을 순서대로 한 번). 사실: AKC '10 things you probably didn't know about the smiling Samoyed' — 올라간 입꼬리(사미 스마일) 덕에 침이 덜 흘러 얼굴에 고드름이 생기지 않는다.",
  "sources": [
   {
    "publisher": "YouTube Wanderlust Samoyed - Running into the cozy season",
@@ -26,7 +26,7 @@
  "files": [
   "media/20261108-t18/short.mp4"
  ],
- "app_file": "media/20261108-t18/short.mp4",
+ "app_file": "media/20261108-t18/short_nobgm.mp4",
  "yt": {
   "title": "머리띠만 들고 있으면 알아서 머리 넣으러 오는 사모예드ㅋㅋ #shorts",
   "description": "호박, 박쥐 날개, 망토, 마녀 모자, 악마 뿔까지... 들고만 있으면 멀리서 달려와 스스로 머리를 쏙 넣는 사모예드ㅋㅋ 표정 보면 본인이 제일 신났어요.\n\n미국애견협회(AKC)에 따르면 사모예드의 트레이드마크인 올라간 입꼬리(사미 스마일)는 침이 덜 흐르게 해서 추운 시베리아에서 얼굴에 고드름이 생기지 않게 도와준다고 합니다.\n\n여러분 집 강아지는 옷 입혀 주면 어떤가요?\n\n영상: YouTube @Wanderlust Samoyed (원작자 채널)\n참고: AKC(American Kennel Club)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #사모예드 #강아지 #강아지쇼츠 #댕댕이 #강아지머리띠 #귀여운강아지\n\n출처: YouTube Wanderlust Samoyed - Running into the cozy season 2026-10-14, AKC - 10 Things You Probably Didn't Know About the Smiling Samoyed 2026-11\n사진·영상: YouTube @Wanderlust Samoyed\n음성: Typecast\n\n#shorts #사모예드 #samoyed #강아지머리띠 #강아지쇼츠",
@@ -44,10 +44,6 @@
   "synthetic": false,
   "channel": null
  },
- "draft_hash": "5615f4a14733",
- "tg_msg": 2098,
- "decided_at": "2026-11-08T19:11:34.907943+09:00",
- "yt_id": "nm3msDfLahU",
- "permalink": "https://youtube.com/shorts/nm3msDfLahU",
- "published_at": "2026-11-08T19:11:43.190462+09:00"
+ "draft_hash": "877dc094c3b5",
+ "tg_msg": 2107
 }

@@ -1,4 +1,4 @@
-[h264 @ 0x55edd1485380] mmco: unref short failure
+[h264 @ 0x5574a7552800] mmco: unref short failure
     Last message repeated 1 times
 장면 1/5 silent 누적 3.0초
 장면 2/5 typecast 누적 5.6초
