@@ -3,8 +3,8 @@
  "slot": "lunch",
  "slot_label": "점심",
  "status": "pending",
- "created_at": "2026-11-08T11:28:27.789492+09:00",
- "publish_at": "2026-11-08T11:23:02+09:00",
+ "created_at": "2026-11-08T11:35:58.246430+09:00",
+ "publish_at": "2026-11-08T11:30:58+09:00",
  "topic": "트럼프, UFC 회장 데이나 화이트에 백악관 대변인 제안 + UFC 챔피언 6명 호출",
  "category": "국제 이슈(미국 정치)",
  "core": "현지 11.7 트루스소셜: \"the Great Dana White, a violent Fighter and Warrior, has been offered the job of Press Secretary\", \"Dana, please take the job!\", \"We need these people to defend us against the Lunatic Left.\" 하빕·마카체프·게이치·코미어·누네스·해리슨(트럼프 표기 Kayla Harris) 함께 호출. 화이트는 브리핑룸 연단 사진(AI 추정)+\"다음 장으로\", 수락 발언 없음. 중간선거(11.3) 참패 나흘 뒤, 같은 날 비서실장 와일스→밀러. 대변인 10.16부터 공석. 6월 80번째 생일 백악관 남쪽 잔디밭 UFC. 백악관은 농담 여부 무응답(AP).",
@@ -32,7 +32,7 @@
  ],
  "slides": [
   {
-   "t": "백악관 대변인에 UFC 회장 부른 트럼프\n'\"미친 좌파\"'로부터 지켜라",
+   "t": "백악관 대변인에 UFC 회장 부른 트럼프\n'\"미친 좌파로부터 우리를 지켜야\"'",
    "b": ""
   },
   {
@@ -81,5 +81,5 @@
   "media/20261108-trump-ufc/07.jpg",
   "media/20261108-trump-ufc/08.jpg"
  ],
- "tg_msg": 2042
+ "tg_msg": 2051
 }
