@@ -1,7 +1,7 @@
 {
  "id": "20261108-bushby",
  "kind": "short",
- "status": "pending",
+ "status": "manual",
  "created_at": "2026-11-08T14:53:59.863050+09:00",
  "publish_at": "2026-11-08T14:53:59.863066+09:00",
  "publish_now": true,
@@ -33,5 +33,6 @@
   "channel": "shop"
  },
  "app_file": "media/20261108-bushby/short_card_nomusic.mp4",
- "tg_msg": 2093
+ "tg_msg": 2093,
+ "decided_at": "2026-11-08T19:11:40.460692+09:00"
 }
