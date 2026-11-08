@@ -2,27 +2,98 @@
  {
   "id": "20261108-hanfu",
   "slot": "evening",
-  "mode": "collect",
-  "limit": 30,
+  "mode": "send",
   "topic": "쿠팡·네이버·G마켓·11번가 '한복=한푸' 혼용 판매 (서경덕 11.8)",
-  "image_pages": [
-   "https://www.sidae.com/article/2026110810194011810",
-   "https://m.inews24.com/v/2023811",
-   "https://www.segye.com/newsView/20261108504257",
-   "https://biz.heraldcorp.com/article/10929446",
-   "https://www.hankyung.com/article/2026110826197",
-   "https://www.asiae.co.kr/article/2026110809240900836",
-   "https://www.hankookilbo.com/news/article/A2026110809480003738",
-   "https://www.kado.net/news/articleView.html?idxno=2083213",
-   "https://www.gukjenews.com/news/articleView.html?idxno=3745336",
-   "https://www.m-i.kr/news/articleView.html?idxno=2015742",
-   "https://www.koreadaily.com/article/20261017165305710",
-   "https://supple.kr/news/cmvbnlpg70018yj9kjfk76hb4",
-   "https://www.dt.co.kr/article/11564284",
-   "https://www.nocutnews.co.kr/news/6409494",
-   "https://m.dailian.co.kr/news/view/1193225"
+  "emotion": "분노(중국 앱도 아닌 우리 쇼핑몰이, 그것도 3년째)",
+  "images": [
+   "cap01",
+   "cap02",
+   "press22",
+   "press21",
+   "tl01",
+   "press20",
+   "cap01"
   ],
-  "slides": [{"lay":"one","t":"수집\n수집"}],
-  "images": []
+  "slides": [
+   {
+    "lay": "one",
+    "t": "중국 앱 얘기가 아닙니다\n쿠팡·네이버도 '한복=한푸'"
+   },
+   {
+    "sub": "11월 8일 · 서경덕 교수 공개",
+    "t": "상품명에 '한푸'와 '한복'을 나란히",
+    "b": "쿠팡·네이버·G마켓·11번가에서 중국 전통옷 한푸가\n한복과 같은 옷처럼 표기돼 팔리고 있었습니다."
+   },
+   {
+    "sub": "중국은 이미 이렇게 말합니다",
+    "t": "\"한복은 '한푸'에서 왔다\"",
+    "b": "바이두 백과사전은 한복을 '조선족 복식'으로 소개합니다.\n알리익스프레스엔 '중국 한복' 코너까지 생겨 논란이 됐습니다."
+   },
+   {
+    "sub": "지난달 · 경복궁",
+    "t": "경복궁에서 한푸 입고 '중국 문화' 홍보",
+    "b": "중국 인플루언서가 한푸 차림으로 경복궁을 배경으로\n\"중국 문화를 알리자\"는 취지의 영상을 찍어 논란이 됐습니다."
+   },
+   {
+    "raw": true
+   },
+   {
+    "sub": "쇼핑몰 쪽 사정",
+    "t": "판매자가 올렸어도 '플랫폼 책임'",
+    "b": "대부분 판매자가 직접 올리는 오픈마켓입니다.\n서 교수는 그래도 꾸준히 걸러냈어야 했다고 지적했습니다."
+   },
+   {
+    "t": "플랫폼도 '책임'에서\n자유로울 수 없다",
+    "b": "한복 아끼는 친구에게 보내주세요"
+   }
+  ],
+  "caption": "[국내 1등 쇼핑몰에서 '한복=한푸'로 팔고 있었습니다]\n\n서경덕 성신여대 교수는 8일 SNS를 통해 쿠팡·네이버·G마켓·11번가 등 국내 주요 온라인 쇼핑몰에서 한복과 중국 전통 의상 '한푸'를 같은 옷처럼 표기하거나 섞어서 판매하는 사례가 있다고 밝혔습니다. 공개된 화면에는 중국풍 의상 상품명에 '한푸'와 '한복'이 나란히 적혀 있습니다.\n\n처음이 아닙니다. 2023년 1월 쿠팡·G마켓 등에서 '당나라 스타일 한복'이, 2025년 추석에는 네이버·쿠팡에서 '중국 스타일 한복'이 지적됐습니다. 중국 바이두 백과사전은 한복을 '조선족 복식'으로 소개하고 있고, 지난달에는 중국 인플루언서가 경복궁에서 한푸를 입고 중국 문화를 알리자는 영상을 찍어 논란이 됐습니다.\n\n쇼핑몰 대부분은 판매자가 직접 상품을 올리는 오픈마켓 구조입니다. 서 교수는 \"중국풍 옷을 판매하지 말자는 얘기가 아니다\"라며 플랫폼이라도 꾸준한 모니터링으로 이런 일을 막았어야 했고, 이런 상황이 중국 측에 또 하나의 빌미를 준다고 지적했습니다.\n\n판매자 탓으로 넘길 일일까요, 쇼핑몰이 나서야 할 일일까요?\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "hashtags": [
+   "한복",
+   "한푸",
+   "한복공정",
+   "서경덕",
+   "오늘의쓸모"
+  ],
+  "sources": [
+   {
+    "publisher": "한국경제",
+    "date": "2026.11.08",
+    "url": "https://www.hankyung.com/article/2026110826197"
+   },
+   {
+    "publisher": "헤럴드경제",
+    "date": "2026.11.08",
+    "url": "https://biz.heraldcorp.com/article/10929446"
+   },
+   {
+    "publisher": "아이뉴스24",
+    "date": "2026.11.08",
+    "url": "https://m.inews24.com/v/2023811"
+   },
+   {
+    "publisher": "데일리안",
+    "date": "2023.01.16",
+    "url": "https://m.dailian.co.kr/news/view/1193225"
+   },
+   {
+    "publisher": "아주경제",
+    "date": "2025.10.02",
+    "url": "https://www.ajunews.com/view/20251002135610073"
+   },
+   {
+    "publisher": "연합뉴스",
+    "date": "2026.10.17",
+    "url": "https://supple.kr/news/cmvbnlpg70018yj9kjfk76hb4"
+   }
+  ],
+  "credits": [
+   "표지·2장: 서경덕 교수 SNS(판매자명 가림)",
+   "3장: 서경덕 교수 SNS(디지털타임스)",
+   "4장: 서경덕 교수 SNS(중앙일보)",
+   "6장: 매일일보"
+  ],
+  "publish_at": "2026-11-08T21:00:00+09:00",
+  "approved": true
  }
 ]
