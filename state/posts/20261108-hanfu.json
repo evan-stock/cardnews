@@ -2,7 +2,7 @@
  "id": "20261108-hanfu",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-08T20:14:26.034250+09:00",
  "publish_at": "2026-11-08T21:00:00+09:00",
  "topic": "쿠팡·네이버·G마켓·11번가 '한복=한푸' 혼용 판매 (서경덕 11.8)",
@@ -84,5 +84,8 @@
   "media/20261108-hanfu/06.jpg",
   "media/20261108-hanfu/07.jpg"
  ],
- "tg_msg": 2117
+ "tg_msg": 2117,
+ "ig_media_id": "18126685579926483",
+ "permalink": "https://www.instagram.com/p/DfetTuCmxke/",
+ "published_at": "2026-11-08T21:01:50.988204+09:00"
 }
