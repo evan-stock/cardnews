@@ -1,0 +1,69 @@
+{
+ "id": "20261108-t18b",
+ "finished_at": "2026-11-08T18:24:17+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/QETkOG7zaPo",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-t18b/video/y1.mp4",
+   "audio": "media/20261108-t18b/video/y1_audio.m4a",
+   "mb": 11.5,
+   "view_count": 15446615,
+   "title": "Running into the cozy season 🎃😍 #headbands #dog #samoyed #halloween #autumn"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/FtMJQ78nchc",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-t18b/video/y2.mp4",
+   "audio": "media/20261108-t18b/video/y2_audio.m4a",
+   "mb": 2.0,
+   "view_count": 4017765,
+   "title": "The Hidden Side of my Hamster 🐹😂 #shorts #funny #scary #hamster #viral"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/QZ1ln65dh5E",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-t18b/video/y3.mp4",
+   "audio": "media/20261108-t18b/video/y3_audio.m4a",
+   "mb": 52.6,
+   "error": "재시도 실패",
+   "view_count": 873369,
+   "title": "She Got The Angriest Kitten 😂"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/F_4-UnIW7wU",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-t18b/video/y4.mp4",
+   "audio": "media/20261108-t18b/video/y4_audio.m4a",
+   "mb": 55.0,
+   "error": "재시도 실패",
+   "view_count": 995621,
+   "title": "Bro always got food spawning in for him 😂 #dog #funny #viral #funnydogs"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/UcbRW-BZzXg",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-t18b/video/y5.mp4",
+   "audio": "media/20261108-t18b/video/y5_audio.m4a",
+   "mb": 74.3,
+   "error": "재시도 실패",
+   "view_count": 889126,
+   "title": "Husky Tries to Ignore This Tiny Kitten… His Reaction Is PRICELESS!"
+  }
+ ]
+}
