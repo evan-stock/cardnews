@@ -2,8 +2,8 @@
  "id": "20261108-t18",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본: YouTube 원작자 본인 채널 Wanderlust Samoyed 'Running into the cozy season'(2026.10.14, 1,545만 회·6.7만 좋아요). 주인이 핼러윈 머리띠·모자를 들고 서 있으면 사모예드가 멀리서 달려와 스스로 머리를 쏙 넣는 장면 5번(호박→박쥐 날개→박쥐 망토→마녀 모자→악마 뿔). 원본 글자 없음(크롭·흐림·상자 없음). 원본에 덧입힌 음악 살림(우리 bgm 없음), 사람 말소리 없음. 되감기 안 씀(16.7초 원본을 순서대로 한 번). 사실: AKC '10 things you probably didn't know about the smiling Samoyed' — 올라간 입꼬리(사미 스마일) 덕에 침이 덜 흘러 얼굴에 고드름이 생기지 않는다.",
- "bgm_volume": 0,
+ "topic": "한 원본: YouTube 원작자 본인 채널 Wanderlust Samoyed 'Running into the cozy season'(2026.10.14, 1,545만 회·6.7만 좋아요). 주인이 핼러윈 머리띠·모자를 들고 서 있으면 사모예드가 멀리서 달려와 스스로 머리를 쏙 넣는 장면 5번(호박→박쥐 날개→박쥐 망토→마녀 모자→악마 뿔). 원본 글자 없음(크롭·흐림·상자 없음). 원본에 동물 소리가 없어 원본 소리(덧입힌 음악) 전부 끄고 우리 bgm curious_kitten 2.5 (11.08 18:50 사용자 지시), 사람 말소리 없음. 되감기 안 씀(16.7초 원본을 순서대로 한 번). 사실: AKC '10 things you probably didn't know about the smiling Samoyed' — 올라간 입꼬리(사미 스마일) 덕에 침이 덜 흘러 얼굴에 고드름이 생기지 않는다.",
+ "bgm_volume": 2.5,
  "sfx_max": 3,
  "style": {
   "band": 480,
@@ -37,7 +37,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0.7
+    "audio": 0
    },
    "caps": [
     {
@@ -69,7 +69,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0.35
+    "audio": 0
    },
    "caps": [
     {
@@ -91,7 +91,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0.6
+    "audio": 0
    },
    "caps": [
     {
@@ -121,7 +121,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0.35
+    "audio": 0
    },
    "caps": []
   },
@@ -133,7 +133,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0.6
+    "audio": 0
    },
    "caps": [
     {
@@ -171,5 +171,7 @@
    "털뭉치"
   ]
  },
- "publish_now": true
+ "publish_now": true,
+ "bgm": "assets/bgm/worthy/curious_kitten.mp3",
+ "bgm_start": 11.0
 }
