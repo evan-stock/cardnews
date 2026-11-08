@@ -1,0 +1,22 @@
+{
+ "src": "fxtwitter",
+ "author": "USATODAY",
+ "name": "USA TODAY",
+ "date": "Fri Feb 19 04:16:00 +0000 2021",
+ "text": "Synchronized snow-plowing. That's it. That's the tweet.",
+ "views": null,
+ "likes": 200,
+ "retweets": 46,
+ "quote": null,
+ "url": "https://x.com/usatoday/status/1362616901818585095",
+ "id": "1362616901818585095",
+ "videos": [
+  {
+   "url": "https://video.twimg.com/amplify_video/1361700715320774657/vid/720x720/uQD6slDt8irkx_cO.mp4?tag=13",
+   "w": 1080,
+   "h": 1080,
+   "dur": 30.764
+  }
+ ],
+ "errors": []
+}
