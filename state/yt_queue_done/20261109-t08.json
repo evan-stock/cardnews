@@ -1,0 +1,55 @@
+{
+ "id": "20261109-t08",
+ "finished_at": "2026-11-09T08:16:18+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/ZshhaZLlqKU",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-t08/video/y1.mp4",
+   "audio": "media/20261109-t08/video/y1_audio.m4a",
+   "mb": 1.9,
+   "view_count": 3895403,
+   "title": "Puppy’s reaction insane"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/s9pFVI9J4VE",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-t08/video/y2.mp4",
+   "audio": "media/20261109-t08/video/y2_audio.m4a",
+   "mb": 50.0,
+   "error": "재시도 실패",
+   "view_count": 3056625,
+   "title": "My golden retriever does NOT play around when it comes to Julia my hometown bestfriend (his gf) 🤣😭"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/PPSF5ebAx0w",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-t08/video/y3.mp4",
+   "audio": "media/20261109-t08/video/y3_audio.m4a",
+   "mb": 4.1,
+   "view_count": 1476810,
+   "title": "Puppy meets a singing birthday candle for the first time #goldenretriever #puppy"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/6NTo2L7bc8I",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-t08/video/y4.mp4",
+   "audio": "media/20261109-t08/video/y4_audio.m4a",
+   "mb": 2.9,
+   "view_count": 1408747,
+   "title": "Mad Jealous Cat"
+  }
+ ]
+}
