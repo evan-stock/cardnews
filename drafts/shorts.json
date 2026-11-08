@@ -1,9 +1,9 @@
 {
- "id": "20261108-t18",
+ "id": "20261109-t08",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본: YouTube 원작자 본인 채널 Wanderlust Samoyed 'Running into the cozy season'(2026.10.14, 1,545만 회·6.7만 좋아요). 주인이 핼러윈 머리띠·모자를 들고 서 있으면 사모예드가 멀리서 달려와 스스로 머리를 쏙 넣는 장면 5번(호박→박쥐 날개→박쥐 망토→마녀 모자→악마 뿔). 원본 글자 없음(크롭·흐림·상자 없음). 원본에 동물 소리가 없어 원본 소리(덧입힌 음악) 전부 끄고 우리 bgm curious_kitten 2.5 (11.08 18:50 사용자 지시), 사람 말소리 없음. 되감기 안 씀(16.7초 원본을 순서대로 한 번). 사실: AKC '10 things you probably didn't know about the smiling Samoyed' — 올라간 입꼬리(사미 스마일) 덕에 침이 덜 흘러 얼굴에 고드름이 생기지 않는다.",
- "bgm_volume": 2.5,
+ "topic": "한 원본: YouTube Pawfect Moments 'Puppy's reaction insane'(2026.10.18, 389만 회, 15초 720p). 아기 골든리트리버가 발톱 깎기 중 얌전히 있다가 5.6초부터 고개를 젖히고 길게 '아우우~' 울고, 10초 뒤로 짧게 낑낑·왕왕 항의. 원본 위 캡션 'She is the biggest Drama Queen In our house'는 크롭(y 0.66)으로 화면 밖으로. 원본 소리(동물 울음·발톱깎이 딸깍) 전부 살림, 덧입힌 음악 없음, 사람 말소리 없음. 되감기 안 씀(0.5~15초를 순서대로 한 번). 사실: AKC 'How to Trim Your Dog's Nails at Home' — 발톱 속 '퀵'에 혈관과 신경이 있고, 아기 때부터 발을 자주 만져 주면 발톱 깎기에 익숙해진다.",
+ "bgm_volume": 0.5,
  "sfx_max": 3,
  "style": {
   "band": 480,
@@ -11,163 +11,172 @@
   "sub_y": 0.87
  },
  "hook": {
-  "t": "머리띠만 들고 서 있으면\n'알아서 머리 넣으러 오는 사모예드ㅋㅋ'"
+  "t": "발톱 딱 하나 깎았을 뿐인데\n'온 동네 떠나가게 우는 아기 골댕이ㅋㅋ'"
  },
  "photo_credits": [
-  "YouTube @Wanderlust Samoyed"
+  "YouTube @Pawfect Moments"
  ],
  "sources": [
   {
-   "publisher": "YouTube Wanderlust Samoyed - Running into the cozy season",
-   "url": "https://www.youtube.com/shorts/QETkOG7zaPo",
-   "date": "2026-10-14"
+   "publisher": "YouTube Pawfect Moments - Puppy's reaction insane",
+   "url": "https://www.youtube.com/shorts/ZshhaZLlqKU",
+   "date": "2026-10-18"
   },
   {
-   "publisher": "AKC - 10 Things You Probably Didn't Know About the Smiling Samoyed",
-   "url": "https://www.akc.org/expert-advice/lifestyle/10-things-you-probably-didnt-know-about-the-smiling-samoyed/",
+   "publisher": "AKC - How to Trim Your Dog's Nails at Home",
+   "url": "https://www.akc.org/expert-advice/health/how-to-trim-dogs-nails-safely/",
    "date": "2026-11"
   }
  ],
  "scenes": [
   {
-   "dur": 3.0,
+   "dur": 2.5,
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.0,
+    "start": 0.5,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0
+    "y": 0.66,
+    "audio": 1.0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(다다다다)",
+     "t": "(초롱초롱)",
      "x": 0.5,
-     "y": 0.62,
-     "at": 0.3,
-     "to": 1.6,
-     "s": "whoosh",
-     "sv": 0.7
+     "y": 0.6,
+     "at": 0.1,
+     "to": 1.4,
+     "s": "sparkle",
+     "sv": 0.6
     },
     {
      "k": "talk",
-     "t": "나 불렀지?!",
+     "t": "살... 살살 해줘",
      "x": 0.5,
      "y": 0.87,
-     "at": 1.8,
-     "to": 3.0,
+     "at": 0.6,
+     "to": 2.5,
      "size": 84
     }
    ]
   },
   {
-   "say": "다른 머리띠를 들자, 또 알아서 달려옵니다.",
+   "say": "발톱 딱 하나, 깎았을 뿐인데요.",
    "video": {
     "src": "video/v1.mp4",
     "start": 3.0,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0
+    "y": 0.66,
+    "audio": 0.4
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(쏙)",
-     "x": 0.5,
-     "y": 0.25,
-     "at": 2.3,
+     "t": "(딸깍)",
+     "x": 0.3,
+     "y": 0.75,
+     "at": 0.3,
      "s": "pop",
-     "sv": 0.8
+     "sv": 0.6
     }
    ]
   },
   {
-   "dur": 3.0,
+   "dur": 4.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 7.0,
+    "start": 5.5,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0
+    "y": 0.66,
+    "audio": 1.2
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "이번엔 박쥐 망토",
+     "k": "sfx",
+     "t": "(아우우우우~~)",
      "x": 0.5,
-     "y": 0.07,
-     "at": 0.0,
-     "to": 3.0
+     "y": 0.6,
+     "at": 0.2,
+     "to": 4.6
     },
     {
      "k": "talk",
-     "t": "구멍 찾았다!",
+     "t": "엄마가 나 아프게 했어!!",
      "x": 0.5,
      "y": 0.87,
-     "at": 1.6,
-     "to": 3.0,
-     "size": 84
+     "at": 1.8,
+     "to": 4.6,
+     "size": 80
     }
    ]
   },
   {
-   "say": "모자를 내밀어도, 망설임이 없습니다.",
+   "dur": 2.5,
    "video": {
     "src": "video/v1.mp4",
-    "start": 10.0,
+    "start": 10.1,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0
+    "y": 0.66,
+    "audio": 1.2
    },
-   "caps": []
+   "caps": [
+    {
+     "k": "talk",
+     "t": "온 동네에 다 말할 거야!!",
+     "x": 0.5,
+     "y": 0.87,
+     "at": 0.0,
+     "to": 2.5,
+     "size": 80
+    }
+   ]
   },
   {
-   "dur": 3.5,
+   "dur": 2.4,
    "video": {
     "src": "video/v1.mp4",
-    "start": 13.0,
+    "start": 12.6,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0
+    "y": 0.66,
+    "audio": 1.2
    },
    "caps": [
     {
      "k": "desc",
-     "t": "올라간 입꼬리 덕에 침이 덜 흘러\n얼굴에 고드름이 안 생긴대요 (AKC)",
+     "t": "아기 때부터 발을 자주 만져 주면\n발톱 깎기에 익숙해진대요 (AKC)",
      "x": 0.5,
-     "y": 0.07,
+     "y": 0.1,
      "at": 0.0,
-     "to": 3.5
+     "to": 2.4
     },
     {
      "k": "talk",
-     "t": "악마 아니고 천사임",
+     "t": "(사실 하나도 안 아픔)",
      "x": 0.5,
      "y": 0.87,
-     "at": 1.4,
-     "to": 3.5,
-     "size": 80,
-     "s": "ding",
-     "sv": 0.7
+     "at": 0.6,
+     "to": 2.4,
+     "size": 76
     }
    ]
   }
  ],
  "yt": {
-  "title": "머리띠만 들고 있으면 알아서 머리 넣으러 오는 사모예드ㅋㅋ #shorts",
-  "description": "호박, 박쥐 날개, 망토, 마녀 모자, 악마 뿔까지... 들고만 있으면 멀리서 달려와 스스로 머리를 쏙 넣는 사모예드ㅋㅋ 표정 보면 본인이 제일 신났어요.\n\n미국애견협회(AKC)에 따르면 사모예드의 트레이드마크인 올라간 입꼬리(사미 스마일)는 침이 덜 흐르게 해서 추운 시베리아에서 얼굴에 고드름이 생기지 않게 도와준다고 합니다.\n\n여러분 집 강아지는 옷 입혀 주면 어떤가요?\n\n영상: YouTube @Wanderlust Samoyed (원작자 채널)\n참고: AKC(American Kennel Club)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #사모예드 #강아지 #강아지쇼츠 #댕댕이 #강아지머리띠 #귀여운강아지",
+  "title": "발톱 하나 깎았을 뿐인데 온 동네 떠나가게 우는 아기 골댕이ㅋㅋ #shorts",
+  "description": "발톱깎이 딸깍 한 번에 고개 젖히고 '아우우우~' 대성통곡하는 아기 골든리트리버ㅋㅋ 아픈 게 아니라 그냥 억울한 거예요.\n\n미국애견협회(AKC)에 따르면 강아지 발톱 속 분홍색 부분(퀵)에는 혈관과 신경이 있어서 끝만 조금씩 깎아야 하고, 아기 때부터 발을 자주 만져 주고 간식으로 칭찬해 주면 커서도 발톱 깎기에 익숙해진다고 합니다.\n\n여러분 집 강아지도 발톱 깎을 때 이렇게 엄살 부리나요?\n\n영상: YouTube @Pawfect Moments\n참고: AKC(American Kennel Club)\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #골든리트리버 #아기골댕이 #강아지 #강아지쇼츠 #댕댕이 #강아지발톱",
   "tags": [
-   "사모예드",
-   "samoyed",
-   "강아지머리띠",
+   "골든리트리버",
+   "아기골댕이",
+   "골댕이",
+   "golden retriever puppy",
+   "강아지발톱",
    "강아지쇼츠",
    "댕댕이",
-   "귀여운강아지",
    "털뭉치"
   ]
  },
