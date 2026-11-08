@@ -1,8 +1,1 @@
-[h264 @ 0x5574a7552800] mmco: unref short failure
-    Last message repeated 1 times
-장면 1/5 silent 누적 3.0초
-장면 2/5 typecast 누적 5.6초
-장면 3/5 silent 누적 8.6초
-장면 4/5 typecast 누적 11.1초
-장면 5/5 silent 누적 14.6초
-완성: /home/runner/work/cardnews/cardnews/media/20261108-t18/short.mp4 (14.6초, TTS ['silent', 'typecast'])
+이미 보낸 원고(변경 없음) → 건너뜀: 20261108-t18 pending
