@@ -1,0 +1,54 @@
+{
+ "id": "20261108-wy3",
+ "finished_at": "2026-11-08T20:27:52+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=sU-9JucyCQI",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wy3/video/y1.mp4",
+   "audio": "media/20261108-wy3/video/y1_audio.m4a",
+   "mb": 5.7,
+   "view_count": 15334,
+   "title": "Methane flare from a lake in Fairbanks, Alaska"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=NHsyG7Fbyug",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wy3/video/y2.mp4",
+   "audio": "media/20261108-wy3/video/y2_audio.m4a",
+   "mb": 8.3,
+   "view_count": 70576,
+   "title": "Playing With Methane Gas Bubbles on a Frozen Lake(Without Music)"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=0baROKLlh8c",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wy3/video/y3.mp4",
+   "audio": "media/20261108-wy3/video/y3_audio.m4a",
+   "mb": 11.0,
+   "view_count": 6016,
+   "title": "Introducing the Barnacle: parking enforcement tool."
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=hKbBTDh1zlg",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wy3/video/y4.mp4",
+   "audio": "media/20261108-wy3/video/y4_audio.m4a",
+   "mb": 8.0,
+   "view_count": 96893,
+   "title": "OU Parking Services introduces The Barnacle"
+  }
+ ]
+}
