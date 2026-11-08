@@ -1,139 +1,28 @@
 [
  {
-  "id": "20261108-texasblue",
+  "id": "20261108-hanfu",
   "slot": "evening",
-  "mode": "send",
-  "topic": "2026 중간선거 텍사스 민주당 압승의 이유(농가 2연타·데이터센터 반발·머스크 전패)",
-  "emotion": "놀람(30년 철옹성이 뒤집혔다) + 남 일 아님(결국 먹고사는 문제)",
-  "images": [
-   "cv_url01",
-   "s02",
-   "fill_talarico",
-   "s04",
-   "s05",
-   "cv_url02",
-   "press13",
-   "fill_hinojosa",
-   "fill_dc",
-   "cv_url01"
+  "mode": "collect",
+  "limit": 30,
+  "topic": "쿠팡·네이버·G마켓·11번가 '한복=한푸' 혼용 판매 (서경덕 11.8)",
+  "image_pages": [
+   "https://www.sidae.com/article/2026110810194011810",
+   "https://m.inews24.com/v/2023811",
+   "https://www.segye.com/newsView/20261108504257",
+   "https://biz.heraldcorp.com/article/10929446",
+   "https://www.hankyung.com/article/2026110826197",
+   "https://www.asiae.co.kr/article/2026110809240900836",
+   "https://www.hankookilbo.com/news/article/A2026110809480003738",
+   "https://www.kado.net/news/articleView.html?idxno=2083213",
+   "https://www.gukjenews.com/news/articleView.html?idxno=3745336",
+   "https://www.m-i.kr/news/articleView.html?idxno=2015742",
+   "https://www.koreadaily.com/article/20261017165305710",
+   "https://supple.kr/news/cmvbnlpg70018yj9kjfk76hb4",
+   "https://www.dt.co.kr/article/11564284",
+   "https://www.nocutnews.co.kr/news/6409494",
+   "https://m.dailian.co.kr/news/view/1193225"
   ],
-  "slides": [
-   {
-    "lay": "one",
-    "t": "미국의 대구·경북, 텍사스\n30년 만에 뒤집힌 '진짜 이유'"
-   },
-   {
-    "raw": true
-   },
-   {
-    "sub": "11월 3일 미국 중간선거",
-    "t": "그런데 '파랗게' 뒤집혔다",
-    "b": "상원의원·주지사 모두 민주당이 가져갔습니다.\n상원은 1988년, 주지사는 1990년 이후 처음입니다."
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "sub": "이유 3. 농지 → 데이터센터",
-    "t": "망한 농민 땅, 'AI 기업'이 쓸어 담았다",
-    "b": "구글은 농장 옆에 450만 평, 아마존은 160만 평을 사들였습니다.\n공화당 농업국장도 \"가장 비옥한 농지부터 노린다\"고 했습니다."
-   },
-   {
-    "sub": "시골의 분노",
-    "t": "시골 유권자 '60%' 반대",
-    "b": "물·전기·땅을 뺏길까 시골 유권자 60%가 데이터센터에 반대했고,\n텍사스 농민연합은 건설 전면 중단을 요구했습니다."
-   },
-   {
-    "sub": "표로 돌아왔다",
-    "t": "'데이터센터 중단' 내건 민주당 승리",
-    "b": "공화당 현직 주지사는 \"AI의 중심지\"를 외치다 뒤늦게 유턴했고,\n민주당 후보는 신규 데이터센터 전면 중단을 약속했습니다."
-   },
-   {
-    "sub": "후폭풍",
-    "t": "데이터센터 계획 '41%' 멈출 위기",
-    "b": "민주당이 이긴 5개 주에 미국 데이터센터 계획 41%가 몰려 있습니다.\n텍사스 한 곳만 27%입니다."
-   },
-   {
-    "t": "'트럼프 텃밭'을 뒤집은 건\n결국 '먹고사는 문제'였다",
-    "b": "미국 정치 궁금한 친구에게 보내주세요"
-   }
-  ],
-  "caption": "[트럼프 찍던 텍사스 농민들, 왜 돌아섰나]\n\n지난 3일 미국 중간선거에서 텍사스는 연방상원의원과 주지사를 모두 민주당에 내줬습니다. 민주당 상원의원은 1988년 이후, 주지사는 1990년 이후 처음입니다. 텍사스에서 민주당이 주 전체 선거를 이긴 건 1994년 이후 처음입니다.\n\n공화당을 떠받치던 시골 농가가 연달아 타격을 입었습니다. 관세 전쟁 중 중국이 몇 달간 미국산 콩 구매를 멈췄고, 2월 말 이란 전쟁이 시작된 뒤 경유값은 6주 만에 46%, 요소비료는 약 40% 올랐습니다. 트럼프의 최측근 머스크가 이끈 정부효율부(DOGE)는 2025년 2월 해외 원조 기관 USAID를 닫았는데, USAID는 해마다 미국 농산물 약 20억 달러어치를 사서 원조에 써 온 '큰손님'이었습니다.\n\n버티지 못한 농가는 땅을 내놓기 시작했고, 그 땅을 AI 기업들이 쓸어 담았습니다. 구글은 텍사스 해스켈의 농장 옆에 1단계만 3,700에이커(약 450만 평) 규모 데이터센터를 짓고 있고, 아마존은 오스틴 외곽에서 1,300에이커(약 160만 평)를 사들였습니다. 공화당 소속 농업국장조차 개발사들이 가장 비옥한 농지를 노린다고 경고했습니다. 8월 여론조사에서 시골 유권자 60%가 동네 데이터센터에 반대했고, 민주당 주지사 후보는 신규 데이터센터 전면 중단을 공약으로 내걸었습니다.\n\n여러분은 표심을 움직인 게 '이념'이었다고 보시나요, '지갑'이었다고 보시나요?\n\n미국 정치 궁금한 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
-  "hashtags": [
-   "텍사스",
-   "미국중간선거",
-   "머스크",
-   "데이터센터",
-   "오늘의쓸모"
-  ],
-  "sources": [
-   {
-    "publisher": "Texas Tribune",
-    "date": "2026.11.03",
-    "url": "https://www.texastribune.org/2026/11/03/texas-midterms-2026-elections-live-blog/"
-   },
-   {
-    "publisher": "NBC DFW",
-    "date": "2026.11.04",
-    "url": "https://www.nbcdfw.com/news/local/election-recap-talarico-hinojosa-score-major-victories-in-texas-amid-historic-blue-wave/4101270/"
-   },
-   {
-    "publisher": "Texas Tribune",
-    "date": "2026.08.27",
-    "url": "https://www.texastribune.org/2026/08/27/texas-agriculture-data-centers/"
-   },
-   {
-    "publisher": "CNBC",
-    "date": "2026.09.23",
-    "url": "https://www.cnbc.com/2026/09/23/texas-data-centers-election.html"
-   },
-   {
-    "publisher": "Farm Futures",
-    "date": "2026.04.07",
-    "url": "https://farmfutures.pl.barchart.com/mobile/news/commentary/story/1169682"
-   },
-   {
-    "publisher": "Star Tribune",
-    "date": "2025.02",
-    "url": "https://www.startribune.com/usaid-shuttering-cargill-chs-contracts/601218218"
-   },
-   {
-    "publisher": "DTN",
-    "date": "2025.03.10",
-    "url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2025/03/10/usda-contract-freezes-continue-local"
-   },
-   {
-    "publisher": "한국경제(블루밍비트)",
-    "date": "2026.11.05",
-    "url": "https://bloomingbit.io/feed/news/123741"
-   },
-   {
-    "publisher": "Spectrum News",
-    "date": "2026.04.15",
-    "url": "https://spectrumlocalnews.com/tx/austin/news/2026/04/15/texas-agriculture-commissioner-candidate-on-data-centers"
-   },
-   {
-    "publisher": "WJLA(TNND)",
-    "date": "2026",
-    "url": "https://wjla.com/news/nation-world/data-center-boom-targets-texas-most-productive-farmland-fueling-power-clashes-resources-industry-governor-abbott"
-   },
-   {
-    "publisher": "The Real Deal(Austin Business Journal 인용)",
-    "date": "2026.05.07",
-    "url": "https://therealdeal.com/texas/2026/05/07/amazons-1000-acre-land-buy-deepens-texas-data-center-bench/"
-   }
-  ],
-  "credits": [
-   "WSJ(표지)",
-   "KUT",
-   "NBC DFW",
-   "The Economic Times",
-   "CNBC"
-  ],
-  "publish_at": "2026-11-08T17:00:00+09:00",
-  "approved": true
+  "slides": [{"lay":"one","t":"수집\n수집"}],
+  "images": []
  }
 ]
