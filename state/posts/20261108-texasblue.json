@@ -2,7 +2,7 @@
  "id": "20261108-texasblue",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-08T14:51:14.283626+09:00",
  "publish_at": "2026-11-08T17:00:00+09:00",
  "topic": "2026 중간선거 텍사스 민주당 압승의 이유(농가 2연타·데이터센터 반발·머스크 전패)",
@@ -124,5 +124,8 @@
   "media/20261108-texasblue/09.jpg",
   "media/20261108-texasblue/10.jpg"
  ],
- "tg_msg": 2091
+ "tg_msg": 2091,
+ "ig_media_id": "18132442489697069",
+ "permalink": "https://www.instagram.com/p/DfeR4H8ES3v/",
+ "published_at": "2026-11-08T17:02:08.025664+09:00"
 }
