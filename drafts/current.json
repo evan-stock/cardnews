@@ -7,7 +7,7 @@
   "emotion": "통쾌함+분노(예금자는 길바닥에서 울고, 대통령은 사표로 빠져나가려다 못 빠져나감)",
   "images": [
    "pena",
-   "uenobank",
+   "protest_ap",
    "giovanni",
    "bill",
    "wheel",
@@ -101,10 +101,10 @@
    }
   ],
   "credits": [
+   "뉴시스/AP",
    "Raúl Bogarín(@Raulbogarin, X) 영상",
    "파라과이 대통령 영상 담화(@AlertaNews24 경유)",
-   "@MundoEConflicto·@patobonato(X) 시위 영상",
-   "나무위키 '우에노 은행' 문서 캡처"
+   "@MundoEConflicto·@patobonato(X) 시위 영상"
   ],
   "publish_at": "2026-11-09T00:23:39+09:00"
  }
