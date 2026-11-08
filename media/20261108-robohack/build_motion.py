@@ -57,7 +57,7 @@ def layer(name):
 
 # ---------- s2 실험 영상 ----------
 def s2():
-    im, d = canvas('실제 실험 장면 · 미국 Robocurve, 11월 7일 공개', "명령은 단 하나\n'\"물체를 찔러라\"'")
+    im, d = canvas('실제 실험 영상 · 미국 Robocurve, 11월 7일 공개', "명령은 단 하나\n'\"물체를 찔러라\"'")
     pw, ph, gap = 460, 596, 20; y0 = 345
     x1 = P + pw + gap
     chip(d, P + 14, y0 + 14, 'AI가 본 화면', WH)
