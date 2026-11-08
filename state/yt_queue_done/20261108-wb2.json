@@ -1,0 +1,57 @@
+{
+ "id": "20261108-wb2",
+ "finished_at": "2026-11-08T14:37:43+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=uAmWw3v1LPc",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wb2/video/y1.mp4",
+   "audio": "media/20261108-wb2/video/y1_audio.m4a",
+   "mb": 49.6,
+   "error": "재시도 실패",
+   "view_count": 701,
+   "title": "Spirit of Adventure - Naming Ceremony Bottle Smash"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=8ygeIr0-jls",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wb2/video/y2.mp4",
+   "audio": "media/20261108-wb2/video/y2_audio.m4a",
+   "mb": 5.9,
+   "view_count": 919,
+   "title": "U.S. Navy Submarine New Jersey (SSN 796) Christened"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=uTVP8_ud1Tg",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wb2/video/y3.mp4",
+   "audio": "media/20261108-wb2/video/y3_audio.m4a",
+   "mb": 48.6,
+   "error": "재시도 실패",
+   "view_count": 44709,
+   "title": "How custom curved wood railings are bent and shipped using Bendywood® - 3 easy steps"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=q1k62yPisss",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-wb2/video/y4.mp4",
+   "audio": "media/20261108-wb2/video/y4_audio.m4a",
+   "mb": 63.5,
+   "error": "재시도 실패",
+   "view_count": 55113,
+   "title": "Bendywood® - Upwards bending of non-round wooden handrail"
+  }
+ ]
+}
