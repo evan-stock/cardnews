@@ -1,12 +1,4 @@
-[{"id":"20261108-texasblue","slot":"evening","mode":"collect","topic":"텍사스 중간선거 민주당 압승, 농민·데이터센터",
-"image_pages":[
-"https://www.kut.org/texas/2026-11-03/texas-nov-midterm-statewide-election-results",
-"https://www.texastribune.org/2026/11/03/texas-midterms-2026-elections-live-blog/",
-"https://www.nbcdfw.com/news/local/election-recap-talarico-hinojosa-score-major-victories-in-texas-amid-historic-blue-wave/4101270/",
-"https://www.ksat.com/news/local/2026/11/04/what-happened-in-the-nov-3-2026-historic-midterm-election-in-texas/",
-"https://www.texastribune.org/2026/08/27/texas-agriculture-data-centers/",
-"https://www.texastribune.org/2026/10/23/texas-rural-voters-data-centers-backlash-big-tech-2026-election/",
-"https://www.pbs.org/newshour/nation/democrats-seize-on-ai-data-center-backlash-thats-dividing-rural-republicans-in-places-like-texas",
-"https://www.insurancejournal.com/news/midwest/2026/06/04/872489.htm",
-"https://www.ibtimes.com/elon-musk-republican-midterm-losses-texas-3809379",
-"https://www.cnbc.com/2026/09/23/texas-data-centers-election.html"]}]
+[{"id":"20261108-texascv","slot":"evening","mode":"collect","topic":"텍사스 표지 후보",
+"image_urls":["https://images.wsj.net/im-980289?width=2400&size=1.33333333",
+"https://img.etimg.com/thumb/width-1200,height-900,imgsize-1710726,resizemode-75,msid-131606399/news/international/us/in-1999-a-texas-farmer-donated-87-acres-for-a-public-park-for-just-10-and-in-2025-the-city-sold-it-to-a-data-center-developer-for-10-million.jpg"],
+"image_pages":[]}]
