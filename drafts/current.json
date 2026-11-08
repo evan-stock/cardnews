@@ -1,12 +1,6 @@
-[
- {
-  "id": "20261107-parkyj",
-  "slot": "lunch",
-  "mode": "collect",
-  "topic": "박용진 규제합리화위 부위원장, 코스피 폭락일 KODEX200 매수 인증",
-  "image_urls": ["https://news.nateimg.co.kr/orgImg/se/2026/11/06/news-p.v1.20261106.c6cde8faeb59425e8e07d31d39358013_P1.png"],
-  "referer": "https://news.nate.com/",
-  "image_pages": ["https://news.nate.com/view/20261106n26480"],
-  "read_pages": ["https://news.nate.com/view/20261106n26480"]
- }
-]
+[{"id":"20261108-trump-ufc","slot":"lunch","mode":"collect","topic":"트럼프, UFC 회장 데이나 화이트에 백악관 대변인 제안",
+"image_pages":["https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+"https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+"https://m.sedaily.com/article/20111486",
+"https://en.wikipedia.org/wiki/Dana_White",
+"https://www.sportbible.com/mma/ufc/ufc-news/donald-trump-dana-white-request-ufc-white-house-300023-20260414"]}]
