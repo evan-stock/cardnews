@@ -2,7 +2,7 @@
  "id": "20261108-penaout",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-09T00:30:01.888909+09:00",
  "publish_at": "2026-11-09T00:23:39+09:00",
  "topic": "파라과이 우에노 은행 사태 2편: 페냐 대통령 사표 거부 → 상원 44:0 파면·가택연금 (2026.11.6)",
@@ -83,5 +83,6 @@
   "media/20261108-penaout/07.jpg",
   "media/20261108-penaout/08.jpg"
  ],
- "tg_msg": 2151
+ "tg_msg": 2151,
+ "decided_at": "2026-11-09T00:35:53.332694+09:00"
 }
