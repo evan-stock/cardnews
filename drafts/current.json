@@ -20,40 +20,16 @@
     "t": "사이버사이코 현실화?\n로봇 눈만 속여도 '칼' 든다"
    },
    {
-    "t": "",
-    "b": "",
-    "video": {
-     "src": "cand/s2.mp4",
-     "start": 0,
-     "dur": 10
-    }
+    "raw": true
    },
    {
-    "t": "",
-    "b": "",
-    "video": {
-     "src": "cand/s3.mp4",
-     "start": 0,
-     "dur": 9
-    }
+    "raw": true
    },
    {
-    "t": "",
-    "b": "",
-    "video": {
-     "src": "cand/s4.mp4",
-     "start": 0,
-     "dur": 7
-    }
+    "raw": true
    },
    {
-    "t": "",
-    "b": "",
-    "video": {
-     "src": "cand/s5.mp4",
-     "start": 0,
-     "dur": 8
-    }
+    "raw": true
    },
    {
     "sub": "그래서 무서운 점",
