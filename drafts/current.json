@@ -1,100 +1,12 @@
-[
- {
-  "id": "20261108-trump-ufc",
-  "slot": "lunch",
-  "mode": "send",
-  "topic": "트럼프, UFC 회장 데이나 화이트에 백악관 대변인 제안 + UFC 챔피언 6명 호출",
-  "category": "국제 이슈(미국 정치)",
-  "emotion": "웃음·어이없음(대변인이 격투기 회장?)",
-  "core": "현지 11.7 트루스소셜: \"the Great Dana White, a violent Fighter and Warrior, has been offered the job of Press Secretary\", \"Dana, please take the job!\", \"We need these people to defend us against the Lunatic Left.\" 하빕·마카체프·게이치·코미어·누네스·해리슨(트럼프 표기 Kayla Harris) 함께 호출. 화이트는 브리핑룸 연단 사진(AI 추정)+\"다음 장으로\", 수락 발언 없음. 중간선거(11.3) 참패 나흘 뒤, 같은 날 비서실장 와일스→밀러. 대변인 10.16부터 공석. 6월 80번째 생일 백악관 남쪽 잔디밭 UFC. 백악관은 농담 여부 무응답(AP).",
-  "risk": "인용은 원문 그대로(지키자 X → '미친 좌파' 단어만 따옴표). 수락 아닌 제안 단계. 연단 사진은 AI 추정이라 실제 사진처럼 쓰지 않음.",
-  "slides": [
-   {
-    "t": "백악관 대변인에 UFC 회장 부른 트럼프\n\"'미친 좌파'로부터 우리를 지켜야\"",
-    "lay": "one"
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "sub": "왜 지금",
-    "t": "선거 참패\n'나흘 뒤'",
-    "b": "중간선거에서 공화당이 크게 진 직후, 같은 날 비서실장도 밀러로 바꿨습니다. 대변인 자리는 전임자가 일주일 만에 나간 뒤 10월 16일부터 비어 있었습니다."
-   },
-   {
-    "sub": "둘의 사이",
-    "t": "백악관 잔디밭에\n'철장'까지",
-    "b": "지난 6월 트럼프의 80번째 생일엔 백악관 남쪽 잔디밭에서 UFC 경기가 열렸습니다. 화이트는 2024년 당선 연설 무대에도 섰습니다."
-   },
-   {
-    "sub": "백악관 반응",
-    "t": "농담이냐는 질문에\n'침묵'",
-    "b": "백악관은 공식 계정에 이 글 캡처까지 올렸지만, 농담인지 묻는 질문에는 아무도 답하지 않았습니다(AP)."
-   },
-   {
-    "t": "화이트, 진짜\n'연단'에 설까?",
-    "b": "수락 여부, 팔로우하면 바로 알려드립니다"
-   }
-  ],
-  "images": [
-   "cover_wh",
-   "card2",
-   "card3",
-   "card4",
-   "trump_stairs",
-   "o_press05",
-   "o_press03",
-   "cover_wh"
-  ],
-  "caption": "[대변인 자리에 'UFC 회장' 부른 트럼프]\n\n트럼프 대통령이 7일(현지시간) 트루스소셜에 UFC 회장 데이나 화이트에게 백악관 대변인 자리를 제안했다고 밝혔습니다. 화이트를 \"폭력적인 파이터이자 전사\"라고 부르며 \"데이나, 제발 맡아 줘!\"라고 썼습니다. 공화당이 중간선거에서 크게 진 지 나흘 만이고, 같은 날 비서실장도 수지 와일스에서 스티븐 밀러로 바뀌었습니다.\n\n트럼프는 하빕, 마카체프, 게이치, 코미어, 누네스, 해리슨 등 UFC 챔피언 6명도 함께 와 달라고 했습니다. 이유는 \"이 사람들이 미친 좌파로부터 우리를 지켜야 한다\"였습니다. 대변인 자리는 전임자가 일주일 만에 물러난 뒤 10월 16일부터 비어 있었습니다.\n\n화이트는 인스타그램 스토리에 백악관 브리핑룸 연단에 선 사진(AI 생성으로 보임)을 올리고 \"다음 장으로\"라고만 적었습니다. 이어 워싱턴으로 가 월요일 트럼프를 만난다고 했지만, 수락 여부는 밝히지 않았습니다. 백악관은 농담인지 묻는 질문에 답하지 않았습니다.\n\n트루스소셜 원문:\n\"I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has been offered the job of Press Secretary of the United States. Dana, please take the job!\"\n\"We need these people to defend us against the Lunatic Left.\"\n\n대변인이 격투기 회장이라면, 브리핑룸은 어떻게 될까요?\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
-  "hashtags": [
-   "트럼프",
-   "데이나화이트",
-   "UFC",
-   "하빕",
-   "백악관"
-  ],
-  "sources": [
-   {
-    "publisher": "AP",
-    "date": "2026.11.07"
-   },
-   {
-    "publisher": "France 24(AFP·로이터)",
-    "date": "2026.11.07",
-    "url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white"
-   },
-   {
-    "publisher": "CNBC",
-    "date": "2026.11.07",
-    "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
-   },
-   {
-    "publisher": "서울경제",
-    "date": "2026.11.08",
-    "url": "https://m.sedaily.com/article/20111486"
-   },
-   {
-    "publisher": "NBC News",
-    "date": "2026.11.07"
-   },
-   {
-    "publisher": "CBC",
-    "date": "2026.11.07"
-   }
-  ],
-  "photo_credits": [
-   "트루스소셜 @realDonaldTrump 게시물 캡처·첨부 이미지",
-   "CNBC",
-   "Getty Images(sportbible)",
-   "자료사진"
-  ],
-  "publish_now": true
- }
-]
+[{"id":"20261108-texasblue","slot":"evening","mode":"collect","topic":"텍사스 중간선거 민주당 압승, 농민·데이터센터",
+"image_pages":[
+"https://www.kut.org/texas/2026-11-03/texas-nov-midterm-statewide-election-results",
+"https://www.texastribune.org/2026/11/03/texas-midterms-2026-elections-live-blog/",
+"https://www.nbcdfw.com/news/local/election-recap-talarico-hinojosa-score-major-victories-in-texas-amid-historic-blue-wave/4101270/",
+"https://www.ksat.com/news/local/2026/11/04/what-happened-in-the-nov-3-2026-historic-midterm-election-in-texas/",
+"https://www.texastribune.org/2026/08/27/texas-agriculture-data-centers/",
+"https://www.texastribune.org/2026/10/23/texas-rural-voters-data-centers-backlash-big-tech-2026-election/",
+"https://www.pbs.org/newshour/nation/democrats-seize-on-ai-data-center-backlash-thats-dividing-rural-republicans-in-places-like-texas",
+"https://www.insurancejournal.com/news/midwest/2026/06/04/872489.htm",
+"https://www.ibtimes.com/elon-musk-republican-midterm-losses-texas-3809379",
+"https://www.cnbc.com/2026/09/23/texas-data-centers-election.html"]}]
