@@ -1,0 +1,32 @@
+{
+ "id": "20261108-glory",
+ "media": "media/20261108-glory",
+ "topic": "글로리(glory) — 비행기 창밖 구름 위에 뜬 둥근 무지개 고리, 그 한가운데엔 늘 '내가 탄 비행기'의 그림자. 해를 등지고 구름 물방울(지름 0.02mm 안팎)이 빛을 왔던 쪽으로 되돌려 보내며 색이 갈라진 것(바깥 빨강·안쪽 파랑). 보는 사람은 자기 그림자 둘레의 고리만 보며, 해 반대편 창가·구름 바로 위를 날 때 보인다. 산에선 '브로켄 유령', 중국에선 '불광(佛光)'. 사용자 11.08 20:17 회차 2번 선택.",
+ "hook": {"t": "비행기 창밖\n무지개 고리의 '정체'"},
+ "credit": "영상: TikTok @tabithalipkin · @pilot.ni · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/how_it_began.mp3", "start": 14.5, "vol": 0.56},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "장면 1 컷1·3, 2, 6, 8: TikTok @tabithalipkin 7312528455936068906(2023.12.14, 여객기 창가 촬영) — media/20261108-wc1/video/v2.mp4. 가운데 영어 문구는 크롭으로 피함.",
+  "장면 1 컷2, 3: TikTok @pilot.ni 7591421676840062230(2026.01.04, 조종석 촬영) — media/20261108-wc1/video/v1.mp4.",
+  "모션그래픽: scripts/story_shorts/anim_glory.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "NASA APOD 2016.12.22 'An Airplane Glory'", "url": "https://apod.nasa.gov/apod/ap161222.html"},
+  {"publisher": "홍콩 천문대 'The mysterious glory' — 해를 등지고 작은 물방울이 빛을 뒤로 흩뜨림, 자기 그림자 둘레만 보임, 바깥 빨강·안쪽 파랑", "url": "https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00348-the-mysterious-glory.html"},
+  {"publisher": "AOPA 2025.9 'Seldom seen: Have you earned your pilot's halo?'", "url": "https://www.aopa.org/news-and-media/all-news/2025/september/pilot/seldom-seen-have-you-earned-your-pilots-halo"},
+  {"publisher": "Wikipedia 'Glory (optical phenomenon)'", "url": "https://en.wikipedia.org/wiki/Glory_(optical_phenomenon)"}
+ ],
+ "_note": "A=3컷(v2 9.0~ 고리 속 비행기 그림자 2.25배 확대 / v1 8.5~ 조종석 고리 1.6배 / v2 4.4~ 고리 1.44배) → 컷 1.35·2.7초. 답(내 비행기 그림자 + 물방울)은 sun 그래픽 9.0초에 처음. 효과음 없음, 원본 소리 끔.",
+ "scenes": [
+  {"text": "고리 한가운데 저 비행기, 누구일까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 4.0},
+  {"text": "고리는 비행기를 놓치지 않고 계속 따라오고", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.5},
+  {"text": "다른 비행기에서 찍어도 똑같이 나타나요", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.5},
+  {"text": "정체는 해를 등진 '내 비행기'의 그림자", "video": {"src": "gfx/sun.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.2},
+  {"text": "구름 물방울이 빛을 '되돌려' 만든 무지개, 글로리", "video": {"src": "gfx/drop.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.2},
+  {"text": "그래서 고리는 늘 '보는 사람' 그림자만 감싸요", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.5},
+  {"text": "보고 싶다면 해 '반대편' 창가 자리로", "video": {"src": "gfx/seat.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "다음 비행 땐 '내 고리'를 찾아보세요, 구독!", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6}
+ ]
+}
