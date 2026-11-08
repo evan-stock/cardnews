@@ -2,7 +2,7 @@
  "id": "20261108-robohack",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-08T23:28:55.740464+09:00",
  "publish_at": "2026-11-08T23:23:28+09:00",
  "topic": "로봇 카메라만 흐리거나 조작하면 AI가 위험 행동 (Robocurve RoboSpoof, 2026.11.7) — 해킹·보안 각도",
@@ -63,5 +63,6 @@
   "media/20261108-robohack/06.jpg",
   "media/20261108-robohack/07.jpg"
  ],
- "tg_msg": 2133
+ "tg_msg": 2133,
+ "decided_at": "2026-11-08T23:36:24.492336+09:00"
 }
