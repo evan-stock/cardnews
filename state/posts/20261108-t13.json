@@ -2,8 +2,8 @@
  "id": "20261108-t13",
  "kind": "short",
  "status": "pending",
- "created_at": "2026-11-08T13:55:52.752547+09:00",
- "publish_at": "2026-11-08T13:55:52.752570+09:00",
+ "created_at": "2026-11-08T14:04:20.131454+09:00",
+ "publish_at": "2026-11-08T14:04:20.131471+09:00",
  "publish_now": true,
  "topic": "몽타주 A(주장형): '허스키한테 한 마디 하면 열 마디가 돌아온다' — 서로 다른 원작자 허스키 클립 6개(원작자 5명, 모두 원작자 본인 유튜브 채널, 맥북 유튜브 받기). MistyMapleHuskies 아기 허스키 Maple(2026.11.04) 2구간, MyBoyMarble 'Typical teenage husky talk back'(2026.10.19), Sarah O'Hagan 'Two Vocal Huskies Arguing'(2026.10.27), Corey Moriarty 잠옷 허스키 Titan 'How my 5 dogs are at bedtime'(2026.10.22), Husky Connection 'Upside Down Husky Chat'(2026.10.29). 원본 소리(허스키 울음·투덜) 전부 살림, 우리 bgm 낮게 0.5. 원본 글자: 글자 없는 구간만 골라 쓰고 Titan 클립은 zoom 1.15·y 0.75 크롭으로 위 캡션을 밀어냄(흐림 0초, 상자 없음). 되감기 안 씀. 사실: AKC 'Can Huskies Talk?' — 허스키는 썰매견으로 무리와 소리로 소통했고 잘 짖지 않고 하울·투덜거림으로 '말'한다.",
  "sources": [
@@ -66,6 +66,6 @@
   "synthetic": false,
   "channel": null
  },
- "draft_hash": "5bcdb504ca89",
- "tg_msg": 2076
+ "draft_hash": "657ac02b0f4a",
+ "tg_msg": 2078
 }
