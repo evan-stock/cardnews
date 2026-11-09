@@ -2,7 +2,7 @@
  "id": "20261109-jensenletter",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-09T17:01:16.080649+09:00",
  "publish_at": "2026-11-09T16:55:11+09:00",
  "topic": "젠슨 황 불륜 사과 사내 메일 원문 정리(오늘 09:10 캐러셀·미인계 릴스 후속)",
@@ -85,5 +85,9 @@
   "media/20261109-jensenletter/07.jpg",
   "media/20261109-jensenletter/08.jpg"
  ],
- "tg_msg": 2228
+ "tg_msg": 2228,
+ "decided_at": "2026-11-09T17:22:51.883392+09:00",
+ "ig_media_id": "18124076944907383",
+ "permalink": "https://www.instagram.com/p/Dfg5MXFm8Cv/",
+ "published_at": "2026-11-09T17:24:09.786437+09:00"
 }
