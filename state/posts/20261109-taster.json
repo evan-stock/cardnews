@@ -1,7 +1,7 @@
 {
  "id": "20261109-taster",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-09T21:36:10.959324+09:00",
  "publish_at": "2026-11-09T21:36:10.959335+09:00",
  "publish_now": true,
@@ -33,5 +33,9 @@
   "channel": "shop"
  },
  "app_file": "media/20261109-taster/short_card_nomusic.mp4",
- "tg_msg": 2246
+ "tg_msg": 2246,
+ "decided_at": "2026-11-09T21:46:22.307448+09:00",
+ "yt_id": "ttLfR-Qf3ZU",
+ "permalink": "https://youtube.com/shorts/ttLfR-Qf3ZU",
+ "published_at": "2026-11-09T21:46:24.960447+09:00"
 }
