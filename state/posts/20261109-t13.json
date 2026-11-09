@@ -1,0 +1,77 @@
+{
+ "id": "20261109-t13",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-09T13:59:54.086557+09:00",
+ "publish_at": "2026-11-09T13:59:54.086585+09:00",
+ "publish_now": true,
+ "topic": "몽타주 A(주장형): '창밖에 새만 보이면 턱을 덜덜 떨며 깍깍대는(채터링) 고양이들' — 서로 다른 원작자 고양이 클립 6개(원작자 6명, 모두 원작자 본인 유튜브 채널, 유튜브 API 검색 → 맥북 유튜브 받기). Freedom Calendar 검은 고양이 Indy(2026.11.01), Kübss 크림색 브리티시숏헤어(2026.11.07), MB vids 고양이 Cupko(2026.11.02), 고냥이 홍어 노란 코숏 홍어(2026.10.18), Biggyboodles 치즈 고양이 Bob(2026.11.05), BabyCharlie & Bunny 회색 고양이 Bunny(2026.10.17). 원본 소리(채터링 딸깍·깍깍 소리, 홍어 클립 창밖 소음) 살림, 덧입힌 음악 없음 → 우리 bgm 낮게 0.6. 원본 글자: Indy 위·아래 캡션은 zoom 1.35·y 0.44 크롭, Kübss 위 'Ekekkekeke'는 zoom 1.15·y 0.75 크롭, 홍어 아래 '참쉐에?'는 zoom 1.15·y 0 크롭, Bob은 캡션 없는 구간만(흐림 0초, 상자 없음). 되감기 안 씀. 사실: 영국 Cats Protection 'Why do cats chatter and chirp at birds?' — 잡고 싶은데 닿지 않는 사냥감을 봤을 때의 흥분·답답함이라는 해석이 유력(확실한 답은 없음).",
+ "sources": [
+  {
+   "publisher": "YouTube Freedom Calendar - Indy decided to ekk",
+   "url": "https://www.youtube.com/shorts/m10v6IjIhK0",
+   "date": "2026-11-01"
+  },
+  {
+   "publisher": "YouTube Kübss - Ekekekekek",
+   "url": "https://www.youtube.com/shorts/MlBSx18VYYM",
+   "date": "2026-11-07"
+  },
+  {
+   "publisher": "YouTube MB vids - When Ekekekek Turns Into a Yawn (Cupko)",
+   "url": "https://www.youtube.com/shorts/mXZ9pH9pNUo",
+   "date": "2026-11-02"
+  },
+  {
+   "publisher": "YouTube 고냥이 홍어 - 참새 보고 채터링하는 노란고양이 홍어",
+   "url": "https://www.youtube.com/shorts/67XoDZHGQds",
+   "date": "2026-10-18"
+  },
+  {
+   "publisher": "YouTube Biggyboodles - Bob Is Distracted Today",
+   "url": "https://www.youtube.com/shorts/53xGDxbnmW0",
+   "date": "2026-11-05"
+  },
+  {
+   "publisher": "YouTube BabyCharlie & Bunny - Sleepy Bunny chattering at birds",
+   "url": "https://www.youtube.com/shorts/tEPw952bVyU",
+   "date": "2026-10-17"
+  },
+  {
+   "publisher": "Cats Protection - Why do cats chatter and chirp at birds?",
+   "url": "https://www.cats.org.uk/cats-blog/why-do-cats-chatter-and-chirp-at-birds",
+   "date": "2024-02"
+  }
+ ],
+ "seconds": 26.690000000000005,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261109-t13/short.mp4"
+ ],
+ "app_file": "media/20261109-t13/short_nobgm.mp4",
+ "yt": {
+  "title": "참새만 보이면 턱 덜덜 떨며 깍깍대는 고양이들ㅋㅋ #shorts",
+  "description": "창밖에 새가 보이면 고양이들이 턱을 덜덜 떨며 '깍깍' 소리를 내요(채터링). 잡고 싶은데 닿지 않는 사냥감을 봤을 때의 흥분·답답함이라는 해석이 유력하대요(영국 Cats Protection).\n\n영상: YouTube Freedom Calendar(Indy), Kübss, MB vids(Cupko), 고냥이 홍어, Biggyboodles(Bob), BabyCharlie & Bunny\n자료: Cats Protection 'Why do cats chatter and chirp at birds?'\n\n영상 속 제품(캣타워·창문 해먹·낚싯대 장난감)은 프로필 링크에서\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#고양이 #채터링 #냥이 #고양이영상 #shorts\n\n출처: YouTube Freedom Calendar - Indy decided to ekk 2026-11-01, YouTube Kübss - Ekekekekek 2026-11-07, YouTube MB vids - When Ekekekek Turns Into a Yawn (Cupko) 2026-11-02\n사진·영상: YouTube Freedom Calendar, Kübss, MB vids, 고냥이 홍어, Biggyboodles, BabyCharlie & Bunny\n음성: Typecast\n\n#shorts #고양이 #채터링 #고양이 채터링 #냥이",
+  "tags": [
+   "고양이",
+   "채터링",
+   "고양이 채터링",
+   "냥이",
+   "고양이 소리",
+   "참새",
+   "고양이 영상",
+   "cat chattering",
+   "ekekek",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "93b6ee9fa1cb",
+ "tg_msg": 2210
+}
