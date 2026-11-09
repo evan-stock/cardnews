@@ -1,0 +1,20 @@
+{
+ "src": "fxtwitter",
+ "author": "catstropey",
+ "name": "cat ✨",
+ "date": "Wed Sep 16 08:59:46 +0000 2026",
+ "text": "😭😭😭 they're so funny",
+ "views": 2500,
+ "likes": 218,
+ "retweets": 19,
+ "quote": null,
+ "url": "https://x.com/catstropey/status/2100147619968553023",
+ "id": "2100147619968553023",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "사진만",
+ "card": null,
+ "quote_url": null
+}

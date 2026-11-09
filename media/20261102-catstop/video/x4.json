@@ -1,0 +1,22 @@
+{
+ "src": "fxtwitter",
+ "author": "skorsahnesi",
+ "name": "Skor Sahnesi",
+ "date": "Mon Apr 13 20:23:00 +0000 2026",
+ "text": "This video was filmed thinking no one would watch it, but it went viral the moment the cat stepped in front of the camera",
+ "views": 49860,
+ "likes": 2809,
+ "retweets": 149,
+ "quote": null,
+ "url": "https://x.com/Catlustrated/status/2043787054811603200",
+ "id": "2043787054811603200",
+ "videos": [
+  {
+   "url": "https://video.twimg.com/amplify_video/2043343595055542272/vid/avc1/720x1280/YiDMxENgwsBF9pHV.mp4?tag=21",
+   "w": 720,
+   "h": 1280,
+   "dur": 16.033
+  }
+ ],
+ "errors": []
+}
