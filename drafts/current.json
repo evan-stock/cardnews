@@ -1,3 +1,101 @@
-[{"id":"20261109-jensenspy-hi","slot":"evening","mode":"collect",
-"image_pages":["https://www.ynetnews.com/tech-and-digital/article/bkhkgvapfe","https://sg.finance.yahoo.com/news/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html","https://www.implicator.ai/us-officials-believe-megaspeed-executive-alice-huang-chinese/","https://letsdatascience.com/news/nyt-reports-us-intelligence-tied-chinese-asset-to-nvidias-hu-6cd13a47","https://www.datacenterdynamics.com/en/news/megaspeed-exec-with-close-ties-to-nvidia-ceo-jensen-huang-suspected-of-spying-for-china/","https://www.tweaktown.com/news/114387/nvidia-pushes-back-against-report-linking-ceo-jensen-huang-to-suspected-chinese-intelligence-asset/index.html","https://www.getnews.co.kr/news/articleView.html?idxno=886425","https://www.m-economynews.com/news/article.html?no=72743"],
-"images":[],"slides":[]}]
+[
+ {
+  "id": "20261109-jensenspy",
+  "slot": "evening",
+  "mode": "send",
+  "publish_at": "2026-11-09T09:10:57+09:00",
+  "topic": "엔비디아 젠슨 황, 中 스파이 의심 여성(앨리스 황)과 불륜 인정 · 이사회 독립조사 (2026.11.8)",
+  "emotion": "놀람+배신감(한 달 전 '완전히 정상'이라더니 불륜 인정, 상대는 스파이 의심)",
+  "images": [
+   "cover",
+   "press20",
+   "press02",
+   "press21",
+   "press24",
+   "press04",
+   "press22",
+   "cover"
+  ],
+  "slides": [
+   {
+    "lay": "one",
+    "t": "엔비디아 젠슨 황, 결국 불륜 인정\n상대는 '中 스파이' 의심 여성"
+   },
+   {
+    "sub": "11월 8일 · 전 직원 이메일",
+    "t": "\"아내에게 '불충실'했다\"",
+    "b": "\"제 행동은 아내와 아이들에게 상처를 줬습니다.\n변명의 여지가 없습니다. 깊이 사과드립니다.\""
+   },
+   {
+    "sub": "상대는 누구",
+    "t": "싱가포르 메가스피드 임원\n'앨리스 황'(중국명 황러)",
+    "b": "미 정보당국은 그를 중국 국가안전부(MSS) 정보원으로 보고 있습니다(NYT·FT 보도).\n해외 매체들은 이를 '허니팟(미인계) 작전'이라 부릅니다."
+   },
+   {
+    "sub": "그가 일한 회사",
+    "t": "엔비디아 칩 '20억 달러어치'\n중국 밀반입 의혹",
+    "b": "말레이시아 데이터센터에서 포장도 안 뜯은 엔비디아 서버가 발견되며 조사가 시작됐습니다.\n엔비디아는 \"조사 결과 근거 없음\"이라는 입장입니다."
+   },
+   {
+    "sub": "불과 한 달 전 · 블룸버그 인터뷰",
+    "t": "\"전부 '완전히 정상'이었다\"",
+    "b": "젠슨 황은 앨리스 황과의 만남이 메가스피드 관련 업무였다고 했습니다.\n그리고 한 달 뒤, 불륜을 인정했습니다."
+   },
+   {
+    "sub": "젠슨 황이 밀어온 것",
+    "t": "중국에 AI칩 '수출 허용'",
+    "b": "그는 대중국 칩 수출 규제를 풀자고 워싱턴을 설득해 왔습니다.\n미 정보당국은 앨리스 황이 이 입장에 영향을 주려 했는지 들여다본 것으로 알려졌습니다."
+   },
+   {
+    "sub": "11월 8일 · 엔비디아 이사회",
+    "t": "독립 조사 착수, CEO는 '그대로'",
+    "b": "이사회는 \"국가안보·회사 기밀 유출 근거는 없다\"며 신뢰를 밝혔습니다.\n미 하원은 젠슨 황에게 의회 설명을 요구했습니다."
+   },
+   {
+    "t": "중국에 칩 팔자던 CEO 곁에\n'스파이 의심' 여성이 있었다",
+    "b": "팔로우하면 의회 조사 후속을 먼저 받아보실 수 있습니다"
+   }
+  ],
+  "caption": "[\"완전히 정상적인 관계\"라던 젠슨 황, 한 달 만에 불륜을 인정했습니다]\n\n엔비디아 젠슨 황 CEO가 8일(현지시간) 전 직원에게 보낸 이메일에서 \"아내에게 불충실했다\"며 혼외 관계를 인정했습니다. 상대는 싱가포르 데이터센터 기업 메가스피드의 임원이었던 중국 국적 앨리스 황(중국명 황러)입니다. 뉴욕타임스와 파이낸셜타임스는 미 정보당국이 그를 중국 국가안전부(MSS)와 연계된 정보원으로 보고 있다고 보도했습니다. 해외 매체들은 이를 미인계로 접근하는 첩보 수법인 '허니팟(honeypot) 작전'이라 부르고 있습니다. 표지 사진은 2024년 6월 타이베이의 한 바에서 두 사람이 나란히 앉은 모습으로, 넷선더 링크드인 게시물에 올라왔던 것입니다.\n\n앨리스 황의 이력도 물음표투성이입니다. 중국 후난TV와 CCTV 방송기자 출신으로 알려졌지만, 후난TV 임원은 그런 사람을 들어본 적이 없다고 했고 CCTV에서도 그의 프로필은 찾을 수 없습니다. 이후 HSBC 프라이빗뱅킹 부문 대표 비서, 중신증권(CITIC) 부사장을 거쳐 메가스피드를 이끈 것으로 알려졌습니다.\n\n메가스피드는 약 20억 달러어치 엔비디아 칩을 중국으로 빼돌렸다는 의혹을 받아 왔습니다. 미 상무부 관계자가 말레이시아 데이터센터에서 포장도 뜯지 않은 엔비디아 장비를 발견하면서 조사가 시작됐고, 이 과정에서 앨리스 황이 젠슨 황과 가까운 사이라는 사실이 드러났다고 합니다. 젠슨 황은 지난달 블룸버그 인터뷰에서 \"메가스피드 관련 일이었고 전부 완전히 정상적이었다\"고 말했습니다. 엔비디아는 칩 유출 의혹이 \"이미 조사해 근거 없음이 확인됐다\"는 입장이고, 중국 정부는 스파이 의혹을 \"근거 없는 모략\"이라고 반박했습니다. 정보기관 연계는 아직 공식 확인된 사실이 아닙니다.\n\n엔비디아 이사회는 독립 조사에 착수하면서도 \"국가안보나 회사 기밀이 유출됐다고 볼 근거는 없다\"며 젠슨 황이 CEO직을 계속 맡는다고 밝혔습니다. 젠슨 황은 그동안 중국에 AI칩 수출을 허용해야 한다고 워싱턴을 설득해 온 대표 인물이라, 미 하원은 그에게 의회 설명을 요구한 상태입니다.\n\n세계 1위 AI 기업 CEO의 사생활, 회사가 문제 삼아야 할 일일까요?\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "hashtags": [
+   "젠슨황",
+   "엔비디아",
+   "앨리스황",
+   "허니팟",
+   "중국스파이"
+  ],
+  "sources": [
+   {
+    "publisher": "Axios",
+    "date": "2026.11.08",
+    "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company"
+   },
+   {
+    "publisher": "SF Standard",
+    "date": "2026.11.08",
+    "url": "https://sfstandard.com/2026/11/08/nvidia-jensen-huang-affair-board-investigation-chinese-spy/"
+   },
+   {
+    "publisher": "주간경향(블룸버그·로이터 인용)",
+    "date": "2026.11.09",
+    "url": "https://weekly.khan.co.kr/article/202611090659001/"
+   },
+   {
+    "publisher": "한국경제",
+    "date": "2026.11.09",
+    "url": "https://www.hankyung.com/article/2026110935347"
+   },
+   {
+    "publisher": "Tom's Hardware",
+    "date": "2026.11.08",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips"
+   }
+  ],
+  "photo_credits": [
+   "타이베이 바 사진: 넷선더 링크드인 게시물(2024.6) 캡처, 한국경제·주간경향 재인용(AI 화질 개선)",
+   "Tom's Hardware",
+   "파이낸셜뉴스",
+   "SF Standard"
+  ]
+ }
+]
