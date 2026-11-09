@@ -235,7 +235,10 @@ def build(spec_path, shots_only=False):
     center_pin = (C[0], C[1] - 190 / 2 + 10)
 
     seg = spec.get("scene_len", 3.8)
-    intro = spec.get("intro_len", 0.6)
+    hook = spec.get("hook")  # 첫 장면 사진을 화면 가득 보여준 뒤 카드로 줄어들며 꽂힘
+    hook_len = 1.0 if hook else 0.0
+    shrink = 0.45 if hook else 0.0
+    intro = hook_len + shrink if hook else spec.get("intro_len", 0.6)
     recap_len = spec.get("recap_len", 3.4)
     cta_len = spec.get("cta_len", 2.6)
     n = len(cards)
@@ -244,30 +247,90 @@ def build(spec_path, shots_only=False):
     total = t_cta + cta_len
     nf = int(total * FPS)
 
+    # ---- 미리 만들어 두는 것들 ----
+    # 스포트라이트(가운데 밝고 바깥 어둡게)
+    yy, xx = [], []
+    spot = Image.radial_gradient("L").resize((1400, 1400), Image.BILINEAR)  # 가운데 0 → 바깥 255
+    def spot_layer(strength):
+        a = spot.point(lambda v: int(min(255, max(0, (v - 60) * 1.6)) * strength))
+        lay = Image.new("RGBA", spot.size, (0, 0, 0, 255))
+        lay.putalpha(a)
+        out = Image.new("RGBA", (W, H), (0, 0, 0, int(255 * strength * 0.9)))
+        out.paste(lay, (C[0] - 700, C[1] - 700))
+        return out
+    spots = [spot_layer(k / 10) for k in range(11)]
+    # 필름 그레인(6장 돌려 쓰기)
+    grains = []
+    for g in range(6):
+        nz = Image.effect_noise((W // 2, H // 2), 40).resize((W, H), Image.NEAREST)
+        gl = Image.new("RGBA", (W, H), (128, 128, 128, 0))
+        gl.putalpha(nz.point(lambda v: int(abs(v - 128) * 0.28)))
+        gl = Image.merge("RGBA", (nz, nz, nz, gl.getchannel("A")))
+        grains.append(gl)
+    # 색보정(어두운 곳 살짝 청록, 밝은 곳 살짝 주황)
+    def lut(ch):
+        out = []
+        for v in range(256):
+            x = v / 255
+            if ch == 0:
+                y = x + 0.04 * x * x - 0.02 * (1 - x) * (1 - x)
+            elif ch == 1:
+                y = x + 0.006 * (1 - x) * (1 - x)
+            else:
+                y = x + 0.018 * (1 - x) * (1 - x) - 0.05 * x * x
+            y = (y - 0.5) * 1.06 + 0.5 - 0.012
+            out.append(int(max(0, min(1, y)) * 255))
+        return out
+    LUT = lut(0) + lut(1) + lut(2)
+    # 훅 사진(첫 카드와 같은 구도)
+    if hook:
+        c0 = spec["scenes"][0]["card"]
+        src = Image.open(base / hook.get("img", c0.get("img"))).convert("RGB")
+        hook_img = photo_fit(src, 1302, 1018, c0.get("fx", 0.5), c0.get("fy", 0.35))  # 302:236 비율
+
+    def scene_k(lt, i):
+        if lt < 0.55:
+            return 1.0 if (hook and i == 0) else ease_io(lt / 0.55)
+        if lt < 2.55:
+            return 1.0
+        if lt < 3.25:
+            return 1 - ease_io((lt - 2.55) / 0.7)
+        return 0.0
+
     def camera(t):
-        """(z, fx, fy): 보드 좌표 f가 화면 C에 오도록 z배."""
+        """(z, fx, fy, zoomk): 보드 좌표 f가 화면 C에 오도록 z배."""
+        if hook and t < intro:
+            sx, sy = SLOTS[0]
+            return ZOOM, sx, sy, 1.0
         if intro <= t < t_recap:
             i = int((t - intro) // seg)
             lt = t - intro - i * seg
             sx, sy = SLOTS[i]
-            if lt < 0.55:
-                k = ease_io(lt / 0.55)
-            elif lt < 2.55:
-                k = 1
-            elif lt < 3.25:
-                k = 1 - ease_io((lt - 2.55) / 0.7)
-            else:
-                k = 0
-            z = 1 + (ZOOM - 1) * k
-            return z, C[0] + (sx - C[0]) * k, C[1] + (sy - C[1]) * k
+            k = scene_k(lt, i)
+            return 1 + (ZOOM - 1) * k, C[0] + (sx - C[0]) * k, C[1] + (sy - C[1]) * k, k
         if t >= t_recap:
             k = ease_out((t - t_recap) / 1.2)
-            return 1 + 0.06 * k, C[0], C[1]
-        return 1.0, C[0], C[1]
+            return 1 + 0.06 * k, C[0], C[1], 0.0
+        return 1.0, C[0], C[1], 0.0
 
-    def T(p, cam):
-        z, fx, fy = cam
-        return ((p[0] - fx) * z + C[0], (p[1] - fy) * z + C[1])
+    def shake(t):
+        """핸드헬드 흔들림 + 도장 찍힐 때 쿵."""
+        dx = 2.6 * math.sin(t * 1.3) + 1.4 * math.sin(t * 2.9 + 1)
+        dy = 2.2 * math.sin(t * 1.1 + 2) + 1.2 * math.sin(t * 3.3)
+        for i in range(n):
+            st = t - (intro + i * seg + 0.15 + (0.6 if hook and i == 0 else 0.85))
+            if 0 <= st < 0.3:
+                a = 14 * (1 - st / 0.3)
+                dx += a * math.sin(st * 90)
+                dy += a * math.cos(st * 77)
+        return dx, dy
+
+    def string_sag(t, i):
+        done = intro + i * seg + 0.7 + 2.4
+        if t < done:
+            return 60
+        u = t - done
+        return 60 + 22 * math.sin(u * 14) * math.exp(-u * 4)
 
     def paste_sprite(canvas, sprite, center_xy, scale, alpha=1.0):
         w, h = max(1, round(sprite.width * scale)), max(1, round(sprite.height * scale))
@@ -276,69 +339,148 @@ def build(spec_path, shots_only=False):
             sp.putalpha(sp.getchannel("A").point(lambda v: int(v * alpha)))
         canvas.alpha_composite(sp, (round(center_xy[0] - w / 2), round(center_xy[1] - h / 2)))
 
-    def frame(t):
-        cam = camera(t)
-        z = cam[0]
+    def subtitle(b, lt):
+        ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        if lt < 0:
+            return ov
+        d = ImageDraw.Draw(ov)
+        rows = []
+        if b.get("ctx"):
+            rows.append(("ctx", b["ctx"], 1530))
+        rows += [("l1", b["l1"], 1630), ("l2", b["l2"], 1725)]
+        for r, (kind, text, y) in enumerate(rows):
+            u = (lt - r * 0.1) / 0.32
+            if u <= 0:
+                continue
+            a = min(1, u)
+            off = int(28 * (1 - ease_out(u)))
+            lay = Image.new("RGBA", (W, 130), (0, 0, 0, 0))
+            dl = ImageDraw.Draw(lay)
+            base_y = 100
+            if kind == "ctx":
+                dl.text((70, base_y), text, font=fit_font(dl, text, FM, 38, 940), fill=(200, 200, 200), anchor="ls")
+            elif kind == "l2":
+                draw_rich(dl, (70, base_y), text, fit_font(dl, text, FB, 70, 940), YEL, hi=YEL)
+            else:
+                f = fit_font(dl, text, FB, 70, 940)
+                x = 70
+                wipe = ease_out((lt - 0.45) / 0.3)
+                for i2, part in enumerate(text.split("'")):
+                    w2 = dl.textlength(part, font=f)
+                    if i2 % 2 and wipe > 0:
+                        dl.rectangle((x - 6, base_y - 62, x - 6 + (w2 + 12) * wipe, base_y + 12), fill=YEL)
+                        dl.text((x, base_y), part, font=f, fill=(15, 15, 15) if wipe > 0.5 else WHITE, anchor="ls")
+                    else:
+                        dl.text((x, base_y), part, font=f, fill=WHITE, anchor="ls")
+                    x += w2
+            if a < 1:
+                lay.putalpha(lay.getchannel("A").point(lambda v, a=a: int(v * a)))
+            ov.alpha_composite(lay, (0, y - base_y + off))
+        return ov
+
+    def frame(t, fi=0):
+        z, fx, fy, zk = camera(t)
+        sx_, sy_ = shake(t)
+        Cs = (C[0] + sx_, C[1] + sy_)
+
+        def T(p):
+            return ((p[0] - fx) * z + Cs[0], (p[1] - fy) * z + Cs[1])
+
         glow = 0.6 + 0.4 * math.sin((t - t_recap) * 6) if t >= t_recap else 0.0
         board = Image.new("RGBA", (W, H), (12, 11, 10, 255))
-        # 코르크: 화면 → 보드 좌표 역변환해서 잘라 확대
-        x0 = (0 - C[0]) / z + cam[1] - cork_xy[0]
-        y0 = (0 - C[1]) / z + cam[2] - cork_xy[1]
+        x0 = (0 - Cs[0]) / z + fx - cork_xy[0]
+        y0 = (0 - Cs[1]) / z + fy - cork_xy[1]
         bg = cork.crop((round(x0), round(y0), round(x0 + W / z), round(y0 + H / z))).resize((W, H), Image.BILINEAR)
+        if zk > 0.05:
+            bg = bg.filter(ImageFilter.GaussianBlur(3.2 * zk))
         board.paste(bg, (0, 0))
-        # 실
         sl = ImageDraw.Draw(board)
         for i in range(n):
             t0 = intro + i * seg
             if t < t0 + 0.7:
                 continue
             prog = ease_out((t - t0 - 0.7) / 2.4) if t < t0 + 3.1 else 1
-            pts = [T(p, cam) for p in string_pts(pins[i], center_pin)]
+            pts = [T(p) for p in string_pts(pins[i], center_pin, sag=string_sag(t, i))]
             k = max(2, int(len(pts) * prog) + 1)
             seg_pts = pts[:k]
             if glow:
                 sl.line(seg_pts, fill=(255, 60, 60, int(110 * glow)), width=round(16 * z), joint="curve")
             sl.line(seg_pts, fill=(120, 8, 10, 255), width=round(7 * z), joint="curve")
             sl.line(seg_pts, fill=(225, 30, 34, 255), width=round(4 * z), joint="curve")
-        # 배후 카드
-        paste_sprite(board, center, T(C, cam), z / SS)
-        # 표적 카드 + 도장
+        paste_sprite(board, center, T(C), z / SS)
+        dust = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        dd = ImageDraw.Draw(dust)
         for i, (im, slot) in enumerate(cards):
             t0 = intro + i * seg
-            if t < t0 + 0.15:
+            first = hook and i == 0
+            if t < t0 + (0 if first else 0.15):
                 continue
-            lt = t - t0 - 0.15
-            drop = ease_back(lt / 0.45)
-            sc = (1.3 - 0.3 * drop) if lt < 0.45 else 1.0
-            pos = T((slot[0], slot[1] - 40 * (1 - ease_out(lt / 0.45))), cam)
-            paste_sprite(board, im, pos, z * sc / SS, min(1, lt / 0.2))
-            st = lt - 0.85
+            lt = t - t0 - (0 if first else 0.15)
+            if first:
+                sc, dy, al = 1.0, 0, 1.0
+            else:
+                drop = ease_back(lt / 0.45)
+                sc = (1.3 - 0.3 * drop) if lt < 0.45 else 1.0
+                dy, al = 40 * (1 - ease_out(lt / 0.45)), min(1, lt / 0.2)
+            paste_sprite(board, im, T((slot[0], slot[1] - dy)), z * sc / SS, al)
+            st = lt - (0.6 if first else 0.85)
             if st > 0:
                 k = min(1, st / 0.18)
                 s = 1.8 - 0.8 * ease_out(k)
-                paste_sprite(board, stamps[i], T((slot[0] + 85, slot[1] + 30), cam), z * s * 0.72 / SS, k)
+                sp = T((slot[0] + 85, slot[1] + 30))
+                paste_sprite(board, stamps[i], sp, z * s * 0.72 / SS, k)
+                if 0.15 < st < 0.75:
+                    u = (st - 0.15) / 0.6
+                    rnd = random.Random(i * 31)
+                    for q in range(16):
+                        ang = rnd.uniform(0, 2 * math.pi)
+                        dist = rnd.uniform(60, 170) * z * ease_out(u)
+                        r = rnd.uniform(2, 5) * z
+                        px, py = sp[0] + math.cos(ang) * dist, sp[1] + math.sin(ang) * dist + 30 * u * u * z
+                        dd.ellipse((px - r, py - r, px + r, py + r), fill=(230, 215, 190, int(200 * (1 - u))))
+        board.alpha_composite(dust)
         if any(t >= intro + i * seg + 0.7 for i in range(n)):
-            cp = T(center_pin, cam)
+            cp = T(center_pin)
             pin(ImageDraw.Draw(board), cp[0], cp[1], 15 * z)
         if glow:
             board.alpha_composite(Image.new("RGBA", (W, H), (180, 0, 0, int(40 * glow))))
-        # 보드 창(viewport)만 남기기
-        bw, bh = BOARD[2] - BOARD[0], BOARD[3] - BOARD[1]
+        # 스포트라이트: 확대할수록 바깥이 더 어둡게
+        board.alpha_composite(spots[min(10, round((0.25 + 0.5 * zk) * 10))])
         win = board.crop(BOARD)
         win.alpha_composite(shade)
         fr = Image.new("RGBA", (W, H), (12, 11, 10, 255))
         fr.paste(win, BOARD[:2], bmask)
+        # 훅: 사진이 화면 가득 → 첫 카드 사진 자리로 줄어듦
+        if hook and t < intro:
+            tz = ZOOM
+            target_c = (C[0] + sx_, C[1] - 46 * tz + sy_)
+            tw, th = 302 * tz, 236 * tz
+            if t < hook_len:
+                u = t / hook_len
+                cw, ch = 1080 * (1.08 - 0.06 * u), 844 * (1.08 - 0.06 * u)
+                cx, cy = C[0], C[1]
+                fr.alpha_composite(Image.new("RGBA", (W, H), (0, 0, 0, 255)))
+            else:
+                u = ease_io((t - hook_len) / shrink)
+                cw = 1080 * 1.02 + (tw - 1080 * 1.02) * u
+                ch = 844 * 1.02 + (th - 844 * 1.02) * u
+                cx = C[0] + (target_c[0] - C[0]) * u
+                cy = C[1] + (target_c[1] - C[1]) * u
+                fr.alpha_composite(Image.new("RGBA", (W, H), (0, 0, 0, int(255 * (1 - u)))))
+            hp = hook_img.resize((round(cw), round(ch)), Image.BICUBIC).convert("RGBA")
+            fr.alpha_composite(hp, (round(cx - cw / 2), round(cy - ch / 2)))
+        fr = fr.convert("RGB").point(LUT).convert("RGBA")
+        fr.alpha_composite(grains[fi % 6])
         fr.alpha_composite(header)
         # 자막
-        if t < intro:
-            b, a = spec["scenes"][0]["b"], 0
-        elif t < t_recap:
-            i = int((t - intro) // seg)
-            b, a = spec["scenes"][i]["b"], min(1, (t - intro - i * seg) / 0.25)
+        if t < t_recap:
+            i = max(0, int((t - intro) // seg)) if t >= intro else 0
+            lt = (t - intro - i * seg) if t >= intro else t
+            if i == 0:
+                lt = t  # 첫 자막은 처음부터
+            fr.alpha_composite(subtitle(spec["scenes"][i]["b"], lt))
         else:
-            b, a = spec["recap"], min(1, (t - t_recap) / 0.3)
-        fr.alpha_composite(subtitle_layer(b, a))
-        # CTA
+            fr.alpha_composite(subtitle(spec["recap"], t - t_recap))
         if t >= t_cta:
             k = min(1, (t - t_cta) / 0.35)
             fr.alpha_composite(Image.new("RGBA", (W, H), (0, 0, 0, int(215 * k))))
@@ -359,20 +501,19 @@ def build(spec_path, shots_only=False):
         return fr.convert("RGB")
 
     if shots_only:
-        times = []
+        times = [0.3, hook_len + shrink * 0.5] if hook else []
         for i in range(n):
-            times += [intro + i * seg + 1.6, intro + i * seg + seg - 0.2]
+            times += [intro + i * seg + 1.0, intro + i * seg + seg - 0.2]
         times += [t_cta - 0.3, total - 0.2]
         for k, tt in enumerate(times):
-            frame(tt).save(work / f"shot{k:02d}.jpg", quality=88)
+            frame(tt, k).save(work / f"shot{k:02d}.jpg", quality=88)
         print("shots:", work, len(times))
         return
-    frame(intro + 1.6).save(base / "board_reel_cover.jpg", quality=93)
     silent = base / "board_reel_nomusic.mp4"
     p = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
-                          "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-pix_fmt", "yuv420p", str(silent)], stdin=subprocess.PIPE)
+                          "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p", str(silent)], stdin=subprocess.PIPE)
     for i in range(nf):
-        p.stdin.write(frame(i / FPS).tobytes())
+        p.stdin.write(frame(i / FPS, i).tobytes())
     p.stdin.close()
     p.wait()
     bgm = spec.get("bgm")
