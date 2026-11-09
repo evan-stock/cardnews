@@ -1,0 +1,30 @@
+{
+ "id": "20261109-wc2",
+ "finished_at": "2026-11-09T20:33:11+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=FnN1gjJ_Sc4",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wc2/video/y1.mp4",
+   "audio": "media/20261109-wc2/video/y1_audio.m4a",
+   "mb": 1.7,
+   "view_count": 30132,
+   "title": "Lightning Over SE Asia from the ISS (including a sprite)"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=xEOoINTF1Sc",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wc2/video/y2.mp4",
+   "audio": "media/20261109-wc2/video/y2_audio.m4a",
+   "mb": 13.2,
+   "view_count": 4904,
+   "title": "Amazing Red Sprite Phenomenon Captured From ISS"
+  }
+ ]
+}
