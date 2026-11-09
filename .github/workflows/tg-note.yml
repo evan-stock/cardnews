@@ -16,7 +16,7 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
     steps:
       - uses: actions/checkout@v4
-        with: {sparse-checkout: "cardnews\nscripts/tg_note.py\nstate/tg_outbox", sparse-checkout-cone-mode: false}
+        with: {sparse-checkout: "cardnews\nscripts/tg_note.py\nstate/tg_outbox\nconfig.yaml", sparse-checkout-cone-mode: false}
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install -q requests pyyaml
