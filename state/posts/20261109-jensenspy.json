@@ -2,7 +2,7 @@
  "id": "20261109-jensenspy",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-09T09:16:04.441644+09:00",
  "publish_at": "2026-11-09T09:10:57+09:00",
  "topic": "엔비디아 젠슨 황, 中 스파이 의심 여성(앨리스 황)과 불륜 인정 · 이사회 독립조사 (2026.11.8)",
@@ -88,5 +88,9 @@
   "media/20261109-jensenspy/07.jpg",
   "media/20261109-jensenspy/08.jpg"
  ],
- "tg_msg": 2205
+ "tg_msg": 2205,
+ "decided_at": "2026-11-09T09:22:51.733277+09:00",
+ "ig_media_id": "18118320716008293",
+ "permalink": "https://www.instagram.com/p/DfgCQoYlkZQ/",
+ "published_at": "2026-11-09T09:24:08.546798+09:00"
 }
