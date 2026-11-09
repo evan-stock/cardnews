@@ -511,7 +511,7 @@ def build(spec_path, shots_only=False):
         return
     silent = base / "board_reel_nomusic.mp4"
     p = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
-                          "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p", str(silent)], stdin=subprocess.PIPE)
+                          "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-maxrate", "10M", "-bufsize", "16M", "-pix_fmt", "yuv420p", str(silent)], stdin=subprocess.PIPE)
     for i in range(nf):
         p.stdin.write(frame(i / FPS, i).tobytes())
     p.stdin.close()
