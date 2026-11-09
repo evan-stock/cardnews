@@ -18,4 +18,9 @@
 - `SendUserFile`, `Artifact`(채팅 전용 도구)가 나오면 결과 파일 경로를 알려 주는 것으로 대신한다.
 
 ## 렌더는 어디서 도나
-기본은 지금처럼 **GitHub Actions**(원고 JSON을 push → 워크플로가 렌더). 다만 영상 다운로드·긴 렌더가 Actions에서 막히거나 느릴 때는 같은 스크립트를 PC에서 직접 돌려도 된다(`pip install -r requirements.txt`, 필요한 키는 `.env`).
+- **맥(Claude Code)에서는 렌더를 PC에서 한다.** 방법: `./local/render.sh <렌더 명령>` — Docker로 GitHub Actions와 똑같은 우분투 24.04 환경(같은 폰트 경로·ffmpeg·크로미움)을 띄워 그 안에서 실행하므로 코드 수정 없이 같은 결과가 나온다.
+  - 예: `./local/render.sh python -m cardnews.shorts drafts/shorts.json`
+  - 준비(처음 한 번): Docker Desktop 설치·실행, `cp local/env.example .env` 후 키 채우기. 첫 실행 때 상자 만들기에 5~10분.
+  - 첫 실행에서 설치 오류가 나면 `local/Dockerfile`을 고쳐 맞춘다(아직 맥에서 실제로 돌려 본 적 없음).
+- **로컬 렌더는 미리보기용이다.** 결과(`media/…`)를 사용자에게 보여 주고 고치기를 반복한다. 렌더 명령 중 일부(`cardnews.manual`, `cardnews.shorts` 등)는 텔레그램 발송·`state/` 기록·게시 예약까지 하므로, 로컬에서는 렌더 부분만 실행하거나 사용자에게 먼저 확인한다. 로컬 실행으로 생긴 `state/` 변경은 커밋하지 않는다.
+- **확정되면 게시는 기존대로**: `drafts/*.json`을 push → GitHub Actions가 렌더·발송·예약. 예약 게시·투표 마감·토큰 갱신 같은 정해진 시각 작업은 PC가 꺼져 있어도 돌아야 하므로 계속 GitHub Actions에 둔다.
