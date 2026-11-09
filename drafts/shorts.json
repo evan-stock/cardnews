@@ -1,62 +1,113 @@
 {
- "id": "20261109-t18",
+ "id": "20261110-t08",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본: 아빠(원작자)가 거대한 골든리트리버 인형을 소파에 앉혀 쓰다듬자, 치와와가 노려보다가 아빠가 자리를 비운 사이 인형을 물어 끌어내리고 거실 끝 반려견 문 밖으로 끌고 나간 뒤 시치미 떼고 소파에 앉아 있고, 결국 아빠 품을 되찾음. 원본 YouTube Jack Alif 'Jealous Chihuahua Pushes Giant Stuffed Dog!'(2026.11.04, 2,592만 회, 30초, 1080x1920, 캡션 없음, 덧입힌 음악 없음, 사람 말소리 거의 없음 — whisper 확인). 원본 소리(현장음·치와와·인형 끄는 소리) 살림. 사실: UC샌디에이고 Harris & Prouvost(2014, PLOS ONE) — 주인이 움직이는 강아지 인형에 다정하게 굴자 개 약 30%가 사이에 끼어들려 했음.",
+ "topic": "한 원본: 아빠(원작자 @finnthegoldennn0)가 누워서 배 위의 아기 골든리트리버 핀 얼굴에 입김을 '후~' 불자, 핀이 바람을 물려고 앙앙대고 정색하며 노려보고, 마지막엔 귀가 바람에 펄럭이며 하늘로 솟음. 원본 TikTok @finnthegoldennn0 'Has anyone ever experienced this wind tunnel???'(2026.11.02, 23만 회·좋아요 5.8만, 15초, 576x1024, 화면 글자 없음, 덧입힌 음악 없음). 기사 PetHelpful 2026.11.09. 원본 소리: 주인이 처음부터 끝까지 '바람이 동쪽에서 분다…'(메리 포핀스 대사)를 읊는 말소리(whisper 확인) → 재사용 콘텐츠 방지 규칙으로 전 구간 원본 소리 끔, 강아지 소리는 없음.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.6,
+ "bgm_volume": 2.5,
  "sfx_max": 3,
  "style": {
   "band": 480,
   "title_pad_bottom": 18,
-  "sub_y": 0.4
+  "sub_y": 0.74
  },
  "hook": {
-  "t": "아빠가 골댕이 인형만 예뻐했더니\n'치와와가 몰래 벌인 일ㅋㅋ'"
+  "t": "입김 한 번 맞은 아기 골댕이\n'귀가 하늘로 날아감ㅋㅋ'"
  },
  "photo_credits": [
-  "YouTube Jack Alif"
+  "TikTok @finnthegoldennn0"
  ],
+ "credit": "영상: TikTok @finnthegoldennn0",
  "sources": [
   {
-   "publisher": "YouTube Jack Alif - Jealous Chihuahua Pushes Giant Stuffed Dog!",
-   "url": "https://www.youtube.com/shorts/rmkddbZyePE",
-   "date": "2026-11-04"
+   "publisher": "TikTok @finnthegoldennn0 - Has anyone ever experienced this wind tunnel???",
+   "url": "https://www.tiktok.com/@finnthegoldennn0/video/7703626719856463134",
+   "date": "2026-11-02"
   },
   {
-   "publisher": "ScienceDaily (UC San Diego) - Dogs get jealous, study finds (Harris & Prouvost, PLOS ONE)",
-   "url": "https://www.sciencedaily.com/releases/2014/07/140723141716.htm",
-   "date": "2014-07-23"
+   "publisher": "PetHelpful - Golden Retriever Puppy Takes Dad's Harmless Prank as a Personal Attack",
+   "url": "https://pethelpful.com/pet-news/golden-retriever-puppy-offended-dad-blows-in-face",
+   "date": "2026-11-09"
+  },
+  {
+   "publisher": "Business Insider - Veterinarians share 10 ways you could be making your dog angry without realizing (수의사 Agni Voutsinou)",
+   "url": "https://www.businessinsider.in/thelife/news/veterinarians-share-10-ways-you-could-be-making-your-dog-angry-without-realizing/articleshow/90694496.cms",
+   "date": ""
   }
  ],
  "scenes": [
   {
-   "dur": 3.2,
+   "dur": 2.0,
    "video": {
     "src": "video/v1.mp4",
-    "start": 8.6,
-    "zoom": 1.25,
-    "x": 0.2,
-    "y": 0.8,
-    "audio": 1.2
+    "start": 12.9,
+    "zoom": 1.1,
+    "x": 0.55,
+    "y": 0.35,
+    "audio": 0
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "아빠가 새로 데려온 거대 골댕이",
+     "k": "sfx",
+     "t": "(귀 펄럭펄럭)",
      "x": 0.5,
-     "y": 0.07,
+     "y": 0.08,
      "at": 0.0,
-     "to": 3.2
+     "to": 2.0,
+     "s": "whoosh",
+     "sv": 0.6
     },
     {
      "k": "talk",
-     "t": "...쟤 누구야?",
+     "t": "으아아 바람!!",
      "x": 0.3,
+     "y": 0.3,
+     "at": 0.4,
+     "to": 2.0,
+     "size": 84
+    }
+   ]
+  },
+  {
+   "say": "아빠가 얼굴에 '후~' 불었을 뿐인데,",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 0.0,
+    "zoom": 1.1,
+    "x": 0.55,
+    "y": 0.3,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(후~)",
+     "x": 0.2,
      "y": 0.45,
-     "at": 0.3,
-     "to": 3.2,
+     "at": 0.2,
+     "to": 1.4
+    }
+   ]
+  },
+  {
+   "dur": 1.3,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 2.5,
+    "zoom": 1.1,
+    "x": 0.55,
+    "y": 0.3,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "방금... 뭐 했어?",
+     "x": 0.3,
+     "y": 0.2,
+     "at": 0.1,
+     "to": 1.3,
      "size": 84,
      "s": "question",
      "sv": 0.6
@@ -64,168 +115,79 @@
    ]
   },
   {
-   "say": "아빠가 잠깐 자리를 비운 사이,",
+   "dur": 3.7,
    "video": {
     "src": "video/v1.mp4",
-    "start": 11.6,
-    "zoom": 1.25,
-    "x": 0.4,
-    "y": 0.8,
-    "audio": 0.5
+    "start": 3.8,
+    "zoom": 1.1,
+    "x": 0.55,
+    "y": 0.3,
+    "audio": 0
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(기회다)",
-     "x": 0.3,
-     "y": 0.45,
-     "at": 0.6
-    }
-   ]
-  },
-  {
-   "dur": 3.0,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 13.4,
-    "zoom": 1.25,
-    "x": 0.35,
-    "y": 0.85,
-    "audio": 0.7
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(덥석!)",
-     "x": 0.35,
-     "y": 0.3,
-     "at": 0.1,
-     "to": 1.4,
-     "s": "pop",
-     "sv": 0.6
+     "k": "desc",
+     "t": "범인은 아빠인데",
+     "x": 0.5,
+     "y": 0.07,
+     "at": 0.0,
+     "to": 1.8
     },
     {
-     "k": "talk",
-     "t": "내려와!!",
+     "k": "desc",
+     "t": "바람만 잡으려는 중",
+     "x": 0.5,
+     "y": 0.07,
+     "at": 1.8,
+     "to": 3.7
+    },
+    {
+     "k": "sfx",
+     "t": "(앙! 앙!)",
      "x": 0.3,
-     "y": 0.45,
+     "y": 0.25,
      "at": 1.0,
      "to": 3.0,
-     "size": 90
-    }
-   ]
-  },
-  {
-   "dur": 4.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 16.4,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.6,
-    "audio": 1.8
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "질질 끌고 가더니",
-     "x": 0.5,
-     "y": 0.07,
-     "at": 0.0,
-     "to": 2.8
-    },
-    {
-     "k": "sfx",
-     "t": "(강아지 문에 쑤셔 넣음)",
-     "x": 0.5,
-     "y": 0.07,
-     "at": 2.9,
-     "to": 4.6,
-     "s": "whoosh",
+     "s": "pop",
      "sv": 0.6
     }
    ]
   },
   {
-   "dur": 4.4,
+   "say": "수의사들은 입김이 개 코를 말려, 냄새를 헷갈리게 한다고 합니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 21.2,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.6,
-    "audio": 1.5
+    "start": 7.5,
+    "zoom": 1.1,
+    "x": 0.55,
+    "y": 0.3,
+    "audio": 0
    },
    "caps": [
-    {
-     "k": "desc",
-     "t": "돌아온 아빠: 내 골댕이 어디 갔지?",
-     "x": 0.5,
-     "y": 0.07,
-     "at": 0.0,
-     "to": 4.4
-    },
     {
      "k": "talk",
-     "t": "무슨 인형? 처음 듣는데?",
-     "x": 0.58,
+     "t": "(아직 화 안 풀림)",
+     "x": 0.3,
      "y": 0.3,
-     "at": 1.0,
-     "to": 4.4,
-     "size": 72
-    },
-    {
-     "k": "sfx",
-     "t": "(시치미)",
-     "x": 0.75,
-     "y": 0.62,
      "at": 1.6
-    }
-   ]
-  },
-  {
-   "say": "인형 개만 쓰다듬어도, 셋 중 하나는 끼어든다고 합니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 25.6,
-    "zoom": 1.15,
-    "x": 0.5,
-    "y": 0.6,
-    "audio": 0.5
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(아빠 품 되찾음)",
-     "x": 0.35,
-     "y": 0.07,
-     "at": 0.8
-    },
-    {
-     "k": "desc",
-     "t": "UC샌디에이고 연구(2014)",
-     "x": 0.5,
-     "y": 0.93,
-     "size": 34
     }
    ]
   }
  ],
  "yt": {
-  "title": "아빠가 대형 골댕이 인형만 예뻐하자 치와와가 몰래 벌인 일ㅋㅋ",
-  "description": "아빠가 거대한 골든리트리버 인형을 쓰다듬자, 질투 난 치와와가 아빠가 없는 사이 인형을 끌어내려 강아지 문 밖으로 내보냈어요. 실제로 주인이 강아지 인형에 다정하게 굴면 개 셋 중 하나꼴로 사이에 끼어들려 했다는 연구도 있대요(UC샌디에이고, 2014, PLOS ONE).\n\n영상: YouTube Jack Alif\n자료: Harris & Prouvost(2014) 'Jealousy in Dogs', PLOS ONE / ScienceDaily\n\n영상 속 제품(대형 강아지 인형·반려견 출입문)은 프로필 링크에서\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#치와와 #강아지 #질투 #댕댕이 #shorts",
+  "title": "아빠가 얼굴에 바람 불자 바람이랑 싸우기 시작한 아기 골댕이ㅋㅋ #shorts",
+  "description": "누워 있던 아빠가 아기 골든리트리버 핀의 얼굴에 '후~' 입김을 불자, 핀이 바람을 물겠다고 앙앙대며 정색했어요. 수의사들은 얼굴에 바람을 불면 개의 코가 말라 냄새를 잘 못 맡게 되고, 놀라서 입질을 할 수도 있다고 말해요(Business Insider, 수의사 Agni Voutsinou).\n\n영상: TikTok @finnthegoldennn0\n자료: PetHelpful(2026.11.09), Business Insider\n\n영상 속 제품(강아지 장난감·터그 인형)은 프로필 링크에서\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#골든리트리버 #아기골댕이 #강아지 #댕댕이 #shorts",
   "tags": [
-   "치와와",
+   "골든리트리버",
+   "아기 골댕이",
    "강아지",
-   "질투하는 강아지",
    "댕댕이",
-   "골든리트리버 인형",
    "강아지 영상",
    "웃긴 강아지",
-   "jealous chihuahua",
+   "골댕이",
+   "golden retriever puppy",
    "shorts"
   ]
  },
- "publish_now": true,
- "credit": "영상: YouTube Jack Alif"
+ "publish_now": true
 }
