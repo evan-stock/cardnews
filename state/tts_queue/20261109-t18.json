@@ -1,0 +1,36 @@
+{
+ "id": "20261109-t18",
+ "created": "2026-11-09T18:38:08.286766+09:00",
+ "items": [
+  {
+   "key": "2077e9f82b38",
+   "text": "아빠가 잠깐 자리를 비운 사이,",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "582f3fec1d11",
+   "text": "인형 개만 쓰다듬어도, 셋 중 하나는 끼어든다고 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
