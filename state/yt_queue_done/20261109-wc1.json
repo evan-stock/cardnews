@@ -1,0 +1,66 @@
+{
+ "id": "20261109-wc1",
+ "finished_at": "2026-11-09T20:29:57+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=2NxhZrGzzrI",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wc1/video/y1.mp4",
+   "audio": "media/20261109-wc1/video/y1_audio.m4a",
+   "mb": 10.4,
+   "view_count": 4764,
+   "title": "Future USS Cleveland (LCS 31) Being Launched - April 15, 2023 - Marinette, Wisconsin"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=IjxKBVghWFI",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wc1/video/y2.mp4",
+   "audio": "media/20261109-wc1/video/y2_audio.m4a",
+   "mb": 16.0,
+   "view_count": 4041,
+   "title": "Last freedom-class LCS USS CLEVELAND hits tug during launch, April 15"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=2RjeDOlb0QI",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wc1/video/y3.mp4",
+   "audio": "media/20261109-wc1/video/y3_audio.m4a",
+   "mb": 8.7,
+   "view_count": 10110,
+   "title": "Ice cream taste tester John Harrison visits Wegmans"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=bhTkD52suN0",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wc1/video/y4.mp4",
+   "audio": "media/20261109-wc1/video/y4_audio.m4a",
+   "mb": 9.7,
+   "view_count": 2819,
+   "title": "Ice Cream Taster - John Harrison"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/watch?v=gKtWiFyyOGM",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wc1/video/y5.mp4",
+   "audio": "media/20261109-wc1/video/y5_audio.m4a",
+   "mb": 16.0,
+   "view_count": 129278,
+   "title": "Blood Falls | 100 Wonders | Atlas Obscura"
+  }
+ ]
+}
