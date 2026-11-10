@@ -1,0 +1,38 @@
+{
+ "id": "20261110-trumpjensen-reel2",
+ "format": "reel",
+ "slot": "afternoon",
+ "status": "approved",
+ "created_at": "2026-11-10T16:02:28+09:00",
+ "publish_at": "2026-11-10T16:02:28+09:00",
+ "decided_at": "2026-11-10T16:02:28+09:00",
+ "topic": "젠슨 황 스캔들 후속(정보 제공형): 트럼프 '젠슨과 통화, 스파이인 줄 몰랐대, 정말 믿는다' 띠형 릴스",
+ "category": "해외 이슈 · 미중 기술 스파이",
+ "sources": [
+  {
+   "publisher": "BBC(Yahoo 전재)",
+   "date": "2026.11.10",
+   "url": "https://www.yahoo.com/news/articles/trump-says-nvidia-boss-told-225012070.html"
+  },
+  {
+   "publisher": "주간경향(FT·NYT 인용)",
+   "date": "2026.11.07",
+   "url": "https://weekly.khan.co.kr/article/202611071817001"
+  },
+  {
+   "publisher": "X @amitisinvesting(백악관 중계)",
+   "date": "2026.11.09",
+   "url": "https://x.com/amitisinvesting/status/2119914345173864860"
+  }
+ ],
+ "files": [
+  "media/20261110-trumpjensen-reel2/reel.mp4"
+ ],
+ "cover": "media/20261110-trumpjensen-reel2/cover.jpg",
+ "credits": [
+  "백악관 공식 중계"
+ ],
+ "manual": true,
+ "caption_full": "트럼프가 젠슨 황과 직접 통화한 내용을 공개했습니다.\n\n• 9일(현지) 백악관 기자회견에서 트럼프는 \"오늘 젠슨과 통화했다. 그 사람이 스파이인 줄 전혀 몰랐다고 하더라. 나는 정말 믿는다\"고 말했습니다.\n• \"5월 중국 방문 때 알았냐\"는 질문에는 \"그땐 못 들었다\"고 답했습니다.\n• 트럼프는 FBI가 이 관계를 조사하고 있다고 밝혔습니다.\n• 미 하원 공화당 위원장들은 젠슨 황에게 18일 비공개 브리핑 출석을 요청했습니다.\n• 앨리스 황이 중국 스파이라는 건 미 정보당국의 판단(NYT·FT 보도)이고, 중국은 \"근거 없는 모함\"이라고 반박했습니다.\n\n트럼프까지 \"믿는다\"고 한 젠슨 황, 이번 조사를 무사히 넘길 수 있을까요?\n\n팔로우하면 젠슨 황 스캔들 후속을 먼저 받아보실 수 있습니다.\n\n영상: 백악관 공식 중계 / 사진: 넷선더 링크드인(2024)·언론 보도\n#젠슨황 #엔비디아 #트럼프 #중국스파이 #오늘의쓸모",
+ "risk": "정보 제공형. 대사 전체 번역(자동 받아쓰기). 스파이 판단은 미 정보당국(NYT·FT), 중국 반박 한 줄. 15:00 게시본(reel)은 사용자가 보관 처리."
+}
