@@ -11,7 +11,8 @@
   "slides": [
    {
     "t": "허락도 안 했는데 AI가\n식당에 '전화'를 걸었다",
-    "lay": "one"
+    "lay": "one",
+    "raw": true
    },
    {
     "sub": "요즘 뜨는 AI 비서 '피클'",
@@ -47,7 +48,7 @@
    }
   ],
   "images": [
-   "cover_mascot2",
+   "cover_final",
    "call_top",
    "asiae_crop",
    "x_ceo_cap",
