@@ -1,0 +1,56 @@
+{
+ "id": "20261110-t08",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-10T09:22:54.423506+09:00",
+ "publish_at": "2026-11-10T09:22:54.423530+09:00",
+ "publish_now": true,
+ "topic": "한 원본: 아빠(원작자 @finnthegoldennn0)가 누워서 배 위의 아기 골든리트리버 핀 얼굴에 입김을 '후~' 불자, 핀이 바람을 물려고 앙앙대고 정색하며 노려보고, 마지막엔 귀가 바람에 펄럭이며 하늘로 솟음. 원본 TikTok @finnthegoldennn0 'Has anyone ever experienced this wind tunnel???'(2026.11.02, 23만 회·좋아요 5.8만, 15초, 576x1024, 화면 글자 없음, 덧입힌 음악 없음). 기사 PetHelpful 2026.11.09. 원본 소리: 주인이 처음부터 끝까지 '바람이 동쪽에서 분다…'(메리 포핀스 대사)를 읊는 말소리(whisper 확인) → 재사용 콘텐츠 방지 규칙으로 전 구간 원본 소리 끔, 강아지 소리는 없음.",
+ "sources": [
+  {
+   "publisher": "TikTok @finnthegoldennn0 - Has anyone ever experienced this wind tunnel???",
+   "url": "https://www.tiktok.com/@finnthegoldennn0/video/7703626719856463134",
+   "date": "2026-11-02"
+  },
+  {
+   "publisher": "PetHelpful - Golden Retriever Puppy Takes Dad's Harmless Prank as a Personal Attack",
+   "url": "https://pethelpful.com/pet-news/golden-retriever-puppy-offended-dad-blows-in-face",
+   "date": "2026-11-09"
+  },
+  {
+   "publisher": "Business Insider - Veterinarians share 10 ways you could be making your dog angry without realizing (수의사 Agni Voutsinou)",
+   "url": "https://www.businessinsider.in/thelife/news/veterinarians-share-10-ways-you-could-be-making-your-dog-angry-without-realizing/articleshow/90694496.cms",
+   "date": ""
+  }
+ ],
+ "seconds": 13.66,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261110-t08/short.mp4"
+ ],
+ "app_file": "media/20261110-t08/short_nobgm.mp4",
+ "yt": {
+  "title": "아빠가 얼굴에 바람 불자 바람이랑 싸우기 시작한 아기 골댕이ㅋㅋ #shorts",
+  "description": "누워 있던 아빠가 아기 골든리트리버 핀의 얼굴에 '후~' 입김을 불자, 핀이 바람을 물겠다고 앙앙대며 정색했어요. 수의사들은 얼굴에 바람을 불면 개의 코가 말라 냄새를 잘 못 맡게 되고, 놀라서 입질을 할 수도 있다고 말해요(Business Insider, 수의사 Agni Voutsinou).\n\n영상: TikTok @finnthegoldennn0\n자료: PetHelpful(2026.11.09), Business Insider\n\n영상 속 제품(강아지 장난감·터그 인형)은 프로필 링크에서\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#골든리트리버 #아기골댕이 #강아지 #댕댕이 #shorts\n\n출처: TikTok @finnthegoldennn0 - Has anyone ever experienced this wind tunnel??? 2026-11-02, PetHelpful - Golden Retriever Puppy Takes Dad's Harmless Prank as a Personal Attack 2026-11-09, Business Insider - Veterinarians share 10 ways you could be making your dog angry without realizing (수의사 Agni Voutsinou)\n사진·영상: TikTok @finnthegoldennn0\n\n#shorts #골든리트리버 #아기 골댕이 #강아지 #댕댕이",
+  "tags": [
+   "골든리트리버",
+   "아기 골댕이",
+   "강아지",
+   "댕댕이",
+   "강아지 영상",
+   "웃긴 강아지",
+   "골댕이",
+   "golden retriever puppy",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "f31be7a2df8d",
+ "tg_msg": 2253
+}
