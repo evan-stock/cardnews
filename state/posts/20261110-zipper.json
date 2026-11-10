@@ -1,7 +1,7 @@
 {
  "id": "20261110-zipper",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-10T14:38:32.313571+09:00",
  "publish_at": "2026-11-10T14:38:32.313585+09:00",
  "publish_now": true,
@@ -35,5 +35,6 @@
   "channel": "shop"
  },
  "app_file": "media/20261110-zipper/short_card_nomusic.mp4",
- "tg_msg": 2271
+ "tg_msg": 2271,
+ "decided_at": "2026-11-10T15:02:31.149291+09:00"
 }
