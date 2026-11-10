@@ -1,7 +1,7 @@
 {
  "id": "20261110-t13",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-10T14:11:48.301088+09:00",
  "publish_at": "2026-11-10T14:11:48.301109+09:00",
  "publish_now": true,
@@ -57,5 +57,9 @@
   "channel": null
  },
  "draft_hash": "89ae9ea8bbac",
- "tg_msg": 2266
+ "tg_msg": 2266,
+ "decided_at": "2026-11-10T14:14:59.155395+09:00",
+ "yt_id": "bhKa9590Frs",
+ "permalink": "https://youtube.com/shorts/bhKa9590Frs",
+ "published_at": "2026-11-10T14:15:02.684104+09:00"
 }
