@@ -43,13 +43,20 @@ C=[(0,7.4,'11월 9일(현지) · 백악관 기자회견','기자 "5월 중국 �
    (27.9,33.2,'트럼프 대통령','"직접 물었더니','\'전혀 몰랐다\'고 했다"'),
    (33.2,T,'트럼프 대통령','"그리고 나는','정말 그를 믿는다"'),
    (T,T+HOLD,'FBI 조사 중 · 하원은 18일 출석 요청','1년 전 보고받고도','"나는 믿는다"?')]
-PH=[(P1,9.3,14.2),(P2,14.2,17.6)]
+PH=[(P1,9.3,14.5),(P2,14.1,17.6)]
 inputs=['-ss',str(SS),'-t',str(T),'-i',SRC,'-i',f'{W}/top.png']
 fc=(f"[0:v]crop=1575:1050:385:20,scale=1080:{BH},setsar=1,tpad=stop_mode=clone:stop_duration={HOLD}[fg];"
     f"color=black:s=1080x1920:r=30:d={T+HOLD}[bg];[bg][fg]overlay=0:{BY0}:shortest=1[v0]")
 n=2; last='v0'
+FD=0.4  # 자료화면 들어오고 나갈 때 페이드 + 천천히 확대(켄 번스)
 for k,(p,t0,t1) in enumerate(PH):
-    inputs+=['-loop','1','-t',str(T+HOLD),'-i',p]; fc+=f";[{last}][{n}:v]overlay=0:{BY0}:enable='between(t,{t0},{t1})'[ph{k}]"; last=f'ph{k}'; n+=1
+    d=t1-t0; nf=int(d*30)
+    zx='iw/2-(iw/zoom/2)'; zy='ih/2-(ih/zoom/2)'
+    z=f"1+0.10*on/{nf}" if k%2==0 else f"1.10-0.10*on/{nf}"
+    inputs+=['-loop','1','-framerate','30','-t',str(d),'-i',p]
+    fc+=(f";[{n}:v]scale=2160:1440,zoompan=z='{z}':x='{zx}':y='{zy}':d=1:s=1080x720:fps=30,format=rgba,"
+         f"fade=in:st=0:d={FD}:alpha=1,fade=out:st={d-FD}:d={FD}:alpha=1,setpts=PTS+{t0}/TB[pz{k}]"
+         f";[{last}][pz{k}]overlay=0:{BY0}:eof_action=pass[ph{k}]"); last=f'ph{k}'; n+=1
 fc+=f";[{last}][1:v]overlay[t0]"; last='t0'
 for i,(t0,t1,s,b1,b2) in enumerate(C):
     inputs+=['-loop','1','-t',str(T+HOLD),'-i',cap(i,s,b1,b2)]; fc+=f";[{last}][{n}:v]overlay=enable='between(t,{t0},{t1-0.001})'[c{i}]"; last=f'c{i}'; n+=1
