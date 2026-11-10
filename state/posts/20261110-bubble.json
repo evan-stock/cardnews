@@ -1,7 +1,7 @@
 {
  "id": "20261110-bubble",
  "kind": "short",
- "status": "pending",
+ "status": "manual",
  "created_at": "2026-11-10T20:45:53.293282+09:00",
  "publish_at": "2026-11-10T20:45:53.293295+09:00",
  "publish_now": true,
@@ -33,5 +33,6 @@
   "channel": "shop"
  },
  "app_file": "media/20261110-bubble/short_card_nomusic.mp4",
- "tg_msg": 2285
+ "tg_msg": 2285,
+ "decided_at": "2026-11-10T20:53:51.684412+09:00"
 }
