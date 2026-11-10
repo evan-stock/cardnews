@@ -50,3 +50,8 @@
 ## 기록 남기는 곳
 - 유튜브 쇼츠의 업로드 기록·진단·벤치마크·주간성과는 claude.ai 프로젝트 "youtube(털뭉치, 오쓸)" 문서(`claude/...`)에 남긴다(예: `claude/털뭉치_업로드기록_MMDD.md`). 저장소에는 기록 문서를 쓰지 않는다.
 - (2026-11-10 저장소 기록 시험은 같은 날 취소하고 원래대로 되돌림.)
+
+## media/ 정리와 완성본 보관 (2026-11-11 사용자 결정)
+- 원본 영상은 보관하지 않는다(출처·원작자는 state/posts·drafts·업로드 기록에 남음).
+- 매일 03:43 워크플로 media-clean(scripts/media_clean.py)이 안 쓴 후보·거절·만료 폴더를 2일 뒤 지우고, 게시된 것은 완성본만 남긴다.
+- 완성본은 사용자가 "완성본 맥북으로 옮겨줘"라고 할 때 옮긴다(자동 받기는 쓰지 않음): 맥북 ~/Movies 접근 → state/archive_queue.json 목록을 raw.githubusercontent.com 에서 받아 ~/Movies/쇼츠보관/<채널>/<id>/ 에 저장 → 받은 id 를 state/archived.txt 에 더해 push → media-clean 을 실행하면 저장소에서 지워진다. scripts/mac_archive/archive_local.py 는 자동 받기용 스크립트(맥북에 설치 안 됨).
