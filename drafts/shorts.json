@@ -2,7 +2,7 @@
  "id": "20261111-t08",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본: 소파에서 아빠가 엄마 발을 주물러 주자 골든리트리버 브루(Brew)가 코로 엄마 발을 밀어내고 자기 앞발을 내밀어 아빠 손을 차지한 뒤, 엄마 쪽을 힐끔 보며 왕처럼 앉아 발 마사지를 받고 뽀뽀까지 받는 장면. 원본 YouTube 'Brew The Golden' 본인 채널 'He gets so jealous'(2026.11.07, 11.2만 회, 14초, 720x1280, 아래 가운데 캡션 'pov your dog gets a foot rub from dad every night cause he gets jealous' 전 구간 — 크롭으로 밀어냄). 기사 PetHelpful 2026.11.10. 사실: UC샌디에이고 연구(Harris & Prouvost 2014) — 주인이 진짜 같은 강아지 인형에 관심을 주면 개가 사이를 비집고 들어오는 등 질투 행동. 원본 소리: 덧입힌 음악만 있고 사람 말소리 없음(transcribe 'Music') → 원본 음악 살림, 우리 bgm 없음.",
+ "topic": "한 원본: 소파에서 아빠가 엄마 발을 주물러 주자 골든리트리버 브루(Brew)가 코로 엄마 발을 밀어내고 자기 앞발을 내밀어 아빠 손을 차지한 뒤, 엄마 쪽을 힐끔 보며 왕처럼 앉아 발 마사지를 받고 뽀뽀까지 받는 장면. 원본 YouTube 'Brew The Golden' 본인 채널 'He gets so jealous'(2026.11.07, 11.2만 회, 14초, 720x1280, 아래 가운데 캡션 'pov your dog gets a foot rub from dad every night cause he gets jealous' 전 구간 — 크롭으로 밀어냄). 기사 PetHelpful 2026.11.10. 사실: UC샌디에이고 연구(Harris & Prouvost 2014) — 주인이 진짜 같은 강아지 인형에 관심을 주면 개가 사이를 비집고 들어오는 등 질투 행동. 원본 소리: 덧입힌 음악만 있고 사람 말소리 없음(transcribe 'Music') → 사용자 요청(11.11)으로 원본 음악은 끄고 우리 bgm curious_kitten 3.0.",
  "sfx_max": 3,
  "style": {
   "font_talk": "assets/fonts/DoHyeon-Regular.ttf",
@@ -46,7 +46,7 @@
     "zoom": 1.5,
     "x": 0.8,
     "y": 0.36,
-    "audio": 2.0
+    "audio": 0
    },
    "caps": [
     {
@@ -85,7 +85,7 @@
     "zoom": 1.25,
     "x": 0.75,
     "y": 0.15,
-    "audio": 0.5
+    "audio": 0
    },
    "caps": [
     {
@@ -106,7 +106,7 @@
     "zoom": 1.3,
     "x": 0.6,
     "y": 0.18,
-    "audio": 2.0
+    "audio": 0
    },
    "caps": [
     {
@@ -137,7 +137,7 @@
     "zoom": 1.5,
     "x": 0.75,
     "y": 0.36,
-    "audio": 2.0
+    "audio": 0
    },
    "caps": [
     {
@@ -158,7 +158,7 @@
     "zoom": 1.5,
     "x": 0.8,
     "y": 0.36,
-    "audio": 2.0
+    "audio": 0
    },
    "caps": [
     {
@@ -195,7 +195,7 @@
     "zoom": 1.5,
     "x": 0.6,
     "y": 0.36,
-    "audio": 0.4
+    "audio": 0
    },
    "caps": [
     {
@@ -228,5 +228,8 @@
    "오늘의털뭉치"
   ]
  },
- "publish_now": true
+ "publish_now": true,
+ "bgm": "assets/bgm/worthy/curious_kitten.mp3",
+ "bgm_start": 11,
+ "bgm_volume": 3.0
 }
