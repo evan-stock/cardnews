@@ -1,9 +1,11 @@
 {
- "id": "20261110-t13",
+ "id": "20261110-t18",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본(몽타주 대신): 아침에 엄마가 부르자 골든리트리버 리프(Reef)가 눈을 거의 감은 채 거실 끝에서 엄마한테 똑바로 걸어오고, 볼을 쓰다듬어 주자 혀를 빼꼼 내밀고 선 채로 다시 조는 장면. 원본 TikTok @reefthegolden_ 'I cannot with him'(2026.10.26, 110만 회·좋아요 20만, 31초, 576x1024, 위쪽 작은 캡션 'the eepiest of all the eepies this morning' 전 구간 → 크롭으로 화면 밖). 기사 PetHelpful 2026.11.08. 원본 소리: 덧입힌 음악 'Sunlight On The Sill'(Kenta Yamaguchi) + 주인이 'Good morning, baby boy. Are you so eepy?' 뒤로 3~4초마다 'Good morning'을 속삭임(whisper 확인, 0~9·11~12·14~15·17~20·21~23·24~27·30~31초) → 말소리를 음악과 분리할 수 없어 재사용 콘텐츠 방지 규칙으로 원본 소리 전 구간 끔, 우리 bgm curious_kitten. 강아지 소리는 없음.",
+ "topic": "한 원본: 영국 불독 아기 강아지 포크찹(Porkchop)이 점심이 늦는다며 카메라를 올려다보고 왈왈 항의하는 장면. 원본 TikTok @geb_carla1 'Porkchop would like to speak to management'(2026.11.06, 1,030만 회·좋아요 200만, 12.5초, 576x1024, 화면 글자 없음, 원본 소리 original sound — 덧입힌 음악 없음, 강아지 짖는 소리 0.25·1.5·5.5·6.6·9.8초). 기사 PetHelpful 2026.11.09. 사실: AKC 생후 6~12주 하루 네 끼.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
+ "bgm_start": 11,
+ "bgm_volume": 1.0,
  "sfx_max": 3,
  "style": {
   "band": 480,
@@ -11,279 +13,172 @@
   "sub_y": 0.74
  },
  "hook": {
-  "t": "아침에 이름 불렀을 뿐인데\n'눈 감고 자동 주행 중ㅋㅋ'"
+  "t": "밥이 30초 늦었을 뿐인데\n'항의하러 나온 손님ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @reefthegolden_"
+  "TikTok @geb_carla1"
  ],
- "credit": "영상: TikTok @reefthegolden_",
+ "credit": "영상: TikTok @geb_carla1",
  "sources": [
   {
-   "publisher": "TikTok @reefthegolden_ - I cannot with him",
-   "url": "https://www.tiktok.com/@reefthegolden_/video/7700955038352461086",
-   "date": "2026-10-26"
+   "publisher": "TikTok @geb_carla1 - Porkchop would like to speak to management",
+   "url": "https://www.tiktok.com/@geb_carla1/video/7705137955941125406",
+   "date": "2026-11-06"
   },
   {
-   "publisher": "PetHelpful - Golden Retriever Wakes Up Half Asleep and Makes the Sweetest Beeline for Mom",
-   "url": "https://pethelpful.com/pet-news/sleepy-golden-retriever-wakes-up-heads-straight-to-mom",
-   "date": "2026-11-08"
+   "publisher": "PetHelpful - Bulldog Puppy Named Porkchop Isn't Happy With the Service and Wants To Speak to the Manager",
+   "url": "https://pethelpful.com/pet-news/bulldog-puppy-porkchop-unhappy-with-service-speak-to-manager",
+   "date": "2026-11-09"
   },
   {
-   "publisher": "Sleep Foundation - How Much Do Dogs Sleep? (성견 하루 12~14시간)",
-   "url": "https://www.sleepfoundation.org/animals/how-much-do-dogs-sleep",
-   "date": ""
-  },
-  {
-   "publisher": "AKC - Not Just for Cats: Dogs Nap Too",
-   "url": "https://www.akc.org/canine-partners/not-just-for-cats-dogs-nap-too/",
-   "date": ""
+   "publisher": "AKC - Puppy Feeding Fundamentals (생후 6~12주 하루 네 끼)",
+   "url": "https://www.akc.org/expert-advice/nutrition/puppy-feeding-fundamentals/",
+   "date": "2026-10-15"
   }
  ],
  "scenes": [
   {
-   "dur": 2.2,
+   "dur": 2.3,
    "video": {
-    "src": "video/v3.mp4",
-    "start": 17.4,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.68,
-    "audio": 0,
-    "blur": [
-     148,
-     168,
-     284,
-     52
-    ]
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(혀 빼꼼)",
-     "x": 0.5,
-     "y": 0.7,
-     "at": 0.0,
-     "to": 2.2,
-     "s": "sparkle",
-     "sv": 0.5
-    },
-    {
-     "k": "talk",
-     "t": "5분만... 더 잘게...",
-     "x": 0.5,
-     "y": 0.86,
-     "at": 0.4,
-     "to": 2.2,
-     "size": 84
-    }
-   ]
-  },
-  {
-   "say": "엄마가 아침에 '리프~' 하고 불렀더니,",
-   "video": {
-    "src": "video/v3.mp4",
-    "start": 2.5,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.86,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(저 멀리서 등장)",
-     "x": 0.5,
-     "y": 0.08,
-     "at": 0.2,
-     "to": 2.4
-    }
-   ]
-  },
-  {
-   "dur": 5.2,
-   "video": {
-    "src": "video/v3.mp4",
+    "src": "video/v1.mp4",
     "start": 5.2,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.86,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "눈은 아직 안 떴는데",
-     "x": 0.5,
-     "y": 0.07,
-     "at": 0.0,
-     "to": 2.6
-    },
-    {
-     "k": "desc",
-     "t": "엄마 쪽으로 직진 중",
-     "x": 0.5,
-     "y": 0.07,
-     "at": 2.6,
-     "to": 5.2
-    },
-    {
-     "k": "talk",
-     "t": "길은... 몸이 기억해...",
-     "x": 0.5,
-     "y": 0.85,
-     "at": 1.0,
-     "to": 5.2,
-     "size": 80,
-     "s": "sneak",
-     "sv": 0.5
-    }
-   ]
-  },
-  {
-   "dur": 4.0,
-   "video": {
-    "src": "video/v3.mp4",
-    "start": 13.4,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.68,
-    "audio": 0,
-    "blur": [
-     148,
-     168,
-     284,
-     52
-    ]
+    "y": 0.6,
+    "audio": 1.7
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(쓰담쓰담)",
-     "x": 0.78,
-     "y": 0.7,
+     "t": "(항의 중)",
+     "x": 0.5,
+     "y": 0.08,
      "at": 0.0,
-     "to": 2.0
+     "to": 2.3
     },
     {
      "k": "talk",
-     "t": "응... 거기... 거기 좋아...",
+     "t": "내 밥 언제 나와!!!",
      "x": 0.5,
      "y": 0.86,
-     "at": 0.6,
-     "to": 4.0,
-     "size": 80
+     "at": 0.2,
+     "to": 2.3,
+     "size": 86
     }
    ]
   },
   {
-   "dur": 3.6,
+   "say": "아기 강아지는 하루 네 끼를 먹는다는데요,",
    "video": {
-    "src": "video/v3.mp4",
-    "start": 19.6,
+    "src": "video/v1.mp4",
+    "start": 2.0,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.68,
-    "audio": 0,
-    "blur": [
-     148,
-     168,
-     284,
-     52
-    ]
+    "y": 0.5,
+    "audio": 0.4
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "그리고 그대로",
-     "x": 0.5,
-     "y": 0.72,
-     "at": 0.0,
-     "to": 1.6
-    },
-    {
      "k": "sfx",
-     "t": "(선 채로 다시 잠듦)",
+     "t": "(주문한 지 30초 경과)",
      "x": 0.5,
-     "y": 0.72,
-     "at": 1.6,
-     "to": 3.6,
-     "s": "ding",
-     "sv": 0.5
+     "y": 0.08,
+     "at": 0.1,
+     "to": 3.0
     }
    ]
   },
   {
-   "dur": 3.4,
+   "dur": 2.0,
    "video": {
-    "src": "video/v3.mp4",
-    "start": 23.2,
+    "src": "video/v1.mp4",
+    "start": 0.0,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.68,
-    "audio": 0,
-    "blur": [
-     148,
-     168,
-     284,
-     52
-    ]
+    "y": 0.4,
+    "audio": 2.7
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...아직 아침 아니지?",
+     "t": "사장님 나오라 그래!",
      "x": 0.5,
      "y": 0.86,
-     "at": 0.3,
-     "to": 3.4,
-     "size": 80
+     "at": 0.1,
+     "to": 2.0,
+     "size": 86
     }
    ]
   },
   {
-   "say": "성견은 하루 12~14시간을 잔다고 합니다.",
+   "dur": 2.6,
    "video": {
-    "src": "video/v3.mp4",
-    "start": 26.8,
+    "src": "video/v1.mp4",
+    "start": 7.5,
     "zoom": 1.0,
     "x": 0.5,
-    "y": 0.68,
-    "audio": 0,
-    "blur": [
-     148,
-     168,
-     284,
-     52
-    ]
+    "y": 0.45,
+    "audio": 1.7
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(그래서 오늘도 기상 실패)",
+     "t": "(눈빛으로 압박 중)",
      "x": 0.5,
-     "y": 0.92,
-     "at": 0.3,
-     "to": 4.0
+     "y": 0.08,
+     "at": 0.0,
+     "to": 2.0,
+     "s": "dundun",
+     "sv": 0.5
+    },
+    {
+     "k": "talk",
+     "t": "...아직이냐고!",
+     "x": 0.5,
+     "y": 0.86,
+     "at": 1.9,
+     "to": 2.6,
+     "size": 86
+    }
+   ]
+  },
+  {
+   "say": "오늘도 사장님 호출입니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 10.0,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.45,
+    "audio": 0.4
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(다음 끼니까지 못 참음)",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 0.1,
+     "to": 2.4,
+     "s": "pop",
+     "sv": 0.5
     }
    ]
   }
  ],
  "yt": {
-  "title": "아침에 이름 불렀더니 눈도 못 뜨고 엄마한테 걸어오는 잠꾸러기 골댕이ㅋㅋ #shorts",
-  "description": "아침에 엄마가 부르자 골든리트리버 리프가 눈을 거의 감은 채로 거실 끝에서 엄마한테 똑바로 걸어왔어요. 볼을 쓰다듬어 주자 혀를 빼꼼 내밀고 선 채로 다시 꾸벅. 다 큰 개는 하루 12~14시간을 잔다고 해요(Sleep Foundation·AKC).\n\n영상: TikTok @reefthegolden_\n자료: PetHelpful(2026.11.08), Sleep Foundation, AKC\n\n영상 속 제품(강아지 쿠션·방석)은 프로필 링크에서\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#골든리트리버 #골댕이 #강아지 #댕댕이 #shorts",
+  "title": "점심 늦었다고 사장님 찾으며 따지는 아기 불독ㅋㅋ #shorts",
+  "description": "영국 불독 아기 강아지 포크찹이 점심이 30초 늦었다며 주인을 올려다보고 왈왈 항의했어요. 생후 6~12주 강아지는 보통 하루 네 끼를 먹는다고 해요(AKC).\n\n영상: TikTok @geb_carla1\n자료: PetHelpful(2026.11.09), AKC\n\n영상 속 제품(강아지 밥그릇·급식기)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #강아지 #아기강아지 #불독 #댕댕이 #강아지일상",
   "tags": [
-   "골든리트리버",
-   "골댕이",
    "강아지",
+   "아기강아지",
+   "불독",
+   "잉글리시불독",
    "댕댕이",
-   "강아지 영상",
-   "웃긴 강아지",
-   "잠꾸러기 강아지",
-   "golden retriever",
-   "shorts"
+   "shorts",
+   "puppy",
+   "bulldog"
   ]
  },
- "publish_now": true,
- "bgm_start": 11.0,
- "bgm_volume": 3.0
+ "publish_now": true
 }
