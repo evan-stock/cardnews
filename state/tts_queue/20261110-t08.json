@@ -1,0 +1,36 @@
+{
+ "id": "20261110-t08",
+ "created": "2026-11-10T09:05:42.355477+09:00",
+ "items": [
+  {
+   "key": "b0de042f3da3",
+   "text": "아빠가 얼굴에 후~ 불었을 뿐인데,",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "0f99639ba746",
+   "text": "수의사들은 입김이 개 코를 말려, 냄새를 헷갈리게 한다고 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
