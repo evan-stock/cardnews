@@ -1,0 +1,56 @@
+{
+ "id": "20261110-wy1",
+ "finished_at": "2026-11-10T18:36:11+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=r3GoKMjfbL4",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261110-wy1/video/y1.mp4",
+   "mb": 56.4,
+   "error": "재시도 실패",
+   "view_count": 1117309,
+   "title": "Boeing 737 MAX combat landing with spectacular reverse thrust on wet runway"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=hMkLcAstxgA",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "파일이 너무 큼 92MB"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=cjUIOXpjsR4",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Download completed"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=22K4WTNkeOY",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261110-wy1/video/y4.mp4",
+   "mb": 13.8,
+   "view_count": 165323,
+   "title": "17-Year-Old Student Pilot Lands In Beverly After Losing Wheel During Takeoff"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/watch?v=AAJjdA6b4Ts",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261110-wy1/video/y5.mp4",
+   "mb": 17.5,
+   "view_count": 332597,
+   "title": "Underwater Color Loss With GoPro 0 to 155 Feet Depth - Fishing Lure Deep Test"
+  }
+ ]
+}
