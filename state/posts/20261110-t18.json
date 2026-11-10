@@ -1,0 +1,55 @@
+{
+ "id": "20261110-t18",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-10T18:58:10.775450+09:00",
+ "publish_at": "2026-11-10T18:58:10.775471+09:00",
+ "publish_now": true,
+ "topic": "한 원본: 영국 불독 아기 강아지 포크찹(Porkchop)이 점심이 늦는다며 카메라를 올려다보고 왈왈 항의하는 장면. 원본 TikTok @geb_carla1 'Porkchop would like to speak to management'(2026.11.06, 1,030만 회·좋아요 200만, 12.5초, 576x1024, 화면 글자 없음, 원본 소리 original sound — 덧입힌 음악 없음, 강아지 짖는 소리 0.25·1.5·5.5·6.6·9.8초). 기사 PetHelpful 2026.11.09. 사실: AKC 생후 6~12주 하루 네 끼.",
+ "sources": [
+  {
+   "publisher": "TikTok @geb_carla1 - Porkchop would like to speak to management",
+   "url": "https://www.tiktok.com/@geb_carla1/video/7705137955941125406",
+   "date": "2026-11-06"
+  },
+  {
+   "publisher": "PetHelpful - Bulldog Puppy Named Porkchop Isn't Happy With the Service and Wants To Speak to the Manager",
+   "url": "https://pethelpful.com/pet-news/bulldog-puppy-porkchop-unhappy-with-service-speak-to-manager",
+   "date": "2026-11-09"
+  },
+  {
+   "publisher": "AKC - Puppy Feeding Fundamentals (생후 6~12주 하루 네 끼)",
+   "url": "https://www.akc.org/expert-advice/nutrition/puppy-feeding-fundamentals/",
+   "date": "2026-10-15"
+  }
+ ],
+ "seconds": 11.559999999999999,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261110-t18/short.mp4"
+ ],
+ "app_file": "media/20261110-t18/short_nobgm.mp4",
+ "yt": {
+  "title": "점심 늦었다고 사장님 찾으며 따지는 아기 불독ㅋㅋ #shorts",
+  "description": "영국 불독 아기 강아지 포크찹이 점심이 30초 늦었다며 주인을 올려다보고 왈왈 항의했어요. 생후 6~12주 강아지는 보통 하루 네 끼를 먹는다고 해요(AKC).\n\n영상: TikTok @geb_carla1\n자료: PetHelpful(2026.11.09), AKC\n\n영상 속 제품(강아지 밥그릇·급식기)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #강아지 #아기강아지 #불독 #댕댕이 #강아지일상\n\n출처: TikTok @geb_carla1 - Porkchop would like to speak to management 2026-11-06, PetHelpful - Bulldog Puppy Named Porkchop Isn't Happy With the Service and Wants To Speak to the Manager 2026-11-09, AKC - Puppy Feeding Fundamentals (생후 6~12주 하루 네 끼) 2026-10-15\n사진·영상: TikTok @geb_carla1\n음성: Typecast\n\n#shorts #강아지 #아기강아지 #불독 #잉글리시불독",
+  "tags": [
+   "강아지",
+   "아기강아지",
+   "불독",
+   "잉글리시불독",
+   "댕댕이",
+   "shorts",
+   "puppy",
+   "bulldog"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "ae79b3fda49a",
+ "tg_msg": 2281
+}
