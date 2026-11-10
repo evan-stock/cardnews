@@ -1,4 +1,23 @@
-# 효과음 (직접 합성 scripts/sfx/make_sfx.py + 실제 녹음 4종 — 모두 저작권 걱정 없음)
+# 효과음
+
+## 2026.11.11 Pixabay 효과음 45개 추가·6개 교체 (사용자 "합성음 같다, 릴스에서 쓰는 소리 그대로")
+- 출처: Pixabay Sound Effects(Pixabay Content License — 무료, 상업·수익화 가능, 출처 표기 불필요). 사용자 Pixabay 계정으로 크롬에서 받음.
+- 원본 파일·작성자·페이지 주소: `pixabay_sources_1111.csv`(정지·이의제기 근거로 보관).
+- 처리: 앞뒤 무음 제거, 최고 음량 -10.5dB로 통일(기존 투머치 기준), 긴 소리(타자·귀뚜라미 2.5초, 심장·웃음 3초)는 자르고 끝 0.25초 페이드.
+- **교체(옛 파일은 old_1111/)**: pop, whoosh, ding, boing, thud(ground impact), heart(심장 1번)
+- **새 이름** (2 붙은 것은 대체 후보):
+  - 강조·등장: boom(바인 붐) · boom2(시네마틱 붐) · impact(묵직한 충격) · dun(둥)
+  - 전환: whoosh2 · swoosh · swoosh2 · swipe · glitch · glitch2 · riser · riser2(긴장 상승)
+  - 귀여움·포인트: pop2 · bubble · bubble2 · ding2 · boing2
+  - 반전·황당: scratch(레코드 긁기) · scratch2 · cricket(정적·썰렁)
+  - 정답·오답: correct · correct2 · wrong(부저) · wrong2
+  - 돈·숫자: cash(카칭) · cash2 · coin · coin2
+  - 기타: shutter · shutter2(사진) · heartbeat(긴장 심장 3초) · laugh · laugh2(시트콤 웃음) · click · click2 · typing · typing2 · notif · notif2(알림)
+- 그대로 둔 것(Freesound CC0): dundun, sparkle, fail, tada, question, sneak, shock, squeak, slide, tick, poof, nom
+- 되돌리기: old_1111/의 파일을 assets/sfx/로 옮기면 됨.
+
+## 이전 기록
+### (이전 제목) 효과음 (직접 합성 scripts/sfx/make_sfx.py + 실제 녹음 4종 — 모두 저작권 걱정 없음)
 
 2026.10.20 교체(Freesound CC0, 출처 표기 불필요, 수익화 가능 — 다운로드 수 많은 것 위주):
 - boing 띠용 = Cartoon Boing (reelworldstudio, freesound 161122)
