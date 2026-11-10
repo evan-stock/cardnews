@@ -1,5 +1,0 @@
-file '/home/claude/cardnews/media/20261108-krakow-reel/work/s0.mp4'
-file '/home/claude/cardnews/media/20261108-krakow-reel/work/s1.mp4'
-file '/home/claude/cardnews/media/20261108-krakow-reel/work/s2.mp4'
-file '/home/claude/cardnews/media/20261108-krakow-reel/work/s3.mp4'
-file '/home/claude/cardnews/media/20261108-krakow-reel/work/s4.mp4'
