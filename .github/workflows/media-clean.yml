@@ -1,0 +1,23 @@
+name: media-clean
+# 2026.11.11: 안 쓴 후보 원본은 2일 뒤 삭제, 게시된 것은 맥북이 완성본을 받아 가면 삭제(scripts/media_clean.py)
+on:
+  schedule:
+    - cron: "43 18 * * *"   # 03:43 KST
+  workflow_dispatch:
+concurrency: {group: media-clean, cancel-in-progress: false}
+permissions: {contents: write}
+jobs:
+  clean:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    env: {TZ: Asia/Seoul}
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 1}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python scripts/media_clean.py
+      - run: |
+          git config user.name "github-actions[bot]"; git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git add -A media state/archive_queue.json
+          git diff --cached --quiet || { git commit -q -m "media-clean: 오래된 후보 원본 정리"; for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep $((i*7)); done; }
