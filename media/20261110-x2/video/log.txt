@@ -1,0 +1,10 @@
+ERROR: [twitter] 2119982000023212539: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/ganziboy11/status/2119982000023212539
+실패: https://x.com/ganziboy11/status/2119982000023212539
+total 10516
+drwxr-xr-x 2 runner runner     4096 Nov 10 04:30 .
+drwxr-xr-x 3 runner runner     4096 Nov 10 04:30 ..
+-rw-r--r-- 1 runner runner      218 Nov 10 04:30 log.txt
+-rw-r--r-- 1 runner runner 10747600 Nov 10 04:30 v2.mp4
+-rw-r--r-- 1 runner runner      644 Nov 10 04:30 x1.json
+-rw-r--r-- 1 runner runner      605 Nov 10 04:30 x2.json
