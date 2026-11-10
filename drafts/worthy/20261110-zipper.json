@@ -1,0 +1,30 @@
+{
+ "id": "20261110-zipper",
+ "media": "media/20261110-zipper",
+ "topic": "금문교 이동식 중앙분리대(로드 지퍼) — 1970~2014년 다리 가운데엔 25피트마다 꽂은 높이 19인치 노란 플라스틱 막대뿐이라 정면충돌 100건 넘게(16건 사망). 진짜 벽을 세우면 출퇴근 시간마다 차로 수(평소 3:3, 출근 남행 4차로, 퇴근 북행 4차로)를 바꿀 수 없어서, 2015.01 블록 3,517개(개당 680kg)로 된 '움직이는 벽'을 설치하고 노란 트럭이 블록을 S자로 들어 약 3m 옆으로 옮긴다(약 30분). 설치 뒤 정면충돌 없음(CNBC 2018). 사용자 11.10 09:17 회차 1번 선택(쉬는 시간 180.6만 소재 재활용).",
+ "hook": {"t": "정면충돌을 '0'으로\n만든 노란 트럭"},
+ "credit": "영상: Golden Gate Bridge District · Lindsay · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/demon.mp3", "start": 12.0, "vol": 0.26},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "장면 1(1·2컷), 3: Golden Gate Bridge District 공식 페이스북 'Go Inside the Golden Gate Bridge Zipper Truck!'(2017.03.10) — media/20261110-zipper2/video/v1.mp4 (119.0초 운전석 너머 반대편 차, 80.0초·84.5초 컨베이어로 들어오는 블록). 인트로 그래픽·자막 구간 피함.",
+  "장면 1(3컷), 6, 8: Lindsay Infrastructure 공식 페이스북 'The Road Zipper System'(2021.01.29) — v2.mp4 (5.5초 네덜란드, 17.0초 일본 위에서 본 장면, 31.0초 영국). 아래 왼쪽 나라 이름 글자는 크롭.",
+  "모션그래픽: scripts/story_shorts/anim_zipper.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "Golden Gate Bridge Highway & Transportation District 'Moveable Median Barrier' — 2015.01.10 주말 설치, 평소 3:3·출근 남행 4차로·퇴근 북행 4차로, 약 10피트 옮김·약 30분, 2인 1조, 3,000만 달러, 이전 25피트마다 19인치 노란 플라스틱 막대", "url": "https://www.goldengate.org/bridge/bridge-operations/moveable-median-barrier/"},
+  {"publisher": "CNBC 2018.02.08 'The Road Zipper has eliminated head-on collisions on the Golden Gate Bridge' — 3,517개·개당 1,500파운드·높이 32인치, 1970년부터 정면충돌 100건 넘게 그중 16건 사망, 2015 설치 뒤 정면충돌 없음, Lindsay 개발, 샌디에이고·보스턴·필라델피아에서도 사용", "url": "https://www.cnbc.com/2018/02/08/the-road-zipper-eliminated-head-on-collisions-on-golden-gate-bridge.html"}
+ ],
+ "_note": "A=3컷(v1 119.0 운전석 너머 반대편 빨간 픽업이 다가옴 1.5배 / v1 80.0 컨베이어로 들어오는 블록 1.6배 / v2 5.5 네덜란드 S자 트럭) → 컷 1.3·2.5초. 답(왜 옮기나 = 출퇴근 차로 수, 정면충돌)은 before 그래픽(3.6초~)에서 문제, lanes(9.2초~)·zipper(12.2초~)에서 답. 효과음 없음, 원본 소리 끔.",
+ "scenes": [
+  {"text": "이 노란 트럭은 매일 아침 다리 위에서 뭘 할까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.6},
+  {"text": "원래 다리 한가운데엔 플라스틱 막대뿐이었는데", "video": {"src": "gfx/before.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "진짜 벽을 세우면 되잖아? 문제가 하나 있었다", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "출근길엔 시내 쪽 4차로, 퇴근길엔 반대로 4차로", "video": {"src": "gfx/lanes.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "그래서 이 트럭이 벽을 통째로 3m 옮긴다", "video": {"src": "gfx/zipper.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "다리 끝에서 끝까지 약 30분", "video": {"src": "clip/F.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "2015년 설치 뒤, 정면충돌은 0건", "video": {"src": "gfx/result.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "다른 나라의 '움직이는 벽'은 다음 편에서, 구독!", "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6}
+ ]
+}
