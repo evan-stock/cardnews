@@ -2,8 +2,8 @@
  "id": "20261110-t13",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본(몽타주 대신): 아침에 엄마가 부르자 골든리트리버 리프(Reef)가 눈을 거의 감은 채 거실 끝에서 엄마한테 똑바로 걸어오고, 볼을 쓰다듬어 주자 혀를 빼꼼 내밀고 선 채로 다시 조는 장면. 원본 TikTok @reefthegolden_ 'I cannot with him'(2026.10.26, 110만 회·좋아요 20만, 31초, 576x1024, 위쪽 작은 캡션 'the eepiest of all the eepies this morning' 전 구간 → 크롭으로 화면 밖). 기사 PetHelpful 2026.11.08. 원본 소리: 덧입힌 음악 'Sunlight On The Sill'(Kenta Yamaguchi)만 들림 → 살림, 우리 bgm 없음.",
- "bgm": "none",
+ "topic": "한 원본(몽타주 대신): 아침에 엄마가 부르자 골든리트리버 리프(Reef)가 눈을 거의 감은 채 거실 끝에서 엄마한테 똑바로 걸어오고, 볼을 쓰다듬어 주자 혀를 빼꼼 내밀고 선 채로 다시 조는 장면. 원본 TikTok @reefthegolden_ 'I cannot with him'(2026.10.26, 110만 회·좋아요 20만, 31초, 576x1024, 위쪽 작은 캡션 'the eepiest of all the eepies this morning' 전 구간 → 크롭으로 화면 밖). 기사 PetHelpful 2026.11.08. 원본 소리: 덧입힌 음악 'Sunlight On The Sill'(Kenta Yamaguchi) + 주인이 'Good morning, baby boy. Are you so eepy?' 뒤로 3~4초마다 'Good morning'을 속삭임(whisper 확인, 0~9·11~12·14~15·17~20·21~23·24~27·30~31초) → 말소리를 음악과 분리할 수 없어 재사용 콘텐츠 방지 규칙으로 원본 소리 전 구간 끔, 우리 bgm curious_kitten. 강아지 소리는 없음.",
+ "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "sfx_max": 3,
  "style": {
   "band": 480,
@@ -48,7 +48,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.68,
-    "audio": 1.6,
+    "audio": 0,
     "blur": [
      148,
      168,
@@ -86,7 +86,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.86,
-    "audio": 0.6
+    "audio": 0
    },
    "caps": [
     {
@@ -107,7 +107,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.86,
-    "audio": 1.6
+    "audio": 0
    },
    "caps": [
     {
@@ -147,7 +147,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.68,
-    "audio": 1.6,
+    "audio": 0,
     "blur": [
      148,
      168,
@@ -183,7 +183,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.68,
-    "audio": 1.6,
+    "audio": 0,
     "blur": [
      148,
      168,
@@ -220,7 +220,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.68,
-    "audio": 1.6,
+    "audio": 0,
     "blur": [
      148,
      168,
@@ -248,7 +248,7 @@
     "zoom": 1.0,
     "x": 0.5,
     "y": 0.68,
-    "audio": 0.6,
+    "audio": 0,
     "blur": [
      148,
      168,
@@ -270,7 +270,7 @@
  ],
  "yt": {
   "title": "아침에 이름 불렀더니 눈도 못 뜨고 엄마한테 걸어오는 잠꾸러기 골댕이ㅋㅋ #shorts",
-  "description": "아침에 엄마가 부르자 골든리트리버 리프가 눈을 거의 감은 채로 거실 끝에서 엄마한테 똑바로 걸어왔어요. 볼을 쓰다듬어 주자 혀를 빼꼼 내밀고 선 채로 다시 꾸벅. 다 큰 개는 하루 12~14시간을 잔다고 해요(Sleep Foundation·AKC).\n\n영상: TikTok @reefthegolden_\n음악: 원본 영상 소리(Sunlight On The Sill - Kenta Yamaguchi)\n자료: PetHelpful(2026.11.08), Sleep Foundation, AKC\n\n영상 속 제품(강아지 쿠션·방석)은 프로필 링크에서\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#골든리트리버 #골댕이 #강아지 #댕댕이 #shorts",
+  "description": "아침에 엄마가 부르자 골든리트리버 리프가 눈을 거의 감은 채로 거실 끝에서 엄마한테 똑바로 걸어왔어요. 볼을 쓰다듬어 주자 혀를 빼꼼 내밀고 선 채로 다시 꾸벅. 다 큰 개는 하루 12~14시간을 잔다고 해요(Sleep Foundation·AKC).\n\n영상: TikTok @reefthegolden_\n자료: PetHelpful(2026.11.08), Sleep Foundation, AKC\n\n영상 속 제품(강아지 쿠션·방석)은 프로필 링크에서\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#골든리트리버 #골댕이 #강아지 #댕댕이 #shorts",
   "tags": [
    "골든리트리버",
    "골댕이",
@@ -283,5 +283,7 @@
    "shorts"
   ]
  },
- "publish_now": true
+ "publish_now": true,
+ "bgm_start": 11.0,
+ "bgm_volume": 3.0
 }
