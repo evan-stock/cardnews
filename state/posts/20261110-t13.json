@@ -1,0 +1,61 @@
+{
+ "id": "20261110-t13",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-10T14:11:48.301088+09:00",
+ "publish_at": "2026-11-10T14:11:48.301109+09:00",
+ "publish_now": true,
+ "topic": "한 원본(몽타주 대신): 아침에 엄마가 부르자 골든리트리버 리프(Reef)가 눈을 거의 감은 채 거실 끝에서 엄마한테 똑바로 걸어오고, 볼을 쓰다듬어 주자 혀를 빼꼼 내밀고 선 채로 다시 조는 장면. 원본 TikTok @reefthegolden_ 'I cannot with him'(2026.10.26, 110만 회·좋아요 20만, 31초, 576x1024, 위쪽 작은 캡션 'the eepiest of all the eepies this morning' 전 구간 → 크롭으로 화면 밖). 기사 PetHelpful 2026.11.08. 원본 소리: 덧입힌 음악 'Sunlight On The Sill'(Kenta Yamaguchi) + 주인이 'Good morning, baby boy. Are you so eepy?' 뒤로 3~4초마다 'Good morning'을 속삭임(whisper 확인, 0~9·11~12·14~15·17~20·21~23·24~27·30~31초) → 말소리를 음악과 분리할 수 없어 재사용 콘텐츠 방지 규칙으로 원본 소리 전 구간 끔, 우리 bgm curious_kitten. 강아지 소리는 없음.",
+ "sources": [
+  {
+   "publisher": "TikTok @reefthegolden_ - I cannot with him",
+   "url": "https://www.tiktok.com/@reefthegolden_/video/7700955038352461086",
+   "date": "2026-10-26"
+  },
+  {
+   "publisher": "PetHelpful - Golden Retriever Wakes Up Half Asleep and Makes the Sweetest Beeline for Mom",
+   "url": "https://pethelpful.com/pet-news/sleepy-golden-retriever-wakes-up-heads-straight-to-mom",
+   "date": "2026-11-08"
+  },
+  {
+   "publisher": "Sleep Foundation - How Much Do Dogs Sleep? (성견 하루 12~14시간)",
+   "url": "https://www.sleepfoundation.org/animals/how-much-do-dogs-sleep",
+   "date": ""
+  },
+  {
+   "publisher": "AKC - Not Just for Cats: Dogs Nap Too",
+   "url": "https://www.akc.org/canine-partners/not-just-for-cats-dogs-nap-too/",
+   "date": ""
+  }
+ ],
+ "seconds": 25.25,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261110-t13/short.mp4"
+ ],
+ "app_file": "media/20261110-t13/short_nobgm.mp4",
+ "yt": {
+  "title": "아침에 이름 불렀더니 눈도 못 뜨고 엄마한테 걸어오는 잠꾸러기 골댕이ㅋㅋ #shorts",
+  "description": "아침에 엄마가 부르자 골든리트리버 리프가 눈을 거의 감은 채로 거실 끝에서 엄마한테 똑바로 걸어왔어요. 볼을 쓰다듬어 주자 혀를 빼꼼 내밀고 선 채로 다시 꾸벅. 다 큰 개는 하루 12~14시간을 잔다고 해요(Sleep Foundation·AKC).\n\n영상: TikTok @reefthegolden_\n자료: PetHelpful(2026.11.08), Sleep Foundation, AKC\n\n영상 속 제품(강아지 쿠션·방석)은 프로필 링크에서\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#골든리트리버 #골댕이 #강아지 #댕댕이 #shorts\n\n출처: TikTok @reefthegolden_ - I cannot with him 2026-10-26, PetHelpful - Golden Retriever Wakes Up Half Asleep and Makes the Sweetest Beeline for Mom 2026-11-08, Sleep Foundation - How Much Do Dogs Sleep? (성견 하루 12~14시간)\n사진·영상: TikTok @reefthegolden_\n\n#shorts #골든리트리버 #골댕이 #강아지 #댕댕이",
+  "tags": [
+   "골든리트리버",
+   "골댕이",
+   "강아지",
+   "댕댕이",
+   "강아지 영상",
+   "웃긴 강아지",
+   "잠꾸러기 강아지",
+   "golden retriever",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "89ae9ea8bbac",
+ "tg_msg": 2266
+}
