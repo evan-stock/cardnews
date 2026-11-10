@@ -1,0 +1,52 @@
+{
+ "id": "20261110-wb1",
+ "finished_at": "2026-11-10T18:33:20+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=i1NkraXguN0",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Download completed"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=2LnIXwOkt7U",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Download completed"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=N4pSe7ZwEUk",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Download completed"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=3raieJlw8bQ",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261110-wb1/video/y4.mp4",
+   "mb": 2.7,
+   "view_count": 9173,
+   "title": "Rutan Voyager takes off for round the world trip, with Dick Rutan and Jeana Yeager - 14 Dec 1986"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/watch?v=jyRGNcbeS7o",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261110-wb1/video/y5.mp4",
+   "mb": 8.1,
+   "view_count": 73422,
+   "title": "Rutan Voyager - Take off"
+  }
+ ]
+}
