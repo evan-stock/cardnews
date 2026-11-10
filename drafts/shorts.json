@@ -1,183 +1,231 @@
 {
- "id": "20261110-t18",
+ "id": "20261111-t08",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본: 영국 불독 아기 강아지 포크찹(Porkchop)이 점심이 늦는다며 카메라를 올려다보고 왈왈 항의하는 장면. 원본 TikTok @geb_carla1 'Porkchop would like to speak to management'(2026.11.06, 1,030만 회·좋아요 200만, 12.5초, 576x1024, 화면 글자 없음, 원본 소리 original sound — 덧입힌 음악 없음, 강아지 짖는 소리 0.25·1.5·5.5·6.6·9.8초). 기사 PetHelpful 2026.11.09. 사실: AKC 생후 6~12주 하루 네 끼.",
- "bgm": "assets/bgm/worthy/curious_kitten.mp3",
- "bgm_start": 11,
- "bgm_volume": 1.0,
+ "topic": "한 원본: 소파에서 아빠가 엄마 발을 주물러 주자 골든리트리버 브루(Brew)가 코로 엄마 발을 밀어내고 자기 앞발을 내밀어 아빠 손을 차지한 뒤, 엄마 쪽을 힐끔 보며 왕처럼 앉아 발 마사지를 받고 뽀뽀까지 받는 장면. 원본 YouTube 'Brew The Golden' 본인 채널 'He gets so jealous'(2026.11.07, 11.2만 회, 14초, 720x1280, 아래 가운데 캡션 'pov your dog gets a foot rub from dad every night cause he gets jealous' 전 구간 — 크롭으로 밀어냄). 기사 PetHelpful 2026.11.10. 사실: UC샌디에이고 연구(Harris & Prouvost 2014) — 주인이 진짜 같은 강아지 인형에 관심을 주면 개가 사이를 비집고 들어오는 등 질투 행동. 원본 소리: 덧입힌 음악만 있고 사람 말소리 없음(transcribe 'Music') → 원본 음악 살림, 우리 bgm 없음.",
  "sfx_max": 3,
  "style": {
+  "font_talk": "assets/fonts/DoHyeon-Regular.ttf",
+  "talk_scale": 1.25,
+  "talk_stroke": 9,
+  "mascot": null,
+  "sub_y": 0.43,
   "band": 480,
-  "title_pad_bottom": 18,
-  "sub_y": 0.74
+  "title_pad_bottom": 18
  },
  "hook": {
-  "t": "밥이 30초 늦었을 뿐인데\n'항의하러 나온 손님ㅋㅋ'"
+  "t": "엄마 발 마사지 해주던 아빠\n'2초 만에 주인공 바뀜ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @geb_carla1"
+  "YouTube @BrewTheGolden"
  ],
- "credit": "영상: TikTok @geb_carla1",
+ "credit": "영상: YouTube Brew The Golden",
  "sources": [
   {
-   "publisher": "TikTok @geb_carla1 - Porkchop would like to speak to management",
-   "url": "https://www.tiktok.com/@geb_carla1/video/7705137955941125406",
-   "date": "2026-11-06"
+   "publisher": "YouTube Brew The Golden - He gets so jealous",
+   "url": "https://www.youtube.com/shorts/YxI-GuoVXnM",
+   "date": "2026-11-07"
   },
   {
-   "publisher": "PetHelpful - Bulldog Puppy Named Porkchop Isn't Happy With the Service and Wants To Speak to the Manager",
-   "url": "https://pethelpful.com/pet-news/bulldog-puppy-porkchop-unhappy-with-service-speak-to-manager",
-   "date": "2026-11-09"
+   "publisher": "PetHelpful - Golden Retriever Demands a Nightly Foot Rub From Dad After Getting Jealous of Mom",
+   "url": "https://pethelpful.com/pet-news/golden-retriever-demands-foot-rub-from-dad",
+   "date": "2026-11-10"
   },
   {
-   "publisher": "AKC - Puppy Feeding Fundamentals (생후 6~12주 하루 네 끼)",
-   "url": "https://www.akc.org/expert-advice/nutrition/puppy-feeding-fundamentals/",
-   "date": "2026-10-15"
+   "publisher": "Harris & Prouvost (2014) Jealousy in Dogs, PLOS ONE (UC San Diego)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094597",
+   "date": "2014-07-23"
   }
  ],
  "scenes": [
   {
-   "dur": 2.3,
+   "dur": 2.4,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 5.2,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.6,
-    "audio": 1.7
+    "src": "video/y1.mp4",
+    "start": 8.0,
+    "zoom": 1.5,
+    "x": 0.8,
+    "y": 0.36,
+    "audio": 2.0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(항의 중)",
-     "x": 0.5,
-     "y": 0.08,
+     "t": "(당당)",
+     "x": 0.72,
+     "y": 0.13,
      "at": 0.0,
-     "to": 2.3
-    },
-    {
-     "k": "talk",
-     "t": "내 밥 언제 나와!!!",
-     "x": 0.5,
-     "y": 0.86,
-     "at": 0.2,
-     "to": 2.3,
-     "size": 86
-    }
-   ]
-  },
-  {
-   "say": "아기 강아지는 하루 네 끼를 먹는다는데요,",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 2.0,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.4
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(주문한 지 30초 경과)",
-     "x": 0.5,
-     "y": 0.08,
-     "at": 0.1,
-     "to": 3.0
-    }
-   ]
-  },
-  {
-   "dur": 2.0,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 0.0,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.4,
-    "audio": 2.7
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "사장님 나오라 그래!",
-     "x": 0.5,
-     "y": 0.86,
-     "at": 0.1,
-     "to": 2.0,
-     "size": 86
-    }
-   ]
-  },
-  {
-   "dur": 2.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 7.5,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.45,
-    "audio": 1.7
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(눈빛으로 압박 중)",
-     "x": 0.5,
-     "y": 0.08,
-     "at": 0.0,
-     "to": 2.0,
-     "s": "dundun",
-     "sv": 0.5
-    },
-    {
-     "k": "talk",
-     "t": "...아직이냐고!",
-     "x": 0.5,
-     "y": 0.86,
-     "at": 1.9,
-     "to": 2.6,
-     "size": 86
-    }
-   ]
-  },
-  {
-   "say": "오늘도 사장님 호출입니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 10.0,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.45,
-    "audio": 0.4
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(다음 끼니까지 못 참음)",
-     "x": 0.5,
-     "y": 0.08,
-     "at": 0.1,
      "to": 2.4,
-     "s": "pop",
-     "sv": 0.5
+     "s": "sparkle",
+     "sv": 0.6
+    },
+    {
+     "k": "talk",
+     "t": "아빠, 이쪽 발도요",
+     "x": 0.5,
+     "y": 0.24,
+     "at": 0.2,
+     "to": 1.4
+    },
+    {
+     "k": "talk",
+     "t": "더 꾹꾹",
+     "x": 0.5,
+     "y": 0.24,
+     "at": 1.4,
+     "to": 2.4
+    }
+   ]
+  },
+  {
+   "say": "아빠가 엄마 발만 주물러 주자,",
+   "video": {
+    "src": "video/y1.mp4",
+    "start": 0.0,
+    "zoom": 1.25,
+    "x": 0.75,
+    "y": 0.15,
+    "audio": 0.5
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(빤히)",
+     "x": 0.72,
+     "y": 0.14,
+     "at": 0.2,
+     "to": 2.2
+    }
+   ]
+  },
+  {
+   "dur": 1.9,
+   "video": {
+    "src": "video/y1.mp4",
+    "start": 2.2,
+    "zoom": 1.3,
+    "x": 0.6,
+    "y": 0.18,
+    "audio": 2.0
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(코로 밀어내기)",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.0,
+     "to": 1.9,
+     "s": "boing",
+     "sv": 0.6
+    },
+    {
+     "k": "talk",
+     "t": "그 발 말고!",
+     "x": 0.5,
+     "y": 0.3,
+     "at": 0.2,
+     "to": 1.9
+    }
+   ]
+  },
+  {
+   "dur": 1.4,
+   "video": {
+    "src": "video/y1.mp4",
+    "start": 4.1,
+    "zoom": 1.5,
+    "x": 0.75,
+    "y": 0.36,
+    "audio": 2.0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "나도 발 있거든요?",
+     "x": 0.5,
+     "y": 0.14,
+     "at": 0.0,
+     "to": 1.4
+    }
+   ]
+  },
+  {
+   "dur": 2.5,
+   "video": {
+    "src": "video/y1.mp4",
+    "start": 5.5,
+    "zoom": 1.5,
+    "x": 0.8,
+    "y": 0.36,
+    "audio": 2.0
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(엄마 쪽 힐끔)",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.0,
+     "to": 1.3
+    },
+    {
+     "k": "talk",
+     "t": "봤지?",
+     "x": 0.4,
+     "y": 0.24,
+     "at": 0.3,
+     "to": 1.3
+    },
+    {
+     "k": "talk",
+     "t": "아빠 손은 내 거야",
+     "x": 0.5,
+     "y": 0.18,
+     "at": 1.3,
+     "to": 2.5
+    }
+   ]
+  },
+  {
+   "say": "개도 질투를 한다는 연구가 있습니다.",
+   "video": {
+    "src": "video/y1.mp4",
+    "start": 10.3,
+    "zoom": 1.5,
+    "x": 0.6,
+    "y": 0.36,
+    "audio": 0.4
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(뽀뽀까지 받아냄)",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.8,
+     "to": 3.4,
+     "s": "heart",
+     "sv": 0.6
     }
    ]
   }
  ],
  "yt": {
-  "title": "점심 늦었다고 사장님 찾으며 따지는 아기 불독ㅋㅋ #shorts",
-  "description": "영국 불독 아기 강아지 포크찹이 점심이 30초 늦었다며 주인을 올려다보고 왈왈 항의했어요. 생후 6~12주 강아지는 보통 하루 네 끼를 먹는다고 해요(AKC).\n\n영상: TikTok @geb_carla1\n자료: PetHelpful(2026.11.09), AKC\n\n영상 속 제품(강아지 밥그릇·급식기)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #강아지 #아기강아지 #불독 #댕댕이 #강아지일상",
+  "title": "엄마 발 마사지 해주는 아빠를 본 골댕이의 행동ㅋㅋ #shorts",
+  "description": "아빠가 엄마 발만 주물러 주자 골든리트리버 브루가 보인 행동ㅋㅋ 개도 질투를 한다는 연구가 있대요(UC샌디에이고, 2014 PLOS ONE).\n\n영상: YouTube Brew The Golden\n자료: PetHelpful(2026.11.10), Harris & Prouvost(2014)\n\n영상 속 제품(강아지 쿠션·발 보습밤)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #골든리트리버 #골댕이 #강아지 #질투 #댕댕이",
   "tags": [
+   "골든리트리버",
+   "골댕이",
    "강아지",
-   "아기강아지",
-   "불독",
-   "잉글리시불독",
+   "질투하는 강아지",
+   "강아지 질투",
+   "웃긴 강아지",
    "댕댕이",
-   "shorts",
-   "puppy",
-   "bulldog"
+   "반려견",
+   "golden retriever",
+   "jealous dog",
+   "오늘의털뭉치"
   ]
  },
  "publish_now": true
