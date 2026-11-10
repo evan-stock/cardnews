@@ -2,7 +2,7 @@
 
 목소리 도우미(~/.cardnews_tts/tts_local.py, 2분마다)가 끝에 부른다. 1시간에 한 번만 실제로 돈다.
 1) 저장소 state/archive_queue.json(매일 media-clean 이 씀)을 읽고
-2) 각 완성본을 ~/Movies/쇼츠보관/<YYYY-MM>/<id>/ 에 받고
+2) 각 완성본을 ~/Movies/쇼츠보관/<채널>/<id>/ 에 받고
 3) 다 받은 id 를 state/archived.txt 에 더한다 → 다음 media-clean 이 저장소에서 지운다.
 토큰은 목소리 도우미 config.json 의 github_token 을 쓴다.
 """
@@ -48,7 +48,7 @@ def main():
     done = []
     for item in queue:
         pid = item["id"]
-        folder = DEST / f"{pid[:4]}-{pid[4:6]}" / pid
+        folder = DEST / item.get("channel", "기타") / pid
         try:
             for path in item["files"]:
                 out = folder / Path(path).name

@@ -1,6 +1,7 @@
 [
  {
   "id": "20261102-af1leak",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261102-af1leak/01.jpg",
    "media/20261102-af1leak/02.jpg",
@@ -12,12 +13,14 @@
  },
  {
   "id": "20261102-catstop",
+  "channel": "털뭉치",
   "files": [
    "media/20261102-catstop/short.mp4"
   ]
  },
  {
   "id": "20261102-excel",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261102-excel/01.jpg",
    "media/20261102-excel/02.jpg",
@@ -32,18 +35,21 @@
  },
  {
   "id": "20261102-goatbag",
+  "channel": "털뭉치",
   "files": [
    "media/20261102-goatbag/short.mp4"
   ]
  },
  {
   "id": "20261102-skypool",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261102-skypool/short_card.mp4"
   ]
  },
  {
   "id": "20261102-tkdunesco",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261102-tkdunesco/01.jpg",
    "media/20261102-tkdunesco/02.jpg",
@@ -56,18 +62,21 @@
  },
  {
   "id": "20261103-aphid",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261103-aphid/short_card.mp4"
   ]
  },
  {
   "id": "20261103-grudge",
+  "channel": "털뭉치",
   "files": [
    "media/20261103-grudge/short.mp4"
   ]
  },
  {
   "id": "20261103-jdyphoto",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261103-jdyphoto/01.jpg",
    "media/20261103-jdyphoto/02.jpg",
@@ -81,6 +90,7 @@
  },
  {
   "id": "20261103-kimyojong",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261103-kimyojong/01.jpg",
    "media/20261103-kimyojong/02.jpg",
@@ -93,36 +103,42 @@
  },
  {
   "id": "20261103-stare",
+  "channel": "털뭉치",
   "files": [
    "media/20261103-stare/short.mp4"
   ]
  },
  {
   "id": "20261103-sulk2",
+  "channel": "털뭉치",
   "files": [
    "media/20261103-sulk2/short.mp4"
   ]
  },
  {
   "id": "20261103-trumpveto",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261103-trumpveto/reel.mp4"
   ]
  },
  {
   "id": "20261103-whaleshark",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261103-whaleshark/short_card.mp4"
   ]
  },
  {
   "id": "20261104-bigdog",
+  "channel": "털뭉치",
   "files": [
    "media/20261104-bigdog/short.mp4"
   ]
  },
  {
   "id": "20261104-cnchip",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261104-cnchip/01.jpg",
    "media/20261104-cnchip/02.jpg",
@@ -138,12 +154,14 @@
  },
  {
   "id": "20261104-goldduck",
+  "channel": "털뭉치",
   "files": [
    "media/20261104-goldduck/short.mp4"
   ]
  },
  {
   "id": "20261104-midkr",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261104-midkr/01.jpg",
    "media/20261104-midkr/02.jpg",
@@ -158,12 +176,14 @@
  },
  {
   "id": "20261104-pearl",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261104-pearl/short_card.mp4"
   ]
  },
  {
   "id": "20261104-tuporok",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261104-tuporok/01.jpg",
    "media/20261104-tuporok/02.jpg",
@@ -176,24 +196,28 @@
  },
  {
   "id": "20261104-yell",
+  "channel": "털뭉치",
   "files": [
    "media/20261104-yell/short.mp4"
   ]
  },
  {
   "id": "20261105-agarwood",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261105-agarwood/short_card.mp4"
   ]
  },
  {
   "id": "20261105-bandage",
+  "channel": "털뭉치",
   "files": [
    "media/20261105-bandage/short.mp4"
   ]
  },
  {
   "id": "20261105-dessert",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261105-dessert/01.jpg",
    "media/20261105-dessert/02.jpg",
@@ -206,6 +230,7 @@
  },
  {
   "id": "20261105-koreawar",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261105-koreawar/01.jpg",
    "media/20261105-koreawar/02.jpg",
@@ -218,6 +243,7 @@
  },
  {
   "id": "20261105-musklaser",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261105-musklaser/01.jpg",
    "media/20261105-musklaser/02.jpg"
@@ -225,6 +251,7 @@
  },
  {
   "id": "20261105-musklaser2",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261105-musklaser2/01.jpg",
    "media/20261105-musklaser2/02.jpg"
@@ -232,36 +259,42 @@
  },
  {
   "id": "20261105-soupbox",
+  "channel": "털뭉치",
   "files": [
    "media/20261105-soupbox/short.mp4"
   ]
  },
  {
   "id": "20261105-thiel-reel",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261105-thiel-reel/reel.mp4"
   ]
  },
  {
   "id": "20261105-ueno-reel",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261105-ueno-reel/reel.mp4"
   ]
  },
  {
   "id": "20261106-brinicle",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261106-brinicle/short_card.mp4"
   ]
  },
  {
   "id": "20261106-doorplug",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261106-doorplug/short_card.mp4"
   ]
  },
  {
   "id": "20261106-firsts",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261106-firsts/01.jpg",
    "media/20261106-firsts/02.jpg",
@@ -275,84 +308,98 @@
  },
  {
   "id": "20261106-golden",
+  "channel": "털뭉치",
   "files": [
    "media/20261106-golden/short.mp4"
   ]
  },
  {
   "id": "20261106-snowpipe",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261106-snowpipe/short_card.mp4"
   ]
  },
  {
   "id": "20261106-t13",
+  "channel": "털뭉치",
   "files": [
    "media/20261106-t13/short.mp4"
   ]
  },
  {
   "id": "20261106-t18",
+  "channel": "털뭉치",
   "files": [
    "media/20261106-t18/short.mp4"
   ]
  },
  {
   "id": "20261106-xr1-reel",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261106-xr1-reel/reel.mp4"
   ]
  },
  {
   "id": "20261107-backfire",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261107-backfire/short_card.mp4"
   ]
  },
  {
   "id": "20261107-gamdong-reel",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261107-gamdong-reel/reel.mp4"
   ]
  },
  {
   "id": "20261107-snowfire",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261107-snowfire/short_card.mp4"
   ]
  },
  {
   "id": "20261107-t08",
+  "channel": "털뭉치",
   "files": [
    "media/20261107-t08/short.mp4"
   ]
  },
  {
   "id": "20261107-t13",
+  "channel": "털뭉치",
   "files": [
    "media/20261107-t13/short.mp4"
   ]
  },
  {
   "id": "20261107-ueno-reel",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261107-ueno-reel/reel.mp4"
   ]
  },
  {
   "id": "20261108-bushby",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261108-bushby/short_card.mp4"
   ]
  },
  {
   "id": "20261108-glory",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261108-glory/short_card.mp4"
   ]
  },
  {
   "id": "20261108-hanfu",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261108-hanfu/01.jpg",
    "media/20261108-hanfu/02.jpg",
@@ -365,36 +412,42 @@
  },
  {
   "id": "20261108-krakow-reel",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261108-krakow-reel/reel.mp4"
   ]
  },
  {
   "id": "20261108-lineman",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261108-lineman/short_card.mp4"
   ]
  },
  {
   "id": "20261108-t08",
+  "channel": "털뭉치",
   "files": [
    "media/20261108-t08/short.mp4"
   ]
  },
  {
   "id": "20261108-t13",
+  "channel": "털뭉치",
   "files": [
    "media/20261108-t13/short.mp4"
   ]
  },
  {
   "id": "20261108-t18",
+  "channel": "털뭉치",
   "files": [
    "media/20261108-t18/short.mp4"
   ]
  },
  {
   "id": "20261108-texasblue",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261108-texasblue/01.jpg",
    "media/20261108-texasblue/02.jpg",
@@ -410,6 +463,7 @@
  },
  {
   "id": "20261108-trump-ufc",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261108-trump-ufc/01.jpg",
    "media/20261108-trump-ufc/02.jpg",
@@ -423,12 +477,14 @@
  },
  {
   "id": "20261109-burj",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261109-burj/short_card.mp4"
   ]
  },
  {
   "id": "20261109-jensenletter",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261109-jensenletter/01.jpg",
    "media/20261109-jensenletter/02.jpg",
@@ -442,6 +498,7 @@
  },
  {
   "id": "20261109-jensenspy",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261109-jensenspy/01.jpg",
    "media/20261109-jensenspy/02.jpg",
@@ -455,6 +512,7 @@
  },
  {
   "id": "20261109-jensenwife",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261109-jensenwife/01.jpg",
    "media/20261109-jensenwife/02.jpg",
@@ -467,42 +525,49 @@
  },
  {
   "id": "20261109-t08",
+  "channel": "털뭉치",
   "files": [
    "media/20261109-t08/short.mp4"
   ]
  },
  {
   "id": "20261109-t13",
+  "channel": "털뭉치",
   "files": [
    "media/20261109-t13/short.mp4"
   ]
  },
  {
   "id": "20261109-t18",
+  "channel": "털뭉치",
   "files": [
    "media/20261109-t18/short.mp4"
   ]
  },
  {
   "id": "20261109-taster",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261109-taster/short_card.mp4"
   ]
  },
  {
   "id": "20261110-bubble",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261110-bubble/short_card.mp4"
   ]
  },
  {
   "id": "20261110-muskhoney-reel",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261110-muskhoney-reel/reel.mp4"
   ]
  },
  {
   "id": "20261110-pickle",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261110-pickle/01.jpg",
    "media/20261110-pickle/02.jpg",
@@ -516,30 +581,35 @@
  },
  {
   "id": "20261110-t13",
+  "channel": "털뭉치",
   "files": [
    "media/20261110-t13/short.mp4"
   ]
  },
  {
   "id": "20261110-t18",
+  "channel": "털뭉치",
   "files": [
    "media/20261110-t18/short.mp4"
   ]
  },
  {
   "id": "20261110-trumpjensen-reel",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261110-trumpjensen-reel/reel.mp4"
   ]
  },
  {
   "id": "20261110-trumpjensen-reel2",
+  "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261110-trumpjensen-reel2/reel.mp4"
   ]
  },
  {
   "id": "20261110-zipperb",
+  "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261110-zipperb/short_card.mp4"
   ]

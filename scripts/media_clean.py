@@ -25,6 +25,16 @@ DONE = {"published", "manual"}
 SKIP_WORDS = ("nobgm", "nomusic", "candidates", "cover")
 
 
+CHANNELS = {None: "털뭉치", "shop": "오늘의쓸모_유튜브", "life": "인생댓글로정함"}
+
+
+def channel(post):
+    """맥북 보관 폴더 이름: 쇼츠는 유튜브 채널별, 그 밖(카드뉴스·릴스)은 오늘의쓸모_인스타."""
+    if post.get("kind") != "short":
+        return "오늘의쓸모_인스타"
+    return CHANNELS.get((post.get("yt") or {}).get("channel"), "기타_유튜브")
+
+
 def finals(folder):
     """완성본: 폴더 맨 위의 mp4·jpg·png 중 음악 뺀 판·후보 모음·표지는 뺀다."""
     out = []
@@ -44,10 +54,11 @@ def main(dry):
             continue
         age = (today - dt.datetime.strptime(m.group(1), "%Y%m%d").date()).days
         post = POSTS / f"{folder.name}.json"
-        status = None
+        status, info = None, {}
         if post.exists():
             try:
-                status = json.loads(post.read_text(encoding="utf-8")).get("status")
+                info = json.loads(post.read_text(encoding="utf-8"))
+                status = info.get("status")
             except Exception:
                 continue
         if status in GONE and age > KEEP_DAYS:
@@ -58,7 +69,7 @@ def main(dry):
                 gone = [folder] if age > KEEP_DAYS else []
             else:
                 if fs:
-                    queue.append({"id": folder.name, "files": fs})
+                    queue.append({"id": folder.name, "channel": channel(info), "files": fs})
                 keep = {ROOT / f for f in fs}
                 gone = [x for x in folder.iterdir() if x not in keep] if age > KEEP_DAYS and fs else []
         else:
