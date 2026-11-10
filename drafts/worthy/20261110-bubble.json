@@ -1,0 +1,49 @@
+{
+ "id": "20261110-bubble",
+ "media": "media/20261110-bubble",
+ "topic": "얼어붙는 비눗방울 '스노글로브 효과' — 영하의 눈 위에 비눗방울을 내려놓으면 바닥(접촉선)부터 얼기 시작하고, 얼 때 나온 열로 바닥이 약 -6℃·꼭대기 -20℃가 되어 막 속 물이 따뜻한 쪽→차가운 쪽으로 흐른다(마랑고니). 이 흐름이 얼음 결정을 떼어 내 실어 나르며 돌고, 조각마다 새 어는 점이 되어 더 빨리 언다(Ahmadi·Boreyko 외 2019 Nature Communications, 버지니아공대). 사용자 11.10 20:17 회차 2번 선택.",
+ "hook": {
+  "t": "한겨울 밖에서\n'비눗방울'을 불자"
+ },
+ "credit": "영상: Second Nature(Heather Hinam) · Chris Ratzlaff · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/the_awakening.mp3",
+  "start": 30.0,
+  "vol": 0.38
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "장면 1·4·10: Second Nature - Interpretation(Heather Hinam) 'Freezing Bubbles'(2021.01.28, 캐나다 위니펙 영하 28도 아침) https://www.youtube.com/watch?v=33f8G_FnYng — media/20261110-wc1/video/y4.mp4(맥북 유튜브 받기, 조회 15.6만).",
+  "장면 2·3·5·11: Chris Ratzlaff 'frozen bubbles in calgary'(2014.01.07) https://www.youtube.com/watch?v=kcUYvUpc58E — media/20261110-wc1/video/y3.mp4(맥북 유튜브 받기, 조회 146.7만, 원촬영자).",
+  "모션그래픽: scripts/story_shorts/anim_bubble.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "Ahmadi, Nath, Kingett, Yue, Boreyko 'How soap bubbles freeze', Nature Communications 10, 2531 (2019) — 접촉선부터 얼기 시작, 잠열로 바닥-꼭대기 약 14℃ 차이, 마랑고니 흐름이 결정을 떼어 내 '스노글로브'",
+   "url": "https://link.springer.com/content/pdf/10.1038/s41467-019-10021-6.pdf"
+  },
+  {
+   "publisher": "Virginia Tech 보도자료(ScienceDaily 2019.06.22) — -20℃ 냉동실·얼음 바닥에서 재현, 꼭대기 -20℃·바닥 -6℃, '뜨거운 쪽에서 차가운 쪽으로' 흐름, 결정이 수백 개의 새 어는 점, 유튜브 영상을 보고 연구 시작",
+   "url": "https://www.sciencedaily.com/releases/2019/06/190619142553.htm"
+  },
+  {
+   "publisher": "Physics Today 2019.06.20 'Bubbles freeze in a swirl of ice crystals' — 실온 공기에선 공기-바닥 온도 차가 이 효과를 눌러 아래만 얼고 멈춤",
+   "url": "https://physicstoday.aip.org/news/bubbles-freeze-in-a-swirl-of-ice-crystals"
+  }
+ ],
+ "_note": "사용자 11.10 지시(실사 먼저 길게 → 그래픽 → 실사) 적용. 실사 0~10.8초 5장면(A y4 13초 1.9배 / B y3 7.6초 / C y3 5초 막 내려놓은 투명 방울 / D y4 8.6초 첫 조각 / E y3 9.4초 덮여 감) → 그래픽 10.8~20.0초 4장면 → 실사 2장면. 답(왜 도는지)은 10.8초 start 그래픽에서 처음. 효과음 없음, 원본 소리 끔(원본에 음악).",
+ "scenes": [
+  {"text": "이 얼음 조각들은 왜 방울 안을 떠다닐까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 1.4},
+  {"text": "이 얼음 조각들은 왜 방울 안을 떠다닐까요?", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 1.4},
+  {"text": "영하의 아침, 눈 위에 막 내려놓을 땐 투명했는데", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "몇 초 뒤, 어디선가 얼음 조각이 나타나 흘러 다닌다", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "조각은 점점 불어나 방울 전체를 덮어 간다", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "방울은 눈에 닿은 바닥부터 얼기 시작하는데", "video": {"src": "gfx/start.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "얼 때 나온 열로 바닥과 꼭대기 온도가 달라진다", "video": {"src": "gfx/start.mp4", "start": 2.6, "x": 0.5, "y": 0.5}, "dur": 2.2},
+  {"text": "그 온도 차이가 막 속 물을 위로 끌어올리고", "video": {"src": "gfx/flow.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "떨어진 얼음 조각이 그 흐름을 타고 도는 것", "video": {"src": "gfx/flow.mp4", "start": 2.6, "x": 0.5, "y": 0.5}, "dur": 2.2},
+  {"text": "조각마다 새로 얼기 시작해 순식간에 꽁꽁", "video": {"src": "clip/F.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.3},
+  {"text": "실내에서 불면 왜 반만 어는지는 다음 편에서, 구독!", "video": {"src": "clip/G.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4}
+ ]
+}
