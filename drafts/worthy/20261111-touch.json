@@ -1,0 +1,153 @@
+{
+ "id": "20261111-touch",
+ "media": "media/20261111-touch",
+ "topic": "두 손가락 끝을 맞대도 실제로는 닿지 않는다 — 틈을 반씩 26번 줄여 0.33나노미터까지 확대해도 원자를 감싼 전자끼리 밀어내(전자기 반발·파울리 배타 원리) 틈이 남는다. 우리가 느끼는 '닿음'은 이 미는 힘이다. 사용자 11.11 지정 영상(X @meta_pavy, Claude Fable 5.2로 만든 3D 영상), 모션그래픽 없이.",
+ "hook": {
+  "t": "손가락을 맞대면\n진짜 '닿은' 걸까?"
+ },
+ "credit": "영상: Pavian(@meta_pavy, X) · 자막: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/inescapable.mp3",
+  "start": 107.0,
+  "vol": 0.49
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "전 장면: Pavian(@meta_pavy) X 게시물 2120281768964292654(2026.11.10, 'Fable 5.2 버전 … 실은 제논의 역설') https://x.com/meta_pavy/status/2120281768964292654 — media/20261111-touch/video/x1.mp4(fetch-video 20261111-wx1), 아래 영어 자막 구간은 크롭(위 760px만 사용), 1.4~1.8배 빠르게."
+ ],
+ "sources": [
+  {
+   "publisher": "BBC Science Focus 'Why your sense of touch is one of the world's weirdest illusions' — 원자의 전자끼리 밀어내 실제 접촉 없이 힘만 느낀다",
+   "url": "https://www.sciencefocus.com/qanda/touch-illusion-sense"
+  },
+  {
+   "publisher": "ScienceAlert 'Why we can't walk through walls' — 파울리 배타 원리와 전자기 반발",
+   "url": "https://sciencealert.com/why-we-can-t-walk-through-walls-pauli-exclusion-principle-video"
+  }
+ ],
+ "_note": "사용자 지시: 이 영상으로, 모션그래픽 없이. 원본 43.5초를 장면별 1.4~1.8배로 줄여 약 25초. 0초 = 원본 1.5초 손가락 끝 근접(지문). 효과음 없음, 원본 소리 끔.",
+ "scenes": [
+  {
+   "text": "두 손가락 끝을 맞대면, 정말 닿은 걸까요?",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 1.5,
+    "speed": 1.5,
+    "x": 0.62,
+    "y": 0.5
+   },
+   "dur": 1.4
+  },
+  {
+   "text": "두 손가락 끝을 맞대면, 정말 닿은 걸까요?",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 3.6,
+    "speed": 1.571,
+    "x": 0.62,
+    "y": 0.5
+   },
+   "dur": 1.4
+  },
+  {
+   "text": "틈을 반으로, 또 반으로 줄이며 들어가 보면",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 5.8,
+    "speed": 1.6,
+    "x": 0.62,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "지문 골짜기와 죽은 피부 세포가 보이고",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 9.8,
+    "speed": 1.6,
+    "x": 0.62,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "세포 하나의 표면까지 와도 틈은 그대로",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 13.8,
+    "speed": 1.68,
+    "x": 0.62,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "스무 번 가까이 반으로 줄여도 틈은 남아 있고",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 18.0,
+    "speed": 1.76,
+    "x": 0.62,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "드디어 피부를 이루는 원자들이 보이는데",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 22.4,
+    "speed": 1.84,
+    "x": 0.62,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "더 들어가 0.33나노미터, 그래도 붙지 않는다",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 27.0,
+    "speed": 2.143,
+    "x": 0.62,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "원자를 감싼 전자들이 서로 밀어내기 때문",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 33.0,
+    "speed": 1.846,
+    "x": 0.62,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "우리가 '닿았다'고 느끼는 건 바로 이 미는 힘",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 37.8,
+    "speed": 1.385,
+    "x": 0.62,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "의자에 앉아도 떠 있는 셈인 이유는 다음 편에서, 구독!",
+   "video": {
+    "src": "clip/main.mp4",
+    "start": 41.4,
+    "speed": 0.8,
+    "x": 0.88,
+    "y": 0.5
+   },
+   "dur": 2.5
+  }
+ ]
+}
