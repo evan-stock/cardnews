@@ -2,7 +2,7 @@
  "id": "20261111-jensenchip",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-11T12:11:36.310404+09:00",
  "publish_at": "2026-11-11T12:11:36.310467+09:00",
  "topic": "젠슨 황 불륜 상대 앨리스 황 네트워크로 엔비디아 칩 75억 달러(약 10조 원) 중국행 보도 (11.9 jensenspy·jensenletter·jensenwhy 후속)",
@@ -66,5 +66,8 @@
   "media/20261111-jensenchip/05.jpg",
   "media/20261111-jensenchip/06.jpg"
  ],
- "tg_msg": 2306
+ "tg_msg": 2306,
+ "ig_media_id": "18118838285005705",
+ "permalink": "https://www.instagram.com/p/DflfcyNoG30/",
+ "published_at": "2026-11-11T12:15:25.942390+09:00"
 }
