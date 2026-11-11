@@ -7,7 +7,13 @@ D='media/20261111-jensenchina-reel'; W=f'{D}/work'; os.makedirs(W,exist_ok=True)
 FB='assets/fonts/Pretendard-Black.otf'; FM='assets/fonts/Pretendard-Medium.otf'; FX='assets/fonts/Pretendard-ExtraBold.otf'
 Y=(255,216,77); BY0,BH=660,720
 SRC='media/20261111-t20/video/v1.mp4'
-CROP='1080:720:0:340'
+SUB=(1395,180)  # 블룸버그 영어 자막 자리(y, 높이) → 흐리게
+def grad():
+    im=Image.new('RGBA',(1080,1920),(0,0,0,0)); px=im.load()
+    for y in range(1920):
+        a=int(235*max(0,1-y/700)**1.3) if y<700 else (int(225*min(1,(y-1180)/260)) if y>1180 else 0)
+        for x in range(1080): px[x,y]=(0,0,0,a)
+    im.save(f'{W}/grad.png')
 def fit(d,t,f,maxw=940):
     s=f.size
     while d.textlength(t,font=f)>maxw: s-=2; f=ImageFont.truetype(f.path,s)
@@ -26,15 +32,15 @@ def cap(i,small,b1,b2):
     if b1: d.text((70,1540),b1,font=fit(d,b1,ImageFont.truetype(FB,68)),fill=(255,255,255),anchor='ls')
     d.text((70,1625),b2,font=fit(d,b2,ImageFont.truetype(FB,68)),fill=Y,anchor='ls')
     p=f'{W}/cap{i}.png'; im.save(p); return p
-top()
+top(); grad()
 # 1막: 원본 소리 그대로. (원본 시작, 끝, [(원본 시각 a, b, 작은줄, 굵은1, 굵은2)])
-P=[(47.8,54.7,[(47.8,54.7,'젠슨 황 · 엔비디아 CEO','"중국과 경쟁은 하지만','그들은 우리 적이 아닙니다"')]),
-   (54.9,66.2,[(54.9,60.5,'젠슨 황','"AI로부터 세상의 안전을','진심으로 걱정한다면"'),
+P=[(47.8,66.2,[(47.8,54.7,'젠슨 황 · 엔비디아 CEO','"중국과 경쟁은 하지만','그들은 우리 적이 아닙니다"'),
+              (54.7,60.5,'젠슨 황','"AI로부터 세상의 안전을','진심으로 걱정한다면"'),
               (60.5,66.2,'젠슨 황','"당연히 대화를 열고','모든 방법으로 협력해야죠"')]),
    (28.4,37.9,[(28.4,34.9,'미국의 대중국 칩 수출 규제를 두고','"우린 실수를 했어요','되돌리기 어려운 실수죠"'),
               (34.9,37.9,'젠슨 황','"그래도 전 최선을 다했어요','그게 제가 할 수 있는 전부였죠"')]),
-   (66.3,74.9,[(66.3,74.9,'진행자 에밀리 창','"중국이 뭘 하면','\'칩 팔지 말자\' 하시겠어요?"')]),
-   (75.2,80.0,[(75.2,80.0,'젠슨 황','"이론적으론 많겠죠','그들은 실용적인 사람들이에요"')]),
+   (66.3,80.0,[(66.3,75.0,'진행자 에밀리 창','"중국이 뭘 하면','\'칩 팔지 말자\' 하시겠어요?"'),
+              (75.0,80.0,'젠슨 황','"이론적으론 많겠죠','그들은 실용적인 사람들이에요"')]),
    (89.5,93.9,[(89.5,93.9,'젠슨 황','"그들은 중국이 부자 되길 원해요','우린 그 열망을 존중해야 합니다"')])]
 # 2막: 정보(소리 없음). (원본 시작, 길이, 작은줄, 굵은1, 굵은2)
 A=[(0.3,4.3,'한 달도 안 돼 · 미 정보당국 판단 (외신 보도)','젠슨 황, 불륜 인정',"상대는 '중국 포섭' 의심 여성"),
@@ -42,9 +48,9 @@ A=[(0.3,4.3,'한 달도 안 돼 · 미 정보당국 판단 (외신 보도)','젠
 segs=[]; n_=0
 for pi,(a,b,cs) in enumerate(P):
     dur=b-a
-    inputs=['-ss',str(a),'-t',str(dur),'-i',SRC,'-i',f'{W}/top.png']
-    fc=f"[0:v]crop={CROP},setsar=1[fg];color=black:s=1080x1920:r=30:d={dur}[bg];[bg][fg]overlay=0:{BY0}:shortest=1[v0];[v0][1:v]overlay[t0]"
-    n=2; last='t0'
+    inputs=['-ss',str(a),'-t',str(dur),'-i',SRC,'-i',f'{W}/grad.png','-i',f'{W}/top.png']
+    fc=f"[0:v]setsar=1,split[m][b];[b]crop=1080:{SUB[1]}:0:{SUB[0]},boxblur=24:2[bl];[m][bl]overlay=0:{SUB[0]}[v1];[v1][1:v]overlay[g0];[g0][2:v]overlay[t0]"
+    n=3; last='t0'
     for (t0,t1,s_,b1,b2) in cs:
         n_+=1; x0,x1=t0-a,t1-a
         inputs+=['-loop','1','-t',str(dur),'-i',cap(n_,s_,b1,b2)]; fc+=f";[{last}][{n}:v]overlay=enable='between(t,{x0},{x1-0.001})'[c{n_}]"; last=f'c{n_}'; n+=1
@@ -54,11 +60,11 @@ for pi,(a,b,cs) in enumerate(P):
     segs.append(out)
 for k,(ss,dur,s,b1,b2) in enumerate(A):
     cp=cap(100+k,s,b1,b2)
-    fc=(f"[0:v]crop={CROP},setsar=1,eq=saturation=0.6:brightness=-0.05[fg];color=black:s=1080x1920:r=30:d={dur}[bg];[bg][fg]overlay=0:{BY0}:shortest=1,fade=in:st=0:d=0.25[v0];"
-        f"[v0][1:v]overlay[t0];[t0][2:v]overlay,format=yuv420p[vo]")
+    fc=(f"[0:v]setsar=1,eq=saturation=0.6:brightness=-0.05,split[m][b];[b]crop=1080:{SUB[1]}:0:{SUB[0]},boxblur=24:2[bl];[m][bl]overlay=0:{SUB[0]}[v0];"
+        f"[v0][4:v]overlay[g0];[g0][1:v]overlay[t0];[t0][2:v]overlay,format=yuv420p[vo]")
     out=f'{W}/s{k}.mp4'
     subprocess.run(['ffmpeg','-v','error','-y','-ss',str(ss),'-t',str(dur),'-i',SRC,'-i',f'{W}/top.png','-loop','1','-t',str(dur),'-i',cp,
-        '-f','lavfi','-t',str(dur),'-i','anullsrc=r=44100:cl=stereo','-filter_complex',fc,'-map','[vo]','-map','3:a',
+        '-f','lavfi','-t',str(dur),'-i','anullsrc=r=44100:cl=stereo','-i',f'{W}/grad.png','-filter_complex',fc,'-map','[vo]','-map','3:a',
         '-t',str(dur),'-r','30','-c:v','libx264','-preset','veryfast','-crf','20','-c:a','aac','-ar','44100','-ac','2','-b:a','160k',out],check=True)
     segs.append(out)
 open(f'{W}/list.txt','w').write(''.join(f"file '{os.path.abspath(s)}'\n" for s in segs))
