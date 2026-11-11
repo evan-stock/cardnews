@@ -2,7 +2,7 @@
  "id": "20261111-jensennext",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-11T18:35:24.530335+09:00",
  "publish_at": "2026-11-11T18:33:05+09:00",
  "topic": "젠슨 황 사임 대비 후임 물색 보도(디인포메이션): 리사 수·르네 하스·콜레트 크레스 거론 (jensenchip 후속)",
@@ -76,5 +76,9 @@
   "media/20261111-jensennext/06.jpg",
   "media/20261111-jensennext/07.jpg"
  ],
- "tg_msg": 2340
+ "tg_msg": 2340,
+ "decided_at": "2026-11-11T18:41:10.566878+09:00",
+ "ig_media_id": "18103323866378782",
+ "permalink": "https://www.instagram.com/p/DfmLvuSESOH/",
+ "published_at": "2026-11-11T18:42:00.053268+09:00"
 }
