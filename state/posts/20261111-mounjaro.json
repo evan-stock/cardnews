@@ -2,7 +2,7 @@
  "id": "20261111-mounjaro",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-11T18:18:28.138554+09:00",
  "publish_at": "2026-11-11T18:16:19+09:00",
  "topic": "일본 등 해외 처방 마운자로 휴대반입 허용, 최대 12개(MTN 단독)",
@@ -76,5 +76,9 @@
   "media/20261111-mounjaro/06.jpg",
   "media/20261111-mounjaro/07.jpg"
  ],
- "tg_msg": 2327
+ "tg_msg": 2327,
+ "decided_at": "2026-11-11T18:21:29.194109+09:00",
+ "ig_media_id": "18115478594190346",
+ "permalink": "https://www.instagram.com/p/DfmJfPOlqNB/",
+ "published_at": "2026-11-11T18:22:46.436564+09:00"
 }
