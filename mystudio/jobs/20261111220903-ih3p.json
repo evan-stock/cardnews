@@ -12,7 +12,35 @@
   "thumb": null,
   "cover": null,
   "publish_at": null,
-  "status": "queued",
-  "attempts": 0,
-  "created_at": "2026-11-11T13:09:03.836Z"
+  "status": "done",
+  "attempts": 1,
+  "created_at": "2026-11-11T13:09:03.836Z",
+  "result": {
+    "instagram": [
+      {
+        "account": "",
+        "username": "today.worthy"
+      }
+    ],
+    "youtube": [
+      {
+        "channel": "shop",
+        "title": "오늘의쓸모",
+        "id": "UCYQNPA-oewWMoaFvL0HY2og"
+      },
+      {
+        "channel": "life",
+        "title": "인생 댓글로 정함",
+        "id": "UCBNAQ50WhOOD8uLZDj9Y50w"
+      },
+      {
+        "channel": "",
+        "title": "오늘의 털뭉치",
+        "id": "UCfMNny--gglnXUIHZSIFdFw"
+      }
+    ]
+  },
+  "error": null,
+  "done_at": "2026-11-11T13:09:17.630Z",
+  "updated_at": "2026-11-11T13:09:17.630Z"
 }
