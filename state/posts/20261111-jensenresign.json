@@ -2,7 +2,7 @@
  "id": "20261111-jensenresign",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-11T19:03:45.224380+09:00",
  "publish_at": "2026-11-11T20:00:00+09:00",
  "topic": "공화당 크레이머 상원의원, 젠슨 황 사임 요구(로이터·폴리티코 11.10)",
@@ -77,5 +77,8 @@
   "media/20261111-jensenresign/06.jpg",
   "media/20261111-jensenresign/07.jpg"
  ],
- "tg_msg": 2352
+ "tg_msg": 2352,
+ "ig_media_id": "18101735978425787",
+ "permalink": "https://www.instagram.com/p/DfmU341kQxS/",
+ "published_at": "2026-11-11T20:01:44.718014+09:00"
 }
