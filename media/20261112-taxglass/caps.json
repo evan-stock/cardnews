@@ -1,0 +1,36 @@
+[
+ {
+  "out": "media/20261112-taxglass/cand/c03.jpg",
+  "sub": "커뮤니티 반응 · 공단 점수분포표",
+  "title": "1차 세법 90점대 '0명',\n그런데 혼자 '100점'",
+  "cap": "media/20261112-taxglass/cand/k_x2.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 720,
+  "caption": "온라인 커뮤니티 게시물 캡처(X 게시물 첨부 이미지)"
+ },
+ {
+  "out": "media/20261112-taxglass/cand/c04.jpg",
+  "sub": "커뮤니티 반응 · 의심의 논리",
+  "title": "계산은 만점,\n'판례 서술'만 57점",
+  "cap": "media/20261112-taxglass/cand/k_x14.png",
+  "cap_max_h": 740,
+  "caption": "온라인 커뮤니티 게시물·댓글 캡처(X 게시물 첨부 이미지)"
+ },
+ {
+  "out": "media/20261112-taxglass/cand/c02b.jpg",
+  "sub": "커뮤니티에 퍼진 글 · 확인되지 않은 내용 포함",
+  "title": "\"지텔프 '20번' 떨어졌다\"\n노베이스 엔지니어의 수석",
+  "cap": "media/20261112-taxglass/cand/k_x3.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 740,
+  "caption": "온라인 커뮤니티 게시물 캡처(X 게시물 첨부 이미지)"
+ }
+]
