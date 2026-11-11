@@ -1,0 +1,36 @@
+{
+ "id": "20261111-touch",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-11T14:29:17.858398+09:00",
+ "publish_at": "2026-11-11T14:29:17.858410+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 손가락을 맞대도 실제로는 닿지 않는 이유(전자 반발)",
+ "sources": [],
+ "seconds": 25.8,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261111-touch/short_card.mp4"
+ ],
+ "yt": {
+  "title": "손가락을 맞대면 진짜 닿은 걸까? #shorts",
+  "description": "두 손가락 끝을 맞대고, 그 틈을 반으로 또 반으로 26번 줄여 0.33나노미터까지 확대해 봤습니다. 지문 골짜기, 죽은 피부 세포, 피부를 이루는 원자까지 보이는데 틈은 끝내 닫히지 않습니다.\n\n이유는 원자 바깥을 둘러싼 전자들입니다. 원자끼리 가까워지면 같은 음전하를 띤 전자들이 서로 강하게 밀어내고(전자기 반발), 전자 둘이 같은 상태에 겹칠 수 없다는 파울리 배타 원리까지 더해져 더 들어가지 못합니다. 우리가 손끝으로 '닿았다'고 느끼는 감각은 사실 이 밀어내는 힘을 신경이 읽은 결과로 설명됩니다. 그래서 의자에 앉아 있을 때도 엄밀히는 아주 조금 떠 있는 셈입니다. 다만 물리학자들 사이에서도 '닿음'을 전자가 밀어내는 거리로 정의하면 이것이 곧 닿은 것이라는 반론이 있습니다.\n\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: BBC Science Focus 'Why your sense of touch is one of the world's weirdest illusions', ScienceAlert 'Why we can't walk through walls'(파울리 배타 원리)\n영상: Pavian(@meta_pavy, X 2026.11.10) — Claude Fable 5.2로 만든 3D 영상\nhttps://x.com/meta_pavy/status/2120281768964292654\n\n#shorts #과학 #원자 #전자 #물리 #신기한사실 #오늘의쓸모",
+  "tags": [
+   "원자",
+   "전자",
+   "물리",
+   "과학",
+   "파울리 배타 원리",
+   "신기한 사실",
+   "오늘의쓸모"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "app_file": "media/20261111-touch/short_card_nomusic.mp4",
+ "tg_msg": 2314
+}
