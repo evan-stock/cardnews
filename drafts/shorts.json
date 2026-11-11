@@ -1,293 +1,256 @@
 {
- "id": "20261111-t18",
+ "id": "20261112-t08",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본: 고양이랑 일주일 같이 산 강아지 스노위(치와와·푸들·테리어 믹스)가 펜스 안에서 주인을 보며 '야옹' 같은 작은 소리를 계속 내다가, 마지막에 '멍!' 하고 본캐가 나옴. 원본 TikTok @house.of.barks 'Catdog?'(2025.11.04, 330만 회·좋아요 70만, 41초, 576x1024). 원본 글자: 아래 가운데 '1 week after living with a cat'(전 구간), 위 'Meow' 자막(5초 등 몇 번) → 크롭 1.6배로 둘 다 밀어냄. 사실: Newsweek(2026.02) 보도 — 330만 회 넘게 재생, 주인 말로는 치와와·푸들·테리어 믹스. 원본 소리: 강아지 소리만 있고 사람 말소리 없음(transcribe 결과 없음) → 살리고 크게 키움.",
+ "topic": "한 원본: 골든리트리버가 주인에게 돼지귀 간식을 받자마자 바로 먹지 않고 바닥에 내려놓은 뒤 그 주위를 깡충깡충 뛰고 엎드리며 '해석 무용(interpretive dance)' 같은 의식을 치름. 원본 TikTok @abigaillouise889(2026.10, PetHelpful 2026.10.28 기사로 확인, 21.4초, 576x1024). 원본 글자: 아래 가운데 'The offering has been taken. Let the interpretive dance ceremony begin'(원본 y 0.76~0.82, 전 구간) → zoom 1.15·y 0 크롭으로 화면 밖으로 밀어냄. 사실: 앞다리를 쭉 뻗고 엉덩이를 드는 자세는 '플레이 바우' — '같이 놀자'는 신호(Rover·Kinship). 원본 소리: 덧입힌 음악만(transcribe 'Music', 사람 말소리 없음) → 지시문대로 원본 음악 살림, 우리 bgm 0.",
  "sfx_max": 3,
  "style": {
-  "font_talk": "assets/fonts/DoHyeon-Regular.ttf",
-  "talk_scale": 1.25,
-  "talk_stroke": 9,
   "mascot": null,
-  "sub_y": 0.64,
   "band": 480,
-  "title_pad_bottom": 18
+  "title_pad_bottom": 18,
+  "sub_y": 0.42
  },
  "hook": {
-  "t": "고양이랑 일주일 살았더니\n'강아지 말투가 바뀜ㅋㅋ'"
+  "t": "귀한 간식 받은 날\n'거실에서 의식 시작함ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @house.of.barks"
+  "TikTok @abigaillouise889"
  ],
- "credit": "영상: TikTok @house.of.barks",
+ "credit": "영상: TikTok @abigaillouise889",
  "sources": [
   {
-   "publisher": "TikTok @house.of.barks - Catdog?",
-   "url": "https://www.tiktok.com/@house.of.barks/video/7568866553937104141",
-   "date": "2025-11-04"
+   "publisher": "TikTok @abigaillouise889",
+   "url": "https://www.tiktok.com/@abigaillouise889/video/7700112941458132231",
+   "date": "2026-10"
   },
   {
-   "publisher": "Newsweek - Puppy Spends 1 Week Living With Cat—Laughter at What He's Already Learned",
-   "url": "https://www.newsweek.com/puppy-spends-week-living-cat-laughter-learned-11509707",
-   "date": "2026-02-12"
+   "publisher": "PetHelpful - Golden Retriever Gets a Treat and Celebrates With the Most Hilarious Interpretive Dance",
+   "url": "https://pethelpful.com/pet-news/golden-retriever-gets-treat-celebrates-with-hilarious-interpretive-dance",
+   "date": "2026-10-28"
+  },
+  {
+   "publisher": "Rover - Dog Play Bow",
+   "url": "https://www.rover.com/blog/dog-play-bow",
+   "date": ""
   }
  ],
  "scenes": [
   {
-   "dur": 2.4,
+   "dur": 1.25,
    "video": {
-    "src": "video/v2.mp4",
-    "start": 16.0,
-    "zoom": 1.6,
+    "src": "video/v1.mp4",
+    "start": 0.5,
+    "zoom": 1.15,
     "x": 0.5,
-    "y": 0.34,
-    "audio": 20
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "야~옹",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.0,
-     "to": 1.2
-    },
-    {
-     "k": "talk",
-     "t": "나 고양이 맞다니까?",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 1.2,
-     "to": 2.4
-    }
-   ]
-  },
-  {
-   "say": "고양이랑 일주일 같이 살았을 뿐인데요,",
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 0.3,
-    "zoom": 1.6,
-    "x": 0.5,
-    "y": 0.34,
-    "audio": 0
+    "y": 0.0,
+    "audio": 1.6
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(합사 1주차)",
+     "t": "(받았다)",
      "x": 0.5,
-     "y": 0.12,
+     "y": 0.13,
+     "at": 0.0,
+     "to": 0.55,
+     "s": "sparkle",
+     "sv": 0.6
+    },
+    {
+     "k": "talk",
+     "t": "이거... 진짜 내 거야?",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.55,
+     "to": 1.25
+    }
+   ]
+  },
+  {
+   "say": "간식을 받은 골댕이가 바로 먹지 않고 시작한 건,",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 3.0,
+    "zoom": 1.15,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0.4
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(일단 내려놓고)",
+     "x": 0.5,
+     "y": 0.13,
      "at": 0.2,
-     "to": 2.6,
-     "s": "pop",
-     "sv": 0.5
+     "to": 2.8
+    }
+   ]
+  },
+  {
+   "dur": 2.4,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 5.6,
+    "zoom": 1.15,
+    "x": 0.45,
+    "y": 0.0,
+    "audio": 1.6
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "지금부터",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.0,
+     "to": 0.7
+    },
+    {
+     "k": "sfx",
+     "t": "(앞발 번쩍)",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.7,
+     "to": 1.3,
+     "s": "boing",
+     "sv": 0.6
+    },
+    {
+     "k": "talk",
+     "t": "간식님께 춤을 바친다",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 1.3,
+     "to": 2.4
     }
    ]
   },
   {
    "dur": 2.6,
    "video": {
-    "src": "video/v2.mp4",
-    "start": 4.3,
-    "zoom": 1.6,
-    "x": 0.5,
-    "y": 0.34,
-    "audio": 18
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(엄마 빤히)",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.0,
-     "to": 0.6
-    },
-    {
-     "k": "talk",
-     "t": "야옹",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.7,
-     "to": 1.6
-    },
-    {
-     "k": "talk",
-     "t": "이렇게 하는 거 맞지?",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 1.6,
-     "to": 2.6
-    }
-   ]
-  },
-  {
-   "dur": 2.4,
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 7.0,
-    "zoom": 1.6,
-    "x": 0.5,
-    "y": 0.34,
-    "audio": 18
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "냐앙~",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.1,
-     "to": 1.0
-    },
-    {
-     "k": "sfx",
-     "t": "(냥냥펀치 장전)",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 1.0,
-     "to": 2.4,
-     "s": "boing",
-     "sv": 0.5
-    }
-   ]
-  },
-  {
-   "dur": 2.0,
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 10.0,
-    "zoom": 1.6,
-    "x": 0.5,
-    "y": 0.34,
-    "audio": 14
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "고양이 형한테",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.0,
-     "to": 1.0
-    },
-    {
-     "k": "talk",
-     "t": "다 배웠어",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 1.0,
-     "to": 2.0
-    }
-   ]
-  },
-  {
-   "dur": 2.0,
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 12.6,
-    "zoom": 1.6,
-    "x": 0.5,
-    "y": 0.34,
-    "audio": 18
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "웅냥냥...",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.0,
-     "to": 1.0
-    },
-    {
-     "k": "talk",
-     "t": "근데 멍은 어떻게 하더라",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 1.0,
-     "to": 2.0
-    }
-   ]
-  },
-  {
-   "say": "엄연히 치와와, 푸들, 테리어 믹스 강아지입니다.",
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 29.3,
-    "zoom": 1.3,
+    "src": "video/v1.mp4",
+    "start": 8.0,
+    "zoom": 1.15,
     "x": 0.5,
     "y": 0.0,
-    "audio": 0
+    "audio": 1.6
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(본캐: 강아지)",
-     "x": 0.24,
-     "y": 0.12,
-     "at": 0.3,
-     "to": 3.0,
-     "s": "ding",
-     "sv": 0.5
-    }
-   ]
-  },
-  {
-   "dur": 2.3,
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 38.9,
-    "zoom": 1.6,
-    "x": 0.5,
-    "y": 0.34,
-    "audio": 1.8
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(그 순간)",
+     "k": "talk",
+     "t": "한 바퀴 돌고",
      "x": 0.5,
-     "y": 0.12,
+     "y": 0.13,
      "at": 0.0,
      "to": 1.3
     },
     {
      "k": "talk",
-     "t": "멍!",
+     "t": "냄새 한 번 맡고",
      "x": 0.5,
-     "y": 0.12,
-     "at": 1.35,
-     "to": 2.3
+     "y": 0.13,
+     "at": 1.3,
+     "to": 2.6
+    }
+   ]
+  },
+  {
+   "dur": 2.2,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 10.7,
+    "zoom": 1.15,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 1.6
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "아직 먹으면 안 돼...",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.0,
+     "to": 1.0
     },
     {
      "k": "sfx",
-     "t": "(앗 본캐 나옴)",
+     "t": "(점프!)",
      "x": 0.5,
-     "y": 0.62,
-     "at": 1.6,
-     "to": 2.3
+     "y": 0.13,
+     "at": 1.0,
+     "to": 2.2
+    }
+   ]
+  },
+  {
+   "say": "엉덩이를 들고 앞발을 뻗는 건, '같이 놀자'는 플레이 바우 자세입니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 13.3,
+    "zoom": 1.15,
+    "x": 0.4,
+    "y": 0.0,
+    "audio": 0.4
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(간식이랑 노는 중)",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.3,
+     "to": 3.5
+    }
+   ]
+  },
+  {
+   "dur": 2.6,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 18.6,
+    "zoom": 1.15,
+    "x": 0.4,
+    "y": 0.0,
+    "audio": 1.6
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "의식 끝.",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.0,
+     "to": 1.2,
+     "s": "ding",
+     "sv": 0.6
+    },
+    {
+     "k": "talk",
+     "t": "이제 먹는다",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 1.2,
+     "to": 2.6
     }
    ]
   }
  ],
  "yt": {
-  "title": "고양이랑 일주일 같이 산 강아지에게 생긴 일ㅋㅋ #shorts",
-  "description": "고양이랑 일주일 같이 살았더니 '야옹'을 배워 버린 강아지 스노위ㅋㅋ 마지막엔 결국 본캐가 나옵니다. 주인 말로는 치와와·푸들·테리어 믹스래요(Newsweek).\n\n영상: TikTok @house.of.barks\n자료: Newsweek - Puppy Spends 1 Week Living With Cat\n\n영상 속 제품(강아지 방석, 펫 펜스)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #강아지 #고양이 #합사 #강아지소리 #귀여운동물",
+  "title": "간식 받은 골댕이가 바로 안 먹는 이유ㅋㅋ #shorts",
+  "description": "귀한 돼지귀 간식을 받자마자 바닥에 내려놓고 깡충깡충 의식부터 치르는 골댕이ㅋㅋ 엉덩이를 들고 앞발을 뻗는 자세는 '같이 놀자'는 플레이 바우래요.\n\n영상: TikTok @abigaillouise889\n자료: PetHelpful - Golden Retriever Gets a Treat and Celebrates With the Most Hilarious Interpretive Dance / Rover - Dog Play Bow\n\n영상 속 제품(강아지 수제 간식, 노즈워크 매트)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #골든리트리버 #골댕이 #강아지간식 #대형견 #귀여운강아지",
   "tags": [
+   "골든리트리버",
+   "골댕이",
    "강아지",
-   "고양이",
-   "합사",
-   "야옹",
-   "강아지소리",
+   "강아지간식",
+   "플레이바우",
+   "대형견",
    "귀여운강아지",
-   "믹스견",
    "shorts"
   ]
  },
  "publish_now": true,
- "bgm": "assets/bgm/worthy/curious_kitten.mp3",
- "bgm_start": 11,
- "bgm_volume": 0.7
+ "bgm_volume": 0.0
 }
