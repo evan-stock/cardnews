@@ -1,1 +1,9 @@
-⏳ 2개 장면 목소리를 맥북에서 만드는 중
+장면 1/8 silent 누적 2.4초
+장면 2/8 typecast 누적 4.8초
+장면 3/8 silent 누적 7.4초
+장면 4/8 silent 누적 9.8초
+장면 5/8 silent 누적 11.8초
+장면 6/8 silent 누적 13.8초
+장면 7/8 typecast 누적 17.6초
+장면 8/8 silent 누적 19.9초
+완성: /home/runner/work/cardnews/cardnews/media/20261111-t18/short.mp4 (19.9초, TTS ['silent', 'typecast'])

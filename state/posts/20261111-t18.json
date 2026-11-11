@@ -1,0 +1,50 @@
+{
+ "id": "20261111-t18",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-11T18:32:34.940990+09:00",
+ "publish_at": "2026-11-11T18:32:34.941014+09:00",
+ "publish_now": true,
+ "topic": "한 원본: 고양이랑 일주일 같이 산 강아지 스노위(치와와·푸들·테리어 믹스)가 펜스 안에서 주인을 보며 '야옹' 같은 작은 소리를 계속 내다가, 마지막에 '멍!' 하고 본캐가 나옴. 원본 TikTok @house.of.barks 'Catdog?'(2025.11.04, 330만 회·좋아요 70만, 41초, 576x1024). 원본 글자: 아래 가운데 '1 week after living with a cat'(전 구간), 위 'Meow' 자막(5초 등 몇 번) → 크롭 1.6배로 둘 다 밀어냄. 사실: Newsweek(2026.02) 보도 — 330만 회 넘게 재생, 주인 말로는 치와와·푸들·테리어 믹스. 원본 소리: 강아지 소리만 있고 사람 말소리 없음(transcribe 결과 없음) → 살리고 크게 키움.",
+ "sources": [
+  {
+   "publisher": "TikTok @house.of.barks - Catdog?",
+   "url": "https://www.tiktok.com/@house.of.barks/video/7568866553937104141",
+   "date": "2025-11-04"
+  },
+  {
+   "publisher": "Newsweek - Puppy Spends 1 Week Living With Cat—Laughter at What He's Already Learned",
+   "url": "https://www.newsweek.com/puppy-spends-week-living-cat-laughter-learned-11509707",
+   "date": "2026-02-12"
+  }
+ ],
+ "seconds": 19.85,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261111-t18/short.mp4"
+ ],
+ "app_file": "media/20261111-t18/short_nobgm.mp4",
+ "yt": {
+  "title": "고양이랑 일주일 같이 산 강아지에게 생긴 일ㅋㅋ #shorts",
+  "description": "고양이랑 일주일 같이 살았더니 '야옹'을 배워 버린 강아지 스노위ㅋㅋ 마지막엔 결국 본캐가 나옵니다. 주인 말로는 치와와·푸들·테리어 믹스래요(Newsweek).\n\n영상: TikTok @house.of.barks\n자료: Newsweek - Puppy Spends 1 Week Living With Cat\n\n영상 속 제품(강아지 방석, 펫 펜스)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #강아지 #고양이 #합사 #강아지소리 #귀여운동물\n\n출처: TikTok @house.of.barks - Catdog? 2025-11-04, Newsweek - Puppy Spends 1 Week Living With Cat—Laughter at What He's Already Learned 2026-02-12\n사진·영상: TikTok @house.of.barks\n음성: Typecast\n\n#shorts #강아지 #고양이 #합사 #야옹",
+  "tags": [
+   "강아지",
+   "고양이",
+   "합사",
+   "야옹",
+   "강아지소리",
+   "귀여운강아지",
+   "믹스견",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "cc0ba2ebb73f",
+ "tg_msg": 2332
+}
