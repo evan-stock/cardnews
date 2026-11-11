@@ -1,1 +1,21 @@
-[{"id":"20261111-threads","slot":"lunch","mode":"collect","image_pages":["https://www.threads.com/share/BAb_P0OjAu"],"read_pages":["https://www.threads.com/share/BAb_P0OjAu"]}]
+[
+ {
+  "id": "20261111-jcphoto",
+  "slot": "evening",
+  "mode": "collect",
+  "image_pages": [
+   "https://blockmedia.co.kr/archives/1162848",
+   "https://www.koreatimes.co.kr/world/20261111/nvidia-faces-deepening-scrutiny-over-china-chip-ties-ceo-affair",
+   "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+   "https://en.sedaily.com/world/2026/11/11/report-alleges-75-billion-in-nvidia-chips-reached-china-via",
+   "https://runtimewire.com/article/alice-huang-network-7-5b-nvidia-chip-shipments-china",
+   "https://www.tweaktown.com/news/114387/nvidia-pushes-back-against-report-linking-ceo-jensen-huang-to-suspected-chinese-intelligence-asset/index.html",
+   "https://www.taiwannews.com.tw/news/6468785",
+   "https://biz.sbs.co.kr/amp/article/20000343188",
+   "https://www.koreadaily.com/article/20261030010854266",
+   "https://mlq.ai/news/nvidia-ceos-ties-to-alice-huang-enabled-more-than-7-billion-in-china-chip-sales-the-information-reports/",
+   "https://www.implicator.ai/us-officials-believe-megaspeed-executive-alice-huang-chinese/",
+   "https://www.sidae.com/article/2026110708575542835"
+  ]
+ }
+]
