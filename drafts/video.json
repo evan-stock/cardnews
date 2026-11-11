@@ -1,1 +1,1 @@
-{"id": "20261111-t13b", "frames": 0, "urls": ["https://www.tiktok.com/@tonifafarduke", "https://www.tiktok.com/@phoebcur", "https://www.tiktok.com/@mistermiloman"], "args": "--write-info-json --playlist-items 1-3 -o media/20261111-t13b/video/%(uploader)s_%(id)s.%(ext)s"}
+{"id": "20261111-t13c", "frames": 0, "urls": ["https://www.youtube.com/shorts/-5YaCVAXDTM", "https://www.youtube.com/shorts/3M0Y73cH62g"], "args": "--write-info-json"}
