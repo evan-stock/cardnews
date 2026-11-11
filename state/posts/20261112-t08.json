@@ -1,0 +1,55 @@
+{
+ "id": "20261112-t08",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-12T08:41:33.801497+09:00",
+ "publish_at": "2026-11-12T08:41:33.801518+09:00",
+ "publish_now": true,
+ "topic": "한 원본: 골든리트리버가 주인에게 돼지귀 간식을 받자마자 바로 먹지 않고 바닥에 내려놓은 뒤 그 주위를 깡충깡충 뛰고 엎드리며 '해석 무용(interpretive dance)' 같은 의식을 치름. 원본 TikTok @abigaillouise889(2026.10, PetHelpful 2026.10.28 기사로 확인, 21.4초, 576x1024). 원본 글자: 아래 가운데 'The offering has been taken. Let the interpretive dance ceremony begin'(원본 y 0.76~0.82, 전 구간) → zoom 1.15·y 0 크롭으로 화면 밖으로 밀어냄. 사실: 앞다리를 쭉 뻗고 엉덩이를 드는 자세는 '플레이 바우' — '같이 놀자'는 신호(Rover·Kinship). 원본 소리: 덧입힌 음악만(transcribe 'Music', 사람 말소리 없음) → 지시문대로 원본 음악 살림, 우리 bgm 0.",
+ "sources": [
+  {
+   "publisher": "TikTok @abigaillouise889",
+   "url": "https://www.tiktok.com/@abigaillouise889/video/7700112941458132231",
+   "date": "2026-10"
+  },
+  {
+   "publisher": "PetHelpful - Golden Retriever Gets a Treat and Celebrates With the Most Hilarious Interpretive Dance",
+   "url": "https://pethelpful.com/pet-news/golden-retriever-gets-treat-celebrates-with-hilarious-interpretive-dance",
+   "date": "2026-10-28"
+  },
+  {
+   "publisher": "Rover - Dog Play Bow",
+   "url": "https://www.rover.com/blog/dog-play-bow",
+   "date": ""
+  }
+ ],
+ "seconds": 18.34,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261112-t08/short.mp4"
+ ],
+ "app_file": "media/20261112-t08/short.mp4",
+ "yt": {
+  "title": "간식 받은 골댕이가 바로 안 먹는 이유ㅋㅋ #shorts",
+  "description": "귀한 돼지귀 간식을 받자마자 바닥에 내려놓고 깡충깡충 의식부터 치르는 골댕이ㅋㅋ 엉덩이를 들고 앞발을 뻗는 자세는 '같이 놀자'는 플레이 바우래요.\n\n영상: TikTok @abigaillouise889\n자료: PetHelpful - Golden Retriever Gets a Treat and Celebrates With the Most Hilarious Interpretive Dance / Rover - Dog Play Bow\n\n영상 속 제품(강아지 수제 간식, 노즈워크 매트)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #골든리트리버 #골댕이 #강아지간식 #대형견 #귀여운강아지\n\n출처: TikTok @abigaillouise889 2026-10, PetHelpful - Golden Retriever Gets a Treat and Celebrates With the Most Hilarious Interpretive Dance 2026-10-28, Rover - Dog Play Bow\n사진·영상: TikTok @abigaillouise889\n음성: Typecast\n\n#shorts #골든리트리버 #골댕이 #강아지 #강아지간식",
+  "tags": [
+   "골든리트리버",
+   "골댕이",
+   "강아지",
+   "강아지간식",
+   "플레이바우",
+   "대형견",
+   "귀여운강아지",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "b087a5109305",
+ "tg_msg": 2377
+}
