@@ -1,0 +1,25 @@
+{
+  "id": "20261111221320-sfxx",
+  "type": "yt",
+  "repo": "cardnews",
+  "account": "",
+  "channel": "",
+  "label": "유튜브 · 오늘의 털뭉치",
+  "media": [
+    "mystudio/media/20261111221320-sfxx/01.mp4"
+  ],
+  "caption": "",
+  "share_to_feed": false,
+  "yt": {
+    "title": "mystudio 업로드 시험 (비공개)",
+    "description": "업로드 기능 시험용 영상입니다.",
+    "tags": [],
+    "privacy": "private"
+  },
+  "thumb": null,
+  "cover": null,
+  "publish_at": null,
+  "status": "queued",
+  "attempts": 0,
+  "created_at": "2026-11-11T13:13:20.719Z"
+}
