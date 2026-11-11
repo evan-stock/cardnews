@@ -583,6 +583,10 @@ def render(d):
                      "sub_size": 84, "sub_y": 0.62, "chunk": 11, "sub_stroke": 9}.items():
             if k not in d.get("style", {}):
                 sc[k] = (sc.get("meme") or {}).get(k, v)
+        # 2026.11.11 사용자 "왜 털뭉치 자막 글씨체가 바뀌었냐, 전부 딱딱한 글씨체가 됨" → 11.10 도현체 대사 취소.
+        # 원고 style 에 다른 대사 글꼴이 들어와도 동물 대사·효과음 자막은 하이멜로디 손글씨로 고정한다.
+        if "HiMelody" not in str(sc.get("font_talk", "")):
+            sc["font_talk"], sc["talk_scale"], sc["talk_stroke"] = "assets/fonts/HiMelody-Regular.ttf", 1.3, 6
     if d.get("narration") is False:  # TTS 없이 원본 소리 + 배경음악(감동형 등). 자막이 이야기를 끌고 간다
         d = {**d, "voice": {**(d.get("voice") or {}), "engine": "silent"}}
         sc["video_audio"] = sc.get("quiet_video_audio", 1.0)
