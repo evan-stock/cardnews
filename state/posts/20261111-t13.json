@@ -1,0 +1,53 @@
+{
+ "id": "20261111-t13",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-11T14:07:15.242936+09:00",
+ "publish_at": "2026-11-11T14:07:15.242954+09:00",
+ "publish_now": true,
+ "topic": "한 원본(몽타주 대신): 침대 밑에서 자던 시나몬 페럿 문(Moon)을 꺼내자 '데드 슬립'(깊은 잠) 상태라 몸이 축 늘어진 채 끌려 나오고, 만세 자세로 들려도, 바닥에 놓아도, 손에 매달려도 끝까지 안 깸. 원본 TikTok @moonthecinnamonferret 'Did you know ferrets go into a dead sleep sometimes?'(2023.03.05, 72만 회·좋아요 14만, 26초, 576x1024, 화면 글자 없음). 사실: 페럿은 하루 14~18시간 자고, 아주 깊이 자는 '데드 슬립'은 정상 행동(PangoVet 수의사 검수). 원본 소리: 덧입힌 상업 음원 'Sleep Walk'(Santo & Johnny)만 들림 → 차단 위험으로 전 구간 끄고 우리 bgm.",
+ "sources": [
+  {
+   "publisher": "TikTok @moonthecinnamonferret - Did you know ferrets go into a dead sleep sometimes?",
+   "url": "https://www.tiktok.com/@moonthecinnamonferret/video/7206868238574259502",
+   "date": "2023-03-05"
+  },
+  {
+   "publisher": "PangoVet - How Long Do Ferrets Sleep? (vet-reviewed, 하루 14~18시간)",
+   "url": "https://info.pangovet.com/pet-behavior/ferrets/how-long-do-ferrets-sleep",
+   "date": ""
+  }
+ ],
+ "seconds": 16.72,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261111-t13/short.mp4"
+ ],
+ "app_file": "media/20261111-t13/short_nobgm.mp4",
+ "yt": {
+  "title": "침대 밑에서 축 늘어져 있던 페럿의 정체ㅋㅋ #shorts",
+  "description": "침대 밑에서 꺼냈는데 끝까지 안 깨는 페럿 문(Moon)ㅋㅋ 페럿은 하루 14~18시간을 자고, 이렇게 깊이 자는 '데드 슬립'은 정상이래요(PangoVet).\n\n영상: TikTok @moonthecinnamonferret\n자료: PangoVet - How Long Do Ferrets Sleep?\n\n영상 속 제품(페럿·소동물 해먹, 극세사 담요)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #페럿 #흰담비 #족제비 #데드슬립 #귀여운동물\n\n출처: TikTok @moonthecinnamonferret - Did you know ferrets go into a dead sleep sometimes? 2023-03-05, PangoVet - How Long Do Ferrets Sleep? (vet-reviewed, 하루 14~18시간)\n사진·영상: TikTok @moonthecinnamonferret\n\n#shorts #페럿 #흰담비 #족제비 #페럿 잠",
+  "tags": [
+   "페럿",
+   "흰담비",
+   "족제비",
+   "페럿 잠",
+   "데드 슬립",
+   "자는 페럿",
+   "귀여운 동물",
+   "웃긴 동물",
+   "ferret",
+   "ferret dead sleep",
+   "오늘의털뭉치"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "69b647f5d308",
+ "tg_msg": 2310
+}
