@@ -1,88 +1,9 @@
-[
- {
-  "id": "20261111-jensennext",
-  "slot": "evening",
-  "mode": "send",
-  "topic": "젠슨 황 사임 대비 후임 물색 보도(디인포메이션): 리사 수·르네 하스·콜레트 크레스 거론 (jensenchip 후속)",
-  "category": "국제(미국 빅테크)",
-  "emotion": "놀람(경쟁사 수장이자 친척이 엔비디아 CEO로?)",
-  "slides": [
-   {
-    "raw": true,
-    "lay": "one"
-   },
-   {
-    "sub": "디인포메이션 보도 · 11.10(현지)",
-    "t": "후임 물색, 이미 시작됐을 수도",
-    "b": "이사회가 교체를 결정할 경우에 대비해 헤드헌터가 후보를 찾고 있을 수 있다는 분석입니다. 대주주인 황 CEO가 스스로 물러날 가능성이 크다고도 봤습니다."
-   },
-   {
-    "sub": "거론된 후보",
-    "t": "경쟁사 AMD 수장까지",
-    "b": "리사 수는 경쟁사 CEO에 황 CEO와 먼 친척이라 어렵다는 분석. 엔비디아에서 7년 일한 르네 하스가 더 유력하다는 평가입니다."
-   },
-   {
-    "sub": "당장 자리가 비면",
-    "t": "임시 CEO는 CFO 크레스",
-    "b": "재무 출신이라 장기 후계자로는 보지 않는다는 분석입니다. 내부에서는 CUDA 개발에 참여한 이언 벅도 거론됩니다."
-   },
-   {
-    "sub": "엔비디아와 월가",
-    "t": "\"젠슨이 곧 엔비디아\"",
-    "b": "이사회는 8일 황 CEO가 계속 CEO를 맡는다고 밝혔습니다. 번스타인은 이렇게 말하며 단기 사임 가능성을 낮게 봤습니다."
-   },
-   {
-    "sub": "사흘 사이에 쌓인 것",
-    "t": "불륜 인정 → 칩 10조 → 사임설",
-    "b": "8일 사과 메일, 10일 칩 중국 유출 의혹 보도, 그리고 후임 물색 보도. 18일엔 미 하원 비공개 브리핑이 잡혀 있습니다."
-   },
-   {
-    "raw": true
-   }
-  ],
-  "images": [
-   "cover_card",
-   "hq",
-   "cands",
-   "server",
-   "mic",
-   "alice",
-   "cta_card"
-  ],
-  "caption": "[엔비디아 후임 후보에 AMD 리사 수까지 거론]\n\n미국 IT 매체 디인포메이션은 10일(현지시간) 분석 기사에서 헤드헌팅 업체들이 젠슨 황 CEO의 후임 후보를 이미 찾기 시작했을 수 있다고 보도했습니다. 이사회가 교체를 결정할 경우에 대비한 움직임이라는 분석이고, 대주주인 황 CEO가 스스로 물러날 가능성이 크다는 전망도 담겼습니다. 이 내용은 11일 대만·일본 매체와 연합뉴스를 통해 국내에도 전해졌습니다.\n\n거론된 이름은 AMD의 리사 수 CEO와 Arm의 르네 하스 CEO입니다. 리사 수는 엔비디아와 AI 칩을 두고 싸우는 경쟁사 수장인 데다 황 CEO와 먼 친척이라 현실성이 낮다는 평가가 나왔고, 엔비디아에서 7년 일한 하스가 더 유력하다는 분석이 붙었습니다. 당장 자리가 비면 콜레트 크레스 CFO가 임시로 맡을 수 있지만, 재무 출신이라 장기 후계자로는 보지 않는다는 게 업계 시각입니다.\n\n다만 이사회는 8일 \"국가안보나 회사 기밀이 침해됐다고 볼 근거는 없다\"며 황 CEO가 CEO를 계속 맡는다고 밝혔고, 이사회가 공식적으로 후임 물색에 나섰다는 사실은 확인되지 않았습니다. 월가에서도 번스타인이 \"젠슨이 곧 엔비디아\"라고 말하는 등 단기 사임 가능성은 낮게 보는 시각이 많습니다. 불륜 인정(8일), 칩 10조 원 중국 유출 의혹 보도(10일)에 이어 사임설까지, 사흘 사이에 일어난 일입니다. 미 하원은 18일 비공개 브리핑을 엽니다.\n\n젠슨 황이 물러난다면, 엔비디아는 지금 같은 엔비디아일 수 있을까요?\n\n※ 투자 권유 아님, 정보 제공 목적\n\n엔비디아 들고 있는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
-  "photo_credits": [
-   "표지: 참고 이미지(AI 생성)",
-   "엔비디아·언론 보도 사진"
-  ],
-  "hashtags": [
-   "젠슨황",
-   "엔비디아",
-   "리사수",
-   "AMD",
-   "미국주식"
-  ],
-  "sources": [
-   {
-    "publisher": "The Standard(디인포메이션 인용)",
-    "url": "https://www.thestandard.com.hk/finance/article/348055/Headhunters-may-be-hunting-for-Nvidias-next-successor-The-Information-reports",
-    "date": "2026.11.11"
-   },
-   {
-    "publisher": "아시아투데이",
-    "url": "https://en.asiatoday.co.kr/view.php?key=20261111001604073",
-    "date": "2026.11.11"
-   },
-   {
-    "publisher": "이투데이(연합뉴스 인용)",
-    "url": "https://www.etoday.co.kr/news/view/2646991",
-    "date": "2026.11.11"
-   },
-   {
-    "publisher": "Axios",
-    "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
-    "date": "2026.11.08"
-   }
-  ],
-  "publish_at": "2026-11-11T18:33:05+09:00"
- }
-]
+[{"id":"20261111-jensenresign","slot":"evening","mode":"collect","image_pages":[
+"https://en.wikipedia.org/wiki/Kevin_Cramer",
+"https://www.investing.com/news/stock-market-news/senior-republican-on-us-senate-banking-panel-calls-on-nvidia-ceo-huang-to-resign-5017609",
+"https://insideai.news/news/ai-policy-and-regulation/jensen-huang-resign/14944/",
+"https://www.tribuneindia.com/news/alice-huang-spy-claims/senior-republican-on-us-senate-banking-panel-calls-on-nvidia-ceo-huang-to-resign",
+"https://srnnews.com/senior-republican-on-us-senate-banking-panel-calls-on-nvidia-ceo-huang-to-resign/",
+"https://www.taiwannews.com.tw/news/6472904",
+"https://biz.sbs.co.kr/amp/article/20000344733",
+"https://www.zerohedge.com/markets/congress-demands-closed-door-briefing-nvidias-jensen-huang-over-his-alleged-chinese-spy"]}]
