@@ -1,0 +1,61 @@
+{
+ "id": "20261111-wy2",
+ "finished_at": "2026-11-11T18:35:25+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=2VqXegz7DfQ",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261111-wy2/video/y1.mp4",
+   "mb": 34.5,
+   "view_count": 65202,
+   "title": "‘Eye-cows’ protected from lions"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=eMLgNVP37M8",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261111-wy2/video/y2.mp4",
+   "mb": 20.0,
+   "view_count": 5892,
+   "title": "Cows have eyes painted on their behinds to protect them from lion attacks"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/X7vjWjARzQE",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261111-wy2/video/y3.mp4",
+   "mb": 14.0,
+   "view_count": 2995408,
+   "title": "I \"painted\" my fruit trees..."
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=ToRHVhHQA_A",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261111-wy2/video/y4.mp4",
+   "mb": 22.1,
+   "view_count": 5787,
+   "title": "A Mission to Save The Amazon forest by Luigi Cani"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/4O9_VL-69rc",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261111-wy2/video/y5.mp4",
+   "mb": 6.1,
+   "view_count": 70111,
+   "title": "Why are trees painted white?"
+  }
+ ]
+}
