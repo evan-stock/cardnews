@@ -1,0 +1,8 @@
+ERROR: [twitter] 2120856018053943422: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/tesla_teslaway/status/2120856018053943422
+실패: https://x.com/tesla_teslaway/status/2120856018053943422
+total 16
+drwxr-xr-x 2 runner runner 4096 Nov 12 20:25 .
+drwxr-xr-x 3 runner runner 4096 Nov 12 20:25 ..
+-rw-r--r-- 1 runner runner  226 Nov 12 20:25 log.txt
+-rw-r--r-- 1 runner runner  587 Nov 12 20:25 x1.json
