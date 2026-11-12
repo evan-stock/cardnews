@@ -1,7 +1,0 @@
-1
-00:00:20,380 --> 00:00:21,900
-Move the beat
-
-2
-00:00:21,900 --> 00:00:25,300
-Little baby pretty ones, come on and talk to me

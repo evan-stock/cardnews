@@ -93,6 +93,20 @@
   ]
  },
  {
+  "id": "20261112-cbbtb",
+  "channel": "오늘의쓸모_유튜브",
+  "files": [
+   "media/20261112-cbbtb/short_card.mp4"
+  ]
+ },
+ {
+  "id": "20261112-hegseth-reel",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261112-hegseth-reel/reel.mp4"
+  ]
+ },
+ {
   "id": "20261112-jensen2",
   "channel": "오늘의쓸모_인스타",
   "files": [
@@ -105,10 +119,46 @@
   ]
  },
  {
+  "id": "20261112-leetlive",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261112-leetlive/01.jpg",
+   "media/20261112-leetlive/02.jpg",
+   "media/20261112-leetlive/03.jpg",
+   "media/20261112-leetlive/04.jpg",
+   "media/20261112-leetlive/05.jpg"
+  ]
+ },
+ {
+  "id": "20261112-muskhire",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261112-muskhire/01.jpg",
+   "media/20261112-muskhire/02.jpg",
+   "media/20261112-muskhire/03.jpg",
+   "media/20261112-muskhire/04.jpg",
+   "media/20261112-muskhire/05.jpg"
+  ]
+ },
+ {
   "id": "20261112-t08",
   "channel": "털뭉치",
   "files": [
    "media/20261112-t08/short.mp4"
+  ]
+ },
+ {
+  "id": "20261112-t13",
+  "channel": "털뭉치",
+  "files": [
+   "media/20261112-t13/short.mp4"
+  ]
+ },
+ {
+  "id": "20261112-t18",
+  "channel": "털뭉치",
+  "files": [
+   "media/20261112-t18/short.mp4"
   ]
  },
  {
@@ -125,6 +175,34 @@
    "media/20261112-taxglass/08.jpg",
    "media/20261112-taxglass/09.jpg",
    "media/20261112-taxglass/10.jpg"
+  ]
+ },
+ {
+  "id": "20261112-taxglass2",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261112-taxglass2/01.jpg",
+   "media/20261112-taxglass2/02.jpg",
+   "media/20261112-taxglass2/03.jpg",
+   "media/20261112-taxglass2/04.jpg",
+   "media/20261112-taxglass2/05.jpg",
+   "media/20261112-taxglass2/06.jpg",
+   "media/20261112-taxglass2/07.jpg",
+   "media/20261112-taxglass2/08.jpg",
+   "media/20261112-taxglass2/09.jpg"
+  ]
+ },
+ {
+  "id": "20261113-jensenout",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261113-jensenout/01.jpg",
+   "media/20261113-jensenout/02.jpg",
+   "media/20261113-jensenout/03.jpg",
+   "media/20261113-jensenout/04.jpg",
+   "media/20261113-jensenout/05.jpg",
+   "media/20261113-jensenout/06.jpg",
+   "media/20261113-jensenout/07.jpg"
   ]
  }
 ]
