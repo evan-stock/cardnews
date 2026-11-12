@@ -1,5 +1,13 @@
 [
- {"id": "20261112-follow-ig", "slot": "evening", "mode": "collect",
-  "topic": "참고 게시물 읽기", "image_pages": ["https://www.instagram.com/p/Dfod2JgIII6/embed/captioned/", "https://www.instagram.com/p/Dfod2JgIII6/"],
-  "read_pages": ["https://www.instagram.com/p/Dfod2JgIII6/embed/captioned/", "https://www.instagram.com/p/Dfod2JgIII6/"]}
+ {"id": "20261112-muskhire", "slot": "evening", "mode": "collect",
+  "topic": "머스크 '젠슨 고용하면 영광' 사진·트윗 수집",
+  "image_pages": ["https://www.deccanchronicle.com/technology/elon-musk-says-it-would-be-an-honor-to-hire-nvidias-jensen-huang-2003729",
+   "https://www.benzinga.com/markets/tech/26/11/63171937/elon-musk-honor-hire-nvidia-ceo-jensen-huang-amid-chinese-spy-row",
+   "https://www.ibtimes.co.uk/elon-musk-hire-nvidia-ceo-jensen-huang-1831783",
+   "https://www.tribuneindia.com/news/business/that-would-be-an-honor-musk-on-hiring-controversy-marred-nvidia-ceo-jensen-huang",
+   "https://english.tupaki.com/usa/elon-musk-jensen-huang-hiring-response-1514850",
+   "https://www.webpronews.com/musk-honor-hire-nvidia-jensen-huang"],
+  "read_pages": ["https://www.deccanchronicle.com/technology/elon-musk-says-it-would-be-an-honor-to-hire-nvidias-jensen-huang-2003729",
+   "https://www.webpronews.com/musk-honor-hire-nvidia-jensen-huang",
+   "https://english.tupaki.com/usa/elon-musk-jensen-huang-hiring-response-1514850"]}
 ]
