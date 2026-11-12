@@ -2,7 +2,7 @@
  {
   "id": "20261113-jensenout",
   "slot": "morning",
-  "mode": "render",
+  "mode": "send",
   "topic": "젠슨 황 엔비디아 사장·CEO·이사직 즉시 사임(현지 11.12), 임시 CEO 콜레트 크레스 — 젠슨 황 시리즈 후속(머스크 '모시면 영광' 다음)",
   "category": "해외 경제",
   "emotion": "충격 → 허무(33년 제국이 나흘 만에)",
@@ -81,6 +81,8 @@
    "NVIDIA",
    "엔비디아주가",
    "미국주식"
-  ]
+  ],
+  "publish_now": true,
+  "publish_at": "2026-11-13T05:06:00+09:00"
  }
 ]
