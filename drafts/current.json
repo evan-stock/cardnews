@@ -1,1 +1,24 @@
-[{"id":"20261113-taxglass3","slot":"lunch","mode":"collect","topic":"세무사 수석 합격영상 누가 찍었나 (X @Tesla_Teslaway)","image_urls":["https://pbs.twimg.com/media/HW7LSP_bIAE2oZk?format=jpg&name=large","https://pbs.twimg.com/media/HW7LSsEbMAAszpD?format=jpg&name=large","https://pbs.twimg.com/media/HW7LTGja4AAvtre?format=jpg&name=large","https://pbs.twimg.com/media/HW7LThOaQAAxKZQ?format=jpg&name=large"],"image_pages":[],"slides":[{"t":"x"}],"images":[]}]
+[
+ {
+  "id": "20261113-taxglass3",
+  "slot": "lunch",
+  "mode": "render",
+  "topic": "세무사 수석 'AI 안경' 3편: 합격 확인 영상 누가 찍었나 — X @Tesla_Teslaway 사진 4장 흐름(반응형)",
+  "category": "국내 사회",
+  "emotion": "소름·궁금 → 분노",
+  "risk": "커뮤니티 주장 그대로 '~라는 말이 나왔다'로만 씀(사용자 지시: '확인된 사실 아님' 문구는 넣지 않음). 실명·얼굴 없음. 코난 그림 제외.",
+  "slides": [
+   {"t": "세무사 수석 합격 인증 영상\n이건 '누가' 찍었을까", "lay": "one"},
+   {"raw": true}, {"raw": true}, {"raw": true}, {"raw": true},
+   {"t": "진짜 실력이라면\n'다시 풀어' 보여주면 된다", "b": "새 이야기 나오면 바로 이어서 올립니다"}
+  ],
+  "images": ["cover_bg", "c02", "c03", "c04", "c05", "cover_bg"],
+  "sources": [
+   {"publisher": "X @Tesla_Teslaway", "date": "2026.11.12", "url": "https://x.com/tesla_teslaway/status/2120856018053943422"},
+   {"publisher": "디시인사이드 세무사 갤러리", "date": "2026.11.12", "url": ""}
+  ],
+  "photo_credits": ["캡처: X @Tesla_Teslaway, 디시인사이드 세무사 갤러리"],
+  "caption": "[1·2편에 이어서] 'AI 안경' 의혹 세무사 수석, 이번엔 합격 확인 영상을 두고 \"누가 찍었냐\"는 말이 나왔습니다\n\n12일 밤 디시 세무사 갤러리에 \"지금 보니까 이거 어케 찍은거임?\"이라는 글이 올라왔습니다. 수석이 직접 올린 합격 결과 확인 영상에서 두 손이 모두 화면에 나오고, 손으로 개인정보를 가리며 휴대폰 화면을 보여주는 장면이 문제가 됐습니다.\n\n댓글에는 \"딱 안경 위치긴 하네\", \"와 개소름.. 누가 찍고 있던 거지?\" 같은 반응이 이어졌고, 커뮤니티에서는 \"AI 안경으로 찍었을 것\"이라는 이야기까지 나왔습니다. 이 내용을 정리한 엑스 게시물은 조회 43만을 넘겼습니다.\n\n여러분은 이 영상, 어떻게 찍었다고 보시나요?\n\n시험 준비하는 친구에게 공유해주세요! 팔로우하면 다음 이야기도 이어서 받아보실 수 있습니다.\n\n출처: X @Tesla_Teslaway, 디시인사이드 세무사 갤러리",
+  "hashtags": ["세무사시험", "AI안경", "스마트안경", "부정행위", "자격증"]
+ }
+]
