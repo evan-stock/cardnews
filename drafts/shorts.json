@@ -1,85 +1,155 @@
 {
- "id": "20261112-t08",
+ "id": "20261112-t13",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본: 골든리트리버가 주인에게 돼지귀 간식을 받자마자 바로 먹지 않고 바닥에 내려놓은 뒤 그 주위를 깡충깡충 뛰고 엎드리며 '해석 무용(interpretive dance)' 같은 의식을 치름. 원본 TikTok @abigaillouise889(2026.10, PetHelpful 2026.10.28 기사로 확인, 21.4초, 576x1024). 원본 글자: 아래 가운데 'The offering has been taken. Let the interpretive dance ceremony begin'(원본 y 0.76~0.82, 전 구간) → zoom 1.15·y 0 크롭으로 화면 밖으로 밀어냄. 사실: 앞다리를 쭉 뻗고 엉덩이를 드는 자세는 '플레이 바우' — '같이 놀자'는 신호(Rover·Kinship). 원본 소리: 덧입힌 음악만(transcribe 'Music', 사람 말소리 없음) → 지시문대로 원본 음악 살림, 우리 bgm 0.",
+ "topic": "몽타주 A(주장형): 난생처음 하울링·짖기에 도전한 강아지 5마리(원작자 5명, 모두 원작자 유튜브 1080p). v1 프렌치불독 아기 무스(TX Shorty Frenchies, 4주) / v2 아기 허스키 닷(TheHuskyPack) / v3 보스턴테리어(phil ceballos) / v4 아기 허스키 첫 짖음(대걸레 상대, Furry Feathers) / v5 저먼셰퍼드 아기 태너(Jonsten Shepherd) — 하울링하다 자기 목소리에 놀람(반전). 사실: 하울링은 늑대 조상에게 물려받은 소통 방법(AKC). 소리: 각 클립 원본에 배수 조정 후 리미터(-3dB)를 미리 적용한 사본(v1~v5)을 씀.",
  "sfx_max": 3,
  "style": {
   "mascot": null,
   "band": 480,
   "title_pad_bottom": 18,
-  "sub_y": 0.42
+  "sub_y": 0.62
  },
  "hook": {
-  "t": "귀한 간식 받은 날\n'거실에서 의식 시작함ㅋㅋ'"
+  "t": "목청 처음 열어 본 아기들\n'마지막 애가 제일 웃김ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @abigaillouise889"
+  "YouTube TX Shorty Frenchies",
+  "YouTube TheHuskyPack",
+  "YouTube phil ceballos",
+  "YouTube Furry Feathers",
+  "YouTube Jonsten Shepherd"
  ],
- "credit": "영상: TikTok @abigaillouise889",
+ "credit": "영상: YouTube 원작자 5명 (채널명은 설명란)",
  "sources": [
   {
-   "publisher": "TikTok @abigaillouise889",
-   "url": "https://www.tiktok.com/@abigaillouise889/video/7700112941458132231",
-   "date": "2026-10"
+   "publisher": "YouTube TX Shorty Frenchies",
+   "url": "https://www.youtube.com/shorts/3srQUY4kRTM",
+   "date": "2026-11-07"
   },
   {
-   "publisher": "PetHelpful - Golden Retriever Gets a Treat and Celebrates With the Most Hilarious Interpretive Dance",
-   "url": "https://pethelpful.com/pet-news/golden-retriever-gets-treat-celebrates-with-hilarious-interpretive-dance",
-   "date": "2026-10-28"
+   "publisher": "YouTube TheHuskyPack",
+   "url": "https://www.youtube.com/shorts/pj8cR94KSpE",
+   "date": "2026-10-31"
   },
   {
-   "publisher": "Rover - Dog Play Bow",
-   "url": "https://www.rover.com/blog/dog-play-bow",
+   "publisher": "YouTube phil ceballos",
+   "url": "https://www.youtube.com/shorts/3YJxRACtbQw",
+   "date": "2026-10-22"
+  },
+  {
+   "publisher": "YouTube Furry Feathers",
+   "url": "https://www.youtube.com/shorts/t2UfwBXc7VI",
+   "date": "2026-10-29"
+  },
+  {
+   "publisher": "YouTube Jonsten Shepherd",
+   "url": "https://www.youtube.com/shorts/Wn28qcED83A",
+   "date": "2026-10-20"
+  },
+  {
+   "publisher": "AKC - Why Do Dogs Howl?",
+   "url": "https://www.akc.org/expert-advice/lifestyle/why-do-dogs-howl/",
    "date": ""
   }
  ],
  "scenes": [
   {
-   "dur": 1.25,
+   "dur": 3.2,
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.5,
-    "zoom": 1.15,
+    "start": 2.6,
+    "zoom": 1.25,
     "x": 0.5,
     "y": 0.0,
-    "audio": 1.6
+    "audio": 1.0
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(받았다)",
+     "k": "talk",
+     "t": "나도 늑대다...",
      "x": 0.5,
      "y": 0.13,
      "at": 0.0,
-     "to": 0.55,
-     "s": "sparkle",
-     "sv": 0.6
+     "to": 1.1
+    },
+    {
+     "k": "sfx",
+     "t": "(아우우~)",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 1.1,
+     "to": 2.2
     },
     {
      "k": "talk",
-     "t": "이거... 진짜 내 거야?",
+     "t": "어때? 멋있지?",
      "x": 0.5,
      "y": 0.13,
-     "at": 0.55,
-     "to": 1.25
+     "at": 2.2,
+     "to": 3.2
     }
    ]
   },
   {
-   "say": "간식을 받은 골댕이가 바로 먹지 않고 시작한 건,",
+   "dur": 3.0,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 3.0,
-    "zoom": 1.15,
+    "src": "video/v2.mp4",
+    "start": 0.6,
+    "zoom": 1.35,
+    "x": 0.5,
+    "y": 0.95,
+    "audio": 1.0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "태어난 지 몇 주 된 아기 허스키",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.0,
+     "to": 1.1
+    },
+    {
+     "k": "talk",
+     "t": "나도... 아우...",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 1.1,
+     "to": 2.0
+    },
+    {
+     "k": "sfx",
+     "t": "(삐익?)",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 2.0,
+     "to": 3.0
+    }
+   ]
+  },
+  {
+   "say": "강아지들이 난생처음 하울링에 도전했는데요,",
+   "video": {
+    "src": "video/v3.mp4",
+    "start": 2.6,
+    "zoom": 1.4,
     "x": 0.5,
     "y": 0.0,
-    "audio": 0.4
+    "audio": 0.0,
+    "blur": [
+     [
+      70,
+      1250,
+      940,
+      130
+     ]
+    ]
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(일단 내려놓고)",
+     "t": "(목 푸는 중)",
      "x": 0.5,
      "y": 0.13,
      "at": 0.2,
@@ -88,169 +158,197 @@
    ]
   },
   {
-   "dur": 2.4,
+   "dur": 3.2,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 5.6,
-    "zoom": 1.15,
-    "x": 0.45,
+    "src": "video/v3.mp4",
+    "start": 11.8,
+    "zoom": 1.4,
+    "x": 0.5,
     "y": 0.0,
-    "audio": 1.6
+    "audio": 1.0,
+    "blur": [
+     [
+      70,
+      1250,
+      940,
+      130
+     ]
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "지금부터",
+     "t": "잘 봐라",
      "x": 0.5,
      "y": 0.13,
      "at": 0.0,
-     "to": 0.7
-    },
-    {
-     "k": "sfx",
-     "t": "(앞발 번쩍)",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 0.7,
-     "to": 1.3,
-     "s": "boing",
+     "to": 0.6,
+     "s": "boom",
      "sv": 0.6
     },
     {
      "k": "talk",
-     "t": "간식님께 춤을 바친다",
+     "t": "아우우우우우~~",
      "x": 0.5,
      "y": 0.13,
-     "at": 1.3,
-     "to": 2.4
-    }
-   ]
-  },
-  {
-   "dur": 2.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 8.0,
-    "zoom": 1.15,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 1.6
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "한 바퀴 돌고",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 0.0,
-     "to": 1.3
-    },
-    {
-     "k": "talk",
-     "t": "냄새 한 번 맡고",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 1.3,
-     "to": 2.6
-    }
-   ]
-  },
-  {
-   "dur": 2.2,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 10.7,
-    "zoom": 1.15,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 1.6
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "아직 먹으면 안 돼...",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 0.0,
-     "to": 1.0
+     "at": 0.6,
+     "to": 2.0
     },
     {
      "k": "sfx",
-     "t": "(점프!)",
+     "t": "(혼신의 힘)",
      "x": 0.5,
      "y": 0.13,
-     "at": 1.0,
-     "to": 2.2
+     "at": 2.0,
+     "to": 3.2
     }
    ]
   },
   {
-   "say": "엉덩이를 들고 앞발을 뻗는 건, '같이 놀자'는 플레이 바우 자세입니다.",
+   "dur": 3.0,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 13.3,
-    "zoom": 1.15,
-    "x": 0.4,
+    "src": "video/v4.mp4",
+    "start": 4.2,
+    "zoom": 1.35,
+    "x": 0.5,
     "y": 0.0,
-    "audio": 0.4
+    "audio": 1.0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "첫 상대: 대걸레",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 0.0,
+     "to": 1.2
+    },
+    {
+     "k": "talk",
+     "t": "너 누구야!!",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 1.2,
+     "to": 2.1
+    },
+    {
+     "k": "sfx",
+     "t": "(멍!)",
+     "x": 0.5,
+     "y": 0.13,
+     "at": 2.1,
+     "to": 3.0
+    }
+   ]
+  },
+  {
+   "dur": 3.0,
+   "video": {
+    "src": "video/v5.mp4",
+    "start": 6.8,
+    "zoom": 1.35,
+    "x": 0.0,
+    "y": 1.0,
+    "audio": 1.0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "아우우~",
+     "x": 0.55,
+     "y": 0.3,
+     "at": 0.6,
+     "to": 1.6
+    },
+    {
+     "k": "sfx",
+     "t": "(깜짝)",
+     "x": 0.55,
+     "y": 0.3,
+     "at": 1.9,
+     "to": 2.4,
+     "s": "scratch",
+     "sv": 0.6
+    },
+    {
+     "k": "talk",
+     "t": "방금 누구야?!",
+     "x": 0.55,
+     "y": 0.3,
+     "at": 2.4,
+     "to": 3.0
+    }
+   ]
+  },
+  {
+   "say": "하울링은 늑대 조상에게 물려받은 대화 방법이라는데요.",
+   "video": {
+    "src": "video/v5.mp4",
+    "start": 9.3,
+    "zoom": 1.35,
+    "x": 0.0,
+    "y": 1.0,
+    "audio": 0.45
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(간식이랑 노는 중)",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 0.3,
+     "t": "(자기 목소리인 줄 모름)",
+     "x": 0.55,
+     "y": 0.3,
+     "at": 0.2,
      "to": 3.5
     }
    ]
   },
   {
-   "dur": 2.6,
+   "dur": 2.8,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 18.6,
-    "zoom": 1.15,
-    "x": 0.4,
-    "y": 0.0,
-    "audio": 1.6
+    "src": "video/v5.mp4",
+    "start": 12.0,
+    "zoom": 1.35,
+    "x": 0.0,
+    "y": 1.0,
+    "audio": 1.0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "의식 끝.",
-     "x": 0.5,
-     "y": 0.13,
+     "t": "...한 번만 더 해 볼까",
+     "x": 0.55,
+     "y": 0.3,
      "at": 0.0,
-     "to": 1.2,
-     "s": "ding",
-     "sv": 0.6
+     "to": 1.4
     },
     {
-     "k": "talk",
-     "t": "이제 먹는다",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 1.2,
-     "to": 2.6
+     "k": "sfx",
+     "t": "(아우~)",
+     "x": 0.55,
+     "y": 0.3,
+     "at": 1.4,
+     "to": 2.8,
+     "s": "ding",
+     "sv": 0.6
     }
    ]
   }
  ],
+ "bgm": "assets/bgm/worthy/curious_kitten.mp3",
+ "bgm_volume": 0.6,
  "yt": {
-  "title": "간식 받은 골댕이가 바로 안 먹는 이유ㅋㅋ #shorts",
-  "description": "귀한 돼지귀 간식을 받자마자 바닥에 내려놓고 깡충깡충 의식부터 치르는 골댕이ㅋㅋ 엉덩이를 들고 앞발을 뻗는 자세는 '같이 놀자'는 플레이 바우래요.\n\n영상: TikTok @abigaillouise889\n자료: PetHelpful - Golden Retriever Gets a Treat and Celebrates With the Most Hilarious Interpretive Dance / Rover - Dog Play Bow\n\n영상 속 제품(강아지 수제 간식, 노즈워크 매트)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #골든리트리버 #골댕이 #강아지간식 #대형견 #귀여운강아지",
+  "title": "난생처음 하울링에 도전한 강아지들의 반응ㅋㅋ #shorts",
+  "description": "아기 프렌치불독, 아기 허스키, 보스턴테리어, 아기 저먼셰퍼드까지… 난생처음 '아우~'에 도전한 강아지들ㅋㅋ 마지막 친구는 끝까지 봐 주세요. 하울링은 늑대 조상에게 물려받은 소통 방법이래요(AKC).\n\n영상: TX Shorty Frenchies / TheHuskyPack / phil ceballos / Furry Feathers / Jonsten Shepherd (YouTube)\n자료: AKC - Why Do Dogs Howl?\n\n영상 속 제품(강아지 장난감, 강아지 방석)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #강아지 #하울링 #아기강아지 #허스키 #저먼셰퍼드 #프렌치불독 #귀여운강아지",
   "tags": [
-   "골든리트리버",
-   "골댕이",
    "강아지",
-   "강아지간식",
-   "플레이바우",
-   "대형견",
+   "하울링",
+   "아기강아지",
+   "허스키",
+   "저먼셰퍼드",
+   "프렌치불독",
+   "보스턴테리어",
    "귀여운강아지",
    "shorts"
   ]
  },
- "publish_now": true,
- "bgm_volume": 0.0
+ "publish_now": true
 }
