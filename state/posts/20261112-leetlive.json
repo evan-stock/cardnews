@@ -2,7 +2,7 @@
  "id": "20261112-leetlive",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-12T22:45:42.339726+09:00",
  "publish_at": "2026-11-12T22:45:42.339820+09:00",
  "topic": "리트 19년 만의 첫 만점자 이진우, 수능 국어 라이브 풀이 선언 (참고 게시물 @flu.vo DfosVSxH_u0 흐름 그대로)",
@@ -67,5 +67,8 @@
   "media/20261112-leetlive/04.jpg",
   "media/20261112-leetlive/05.jpg"
  ],
- "tg_msg": 2435
+ "tg_msg": 2435,
+ "ig_media_id": "17972889236962324",
+ "permalink": "https://www.instagram.com/p/DfpM75fmwJf/",
+ "published_at": "2026-11-12T22:50:08.205005+09:00"
 }
