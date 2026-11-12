@@ -1,7 +1,7 @@
 {
  "id": "20261112-cbbtb",
  "kind": "short",
- "status": "manual",
+ "status": "published",
  "created_at": "2026-11-12T14:24:14.706313+09:00",
  "publish_at": "2026-11-12T14:24:14.706324+09:00",
  "publish_now": true,
@@ -35,5 +35,7 @@
  },
  "app_file": "media/20261112-cbbtb/short_card_nomusic.mp4",
  "tg_msg": 2410,
- "decided_at": "2026-11-12T16:09:53.719334+09:00"
+ "decided_at": "2026-11-12T16:09:53.719334+09:00",
+ "url": "https://youtube.com/shorts/EO5Sa_abvNI",
+ "note": "채팅 승인(21:5x) → worthy-upload mode upload"
 }
