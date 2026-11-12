@@ -1,21 +1,23 @@
 {
- "id": "20261111-touch",
- "topic": "손가락을 맞대도 실제로는 닿지 않는 이유(전자 반발)",
- "file": "media/20261111-touch/short_card.mp4",
- "seconds": 25.8,
+ "id": "20261112-cbbt",
+ "topic": "바다 한가운데서 다리가 해저터널로 들어가는 이유(체서피크 베이 브리지-터널, 해군 항로)",
+ "file": "media/20261112-cbbt/short_card.mp4",
+ "seconds": 25.0,
  "mode": "send",
  "yt": {
   "channel": "shop",
-  "title": "손가락을 맞대면 진짜 닿은 걸까? #shorts",
-  "description": "두 손가락 끝을 맞대고, 그 틈을 반으로 또 반으로 26번 줄여 0.33나노미터까지 확대해 봤습니다. 지문 골짜기, 죽은 피부 세포, 피부를 이루는 원자까지 보이는데 틈은 끝내 닫히지 않습니다.\n\n이유는 원자 바깥을 둘러싼 전자들입니다. 원자끼리 가까워지면 같은 음전하를 띤 전자들이 서로 강하게 밀어내고(전자기 반발), 전자 둘이 같은 상태에 겹칠 수 없다는 파울리 배타 원리까지 더해져 더 들어가지 못합니다. 우리가 손끝으로 '닿았다'고 느끼는 감각은 사실 이 밀어내는 힘을 신경이 읽은 결과로 설명됩니다. 그래서 의자에 앉아 있을 때도 엄밀히는 아주 조금 떠 있는 셈입니다. 다만 물리학자들 사이에서도 '닿음'을 전자가 밀어내는 거리로 정의하면 이것이 곧 닿은 것이라는 반론이 있습니다.\n\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: BBC Science Focus 'Why your sense of touch is one of the world's weirdest illusions', ScienceAlert 'Why we can't walk through walls'(파울리 배타 원리)\n영상: Pavian(@meta_pavy, X 2026.11.10) — Claude Fable 5.2로 만든 3D 영상\nhttps://x.com/meta_pavy/status/2120281768964292654\n\n#shorts #과학 #원자 #전자 #물리 #신기한사실 #오늘의쓸모",
+  "title": "이 고속도로는 무너진 게 아닙니다 #shorts",
+  "description": "미국 버지니아 바다 위를 28km나 달리던 고속도로가, 바다 한가운데 인공섬에 닿자마자 땅속으로 사라집니다. 1964년 4월에 개통한 '체서피크 베이 브리지-터널' 이야기입니다.\n\n처음엔 다리로만 잇는 안도 있었지만, 이 바다에는 노퍽 해군기지로 드나드는 항로가 지나갑니다. 미 해군은 항로 위 다리가 무너지면(사보타주 포함) 군함이 대서양으로 나가지 못하고 기지가 바다와 끊길 수 있다며 반대했습니다. 그래서 큰 배가 다니는 심블 숄스·체서피크 두 항로만 바다 밑 약 1.6km 터널로 만들고, 그 양 끝에 돌로 인공섬 4개를 쌓아 다리와 터널을 이었습니다. 미국토목학회는 1965년 이 구조물을 '뛰어난 토목 업적'으로 꼽았습니다.\n\n부산과 거제를 잇는 거가대교도 중간에 바닷속 터널 구간이 있습니다. 그 이유는 다음 편에서 이어 갑니다.\n\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: Wikipedia 'Chesapeake Bay Bridge–Tunnel', PBS Building Big 'Chesapeake Bay Bridge-Tunnel', Roads to the Future 'Bridge-Tunnel Facilities in Virginia'(VDOT 1999 연구 인용)\n영상: banginbeamer 'Chesapeake Bay Bridge Tunnel Virgina Beach Drone'(YouTube, 2016) / Filmed 'Chesapeake Bay Bridge Tunnel Night Timelapse'(YouTube, 2018)\n그래픽: 오늘의쓸모\n\n#체서피크베이브리지터널 #해저터널 #다리 #토목 #미해군 #거가대교 #신기한이유 #오늘의쓸모 #shorts",
   "tags": [
-   "원자",
-   "전자",
-   "물리",
-   "과학",
-   "파울리 배타 원리",
-   "신기한 사실",
-   "오늘의쓸모"
+   "체서피크 베이 브리지 터널",
+   "해저터널",
+   "다리",
+   "토목",
+   "미 해군",
+   "거가대교",
+   "신기한 이유",
+   "오늘의쓸모",
+   "shorts"
   ],
   "category": 27,
   "privacy": "public"
