@@ -1,0 +1,63 @@
+{
+ "id": "20261112-wa1",
+ "finished_at": "2026-11-12T09:26:40+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/ZcmqwDOMMuE",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wa1/video/y1.mp4",
+   "mb": 30.7,
+   "view_count": 11077035,
+   "title": "Police officer risks own life crawling onto frozen pond to rescue child who fell through ice"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/fWdhsVrKUKc",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wa1/video/y2.mp4",
+   "mb": 14.2,
+   "view_count": 3597786,
+   "title": "Police use grappler device to stop stolen car on Michigan highway"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=BJMGgbJZYwI",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wa1/video/y3.mp4",
+   "mb": 38.8,
+   "error": "502 Server Error",
+   "view_count": 395358,
+   "title": "Chesapeake Bay Bridge Tunnel Virgina Beach Drone Phantom 3 & OSMO"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/Y_faO9UN4Xw",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wa1/video/y4.mp4",
+   "mb": 4.4,
+   "view_count": 42258,
+   "title": "Steel Bridge Repair Riveting Works"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/watch?v=Hz72lzDxMfc",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wa1/video/y5.mp4",
+   "mb": 43.0,
+   "error": "재시도 실패",
+   "view_count": 113367,
+   "title": "2000: 'Wobbly' Millennium Bridge Closed Days After Opening"
+  }
+ ]
+}
