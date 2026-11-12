@@ -1,6 +1,0 @@
-total 240
-drwxr-xr-x 2 runner runner   4096 Nov  9 00:28 .
-drwxr-xr-x 3 runner runner   4096 Nov  9 00:28 ..
--rw-r--r-- 1 runner runner      0 Nov  9 00:28 log.txt
--rw-r--r-- 1 runner runner  23085 Nov  9 00:28 v1.info.json
--rw-r--r-- 1 runner runner 212560 Nov  9 00:28 v1.mp4
