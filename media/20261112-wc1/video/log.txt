@@ -1,0 +1,26 @@
+ERROR: [TikTok] 7487448986379406623: Your IP address is blocked from accessing this post
+실패: https://www.tiktok.com/@draftkings/video/7487448986379406623
+total 42056
+drwxr-xr-x 2 runner runner     4096 Nov 12 11:30 .
+drwxr-xr-x 3 runner runner     4096 Nov 12 11:29 ..
+-rw-r--r-- 1 runner runner      158 Nov 12 11:30 log.txt
+-rw-r--r-- 1 runner runner    16294 Nov 12 11:29 v1.info.json
+-rw-r--r-- 1 runner runner 22687167 Nov 12 11:29 v1.mp4
+-rw-r--r-- 1 runner runner    22770 Nov 12 11:30 v10.info.json
+-rw-r--r-- 1 runner runner  2971053 Nov 12 11:30 v10.mp4
+-rw-r--r-- 1 runner runner    22853 Nov 12 11:30 v11.info.json
+-rw-r--r-- 1 runner runner   963603 Nov 12 11:30 v11.mp4
+-rw-r--r-- 1 runner runner    25987 Nov 12 11:29 v2.info.json
+-rw-r--r-- 1 runner runner   852679 Nov 12 11:29 v2.mp4
+-rw-r--r-- 1 runner runner    25684 Nov 12 11:30 v3.info.json
+-rw-r--r-- 1 runner runner  3232651 Nov 12 11:30 v3.mp4
+-rw-r--r-- 1 runner runner    25966 Nov 12 11:30 v4.info.json
+-rw-r--r-- 1 runner runner  2239167 Nov 12 11:30 v4.mp4
+-rw-r--r-- 1 runner runner    23077 Nov 12 11:30 v5.info.json
+-rw-r--r-- 1 runner runner  1300241 Nov 12 11:30 v5.mp4
+-rw-r--r-- 1 runner runner    22460 Nov 12 11:30 v6.info.json
+-rw-r--r-- 1 runner runner  3909321 Nov 12 11:30 v6.mp4
+-rw-r--r-- 1 runner runner    22585 Nov 12 11:30 v7.info.json
+-rw-r--r-- 1 runner runner  1752214 Nov 12 11:30 v7.mp4
+-rw-r--r-- 1 runner runner    16441 Nov 12 11:30 v8.info.json
+-rw-r--r-- 1 runner runner  2875458 Nov 12 11:30 v8.mp4
