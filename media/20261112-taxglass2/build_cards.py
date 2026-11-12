@@ -14,7 +14,7 @@ cov = Image.new("RGB", (W, H), BG); cov.paste(top, (0, 0))
 fade = Image.new("L", (W, 260), 0)
 for y in range(260): ImageDraw.Draw(fade).line((0, y, W, y), fill=int(255 * y / 259))
 cov.paste(Image.new("RGB", (W, 260), BG), (0, 815 - 260), fade)
-cov.save(O / "cover_bg.jpg", quality=95)
+cov.save(O / "cover_old.jpg", quality=95)  # 첫 버전 표지(원본 사진). 지금 표지는 AI 배경 교체본 cover_bg.jpg
 BGIMG = O / "cover_bg.jpg"
 
 def rich(d, x, y, text, font, base, anchor="ls"):
