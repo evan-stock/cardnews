@@ -1,0 +1,71 @@
+{
+ "id": "20261112-t13",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-12T13:38:14.597238+09:00",
+ "publish_at": "2026-11-12T13:38:14.597258+09:00",
+ "publish_now": true,
+ "topic": "몽타주 A(주장형): 난생처음 하울링·짖기에 도전한 강아지 5마리(원작자 5명, 모두 원작자 유튜브 1080p). v1 프렌치불독 아기 무스(TX Shorty Frenchies, 4주) / v2 아기 허스키 닷(TheHuskyPack) / v3 보스턴테리어(phil ceballos) / v4 아기 허스키 첫 짖음(대걸레 상대, Furry Feathers) / v5 저먼셰퍼드 아기 태너(Jonsten Shepherd) — 하울링하다 자기 목소리에 놀람(반전). 사실: 하울링은 늑대 조상에게 물려받은 소통 방법(AKC). 소리: 각 클립 원본에 배수 조정 후 리미터(-3dB)를 미리 적용한 사본(v1~v5)을 씀.",
+ "sources": [
+  {
+   "publisher": "YouTube TX Shorty Frenchies",
+   "url": "https://www.youtube.com/shorts/3srQUY4kRTM",
+   "date": "2026-11-07"
+  },
+  {
+   "publisher": "YouTube TheHuskyPack",
+   "url": "https://www.youtube.com/shorts/pj8cR94KSpE",
+   "date": "2026-10-31"
+  },
+  {
+   "publisher": "YouTube phil ceballos",
+   "url": "https://www.youtube.com/shorts/3YJxRACtbQw",
+   "date": "2026-10-22"
+  },
+  {
+   "publisher": "YouTube Furry Feathers",
+   "url": "https://www.youtube.com/shorts/t2UfwBXc7VI",
+   "date": "2026-10-29"
+  },
+  {
+   "publisher": "YouTube Jonsten Shepherd",
+   "url": "https://www.youtube.com/shorts/Wn28qcED83A",
+   "date": "2026-10-20"
+  },
+  {
+   "publisher": "AKC - Why Do Dogs Howl?",
+   "url": "https://www.akc.org/expert-advice/lifestyle/why-do-dogs-howl/",
+   "date": ""
+  }
+ ],
+ "seconds": 24.400000000000002,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261112-t13/short.mp4"
+ ],
+ "app_file": "media/20261112-t13/short_nobgm.mp4",
+ "yt": {
+  "title": "난생처음 하울링에 도전한 강아지들의 반응ㅋㅋ #shorts",
+  "description": "아기 프렌치불독, 아기 허스키, 보스턴테리어, 아기 저먼셰퍼드까지… 난생처음 '아우~'에 도전한 강아지들ㅋㅋ 마지막 친구는 끝까지 봐 주세요. 하울링은 늑대 조상에게 물려받은 소통 방법이래요(AKC).\n\n영상: TX Shorty Frenchies / TheHuskyPack / phil ceballos / Furry Feathers / Jonsten Shepherd (YouTube)\n자료: AKC - Why Do Dogs Howl?\n\n영상 속 제품(강아지 장난감, 강아지 방석)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #강아지 #하울링 #아기강아지 #허스키 #저먼셰퍼드 #프렌치불독 #귀여운강아지\n\n출처: YouTube TX Shorty Frenchies 2026-11-07, YouTube TheHuskyPack 2026-10-31, YouTube phil ceballos 2026-10-22\n사진·영상: YouTube TX Shorty Frenchies, YouTube TheHuskyPack, YouTube phil ceballos, YouTube Furry Feathers, YouTube Jonsten Shepherd\n음성: Typecast\n\n#shorts #강아지 #하울링 #아기강아지 #허스키",
+  "tags": [
+   "강아지",
+   "하울링",
+   "아기강아지",
+   "허스키",
+   "저먼셰퍼드",
+   "프렌치불독",
+   "보스턴테리어",
+   "귀여운강아지",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "983e8617cae3",
+ "tg_msg": 2404
+}
