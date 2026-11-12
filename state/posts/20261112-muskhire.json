@@ -2,7 +2,7 @@
  "id": "20261112-muskhire",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-12T18:04:47.306045+09:00",
  "publish_at": "2026-11-12T18:04:47.306108+09:00",
  "topic": "해임 위기 젠슨 황, 제로헤지 '일론 젠슨 고용해' → 머스크 '그러면 영광' (참고: 인스타 Dfod2JgIII6)",
@@ -68,5 +68,8 @@
   "media/20261112-muskhire/04.jpg",
   "media/20261112-muskhire/05.jpg"
  ],
- "tg_msg": 2422
+ "tg_msg": 2422,
+ "ig_media_id": "18093567818232951",
+ "permalink": "https://www.instagram.com/p/DfossmllVTu/",
+ "published_at": "2026-11-12T18:08:54.030894+09:00"
 }
