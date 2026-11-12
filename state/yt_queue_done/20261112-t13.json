@@ -1,0 +1,58 @@
+{
+ "id": "20261112-t13",
+ "finished_at": "2026-11-12T13:15:27+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/Wn28qcED83A",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-t13/video/y1.mp4",
+   "mb": 6.5,
+   "view_count": 7705,
+   "title": "Baby Tanner's first howl. He ended up scaring himself. #tannerjamesasapuppy #jonstenshepherd #howl"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/AT1hBfbltmA",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-t13/video/y2.mp4",
+   "mb": 4.0,
+   "view_count": 4011,
+   "title": "Mein Welpe bellt zum ersten Mal"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/pj8cR94KSpE",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-t13/video/y3.mp4",
+   "mb": 2.9,
+   "view_count": 8999,
+   "title": "Husky puppy’s first howl ☺️ #puppy #husky #pets #firsthowl #fluffypuppies"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/t2UfwBXc7VI",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-t13/video/y4.mp4",
+   "mb": 3.7,
+   "view_count": 3142,
+   "title": "Puppy barking for the first time #husky #puppy #shorts"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/4Jr2TBb9KKE",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+  }
+ ]
+}
