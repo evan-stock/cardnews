@@ -2,16 +2,27 @@
  {
   "id": "20261113-kress",
   "slot": "morning",
-  "mode": "collect",
-  "topic": "엔비디아 임시 CEO 콜레트 크레스",
-  "image_urls": [
-   "https://iprsoftwaremedia.com/219/files/202604/009d8f4094e9d6f702bde11cad96c0a7/69e6b9443d633260e4c67800_colette-1920x1920/colette-1920x1920.jpg"
+  "mode": "render",
+  "topic": "젠슨 황 즉시 사임, 임시 CEO 콜레트 크레스 — 참고 게시물 @peakon.mag DfpWK1dn2Lr 구성(표지 말풍선 → 사임 → 크레스 → 머스크 X → 팔로우)",
+  "category": "해외 경제",
+  "emotion": "충격·웃음(말풍선) → 궁금(다음 행보)",
+  "risk": "사임 이유 회사 미공개. 4장 머스크·젠슨 악수는 AI 합성 이미지(사용자 제작, 11.12 게시물과 같은 것).",
+  "slides": [
+   {"t": "속보) 창업 33년 만에\n젠슨 황 '즉시 사임'", "lay": "one"},
+   {"raw": true},
+   {"raw": true},
+   {"raw": true},
+   {"t": "젠슨 황 다음 행보\n'바로' 이어서 올립니다", "b": "17일 엔비디아 실적 발표도 정리해 드려요"}
   ],
-  "image_pages": [
-   "https://nvidianews.nvidia.com/bios/colette-kress",
-   "https://www.ibtimes.com/nvidia-jensen-huang-succession-plan-investigation-3809602"
+  "images": ["cover_bg", "c02", "c03", "c04", "cta_bg"],
+  "sources": [
+   {"publisher": "엔비디아 뉴스룸 보도자료", "date": "2026.11.12", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"},
+   {"publisher": "엔비디아 임원 소개(콜레트 크레스)", "date": "2026.11.13", "url": "https://nvidianews.nvidia.com/bios/colette-kress"},
+   {"publisher": "SEC 8-K", "date": "2026.11.12", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvda-20261111.htm"},
+   {"publisher": "경향신문", "date": "2026.11.12", "url": "https://www.khan.co.kr/article/202611122259001"}
   ],
-  "slides": [{"t": "x"}],
-  "images": []
+  "photo_credits": ["표지: IBTimes", "크레스: 엔비디아 뉴스룸", "머스크·젠슨 악수: AI 합성 이미지", "캡처: X @zerohedge·@elonmusk"],
+  "caption": "🚨 [속보] 엔비디아 젠슨 황, 결국 CEO·이사회 이사직 '즉시 사임'\n\n엔비디아 이사회는 11월 12일(현지시간) 젠슨 황이 사장·CEO·이사직에서 즉시 물러났다고 발표했습니다.\n→ 임시 CEO는 콜레트 크레스 최고재무책임자(CFO). 정식 후임이 정해질 때까지 CFO 자리와 겸직합니다.\n\n크레스는 누구?\n→ 2013년 9월 엔비디아에 들어와 13년째 CFO를 맡아온 59세 재무통입니다. 마이크로소프트에서 13년(서버·툴 부문 CFO), 시스코에서 3년 CFO를 지냈습니다.\n\n이번 사임은 혼외 관계 스캔들과 안보 우려 속에 나왔습니다.\n→ 이사회는 11월 8일 독립 조사를 시작하며 국가안보나 회사 기밀이 침해됐다고 볼 근거는 없다고 했지만, 두 번째 불륜 보도 하루 만에 사임으로 이어졌습니다.\n\n엔비디아, 재무통 임시 CEO 체제로 괜찮을까요?\n\n팔로우하면 젠슨 황 다음 행보와 17일 실적 발표를 이어서 받아보실 수 있습니다.",
+  "hashtags": ["엔비디아", "젠슨황", "콜레트크레스", "속보", "미국주식"]
  }
 ]
