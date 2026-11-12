@@ -1,0 +1,36 @@
+{
+ "id": "20261112-wa2",
+ "finished_at": "2026-11-12T09:30:06+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=BJMGgbJZYwI",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wa2/video/y1.mp4",
+   "mb": 18.7,
+   "view_count": 395358,
+   "title": "Chesapeake Bay Bridge Tunnel Virgina Beach Drone Phantom 3 & OSMO"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=Hz72lzDxMfc",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wa2/video/y2.mp4",
+   "mb": 23.5,
+   "view_count": 113367,
+   "title": "2000: 'Wobbly' Millennium Bridge Closed Days After Opening"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=0Bey8F6e0Js",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Download completed"
+  }
+ ]
+}
