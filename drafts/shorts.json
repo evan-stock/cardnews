@@ -1,8 +1,8 @@
 {
- "id": "20261112-t13",
+ "id": "20261112-t18",
  "mode": "send",
  "format": "meme",
- "topic": "몽타주 A(주장형): 난생처음 하울링·짖기에 도전한 강아지 5마리(원작자 5명, 모두 원작자 유튜브 1080p). v1 프렌치불독 아기 무스(TX Shorty Frenchies, 4주) / v2 아기 허스키 닷(TheHuskyPack) / v3 보스턴테리어(phil ceballos) / v4 아기 허스키 첫 짖음(대걸레 상대, Furry Feathers) / v5 저먼셰퍼드 아기 태너(Jonsten Shepherd) — 하울링하다 자기 목소리에 놀람(반전). 사실: 하울링은 늑대 조상에게 물려받은 소통 방법(AKC). 소리: 각 클립 원본에 배수 조정 후 리미터(-3dB)를 미리 적용한 사본(v1~v5)을 씀.",
+ "topic": "한 원본: 50살 구조 코카투(흰 앵무새)가 말 따라 하는 앵무새 인형(토킹 토이)을 처음 만나 '뭐야?'(What?)라고 하자 인형이 그대로 따라 하고, 'brat(버릇없는 놈)'을 주고받다 결국 참다못해 인형에게 달려들어 부리로 응징. 원본 YouTube 'Web in the woods parrots' 본인 채널 '1st he realizes.. then he crashes out!'(2026.10.14, 241만 회, 72초, 1080x1920, 설명 'My 50 year old surrendered cockatoo vs AI rival'). 사실: 코카투는 흥분하거나 놀라면 머리 깃(볏)을 세운다. 소리: 원본에 3.2배+리미터를 미리 건 사본 v1.mp4 사용. 주인 말소리 구간(16.6~18.7, 32.6~34.6, 60.7~) 안 씀/끔.",
  "sfx_max": 3,
  "style": {
   "mascot": null,
@@ -11,342 +11,344 @@
   "sub_y": 0.62
  },
  "hook": {
-  "t": "목청 처음 열어 본 아기들\n'마지막 애가 제일 웃김ㅋㅋ'"
+  "t": "'뭐야?' 했더니 '뭐야?' 함\n'결국 선 넘음ㅋㅋ'"
  },
  "photo_credits": [
-  "YouTube TX Shorty Frenchies",
-  "YouTube TheHuskyPack",
-  "YouTube phil ceballos",
-  "YouTube Furry Feathers",
-  "YouTube Jonsten Shepherd"
+  "YouTube Web in the woods parrots"
  ],
- "credit": "영상: YouTube 원작자 5명 (채널명은 설명란)",
+ "credit": "영상: YouTube Web in the woods parrots",
  "sources": [
   {
-   "publisher": "YouTube TX Shorty Frenchies",
-   "url": "https://www.youtube.com/shorts/3srQUY4kRTM",
-   "date": "2026-11-07"
+   "publisher": "YouTube Web in the woods parrots",
+   "url": "https://www.youtube.com/shorts/vK2HV8pL4D0",
+   "date": "2026-10-14"
   },
   {
-   "publisher": "YouTube TheHuskyPack",
-   "url": "https://www.youtube.com/shorts/pj8cR94KSpE",
-   "date": "2026-10-31"
-  },
-  {
-   "publisher": "YouTube phil ceballos",
-   "url": "https://www.youtube.com/shorts/3YJxRACtbQw",
-   "date": "2026-10-22"
-  },
-  {
-   "publisher": "YouTube Furry Feathers",
-   "url": "https://www.youtube.com/shorts/t2UfwBXc7VI",
-   "date": "2026-10-29"
-  },
-  {
-   "publisher": "YouTube Jonsten Shepherd",
-   "url": "https://www.youtube.com/shorts/Wn28qcED83A",
-   "date": "2026-10-20"
-  },
-  {
-   "publisher": "AKC - Why Do Dogs Howl?",
-   "url": "https://www.akc.org/expert-advice/lifestyle/why-do-dogs-howl/",
+   "publisher": "Wikipedia - Cockatoo (crest)",
+   "url": "https://en.wikipedia.org/wiki/Cockatoo",
    "date": ""
   }
  ],
+ "bgm": "assets/bgm/worthy/curious_kitten.mp3",
+ "bgm_volume": 0.7,
  "scenes": [
   {
-   "dur": 3.2,
+   "dur": 2.7,
    "video": {
     "src": "video/v1.mp4",
-    "start": 2.6,
-    "zoom": 1.25,
+    "start": 9.2,
+    "zoom": 1.0,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "나도 늑대다...",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 0.0,
-     "to": 1.1
-    },
-    {
-     "k": "sfx",
-     "t": "(아우우~)",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 1.1,
-     "to": 2.2
-    },
-    {
-     "k": "talk",
-     "t": "어때? 멋있지?",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 2.2,
-     "to": 3.2
-    }
-   ]
-  },
-  {
-   "dur": 3.0,
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 0.6,
-    "zoom": 1.35,
-    "x": 0.5,
-    "y": 0.95,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "태어난 지 몇 주 된 아기 허스키",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 0.0,
-     "to": 1.1
-    },
-    {
-     "k": "talk",
-     "t": "나도... 아우...",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 1.1,
-     "to": 2.0
-    },
-    {
-     "k": "sfx",
-     "t": "(삐익?)",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 2.0,
-     "to": 3.0
-    }
-   ]
-  },
-  {
-   "say": "강아지들이 난생처음 하울링에 도전했는데요,",
-   "video": {
-    "src": "video/v3.mp4",
-    "start": 2.6,
-    "zoom": 1.4,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0.0,
-    "blur": [
-     [
-      70,
-      1250,
-      940,
-      130
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(목 푸는 중)",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 0.2,
-     "to": 2.8
-    }
-   ]
-  },
-  {
-   "dur": 3.2,
-   "video": {
-    "src": "video/v3.mp4",
-    "start": 11.8,
-    "zoom": 1.4,
-    "x": 0.5,
-    "y": 0.0,
+    "y": 0.65,
     "audio": 1.0,
     "blur": [
      [
-      70,
-      1250,
-      940,
-      130
+      440,
+      378,
+      430,
+      108
+     ],
+     [
+      180,
+      1400,
+      720,
+      125
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "잘 봐라",
-     "x": 0.5,
-     "y": 0.13,
+     "t": "뭐야?",
+     "x": 0.72,
+     "y": 0.14,
      "at": 0.0,
-     "to": 0.6,
-     "s": "boom",
-     "sv": 0.6
-    },
-    {
-     "k": "talk",
-     "t": "아우우우우우~~",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 0.6,
-     "to": 2.0
+     "to": 1.0
     },
     {
      "k": "sfx",
-     "t": "(혼신의 힘)",
+     "t": "(정적)",
      "x": 0.5,
-     "y": 0.13,
-     "at": 2.0,
-     "to": 3.2
+     "y": 0.28,
+     "at": 1.0,
+     "to": 1.7,
+     "s": "question"
+    },
+    {
+     "k": "talk",
+     "t": "뭐야?",
+     "x": 0.78,
+     "y": 0.32,
+     "at": 1.7,
+     "to": 2.7,
+     "c": "pink"
     }
    ]
   },
   {
-   "dur": 3.0,
+   "say": "쉰 살 코카투가 따라쟁이 인형을 처음 만났는데요,",
    "video": {
-    "src": "video/v4.mp4",
-    "start": 4.2,
-    "zoom": 1.35,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "첫 상대: 대걸레",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 0.0,
-     "to": 1.2
-    },
-    {
-     "k": "talk",
-     "t": "너 누구야!!",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 1.2,
-     "to": 2.1
-    },
-    {
-     "k": "sfx",
-     "t": "(멍!)",
-     "x": 0.5,
-     "y": 0.13,
-     "at": 2.1,
-     "to": 3.0
-    }
-   ]
-  },
-  {
-   "dur": 3.0,
-   "video": {
-    "src": "video/v5.mp4",
-    "start": 6.8,
-    "zoom": 1.35,
-    "x": 0.0,
-    "y": 1.0,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "아우우~",
-     "x": 0.55,
-     "y": 0.3,
-     "at": 0.6,
-     "to": 1.6
-    },
-    {
-     "k": "sfx",
-     "t": "(깜짝)",
-     "x": 0.55,
-     "y": 0.3,
-     "at": 1.9,
-     "to": 2.4,
-     "s": "scratch",
-     "sv": 0.6
-    },
-    {
-     "k": "talk",
-     "t": "방금 누구야?!",
-     "x": 0.55,
-     "y": 0.3,
-     "at": 2.4,
-     "to": 3.0
-    }
-   ]
-  },
-  {
-   "say": "하울링은 늑대 조상에게 물려받은 대화 방법이라는데요.",
-   "video": {
-    "src": "video/v5.mp4",
-    "start": 9.3,
-    "zoom": 1.35,
-    "x": 0.0,
-    "y": 1.0,
-    "audio": 0.45
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(자기 목소리인 줄 모름)",
-     "x": 0.55,
-     "y": 0.3,
-     "at": 0.2,
-     "to": 3.5
-    }
-   ]
-  },
-  {
-   "dur": 2.8,
-   "video": {
-    "src": "video/v5.mp4",
+    "src": "video/v1.mp4",
     "start": 12.0,
-    "zoom": 1.35,
-    "x": 0.0,
-    "y": 1.0,
-    "audio": 1.0
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.65,
+    "audio": 0.3,
+    "blur": [
+     [
+      440,
+      378,
+      430,
+      108
+     ],
+     [
+      180,
+      1400,
+      720,
+      125
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(어디서 감히)",
+     "x": 0.68,
+     "y": 0.14,
+     "at": 0.2,
+     "to": 3.6
+    }
+   ]
+  },
+  {
+   "dur": 4.5,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 20.0,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.65,
+    "audio": 1.0,
+    "blur": [
+     [
+      180,
+      1400,
+      720,
+      125
+     ]
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...한 번만 더 해 볼까",
-     "x": 0.55,
-     "y": 0.3,
+     "t": "너 지금 나 따라 해?",
+     "x": 0.66,
+     "y": 0.14,
+     "at": 0.0,
+     "to": 1.5
+    },
+    {
+     "k": "talk",
+     "t": "너 지금 나 따라 해?",
+     "x": 0.72,
+     "y": 0.32,
+     "at": 1.5,
+     "to": 2.9,
+     "c": "pink"
+    },
+    {
+     "k": "sfx",
+     "t": "(눈빛 싸해짐)",
+     "x": 0.66,
+     "y": 0.14,
+     "at": 2.9,
+     "to": 4.5
+    }
+   ]
+  },
+  {
+   "dur": 4.0,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 45.5,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.65,
+    "audio": 1.0,
+    "blur": [
+     [
+      550,
+      375,
+      190,
+      110
+     ],
+     [
+      180,
+      1400,
+      720,
+      125
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "버릇없는 놈...",
+     "x": 0.68,
+     "y": 0.14,
      "at": 0.0,
      "to": 1.4
     },
     {
-     "k": "sfx",
-     "t": "(아우~)",
-     "x": 0.55,
-     "y": 0.3,
+     "k": "talk",
+     "t": "버릇없는 놈...",
+     "x": 0.76,
+     "y": 0.32,
      "at": 1.4,
      "to": 2.8,
-     "s": "ding",
-     "sv": 0.6
+     "c": "pink"
+    },
+    {
+     "k": "sfx",
+     "t": "(...)",
+     "x": 0.66,
+     "y": 0.14,
+     "at": 2.8,
+     "to": 4.0,
+     "s": "cricket"
+    }
+   ]
+  },
+  {
+   "dur": 2.2,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 54.5,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.65,
+    "audio": 1.0,
+    "blur": [
+     [
+      180,
+      1400,
+      720,
+      125
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "버릇없는 놈!!",
+     "x": 0.66,
+     "y": 0.14,
+     "at": 0.0,
+     "to": 1.1
+    },
+    {
+     "k": "talk",
+     "t": "버릇없는 놈!!",
+     "x": 0.76,
+     "y": 0.32,
+     "at": 1.1,
+     "to": 2.2,
+     "c": "pink"
+    }
+   ]
+  },
+  {
+   "dur": 3.9,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 56.6,
+    "zoom": 1.1,
+    "x": 0.5,
+    "y": 0.86,
+    "audio": 1.0,
+    "blur": [
+     [
+      180,
+      1400,
+      720,
+      125
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "(참을 만큼 참음)",
+     "x": 0.5,
+     "y": 0.14,
+     "at": 0.0,
+     "to": 1.8
+    },
+    {
+     "k": "talk",
+     "t": "선 넘었다 너",
+     "x": 0.5,
+     "y": 0.14,
+     "at": 1.8,
+     "to": 3.0,
+     "s": "scratch"
+    },
+    {
+     "k": "sfx",
+     "t": "(응징)",
+     "x": 0.5,
+     "y": 0.14,
+     "at": 3.0,
+     "to": 3.9
+    }
+   ]
+  },
+  {
+   "say": "코카투는 흥분하면 머리 깃을 부채처럼 세운다고 합니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 60.7,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.65,
+    "audio": 0.0,
+    "blur": [
+     [
+      415,
+      372,
+      460,
+      112
+     ],
+     [
+      180,
+      1400,
+      720,
+      125
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(볏 세우고 훈육 중)",
+     "x": 0.5,
+     "y": 0.14,
+     "at": 0.2,
+     "to": 3.9
     }
    ]
   }
  ],
- "bgm": "assets/bgm/worthy/curious_kitten.mp3",
- "bgm_volume": 0.6,
  "yt": {
-  "title": "난생처음 하울링에 도전한 강아지들의 반응ㅋㅋ #shorts",
-  "description": "아기 프렌치불독, 아기 허스키, 보스턴테리어, 아기 저먼셰퍼드까지… 난생처음 '아우~'에 도전한 강아지들ㅋㅋ 마지막 친구는 끝까지 봐 주세요. 하울링은 늑대 조상에게 물려받은 소통 방법이래요(AKC).\n\n영상: TX Shorty Frenchies / TheHuskyPack / phil ceballos / Furry Feathers / Jonsten Shepherd (YouTube)\n자료: AKC - Why Do Dogs Howl?\n\n영상 속 제품(강아지 장난감, 강아지 방석)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #강아지 #하울링 #아기강아지 #허스키 #저먼셰퍼드 #프렌치불독 #귀여운강아지",
+  "title": "자기 말 따라 하는 인형을 참다못한 50살 앵무새의 행동ㅋㅋ #shorts",
+  "description": "말 따라 하는 인형을 처음 만난 50살 코카투ㅋㅋ '뭐야?' 하면 '뭐야?', '버릇없는 놈' 하면 '버릇없는 놈'… 끝까지 봐 주세요. 코카투는 흥분하면 머리 깃(볏)을 부채처럼 세운대요.\n\n영상: Web in the woods parrots (YouTube)\n자료: Wikipedia - Cockatoo\n\n영상 속 제품(앵무새 장난감, 말 따라 하는 인형)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #앵무새 #코카투 #웃긴동물 #따라쟁이인형 #반려조",
   "tags": [
-   "강아지",
-   "하울링",
-   "아기강아지",
-   "허스키",
-   "저먼셰퍼드",
-   "프렌치불독",
-   "보스턴테리어",
-   "귀여운강아지",
+   "앵무새",
+   "코카투",
+   "웃긴동물",
+   "따라쟁이인형",
+   "반려조",
+   "말하는앵무새",
    "shorts"
   ]
  },
