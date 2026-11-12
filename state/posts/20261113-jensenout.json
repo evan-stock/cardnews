@@ -2,7 +2,7 @@
  "id": "20261113-jensenout",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-13T05:17:42.131939+09:00",
  "publish_at": "2026-11-13T05:17:42.132039+09:00",
  "topic": "젠슨 황 엔비디아 사장·CEO·이사직 즉시 사임(현지 11.12), 임시 CEO 콜레트 크레스 — 젠슨 황 시리즈 후속(머스크 '모시면 영광' 다음)",
@@ -84,5 +84,8 @@
   "media/20261113-jensenout/06.jpg",
   "media/20261113-jensenout/07.jpg"
  ],
- "tg_msg": 2444
+ "tg_msg": 2444,
+ "ig_media_id": "17919904473523476",
+ "permalink": "https://www.instagram.com/p/Dfp5z9xCRHI/",
+ "published_at": "2026-11-13T05:22:15.840246+09:00"
 }
