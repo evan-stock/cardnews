@@ -1,0 +1,9 @@
+ERROR: [TMZ] No video found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://www.tmz.com/2026/11/11/pete-hegseth-entourage-yelled-at-for-laughing-near-tomb-of-the-unknown-soldier/
+total 102000
+drwxr-xr-x 2 runner runner     4096 Nov 12 07:14 .
+drwxr-xr-x 3 runner runner     4096 Nov 12 07:14 ..
+-rw-r--r-- 1 runner runner      322 Nov 12 07:14 log.txt
+-rw-r--r-- 1 runner runner 83018085 Nov 12 07:14 v1.mp4
+-rw-r--r-- 1 runner runner 21410122 Nov 12 07:14 v2.mp4
+재압축: media/20261112-hegseth-reel/video/v1.mp4 80.980900초 → 4897k
