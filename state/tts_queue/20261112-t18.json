@@ -1,0 +1,36 @@
+{
+ "id": "20261112-t18",
+ "created": "2026-11-12T18:29:49.335422+09:00",
+ "items": [
+  {
+   "key": "ac848cdeeb15",
+   "text": "쉰 살 코카투가 따라쟁이 인형을 처음 만났는데요,",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "2a20a3c7905a",
+   "text": "코카투는 흥분하면 머리 깃을 부채처럼 세운다고 합니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
