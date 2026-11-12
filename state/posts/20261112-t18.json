@@ -1,0 +1,49 @@
+{
+ "id": "20261112-t18",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-12T18:34:56.336030+09:00",
+ "publish_at": "2026-11-12T18:34:56.336049+09:00",
+ "publish_now": true,
+ "topic": "한 원본: 50살 구조 코카투(흰 앵무새)가 말 따라 하는 앵무새 인형(토킹 토이)을 처음 만나 '뭐야?'(What?)라고 하자 인형이 그대로 따라 하고, 'brat(버릇없는 놈)'을 주고받다 결국 참다못해 인형에게 달려들어 부리로 응징. 원본 YouTube 'Web in the woods parrots' 본인 채널 '1st he realizes.. then he crashes out!'(2026.10.14, 241만 회, 72초, 1080x1920, 설명 'My 50 year old surrendered cockatoo vs AI rival'). 사실: 코카투는 흥분하거나 놀라면 머리 깃(볏)을 세운다. 소리: 원본에 3.2배+리미터를 미리 건 사본 v1.mp4 사용. 주인 말소리 구간(16.6~18.7, 32.6~34.6, 60.7~) 안 씀/끔.",
+ "sources": [
+  {
+   "publisher": "YouTube Web in the woods parrots",
+   "url": "https://www.youtube.com/shorts/vK2HV8pL4D0",
+   "date": "2026-10-14"
+  },
+  {
+   "publisher": "Wikipedia - Cockatoo (crest)",
+   "url": "https://en.wikipedia.org/wiki/Cockatoo",
+   "date": ""
+  }
+ ],
+ "seconds": 23.99,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261112-t18/short.mp4"
+ ],
+ "app_file": "media/20261112-t18/short_nobgm.mp4",
+ "yt": {
+  "title": "자기 말 따라 하는 인형을 참다못한 50살 앵무새의 행동ㅋㅋ #shorts",
+  "description": "말 따라 하는 인형을 처음 만난 50살 코카투ㅋㅋ '뭐야?' 하면 '뭐야?', '버릇없는 놈' 하면 '버릇없는 놈'… 끝까지 봐 주세요. 코카투는 흥분하면 머리 깃(볏)을 부채처럼 세운대요.\n\n영상: Web in the woods parrots (YouTube)\n자료: Wikipedia - Cockatoo\n\n영상 속 제품(앵무새 장난감, 말 따라 하는 인형)은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#shorts #앵무새 #코카투 #웃긴동물 #따라쟁이인형 #반려조\n\n출처: YouTube Web in the woods parrots 2026-10-14, Wikipedia - Cockatoo (crest)\n사진·영상: YouTube Web in the woods parrots\n음성: Typecast\n\n#shorts #앵무새 #코카투 #웃긴동물 #따라쟁이인형",
+  "tags": [
+   "앵무새",
+   "코카투",
+   "웃긴동물",
+   "따라쟁이인형",
+   "반려조",
+   "말하는앵무새",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "8020bb0a4f7a",
+ "tg_msg": 2426
+}
