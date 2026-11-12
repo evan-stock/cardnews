@@ -1,0 +1,51 @@
+{
+ "id": "20261113-t08",
+ "created": "2026-11-13T08:28:25.069851+09:00",
+ "items": [
+  {
+   "key": "345b1fc382b8",
+   "text": "엄마가 쿠션을 꼭 끌어안고 있자,",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "0bc122eac460",
+   "text": "그런데 엄마가 쿠션을 다시 집어 들자,",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "6c504f87ea7d",
+   "text": "골든리트리버 수컷은 몸무게가 30킬로그램이 넘습니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
