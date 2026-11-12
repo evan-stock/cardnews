@@ -1,7 +1,7 @@
 {
  "id": "20261112-cbbt",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-12T14:16:44.152497+09:00",
  "publish_at": "2026-11-12T14:16:44.152509+09:00",
  "publish_now": true,
@@ -34,5 +34,6 @@
   "channel": "shop"
  },
  "app_file": "media/20261112-cbbt/short_card_nomusic.mp4",
- "tg_msg": 2408
+ "tg_msg": 2408,
+ "note": "2026-11-12 사용자 수정 지시('초반을 롱테이크로') → 20261112-cbbtb 로 대체"
 }
