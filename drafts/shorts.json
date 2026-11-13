@@ -1,8 +1,8 @@
 {
- "id": "20261113-t18",
+ "id": "20261114-t08",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본(18:07 회차): 주인이 허스키를 위해 마당에 눈사람을 만들어 줬더니, 허스키가 달려와 눈사람과 코를 맞대며 반기는 듯하다가 당근 코만 쏙 뽑아 물고 마당을 뛰어다님(주인이 '당근 내놔!' 하며 쫓아감). 원본 Instagram @ontariohuskies 릴스 DRurQF8iXjG(2025.12, Newsweek 2025.12.04 보도, 14.5초, 540x960). 사실: AKC 시베리안 허스키 — 썰매를 끌며 먼 거리를 달리도록 길러진 견종.",
+ "topic": "한 원본(08:07 회차): 계단 위 골든리트리버 루시가 계단 아래에 누워 있는 고양이 동생 케빈 쪽으로 공을 떨어뜨려 굴려 보냄 → 공은 케빈 옆을 지나감 → 엄마가 'Did you just try to kill Kevin?' 하며 찍고 있었던 것 → 딱 걸린 루시가 돌아보고, 엄마 앞에 와서 세상 순한 눈망울로 앉음. 원본 TikTok @lucieandkev 7518808726036319510(2025.06, iHeartDogs 2025.07.01 보도, 약 200만 회, 14초, 576x1024, 원작자 Cara Ovens). 사실: AKC 골든리트리버 — 사냥꾼이 쏜 물새를 '물어 오도록' 만든 견종.",
  "sfx_max": 3,
  "style": {
   "mascot": null,
@@ -11,26 +11,26 @@
   "sub_y": 0.62
  },
  "hook": {
-  "t": "엄마표 첫 작품에\n'뽀뽀까지 함ㅋㅋ'"
+  "t": "조준까지 완벽했는데\n'목격자가 있었다ㅋㅋ'"
  },
  "photo_credits": [
-  "Instagram @ontariohuskies"
+  "TikTok @lucieandkev"
  ],
- "credit": "영상: Instagram @ontariohuskies",
+ "credit": "영상: TikTok @lucieandkev",
  "sources": [
   {
-   "publisher": "Instagram @ontariohuskies",
-   "url": "https://www.instagram.com/reel/DRurQF8iXjG/",
-   "date": "2025-12"
+   "publisher": "TikTok @lucieandkev",
+   "url": "https://www.tiktok.com/@lucieandkev/video/7518808726036319510",
+   "date": "2025-06"
   },
   {
-   "publisher": "Newsweek - Owner Surprises Husky With Snowman—But She Only Sees One Thing",
-   "url": "https://www.newsweek.com/owner-surprises-husky-with-snowman-but-she-only-sees-one-thing-11156579",
-   "date": "2025-12-04"
+   "publisher": "iHeartDogs - Golden Retriever's guilty look after stairball prank is Internet gold",
+   "url": "https://iheartdogs.com/golden-retriever-dramatic-ball-drop-cat-sibling-video/",
+   "date": "2025-07-01"
   },
   {
-   "publisher": "AKC - Siberian Husky",
-   "url": "https://www.akc.org/dog-breeds/siberian-husky/",
+   "publisher": "AKC - Golden Retriever",
+   "url": "https://www.akc.org/dog-breeds/golden-retriever/",
    "date": ""
   }
  ],
@@ -38,184 +38,199 @@
  "bgm_volume": 1.0,
  "scenes": [
   {
-   "dur": 1.5,
+   "dur": 1.1,
    "video": {
     "src": "video/v1.mp4",
-    "start": 4.6,
-    "zoom": 1.3,
+    "start": 8.0,
+    "zoom": 1.35,
     "x": 1.0,
-    "y": 0.0,
-    "audio": 0.6
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "너... 좀 잘생겼다?",
-     "x": 0.62,
-     "y": 0.2,
-     "at": 0.0,
-     "to": 1.5,
-     "s": "boom"
-    },
-    {
-     "k": "sfx",
-     "t": "(코 맞대기)",
-     "x": 0.3,
-     "y": 0.33,
-     "at": 0.3,
-     "to": 1.5
-    }
-   ]
-  },
-  {
-   "say": "엄마가 허스키 주려고 눈사람을 만들어 줬는데,",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 0.0,
-    "y": 0.2,
-    "audio": 0,
-    "blur": [
-     45,
-     100,
-     460,
-     130
-    ]
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(엄마표 눈사람)",
-     "x": 0.4,
-     "y": 0.14,
-     "at": 0.1,
-     "to": 1.6
-    },
-    {
-     "k": "talk",
-     "t": "오! 이거 나 줘?",
-     "x": 0.5,
-     "y": 0.14,
-     "at": 1.7,
-     "to": 3.4
-    }
-   ]
-  },
-  {
-   "dur": 1.2,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 6.1,
-    "zoom": 1.3,
-    "x": 1.0,
-    "y": 0.0,
-    "audio": 0,
-    "blur": [
-     285,
-     188,
-     120,
-     50
-    ]
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(쏙)",
-     "x": 0.35,
-     "y": 0.3,
-     "at": 0.15,
-     "to": 1.2,
-     "s": "scratch"
-    },
-    {
-     "k": "talk",
-     "t": "잘 먹겠습니다",
-     "x": 0.6,
-     "y": 0.14,
-     "at": 0.4,
-     "to": 1.2
-    }
-   ]
-  },
-  {
-   "say": "처음부터 노린 건 당근 코였습니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 7.3,
-    "zoom": 1.3,
-    "x": 0.35,
     "y": 0.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "이건 이제 내 거야~",
-     "x": 0.5,
-     "y": 0.14,
-     "at": 0.2,
-     "to": 1.6
+     "t": "...방금 다 봤어?",
+     "x": 0.35,
+     "y": 0.16,
+     "at": 0.0,
+     "to": 1.1,
+     "s": "boom"
     },
     {
      "k": "sfx",
-     "t": "(엄마 비명)",
-     "x": 0.5,
+     "t": "(동공지진)",
+     "x": 0.3,
+     "y": 0.32,
+     "at": 0.35,
+     "to": 1.1
+    }
+   ]
+  },
+  {
+   "say": "고양이 동생이 계단 아래에서 쉬고 있는데,",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 0.4,
+    "zoom": 1.0,
+    "audio": 6,
+    "blur": [
+     20,
+     228,
+     500,
+     76
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "케빈 저기 있네~",
+     "x": 0.4,
      "y": 0.14,
-     "at": 1.6,
+     "at": 0.0,
+     "to": 1.1
+    },
+    {
+     "k": "sfx",
+     "t": "(공 장전)",
+     "x": 0.35,
+     "y": 0.3,
+     "at": 1.1,
+     "to": 2.0
+    },
+    {
+     "k": "talk",
+     "t": "가라, 공아!",
+     "x": 0.45,
+     "y": 0.14,
+     "at": 2.0,
      "to": 3.0
     }
    ]
   },
   {
-   "dur": 4.0,
+   "say": "골댕이가 공을 냅다 굴려 보냈습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 10.45,
-    "zoom": 1.2,
-    "x": 0.5,
-    "y": 0.1,
-    "audio": 0.6
+    "start": 3.85,
+    "zoom": 1.5,
+    "x": 0.15,
+    "y": 0.25,
+    "audio": 8
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "잡아 봐라~",
-     "x": 0.5,
+     "k": "sfx",
+     "t": "(통 통 통)",
+     "x": 0.6,
      "y": 0.14,
      "at": 0.0,
      "to": 1.4
     },
     {
-     "k": "sfx",
-     "t": "(엄마 추격 중)",
-     "x": 0.5,
-     "y": 0.14,
-     "at": 1.4,
-     "to": 2.5
-    },
+     "k": "desc",
+     "t": "↓ 고양이 동생 케빈",
+     "x": 0.42,
+     "y": 0.42,
+     "at": 1.3,
+     "to": 3.0
+    }
+   ]
+  },
+  {
+   "dur": 1.0,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 7.0,
+    "zoom": 1.35,
+    "x": 0.3,
+    "y": 0.0,
+    "audio": 0
+   },
+   "caps": [
     {
      "k": "desc",
-     "t": "허스키 = 원래 썰매 끌던 달리기 선수",
+     "t": "엄마: 너 방금 케빈 맞히려고 했니?",
      "x": 0.5,
      "y": 0.14,
-     "at": 2.5,
-     "to": 4.0,
+     "at": 0.0,
+     "to": 1.0,
+     "s": "scratch"
+    }
+   ]
+  },
+  {
+   "dur": 3.0,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 9.1,
+    "zoom": 1.15,
+    "x": 0.5,
+    "y": 0.2,
+    "audio": 5
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "저요?",
+     "x": 0.5,
+     "y": 0.14,
+     "at": 0.0,
+     "to": 1.0
+    },
+    {
+     "k": "sfx",
+     "t": "(낑-)",
+     "x": 0.5,
+     "y": 0.14,
+     "at": 1.0,
+     "to": 1.9
+    },
+    {
+     "k": "talk",
+     "t": "전 착한 개인데요",
+     "x": 0.5,
+     "y": 0.14,
+     "at": 1.9,
+     "to": 3.0
+    }
+   ]
+  },
+  {
+   "dur": 1.9,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 12.1,
+    "zoom": 1.15,
+    "x": 0.5,
+    "y": 0.2,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "골든리트리버 = 원래 '물어 오는' 개",
+     "x": 0.5,
+     "y": 0.14,
+     "at": 0.0,
+     "to": 1.9,
      "s": "ding"
     }
    ]
   }
  ],
  "yt": {
-  "title": "허스키에게 눈사람을 만들어 줬더니 보인 반응ㅋㅋ #shorts",
-  "description": "눈 온 날 엄마가 허스키 고스트를 위해 마당에 눈사람을 만들어 줬더니ㅋㅋ 끝까지 봐 주세요.\n\n시베리안 허스키는 원래 썰매를 끌며 먼 거리를 달리도록 길러진 견종이래요(AKC).\n\n원본 영상: Instagram @ontariohuskies (https://www.instagram.com/reel/DRurQF8iXjG/)\n\n영상 속 반려용품은 프로필 링크에서 볼 수 있어요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#허스키 #시베리안허스키 #강아지 #눈사람 #댕댕이 #겨울",
+  "title": "자는 고양이 동생에게 공 굴리던 골댕이의 최후ㅋㅋ #shorts",
+  "description": "계단 위 골댕이 루시가 아래에 있는 고양이 동생 케빈을 보더니ㅋㅋ 끝까지 봐 주세요.\n\n골든리트리버는 원래 사냥한 물새를 '물어 오도록' 만들어진 견종이래요(AKC). 근데 이번엔 공을 보내 버렸네요.\n\n원본 영상: TikTok @lucieandkev (https://www.tiktok.com/@lucieandkev/video/7518808726036319510)\n\n영상 속 반려용품은 프로필 링크에서 볼 수 있어요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#골든리트리버 #골댕이 #강아지 #고양이 #댕냥이 #반려동물",
   "tags": [
-   "허스키",
-   "시베리안허스키",
+   "골든리트리버",
+   "골댕이",
    "강아지",
-   "눈사람",
-   "댕댕이",
-   "겨울",
-   "husky",
-   "snowman"
+   "고양이",
+   "댕냥이",
+   "반려동물",
+   "golden retriever",
+   "dog and cat"
   ]
  },
  "publish_now": true
