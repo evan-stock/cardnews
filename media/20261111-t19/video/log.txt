@@ -1,8 +1,0 @@
-ERROR: [twitter] 2120409422539399414: No video could be found in this tweet
-영상 없는 글(사진만): https://x.com/donstop4886/status/2120409422539399414
-실패: https://x.com/donstop4886/status/2120409422539399414
-total 16
-drwxr-xr-x 2 runner runner 4096 Nov 11 10:55 .
-drwxr-xr-x 4 runner runner 4096 Nov 11 10:55 ..
--rw-r--r-- 1 runner runner  220 Nov 11 10:55 log.txt
--rw-r--r-- 1 runner runner  499 Nov 11 10:55 x1.json

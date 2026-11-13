@@ -193,6 +193,30 @@
   ]
  },
  {
+  "id": "20261113-aiglass",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261113-aiglass/01.jpg",
+   "media/20261113-aiglass/02.jpg",
+   "media/20261113-aiglass/03.jpg",
+   "media/20261113-aiglass/04.jpg",
+   "media/20261113-aiglass/05.jpg",
+   "media/20261113-aiglass/06.jpg",
+   "media/20261113-aiglass/07.jpg"
+  ]
+ },
+ {
+  "id": "20261113-jensen24h",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261113-jensen24h/01.jpg",
+   "media/20261113-jensen24h/02.jpg",
+   "media/20261113-jensen24h/03.jpg",
+   "media/20261113-jensen24h/04.jpg",
+   "media/20261113-jensen24h/05.jpg"
+  ]
+ },
+ {
   "id": "20261113-jensenout",
   "channel": "오늘의쓸모_인스타",
   "files": [
@@ -203,6 +227,49 @@
    "media/20261113-jensenout/05.jpg",
    "media/20261113-jensenout/06.jpg",
    "media/20261113-jensenout/07.jpg"
+  ]
+ },
+ {
+  "id": "20261113-lawyer",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261113-lawyer/01.jpg",
+   "media/20261113-lawyer/02.jpg",
+   "media/20261113-lawyer/03.jpg",
+   "media/20261113-lawyer/04.jpg",
+   "media/20261113-lawyer/05.jpg"
+  ]
+ },
+ {
+  "id": "20261113-lawyer2",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261113-lawyer2/01.jpg",
+   "media/20261113-lawyer2/02.jpg",
+   "media/20261113-lawyer2/03.jpg",
+   "media/20261113-lawyer2/04.jpg",
+   "media/20261113-lawyer2/05.jpg"
+  ]
+ },
+ {
+  "id": "20261113-t08",
+  "channel": "털뭉치",
+  "files": [
+   "media/20261113-t08/short.mp4"
+  ]
+ },
+ {
+  "id": "20261113-t13",
+  "channel": "털뭉치",
+  "files": [
+   "media/20261113-t13/short.mp4"
+  ]
+ },
+ {
+  "id": "20261113-t18",
+  "channel": "털뭉치",
+  "files": [
+   "media/20261113-t18/short.mp4"
   ]
  }
 ]
