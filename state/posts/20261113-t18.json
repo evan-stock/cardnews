@@ -1,0 +1,55 @@
+{
+ "id": "20261113-t18",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-13T18:49:08.987685+09:00",
+ "publish_at": "2026-11-13T18:49:08.987706+09:00",
+ "publish_now": true,
+ "topic": "한 원본(18:07 회차): 주인이 허스키를 위해 마당에 눈사람을 만들어 줬더니, 허스키가 달려와 눈사람과 코를 맞대며 반기는 듯하다가 당근 코만 쏙 뽑아 물고 마당을 뛰어다님(주인이 '당근 내놔!' 하며 쫓아감). 원본 Instagram @ontariohuskies 릴스 DRurQF8iXjG(2025.12, Newsweek 2025.12.04 보도, 14.5초, 540x960). 사실: AKC 시베리안 허스키 — 썰매를 끌며 먼 거리를 달리도록 길러진 견종.",
+ "sources": [
+  {
+   "publisher": "Instagram @ontariohuskies",
+   "url": "https://www.instagram.com/reel/DRurQF8iXjG/",
+   "date": "2025-12"
+  },
+  {
+   "publisher": "Newsweek - Owner Surprises Husky With Snowman—But She Only Sees One Thing",
+   "url": "https://www.newsweek.com/owner-surprises-husky-with-snowman-but-she-only-sees-one-thing-11156579",
+   "date": "2025-12-04"
+  },
+  {
+   "publisher": "AKC - Siberian Husky",
+   "url": "https://www.akc.org/dog-breeds/siberian-husky/",
+   "date": ""
+  }
+ ],
+ "seconds": 11.59,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261113-t18/short.mp4"
+ ],
+ "app_file": "media/20261113-t18/short_nobgm.mp4",
+ "yt": {
+  "title": "허스키에게 눈사람을 만들어 줬더니 보인 반응ㅋㅋ #shorts",
+  "description": "눈 온 날 엄마가 허스키 고스트를 위해 마당에 눈사람을 만들어 줬더니ㅋㅋ 끝까지 봐 주세요.\n\n시베리안 허스키는 원래 썰매를 끌며 먼 거리를 달리도록 길러진 견종이래요(AKC).\n\n원본 영상: Instagram @ontariohuskies (https://www.instagram.com/reel/DRurQF8iXjG/)\n\n영상 속 반려용품은 프로필 링크에서 볼 수 있어요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#허스키 #시베리안허스키 #강아지 #눈사람 #댕댕이 #겨울\n\n출처: Instagram @ontariohuskies 2025-12, Newsweek - Owner Surprises Husky With Snowman—But She Only Sees One Thing 2025-12-04, AKC - Siberian Husky\n사진·영상: Instagram @ontariohuskies\n\n#shorts #허스키 #시베리안허스키 #강아지 #눈사람",
+  "tags": [
+   "허스키",
+   "시베리안허스키",
+   "강아지",
+   "눈사람",
+   "댕댕이",
+   "겨울",
+   "husky",
+   "snowman"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "dbe30136fd42",
+ "tg_msg": 2491
+}
