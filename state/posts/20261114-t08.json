@@ -2,8 +2,8 @@
  "id": "20261114-t08",
  "kind": "short",
  "status": "pending",
- "created_at": "2026-11-14T08:37:56.523832+09:00",
- "publish_at": "2026-11-14T08:37:56.523854+09:00",
+ "created_at": "2026-11-14T08:42:56.590681+09:00",
+ "publish_at": "2026-11-14T08:42:56.590702+09:00",
  "publish_now": true,
  "topic": "한 원본(08:07 회차): 계단 위 골든리트리버 루시가 계단 아래에 누워 있는 고양이 동생 케빈 쪽으로 공을 떨어뜨려 굴려 보냄 → 공은 케빈 옆을 지나감 → 엄마가 'Did you just try to kill Kevin?' 하며 찍고 있었던 것 → 딱 걸린 루시가 돌아보고, 엄마 앞에 와서 세상 순한 눈망울로 앉음. 원본 TikTok @lucieandkev 7518808726036319510(2025.06, iHeartDogs 2025.07.01 보도, 약 200만 회, 14초, 576x1024, 원작자 Cara Ovens). 사실: AKC 골든리트리버 — 사냥꾼이 쏜 물새를 '물어 오도록' 만든 견종.",
  "sources": [
@@ -50,6 +50,6 @@
   "synthetic": false,
   "channel": null
  },
- "draft_hash": "cfed69112d64",
- "tg_msg": 2498
+ "draft_hash": "9a9e5d123f04",
+ "tg_msg": 2500
 }
