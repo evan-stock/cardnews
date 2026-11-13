@@ -2,7 +2,7 @@
  "id": "20261113-jensen24h",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-13T13:02:02.918494+09:00",
  "publish_at": "2026-11-13T13:02:02.918560+09:00",
  "topic": "젠슨 황 사임 후 24시간: 세 번째 불륜 의혹(로이터) · 트럼프 '후임은 팀 쿡' · 의회 '선서 증언·안 나오면 소환장'+러트닉",
@@ -68,5 +68,8 @@
   "media/20261113-jensen24h/04.jpg",
   "media/20261113-jensen24h/05.jpg"
  ],
- "tg_msg": 2465
+ "tg_msg": 2465,
+ "ig_media_id": "17905622313671232",
+ "permalink": "https://www.instagram.com/p/Dfquy1-HBfq/",
+ "published_at": "2026-11-13T13:05:42.304122+09:00"
 }
