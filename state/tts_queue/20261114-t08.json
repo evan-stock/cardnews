@@ -1,0 +1,36 @@
+{
+ "id": "20261114-t08",
+ "created": "2026-11-14T08:25:20.255459+09:00",
+ "items": [
+  {
+   "key": "081ee14dbf59",
+   "text": "고양이 동생이 계단 아래에서 쉬고 있는데,",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "골댕이가 공을 냅다 굴려 보냈습니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "040a9cb47fff",
+   "text": "골댕이가 공을 냅다 굴려 보냈습니다.",
+   "ctx": {
+    "previous_text": "고양이 동생이 계단 아래에서 쉬고 있는데,",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
