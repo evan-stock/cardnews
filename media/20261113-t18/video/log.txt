@@ -1,0 +1,9 @@
+WARNING: [Reddit] Session request failed: HTTP Error 403: Blocked
+WARNING: [Reddit] 1p19hc7: Session request failed: HTTP Error 403: Forbidden
+ERROR: [Reddit] 1p19hc7: Account authentication is required. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+실패: https://www.reddit.com/r/CatTraining/comments/1p19hc7/my_cat_hits_me_when_i_dont_pet_him_the_exact_way/
+total 1296
+drwxr-xr-x 2 runner runner    4096 Nov 13 09:15 .
+drwxr-xr-x 3 runner runner    4096 Nov 13 09:15 ..
+-rw-r--r-- 1 runner runner     493 Nov 13 09:15 log.txt
+-rw-r--r-- 1 runner runner 1314756 Nov 13 09:15 v2.mp4
