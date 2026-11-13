@@ -1,0 +1,55 @@
+{
+ "id": "20261113-t13",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-13T13:54:22.591121+09:00",
+ "publish_at": "2026-11-13T13:54:22.591143+09:00",
+ "publish_now": true,
+ "topic": "한 원본(몽타주 대신: 맥북 꺼짐으로 유튜브 원작자 클립 9개를 못 받음, 틱톡 클립은 576p라 몽타주 720p 기준 미달): 1파운드(약 0.45kg) 아기 고양이 부츠를 85파운드(약 38kg) 저먼셰퍼드 버터에게 소개하자, 셰퍼드가 고양이를 못 본 척 고개를 돌리고 아빠 쪽으로 붙더니 앞발로 아빠를 긁고 결국 아빠 품에 얼굴을 파묻음. 원본 TikTok @kayla__d 7418737727698472234(2024.09, TAG24 2024.10.04 보도, 20초, 576x1024). 사실: AKC 저먼셰퍼드 — 경찰·군견으로 일하는 용감한 견종.",
+ "sources": [
+  {
+   "publisher": "TikTok @kayla__d",
+   "url": "https://www.tiktok.com/@kayla__d/video/7418737727698472234",
+   "date": "2024-09"
+  },
+  {
+   "publisher": "TAG24 - Kitten leaves German shepherd \"actually terrified\" in hilarious first meeting",
+   "url": "https://tag24.com/animals/dogs/kitten-leaves-german-shepherd-actually-terrified-in-hilarious-first-meeting-3323250",
+   "date": "2024-10-04"
+  },
+  {
+   "publisher": "AKC - German Shepherd Dog",
+   "url": "https://www.akc.org/dog-breeds/german-shepherd-dog/",
+   "date": ""
+  }
+ ],
+ "seconds": 19.01,
+ "tts": [
+  "gemini",
+  "silent"
+ ],
+ "files": [
+  "media/20261113-t13/short.mp4"
+ ],
+ "app_file": "media/20261113-t13/short_nobgm.mp4",
+ "yt": {
+  "title": "38kg 셰퍼드에게 0.5kg 아기 고양이를 소개하자 생긴 일ㅋㅋ #shorts",
+  "description": "몸무게 38kg 셰퍼드 버터에게 0.5kg짜리 아기 고양이 부츠를 처음 소개했더니ㅋㅋ 덩치는 경찰견급인데 끝까지 봐 주세요.\n\n저먼셰퍼드는 경찰견·군견으로 일할 만큼 용감한 견종으로 꼽힌대요(AKC).\n\n원본 영상: TikTok @kayla__d (https://www.tiktok.com/@kayla__d/video/7418737727698472234)\n\n영상 속 반려용품은 프로필 링크에서 볼 수 있어요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#셰퍼드 #저먼셰퍼드 #아기고양이 #강아지 #고양이 #댕냥이\n\n출처: TikTok @kayla__d 2024-09, TAG24 - Kitten leaves German shepherd \"actually terrified\" in hilarious first meeting 2024-10-04, AKC - German Shepherd Dog\n사진·영상: TikTok @kayla__d\n\n#shorts #셰퍼드 #저먼셰퍼드 #아기고양이 #강아지",
+  "tags": [
+   "셰퍼드",
+   "저먼셰퍼드",
+   "아기고양이",
+   "강아지",
+   "고양이",
+   "댕냥이",
+   "german shepherd",
+   "kitten"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "552f8ca2aa04",
+ "tg_msg": 2483
+}
