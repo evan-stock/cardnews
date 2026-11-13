@@ -1,3 +1,74 @@
-[{"id":"20261113-jensen24h-cap","slot":"lunch","mode":"collect",
-"image_pages":["https://9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo/","https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/","https://www.fastcompany.com/91641219/trump-suggestion-for-next-nvidia-ceo-tim-cook-apple-jensen-huang","https://qz.com/trump-tim-cook-nvidia-ceo-jensen-huang-resigned-111226","https://www.inc.com/jason-aten/no-tim-cook-isnt-going-to-be-the-next-ceo-of-nvidia-here-are-5-candidates-who-might-be/91436089","https://www.insight.co.kr/news/581849","https://www.fntoday.co.kr/news/articleView.html?idxno=398060"],
-"read_pages":["https://9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo/"]}]
+[
+ {
+  "id": "20261113-jensen24h",
+  "slot": "evening",
+  "mode": "send",
+  "topic": "젠슨 황 사임 후 24시간: 세 번째 불륜 의혹(로이터) · 트럼프 '후임은 팀 쿡' · 의회 '선서 증언·안 나오면 소환장'+러트닉",
+  "category": "국제",
+  "emotion": "어이없음 → 놀람(끝이 아니다)",
+  "risk": "세 번째는 로이터 '소식통 2명' 보도·당사자 신원 비공개, 엔비디아 논평 거부. 트럼프 발언은 트루스소셜 원문(국문 기사 번역). 러트닉 교체는 로이터 소식통 보도.",
+  "slides": [
+   {
+    "t": "사임 하루 만에 젠슨 황에게\n생긴 일 '3가지'",
+    "lay": "one"
+   },
+   {
+    "raw": true
+   },
+   {
+    "raw": true
+   },
+   {
+    "raw": true
+   },
+   {
+    "t": "물러나도 끝이 아니다\n18일, '증언대'에 선다",
+    "b": "증언에서 나오는 얘기, 바로 이어서 올립니다"
+   }
+  ],
+  "images": [
+   "ai_cover",
+   "f02",
+   "f03",
+   "f04",
+   "ai_cover"
+  ],
+  "sources": [
+   {
+    "publisher": "로이터(세계일보·경향신문 인용)",
+    "date": "2026.11.12",
+    "url": "https://www.segye.com/newsView/20261113506259"
+   },
+   {
+    "publisher": "MTN·AI타임스(트럼프 트루스소셜)",
+    "date": "2026.11.13",
+    "url": "https://news.mtn.co.kr/article/2026111305382013188"
+   },
+   {
+    "publisher": "헤럴드경제(CNN 인용)",
+    "date": "2026.11.13",
+    "url": "https://biz.heraldcorp.com/article/10935702"
+   },
+   {
+    "publisher": "이데일리(로이터 인용)",
+    "date": "2026.11.13",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03050406645645392"
+   }
+  ],
+  "photo_credits": [
+   "표지: 참고 이미지(AI 생성)",
+   "캡처: 트루스소셜 @realDonaldTrump",
+   "위키트리·세계일보·헤럴드경제"
+  ],
+  "caption": "[젠슨 황 사임 그 후 24시간] 물러난 날 밤에 '세 번째' 여성 의혹이 나왔고, 대통령은 후임을 골랐고, 의회는 증언대를 준비했습니다 (표지는 AI 합성 이미지)\n\n현지 12일 젠슨 황이 엔비디아 CEO·이사직에서 물러난 그날, 로이터는 소식통 2명을 인용해 그가 엔비디아의 또 다른 여성 직원과도 내연 관계였다고 보도했습니다. 중국 스파이 의혹을 받는 앨리스 황, 킴벌리 파월 헬스케어 부사장에 이어 세 번째입니다. 엔비디아는 논평을 거부했습니다.\n\n같은 날 트럼프 대통령은 트루스소셜에 \"젠슨 황이 물러났으니 그 자리를 이어받을 사람은 단 한 명, 애플의 팀 쿡\"이라며 \"전설이 또 다른 전설을 대체한다\"고 썼습니다. 차기 CEO 선임 권한은 엔비디아 이사회에 있고, 지금은 콜레트 크레스 CFO가 임시 CEO를 맡고 있습니다.\n\n의회는 물러났다고 끝이 아니라는 입장입니다. 하원 외교위원장 브라이언 매스트는 젠슨 황이 18일 비공개 증언에 잠정 동의했다며 \"선서를 하고 녹화된다, 안 나오면 소환장\"이라고 밝혔습니다(CNN). 상원 은행위원장 팀 스콧은 젠슨 황과 러트닉 상무장관에게 출석을 요구했고, 로이터는 백악관이 러트닉 장관 교체를 논의하고 있다고 전했습니다.\n\n민간 회사 CEO 후임을 대통령이 공개로 찍는 것, 여러분은 어떻게 보시나요?\n\n엔비디아 주식 가진 친구에게 보내주세요! 팔로우하면 18일 증언 소식을 이어서 받아보실 수 있습니다.\n\n※ 투자 권유 아님, 정보 제공 목적",
+  "hashtags": [
+   "젠슨황",
+   "엔비디아",
+   "팀쿡",
+   "트럼프",
+   "미국주식"
+  ],
+  "publish_now": true,
+  "publish_at": "2026-11-13T13:03:00+09:00"
+ }
+]
