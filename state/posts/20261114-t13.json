@@ -1,0 +1,51 @@
+{
+ "id": "20261114-t13",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-14T13:30:11.483133+09:00",
+ "publish_at": "2026-11-14T13:30:11.483156+09:00",
+ "publish_now": true,
+ "topic": "한 원본(13:07 회차, 몽타주 대신): 근육질 불리 '척 노리스'가 주황 고양이 가필드가 몸을 비비자 얼어붙고 고개를 돌림 → 가필드는 겁 없이 계속 얼굴을 비빔 → 결국 척 노리스가 코를 박고 받아 줌. 원본 YouTube Samba Kennels gKp_R0T9-uM(2026.10.22, 9.2만, 23초, 1080p). 사실: 고양이가 얼굴을 비비는 건 볼 냄새샘으로 '익숙한 내 편' 냄새를 묻히는 행동(PetMD).",
+ "sources": [
+  {
+   "publisher": "YouTube Samba Kennels - Why is this big dog so scared of the cat?",
+   "url": "https://www.youtube.com/shorts/gKp_R0T9-uM",
+   "date": "2026-10-22"
+  },
+  {
+   "publisher": "PetMD - Why Do Cats Rub Against You?",
+   "url": "https://www.petmd.com/cat/behavior/why-do-cats-rub-against-you",
+   "date": ""
+  }
+ ],
+ "seconds": 13.34,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261114-t13/short.mp4"
+ ],
+ "app_file": "media/20261114-t13/short_nobgm.mp4",
+ "yt": {
+  "title": "고양이를 무서워하는 근육질 불리에게 고양이가 한 행동ㅋㅋ #shorts",
+  "description": "이름은 척 노리스, 집에서 제일 센 개인데 고양이 앞에선 얼음 🐶🐱\n결국 누가 이겼을까요?\n\n고양이가 얼굴·몸을 비비는 건 볼에 있는 냄새샘으로 '익숙한 내 편' 냄새를 묻히는 행동이라고 해요(PetMD).\n\n🎥 원본 영상: Samba Kennels (YouTube) https://www.youtube.com/shorts/gKp_R0T9-uM\n원작자의 영상에 우리 해설·자막·효과음을 더해 재구성했습니다.\n\n#오늘의털뭉치 #강아지 #고양이 #불리 #개냥이 #동물쇼츠\n\n출처: YouTube Samba Kennels - Why is this big dog so scared of the cat? 2026-10-22, PetMD - Why Do Cats Rub Against You?\n사진·영상: YouTube Samba Kennels\n음성: Typecast\n\n#shorts #오늘의털뭉치 #강아지 #고양이 #불리",
+  "tags": [
+   "오늘의털뭉치",
+   "강아지",
+   "고양이",
+   "불리",
+   "아메리칸불리",
+   "개와고양이",
+   "동물쇼츠",
+   "웃긴동물",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "292ef714d77d",
+ "tg_msg": 2536
+}
