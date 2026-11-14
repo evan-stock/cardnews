@@ -1,0 +1,36 @@
+{
+ "id": "20261114-whirl",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-14T22:00:18.703620+09:00",
+ "publish_at": "2026-11-14T22:00:18.703636+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 불어난 강물 속 땅 구멍이 만든 소용돌이가 소나무를 삼킨 이유",
+ "sources": [],
+ "seconds": 24.9,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261114-whirl/short_card.mp4"
+ ],
+ "yt": {
+  "title": "불어난 강물에 소나무를 넣었더니 #shorts",
+  "description": "물에 잠긴 풀밭 한가운데서만 물이 빙글빙글 돌더니, 작은 소나무 한 그루를 통째로 삼켜 버렸습니다.\n2023년 4월, 눈 녹은 물로 불어난 미국 미네소타 스틸워터의 세인트크로이강에서 찍힌 장면입니다.\n\n알고 보니 물 밑 땅에 구멍이 있었습니다(촬영자: \"There's a hole in the ground\"). 사방의 강물이 이 구멍 하나로 빠져나가면서, 처음엔 아주 느리던 물의 회전이 가운데로 모일수록 빨라집니다. 피겨 선수가 팔을 오므리면 빨리 도는 것과 같은 원리(각운동량)라서, 한가운데엔 공기 구멍까지 생기고 떠 있던 거품·나뭇가지가 그 속으로 끌려 들어갑니다. 회전 방향은 흔히 아는 '지구 자전(코리올리 힘)' 때문이 아니라 물에 원래 있던 작은 흐름이 정합니다.\n물에 잠긴 길이나 풀밭에서는 이런 구멍이 겉으로 보이지 않아 더 위험합니다. 불어난 물에는 들어가지 마세요.\n\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처\n- 원본 영상: TikTok @mnnature_awesomeness (2023.04.16) https://www.tiktok.com/@mnnature_awesomeness/video/7222704147160763690\n- St. Croix 360 (2023.04) 세인트크로이강 하류 홍수 / MPR News (2023.03.20)\n- Andersen 외, Physical Review Letters 91, 104502 (2003) 'Anatomy of a Bathtub Vortex'\n- Nerdist (2020.05.01) / 미국 기상청 홍수 안전 안내\n\n#소용돌이 #홍수 #과학 #물리 #신기한영상 #오늘의쓸모 #shorts",
+  "tags": [
+   "소용돌이",
+   "홍수",
+   "과학",
+   "물리",
+   "신기한영상",
+   "오늘의쓸모",
+   "whirlpool"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "app_file": "media/20261114-whirl/short_card_nomusic.mp4",
+ "tg_msg": 2563
+}
