@@ -2,7 +2,7 @@
  "id": "20261114-sonyeon",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-14T19:53:08.495024+09:00",
  "publish_at": "2026-11-14T19:53:08.495084+09:00",
  "topic": "행시 수석·최연소 김재겸 '소년등과 일불행' 소감",
@@ -45,5 +45,8 @@
   "media/20261114-sonyeon/02.jpg",
   "media/20261114-sonyeon/03.jpg"
  ],
- "tg_msg": 2560
+ "tg_msg": 2560,
+ "ig_media_id": "18124938806291193",
+ "permalink": "https://www.instagram.com/p/DfuCfxKIJDS/",
+ "published_at": "2026-11-14T19:55:05.491160+09:00"
 }
