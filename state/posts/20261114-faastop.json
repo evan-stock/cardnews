@@ -2,7 +2,7 @@
  "id": "20261114-faastop",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-14T10:29:09.272549+09:00",
  "publish_at": "2026-11-14T10:26:55+09:00",
  "topic": "AI 관제 SMART 전국 확대 사흘 뒤 미국 전역 이륙 중단",
@@ -78,5 +78,9 @@
   "media/20261114-faastop/05.jpg",
   "media/20261114-faastop/06.jpg"
  ],
- "tg_msg": 2507
+ "tg_msg": 2507,
+ "decided_at": "2026-11-14T10:30:45.856211+09:00",
+ "ig_media_id": "18100025429426184",
+ "permalink": "https://www.instagram.com/p/DftB_haibOL/",
+ "published_at": "2026-11-14T10:31:56.277026+09:00"
 }
