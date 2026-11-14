@@ -129,11 +129,10 @@ def publish_carousel(image_urls, caption):
 def publish_reel(video_url, caption, share_to_feed=False, cover_url=None, trial=None):
     """9:16 mp4 를 릴스로 게시. cover_url 이 있으면 그 이미지를 커버로.
     trial: 'MANUAL'(앱에서 직접 팔로워 공개) 또는 'SS_PERFORMANCE'(반응 좋으면 자동 공개) → 체험판(파일럿) 릴스, 비팔로워에게만 먼저 노출(2026.11.15)."""
-    import json as _json
     ig = env("IG_USER_ID" + _sfx())
     extra = {"cover_url": cover_url} if cover_url else {}
     if trial:
-        extra["trial_params"] = _json.dumps({"graduation_strategy": trial})
+        extra["trial_params"] = {"graduation_strategy": trial}  # POST는 json 본문이라 문자열이 아닌 객체로 보내야 함(문자열로 보냈더니 무시되고 일반 릴스로 게시, 2026.11.15)
     cid = _req("POST", f"{ig}/media", media_type="REELS", video_url=video_url,
                caption=caption[:2200], share_to_feed=share_to_feed, **extra)["id"]
     _wait_ready(cid, tries=20)
