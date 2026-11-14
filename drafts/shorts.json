@@ -1,9 +1,9 @@
 {
- "id": "20261114-t13b",
+ "id": "20261114-t18",
  "mode": "send",
  "format": "meme",
- "topic": "벤치마크 편집 시험판(20261114-t13 과 같은 원본·제목, 편집만 동물쑛·펫스파이·펫덕식): 시간순 진행, 위쪽 해설 자막이 1~1.5초 단위로 이어짐(필재 내레이션), 동물 대사는 동물 옆 노랑 작은 글씨, 끝에 하늘색 괄호 펀치라인. 한 원본(13:07 회차, 몽타주 대신): 근육질 불리 '척 노리스'가 주황 고양이 가필드가 몸을 비비자 얼어붙고 고개를 돌림 → 가필드는 겁 없이 계속 얼굴을 비빔 → 결국 척 노리스가 코를 박고 받아 줌. 원본 YouTube Samba Kennels gKp_R0T9-uM(2026.10.22, 9.2만, 23초, 1080p). 사실: 고양이가 얼굴을 비비는 건 볼 냄새샘으로 '익숙한 내 편' 냄새를 묻히는 행동(PetMD).",
- "sfx_max": 3,
+ "topic": "한 원본(18:07 회차, 대본 우선 방식 첫 편): 집 앞에 온 흰 차로 낯선 사람이 복슬 강아지 베일리를 안고 가자 강아지가 버둥대다 탈출해 집으로 전력 질주 → 알고 보니 출장 미용 차(강아지는 납치당하는 줄 앎). 원본 TikTok @ablondestyling 7614118428386938125(2026.03, 160만, Newsweek 2026.03.16 보도). 시간순, 원본 거의 그대로.",
+ "sfx_max": 1,
  "style": {
   "mascot": null,
   "band": 480,
@@ -14,210 +14,180 @@
   "sub_stroke": 8
  },
  "hook": {
-  "t": "이름은 '척 노리스'인데\n'숨도 못 쉼ㅋㅋ'"
+  "t": "댕댕이 납치 현장?!\n'범인' 정체ㅋㅋ"
  },
  "photo_credits": [
-  "YouTube Samba Kennels"
+  "TikTok @ablondestyling"
  ],
- "credit": "영상: YouTube @SambaKennels",
+ "credit": "영상: TikTok @ablondestyling",
  "sources": [
   {
-   "publisher": "YouTube Samba Kennels - Why is this big dog so scared of the cat?",
-   "url": "https://www.youtube.com/shorts/gKp_R0T9-uM",
-   "date": "2026-10-22"
+   "publisher": "TikTok @ablondestyling",
+   "url": "https://www.tiktok.com/@ablondestyling/video/7614118428386938125",
+   "date": "2026-03"
   },
   {
-   "publisher": "PetMD - Why Do Cats Rub Against You?",
-   "url": "https://www.petmd.com/cat/behavior/why-do-cats-rub-against-you",
-   "date": ""
+   "publisher": "Newsweek - Dog Thinks He's Being 'Dognapped'—Response Leaves Viewers in Hysterics",
+   "url": "https://www.newsweek.com/dog-thinks-hes-being-dognapped-response-viewers-hysterics-11674904",
+   "date": "2026-03-16"
   }
  ],
- "bgm": "assets/bgm/worthy/curious_kitten.mp3",
- "bgm_volume": 1.0,
  "scenes": [
   {
-   "say": "고양이가 비비자 얼음이 된 근육질 개가 있는데요",
+   "say": "집 앞에 수상한 흰 차가 나타났는데요",
+   "sub": "집 앞에 수상한, 흰 차가 나타났는데요",
    "video": {
     "src": "video/v1.mp4",
     "start": 0.0,
-    "zoom": 1.5,
-    "x": 0.9,
-    "y": 0.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(얼음)",
-     "x": 0.2,
-     "y": 0.2,
-     "at": 0.3,
-     "to": 1.5,
-     "c": "yellow",
-     "size": 74
-    },
-    {
-     "k": "talk",
-     "t": "제발 저리 가...",
-     "x": 0.3,
-     "y": 0.2,
-     "at": 1.6,
-     "to": 3.2,
-     "c": "yellow",
-     "size": 74
-    }
-   ],
-   "sub": "고양이가 비비자, 얼음이 된 근육질 개가, 있는데요"
+    "zoom": 1.2,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0.8
+   }
   },
   {
-   "say": "이름은 척 노리스인데요",
+   "say": "낯선 사람이 강아지를 안고 차로 가더니",
+   "sub": "낯선 사람이 강아지를, 안고 차로 가더니",
    "video": {
     "src": "video/v1.mp4",
-    "start": 4.4,
-    "zoom": 1.0,
-    "y": 0.2,
-    "audio": 0,
-    "blur": [
-     150,
-     890,
-     780,
-     270
-    ]
+    "start": 3.0,
+    "zoom": 1.2,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0.8
    },
    "caps": [
     {
      "k": "talk",
-     "t": "눈 마주치면 끝이야",
-     "x": 0.62,
-     "y": 0.17,
-     "at": 0.2,
-     "to": 1.8,
+     "t": "어디 가는 거야...?",
+     "x": 0.6,
+     "y": 0.4,
+     "at": 0.6,
+     "to": 3.0,
      "c": "yellow",
      "size": 74
     }
    ]
   },
   {
-   "say": "그런데 겁 없는 가필드가 얼굴을 들이밀더니",
+   "say": "차 앞에서 강아지가 마구 버둥대더니",
+   "sub": "차 앞에서 강아지가, 마구 버둥대더니",
    "video": {
     "src": "video/v1.mp4",
-    "start": 13.0,
-    "zoom": 1.15,
-    "x": 0.7,
+    "start": 6.2,
+    "zoom": 1.2,
+    "x": 0.5,
     "y": 1.0,
-    "audio": 0.3
+    "audio": 0.8
    },
    "caps": [
     {
      "k": "talk",
-     "t": "형아 볼 내 거~",
-     "x": 0.3,
-     "y": 0.2,
-     "at": 0.4,
-     "to": 1.8,
-     "c": "pink",
+     "t": "살려주세요!!",
+     "x": 0.45,
+     "y": 0.42,
+     "at": 0.8,
+     "to": 3.0,
+     "c": "yellow",
      "size": 74
-    },
+    }
+   ]
+  },
+  {
+   "say": "결국 빠져나와 집으로 전력 질주",
+   "sub": "결국 빠져나와, 집으로 전력 질주",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 9.2,
+    "zoom": 1.2,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0.8
+   }
+  },
+  {
+   "say": "문 열리자마자 쏙 들어오는데요",
+   "sub": "문 열리자마자, 쏙 들어오는데요",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 11.8,
+    "zoom": 1.2,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0.8
+   }
+  },
+  {
+   "say": "알고 보니 그 차는 강아지 미용 차였어요",
+   "sub": "알고 보니 그 차는, 강아지 미용 차였어요",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 14.4,
+    "zoom": 1.2,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0.8
+   },
+   "caps": [
     {
      "k": "talk",
-     "t": "...왜 이래",
-     "x": 0.72,
-     "y": 0.2,
-     "at": 1.8,
+     "t": "나 납치될 뻔했어...",
+     "x": 0.5,
+     "y": 0.62,
+     "at": 2.0,
      "to": 3.2,
      "c": "yellow",
      "size": 74
     }
-   ],
-   "sub": "그런데 겁 없는 가필드가, 얼굴을 들이밀더니"
+   ]
+  },
+  {
+   "say": "납치당하는 줄 알았나 봐요",
+   "sub": "납치당하는 줄, 알았나 봐요",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 17.6,
+    "zoom": 1.2,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0.8
+   }
   },
   {
    "dur": 1.4,
    "video": {
     "src": "video/v1.mp4",
-    "start": 16.1,
-    "zoom": 1.15,
-    "x": 0.7,
-    "y": 1.0,
-    "audio": 4
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "얘 진짜 겁이 없네?",
-     "x": 0.6,
-     "y": 0.17,
-     "at": 0.0,
-     "to": 1.4,
-     "c": "yellow",
-     "size": 74
-    }
-   ]
-  },
-  {
-   "say": "결국 코 박고 항복",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 17.5,
-    "zoom": 1.2,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0.5
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(코 박)",
-     "x": 0.55,
-     "y": 0.45,
-     "at": 0.0,
-     "to": 1.4,
-     "c": "yellow",
-     "size": 74,
-     "s": "scratch",
-     "sv": 0.6
-    }
-   ]
-  },
-  {
-   "say": "냥이가 비비는 건 내 편 표시래요",
-   "video": {
-    "src": "video/v1.mp4",
     "start": 19.8,
     "zoom": 1.2,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 0.5
+    "y": 1.0,
+    "audio": 1.0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "(척 노리스, 가필드 소유 확정ㅋㅋ)",
+     "t": "(미용은 못 피함ㅋㅋ)",
      "x": 0.5,
      "y": 0.55,
-     "at": 0.9,
-     "to": 3.0,
+     "at": 0.0,
+     "to": 1.4,
      "c": "sky",
-     "size": 60,
-     "s": "ding",
-     "sv": 0.5
+     "size": 60
     }
-   ],
-   "sub": "냥이가 비비는 건, 내 편 표시래요"
+   ]
   }
  ],
  "yt": {
-  "title": "고양이를 무서워하는 근육질 불리에게 고양이가 한 행동ㅋㅋ #shorts",
-  "description": "이름은 척 노리스, 집에서 제일 센 개인데 고양이 앞에선 얼음 🐶🐱\n결국 누가 이겼을까요?\n\n고양이가 얼굴·몸을 비비는 건 볼에 있는 냄새샘으로 '익숙한 내 편' 냄새를 묻히는 행동이라고 해요(PetMD).\n\n🎥 원본 영상: Samba Kennels (YouTube) https://www.youtube.com/shorts/gKp_R0T9-uM\n원작자의 영상에 우리 해설·자막·효과음을 더해 재구성했습니다.\n\n#오늘의털뭉치 #강아지 #고양이 #불리 #개냥이 #동물쇼츠",
+  "title": "수상한 흰 차에 태워지던 강아지가 갑자기 몸부림친 이유ㅋㅋ #shorts",
+  "description": "집 앞에 나타난 흰 차, 낯선 사람 품에 안긴 복슬 강아지 베일리는 납치라고 생각했나 봐요 🐶🚐\n사실은 두 번째 출장 미용 날이었고, 차에 타고 나서는 얌전히 미용을 잘 받았대요(Newsweek).\n\n🎥 원본 영상: TikTok @ablondestyling https://www.tiktok.com/@ablondestyling/video/7614118428386938125\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#오늘의털뭉치 #강아지 #댕댕이 #강아지미용 #웃긴강아지 #동물쇼츠",
   "tags": [
    "오늘의털뭉치",
    "강아지",
-   "고양이",
-   "불리",
-   "아메리칸불리",
-   "개와고양이",
+   "댕댕이",
+   "강아지미용",
+   "출장미용",
+   "웃긴강아지",
    "동물쇼츠",
-   "웃긴동물",
    "shorts"
   ]
  },
