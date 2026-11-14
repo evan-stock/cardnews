@@ -1,8 +1,8 @@
 {
- "id": "20261114-t08",
+ "id": "20261114-t13",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본(08:07 회차): 계단 위 골든리트리버 루시가 계단 아래에 누워 있는 고양이 동생 케빈 쪽으로 공을 떨어뜨려 굴려 보냄 → 공은 케빈 옆을 지나감 → 엄마가 'Did you just try to kill Kevin?' 하며 찍고 있었던 것 → 딱 걸린 루시가 돌아보고, 엄마 앞에 와서 세상 순한 눈망울로 앉음. 원본 TikTok @lucieandkev 7518808726036319510(2025.06, iHeartDogs 2025.07.01 보도, 약 200만 회, 14초, 576x1024, 원작자 Cara Ovens). 사실: AKC 골든리트리버 — 사냥꾼이 쏜 물새를 '물어 오도록' 만든 견종.",
+ "topic": "한 원본(13:07 회차, 몽타주 대신): 근육질 불리 '척 노리스'가 주황 고양이 가필드가 몸을 비비자 얼어붙고 고개를 돌림 → 가필드는 겁 없이 계속 얼굴을 비빔 → 결국 척 노리스가 코를 박고 받아 줌. 원본 YouTube Samba Kennels gKp_R0T9-uM(2026.10.22, 9.2만, 23초, 1080p). 사실: 고양이가 얼굴을 비비는 건 볼 냄새샘으로 '익숙한 내 편' 냄새를 묻히는 행동(PetMD).",
  "sfx_max": 3,
  "style": {
   "mascot": null,
@@ -11,26 +11,21 @@
   "sub_y": 0.62
  },
  "hook": {
-  "t": "조준까지 완벽했는데\n'목격자가 있었다ㅋㅋ'"
+  "t": "이름은 '척 노리스'인데\n'숨도 못 쉼ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @lucieandkev"
+  "YouTube Samba Kennels"
  ],
- "credit": "영상: TikTok @lucieandkev",
+ "credit": "영상: YouTube @SambaKennels",
  "sources": [
   {
-   "publisher": "TikTok @lucieandkev",
-   "url": "https://www.tiktok.com/@lucieandkev/video/7518808726036319510",
-   "date": "2025-06"
+   "publisher": "YouTube Samba Kennels - Why is this big dog so scared of the cat?",
+   "url": "https://www.youtube.com/shorts/gKp_R0T9-uM",
+   "date": "2026-10-22"
   },
   {
-   "publisher": "iHeartDogs - Golden Retriever's guilty look after stairball prank is Internet gold",
-   "url": "https://iheartdogs.com/golden-retriever-dramatic-ball-drop-cat-sibling-video/",
-   "date": "2025-07-01"
-  },
-  {
-   "publisher": "AKC - Golden Retriever",
-   "url": "https://www.akc.org/dog-breeds/golden-retriever/",
+   "publisher": "PetMD - Why Do Cats Rub Against You?",
+   "url": "https://www.petmd.com/cat/behavior/why-do-cats-rub-against-you",
    "date": ""
   }
  ],
@@ -38,199 +33,223 @@
  "bgm_volume": 1.0,
  "scenes": [
   {
-   "dur": 1.1,
+   "dur": 1.5,
    "video": {
     "src": "video/v1.mp4",
-    "start": 8.0,
-    "zoom": 1.35,
-    "x": 1.0,
+    "start": 1.4,
+    "zoom": 1.5,
+    "x": 0.9,
     "y": 0.0,
     "audio": 0
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "...방금 다 봤어?",
-     "x": 0.35,
-     "y": 0.16,
+     "k": "sfx",
+     "t": "(얼음)",
+     "x": 0.25,
+     "y": 0.14,
      "at": 0.0,
-     "to": 1.1
+     "to": 0.8
     },
     {
-     "k": "sfx",
-     "t": "(동공지진)",
+     "k": "talk",
+     "t": "제발 저리 가...",
      "x": 0.3,
-     "y": 0.32,
-     "at": 0.35,
-     "to": 1.1
+     "y": 0.14,
+     "at": 0.8,
+     "to": 1.5
     }
    ]
   },
   {
-   "say": "고양이 동생이 계단 아래에서 쉬고 있는데,",
+   "say": "고양이가 다가와 몸을 비비자,",
    "video": {
     "src": "video/v1.mp4",
-    "start": 0.4,
+    "start": 2.9,
+    "zoom": 1.5,
+    "x": 0.9,
+    "y": 0.0,
+    "audio": 0.5
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "...왜 자꾸 비벼",
+     "x": 0.35,
+     "y": 0.14,
+     "at": 0.0,
+     "to": 1.0
+    },
+    {
+     "k": "talk",
+     "t": "...갔나?",
+     "x": 0.35,
+     "y": 0.14,
+     "at": 1.0,
+     "to": 2.2
+    }
+   ]
+  },
+  {
+   "say": "척 노리스는 고개만 돌렸는데,",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 4.6,
     "zoom": 1.0,
-    "audio": 6,
+    "y": 0.2,
+    "audio": 0,
     "blur": [
-     20,
-     228,
-     500,
-     76
+     150,
+     890,
+     780,
+     270
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "케빈 저기 있네~",
-     "x": 0.4,
+     "t": "눈 마주치면 끝이야",
+     "x": 0.5,
      "y": 0.14,
      "at": 0.0,
-     "to": 1.1
+     "to": 1.2
     },
     {
      "k": "sfx",
-     "t": "(공 장전)",
-     "x": 0.35,
-     "y": 0.3,
-     "at": 1.1,
-     "to": 2.0
-    },
-    {
-     "k": "talk",
-     "t": "가라, 공아!",
-     "x": 0.45,
+     "t": "(못 본 척)",
+     "x": 0.5,
      "y": 0.14,
-     "at": 2.0,
-     "to": 3.0
+     "at": 1.2,
+     "to": 2.4
     }
    ]
   },
   {
-   "say": "골댕이가 공을 냅다 굴려 보냈습니다.",
+   "say": "가필드는 오히려 얼굴을 들이밀었습니다.",
    "video": {
     "src": "video/v1.mp4",
-    "start": 3.85,
-    "zoom": 1.6,
-    "x": 0.42,
-    "y": 0.82,
-    "audio": 8
+    "start": 13.0,
+    "zoom": 1.15,
+    "x": 0.7,
+    "y": 1.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(통 통 통)",
-     "x": 0.5,
+     "t": "(부비부비)",
+     "x": 0.3,
      "y": 0.14,
      "at": 0.0,
      "to": 1.3
     },
     {
-     "k": "desc",
-     "t": "↓ 고양이 동생 케빈",
-     "x": 0.5,
-     "y": 0.22,
-     "at": 0.3,
-     "to": 3.0
-    }
-   ]
-  },
-  {
-   "dur": 1.0,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 7.0,
-    "zoom": 1.35,
-    "x": 0.3,
-    "y": 0.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "엄마: 너 방금 케빈 맞히려고 했니?",
-     "x": 0.5,
+     "k": "talk",
+     "t": "형아 볼 내 거",
+     "x": 0.3,
      "y": 0.14,
-     "at": 0.0,
-     "to": 1.0,
-     "s": "scratch",
-     "sv": 0.7
+     "at": 1.3,
+     "to": 2.6,
+     "c": "pink"
     }
    ]
   },
   {
-   "dur": 3.0,
+   "dur": 1.6,
    "video": {
     "src": "video/v1.mp4",
-    "start": 9.1,
+    "start": 15.8,
     "zoom": 1.15,
-    "x": 0.5,
-    "y": 0.2,
-    "audio": 3.5
+    "x": 0.7,
+    "y": 1.0,
+    "audio": 4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "저요?",
-     "x": 0.5,
+     "t": "얘... 겁이 없네?",
+     "x": 0.6,
      "y": 0.14,
      "at": 0.0,
      "to": 1.0
     },
     {
      "k": "sfx",
-     "t": "(낑-)",
-     "x": 0.5,
-     "y": 0.14,
+     "t": "(발라당)",
+     "x": 0.3,
+     "y": 0.45,
      "at": 1.0,
-     "to": 1.9
-    },
-    {
-     "k": "talk",
-     "t": "전 착한 개인데요",
-     "x": 0.5,
-     "y": 0.14,
-     "at": 1.9,
-     "to": 3.0
+     "to": 1.6
     }
    ]
   },
   {
-   "dur": 1.9,
+   "dur": 1.45,
    "video": {
     "src": "video/v1.mp4",
-    "start": 12.1,
-    "zoom": 1.15,
-    "x": 0.5,
-    "y": 0.2,
-    "audio": 0
+    "start": 17.5,
+    "zoom": 1.0,
+    "y": 0.3,
+    "audio": 4
    },
    "caps": [
     {
-     "k": "desc",
-     "t": "골든리트리버 = 원래 '물어 오는' 개",
+     "k": "sfx",
+     "t": "(결국 코 박고 항복)",
      "x": 0.5,
      "y": 0.14,
      "at": 0.0,
-     "to": 1.9,
-     "s": "ding"
+     "to": 1.45,
+     "s": "scratch",
+     "sv": 0.7
+    }
+   ]
+  },
+  {
+   "say": "고양이 비비기는 '내 편' 표시래요.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 19.0,
+    "zoom": 1.2,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0.5
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "...알았어, 너 해",
+     "x": 0.6,
+     "y": 0.14,
+     "at": 0.0,
+     "to": 0.9
+    },
+    {
+     "k": "desc",
+     "t": "척 노리스 = 이제 가필드 거",
+     "x": 0.5,
+     "y": 0.26,
+     "at": 0.9,
+     "to": 3.0,
+     "s": "ding",
+     "sv": 0.6
     }
    ]
   }
  ],
  "yt": {
-  "title": "자는 고양이 동생에게 공 굴리던 골댕이의 최후ㅋㅋ #shorts",
-  "description": "계단 위 골댕이 루시가 아래에 있는 고양이 동생 케빈을 보더니ㅋㅋ 끝까지 봐 주세요.\n\n골든리트리버는 원래 사냥한 물새를 '물어 오도록' 만들어진 견종이래요(AKC). 근데 이번엔 공을 보내 버렸네요.\n\n원본 영상: TikTok @lucieandkev (https://www.tiktok.com/@lucieandkev/video/7518808726036319510)\n\n영상 속 반려용품은 프로필 링크에서 볼 수 있어요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n#골든리트리버 #골댕이 #강아지 #고양이 #댕냥이 #반려동물",
+  "title": "고양이를 무서워하는 근육질 불리에게 고양이가 한 행동ㅋㅋ #shorts",
+  "description": "이름은 척 노리스, 집에서 제일 센 개인데 고양이 앞에선 얼음 🐶🐱\n결국 누가 이겼을까요?\n\n고양이가 얼굴·몸을 비비는 건 볼에 있는 냄새샘으로 '익숙한 내 편' 냄새를 묻히는 행동이라고 해요(PetMD).\n\n🎥 원본 영상: Samba Kennels (YouTube) https://www.youtube.com/shorts/gKp_R0T9-uM\n원작자의 영상에 우리 해설·자막·효과음을 더해 재구성했습니다.\n\n#오늘의털뭉치 #강아지 #고양이 #불리 #개냥이 #동물쇼츠",
   "tags": [
-   "골든리트리버",
-   "골댕이",
+   "오늘의털뭉치",
    "강아지",
    "고양이",
-   "댕냥이",
-   "반려동물",
-   "golden retriever",
-   "dog and cat"
+   "불리",
+   "아메리칸불리",
+   "개와고양이",
+   "동물쇼츠",
+   "웃긴동물",
+   "shorts"
   ]
  },
  "publish_now": true
