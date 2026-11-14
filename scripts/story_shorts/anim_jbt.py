@@ -118,9 +118,6 @@ def card(t):
     melt = ease((t - 0.35) / 1.6)
     draw_card(im, 140, 160, 800, 420, melt)
     d = ImageDraw.Draw(im)
-    if t > 2.0:
-        a = ease((t - 2.0) / 0.4)
-        ctext(d, W / 2, 640, "숫자가 안 읽힌다", int(52 + 8 * a), fill=YEL)
     if z != 1.0:
         im = im.resize((int(W * z), int(H * z)), Image.LANCZOS).crop((int(W * (z - 1) / 2), int(H * (z - 1) / 2), int(W * (z - 1) / 2) + W, int(H * (z - 1) / 2) + H))
     return im
@@ -203,7 +200,6 @@ def voice(t):
             if t > 1.0 + k * 0.35:
                 sc = 1 + 0.2 * math.sin(t * 12 + k)
                 ctext(d, x, y, "멍!", int(70 * sc), fill=(255, 150, 70), stroke=7)
-        ctext(d, 680, 580, "개 짖는 소리로 들린다", 50, fill=YEL)
     return im
 
 
@@ -212,7 +208,7 @@ def speak(t):
     im = BG.copy(); d = ImageDraw.Draw(im)
     d.rounded_rectangle([120, 170, 960, 470], 50, fill=(246, 246, 250))
     d.polygon([(240, 460), (300, 470), (200, 560)], fill=(246, 246, 250))
-    full = "질이야, 뇌졸중이 왔어"
+    full = "나야, 질이야. 도와줘"
     junk = "으으으… 이이이…"
     if t < 1.1:
         n = int(len(full) * clamp(t / 0.9))
@@ -226,7 +222,6 @@ def speak(t):
         d = ImageDraw.Draw(im)
         ft = F(64); w = d.textlength(s, font=ft)
         d.text((540 - w / 2 + jx, 270), s, font=ft, fill=col)
-        ctext(d, W / 2, 610, "말하려던 말이 이상한 소리로", 48, fill=YEL)
         return im
     ft = F(64); w = d.textlength(s, font=ft)
     d.text((540 - w / 2, 270), s, font=ft, fill=col)
@@ -318,7 +313,7 @@ def off(t):
     im = brain_base(dim); d = ImageDraw.Draw(im)
     for k, (s, y) in enumerate(LBL):
         on = t < 0.4 + k * 0.45
-        col = YEL if on else (80, 82, 92)
+        col = YEL if on else (175, 178, 190)
         ctext(d, 392, y, s, 54, fill=col, stroke=6)
         if not on:
             w = d.textlength(s, font=F(54))

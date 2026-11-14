@@ -1,0 +1,164 @@
+{
+ "id": "20261115-jbt",
+ "media": "media/20261115-jbt",
+ "topic": "하버드 뇌과학자 질 볼트 테일러(1996.12.10, 37살) — 왼쪽 뇌 혈관(뇌동정맥 기형)이 터진 뇌졸중을 겪으며 명함 숫자가 '낙서'로 보여, 낙서 모양을 키패드 모양과 하나씩 맞춰 누르고 누른 칸은 가려 가며 동료에게 전화. 동료 목소리는 개 짖는 소리처럼 들리고 자기 말은 이상한 소리로 나옴. 도움을 청하는 데 4시간. 골프공만 한 혈전 제거 수술, 완전 회복 8년. 마무리 쓸모: 갑자기 숫자·글자가 안 읽히고 말이 꼬이면 바로 119. 사용자 11.14 지정 소재(벤치마크 PROI '뇌가 무너지는 걸 지켜본 뇌과학자'와 다른 각도: 전화 거는 과정을 그래픽으로 재현 + 119 쓸모).",
+ "hook": {
+  "t": "전화 한 통 거는 데\n'4시간' 걸린 뇌과학자"
+ },
+ "credit": "사진: Tony Webster · Glitzy queen00 · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/subway_dreams.mp3",
+  "start": 46.0,
+  "vol": 0.28
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "장면 1: 'Telephone Keypad' — Tony Webster(Minneapolis), CC BY-SA 2.0, Wikimedia Commons https://commons.wikimedia.org/wiki/File:Telephone_Keypad_(46385516364).jpg (천천히 확대).",
+  "장면 7: 'Intracerebral hemorrage (CT scan).jpg' — Glitzy queen00, 퍼블릭 도메인, Wikimedia Commons https://commons.wikimedia.org/wiki/File:Intracerebral_hemorrage_(CT_scan).jpg (질 볼트 테일러 본인 CT 아님 — 뇌출혈 CT 예시).",
+  "나머지: 모션그래픽 scripts/story_shorts/anim_jbt.py (오늘의쓸모 제작, 전화번호는 지어낸 것)."
+ ],
+ "sources": [
+  {
+   "publisher": "Oprah.com 'A Brain Scientist's Insight'(Dr. Oz) — 1996 왼쪽 뇌 혈관 파열, 도움 요청에 4시간, 동료 명함의 꼬불꼬불한 모양을 키패드 모양과 맞춰 누름",
+   "url": "https://www.oprah.com/health/dr-jill-bolte-taylor-explains-her-stroke-of-genius/all"
+  },
+  {
+   "publisher": "O 매거진 'After the stroke' — 연구소 빨간 뇌 로고만 알아봄, 누른 칸을 가리며 누름, 'This is Jill…' 대신 이상한 소리",
+   "url": "https://www.oprah.com/omagazine/after-the-stroke-dr-jill-bolte-taylors-metamorphosis/all"
+  },
+  {
+   "publisher": "SUCCESS 2009.12.02 — 1996.12.10 아침, 동료 목소리가 골든리트리버처럼 들림",
+   "url": "https://www.success.com/?p=7612"
+  },
+  {
+   "publisher": "Shortform 'My Stroke of Insight' 요약 — 1996.12.10 뇌동정맥 기형(AVM) 파열, 왼쪽 뇌",
+   "url": "https://www.shortform.com/blog/?p=93757"
+  },
+  {
+   "publisher": "DailyGood(인터뷰 번역) — 37세, 좌뇌 언어 중추를 누르던 골프공 크기 혈전 제거 수술",
+   "url": "https://www.dailygood.org/story/514/balancing-the-brain-toward-joy-david-kupfer/?lang=ko"
+  },
+  {
+   "publisher": "Contemplative Inquiry 2016.10.20 — 완전 회복까지 8년",
+   "url": "https://contemplativeinquiry.blog/2016/10/20/stroke-of-insight/"
+  },
+  {
+   "publisher": "질 볼트 테일러 공식 사이트 — 2008 TED 'My Stroke of Insight', 인터넷에서 처음 터진 TED 강연",
+   "url": "https://drjilltaylor.com/?p=534"
+  }
+ ],
+ "_note": "사용자 11.14 23:59 '질볼트테일러 만들러바'. 실사 장면이 거의 없는 사람 이야기(D)라 '실사 10초 먼저' 대신 0초 실사 키패드 → 그래픽 재연 → 실사 CT(증명) → 그래픽 설명. 답(뇌졸중) 공개는 장면 6(약 13초). 효과음 없음.",
+ "scenes": [
+  {
+   "text": "하버드 뇌과학자가 전화기 앞에서 멈췄는데",
+   "video": {
+    "src": "clip/keypad.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.3
+  },
+  {
+   "text": "명함 속 숫자가 전부 '낙서'로 보였다",
+   "video": {
+    "src": "gfx/card.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "같은 모양을 찾아 하나씩, 누른 칸은 가리며",
+   "video": {
+    "src": "gfx/match.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "겨우 연결된 동료 목소리는 '개 짖는 소리' 같았고",
+   "video": {
+    "src": "gfx/voice.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "자기 말도 알 수 없는 소리로 나왔다",
+   "video": {
+    "src": "gfx/speak.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.3
+  },
+  {
+   "text": "알고 보니 왼쪽 뇌 혈관이 터진 '뇌졸중'",
+   "video": {
+    "src": "gfx/brain.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.9
+  },
+  {
+   "text": "뇌 속에 이렇게 피가 번지는 병 (CT 예시)",
+   "video": {
+    "src": "clip/ct.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.2
+  },
+  {
+   "text": "말·숫자·읽기를 맡은 '왼쪽 뇌'가 꺼지는 중",
+   "video": {
+    "src": "gfx/off.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "골프공만 한 핏덩어리, 다시 일어서기까지 '8년'",
+   "video": {
+    "src": "gfx/golf.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "글자가 갑자기 안 읽히고 말이 꼬이면 바로 '119'",
+   "video": {
+    "src": "gfx/call119.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "뇌가 보내는 다른 경고는 다음 편에서, 구독!",
+   "video": {
+    "src": "gfx/call119.mp4",
+    "start": 1.4,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.6
+  }
+ ]
+}
