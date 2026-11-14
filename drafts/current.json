@@ -1,69 +1,12 @@
-[
- {
-  "id": "20261113-lawyer2",
-  "slot": "lunch",
-  "mode": "send",
-  "topic": "AI 안경 의혹 세무사 수석, 법률대리인(법무법인 노바 이돈호) 선임",
-  "category": "국내 사회",
-  "risk": "대리인 선임은 이돈호 변호사 본인 스레드 글(11.13)로 확인, 기사 보도 전. 공단 감독위원 '특이사항 없음'은 경향·더퍼블릭 보도. 부정행위는 확인된 바 없음.",
-  "slides": [
-   {
-    "t": "'잠수' 탔다던 세무사 수석\n'변호사' 앞세워 나타났다",
-    "lay": "one"
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "sub": "한국산업인력공단 · 11월 13일",
-    "t": "감독관 바로 앞자리였는데\n'CCTV는 없었다'",
-    "b": "감독위원 4명 모두 \"특이사항 없었다\".\n2차 논술 답안은 전문가가 다시 보는 중."
-   },
-   {
-    "t": "변호사까지 선임\n19일 '집체교육'은?",
-    "b": "나타나는지 바로 이어서 올립니다"
-   }
-  ],
-  "images": [
-   "note_cover",
-   "k02",
-   "k03",
-   "cover4",
-   "cover3"
-  ],
-  "sources": [
-   {
-    "publisher": "이돈호 변호사 스레드(@lawyer_dono)",
-    "date": "2026.11.13",
-    "url": ""
-   },
-   {
-    "publisher": "경향신문",
-    "date": "2026.11.13",
-    "url": "https://www.khan.co.kr/article/202611131019001/"
-   },
-   {
-    "publisher": "더퍼블릭",
-    "date": "2026.11.13",
-    "url": "https://www.thepublic.kr/news/articleView.html?idxno=326555"
-   }
-  ],
-  "credits": [
-   "표지: 인물 사진(얼굴 모자이크)·필기 노트",
-   "캡처: 이돈호 변호사 스레드·댓글(작성자 가림)"
-  ],
-  "caption": "[AI 안경 의혹 세무사 수석 근황] 어제 \"지금은 대화가 어렵다\"더니, 오늘은 법률대리인을 통해 입장을 냈습니다\n\n법무법인 노바 이돈호 대표변호사는 13일 스레드에 \"제63회 세무사시험 수석 합격자 '세무냥이(닉네임)'님의 대리인\"이라며 \"의뢰인은 사실관계 확인을 위해 필요한 절차에 성실히 임할 것\"이라고 밝혔습니다. 이 변호사는 소셜 팔로워 약 35만 명의 법률 인플루언서입니다.\n\n댓글에서는 자신을 세무사라고 밝힌 이가 \"실력을 입증하려는 거라면 변호사까지 갈 문제인가, 당당한 수석이 닉네임이라니\"라고 남겨 가장 많은 공감을 받았습니다. 반대로 \"이돈호 변호사가 맡을 정도면 부정행위가 아니라는 것\"이라는 반응도 나왔습니다.\n\n한국산업인력공단은 13일 1·2차 시험 감독위원 4명 모두 \"부정행위를 의심할 만한 행동이나 특이사항은 없었다\"고 답했다고 밝혔습니다. 수석은 1차 때 둘째 줄 중앙, 2차 때 첫째 줄 중앙에 앉았고, 시험장에 CCTV는 없었습니다. 2차 논술형 답안은 전문가 검토가 진행 중입니다.\n\n변호사까지 선임한 수석, 19일 수습 집체교육에는 나타날까요? 여러분은 어떻게 보시나요?\n\n시험 준비하는 친구에게 공유해주세요! 팔로우하면 19일 소식을 이어서 받아보실 수 있습니다.\n\n출처: 이돈호 변호사 스레드(11.13), 경향신문·더퍼블릭(11.13)",
-  "hashtags": [
-   "젠슨황",
-   "엔비디아",
-   "팀쿡",
-   "트럼프",
-   "미국주식"
-  ],
-  "publish_now": true,
-  "publish_at": "2026-11-13T13:45:56+09:00"
- }
-]
+[{"id":"20261114-faastop","slot":"lunch","mode":"collect","limit":30,
+"image_pages":["https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+"https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+"https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+"https://www.goodmorningamerica.com/news/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled-138125140",
+"https://www.foxweather.com/weather-news/nationwide-ground-stop-ordered-faa",
+"https://www.news1.kr/world/usa-canada/6353933",
+"https://www.newsweek.com/faa-nationwide-ground-stop-airports-air-traffic-control-12713904",
+"https://www.yahoo.com/news/us/articles/why-flights-grounded-nashville-across-230621935.html",
+"https://www.fnnews.com/news/202611140814474305",
+"https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140007",
+"https://www.techrepublic.com/article/news-faa-nationwide-ground-stop-flight-delays-2026/"]}]
