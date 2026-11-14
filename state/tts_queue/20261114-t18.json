@@ -1,0 +1,111 @@
+{
+ "id": "20261114-t18",
+ "created": "2026-11-14T18:25:52.821617+09:00",
+ "items": [
+  {
+   "key": "786feaeb3a98",
+   "text": "집 앞에 수상한 흰 차가 나타났는데요",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "낯선 사람이 강아지를 안고 차로 가더니"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "60e020335c4b",
+   "text": "낯선 사람이 강아지를 안고 차로 가더니",
+   "ctx": {
+    "previous_text": "집 앞에 수상한 흰 차가 나타났는데요",
+    "next_text": "차 앞에서 강아지가 마구 버둥대더니"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "20c812de9103",
+   "text": "차 앞에서 강아지가 마구 버둥대더니",
+   "ctx": {
+    "previous_text": "낯선 사람이 강아지를 안고 차로 가더니",
+    "next_text": "결국 빠져나와 집으로 전력 질주"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "a25b49a4885d",
+   "text": "결국 빠져나와 집으로 전력 질주",
+   "ctx": {
+    "previous_text": "차 앞에서 강아지가 마구 버둥대더니",
+    "next_text": "문 열리자마자 쏙 들어오는데요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "2229cedacab6",
+   "text": "문 열리자마자 쏙 들어오는데요",
+   "ctx": {
+    "previous_text": "결국 빠져나와 집으로 전력 질주",
+    "next_text": "알고 보니 그 차는 강아지 미용 차였어요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "0ad8ec3aeb80",
+   "text": "알고 보니 그 차는 강아지 미용 차였어요",
+   "ctx": {
+    "previous_text": "문 열리자마자 쏙 들어오는데요",
+    "next_text": "납치당하는 줄 알았나 봐요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "982a309af66c",
+   "text": "납치당하는 줄 알았나 봐요",
+   "ctx": {
+    "previous_text": "알고 보니 그 차는 강아지 미용 차였어요",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
