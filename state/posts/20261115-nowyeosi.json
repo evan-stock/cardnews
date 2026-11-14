@@ -2,7 +2,7 @@
  "id": "20261115-nowyeosi",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-15T03:42:13.759067+09:00",
  "publish_at": "2026-11-15T03:39:41+09:00",
  "topic": "리트 만점자 시험지 5문제 연속 답 고침 온라인 주장",
@@ -54,5 +54,9 @@
   "media/20261115-nowyeosi/04.jpg",
   "media/20261115-nowyeosi/05.jpg"
  ],
- "tg_msg": 2588
+ "tg_msg": 2588,
+ "decided_at": "2026-11-15T03:43:53.102904+09:00",
+ "ig_media_id": "18056372912592215",
+ "permalink": "https://www.instagram.com/p/Dfu4N36lk-D/",
+ "published_at": "2026-11-15T03:44:59.242496+09:00"
 }
