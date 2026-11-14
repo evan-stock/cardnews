@@ -1,0 +1,81 @@
+{
+ "id": "20261115-t08",
+ "created": "2026-11-15T08:26:50.835809+09:00",
+ "items": [
+  {
+   "key": "cf110a81c8b3",
+   "text": "아기가 인형에 뽀뽀하는 걸 보더니",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "로트와일러가 곧장 걸어와 냄새를 맡는데요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "cd7d4e9bf438",
+   "text": "로트와일러가 곧장 걸어와 냄새를 맡는데요",
+   "ctx": {
+    "previous_text": "아기가 인형에 뽀뽀하는 걸 보더니",
+    "next_text": "아기가 인형을 번쩍 들어 올리자"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "1e9b7a0a8e95",
+   "text": "아기가 인형을 번쩍 들어 올리자",
+   "ctx": {
+    "previous_text": "로트와일러가 곧장 걸어와 냄새를 맡는데요",
+    "next_text": "이번엔 아기 옆에 철퍼덕 눕더니"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "391b043f82f6",
+   "text": "이번엔 아기 옆에 철퍼덕 눕더니",
+   "ctx": {
+    "previous_text": "아기가 인형을 번쩍 들어 올리자",
+    "next_text": "결국 아기 품을 차지했네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "051799e86678",
+   "text": "결국 아기 품을 차지했네요",
+   "ctx": {
+    "previous_text": "이번엔 아기 옆에 철퍼덕 눕더니",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
