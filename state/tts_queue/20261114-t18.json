@@ -1,0 +1,66 @@
+{
+ "id": "20261114-t18",
+ "created": "2026-11-14T18:39:21.697117+09:00",
+ "items": [
+  {
+   "key": "52e2720c476e",
+   "text": "결국 빠져나와 집으로 전력 질주",
+   "ctx": {
+    "previous_text": "차 앞에서 강아지가 마구 버둥대더니",
+    "next_text": "주인이 다급하게 문을 열어 주자"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "9bb0cb355172",
+   "text": "주인이 다급하게 문을 열어 주자",
+   "ctx": {
+    "previous_text": "결국 빠져나와 집으로 전력 질주",
+    "next_text": "강아지가 쏜살같이 뛰어 들어오는데요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "041a4512d8f9",
+   "text": "강아지가 쏜살같이 뛰어 들어오는데요",
+   "ctx": {
+    "previous_text": "주인이 다급하게 문을 열어 주자",
+    "next_text": "알고 보니 그 차는 강아지 미용 차였어요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "66c2ea0d2912",
+   "text": "알고 보니 그 차는 강아지 미용 차였어요",
+   "ctx": {
+    "previous_text": "강아지가 쏜살같이 뛰어 들어오는데요",
+    "next_text": "납치당하는 줄 알았나 봐요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
