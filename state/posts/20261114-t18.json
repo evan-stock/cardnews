@@ -1,0 +1,50 @@
+{
+ "id": "20261114-t18",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-14T18:32:37.947228+09:00",
+ "publish_at": "2026-11-14T18:32:37.947249+09:00",
+ "publish_now": true,
+ "topic": "한 원본(18:07 회차, 대본 우선 방식 첫 편): 집 앞에 온 흰 차로 낯선 사람이 복슬 강아지 베일리를 안고 가자 강아지가 버둥대다 탈출해 집으로 전력 질주 → 알고 보니 출장 미용 차(강아지는 납치당하는 줄 앎). 원본 TikTok @ablondestyling 7614118428386938125(2026.03, 160만, Newsweek 2026.03.16 보도). 시간순, 원본 거의 그대로.",
+ "sources": [
+  {
+   "publisher": "TikTok @ablondestyling",
+   "url": "https://www.tiktok.com/@ablondestyling/video/7614118428386938125",
+   "date": "2026-03"
+  },
+  {
+   "publisher": "Newsweek - Dog Thinks He's Being 'Dognapped'—Response Leaves Viewers in Hysterics",
+   "url": "https://www.newsweek.com/dog-thinks-hes-being-dognapped-response-viewers-hysterics-11674904",
+   "date": "2026-03-16"
+  }
+ ],
+ "seconds": 18.23,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261114-t18/short.mp4"
+ ],
+ "app_file": "media/20261114-t18/short.mp4",
+ "yt": {
+  "title": "수상한 흰 차에 태워지던 강아지가 갑자기 몸부림친 이유ㅋㅋ #shorts",
+  "description": "집 앞에 나타난 흰 차, 낯선 사람 품에 안긴 복슬 강아지 베일리는 납치라고 생각했나 봐요 🐶🚐\n사실은 두 번째 출장 미용 날이었고, 차에 타고 나서는 얌전히 미용을 잘 받았대요(Newsweek).\n\n🎥 원본 영상: TikTok @ablondestyling https://www.tiktok.com/@ablondestyling/video/7614118428386938125\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#오늘의털뭉치 #강아지 #댕댕이 #강아지미용 #웃긴강아지 #동물쇼츠\n\n출처: TikTok @ablondestyling 2026-03, Newsweek - Dog Thinks He's Being 'Dognapped'—Response Leaves Viewers in Hysterics 2026-03-16\n사진·영상: TikTok @ablondestyling\n음성: Typecast\n\n#shorts #오늘의털뭉치 #강아지 #댕댕이 #강아지미용",
+  "tags": [
+   "오늘의털뭉치",
+   "강아지",
+   "댕댕이",
+   "강아지미용",
+   "출장미용",
+   "웃긴강아지",
+   "동물쇼츠",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "b10c8afc1bd6",
+ "tg_msg": 2545
+}
