@@ -5,7 +5,7 @@ from reel_overlay import overlay
 R='/home/claude/work/n'; os.makedirs(R,exist_ok=True)
 FB='assets/fonts/Pretendard-Black.otf'; FM='assets/fonts/Pretendard-Medium.otf'; Y=(255,216,77)
 V='media/20261115-xpair/video/'
-TITLE=['13일의 금요일','유조선이 덮친 유람선']
+TITLE=['13일 금요일','유람선 덮친 유조선']
 ov=overlay(TITLE); ov.save(f'{R}/title.png')
 def cap(i,small,b1,b2):
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
