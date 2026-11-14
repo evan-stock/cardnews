@@ -1,0 +1,66 @@
+{
+ "id": "20261114-t13",
+ "created": "2026-11-14T13:23:53.981467+09:00",
+ "items": [
+  {
+   "key": "1e0171a20def",
+   "text": "고양이가 다가와 몸을 비비자,",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "척 노리스는 고개만 돌렸는데,"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "cc312f4e3b0c",
+   "text": "척 노리스는 고개만 돌렸는데,",
+   "ctx": {
+    "previous_text": "고양이가 다가와 몸을 비비자,",
+    "next_text": "가필드는 오히려 얼굴을 들이밀었습니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "cc1135680d65",
+   "text": "가필드는 오히려 얼굴을 들이밀었습니다.",
+   "ctx": {
+    "previous_text": "척 노리스는 고개만 돌렸는데,",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "39f5f0d2d0b9",
+   "text": "고양이 비비기는 내 편 표시래요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
