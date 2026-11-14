@@ -1,0 +1,81 @@
+{
+ "id": "20261114-t13b",
+ "created": "2026-11-14T14:18:48.919300+09:00",
+ "items": [
+  {
+   "key": "53f81092a521",
+   "text": "고양이가 몸을 비비자 얼음이 된 근육질 개가 있는데요",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "이름은 척 노리스인데 고개만 휙 돌립니다"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "2148cd4740a9",
+   "text": "이름은 척 노리스인데 고개만 휙 돌립니다",
+   "ctx": {
+    "previous_text": "고양이가 몸을 비비자 얼음이 된 근육질 개가 있는데요",
+    "next_text": "그런데 겁 없는 가필드가 얼굴을 들이밀더니"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "37248630db0e",
+   "text": "그런데 겁 없는 가필드가 얼굴을 들이밀더니",
+   "ctx": {
+    "previous_text": "이름은 척 노리스인데 고개만 휙 돌립니다",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "6b11f057dbb9",
+   "text": "결국 코 박고 항복",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "고양이가 비비는 건 내 편이라는 표시래요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "e0b7c797a7f6",
+   "text": "고양이가 비비는 건 내 편이라는 표시래요",
+   "ctx": {
+    "previous_text": "결국 코 박고 항복",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
