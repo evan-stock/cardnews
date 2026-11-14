@@ -1,7 +1,7 @@
 {
  "id": "20261115-jbt",
  "kind": "short",
- "status": "pending",
+ "status": "manual",
  "created_at": "2026-11-15T00:19:28.036013+09:00",
  "publish_at": "2026-11-15T00:19:28.036025+09:00",
  "publish_now": true,
@@ -32,5 +32,6 @@
   "channel": "shop"
  },
  "app_file": "media/20261115-jbt/short_card_nomusic.mp4",
- "tg_msg": 2573
+ "tg_msg": 2573,
+ "decided_at": "2026-11-15T00:24:30.461355+09:00"
 }
