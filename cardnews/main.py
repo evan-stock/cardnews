@@ -273,7 +273,8 @@ def _do_publish(post):
         if post.get("format") == "reel":
             cover = media_url(post["id"], os.path.basename(post["cover"])) if post.get("cover") else None
             mid, link = instagram.publish_reel(urls[0], post["caption_full"], cover_url=cover,
-                                                   share_to_feed=post.get("share_to_feed", CFG.get("reels", {}).get("share_to_feed", False)))
+                                                   share_to_feed=post.get("share_to_feed", CFG.get("reels", {}).get("share_to_feed", False)),
+                                                   trial=post.get("trial"))
             post.update(status="published", ig_media_id=mid, permalink=link, published_at=now().isoformat())
             tg.send_text(f"🎬 릴스 게시 완료: {post['topic']}\n{link}\n\n📲 스토리 공유: 링크 열기 → 종이비행기 → '스토리에 추가'\n🎵 음악을 넣고 싶으면 앱에서 릴스 수정")
             save_post(post)
