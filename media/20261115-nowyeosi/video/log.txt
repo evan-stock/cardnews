@@ -22,3 +22,15 @@ drwxr-xr-x 3 runner runner   4096 Nov 14 18:06 ..
 -rw-r--r-- 1 runner runner    690 Nov 14 18:06 log.txt
 -rw-r--r-- 1 runner runner   3562 Nov 14 18:06 page1.html
 -rw-r--r-- 1 runner runner    479 Nov 14 18:06 x1.json
+total 960
+drwxr-xr-x 2 runner runner   4096 Nov 14 18:10 .
+drwxr-xr-x 3 runner runner   4096 Nov 14 18:10 ..
+-rw-r--r-- 1 runner runner 106335 Nov 14 18:10 img1.jpg
+-rw-r--r-- 1 runner runner 131982 Nov 14 18:10 img2.jpg
+-rw-r--r-- 1 runner runner  54707 Nov 14 18:10 img3.jpg
+-rw-r--r-- 1 runner runner  55832 Nov 14 18:10 img4.jpg
+-rw-r--r-- 1 runner runner   1191 Nov 14 18:10 log.txt
+-rw-r--r-- 1 runner runner 184214 Nov 14 18:10 page1.html
+-rw-r--r-- 1 runner runner 300514 Nov 14 18:10 page2.html
+-rw-r--r-- 1 runner runner 119769 Nov 14 18:10 page3.html
+-rw-r--r-- 1 runner runner    479 Nov 14 18:10 x1.json
