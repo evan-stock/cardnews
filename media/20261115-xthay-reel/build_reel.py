@@ -5,7 +5,7 @@ ID='20261115-xthay-reel'; R=f'media/{ID}/work'; os.makedirs(R,exist_ok=True)
 SRC='media/20261115-xthay/video/v1.mp4'
 FB='assets/fonts/Pretendard-Black.otf'; FM='assets/fonts/Pretendard-Medium.otf'; FX='assets/fonts/Pretendard-ExtraBold.otf'
 Y=(255,216,77); BY0,BH=660,720; CROP='1080:720:100:0'
-TAG='조 로건 팟캐스트 · 2021'; L=['머스크가 말한','외계인이 안 오는','소름 돋는 이유']
+TAG='조 로건 팟캐스트'; L=['머스크가 말한','외계인이 안 오는','소름 돋는 이유']
 def top():
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
     lg=Image.open('brand/logo_typo_A.png').convert('RGBA'); h=46; lg=lg.resize((int(lg.width*h/lg.height),h)); im.alpha_composite(lg,(70,238))
@@ -41,8 +41,7 @@ S=[
 top(); segs=[]; ci=0
 for k,(a,b,caps) in enumerate(S):
     dur=round(b-a,2); inputs=['-ss',str(a),'-t',str(dur),'-i',SRC,'-i',f'{R}/top.png']
-    fc=(f"color=c=black:s=1080x1920:r=30:d={dur}[bg];[0:v]crop={CROP},scale=1080:{BH},setsar=1[fg];"
-        f"[bg][fg]overlay=0:{BY0}:shortest=1[b0];[b0][1:v]overlay[b1]")
+    fc=(f"[0:v]crop={CROP},scale=1080:{BH},setsar=1,pad=1080:1920:0:{BY0}:black[b0];[b0][1:v]overlay[b1]")
     last='b1'
     for j,(t0,t1,s,b1,b2) in enumerate(caps):
         cap(ci,s,b1,b2); inputs+=['-i',f'{R}/cap{ci}.png']; n=2+j
