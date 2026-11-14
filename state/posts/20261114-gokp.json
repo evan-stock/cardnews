@@ -2,7 +2,7 @@
  "id": "20261114-gokp",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-14T11:25:27.872954+09:00",
  "publish_at": "2026-11-14T11:22:51+09:00",
  "topic": "배우 고경표 만취 음주운전 청소차 충돌",
@@ -68,5 +68,9 @@
   "media/20261114-gokp/04.jpg",
   "media/20261114-gokp/05.jpg"
  ],
- "tg_msg": 2525
+ "tg_msg": 2525,
+ "decided_at": "2026-11-14T11:31:15.067040+09:00",
+ "ig_media_id": "18092211926265090",
+ "permalink": "https://www.instagram.com/p/DftI6ZJDbYE/",
+ "published_at": "2026-11-14T11:31:54.562937+09:00"
 }
