@@ -484,7 +484,7 @@ def scene_clip(base, sc_i, scene, title, voice_mp3, tmp, sc, out, words=None):
         n_in += 1
     cmd += ["-i", voice_mp3]
     vi = n_in
-    vf += f";[{vi}:a]aresample=44100,aformat=channel_layouts=stereo,apad=whole_dur={dur}[na]"
+    vf += f";[{vi}:a]aresample=44100,aformat=channel_layouts=stereo,volume={sc.get('voice_volume', 1.0)},apad=whole_dur={dur}[na]"  # 내레이션 음량(최고 0dB 목소리 + 원본 소리 겹침 클리핑 방지, 11.14)
     mix = ["[na]"]
     if orig:
         vf += f";[0:a]aresample=44100,aformat=channel_layouts=stereo,volume={vol},apad=whole_dur={dur}[oa]"
