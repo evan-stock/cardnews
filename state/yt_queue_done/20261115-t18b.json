@@ -1,0 +1,40 @@
+{
+ "id": "20261115-t18b",
+ "finished_at": "2026-11-15T18:21:41+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/T57HueVM27w",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261115-t18b/video/y1.mp4",
+   "mb": 2.8,
+   "view_count": 9633,
+   "title": "When you’re sulking.. but you see there might be a chance!!! #dog #dogshorts #love #shorts #cute"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/ipBAwLT2qA8",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261115-t18b/video/y2.mp4",
+   "mb": 67.6,
+   "error": "재시도 실패",
+   "view_count": 34751,
+   "title": "母にオヤツはダメと言われいじける娘猫"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/mDF0FGA-a0I",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261115-t18b/video/y3.mp4",
+   "mb": 16.2,
+   "view_count": 3449,
+   "title": "いじけるチワワ💦【うちのわんこ】 #shorts #うちのわんこ #チワワ"
+  }
+ ]
+}
