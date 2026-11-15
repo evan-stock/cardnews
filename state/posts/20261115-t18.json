@@ -1,7 +1,7 @@
 {
  "id": "20261115-t18",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-15T18:37:33.275347+09:00",
  "publish_at": "2026-11-15T18:37:33.275370+09:00",
  "publish_now": true,
@@ -41,5 +41,9 @@
  },
  "draft_hash": "9413369308f4",
  "tg_video": 2647,
- "tg_msg": 2648
+ "tg_msg": 2648,
+ "decided_at": "2026-11-15T18:38:55.273588+09:00",
+ "yt_id": "DHzlHrxRTRM",
+ "permalink": "https://youtube.com/shorts/DHzlHrxRTRM",
+ "published_at": "2026-11-15T18:38:57.673030+09:00"
 }
