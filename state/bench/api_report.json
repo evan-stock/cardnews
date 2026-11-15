@@ -1,4249 +1,1119 @@
 {
- "since": "2026-10-16",
+ "since": "2015-01-01",
  "fixed": [],
  "found": [
   {
-   "title": "Edenia",
-   "id": "UC-RPphBYgefzcJKDA58OXug",
-   "created": "2025-11-21",
-   "subs": "7290",
-   "videos": "197"
-  },
-  {
-   "title": "解壓工作室",
-   "id": "UCjfHBOtIXSjOBJ6nwtgQgcA",
-   "created": "2025-06-11",
-   "subs": "40100",
-   "videos": "548"
-  },
-  {
-   "title": "Risam Channel",
-   "id": "UCgbBuJ1tqirnUa-ixXkzWQA",
-   "created": "2020-04-08",
-   "subs": "1630",
-   "videos": "539"
-  },
-  {
-   "title": "Rhino vlogs",
-   "id": "UCfQq7_F0yoLaPvTd0yBJGng",
-   "created": "2020-07-03",
-   "subs": "134000",
-   "videos": "648"
-  },
-  {
-   "title": "kyutmeaw",
-   "id": "UCPh_EmKCNfNng9HGh8oMPzA",
-   "created": "2024-08-28",
-   "subs": "62200",
-   "videos": "1125"
-  },
-  {
-   "title": " Damdaki Kütüphane",
-   "id": "UCOthHEJDy9dbhY46i8euRww",
-   "created": "2026-08-11",
-   "subs": "3680",
-   "videos": "261"
-  },
-  {
-   "title": "Sucipto Martin NEW 2",
-   "id": "UC0TC989xZhJkBiiB0Dxugng",
-   "created": "2025-08-21",
-   "subs": "156000",
-   "videos": "2555"
-  },
-  {
-   "title": "Dona kristina",
-   "id": "UCRvF_n79U5KyvOqXZghBU_A",
-   "created": "2023-02-03",
-   "subs": "27400",
-   "videos": "443"
-  },
-  {
-   "title": "Neng Molen",
-   "id": "UCVhAt-cTEGVrcpLmM2fhRQQ",
-   "created": "2024-10-08",
-   "subs": "7160",
-   "videos": "275"
-  },
-  {
-   "title": "pradana eky",
-   "id": "UCKyCQYiibhEFctQ_24F3-aA",
-   "created": "2014-03-19",
-   "subs": "126000",
-   "videos": "4747"
-  },
-  {
-   "title": "Night Cupid",
-   "id": "UCf0ZmlwwbT1a2vviEzvcxSg",
-   "created": "2013-04-15",
-   "subs": "23300",
-   "videos": "2504"
-  },
-  {
-   "title": "Wunder der Erde Doku",
-   "id": "UCm0jOWFm83rNC81WTJw0SWA",
-   "created": "2026-03-09",
-   "subs": "47500",
-   "videos": "128"
-  },
-  {
-   "title": "Al Marzuqi channel",
-   "id": "UCkhqG7HN1nbtgSKWnydhVgQ",
-   "created": "2022-03-11",
-   "subs": "34100",
-   "videos": "981"
-  },
-  {
-   "title": "shani's vlogs",
-   "id": "UCDTRfBhxTTl4bZoDj2L8wUw",
-   "created": "2025-06-26",
-   "subs": "5760",
-   "videos": "1644"
-  },
-  {
-   "title": "Kolantha Paiyan",
-   "id": "UCOcW6Y0VmEVdRK-ncOo4YyQ",
-   "created": "2025-05-08",
-   "subs": "1320",
-   "videos": "330"
-  },
-  {
-   "title": "DH Studio TV",
-   "id": "UCNQtUqkBSgMUPEnOzGh2Keg",
-   "created": "2022-01-11",
-   "subs": "2190000",
-   "videos": "18379"
-  },
-  {
-   "title": "Reels[GL] ",
-   "id": "UCS8If1A04biGomO2iJyfiIw",
-   "created": "2020-11-02",
-   "subs": "762",
-   "videos": "522"
-  },
-  {
-   "title": "ฮากับสัตว์",
-   "id": "UCkcjRYhAaLnAlH8xfOg5EJw",
-   "created": "2025-12-20",
-   "subs": "29700",
-   "videos": "820"
-  },
-  {
-   "title": "Smehovator",
-   "id": "UC7hmT5xJN_dVAGZrmsuHsHg",
-   "created": "2007-03-05",
-   "subs": "6210",
-   "videos": "230"
-  },
-  {
-   "title": "입히입히",
-   "id": "UCl0TU5w64B6owLVwvdxCC_A",
-   "created": "2014-12-13",
-   "subs": "3640",
-   "videos": "224"
-  },
-  {
-   "title": "ILYN LUBIS",
-   "id": "UC6-4JDmZYDOPOkgJDVKiBZg",
-   "created": "2012-04-13",
-   "subs": "51800",
-   "videos": "5239"
-  },
-  {
-   "title": "Delfia Jessy Official",
-   "id": "UCWyurjw0XgmaaGb6MN51WZA",
-   "created": "2020-04-22",
-   "subs": "13400",
-   "videos": "1051"
-  },
-  {
-   "title": "Xi Ranks",
-   "id": "UC--k8mlbFZ7XBSlg6U98VOA",
-   "created": "2026-02-09",
-   "subs": "88800",
-   "videos": "103"
-  },
-  {
-   "title": "realvideos-NO-AI",
-   "id": "UCY0EK5_Q3BSA8zI4ssLU4Tg",
-   "created": "2016-06-07",
-   "subs": "920",
-   "videos": "383"
-  },
-  {
-   "title": "Mie Jawa ijonk",
-   "id": "UCUdJvqI6D-iL3EC5zkms8Yg",
-   "created": "2024-09-19",
-   "subs": "63800",
-   "videos": "702"
-  },
-  {
-   "title": "CatchingCat",
-   "id": "UCmuLMFMVnQNVFHCwIq07nbQ",
-   "created": "2023-03-10",
-   "subs": "16000",
-   "videos": "78"
-  },
-  {
-   "title": "REANIME",
-   "id": "UC0YdHXzRweooYDIyv7rS3TA",
-   "created": "2016-10-12",
-   "subs": "27800",
-   "videos": "191"
-  },
-  {
-   "title": "삐융이😼",
-   "id": "UCiWZCebL5vRXa-U6SxLTdYw",
-   "created": "2019-05-01",
-   "subs": "1090",
-   "videos": "274"
-  },
-  {
-   "title": "MASTER ARBI RAIS",
-   "id": "UC67PdWAbC_swIz_WtmXT4gQ",
-   "created": "2025-12-30",
-   "subs": "19700",
-   "videos": "15681"
-  },
-  {
-   "title": "Andrakwecil",
-   "id": "UCjkT0bUn3ktD8OcwKaZDe1w",
-   "created": "2013-11-17",
-   "subs": "25900",
-   "videos": "2087"
-  },
-  {
-   "title": "The Keisha paws",
-   "id": "UCiMUXd_LBiob0Oyd5nuI5Ww",
-   "created": "2026-01-21",
-   "subs": "7700",
-   "videos": "366"
-  },
-  {
-   "title": "Tizzy",
-   "id": "UC0X8n4QTJ4bzwcRG_vLOqxw",
-   "created": "2025-08-23",
-   "subs": "237000",
-   "videos": "1985"
-  },
-  {
-   "title": "みけとらチャンネル",
-   "id": "UC9jKI16VH99lNhLl35AQu0g",
-   "created": "2017-02-09",
-   "subs": "90600",
-   "videos": "1997"
-  },
-  {
-   "title": "Kiro_Cat_Diary",
-   "id": "UCqPR9-eo0dy989nnvAT6FTQ",
-   "created": "2017-11-02",
-   "subs": "202000",
-   "videos": "685"
-  },
-  {
-   "title": "카레왕자 임춘식",
-   "id": "UCO-J2wBt2QE2tSA50OeOu9A",
-   "created": "2022-03-11",
-   "subs": "11000",
-   "videos": "250"
-  },
-  {
-   "title": "Emilia",
-   "id": "UCq6Kt_M3L1fGjzaturMBxeA",
-   "created": "2025-10-23",
-   "subs": "22400",
-   "videos": "242"
-  },
-  {
-   "title": "Tcatty",
-   "id": "UCxNl6M66Ex25hXwkEmqYhmw",
-   "created": "2016-11-16",
-   "subs": "859000",
-   "videos": "1880"
-  },
-  {
-   "title": "PotPotZ Vlog",
-   "id": "UCXH3cwG1J2oySKAChNn7jGQ",
-   "created": "2020-02-29",
-   "subs": "8930",
-   "videos": "74"
-  },
-  {
-   "title": "애니멀큐티☆cute animal☆",
-   "id": "UCu9Ud8i0vNBcEOh1nW-knvg",
-   "created": "2024-07-28",
-   "subs": "3120",
-   "videos": "142"
-  },
-  {
-   "title": "WonderBits-ky",
-   "id": "UC3vkIoOW5HQolmaG-KpM9Fw",
-   "created": "2025-08-27",
-   "subs": "40600",
-   "videos": "742"
-  },
-  {
-   "title": "mikoyen",
-   "id": "UCcsAZIb9p8KV9gt3zYIr_3g",
-   "created": "2015-07-04",
-   "subs": "2480",
-   "videos": "400"
-  },
-  {
-   "title": "Minh Phú Vlog",
-   "id": "UCCImhTGgoRdsB3l9l2V3Y2Q",
-   "created": "2022-12-20",
-   "subs": "101000",
-   "videos": "662"
-  },
-  {
-   "title": "Shanty Cimohay",
-   "id": "UCUd2hBPBEf6x4zFIGPZ9mdQ",
-   "created": "2017-10-21",
-   "subs": "344000",
-   "videos": "6395"
-  },
-  {
-   "title": "Just Fun Its",
-   "id": "UCcvQdz5A8mcEMx1ANGVi9eg",
-   "created": "2018-05-18",
-   "subs": "25600",
-   "videos": "95"
-  },
-  {
-   "title": "Timuçin Şenol (Fakir Tv)",
-   "id": "UCg5B1nCPDyvLU4GBNOVvtJg",
-   "created": "2008-01-30",
-   "subs": "1990",
-   "videos": "401"
-  },
-  {
-   "title": "Justice Rabbit",
-   "id": "UClfqN65Wd7d0ByWq2AOStKQ",
-   "created": "2025-01-04",
-   "subs": "32600",
-   "videos": "142"
-  },
-  {
-   "title": "kudaponi94",
-   "id": "UCOCLpB8OmkUU3Vh39-VPwJg",
-   "created": "2024-07-25",
-   "subs": "138000",
-   "videos": "1924"
-  },
-  {
-   "title": "𝑺𝑼𝑾𝑨𝑵𝑮𝑮𝒀 𝑭𝑰𝑺𝑯𝑰𝑵𝑮",
-   "id": "UCZKPtLvJ3hVfztdkuLNxd6Q",
-   "created": "2015-02-26",
-   "subs": "49300",
-   "videos": "3699"
-  },
-  {
-   "title": "Nicksyafareno",
-   "id": "UCTYMa1x0VC3srOn-Da36MKg",
-   "created": "2026-07-29",
-   "subs": "4110",
-   "videos": "493"
-  },
-  {
-   "title": "animal maniaa",
-   "id": "UCg76Xsq50KnhFRj-Gv9YIJg",
-   "created": "2026-04-04",
-   "subs": "9810",
-   "videos": "181"
-  },
-  {
-   "title": "me love cats",
-   "id": "UCB8mqNuiJPpxzttCpYElwdA",
-   "created": "2026-08-19",
-   "subs": "523",
-   "videos": "81"
-  },
-  {
-   "title": "Critter Charts",
-   "id": "UC82OC33rrHfXlSG5W_K51Eg",
-   "created": "2026-11-04",
-   "subs": "303",
-   "videos": "33"
-  },
-  {
-   "title": "Daisy_thedrowsycat",
-   "id": "UCdIPcNOR6hLXaKEw9SCv6SQ",
-   "created": "2026-07-28",
-   "subs": "319",
-   "videos": "116"
-  },
-  {
-   "title": "Kinship of Claws",
-   "id": "UC9JiDAaETGLA8ctXnPCs7aQ",
-   "created": "2026-08-31",
-   "subs": "485",
-   "videos": "186"
-  },
-  {
-   "title": "Cat Kingdom",
-   "id": "UCJJ6YnISUQa-wtjyRKIDFag",
-   "created": "2017-05-03",
-   "subs": "339",
-   "videos": "794"
-  },
-  {
-   "title": "Everly Moments",
-   "id": "UCvcrMv6oxa_p5AVhI91eIkQ",
-   "created": "2025-03-15",
-   "subs": "79",
-   "videos": "24"
-  },
-  {
-   "title": "Dog cat",
-   "id": "UCwiVkuvsDrKv4UdxvyY2dQg",
-   "created": "2021-08-31",
-   "subs": "764",
-   "videos": "431"
-  },
-  {
-   "title": "Kittyellaoferban",
-   "id": "UCzYexGviz6SckCDsnw1Ucpg",
-   "created": "2025-04-04",
-   "subs": "285",
-   "videos": "256"
-  },
-  {
-   "title": "Ms.Chicochibear",
-   "id": "UCoJc2ugrq7mOLw0o2KVyOeg",
-   "created": "2009-06-29",
-   "subs": "202",
-   "videos": "90"
-  },
-  {
-   "title": "Rascal Catts",
-   "id": "UC6e8KLDhwx_-PqMlatHjhaQ",
-   "created": "2022-05-14",
-   "subs": "804",
-   "videos": "382"
-  },
-  {
-   "title": "Eunny Khamuye ",
-   "id": "UCLZqaKrmRqRv_kPJyke8FJw",
-   "created": "2017-03-01",
-   "subs": "3740",
-   "videos": "898"
-  },
-  {
-   "title": "Nomo Biscuit 🐾",
-   "id": "UCllggtXxLh59IF_uSTXL6rQ",
-   "created": "2024-01-09",
-   "subs": "267",
-   "videos": "121"
-  },
-  {
-   "title": "y0url0c4LKAT",
-   "id": "UCBs1LF7-wvCy2mDrCcgx_0Q",
-   "created": "2026-08-19",
-   "subs": "111",
-   "videos": "146"
-  },
-  {
-   "title": "Meowaholic",
-   "id": "UCJ4YFeShn76pgiPph-bs4Pg",
-   "created": "2025-11-23",
-   "subs": "4580",
-   "videos": "345"
-  },
-  {
-   "title": "Cat Type 🥰",
-   "id": "UCNKqqBj_Q1zyUY2n0Ipm1ZQ",
-   "created": "2025-06-09",
-   "subs": "12700",
-   "videos": "726"
-  },
-  {
-   "title": "Princess Stinkbug",
-   "id": "UCWbarZJuVDUG83K2QN7jWBA",
-   "created": "2011-08-16",
-   "subs": "173",
+   "title": "Poor Pumper Society",
+   "id": "UCypQoNa-3-0po-ZYknGShxQ",
+   "created": "2021-05-14",
+   "subs": "614000",
+   "videos": "1444"
+  },
+  {
+   "title": "Mr. Cool",
+   "id": "UC-xhaVuSIGn3BjvmSNoXVdA",
+   "created": "2021-08-17",
+   "subs": "468",
    "videos": "97"
   },
   {
-   "title": "OUR CRAZY AND CUTE PETS",
-   "id": "UCrMD88UdScSApxcfQoI42qQ",
-   "created": "2023-01-07",
-   "subs": "3040",
-   "videos": "2010"
-  },
-  {
-   "title": "AANN  popular channel",
-   "id": "UCy6dywfV5X_TEu_DfLaZCmQ",
-   "created": "2016-06-08",
-   "subs": "651",
-   "videos": "186"
-  },
-  {
-   "title": "Cat News",
-   "id": "UCWYLcSmHMTGhoEvhIE8JBpQ",
-   "created": "2024-10-21",
-   "subs": "1000",
-   "videos": "411"
-  },
-  {
-   "title": "Sniff and Shine",
-   "id": "UCn6zZF44Xa05bk4qLnUtRhw",
-   "created": "2026-10-09",
-   "subs": "39",
-   "videos": "57"
-  },
-  {
-   "title": "The Cat Lab",
-   "id": "UCBQA08X7wwR-FOPE5ukVDPw",
-   "created": "2025-05-27",
-   "subs": "2530",
-   "videos": "223"
-  },
-  {
-   "title": "Heartails",
-   "id": "UCA3_DIhb2R0dmbwgcaH7AmQ",
-   "created": "2025-06-06",
-   "subs": "1220",
-   "videos": "59"
-  },
-  {
-   "title": "Dream & Achieve",
-   "id": "UCm79HJH3u6g__10jmNL7IpA",
-   "created": "2023-08-07",
-   "subs": "2640",
-   "videos": "657"
-  },
-  {
-   "title": "Пушистый Бум",
-   "id": "UCaLAMEG1XaNH0QFXklKpCsg",
-   "created": "2022-12-20",
-   "subs": "10900",
-   "videos": "235"
-  },
-  {
-   "title": "AsaluMaza Bytes",
-   "id": "UCbBlPJsyC4a4OqekWJkDISw",
-   "created": "2026-08-03",
-   "subs": "117",
-   "videos": "66"
-  },
-  {
-   "title": "Max",
-   "id": "UCZsvGqIcsk9UFosCFJxWD0w",
-   "created": "2015-09-22",
-   "subs": "181",
-   "videos": "84"
-  },
-  {
-   "title": "KitzASC",
-   "id": "UCTkCItGQf6GGTvL2LQ0fQdA",
-   "created": "2026-05-27",
-   "subs": "2670",
-   "videos": "394"
-  },
-  {
-   "title": "작은 세상 동물사전",
-   "id": "UCVhx0J1v2uvy_u4_m5VxJKw",
-   "created": "2026-08-27",
-   "subs": "35",
-   "videos": "77"
-  },
-  {
-   "title": "Whiskers and Wiggles",
-   "id": "UCzRmQglaroHZq47sBQcZldw",
-   "created": "2026-11-06",
-   "subs": "10",
-   "videos": "12"
-  },
-  {
-   "title": "Cat Comedy Club",
-   "id": "UCvjkd6T5GeYBYYEo5_Org6A",
-   "created": "2020-03-04",
-   "subs": "4790",
-   "videos": "90"
-  },
-  {
-   "title": "Velcro Cat and Vibes",
-   "id": "UCie5c4MH-agJZHVQ3kmMBFg",
-   "created": "2026-09-11",
-   "subs": "463",
-   "videos": "70"
-  },
-  {
-   "title": "Tom Ka",
-   "id": "UCheHCrUy2YdgeUeButWPk4w",
-   "created": "2025-01-03",
-   "subs": "96700",
-   "videos": "2191"
-  },
-  {
-   "title": "Ranked Pups",
-   "id": "UCkWypl5CBljqaVs3Bnx0Sqw",
-   "created": "2014-01-04",
-   "subs": "505",
-   "videos": "98"
-  },
-  {
-   "title": "auroart.m",
-   "id": "UCBZU-Tnw1x6vW6cUjeC1iBw",
-   "created": "2026-07-10",
-   "subs": "223",
-   "videos": "152"
-  },
-  {
-   "title": "Critterly",
-   "id": "UCE85RkAbpGvZSHxmahk5ZSQ",
-   "created": "2026-05-17",
-   "subs": "19",
-   "videos": "22"
-  },
-  {
-   "title": "Short Music.",
-   "id": "UCX_-tiSrjpjfsn0Ldd6A6Mg",
-   "created": "2026-10-22",
-   "subs": "34",
-   "videos": "32"
-  },
-  {
-   "title": "Noxie",
-   "id": "UChVGyYHdkgQZsS28jUziOsA",
-   "created": "2026-10-16",
-   "subs": "326",
-   "videos": "120"
-  },
-  {
-   "title": "Silken Purrs",
-   "id": "UCedvb9QTWyfwBnoU79q5haQ",
-   "created": "2026-08-21",
-   "subs": "707",
-   "videos": "337"
-  },
-  {
-   "title": "Alessi-Family-Adventures ",
-   "id": "UCIcMETUpWqLTva7pEg2ay6g",
-   "created": "2006-08-07",
-   "subs": "3460",
-   "videos": "2955"
-  },
-  {
-   "title": "Pawzunko",
-   "id": "UCRH_R3TvTUqvQO4_5n553Jw",
-   "created": "2026-07-13",
-   "subs": "1260",
-   "videos": "47"
-  },
-  {
-   "title": "PetHub",
-   "id": "UCqf9xmtQbev3WjSnvWnhSMw",
-   "created": "2026-08-23",
-   "subs": "604",
-   "videos": "85"
-  },
-  {
-   "title": " kitty ",
-   "id": "UCwJY_rYeClBoWCFxp8vzOyw",
-   "created": "2026-09-16",
-   "subs": "109",
-   "videos": "47"
-  },
-  {
-   "title": "Cat • Mars",
-   "id": "UCUL_hExaYQvK7ILliGk4uJg",
-   "created": "2026-04-23",
-   "subs": "197",
-   "videos": "23"
-  },
-  {
-   "title": "Funny Pets Official ",
-   "id": "UCKiI2lgwZlQcW0Bo9JvfHdA",
-   "created": "2024-09-10",
-   "subs": "5120",
-   "videos": "117"
-  },
-  {
-   "title": "DIY farm",
-   "id": "UCR5zRwRxdjJnklQOpvrvJSQ",
-   "created": "2025-03-18",
-   "subs": "67",
-   "videos": "126"
-  },
-  {
-   "title": "Wiggle Kitty Daily",
-   "id": "UC4tV4rTtVQQPb9BID9qP_HQ",
-   "created": "2026-06-14",
-   "subs": "21700",
-   "videos": "328"
-  },
-  {
-   "title": "TheCaseFam",
-   "id": "UCeOK_MfjgO4RL1F68w5F0xQ",
-   "created": "2021-12-14",
-   "subs": "1920",
-   "videos": "84"
-  },
-  {
-   "title": "Islaandthepiebaldcob ",
-   "id": "UCekNGoMLIy9DJvLVtvYv9XA",
-   "created": "2025-06-20",
-   "subs": "1380",
-   "videos": "1199"
-  },
-  {
-   "title": "KittLives",
-   "id": "UC4GLHl9DfG3IzZCdjKdd_wg",
-   "created": "2025-04-26",
-   "subs": "12800",
-   "videos": "271"
-  },
-  {
-   "title": "Kitcat",
-   "id": "UClyp3Ae0l5xks_O_rWf9K_Q",
-   "created": "2022-06-02",
-   "subs": "3820",
-   "videos": "1955"
-  },
-  {
-   "title": "RoRants",
-   "id": "UCWj4cD-iQzQp77Tg1Kfm1Fg",
-   "created": "2022-01-13",
-   "subs": "1630000",
-   "videos": "442"
-  },
-  {
-   "title": "Tiger Nature",
-   "id": "UCefIH4S0BAt-RTnMrz7M4jA",
-   "created": "2026-02-27",
-   "subs": "24",
-   "videos": "37"
-  },
-  {
-   "title": "Cerita Fiktif Bang Dev",
-   "id": "UCh06K1sgeToJUPFZ6wu1gGA",
-   "created": "2025-12-05",
-   "subs": "1260",
-   "videos": "326"
-  },
-  {
-   "title": "Md Tasin",
-   "id": "UCMOPRduZCtBtUPzOSFNmvPA",
-   "created": "2026-05-11",
-   "subs": "1",
-   "videos": "8"
-  },
-  {
-   "title": "Wablo",
-   "id": "UCXwHTTvZxWXmoiXsitx8iog",
-   "created": "2026-07-11",
-   "subs": "296000",
-   "videos": "111"
-  },
-  {
-   "title": "Catoon",
-   "id": "UCwsl0o6ZBRw-ShDWlyuhyqQ",
-   "created": "2022-12-29",
-   "subs": "2",
-   "videos": "3"
-  },
-  {
-   "title": "Ineanacho Oluchi",
-   "id": "UCjKVtUG4EUhk-HToMPmA-UQ",
-   "created": "2026-01-02",
-   "subs": "146",
-   "videos": "130"
-  },
-  {
-   "title": "ogadinma hope",
-   "id": "UCbgdAhhD4wOos9X3OGn4m0g",
-   "created": "2024-12-08",
-   "subs": "257",
-   "videos": "85"
-  },
-  {
-   "title": "jkb Tamim",
-   "id": "UCOrVj4b2p02sfRwuBPCRWOg",
-   "created": "2026-10-13",
-   "subs": "57",
-   "videos": "19"
-  },
-  {
-   "title": "zeesho",
-   "id": "UCd8U01z5s3TCAo0RtRDM-MQ",
-   "created": "2025-12-11",
-   "subs": "55",
-   "videos": "26"
-  },
-  {
-   "title": "Don't Panic",
-   "id": "UCwkF4tWCSbKb-c9l8d61q1w",
-   "created": "2026-10-19",
-   "subs": "2",
-   "videos": "8"
-  },
-  {
-   "title": "Chinelo chibugo Judith.",
-   "id": "UCIp8a86aZSGI7RKUy8J2cXg",
-   "created": "2025-12-01",
-   "subs": "444",
-   "videos": "125"
-  },
-  {
-   "title": "the Iggy side of life",
-   "id": "UCk8HTMSUI6WHho6Vc3Uk8Hw",
-   "created": "2026-05-27",
-   "subs": "18",
-   "videos": "19"
-  },
-  {
-   "title": "Ram Dayal Mahara",
-   "id": "UCCU9KGHPvLLNWUV28x5HSDg",
-   "created": "2025-11-05",
-   "subs": "17",
-   "videos": "65"
-  },
-  {
-   "title": "Patel Dk",
-   "id": "UCEmew2jWyR_XkdZSnnyqnBQ",
-   "created": "2019-04-02",
-   "subs": "50",
-   "videos": "68"
-  },
-  {
-   "title": "PAW IQ",
-   "id": "UCu87Z5R8atP3KvE0hTMiH7Q",
-   "created": "2024-12-10",
-   "subs": "69",
-   "videos": "151"
-  },
-  {
-   "title": "GyanBox ",
-   "id": "UCEfI7gCHo_9ehY02psl21Gg",
-   "created": "2026-10-25",
-   "subs": "55",
-   "videos": "13"
-  },
-  {
-   "title": "Jhane Rose Atilano",
-   "id": "UCNfjOyxr0NhLn9pvXgAbuXw",
-   "created": "2020-08-03",
-   "subs": "132",
-   "videos": "57"
-  },
-  {
-   "title": "Miracle Ochuko",
-   "id": "UCOPZlLA4M1Py94yIKAhyvJg",
-   "created": "2026-10-20",
-   "subs": "25",
-   "videos": "17"
-  },
-  {
-   "title": "Worth the Why",
-   "id": "UCj2lXFEDW9VxVUVpNVsHQIQ",
-   "created": "2017-01-30",
-   "subs": "13",
-   "videos": "11"
-  },
-  {
-   "title": "HN HIMEL ",
-   "id": "UCaswf4_qraCa1acujF6lASg",
-   "created": "2026-08-19",
-   "subs": "40",
-   "videos": "12"
-  },
-  {
-   "title": "Md.julhok Alom",
-   "id": "UCK9Wndv9BlUJBwfDVy_U9NQ",
-   "created": "2026-11-13",
-   "subs": "38",
-   "videos": "4"
-  },
-  {
-   "title": "NRKC Cartoon Hub",
-   "id": "UC7TspqNC7LDakGcgBlZvSxw",
-   "created": "2026-11-14",
-   "subs": "10",
-   "videos": "10"
-  },
-  {
-   "title": "AI Dominate ",
-   "id": "UCnIVwj7tWBzhnSE4w50TNsg",
-   "created": "2026-04-20",
-   "subs": "44",
-   "videos": "56"
-  },
-  {
-   "title": "Hashaam king",
-   "id": "UC_XVRXvIO4E1cWnBnpXkE0A",
-   "created": "2026-03-19",
-   "subs": "88",
-   "videos": "65"
-  },
-  {
-   "title": "Bác Sĩ Trung Thú Y",
-   "id": "UC1WDRRAXQ_UnmUb3wnzVbgg",
-   "created": "2021-08-22",
-   "subs": "121000",
-   "videos": "2932"
-  },
-  {
-   "title": "Saleh Karim",
-   "id": "UCov7_LWrJ1jwV4ZCTMLROgQ",
-   "created": "2024-12-25",
-   "subs": "21",
-   "videos": "3"
-  },
-  {
-   "title": "Mynameisdr",
-   "id": "UCEZ2a-I7BO2IOfN4hNRRieA",
-   "created": "2015-05-17",
-   "subs": "12",
-   "videos": "23"
-  },
-  {
-   "title": "Chandrakala Deekonda",
-   "id": "UCVZtFnTCIelShOQeNLMN4vQ",
-   "created": "2026-02-19",
-   "subs": "4",
-   "videos": "3"
-  },
-  {
-   "title": "Farzi_ST",
-   "id": "UC0WPRqUwvczoNCkHILHPm3g",
-   "created": "2025-11-24",
-   "subs": "9160",
-   "videos": "778"
-  },
-  {
-   "title": "#Ai",
-   "id": "UC_a8D-bzjBvg_EaSzt5qx4w",
-   "created": "2026-11-01",
-   "subs": "63",
-   "videos": "20"
-  },
-  {
-   "title": "Favorite Friends",
-   "id": "UCj7ndEgJDaBMxiB6sz-eIyw",
-   "created": "2022-01-22",
-   "subs": "925000",
-   "videos": "685"
-  },
-  {
-   "title": "Mayarisa~Moyukh",
-   "id": "UCcNQ9vViT7fmF414W0OaFGQ",
-   "created": "2020-07-02",
-   "subs": "69",
-   "videos": "85"
-  },
-  {
-   "title": "ridoy md",
-   "id": "UCEhdPbcyix8_Mt-1ATgsSIA",
-   "created": "2026-08-10",
-   "subs": "28",
-   "videos": "39"
-  },
-  {
-   "title": "AI mizz",
-   "id": "UCADDNoHL9RIyPhl4B1Tywiw",
-   "created": "2026-09-19",
-   "subs": "44",
-   "videos": "47"
-  },
-  {
-   "title": "Vhhvvkk",
-   "id": "UCKkzrceWNuqrESG5EfvoPqA",
-   "created": "2025-01-01",
-   "subs": "53",
-   "videos": "19"
-  },
-  {
-   "title": "Ada in New Zealand ",
-   "id": "UCEkjFFghncWcQeKLQjyCk8Q",
-   "created": "2017-04-23",
-   "subs": "64",
-   "videos": "225"
-  },
-  {
-   "title": "African Village Life Vibes",
-   "id": "UCtcO7Ha8S_EJj4VZuUR3CKg",
-   "created": "2026-07-22",
-   "subs": "2080",
-   "videos": "728"
-  },
-  {
-   "title": "kashifbalochkhan ",
-   "id": "UCt9IrwNEqep0XFQqoj7_wdg",
-   "created": "2026-10-09",
-   "subs": "60",
-   "videos": "36"
-  },
-  {
-   "title": "Rose Priyanka",
-   "id": "UCJeMs9aGrQT-8jrvInPqv1Q",
-   "created": "2026-09-26",
-   "subs": "175",
-   "videos": "22"
-  },
-  {
-   "title": "Shakil Khan",
-   "id": "UCwaOtvANWLh0BHfflBZS3EQ",
-   "created": "2016-12-13",
-   "subs": "79",
-   "videos": "391"
-  },
-  {
-   "title": "Ai12",
-   "id": "UCrqw3Io_k-vV0kWTu-zZH1Q",
-   "created": "2026-07-10",
-   "subs": "355",
-   "videos": "43"
-  },
-  {
-   "title": "Dr Knowledge 32",
-   "id": "UCxINGKjkKy1n4HDFT78XySA",
-   "created": "2026-03-24",
-   "subs": "104000",
-   "videos": "116"
-  },
-  {
-   "title": "I Am FuGui",
-   "id": "UCaw1CbtXVVRmUgFjyeHqi6Q",
-   "created": "2026-01-30",
-   "subs": "13200",
-   "videos": "1561"
-  },
-  {
-   "title": "Daily Recap",
-   "id": "UCJHYwIScynY2LZHU4XiEQyA",
-   "created": "2025-11-18",
-   "subs": "69",
-   "videos": "22"
-  },
-  {
-   "title": "Joan BOSS ",
-   "id": "UC_YFQjwlRz0mqrrwBVJrDew",
-   "created": "2022-07-29",
-   "subs": "60",
-   "videos": "49"
-  },
-  {
-   "title": "Mr nirmal",
-   "id": "UCNfy7BxHXXlJe50-fmIIVsg",
-   "created": "2026-11-03",
-   "subs": "54",
-   "videos": "31"
-  },
-  {
-   "title": "my bestie ",
-   "id": "UCCDGC1ZSivK6m5nGjRjZORg",
-   "created": "2026-08-24",
-   "subs": "38",
-   "videos": "13"
-  },
-  {
-   "title": "Noakhali TV 24",
-   "id": "UC9ABCe3hRrsenfw25kGIrdw",
-   "created": "2022-10-30",
-   "subs": "94",
-   "videos": "130"
-  },
-  {
-   "title": "Derek and Suzanne featuring Chester ",
-   "id": "UCBSsjvfarqmxS3RR972eqDA",
-   "created": "2020-06-03",
-   "subs": "626",
-   "videos": "802"
-  },
-  {
-   "title": "DOGOO TV",
-   "id": "UCLyE-m4K53A2PRyoqxirM-w",
-   "created": "2026-03-08",
-   "subs": "1010",
-   "videos": "57"
-  },
-  {
-   "title": "Nugget Mode ",
-   "id": "UCWBbHSllTJqM5DHhlWVr5Ug",
-   "created": "2026-08-05",
-   "subs": "1700",
-   "videos": "135"
-  },
-  {
-   "title": "Sp-Explain",
-   "id": "UCmPZVjatwNKJAK-4YRFnqiw",
-   "created": "2022-06-27",
-   "subs": "964000",
-   "videos": "488"
-  },
-  {
-   "title": "Wild & Silly",
-   "id": "UCfWETeo6BJMfQreX6Gg3Jzg",
-   "created": "2017-03-08",
-   "subs": "53300",
-   "videos": "96"
-  },
-  {
-   "title": "A I K A ",
-   "id": "UC73rXvqd4USLpT9oxhn7DaA",
-   "created": "2022-07-20",
-   "subs": "31400",
-   "videos": "225"
-  },
-  {
-   "title": "BroBuffer",
-   "id": "UCYR9sqnjPZhTLB6w15vg4Hw",
-   "created": "2025-10-22",
-   "subs": "2090",
-   "videos": "25"
-  },
-  {
-   "title": "Pawfection",
-   "id": "UCj9RtCPrpC-e5TP8UAIi1Dw",
-   "created": "2026-01-16",
-   "subs": "85800",
-   "videos": "369"
-  },
-  {
-   "title": "Facty Badmosh ",
-   "id": "UC6IhsdUSQ1AVgcXWibLj2iw",
-   "created": "2024-09-15",
-   "subs": "101000",
-   "videos": "975"
-  },
-  {
-   "title": "ZoomieZoo",
-   "id": "UC3_xRizCbGCZDv6rH6yOdHw",
-   "created": "2025-04-05",
-   "subs": "135000",
-   "videos": "1137"
-  },
-  {
-   "title": "Siren Club",
-   "id": "UCKN2aeZHb5aV3GnEYBf_Xgg",
-   "created": "2021-04-05",
-   "subs": "63400",
-   "videos": "214"
-  },
-  {
-   "title": "Sanjay Rathore",
-   "id": "UC4PWEBTWMS4d7XOp_mwbQcA",
-   "created": "2026-08-19",
-   "subs": "11900",
-   "videos": "167"
-  },
-  {
-   "title": "CutieDogRanks",
-   "id": "UCOYLy8gouJGu9Rec6Oqw3rA",
-   "created": "2021-10-04",
-   "subs": "319",
-   "videos": "10"
-  },
-  {
-   "title": "🐱 Cat Spark",
-   "id": "UC_5pCPDH3Vb5vLL0Btj188w",
-   "created": "2026-07-07",
-   "subs": "20300",
-   "videos": "88"
-  },
-  {
-   "title": "モフログTV",
-   "id": "UCSkFsBvgXBUe0grvpuVlHng",
-   "created": "2026-07-10",
-   "subs": "14700",
-   "videos": "229"
-  },
-  {
-   "title": "The World of Cats",
-   "id": "UCCJd3vy4OPW7rVnCSynM77g",
-   "created": "2017-06-26",
-   "subs": "897000",
-   "videos": "6279"
-  },
-  {
-   "title": "Kunxeditz ",
-   "id": "UC9fH1JBe1tdRwd6edNJBm2Q",
-   "created": "2024-05-05",
-   "subs": "1020000",
-   "videos": "209"
-  },
-  {
-   "title": "فرون",
-   "id": "UCBOIZwlN9ZCavjoDb9znFJQ",
-   "created": "2022-11-25",
-   "subs": "211000",
-   "videos": "144"
-  },
-  {
-   "title": "FD_Pets",
-   "id": "UCVnTiUNLgDZ4LQVvyoiIjng",
-   "created": "2024-08-15",
-   "subs": "3090",
-   "videos": "545"
-  },
-  {
-   "title": "Nichi Ranks",
-   "id": "UC3mER2akPCpdcp4dfquWRXQ",
-   "created": "2026-07-02",
-   "subs": "44800",
-   "videos": "31"
-  },
-  {
-   "title": "Meowix",
-   "id": "UC6GWdZF90cmwTQryphFJQrw",
-   "created": "2026-10-23",
-   "subs": "9520",
-   "videos": "28"
-  },
-  {
-   "title": "The Unspoken",
-   "id": "UCCLZKAe7xqpt66bKTmjTijQ",
-   "created": "2023-01-12",
-   "subs": "6260000",
-   "videos": "736"
-  },
-  {
-   "title": "DK24",
-   "id": "UCP4hYL7vE5sZM8OJYOl8IXQ",
-   "created": "2023-08-14",
-   "subs": "7810",
-   "videos": "215"
-  },
-  {
-   "title": "InstintoAnimal",
-   "id": "UCqr8GD8_w64fTVRfrOlOsMQ",
-   "created": "2026-06-15",
-   "subs": "30900",
-   "videos": "251"
-  },
-  {
-   "title": "The Meow Sensei Official ",
-   "id": "UCq8BXb1AsYYHtO2wyE2kaQA",
-   "created": "2026-01-14",
-   "subs": "2080",
-   "videos": "29"
-  },
-  {
-   "title": "WhiteGlass",
-   "id": "UCWime0uPQR8kToba4Cnzkdg",
-   "created": "2026-08-02",
-   "subs": "78500",
-   "videos": "100"
-  },
-  {
-   "title": "Happy Animal Home",
-   "id": "UCo7pnc84ZJQU547bTh2Y3mw",
-   "created": "2021-09-27",
-   "subs": "114000",
-   "videos": "2151"
-  },
-  {
-   "title": "Pets Meme",
-   "id": "UCEivYijX45t3bbuje84H4UA",
-   "created": "2026-11-01",
-   "subs": "1900",
-   "videos": "8"
-  },
-  {
-   "title": "حدوتة",
-   "id": "UCK8OkA8h93T5jtRNTJB_UIA",
-   "created": "2026-06-06",
-   "subs": "26200",
-   "videos": "1845"
-  },
-  {
-   "title": "Green Entertainment ",
-   "id": "UCuDWvsw5fPT9cgPQfOuFTuw",
-   "created": "2026-07-18",
-   "subs": "846",
-   "videos": "134"
-  },
-  {
-   "title": "CrazyRank7",
-   "id": "UCCXONNFL8cLGSOppKntLYsQ",
-   "created": "2025-01-01",
-   "subs": "17600",
-   "videos": "159"
-  },
-  {
-   "title": "PawRank",
-   "id": "UCaA9kOC4-oBVoroqcapYGlg",
-   "created": "2014-12-26",
-   "subs": "1710",
-   "videos": "53"
-  },
-  {
-   "title": "TT Paws",
-   "id": "UC4VxcEyBc9TGrxd6BUz7d1w",
-   "created": "2025-01-24",
-   "subs": "52600",
-   "videos": "324"
-  },
-  {
-   "title": "Gendul 86",
-   "id": "UCnNEcIIG9EZ-toEMh8S7i2g",
-   "created": "2025-11-20",
-   "subs": "108000",
-   "videos": "1855"
-  },
-  {
-   "title": "Romi Replay",
-   "id": "UC_otb9rUo4uj43Wu1H5KvEA",
-   "created": "2025-07-28",
-   "subs": "24500",
-   "videos": "214"
-  },
-  {
-   "title": "InfiniShortz",
-   "id": "UCbT22nJE1gvu65pwzRf3n8g",
-   "created": "2026-06-05",
-   "subs": "574000",
-   "videos": "96"
-  },
-  {
-   "title": "Alfi Vibe ",
-   "id": "UCfToTGKE-3BcbRKH0M35nrA",
-   "created": "2026-08-15",
-   "subs": "3210",
-   "videos": "54"
-  },
-  {
-   "title": "SoftCats",
-   "id": "UC9DXszcesEyVOgi4Vn3MZaw",
-   "created": "2026-01-09",
-   "subs": "108000",
-   "videos": "154"
-  },
-  {
-   "title": "TIAN's cat world 猫大黄全球吸猫",
-   "id": "UCrUesTA_K1KDkymNPcOSQbQ",
-   "created": "2014-07-03",
-   "subs": "9110",
-   "videos": "66"
-  },
-  {
-   "title": "Felo Rank",
-   "id": "UCZ650odNRwRez6-8xwZTHYw",
-   "created": "2026-06-15",
-   "subs": "1540",
-   "videos": "9"
-  },
-  {
-   "title": "MR.WALTUH",
-   "id": "UCW7YfH-oD0_tbo1TJ6NVrqA",
-   "created": "2020-07-08",
-   "subs": "20100",
-   "videos": "2455"
-  },
-  {
-   "title": "PatiKafa 🐾",
-   "id": "UCmBC2QS6Pj2pCr1YCLAwVoQ",
-   "created": "2019-11-25",
-   "subs": "10300",
-   "videos": "99"
-  },
-  {
-   "title": "Glim",
-   "id": "UC9EgcTfqA6X_6a2zPG83RjQ",
-   "created": "2024-08-29",
-   "subs": "37300",
-   "videos": "602"
-  },
-  {
-   "title": "Rnktopvaultsz",
-   "id": "UCh8AzLelTtJub_ih62HKZlQ",
-   "created": "2021-08-28",
-   "subs": "137",
-   "videos": "8"
-  },
-  {
-   "title": "Altare",
-   "id": "UCcNS0xgMUdwIuNEkS2vM9mw",
-   "created": "2020-09-26",
-   "subs": "130000",
-   "videos": "47"
-  },
-  {
-   "title": "Epic Replay",
-   "id": "UCzBo5WfQHMkRd89nkE7oUlQ",
-   "created": "2023-11-04",
-   "subs": "201000",
+   "title": "CNC Editz",
+   "id": "UC6gHzQBx5pNyM1t4zc3MuUA",
+   "created": "2023-11-13",
+   "subs": "381",
+   "videos": "46"
+  },
+  {
+   "title": "FIBONACCI TV",
+   "id": "UCIqL_JKJsE1VNzS2PDtgl2Q",
+   "created": "2018-03-11",
+   "subs": "52500",
    "videos": "762"
   },
   {
-   "title": "So Adorable",
-   "id": "UCpTjYeN5RVJJ9ug6Y8j0bnw",
-   "created": "2024-07-24",
-   "subs": "437000",
-   "videos": "1949"
+   "title": "Aleksanderbigby",
+   "id": "UCaI2vrGiDax8pzEapmpM8LQ",
+   "created": "2023-12-10",
+   "subs": "1510",
+   "videos": "181"
   },
   {
-   "title": "USA Unfiltered Laugh ",
-   "id": "UCAX-YaiwfvxwVFMvP-g5nBg",
-   "created": "2026-10-02",
-   "subs": "436",
-   "videos": "67"
+   "title": "Astro Gazer",
+   "id": "UCmewDnTgjHHqDG1eYmEebSA",
+   "created": "2022-03-11",
+   "subs": "9600",
+   "videos": "183"
   },
   {
-   "title": "Andrew Shorts ",
-   "id": "UC40OSuKPOSu7baPIHa61m-w",
-   "created": "2025-03-20",
-   "subs": "102000",
-   "videos": "310"
+   "title": "Huck Buddies Disc Golf",
+   "id": "UCQl_Ja9Kt6kP1cE0UtHwKPA",
+   "created": "2015-05-13",
+   "subs": "2850",
+   "videos": "1599"
   },
   {
-   "title": "찹츄스토리",
-   "id": "UCrBCOabZySPG0D3z_Mt9EbA",
-   "created": "2025-06-28",
-   "subs": "18600",
-   "videos": "361"
+   "title": "EasyOne_1",
+   "id": "UCgdpB1Xl2mhRyRruwb-ZF0Q",
+   "created": "2020-01-13",
+   "subs": "394",
+   "videos": "1"
   },
   {
-   "title": "Curiosidade 67",
-   "id": "UCF-AcQ3Okb9RzVZ2m1ASfug",
-   "created": "2026-02-05",
-   "subs": "230000",
-   "videos": "255"
+   "title": "Dams explorer",
+   "id": "UCoC0Ltp0726p3ZsH0mlBBzg",
+   "created": "2024-04-13",
+   "subs": "19500",
+   "videos": "379"
   },
   {
-   "title": "Henry David",
-   "id": "UCe2FUAbk0wqaEH8HaGAP8wA",
-   "created": "2025-02-24",
-   "subs": "13600",
-   "videos": "2879"
+   "title": "Zack D. Films",
+   "id": "UCvz84_Q0BbvZThy75mbd-Dg",
+   "created": "2021-06-07",
+   "subs": "29700000",
+   "videos": "4219"
   },
   {
-   "title": "Max & SeyLin MaxSey",
-   "id": "UCa3aHiMQHgMFZMkT9x5vYFQ",
-   "created": "2026-01-10",
-   "subs": "10800",
-   "videos": "353"
+   "title": "Unusual stuff",
+   "id": "UCbmKebLBY37hbGOIEE3bjnQ",
+   "created": "2021-12-27",
+   "subs": "233000",
+   "videos": "1881"
   },
   {
-   "title": "히야",
-   "id": "UCksrnKIj--dTadHqD7D3bFA",
-   "created": "2025-04-05",
-   "subs": "27400",
-   "videos": "912"
+   "title": "AniShorts AI",
+   "id": "UC69Q2rveB-2GTgRa2hkSNoQ",
+   "created": "2019-10-25",
+   "subs": "242",
+   "videos": "85"
   },
   {
-   "title": "nhànôngvlogs 90",
-   "id": "UCrwin-D1zRgeSeZZNrcOTMw",
-   "created": "2025-09-20",
-   "subs": "6830",
-   "videos": "631"
+   "title": "short story",
+   "id": "UC28tJRmWmFV4d9I3Flb0wYw",
+   "created": "2022-07-17",
+   "subs": "85900",
+   "videos": "2390"
   },
   {
-   "title": "Bodunrin Clement",
-   "id": "UCDXRF5G2Pdqh38qEb2K50Vg",
-   "created": "2024-02-01",
-   "subs": "117",
-   "videos": "19"
+   "title": "Nature Microverse",
+   "id": "UCn8jIFe5HqPSVNj5UaGvvEA",
+   "created": "2024-09-19",
+   "subs": "73600",
+   "videos": "133"
   },
   {
-   "title": "타이짱맘",
-   "id": "UCx2wA_5QNceq5cqiuZl29Dg",
-   "created": "2014-01-21",
-   "subs": "270",
-   "videos": "225"
+   "title": "Megan and Ben",
+   "id": "UCXvbilRzK1DrcrYM_0-BxfQ",
+   "created": "2022-12-19",
+   "subs": "2930000",
+   "videos": "250"
   },
   {
-   "title": "ベーコン家のポテとひだり本当の日常チャンネル!",
-   "id": "UCntV2iPM__qhoH0hnLxf9CQ",
-   "created": "2019-10-05",
-   "subs": "30100",
-   "videos": "1647"
+   "title": "Life Struggle ",
+   "id": "UC__xKdxUiDL7Yo68YkhpZOg",
+   "created": "2026-06-19",
+   "subs": "35",
+   "videos": "28"
   },
   {
-   "title": "FUR FRIENDS WITH SUPRIYA",
-   "id": "UChl_3BEl0RHrBNjVboX_uBw",
-   "created": "2025-07-04",
-   "subs": "29900",
-   "videos": "2286"
+   "title": "初めて知った",
+   "id": "UCH4XqRtDChJgSrC2NhA4JGg",
+   "created": "2025-08-28",
+   "subs": "22500",
+   "videos": "227"
   },
   {
-   "title": "แก้วเก้า ชาแนล",
-   "id": "UCGpKZhxDKNg3K6o9kmSSbHg",
-   "created": "2024-11-07",
-   "subs": "5030",
-   "videos": "2751"
+   "title": "FC HINDI",
+   "id": "UCmZKvI0KeKEdoVtDx78wJ8w",
+   "created": "2022-11-01",
+   "subs": "284",
+   "videos": "389"
   },
   {
-   "title": "Betty’s world ",
-   "id": "UClNFNL1sI8noOfuby6YVVrA",
-   "created": "2016-05-27",
-   "subs": "376",
-   "videos": "193"
+   "title": "Daily Facts",
+   "id": "UC67Xj2W42v6x_syA-cB-mbQ",
+   "created": "2025-06-17",
+   "subs": "437",
+   "videos": "57"
   },
   {
-   "title": "Супер Сонюшка!",
-   "id": "UCHblnGGycP_EXqMAN5MrbhA",
-   "created": "2016-11-06",
-   "subs": "24400",
-   "videos": "1269"
+   "title": "Giant Whirlpool ",
+   "id": "UC_ZSXy0Z5mJyDLV6EC4A-8w",
+   "created": "2025-07-24",
+   "subs": "2960",
+   "videos": "133"
   },
   {
-   "title": "신조 (SINJO)",
-   "id": "UCELYGDT7j7UmtZMO6DQfjkA",
-   "created": "2016-02-21",
-   "subs": "43",
-   "videos": "77"
-  },
-  {
-   "title": "Kaleksy",
-   "id": "UCzYzrCT0lBDLRtuF5kWyOPQ",
-   "created": "2026-09-06",
-   "subs": "270",
-   "videos": "164"
-  },
-  {
-   "title": "Tina Mulhall Creations",
-   "id": "UCD9lrd7aRMh97Htt5demA8Q",
-   "created": "2017-12-27",
-   "subs": "94",
-   "videos": "62"
-  },
-  {
-   "title": "Dokter Paijoo",
-   "id": "UCw-Ut0ut5i8dfM9HFL_LQug",
-   "created": "2024-11-30",
-   "subs": "157000",
-   "videos": "483"
-  },
-  {
-   "title": "Pug life vs nature",
-   "id": "UCC02tXmuD5Skl4OXDAJTIaA",
-   "created": "2026-09-01",
-   "subs": "181",
-   "videos": "132"
-  },
-  {
-   "title": "Mɾ_Rσყ",
-   "id": "UCis-bcC8Xq__E2Fe6mIS6nw",
-   "created": "2021-12-10",
-   "subs": "6160",
-   "videos": "4108"
-  },
-  {
-   "title": "Romeo being Romeo",
-   "id": "UC70kffQbwerFOremX6PGNGQ",
-   "created": "2026-06-08",
-   "subs": "66",
-   "videos": "22"
-  },
-  {
-   "title": "Rowlands Wilawan LuLu ",
-   "id": "UCoBG2VLlJghTvef5NXE-O9g",
-   "created": "2023-06-25",
-   "subs": "20900",
-   "videos": "658"
-  },
-  {
-   "title": "PetFuneralThailand",
-   "id": "UCf8xE1tlS5suykIgmH3Qhgg",
-   "created": "2025-09-22",
-   "subs": "1810",
-   "videos": "284"
-  },
-  {
-   "title": "บล็อกDog ",
-   "id": "UCRmFPQPflbE144rAd5iUNgQ",
-   "created": "2026-08-24",
-   "subs": "12500",
-   "videos": "441"
-  },
-  {
-   "title": "うちのわんこ",
-   "id": "UCE3pow7GSVip55wZVg_UiqQ",
-   "created": "2022-06-14",
-   "subs": "13100",
-   "videos": "2257"
-  },
-  {
-   "title": "Mana_Broni",
-   "id": "UCT42NzutVEiUjd2NkTuddmQ",
-   "created": "2024-11-17",
-   "subs": "30500",
-   "videos": "3532"
-  },
-  {
-   "title": " jimmymom reel  star ⭐",
-   "id": "UCKoWdpA4ok5TKQHt9VSAB5w",
-   "created": "2023-02-07",
-   "subs": "2000",
-   "videos": "1368"
-  },
-  {
-   "title": "伊汶涵宇",
-   "id": "UCPU9unjcTgmViVop5yQnB7w",
-   "created": "2011-12-15",
-   "subs": "14400",
-   "videos": "19983"
-  },
-  {
-   "title": "มัตติกา จ๋าเกรช",
-   "id": "UCN4a_Ho4N0pnQuGrmyeu03Q",
-   "created": "2025-06-20",
-   "subs": "2010",
-   "videos": "851"
-  },
-  {
-   "title": "Mirage K",
-   "id": "UCWDzu8mTQ50__JiUz50ZHIA",
-   "created": "2025-10-18",
-   "subs": "340",
-   "videos": "47"
-  },
-  {
-   "title": "Animal Home(동물의 집)",
-   "id": "UCqeGCG8Qq-RfwxULYEojo0g",
-   "created": "2026-05-18",
-   "subs": "4500",
-   "videos": "207"
-  },
-  {
-   "title": "うちの子 獣たち",
-   "id": "UCuTY_szEsiqNtDDNOT1FRGg",
-   "created": "2026-10-25",
-   "subs": "25",
-   "videos": "82"
-  },
-  {
-   "title": "@ZeroPressure",
-   "id": "UCTOg6Y7A5XZ96t71bSzpVVw",
-   "created": "2025-10-13",
-   "subs": "149",
-   "videos": "30"
-  },
-  {
-   "title": "Beach Pack Diaries",
-   "id": "UCnvo6XsfSPh1cjdkgBEUAbw",
-   "created": "2025-08-08",
-   "subs": "1570",
-   "videos": "790"
-  },
-  {
-   "title": "루크아빠 - 훈련사 이성용",
-   "id": "UCbo1w_JUmeFRy2N4T3BHygQ",
-   "created": "2023-02-06",
-   "subs": "59800",
-   "videos": "937"
-  },
-  {
-   "title": "Mora Jaya ",
-   "id": "UCI20BbEwG9YSdedmWxNIaPA",
-   "created": "2023-12-11",
-   "subs": "20600",
-   "videos": "1368"
-  },
-  {
-   "title": "shrimp and prawns",
-   "id": "UCM2kb-4sOUXzBsFCabYd9fw",
-   "created": "2026-10-06",
-   "subs": "81",
-   "videos": "65"
-  },
-  {
-   "title": "Tsuki.aussie",
-   "id": "UC5RnG8khr20eHJEOVdQ5iXQ",
-   "created": "2025-11-30",
-   "subs": "1100",
-   "videos": "201"
-  },
-  {
-   "title": "The real baloo ",
-   "id": "UCh6w06MncxbAVT4QNU2UuWg",
-   "created": "2025-05-04",
-   "subs": "72",
-   "videos": "21"
-  },
-  {
-   "title": "개판 5분전 : 4마리 포메 일상",
-   "id": "UC57AVGeZlmbYtfCeZTgCWOA",
-   "created": "2026-01-22",
-   "subs": "1260",
-   "videos": "269"
-  },
-  {
-   "title": "Ashwini Deepthi",
-   "id": "UC6CjZFx4p-ABN1wgXGxDXYQ",
-   "created": "2026-09-04",
-   "subs": "41",
-   "videos": "61"
-  },
-  {
-   "title": "JAGGI YOUTUBER ",
-   "id": "UC_-4-cJhp1r9pz5cnbYPRew",
-   "created": "2020-09-28",
-   "subs": "43300",
-   "videos": "622"
-  },
-  {
-   "title": "Beautiful Turkey",
-   "id": "UCZoQaqKdco623-DVNdYzIXg",
-   "created": "2021-11-29",
-   "subs": "9680",
-   "videos": "9357"
-  },
-  {
-   "title": "Lucy Bangaram",
-   "id": "UC5SGF6XwvniUaAZraszZpuw",
-   "created": "2021-12-29",
-   "subs": "2460",
-   "videos": "272"
-  },
-  {
-   "title": "ICY & AMBER",
-   "id": "UC8adPQGQoG6tafhv7kPbZmg",
-   "created": "2026-10-13",
-   "subs": "3",
+   "title": "JRNews",
+   "id": "UC7z936e6hQLLduEDCTOJkJQ",
+   "created": "2025-08-14",
+   "subs": "28",
    "videos": "6"
   },
   {
-   "title": "온소담",
-   "id": "UCcy3piA06Xg2Wpiwy_GnfJw",
-   "created": "2026-02-18",
-   "subs": "13600",
-   "videos": "146"
+   "title": "MiKaPiBa",
+   "id": "UCaXQPnPuRf0oHx9_sPN0epQ",
+   "created": "2013-07-24",
+   "subs": "169000",
+   "videos": "29"
+  },
+  {
+   "title": "chefkoudy",
+   "id": "UCDQ2HViwQh37NhOENDRsWKw",
+   "created": "2020-05-13",
+   "subs": "12300000",
+   "videos": "1933"
+  },
+  {
+   "title": "Qurious Minds",
+   "id": "UC8ssOiGy3-pD23z3PndI4Tg",
+   "created": "2023-02-09",
+   "subs": "25200",
+   "videos": "95"
+  },
+  {
+   "title": "NeonNekoGamer",
+   "id": "UCM881uA7Hi71t49KjWjoPEA",
+   "created": "2014-12-05",
+   "subs": "2860",
+   "videos": "758"
+  },
+  {
+   "title": "Outside TV",
+   "id": "UCl3x43YzlP2RyWCNpOWV2oA",
+   "created": "2010-05-15",
+   "subs": "283000",
+   "videos": "4765"
+  },
+  {
+   "title": "Statistics of World",
+   "id": "UC6OQeWFHimUcJg3UnRMJr0Q",
+   "created": "2024-03-25",
+   "subs": "3320",
+   "videos": "223"
+  },
+  {
+   "title": "Technical sudip ",
+   "id": "UCD-Gqa2XGsFlE5VyTZMlsEA",
+   "created": "2018-06-14",
+   "subs": "338",
+   "videos": "236"
+  },
+  {
+   "title": "RAW EXPERIMENT",
+   "id": "UC44WaeIEtueFnk7LfMtXEEA",
+   "created": "2019-08-21",
+   "subs": "22800",
+   "videos": "151"
+  },
+  {
+   "title": "Satisfying Whirlpools",
+   "id": "UC3Xo_-Ztg9BeqpZxWuEiJZw",
+   "created": "2017-10-13",
+   "subs": "75900",
+   "videos": "44"
+  },
+  {
+   "title": "Furreal Facts",
+   "id": "UC4VsXOHrqshJusy3ymK5HHg",
+   "created": "2025-02-07",
+   "subs": "4300",
+   "videos": "363"
+  },
+  {
+   "title": "CM WORLD OFFICIAL",
+   "id": "UCtIlCfCbJwbnZW40OOaicMw",
+   "created": "2017-11-18",
+   "subs": "755",
+   "videos": "147"
+  },
+  {
+   "title": "powerful motivation ",
+   "id": "UCZiyu8sXgoxJqvaeVw4_MNw",
+   "created": "2024-12-17",
+   "subs": "103",
+   "videos": "1"
+  },
+  {
+   "title": "Aquá Enigmá",
+   "id": "UC_OyE0o6I5bVUKKIMIZfiCg",
+   "created": "2025-03-12",
+   "subs": "122",
+   "videos": "37"
+  },
+  {
+   "title": "Bubbleman",
+   "id": "UCZ1yuHZyMDg1hX212uOiUig",
+   "created": "2017-12-31",
+   "subs": "111000",
+   "videos": "18"
+  },
+  {
+   "title": "SeaGuard",
+   "id": "UC42ldzcI6n33X1_ADuCJ7XA",
+   "created": "2025-05-21",
+   "subs": "39",
+   "videos": "29"
+  },
+  {
+   "title": "チシキチャンの知識探究部",
+   "id": "UChfbeoiLPtm9nUhaQsWH31g",
+   "created": "2026-03-20",
+   "subs": "7090",
+   "videos": "212"
+  },
+  {
+   "title": "When Nature Strikes",
+   "id": "UCv_rjitzOds0iBCjiMSzrgw",
+   "created": "2023-04-07",
+   "subs": "1130",
+   "videos": "196"
+  },
+  {
+   "title": "Tiểu Ca TV",
+   "id": "UCWhvoQdFpWszdcDZOE4HKDw",
+   "created": "2021-06-10",
+   "subs": "1580",
+   "videos": "50"
+  },
+  {
+   "title": "jhu890",
+   "id": "UCnnUGLHUyhzdpN3fsYcGowg",
+   "created": "2026-01-10",
+   "subs": "66500",
+   "videos": "37"
+  },
+  {
+   "title": "Jaka Vlogs",
+   "id": "UCJCmyc4tALCBgadGHWF3cMg",
+   "created": "2015-12-20",
+   "subs": "2930",
+   "videos": "119"
+  },
+  {
+   "title": "Taylor & Colton ",
+   "id": "UC-Qu1YFQrzjsIStlVBiHnuA",
+   "created": "2026-01-11",
+   "subs": "28100",
+   "videos": "551"
+  },
+  {
+   "title": "Blue Canary",
+   "id": "UCDiS3SFlyF4q6lSkbD02-TA",
+   "created": "2014-08-13",
+   "subs": "32900",
+   "videos": "1722"
+  },
+  {
+   "title": "Christian Wedoy",
+   "id": "UCKA00zb2VKPHIR4iRpYWQfQ",
+   "created": "2011-06-17",
+   "subs": "1270000",
+   "videos": "970"
+  },
+  {
+   "title": "india cooking microwave cooking",
+   "id": "UC0nLDFKEA5Ch6Ehj6UHUA-A",
+   "created": "2016-07-25",
+   "subs": "8910",
+   "videos": "798"
+  },
+  {
+   "title": "The Space Man",
+   "id": "UCyasRc3ZfaymCITVbLkeS3g",
+   "created": "2024-07-31",
+   "subs": "209000",
+   "videos": "185"
+  },
+  {
+   "title": "call me namie",
+   "id": "UCV_IbtTLkwovtBQ3lmVrmvw",
+   "created": "2025-05-31",
+   "subs": "2000",
+   "videos": "26"
+  },
+  {
+   "title": "Facts First ",
+   "id": "UCSwKkm2Aib9pRrv4oNDJGdQ",
+   "created": "2025-02-01",
+   "subs": "2520",
+   "videos": "59"
+  },
+  {
+   "title": "StormChaser John",
+   "id": "UCI1iFqp7kz_bCjzs_qhNqFQ",
+   "created": "2022-06-18",
+   "subs": "1880",
+   "videos": "84"
+  },
+  {
+   "title": "Piricat",
+   "id": "UCIW-C19-_EOT-E1xKfZTKFA",
+   "created": "2023-03-08",
+   "subs": "49100",
+   "videos": "914"
+  },
+  {
+   "title": "Combat Bytes TV",
+   "id": "UC4yHuJLdnbRMOhnJEsk7tBw",
+   "created": "2023-10-26",
+   "subs": "102",
+   "videos": "91"
+  },
+  {
+   "title": "EdgeKeeper AI",
+   "id": "UCb0RMTJnkV_dlISiPJHfZQw",
+   "created": "2025-04-12",
+   "subs": "519",
+   "videos": "68"
+  },
+  {
+   "title": "Natural Disaster",
+   "id": "UCw-rKdcnhQ6i443i2QIuItQ",
+   "created": "2019-03-12",
+   "subs": "3270",
+   "videos": "1109"
+  },
+  {
+   "title": "제토리",
+   "id": "UCAUOdbkouHEeAcx8_fFO2Zg",
+   "created": "2026-10-01",
+   "subs": "14",
+   "videos": "22"
+  },
+  {
+   "title": "개드리퍼 GAEDRIPPPER",
+   "id": "UCP_sQQpfTSrwD9strjlod6w",
+   "created": "2015-08-12",
+   "subs": "9240",
+   "videos": "1132"
+  },
+  {
+   "title": "군인이야기",
+   "id": "UCWvVu9BnX_M4qWm3cdWTK8A",
+   "created": "2024-11-30",
+   "subs": "186",
+   "videos": "114"
+  },
+  {
+   "title": "픽미픽미",
+   "id": "UCWTzHoLj-3PRk-kKle2ymeg",
+   "created": "2026-06-10",
+   "subs": "3470",
+   "videos": "277"
+  },
+  {
+   "title": "발견했음",
+   "id": "UCYzinhD0Pk_oG1C_KEtin0w",
+   "created": "2026-02-24",
+   "subs": "11600",
+   "videos": "345"
+  },
+  {
+   "title": "1분마음가능대로",
+   "id": "UC1_a7cavYm5HRj4q6wmEG7A",
+   "created": "2026-06-25",
+   "subs": "435",
+   "videos": "180"
+  },
+  {
+   "title": "VICKsOnGame",
+   "id": "UCwgLrlwhgM12r1ocYt73BBA",
+   "created": "2024-12-16",
+   "subs": "163",
+   "videos": "93"
+  },
+  {
+   "title": "MYSTERIOUS Earth 0.2",
+   "id": "UCvJ2mbNbMzYzH0ZsBj3JHQg",
+   "created": "2023-10-03",
+   "subs": "34",
+   "videos": "38"
+  },
+  {
+   "title": "숏파일럿",
+   "id": "UCuuH7h0FO69y7UUbv_ljx-g",
+   "created": "2025-04-12",
+   "subs": "67400",
+   "videos": "585"
+  },
+  {
+   "title": "애니숏",
+   "id": "UCKbbsOEvzexEAVPuj22X2Wg",
+   "created": "2026-09-30",
+   "subs": "21",
+   "videos": "31"
   }
  ],
  "search_hits": [
   {
-   "q": "cat sulking",
-   "vid": "T7oMxW6ejF8",
-   "ch": "PotPotZ Vlog",
-   "cid": "UCXH3cwG1J2oySKAChNn7jGQ",
-   "date": "2026-11-10",
-   "title": "sulking, it&#39;s a universal thing🐱😹 Happy wife, happy life",
-   "views": 5826314,
-   "desc": "it's a universal thing🐱😹 #wife #cats #funnyvideo"
+   "q": "rice cracker whirlpool",
+   "vid": "_9ZyoLZCCwM",
+   "ch": "chefkoudy",
+   "cid": "UCDQ2HViwQh37NhOENDRsWKw",
+   "date": "2024-01-02",
+   "title": "Which WHIRLPOOL level is the toughest? Cake🍩curry &amp; rice",
+   "views": 119820079,
+   "desc": "#howtoeat  #memesvideos  #cinema #curry #cake #dessert #indianfood     #howto #india  #indianstreetfood   #movienight #movie  #movies   #dad   #howtomake  #indian   #funnymoments    #relatable   #foodfun #eating #eatingshow   #funnymemes #memes #funfood #foodie #foodlover #mom  #foodblogger #foodies"
   },
   {
-   "q": "cat sulking",
-   "vid": "IcCUMyP4FCE",
-   "ch": "Rhino vlogs",
-   "cid": "UCfQq7_F0yoLaPvTd0yBJGng",
-   "date": "2026-10-17",
-   "title": "മത്തായി പിണങ്ങി പോയത് കണ്ടോ 😂.... #catshorts",
-   "views": 777108,
-   "desc": "Cats\n#catvideos  #catshorts  #poochandi  #poochasir  #poochandisong  #pets"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "LAYy9oEZYkU",
-   "ch": "입히입히",
-   "cid": "UCl0TU5w64B6owLVwvdxCC_A",
-   "date": "2026-10-26",
-   "title": "고양이가 삐져서 애교를 부려봤더니.. 마지막 반응 #cat #고양이 #집사",
-   "views": 468066,
+   "q": "rice cracker whirlpool",
+   "vid": "HhVE5i2sztc",
+   "ch": "Technical sudip ",
+   "cid": "UCD-Gqa2XGsFlE5VyTZMlsEA",
+   "date": "2025-07-25",
+   "title": "whirlpool 24L magicook 26E demo 🫵/#microwave #whirlpool #con",
+   "views": 124311,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "HKy61h8_0z4",
-   "ch": "Just Fun Its",
-   "cid": "UCcvQdz5A8mcEMx1ANGVi9eg",
-   "date": "2026-11-07",
-   "title": "เจ้าตัวเล็กงอนหนักมาก เพราะเจ้าของไม่ค่อยมีเวลาเล่นด้วย!",
-   "views": 289457,
-   "desc": "เจ้าตัวเล็กงอนหนักมาก เพราะเจ้าของไม่ค่อยมีเวลาเล่นด้วย!"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "c16L21RYREM",
-   "ch": " Damdaki Kütüphane",
-   "cid": "UCOthHEJDy9dbhY46i8euRww",
-   "date": "2026-10-16",
-   "title": "Süleyman Aşı Oldu Küstü! 😾 Aşı Bitti Trip Başladı!part 2",
-   "views": 209191,
-   "desc": "Süleyman aşı oldu ama Hikmet Amca'ya küstü! 😾💉\n\nVeterinerde aşı bitti, Süleyman arkasını döndü, mama bile yemiyor! Sizce barışacaklar mı? Yorumlara yazın! 👇\n\nSerinin devamı:\nPart 1: Aşıdan kaçtı!\nPart 2: Küstü ve mama yedi!\nPart 3: Şimdi küstü! (Bu video)\n\n#suleyman #kedi #kedivideoları #funnycats #"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "dUCjq6kxhhQ",
-   "ch": "Delfia Jessy Official",
-   "cid": "UCWyurjw0XgmaaGb6MN51WZA",
-   "date": "2026-10-17",
-   "title": "Sigordon ngambek",
-   "views": 93520,
+   "q": "rice cracker whirlpool",
+   "vid": "2U15UPak7yQ",
+   "ch": "チシキチャンの知識探究部",
+   "cid": "UChfbeoiLPtm9nUhaQsWH31g",
+   "date": "2026-09-16",
+   "title": "渦にせんべいを入れるとどうなる？",
+   "views": 113612,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "-a5X0EYAtYE",
-   "ch": "Justice Rabbit",
-   "cid": "UClfqN65Wd7d0ByWq2AOStKQ",
-   "date": "2026-11-13",
-   "title": "玩偶被搶，躲主人肩膀悶悶生氣",
-   "views": 87863,
+   "q": "rice cracker whirlpool",
+   "vid": "NLVzG3dIhmE",
+   "ch": "初めて知った",
+   "cid": "UCH4XqRtDChJgSrC2NhA4JGg",
+   "date": "2026-09-29",
+   "title": "渦の上にせんべいを浮かべると起こること",
+   "views": 36094,
+   "desc": "山の小川の岩の間にできた\n小さな渦にせんべいを浮かべてみました\n\n水に浮くはずのせんべいが\n少しずつ渦の真ん中へ引き寄せられていきます\n\nこの渦の下で何が起きているのか分かりますか\n\n#渦 #せんべい #水の渦 #山の小川 #渦の実験\n\n🎵Music provided by 브금대통령\n🎵Track : Documentary Theme D - https://youtu.be/rvrIoRSCfYk"
+  },
+  {
+   "q": "rice cracker whirlpool",
+   "vid": "6vkmyo6p85s",
+   "ch": "india cooking microwave cooking",
+   "cid": "UC0nLDFKEA5Ch6Ehj6UHUA-A",
+   "date": "2020-10-08",
+   "title": "Jet crispy whirlpool 25 cake  convection mode ues",
+   "views": 7981,
+   "desc": "Whirlpool jet crisp 25 litar"
+  },
+  {
+   "q": "rice cracker whirlpool",
+   "vid": "j8V3iBncG0M",
+   "ch": "RAW EXPERIMENT",
+   "cid": "UC44WaeIEtueFnk7LfMtXEEA",
+   "date": "2026-09-22",
+   "title": "Raw Experiment - Why can this vortex swallow everything? Day",
+   "views": 1253,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "rRFL6zJo0PU",
-   "ch": "Emilia",
-   "cid": "UCq6Kt_M3L1fGjzaturMBxeA",
-   "date": "2026-10-20",
-   "title": "Das Katzenspielzeug vom Nachbarn sah aus wie ein ECHTER Katz",
-   "views": 67983,
-   "desc": "Ein Ballon-Kugelfisch platzte, und ihr Kater war tagelang beleidigt.\r\nDann brachte der Nachbar seltsame Geschenke: ein schwarzes „Nilpferd“ und eine Katzenangel.\r\nDoch warum sah dieses Spielzeug einem echten Katzenschwanz so ähnlich?\r\n#Katze #Katzen #shorts #Kater #Haustiere\n\n#Emilia"
+   "q": "rice cracker whirlpool",
+   "vid": "l1eKTdtfwYQ",
+   "ch": "powerful motivation ",
+   "cid": "UCZiyu8sXgoxJqvaeVw4_MNw",
+   "date": "2025-01-06",
+   "title": "Which WHIRLPOOL level is the toughest? Cake 🍩 curry &amp; ri",
+   "views": 668,
+   "desc": "#howtoeat #memesvideos #cinema #curry #cake\r\n#dessert #indianfood #howto #india #indianstreetfood\r\n#movienight #movie #movies #dad #howtomake\r\n#indian #funnymoments #relatable #foodfun #eating #eatingshow #funnymemes #memes #funfood #foodie #foodlover #mom #foodblogger #foodies #chefkoudy"
   },
   {
-   "q": "cat sulking",
-   "vid": "F3DkqjLLy1A",
-   "ch": "shani's vlogs",
-   "cid": "UCDTRfBhxTTl4bZoDj2L8wUw",
-   "date": "2026-10-18",
-   "title": "🖤 കുഞ്ഞു മണിയുടെ പിണക്കം🖤 #subscribe #cat #pet #youtubeshort",
-   "views": 67976,
+   "q": "rice cracker whirlpool",
+   "vid": "Esi-TmGmJos",
+   "ch": "Tiểu Ca TV",
+   "cid": "UCWhvoQdFpWszdcDZOE4HKDw",
+   "date": "2021-10-13",
+   "title": "Experiment Whirlpool Hole Vs pocker, instant noodles, Korean",
+   "views": 163,
+   "desc": "Experiment Whirlpool Hole Vs pocker, instant noodles, Korean rice cake, flower, seahorses\nlốc xoáy và tú lơ khơ, mỳ tôm, bánh mỳ, keo con voi, hoa, bánh gạo one one, con cá ngựa"
+  },
+  {
+   "q": "whirlpool swallows rice cake",
+   "vid": "j8V3iBncG0M",
+   "ch": "RAW EXPERIMENT",
+   "cid": "UC44WaeIEtueFnk7LfMtXEEA",
+   "date": "2026-09-22",
+   "title": "Raw Experiment - Why can this vortex swallow everything? Day",
+   "views": 1253,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "wgB5UdI4oos",
-   "ch": "kudaponi94",
-   "cid": "UCOCLpB8OmkUU3Vh39-VPwJg",
-   "date": "2026-10-17",
-   "title": "Gembul ngambek, pingin main sendiri😂😅#feedshorts #kucing #ku",
-   "views": 48694,
-   "desc": "Gembul ngambek, pingin main sendiri😂😅#feedshorts #kucing #kucinglucu\n\nAll rights belong to the owner. No Copyright Infringement Intended. \n\nFor Fix or Removal Contact me: priadb9042@gmail.com \n\nCopyright Disclaimer: Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpo"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "zssgC5_0Hj0",
+   "ch": "MiKaPiBa",
+   "cid": "UCaXQPnPuRf0oHx9_sPN0epQ",
+   "date": "2018-01-13",
+   "title": "Real large vortex / whirlpool at Saint-Malo (Barrage de la R",
+   "views": 83468597,
+   "desc": "Very impressive, this giant vortex at the Barrage between Saint Malo and Dinant in France (Barrage de la Rance). At the right time of day, you can see it just from the dam.\n\nWe recorded this vortex during our holiday trip in august 2013  when we visited Mont Saint-Michel and Saint Malo. We caught it"
   },
   {
-   "q": "cat sulking",
-   "vid": "cZ829t1i88s",
-   "ch": "CatchingCat",
-   "cid": "UCmuLMFMVnQNVFHCwIq07nbQ",
-   "date": "2026-11-06",
-   "title": "Si Cowo Udah Ngalah Tetep Diambekin🗿 #short",
-   "views": 39196,
-   "desc": "Masnya udah ngalah mau kasih ikannya eh kucing malah pergi ngambekkk\n\n#kucingngambek #kucingbelangtiga #kucingimut #kucingkampung #kucinggemoy #kucinglucu #kucingpintar #kucinganggoralucudanimut #kucingoyen #kucingbarbar #kucinglaper #memes #meme #memesdaily #memesvideo #kelakuanrandom #kelakuankuci"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "cEX4nLz83h4",
+   "ch": "Bubbleman",
+   "cid": "UCZ1yuHZyMDg1hX212uOiUig",
+   "date": "2017-12-31",
+   "title": "Bubbleman makes a Whirlpool!",
+   "views": 17209425,
+   "desc": "Ever wondered how to make your own whirlpool?  Here's how!\nThis is the original Bubbleman Video that started it all.\n\nBecome Bubbleman's hero: https://www.patreon.com/SuperBubbleman"
   },
   {
-   "q": "cat sulking",
-   "vid": "ipBAwLT2qA8",
-   "ch": "みけとらチャンネル",
-   "cid": "UC9jKI16VH99lNhLl35AQu0g",
-   "date": "2026-10-24",
-   "title": "母にオヤツはダメと言われいじける娘猫",
-   "views": 34751,
-   "desc": "サブチャンネル【ミケトラ日誌】\nhttps://www.youtube.com/channel/UCTBy3wX-NZNB-I9yrSJh9Vw\n\n元野良猫で双子の姉妹ミケとトラは、子猫の頃から我が家の裏山をリード無しで散歩しています。\n\nTake a walk with a cat\nFree-running cat\n\n#みけとらチャンネル"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "b8eJmiyiqrI",
+   "ch": "Christian Wedoy",
+   "cid": "UCKA00zb2VKPHIR4iRpYWQfQ",
+   "date": "2020-11-27",
+   "title": "How to make a Whirlpool",
+   "views": 17093696,
+   "desc": "This is the easiest way to make a whirlpool underwater in the pool.\nA step by step instruction to make a underwater tornado.\nIf you liked this video you may also like my video about how to shoot a bubble ring with a Coca-Cola bottle\n\n\nMy Vlog Channel: \r\nhttps://www.youtube.com/channel/UCS-N5xURBE1Wy"
   },
   {
-   "q": "cat sulking",
-   "vid": "YVHR_hlKSTc",
-   "ch": "애니멀큐티☆cute animal☆",
-   "cid": "UCu9Ud8i0vNBcEOh1nW-knvg",
-   "date": "2026-10-23",
-   "title": "삐져서 말도 안 듣는 줄 알았는데 은근히 협조적인 고양이 ㅋ ㅋ",
-   "views": 40064,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "-W7aetSYdfQ",
+   "ch": "Unusual stuff",
+   "cid": "UCbmKebLBY37hbGOIEE3bjnQ",
+   "date": "2025-05-04",
+   "title": "Incredible complete process of black hole/vortex/whirlpool f",
+   "views": 22673205,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "_xnpuJ_VtZY",
-   "ch": "Sucipto Martin NEW 2",
-   "cid": "UC0TC989xZhJkBiiB0Dxugng",
-   "date": "2026-10-17",
-   "title": "NGAMBEK TERUS #shorts",
-   "views": 41617,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "8JM1AQY3Fn8",
+   "ch": "Zack D. Films",
+   "cid": "UCvz84_Q0BbvZThy75mbd-Dg",
+   "date": "2024-12-10",
+   "title": "How To Escape A Whirlpool 😨",
+   "views": 14164472,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "wwbNFMl4BYQ",
-   "ch": "kudaponi94",
-   "cid": "UCOCLpB8OmkUU3Vh39-VPwJg",
-   "date": "2026-11-01",
-   "title": "Belang lagi ngambek, marah di pojokan😂😅#feedshorts #kucing #",
-   "views": 36273,
-   "desc": "Belang lagi ngambek, marah di pojokan😂😅#feedshorts #kucing #kucinglucu\n\nAll rights belong to the owner. No Copyright Infringement Intended. \n\nFor Fix or Removal Contact me: priadb9042@gmail.com \n\nCopyright Disclaimer: Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for pur"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "Gg4oSonJ0Ac",
-   "ch": "Night Cupid",
-   "cid": "UCf0ZmlwwbT1a2vviEzvcxSg",
-   "date": "2026-11-11",
-   "title": "sulking, it&#39;s a universal thing 😺😹 Happy wife, happy lif",
-   "views": 38002,
-   "desc": "it's a universal thing😺😹\n\n#wife #cats\n\n#funnyvideo"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "hj7jTghpEAM",
-   "ch": "animal maniaa",
-   "cid": "UCg76Xsq50KnhFRj-Gv9YIJg",
-   "date": "2026-10-25",
-   "title": "ngambek kenapa lagi ni kucing😭🤣🗿",
-   "views": 27383,
-   "desc": "#KucingLucuBanget #MemeKucingIndonesia #ShortsKucingLucu #KucingBikinGemes #TingkahKucingGemoy #KucingNgakakTerus #KelakuanKucingLucu #VideoKucingGemoy #KucingPalingImut #MomenKucingLucu #KucingBikinBahagia #KucingSuperGemoy #AksiKucingLucu #KucingPenuhKejutan #KucingBikinKetawa #KucingKocakBanget #"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "zCk4aJJ9LIs",
-   "ch": "Al Marzuqi channel",
-   "cid": "UCkhqG7HN1nbtgSKWnydhVgQ",
-   "date": "2026-11-06",
-   "title": "anak kucing lagi ngambek #kucinglucu #kucing #shorts",
-   "views": 24612,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "PyxTrHBjOTc",
+   "ch": "Megan and Ben",
+   "cid": "UCXvbilRzK1DrcrYM_0-BxfQ",
+   "date": "2023-01-03",
+   "title": "Bet you didn&#39;t know this! #education #whirlpool #naruto ",
+   "views": 12914632,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "Jmi-f1oOInI",
-   "ch": "Reels[GL] ",
-   "cid": "UCS8If1A04biGomO2iJyfiIw",
-   "date": "2026-10-21",
-   "title": "mae is a sulking cat 🐈🙈 #puinoonbint#shorts",
-   "views": 25077,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "QwuC7f_HF3Y",
+   "ch": "Satisfying Whirlpools",
+   "cid": "UC3Xo_-Ztg9BeqpZxWuEiJZw",
+   "date": "2021-09-25",
+   "title": "Lego Man vs Whirlpool 😲",
+   "views": 2855156,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "wgPqonkC_6M",
-   "ch": "입히입히",
-   "cid": "UCl0TU5w64B6owLVwvdxCC_A",
-   "date": "2026-10-30",
-   "title": "삐친 고양이 달래준 뒤 후속 쇼츠~ #cat #고양이 #집사",
-   "views": 23286,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "ibdByQHqAzg",
+   "ch": "call me namie",
+   "cid": "UCV_IbtTLkwovtBQ3lmVrmvw",
+   "date": "2025-06-24",
+   "title": "biggest whirlpool in the world??🤯😱 #viral",
+   "views": 1862298,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "6Ijz2fnExUM",
-   "ch": "Tcatty",
-   "cid": "UCxNl6M66Ex25hXwkEmqYhmw",
-   "date": "2026-10-24",
-   "title": "แมวงอนเลยเนี่ย",
-   "views": 18078,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "PP92wbo-6nI",
+   "ch": "Facts First ",
+   "cid": "UCSwKkm2Aib9pRrv4oNDJGdQ",
+   "date": "2025-03-02",
+   "title": "The Biggest Whirlpool ☠️",
+   "views": 1320593,
+   "desc": "#biggest #whirlpool #satisfyingvideo #satisfying \n#ytshorts \nThe Biggest Whirlpool ☠️"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "W4wgoseLOEU",
+   "ch": "StormChaser John",
+   "cid": "UCI1iFqp7kz_bCjzs_qhNqFQ",
+   "date": "2023-08-06",
+   "title": "Whirlpool in a Swimming Pool Underwater view(2)",
+   "views": 1442705,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "yQ4rrwko1jM",
-   "ch": "Smehovator",
-   "cid": "UC7hmT5xJN_dVAGZrmsuHsHg",
-   "date": "2026-10-18",
-   "title": "Теперь обижается😾",
-   "views": 19337,
-   "desc": "React: @КоммeнтШоу\n\nВсе видео сделаны и отредактированы лично мной, но я не претендую на авторство материала, из которого они изготовлены.\n\nЕсли у вас есть вопросы по авторским правам на видео, пожалуйста, свяжитесь со мной в Telegram до  предпринятия каких-либо действий и я отвечу Вам в течение 2 ч"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "-8YQLWmdJoY",
-   "ch": "mikoyen",
-   "cid": "UCcsAZIb9p8KV9gt3zYIr_3g",
-   "date": "2026-11-04",
-   "title": "oyen ini merajuk sembunyi #catlover #anabul #cat #pet #kucin",
-   "views": 20376,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "VPimzz-xz9I",
+   "ch": "Huck Buddies Disc Golf",
+   "cid": "UCQl_Ja9Kt6kP1cE0UtHwKPA",
+   "date": "2023-10-30",
+   "title": "Whirlpool Wonders... Possibilities? #disc #discgolf #havefun",
+   "views": 1132347,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "hy7KEzk2-UI",
-   "ch": "Shanty Cimohay",
-   "cid": "UCUd2hBPBEf6x4zFIGPZ9mdQ",
-   "date": "2026-10-19",
-   "title": "Ngambek terus #comedy #funny #lucu #shorts",
-   "views": 21959,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "xgqxTM7ytSk",
+   "ch": "Piricat",
+   "cid": "UCIW-C19-_EOT-E1xKfZTKFA",
+   "date": "2025-06-21",
+   "title": "Can a giant whirlpool drag a ship to the bottom of the ocean",
+   "views": 964159,
+   "desc": "Some claims suggest that giant whirlpools can swallow ships and drag them to the bottom of the ocean. To test this myth, the MythBusters team first created a vortex in a small tank using a pump. A paper boat was easily pulled in. They then built a massive 34,000-liter tank and tested it with a model"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "LHizbnhRZ2Q",
+   "ch": "Poor Pumper Society",
+   "cid": "UCypQoNa-3-0po-ZYknGShxQ",
+   "date": "2023-03-24",
+   "title": "The forbidden whirlpool #shorts",
+   "views": 520936,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "aQpv_ryHyWs",
-   "ch": "Kiro_Cat_Diary",
-   "cid": "UCqPR9-eo0dy989nnvAT6FTQ",
-   "date": "2026-11-11",
-   "title": "Si Dewi Ngambek #shortvideo #kucinglucu #prettycat #catvideo",
-   "views": 16742,
-   "desc": "“PALING LUCU!!! 😭🐾 Anabul gemas ini siap bikin hari kalian langsung happy! Tingkahnya random, ekspresinya polos tapi kocak banget 🤣 Dari yang awalnya kalem… eh tiba-tiba jadi rusuh sendiri!\n\nSiap-siap ketawa dan gemes maksimal ya! Jangan lupa like, komen, dan share ke teman kalian biar ikut senyum h"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "URy9zl9X10s",
+   "ch": "NeonNekoGamer",
+   "cid": "UCM881uA7Hi71t49KjWjoPEA",
+   "date": "2024-03-08",
+   "title": "Chip Thinks That Eystreem Is A Stream Of Water And Then Gets",
+   "views": 550812,
+   "desc": "Original video by Eystreem: https://www.youtube.com/watch?v=p_RI2V93jFY"
   },
   {
-   "q": "cat sulking",
-   "vid": "hCwp6OaP5A0",
-   "ch": "解壓工作室",
-   "cid": "UCjfHBOtIXSjOBJ6nwtgQgcA",
-   "date": "2026-11-11",
-   "title": "扒著空飯盆原地生氣，這隻貓也太貪吃",
-   "views": 14072,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "c-YuGNCy5dc",
+   "ch": "Nature Microverse",
+   "cid": "UCn8jIFe5HqPSVNj5UaGvvEA",
+   "date": "2024-11-22",
+   "title": "World Strongest Whirlpool, Salstraumen in Norway #nature",
+   "views": 512507,
+   "desc": "Disclaimer: This information is taken from the internet which may or may not be true we DO NOT want to spread any fake news. The content provided by this channel is meant for EDUCATIONAL/ENTERTAINMENT PURPOSE only.\n\nCopyright Disclaimer: The content in this video is provided for educational and info"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "b493R2RPlBQ",
+   "ch": "Outside TV",
+   "cid": "UCl3x43YzlP2RyWCNpOWV2oA",
+   "date": "2015-05-18",
+   "title": "Kayaker Steve Fisher Sucked Into a Whirlpool | Explorers",
+   "views": 275434,
+   "desc": "The worst happens when Steve Fisher’s kayak gets sucked into a whirlpool and for the first time he faces the possibility of drowning. Watch \"Explorers\" on Outside Television: http://ow.ly/YfQkG"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "tCeM_T1HxGI",
+   "ch": "The Space Man",
+   "cid": "UCyasRc3ZfaymCITVbLkeS3g",
+   "date": "2025-08-14",
+   "title": "The Deadly Beauty of a Whirlpool",
+   "views": 509186,
+   "desc": "We've all seen water spin down a drain, but what happens when this happens on a massive scale in a river or the ocean? It creates a whirlpool, a mesmerizing vortex that is as dangerous as it is beautiful.\n#Whirlpool #RiverSafety #Nature #Science #WaterSafety #Ocean"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "0oOuy6bK0v8",
+   "ch": "FIBONACCI TV",
+   "cid": "UCIqL_JKJsE1VNzS2PDtgl2Q",
+   "date": "2024-11-15",
+   "title": "Walking downstairs isn’t easy using the whirlpool filter#fyp",
+   "views": 375581,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "k1blLjEghns",
-   "ch": "The Keisha paws",
-   "cid": "UCiMUXd_LBiob0Oyd5nuI5Ww",
-   "date": "2026-11-03",
-   "title": "moyen merajuk #cat #cats #catvideos",
-   "views": 11349,
-   "desc": "Halo Cat Lovers! Selamat datang di channel the Keisha Paws!\n\nChannel ini khusus dibuat untuk kamu yang nggak bisa hidup tanpa melihat keimutan kucing setiap hari. Kami menyajikan berbagai konten kucing pilihan, mulai dari aksi kocak yang mengocok perut, video estetik para anabul, sampai tips praktis"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "9t2yHFvQeNk",
+   "ch": "Statistics of World",
+   "cid": "UC6OQeWFHimUcJg3UnRMJr0Q",
+   "date": "2024-08-18",
+   "title": "Biggest Whirlpool Ever Recorded 😱 #shorts #trending #youtube",
+   "views": 237506,
+   "desc": "Biggest Whirlpool Ever Recorded 😱 #shorts #trending #youtubeshorts\n\nwhirlpool  \nbiggest whirlpool  \nbiggest whirlpools  \nbiggest  \nbiggest whirlpool in the world  \nthe naruto whirlpools  \nthe biggest whirlpools of all time! (ocean whirlpool)  \nwhirlpools  \ncorryvreckan’s whirlpool  \nwater whirlpool "
   },
   {
-   "q": "cat sulking",
-   "vid": "12LgCWGdpTI",
-   "ch": "Timuçin Şenol (Fakir Tv)",
-   "cid": "UCg5B1nCPDyvLU4GBNOVvtJg",
-   "date": "2026-11-10",
-   "title": "Küstün mü, minik? 😿 Bir patilik barış 🐾 | Are You Sulking, L",
-   "views": 11738,
-   "desc": "🇹🇷 **Bir patilik barış** 🐾\n\nBir el usulca patisine dokunuyor. Minik kedi ise yüzünü patilerinin arasına saklamış, başını kaldırmaya hiç niyeti yok gibi. 😾\n\n“Patiyi alabilirsin. Yüzümü göstermem.” 😹 Barış görüşmeleri uzadıkça insan gülüyor, ama son dokunuşta insanın içi de yumuşuyor. Sanki minik, “Bi"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "qWBkbTAwGfY",
-   "ch": "Mie Jawa ijonk",
-   "cid": "UCUdJvqI6D-iL3EC5zkms8Yg",
-   "date": "2026-10-27",
-   "title": "kalau lagi ngambek kaya anak kecil",
-   "views": 10996,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "3FBQtZbI4CM",
+   "ch": "EasyOne_1",
+   "cid": "UCgdpB1Xl2mhRyRruwb-ZF0Q",
+   "date": "2025-07-03",
+   "title": "Massive ocean whirlpools that look like they could swallow y",
+   "views": 242693,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "zYEaUdsdB74",
-   "ch": "REANIME",
-   "cid": "UC0YdHXzRweooYDIyv7rS3TA",
-   "date": "2026-11-08",
-   "title": "plenger | ngambekan #catlover #ngambek #kucinglucu #catshort",
-   "views": 7783,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "zThFyGjp1Pg",
+   "ch": "Furreal Facts",
+   "cid": "UC4VsXOHrqshJusy3ymK5HHg",
+   "date": "2025-08-25",
+   "title": "What Happens If You Fall Into a Whirlpool?",
+   "views": 180756,
+   "desc": "#shorts #viralvideo #viralshorts #interestingfacts #funfacts #didyouknow #whirlpool #vortex #ocean #river #water #currents #dangerous #nature #natural #phenomenon #science \n\nNature’s Giant Water Trap 🌊😱\n\nWhirlpools are spinning vortexes of water that can swallow boats, drag swimmers, and create terr"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "6HuJu1QUUBo",
+   "ch": "Daily Facts",
+   "cid": "UC67Xj2W42v6x_syA-cB-mbQ",
+   "date": "2025-06-29",
+   "title": "🌊 Nature’s Ultimate Whirlpool – A Deep Sea Monster",
+   "views": 163025,
+   "desc": "Have you ever seen water spiral like this? This natural whirlpool is a stunning — yet terrifying — force of nature. Found in oceans and rivers, whirlpools are caused by clashing currents, underwater terrain, and intense tidal flows. Some are harmless, but others can swallow entire vessels!\n\n🌍 From N"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "WOjrwC71aMo",
+   "ch": "Blue Canary",
+   "cid": "UCDiS3SFlyF4q6lSkbD02-TA",
+   "date": "2025-09-03",
+   "title": "The FINAL Moments of JACOB COCKLE #death #whirlpool #drownin",
+   "views": 182546,
+   "desc": "Back in 2013, the news that acclaimed 28 year old surf photographer Jacob Cockle had lost his life while swimming in a whirlpool sent shockwaves through the Cornish surf community.\n\nCockle was from Penzance and attended the same school as fellow lensmen Jack Johns and Mikey Smith. He was cut from a "
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "2099wLD0PE0",
+   "ch": "Taylor & Colton ",
+   "cid": "UC-Qu1YFQrzjsIStlVBiHnuA",
+   "date": "2026-02-10",
+   "title": "Whirlpool Sucking Boats In",
+   "views": 117552,
+   "desc": "This water turns deadly in seconds 😳\nA massive whirlpool forms — and boats get pulled straight toward the center like toys.\nWatch until the end 👀\n👇👇👇\nWould you know what to do in this situation?\nSubscribe for more unbelievable moments caught on camera.\n\n#viral #shorts #ytshorts #whirlpool #ocean #bo"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "ZfqoNb2mW3E",
+   "ch": "Qurious Minds",
+   "cid": "UC8ssOiGy3-pD23z3PndI4Tg",
+   "date": "2024-04-23",
+   "title": "Tiny Boat vs. MONSTER WHIRLPOOL! Caught on Camera!😨#shorts #",
+   "views": 39073,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "7Dj6FGzjEpM",
-   "ch": "Andrakwecil",
-   "cid": "UCjkT0bUn3ktD8OcwKaZDe1w",
-   "date": "2026-11-10",
-   "title": "Kucingku ngambek 😭🤣 #funny #comedy #viral #animals #cat #kuc",
-   "views": 6434,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "IBmwwVqA1e0",
+   "ch": "When Nature Strikes",
+   "cid": "UCv_rjitzOds0iBCjiMSzrgw",
+   "date": "2023-08-30",
+   "title": "Biggest Whirlpool In The World Caught On Camera #shorts",
+   "views": 14928,
+   "desc": "\"Biggest Whirlpool In The World Caught On Camera\" \n\noffers a mesmerizing glimpse into the astonishing natural phenomenon of a colossal whirlpool in action. Witness the sheer power and mesmerizing swirls as water converges and forms this massive vortex. This rare spectacle showcases the remarkable fo"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "ihk-V4Pc1wo",
+   "ch": "short story",
+   "cid": "UC28tJRmWmFV4d9I3Flb0wYw",
+   "date": "2025-08-22",
+   "title": "Massive River Whirlpool Caught on Camera! #shorts #viralvide",
+   "views": 29157,
+   "desc": "Massive River Whirlpool Caught on Camera! #shorts #shortvideo #viralvideo \n\nWatch this unbelievable giant whirlpool form in a river — nature’s power is incredible! 🌪️  \nStay tuned for more amazing natural phenomena.\n\n\n#Whirlpool #RiverVortex #NaturePower #Shorts #ViralVideo #AmazingNature #NaturalDi"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "YI27Lh3u5WM",
+   "ch": "AniShorts AI",
+   "cid": "UC69Q2rveB-2GTgRa2hkSNoQ",
+   "date": "2025-12-22",
+   "title": "Giant Whirlpool Caught on Camera😰#shorts",
+   "views": 12562,
+   "desc": "Is video mein aap dekhenge ek bhayanak flood situation, jahan ek passenger boat muddy floodwater ke beech chal rahi hoti hai.\nTabhi achanak boat ke bilkul side mein ek massive circular whirlpool ban jaata hai jo pani ko gol-gol ghumate hue neeche kheenchne lagta hai 🌪️🌊\nBoat ke log buri tarah se gha"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "Z1BRkMTMEvY",
+   "ch": "Dams explorer",
+   "cid": "UCoC0Ltp0726p3ZsH0mlBBzg",
+   "date": "2025-08-17",
+   "title": "Real large vortex | Intake gate whirlpool-Camera caught hydr",
+   "views": 5002,
+   "desc": "Witness the power of nature and engineering as a massive vortex forms at the intake gate spillways. This rare footage captures a hydraulic whirlpool created by the strong suction of water entering the intake system. Such vortex formations are not only incredible to watch but also highlight the raw e"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "vUEfXhH66tc",
+   "ch": "FC HINDI",
+   "cid": "UCmZKvI0KeKEdoVtDx78wJ8w",
+   "date": "2022-11-30",
+   "title": "whirlpool in ocean caught on camera #shorts",
+   "views": 5773,
+   "desc": "whirlpool in ocean caught on camera #shorts \nwhirlpool in ocean sinks ship\nwhirlpool in ocean in hindi\nwhirlpool in ocean real\nwhirlpool in ocean biggest\nshorts\nviral\nfact changer\nfc hindi\n#whirlpool #viral #factchanger #fchindi"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "zrwJXAvt7gA",
+   "ch": "Giant Whirlpool ",
+   "cid": "UC_ZSXy0Z5mJyDLV6EC4A-8w",
+   "date": "2026-08-22",
+   "title": "🌑 DANGEROUS Night Whirlpool Caught on Camera! 😱🌊 #whirlpool ",
+   "views": 6779,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "KzFhbmXDiDE",
-   "ch": " Damdaki Kütüphane",
-   "cid": "UCOthHEJDy9dbhY46i8euRww",
-   "date": "2026-10-23",
-   "title": "Süleyman’a küstüm. Üç saniye sürdü. 😼Lan Süleyman😼",
-   "views": 9108,
-   "desc": "Dede ve Süleyman yine olay! 😂\n\nDede: \"Lan Süleyman bu sefer ben küstüm!\"\nSüleyman: *mama yemeye devam ediyor, dede umurunda değil*\n\n3 saniye sonra...\nDede: \"Lan Süleyman tamam affettim.\" 😹\n\nKüsme rekoru kırıldı! Dede 3 saniye küsebildi!\n\n\n#manşetsüleyman #dedevekedi #komikedi #küsme #kedi #funnycat "
-  },
-  {
-   "q": "cat sulking",
-   "vid": "rvxxVAgVIcc",
-   "ch": "ฮากับสัตว์",
-   "cid": "UCkcjRYhAaLnAlH8xfOg5EJw",
-   "date": "2026-10-19",
-   "title": "ความงอนเป็นเหตุ #cat #animals #youtubeshorts #greenscreen #s",
-   "views": 7827,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "vVHu0JVJi-g",
+   "ch": "JRNews",
+   "cid": "UC7z936e6hQLLduEDCTOJkJQ",
+   "date": "2025-08-16",
+   "title": "“Caught on camera: massive whirlpool pulls boats into the cu",
+   "views": 8984,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "T95s53IQn8A",
-   "ch": "카레왕자 임춘식",
-   "cid": "UCO-J2wBt2QE2tSA50OeOu9A",
-   "date": "2026-10-22",
-   "title": "할미 여행가서 삐진 고양이",
-   "views": 6686,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "gl1eF8__2U4",
+   "ch": "Aquá Enigmá",
+   "cid": "UC_OyE0o6I5bVUKKIMIZfiCg",
+   "date": "2025-12-05",
+   "title": "GIANT WHIRLPOOL, The Aerial Footage of Drone Accidentally Ca",
+   "views": 10090,
+   "desc": "A drone accidentally captured a large whirlpool in the sea on video.\n\nphenomenon occurs \nwhirlpool \naccidentally Caught on camera \ncaptured by drone\nocean \n\n#shorts #viralshorts #whirlpool #phenomenon #ocean"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "tJVDm98vDks",
+   "ch": "CNC Editz",
+   "cid": "UC6gHzQBx5pNyM1t4zc3MuUA",
+   "date": "2023-12-07",
+   "title": "The Biggest WhirlPool Caught On Camera #status #gaming #tren",
+   "views": 3182,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "PuCzHRFbla0",
-   "ch": "Nicksyafareno",
-   "cid": "UCTYMa1x0VC3srOn-Da36MKg",
-   "date": "2026-10-20",
-   "title": "NGAMBEK TERUS #shorts",
-   "views": 9153,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "KmO-Fhk_KyQ",
+   "ch": "Jaka Vlogs",
+   "cid": "UCJCmyc4tALCBgadGHWF3cMg",
+   "date": "2022-07-15",
+   "title": "Creepy Whirlpool Caught on Camera | Tago-Lapaz Bridge, Surig",
+   "views": 4069,
+   "desc": "Don't forget to subscribe and click the bell button for you to be notified every time I have a new video upload.\n----------------------------------------------------------------------------------------------------------\nFollow My Social Media links:\n\nFacebook: Jaka Emmanuel Lumanao\nInstagram: @jakae"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "teQ7BcfHRPk",
+   "ch": "jhu890",
+   "cid": "UCnnUGLHUyhzdpN3fsYcGowg",
+   "date": "2026-03-28",
+   "title": "Whirlpool Moments Caught on Camera#funny#shorts",
+   "views": 5249,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "lrPe6aj2YH8",
-   "ch": "𝑺𝑼𝑾𝑨𝑵𝑮𝑮𝒀 𝑭𝑰𝑺𝑯𝑰𝑵𝑮",
-   "cid": "UCZKPtLvJ3hVfztdkuLNxd6Q",
-   "date": "2026-11-08",
-   "title": "Kucing Abu Galau #shorts",
-   "views": 8456,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "9O6HnI5zOBo",
+   "ch": "Astro Gazer",
+   "cid": "UCmewDnTgjHHqDG1eYmEebSA",
+   "date": "2025-07-22",
+   "title": "I captured &quot;The Whirlpool Galaxy🌌&quot; #shorts",
+   "views": 4004,
    "desc": ""
   },
   {
-   "q": "cat sulking",
-   "vid": "jNv5BR0QisU",
-   "ch": "Risam Channel",
-   "cid": "UCgbBuJ1tqirnUa-ixXkzWQA",
-   "date": "2026-11-07",
-   "title": "ngambek sama mami",
-   "views": 7436,
-   "desc": ""
-  },
-  {
-   "q": "cat sulking",
-   "vid": "m5AZAMLA4t0",
-   "ch": "Minh Phú Vlog",
-   "cid": "UCCImhTGgoRdsB3l9l2V3Y2Q",
-   "date": "2026-11-07",
-   "title": "🤣 How to get the little one to stop sulking. #shorts #funny ",
-   "views": 6753,
-   "desc": "😜 How to get the little one to stop sulking. This video is purely for fun and entertainment. #shorts #funny #comedy  #youtubeshorts #pets #minhphuvlog #shortsvideo #funnyanimals #cat #kitten \n\n🐾 Welcome to Minh Phu Vlog! \nThe funniest battles, fails, and adorable moments between pets and their human"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "jFpCiYjbXQU",
-   "ch": "kyutmeaw",
-   "cid": "UCPh_EmKCNfNng9HGh8oMPzA",
-   "date": "2026-11-07",
-   "title": "Gembul bete dicuekin maminya 🤣😂🤣 #shorts #kucing #kucinglucu",
-   "views": 6366,
-   "desc": "Gembul bete dicuekin maminya 🤣😂🤣 #shorts #kucing #kucinglucu\n\n\nAll rights belong to the owner. No Copyright Infringement Intended.\n\nFor Fix or Removal Contact me: \nsembada94.shop@gmail.com\n\nCopyright Disclaimer: Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose s"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "tXwKM3YZQMg",
-   "ch": "Dona kristina",
-   "cid": "UCRvF_n79U5KyvOqXZghBU_A",
-   "date": "2026-10-25",
-   "title": "Arshi ngambek teman2 haha😹🤏🏻#viral #cat #imut #cute #pets #c",
-   "views": 6624,
-   "desc": ""
-  },
-  {
-   "q": "cat sulking",
-   "vid": "QFIoKzd_Q1Q",
-   "ch": "WonderBits-ky",
-   "cid": "UC3vkIoOW5HQolmaG-KpM9Fw",
-   "date": "2026-10-19",
-   "title": "Kucing Lagi Ngambek, Mukanya Bikin Ngakak! 😂",
-   "views": 5273,
-   "desc": "Lagi marah atau lagi pengen jadi pusat perhatian? 🤣🐱 Ekspresi kucing ini serius banget, tapi malah bikin semua orang ketawa! Siapa yang nggak ngakak lihat mukanya? 😹\n #KucingLucu #KucingNgakak #KucingNgambek #FunnyCats #CatShorts #Shorts"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "OcTAEf8uUuU",
-   "ch": "Neng Molen",
-   "cid": "UCVhAt-cTEGVrcpLmM2fhRQQ",
-   "date": "2026-10-29",
-   "title": "si mungil ngambekan #nengkucing #nengmolen",
-   "views": 5784,
-   "desc": ""
-  },
-  {
-   "q": "cat sulking",
-   "vid": "5Fjgva5bJz0",
-   "ch": "pradana eky",
-   "cid": "UCKyCQYiibhEFctQ_24F3-aA",
-   "date": "2026-10-28",
-   "title": "kucingnya ngambek || #funny #comedy #memecringe #cat",
-   "views": 6280,
-   "desc": ""
-  },
-  {
-   "q": "cat sulking",
-   "vid": "DvFydA06ML4",
-   "ch": "삐융이😼",
-   "cid": "UCiWZCebL5vRXa-U6SxLTdYw",
-   "date": "2026-10-28",
-   "title": "삐진 고양이 풀어주는 법 아는분 ㅠ",
-   "views": 4962,
-   "desc": "아메숏, 냥줍, 고양이, 시고르자브종, 야옹이, 개냥이, 고양이 asmr, 아기고양이, 이스탄불 고양이, 뚱뚱까스, 춘봉첨지, 캣타워, 캣타워 추천, 고양이 냥줍, 고양이 장난감, 고양이 훈육, 길냥이, 깜냥이, 뚱뚱까스 고양이, 물고기오이데, 삐용이, 고양이 간택, 고양이 부르는 소리, 까만고양이 특징, 까만고양이 성격, 고양이 골골송, 골골송 asmr, 고양이 꾹꾹이, 깜냥이 꾹꾹이, 고양이 애교, 고양이 숏츠, 웃긴 고양이, 샤갈 고양이, 집냥이, 반려묘, 고양이 일상, 고양이 쇼츠, 고양이밈, 냥집사, 고양이 리액션, 고양이"
-  },
-  {
-   "q": "cat sulking",
-   "vid": "gMo0gBHBgrw",
-   "ch": "DH Studio TV",
-   "cid": "UCNQtUqkBSgMUPEnOzGh2Keg",
-   "date": "2026-10-31",
-   "title": "Meong Ngambek‼️ValentinLoiseauAI",
-   "views": 4426,
-   "desc": ""
-  },
-  {
-   "q": "cat sulking",
-   "vid": "eXVqv5bVUpA",
-   "ch": "Kolantha Paiyan",
-   "cid": "UCOcW6Y0VmEVdRK-ncOo4YyQ",
-   "date": "2026-10-16",
-   "title": "😹😹😹ஆனா ஊன மூஞ்சிய  #cat #petshub #funny #comedyshorts",
-   "views": 4218,
-   "desc": ""
-  },
-  {
-   "q": "cat sulking",
-   "vid": "H9Uh30TqKLg",
-   "ch": "Edenia",
-   "cid": "UC-RPphBYgefzcJKDA58OXug",
-   "date": "2026-11-02",
-   "title": "The kitten is sulking.❤️😍",
-   "views": 5172,
-   "desc": ""
-  },
-  {
-   "q": "cat sulking",
-   "vid": "D8aCrIQ59kI",
-   "ch": "ILYN LUBIS",
-   "cid": "UC6-4JDmZYDOPOkgJDVKiBZg",
-   "date": "2026-10-18",
-   "title": "Ada yang ngambek",
-   "views": 3868,
-   "desc": ""
-  },
-  {
-   "q": "cat sulking",
-   "vid": "EJu_4Edjkac",
-   "ch": "realvideos-NO-AI",
-   "cid": "UCY0EK5_Q3BSA8zI4ssLU4Tg",
-   "date": "2026-10-17",
-   "title": "My Cat Jessica Sulking Cos Minnie Is On My Knee",
-   "views": 4203,
-   "desc": ""
-  },
-  {
-   "q": "cat sulking",
-   "vid": "QwcFWogPdnM",
-   "ch": "MASTER ARBI RAIS",
-   "cid": "UC67PdWAbC_swIz_WtmXT4gQ",
-   "date": "2026-11-08",
-   "title": "Kucing Ngambek Kelaparan! Ayah Langsung Panik Cari Makanan 😹",
-   "views": 3230,
-   "desc": "🎬 JUDUL YOUTUBE\n\nKucing Ngambek Kelaparan! Ayah Langsung Panik Cari Makanan 😹 #Shorts #KucingLucu\n\n🎥 SINOPSIS FILM\n\nSeekor kucing kesayangan tiba-tiba mengeong keras di depan mangkuk kosong karena kelaparan. Melihat tingkah si Pus yang semakin rewel, ibu langsung memanggil ayah dengan penuh kepanika"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "Ww7o-j3Nl2g",
-   "ch": "Xi Ranks",
-   "cid": "UC--k8mlbFZ7XBSlg6U98VOA",
-   "date": "2026-11-10",
-   "title": "Ranking BEST ANGRY KITTEN Core Moments!! 😾💢",
-   "views": 676563,
-   "desc": "Who knew something so tiny could have such a BIG attitude?  These little furballs may be small, but they've got tempers that could rival the biggest cats around! From tiny kittens throwing dramatic tantrums and hissing at everything to getting offended over the smallest things, picking fights with t"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "BL-iEfpeFkM",
-   "ch": "Tizzy",
-   "cid": "UC0X8n4QTJ4bzwcRG_vLOqxw",
-   "date": "2026-10-24",
-   "title": "Offended Kitten",
-   "views": 510334,
-   "desc": "This video shows a playful kitten biting someone's hand before looking deeply offended and letting out a long, dramatic meow when the person complains.\n\nTizzyUS\nAura\nFunny memes\n\n\n#tizzyus #memes​ #aura​ #funny​​ #funnymemes​​\n\n\n\n\n\n\n#demonslayeredits​​ #demonslayeredit​​ #demonslayeredits​​ #wis​​ #"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "5wCHjQNR_bE",
-   "ch": "Wunder der Erde Doku",
-   "cid": "UCm0jOWFm83rNC81WTJw0SWA",
-   "date": "2026-11-03",
-   "title": "💥🎈 Don&#39;t insult her farts! Lily&#39;s totally offended! ",
-   "views": 179583,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "xjMZklgh3UI",
-   "ch": "Everly Moments",
-   "cid": "UCvcrMv6oxa_p5AVhI91eIkQ",
-   "date": "2026-10-30",
-   "title": "Locked in and Offended. The Audacity is Real. 🙄😂 #shorts #ca",
-   "views": 45040,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "iQF28IRZWiE",
-   "ch": "KitzASC",
-   "cid": "UCTkCItGQf6GGTvL2LQ0fQdA",
-   "date": "2026-11-01",
-   "title": "The cat is already deeply offended 🐱💀",
-   "views": 29431,
-   "desc": "Watch someone poke and ragebait an already furious grumpy cat, instantly triggering maximum attitude and complaints. Funny angry cat moments and chaotic pet interactions.   \n\nragebating angry cat, grumpy cat meowing, funny cat attitude, annoyed pet moments.   \n\n#shorts #cats #funny #pets #grumpycat "
-  },
-  {
-   "q": "kitten offended",
-   "vid": "mODeG1nuF8w",
-   "ch": "Velcro Cat and Vibes",
-   "cid": "UCie5c4MH-agJZHVQ3kmMBFg",
-   "date": "2026-10-20",
-   "title": "Velcro Cat Offended #cats #velcrocat #catbath",
-   "views": 39097,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "iaPwauFmmlw",
-   "ch": "KittLives",
-   "cid": "UC4GLHl9DfG3IzZCdjKdd_wg",
-   "date": "2026-11-10",
-   "title": "Cat Got Offended",
-   "views": 25574,
-   "desc": "Cat Got Offended\n\n#cat #memes #funny #relatable #kitten #funny #memes #catmemes #viral #fyp #animals #shorts #cute #love #comedy \n\n\n\n\n\nDon't forget to SUBSCRIBE and LIKE     \nfor more paw-esome and relatable content! 💗🐾\nAnd comment down below to support me and boost me so i can bring more paw-esome "
-  },
-  {
-   "q": "kitten offended",
-   "vid": "G6tpMjER1_o",
-   "ch": "Cat Comedy Club",
-   "cid": "UCvjkd6T5GeYBYYEo5_Org6A",
-   "date": "2026-10-26",
-   "title": "MAMA CAT OFFENDED! 🚨 Round 2 Started! #Shorts#cat #ragdollpa",
-   "views": 15722,
-   "desc": "Don't test a mother's patience! 🚨 \nShe licked her baby for just two seconds before jumping back into battle! 🐾💥\n\n🎬 Watch the FULL 2-minute video on our channel!\n\n#Shorts #DevonRex #MamaCat #CatFight #CatDefendsKitten #CatComedyClub #デボンレックス #렉돌 #고양이"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "UmpmviIStHk",
-   "ch": "Noxie",
-   "cid": "UChVGyYHdkgQZsS28jUziOsA",
-   "date": "2026-10-17",
-   "title": "she just woke up and already looks offended 😂",
-   "views": 13076,
-   "desc": "#Noxie #BlackCat #ExoticShorthair #SleepyKitten #CuteKitten #CatMoments #KittenLife #CatLover #CatVideo #CuteCats"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "QdPbGXg84so",
-   "ch": "Meowaholic",
-   "cid": "UCJ4YFeShn76pgiPph-bs4Pg",
-   "date": "2026-10-16",
-   "title": "When your cat gets personally offended by its tail 💀#tailcha",
-   "views": 9259,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "P3kZ25JP4EA",
-   "ch": "Dream & Achieve",
-   "cid": "UCm79HJH3u6g__10jmNL7IpA",
-   "date": "2026-10-22",
-   "title": "Обиженный британский кот 🐈‍⬛ #cat #funnycats #cute #animals ",
-   "views": 4506,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "xlZLYgRchBA",
-   "ch": "Cat • Mars",
-   "cid": "UCUL_hExaYQvK7ILliGk4uJg",
-   "date": "2026-11-02",
-   "title": "Never Ignore a Cat. $100 Revenge 😼💵 #Cat #FunnyCats",
-   "views": 3975,
-   "desc": "I stopped playing with my kitten to answer a phone call. Mars took that personally. 😼📱\n\nOne minute we’re playing with his cat toy, jumping and chasing a string. The next, this offended little Devon Rex is planning his revenge… and suddenly I’m the one chasing HIS toy. 💵🐾\n\nNever ignore a cat. They re"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "TczSx_iaoMY",
-   "ch": "PetHub",
-   "cid": "UCqf9xmtQbev3WjSnvWnhSMw",
-   "date": "2026-10-30",
-   "title": "Not jealous… just offended #cats #catshorts #animalshorts",
-   "views": 3240,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "vXI3VLauoAk",
-   "ch": "Wiggle Kitty Daily",
-   "cid": "UC4tV4rTtVQQPb9BID9qP_HQ",
-   "date": "2026-10-22",
-   "title": "Kitten Pops Out of the Christmas Tree 🎄 #好きな子猫 #kitten #cute",
-   "views": 3650,
-   "desc": "A fluffy orange kitten attacks a treat tube, two babies get hand-fed in a teddy bear bed, a Christmas tree turns out to be hiding a very offended kitten, and the tiniest critics scream their reviews — ending with a full ruffle-collar fang finale. Eleven seconds of maximum tiny drama — new cute cat v"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "92JJeBJeSx0",
-   "ch": "Daisy_thedrowsycat",
-   "cid": "UCdIPcNOR6hLXaKEw9SCv6SQ",
-   "date": "2026-10-19",
-   "title": "I’m offended #lol#cat#cute",
-   "views": 2864,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "00hDHZNFdTE",
-   "ch": "Cat Type 🥰",
-   "cid": "UCNKqqBj_Q1zyUY2n0Ipm1ZQ",
-   "date": "2026-10-17",
-   "title": "Bro is being offended 🤣 #cat #funny #cute #pets #pupet #kitt",
-   "views": 2712,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "w4ua_xIKQHE",
-   "ch": "Eunny Khamuye ",
-   "cid": "UCLZqaKrmRqRv_kPJyke8FJw",
-   "date": "2026-10-30",
-   "title": "Who offended my baby?  #catsofyoutube #cats #fé #kota #catwa",
-   "views": 2596,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "6C_cENKljQo",
-   "ch": "Пушистый Бум",
-   "cid": "UCaLAMEG1XaNH0QFXklKpCsg",
-   "date": "2026-11-11",
-   "title": "Stay Away! I’m Offended! 😂",
-   "views": 1875,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "Nco6hrO1QEw",
-   "ch": "Rascal Catts",
-   "cid": "UC6e8KLDhwx_-PqMlatHjhaQ",
-   "date": "2026-10-27",
-   "title": "Offended! #cats #cat #viralshort #funny #silly #youtubeshort",
-   "views": 1385,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "DSGJn8hg7kI",
-   "ch": "Alessi-Family-Adventures ",
-   "cid": "UCIcMETUpWqLTva7pEg2ay6g",
-   "date": "2026-10-18",
-   "title": "Trooper checking out his new baby on his 1st day home. offen",
-   "views": 1025,
-   "desc": "October 9, 2026"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "782zBqHl7_4",
-   "ch": "Silken Purrs",
-   "cid": "UCedvb9QTWyfwBnoU79q5haQ",
-   "date": "2026-11-07",
-   "title": "Devon Rex vs Munchkin cat: which one gets more offended by a",
-   "views": 1560,
-   "desc": "Such a peaceful sleep! A small grey tabby kitten is curled up asleep on a beige leather surface, nestled perfectly within a pink, fluffy, heart-shaped pillow. The kitten's paws are tucked under its chin, showing complete relaxation. A nearby window lets in soft morning light, illuminating the dust m"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "IpZxSCzpoPw",
-   "ch": "Kinship of Claws",
-   "cid": "UC9JiDAaETGLA8ctXnPCs7aQ",
-   "date": "2026-10-31",
-   "title": "Munchkin cat vs Singapura kitten: which one gets more offend",
-   "views": 1048,
-   "desc": "Munchkin cat vs Singapura kitten: which one gets more offended by a sneeze? #1463"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "mIGFoT8cFGk",
-   "ch": "OUR CRAZY AND CUTE PETS",
-   "cid": "UCrMD88UdScSApxcfQoI42qQ",
-   "date": "2026-11-01",
-   "title": "КОШКА МУСЯ ОБИДЕЛАСЬ",
-   "views": 1115,
-   "desc": "#кошка #муся  #кошечка #кошки #коты #кот #котейки #котики #котприкол  #нашикоты #котофей #котяра  #домашниеживотные #милота #домашниепитомцы #безкотаижизньнета  #релакс  #кіт #кицька  #кошкиндом  #кошачийкайф #домашниеживотные #рыжийкот #дача #дачныеистории #дачныйвлог #жизньзагородом  #кошачьяжизнь"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "ETAysiD0qQU",
-   "ch": "AsaluMaza Bytes",
-   "cid": "UCbBlPJsyC4a4OqekWJkDISw",
-   "date": "2026-10-31",
-   "title": "Bro Is Personally Offended by This Box 💀🐱",
-   "views": 1165,
-   "desc": "Bro really woke up and chose violence against a cardboard box 😭😂🐱\n\nWhat did the box ever do to him? 💀\n\n#FunnyCat #Kitten #CatShorts #FunnyAnimals #Cats #Shorts"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "A0uoCpypHc4",
-   "ch": "Kinship of Claws",
-   "cid": "UC9JiDAaETGLA8ctXnPCs7aQ",
-   "date": "2026-10-22",
-   "title": "Siamese cat vs Wide-eyed kitten: which one gets more offende",
-   "views": 1187,
-   "desc": "Siamese cat vs Wide-eyed kitten: which one gets more offended by a sneeze? #2000"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "5DHo-GRvvEU",
-   "ch": "Princess Stinkbug",
-   "cid": "UCWbarZJuVDUG83K2QN7jWBA",
-   "date": "2026-10-17",
-   "title": "I offended My Cat and it went badly for me #catvideos #catsh",
-   "views": 1109,
-   "desc": "Beetiedubs got offended and sent me into The Voices of the Void game."
-  },
-  {
-   "q": "kitten offended",
-   "vid": "WNtaY33Guyo",
-   "ch": "Heartails",
-   "cid": "UCA3_DIhb2R0dmbwgcaH7AmQ",
-   "date": "2026-11-11",
-   "title": "This Cat Is Offended by Everything… And It&#39;s Hilarious 😂",
-   "views": 1232,
-   "desc": "This cat somehow manages to look offended by absolutely everything. 😂🐱 From the smallest interruption to everyday moments, his dramatic reactions make it impossible not to laugh.\n\nIf you love funny cat videos, hilarious cat reactions, quirky pet personalities, cute animal behavior, and entertaining "
-  },
-  {
-   "q": "kitten offended",
-   "vid": "VNaDCVeY_7o",
-   "ch": "Dog cat",
-   "cid": "UCwiVkuvsDrKv4UdxvyY2dQg",
-   "date": "2026-10-18",
-   "title": "When she got offended",
-   "views": 1221,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "quas1VV10YI",
-   "ch": "작은 세상 동물사전",
-   "cid": "UCVhx0J1v2uvy_u4_m5VxJKw",
-   "date": "2026-11-02",
-   "title": "Why Does This Persian Cat Look So Offended?",
-   "views": 978,
-   "desc": "A serious face can belong to a playful cat. Watch this Persian’s posture and actions instead of guessing its mood from its face.\n\n#PersianCat #Persian #Cats #CatBehavior #CatFacts #CatBreeds #FunnyCats #PlayfulCat #TailsRetold #Shorts"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "4x1Fdc-2hUc",
-   "ch": "TheCaseFam",
-   "cid": "UCeOK_MfjgO4RL1F68w5F0xQ",
-   "date": "2026-10-21",
-   "title": "He is OFFENDED!! 🐱😂 #funny #kitten #funnycats #fyp",
-   "views": 1332,
-   "desc": "Since Aria is new to reading and can't read cursive at all, she had no idea what the shirt said but it was too funny🤣"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "7d_l2OqWz2g",
-   "ch": "The Cat Lab",
-   "cid": "UCBQA08X7wwR-FOPE5ukVDPw",
-   "date": "2026-11-07",
-   "title": "Why Your Cat Shakes Their Paw Like It&#39;s Offended After T",
-   "views": 1226,
-   "desc": "#catbehavior  #catpsychology  #catfacts  #CatLovers #cattok  #catsoftiktok  #catshorts  #catbreeds  #catowner"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "HE_2Nsxkny8",
-   "ch": "me love cats",
-   "cid": "UCB8mqNuiJPpxzttCpYElwdA",
-   "date": "2026-11-07",
-   "title": "This Tuxedo Cat Looked Personally Offended",
-   "views": 1076,
-   "desc": "A tuxedo cat stares straight ahead, then the kittens take over with their own very serious expressions.\n\n#FunnyCats #CatShorts #CatVideos"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "GCbl6-ynTjw",
-   "ch": "Max",
-   "cid": "UCZsvGqIcsk9UFosCFJxWD0w",
-   "date": "2026-10-24",
-   "title": "She was offended that she had been to the doctor😻",
-   "views": 1210,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "zz6hIUrY3Xc",
-   "ch": "Cat News",
-   "cid": "UCWYLcSmHMTGhoEvhIE8JBpQ",
-   "date": "2026-10-22",
-   "title": "Freja looks a bit offended 🐈‍⬛ #cat #catvideos #cute #pretty",
-   "views": 1212,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "xjeypQG7plw",
-   "ch": "Kitcat",
-   "cid": "UClyp3Ae0l5xks_O_rWf9K_Q",
-   "date": "2026-11-13",
-   "title": "When Your Love Is Not Reciprocated!Happy Is Relaxed,Ginger I",
-   "views": 966,
-   "desc": "Meet Ginger and Happy, two adorable brothers sharing their cosy little shelter! 🐾❤️\n\nI absolutely adore these two, but apparently Ginger doesn’t feel the same way! 😂 The moment I point my camera towards him, he starts hissing and giving me those serious looks.\n\nMeanwhile, Happy is just being his swe"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "VqtEkyZRWUk",
-   "ch": "Nomo Biscuit 🐾",
-   "cid": "UCllggtXxLh59IF_uSTXL6rQ",
-   "date": "2026-10-23",
-   "title": "Mr. Nomo keeps getting offended every few seconds because I ",
-   "views": 696,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "Bv_7EWauXB0",
-   "ch": "DIY farm",
-   "cid": "UCR5zRwRxdjJnklQOpvrvJSQ",
-   "date": "2026-10-26",
-   "title": "Usik got offended at Gusha🩶🤍",
-   "views": 1164,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "19N1MH4-JK0",
-   "ch": "AANN  popular channel",
-   "cid": "UCy6dywfV5X_TEu_DfLaZCmQ",
-   "date": "2026-11-05",
-   "title": "My Cat Is So Offended! 😿😂#kitten #catstory",
-   "views": 996,
-   "desc": "Looks like my cat is upset today! 😹 It won't talk to me or even look at me. Do cats really get offended like this? 😂❤️ Watch until the end!"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "qe6e8lL2bxk",
-   "ch": "Cat Kingdom",
-   "cid": "UCJJ6YnISUQa-wtjyRKIDFag",
-   "date": "2026-10-17",
-   "title": "The kitty is offended at the man and is turning away from hi",
-   "views": 256,
-   "desc": "The little black cat took offense at the man."
-  },
-  {
-   "q": "kitten offended",
-   "vid": "5T_IuedoQDs",
-   "ch": "auroart.m",
-   "cid": "UCBZU-Tnw1x6vW6cUjeC1iBw",
-   "date": "2026-11-15",
-   "title": "Painting a Mildly Offended Kitten in Watercolor.🐱",
-   "views": 1029,
-   "desc": "Look at those eyes — this little guy looks mildly offended, doesn't he? And he only took 52 seconds.\n\nA watercolor kitten portrait on paper, painted in one take from start to finish.\nPencil sketch → base colors → fur and markings → the eyes → the whiskers. Everything you see is the actual painting b"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "1jfwboYsF8Q",
-   "ch": "Sniff and Shine",
-   "cid": "UCn6zZF44Xa05bk4qLnUtRhw",
-   "date": "2026-11-10",
-   "title": "My Cat&#39;s Toys Got Cheaper and She&#39;s Offended 😼",
-   "views": 194,
-   "desc": "Self-rolling ball $24.99 → $17.99. Windmill toy $19.99 → $14.99. She'll pretend not to care 😼 Buy any 2, save 10% → sniffandshine.com/yt #catsoftiktok #funnycats #cattoys #petdeals"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "oT6dHZJH8GM",
-   "ch": "Islaandthepiebaldcob ",
-   "cid": "UCekNGoMLIy9DJvLVtvYv9XA",
-   "date": "2026-10-16",
-   "title": "He was so offended it fell out his mouth 😂😂",
-   "views": 184,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "vZXsm5b2HDE",
-   "ch": "Critterly",
-   "cid": "UCE85RkAbpGvZSHxmahk5ZSQ",
-   "date": "2026-11-07",
-   "title": "He Stole the Food… Then Got Offended by the Questions 😂",
-   "views": 87,
-   "desc": "Ask about the stolen food, and suddenly the floor is fascinating. Point a little closer… and NOW he's got something to say. 🐱😂\n\nWatch the reaction when the finger gets near his cheek.\n\n#Shorts #FunnyCats #GuiltyCat"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "SRuDulCWILU",
-   "ch": "Whiskers and Wiggles",
-   "cid": "UCzRmQglaroHZq47sBQcZldw",
-   "date": "2026-11-06",
-   "title": "This Cat Got SO offended! 😂🐱 #kitten #cute #cat",
-   "views": 54,
-   "desc": "He was teasing his cat with food… but she was NOT having it! 😂🐱\n\nThat reaction says it all! 🤣❤️\n\n#Shorts #funnycats  #CatReaction #FunnyAnimals #CuteCats"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "fjNiw0gn7Co",
-   "ch": "Pawzunko",
-   "cid": "UCRH_R3TvTUqvQO4_5n553Jw",
-   "date": "2026-10-31",
-   "title": "This Kitten Kissed Its Owner Back 😭❤️ #shorts",
-   "views": 31,
-   "desc": "Kitten kisses, offended faces, and a very dramatic “NO!” 😹❤️ These cats have so much personality!\n\nWho deserves #1 — the kissing kitten or the dramatic cat? Comment your winner below 👇🏆\n\n❤️ Like if the kitten kiss melted your heart!\nSubscribe to Pawzunko for more cute and funny animal moments 🐾\n\n\n#S"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "8BsifXqFn4s",
-   "ch": "Kittyellaoferban",
-   "cid": "UCzYexGviz6SckCDsnw1Ucpg",
-   "date": "2026-10-29",
-   "title": "Look at her tounge she looks SO OFFENDED",
-   "views": 34,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "t3vBJxF7EWQ",
-   "ch": "Ranked Pups",
-   "cid": "UCkWypl5CBljqaVs3Bnx0Sqw",
-   "date": "2026-10-23",
-   "title": "Ranking The Most Offended Cats 🙀 #shorts",
-   "views": 15,
-   "desc": "Which cat is the most offended? Drop your #1 in the comments 👇\nNew pet rankings every day. Subscribe for more.\n\nOriginal clips on TikTok by fish32673, minniesmyheart, babyda1syy, rkgains and george_the_cat16. Owners can request credit changes or removal at rankedpups@gmail.com.\n\n#cats #offendedcat #"
-  },
-  {
-   "q": "kitten offended",
-   "vid": "yEbPR_gj9KU",
-   "ch": "Short Music.",
-   "cid": "UCX_-tiSrjpjfsn0Ldd6A6Mg",
-   "date": "2026-11-03",
-   "title": "it&#39;s so cute to be offended #music #shorts #cat #kitten",
-   "views": 10,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "Qb1H1T0ODAA",
-   "ch": "y0url0c4LKAT",
-   "cid": "UCBs1LF7-wvCy2mDrCcgx_0Q",
-   "date": "2026-10-30",
-   "title": "He looks so offended 😔✌️#shorts ￼",
-   "views": 22,
-   "desc": ""
-  },
-  {
-   "q": "kitten offended",
-   "vid": "jGh5XYGPyB4",
-   "ch": " kitty ",
-   "cid": "UCwJY_rYeClBoWCFxp8vzOyw",
-   "date": "2026-10-16",
-   "title": "She was offended",
-   "views": 5,
-   "desc": "The kitten was hurt"
-  },
-  {
-   "q": "husky offended",
-   "vid": "pkUoHmpB52I",
-   "ch": "Funny Pets Official ",
-   "cid": "UCKiI2lgwZlQcW0Bo9JvfHdA",
-   "date": "2026-11-06",
-   "title": "Huskies Acting Like They&#39;ve Been Personally OFFENDED! 😂🤣",
-   "views": 88733,
-   "desc": "Huskies Acting Like They've Been Personally OFFENDED! 😂🤣\n\n#SiberianHusky #FunnyHuskyVideos #DramaQueenDogs #HilariousDogs #DogLovers"
-  },
-  {
-   "q": "husky offended",
-   "vid": "IVdGsh4Z43A",
-   "ch": "Critter Charts",
-   "cid": "UC82OC33rrHfXlSG5W_K51Eg",
-   "date": "2026-11-13",
-   "title": "Ranking the Most Offended Husky Meltdowns — #1 got me 💀",
-   "views": 5314,
-   "desc": "Which one deserves #1? Tell us in the comments 👇\n\nClips (all credit to the creators):\n#1 Husky Rant: @tikanni.kita.n.tehya (TikTok)\n#2 Italian Accent: @topgamingclips66 (TikTok)\n#3 Bedtime Riot: @konathehusky (TikTok)\n#4 Bath Drama: @imbluethesiberiann (TikTok)\n#5 Hello!: @plutothehuskyyy (TikTok)\n#"
-  },
-  {
-   "q": "corgi sulking",
-   "vid": "HSgWgMgZpR0",
-   "ch": "Ms.Chicochibear",
-   "cid": "UCoJc2ugrq7mOLw0o2KVyOeg",
-   "date": "2026-10-20",
-   "title": "Pretty Pomeranian boy sulking",
-   "views": 1285,
-   "desc": "Whenever we get home from work or running errands Toby would greet us by doing Zoomies because he was definitely happy to see us. However, when we get home a little later than usual or when Toby was not happy about something, he would let us know by not engaging with us. He would stare at us for a w"
-  },
-  {
-   "q": "corgi sulking",
-   "vid": "-H6RMUfMFUA",
-   "ch": "Tom Ka",
-   "cid": "UCheHCrUy2YdgeUeButWPk4w",
-   "date": "2026-11-04",
-   "title": "Corgi is sulking haha #shorts #corgi #comedydogs #sulking",
-   "views": 685,
-   "desc": ""
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "adJ1QgXhN6s",
-   "ch": "Dr Knowledge 32",
-   "cid": "UCxINGKjkKy1n4HDFT78XySA",
-   "date": "2026-10-16",
-   "title": "If your dog refuses to sleep in your room don&#39;t close th",
-   "views": 1423467,
-   "desc": ""
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "8-7zb_PW7tE",
-   "ch": "RoRants",
-   "cid": "UCWj4cD-iQzQp77Tg1Kfm1Fg",
-   "date": "2026-10-26",
-   "title": "When Your Dog Refuses To Sleep In Your Bed 😱",
-   "views": 107272,
-   "desc": "I'll never look at my dog the same again"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "2Wj3vcX2K3I",
-   "ch": "Farzi_ST",
-   "cid": "UC0WPRqUwvczoNCkHILHPm3g",
-   "date": "2026-10-16",
-   "title": "Dog refuses to leave owner’s grave. #animals #shorts",
-   "views": 42103,
-   "desc": "Dog refuses to leave owner’s grave. \n\nPrimary Source: Canine Loyalty Stories & Animal Bonding Research\n\nAfter losing his beloved owner, this heartbroken dog dug a small hole right beside the grave just to remain as close to him as possible. Even after death, he steadfastly refused to leave the perso"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "3aregigrzb8",
-   "ch": "Md.julhok Alom",
-   "cid": "UCK9Wndv9BlUJBwfDVy_U9NQ",
-   "date": "2026-11-13",
-   "title": "🐕 Why This Dog Refuses To Leave The CarHi",
-   "views": 17818,
-   "desc": "Ever wonder what goes through your dog's mind after a fun afternoon adventure? In this heartwarming moment, a golden canine makes it crystal clear that the car ride was far too short. Despite being safely back home, this stubborn pup decides that staying put in the backseat is much better than headi"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "Q9JatebTZcg",
-   "ch": "GyanBox ",
-   "cid": "UCEfI7gCHo_9ehY02psl21Gg",
-   "date": "2026-11-13",
-   "title": "🐕 Dog Refuses To Leave The Car After A Joyride",
-   "views": 18061,
-   "desc": "Ever wonder what happens when the car ride ends and the dog is just not ready to go inside? This heartwarming moment captures the classic struggle between a pet who wants to keep exploring and a human trying to finish the day. Our golden canine companion sits firmly in the backseat, offering the mos"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "EB1Z3uvY2wk",
-   "ch": "Ai12",
-   "cid": "UCrqw3Io_k-vV0kWTu-zZH1Q",
-   "date": "2026-11-13",
-   "title": "🚗 Dog Refuses To Leave The Car After A Ride",
-   "views": 13225,
-   "desc": "Ever wonder what goes through a dog's mind when the ride of a lifetime comes to an end? In this charming video, a sweet golden-colored canine makes it very clear that the car trip is not over just because the engine has stopped. Despite a friendly invitation to head inside and call it a day, this st"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "a9rSOA8v0PM",
-   "ch": "jkb Tamim",
-   "cid": "UCOrVj4b2p02sfRwuBPCRWOg",
-   "date": "2026-11-12",
-   "title": "🚗 Reluctant Dog Refuses To Leave The Car",
-   "views": 12140,
-   "desc": "Have you ever tried to convince a stubborn dog to get out of the car after a long ride? In this heartwarming and humorous clip, a golden dog makes it crystal clear that the adventure is not over yet, despite being parked right at home.\n\nWatch as this adorable canine gives its owner the most expressi"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "4962voSMLqA",
-   "ch": "Daily Recap",
-   "cid": "UCJHYwIScynY2LZHU4XiEQyA",
-   "date": "2026-11-11",
-   "title": "🐕 Why This Dog Refuses To Get Out Of The Car",
-   "views": 9804,
-   "desc": "Ever wonder what goes through your dog's mind when the car ride ends? This golden-coated pup captures the universal feeling of disappointment perfectly when he realizes it is time to head back inside.\n\nIn this short clip, you can see the hilarious, stubborn defiance of a dog who clearly isn't ready "
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "NK27EHMSf6c",
-   "ch": "Hashaam king",
-   "cid": "UC_XVRXvIO4E1cWnBnpXkE0A",
-   "date": "2026-11-10",
-   "title": "🐕 Stubborn Dog Refuses To Leave The Car",
-   "views": 9024,
-   "desc": "Have you ever tried to convince a stubborn dog that the car ride is finally over? In this heartwarming and humorous clip, we find a beautiful golden dog sitting firmly in the back seat, completely refusing to get out even though his owner has arrived back home. Despite being told that the ride is fi"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "VDAGVN0OnRw",
-   "ch": "Chinelo chibugo Judith.",
-   "cid": "UCIp8a86aZSGI7RKUy8J2cXg",
-   "date": "2026-11-10",
-   "title": "🚗 This Stubborn Dog Refuses to Leave the Car😊.#youtubeshorts",
-   "views": 6777,
-   "desc": "Have you ever tried to convince a dog to get out of the car after a fun drive, only to be met with complete stubbornness? In this heartwarming moment, watch as a golden-furred companion hilariously refuses to budge from the backseat, even after being told they are finally home. \n\nDespite the gentle "
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "kVmd_OjWMe8",
-   "ch": "#Ai",
-   "cid": "UC_a8D-bzjBvg_EaSzt5qx4w",
-   "date": "2026-11-12",
-   "title": "🐕 Stubborn Dog Refuses To Leave The Car",
-   "views": 6899,
-   "desc": "Ever wonder what happens when the car ride ends but your dog isn't ready to go home? Watch this adorable golden retriever stage a silent, stubborn protest against leaving the back seat.\n\nDespite his owner's gentle coaxing and reminders that he was the one who asked for the drive, this pup decides th"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "nGhNSHiPmvU",
-   "ch": "AI mizz",
-   "cid": "UCADDNoHL9RIyPhl4B1Tywiw",
-   "date": "2026-11-09",
-   "title": "🐕 This Dog Refuses To Leave The Car",
-   "views": 6642,
-   "desc": "Ever wonder what goes through a dog's mind when the ride is over but they are not ready to go home? Watch this adorable golden retriever give the ultimate masterclass in stubbornness after being told it is time to head inside.\n\nDespite being encouraged by its owner to get out of the car, this pup de"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "iQJcSkK_EZ4",
-   "ch": "zeesho",
-   "cid": "UCd8U01z5s3TCAo0RtRDM-MQ",
-   "date": "2026-11-12",
-   "title": "🐕 Dog Refuses To Get Out Of The Car After A Ride",
-   "views": 7553,
-   "desc": "Ever wonder what happens when the car ride ends and the fun is over? This adorable golden-furred companion is not ready to call it a day, showing us the classic stubborn look every dog owner knows all too well. Despite being back home and safe in the driveway, our furry friend is staging a silent pr"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "v2HnbVRLdn4",
-   "ch": "Joan BOSS ",
-   "cid": "UC_YFQjwlRz0mqrrwBVJrDew",
-   "date": "2026-11-14",
-   "title": "🐕 Stubborn Dog Refuses To Leave The Car",
-   "views": 6522,
-   "desc": "Watch this hilarious standoff as a golden retriever decides that the car ride is definitely not over yet. Despite his owner's gentle encouragement and the invitation to head home, this pup makes it clear that he would much rather stay exactly where he is.\n\nFrom the expressive head tilts to the drama"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "XQH5E9cpN3Y",
-   "ch": "Rose Priyanka",
-   "cid": "UCJeMs9aGrQT-8jrvInPqv1Q",
-   "date": "2026-11-11",
-   "title": "🐕 This Dog Refuses To Leave The Car",
-   "views": 4293,
-   "desc": "After a fun afternoon adventure, this stubborn pup has decided that the car ride is definitely not over. Watch as this adorable golden dog gives a masterclass in refusal, staring down his owner with a look that says he is staying exactly where he is. \n\nDespite being told that they are home and it is"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "XVIDcsMZq88",
-   "ch": "Mynameisdr",
-   "cid": "UCEZ2a-I7BO2IOfN4hNRRieA",
-   "date": "2026-11-10",
-   "title": "🐕 Why This Dog Refuses To Get Out Of The Car",
-   "views": 3285,
-   "desc": "Ever wonder if your pet has a mind of its own? In this heartwarming clip, a stubborn golden-furred companion makes it very clear that the car ride is not over until he says so. Despite his owner encouraging him to head inside after returning home, this adorable pup remains firmly planted in the back"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "lslYVUWPx08",
-   "ch": "Vhhvvkk",
-   "cid": "UCKkzrceWNuqrESG5EfvoPqA",
-   "date": "2026-11-12",
-   "title": "🐕 This Dog Refuses To Leave The Car",
-   "views": 4577,
-   "desc": "Ever wonder what goes through a dog's mind when the ride is over but they are not ready to go home? In this relatable moment, a stubborn golden canine decides that the back seat of the car is much better than heading inside, regardless of how much coaxing its owner provides. Despite the gentle encou"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "ImrxFErlr9Y",
-   "ch": "HN HIMEL ",
-   "cid": "UCaswf4_qraCa1acujF6lASg",
-   "date": "2026-11-11",
-   "title": "🐕 This Dog Refuses To Leave The Car",
-   "views": 3531,
-   "desc": "Ever wonder what goes through a dog's mind when the ride is over but they are not ready to go home? Our golden retriever buddy makes it perfectly clear that he is not finished with his adventure today. Despite being parked and back in his own driveway, he remains firmly planted in the backseat, offe"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "E1-YdMPBlzk",
-   "ch": "Worth the Why",
-   "cid": "UCj2lXFEDW9VxVUVpNVsHQIQ",
-   "date": "2026-11-08",
-   "title": "Why this dog refuses to leave the door 🥺 #dog #loyal #heartw",
-   "views": 1621,
-   "desc": "Every day at 5 o'clock, Biscuit the dog waits by the door for his owner. See how one loyal pet handles a long winter delay.\n\nWalter returns home every evening, but one cold winter night, he is held up. Biscuit continues to wait patiently by the door, showing the deep bond between a dog and his owner"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "gpMbbfeeCf8",
-   "ch": "Mayarisa~Moyukh",
-   "cid": "UCcNQ9vViT7fmF414W0OaFGQ",
-   "date": "2026-11-12",
-   "title": "One Stubborn Dog Refuses To Leave The Car#viralvideo #reels ",
-   "views": 2337,
-   "desc": "Have you ever tried to convince a dog to get out of the car when they clearly decided the ride is not over? In this relatable moment, a golden-furred companion makes it very clear that they have no intention of leaving their cozy spot in the back seat, even after arriving home.\n\nWatch the sweet, stu"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "5Xi1KEsz6rI",
-   "ch": "Derek and Suzanne featuring Chester ",
-   "cid": "UCBSsjvfarqmxS3RR972eqDA",
-   "date": "2026-10-22",
-   "title": "When Your Dog Refuses To Move: A Talking Dachshund",
-   "views": 2102,
-   "desc": "Ever feel like your pet is running the show? Witness the ultimate standoff on a desert trail as Chester, a stubborn and vocal dachshund, decides he’s done with his owner's leash-pulling.\n\nMost owners expect a walk to be relaxing, but for this duo, it’s a full-blown negotiation. Chester isn't afraid "
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "z9Mkw6v9jg4",
-   "ch": "Patel Dk",
-   "cid": "UCEmew2jWyR_XkdZSnnyqnBQ",
-   "date": "2026-11-08",
-   "title": "My Dog Won&#39;t Enter the Room Anymore. Last Night I Found ",
-   "views": 1358,
-   "desc": "My dog stares at one room and growls. I finally looked inside. A scary dog horror story with a twist you won't see coming. One story. 60 seconds. One twist you won't see coming. Follow Patel Dk for a new animated horror story every day at 9am PT.\n#horror #horrorstory #scary #dog #scarystories #horro"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "x8spj_Q0cSE",
-   "ch": "Bác Sĩ Trung Thú Y",
-   "cid": "UC1WDRRAXQ_UnmUb3wnzVbgg",
-   "date": "2026-11-10",
-   "title": "Chó bỏ bát chưa chắc đã kén ăn, kiểm tra 2 điều này trước | ",
-   "views": 2850,
-   "desc": "Trước khi kết luận bé kén ăn, hãy phân biệt do hành vi hay do sức khỏe. Bé không được chăm sóc răng, cao răng dày lên gây viêm lợi, răng lung lay, nhai khó nên chỉ nhặt đồ mềm, bỏ lại đồ cứng: nhìn y như kén ăn. Hãy thường xuyên kiểm tra răng của bé.\n\nBé ít vận động, cả ngày chỉ ở trong nhà thì khôn"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "D61uJWitO8M",
-   "ch": "the Iggy side of life",
-   "cid": "UCk8HTMSUI6WHho6Vc3Uk8Hw",
-   "date": "2026-11-10",
-   "title": "The quest to find a treat my Iggy won&#39;t eat pt.  2",
-   "views": 1327,
-   "desc": "Welcome to 'The Quest for a Treat Finja Refuses'! My Italian Greyhound, Finja, is famously food-obsessed, so I'm on a mission to find a single dog treat she won't eat. I have a feeling this is going to be an expensive series. Do you have a food-obsessed dog too? \nNot sponsored | bought the treats wi"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "wod5j7Dh88c",
-   "ch": "kashifbalochkhan ",
-   "cid": "UCt9IrwNEqep0XFQqoj7_wdg",
-   "date": "2026-11-14",
-   "title": "🐕 Why This Dog Refuses To Leave The Car kashifbalochkhan",
-   "views": 2109,
-   "desc": "Ever wonder what goes through a dog's mind after a long ride? In this charming video, a golden pup makes it crystal clear that the adventure is not over yet, even though they have arrived back home.\n\nDespite his owner's encouraging words and gentle reminders that it is time to go inside, this stubbo"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "OLTyeNdDVFk",
-   "ch": "Mr nirmal",
-   "cid": "UCNfy7BxHXXlJe50-fmIIVsg",
-   "date": "2026-11-10",
-   "title": "🚗 This Stubborn Dog Refuses to Get Out of the Car",
-   "views": 1867,
-   "desc": "Ever wonder what happens when a dog decides that the ride isn't over yet? In this adorable moment, one golden-furred companion makes it very clear that they have no intention of leaving the backseat, despite arriving safely at home. Watch as the pup offers a series of priceless, stubborn expressions"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "CPunB0jxr2M",
-   "ch": "Ineanacho Oluchi",
-   "cid": "UCjKVtUG4EUhk-HToMPmA-UQ",
-   "date": "2026-11-10",
-   "title": "🚗 This Stubborn Dog Refuses to End the Car Ride #puppy #funn",
-   "views": 1335,
-   "desc": "Ever wonder what happens when the car ride ends but your pup is not quite ready to call it a day? This adorable golden canine makes its feelings clear by firmly planting itself in the backseat of the car. Despite gentle encouragement to come inside after their adventure, this stubborn friend has dec"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "f52WvzqWeeo",
-   "ch": "Favorite Friends",
-   "cid": "UCj7ndEgJDaBMxiB6sz-eIyw",
-   "date": "2026-11-13",
-   "title": "Guilty Dog Refuses to Look Mom in the Eye! 🐶🙈 Caught Red-Han",
-   "views": 1155,
-   "desc": "He knows exactly what he did! That guilty side-eye says everything without a single bark. 🛋️😂\n\n#shorts #guiltydog #dogcaught #funnyanimals #petfails"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "rbyCoyik9cQ",
-   "ch": "Cerita Fiktif Bang Dev",
-   "cid": "UCh06K1sgeToJUPFZ6wu1gGA",
-   "date": "2026-10-16",
-   "title": "Anjing yang Menolak Melihat Cermin!!!",
-   "views": 1132,
-   "desc": "\"Cerita horror fiksi tentang hewan misterius, kejadian aneh, dan makhluk yang tidak seharusnya kamu temui. Jangan percaya semua yang terlihat...\"\n\n#horror  #horrorstories  #aianimals  #aihorror  #shorts"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "4ifBkJuOFY0",
-   "ch": "Miracle Ochuko",
-   "cid": "UCOPZlLA4M1Py94yIKAhyvJg",
-   "date": "2026-11-12",
-   "title": "🐕 Stubborn Dog Refuses To Leave The Car",
-   "views": 1356,
-   "desc": "After a fun afternoon adventure, this adorable golden pup has decided that the car ride is definitely not over. Despite being home and having the door wide open, this stubborn companion gives the most expressive look of pure disbelief when told it is time to go inside.\n\nIt is truly hilarious to watc"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "x6jChi5bEF8",
-   "ch": "Md Tasin",
-   "cid": "UCMOPRduZCtBtUPzOSFNmvPA",
-   "date": "2026-11-10",
-   "title": "🐕 Dog Refuses To Leave The Car After A Joyride",
-   "views": 1365,
-   "desc": "Ever wonder what pure stubbornness looks like from a dog? After a fun day out, this golden pup decides that the car ride was far too good to end just yet. Despite his owner's gentle coaxing and promises that they are finally home, this furry companion has absolutely no intention of moving from the b"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "Nekuz9Zt2D0",
-   "ch": "Ada in New Zealand ",
-   "cid": "UCEkjFFghncWcQeKLQjyCk8Q",
-   "date": "2026-11-11",
-   "title": "🐕 Why This Dog Refuses To Get Out Of The Car",
-   "views": 1295,
-   "desc": "Ever wonder what goes through your dog's mind when the ride comes to an end? Watch this hilariously stubborn pup decide that the car is the only place it wants to be, despite arriving safely back home.\n\nIn this charming moment, we catch a golden-furred companion giving its best look of protest. Afte"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "J3IFJUjvPlk",
-   "ch": "ogadinma hope",
-   "cid": "UCbgdAhhD4wOos9X3OGn4m0g",
-   "date": "2026-11-12",
-   "title": "🐕 My Dog Refuses To Leave Without A New iPhone #shorts   #ta",
-   "views": 1303,
-   "desc": "Imagine heading to the local tech store only to find your dog staging a full-blown protest for the latest smartphone. This hilarious standoff captures the moment Shaky the dog decides he is tired of being treated like a pet and demands to be treated like family, specifically demanding a brand-new iP"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "ILtyaTonGmY",
-   "ch": "Shakil Khan",
-   "cid": "UCwaOtvANWLh0BHfflBZS3EQ",
-   "date": "2026-11-13",
-   "title": "🐕 Stubborn Dog Refuses To Leave The Car",
-   "views": 1265,
-   "desc": "Have you ever tried to convince a dog to do something they clearly have no intention of doing? In this heartwarming and humorous clip, a golden-furred companion makes it very clear that the car ride is not over yet, despite being home. Watch as his human tries to coax him inside with gentle encourag"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "zv2WsvoPg9I",
-   "ch": "African Village Life Vibes",
-   "cid": "UCtcO7Ha8S_EJj4VZuUR3CKg",
-   "date": "2026-10-28",
-   "title": "😱🐕 OUR VILLAGE DOG REFUSES TO GO HOME… BUT WHY? 😂🌿🏡🇰🇪",
-   "views": 968,
-   "desc": "😂🐕 Look at this! Our village dog just refuses to go home! 😱🏡\n\nWhen playtime is too good, even going home is a problem! 😂🌿🇰🇪\n\nLife in our Kenyan village is full of funny moments! 😂🐕 Our playful dog has refused to go home and just wants to keep enjoying the village life. 🌿🏡❤️ Watch until the end and t"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "wvfHr2yTegk",
-   "ch": "Chandrakala Deekonda",
-   "cid": "UCVZtFnTCIelShOQeNLMN4vQ",
-   "date": "2026-11-12",
-   "title": "🚗 This Stubborn Dog Refuses to Leave the Car",
-   "views": 1207,
-   "desc": "Have you ever tried to convince a dog that the car ride is officially over? Watch as this adorable pup puts on a masterclass in stubbornness, refusing to budge even after arriving home. Despite clear instructions and a gentle invitation to head inside, this golden friend makes it perfectly clear tha"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "M0iCMHf-qa4",
-   "ch": "Saleh Karim",
-   "cid": "UCov7_LWrJ1jwV4ZCTMLROgQ",
-   "date": "2026-11-14",
-   "title": "🐕 Stubborn Dog Refuses To Leave The Car",
-   "views": 1524,
-   "desc": "Ever wonder what happens when the car ride ends but your pup is not quite ready to call it a day? Join us for this heartwarming and relatable moment as a golden retriever mix makes it very clear that he is in no hurry to head back inside the house. Despite his owner's encouraging words, this adorabl"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "KsFTRDlbiEQ",
-   "ch": "Noakhali TV 24",
-   "cid": "UC9ABCe3hRrsenfw25kGIrdw",
-   "date": "2026-11-14",
-   "title": "🐕 Why This Dog Refuses To Leave The Car",
-   "views": 340,
-   "desc": "Ever wonder what goes through your dog's mind when the ride is finally over? This golden retriever makes it perfectly clear that he is not quite ready to head inside just yet.\n\nIn this charming video, a persistent pup sits firmly in the back seat, giving his owner a masterclass in stubbornness. Desp"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "goVQ4wJf1qo",
-   "ch": "I Am FuGui",
-   "cid": "UCaw1CbtXVVRmUgFjyeHqi6Q",
-   "date": "2026-11-13",
-   "title": "My Dog Refuses Food If I’ve Taken Even One Bite 😂 #pets #fun",
-   "views": 218,
-   "desc": "🐶✨ Hello, fellow pet lovers! Welcome to the \"I Am FuGui\" pet channel! 🥳 This is the exclusive happy planet of FuGui, our adorable Alaskan Malamute! Every frame is incredibly heartwarming, guaranteed to make you smile.\n\n💪✅ All videos are authorized by creators in mainland China and strictly adhere to"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "XZfa5tevDvU",
-   "ch": "Jhane Rose Atilano",
-   "cid": "UCNfjOyxr0NhLn9pvXgAbuXw",
-   "date": "2026-11-12",
-   "title": "🐕 Stubborn Dog Refuses To Get Out Of The Car",
-   "views": 210,
-   "desc": "Ever wonder what happens when the car ride ends but your pup isn't quite ready to go inside? Watch this hilariously stubborn golden-colored dog express his opinion when his owner tells him it is time to head home. Despite being reminded that he was the one who wanted to go for a ride in the first pl"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "tCZIkTpQG1g",
-   "ch": "Don't Panic",
-   "cid": "UCwkF4tWCSbKb-c9l8d61q1w",
-   "date": "2026-10-20",
-   "title": "If Your Dog Refuses to Sleep in Your Bedroom, Leave the Door",
-   "views": 34,
-   "desc": "🐕 If your dog suddenly refuses to sleep in your bedroom, leave the door open. It's not avoiding you — it's standing guard.\n\nEvery night, your dog sleeps at the foot of your bed. But tonight, it stops at the doorway... and refuses to come in.\n\nIf this happens, follow these 3 rules:\n\nRULE 1: Do NOT fo"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "cvM1mb5EfF0",
-   "ch": "Tiger Nature",
-   "cid": "UCefIH4S0BAt-RTnMrz7M4jA",
-   "date": "2026-11-14",
-   "title": "🐕 This Dog Refuses To Get Out Of The Car #shorts #foryou",
-   "views": 1258,
-   "desc": "Ever wonder what a canine protest looks like? Our golden retriever decided that the car ride was far from over, despite the fact that we were already back home and safe in the driveway.\n\nWatch the hilarious moment as he locks eyes with the camera, tilting his head with pure stubbornness while his ow"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "zJV1py1si2A",
-   "ch": "Ram Dayal Mahara",
-   "cid": "UCCU9KGHPvLLNWUV28x5HSDg",
-   "date": "2026-11-14",
-   "title": "🐕 Why This Dog Refuses To Get Out Of The Car #funnypuppy #pu",
+   "q": "whirlpool in stream caught on camera",
+   "vid": "DyeHCDYDagM",
+   "ch": "Mr. Cool",
+   "cid": "UC-xhaVuSIGn3BjvmSNoXVdA",
+   "date": "2021-08-19",
+   "title": "Devil&#39;s Hole Whirlpool Canada | Natural Phenomenon Caugh",
+   "views": 2462,
+   "desc": "Devil's Hole at Dent Island in Canada | Whirlpool in Canada! \n\nNatural Phenomenon Caught on camera | Most Beautiful Natural Phenomenon! \n\n#naturalphenomenon #natural #earth #shorts"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "Oe4Md2hRWn8",
+   "ch": "SeaGuard",
+   "cid": "UC42ldzcI6n33X1_ADuCJ7XA",
+   "date": "2025-08-01",
+   "title": "Strange Whirlpool Appears Near Boat 🌪️🌊 | Ocean Mystery Caug",
+   "views": 2714,
+   "desc": "A mysterious whirlpool formed just meters from a small boat...\nNo storm, no warning — just the sea doing what it does best: surprise us.\nWatch closely — this could’ve ended in disaster.\n⚠️ Always respect the ocean.\n🎥 Lifeguard reacts to rare ocean events & safety tips.\n👉 Subscribe for more.\n#oceanmy"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "-O81SdQH3jg",
+   "ch": "CM WORLD OFFICIAL",
+   "cid": "UCtIlCfCbJwbnZW40OOaicMw",
+   "date": "2021-01-31",
+   "title": "Whirlpool in ocean phenomena 2021 | whirlpool in ocean caugh",
+   "views": 1367,
+   "desc": "Whirlpool in ocean phenomena 2021 | whirlpool in ocean caught on camera | Cm World Official #shorts #phenomena #Whirlpool\n\n\nhye guys i hope you well. Now we are creating a youtube channel only for you. Why we choose our channel name is CM WORLD OFFICIAL. Because this is an educational, motivational,"
+  },
+  {
+   "q": "whirlpool in stream caught on camera",
+   "vid": "CZa0sCrHKdY",
+   "ch": "Aleksanderbigby",
+   "cid": "UCaI2vrGiDax8pzEapmpM8LQ",
+   "date": "2024-06-07",
+   "title": "Real life whirlpools caught on camera! #whirlpool",
    "views": 1208,
-   "desc": "Ever wonder what goes through your dog's head when they decide they simply aren't ready for a car ride to end? In this heartwarming and humorous moment, a golden canine makes a firm stand against heading back inside after a day out. Despite gentle encouragement from his owner, this stubborn pup rema"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "VeNWstaWMNY",
-   "ch": "PAW IQ",
-   "cid": "UCu87Z5R8atP3KvE0hTMiH7Q",
-   "date": "2026-11-10",
-   "title": "🐕 Why This Dog Refuses To Get Out Of The Car #fyp #dogsofyou",
-   "views": 23,
-   "desc": "Ever wonder what goes through your dog's head when they decide they simply are not ready to go home? In this relatable moment, our golden retriever sits patiently in the backseat, completely unimpressed by the suggestion that it is time to head inside. Despite the open car door and the gentle invita"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "Lofc07WmuXo",
-   "ch": "PAW IQ",
-   "cid": "UCu87Z5R8atP3KvE0hTMiH7Q",
-   "date": "2026-11-14",
-   "title": "🐕 Why This Dog Refuses To Leave The Car #1000subscriber #dog",
-   "views": 10,
-   "desc": "After a fun afternoon adventure, one very stubborn golden dog has decided that the car ride is definitely not over yet. Watch as his owner tries to coax him back into the house, only to be met with the most hilarious, judgmental head tilts and a look of pure refusal.\n\nIt is clear that this pup was n"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "PEGq8UOJt-g",
-   "ch": "AI Dominate ",
-   "cid": "UCnIVwj7tWBzhnSE4w50TNsg",
-   "date": "2026-11-11",
-   "title": "🐕 Dog Refuses To Leave The Car After A Joyride #dreamscreena",
-   "views": 17,
-   "desc": "Ever seen a dog so reluctant to end a fun car ride? This stubborn pup has made his decision, and he is not ready to head back inside just yet.\n\nIn this heartwarming and relatable clip, a golden-furred companion shows off his best protest face when his owner tells him they have finally arrived home. "
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "HAclPdqiv5c",
-   "ch": "my bestie ",
-   "cid": "UCCDGC1ZSivK6m5nGjRjZORg",
-   "date": "2026-11-13",
-   "title": "🐕 This Dog Refuses To Leave The Car",
-   "views": 7,
-   "desc": "Have you ever seen a dog so comfortable that they refuse to budge from the backseat? In this heartwarming video, we capture a hilarious moment with a golden retriever who is clearly not ready for the car ride to end.\n\nEven after arriving home and being invited to come inside, this stubborn pup decid"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "le_9hKHC5fA",
-   "ch": "ridoy md",
-   "cid": "UCEhdPbcyix8_Mt-1ATgsSIA",
-   "date": "2026-11-13",
-   "title": "🐕 Dog Refuses To Get Out Of The Car After A Ride",
-   "views": 3,
-   "desc": "Ever wonder what happens when the car ride ends but the passenger is not ready to go home? Watch as this stubborn golden dog makes it clear that the adventure is not over yet, despite being parked safely in the driveway.\n\nIn this lighthearted moment, a man tries to coax his canine companion out of t"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "5gI_kEphlVg",
-   "ch": "Catoon",
-   "cid": "UCwsl0o6ZBRw-ShDWlyuhyqQ",
-   "date": "2026-11-13",
-   "title": "🐕 Stubborn Dog Refuses To Leave The Car",
-   "views": 4,
-   "desc": "Have you ever tried to convince a golden-furred friend that the ride is officially over? In this heartwarming moment, we catch a very reluctant passenger who has decided that the back seat is exactly where they belong, despite being home.\n\nWatch as this lovable canine gives the camera a look of pure"
-  },
-  {
-   "q": "dog refuses to look at owner",
-   "vid": "OZwJhn1CWZE",
-   "ch": "NRKC Cartoon Hub",
-   "cid": "UC7TspqNC7LDakGcgBlZvSxw",
-   "date": "2026-11-15",
-   "title": "🐕 Stubborn Dog Refuses To Leave The Car #shorts #doglove #tr",
-   "views": 295,
-   "desc": "Have you ever tried to convince a stubborn dog that the car ride is officially over? Our golden retriever is not ready to go inside just yet and is putting up a hilarious protest right from the backseat.\n\nDespite being back in the driveway, this pup is absolutely determined to stay put. Watch as he "
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "Xymw0curawc",
-   "ch": "Wablo",
-   "cid": "UCXwHTTvZxWXmoiXsitx8iog",
-   "date": "2026-10-20",
-   "title": "My Dog BETRAYED Me and helped Verity eat my Cat",
-   "views": 3695040,
-   "desc": "Pablo got jealous because I called Mylo the best pet so he helped Verity eat Mylo 😭\n#verity #veritymod #verityminecraft #thatmob #nukeclips\n#lookout3d #lookout #nukeclips #minecraftmimicer #mimicermod #mimicer #minecraft #minecraftscary #minecrafthorrormods #horrorgaming #horrorstory #horror #horror"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "5Uj017A80As",
-   "ch": "TIAN's cat world 猫大黄全球吸猫",
-   "cid": "UCrUesTA_K1KDkymNPcOSQbQ",
-   "date": "2026-10-29",
-   "title": "More jealous than your boyfriend  #cat #turkey #cute #funny",
-   "views": 1798371,
    "desc": ""
   },
   {
-   "q": "cat jealous owner",
-   "vid": "Na8Pb4wzIjg",
-   "ch": "Nichi Ranks",
-   "cid": "UC3mER2akPCpdcp4dfquWRXQ",
-   "date": "2026-11-11",
-   "title": "Ranking Best Over Possessive Cats🐈😈",
-   "views": 980571,
-   "desc": "Ranking Best Over Possessive Cats\n\nThese cats doesn't want to share their favorite hoomans! From getting jealous when their owners give attention to other pets to sniffing other cats scents, these possessive cats will make you laugh. Get ready to rank the funniest over possessive cat moments on the "
+   "q": "whirlpool in stream caught on camera",
+   "vid": "p7tVPwiTq2A",
+   "ch": "Life Struggle ",
+   "cid": "UC__xKdxUiDL7Yo68YkhpZOg",
+   "date": "2026-08-14",
+   "title": "🌪️ Real Water Whirlpool Caught on Camera!",
+   "views": 2202,
+   "desc": "A real water whirlpool formed in my field while water was flowing. The spinning vortex looks unbelievable and satisfying to watch. Nature always creates amazing scenes that surprise us. Watch till the end and tell me in the comments if you have ever seen a whirlpool like this before!\n#Shorts #WaterW"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "vYOT4kIwhow",
-   "ch": "Altare",
-   "cid": "UCcNS0xgMUdwIuNEkS2vM9mw",
-   "date": "2026-10-17",
-   "title": "Doja Cat - Jealous Type [Altare Remix]",
-   "views": 195729,
-   "desc": "Doja Cat - Jealous Type [Altare Remix]\nhttps://soundcloud.com/altare2/dojarmx\n\nKeep up with releases here:\nhttps://instagram.com/altaremusic\nhttps://soundcloud.com/altaremusic\nhttps://linktr.ee/altaremusic\n\nSpotify: https://open.spotify.com/artist/3W3dTmUEXbo2D9CQzNTSaI?si=T-UcsY_2T9CP8-OdR7KsgA\n\nLe"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "Pn0L02NVX8c",
+   "ch": "EdgeKeeper AI",
+   "cid": "UCb0RMTJnkV_dlISiPJHfZQw",
+   "date": "2025-06-08",
+   "title": "🌊 “CRUISE SHIP vs WHIRLPOOL 😱 | Nature&#39;s Wrath Caught on",
+   "views": 2947,
+   "desc": "A once-in-a-lifetime cruise turns into sheer chaos 😨\nAs the sea opens beneath, a monstrous whirlpool forms, pulling the giant ship toward the abyss! 🌪️\nWitness the power of nature like never before!\nWould YOU survive this disaster? 🌊💥\n\n🎧 Best with sound ON!\n📌 Watch till the end – it gets WILD!\n\n🌀 Di"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "6mQGB-N7gkQ",
-   "ch": "Epic Replay",
-   "cid": "UCzBo5WfQHMkRd89nkE7oUlQ",
-   "date": "2026-10-20",
-   "title": "When Your Cat Gets TOO Jealous 😂😾",
-   "views": 269449,
-   "desc": "Did you know: Cats can form strong bonds with their owners and may show jealousy-like behavior when they feel their bond or attention is being threatened. They might squeeze between you and another pet, demand attention, or suddenly act extra clingy. Every cat has a different personality, and someti"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "CkPafYsGo0w",
+   "ch": "When Nature Strikes",
+   "cid": "UCv_rjitzOds0iBCjiMSzrgw",
+   "date": "2023-08-30",
+   "title": "Biggest Whirlpool In The World Caught On Camera",
+   "views": 816,
+   "desc": "\"Biggest Whirlpool In The World Caught On Camera\" \n\noffers a mesmerizing glimpse into the astonishing natural phenomenon of a colossal whirlpool in action. Witness the sheer power and mesmerizing swirls as water converges and forms this massive vortex. This rare spectacle showcases the remarkable fo"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "gK_qxAeX_5E",
-   "ch": "CrazyRank7",
-   "cid": "UCCXONNFL8cLGSOppKntLYsQ",
-   "date": "2026-11-14",
-   "title": "Cats Get Jealous of Your Girlfriend 💀😂",
-   "views": 235764,
-   "desc": "Cats don't like sharing their owners with anyone! 😂🐱 The moment your girlfriend gets attention, these jealous little furballs make sure she's not the only one! 💀❤️"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "S8RPv7qnFIo",
+   "ch": "MYSTERIOUS Earth 0.2",
+   "cid": "UCvJ2mbNbMzYzH0ZsBj3JHQg",
+   "date": "2025-03-13",
+   "title": "WORLD&#39;S LARGEST Whirlpool Caught on Camera",
+   "views": 725,
+   "desc": "Witness the awe-inspiring power of nature in this incredible footage of the world's largest whirlpool caught on camera! This mesmerizing phenomenon is a sight to behold, with swirling waters creating a massive vortex that will leave you on the edge of your seat. From the sheer scale to the hypnotic "
   },
   {
-   "q": "cat jealous owner",
-   "vid": "Ls7HtbJBi2I",
-   "ch": "TT Paws",
-   "cid": "UC4VxcEyBc9TGrxd6BUz7d1w",
-   "date": "2026-10-22",
-   "title": "This Jealous Cat Thinks Her Human Belongs to Her 🐱",
-   "views": 228061,
-   "desc": "Lilith was just a tiny stray kitten when she was rescued from a thorny bush before a storm. Three years later, this cute cat has become the loudest, clingiest, and most jealous member of the family! 🐱\n\nThis kitten rescue story took an unexpected turn when Lilith became completely attached to Tony. W"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "RwBb1fAII4w",
-   "ch": "So Adorable",
-   "cid": "UCpTjYeN5RVJJ9ug6Y8j0bnw",
-   "date": "2026-11-04",
-   "title": "Jealous makes the cat loves apple 😂 #cat",
-   "views": 296930,
+   "q": "whirlpool in stream caught on camera",
+   "vid": "n_yQfdN4Dgs",
+   "ch": "VICKsOnGame",
+   "cid": "UCwgLrlwhgM12r1ocYt73BBA",
+   "date": "2025-10-18",
+   "title": "Strange Things Caught On Camera! The Whirlpool #truecrimecom",
+   "views": 994,
    "desc": ""
   },
   {
-   "q": "cat jealous owner",
-   "vid": "f4F-hZeEYzw",
-   "ch": "Epic Replay",
-   "cid": "UCzBo5WfQHMkRd89nkE7oUlQ",
-   "date": "2026-11-04",
-   "title": "Jealous Cats Being Jealous 😭💀",
-   "views": 151627,
-   "desc": "Did you know: Cats often choose to sit on or sleep beside people they feel safe around. Your body warmth, familiar scent, and calm presence can make you their favorite resting spot. So if your husband has become a human cat bed, he might as well accept his new role! 😹🐾💕"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "cVN5OuhZxBY",
+   "ch": "Combat Bytes TV",
+   "cid": "UC4yHuJLdnbRMOhnJEsk7tBw",
+   "date": "2025-09-04",
+   "title": "The CHILLING FINAL MOMENTS of a Boat in BIGGEST WHIRLPOOL🚨#s",
+   "views": 1659,
+   "desc": "he CHILLING FINAL MOMENTS of a Boat in BIGGEST WHIRLPOOL🚨#shorts.  The Most Dangerous Situations Ever Captured On Camera.  The CHILLING FINAL MOMENTS of a Boat in Whirlpool🚨#shorts.  The CHILLING FINAL MOMENTS of a Boat in Whirlpool.  A terrifying encounter with a deadly whirlpool captures the final"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "CXH9PT52a18",
-   "ch": "Meowix",
-   "cid": "UC6GWdZF90cmwTQryphFJQrw",
-   "date": "2026-11-08",
-   "title": "MEOW SHORTS : When GF See You Helping Stange Girl 😭💀🐱.",
-   "views": 118911,
-   "desc": "When your girlfriend is so jealous that you can't even talk to another girl without getting in trouble 😭💀\n\nPOV: Dating the most jealous girlfriend ever! 😂\n\nIf you have a jealous girlfriend, you already know the struggle! 🐱❤️\n\nSubscribe for more funny cat memes, relatable couple moments, jealous girl"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "j5ZMOg8kyxw",
+   "ch": "Natural Disaster",
+   "cid": "UCw-rKdcnhQ6i443i2QIuItQ",
+   "date": "2025-05-22",
+   "title": "WHIRLPOOL TERROR: Ocean Sucks Beach Into Vortex! (Caught on ",
+   "views": 1187,
+   "desc": "WHIRLPOOL BREAK! Ocean Sucks the Beach In – Terrifying Collapse Caught on Camera\n\nPanic erupts as a massive whirlpool forms just offshore, reversing the tide and dragging everything into a swirling abyss. Beachgoers scream and scatter as umbrellas, lifeguard towers, and even people vanish into the o"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "QNouOYaydKU",
-   "ch": "🐱 Cat Spark",
-   "cid": "UC_5pCPDH3Vb5vLL0Btj188w",
-   "date": "2026-11-13",
-   "title": "قطتك ممكن تغير منك بسبب القطة الجديدة! 😹🐱#shorts",
-   "views": 100954,
-   "desc": "هل قطتك تتقبل وجود قطة جديدة في المنزل بسهولة؟ أم ستعتبرها منافسًا لها؟ 😹❤️\n\nشاهد كيف يمكن أن تتصرف قطتك عند دخول قطة جديدة إلى عالمها!\n\n#قطط  #حقائق_عن_القطط #سلوك_القطط #AnimalSpark #Cats #Shorts"
+   "q": "whirlpool in stream caught on camera",
+   "vid": "lDLL6yL_ewc",
+   "ch": "Natural Disaster",
+   "cid": "UCw-rKdcnhQ6i443i2QIuItQ",
+   "date": "2025-08-16",
+   "title": "Boat Swallowed by a Deadly Whirlpool – Terrifying Moment Cau",
+   "views": 1172,
+   "desc": "The Swallowed Boat: A Deadly Whirlpool Devours Everything\n\nA serene river cruise quickly turns into a nightmare when the boat is caught by an unstoppable whirlpool. Watch as the boat struggles against the fierce pull of the vortex, tilting and creaking under immense pressure. Passengers are thrown i"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "ZDX6wD_gIyI",
-   "ch": "Kunxeditz ",
-   "cid": "UC9fH1JBe1tdRwd6edNJBm2Q",
-   "date": "2026-11-10",
-   "title": "Jealous cats😂💀",
-   "views": 95927,
-   "desc": ""
+   "q": "whirlpool in stream caught on camera",
+   "vid": "I_uk9FrVI74",
+   "ch": "Natural Disaster",
+   "cid": "UCw-rKdcnhQ6i443i2QIuItQ",
+   "date": "2025-04-30",
+   "title": "Trapped in a MASSIVE Whirlpool! 😱 (Caught on Camera) #danger",
+   "views": 582,
+   "desc": "Nature’s Fury: Swimmers Battle the Edge of a Real-Life Vortex!\n\n**\"Witness the raw power of nature as two swimmers get dangerously close to a MASSIVE whirlpool! The swirling vortex sucks water into the abyss, creating an intense and surreal scene. While some bystanders seem unfazed, these swimmers f"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "KjNyNM5B-pg",
-   "ch": "فرون",
-   "cid": "UCBOIZwlN9ZCavjoDb9znFJQ",
-   "date": "2026-11-08",
-   "title": "قطة غارت من طفل… فانظر ماذا فعل صاحبها 🍼🐱",
-   "views": 108833,
-   "desc": "رأت هذه القطة صاحبها يُطعم طفلًا صغيرًا بالزجاجة، فشعرت بالغيرة وطلبت زجاجة مثلها 🥹\nنظرت إليه بعينين لطيفتين، فلم يستطع أن يرفض!\nومنذ ذلك اليوم، كلما شرب الطفل حليبه، تجلس بجانبه وتشرب حليبها 💙\nحتى إنه صنع لها سريرًا صغيرًا لتستمتع بوقتها.\nهل كنتَ ستقول لها لا؟ اكتب لنا في التعليقات 👇\n\n#قطط #قطة #قط"
+   "q": "쌀과자 소용돌이",
+   "vid": "Xlv4V-sMc1k",
+   "ch": "숏파일럿",
+   "cid": "UCuuH7h0FO69y7UUbv_ljx-g",
+   "date": "2026-09-11",
+   "title": "쌀과자가 소용돌이를 만나면 생기는 일",
+   "views": 10556662,
+   "desc": "물에 둥둥 뜨는 쌀과자가 소용돌이를 만나는 순간 어떻게 될까요?\n\n\n\n\n#소용돌이 #블랙홀 #유체역학 #실험"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "Ftc_m6jwB1I",
-   "ch": "Pets Meme",
-   "cid": "UCEivYijX45t3bbuje84H4UA",
-   "date": "2026-11-12",
-   "title": "When she feels jealous 😂 #Cat #Dog #shorts #memes #funny #co",
-   "views": 94647,
-   "desc": "Talking to another girl? Bro, you just unlocked your girlfriend’s ANGER MODE! 💀😂 One innocent conversation and suddenly you’re the biggest criminal in the relationship! 🐱❤️\n\nWhen your GF gets jealous, even your explanations won’t save you! 🤣\n\nWatch till the end for the funniest reaction!\n\n🔥 Subscrib"
+   "q": "쌀과자 소용돌이",
+   "vid": "UDX57_YlZAQ",
+   "ch": "발견했음",
+   "cid": "UCYzinhD0Pk_oG1C_KEtin0w",
+   "date": "2026-09-14",
+   "title": "소용돌이에 넣어봤더니 도대체 어디로?",
+   "views": 27103,
+   "desc": "소용돌이 위에 쌀과자를 띄워보자\n중심을 따라 빙글빙글 돌다가 결국 물속으로 사라집니다.\n\n이번에는 실에 묶은 사람 모형을 가까이 가져가 보는데,\n순식간에 아래로 끌려 들어가 버립니다.\n\n실에 묶여 있으니 다시 건져 올리면 될 것 같았지만\n막상 끌어올려 보니 예상과는 다른 모습.\n\n도대체 어디로 사라진 걸까요?\n\n※ 영상 속 장면을 바탕으로 새롭게 구성·각색한 콘텐츠입니다."
   },
   {
-   "q": "cat jealous owner",
-   "vid": "pKHxP3r2RA8",
-   "ch": "Sp-Explain",
-   "cid": "UCmPZVjatwNKJAK-4YRFnqiw",
-   "date": "2026-10-17",
-   "title": "He brought home another cat to make her jealous 😭😏",
-   "views": 94037,
-   "desc": ""
+   "q": "쌀과자 소용돌이",
+   "vid": "5tn7ykXdlqQ",
+   "ch": "픽미픽미",
+   "cid": "UCWTzHoLj-3PRk-kKle2ymeg",
+   "date": "2026-09-21",
+   "title": "물 위에 뜨던 쌀과자가 소용돌이에서 회전하는 과정 #process #water #vortex #experim",
+   "views": 8803,
+   "desc": "## 1. 실험 개요\n물 위에 놓인 쌀과자가 소용돌이 주변으로 이동하고 회전합니다. 수면에 뜨는 물체라도 주변 물이 흐르면 위치와 자세가 함께 달라질 수 있습니다.\n\n## 2. 실험 요소\n- 쌀과자: 물의 흐름에 따라 이동하는 가벼운 물체입니다.\n- 물: 과자를 떠 있게 하는 부력을 제공하면서, 흐름을 통해 과자의 움직임에도 영향을 줍니다.\n- 회전 흐름: 소용돌이 주변에서 과자의 이동 방향과 회전을 바꾸는 요소입니다.\n\n## 3. 진행 과정\n1. 쌀과자가 수면 위에 놓입니다.\n2. 물의 흐름을 따라 소용돌이 주변으로 이동합니다.\n"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "tAUZGOWALGg",
-   "ch": "Glim",
-   "cid": "UC9EgcTfqA6X_6a2zPG83RjQ",
-   "date": "2026-10-16",
-   "title": "Doja Cat - Jealous Type (Lyrics)",
-   "views": 47549,
-   "desc": "Doja Cat - Jealous Type\nGet:\n\nLyrics:\n\n[Chorus]\nBoy, let me know if this is careless, I\nCould be torn between two roads that I just can't decide\nWhich one is leading me to hell or paradise?\nBaby, I can’t hurt you, sure, but I'm the jealous type\nI'm the jealous type\n\n[Verse 1]\nHe loves me\nBut he can’"
+   "q": "쌀과자 소용돌이",
+   "vid": "XpsOgHGsttQ",
+   "ch": "1분마음가능대로",
+   "cid": "UC1_a7cavYm5HRj4q6wmEG7A",
+   "date": "2026-10-08",
+   "title": "소용돌이에 쌀과자를 던지면 끝까지 눈을 못 떼는 이유",
+   "views": 6619,
+   "desc": "작은 소용돌이에 던진 쌀과자가 수면에서 회전하다가 물속으로 사라지는 과정을 담았습니다. 처음에는 멀쩡하게 떠 있던 과자가 중심 부근으로 이동하면서 회전하는 위치와 각도가 달라집니다. 마지막에는 과자가 물속으로 끌려 내려가는 모습과 함께 소용돌이의 흐름을 설명합니다. 배수 소용돌이에서는 물이 안쪽으로 모이며 아래로 흐르고, 안쪽으로 이동하는 물의 회전이 빨라질 수 있습니다. 과자의 움직임은 이런 물의 흐름을 따라 끌려가는 모습으로 해석할 수 있지만, 화면만으로 물속 설비의 구체적인 구조까지 확인할 수는 없습니다. 신기한 결과에만 주목"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "MA7EY-B7vow",
-   "ch": "WhiteGlass",
-   "cid": "UCWime0uPQR8kToba4Cnzkdg",
-   "date": "2026-11-10",
-   "title": "Gata com ciúmes do bebê ganha mamadeira! 🍼🐱 #shorts",
-   "views": 91744,
-   "desc": "Neste vídeo emocionante e cheio de fofura, uma gatinha demonstra muito ciúmes ao ver seu dono alimentando o bebê da casa e decide que também quer sua mamadeira. Com um jeito irresistível e pidão, ela conquista o dono, que acaba cedendo. Desde então, sempre que o bebê toma leite, a gatinha ganha uma "
+   "q": "쌀과자 소용돌이",
+   "vid": "5yLhrJFyCZQ",
+   "ch": "애니숏",
+   "cid": "UCKbbsOEvzexEAVPuj22X2Wg",
+   "date": "2026-10-01",
+   "title": "쌀과자 그냥 떠 있는 줄 알았는데… 갑자기 쏙",
+   "views": 1673,
+   "desc": "빙빙 돌기만 하던 쌀과자가 갑자기 쏙 사라집니다 😳\n\n이렇게 물이 회전하는 흐름을 소용돌이, 즉 ‘와류’라고 합니다.\n\n계곡에서 소용돌이나 급류가 보이면 가까이 가지 마세요.\n떠내려간 슬리퍼도 잡으러 따라 들어가지 마세요.\n물건보다 사람이 먼저입니다.\n\n#소용돌이 #쌀과자 #물놀이안전 #신기한현상 #Shorts"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "FqnmlfK9zYQ",
-   "ch": "The Meow Sensei Official ",
-   "cid": "UCq8BXb1AsYYHtO2wyE2kaQA",
-   "date": "2026-11-11",
-   "title": "CAT MEMES | POV: When Your Daughter Gets Jealous of Mom 😂 #c",
-   "views": 63842,
-   "desc": "CAT MEMES | POV: When Your Daughter Gets Jealous of Mom 😂 #comedy #catmemes #funny"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "hEkkuhWIeRw",
-   "ch": "Curiosidade 67",
-   "cid": "UCF-AcQ3Okb9RzVZ2m1ASfug",
-   "date": "2026-11-06",
-   "title": "MAX FICOU COM CIUMES DA PANTUFA ! 🐱❤️",
-   "views": 82536,
-   "desc": "#animaisfofos #cachorros #gatos \n.\n.\n.\n.\nCaso você seja o detentor dos direitos de algum conteúdo utilizado neste vídeo e deseje solicitar sua remoção, entre em contato conosco pelo e-mail: meuchannel111@gmail.com.\n\n\nDisclaimer: Nenhum animal foi ferido durante a produção deste vídeo."
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "l72s8c8VIyA",
-   "ch": "Nugget Mode ",
-   "cid": "UCWBbHSllTJqM5DHhlWVr5Ug",
-   "date": "2026-10-17",
-   "title": "Toddler Fed The Plush Cat… Real Cat Got Jealous! 🧸🥣😹 #Shorts",
-   "views": 82430,
-   "desc": "She took that personally! 😹 Watch what happens when this cute toddler puts a bib on a stuffed plush cat and pretends to spoon-feed it. The real ginger cat marches up, inspects the imposter, angrily swats the food bowl away, and gives the coldest stare while the baby completely loses it laughing!   A"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "gg5bFKgrkzY",
-   "ch": "Wild & Silly",
-   "cid": "UCfWETeo6BJMfQreX6Gg3Jzg",
-   "date": "2026-10-22",
-   "title": "My cat got jealous when I cared for the sick kitten #cat #ca",
-   "views": 43121,
-   "desc": "Little kitten Minnie is feeling sick. I was busy looking after her. Sophia got upset and thought I didn’t love her anymore. I comforted Sophia and gave her yummy food. She was happy again and even wanted Minnie to share the treat too!"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "uZkiBxgwFRo",
-   "ch": "ZoomieZoo",
-   "cid": "UC3_xRizCbGCZDv6rH6yOdHw",
-   "date": "2026-10-22",
-   "title": "Jealous Cat Copies the Baby&#39;s Bath! 🐱🛁#animals  #funny #",
-   "views": 37235,
-   "desc": ""
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "gZZAxegBj2o",
-   "ch": "Sanjay Rathore",
-   "cid": "UC4PWEBTWMS4d7XOp_mwbQcA",
-   "date": "2026-10-24",
-   "title": "When Kitty became jealous of her mistress #viralshort #youtu",
-   "views": 36591,
-   "desc": ""
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "w2IrMuS-HpM",
-   "ch": "SoftCats",
-   "cid": "UC9DXszcesEyVOgi4Vn3MZaw",
-   "date": "2026-11-05",
-   "title": "Ranking FUNNIEST JEALOUS CAT Core! 😾💚",
-   "views": 37159,
-   "desc": "These cats refuse to share their favorite humans with anyone. One little bit of attention to someone else, and suddenly the drama begins! 😂\n\nFun fact: Cats can form strong social bonds with their humans and may seek attention when another person or pet gets close.\n\njealous cat moments\npossessive cat"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "AG2ryiP0Hr0",
-   "ch": "InfiniShortz",
-   "cid": "UCbT22nJE1gvu65pwzRf3n8g",
-   "date": "2026-10-17",
-   "title": "Jealous Cats 💀👀🤩 #shorts #cat",
-   "views": 34159,
-   "desc": "Jealous Cats 💀👀🤩 #shorts #cat"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "YZsonw9ha5g",
-   "ch": "A I K A ",
-   "cid": "UC73rXvqd4USLpT9oxhn7DaA",
-   "date": "2026-11-13",
-   "title": "Not him getting jealous😭#miraculousladybug #saludamemarinett",
-   "views": 30156,
-   "desc": "Not him getting jealous.😭\n\n♡ 𝐡𝐚𝐬𝐡𝐭𝐚𝐠 ♡\n#miraculousladybug #saludamemarinette #miraculous #marinetteyadrien #miraculousladybug #miraculous #ladybug #ladynoir #adrienagreste #marinette #chatnoir #marinettedupaincheng #marichat #catnoir #adrien #mlb #adrinette #adrienette #ladrien #miraculousseason #mi"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "ZfJ3yoCJ2GQ",
-   "ch": "The World of Cats",
-   "cid": "UCCJd3vy4OPW7rVnCSynM77g",
-   "date": "2026-10-19",
-   "title": "This JEALOUS Cat Wants ALL The Attention And SLAPS Its Rival",
-   "views": 25398,
-   "desc": "Even the smallest support can make a big difference! 🐾\nBy supporting me, you help feed and care for street cats every day:\n​☕ Buy Me a Coffee: https://buymeacoffee.com/theworldofcats\n🧡 Patreon: https://patreon.com/user?u=84196621\n​Every view, like, and comment helps me continue caring for these ador"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "cMhQstXKJgg",
-   "ch": "FD_Pets",
-   "cid": "UCVnTiUNLgDZ4LQVvyoiIjng",
-   "date": "2026-11-13",
-   "title": "Mere billo ki property dekh jealous hue bache #cat#minivlog ",
-   "views": 33187,
-   "desc": ""
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "HUrmGHJvopA",
-   "ch": "Siren Club",
-   "cid": "UCKN2aeZHb5aV3GnEYBf_Xgg",
+   "q": "쌀과자 소용돌이",
+   "vid": "5YEQqWomoHQ",
+   "ch": "제토리",
+   "cid": "UCAUOdbkouHEeAcx8_fFO2Zg",
    "date": "2026-10-25",
-   "title": "I keep rescuing stray kittens… and my cat is getting jealous",
-   "views": 31810,
-   "desc": "I give my cat a whole big plate of cat food. She is overjoyed. I’ve rescued many poor stray kittens lately and brought them home. She enjoys sweet milk and delicious food and is glad she no longer goes hungry. But then she gets upset and asks how many more kittens I will adopt. Right after that, I s"
+   "title": "소용돌이에 쌀과자를 던지면 생기는 일 #shorts",
+   "views": 1704,
+   "desc": "계곡 바위 틈의 수상한 소용돌이에 쌀과자를 던져 봤습니다. 가라앉지 않고 버티던 과자가 중심으로 끌려가더니 미친 속도로 돌기 시작합니다. 그리고 마지막에 나타난 것은?\n\n음악: Hans Zimmer - Interstellar Main Theme\n\n#소용돌이 #쌀과자 #계곡 #shorts"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "4zSMj61-MFg",
-   "ch": "Alfi Vibe ",
-   "cid": "UCfToTGKE-3BcbRKH0M35nrA",
-   "date": "2026-10-20",
-   "title": "Jealous cat. Is your cat jealous too?Subscribe and support! ",
-   "views": 36894,
-   "desc": "Jealous cat. Is your cat jealous too?Subscribe and support! #cats #funnycats #catlover #kitten"
+   "q": "쌀과자 소용돌이",
+   "vid": "E2AOWuZwaqI",
+   "ch": "개드리퍼 GAEDRIPPPER",
+   "cid": "UCP_sQQpfTSrwD9strjlod6w",
+   "date": "2026-09-13",
+   "title": "소용돌이에 던져진 쌀과자의 최후 #SHORTS",
+   "views": 101,
+   "desc": "무한 개드립 NO.753"
   },
   {
-   "q": "cat jealous owner",
-   "vid": "gza7_rozX9o",
-   "ch": "BroBuffer",
-   "cid": "UCYR9sqnjPZhTLB6w15vg4Hw",
-   "date": "2026-10-21",
-   "title": "Ranking BEST JEALOUS CAT Moments! 😾😂",
-   "views": 30133,
-   "desc": "These cats refuse to share their humans… or their snacks 😭🐱 Which one deserves the #1 spot?\n\n#Cats #FunnyCats #Shorts"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "0g39kI-Won8",
-   "ch": "Facty Badmosh ",
-   "cid": "UC6IhsdUSQ1AVgcXWibLj2iw",
-   "date": "2026-10-18",
-   "title": "This Jealous Cat Couldn’t Handle Dad Feeding The Baby! 😹🍼",
-   "views": 28951,
-   "desc": ""
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "VVNn1GiKSJE",
-   "ch": "Green Entertainment ",
-   "cid": "UCuDWvsw5fPT9cgPQfOuFTuw",
-   "date": "2026-10-31",
-   "title": "My cat Nika is very jealous #shorts #shortvideo #trendingsho",
-   "views": 34313,
-   "desc": "When your pet cat just cannot stand sharing your attention with anything else! 😾😂 Meet Nika—the star of today's video and arguably the most jealous cat on the planet! Watch how Nika reacts and gets furiously cute when things don't go her way. You definitely don't want to miss this hilarious drama!\nM"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "IUv1ZwrEf98",
-   "ch": "Alfi Vibe ",
-   "cid": "UCfToTGKE-3BcbRKH0M35nrA",
-   "date": "2026-10-23",
-   "title": "A jealous cat. Is yours the same? Follow and support! #cat #",
-   "views": 32932,
-   "desc": "A jealous cat. Is yours the same? Follow and support! #cat #cats #america"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "kEMq6ru9qC0",
-   "ch": "Alfi Vibe ",
-   "cid": "UCfToTGKE-3BcbRKH0M35nrA",
+   "q": "쌀과자 소용돌이",
+   "vid": "LiIFW_Wt77o",
+   "ch": "군인이야기",
+   "cid": "UCWvVu9BnX_M4qWm3cdWTK8A",
    "date": "2026-10-29",
-   "title": "Jealous cat 😼Subscribe to support ❤️ #cat #cats #funny #cute",
-   "views": 33068,
-   "desc": "Jealous cat 😼Subscribe to support ❤️ #cat #cats #funny #cute"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "QV14VhRYUtw",
-   "ch": "DOGOO TV",
-   "cid": "UCLyE-m4K53A2PRyoqxirM-w",
-   "date": "2026-10-31",
-   "title": "Ranking Jealous Cat Moments",
-   "views": 27884,
-   "desc": "Ranking Jealous Cat Moments\n#shorts #usa   #cutecat  #cat  #animals"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "TSXsi8qskKg",
-   "ch": "Rnktopvaultsz",
-   "cid": "UCh8AzLelTtJub_ih62HKZlQ",
-   "date": "2026-10-31",
-   "title": "RANKING TOP 8 JEALOUS CATS WHO REFUSE TO SHARE THEIR OWNERS!",
-   "views": 24140,
-   "desc": "These cats are NOT ready to share their favorite humans! 😂🐱 From funny jealous reactions to refusing to let anyone steal their attention, these furry little drama queens take friendship seriously!\n\nWhich jealous cat is your favorite? Let us know in the comments!\n\n❤️ Like, share, and subscribe to Top"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "g0i65PzRfNc",
-   "ch": "Romi Replay",
-   "cid": "UC_otb9rUo4uj43Wu1H5KvEA",
-   "date": "2026-10-23",
-   "title": "When Your Cat Gets Too Jealous 😾🤬 #Cats #Jealous #Moments",
-   "views": 28802,
-   "desc": "When your cat gets a little TOO jealous! 😂🐱💚 These jealous kitties just can’t stand sharing their favorite human with anyone else! 😹 From interrupting cuddles to demanding all the attention, these cats make it clear that they want all the love for themselves. 🐾❤️\n\nSome cats want all your attention, "
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "SFvQbEB1Qww",
-   "ch": "InstintoAnimal",
-   "cid": "UCqr8GD8_w64fTVRfrOlOsMQ",
-   "date": "2026-11-10",
-   "title": "Esse cachorro com ciúme não aguentou ver o dono acariciando ",
-   "views": 27198,
-   "desc": "Toda vez que o dono dava atenção ao gato, ela dava um jeito de mostrar o que sentia."
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "n46irqw9lKg",
-   "ch": "Gendul 86",
-   "cid": "UCnNEcIIG9EZ-toEMh8S7i2g",
-   "date": "2026-11-04",
-   "title": "KUCING INI CEMBURU SAMA BAYI MAJIKANNYA! GAK MAU KALAH DISAY",
-   "views": 24750,
-   "desc": "Dulu jadi kesayangan majikan, sekarang perhatian malah terbagi dengan kehadiran anggota keluarga baru! 😂\n\nKucing ini terlihat seperti sedang cemburu dengan bayi majikannya. Tingkahnya bikin gemas sekaligus ngakak! 🥰🐱\n\nMenurut kalian, kucing ini benar-benar cemburu atau cuma ingin diperhatikan? 🤣👇\n\nJ"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "PhbwrbIjCpc",
-   "ch": "Felo Rank",
-   "cid": "UCZ650odNRwRez6-8xwZTHYw",
-   "date": "2026-10-23",
-   "title": "Ranking Best: Jealous cat 🤣 #funnycats #funnypet #cat",
-   "views": 22812,
-   "desc": ""
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "oRY7v22vKyM",
-   "ch": "Happy Animal Home",
-   "cid": "UCo7pnc84ZJQU547bTh2Y3mw",
-   "date": "2026-10-31",
-   "title": "Kittens get jealous too.",
-   "views": 26625,
-   "desc": "Kittens get jealous too.#memes  #funny  #dankmemes  #viral  #funnyvideos  #memepage   #memecontent\n#internethumor   #fyp #foryou  #foryoupage  #viralvideo  #trending  #explorepage  #recommended   #youtubeshorts #shorts\n #shortsvideo  #shortsviral  #relatable  #comedy  #funnyclip  #lol #dailyhumor  #"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "9wTctDTUGmY",
-   "ch": "Pawfection",
-   "cid": "UCj9RtCPrpC-e5TP8UAIi1Dw",
-   "date": "2026-10-29",
-   "title": "Jealous dog couldn&#39;t stand seeing her owner pet the cat!",
-   "views": 23241,
-   "desc": "Every time her owner gave the cat attention, she found another way to make her feelings known."
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "KXoIBf5ro90",
-   "ch": "DK24",
-   "cid": "UCP4hYL7vE5sZM8OJYOl8IXQ",
-   "date": "2026-11-12",
-   "title": "Cemburu Berjamaah 😂#shorts",
-   "views": 26915,
-   "desc": "Punya empat kucing ternyata punya tantangan sendiri. Setiap kali satu kucing mulai dielus, yang lainnya langsung ikut cemburu dan minta perhatian juga. Belum selesai mengelus satu, yang lain sudah antre minta jatah.\n\nIni pemiliknya punya empat kucing atau empat bos? 😂\n\n🎥 Sumber video: TikTok @peacha"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "Lu_-Q3fvOmw",
-   "ch": "USA Unfiltered Laugh ",
-   "cid": "UCAX-YaiwfvxwVFMvP-g5nBg",
-   "date": "2026-11-12",
-   "title": "MY CAT CAUGHT ME LOOKING AT ANOTHER CAT! 😂🐱 #Shorts",
-   "views": 28518,
-   "desc": "I think my cat just got jealous! 😂🐱 Never let your cat catch you doing this!\n\nFollow USA Unfiltered Laugh for more funny animal memes!\n\n#funnycats #viralshorts"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "yfut3C4JZEY",
-   "ch": "PawRank",
-   "cid": "UCaA9kOC4-oBVoroqcapYGlg",
-   "date": "2026-10-26",
-   "title": "Ranking Best Jealous Cats Moments 😹 #shorts",
-   "views": 21363,
-   "desc": "Ranking Best Jealous Cats Moments 😹🥰\n\nSubscribe For More! @PawRanks22​"
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "gx1r6fYwFKA",
-   "ch": "Andrew Shorts ",
-   "cid": "UC40OSuKPOSu7baPIHa61m-w",
-   "date": "2026-10-25",
-   "title": "Ranking based of the funniest jealous cat  moments #viral #s",
-   "views": 16608,
-   "desc": ""
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "EwxmwryCKlY",
-   "ch": "حدوتة",
-   "cid": "UCK8OkA8h93T5jtRNTJB_UIA",
-   "date": "2026-11-04",
-   "title": "حتى القطط هتحسدوها 😱",
-   "views": 22834,
-   "desc": ""
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "M7-o3N_2BDM",
-   "ch": "MR.WALTUH",
-   "cid": "UCW7YfH-oD0_tbo1TJ6NVrqA",
-   "date": "2026-11-05",
-   "title": "I Wanted to See If My Cat Gets Jealous… #shorts",
-   "views": 18646,
-   "desc": ""
-  },
-  {
-   "q": "cat jealous owner",
-   "vid": "BjYlncE1iyk",
-   "ch": "CutieDogRanks",
-   "cid": "UCOYLy8gouJGu9Rec6Oqw3rA",
-   "date": "2026-11-12",
-   "title": "Ranking the best jealous cats moments 😹",
-   "views": 21152,
-   "desc": "Watch the funniest and most jealous cats reacting when their humans give attention to someone else! Which of these cats had the best reaction? Let us know in the comments below! Don't forget to like and subscribe for more hilarious cat videos!\n\n#cats #funnycats #catlovers #pets #cuteanimals #shorts"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "PMeyp7o9Ci8",
-   "ch": "PatiKafa 🐾",
-   "cid": "UCmBC2QS6Pj2pCr1YCLAwVoQ",
-   "date": "2026-10-28",
-   "title": "Fotoğraf Yüzünden Küsen Köpek Sonunda Barıştı 🤗 #köpek #shor",
-   "views": 112836,
-   "desc": "İçerik sahibi ig : heraninbabasi\n\nFotoğraf çekilmedikleri için sahibine küsen köpek, barışma anıyla izleyenleri gülümsetiyor. Bu sevgi dolu dostumuzun küsme ve barışma tepkilerini izlemeye hazır mısınız?\n\nBir adamın, köpeğinin fotoğraf çekilmedikleri için küstüğünü esprili bir dille anlattığı bu vid"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "DP2thf8eHW0",
-   "ch": "モフログTV",
-   "cid": "UCSkFsBvgXBUe0grvpuVlHng",
-   "date": "2026-10-27",
-   "title": "パパ一筋だったワンコがすっかり拗ねてしまった理由",
-   "views": 81964,
-   "desc": "一日中パパの帰りを待ち続ける、パパが大好きなワンコ。\r\nところが今日は、いつものパパと何かが違うようで。\r\n大好きなパパにすっかり拗ねてしまった理由とは？\n\n#Shorts #動物 #犬 #パパ大好き #可愛い犬\n\n🎵Music provided by 브금대통령\n🎵Track : 하얀 강아지 -    • [귀여운음악] 하얀 강아지 | 편안하고 귀여운 멜로디"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "bw0bADAPWjw",
-   "ch": "찹츄스토리",
-   "cid": "UCrBCOabZySPG0D3z_Mt9EbA",
-   "date": "2026-10-29",
-   "title": "산책 5분 늦었을 뿐인데 진돗개 반응ㅋㅋ #강아지 #반려견 #진돗개 #귀여운강아지",
-   "views": 39401,
-   "desc": "산책 가자는데 자꾸 «5분만» 기다리라는 미국 집사\n문 뒤에 숨어 삐지고, 문 앞에 드러누워 앞발까지 꼬고 시위하는 진돗개\n세 번째 «5분만»에 결국 하품 한 번 하고 빤히 쳐다봄ㅋㅋ\n\n여러분 강아지도 산책 시간 늦으면 티 내나요?\n\n#강아지 #반려견 #진돗개 #귀여운강아지"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "GeZzLG3Tr_4",
-   "ch": "The Unspoken",
-   "cid": "UCCLZKAe7xqpt66bKTmjTijQ",
-   "date": "2026-10-20",
-   "title": "Anjing Lucu Ini Ngambek Gamau Makan Gara-Gara Dikasih Dikit ",
-   "views": 26397,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "PfUeT63XIk0",
-   "ch": "Max & SeyLin MaxSey",
-   "cid": "UCa3aHiMQHgMFZMkT9x5vYFQ",
-   "date": "2026-11-01",
-   "title": "🐕 Max ngambek ngak diajakk ngonten 🤭",
-   "views": 25993,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "o_yOpTUpxdc",
-   "ch": "온소담",
-   "cid": "UCcy3piA06Xg2Wpiwy_GnfJw",
-   "date": "2026-10-28",
-   "title": "강아지가 삐지니까 사람보다 무섭네 #Shorts",
-   "views": 28236,
-   "desc": "순진하게 손 줬다가 뒤통수 제대로 맞은 댕댕이 ㅋㅋ삐진 표정이 진짜 사람보다 더하네요 😤 \n끝까지 믿었던 언니한테 배신당한 억울한 눈빛 좀 보세요 ㅠㅠ 여러분 집 강아지도 삐지면 이러나요? \n\n#강아지 #동물 #댕댕이 #힐링 #귀여운영상 #쇼츠 #배신 #웃긴영상 #힐링영상 #반려견"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "maXTwZjJODk",
-   "ch": "ベーコン家のポテとひだり本当の日常チャンネル!",
-   "cid": "UCntV2iPM__qhoH0hnLxf9CQ",
-   "date": "2026-10-28",
-   "title": "お昼にもっと遊びたくてスネちゃったチャーリー",
-   "views": 16999,
-   "desc": "▼ひとこと\n出かける予定があったので、なんとなくごふまんちゃんこちゃんになりました\nこのあと、楽しくおさんぽしました！\n\n▶ポテはどんな犬？（姉・ミルクティー色・耳毛フサフサ）推定８歳\n本名：ポテンシャル2018（♀）元野犬・雑種です\n\n▶ポテの妹ひだり（茶＆白・ツインテール）推定７歳\n本名：ひだり2019（♀）元野犬・雑種です\n\n▶チャーリー（こげ茶）推定５歳\n牧場に捨てられていたところを保護されて、我が家にて預かりを経てうちの子に\n\nこのチャンネルは、ベーコン家のママの視点でポテとひだりとチャーリーの日常をそのままお届けするサブチャンネルです。（ほぼ、毎週、火木土の朝7時更新中）\n\n▼「ベ"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "VdrSlstsLmk",
-   "ch": "Dokter Paijoo",
-   "cid": "UCw-Ut0ut5i8dfM9HFL_LQug",
-   "date": "2026-10-29",
-   "title": "ANJING INI NGAMBEK KARENA DIBOHONGI #horts #dogshorts",
-   "views": 15450,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "ZadeYsu33zc",
-   "ch": "บล็อกDog ",
-   "cid": "UCRmFPQPflbE144rAd5iUNgQ",
-   "date": "2026-11-04",
-   "title": "ท่าเทคนิคคนงอน #สุนัข #dog #pets #viral #animals #satisfying",
-   "views": 16063,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "FuCCcHZV4Jk",
-   "ch": "루크아빠 - 훈련사 이성용",
-   "cid": "UCbo1w_JUmeFRy2N4T3BHygQ",
-   "date": "2026-11-12",
-   "title": "이 행동을 보이면 100% 삐진 겁니다",
-   "views": 9920,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "wJwyPoG44ec",
-   "ch": "@ZeroPressure",
-   "cid": "UCTOg6Y7A5XZ96t71bSzpVVw",
-   "date": "2026-10-16",
-   "title": "• Nobody does a guilt trip like a Husky 🥺❤️#dogshorts • #fun",
-   "views": 7398,
-   "desc": "Have you ever seen a dog pull off a dramatic guilt trip better than an Oscar-winning actor? We all know that our furry best friends are experts at communicating without words, but nothing quite matches the sheer theatrical brilliance of a sulking dog. Whether they are upset because you didn't share "
-  },
-  {
-   "q": "dog sulking",
-   "vid": "qrpehHPZFDM",
-   "ch": "Супер Сонюшка!",
-   "cid": "UCHblnGGycP_EXqMAN5MrbhA",
-   "date": "2026-11-09",
-   "title": "обида🥺 #animals #собака #животные #dog",
-   "views": 7630,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "t6IgNxpyeYE",
-   "ch": "Mirage K",
-   "cid": "UCWDzu8mTQ50__JiUz50ZHIA",
-   "date": "2026-10-19",
-   "title": "Sulky Dogs Who Are VERY Mad at Their Owners 😤🐶 (Wait for the",
-   "views": 6845,
-   "desc": "5 dogs. 5 grudges. One of them can be bought with a single treat. 😂\nWho's the most dramatic?\n\n🎥 Original videos (TikTok):\n@mynamesjames4 https://www.tiktok.com/@mynamesjames4/video/7025048151933472006\n@modern.midlife.beauty https://www.tiktok.com/@modern.midlife.beauty/video/7668746707546541343\n@gol"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "T57HueVM27w",
-   "ch": "Betty’s world ",
-   "cid": "UClNFNL1sI8noOfuby6YVVrA",
-   "date": "2026-10-20",
-   "title": "When you’re sulking.. but you see there might be a chance!!!",
-   "views": 9633,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "f09R9BptZQI",
-   "ch": "Tsuki.aussie",
-   "cid": "UC5RnG8khr20eHJEOVdQ5iXQ",
-   "date": "2026-11-04",
-   "title": "POV: Ma chienne fait la gueule  #bergeraustralien #humourchi",
-   "views": 5565,
-   "desc": "POV: Ma chienne fait la gueule  #bergeraustralien #humourchien  #Shorts"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "zG0-uOXgHGI",
-   "ch": "히야",
-   "cid": "UCksrnKIj--dTadHqD7D3bFA",
-   "date": "2026-11-02",
-   "title": "등으로 말하는 타입",
-   "views": 3976,
-   "desc": "차도 병원도 아닌데 갑자기 시무룩해진 시바 🐶\n견주가 달래도 고개를 숙인 채, 뒷모습이 삐짐인지 우울인지 알려주세요 💭\n\n#시바견 #시바 #강아지 #댕댕이 #귀여운강아지 #반려견 #히야 #shorts"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "vjiNF1LaLMo",
-   "ch": "Rowlands Wilawan LuLu ",
-   "cid": "UCoBG2VLlJghTvef5NXE-O9g",
-   "date": "2026-10-21",
-   "title": "โบนัสงอน #pet #dog #doglover #คนรักหมา #หมาน่ารัก",
-   "views": 4369,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "mDF0FGA-a0I",
-   "ch": "うちのわんこ",
-   "cid": "UCE3pow7GSVip55wZVg_UiqQ",
-   "date": "2026-10-26",
-   "title": "いじけるチワワ💦【うちのわんこ】 #shorts #うちのわんこ #チワワ",
-   "views": 3448,
-   "desc": "通れなくていじけるいずもさんです💦\n\n福岡で暮らすチワワたちの、なんてことない日常をお届けしています🐶\n\n現在は、お出かけとお散歩が大好きなゴエモンさんと、おうちが大好きなイズモさんが中心です。\n\n何気ない日常やクスッと笑える場面を、毎日20時にショート動画で投稿しています。\n\nときどき、わんこと泊まれる宿や、九州を中心としたお出かけスポットもご紹介します🚗\n\n🌈 アンディさん\n2004年3月23日〜2023年10月1日\n19歳6か月まで元気に過ごしてくれた、わが家の最長老です。\n\n🐾 ゴエモンさん（9歳）\nおっとりした甘えん坊。お出かけとお散歩が大好きです。\n\n🐾 イズモさん（5歳）\nお散歩"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "S0Iyvrz2Wzk",
-   "ch": "Animal Home(동물의 집)",
-   "cid": "UCqeGCG8Qq-RfwxULYEojo0g",
-   "date": "2026-10-24",
-   "title": "분홍색 잠옷에 삐진? 댕댕이 #강아지 #동물 #쇼츠 #shorts #animals",
-   "views": 2699,
-   "desc": "자기 전 골댕이, 주인이 사온 잠옷울 입히는데, 분홍색 잠옷 ?!? 댕댕이는 잔뜩 삐져서 돌아다닙니다\n\n#강아지 #고양이 #귀여움 #동물 #감동 #슬픔 #쇼츠 #shorts #fyp #animals\n\n영상에 문제가 있을시 andy040147@gmail.com 으로 \n연락주시면 즉시 조치를 취해드리겠습니다.\n감사합니다."
-  },
-  {
-   "q": "dog sulking",
-   "vid": "2due6AGEQ14",
-   "ch": "Mora Jaya ",
-   "cid": "UCI20BbEwG9YSdedmWxNIaPA",
-   "date": "2026-10-31",
-   "title": "Ngambek terus😁‼️ #dog #pets",
-   "views": 2630,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "DsgKM058wm0",
-   "ch": "FUR FRIENDS WITH SUPRIYA",
-   "cid": "UChl_3BEl0RHrBNjVboX_uBw",
-   "date": "2026-10-30",
-   "title": "Achhi nani pyari nani 🤪🤪🤪🤪 #funny #comedy #cutebaby 🌟💫✨💥🌼🎈💐🌻",
-   "views": 4579,
-   "desc": "Achhi nani pyari nani🤪🤪🤪🤪 #funny #youtubeshorts #comedy #cutebaby #doglover💥💫✨🌟⭐️🌼🪷💐🌻🌸🌸"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "gdXPFmHZbN0",
-   "ch": "JAGGI YOUTUBER ",
-   "cid": "UC_-4-cJhp1r9pz5cnbYPRew",
-   "date": "2026-11-07",
-   "title": "Diwali ka gussa😡 || New diwali vibe 🤭😂❤️",
-   "views": 1936,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "lK2YJtfAgiU",
-   "ch": "Lucy Bangaram",
-   "cid": "UC5SGF6XwvniUaAZraszZpuw",
-   "date": "2026-10-21",
-   "title": "Shih Tzu Aligindhi Thinata Ledu😜#lucybangaram #shihtzu",
-   "views": 1640,
-   "desc": "#lucybangaram #shihtzuvideos #shortvideos #shots #videos #trending #trendingshorts #trendingvideo #trendingreels"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "w4jdh2iLShw",
-   "ch": "ICY & AMBER",
-   "cid": "UC8adPQGQoG6tafhv7kPbZmg",
-   "date": "2026-10-26",
-   "title": "She Called Her Dog FAT… Now Amber Is Sulking! 😂🐶 #funnydogs ",
-   "views": 1829,
-   "desc": "Never call a girl fat… especially when she’s a fluffy little princess! 😂🐾 When Amber’s furmom called her fat, she took it personally and started sulking. Now her furmom is trying everything to make it up to her! 🥹❤️\n\nWill Amber forgive her, or is this the beginning of a lifelong grudge? 😂\n\nSubscribe"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "B7g8q3br74A",
-   "ch": "타이짱맘",
-   "cid": "UCx2wA_5QNceq5cqiuZl29Dg",
-   "date": "2026-10-22",
-   "title": "#폴짝폴짝#뭐가불만이야!!#으르렁#앙탈쟁이 천재견 타이♡",
-   "views": 1341,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "zSipnqZajfM",
-   "ch": "Bodunrin Clement",
-   "cid": "UCDXRF5G2Pdqh38qEb2K50Vg",
-   "date": "2026-10-26",
-   "title": "#doglove #sulking #missingyou",
-   "views": 1308,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "mCizeK3VG5g",
-   "ch": "신조 (SINJO)",
-   "cid": "UCELYGDT7j7UmtZMO6DQfjkA",
-   "date": "2026-11-06",
-   "title": "페트병이랑 크기 비교당하고 삐진 젤리 🐶💦 Greedy Jelly&#39;s Sulking #shorts",
-   "views": 1299,
-   "desc": "아니 우리 젤리 몸집이 2L 페트병이랑 똑같다구요?! 🥤🐾 \n세상 소중하고 귀여운 젤리의 심쿵 모멘트! 오늘도 보고 힐링하세요 ❤️\n\nIs Jelly really the same size as a 2L bottle?! 🥤🐾\nLook at this super cute moment! Hope this heals your day ❤️\n\n#shorts #강아지 #반려견 #말티푸 #젤리 #귀여운강아지 #멍스타그램 #댕댕이 #Dog #Puppy #CuteDog #Maltipoo #DogLover"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "kIto8K4acYQ",
-   "ch": "Romeo being Romeo",
-   "cid": "UC70kffQbwerFOremX6PGNGQ",
-   "date": "2026-11-02",
-   "title": "American Staffy dog behaving badly and sulking 🐶🐾",
-   "views": 1202,
-   "desc": "Romeo ignoring mum\n\n\n\n\n\n#cutedog #cutepets #cutestaffy #funnydogs #funnypet #funnystaffy #lovepets"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "Cy2W57yKv-w",
-   "ch": "PetFuneralThailand",
-   "cid": "UCf8xE1tlS5suykIgmH3Qhgg",
-   "date": "2026-11-13",
-   "title": "หมาบ้านไหนงอนเก่งแบบนี้บ้าง! เปิดพฤติกรรม &#39;เมินหน้าหนี ถ",
-   "views": 941,
-   "desc": "โดนดุแค่แป๊บเดียว... นั่งหันหลังตูดชี้หน้าใส่เฉย! หรือพอให้อาหารน้อยนิดเดียว ก็ทำสีหน้าสิ้นหวังหมดอาลัยตายอยากเหมือนโลกจะแตก! 🐶กลายร่างเป็นตัวตึงสายงอนประท้วงเจ้าของซะงั้น!\nจริงๆ แล้วตามหลักพฤติกรรมศาสตร์สุนัข (Canine Behavior) อาการเบือนหน้าหนี (Head Aversion) หรือการช้อนตาขาวมอง (Whale Eye) ไม่ใช่"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "DfBHn2pj4_M",
-   "ch": "Kaleksy",
-   "cid": "UCzYzrCT0lBDLRtuF5kWyOPQ",
-   "date": "2026-11-12",
-   "title": "Your Dog Hid In The Closet. That&#39;s Panic, Not Pouting 🐶 ",
-   "views": 960,
-   "desc": "A new baby or a houseguest arrives, and your dog vanishes. He is not sulking. Here are the 3 spots stressed dogs often pick, and why the weirdest one is the smartest.\n\n─ Credits ─\n🎵 Music: “Calm Ambient 5” by Audio Earth (Jamendo, CC) https://www.jamendo.com/track/1501902"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "x_dkQHClAHc",
-   "ch": "มัตติกา จ๋าเกรช",
-   "cid": "UCN4a_Ho4N0pnQuGrmyeu03Q",
-   "date": "2026-10-28",
-   "title": "งอนอีกแล้ว #สตอรี่ความรู้สึก",
-   "views": 1459,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "D2iG_mkjb10",
-   "ch": "Mɾ_Rσყ",
-   "cid": "UCis-bcC8Xq__E2Fe6mIS6nw",
-   "date": "2026-10-28",
-   "title": "गुस्सा हो के बैठ गए !! #shorts #trending #doglove #memes #sh",
-   "views": 1030,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "CymqKReLGJw",
-   "ch": "nhànôngvlogs 90",
-   "cid": "UCrwin-D1zRgeSeZZNrcOTMw",
-   "date": "2026-10-22",
-   "title": "#cute 강아지 얼마나 삐진건지 감도 안 옴 | A Sulking Dog #강아지 #반려견 #말티 즈 #귀",
-   "views": 1045,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "uDfe8EbMy_s",
-   "ch": "Henry David",
-   "cid": "UCe2FUAbk0wqaEH8HaGAP8wA",
-   "date": "2026-10-30",
-   "title": "No treats, and now he&#39;s sulking.#dogface #lovelydog #dog",
-   "views": 1087,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "UJk_55frL-I",
-   "ch": "Tina Mulhall Creations",
-   "cid": "UCD9lrd7aRMh97Htt5demA8Q",
-   "date": "2026-11-10",
-   "title": "Daisy got upgraded to a hamburger of shame from a cone of sh",
-   "views": 1150,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "l0c3fFpqhzU",
-   "ch": "Ashwini Deepthi",
-   "cid": "UC6CjZFx4p-ABN1wgXGxDXYQ",
-   "date": "2026-11-09",
-   "title": "ℋℯ 𝒾𝓈 𝓈𝓊𝓁𝓀𝒾𝓃ℊ #ytshortsindia #maltese #cutepuppy #dogs #dogs",
-   "views": 1272,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "GUOq9zJpJt8",
-   "ch": "개판 5분전 : 4마리 포메 일상",
-   "cid": "UC57AVGeZlmbYtfCeZTgCWOA",
-   "date": "2026-10-31",
-   "title": "나 안 예뻐해?!😤 삐진 강아지 반응ㅋㅋ🐶 #포메라니안 #포메 #shorts #강아지 #dog #챌린지",
-   "views": 1335,
-   "desc": "나 안 예뻐해?!😤 \n삐진 강아지 반응ㅋㅋ🐶 #포메라니안 #포메 #shorts #강아지 #dog #챌린지"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "-g-bN6ji8gk",
-   "ch": " jimmymom reel  star ⭐",
-   "cid": "UCKoWdpA4ok5TKQHt9VSAB5w",
-   "date": "2026-11-04",
-   "title": "फुगलय बाबल",
-   "views": 1156,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "EO45xWDoh9U",
-   "ch": "แก้วเก้า ชาแนล",
-   "cid": "UCGpKZhxDKNg3K6o9kmSSbHg",
-   "date": "2026-10-25",
-   "title": "ทองแดงน้อยใจโดนดุ...🐕‍🦺🦮 #ความสุข #คลายเครียด #สุนัข #สุนัขน",
-   "views": 1022,
-   "desc": "ทองแดงน้อยใจโดนดุ..🐕‍🦺🐕‍🦺"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "YD1NJYRcvKY",
-   "ch": "신조 (SINJO)",
-   "cid": "UCELYGDT7j7UmtZMO6DQfjkA",
-   "date": "2026-11-05",
-   "title": "혼자 밥 먹었다고 삐진 젤리 🐾 Greedy Jelly&#39;s Sulking #shorts",
-   "views": 1311,
-   "desc": "혼자 맛있는 거 먹었다고 방석에 웅크려 삐진 젤리의 서운한 뒷모습 Jelly is sulking on her cushion because dad ate without her\n\n\n\n\n\n ​#젤리 #반려견 #일상 #강아지 #귀여운강아지 #댕댕이 #Dog #DogsofYouTube #CuteDog #Pets #Jelly #Shorts"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "6v-XKrTz0K0",
-   "ch": "Beach Pack Diaries",
-   "cid": "UCnvo6XsfSPh1cjdkgBEUAbw",
-   "date": "2026-10-17",
-   "title": "Sulking.",
-   "views": 949,
-   "desc": "Nothing some loving can’t fix ❤️‍🩹"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "fG81bKB_m5c",
-   "ch": "The real baloo ",
-   "cid": "UCh6w06MncxbAVT4QNU2UuWg",
-   "date": "2026-11-07",
-   "title": "7 November 2026",
-   "views": 967,
-   "desc": "#sulking#with#me"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "-jXdNdbTMlY",
-   "ch": "Mana_Broni",
-   "cid": "UCT42NzutVEiUjd2NkTuddmQ",
-   "date": "2026-11-02",
-   "title": "నా బ్రో ని అలిగి బెడ్ మీద కూర్చుని చూడండి 🤪",
-   "views": 1073,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "irs0wf8PuH0",
-   "ch": "Henry David",
-   "cid": "UCe2FUAbk0wqaEH8HaGAP8wA",
-   "date": "2026-10-30",
-   "title": "The dog is sulking at me again.#dogshort #dogface #goldenret",
-   "views": 1036,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "GMCN_eyLjNE",
-   "ch": "Pug life vs nature",
-   "cid": "UCC02tXmuD5Skl4OXDAJTIaA",
-   "date": "2026-10-20",
-   "title": "Don’t talk to me.",
-   "views": 1004,
-   "desc": "Don’t talk to me. I’m sulking. #shortvideo #dog #puglife #dogloveryoutubechannel #shorts"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "s_QjBgolQaI",
-   "ch": "うちの子 獣たち",
-   "cid": "UCuTY_szEsiqNtDDNOT1FRGg",
-   "date": "2026-10-28",
-   "title": "散歩、もう終わり！？😂 不貞腐れるチョノ｜“That’s It!?” Sulking After a Short Wal",
-   "views": 1147,
-   "desc": "2026年10月28日\n\n今日はいつもより少し早めにお散歩終了。\n\nするとチョノ、\n「え？もう帰るの？」と言わんばかりに不貞腐れモード😂\n\n🐶 チョノ｜トイプードル × チワワのMIX\n🎂 2022年9月29日生まれ\nこの日の年齢：4歳0ヶ月29日\n\nどうやら今日は、まだまだ歩き足りなかったようです（笑）。\n\nOctober 28, 2026\n\nToday’s walk ended a little earlier than usual.\n\nChono was clearly not impressed...\nHis face said it all: “Wait, that’s it!?” "
-  },
-  {
-   "q": "dog sulking",
-   "vid": "i_5UrXPGICc",
-   "ch": "伊汶涵宇",
-   "cid": "UCPU9unjcTgmViVop5yQnB7w",
-   "date": "2026-10-30",
-   "title": "房車裏，悶悶的倆兄弟",
-   "views": 213,
-   "desc": "德國狼狗多寶 https://youtube.com/playlist?list=PL_QxI1NU_adPNxo8Zyvv9YYX66MZ3XtZG\n狼狗多寳 https://youtube.com/playlist?list=PL10C299B29C7AB675\n2021 伊汶家20只脚的故事 https://youtube.com/playlist?list=PL_QxI1NU_adN388SsVUvl7E4CMBSaMfNv\n2020 四脚狼狗多寶仔一家的故事 https://www.youtube.com/playlist?list=PL_QxI1NU_adOITFC8ThOdSmp"
-  },
-  {
-   "q": "dog sulking",
-   "vid": "dhizoRPBE48",
-   "ch": "Henry David",
-   "cid": "UCe2FUAbk0wqaEH8HaGAP8wA",
-   "date": "2026-10-23",
-   "title": "The dog is sulking again!#dogmoment #angrydog #dogbehavior #",
-   "views": 944,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "RUXVTZHf3qU",
-   "ch": "shrimp and prawns",
-   "cid": "UCM2kb-4sOUXzBsFCabYd9fw",
-   "date": "2026-11-03",
-   "title": "Tom is sulking 🤣🐕🐕.# #dog #cute",
-   "views": 856,
-   "desc": ""
-  },
-  {
-   "q": "dog sulking",
-   "vid": "xF8u2nME494",
-   "ch": "Beautiful Turkey",
-   "cid": "UCZoQaqKdco623-DVNdYzIXg",
-   "date": "2026-10-21",
-   "title": "Kanepede Trip Atan Köpek",
-   "views": 979,
-   "desc": "Sevimli köpek kanepede oturmuş sahibine trip atıyor. İlgisiz kaldığını düşündüğü anlarda bakışlarıyla tepkisini net bir şekilde ortaya koyuyor. Kanepede trip atan köpek kendini hemen belli ediyor.\n\n#köpek #köpekleyaşam #tripatanköpek #köpekvideoları #shorts"
+   "title": "쌀과자 던졌더니 소용돌이가 먹방 01 Dream lantern",
+   "views": 1,
+   "desc": "물에 뜨던 쌀과자 하나가 소용돌이를 만나면?\n빙글빙글 돌다가 사라지는 순간까지, 실제 댓글 반응과 함께 보세요."
   }
  ]
 }
