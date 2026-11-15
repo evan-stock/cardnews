@@ -1,1119 +1,2043 @@
 {
- "since": "2015-01-01",
+ "since": "2026-10-16",
  "fixed": [],
  "found": [
   {
-   "title": "Poor Pumper Society",
-   "id": "UCypQoNa-3-0po-ZYknGShxQ",
-   "created": "2021-05-14",
-   "subs": "614000",
-   "videos": "1444"
+   "title": "Shiba & Malti",
+   "id": "UCtsIwnK5TARkfm8R2KEzZAw",
+   "created": "2026-11-12",
+   "subs": "1",
+   "videos": "25"
   },
   {
-   "title": "Mr. Cool",
-   "id": "UC-xhaVuSIGn3BjvmSNoXVdA",
-   "created": "2021-08-17",
-   "subs": "468",
-   "videos": "97"
+   "title": "Triple s Star",
+   "id": "UCqlUype-Rj57toBWNgw_UVA",
+   "created": "2026-10-09",
+   "subs": "80",
+   "videos": "34"
   },
   {
-   "title": "CNC Editz",
-   "id": "UC6gHzQBx5pNyM1t4zc3MuUA",
-   "created": "2023-11-13",
-   "subs": "381",
-   "videos": "46"
+   "title": "Jack Alif",
+   "id": "UCvdgBLodMo-rJalWkZcmB5Q",
+   "created": "2026-10-28",
+   "subs": "36600",
+   "videos": "19"
   },
   {
-   "title": "FIBONACCI TV",
-   "id": "UCIqL_JKJsE1VNzS2PDtgl2Q",
-   "created": "2018-03-11",
-   "subs": "52500",
-   "videos": "762"
+   "title": "Gold & Whiskers",
+   "id": "UCKu9rC0N_EzDsEJYFvbJ1wA",
+   "created": "2018-05-27",
+   "subs": "22100",
+   "videos": "10"
   },
   {
-   "title": "Aleksanderbigby",
-   "id": "UCaI2vrGiDax8pzEapmpM8LQ",
-   "created": "2023-12-10",
-   "subs": "1510",
-   "videos": "181"
+   "title": "How Humans",
+   "id": "UCwDTqYj4LWR6hCNW4XxYNHg",
+   "created": "2026-06-27",
+   "subs": "4400",
+   "videos": "73"
   },
   {
-   "title": "Astro Gazer",
-   "id": "UCmewDnTgjHHqDG1eYmEebSA",
-   "created": "2022-03-11",
-   "subs": "9600",
-   "videos": "183"
+   "title": "TotTune",
+   "id": "UCFN68TvJjaUAHU2dGfLPdCQ",
+   "created": "2026-11-05",
+   "subs": "3",
+   "videos": "8"
   },
   {
-   "title": "Huck Buddies Disc Golf",
-   "id": "UCQl_Ja9Kt6kP1cE0UtHwKPA",
-   "created": "2015-05-13",
-   "subs": "2850",
-   "videos": "1599"
+   "title": "Void Horizon ",
+   "id": "UC_KJv9INtC7Rb2vALrmqj5A",
+   "created": "2024-03-30",
+   "subs": "54",
+   "videos": "17"
   },
   {
-   "title": "EasyOne_1",
-   "id": "UCgdpB1Xl2mhRyRruwb-ZF0Q",
-   "created": "2020-01-13",
-   "subs": "394",
-   "videos": "1"
+   "title": "WildToon Shorts",
+   "id": "UChRUaQooL5W-p6G2xBe5QrA",
+   "created": "2026-07-23",
+   "subs": "52",
+   "videos": "19"
   },
   {
-   "title": "Dams explorer",
-   "id": "UCoC0Ltp0726p3ZsH0mlBBzg",
-   "created": "2024-04-13",
-   "subs": "19500",
-   "videos": "379"
-  },
-  {
-   "title": "Zack D. Films",
-   "id": "UCvz84_Q0BbvZThy75mbd-Dg",
-   "created": "2021-06-07",
-   "subs": "29700000",
-   "videos": "4219"
-  },
-  {
-   "title": "Unusual stuff",
-   "id": "UCbmKebLBY37hbGOIEE3bjnQ",
-   "created": "2021-12-27",
-   "subs": "233000",
-   "videos": "1881"
-  },
-  {
-   "title": "AniShorts AI",
-   "id": "UC69Q2rveB-2GTgRa2hkSNoQ",
-   "created": "2019-10-25",
-   "subs": "242",
-   "videos": "85"
-  },
-  {
-   "title": "short story",
-   "id": "UC28tJRmWmFV4d9I3Flb0wYw",
-   "created": "2022-07-17",
-   "subs": "85900",
-   "videos": "2390"
-  },
-  {
-   "title": "Nature Microverse",
-   "id": "UCn8jIFe5HqPSVNj5UaGvvEA",
-   "created": "2024-09-19",
-   "subs": "73600",
-   "videos": "133"
-  },
-  {
-   "title": "Megan and Ben",
-   "id": "UCXvbilRzK1DrcrYM_0-BxfQ",
-   "created": "2022-12-19",
-   "subs": "2930000",
-   "videos": "250"
-  },
-  {
-   "title": "Life Struggle ",
-   "id": "UC__xKdxUiDL7Yo68YkhpZOg",
-   "created": "2026-06-19",
-   "subs": "35",
-   "videos": "28"
-  },
-  {
-   "title": "初めて知った",
-   "id": "UCH4XqRtDChJgSrC2NhA4JGg",
-   "created": "2025-08-28",
-   "subs": "22500",
-   "videos": "227"
-  },
-  {
-   "title": "FC HINDI",
-   "id": "UCmZKvI0KeKEdoVtDx78wJ8w",
-   "created": "2022-11-01",
+   "title": " T氏の幽霊日常劇場",
+   "id": "UCCYMAp5Ln-lMvagcpTgjBOQ",
+   "created": "2026-05-18",
    "subs": "284",
-   "videos": "389"
+   "videos": "107"
   },
   {
-   "title": "Daily Facts",
-   "id": "UC67Xj2W42v6x_syA-cB-mbQ",
-   "created": "2025-06-17",
-   "subs": "437",
-   "videos": "57"
+   "title": "Paw Rank",
+   "id": "UCJmf_T_JkbK9yC4y6WgcnAw",
+   "created": "2026-03-30",
+   "subs": "19",
+   "videos": "4"
   },
   {
-   "title": "Giant Whirlpool ",
-   "id": "UC_ZSXy0Z5mJyDLV6EC4A-8w",
-   "created": "2025-07-24",
-   "subs": "2960",
-   "videos": "133"
+   "title": "Tierify",
+   "id": "UCtpqj5gMCe42eW8FaPzgzKA",
+   "created": "2025-05-17",
+   "subs": "3660",
+   "videos": "341"
   },
   {
-   "title": "JRNews",
-   "id": "UC7z936e6hQLLduEDCTOJkJQ",
-   "created": "2025-08-14",
-   "subs": "28",
-   "videos": "6"
+   "title": "BlockTwist",
+   "id": "UCn8K6ME0ByspnRWEwXgDo3Q",
+   "created": "2026-10-11",
+   "subs": "56",
+   "videos": "45"
   },
   {
-   "title": "MiKaPiBa",
-   "id": "UCaXQPnPuRf0oHx9_sPN0epQ",
-   "created": "2013-07-24",
-   "subs": "169000",
-   "videos": "29"
+   "title": "Watch_This TV",
+   "id": "UCXyENTC4ridjy8LC01X9RRw",
+   "created": "2026-02-10",
+   "subs": "45500",
+   "videos": "434"
   },
   {
-   "title": "chefkoudy",
-   "id": "UCDQ2HViwQh37NhOENDRsWKw",
-   "created": "2020-05-13",
-   "subs": "12300000",
-   "videos": "1933"
+   "title": "PrimalFootnote",
+   "id": "UCOI_l13zvxxF9yJP2KNlPyA",
+   "created": "2026-09-11",
+   "subs": "266",
+   "videos": "14"
   },
   {
-   "title": "Qurious Minds",
-   "id": "UC8ssOiGy3-pD23z3PndI4Tg",
-   "created": "2023-02-09",
-   "subs": "25200",
-   "videos": "95"
+   "title": "Jenny Mack",
+   "id": "UCFt-h8gMV5tHfNhPUk9Tclw",
+   "created": "2012-01-13",
+   "subs": "388",
+   "videos": "1262"
   },
   {
-   "title": "NeonNekoGamer",
-   "id": "UCM881uA7Hi71t49KjWjoPEA",
-   "created": "2014-12-05",
-   "subs": "2860",
-   "videos": "758"
+   "title": "InfiniteClips",
+   "id": "UCWvob-juebCUv_QrrIP3xUg",
+   "created": "2026-06-19",
+   "subs": "3630",
+   "videos": "283"
   },
   {
-   "title": "Outside TV",
-   "id": "UCl3x43YzlP2RyWCNpOWV2oA",
-   "created": "2010-05-15",
-   "subs": "283000",
-   "videos": "4765"
+   "title": "I love doggos",
+   "id": "UCGD37fPA5gSRcy0TXjDvVjw",
+   "created": "2026-04-25",
+   "subs": "87",
+   "videos": "90"
   },
   {
-   "title": "Statistics of World",
-   "id": "UC6OQeWFHimUcJg3UnRMJr0Q",
-   "created": "2024-03-25",
-   "subs": "3320",
-   "videos": "223"
+   "title": "Daisy & Luna",
+   "id": "UC7vytbbHT_2QEi99xEgHmAg",
+   "created": "2026-10-12",
+   "subs": "23",
+   "videos": "9"
   },
   {
-   "title": "Technical sudip ",
-   "id": "UCD-Gqa2XGsFlE5VyTZMlsEA",
-   "created": "2018-06-14",
-   "subs": "338",
-   "videos": "236"
-  },
-  {
-   "title": "RAW EXPERIMENT",
-   "id": "UC44WaeIEtueFnk7LfMtXEEA",
-   "created": "2019-08-21",
-   "subs": "22800",
-   "videos": "151"
-  },
-  {
-   "title": "Satisfying Whirlpools",
-   "id": "UC3Xo_-Ztg9BeqpZxWuEiJZw",
-   "created": "2017-10-13",
-   "subs": "75900",
+   "title": "CineTrend Movies",
+   "id": "UCrI-eJA98aWq7fepek65yew",
+   "created": "2026-10-12",
+   "subs": "130",
    "videos": "44"
   },
   {
-   "title": "Furreal Facts",
-   "id": "UC4VsXOHrqshJusy3ymK5HHg",
-   "created": "2025-02-07",
-   "subs": "4300",
-   "videos": "363"
+   "title": "The Dilara & Buster Show",
+   "id": "UC9nfVvfNx1HuWv7jFXcTdTA",
+   "created": "2026-09-27",
+   "subs": "88",
+   "videos": "45"
   },
   {
-   "title": "CM WORLD OFFICIAL",
-   "id": "UCtIlCfCbJwbnZW40OOaicMw",
-   "created": "2017-11-18",
-   "subs": "755",
-   "videos": "147"
+   "title": "JJ Paws",
+   "id": "UCtlQBbVjzY0k-n_ehvLn6IQ",
+   "created": "2025-07-08",
+   "subs": "865000",
+   "videos": "859"
   },
   {
-   "title": "powerful motivation ",
-   "id": "UCZiyu8sXgoxJqvaeVw4_MNw",
-   "created": "2024-12-17",
-   "subs": "103",
-   "videos": "1"
+   "title": "MR EXZAM ",
+   "id": "UCTKm93Pq8nQbVUh_ZPu03Kw",
+   "created": "2024-06-16",
+   "subs": "96",
+   "videos": "31"
   },
   {
-   "title": "Aquá Enigmá",
-   "id": "UC_OyE0o6I5bVUKKIMIZfiCg",
-   "created": "2025-03-12",
-   "subs": "122",
-   "videos": "37"
+   "title": "Crazy Blockbuster ",
+   "id": "UCvF_xx_Yd1AvcUNh4zqJx2Q",
+   "created": "2020-07-08",
+   "subs": "15300",
+   "videos": "473"
   },
   {
-   "title": "Bubbleman",
-   "id": "UCZ1yuHZyMDg1hX212uOiUig",
-   "created": "2017-12-31",
-   "subs": "111000",
-   "videos": "18"
-  },
-  {
-   "title": "SeaGuard",
-   "id": "UC42ldzcI6n33X1_ADuCJ7XA",
-   "created": "2025-05-21",
-   "subs": "39",
-   "videos": "29"
-  },
-  {
-   "title": "チシキチャンの知識探究部",
-   "id": "UChfbeoiLPtm9nUhaQsWH31g",
-   "created": "2026-03-20",
-   "subs": "7090",
-   "videos": "212"
-  },
-  {
-   "title": "When Nature Strikes",
-   "id": "UCv_rjitzOds0iBCjiMSzrgw",
-   "created": "2023-04-07",
-   "subs": "1130",
-   "videos": "196"
-  },
-  {
-   "title": "Tiểu Ca TV",
-   "id": "UCWhvoQdFpWszdcDZOE4HKDw",
-   "created": "2021-06-10",
-   "subs": "1580",
-   "videos": "50"
-  },
-  {
-   "title": "jhu890",
-   "id": "UCnnUGLHUyhzdpN3fsYcGowg",
-   "created": "2026-01-10",
-   "subs": "66500",
-   "videos": "37"
-  },
-  {
-   "title": "Jaka Vlogs",
-   "id": "UCJCmyc4tALCBgadGHWF3cMg",
-   "created": "2015-12-20",
-   "subs": "2930",
-   "videos": "119"
-  },
-  {
-   "title": "Taylor & Colton ",
-   "id": "UC-Qu1YFQrzjsIStlVBiHnuA",
-   "created": "2026-01-11",
-   "subs": "28100",
-   "videos": "551"
-  },
-  {
-   "title": "Blue Canary",
-   "id": "UCDiS3SFlyF4q6lSkbD02-TA",
-   "created": "2014-08-13",
-   "subs": "32900",
-   "videos": "1722"
-  },
-  {
-   "title": "Christian Wedoy",
-   "id": "UCKA00zb2VKPHIR4iRpYWQfQ",
-   "created": "2011-06-17",
-   "subs": "1270000",
-   "videos": "970"
-  },
-  {
-   "title": "india cooking microwave cooking",
-   "id": "UC0nLDFKEA5Ch6Ehj6UHUA-A",
-   "created": "2016-07-25",
-   "subs": "8910",
-   "videos": "798"
-  },
-  {
-   "title": "The Space Man",
-   "id": "UCyasRc3ZfaymCITVbLkeS3g",
-   "created": "2024-07-31",
-   "subs": "209000",
-   "videos": "185"
-  },
-  {
-   "title": "call me namie",
-   "id": "UCV_IbtTLkwovtBQ3lmVrmvw",
-   "created": "2025-05-31",
-   "subs": "2000",
+   "title": "Woofologys",
+   "id": "UC5vT2AoFRdQZRC_71Pf0Pfw",
+   "created": "2026-02-23",
+   "subs": "112",
    "videos": "26"
   },
   {
-   "title": "Facts First ",
-   "id": "UCSwKkm2Aib9pRrv4oNDJGdQ",
-   "created": "2025-02-01",
-   "subs": "2520",
-   "videos": "59"
+   "title": "Doctor Lindsay Butzer DVM",
+   "id": "UCBvlURdNKSJ2oRbzUB1_JQw",
+   "created": "2014-01-13",
+   "subs": "129000",
+   "videos": "1343"
   },
   {
-   "title": "StormChaser John",
-   "id": "UCI1iFqp7kz_bCjzs_qhNqFQ",
-   "created": "2022-06-18",
-   "subs": "1880",
-   "videos": "84"
+   "title": "UR Dutta",
+   "id": "UCHUMhfkFu-h_5vpsXRfiZHw",
+   "created": "2024-03-27",
+   "subs": "29900",
+   "videos": "378"
   },
   {
-   "title": "Piricat",
-   "id": "UCIW-C19-_EOT-E1xKfZTKFA",
-   "created": "2023-03-08",
-   "subs": "49100",
-   "videos": "914"
+   "title": "Animal Insight",
+   "id": "UCJ7Z4aWcmlWfrADtB6fG76Q",
+   "created": "2017-05-28",
+   "subs": "52400",
+   "videos": "1038"
   },
   {
-   "title": "Combat Bytes TV",
-   "id": "UC4yHuJLdnbRMOhnJEsk7tBw",
-   "created": "2023-10-26",
-   "subs": "102",
-   "videos": "91"
+   "title": "CrazyKick",
+   "id": "UCra_De-MaaTRGX3epDTnbrg",
+   "created": "2026-10-25",
+   "subs": "1480",
+   "videos": "83"
   },
   {
-   "title": "EdgeKeeper AI",
-   "id": "UCb0RMTJnkV_dlISiPJHfZQw",
-   "created": "2025-04-12",
-   "subs": "519",
-   "videos": "68"
+   "title": "Dachshund Video Channel",
+   "id": "UCYbipPj4fVdqLTn5YLRbDZA",
+   "created": "2025-03-29",
+   "subs": "7410",
+   "videos": "772"
   },
   {
-   "title": "Natural Disaster",
-   "id": "UCw-rKdcnhQ6i443i2QIuItQ",
-   "created": "2019-03-12",
-   "subs": "3270",
-   "videos": "1109"
+   "title": "Tiny Boss Big Dog",
+   "id": "UCY5lvvSIKTR33TGg2OYqYVQ",
+   "created": "2026-06-02",
+   "subs": "141000",
+   "videos": "694"
   },
   {
-   "title": "제토리",
-   "id": "UCAUOdbkouHEeAcx8_fFO2Zg",
-   "created": "2026-10-01",
-   "subs": "14",
-   "videos": "22"
+   "title": "elenateachescontent",
+   "id": "UCYETI6iwLH_0DH0zw0P_PEQ",
+   "created": "2026-09-15",
+   "subs": "21",
+   "videos": "32"
   },
   {
-   "title": "개드리퍼 GAEDRIPPPER",
-   "id": "UCP_sQQpfTSrwD9strjlod6w",
-   "created": "2015-08-12",
-   "subs": "9240",
-   "videos": "1132"
+   "title": "NeuralClips",
+   "id": "UCBMZIE5iPwZYHu09baWLczA",
+   "created": "2026-01-18",
+   "subs": "191",
+   "videos": "35"
   },
   {
-   "title": "군인이야기",
-   "id": "UCWvVu9BnX_M4qWm3cdWTK8A",
-   "created": "2024-11-30",
-   "subs": "186",
-   "videos": "114"
+   "title": "Ranked Paws: Bobik's World",
+   "id": "UCcGC-gzC_aVOG3mGpBanHAQ",
+   "created": "2011-08-20",
+   "subs": "767",
+   "videos": "23"
   },
   {
-   "title": "픽미픽미",
-   "id": "UCWTzHoLj-3PRk-kKle2ymeg",
+   "title": "Happy Puppies",
+   "id": "UCszHjqwq-1qVUwbOOSH1W5g",
+   "created": "2026-08-17",
+   "subs": "553",
+   "videos": "24"
+  },
+  {
+   "title": "Funny Hub",
+   "id": "UCqpJocxUBnNMtqARfF_U6uA",
+   "created": "2026-05-21",
+   "subs": "24900",
+   "videos": "140"
+  },
+  {
+   "title": "상구와봉구",
+   "id": "UC4P4Zcghc5udNz3uEJBqnVw",
+   "created": "2026-08-15",
+   "subs": "5230",
+   "videos": "43"
+  },
+  {
+   "title": "Acam’s Diary",
+   "id": "UCrPPM_ySOUG1SCnREagQtcg",
+   "created": "2024-05-04",
+   "subs": "479000",
+   "videos": "771"
+  },
+  {
+   "title": "UntoldFrames",
+   "id": "UChcrZVLlQSUoQIZU9FETGPQ",
    "created": "2026-06-10",
-   "subs": "3470",
-   "videos": "277"
+   "subs": "8",
+   "videos": "156"
   },
   {
-   "title": "발견했음",
-   "id": "UCYzinhD0Pk_oG1C_KEtin0w",
-   "created": "2026-02-24",
-   "subs": "11600",
-   "videos": "345"
+   "title": "Back To Nature Co 🌿🐾",
+   "id": "UC1uqFB-Rs38lfnVnMLbpAMw",
+   "created": "2026-10-04",
+   "subs": "197",
+   "videos": "43"
   },
   {
-   "title": "1분마음가능대로",
-   "id": "UC1_a7cavYm5HRj4q6wmEG7A",
-   "created": "2026-06-25",
-   "subs": "435",
-   "videos": "180"
+   "title": "Auntie Nina |Comedy Skits and Shorts",
+   "id": "UC70SYVIGD7KVUx64QxOaVVA",
+   "created": "2013-05-03",
+   "subs": "1400",
+   "videos": "229"
   },
   {
-   "title": "VICKsOnGame",
-   "id": "UCwgLrlwhgM12r1ocYt73BBA",
-   "created": "2024-12-16",
-   "subs": "163",
-   "videos": "93"
+   "title": "RumiX",
+   "id": "UCn9wgvmd4j2wvDYRPrOoelA",
+   "created": "2008-07-22",
+   "subs": "21000",
+   "videos": "137"
   },
   {
-   "title": "MYSTERIOUS Earth 0.2",
-   "id": "UCvJ2mbNbMzYzH0ZsBj3JHQg",
-   "created": "2023-10-03",
-   "subs": "34",
+   "title": "Sit Stay Vent",
+   "id": "UCBMf9wJVzrZSP8LGj9gmfPA",
+   "created": "2026-09-21",
+   "subs": "36",
+   "videos": "37"
+  },
+  {
+   "title": "Doggo Poly Shorts",
+   "id": "UC7M1i3KqcmcykmLwvdNRLqw",
+   "created": "2026-05-17",
+   "subs": "19",
+   "videos": "6"
+  },
+  {
+   "title": "Faits Étonnants",
+   "id": "UCHzIihX4FxxUSLFwzNZ-nOw",
+   "created": "2026-06-18",
+   "subs": "11900",
+   "videos": "184"
+  },
+  {
+   "title": "Kaos Chegou ",
+   "id": "UCUS33i5a744xp8kMOMhS_2A",
+   "created": "2021-02-14",
+   "subs": "30200",
+   "videos": "2141"
+  },
+  {
+   "title": "CUTE DOG2.2",
+   "id": "UCD2L6fcsSn4y57uBvSZi3uQ",
+   "created": "2024-12-26",
+   "subs": "5140",
+   "videos": "226"
+  },
+  {
+   "title": "MaX The Funny Dog ",
+   "id": "UCs7I7I3fnoVqeqnctD2c40Q",
+   "created": "2026-07-30",
+   "subs": "395",
+   "videos": "33"
+  },
+  {
+   "title": "Jasmin and James",
+   "id": "UC5OVPGQqCUm0CCyVzELGITQ",
+   "created": "2021-09-12",
+   "subs": "43400000",
+   "videos": "27581"
+  },
+  {
+   "title": "Woofsplained",
+   "id": "UCTCo-3MsYHCE4RDVgmWzhsQ",
+   "created": "2026-10-16",
+   "subs": "369",
+   "videos": "85"
+  },
+  {
+   "title": "Sarah Frank",
+   "id": "UCJbc9niupNEExituBtxhkeA",
+   "created": "2026-08-31",
+   "subs": "131",
+   "videos": "24"
+  },
+  {
+   "title": "Animal Comedy Zone",
+   "id": "UC3xZ-KavL-nAIxkjgSuvPJg",
+   "created": "2026-11-03",
+   "subs": "6",
+   "videos": "9"
+  },
+  {
+   "title": "MISCHIEF WORLD ",
+   "id": "UCC10FPE7zMtaydyy5P_MOzw",
+   "created": "2026-06-17",
+   "subs": "807",
+   "videos": "311"
+  },
+  {
+   "title": "Mimic Bird",
+   "id": "UChD2LbZ1CaZcB91tlFJ8beQ",
+   "created": "2025-09-14",
+   "subs": "800",
+   "videos": "45"
+  },
+  {
+   "title": "Mimic Bird",
+   "id": "UC4lEv-pK98CviMI1b9gIS1g",
+   "created": "2026-11-04",
+   "subs": "19",
+   "videos": "24"
+  },
+  {
+   "title": "5G HINDUSTAN",
+   "id": "UC2sYuGBSwa6XPrWFhjWn59g",
+   "created": "2019-02-06",
+   "subs": "150000",
+   "videos": "808"
+  },
+  {
+   "title": "FUN PARROTS",
+   "id": "UCUPAD4CW3n3SJDnJVi-guiQ",
+   "created": "2026-10-26",
+   "subs": "42",
+   "videos": "32"
+  },
+  {
+   "title": "BJ’s Misadventures",
+   "id": "UCwz5InaS-2lvp5_54NR3cHw",
+   "created": "2012-04-11",
+   "subs": "2120",
+   "videos": "6109"
+  },
+  {
+   "title": "Jimmy’s &pakos channel ",
+   "id": "UCnvJpSxti0ZW_-Mnct6iHhQ",
+   "created": "2011-12-29",
+   "subs": "713",
+   "videos": "516"
+  },
+  {
+   "title": "My cute muthu",
+   "id": "UCRRhFgbUW_PSCUInvdmiA4Q",
+   "created": "2025-07-19",
+   "subs": "1120",
+   "videos": "595"
+  },
+  {
+   "title": "MenacePaws2393",
+   "id": "UCVQy3H3l0xsW0_EPXfe9x-w",
+   "created": "2026-07-15",
+   "subs": "39200",
+   "videos": "61"
+  },
+  {
+   "title": "Feathered Minds",
+   "id": "UCT_IAe6VVs2CwBsqQxFYLvw",
+   "created": "2026-06-20",
+   "subs": "28",
+   "videos": "41"
+  },
+  {
+   "title": "PetBoss Parrots",
+   "id": "UCHZ6tkjhuBEcYvdut-m8vpA",
+   "created": "2017-05-10",
+   "subs": "6530",
    "videos": "38"
   },
   {
-   "title": "숏파일럿",
-   "id": "UCuuH7h0FO69y7UUbv_ljx-g",
-   "created": "2025-04-12",
-   "subs": "67400",
-   "videos": "585"
+   "title": "蹦跳啵妞",
+   "id": "UC6MGCE4COcGQmgxnPCPgTIg",
+   "created": "2023-03-03",
+   "subs": "23900",
+   "videos": "633"
   },
   {
-   "title": "애니숏",
-   "id": "UCKbbsOEvzexEAVPuj22X2Wg",
+   "title": "The gavião ",
+   "id": "UCfevslmPHNstFgdGkeuAAmA",
+   "created": "2026-09-22",
+   "subs": "384",
+   "videos": "15"
+  },
+  {
+   "title": "THE ANIMAL INCIDENT",
+   "id": "UCdxuCplC3KJ-NnV0uVTPP6w",
+   "created": "2026-09-07",
+   "subs": "5820",
+   "videos": "83"
+  },
+  {
+   "title": "randomStuff😵‍💫",
+   "id": "UCWcAnBaeZQZyb31sDz2DIhA",
+   "created": "2026-10-15",
+   "subs": "71",
+   "videos": "37"
+  },
+  {
+   "title": "Udon and Taohu the cockatiel",
+   "id": "UCmnitXU9A6fgJ8ONv_DL1dQ",
+   "created": "2021-12-12",
+   "subs": "4650",
+   "videos": "947"
+  },
+  {
+   "title": "Mybirdi  | Parrot World",
+   "id": "UCb4XQKPr64O3DOzND-TSK0A",
+   "created": "2020-04-11",
+   "subs": "34",
+   "videos": "19"
+  },
+  {
+   "title": "Curiosidade 67",
+   "id": "UCF-AcQ3Okb9RzVZ2m1ASfug",
+   "created": "2026-02-05",
+   "subs": "230000",
+   "videos": "255"
+  },
+  {
+   "title": "Life with Ammy",
+   "id": "UCgWG4-a8V38u6Ly5L00uUMg",
+   "created": "2024-09-09",
+   "subs": "106",
+   "videos": "179"
+  },
+  {
+   "title": "The Chatty Feather",
+   "id": "UCOH0lMw4IF6W6y7eKDH_QBg",
+   "created": "2026-09-12",
+   "subs": "51",
+   "videos": "28"
+  },
+  {
+   "title": "俺、猫。リターンズ",
+   "id": "UCpFwCG7ElcHZpfidE7oneQA",
+   "created": "2024-07-25",
+   "subs": "15900",
+   "videos": "50"
+  },
+  {
+   "title": "Fish, Feather & Fur",
+   "id": "UC2F1Ot2iK1TDw7sZ5svsB1w",
+   "created": "2015-02-28",
+   "subs": "116",
+   "videos": "81"
+  },
+  {
+   "title": "Bozo Tatliş",
+   "id": "UCnZbe0x0uM7JwuQhN1AE86Q",
+   "created": "2013-09-19",
+   "subs": "2560",
+   "videos": "391"
+  },
+  {
+   "title": "PawDaily 🐾",
+   "id": "UCBBrSav47FPYaKDRfoLvhrA",
+   "created": "2017-05-20",
+   "subs": "64700",
+   "videos": "195"
+  },
+  {
+   "title": "Warren Prescott",
+   "id": "UC05NseJxyTHf05zv14_-u6A",
+   "created": "2026-08-13",
+   "subs": "39",
+   "videos": "20"
+  },
+  {
+   "title": "The Bird Flock",
+   "id": "UClkQVCGtGIvE4PButICbGZw",
+   "created": "2026-09-15",
+   "subs": "1070",
+   "videos": "110"
+  },
+  {
+   "title": "Pesca En Miami Con Jesus",
+   "id": "UC5xbt0WEGw1Dax5gJhuZUHg",
+   "created": "2024-12-08",
+   "subs": "15500",
+   "videos": "344"
+  },
+  {
+   "title": "Pet Madness",
+   "id": "UC16L6FgSR0rj0P0NT_dzOTA",
+   "created": "2026-08-28",
+   "subs": "437",
+   "videos": "97"
+  },
+  {
+   "title": "ai animal madness",
+   "id": "UCEnDRK7nuVuxS3fIrqqtC3w",
+   "created": "2026-10-27",
+   "subs": "142",
+   "videos": "67"
+  },
+  {
+   "title": "creative vlogs",
+   "id": "UCd1JcOPpP6hL6Q5hggqPDyQ",
+   "created": "2024-05-30",
+   "subs": "546",
+   "videos": "38"
+  },
+  {
+   "title": "What The LOL?! 😁",
+   "id": "UCsHeSc4vHRIIJwxQHQ9eaTw",
+   "created": "2026-10-19",
+   "subs": "24",
+   "videos": "48"
+  },
+  {
+   "title": "PetRankeds",
+   "id": "UCxyeibeXZz6cCixpFKP3CiQ",
+   "created": "2026-07-30",
+   "subs": "766",
+   "videos": "53"
+  },
+  {
+   "title": "Zuvzy",
+   "id": "UCcep0qB9R_ZMuBGcZOoa05A",
+   "created": "2026-09-11",
+   "subs": "2420",
+   "videos": "92"
+  },
+  {
+   "title": "*•cirius_Alien•*",
+   "id": "UCkuCbSnCSnKadEFAOGhYrrw",
+   "created": "2026-01-08",
+   "subs": "124",
+   "videos": "48"
+  },
+  {
+   "title": "HAHAWOW Animal ",
+   "id": "UCsrxdYa-4kvthH5qlRyZ_-g",
+   "created": "2016-09-25",
+   "subs": "41800",
+   "videos": "1413"
+  },
+  {
+   "title": "Indiancitizen28",
+   "id": "UC-oQxn5nsCpAeDHD1DP5Opw",
+   "created": "2025-12-09",
+   "subs": "868",
+   "videos": "203"
+  },
+  {
+   "title": "Feather Drama",
+   "id": "UCvTb9ePwQpvlNZsRnG82glA",
+   "created": "2026-09-22",
+   "subs": "897",
+   "videos": "79"
+  },
+  {
+   "title": "ANGELIC PARROTS",
+   "id": "UCYLQQHqf6MkT-Mw-43TLUfQ",
+   "created": "2017-07-24",
+   "subs": "8400",
+   "videos": "568"
+  },
+  {
+   "title": "Birds Lover 1982",
+   "id": "UCToC_y1-Ho37n0jJzgepOpQ",
+   "created": "2026-04-27",
+   "subs": "549",
+   "videos": "617"
+  },
+  {
+   "title": "XeniaN‘thePetz",
+   "id": "UCOrGurLl7S_Y4eB6V9cu0Qw",
+   "created": "2024-07-22",
+   "subs": "3",
+   "videos": "8"
+  },
+  {
+   "title": "𝑭𝒊𝒕𝒏𝒆𝒔𝒔 𝑲𝒊𝒏𝒈 ",
+   "id": "UCuYQ356loWrS7NNXAICrnSA",
+   "created": "2020-02-02",
+   "subs": "542",
+   "videos": "801"
+  },
+  {
+   "title": "Booster Singh",
+   "id": "UCl-pZnnv_nAFUYQK7rGg17w",
+   "created": "2021-06-17",
+   "subs": "1120",
+   "videos": "89"
+  },
+  {
+   "title": "Loro Piter",
+   "id": "UC5Wjccuc1eSww7qll3xgCOw",
+   "created": "2015-01-09",
+   "subs": "9680",
+   "videos": "711"
+  },
+  {
+   "title": "MARIA BILMOTE",
+   "id": "UCR_sUnjU7ovoVTbn36DZc6A",
+   "created": "2026-07-20",
+   "subs": "1790",
+   "videos": "42"
+  },
+  {
+   "title": "Myborb_Leica",
+   "id": "UC1e7FgLLwRCodH7WescbLqw",
+   "created": "2023-08-03",
+   "subs": "54",
+   "videos": "35"
+  },
+  {
+   "title": "Coco Victoriano",
+   "id": "UCdIJsi3s-mEIxc-Ek3QVwTQ",
+   "created": "2025-02-25",
+   "subs": "462",
+   "videos": "169"
+  },
+  {
+   "title": "Cute Entertainment",
+   "id": "UCLERDUEFcz2p3tWfSmXPUMQ",
+   "created": "2022-07-11",
+   "subs": "7",
+   "videos": "45"
+  },
+  {
+   "title": "TALKING BIRDS",
+   "id": "UCDZgjAzJ-2Gx4kvouhjUNQA",
+   "created": "2026-09-12",
+   "subs": "10100",
+   "videos": "479"
+  },
+  {
+   "title": "펫무드",
+   "id": "UCGtqty4DP8gbnCeT0aFIrSQ",
+   "created": "2026-06-29",
+   "subs": "1200",
+   "videos": "116"
+  },
+  {
+   "title": "Pet Psychology center",
+   "id": "UCFlAvAZ-sXRywlQoAxxXzPA",
+   "created": "2026-10-04",
+   "subs": "60",
+   "videos": "33"
+  },
+  {
+   "title": "I am Caramelin",
+   "id": "UCsUg-d1jkiyt_277R8ExG9w",
+   "created": "2026-11-02",
+   "subs": "48",
+   "videos": "24"
+  },
+  {
+   "title": "Rebeca a Pug",
+   "id": "UCtQPq5jpak0tpJND8fsGuQQ",
+   "created": "2026-07-10",
+   "subs": "1240",
+   "videos": "165"
+  },
+  {
+   "title": "Just PetSense - Why Does My Pet Do That?",
+   "id": "UCpsp4VZHkxcdeZgptEtFwbw",
+   "created": "2026-05-24",
+   "subs": "100",
+   "videos": "286"
+  },
+  {
+   "title": "Yoon! Molly",
+   "id": "UCxjVIK78QZTJBjnpTVm5LUg",
+   "created": "2026-04-14",
+   "subs": "26",
+   "videos": "59"
+  },
+  {
+   "title": "Евгений Ковалёв",
+   "id": "UCba3kuAfp3RWpz1S3QpYJpw",
+   "created": "2017-03-18",
+   "subs": "1350",
+   "videos": "510"
+  },
+  {
+   "title": "Sam's Just Saying.",
+   "id": "UCmH_zEaP19aDfVY-BtSq6TQ",
+   "created": "2026-07-29",
+   "subs": "2",
+   "videos": "3"
+  },
+  {
+   "title": "SigmaSummerDog",
+   "id": "UCXrwuIXMRISdoU_j9qZpR7g",
+   "created": "2024-10-18",
+   "subs": "8270",
+   "videos": "423"
+  },
+  {
+   "title": "우리들의 계절",
+   "id": "UCVmbVJXq1Xd0K_fRg_6uT-w",
+   "created": "2019-02-18",
+   "subs": "66700",
+   "videos": "2104"
+  },
+  {
+   "title": "Pawfect Finds",
+   "id": "UCmCrs0IdJeonqIuOxiW103Q",
    "created": "2026-09-30",
-   "subs": "21",
-   "videos": "31"
+   "subs": "50",
+   "videos": "112"
+  },
+  {
+   "title": "오늘도 웃참실패",
+   "id": "UCYdMhjZzB-NOgrQ9PvlBcYg",
+   "created": "2026-08-24",
+   "subs": "1070",
+   "videos": "78"
+  },
+  {
+   "title": "PupLogic",
+   "id": "UCMIdDcvsfw4p8n1Vc7K9OMA",
+   "created": "2026-01-29",
+   "subs": "541",
+   "videos": "231"
+  },
+  {
+   "title": "All rounded.",
+   "id": "UClCTjrR1JVAsok8X64QUINg",
+   "created": "2026-08-29",
+   "subs": "221",
+   "videos": "98"
+  },
+  {
+   "title": "Daily Pet Pals",
+   "id": "UC2imkaPeMmVI3lrK4RHHG-w",
+   "created": "2026-06-09",
+   "subs": "61",
+   "videos": "307"
+  },
+  {
+   "title": "TEL TV",
+   "id": "UCnVXp85nyp0vRr3O6ZbK1Xw",
+   "created": "2020-06-06",
+   "subs": "1410",
+   "videos": "164"
   }
  ],
  "search_hits": [
   {
-   "q": "rice cracker whirlpool",
-   "vid": "_9ZyoLZCCwM",
-   "ch": "chefkoudy",
-   "cid": "UCDQ2HViwQh37NhOENDRsWKw",
-   "date": "2024-01-02",
-   "title": "Which WHIRLPOOL level is the toughest? Cake🍩curry &amp; rice",
-   "views": 119820079,
-   "desc": "#howtoeat  #memesvideos  #cinema #curry #cake #dessert #indianfood     #howto #india  #indianstreetfood   #movienight #movie  #movies   #dad   #howtomake  #indian   #funnymoments    #relatable   #foodfun #eating #eatingshow   #funnymemes #memes #funfood #foodie #foodlover #mom  #foodblogger #foodies"
+   "q": "dog jealous new puppy",
+   "vid": "rmkddbZyePE",
+   "ch": "Jack Alif",
+   "cid": "UCvdgBLodMo-rJalWkZcmB5Q",
+   "date": "2026-11-04",
+   "title": "Jealous Chihuahua Pushes Giant Stuffed Dog! 🐶😂 #Shorts #funn",
+   "views": 62447317,
+   "desc": "When a tiny Chihuahua can't handle the attention a giant stuffed golden retriever is getting! Watch this hilarious pet comedy moment as the jealous little pup figures out a way to get rid of the giant toy. If you love funny animal videos and cute dog reactions, make sure to like, comment, and subscr"
   },
   {
-   "q": "rice cracker whirlpool",
-   "vid": "HhVE5i2sztc",
-   "ch": "Technical sudip ",
-   "cid": "UCD-Gqa2XGsFlE5VyTZMlsEA",
-   "date": "2025-07-25",
-   "title": "whirlpool 24L magicook 26E demo 🫵/#microwave #whirlpool #con",
-   "views": 124311,
+   "q": "dog jealous new puppy",
+   "vid": "SO9TGtOzCsQ",
+   "ch": "Faits Étonnants",
+   "cid": "UCHzIihX4FxxUSLFwzNZ-nOw",
+   "date": "2026-10-31",
+   "title": "Cette Chienne Rencontre un Chiot Inconnu… Sa Réaction est In",
+   "views": 302454,
+   "desc": "Cette Chienne Rencontre un Chiot Inconnu… Sa Réaction est Incroyable !\n==========================================================\nchienne rencontre chiot,reaction de chien,chien rencontre chiot,nouveau chiot,reaction incroyable,chien et chiot,presentation chiot,reaction emouvante,chien mignon,moment"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "2A_1rCgrymQ",
+   "ch": "Jasmin and James",
+   "cid": "UC5OVPGQqCUm0CCyVzELGITQ",
+   "date": "2026-10-16",
+   "title": "👇🏼SURPRISING MY GF WITH DREAM PUPPY! 🐶🥹🥰",
+   "views": 204427,
    "desc": ""
   },
   {
-   "q": "rice cracker whirlpool",
-   "vid": "2U15UPak7yQ",
-   "ch": "チシキチャンの知識探究部",
-   "cid": "UChfbeoiLPtm9nUhaQsWH31g",
-   "date": "2026-09-16",
-   "title": "渦にせんべいを入れるとどうなる？",
-   "views": 113612,
+   "q": "dog jealous new puppy",
+   "vid": "P-NeNyRPovM",
+   "ch": "JJ Paws",
+   "cid": "UCtlQBbVjzY0k-n_ehvLn6IQ",
+   "date": "2026-10-17",
+   "title": "Jasmin is a mommy! 🤪🐶 #puppy",
+   "views": 141615,
    "desc": ""
   },
   {
-   "q": "rice cracker whirlpool",
-   "vid": "NLVzG3dIhmE",
-   "ch": "初めて知った",
-   "cid": "UCH4XqRtDChJgSrC2NhA4JGg",
-   "date": "2026-09-29",
-   "title": "渦の上にせんべいを浮かべると起こること",
-   "views": 36094,
-   "desc": "山の小川の岩の間にできた\n小さな渦にせんべいを浮かべてみました\n\n水に浮くはずのせんべいが\n少しずつ渦の真ん中へ引き寄せられていきます\n\nこの渦の下で何が起きているのか分かりますか\n\n#渦 #せんべい #水の渦 #山の小川 #渦の実験\n\n🎵Music provided by 브금대통령\n🎵Track : Documentary Theme D - https://youtu.be/rvrIoRSCfYk"
+   "q": "dog jealous new puppy",
+   "vid": "RrAjK3FkqKg",
+   "ch": "How Humans",
+   "cid": "UCwDTqYj4LWR6hCNW4XxYNHg",
+   "date": "2026-10-18",
+   "title": "Baby Got Jealous When Mom and Dad Cuddled the New Puppy 😂🐶 #",
+   "views": 47693,
+   "desc": "Mom and Dad were busy cuddling the puppy… and the baby noticed! 😂🐶\nWatch till the end to see how this jealousy story ends ❤️\n\nSubscribe for more funny baby & pet moments!\n\n#shorts #funnybaby #babyanddog #goldenretriever #jealousbaby #cutebaby #babyshorts #wholesome"
   },
   {
-   "q": "rice cracker whirlpool",
-   "vid": "6vkmyo6p85s",
-   "ch": "india cooking microwave cooking",
-   "cid": "UC0nLDFKEA5Ch6Ehj6UHUA-A",
-   "date": "2020-10-08",
-   "title": "Jet crispy whirlpool 25 cake  convection mode ues",
-   "views": 7981,
-   "desc": "Whirlpool jet crisp 25 litar"
+   "q": "dog jealous new puppy",
+   "vid": "hBGS3gn84u4",
+   "ch": "Animal Insight",
+   "cid": "UCJ7Z4aWcmlWfrADtB6fG76Q",
+   "date": "2026-10-21",
+   "title": "POV: You Got a New Dog Without Asking the First One 🤣🐶 #angr",
+   "views": 33905,
+   "desc": "POV: You Got a New Dog Without Asking the First One 🤣🐶 #angrydog #funnydogs #dogsreaction #doglove \n\nNew Dog\nJealous Dog\nFunny Dogs\nDog Siblings\nNew Puppy\nDog Reactions\nFunny Dog Moments\nDog Jealousy\nDog Shorts\nFunny Dog Videos\ndog love\ndog humor \ndog angry"
   },
   {
-   "q": "rice cracker whirlpool",
-   "vid": "j8V3iBncG0M",
-   "ch": "RAW EXPERIMENT",
-   "cid": "UC44WaeIEtueFnk7LfMtXEEA",
-   "date": "2026-09-22",
-   "title": "Raw Experiment - Why can this vortex swallow everything? Day",
-   "views": 1253,
-   "desc": ""
+   "q": "dog jealous new puppy",
+   "vid": "dBexf7KbbQg",
+   "ch": "CrazyKick",
+   "cid": "UCra_De-MaaTRGX3epDTnbrg",
+   "date": "2026-11-04",
+   "title": "🐶 Son Asks Dad to Choose Between Him &amp; Dog… Savage Reply",
+   "views": 32912,
+   "desc": "🐶 A new puppy joins the family, but the son suddenly becomes jealous! 😂\n\nDad's savage answer turns this cute family moment into a comedy blast! 🤣\n\nWatch till the last second!\n\nSubscribe to CrazyKickShorts for more hilarious Telugu comedy!\n\n#CrazyKickShorts #FatherSonComedy #DogComedy #PetDog #Telugu"
   },
   {
-   "q": "rice cracker whirlpool",
-   "vid": "l1eKTdtfwYQ",
-   "ch": "powerful motivation ",
-   "cid": "UCZiyu8sXgoxJqvaeVw4_MNw",
-   "date": "2025-01-06",
-   "title": "Which WHIRLPOOL level is the toughest? Cake 🍩 curry &amp; ri",
-   "views": 668,
-   "desc": "#howtoeat #memesvideos #cinema #curry #cake\r\n#dessert #indianfood #howto #india #indianstreetfood\r\n#movienight #movie #movies #dad #howtomake\r\n#indian #funnymoments #relatable #foodfun #eating #eatingshow #funnymemes #memes #funfood #foodie #foodlover #mom #foodblogger #foodies #chefkoudy"
+   "q": "dog jealous new puppy",
+   "vid": "7AUZU1kzUaI",
+   "ch": "Tierify",
+   "cid": "UCtpqj5gMCe42eW8FaPzgzKA",
+   "date": "2026-11-05",
+   "title": "Ranking Best Dogs Being Jealous Moments 😂",
+   "views": 24775,
+   "desc": "Ranking Best Dogs Being Jealous Moments"
   },
   {
-   "q": "rice cracker whirlpool",
-   "vid": "Esi-TmGmJos",
-   "ch": "Tiểu Ca TV",
-   "cid": "UCWhvoQdFpWszdcDZOE4HKDw",
-   "date": "2021-10-13",
-   "title": "Experiment Whirlpool Hole Vs pocker, instant noodles, Korean",
-   "views": 163,
-   "desc": "Experiment Whirlpool Hole Vs pocker, instant noodles, Korean rice cake, flower, seahorses\nlốc xoáy và tú lơ khơ, mỳ tôm, bánh mỳ, keo con voi, hoa, bánh gạo one one, con cá ngựa"
+   "q": "dog jealous new puppy",
+   "vid": "wBSMov2Irto",
+   "ch": "PrimalFootnote",
+   "cid": "UCOI_l13zvxxF9yJP2KNlPyA",
+   "date": "2026-11-13",
+   "title": "Dog Sees Mom Cuddling a “New Puppy”… His Reaction Is Pricele",
+   "views": 25242,
+   "desc": "Mom gives a stuffed puppy some attention, and the real dog instantly notices. What happens next turns into the cutest little jealousy moment between a baby, his best friend, and one very suspicious American Bully. 😂🐶👶\nWould your dog react the same way? Tell us in the comments!\nHashtags\n#BabyAndDog\n#"
   },
   {
-   "q": "whirlpool swallows rice cake",
-   "vid": "j8V3iBncG0M",
-   "ch": "RAW EXPERIMENT",
-   "cid": "UC44WaeIEtueFnk7LfMtXEEA",
-   "date": "2026-09-22",
-   "title": "Raw Experiment - Why can this vortex swallow everything? Day",
-   "views": 1253,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "zssgC5_0Hj0",
-   "ch": "MiKaPiBa",
-   "cid": "UCaXQPnPuRf0oHx9_sPN0epQ",
-   "date": "2018-01-13",
-   "title": "Real large vortex / whirlpool at Saint-Malo (Barrage de la R",
-   "views": 83468597,
-   "desc": "Very impressive, this giant vortex at the Barrage between Saint Malo and Dinant in France (Barrage de la Rance). At the right time of day, you can see it just from the dam.\n\nWe recorded this vortex during our holiday trip in august 2013  when we visited Mont Saint-Michel and Saint Malo. We caught it"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "cEX4nLz83h4",
-   "ch": "Bubbleman",
-   "cid": "UCZ1yuHZyMDg1hX212uOiUig",
-   "date": "2017-12-31",
-   "title": "Bubbleman makes a Whirlpool!",
-   "views": 17209425,
-   "desc": "Ever wondered how to make your own whirlpool?  Here's how!\nThis is the original Bubbleman Video that started it all.\n\nBecome Bubbleman's hero: https://www.patreon.com/SuperBubbleman"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "b8eJmiyiqrI",
-   "ch": "Christian Wedoy",
-   "cid": "UCKA00zb2VKPHIR4iRpYWQfQ",
-   "date": "2020-11-27",
-   "title": "How to make a Whirlpool",
-   "views": 17093696,
-   "desc": "This is the easiest way to make a whirlpool underwater in the pool.\nA step by step instruction to make a underwater tornado.\nIf you liked this video you may also like my video about how to shoot a bubble ring with a Coca-Cola bottle\n\n\nMy Vlog Channel: \r\nhttps://www.youtube.com/channel/UCS-N5xURBE1Wy"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "-W7aetSYdfQ",
-   "ch": "Unusual stuff",
-   "cid": "UCbmKebLBY37hbGOIEE3bjnQ",
-   "date": "2025-05-04",
-   "title": "Incredible complete process of black hole/vortex/whirlpool f",
-   "views": 22673205,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "8JM1AQY3Fn8",
-   "ch": "Zack D. Films",
-   "cid": "UCvz84_Q0BbvZThy75mbd-Dg",
-   "date": "2024-12-10",
-   "title": "How To Escape A Whirlpool 😨",
-   "views": 14164472,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "PyxTrHBjOTc",
-   "ch": "Megan and Ben",
-   "cid": "UCXvbilRzK1DrcrYM_0-BxfQ",
-   "date": "2023-01-03",
-   "title": "Bet you didn&#39;t know this! #education #whirlpool #naruto ",
-   "views": 12914632,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "QwuC7f_HF3Y",
-   "ch": "Satisfying Whirlpools",
-   "cid": "UC3Xo_-Ztg9BeqpZxWuEiJZw",
-   "date": "2021-09-25",
-   "title": "Lego Man vs Whirlpool 😲",
-   "views": 2855156,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "ibdByQHqAzg",
-   "ch": "call me namie",
-   "cid": "UCV_IbtTLkwovtBQ3lmVrmvw",
-   "date": "2025-06-24",
-   "title": "biggest whirlpool in the world??🤯😱 #viral",
-   "views": 1862298,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "PP92wbo-6nI",
-   "ch": "Facts First ",
-   "cid": "UCSwKkm2Aib9pRrv4oNDJGdQ",
-   "date": "2025-03-02",
-   "title": "The Biggest Whirlpool ☠️",
-   "views": 1320593,
-   "desc": "#biggest #whirlpool #satisfyingvideo #satisfying \n#ytshorts \nThe Biggest Whirlpool ☠️"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "W4wgoseLOEU",
-   "ch": "StormChaser John",
-   "cid": "UCI1iFqp7kz_bCjzs_qhNqFQ",
-   "date": "2023-08-06",
-   "title": "Whirlpool in a Swimming Pool Underwater view(2)",
-   "views": 1442705,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "VPimzz-xz9I",
-   "ch": "Huck Buddies Disc Golf",
-   "cid": "UCQl_Ja9Kt6kP1cE0UtHwKPA",
-   "date": "2023-10-30",
-   "title": "Whirlpool Wonders... Possibilities? #disc #discgolf #havefun",
-   "views": 1132347,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "xgqxTM7ytSk",
-   "ch": "Piricat",
-   "cid": "UCIW-C19-_EOT-E1xKfZTKFA",
-   "date": "2025-06-21",
-   "title": "Can a giant whirlpool drag a ship to the bottom of the ocean",
-   "views": 964159,
-   "desc": "Some claims suggest that giant whirlpools can swallow ships and drag them to the bottom of the ocean. To test this myth, the MythBusters team first created a vortex in a small tank using a pump. A paper boat was easily pulled in. They then built a massive 34,000-liter tank and tested it with a model"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "LHizbnhRZ2Q",
-   "ch": "Poor Pumper Society",
-   "cid": "UCypQoNa-3-0po-ZYknGShxQ",
-   "date": "2023-03-24",
-   "title": "The forbidden whirlpool #shorts",
-   "views": 520936,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "URy9zl9X10s",
-   "ch": "NeonNekoGamer",
-   "cid": "UCM881uA7Hi71t49KjWjoPEA",
-   "date": "2024-03-08",
-   "title": "Chip Thinks That Eystreem Is A Stream Of Water And Then Gets",
-   "views": 550812,
-   "desc": "Original video by Eystreem: https://www.youtube.com/watch?v=p_RI2V93jFY"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "c-YuGNCy5dc",
-   "ch": "Nature Microverse",
-   "cid": "UCn8jIFe5HqPSVNj5UaGvvEA",
-   "date": "2024-11-22",
-   "title": "World Strongest Whirlpool, Salstraumen in Norway #nature",
-   "views": 512507,
-   "desc": "Disclaimer: This information is taken from the internet which may or may not be true we DO NOT want to spread any fake news. The content provided by this channel is meant for EDUCATIONAL/ENTERTAINMENT PURPOSE only.\n\nCopyright Disclaimer: The content in this video is provided for educational and info"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "b493R2RPlBQ",
-   "ch": "Outside TV",
-   "cid": "UCl3x43YzlP2RyWCNpOWV2oA",
-   "date": "2015-05-18",
-   "title": "Kayaker Steve Fisher Sucked Into a Whirlpool | Explorers",
-   "views": 275434,
-   "desc": "The worst happens when Steve Fisher’s kayak gets sucked into a whirlpool and for the first time he faces the possibility of drowning. Watch \"Explorers\" on Outside Television: http://ow.ly/YfQkG"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "tCeM_T1HxGI",
-   "ch": "The Space Man",
-   "cid": "UCyasRc3ZfaymCITVbLkeS3g",
-   "date": "2025-08-14",
-   "title": "The Deadly Beauty of a Whirlpool",
-   "views": 509186,
-   "desc": "We've all seen water spin down a drain, but what happens when this happens on a massive scale in a river or the ocean? It creates a whirlpool, a mesmerizing vortex that is as dangerous as it is beautiful.\n#Whirlpool #RiverSafety #Nature #Science #WaterSafety #Ocean"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "0oOuy6bK0v8",
-   "ch": "FIBONACCI TV",
-   "cid": "UCIqL_JKJsE1VNzS2PDtgl2Q",
-   "date": "2024-11-15",
-   "title": "Walking downstairs isn’t easy using the whirlpool filter#fyp",
-   "views": 375581,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "9t2yHFvQeNk",
-   "ch": "Statistics of World",
-   "cid": "UC6OQeWFHimUcJg3UnRMJr0Q",
-   "date": "2024-08-18",
-   "title": "Biggest Whirlpool Ever Recorded 😱 #shorts #trending #youtube",
-   "views": 237506,
-   "desc": "Biggest Whirlpool Ever Recorded 😱 #shorts #trending #youtubeshorts\n\nwhirlpool  \nbiggest whirlpool  \nbiggest whirlpools  \nbiggest  \nbiggest whirlpool in the world  \nthe naruto whirlpools  \nthe biggest whirlpools of all time! (ocean whirlpool)  \nwhirlpools  \ncorryvreckan’s whirlpool  \nwater whirlpool "
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "3FBQtZbI4CM",
-   "ch": "EasyOne_1",
-   "cid": "UCgdpB1Xl2mhRyRruwb-ZF0Q",
-   "date": "2025-07-03",
-   "title": "Massive ocean whirlpools that look like they could swallow y",
-   "views": 242693,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "zThFyGjp1Pg",
-   "ch": "Furreal Facts",
-   "cid": "UC4VsXOHrqshJusy3ymK5HHg",
-   "date": "2025-08-25",
-   "title": "What Happens If You Fall Into a Whirlpool?",
-   "views": 180756,
-   "desc": "#shorts #viralvideo #viralshorts #interestingfacts #funfacts #didyouknow #whirlpool #vortex #ocean #river #water #currents #dangerous #nature #natural #phenomenon #science \n\nNature’s Giant Water Trap 🌊😱\n\nWhirlpools are spinning vortexes of water that can swallow boats, drag swimmers, and create terr"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "6HuJu1QUUBo",
-   "ch": "Daily Facts",
-   "cid": "UC67Xj2W42v6x_syA-cB-mbQ",
-   "date": "2025-06-29",
-   "title": "🌊 Nature’s Ultimate Whirlpool – A Deep Sea Monster",
-   "views": 163025,
-   "desc": "Have you ever seen water spiral like this? This natural whirlpool is a stunning — yet terrifying — force of nature. Found in oceans and rivers, whirlpools are caused by clashing currents, underwater terrain, and intense tidal flows. Some are harmless, but others can swallow entire vessels!\n\n🌍 From N"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "WOjrwC71aMo",
-   "ch": "Blue Canary",
-   "cid": "UCDiS3SFlyF4q6lSkbD02-TA",
-   "date": "2025-09-03",
-   "title": "The FINAL Moments of JACOB COCKLE #death #whirlpool #drownin",
-   "views": 182546,
-   "desc": "Back in 2013, the news that acclaimed 28 year old surf photographer Jacob Cockle had lost his life while swimming in a whirlpool sent shockwaves through the Cornish surf community.\n\nCockle was from Penzance and attended the same school as fellow lensmen Jack Johns and Mikey Smith. He was cut from a "
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "2099wLD0PE0",
-   "ch": "Taylor & Colton ",
-   "cid": "UC-Qu1YFQrzjsIStlVBiHnuA",
-   "date": "2026-02-10",
-   "title": "Whirlpool Sucking Boats In",
-   "views": 117552,
-   "desc": "This water turns deadly in seconds 😳\nA massive whirlpool forms — and boats get pulled straight toward the center like toys.\nWatch until the end 👀\n👇👇👇\nWould you know what to do in this situation?\nSubscribe for more unbelievable moments caught on camera.\n\n#viral #shorts #ytshorts #whirlpool #ocean #bo"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "ZfqoNb2mW3E",
-   "ch": "Qurious Minds",
-   "cid": "UC8ssOiGy3-pD23z3PndI4Tg",
-   "date": "2024-04-23",
-   "title": "Tiny Boat vs. MONSTER WHIRLPOOL! Caught on Camera!😨#shorts #",
-   "views": 39073,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "IBmwwVqA1e0",
-   "ch": "When Nature Strikes",
-   "cid": "UCv_rjitzOds0iBCjiMSzrgw",
-   "date": "2023-08-30",
-   "title": "Biggest Whirlpool In The World Caught On Camera #shorts",
-   "views": 14928,
-   "desc": "\"Biggest Whirlpool In The World Caught On Camera\" \n\noffers a mesmerizing glimpse into the astonishing natural phenomenon of a colossal whirlpool in action. Witness the sheer power and mesmerizing swirls as water converges and forms this massive vortex. This rare spectacle showcases the remarkable fo"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "ihk-V4Pc1wo",
-   "ch": "short story",
-   "cid": "UC28tJRmWmFV4d9I3Flb0wYw",
-   "date": "2025-08-22",
-   "title": "Massive River Whirlpool Caught on Camera! #shorts #viralvide",
-   "views": 29157,
-   "desc": "Massive River Whirlpool Caught on Camera! #shorts #shortvideo #viralvideo \n\nWatch this unbelievable giant whirlpool form in a river — nature’s power is incredible! 🌪️  \nStay tuned for more amazing natural phenomena.\n\n\n#Whirlpool #RiverVortex #NaturePower #Shorts #ViralVideo #AmazingNature #NaturalDi"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "YI27Lh3u5WM",
-   "ch": "AniShorts AI",
-   "cid": "UC69Q2rveB-2GTgRa2hkSNoQ",
-   "date": "2025-12-22",
-   "title": "Giant Whirlpool Caught on Camera😰#shorts",
-   "views": 12562,
-   "desc": "Is video mein aap dekhenge ek bhayanak flood situation, jahan ek passenger boat muddy floodwater ke beech chal rahi hoti hai.\nTabhi achanak boat ke bilkul side mein ek massive circular whirlpool ban jaata hai jo pani ko gol-gol ghumate hue neeche kheenchne lagta hai 🌪️🌊\nBoat ke log buri tarah se gha"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "Z1BRkMTMEvY",
-   "ch": "Dams explorer",
-   "cid": "UCoC0Ltp0726p3ZsH0mlBBzg",
-   "date": "2025-08-17",
-   "title": "Real large vortex | Intake gate whirlpool-Camera caught hydr",
-   "views": 5002,
-   "desc": "Witness the power of nature and engineering as a massive vortex forms at the intake gate spillways. This rare footage captures a hydraulic whirlpool created by the strong suction of water entering the intake system. Such vortex formations are not only incredible to watch but also highlight the raw e"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "vUEfXhH66tc",
-   "ch": "FC HINDI",
-   "cid": "UCmZKvI0KeKEdoVtDx78wJ8w",
-   "date": "2022-11-30",
-   "title": "whirlpool in ocean caught on camera #shorts",
-   "views": 5773,
-   "desc": "whirlpool in ocean caught on camera #shorts \nwhirlpool in ocean sinks ship\nwhirlpool in ocean in hindi\nwhirlpool in ocean real\nwhirlpool in ocean biggest\nshorts\nviral\nfact changer\nfc hindi\n#whirlpool #viral #factchanger #fchindi"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "zrwJXAvt7gA",
-   "ch": "Giant Whirlpool ",
-   "cid": "UC_ZSXy0Z5mJyDLV6EC4A-8w",
-   "date": "2026-08-22",
-   "title": "🌑 DANGEROUS Night Whirlpool Caught on Camera! 😱🌊 #whirlpool ",
-   "views": 6779,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "vVHu0JVJi-g",
-   "ch": "JRNews",
-   "cid": "UC7z936e6hQLLduEDCTOJkJQ",
-   "date": "2025-08-16",
-   "title": "“Caught on camera: massive whirlpool pulls boats into the cu",
-   "views": 8984,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "gl1eF8__2U4",
-   "ch": "Aquá Enigmá",
-   "cid": "UC_OyE0o6I5bVUKKIMIZfiCg",
-   "date": "2025-12-05",
-   "title": "GIANT WHIRLPOOL, The Aerial Footage of Drone Accidentally Ca",
-   "views": 10090,
-   "desc": "A drone accidentally captured a large whirlpool in the sea on video.\n\nphenomenon occurs \nwhirlpool \naccidentally Caught on camera \ncaptured by drone\nocean \n\n#shorts #viralshorts #whirlpool #phenomenon #ocean"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "tJVDm98vDks",
-   "ch": "CNC Editz",
-   "cid": "UC6gHzQBx5pNyM1t4zc3MuUA",
-   "date": "2023-12-07",
-   "title": "The Biggest WhirlPool Caught On Camera #status #gaming #tren",
-   "views": 3182,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "KmO-Fhk_KyQ",
-   "ch": "Jaka Vlogs",
-   "cid": "UCJCmyc4tALCBgadGHWF3cMg",
-   "date": "2022-07-15",
-   "title": "Creepy Whirlpool Caught on Camera | Tago-Lapaz Bridge, Surig",
-   "views": 4069,
-   "desc": "Don't forget to subscribe and click the bell button for you to be notified every time I have a new video upload.\n----------------------------------------------------------------------------------------------------------\nFollow My Social Media links:\n\nFacebook: Jaka Emmanuel Lumanao\nInstagram: @jakae"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "teQ7BcfHRPk",
-   "ch": "jhu890",
-   "cid": "UCnnUGLHUyhzdpN3fsYcGowg",
-   "date": "2026-03-28",
-   "title": "Whirlpool Moments Caught on Camera#funny#shorts",
-   "views": 5249,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "9O6HnI5zOBo",
-   "ch": "Astro Gazer",
-   "cid": "UCmewDnTgjHHqDG1eYmEebSA",
-   "date": "2025-07-22",
-   "title": "I captured &quot;The Whirlpool Galaxy🌌&quot; #shorts",
-   "views": 4004,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "DyeHCDYDagM",
-   "ch": "Mr. Cool",
-   "cid": "UC-xhaVuSIGn3BjvmSNoXVdA",
-   "date": "2021-08-19",
-   "title": "Devil&#39;s Hole Whirlpool Canada | Natural Phenomenon Caugh",
-   "views": 2462,
-   "desc": "Devil's Hole at Dent Island in Canada | Whirlpool in Canada! \n\nNatural Phenomenon Caught on camera | Most Beautiful Natural Phenomenon! \n\n#naturalphenomenon #natural #earth #shorts"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "Oe4Md2hRWn8",
-   "ch": "SeaGuard",
-   "cid": "UC42ldzcI6n33X1_ADuCJ7XA",
-   "date": "2025-08-01",
-   "title": "Strange Whirlpool Appears Near Boat 🌪️🌊 | Ocean Mystery Caug",
-   "views": 2714,
-   "desc": "A mysterious whirlpool formed just meters from a small boat...\nNo storm, no warning — just the sea doing what it does best: surprise us.\nWatch closely — this could’ve ended in disaster.\n⚠️ Always respect the ocean.\n🎥 Lifeguard reacts to rare ocean events & safety tips.\n👉 Subscribe for more.\n#oceanmy"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "-O81SdQH3jg",
-   "ch": "CM WORLD OFFICIAL",
-   "cid": "UCtIlCfCbJwbnZW40OOaicMw",
-   "date": "2021-01-31",
-   "title": "Whirlpool in ocean phenomena 2021 | whirlpool in ocean caugh",
-   "views": 1367,
-   "desc": "Whirlpool in ocean phenomena 2021 | whirlpool in ocean caught on camera | Cm World Official #shorts #phenomena #Whirlpool\n\n\nhye guys i hope you well. Now we are creating a youtube channel only for you. Why we choose our channel name is CM WORLD OFFICIAL. Because this is an educational, motivational,"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "CZa0sCrHKdY",
-   "ch": "Aleksanderbigby",
-   "cid": "UCaI2vrGiDax8pzEapmpM8LQ",
-   "date": "2024-06-07",
-   "title": "Real life whirlpools caught on camera! #whirlpool",
-   "views": 1208,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "p7tVPwiTq2A",
-   "ch": "Life Struggle ",
-   "cid": "UC__xKdxUiDL7Yo68YkhpZOg",
-   "date": "2026-08-14",
-   "title": "🌪️ Real Water Whirlpool Caught on Camera!",
-   "views": 2202,
-   "desc": "A real water whirlpool formed in my field while water was flowing. The spinning vortex looks unbelievable and satisfying to watch. Nature always creates amazing scenes that surprise us. Watch till the end and tell me in the comments if you have ever seen a whirlpool like this before!\n#Shorts #WaterW"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "Pn0L02NVX8c",
-   "ch": "EdgeKeeper AI",
-   "cid": "UCb0RMTJnkV_dlISiPJHfZQw",
-   "date": "2025-06-08",
-   "title": "🌊 “CRUISE SHIP vs WHIRLPOOL 😱 | Nature&#39;s Wrath Caught on",
-   "views": 2947,
-   "desc": "A once-in-a-lifetime cruise turns into sheer chaos 😨\nAs the sea opens beneath, a monstrous whirlpool forms, pulling the giant ship toward the abyss! 🌪️\nWitness the power of nature like never before!\nWould YOU survive this disaster? 🌊💥\n\n🎧 Best with sound ON!\n📌 Watch till the end – it gets WILD!\n\n🌀 Di"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "CkPafYsGo0w",
-   "ch": "When Nature Strikes",
-   "cid": "UCv_rjitzOds0iBCjiMSzrgw",
-   "date": "2023-08-30",
-   "title": "Biggest Whirlpool In The World Caught On Camera",
-   "views": 816,
-   "desc": "\"Biggest Whirlpool In The World Caught On Camera\" \n\noffers a mesmerizing glimpse into the astonishing natural phenomenon of a colossal whirlpool in action. Witness the sheer power and mesmerizing swirls as water converges and forms this massive vortex. This rare spectacle showcases the remarkable fo"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "S8RPv7qnFIo",
-   "ch": "MYSTERIOUS Earth 0.2",
-   "cid": "UCvJ2mbNbMzYzH0ZsBj3JHQg",
-   "date": "2025-03-13",
-   "title": "WORLD&#39;S LARGEST Whirlpool Caught on Camera",
-   "views": 725,
-   "desc": "Witness the awe-inspiring power of nature in this incredible footage of the world's largest whirlpool caught on camera! This mesmerizing phenomenon is a sight to behold, with swirling waters creating a massive vortex that will leave you on the edge of your seat. From the sheer scale to the hypnotic "
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "n_yQfdN4Dgs",
-   "ch": "VICKsOnGame",
-   "cid": "UCwgLrlwhgM12r1ocYt73BBA",
-   "date": "2025-10-18",
-   "title": "Strange Things Caught On Camera! The Whirlpool #truecrimecom",
-   "views": 994,
-   "desc": ""
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "cVN5OuhZxBY",
-   "ch": "Combat Bytes TV",
-   "cid": "UC4yHuJLdnbRMOhnJEsk7tBw",
-   "date": "2025-09-04",
-   "title": "The CHILLING FINAL MOMENTS of a Boat in BIGGEST WHIRLPOOL🚨#s",
-   "views": 1659,
-   "desc": "he CHILLING FINAL MOMENTS of a Boat in BIGGEST WHIRLPOOL🚨#shorts.  The Most Dangerous Situations Ever Captured On Camera.  The CHILLING FINAL MOMENTS of a Boat in Whirlpool🚨#shorts.  The CHILLING FINAL MOMENTS of a Boat in Whirlpool.  A terrifying encounter with a deadly whirlpool captures the final"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "j5ZMOg8kyxw",
-   "ch": "Natural Disaster",
-   "cid": "UCw-rKdcnhQ6i443i2QIuItQ",
-   "date": "2025-05-22",
-   "title": "WHIRLPOOL TERROR: Ocean Sucks Beach Into Vortex! (Caught on ",
-   "views": 1187,
-   "desc": "WHIRLPOOL BREAK! Ocean Sucks the Beach In – Terrifying Collapse Caught on Camera\n\nPanic erupts as a massive whirlpool forms just offshore, reversing the tide and dragging everything into a swirling abyss. Beachgoers scream and scatter as umbrellas, lifeguard towers, and even people vanish into the o"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "lDLL6yL_ewc",
-   "ch": "Natural Disaster",
-   "cid": "UCw-rKdcnhQ6i443i2QIuItQ",
-   "date": "2025-08-16",
-   "title": "Boat Swallowed by a Deadly Whirlpool – Terrifying Moment Cau",
-   "views": 1172,
-   "desc": "The Swallowed Boat: A Deadly Whirlpool Devours Everything\n\nA serene river cruise quickly turns into a nightmare when the boat is caught by an unstoppable whirlpool. Watch as the boat struggles against the fierce pull of the vortex, tilting and creaking under immense pressure. Passengers are thrown i"
-  },
-  {
-   "q": "whirlpool in stream caught on camera",
-   "vid": "I_uk9FrVI74",
-   "ch": "Natural Disaster",
-   "cid": "UCw-rKdcnhQ6i443i2QIuItQ",
-   "date": "2025-04-30",
-   "title": "Trapped in a MASSIVE Whirlpool! 😱 (Caught on Camera) #danger",
-   "views": 582,
-   "desc": "Nature’s Fury: Swimmers Battle the Edge of a Real-Life Vortex!\n\n**\"Witness the raw power of nature as two swimmers get dangerously close to a MASSIVE whirlpool! The swirling vortex sucks water into the abyss, creating an intense and surreal scene. While some bystanders seem unfazed, these swimmers f"
-  },
-  {
-   "q": "쌀과자 소용돌이",
-   "vid": "Xlv4V-sMc1k",
-   "ch": "숏파일럿",
-   "cid": "UCuuH7h0FO69y7UUbv_ljx-g",
-   "date": "2026-09-11",
-   "title": "쌀과자가 소용돌이를 만나면 생기는 일",
-   "views": 10556662,
-   "desc": "물에 둥둥 뜨는 쌀과자가 소용돌이를 만나는 순간 어떻게 될까요?\n\n\n\n\n#소용돌이 #블랙홀 #유체역학 #실험"
-  },
-  {
-   "q": "쌀과자 소용돌이",
-   "vid": "UDX57_YlZAQ",
-   "ch": "발견했음",
-   "cid": "UCYzinhD0Pk_oG1C_KEtin0w",
-   "date": "2026-09-14",
-   "title": "소용돌이에 넣어봤더니 도대체 어디로?",
-   "views": 27103,
-   "desc": "소용돌이 위에 쌀과자를 띄워보자\n중심을 따라 빙글빙글 돌다가 결국 물속으로 사라집니다.\n\n이번에는 실에 묶은 사람 모형을 가까이 가져가 보는데,\n순식간에 아래로 끌려 들어가 버립니다.\n\n실에 묶여 있으니 다시 건져 올리면 될 것 같았지만\n막상 끌어올려 보니 예상과는 다른 모습.\n\n도대체 어디로 사라진 걸까요?\n\n※ 영상 속 장면을 바탕으로 새롭게 구성·각색한 콘텐츠입니다."
-  },
-  {
-   "q": "쌀과자 소용돌이",
-   "vid": "5tn7ykXdlqQ",
-   "ch": "픽미픽미",
-   "cid": "UCWTzHoLj-3PRk-kKle2ymeg",
-   "date": "2026-09-21",
-   "title": "물 위에 뜨던 쌀과자가 소용돌이에서 회전하는 과정 #process #water #vortex #experim",
-   "views": 8803,
-   "desc": "## 1. 실험 개요\n물 위에 놓인 쌀과자가 소용돌이 주변으로 이동하고 회전합니다. 수면에 뜨는 물체라도 주변 물이 흐르면 위치와 자세가 함께 달라질 수 있습니다.\n\n## 2. 실험 요소\n- 쌀과자: 물의 흐름에 따라 이동하는 가벼운 물체입니다.\n- 물: 과자를 떠 있게 하는 부력을 제공하면서, 흐름을 통해 과자의 움직임에도 영향을 줍니다.\n- 회전 흐름: 소용돌이 주변에서 과자의 이동 방향과 회전을 바꾸는 요소입니다.\n\n## 3. 진행 과정\n1. 쌀과자가 수면 위에 놓입니다.\n2. 물의 흐름을 따라 소용돌이 주변으로 이동합니다.\n"
-  },
-  {
-   "q": "쌀과자 소용돌이",
-   "vid": "XpsOgHGsttQ",
-   "ch": "1분마음가능대로",
-   "cid": "UC1_a7cavYm5HRj4q6wmEG7A",
-   "date": "2026-10-08",
-   "title": "소용돌이에 쌀과자를 던지면 끝까지 눈을 못 떼는 이유",
-   "views": 6619,
-   "desc": "작은 소용돌이에 던진 쌀과자가 수면에서 회전하다가 물속으로 사라지는 과정을 담았습니다. 처음에는 멀쩡하게 떠 있던 과자가 중심 부근으로 이동하면서 회전하는 위치와 각도가 달라집니다. 마지막에는 과자가 물속으로 끌려 내려가는 모습과 함께 소용돌이의 흐름을 설명합니다. 배수 소용돌이에서는 물이 안쪽으로 모이며 아래로 흐르고, 안쪽으로 이동하는 물의 회전이 빨라질 수 있습니다. 과자의 움직임은 이런 물의 흐름을 따라 끌려가는 모습으로 해석할 수 있지만, 화면만으로 물속 설비의 구체적인 구조까지 확인할 수는 없습니다. 신기한 결과에만 주목"
-  },
-  {
-   "q": "쌀과자 소용돌이",
-   "vid": "5yLhrJFyCZQ",
-   "ch": "애니숏",
-   "cid": "UCKbbsOEvzexEAVPuj22X2Wg",
-   "date": "2026-10-01",
-   "title": "쌀과자 그냥 떠 있는 줄 알았는데… 갑자기 쏙",
-   "views": 1673,
-   "desc": "빙빙 돌기만 하던 쌀과자가 갑자기 쏙 사라집니다 😳\n\n이렇게 물이 회전하는 흐름을 소용돌이, 즉 ‘와류’라고 합니다.\n\n계곡에서 소용돌이나 급류가 보이면 가까이 가지 마세요.\n떠내려간 슬리퍼도 잡으러 따라 들어가지 마세요.\n물건보다 사람이 먼저입니다.\n\n#소용돌이 #쌀과자 #물놀이안전 #신기한현상 #Shorts"
-  },
-  {
-   "q": "쌀과자 소용돌이",
-   "vid": "5YEQqWomoHQ",
-   "ch": "제토리",
-   "cid": "UCAUOdbkouHEeAcx8_fFO2Zg",
-   "date": "2026-10-25",
-   "title": "소용돌이에 쌀과자를 던지면 생기는 일 #shorts",
-   "views": 1704,
-   "desc": "계곡 바위 틈의 수상한 소용돌이에 쌀과자를 던져 봤습니다. 가라앉지 않고 버티던 과자가 중심으로 끌려가더니 미친 속도로 돌기 시작합니다. 그리고 마지막에 나타난 것은?\n\n음악: Hans Zimmer - Interstellar Main Theme\n\n#소용돌이 #쌀과자 #계곡 #shorts"
-  },
-  {
-   "q": "쌀과자 소용돌이",
-   "vid": "E2AOWuZwaqI",
-   "ch": "개드리퍼 GAEDRIPPPER",
-   "cid": "UCP_sQQpfTSrwD9strjlod6w",
-   "date": "2026-09-13",
-   "title": "소용돌이에 던져진 쌀과자의 최후 #SHORTS",
-   "views": 101,
-   "desc": "무한 개드립 NO.753"
-  },
-  {
-   "q": "쌀과자 소용돌이",
-   "vid": "LiIFW_Wt77o",
-   "ch": "군인이야기",
-   "cid": "UCWvVu9BnX_M4qWm3cdWTK8A",
+   "q": "dog jealous new puppy",
+   "vid": "0iFdH2KwMHk",
+   "ch": "상구와봉구",
+   "cid": "UC4P4Zcghc5udNz3uEJBqnVw",
    "date": "2026-10-29",
-   "title": "쌀과자 던졌더니 소용돌이가 먹방 01 Dream lantern",
+   "title": "강아지한테 질투하던 아들… 며칠 뒤 아빠도 기겁ㅋㅋ #드라마 #쇼츠 #스케치코미디",
+   "views": 17859,
+   "desc": "“아빠 진짜 유난이다.”\n강아지 챙기는 아빠를 타박하던 봉구.\n그런데 며칠 뒤… 아빠도 말문이 막혔습니다🤣\n\n우리 집도 싫다던 사람이 제일 예뻐하나요?🐶\n재밌게 보셨다면 구독과 좋아요 부탁드려요❤️\n\n#상구와봉구 #강아지 #강아지반응 #포메라니안 #가족시트콤 #현실공감 #츤데레 #웃긴영상 #반전 #쇼츠 #shorts"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "3AvmJNEH2Cc",
+   "ch": "Funny Hub",
+   "cid": "UCqpJocxUBnNMtqARfF_U6uA",
+   "date": "2026-10-22",
+   "title": "The Jealous Pet compilation🤣 #funny #cat #dog #cute",
+   "views": 14280,
+   "desc": "The Jealous Pet compilation🤣 #funny #cat #dog #cute\n\nYou won't believe this hilarious jealous pet reaction! 🐶🐱 Pure drama when love is shared with another fur baby! Who else has a dramatic pet at home? Let us know in the comments! 👇\n​ A massive THANK YOU to the original owners for sharing this price"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "S4oOhumNaj0",
+   "ch": "Dachshund Video Channel",
+   "cid": "UCYbipPj4fVdqLTn5YLRbDZA",
+   "date": "2026-10-16",
+   "title": "Dog jealous over gear car #dachshund #puppy #viral #funny #d",
+   "views": 10963,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "zBTrqdHadW4",
+   "ch": "Jenny Mack",
+   "cid": "UCFt-h8gMV5tHfNhPUk9Tclw",
+   "date": "2026-11-06",
+   "title": "🇺🇸I&#39;m trying to help him welcome his new companion!  He&",
+   "views": 11516,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "NGBKnce21Ao",
+   "ch": "Acam’s Diary",
+   "cid": "UCrPPM_ySOUG1SCnREagQtcg",
+   "date": "2026-11-04",
+   "title": "This Dog Is So Jealous",
+   "views": 8075,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "V_7bj7mERro",
+   "ch": "Tiny Boss Big Dog",
+   "cid": "UCY5lvvSIKTR33TGg2OYqYVQ",
+   "date": "2026-11-06",
+   "title": "Bear Got Jealous of Her New Puppy. 😂❤️ #dog #baby #funny #to",
+   "views": 11779,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "jGUWRq14xcU",
+   "ch": "MaX The Funny Dog ",
+   "cid": "UCs7I7I3fnoVqeqnctD2c40Q",
+   "date": "2026-10-18",
+   "title": "My Dog Is Jealous of My Girlfriend! 😂🐕💔",
+   "views": 7444,
+   "desc": "My girlfriend came to visit, but Max isn't sharing his human! 😂🐾 Who's really the third wheel?\n#MaxTheBossyDog #FunnyDog #JealousDog #TalkingDog #DogComedy #YouTubeShorts"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "wARRCDUdhoI",
+   "ch": "Ranked Paws: Bobik's World",
+   "cid": "UCcGC-gzC_aVOG3mGpBanHAQ",
+   "date": "2026-11-09",
+   "title": "You won&#39;t believe how jealous these Chihuahuas get 😅 #do",
+   "views": 5151,
+   "desc": "Watch these jealous chihuahua dogs get possessive when they have to share their owners.\n\nWe are counting down five hilarious clips where these small dogs express their strong feelings with dramatic, human-like reactions. Whether you are a pet owner or just need a quick laugh, these funny dog clips s"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "84zTUSHP5IY",
+   "ch": "InfiniteClips",
+   "cid": "UCWvob-juebCUv_QrrIP3xUg",
+   "date": "2026-11-05",
+   "title": "TOP 5 DOGS Getting JEALOUS Over NOTHING 😂🐶",
+   "views": 4419,
+   "desc": "These dogs do NOT like sharing their humans 😂🐶 From dramatic side-eyes to full-blown jealousy, these pups are taking betrayal personally!\n\nWhich jealous dog deserves #1? 👇\n\nSubscribe for more hilarious Top 5 animal moments! 🐾\n\n#shorts #jealousdogs #funnydogs #dogreactions #dramaticdogs #funnyanimals"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "n44It-fc9-g",
+   "ch": "MR EXZAM ",
+   "cid": "UCTKm93Pq8nQbVUh_ZPu03Kw",
+   "date": "2026-10-22",
+   "title": "Jealous Border Collie Demands Attention!",
+   "views": 6095,
+   "desc": "When a new puppy enters the home, this smart Border Collie isn't going to let his spot be stolen! Watch the hilarious and adorable moment this clever pup decides he's had enough of his owner giving all the attention to the new arrival.\n\nFrom dramatic whining to nudging his way into a cuddle, this je"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "ML1RVrrGF_4",
+   "ch": "WildToon Shorts",
+   "cid": "UChRUaQooL5W-p6G2xBe5QrA",
+   "date": "2026-11-12",
+   "title": "My Dog Is JEALOUS of My Cat! 😂🐶🐱 | Funniest Pet Comedy Ever!",
+   "views": 1399,
+   "desc": "What happens when a golden retriever discovers that his owner has a new favorite pet? 😂\n\nMeet Max, a lovable but jealous dog, and Milo, a clever little orange cat who is ready to take over the house!\n\nWatch their hilarious competition for attention, funny reactions, unexpected moments, and adorable "
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "zJ8gXTX2yS4",
+   "ch": "UR Dutta",
+   "cid": "UCHUMhfkFu-h_5vpsXRfiZHw",
+   "date": "2026-11-08",
+   "title": "He Got Jealous When His Owner Fed Another Puppy 😭🐶",
+   "views": 2031,
+   "desc": "He Got Jealous When His Owner Fed Another Puppy 😭🐶\n\nThis puppy always acted annoyed when his owner cuddled him. But when another puppy got the milk, his jealousy showed how much he loved him. 💔🥹\n\n\n#shorts #puppy #emotional #cute #doglover #viral"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "UEDeYCAF1fE",
+   "ch": "Woofologys",
+   "cid": "UC5vT2AoFRdQZRC_71Pf0Pfw",
+   "date": "2026-11-03",
+   "title": "Your Dog Can Get Jealous (Science Tested It)",
+   "views": 2564,
+   "desc": "In one study, 36 small dogs watched their owners pet and sweet-talk a toy dog that barked and wagged, then a jack-o'-lantern pail, then read a pop-up book aloud. For the toy dog, significantly more dogs pushed at their owner, got in between or snapped at it (one in four snapped, against a single dog"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "caVzWUt7iqI",
+   "ch": "Crazy Blockbuster ",
+   "cid": "UCvF_xx_Yd1AvcUNh4zqJx2Q",
+   "date": "2026-10-22",
+   "title": "Her Dog Got Jealous of Her New Pet Goose! 😂🐶🪿",
+   "views": 1996,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "fYTiYKVvwoA",
+   "ch": "Watch_This TV",
+   "cid": "UCXyENTC4ridjy8LC01X9RRw",
+   "date": "2026-11-04",
+   "title": "a jealous dog #shortsshorts",
+   "views": 1722,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "ZWz-7jn59WA",
+   "ch": "Woofsplained",
+   "cid": "UCTCo-3MsYHCE4RDVgmWzhsQ",
+   "date": "2026-10-18",
+   "title": "Is your dog jealous when you pet another dog?",
+   "views": 2373,
+   "desc": "Is your dog jealous when you pet another dog? Scientists think it acts jealous, and pushing in is the classic sign. 🐶\n\n#dogs #dogfacts #shorts #dogbehavior #puppy\n\nSources: Harris & Prouvost, \"Jealousy in Dogs\" (2014), https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094597 ; Basto"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "HsCqapwltow",
+   "ch": "Doggo Poly Shorts",
+   "cid": "UC7M1i3KqcmcykmLwvdNRLqw",
+   "date": "2026-11-10",
+   "title": "Your Dog Thinks You&#39;re Cheating When You Pet Another Dog",
+   "views": 1336,
+   "desc": "Does your dog act jealous when you give another dog attention? 🐾\n\nIt’s not just in your head! A landmark UC San Diego study (2014) found that dogs display genuine jealousy when their owners interact with another dog—pushing between them, snapping, or trying to get your focus back.\n\n👇 Does your dog g"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "MwHf-WnCD6U",
+   "ch": " T氏の幽霊日常劇場",
+   "cid": "UCCYMAp5Ln-lMvagcpTgjBOQ",
+   "date": "2026-11-14",
+   "title": "死んだ愛犬が、新しい子犬を必死に守った。嫉妬だと思っていた僕は、涙した。【第16話】#感動する話、#泣ける話、#ちょっと",
+   "views": 1358,
+   "desc": "亡くなった愛犬ポチが、新しく迎えた子犬コタロウに突然吠え始めた。\n\n嫉妬しているだけだと思ったテル。しかし、ポチは何度もカーテンの下を見つめていた。\n\nなぜポチは、そこまで必死に子犬を止めようとしたのか？\n\n小さな違和感に隠された、切なく温かい謎解きホラー。\n\nあなたは何秒でポチの本当の気持ちに気づきましたか？\n\nT氏がお届けする、怖くて泣ける不思議な物語。\n\n#怖い話 #ホラーショート #犬の感動話 #霊が見える男テル #Shorts\n\n【T氏のひとり言】\nポチは最初から、コタロウではなくカーテンの下を気にしていました。あの視線の意味、気づきましたか？🐕"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "gJd3JY0baWQ",
+   "ch": "The Dilara & Buster Show",
+   "cid": "UC9nfVvfNx1HuWv7jFXcTdTA",
+   "date": "2026-10-17",
+   "title": "I GOT REPLACED?! 😭😂 Buster Is JEALOUS of Poppy! #shorts #sho",
+   "views": 1884,
+   "desc": "I GOT REPLACED?! 😭😂 Buster Is JEALOUS of Poppy! #Shorts\n\n“I GOT REPLACED?!” 😭🐶💔\n\nBuster sees Poppy getting all the attention… and suddenly thinks he’s been REPLACED! 😂💀\n\nThe jealousy is REAL! Can Buster handle having a new rival for Dilara’s attention? 🤣🐾\n\n🐶 TEAM BUSTER or TEAM POPPY? Tell us in the"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "GkR55dMSgL4",
+   "ch": "BlockTwist",
+   "cid": "UCn8K6ME0ByspnRWEwXgDo3Q",
+   "date": "2026-11-14",
+   "title": "Leo Brought Home a Puppy… Max Thought He&#39;d Been Replaced",
+   "views": 913,
+   "desc": "Leo comes home with a tiny puppy called Pip. Max sulks, trails behind on walks — then pulls Pip off the road in front of a van. That night Pip falls asleep against Max's belly.\n\nThe real part: dogs do get jealous. In a 2014 study (Harris & Prouvost, PLOS ONE), owners petted a realistic toy dog while"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "RR9XUQTXEUs",
+   "ch": "CUTE DOG2.2",
+   "cid": "UCD2L6fcsSn4y57uBvSZi3uQ",
+   "date": "2026-10-23",
+   "title": "This#Dog Is So Jealous of the New Baby🐶👶😱#Dad Baby and Dog M",
+   "views": 1061,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "PT_KIrGyhEg",
+   "ch": "CineTrend Movies",
+   "cid": "UCrI-eJA98aWq7fepek65yew",
+   "date": "2026-10-24",
+   "title": "My Baby Dragon Is JEALOUS of Our New Puppy 😭🐉",
+   "views": 1408,
+   "desc": "POV: Your tiny dragon thinks the new puppy stole all your love 😭🐉💔 Just wait until you see how the puppy responds… 🥹❤️ Who would you cuddle first?\n\n#BabyDragon #TinyDragon #CutePets #JealousPet #HuskyPuppy #FunnyAnimals #PetShorts #AdorableAnimals #AnimalVideos #YouTubeShorts #ViralShorts #TikTokPet"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "ZOW1CoNMi18",
+   "ch": "Happy Puppies",
+   "cid": "UCszHjqwq-1qVUwbOOSH1W5g",
+   "date": "2026-11-09",
+   "title": "Baby’s New Turtle Friend Has the Puppy Jealous! 😂 #BabyAndPu",
+   "views": 1327,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "BCC_qLQayvQ",
+   "ch": "Triple s Star",
+   "cid": "UCqlUype-Rj57toBWNgw_UVA",
+   "date": "2026-10-23",
+   "title": "So guys judge is jealous of my new puppy 🤣",
+   "views": 1184,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "GOKu1bYoYfE",
+   "ch": "Sarah Frank",
+   "cid": "UCJbc9niupNEExituBtxhkeA",
+   "date": "2026-11-12",
+   "title": "When your boyfriend is jealous of your puppy… #newpuppy #cou",
+   "views": 1079,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "tWkj1FX0ksM",
+   "ch": "I love doggos",
+   "cid": "UCGD37fPA5gSRcy0TXjDvVjw",
+   "date": "2026-11-05",
+   "title": "New dawg in the collection #dog #dogs #dogshorts #puppy #pup",
+   "views": 960,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "jxXSRa_QFtE",
+   "ch": "Doctor Lindsay Butzer DVM",
+   "cid": "UCBvlURdNKSJ2oRbzUB1_JQw",
+   "date": "2026-11-03",
+   "title": "🚨 3️⃣NEW PUPPY INTRO TO DOG TIPS! 🔗 CLICK IN MY BIO 👆 to wat",
+   "views": 517,
+   "desc": "⁉️ SAFTEY FIRST 🤬 AND I’ll explain how to make sure your new puppy is safe around a jealous dog!\n\n❤️Don’t forget to subscribe to my YouTube channel if you haven’t already! 👩‍⚕️"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "-VbWGPfbQzo",
+   "ch": "Paw Rank",
+   "cid": "UCJmf_T_JkbK9yC4y6WgcnAw",
+   "date": "2026-11-14",
+   "title": "Jealous Dogs 😒 TOP 5 Ranked #shorts",
+   "views": 1131,
+   "desc": "Someone else is getting the attention and these five dogs are not okay with it — ranked. Which one is the cutest?\n#dogs #funnydogs #cutedogs\n\nSong: Syn Cole - Feel Good [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/feelgood\nWatch: http://youtu.be/q1ULJ92aldE\n\n"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "VjB-00P0DKE",
+   "ch": "Sit Stay Vent",
+   "cid": "UCBMf9wJVzrZSP8LGj9gmfPA",
+   "date": "2026-10-27",
+   "title": "Dog is Jealous of the New Puppy (Couples Therapy) #dogcomedy",
+   "views": 297,
+   "desc": "Golden retriever, Walter starts couples therapy after his owner brings home a puppy and calls it the baby.\n\nTherapy Session S1-09\nDr. Biscuit takes notes.\n\nNEXT: Walter collects on a debt nobody remembers lending. See the invoice:\nhttps://youtube.com/shorts/vOwLkFma5VU\n\nWatch all 10 clips of Therapy"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "D1TXNmOizs4",
+   "ch": "Auntie Nina |Comedy Skits and Shorts",
+   "cid": "UC70SYVIGD7KVUx64QxOaVVA",
+   "date": "2026-10-20",
+   "title": "MAMA IS JEALOUS AGAIN! 😂🐶❤️ Princess &amp; Simba Are Getting",
+   "views": 150,
+   "desc": "Hold on now! 😂🐾 Princess and Simba are spending more time together, and Auntie Nina is starting to feel a little LEFT OUT! ❤️🐶\n\nMama thought she was Princess's favorite, but now Simba is getting all the attention! Is Auntie Nina jealous of this new puppy romance? Somebody better check on Mama! 😂🤣\n\n🐾"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "m3wMHsjYjmc",
+   "ch": "Back To Nature Co 🌿🐾",
+   "cid": "UC1uqFB-Rs38lfnVnMLbpAMw",
+   "date": "2026-11-03",
+   "title": "Jealous Big Dog vs New Puppy Smoky 🖤😂 | Back To Nature Co Fa",
+   "views": 374,
+   "desc": "Smoky the new puppy gets all the love, but jagga the big fluffy dog is jealous and wants attention too. Life at our mountain farmhouse at 1200m in Margalla Hills, Islamabad.\n\n  We have 25 cats, ducks, turkey, chickens, Jhaga, Stella and Smoky puppy living free - No cages.\n\n  Back To Nature Co\n\n  #Sh"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "2L7j7RZYWIA",
+   "ch": "UntoldFrames",
+   "cid": "UChcrZVLlQSUoQIZU9FETGPQ",
+   "date": "2026-11-08",
+   "title": "He Got Jealous of a Puppy! 😂🐶❤️ | Cute Love Story #shorts",
+   "views": 240,
+   "desc": "He thought he was her favourite boy… until an adorable golden retriever stole all her attention! 🐶😂\n\nFrom cuddles and kisses to playful jealousy, this little puppy turned their romantic afternoon into the cutest competition.\n\nBut wait until the puppy makes one final move! ❤️\n\nSometimes, love means s"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "ZvoePLs90Tk",
+   "ch": "Gold & Whiskers",
+   "cid": "UCKu9rC0N_EzDsEJYFvbJ1wA",
+   "date": "2026-10-31",
+   "title": "The Dog Got JEALOUS of the New Kitten! 🐶🐱 #cat #funny #dog",
+   "views": 103,
+   "desc": "When a tiny kitten joins the family, this golden retriever realizes he’s no longer the favorite! 🐶\n\nHe tries everything to get his owner’s attention, but this little kitten has other plans! 🐱❤️\n\nWait for the unexpected ending! \n\nSubscribe for more funny animal stories!\n\n#FunnyAnimals #DogAndCat #Jea"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "szB2WnzbpXc",
+   "ch": "Daisy & Luna",
+   "cid": "UC7vytbbHT_2QEi99xEgHmAg",
+   "date": "2026-11-04",
+   "title": "Baby Daisy Is JEALOUS of the New Puppy! 🥺🐶 #ai #favorite #hu",
+   "views": 45,
+   "desc": ""
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "q244IdIQIdQ",
+   "ch": "Shiba & Malti",
+   "cid": "UCtsIwnK5TARkfm8R2KEzZAw",
+   "date": "2026-11-12",
+   "title": "We Got a New Puppy… Our Shiba Took It Personally 😂🐕🐩",
+   "views": 30,
+   "desc": "We brought home a tiny Maltese puppy named Malti… 🐩❤️\n\nKim Shiba watched the new pup getting all the attention and had ONE very serious question. 😂\n\n“Hold up… did you hire my replacement?!”\n\nDon't worry, buddy. There's enough love for both of you! 🐕🐩\n\nDoes your first dog get jealous of a new puppy?\n"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "vFTqzKU3Zug",
+   "ch": "TotTune",
+   "cid": "UCFN68TvJjaUAHU2dGfLPdCQ",
+   "date": "2026-11-07",
+   "title": "When Your New Puppy Steals All the Attention! (Cute Baby Rea",
+   "views": 18,
+   "desc": "Watch what happens when a new puppy joins the family and a little baby has to share the spotlight! This heartwarming and hilarious video captures the adorable jealousy and eventual bond between a baby and their new furry friend. \n\nFrom grumpy glares to sweet cuddles, see how this family navigates th"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "dkayG7MAaic",
+   "ch": "Shiba & Malti",
+   "cid": "UCtsIwnK5TARkfm8R2KEzZAw",
+   "date": "2026-11-12",
+   "title": "We Gave the New Puppy a Treat First… Our Shiba Took It Perso",
+   "views": 26,
+   "desc": "The new pup, Malti, got a treat first. 🐩🍪\n\nKim Shiba watched the whole thing… and apparently, someone has questions about the company's bonus policy. 😂🐕\n\n“Hold up... the new hire gets a bonus already?!”\n\nDoes your first dog get jealous when the new puppy gets treats? 🐾\n\nTwo tiny dogs. BIG attitudes."
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "u5msxWyc7Fg",
+   "ch": "Shiba & Malti",
+   "cid": "UCtsIwnK5TARkfm8R2KEzZAw",
+   "date": "2026-11-12",
+   "title": "We Asked Our Shiba About the New Puppy… He Got JEALOUS 😂🐕🐩 #",
+   "views": 27,
+   "desc": "We asked Kim Shiba one simple question: “How's the new puppy?” 🎤🐕\n\nHe tried to play it cool… until his main-character energy kicked in. 😂\n\n“He's cute and all… but I'M the main character!”\n\nAnd right on cue, little Malti decided to steal the spotlight. 🐩💀\n\nWho's the real star of Shiba & Malti? 👀\n\nTwo"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "K02ZEu-1T7U",
+   "ch": "elenateachescontent",
+   "cid": "UCYETI6iwLH_0DH0zw0P_PEQ",
+   "date": "2026-10-27",
+   "title": "My Puppy is Jealous",
+   "views": 86,
+   "desc": "My new puppy is jealous of my social media clients.\nThis app is meant for social media teams, managers and social media agencies.\nIt lets you create ideas, plan photoshoots and publish on all channels with just one click."
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "Z5q7yY72plA",
+   "ch": "Shiba & Malti",
+   "cid": "UCtsIwnK5TARkfm8R2KEzZAw",
+   "date": "2026-11-12",
+   "title": "We Got a New Puppy… My Shiba Wants His Spot Back 😂🐕🐩",
+   "views": 27,
+   "desc": "Ever since Malti showed up, cuddle time has turned into a competition. 🐩❤️\n\nOur little Shiba watched the new puppy getting ALL the attention… and had something to say. 😂\n\n“Excuse me? That's MY cuddle spot!”\n\nMeanwhile, Malti just gets even comfier. 💀🐕\n\nDoes your dog get jealous when someone steals t"
+  },
+  {
+   "q": "dog jealous new puppy",
+   "vid": "08oGEjHzzh8",
+   "ch": "NeuralClips",
+   "cid": "UCBMZIE5iPwZYHu09baWLczA",
+   "date": "2026-11-07",
+   "title": "Baby Is JEALOUS of the New Puppy 😂",
+   "views": 13,
+   "desc": "Baby has a new rival for Mama’s lap. It’s small, fluffy and extremely cute. How long can he stay grumpy?\n#Shorts #GrumpyBaby #BabyAndPuppy #FunnyBaby #CuteBaby #PuppyLove #JealousBaby #FamilyComedy #BabyComedy #3DAnimation #PixarStyle #AIAnimation"
+  },
+  {
+   "q": "dog caught then pretends",
+   "vid": "So44fJONCgs",
+   "ch": "Void Horizon ",
+   "cid": "UC_KJv9INtC7Rb2vALrmqj5A",
+   "date": "2026-11-10",
+   "title": "Dog Gets Caught Stealing Chicken… Then Pretends to Be ASLEEP",
+   "views": 39422,
+   "desc": "This sneaky Golden Retriever thought he could steal a delicious piece of fried chicken without anyone noticing. But just as he takes a bite, his owner walks into the kitchen and catches him red-pawed! 😭🤣\n\nHis reaction? He puts the chicken back on the table and pretends to be sleeping like nothing ha"
+  },
+  {
+   "q": "dog caught then pretends",
+   "vid": "3af0tsyOdrU",
+   "ch": "RumiX",
+   "cid": "UCn9wgvmd4j2wvDYRPrOoelA",
+   "date": "2026-10-22",
+   "title": "This Dog Caught His Owner Cheating! 😂🐶",
+   "views": 25427,
+   "desc": "Video Source:@Respect Owner\nNarrator:@RumiX12\n\n\nCute Dogs, Funny Puppies & Hilarious Dog Moments 🐶🐕 Welcome to our dog channel! ❤️ #dog #dogs #puppy #puppies #cutedogs #funnydogs #doglover #dogvideos #pets #dogshorts #puppylove #doglife #cutepets #petlovers #animalvideos"
+  },
+  {
+   "q": "dog caught then pretends",
+   "vid": "fUC5-ed44LY",
+   "ch": "Kaos Chegou ",
+   "cid": "UCUS33i5a744xp8kMOMhS_2A",
+   "date": "2026-11-03",
+   "title": "CACHORRO É FLAGRADO !#Shorts #Cachorros #Humor #PetsEngracad",
+   "views": 1354,
+   "desc": "🐶🤣 MEU AMIGO, A DONA PEGOU O MELIANTE NO MEIO DO CRIME! KAKAKAKAKA 😂😂\n\nA moça chega e encontra o cachorro simplesmente DEVORANDO O TRAVESSEIRO! 🛏️🐕\n\n🚨 FLAGRADO COM A BOCA NA ESPUMA!\n\n🐶 “CALMA, HUMANA! EU SÓ TAVA TESTANDO A QUALIDADE DO PRODUTO!” KKKKK 🤣\n\n😂 O travesseiro destruído e o bonito fazendo "
+  },
+  {
+   "q": "dog caught then pretends",
+   "vid": "nB74iBbqhwI",
+   "ch": "Cute Entertainment",
+   "cid": "UCLERDUEFcz2p3tWfSmXPUMQ",
+   "date": "2026-10-29",
+   "title": "Cat Steals Dog&#39;s Food, Then Pretends Nothing Happened 😂",
+   "views": 71,
+   "desc": "Milo the cat steals Bruno's food, gets caught, and pretends to be innocent! Team Milo or Team Bruno? Tell me below 👇 Subscribe for more funny cats and dogs every day! 🐱🐶 Note: This is an original AI-animated comedy video made for Cute Entertainment. No other creator's clips are used. #FunnyCats #Fun"
+  },
+  {
+   "q": "dog caught then pretends",
+   "vid": "RJMW0BefVEc",
+   "ch": "ai animal madness",
+   "cid": "UCEnDRK7nuVuxS3fIrqqtC3w",
+   "date": "2026-11-05",
+   "title": "THIS DOG STOLE THE WHOLE CHICKEN… THEN PRETENDED TO SLEEP! 😂",
+   "views": 25,
+   "desc": "😂🐶 This naughty dog thought it could steal an entire roasted chicken and get away with it!\n\nWatch this hilarious AI-generated funny dog video as a mischievous dog sneaks into the kitchen, steals a delicious roasted chicken and tries to pretend nothing happened when the owner arrives. But the funnies"
+  },
+  {
+   "q": "dog caught then pretends",
+   "vid": "OBSywZd-nFI",
+   "ch": "What The LOL?! 😁",
+   "cid": "UCsHeSc4vHRIIJwxQHQ9eaTw",
+   "date": "2026-10-28",
+   "title": "This Husky Got Caught Stealing… Then Pretended to Sleep 😂🐺🌭",
+   "views": 8,
+   "desc": "This Husky got caught stealing a sausage… and his solution was absolutely ridiculous. 😂🐺🌭\n\nHe literally pretended to fall asleep so he wouldn't get caught. 😭\n\nBut when the owner caught him AGAIN… this Husky still tried to steal the sausage with his eyes closed. 😂\n\nThe acting deserves an Oscar. 🏆🐺\n\n#"
+  },
+  {
+   "q": "dog caught then pretends",
+   "vid": "x_6QAIKNlo4",
+   "ch": "Animal Comedy Zone",
+   "cid": "UC3xZ-KavL-nAIxkjgSuvPJg",
+   "date": "2026-11-15",
+   "title": "Title: The Smartest Dog Ever! 😂🐶#viral #trending",
+   "views": 169,
+   "desc": "😂 This dog is smarter than you think! 🐶\n\nWatch this hilarious golden retriever secretly steal a delicious burger and pretend to be sleeping when his owner returns!\n\nThe funniest and cutest dog moment ever! 🤣\n\nWould you catch this clever little thief? Comment below! 👇\n\n❤️ Like, Share & Subscribe for "
+  },
+  {
+   "q": "dog tattles on cat",
+   "vid": "T9okTm2qDyY",
+   "ch": "俺、猫。リターンズ",
+   "cid": "UCpFwCG7ElcHZpfidE7oneQA",
+   "date": "2026-10-26",
+   "title": "【福岡 筑後弁アテレコ】お母さんに告げ口をするワンちゃん！壁に耳あり障子に目あり！ちゃんと見てるからな！告げ口しやがって",
+   "views": 122235,
+   "desc": "福岡県南部の『筑後弁(ちっご弁)』でアテレコした「おもしろ和み動画」をお届けしています🐱🐶\n猫好き！犬好き！動物好き！な方は是非ご覧ください！\n\n不定期で我が家の猫たちの動画「うちのローとキー」をお届けします！\n\n【出演ペット大募集！】\nあなたのペットが動画デビュー！？ あなたの動画に「筑後弁(ちっご弁)アテレコ」をして、番組内で紹介させていただきます。\n猫、犬、鳥、ハムスター、カメ…どんな動物でもOK！ 「うちの子、こんな面白いことするんです」 「変な寝顔を見てください」 そんな動画があれば、ぜひ送ってください！\n\n【応募のルール】\n ✅ 必ず「ご自身で撮影した動画」を送ってください。\n ✅"
+  },
+  {
+   "q": "dog tattles on cat",
+   "vid": "32eDKiaLOtY",
+   "ch": "펫무드",
+   "cid": "UCGtqty4DP8gbnCeT0aFIrSQ",
+   "date": "2026-10-29",
+   "title": "시비는 자기가 걸고 일러바치러 온 강아지ㅋㅋ #강아지 #고양이 #웃긴동물 #shorts",
+   "views": 5274,
+   "desc": "원본 영상 출처: Tylers Tiny Zoo - Dog picked on the wrong cat https://www.youtube.com/shorts/CDgJAO8KAUQ\n한국어 번역·자막·편집을 더한 영상입니다. 말풍선 속 강아지·고양이의 말은 상상으로 지은 대사입니다. 원본 제작자에게 감사드립니다. 권리자의 요청이 있으면 바로 조치하겠습니다.\n\n#강아지 #고양이 #웃긴동물 #shorts"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "v8oaZlPfkfM",
+   "ch": "MenacePaws2393",
+   "cid": "UCVQy3H3l0xsW0_EPXfe9x-w",
+   "date": "2026-11-01",
+   "title": "My bird gets really jealous😂#pov #shorts #usa #relatable",
+   "views": 281293,
+   "desc": "#shorts #comedy #funny #humor #memes #funnyvideos #petcomedy #viral"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "4YukcbCUKMc",
+   "ch": "Curiosidade 67",
+   "cid": "UCF-AcQ3Okb9RzVZ2m1ASfug",
+   "date": "2026-10-30",
+   "title": "ELA TEM CIUMES DA MAMÃE! 🦜❤️",
+   "views": 251176,
+   "desc": "#animaisfofos #cachorros #gatos \n.\n.\n.\n.\nCaso você seja o detentor dos direitos de algum conteúdo utilizado neste vídeo e deseje solicitar sua remoção, entre em contato conosco pelo e-mail: meuchannel111@gmail.com.\n\n\nDisclaimer: Nenhum animal foi ferido durante a produção deste vídeo."
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "Q8uywKzNsMc",
+   "ch": "PetBoss Parrots",
+   "cid": "UCHZ6tkjhuBEcYvdut-m8vpA",
+   "date": "2026-10-23",
+   "title": "Jealous Parrot Covers Friend&#39;s Almond Pile With Bowl: &q",
+   "views": 88556,
+   "desc": "PetBoss Parrots is made for pet lovers, for fun and entertainment only.\n\nMost videos on this channel are original creations by PetBoss Parrots, made with our own ideas, scripts and editing. We do not re-upload videos from other creators.\n\nAll videos on PetBoss Parrots are created by us, with our own"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "ws6uRZzyWws",
+   "ch": "蹦跳啵妞",
+   "cid": "UC6MGCE4COcGQmgxnPCPgTIg",
+   "date": "2026-11-07",
+   "title": "啵啵吃醋了嗎 #鸚鵡 #搞笑",
+   "views": 80602,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "4JJNfYGBtG0",
+   "ch": "Feather Drama",
+   "cid": "UCvTb9ePwQpvlNZsRnG82glA",
+   "date": "2026-10-23",
+   "title": "Extreme Watermelon Jealousy 💀",
+   "views": 68016,
+   "desc": "Recreating the exact viral table line-up with maximum parrot jealousy... wait until you see how the naughty African Grey reacts when someone else gets the juiciest bite 💀\n🔗 Follow our social channels:\n• Instagram: @featherdrama (https://www.instagram.com/featherdramaofficial)\n• Facebook: Feather Dra"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "KBqk5EkYdpY",
+   "ch": "TALKING BIRDS",
+   "cid": "UCDZgjAzJ-2Gx4kvouhjUNQA",
+   "date": "2026-10-23",
+   "title": "My Parrot Saw a HUGE Owl! 😱🦜🦉",
+   "views": 54873,
+   "desc": "TITLE:\nMy Parrot Saw a HUGE Owl! 😱🦜🦉\n\nDESCRIPTION:\nOMG! 😱 A HUGE owl suddenly flies through the open window, and Lauki, our hilarious African Grey parrot, goes into full panic mode!\n\n“Mom! Mom! There's a huge bird in here! GET OUT! GO, GO!”\n\nWatch Lauki flap his wings, shout at the unexpected visito"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "K4SS-xyRAIg",
+   "ch": "Loro Piter",
+   "cid": "UC5Wjccuc1eSww7qll3xgCOw",
+   "date": "2026-11-04",
+   "title": "El loro está celoso con la gallina 😅 #reel #viral #foryou #f",
+   "views": 41290,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "skYJyk443Pw",
+   "ch": "THE ANIMAL INCIDENT",
+   "cid": "UCdxuCplC3KJ-NnV0uVTPP6w",
+   "date": "2026-10-28",
+   "title": "Parrot Asks Alexa for Bird Sounds… Then Gets JEALOUS! #talki",
+   "views": 38891,
+   "desc": "This cockatoo asked Alexa for bird sounds… then got furious when another bird answered!  Apparently, there's only room for ONE bird in this house.\n\n#FunnyParrots #Cockatoo #FunnyAnimals #Shorts"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "KFtZuR0jQbQ",
+   "ch": "The gavião ",
+   "cid": "UCfevslmPHNstFgdGkeuAAmA",
+   "date": "2026-11-06",
+   "title": "She Wanted Her High Heels Back… But Her Parrot Had ONE Condi",
+   "views": 34554,
+   "desc": "She just wanted her high heels back… but her talking parrot had other plans! 😂🦜👠\n\nA beautiful young American woman from Chicago is getting ready for a romantic date when her mischievous green parrot decides to steal one of her favorite red high heels!\n\nBut getting her shoe back isn’t going to be eas"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "FHWUS2KKCGQ",
+   "ch": "The Bird Flock",
+   "cid": "UClkQVCGtGIvE4PButICbGZw",
+   "date": "2026-11-06",
+   "title": "My Parrot Is JEALOUS of My Phone! 📱😂 #Shorts",
+   "views": 31340,
+   "desc": "I made the mistake of looking at my phone instead of giving my parrot attention. 😂📱\n\n He had absolutely no intention of being ignored and made sure I knew exactly how he felt! 🦜🤣\n\nWho else has a pet that demands attention at the worst possible time?\n\nSubscribe for more funny bird moments!\n\n#FunnyBir"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "d0t3dAv6204",
+   "ch": "MARIA BILMOTE",
+   "cid": "UCR_sUnjU7ovoVTbn36DZc6A",
+   "date": "2026-11-05",
+   "title": "ببغاء مغيار 😂#شورت #قصص #اكسبلور #المغرب #الجزائر #كوميديا #",
+   "views": 28439,
+   "desc": "ببغاء لي مكيتاح حتى يجبد صداع 😂#شورت #قصص #المغرب #الجزائر #فكاهة #ضحك #كوميديا #اكسبلور"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "v1_UQ1GgHKw",
+   "ch": "PawDaily 🐾",
+   "cid": "UCBBrSav47FPYaKDRfoLvhrA",
+   "date": "2026-11-15",
+   "title": "Ranking Best Parrot Jealous Moments🤭",
+   "views": 22167,
+   "desc": "Ranking Best Parrot Jealous Moments🤭 #usa"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "lywUV0LttYg",
+   "ch": "Loro Piter",
+   "cid": "UC5Wjccuc1eSww7qll3xgCOw",
+   "date": "2026-11-08",
+   "title": "El loro está celoso con n la gallina 🐓  #reel  #viral  #fory",
+   "views": 22674,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "5hJaclga4vY",
+   "ch": "Bozo Tatliş",
+   "cid": "UCnZbe0x0uM7JwuQhN1AE86Q",
+   "date": "2026-10-26",
+   "title": "Kıskanç bozo😅#sultanpapağnı #cockatiel #parrot #albinosultan",
+   "views": 23713,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "5nktbrtgatw",
+   "ch": "Pet Madness",
+   "cid": "UC16L6FgSR0rj0P0NT_dzOTA",
+   "date": "2026-10-20",
+   "title": "When The Parrot Gets Jealous Over The Dog 😂🦜 #Shorts",
+   "views": 20692,
+   "desc": "When the parrot realizes the dog might get all the love and treats first! Watch this hilarious African Grey parrot demand attention and refuse to be second best. 🦜😂\n\n#Shorts #Parrot #FunnyPets #AfricanGrey #TalkingParrot #PetLovers"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "rFzAl4WKqGw",
+   "ch": "BJ’s Misadventures",
+   "cid": "UCwz5InaS-2lvp5_54NR3cHw",
+   "date": "2026-11-13",
+   "title": "Why is this parrot so jealous of the dog&#39;s birthday? 😂🐶 ",
+   "views": 11129,
+   "desc": "Nothing says \"happy birthday\" quite like a parrot birthday with a raccoon pet guest and pure disappointment.\n\nWatching a bird express its feelings about spending years with this chaotic group, only to receive a bowl of seeds, is a relatable mood. If you enjoy funny animal videos that capture the abs"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "SLwMZTb-gds",
+   "ch": "Pesca En Miami Con Jesus",
+   "cid": "UC5xbt0WEGw1Dax5gJhuZUHg",
+   "date": "2026-10-17",
+   "title": "Bienvenida a casa mi guacamaya sol y coti celosa #parati #fy",
+   "views": 6820,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "7QG_5quwUnc",
+   "ch": "Zuvzy",
+   "cid": "UCcep0qB9R_ZMuBGcZOoa05A",
+   "date": "2026-10-18",
+   "title": "Charlie feels jealous when the owner gives attention #talkin",
+   "views": 6227,
+   "desc": "Charlie feels jealous when the owner gives attention to other pet\n#talkingparrot #africangrey #funnyparrot"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "94dqG01tKwI",
+   "ch": "TALKING BIRDS",
+   "cid": "UCDZgjAzJ-2Gx4kvouhjUNQA",
+   "date": "2026-11-02",
+   "title": "My Parrot LOKI Gets Jealous When The Cat Steals His Chair! 😂",
+   "views": 6116,
+   "desc": "TITLE\nMy Parrot LOKI Gets Jealous When The Cat Steals His Chair! 😂🐦\n\nDESCRIPTION\n\nLOKI is NOT happy today! 😂 When a naughty orange cat decides to steal his favorite chair, this hilarious African Grey parrot immediately becomes the boss of the house!\n\nLOKI starts shouting, argues with the cat, and ca"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "Oah6aGG7EM4",
+   "ch": "The Bird Flock",
+   "cid": "UClkQVCGtGIvE4PButICbGZw",
+   "date": "2026-10-22",
+   "title": "My Parrot Gets JEALOUS When I&#39;m on the Phone! 😂📱🦜 #short",
+   "views": 4642,
+   "desc": "He said, \"HELLO! I'M HERE!\" 😂📱🦜\n\nI was trying to have ONE peaceful phone conversation, but somebody wasn't having it! 🤣\n\n\"Buddy, I'm on the phone!\"\n\n\"TALK TO ME!\" 💀😂\n\nForget privacy. This bird demands 100% of the attention, 100% of the time! 😭🦜\n\n👇 COMMENT: Does YOUR pet interrupt you when you're bus"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "UEIXZQ_AUkQ",
+   "ch": "TALKING BIRDS",
+   "cid": "UCDZgjAzJ-2Gx4kvouhjUNQA",
+   "date": "2026-10-31",
+   "title": "My Parrot Is Jealous of a Flower! 😂🌸",
+   "views": 4832,
+   "desc": "TITLE 🦜\nMy Parrot Is Jealous of a Flower! 😂🌸\n\nDESCRIPTION\nA cute girl is watering her plants when her talking parrot demands attention! 😂🦜 Watch this funny conversation till the end!\n\nSEARCHING KEYWORDS (50+)\nfunny talking parrot, African Grey parrot, talking parrot video, funny parrot conversation,"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "YIIu4dpyU4w",
+   "ch": "Coco Victoriano",
+   "cid": "UCdIJsi3s-mEIxc-Ek3QVwTQ",
+   "date": "2026-11-10",
+   "title": "The bird is also jealous #reels",
+   "views": 2885,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "NK1RXOM6hBs",
+   "ch": "Loro Piter",
+   "cid": "UC5Wjccuc1eSww7qll3xgCOw",
+   "date": "2026-11-11",
+   "title": "El loro está celoso del gato 😅  #reel  #viral  #foryou  #fol",
+   "views": 3527,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "ex6aBiVKyF0",
+   "ch": "Warren Prescott",
+   "cid": "UC05NseJxyTHf05zv14_-u6A",
+   "date": "2026-11-08",
+   "title": "Pearl and Poncho jealous of each other. #majormitchellscocka",
+   "views": 2049,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "TweS08Jpq1g",
+   "ch": "PetRankeds",
+   "cid": "UCxyeibeXZz6cCixpFKP3CiQ",
+   "date": "2026-11-02",
+   "title": "Ranking The Most Dramatic Parrot Moments 😭🦜",
+   "views": 2425,
+   "desc": "Having two parrots means DOUBLE the drama! 🦜😭 Ranking the most dramatic, loudest, and funniest parrot moments ever! From jealous birds to full-on drama queens! \nWhich parrot had the most drama? Comment below! 👇\nSubscribe for more daily pet & animal rankings! ✨\n\n#shorts #parrots #funnyparrots #dramat"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "HTsevNvlQZA",
+   "ch": "The Chatty Feather",
+   "cid": "UCOH0lMw4IF6W6y7eKDH_QBg",
+   "date": "2026-11-12",
+   "title": "He&#39;s so jealous of the parrot on my screen 😹",
+   "views": 2052,
+   "desc": "He saw another ringneck on my phone and started arguing with it 😂\nWho do you think won? Tell me in the comments 👇\n\nMeet more talking ringnecks on The Chatty Feather! Subscribe for new videos every week 🦜\n\n#shorts #parrot #ringneck #funnyparrot #parrotvsphone"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "Ac2eCLSV9YQ",
+   "ch": "Mimic Bird",
+   "cid": "UC4lEv-pK98CviMI1b9gIS1g",
+   "date": "2026-11-08",
+   "title": "Jealous Parrot LOSES IT When Mom Compliments the Cat! 😂🦜 #fu",
+   "views": 2846,
+   "desc": "Mom called the cat her beautiful baby… and the African Grey parrot was NOT having it! 😭🐱🦜\n\nFirst came “EXCUSE ME?!” followed by an offended “I'M RIGHT HERE!” 😂💀\n\nThis jealous parrot wants to be the favorite child! 🤣❤️\n\nDoes your pet get jealous when you give another animal attention? 👇\n\n🦜 Subscribe "
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "06K4wLQ7P18",
+   "ch": "Indiancitizen28",
+   "cid": "UC-oQxn5nsCpAeDHD1DP5Opw",
+   "date": "2026-10-18",
+   "title": "I LOVE YOU ❤️ #shorts",
+   "views": 2293,
+   "desc": "I LOVE YOU ❤️ 🦜 #shorts \n\n\n😂 मिट्ठू तोता सबको I Love You बोलता है! 🦜 मम्मी का रिएक्शन और मिट्ठू की मजेदार पंचलाइन देखकर हँसी नहीं रुकेगी। ❤️\n\nऐसे ही Funny Parrot Videos और Hindi Comedy Shorts के लिए जुड़े रहें!\n\nYOUR QUERIES:-\nMithu parrot comedy\ntalking parrot funny video\nMithu I love you\nfunny par"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "V9wrermzl4g",
+   "ch": "Booster Singh",
+   "cid": "UCl-pZnnv_nAFUYQK7rGg17w",
+   "date": "2026-10-31",
+   "title": "He got MAD jealous over a plastic duck! 😭🦆 #shorts #birdlogi",
+   "views": 1430,
+   "desc": "\"He saw his human petting a tiny yellow rubber duck and immediately threw a whole tantrum to steal all the head rubs for himself! 😭 Zero shame, 100% jealousy!"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "htTAua633lI",
+   "ch": "randomStuff😵‍💫",
+   "cid": "UCWcAnBaeZQZyb31sDz2DIhA",
+   "date": "2026-10-17",
+   "title": "jealous simba..😂 #dogs #doglove #jealousy #cute #viral #love",
+   "views": 1430,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "KD-14fq2-1g",
+   "ch": "Udon and Taohu the cockatiel",
+   "cid": "UCmnitXU9A6fgJ8ONv_DL1dQ",
+   "date": "2026-11-04",
+   "title": "Does your bird get jealous too? 🍜&amp;◻️ # #นกแก้ว #cockatie",
+   "views": 1940,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "luukNC99fUs",
+   "ch": "𝑭𝒊𝒕𝒏𝒆𝒔𝒔 𝑲𝒊𝒏𝒈 ",
+   "cid": "UCuYQ356loWrS7NNXAICrnSA",
+   "date": "2026-11-12",
+   "title": "Bird gets jealous ￼",
+   "views": 1195,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "rih98T6WsBQ",
+   "ch": "*•cirius_Alien•*",
+   "cid": "UCkuCbSnCSnKadEFAOGhYrrw",
+   "date": "2026-11-05",
+   "title": "Jealousy!!! \\\\\\parrot•theo•wifies/// #unstablesmp #parrotx2 ",
+   "views": 1288,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "fYkhOpzlUv4",
+   "ch": "5G HINDUSTAN",
+   "cid": "UC2sYuGBSwa6XPrWFhjWn59g",
+   "date": "2026-10-25",
+   "title": "😱🦜 हरे तोते को बड़ा कटोरा, और बड़े तोते को छोटा कटोरा! गुस्स",
+   "views": 1208,
+   "desc": "चार दोस्त तोते, लेकिन खाने के बँटवारे में हो गया बड़ा खेल! 🤣💚 हरे तोते को मिला खाने से भरा बड़ा कटोरा, जबकि बड़े तोते को मिला एक छोटा-सा कटोरा! 😭🥣\n\nअब बड़े तोते का गुस्सा देखिए! 😂 क्या उसे भी हरे तोते जितना खाना मिलना चाहिए था? आखिर चारों दोस्तों में किसके साथ सबसे ज्यादा नाइंसाफी हुई? 😱🦜\n\nआप बताइए,"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "_VDheERrrR0",
+   "ch": "XeniaN‘thePetz",
+   "cid": "UCOrGurLl7S_Y4eB6V9cu0Qw",
+   "date": "2026-10-16",
+   "title": "Das tat weh🥺 Blu ist so eifersüchtig !😂 hes so jealous 😂💚🩵🦜",
+   "views": 1344,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "zbZNKJXLblU",
+   "ch": "Life with Ammy",
+   "cid": "UCgWG4-a8V38u6Ly5L00uUMg",
+   "date": "2026-10-27",
+   "title": "The Parrot Gets Jealous",
+   "views": 1410,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "-b-ZkUqAwCk",
+   "ch": "creative vlogs",
+   "cid": "UCd1JcOPpP6hL6Q5hggqPDyQ",
+   "date": "2026-11-11",
+   "title": "😂 The Cat Got JEALOUS When the Parrot Stole His Food! 🦜🐱 #sh",
+   "views": 1111,
+   "desc": "😂 This jealous cat was NOT happy when his owner gave his food to a hungry parrot! 🐱🦜\n\nWatch this hilarious funny animal moment as a cute cat gets jealous, the parrot enjoys his food, and an unexpected funny fight begins!\n\nWho deserves the food? Team Cat or Team Parrot? 😂\n\nSubscribe for more funny ca"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "4m8TUDq6vP4",
+   "ch": "ANGELIC PARROTS",
+   "cid": "UCYLQQHqf6MkT-Mw-43TLUfQ",
+   "date": "2026-11-13",
+   "title": "MY HYACINTH MACAW IS JEALOUS OF THE AFRICAN GREY!",
+   "views": 1076,
+   "desc": "MY HYACINTH MACAW IS JEALOUS OF THE AFRICAN GREY!"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "75qwh-iWgYE",
+   "ch": "FUN PARROTS",
+   "cid": "UCUPAD4CW3n3SJDnJVi-guiQ",
+   "date": "2026-10-27",
+   "title": "#jealous# #caique #funnyvideo",
+   "views": 1314,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "TaGEh48vLPM",
+   "ch": "Mybirdi  | Parrot World",
+   "cid": "UCb4XQKPr64O3DOzND-TSK0A",
+   "date": "2026-11-02",
+   "title": "SOMEONE IS JEALOUS! 😳💋#shorts #shortvideo #shortsfeed #funny",
+   "views": 743,
+   "desc": "WHEN YOU KISS ONE… AND THE OTHER GETS JEALOUS! 😂💋🐦\n\n\n#funnyshorts #shortsviral #viral #viralvideo #funnymoments"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "IBIOJZG4u7Q",
+   "ch": "Myborb_Leica",
+   "cid": "UC1e7FgLLwRCodH7WescbLqw",
+   "date": "2026-11-01",
+   "title": "Leica get mad and jealous #birds #parrot #cute",
+   "views": 1009,
+   "desc": "Leica gets jealous of Lemon."
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "XMlghJfU-HI",
+   "ch": "Birds Lover 1982",
+   "cid": "UCToC_y1-Ho37n0jJzgepOpQ",
+   "date": "2026-10-19",
+   "title": "😱Someone else arrived, Mitthu got jealous! 😂🦜#Talkingparrot ",
+   "views": 1138,
+   "desc": "When someone comes, Mitthu cannot tolerate it 🥰🤣🤣 If you like the video, please like, share and subscribe 🙏🙏 #youtubeviralreels\n#Talkingparrot #Funnyshorts #Birdalover #Ytshorts #Viralshorts #Cute"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "Kjtf1iH8yok",
+   "ch": "HAHAWOW Animal ",
+   "cid": "UCsrxdYa-4kvthH5qlRyZ_-g",
+   "date": "2026-11-05",
+   "title": "นกแก้วขี้หึงจริงไหม 🦜 สัญญาณที่บอกว่าน้องกำลัง",
+   "views": 1014,
+   "desc": "รู้ไหม? นกแก้วก็มีพฤติกรรมคล้ายอาการหึงได้เหมือนกัน! 🦜❤️\n\nเคยไหม? แค่เล่นโทรศัพท์หรือหันไปสนใจคนอื่น น้องก็ร้องเสียงดัง แทรกกลางวงสนทนา กัดเสื้อเบา ๆ หรือถึงขั้นผลักโทรศัพท์ทิ้ง!\n\nมาดู 4 สัญญาณพฤติกรรมของนกแก้วที่กำลังเรียกร้องความสนใจจากเจ้าของ พร้อมทำความเข้าใจว่าทำไมนกแก้วถึงผูกพันกับคนเลี้ยงมากข"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "Ta0Pi8diEsY",
+   "ch": "MISCHIEF WORLD ",
+   "cid": "UCC10FPE7zMtaydyy5P_MOzw",
+   "date": "2026-10-29",
+   "title": "😂 “Jealousy Level: 100% 🤣🔥”",
+   "views": 1098,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "JEnCxY22dh4",
+   "ch": "Fish, Feather & Fur",
+   "cid": "UC2F1Ot2iK1TDw7sZ5svsB1w",
+   "date": "2026-10-30",
+   "title": "Two little jealous souls competing for attention 😂🦜❤️#shorts",
+   "views": 1176,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "2Cv8UWg-77w",
+   "ch": "My cute muthu",
+   "cid": "UCRRhFgbUW_PSCUInvdmiA4Q",
+   "date": "2026-10-16",
+   "title": "jealous boy Muthu#parrot#talkingparrot",
+   "views": 1224,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "rcPzWCEAgzw",
+   "ch": "Feathered Minds",
+   "cid": "UCT_IAe6VVs2CwBsqQxFYLvw",
+   "date": "2026-10-16",
+   "title": "Scientists Tried to Make Parrots Jealous. They Shared Food I",
+   "views": 1163,
+   "desc": "28 parrots. 4 species. Same work, same washer — one got a sunflower seed, the other a walnut. Zero jealousy. 🦜\nThen came the twist: the African greys started giving their own food tokens away — beak to beak — to neighbors who had none.\nMaybe it's not about the food at all. It's about you.\nFull story"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "7NJgR-VYUi8",
+   "ch": "Mimic Bird",
+   "cid": "UChD2LbZ1CaZcB91tlFJ8beQ",
+   "date": "2026-11-04",
+   "title": "This Parrot Is Jealous of the Baby #AfricanGrey #TalkingParr",
+   "views": 734,
+   "desc": "It's the baby's birthday, but this African Grey thinks the party is ALL about him! 😂🎂🦜#AfricanGrey #TalkingParrot #FunnyParrot #BabyBirthday #ParrotComedy #Short #Yt"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "kdkQyU9vmU0",
+   "ch": "Jimmy’s &pakos channel ",
+   "cid": "UCnvJpSxti0ZW_-Mnct6iHhQ",
+   "date": "2026-10-20",
+   "title": "#pako he gets🤪 jealous. Oh, my daughter, he don’t 💪let it to",
+   "views": 1055,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "CJ8dtpJXKDY",
+   "ch": "Евгений Ковалёв",
+   "cid": "UCba3kuAfp3RWpz1S3QpYJpw",
+   "date": "2026-10-25",
+   "title": "🦜Fidelitto the parrot doesn&#39;t like toys; he&#39;s jealou",
+   "views": 1117,
+   "desc": ""
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "eiJyo2MuTlo",
+   "ch": "오늘도 웃참실패",
+   "cid": "UCYdMhjZzB-NOgrQ9PvlBcYg",
+   "date": "2026-10-29",
+   "title": "엄마 말 안 듣는 진돗개, 손 달라니까 먼 산 봄ㅋㅋㅋ jindo dog pretends not to hea",
+   "views": 31713,
+   "desc": "\"손!\" 하면 먼 산만 보는 진돗개 수지. 간식 얘기에는 귀가 쫑긋하다가, 빗질 이야기가 나오자 갑자기 급한 일이 생겼습니다. 끝까지 보세요ㅋㅋ\n원본 영상 출처: 엄마한테 반항하던 진돗개 최후 (원 채널 표기 필요)\nOriginal video credit: (원 채널 이름)\n#웃참실패 #진돗개 #강아지 #동물 #웃긴영상 #shorts"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "RfOYnz-oWJk",
+   "ch": "우리들의 계절",
+   "cid": "UCVmbVJXq1Xd0K_fRg_6uT-w",
+   "date": "2026-10-29",
+   "title": "&#39;집에 가자&#39;는 말만 안 들리는 12살 리트리버",
+   "views": 6590,
+   "desc": "'집에 가자' 소리만 나오면 못 들은 척 앉아 버리는 모모. 결국 간식 봉투 물고 출발.\n\n#리트리버 #골든리트리버 #우리들의계절\n\n🙌이 영상을 통해 따뜻한 행복을 느끼셨다면, 채널 성장에 힘을 보태주세요!\n✅멤버십 가입 (990원부터) https://www.youtube.com/channel/UCVmbVJXq1Xd0K_fRg_6uT-w/join\n✅투네이션 https://toon.at/donate/mosam\n✅모삼이네 굿즈 판매중 https://marpple.shop/kr/mosam\n📷인스타그램 @ourszns1 https://ww"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "p1Vx5cnTRUU",
+   "ch": "SigmaSummerDog",
+   "cid": "UCXrwuIXMRISdoU_j9qZpR7g",
+   "date": "2026-10-16",
+   "title": "￼3 เหตุผลที่หมาทำเป็นไม่ได้ยิน‼️",
+   "views": 3838,
+   "desc": "#พนักงาน4ขาซิกม่าซัมเมอร์ #สัตว์เลี้ยง #หมา #dog #fyp"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "dQicxNYck3c",
+   "ch": "TEL TV",
+   "cid": "UCnVXp85nyp0vRr3O6ZbK1Xw",
+   "date": "2026-10-31",
+   "title": "The Dogs Are Pretending Not to Hear Her 😂",
+   "views": 1105,
+   "desc": "This baby is calling her dogs. The dogs are pretending not to hear — very good at pretending, even though she is right there. Then one gives in, and the whole crew shows up. Would your dog ignore the call this long, or come running straight away?"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "gl1CWH7vmMg",
+   "ch": "Pet Psychology center",
+   "cid": "UCFlAvAZ-sXRywlQoAxxXzPA",
+   "date": "2026-10-20",
+   "title": "Cat pretends not to hear its name—does it really not know?",
+   "views": 1269,
+   "desc": "Cat Names Do they really not know?\n\n[References]\n- Saito et al., Scientific Reports, 2019. Domestic cats (Felis catus) discriminate their names from other words.. PMID 30948740, DOI 10.1038/s41598-019-40616-4\n\nDog behavior, explained with research in 30 seconds. New Shorts every day.\n\n#shorts #dogs "
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "vda5rhskxls",
+   "ch": "I am Caramelin",
+   "cid": "UCsUg-d1jkiyt_277R8ExG9w",
+   "date": "2026-11-13",
+   "title": "🐶🤣 WHEN MY FAMILY ARGUES… I HEAR NOTHING! 👀😂",
+   "views": 1184,
+   "desc": "🐶👀 My family starts arguing… and suddenly I'm the best at pretending I can't hear anything! 🤣😂\n\n🐾 I'm Caramelín, just minding my own business… but my ears are catching EVERYTHING! 👂🤣\n\n😂 I'm not getting involved! I'm just here for the snacks! 🍗🐶\n\n❤️ Does your dog pretend not to listen too? Tell me in"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "xXtsPQENuA8",
+   "ch": "Yoon! Molly",
+   "cid": "UCxjVIK78QZTJBjnpTVm5LUg",
+   "date": "2026-11-08",
+   "title": "Dad: &quot;Get your ball…&quot; / Her: *pretends not to hear",
+   "views": 1132,
+   "desc": "Dad keeps asking Molly to grab her ball.\nShe licks her lips and ignores him…\nThen the camera pans — she already had the strap in her mouth the whole time 🐾\n\nSheltie on the office rooftop.\nMore Molly ▶ https://www.youtube.com/channel/UCxjVIK78QZTJBjnpTVm5LUg\n#shorts #sheltie #shetlandsheepdog #YoonMo"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "8QILSMGV60E",
+   "ch": "PupLogic",
+   "cid": "UCMIdDcvsfw4p8n1Vc7K9OMA",
+   "date": "2026-10-22",
+   "title": "Why Your Dog Pretends Not to Hear You — Until You Whisper &q",
+   "views": 1278,
+   "desc": "#dogbehavior  #dogpsychology  #dogfacts  #DogLovers #funnydogs  #dogtok  #dogsoftiktok  #dogshorts  #dogbreeds  #dogowner"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "ycmIz00KiuY",
+   "ch": "All rounded.",
+   "cid": "UClCTjrR1JVAsok8X64QUINg",
+   "date": "2026-10-31",
+   "title": "“The Word He Pretends Not To Hear” 😂",
+   "views": 1008,
+   "desc": "「散歩」も「おやつ」も完璧に聞き取るのに、「お風呂」だけは聞こえないふり。😂🐾 うちの子もやる!という人はコメントで教えてね。\n\n#犬のいる暮らし #犬あるある #お風呂嫌い #おもしろ犬 #癒し犬 #Shorts #リール #犬のいる生活"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "250knkXM3iY",
+   "ch": "Daily Pet Pals",
+   "cid": "UC2imkaPeMmVI3lrK4RHHG-w",
+   "date": "2026-11-13",
+   "title": "My Dog Ignored Me Until I Asked For Money 💰 #GoldenRetriever",
+   "views": 1049,
+   "desc": "Meet Mimi the Golden Retriever sitting calmly on the floor. She is completely ignoring her owner calling her name. Why is she looking away? The owner jokes that she is pretending not to hear because she does not want to buy him an iPhone 18 foldable screen. Who knew dogs had pockets full of cash? Th"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "n9Pp_ydunK8",
+   "ch": "Rebeca a Pug",
+   "cid": "UCtQPq5jpak0tpJND8fsGuQQ",
+   "date": "2026-11-01",
+   "title": "FINJO QUE NÃO OUVI",
+   "views": 1238,
+   "desc": "Finjo que não tô ouvindo 🤡\n\nSiga @rebecapug \n\n#pug #cachorro"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "xkWzuRjUzps",
+   "ch": "Pawfect Finds",
+   "cid": "UCmCrs0IdJeonqIuOxiW103Q",
+   "date": "2026-10-18",
+   "title": "5 things your dog pretends NOT to hear 😂🐶",
+   "views": 506,
+   "desc": "5 things your dog pretends NOT to hear 😂🐶\nFun fact: dogs can hear frequencies up to 65,000 Hz — more than three times higher than humans. So the selective hearing is a choice, not a limitation. And yes, that includes the cheese wrapper from three rooms away. 🧀\nWhich command does YOUR dog \"forget\" fi"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "db4QtYKmRr4",
+   "ch": "Just PetSense - Why Does My Pet Do That?",
+   "cid": "UCpsp4VZHkxcdeZgptEtFwbw",
+   "date": "2026-11-03",
+   "title": "Why Does Your Dog Pretend Not to Hear You? 🐾",
+   "views": 6,
+   "desc": "Why does your dog pretend not to hear you when you call him? He heard you perfectly — coming to you just has to beat the smells, the squirrels, and everything else in the garden. The fix is simple: make coming to you the best deal in the house, with a fast reward every time.\nEducational purposes onl"
+  },
+  {
+   "q": "dog pretends not to hear owner",
+   "vid": "ySU88YvfNeo",
+   "ch": "Sam's Just Saying.",
+   "cid": "UCmH_zEaP19aDfVY-BtSq6TQ",
+   "date": "2026-11-03",
+   "title": "Why Your Dog Pretends Not to Hear You?",
    "views": 1,
-   "desc": "물에 뜨던 쌀과자 하나가 소용돌이를 만나면?\n빙글빙글 돌다가 사라지는 순간까지, 실제 댓글 반응과 함께 보세요."
+   "desc": "Ever felt like your dog is completely ignoring you? You’re not alone! In today’s episode, we break down the hilarious (and scientifically proven) reasons why your dog pretends not to hear you—all wrapped up in a fun anime style! 🐕✨\nFrom \"selective hearing\" to environmental overload, find out what's "
   }
  ]
 }
