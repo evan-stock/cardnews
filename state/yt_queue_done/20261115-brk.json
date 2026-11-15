@@ -1,0 +1,14 @@
+{
+ "id": "20261115-brk",
+ "finished_at": "2026-11-15T09:54:07+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=G8c48YnCpro",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Download completed"
+  }
+ ]
+}
