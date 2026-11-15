@@ -1,0 +1,81 @@
+{
+ "id": "20261115-t18",
+ "created": "2026-11-15T18:27:13.868287+09:00",
+ "items": [
+  {
+   "key": "92094a3dc3e0",
+   "text": "아빠가 혼자 맛있는 걸 먹자",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "젤리가 꼼짝 않고 빤히 기다리는데요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "ac56070ef21f",
+   "text": "젤리가 꼼짝 않고 빤히 기다리는데요",
+   "ctx": {
+    "previous_text": "아빠가 혼자 맛있는 걸 먹자",
+    "next_text": "끝내 한 입도 안 주자 휙 돌아서더니"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "f5399ced97b1",
+   "text": "끝내 한 입도 안 주자 휙 돌아서더니",
+   "ctx": {
+    "previous_text": "젤리가 꼼짝 않고 빤히 기다리는데요",
+    "next_text": "방석에 웅크려 등을 돌려 버리네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "6d2edb9f4799",
+   "text": "방석에 웅크려 등을 돌려 버리네요",
+   "ctx": {
+    "previous_text": "끝내 한 입도 안 주자 휙 돌아서더니",
+    "next_text": "말은 안 해도 뒷모습이 서운함 그 자체네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "5bb4df97c5cb",
+   "text": "말은 안 해도 뒷모습이 서운함 그 자체네요",
+   "ctx": {
+    "previous_text": "방석에 웅크려 등을 돌려 버리네요",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
