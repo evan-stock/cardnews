@@ -1,1 +1,1 @@
-{"id": "20261115-brk", "frames": 0, "urls": ["https://www.youtube.com/watch?v=G8c48YnCpro", "https://www.instagram.com/reel/Dfvfap5T31W/"]}
+{"id": "20261115-brkyt", "frames": 0, "args": "--extractor-args youtube:player_client=web_embedded,tv_simply,mweb -v", "urls": ["https://www.youtube.com/watch?v=G8c48YnCpro"]}
