@@ -41,5 +41,9 @@
   "channel": null
  },
  "draft_hash": "7e4e1b5ddeab",
- "tg_msg": 2639
+ "tg_msg": 2639,
+ "tg_old_msgs": [
+  2636,
+  2637
+ ]
 }

@@ -735,7 +735,15 @@ def description(d, engines):
 
 def send_preview(post, path):
     from . import telegram_bot as tg
-    tg.send_video(path, f"▶️ 쇼츠 미리보기 {post['seconds']:.0f}초 · TTS {','.join(post['tts'])}")
+    old = post.pop("_old_msgs", [])  # 같은 id 를 다시 보내면 이전 미리보기(영상+버튼)를 지워 최종본만 남긴다(2026.11.15 사용자 "최종본만 보내야지")
+    for m in old:
+        try:
+            tg._api("deleteMessage", chat_id=tg.chat_id(), message_id=m)
+        except Exception as e:
+            print("이전 미리보기 삭제 실패(무시):", m, e)
+    v = tg.send_video(path, f"▶️ 쇼츠 미리보기 {post['seconds']:.0f}초 · TTS {','.join(post['tts'])}")
+    if isinstance(v, dict) and v.get("message_id"):
+        post["tg_video"] = v["message_id"]
     when = "승인 즉시" if post.get("publish_now") else post["publish_at"][5:16].replace("T", " ")
     text = (f"🎬 [유튜브 쇼츠] {post['topic']}\n공개: {post['yt']['privacy']} · {when}\n\n"
             f"제목: {post['yt']['title']}\n\n──── 설명란 ────\n{post['yt']['description']}\n\n"
@@ -796,6 +804,11 @@ def _one(d):
     post["draft_hash"] = draft_hash(d)
     if d.get("vote"):  # 댓글 투표 선택지(인생 댓글로 정함, cardnews/life_vote.py)
         post["vote"] = d["vote"]
+    sp = ROOT / "state" / "posts" / f"{d['id']}.json"
+    if sp.exists():
+        old = json.load(open(sp, encoding="utf-8"))
+        if old.get("status") == "pending" and old.get("tg_msg"):
+            post["_old_msgs"] = sorted({old["tg_msg"], old.get("tg_video") or old["tg_msg"] - 1} | set(old.get("tg_old_msgs", [])))
     post["tg_msg"] = send_preview(post, out)
     if d.get("approved"):  # 채팅에서 이미 승인받은 경우만. publish_now는 '승인되면 바로 공개'라는 뜻일 뿐 승인을 대신하지 않는다
         post.update(status="approved", decided_at=now().isoformat())
