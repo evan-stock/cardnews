@@ -2,7 +2,7 @@
  "id": "20261115-aicase",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-15T18:42:15.640291+09:00",
  "publish_at": "2026-11-15T18:39:19+09:00",
  "topic": "청와대 국가자격시험 AI 부정 전수조사(세무사 수석 자수 후속) + 커뮤니티 고백 곁가지",
@@ -83,5 +83,9 @@
   "media/20261115-aicase/06.jpg",
   "media/20261115-aicase/07.jpg"
  ],
- "tg_msg": 2658
+ "tg_msg": 2658,
+ "decided_at": "2026-11-15T18:47:10.602303+09:00",
+ "ig_media_id": "18126504781911059",
+ "permalink": "https://www.instagram.com/p/Dfwfm39loo2/",
+ "published_at": "2026-11-15T18:48:26.625938+09:00"
 }
