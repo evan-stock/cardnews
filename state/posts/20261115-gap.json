@@ -2,7 +2,7 @@
  "id": "20261115-gap",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-15T10:53:08.659043+09:00",
  "publish_at": "2026-11-15T10:53:08.659144+09:00",
  "topic": "세무사 수석 부정행위 자수 후속: 감독관 앞자리·CCTV 공백",
@@ -69,5 +69,8 @@
   "media/20261115-gap/05.mp4",
   "media/20261115-gap/06.jpg"
  ],
- "tg_msg": 2623
+ "tg_msg": 2623,
+ "ig_media_id": "17934301026165973",
+ "permalink": "https://www.instagram.com/p/DfvpmTniYzg/",
+ "published_at": "2026-11-15T10:56:27.118746+09:00"
 }
