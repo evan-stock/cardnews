@@ -1,8 +1,8 @@
 {
- "id": "20261115-t08",
+ "id": "20261115-t13",
  "mode": "send",
  "format": "meme",
- "topic": "한 원본(11.15 08:07, 대본 우선 방식 2편째): 아기가 강아지 인형에 뽀뽀하자 뒤에 누워 있던 로트와일러 베어가 곧장 와서 인형 냄새를 맡고 코를 들이밈 → 아기가 인형을 번쩍 들자 아기 옆에 철퍼덕 누움 → 결국 아기가 진짜 개를 안고 쓰다듬어 줌(인형에 질투). 원본 YouTube Tiny Boss Big Dog 'Bear Got Jealous of Her New Puppy'(V_7bj7mERro, 2026.11.06, 15초, 720x1278). 시간순, 원본 그대로(확대 없음). 원본 소리: 전 구간 사람 말소리('I love my new puppy… no Bear, that's my puppy, you're my baby too… Bear, you're still her favorite')라 0, bgm sneaky_snitch 0.2(질투 작전 코믹). 2판: 장면 시작을 첫 서버 렌더의 실제 누적 길이(2.7/5.2/7.4/9.7/11.7)로 맞춰 원본 구간 겹침·건너뜀 없앰.",
+ "topic": "한 원본(11.15 13:07, ★첫 장면 동물 대사형 1편째·'삐진 동물' 시리즈): 아침 칭찬 시간에 엄마가 골든리트리버에게 'you look so squishy(말랑말랑해 보여)'라고 하자 고개를 휙 돌려 외면 → 'and perfect'라고 하자 슬그머니 다시 돌아봄 → '진짜 완벽하다'는 말에 표정이 풀리고 '넌 네가 완벽하다고 생각하지?'에 지그시 바라보다 만족한 듯 철퍼덕 드러누움. 원본 YouTube 'Winnie & Wilson | The Goldens' 본인 채널(p0KaESjujaQ, 2026.11.05, 1만 회, 32초, 1080x1920). 원본 9.0~약 31초 시간순(0~1.5초는 내레이션 없이 첫 대사만), 확대 없음, y 1.0 크롭으로 위쪽 캡션 'morning affirmations with my son'은 화면 밖(아래 작은 받아쓰기 캡션은 남음). 원본 소리: 엄마 말소리·덧입힌 음악 → 0, bgm curious_kitten.",
  "sfx_max": 1,
  "style": {
   "mascot": null,
@@ -11,138 +11,151 @@
   "voice_volume": 0.8
  },
  "hook": {
-  "t": "인형한테 밀린 형님\n'작전' 개시ㅋㅋ"
+  "t": "아침 칭찬 타임\n단어 하나에 정색ㅋㅋ"
  },
  "photo_credits": [
-  "YouTube Tiny Boss Big Dog"
+  "YouTube Winnie & Wilson | The Goldens"
  ],
- "credit": "영상: YouTube Tiny Boss Big Dog",
+ "credit": "영상: YouTube Winnie & Wilson | The Goldens",
  "sources": [
   {
-   "publisher": "YouTube Tiny Boss Big Dog - Bear Got Jealous of Her New Puppy",
-   "url": "https://www.youtube.com/shorts/V_7bj7mERro",
-   "date": "2026-11-06"
+   "publisher": "YouTube Winnie & Wilson | The Goldens - It's the way he looks away offended when i call him squishy but comes back when i call him perfect",
+   "url": "https://www.youtube.com/shorts/p0KaESjujaQ",
+   "date": "2026-11-05"
   }
  ],
  "scenes": [
   {
-   "say": "아기가 인형에 뽀뽀하는 걸 보더니",
-   "sub": "아기가 인형에, 뽀뽀하는 걸 보더니",
+   "dur": 1.5,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 0.0,
+    "src": "video/w1.mp4",
+    "start": 9.0,
     "x": 0.5,
-    "y": 0.5,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...방금 뭐 한 거야?",
-     "x": 0.3,
+     "t": "…나 지금 뚱뚱하다고?",
+     "x": 0.5,
+     "y": 0.09,
+     "at": 0.0,
+     "to": 1.5,
+     "c": "yellow",
+     "size": 84
+    }
+   ]
+  },
+  {
+   "say": "아침 칭찬 시간에 말랑말랑해 보인다고 했더니",
+   "sub": "아침 칭찬 시간에, 말랑말랑해 보인다고 했더니",
+   "video": {
+    "src": "video/w1.mp4",
+    "start": 10.5,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "(정색)",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 1.0,
+     "to": 2.8,
+     "c": "yellow",
+     "size": 74
+    }
+   ]
+  },
+  {
+   "say": "고개를 휙 돌려 버리는데요",
+   "sub": "고개를 휙, 돌려 버리는데요",
+   "video": {
+    "src": "video/w1.mp4",
+    "start": 13.55,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "흥. 안 들려",
+     "x": 0.68,
      "y": 0.12,
-     "at": 0.5,
-     "to": 2.4,
+     "at": 0.2,
+     "to": 2.0,
      "c": "yellow",
      "size": 74
     }
    ]
   },
   {
-   "say": "로트와일러가 곧장 걸어와 냄새를 맡는데요",
-   "sub": "로트와일러가 곧장, 걸어와 냄새를 맡는데요",
+   "say": "완벽하다고 하자 슬그머니 다시 보더니",
+   "sub": "완벽하다고 하자, 슬그머니 다시 보더니",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 2.7,
+    "src": "video/w1.mp4",
+    "start": 15.4,
     "x": 0.5,
-    "y": 0.5,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "킁킁... 누구냐 너",
-     "x": 0.3,
-     "y": 0.2,
-     "at": 0.2,
-     "to": 1.6,
-     "c": "yellow",
-     "size": 74
-    },
-    {
-     "k": "talk",
-     "t": "내 자리 뺏었어?",
-     "x": 0.3,
-     "y": 0.2,
-     "at": 1.6,
-     "to": 3.0,
-     "c": "yellow",
-     "size": 74
-    }
-   ]
-  },
-  {
-   "say": "아기가 인형을 번쩍 들어 올리자",
-   "sub": "아기가 인형을, 번쩍 들어 올리자",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 5.2,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "그거 내려놔...",
-     "x": 0.3,
-     "y": 0.2,
-     "at": 0.2,
-     "to": 2.4,
-     "c": "yellow",
-     "size": 74
-    },
-    {
-     "k": "sfx",
-     "t": "(코 들이밀기)",
-     "x": 0.32,
-     "y": 0.32,
+     "t": "…방금 완벽이라 했어?",
+     "x": 0.5,
+     "y": 0.08,
      "at": 0.6,
-     "to": 2.4,
+     "to": 2.8,
      "c": "yellow",
-     "size": 70
+     "size": 74
     }
    ]
   },
   {
-   "say": "이번엔 아기 옆에 철퍼덕 눕더니",
-   "sub": "이번엔 아기 옆에, 철퍼덕 눕더니",
+   "say": "또 완벽하다는 말에 표정이 풀리는데요",
+   "sub": "또 완벽하다는 말에, 표정이 풀리는데요",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 7.4,
+    "src": "video/w1.mp4",
+    "start": 17.95,
     "x": 0.5,
-    "y": 0.5,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(철퍼덕)",
-     "x": 0.28,
-     "y": 0.42,
-     "at": 0.2,
-     "to": 1.4,
+     "k": "talk",
+     "t": "그래, 그 말이 듣고 싶었어",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 0.3,
+     "to": 2.6,
      "c": "yellow",
-     "size": 74,
-     "s": "boing",
-     "sv": 0.6
-    },
+     "size": 74
+    }
+   ]
+  },
+  {
+   "say": "본인도 완벽하다고 생각하냐고 묻자",
+   "sub": "본인도 완벽하다고, 생각하냐고 묻자",
+   "video": {
+    "src": "video/w1.mp4",
+    "start": 20.6,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0
+   },
+   "caps": [
     {
      "k": "talk",
-     "t": "나도 여기 있거든",
-     "x": 0.3,
-     "y": 0.4,
-     "at": 1.4,
+     "t": "그걸 말이라고…",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 0.4,
      "to": 2.4,
      "c": "yellow",
      "size": 74
@@ -150,22 +163,22 @@
    ]
   },
   {
-   "say": "결국 아기 품을 차지했네요",
-   "sub": "결국 아기 품을, 차지했네요",
+   "say": "대답 대신 지그시 바라보다가",
+   "sub": "대답 대신, 지그시 바라보다가",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 9.7,
+    "src": "video/w1.mp4",
+    "start": 23.05,
     "x": 0.5,
-    "y": 0.5,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...그래, 이거지",
-     "x": 0.3,
-     "y": 0.4,
-     "at": 0.6,
+     "t": "(당연하지)",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 0.3,
      "to": 2.2,
      "c": "yellow",
      "size": 74
@@ -173,22 +186,68 @@
    ]
   },
   {
-   "dur": 2.4,
+   "say": "너도 그렇게 생각하는구나 하자",
+   "sub": "너도 그렇게, 생각하는구나 하자",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 11.7,
+    "src": "video/w1.mp4",
+    "start": 25.0,
     "x": 0.5,
-    "y": 0.5,
+    "y": 1.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "응. 나 완벽해",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 0.3,
+     "to": 2.2,
+     "c": "yellow",
+     "size": 74
+    }
+   ]
+  },
+  {
+   "say": "결국 만족한 듯 철퍼덕 드러눕네요",
+   "sub": "결국 만족한 듯, 철퍼덕 드러눕네요",
+   "video": {
+    "src": "video/w1.mp4",
+    "start": 27.25,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "오늘 칭찬 끝",
+     "x": 0.62,
+     "y": 0.12,
+     "at": 1.2,
+     "to": 2.4,
+     "c": "yellow",
+     "size": 74
+    }
+   ]
+  },
+  {
+   "dur": 1.8,
+   "video": {
+    "src": "video/w1.mp4",
+    "start": 29.5,
+    "x": 0.5,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "(진짜 강아지는 여기 있다고ㅋㅋ)",
+     "t": "(말랑 금지, 완벽만 받음ㅋㅋ)",
      "x": 0.5,
-     "y": 0.3,
+     "y": 0.12,
      "at": 0.0,
-     "to": 2.4,
+     "to": 1.8,
      "c": "sky",
      "size": 60
     }
@@ -196,13 +255,13 @@
   }
  ],
  "yt": {
-  "title": "아기가 강아지 인형에 뽀뽀했더니 로트와일러가 보인 반응ㅋㅋ #shorts",
-  "description": "아기 품에 새로 들어온 강아지 인형, 그걸 본 로트와일러 베어의 질투 작전 🐶🧸\n\n🎥 원본 영상: YouTube Tiny Boss Big Dog https://www.youtube.com/shorts/V_7bj7mERro\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#오늘의털뭉치 #로트와일러 #대형견 #강아지질투 #댕댕이 #동물쇼츠",
+  "title": "말랑하다는 말에 삐진 골든리트리버 바로 풀어 주는 한마디ㅋㅋ #shorts",
+  "description": "아침 칭찬 시간, '말랑말랑해 보인다'는 한마디에 고개를 돌려 버린 골든리트리버 🐶\n\n🎥 원본 영상: YouTube Winnie & Wilson | The Goldens https://www.youtube.com/shorts/p0KaESjujaQ\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#오늘의털뭉치 #골든리트리버 #골댕이 #삐진강아지 #댕댕이 #동물쇼츠",
   "tags": [
    "오늘의털뭉치",
-   "로트와일러",
-   "대형견",
-   "강아지질투",
+   "골든리트리버",
+   "골댕이",
+   "삐진강아지",
    "댕댕이",
    "강아지",
    "동물쇼츠",
@@ -210,6 +269,6 @@
   ]
  },
  "publish_now": true,
- "bgm": "assets/bgm/worthy/sneaky_snitch.mp3",
- "bgm_volume": 0.2
+ "bgm": "assets/bgm/worthy/curious_kitten.mp3",
+ "bgm_volume": 2.0
 }
