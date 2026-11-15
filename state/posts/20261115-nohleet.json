@@ -2,7 +2,7 @@
  "id": "20261115-nohleet",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-15T18:49:36.921910+09:00",
  "publish_at": "2026-11-15T18:47:17+09:00",
  "topic": "리트 강사 노형석, 리트 첫 만점자 시험지 의문 제기·'만나서 풀어보자' 제안",
@@ -61,5 +61,9 @@
   "media/20261115-nohleet/06.jpg",
   "media/20261115-nohleet/07.jpg"
  ],
- "tg_msg": 2668
+ "tg_msg": 2668,
+ "decided_at": "2026-11-15T18:51:34.547943+09:00",
+ "ig_media_id": "18120295151095703",
+ "permalink": "https://www.instagram.com/p/DfwgG1qFpZN/",
+ "published_at": "2026-11-15T18:52:47.710236+09:00"
 }
