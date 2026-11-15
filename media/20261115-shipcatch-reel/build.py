@@ -8,7 +8,7 @@ FB='assets/fonts/Pretendard-Black.otf'; FM='assets/fonts/Pretendard-Medium.otf';
 SRC='media/20261115-shipcatch4k/video/v1.mp4'   # SpaceX X 원본 4K (x.com/SpaceX/status/2121715216597827756)
 SS,DUR=55,31
 CROP="crop=1020:1814:1958-510:0,scale=1080:1920:flags=lanczos,setsar=1"  # 아래 SpaceX 시간 표시 잘라냄
-TITLE=['SpaceX 우주선','본체 회수 성공']
+TITLE=['SpaceX','지구 14바퀴 돌고','본체 회수 성공']
 ov=overlay(TITLE); ov.save(f'{R}/title.png')
 def cap(i,small,b1,b2):
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
@@ -24,8 +24,8 @@ def cap(i,small,b1,b2):
         assert d.textlength(t,font=f)<=940,t
         d.text((x,y),t,font=f,fill=c,anchor='ls')
     im.save(f'{R}/cap{i}.png')
-CAPS=[(0,3.02,'11월 14일 · 미국 텍사스 스타베이스','지구 14바퀴 돌고','돌아온 우주선'),
-      (3.02,7.0,'22시간 만의 귀환','길이 52m 스타십이','엔진 켜고 몸을 세운다'),
+CAPS=[(0,3.02,'11월 14일 · 미국 텍사스 스타베이스','22시간 우주 비행 끝에','돌아온 우주선'),
+      (3.02,7.0,'착륙 직전','길이 52m 스타십이','엔진 켜고 몸을 세운다'),
       (7.0,10.87,'바다 대신 발사탑으로','그대로 발사탑 옆에','정확히 내려앉는다'),
       (10.87,15.77,'발사탑 카메라 영상','거대한 로봇 팔 두 개가','공중에서 붙잡았다'),
       (15.77,23.0,'SpaceX 공식 영상','우주선 본체 회수는','이번이 처음'),
