@@ -1,0 +1,126 @@
+{
+ "id": "20261116-t08",
+ "created": "2026-11-16T08:25:44.830606+09:00",
+ "items": [
+  {
+   "key": "203d252b4153",
+   "text": "발톱을 깎자마자 간식을 내밀었더니",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "고개를 휙 돌려 버리는데요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "37c2ad8ff39c",
+   "text": "고개를 휙 돌려 버리는데요",
+   "ctx": {
+    "previous_text": "발톱을 깎자마자 간식을 내밀었더니",
+    "next_text": "엄마가 얼굴을 돌려 세워 봐도"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "9ab11176e35e",
+   "text": "엄마가 얼굴을 돌려 세워 봐도",
+   "ctx": {
+    "previous_text": "고개를 휙 돌려 버리는데요",
+    "next_text": "간식엔 눈길도 안 주네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "be08d4f39429",
+   "text": "간식엔 눈길도 안 주네요",
+   "ctx": {
+    "previous_text": "엄마가 얼굴을 돌려 세워 봐도",
+    "next_text": "앞발을 잡고 사과해도 외면하더니"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "b87e748d795d",
+   "text": "앞발을 잡고 사과해도 외면하더니",
+   "ctx": {
+    "previous_text": "간식엔 눈길도 안 주네요",
+    "next_text": "그런데 잠시 뒤 벌떡 일어나"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "d80bb2dd5d77",
+   "text": "그런데 잠시 뒤 벌떡 일어나",
+   "ctx": {
+    "previous_text": "앞발을 잡고 사과해도 외면하더니",
+    "next_text": "공을 물고 엄마한테 오더니"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "d51c0d111ad2",
+   "text": "공을 물고 엄마한테 오더니",
+   "ctx": {
+    "previous_text": "그런데 잠시 뒤 벌떡 일어나",
+    "next_text": "먼저 앞발을 쓱 내미네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "6085200e299d",
+   "text": "먼저 앞발을 쓱 내미네요",
+   "ctx": {
+    "previous_text": "공을 물고 엄마한테 오더니",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
