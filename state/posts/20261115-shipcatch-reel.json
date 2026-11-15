@@ -1,0 +1,31 @@
+{
+ "id": "20261115-shipcatch-reel",
+ "format": "reel",
+ "status": "approved",
+ "manual": true,
+ "created_at": "2026-11-15T14:02:30+09:00",
+ "publish_at": "2026-11-15T14:02:30+09:00",
+ "decided_at": "2026-11-15T14:02:30+09:00",
+ "topic": "스페이스X 스타십 15차 시험비행, 우주선 본체 발사탑 회수 첫 성공(부스터는 폭발)",
+ "category": "해외 화제",
+ "sources": [
+  {
+   "publisher": "SpaceX (X)",
+   "date": "2026.11.14",
+   "url": "https://x.com/SpaceX/status/2121715216597827756"
+  },
+  {
+   "publisher": "UPI",
+   "date": "2026.11.14",
+   "url": "https://www.upi.com/Top_News/US/2026/11/14/spacex-starship-upper-stage/1201794703333"
+  }
+ ],
+ "files": [
+  "media/20261115-shipcatch-reel/reel.mp4"
+ ],
+ "cover": "media/20261115-shipcatch-reel/reel_cover.jpg",
+ "credits": [
+  "SpaceX(@SpaceX, X)"
+ ],
+ "caption_full": "우주에서 돌아온 52m짜리 우주선을 발사탑 로봇 팔이 공중에서 붙잡았습니다.\n\n스페이스X의 우주선 '스타십'이 15번째 시험비행에서 22시간 동안 지구를 14바퀴 돈 뒤 11월 14일(현지시간) 텍사스 발사장으로 돌아왔고, 발사탑의 거대한 팔('젓가락')이 그대로 잡아냈습니다. 우주선 본체를 이렇게 되찾은 건 처음입니다.\n\n다만 함께 잡으려던 1단 부스터는 하루 전 발사 직후 스스로 회수를 취소한 뒤 멕시코만 위에서 폭발해, 두 단을 모두 되찾는 데는 실패했습니다.\n\n로켓을 비행기처럼 다시 쓰는 시대, 생각보다 가까워졌다고 보시나요?\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.\n\n영상: SpaceX(@SpaceX, X) 2026.11.14\n출처: UPI·Space.com 등 (2026.11.14)\n\n#스페이스X #SpaceX #스타십 #일론머스크 #메카질라 #우주"
+}
