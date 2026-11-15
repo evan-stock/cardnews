@@ -1,2 +1,3 @@
 키 있음, 글자 수 53
-Sadaltager: 성공 44.7초
+  Fenrir HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per day on Free Tier). Please retry in 4h54m21s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
+Fenrir: 성공 50.6초
