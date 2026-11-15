@@ -1,65 +1,26 @@
-{
- "id": "20261115-nohleet",
- "slot": "lunch",
- "mode": "send",
- "topic": "리트 강사 노형석, 리트 첫 만점자 시험지 의문 제기·'만나서 풀어보자' 제안",
- "category": "국내 사회",
- "slides": [
-  {
-   "t": "리트 13번 본 강사, 만점자에게\n'만나서 풀어봅시다'",
-   "lay": "one"
-  },
-  {
-   "t": "x",
-   "raw": true
-  },
-  {
-   "t": "x",
-   "raw": true
-  },
-  {
-   "t": "x",
-   "raw": true
-  },
-  {
-   "t": "x",
-   "raw": true
-  },
-  {
-   "t": "x",
-   "raw": true
-  },
-  {
-   "t": "19일 수능 생중계보다\n이 '대화'가 더 궁금하다",
-   "b": "수락 여부, 팔로우하면 바로 이어서 올립니다"
-  }
- ],
- "images": [
-  "cover_bg",
-  "c02",
-  "c03",
-  "c04",
-  "c05",
-  "c06"
- ],
- "sources": [
-  {
-   "publisher": "스레드 @hyungseoknoh",
-   "url": "https://www.threads.com/@hyungseoknoh/post/DfvzE49D755",
-   "date": "2026.11.15"
-  }
- ],
- "photo_credits": [
-  "표지: 메가로스쿨 강사 프로필·인터뷰 사진 합성",
-  "캡처: 스레드 @hyungseoknoh"
- ],
- "publish_at": "2026-11-15T18:47:17+09:00",
- "caption": "[리트 첫 만점자에게 날아온 공개 제안] 현직 리트 강사가 \"만나서 기출 몇 문제 같이 풀어보자\"고 했습니다\n\n메가로스쿨에서 리트 언어이해를 가르치는 노형석 강사가 15일 스레드에 리트 첫 만점자 이진우 씨의 시험지를 두고 글을 올렸습니다. 그는 2016학년도 언어이해를 다 맞혔고, 본시험에만 13번 응시했다고 자신을 소개했습니다.\n\n그가 짚은 건 27번과 28번입니다. 27번에서 골랐다 지운 3번은 \"정답으로 의심조차 될 수 없는 가장 확실한 오선지\"이고, 28번 정답인 3번은 글을 적당히만 읽어도 바로 고르게 되는 선지라는 것입니다. 이런 흔적을 남긴 사람이 리트를 다 맞혔다는 건 \"설명하지 못하겠다\"고 했습니다.\n\n다만 부정행위라고 단정하지는 않았습니다. 자신이 파악하지 못한 사고 과정이 있기를, 부디 우연이기를 간절히 바란다고 덧붙였습니다.\n\n1시간 반 뒤에는 \"이게 왜 답이야?\"를 서로 묻는 대화가 가장 좋은 검증 수단이라며, 올해 문제를 포함한 기출 몇 개를 만나서 같이 풀어보자고 제안했습니다. 다른 학원과 계약돼 있다면 타사 공간에서 해도 괜찮다고 했습니다. \"만점자가 진짜면 은퇴하라\"는 요구에는 아이가 초등학교 1학년이고 외벌이 가장이라며 양해를 구했습니다.\n\n이진우 씨는 19일 수능 국어를 생중계로 풉니다. 하지만 정말 궁금한 건 리트 문제 앞에서 '왜 이게 답인지' 설명하는 모습 아닐까요? 여러분이라면 이 제안, 받으시겠습니까?\n\n수험생 친구에게 공유해주세요! 팔로우하면 수락 여부를 바로 이어서 받아보실 수 있습니다.",
- "hashtags": [
-  "리트만점",
-  "이진우",
-  "노형석",
-  "리트",
-  "법학적성시험"
- ]
-}
+[
+ {
+  "id": "20261116-snyeon",
+  "slot": "lunch",
+  "mode": "collect",
+  "limit": 40,
+  "image_pages": [
+   "https://www.starnewskorea.com/star/2026/11/16/2026111607005176827",
+   "https://biz.heraldcorp.com/article/10937825",
+   "https://isplus.com/article/view/isp202611160005",
+   "https://www.newstong.co.kr/view3.aspx?seq=14817237",
+   "https://www.etoday.co.kr/news/view/2648364",
+   "https://www.hankyung.com/article/2026111573067",
+   "https://www.kyobit.com/news/articleView.html?idxno=8180",
+   "https://www.ajunews.com/view/20261115161816378",
+   "https://m.news.nate.com/view/20261116n00826",
+   "https://www.imaeil.com/page/view/2026111521303667666",
+   "https://supple.kr/news/cmwidbe39c7tkal9p5m3zthsh",
+   "https://m.seoul.co.kr/news/2017/11/21/20171121500068",
+   "https://www.newsis.com/view/NISX20171120_0000152988",
+   "https://www.journalist.or.kr/ezview/article_main.html?no=43025",
+   "https://www.fnnews.com/news/202611160500532589",
+   "https://www.etoday.co.kr/news/view/2648350"
+  ]
+ }
+]
