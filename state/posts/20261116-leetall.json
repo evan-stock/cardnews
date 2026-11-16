@@ -2,7 +2,7 @@
  "id": "20261116-leetall",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-16T17:56:55.100170+09:00",
  "publish_at": "2026-11-16T17:56:55.100228+09:00",
  "topic": "리트 만점자 수능 전과목 생중계 예고 (단독 기사 캡처)",
@@ -47,5 +47,8 @@
   "media/20261116-leetall/03.jpg",
   "media/20261116-leetall/04.jpg"
  ],
- "tg_msg": 2776
+ "tg_msg": 2776,
+ "ig_media_id": "18084510860417157",
+ "permalink": "https://www.instagram.com/p/Dfy-1ppFt64/",
+ "published_at": "2026-11-16T17:59:19.924730+09:00"
 }
