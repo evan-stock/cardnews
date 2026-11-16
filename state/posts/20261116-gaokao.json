@@ -2,7 +2,7 @@
  "id": "20261116-gaokao",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-16T10:00:35.394146+09:00",
  "publish_at": "2026-11-16T09:57:40+09:00",
  "topic": "AI 안경만 잡아선 못 막는 이유: 세무사 수법·국내 적발·전파 차단 한계·중국 가오카오 대책(엑스 @itwillbe_sage 글 기반)",
@@ -105,5 +105,9 @@
   "media/20261116-gaokao/09.jpg",
   "media/20261116-gaokao/10.jpg"
  ],
- "tg_msg": 2687
+ "tg_msg": 2687,
+ "decided_at": "2026-11-16T10:03:34.528728+09:00",
+ "ig_media_id": "17994882339113666",
+ "permalink": "https://www.instagram.com/p/DfyIgsvEfoC/",
+ "published_at": "2026-11-16T10:04:37.717460+09:00"
 }
