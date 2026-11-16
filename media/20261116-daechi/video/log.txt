@@ -1,0 +1,8 @@
+total 380
+drwxr-xr-x 2 runner runner   4096 Nov 16 08:23 .
+drwxr-xr-x 3 runner runner   4096 Nov 16 08:23 ..
+-rw-r--r-- 1 runner runner 107227 Nov 16 08:23 img1.jpg
+-rw-r--r-- 1 runner runner  62065 Nov 16 08:23 img2.jpg
+-rw-r--r-- 1 runner runner  51665 Nov 16 08:23 img3.jpg
+-rw-r--r-- 1 runner runner 149406 Nov 16 08:23 img4.jpg
+-rw-r--r-- 1 runner runner      0 Nov 16 08:23 log.txt
