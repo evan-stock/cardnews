@@ -59,7 +59,7 @@ for k,(src,ss,dur,crop,caps) in enumerate(S):
 open(f'{R}/list.txt','w').write(''.join(f"file '{s}'\n" for s in segs))
 subprocess.run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i',f'{R}/list.txt','-af','loudnorm=I=-16:TP=-1.5','-c:v','copy','-c:a','aac','-b:a','160k','-movflags','+faststart',f'{D}/reel.mp4'],check=True)
 # 커버: 검정 바탕 + 가운데 위 띠(가장 센 장면) + 아래 격자 통일형 큰 제목
-subprocess.run(['ffmpeg','-v','error','-y','-ss','12.0','-i',f'{V}/v4.mp4','-frames:v','1','-vf',f'crop={C4},scale=1080:{BH}',f'{R}/cov_band.jpg'],check=True)
+subprocess.run(['ffmpeg','-v','error','-y','-ss','25.0','-i',f'{V}/v2.mp4','-frames:v','1','-vf',f'crop={C2},scale=1080:{BH}',f'{R}/cov_band.jpg'],check=True)
 bg=Image.new('RGB',(1080,1920),(0,0,0)); bg.paste(Image.open(f'{R}/cov_band.jpg'),(0,330)); bg.save(f'{R}/cov_bg.jpg',quality=95)
-subprocess.run(['python3','scripts/reel_overlay.py',f'{D}/cand/overlay.png','트럼프\n"중국 미녀는\n다 스파이래"','',f'{R}/cov_bg.jpg',f'{D}/reel_cover.jpg'],check=True)
+subprocess.run(['python3','scripts/reel_overlay.py',f'{D}/cand/overlay.png','트럼프\n"김정은도\n만날 수도"','',f'{R}/cov_bg.jpg',f'{D}/reel_cover.jpg'],check=True)
 print('done')
