@@ -7,10 +7,11 @@ alerts: false
 
 # 지켜볼 계정(@ 없이). 소재가 자주 나오는 계정을 넣는다. 계정의 최근 글이 자동으로 후보가 된다.
 accounts:
-  # 2026.11.16 사용자 지시 "한국 시청자가 안 보는 계정은 빼": 일본 국내 뉴스(YahooNewsTopics·livedoornews), 미국 연예·정치(PopBase·PopCrave·CollinRugg·AutismCapital·FearedBuck),
-  #   전쟁·지정학 속보(visegrad24·sentdefender·nexta_tv·clashreport·spectatorindex·BNONews), 음모론·루머(disclosetv·tQuietEngineer), 명언·AI 성능표(PhysInHistory·testingcatalog) 뺌.
-  #   말이 필요 없는 해외 영상 계정과, 실제로 우리 게시물 출처가 됐던 계정(thayzzysmith·emmarincon·amitisinvesting·LucAuffret)은 남김.
-  # 2026.11.16: 지금까지 오늘의쓸모 소재로 2번 이상 쓴 엑스 계정에서 뽑은 시작 목록(동물 밈 계정·일론 머스크 제외)
+  # 2026.11.16 사용자 지시 "한국에서 관심 없는 내용을 올리는 채널은 빼"(언어가 아니라 내용 기준).
+  #   뺀 것: 일본·미국·유럽 현지 뉴스와 정치(YahooNewsTopics·livedoornews·CollinRugg·AutismCapital·emmarincon·LucAuffret), 미국 연예·인터넷 문화(PopBase·PopCrave·FearedBuck·DudespostingWs·crazyclipsonly),
+  #   전쟁·지정학 속보(visegrad24·sentdefender·nexta_tv·clashreport·spectatorindex·BNONews), 음모론(disclosetv·tQuietEngineer), 서양 명언·역사 잡학(historyinmemes·fasc1nate·PhysInHistory),
+  #   업계 내부 소식(TheHumanoidHub·XRoboHub·testingcatalog·NASASpaceflight·latestinspace), 천문 사진 해설(konstructivizm·MAstronomers).
+  #   남긴 해외 계정: 말 없이 통하는 영상(신기한 영상·동물·자연·과학), 로봇·AI·테슬라·엔비디아처럼 한국에서도 화제 되는 테크, 해외 황당 사연. 국내 계정은 모두 남김.
   - itwillbe_sage
   - nowyeosi
   - nowgeun
@@ -26,42 +27,30 @@ accounts:
   - SpaceX
   - thayzzysmith
   - meta_pavy
-  - emmarincon
   - argent_wave
   - amitisinvesting
   - Rainmaker1973
-  - LucAuffret
   - Absurd__World
   # 2026.11.16 추가: 큐레이션 계정(남의 화제 글·영상을 모아 올리는 계정)과 속보 계정. 기존 목록은 그대로 둠.
   # 신기한 영상·과학·자연
   - gunsnrosesgirl3
   - TansuYegen
-  - fasc1nate
   - wonderofscience
-  - MAstronomers
   - engineers_feed
-  - historyinmemes
   - TheFigen_
   - Enezator
   - HumansNoContext
-  - DudespostingWs
-  - crazyclipsonly
   - buitengebieden
   - Yoda4ever
   - AMAZlNGNATURE
   # 로봇·AI·우주·테크
-  - TheHumanoidHub
   - CyberRobooo
-  - XRoboHub
   - Figure_robot
   - Tesla_Optimus
   - BostonDynamics
   - SawyerMerritt
   - minchoi
   - rowancheung
-  - latestinspace
-  - konstructivizm
-  - NASASpaceflight
   # 국내 뉴스
   - yonhaptweet
   - JTBC_news
