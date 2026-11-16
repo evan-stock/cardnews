@@ -1,0 +1,8 @@
+ERROR: [twitter] 2121815635101688304: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/itwillbe_sage/status/2121815635101688304
+실패: https://x.com/itwillbe_sage/status/2121815635101688304
+total 16
+drwxr-xr-x 2 runner runner 4096 Nov 16 00:39 .
+drwxr-xr-x 3 runner runner 4096 Nov 16 00:39 ..
+-rw-r--r-- 1 runner runner  224 Nov 16 00:39 log.txt
+-rw-r--r-- 1 runner runner  727 Nov 16 00:39 x1.json
