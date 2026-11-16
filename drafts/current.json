@@ -24,5 +24,23 @@
    "https://www.etoday.co.kr/news/view/2648364",
    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082363"
   ]
+ },
+ {
+  "id": "20261116-mimiminu",
+  "slot": "lunch",
+  "mode": "collect",
+  "limit": 40,
+  "image_pages": [
+   "https://www.starnewskorea.com/star/2026/11/16/2026111607005176827",
+   "https://www.insight.co.kr/news/582155",
+   "https://feed.viewus.co.kr/ai/article/367343/",
+   "https://mhnse.com/news/articleView.html?idxno=1698159",
+   "https://www.mydaily.co.kr/page/view/2026111607240371063",
+   "https://www.fnnews.com/news/202611160800582767",
+   "https://www.sisajournal.com/news/articleView.html?idxno=394065",
+   "https://www.wikitree.co.kr/articles/1174866",
+   "https://www.segye.com/newsView/20261116502889",
+   "https://www.ytn.co.kr/_ln/0103_202611160801136890"
+  ]
  }
 ]
