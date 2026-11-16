@@ -102,12 +102,12 @@ def ids_from_body(body, name):
 
 def discover_account(name):
     last = None
-    for key in list(SOURCE_STATE["order"]):
+    # fx 경로는 같은 계정도 요청마다 404가 섞여 나온다(2026.11.16 확인) → 한 번 더 시도
+    for key in [k for k in SOURCE_STATE["order"] for _ in range(2 if k == "fx" else 1)]:
         try:
             found = ids_from_body(http_get(SOURCES[key].format(name=name), timeout=15), name)
             if found:
-                SOURCE_STATE["order"].remove(key)
-                SOURCE_STATE["order"].insert(0, key)
+                SOURCE_STATE["order"].sort(key=lambda k: k != key)
                 return found
             last = f"{key}: 글 없음"
         except Exception as e:  # noqa: BLE001
