@@ -1,0 +1,61 @@
+{
+ "id": "20261116-wd1",
+ "finished_at": "2026-11-16T21:00:47+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/8YouJ2kLSwM",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261116-wd1/video/y1.mp4",
+   "mb": 8.0,
+   "view_count": 1081124,
+   "title": "성당에서 줄을 당기는 이유"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/Mzwy2owcug0",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261116-wd1/video/y2.mp4",
+   "mb": 22.1,
+   "view_count": 7021207,
+   "title": "현실 풍경이 미니어처처럼 보이는 이유"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/xEG4XZz4HXQ",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261116-wd1/video/y3.mp4",
+   "mb": 16.3,
+   "view_count": 11435613,
+   "title": "영하에 타는 워터슬라이드"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/2y2BPm5LsCw",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261116-wd1/video/y4.mp4",
+   "mb": 13.4,
+   "view_count": 5044606,
+   "title": "구멍에 쇳물을 넣는 이유"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/BhK8dq-1cpQ",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261116-wd1/video/y5.mp4",
+   "mb": 13.6,
+   "view_count": 9456171,
+   "title": "육상 유망주가 시도한 물리학적으로 완벽했던 기술"
+  }
+ ]
+}
