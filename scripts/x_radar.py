@@ -247,7 +247,7 @@ def board(track, cfg, now):
     rows.sort(key=lambda r: -r[0])
     out = [f"# 엑스 급상승 순위표 ({dt.datetime.fromtimestamp(now, KST):%m-%d %H:%M} 기준)", "",
            "| 시간당 조회 | 조회 | 좋아요 | 게시 | 종류 | 알림 | 글 |", "|---|---|---|---|---|---|---|"]
-    for vph, tid, p, c in rows[:40]:
+    for vph, tid, p, c in rows[:60]:
         txt = re.sub(r"[\s|]+", " ", p.get("text") or "")[:50]
         kind = "영상" if p.get("video") else "사진" if p.get("photo") else "글"
         out.append(f"| +{man(vph)} | {man(c['views'])} | {man(c['likes'])} | {age_str(c['age_h'])} | {kind} | "
@@ -262,6 +262,7 @@ def load_cfg(path):
     cfg.update(raw.get("rules") or {})
     cfg["accounts"] = [str(a).lstrip("@") for a in raw.get("accounts") or []]
     cfg["inbox"] = [str(u) for u in raw.get("inbox") or []]
+    cfg["alerts"] = raw.get("alerts", True)
     cfg["channels"] = raw.get("channels") or {}
     cfg["exclude"] = [str(w) for w in raw.get("exclude") or []]
     return cfg
@@ -327,7 +328,7 @@ def run(cfg, state_dir, send, now=None, discover=discover_account, meter=measure
         p.update({k: m[k] for k in ("author", "name", "followers", "text", "lang", "video", "photo")})
         p["snaps"] = (p["snaps"] + [{"t": int(now), "v": m["views"], "l": m["likes"], "r": m["rts"]}])[-24:]
         kind, c = judge(p, cfg, now)
-        if kind:
+        if kind and cfg.get("alerts", True):
             try:
                 send(alert_text(kind, tid, p, c))
                 sent += 1
