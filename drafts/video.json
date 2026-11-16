@@ -1,1 +1,1 @@
-{"id": "20261116-scr0", "urls": ["https://www.tiktok.com/@vinicin_torneiroo", "https://www.instagram.com/vinicin_torneiroo/", "https://www.youtube.com/@vinicin_torneiroo/shorts"], "frames": 0, "args": "--yes-playlist --flat-playlist --playlist-end 80 --print-to-file %(id)s|%(view_count)s|%(like_count)s|%(timestamp)s|%(url)s|%(title).90s media/20261116-scr0/video/list.txt"}
+{"id": "20261116-scr", "urls": ["https://www.youtube.com/shorts/iQEjB1bOdDs"], "frames": 0, "args": "--write-info-json"}
