@@ -2,7 +2,7 @@
  "id": "20261116-mimiminu2",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-16T10:46:47.898734+09:00",
  "publish_at": "2026-11-16T10:46:47.898800+09:00",
  "topic": "미미미누 '수능 무조건 연기해야' — 세무사 수석 AI 자수 후속, 수능 사흘 앞",
@@ -105,5 +105,8 @@
   "media/20261116-mimiminu2/08.jpg",
   "media/20261116-mimiminu2/09.jpg"
  ],
- "tg_msg": 2729
+ "tg_msg": 2729,
+ "ig_media_id": "17951432955357493",
+ "permalink": "https://www.instagram.com/p/DfyN4VDG1ve/",
+ "published_at": "2026-11-16T10:51:30.911114+09:00"
 }
