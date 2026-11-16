@@ -2,7 +2,7 @@
  "id": "20261116-scan528",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-16T17:09:42.798697+09:00",
  "publish_at": "2026-11-16T17:09:42.798778+09:00",
  "topic": "국가자격시험 528개 AI 부정 전수조사 기준",
@@ -77,5 +77,8 @@
   "media/20261116-scan528/06.jpg",
   "media/20261116-scan528/07.jpg"
  ],
- "tg_msg": 2756
+ "tg_msg": 2756,
+ "ig_media_id": "18119987117011551",
+ "permalink": "https://www.instagram.com/p/Dfy5iVGm0Ka/",
+ "published_at": "2026-11-16T17:13:01.379987+09:00"
 }
