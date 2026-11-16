@@ -6,3 +6,11 @@ drwxr-xr-x 2 runner runner 4096 Nov 16 00:51 .
 drwxr-xr-x 4 runner runner 4096 Nov 16 00:51 ..
 -rw-r--r-- 1 runner runner  227 Nov 16 00:51 log.txt
 -rw-r--r-- 1 runner runner 1965 Nov 16 00:51 x1.json
+ERROR: [twitter] 2121620723353719294: No video could be found in this tweet
+영상 없는 글(인용글(영상 없음)): https://x.com/nowgeun/status/2121620723353719294
+실패: https://x.com/nowgeun/status/2121620723353719294
+total 16
+drwxr-xr-x 2 runner runner 4096 Nov 16 01:25 .
+drwxr-xr-x 3 runner runner 4096 Nov 16 01:25 ..
+-rw-r--r-- 1 runner runner  664 Nov 16 01:25 log.txt
+-rw-r--r-- 1 runner runner 1965 Nov 16 01:25 x1.json
