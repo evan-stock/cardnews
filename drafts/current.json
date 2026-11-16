@@ -1,28 +1,16 @@
 [
  {
-  "id": "20261116-meme",
+  "id": "20261116-semusa",
   "slot": "evening",
   "mode": "collect",
-  "limit": 1,
-  "image_pages": [],
-  "image_urls": [
-   "https://pbs.twimg.com/media/HXJkEKJbYAAaqt8.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXJkEiPaMAAkkDX.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXJkE60bEAAwNkq.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXJkFQ-bsAEZdC0.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXJkFn-agAAqszX.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXJkF9Ua0AAWjMj.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXJkGTIbAAAgnS4.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXJkGpKbcAAvFXO.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXJkHABb0AAw6F7.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXI4Cj7aIAAb1ah.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXI4DCXakAA75oI.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXAaqQ0asAAPM9Y.jpg?name=orig",
-   "https://pbs.twimg.com/media/HW6EYvpaUAATj9r.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXIrr43bQAEH_Zy.jpg?name=orig",
-   "https://pbs.twimg.com/media/HXJdFhNbcAA7DvL.jpg?name=orig",
-   "https://pbs.twimg.com/media/HW9hRqBb0AAJnd3.jpg?name=orig"
-  ],
-  "referer": "https://x.com/"
+  "limit": 30,
+  "image_pages": [
+   "https://biz.heraldcorp.com/article/10937765",
+   "https://www.etoday.co.kr/news/view/2648389",
+   "https://biz.sbs.co.kr/article/20000346515",
+   "https://www.kado.net/news/articleView.html?idxno=2085015",
+   "https://m.news.nate.com/view/20261115n16938",
+   "https://supple.kr/news/cmwibw0n09yxwal9p6kmcx080"
+  ]
  }
 ]
