@@ -1,0 +1,60 @@
+{
+ "id": "20261114-whirl",
+ "media": "media/20261114-whirl",
+ "topic": "물에 잠긴 풀밭의 소용돌이 — 2023년 4월 눈 녹은 물로 불어난 미국 미네소타 스틸워터 세인트크로이강, 땅속 구멍으로 물이 빠져나가며 생긴 소용돌이가 소나무를 통째로 삼킴. 물이 한 구멍으로 모이면 회전이 빨라지고(각운동량, 피겨 스핀) 가운데 공기 구멍이 생김. 물에 잠기면 구멍이 안 보여 위험. 사용자 11.14 20:17 회차 4번(숏파일럿 '쌀과자 소용돌이' 1,053만 소재) 선택 — 쌀과자 원촬영 원본을 못 찾아 같은 현상(물 위의 물건을 삼키는 소용돌이)의 원촬영 영상(TikTok @mnnature_awesomeness 1,910만)으로 만듦.",
+ "hook": {
+  "t": "불어난 강물에\n'소나무'를 넣었더니"
+ },
+ "credit": "영상: TikTok @mnnature_awesomeness · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/the_awakening.mp3",
+  "start": 30.0,
+  "vol": 0.38
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "실사 전 장면: TikTok @mnnature_awesomeness 'This is the highlight of my week' (2023.04.16, 미국 미네소타 스틸워터 세인트크로이강 범람) https://www.tiktok.com/@mnnature_awesomeness/video/7222704147160763690 — 조회 1,910만·좋아요 220만(media/20261114-whirl/video/v1.info.json). 원본 영어 자막 구간은 크롭으로 뺌.",
+  "모션그래픽: scripts/story_shorts/anim_whirl.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "원촬영자 화면 자막 'You see that force? There's a hole in the ground' / 'It is making a whirlpool' (TikTok @mnnature_awesomeness, 2023.04.16)",
+   "url": "https://www.tiktok.com/@mnnature_awesomeness/video/7222704147160763690"
+  },
+  {
+   "publisher": "St. Croix 360 2023.04 — 세인트크로이강 하류(스틸워터) 봄 홍수 수위 정점 근접 사진",
+   "url": "https://www.stcroix360.com/2023/04/flood-photos-water-nears-predicted-peak-on-lower-st-croix/"
+  },
+  {
+   "publisher": "MPR News 2023.03.20 — 기록적 눈으로 스틸워터 22년 만의 최악 봄 홍수 대비",
+   "url": "https://www.mprnews.org/story/2023/03/20/amid-grim-forecasts-stillwater-braces-for-worst-spring-flooding-in-22-years"
+  },
+  {
+   "publisher": "Andersen 외 2003 Physical Review Letters 91, 104502 'Anatomy of a Bathtub Vortex' — 배수구로 모이는 물이 빨리 돌며 가운데 공기 기둥이 생기는 구조",
+   "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.91.104502"
+  },
+  {
+   "publisher": "Nerdist 2020.05.01 — 배수 소용돌이의 회전 방향은 코리올리 힘이 아니라 물에 원래 있던 회전 때문(물리 교사 Mark Eichenlaub)",
+   "url": "https://nerdist.com/article/ice-cream-cone-whirlpool-experiment/"
+  },
+  {
+   "publisher": "미국 기상청(NWS) 홍수 안전 — 물에 잠긴 길은 보이지 않는 위험(빠른 물살·패인 곳)이 있어 걸어 들어가지 말 것",
+   "url": "https://www.weather.gov/safety/flood-after"
+  }
+ ],
+ "_note": "실사 0~10.4초(5장면) → 그래픽 10.4~20.2초(4장면, 답 공개 10.4초) → 실사 20.2~24.9초. A=v1 15.0~ 소용돌이 근접(1.96배 확대) / B=v1 12.8~ 다른 순간 근접 → 컷 1.4초. 효과음 없음, 원본 소리 끔(말소리).",
+ "scenes": [
+  {"text": "물에 잠긴 풀밭, 여기만 물이 빙글빙글 도는데", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 1.4},
+  {"text": "물에 잠긴 풀밭, 여기만 물이 빙글빙글 도는데", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 1.4},
+  {"text": "떠 있던 거품이 전부 한 점으로 끌려간다", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "그래서 작은 소나무를 통째로 넣어 봤더니", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "몇 초 만에 물속으로 '쑥' 사라졌다", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "알고 보니 물 밑 땅에 '구멍'이 있었다", "video": {"src": "gfx/hole.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "사방의 강물이 이 구멍 하나로 빠져나가며", "video": {"src": "gfx/hole.mp4", "start": 2.7, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "가운데로 모일수록 빨라진다, 피겨 스핀처럼", "video": {"src": "gfx/spin.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "그래서 한가운데엔 공기 구멍까지 뚫린다", "video": {"src": "gfx/spin.mp4", "start": 2.6, "x": 0.5, "y": 0.5}, "dur": 2.2},
+  {"text": "물에 잠기면 이런 구멍이 안 보여서 더 위험하다", "video": {"src": "clip/K.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.3},
+  {"text": "바다의 거대 소용돌이는 다음 편에서, 구독!", "video": {"src": "clip/L.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4}
+ ]
+}

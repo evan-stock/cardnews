@@ -1,0 +1,37 @@
+{
+ "id": "20261102-janibekov",
+ "media": "media/20261102-jbk",
+ "topic": "자니베코프 효과(중간축 정리) — 우주정거장에서 T자 손잡이가 혼자 반 바퀴씩 뒤집힘. 1985 살류트 7호에서 자니베코프가 나비너트로 처음 봄, 비밀은 '가운데 축' 회전의 불안정, 지구는 가장 안정한 축으로 돌아 안 뒤집힘, 폰 던지기로 확인. (09:17 회차 후보 4번, 사용자 선택 — 잘난지 640만 소재 재활용)",
+ "hook": {
+  "t": "우주에서 저절로 뒤집히는\n'자니베코프 효과'"
+ },
+ "credit": "영상: NASA(퍼블릭 도메인) · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/subway_dreams.mp3",
+  "start": 46.0,
+  "vol": 0.28
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: NASA — 국제우주정거장 T자 손잡이 회전(퍼블릭 도메인), Wikimedia Commons 'File:Dzhanibekov effect.ogv' https://commons.wikimedia.org/wiki/File:Dzhanibekov_effect.ogv",
+  "같은 소재 수치: 잘난지 '\"자니베코프 효과\"' 640만(state/bench/잘난지.tsv 103번, https://www.youtube.com/shorts/rTjsart6OI8).",
+  "모션그래픽: scripts/story_shorts/anim_janibekov.py (오일러 강체 방정식으로 계산한 회전, 오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "That's Maths 'The Intermediate Axis Theorem'(2019) — 1985 살류트 7호 수리 임무 중 자니베코프가 나비너트가 180도씩 뒤집히는 것을 봄, 10년간 기밀이었다고 전해짐, 지구는 관성 모멘트 최대 축으로 돌아 안정, 휴대폰 예", "url": "https://thatsmaths.com/2019/12/12/the-intermediate-axis-theorem/"},
+  {"publisher": "COMSOL 블로그 'Why Do Tennis Rackets Tumble? The Dzhanibekov Effect Explained'", "url": "https://www.comsol.com/blogs/why-do-tennis-rackets-tumble-the-dzhanibekov-effect-explained"},
+  {"publisher": "UC Berkeley Rotations 'A tumbling T-handle in space: the Dzhanibekov effect' — 중간축 회전의 불안정 시뮬레이션", "url": "https://rotations.berkeley.edu/a-tumbling-t-handle-in-space"},
+  {"publisher": "Astronomy.com 'The forgotten rescue of the Salyut 7 space station'(1985 자니베코프 수리 임무)", "url": "https://www.astronomy.com/space-exploration/the-forgotten-rescue-of-the-salyut-7-space-station/"}
+ ],
+ "_note": "클립 1080x780(-an, 대비·채도 살짝↑, unsharp). 원본 media/20261102-jbk3/video/img1.ogv(1920x1080). A=3.0~5.6 crop 600x433+420+224(1.8배), B=5.8~8.4 +460+184, C=9.0~11.6 +520+104, E=4.0~5.7 crop 480x347+480+267(2.25배) 0.67배 슬로 리플레이. 그래픽 gfx/nut·axes·earth = anim_janibekov.py.",
+ "scenes": [
+  {"text": "우주에서 돌던 손잡이가 혼자 '휙' 뒤집힌다", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "아무도 안 건드렸는데 또 '휙', 또 '휙'", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "1985년 소련 우주비행사 자니베코프가 처음 봤다", "video": {"src": "gfx/nut.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "비밀은 '가운데 축', 이 축으로 돌면 반드시 뒤집힌다", "video": {"src": "gfx/axes.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "\"지구도 뒤집힐까\" 걱정해 10년간 숨겼다고 알려졌다", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "하지만 지구는 가장 안정한 축으로 돌아 '안' 뒤집힌다", "video": {"src": "gfx/earth.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "폰을 공중제비로 던지면 화면이 '휙' — 구독도 휙", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.5}
+ ]
+}

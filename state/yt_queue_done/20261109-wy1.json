@@ -1,0 +1,67 @@
+{
+ "id": "20261109-wy1",
+ "finished_at": "2026-11-09T09:28:48+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/WugKPj1TQaU",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wy1/video/y1.mp4",
+   "audio": "media/20261109-wy1/video/y1_audio.m4a",
+   "mb": 4.6,
+   "view_count": 7582648,
+   "title": "Freezing live water lines #waterleak #co2 #freezerkit #plumbingrepair #plumbing"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=wOolcuXJNjQ",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wy1/video/y2.mp4",
+   "audio": "media/20261109-wy1/video/y2_audio.m4a",
+   "mb": 75.2,
+   "error": "재시도 실패",
+   "view_count": 146641,
+   "title": "Million Mile Tundra Event (A Toyota Tundra with 1 million miles!)"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=Xi_LRrsv8QA",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wy1/video/y3.mp4",
+   "audio": "media/20261109-wy1/video/y3_audio.m4a",
+   "mb": 13.5,
+   "view_count": 19537,
+   "title": "Hays Street Bridge Repair Part 2 Driving the rivets"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=wv7r71s2yls",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wy1/video/y4.mp4",
+   "audio": "media/20261109-wy1/video/y4_audio.m4a",
+   "mb": 4.2,
+   "view_count": 26348,
+   "title": "Riveting (1918)"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/agkQ5FDPXkk",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261109-wy1/video/y5.mp4",
+   "audio": "media/20261109-wy1/video/y5_audio.m4a",
+   "mb": 11.6,
+   "view_count": 6336,
+   "title": "Riveting Content! (Literally) #rivets #rivets #riveter #riveting #dupagecounty"
+  }
+ ]
+}

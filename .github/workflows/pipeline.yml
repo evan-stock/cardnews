@@ -1,0 +1,99 @@
+name: cardnews
+
+on:
+  schedule:
+    # GitHub cron은 UTC 기준이고 몇 분~수십 분 늦게 돌 수 있어요.
+    # - cron: "15 2 * * *"    # 11:15 KST 점심 자동 준비 (2026.10.16 중지: API 크레딧 소진, 채팅 원고 모드로 대체)
+    # - cron: "15 7 * * *"    # 16:15 KST 저녁 자동 준비 (2026.10.16 중지)
+    - cron: "0 0-12/3 * * *" # 09·12·15·18·21시 KST 예비 확인(평소엔 준비 후 watch가 1분마다 확인)
+  workflow_dispatch:
+    inputs:
+      cmd:
+        description: "ping(연결 테스트) | tick | watch | publish  (prepare는 2026.10.18 중지)"
+        default: tick
+      slot:
+        description: "lunch | evening (prepare일 때)"
+        default: lunch
+      id:
+        description: "게시물 ID (publish일 때, 예: 20261014-lunch)"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cardnews
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-24.04  # 2026.10.24: ubuntu-latest가 우분투 26으로 넘어가며 apt 설치 실패 → 고정
+    timeout-minutes: 360
+    env:
+      TZ: Asia/Seoul
+      # ANTHROPIC_API_KEY 제거(2026.10.18): API 크레딧을 쓰는 자동 소재 조사(prepare) 완전 중지
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      IG_USER_ID_FURBALL: ${{ secrets.IG_USER_ID_FURBALL }}
+      IG_ACCESS_TOKEN_FURBALL: ${{ secrets.IG_ACCESS_TOKEN_FURBALL }}
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      YT_REFRESH_TOKEN_SHOP: ${{ secrets.YT_REFRESH_TOKEN_SHOP }}
+      YT_REFRESH_TOKEN_LIFE: ${{ secrets.YT_REFRESH_TOKEN_LIFE }}
+      TELEGRAM_BOT_TOKEN_LIFE: ${{ secrets.TELEGRAM_BOT_TOKEN_LIFE }}
+      TELEGRAM_CHAT_ID_LIFE: ${{ secrets.TELEGRAM_CHAT_ID_LIFE }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: 명령 결정
+        id: pick
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "cmd=${{ inputs.cmd }}" >> $GITHUB_OUTPUT
+            echo "slot=${{ inputs.slot }}" >> $GITHUB_OUTPUT
+            echo "id=${{ inputs.id }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "15 2 * * *" ]; then
+            echo "cmd=prepare" >> $GITHUB_OUTPUT; echo "slot=lunch" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "15 7 * * *" ]; then
+            echo "cmd=prepare" >> $GITHUB_OUTPUT; echo "slot=evening" >> $GITHUB_OUTPUT
+          else
+            echo "cmd=tick" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 브라우저·한글 폰트 설치 (카드 렌더링용)
+        if: steps.pick.outputs.cmd == 'prepare'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg
+          python -m playwright install --with-deps chromium
+
+      - name: 실행
+        run: |
+          case "${{ steps.pick.outputs.cmd }}" in
+            prepare) echo "prepare(Claude API 자동 제작)는 중지됐어요. 채팅 원고 모드를 쓰세요."; exit 1 ;;
+            prepare_disabled) python -m cardnews.main prepare --slot "${{ steps.pick.outputs.slot }}" $([ "${{ github.event_name }}" = "workflow_dispatch" ] && echo --force) && python -m cardnews.main watch ;;
+            watch) python -m cardnews.main watch ;;
+            publish) python -m cardnews.main publish --id "${{ steps.pick.outputs.id }}" ;;
+            ping) python -m cardnews.main ping ;;
+            *) python -m cardnews.main tick ;;
+          esac
+
+      - name: 상태·카드 이미지 저장
+        if: always()
+        run: |
+          git config user.name "cardnews-bot"
+          git config user.email "cardnews-bot@users.noreply.github.com"
+          git add -A state media
+          if ! git diff --cached --quiet; then
+            git commit -m "cardnews: ${{ steps.pick.outputs.cmd }} $(date +%F_%H%M)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi

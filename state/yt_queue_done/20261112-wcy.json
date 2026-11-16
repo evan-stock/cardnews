@@ -1,0 +1,61 @@
+{
+ "id": "20261112-wcy",
+ "finished_at": "2026-11-12T20:31:03+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/UP1Ova4bHIU",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wcy/video/y1.mp4",
+   "mb": 33.2,
+   "view_count": 166444890,
+   "title": "This is What Happens When A Hockey Season Ends 🤯"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/yzAc9ZZs8RE",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wcy/video/y2.mp4",
+   "mb": 10.7,
+   "view_count": 64161800,
+   "title": "Watch A Camera Drop Into A Hole Beneath Antarctica"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/9DHsEUaQMIw",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wcy/video/y3.mp4",
+   "mb": 20.4,
+   "view_count": 11012805,
+   "title": "Why Are Icebergs Blue Underneath?"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/E-p2jPyuZsQ",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wcy/video/y4.mp4",
+   "mb": 20.5,
+   "view_count": 8358,
+   "title": "Doctoral student's quest for ancient ice goes viral"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/PGBb_9Zuti0",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wcy/video/y5.mp4",
+   "mb": 14.9,
+   "view_count": 59228987,
+   "title": "Why Don't Ice Rinks Melt?"
+  }
+ ]
+}

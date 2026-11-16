@@ -1,0 +1,20 @@
+{
+ "src": "fxtwitter",
+ "author": "Node_Park",
+ "name": "노드팍",
+ "date": "Mon Nov 16 02:30:00 +0000 2026",
+ "text": "리트만점자 여러 의혹과 의심정황 나오는 중\n\n서울대학생 에타에서도 난리네\n\n답글 궁금하면 타래",
+ "views": 595,
+ "likes": 1,
+ "retweets": 0,
+ "quote": "https://x.com/Zzal_Cat/status/2122056181070061945",
+ "url": "https://x.com/node_park/status/2122155192812818548",
+ "id": "2122155192812818548",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "사진만",
+ "card": null,
+ "quote_url": "https://x.com/Zzal_Cat/status/2122056181070061945"
+}

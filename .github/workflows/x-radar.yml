@@ -1,0 +1,36 @@
+name: x-radar
+# 엑스 급상승 감지(오늘의쓸모 소재 선점). 10분마다 후보 글의 수치를 다시 재서 빠르게 오르는 글을 텔레그램으로 알린다.
+# 측정 기록은 main 을 어지럽히지 않게 radar-state 브랜치에 쌓는다(board.md = 지금 순위표).
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  push:
+    branches: [main]
+    paths: ["drafts/x_radar.yaml", "scripts/x_radar.py", ".github/workflows/x-radar.yml"]
+  workflow_dispatch:
+concurrency: {group: x-radar, cancel-in-progress: false}
+permissions: {contents: write}
+jobs:
+  radar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
+    env:
+      TZ: Asia/Seoul
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {sparse-checkout: "cardnews\nscripts/x_radar.py\ndrafts/x_radar.yaml\nconfig.yaml", sparse-checkout-cone-mode: false}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q requests pyyaml
+      - name: 측정 기록 불러오기
+        run: |
+          git fetch -q --depth 1 origin radar-state 2>/dev/null && git worktree add -q rs FETCH_HEAD \
+            || { git worktree add -q --detach rs && (cd rs && git checkout -q --orphan radar-state && git rm -rqf . ); }
+      - run: python scripts/x_radar.py --config drafts/x_radar.yaml --state rs
+      - name: 측정 기록 저장
+        run: |
+          cd rs
+          git config user.name "github-actions[bot]"; git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git add -A --sparse && git commit -qm "x-radar" && git push -qf origin HEAD:refs/heads/radar-state

@@ -1,0 +1,2 @@
+ERROR: [twitter] 2114067172267893208: No video could be found in this tweet
+실패: https://x.com/salvadorilla/status/2114067172267893208

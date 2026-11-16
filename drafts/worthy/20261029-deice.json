@@ -1,0 +1,114 @@
+{
+ "id": "20261029-deice",
+ "media": "media/20261029-deice",
+ "topic": "이륙 직전 비행기에 주황·초록 액체를 퍼붓는 이유 — 날개·동체에 붙은 얼음·서리는 공기 흐름을 망가뜨려 양력을 떨어뜨린다(FAA: 중간 거칠기 사포 정도의 서리만 있어도 최대 양력 30% 감소, 항력 40% 증가). 주황(Type I)은 뜨겁게 데운 물+프로필렌글리콜로 얼음을 녹이는 제빙액, 초록(Type IV)은 끈적한 방빙액으로 다시 얼지 않게 덮어 두다가 이륙 활주 때 바람에 씻겨 나간다. 효과 시간(홀드오버 타임)이 지나면 다시 뿌려야 해서 겨울철 출발이 늦어진다(2024.11 인천공항 폭설 때 제빙 대기로 지연).",
+ "hook": {
+  "t": "비행기에 '초록 물'을\n퍼붓는 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: 에어트랜젯 지상조업 직원(TikTok @avjet.tsas)",
+ "bgm": {
+  "file": "assets/bgm/worthy/danger_snow.mp3",
+  "start": 24.0,
+  "vol": 0.25
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "제빙 작업 영상: 에어트랜젯 지상조업 직원 본인 TikTok @avjet.tsas 7188300959158734086 'All about de-icing airplanes'(2023.1.14, 조회 34.2만·좋아요 1.3만 — 10.29 info json 확인) — 확대·슬로·줌 가공, 영어 자막 구간은 y 크롭으로 피함"
+ ],
+ "sources": [
+  {
+   "publisher": "AOPA Flight Training 2019.3.1 'Accident analysis: Frost-free flight' — FAA 항공기상 자료 인용: 날개 앞전·윗면에 중간 거칠기 사포 정도의 서리가 있으면 최대 양력 최대 30% 감소, 항력 40% 증가",
+   "url": "https://www.aopa.org/news-and-media/all-news/2019/march/flight-training-magazine/accident-analysis-frost-free-flight"
+  },
+  {
+   "publisher": "FOX Weather — 주황(Type I) 제빙액=데운 물+프로필렌글리콜로 얼음 제거, 초록(Type IV) 방빙액=점성 높은 액체로 새 얼음 방지, 홀드오버 최대 약 3시간",
+   "url": "https://foxweather.com/learn/the-deadly-airline-crash-that-changed-aircraft-de-icing-standards"
+  },
+  {
+   "publisher": "Wikipedia 'Ground deicing of aircraft' — 방빙액은 활주로 가속 때까지 남아 있음, 홀드오버 타임 초과 시 다시 제빙, 0.4mm 얼음층도 양력·항력에 큰 영향",
+   "url": "https://en.wikipedia.org/wiki/Ground_deicing_of_aircraft"
+  },
+  {
+   "publisher": "세계일보 2024.11.27 — 인천공항 폭설, 삿포로행 여객기 '눈 제거에 1시간 더' 등 제빙으로 지연",
+   "url": "https://www.segye.com/newsView/20241127506619"
+  },
+  {
+   "publisher": "브런치 @atc(항공관제사) '제대로 지연되는 공항에서' — 2024.11 인천공항 하루 16cm 폭설, 제빙 대기 줄이 출발 지연의 원인",
+   "url": "https://brunch.co.kr/@atc/193"
+  }
+ ],
+ "_note": "A~G 는 v3(avjet.tsas) 에서 ffmpeg 로 미리 확대·가공한 1080x780 클립(-an -g 15). A=19.8~22.8 crop 480x347+40+445(1.2배) + 줌인 1→1.18, B=12.0~14.8 crop 440x318+70+470(1.31배), C=3.0~5.8 crop 520x375+0+400, D=7.0~10.0 crop 576x416+0+430, E=15.8~18.6 crop 576x416+0+400, F=21.4~23.0 crop 360x260+100+440(1.6배) 0.6배 슬로 리플레이, G=25.0~29.0 crop 576x416+0+520.",
+ "scenes": [
+  {
+   "text": "이륙 직전 비행기에 '초록 물'을 퍼붓는다",
+   "video": {
+    "src": "video/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.9
+  },
+  {
+   "text": "코끝엔 뜨거운 '주황 물'까지",
+   "video": {
+    "src": "video/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.7
+  },
+  {
+   "text": "세차 같지만 진짜 이유는 '날개 위 얼음'",
+   "video": {
+    "src": "video/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.7
+  },
+  {
+   "text": "사포 같은 서리만 껴도 양력 최대 '30%' 뚝",
+   "video": {
+    "src": "video/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.9
+  },
+  {
+   "text": "주황 물이 얼음을 녹이고, 초록 물이 다시 못 얼게 덮는다",
+   "video": {
+    "src": "video/E.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.7
+  },
+  {
+   "text": "초록 막은 이륙할 때 바람에 '싹' 씻겨 나간다",
+   "video": {
+    "src": "video/F.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "효과 시간 지나면 처음부터 다시! 겨울 비행기가 늦는 이유, 구독 꾹",
+   "video": {
+    "src": "video/G.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.6
+  }
+ ]
+}

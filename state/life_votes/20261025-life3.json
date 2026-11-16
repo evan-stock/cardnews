@@ -1,0 +1,50 @@
+{
+ "id": "20261025-life3",
+ "yt_id": "A8a9JVWvObE",
+ "counted_at": "2026-10-26T19:27:47.279419+09:00",
+ "rule": "top_liked_comment",
+ "total_comments": 4,
+ "valid_votes": 2,
+ "count_by_option": {
+  "1": 0,
+  "2": 0,
+  "3": 2
+ },
+ "support": {
+  "1": 0,
+  "2": 0,
+  "3": 3
+ },
+ "tie": false,
+ "top": [
+  {
+   "n": 3,
+   "name": "영어유치원",
+   "text": "영어유치원 가서 영재티비 촬영 캐스팅",
+   "likes": 1,
+   "author": "@요아에오",
+   "at": "2026-10-25T16:23:40Z"
+  },
+  {
+   "n": 3,
+   "name": "영어유치원",
+   "text": "3 난 영유를 버리지 못햇다",
+   "likes": 0,
+   "author": "@은정-e3r8g",
+   "at": "2026-10-25T16:54:27Z"
+  }
+ ],
+ "skipped": [],
+ "winner": {
+  "n": 3,
+  "name": "영어유치원",
+  "comment": {
+   "n": 3,
+   "name": "영어유치원",
+   "text": "영어유치원 가서 영재티비 촬영 캐스팅",
+   "likes": 1,
+   "author": "@요아에오",
+   "at": "2026-10-25T16:23:40Z"
+  }
+ }
+}

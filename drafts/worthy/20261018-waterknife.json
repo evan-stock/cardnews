@@ -1,0 +1,139 @@
+{
+ "id": "20261018-waterknife",
+ "media": "media/20261018-waterknife",
+ "topic": "칼로 눌러도 안 잘리는 물방울 — 칼과 바닥을 물 튕기는(초발수) 코팅하면 둘로 갈라진다(ASU 2012)",
+ "hook": {
+  "t": "칼로 눌러도 멀쩡한\n'안 잘리는' 물방울"
+ },
+ "credit": "영상: Yanashima·García 외(PLOS ONE) · Polysitec · CC BY",
+ "bgm": {
+  "file": "assets/bgm/worthy/curious_kitten.mp3",
+  "start": 11.0,
+  "vol": 4.0
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "물방울을 칼날로 '꾹' 눌러 봤다",
+   "video": {
+    "src": "video/img10.ogv",
+    "start": 1.0,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "칼을 떼자 '원래 모양' 그대로",
+   "video": {
+    "src": "video/img10.ogv",
+    "start": 5.6,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "물은 '표면장력'으로 똘똘 뭉쳐 잘 안 갈라진다",
+   "video": {
+    "src": "video/img8.ogv",
+    "start": 2.0,
+    "fit": "contain"
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "그런데 2012년 미국 애리조나주립대 연구팀이",
+   "video": {
+    "src": "video/img5.ogv",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "칼과 바닥을 모두 물을 '튕겨내게' 코팅하자",
+   "video": {
+    "src": "video/img5.ogv",
+    "start": 3.4,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "물방울이 '싹둑' 두 개로 갈라졌다",
+   "video": {
+    "src": "video/img5.ogv",
+    "start": 6.6,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "물이 어디에도 '달라붙지 않아' 깔끔하게 끊긴 것",
+   "video": {
+    "src": "video/tmp_img1crop.mp4",
+    "start": 8.0,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "물이 '구슬'처럼 구르는 원리, 방수 스프레이에도 쓰인다",
+   "video": {
+    "src": "video/tmp_img1crop.mp4",
+    "start": 27.0,
+    "x": 0.5,
+    "y": 0.3
+   },
+   "dur": 4.0
+  },
+  {
+   "text": "구독하면 내일도 '쓸모' 있는 이유",
+   "img": "video/img3.jpg",
+   "zoom": 0.1,
+   "dur": 3.0
+  }
+ ],
+ "products": [
+  {
+   "name": "초발수 코팅 스프레이",
+   "keyword": "초발수 코팅 스프레이"
+  },
+  {
+   "name": "신발 방수 스프레이",
+   "keyword": "신발 방수 스프레이"
+  },
+  {
+   "name": "유리 발수 코팅제",
+   "keyword": "유리 발수 코팅제"
+  }
+ ],
+ "photo_credits": [
+  "Yanashima R, García AA, Aldridge J, Weiss N, Hayes MA 외 — PLOS ONE(2012), CC BY 2.5 (Wikimedia Commons)",
+  "Weisensee P, Tian J, Miljkovic N, King W — Scientific Reports, CC BY 4.0 (Wikimedia Commons)",
+  "Polysitec 'Hydrophoby1', CC BY 3.0 (Wikimedia Commons)",
+  "Beatrice Florian 'Waterproof leafs', CC BY 4.0 (Wikimedia Commons)"
+ ],
+ "sources": [
+  {
+   "publisher": "PLOS ONE 'Cutting a Drop of Water Pinned by Wire Loops Using a Superhydrophobic Surface and Knife'",
+   "date": "2012.9",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3454355"
+  },
+  {
+   "publisher": "Chemistry World 'Superhydrophobic knife slices up water'",
+   "url": "https://chemistryworld.com/news/superhydrophobic-knife-slices-up-water/5480.article"
+  },
+  {
+   "publisher": "The State Press(ASU) 'Knife cleanly cuts water droplets'",
+   "date": "2012.10",
+   "url": "https://www.statepress.com/article/2012/10/knife-cleanly-cuts-water-droplets"
+  }
+ ],
+ "_note": "video/tmp_img1crop.mp4 = img1.webm 을 crop=iw*0.84:ih*0.84:0:0,scale=1440:-2 로 잘라 Polysitec 로고를 뺀 변환본(커밋 안 함). 다시 렌더하려면 같은 명령으로 만든다."
+}

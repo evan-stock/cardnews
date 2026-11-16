@@ -1,0 +1,34 @@
+name: instagram-token-refresh
+
+# 인스타 장기 토큰은 60일 뒤 만료돼요. 매달 1일·15일에 자동 갱신합니다.
+# GH_PAT(저장소 Secrets 쓰기 권한이 있는 토큰)가 있어야 새 토큰을 저장할 수 있어요.
+on:
+  schedule:
+    - cron: "0 0 1,15 * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-24.04  # 2026.10.24: ubuntu-latest가 우분투 26으로 넘어가며 apt 설치 실패 → 고정
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 토큰 갱신 후 저장
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_ACCESS_TOKEN_FURBALL: ${{ secrets.IG_ACCESS_TOKEN_FURBALL }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          NEW=$(python -m cardnews.main refresh-token)
+          echo "::add-mask::$NEW"
+          gh secret set IG_ACCESS_TOKEN --body "$NEW" --repo "$GITHUB_REPOSITORY"
+          if [ -n "$IG_ACCESS_TOKEN_FURBALL" ]; then
+            NEW2=$(python -m cardnews.main refresh-token --id furball)
+            echo "::add-mask::$NEW2"
+            gh secret set IG_ACCESS_TOKEN_FURBALL --body "$NEW2" --repo "$GITHUB_REPOSITORY"
+            echo "털뭉치 토큰 갱신 완료"
+          fi
+          echo "토큰 갱신 완료"

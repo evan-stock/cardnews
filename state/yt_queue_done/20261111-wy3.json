@@ -1,0 +1,50 @@
+{
+ "id": "20261111-wy3",
+ "finished_at": "2026-11-11T20:33:11+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=mHZQM9ZBNb4",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261111-wy3/video/y1.mp4",
+   "mb": 4.3,
+   "view_count": 2112579,
+   "title": "Slow-motion video of lightning striking a building"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=lyNruLlfPvw",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261111-wy3/video/y2.mp4",
+   "mb": 8.2,
+   "view_count": 35385716,
+   "title": "The Sea Is Frozen?! 🥶"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=k18Dgwf2x7I",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261111-wy3/video/y3.mp4",
+   "mb": 6.8,
+   "view_count": 5861072,
+   "title": "Why Did This Ice Cube Grow a Spike? #teamwater"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=QMNXRHhqzGs",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261111-wy3/video/y4.mp4",
+   "mb": 2.9,
+   "view_count": 27585374,
+   "title": "IOWA INTERSTATE TRAIN SMASHES THROUGH THE SNOW AT HIGH SPEED!’"
+  }
+ ]
+}

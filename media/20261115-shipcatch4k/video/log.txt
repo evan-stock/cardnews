@@ -1,0 +1,6 @@
+total 107448
+drwxr-xr-x 2 runner runner      4096 Nov 15 04:31 .
+drwxr-xr-x 3 runner runner      4096 Nov 15 04:31 ..
+-rw-r--r-- 1 runner runner         0 Nov 15 04:31 log.txt
+-rw-r--r-- 1 runner runner 110014999 Nov 15 04:31 v1.mp4
+재압축: media/20261115-shipcatch4k/video/v1.mp4 92.778667초 → 7345k

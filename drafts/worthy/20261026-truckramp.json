@@ -1,0 +1,133 @@
+{
+ "id": "20261026-truckramp",
+ "media": "media/20261026-truckramp",
+ "topic": "미국 콜로라도 I-70 서쪽 방향 아이젠하워 터널 아래 긴 내리막(약 7%·9km)의 '긴급 탈출로(runaway truck ramp)'. 산비탈에서 흙먼지가 폭발처럼 터지는 장면의 정체는 브레이크가 과열돼 안 듣게 된 대형 트럭이 일부러 만든 자갈 오르막으로 뛰어든 것. 단단한 길이 아니라 콩알만 한(약 1.3~1.9cm) 고운 가루 없는 자갈을 깊게 깔아 볼풀처럼 바퀴를 삼켜 세움. Lower Straight Creek 램프는 미국에서 가장 많이 쓰이는 램프(CDOT), 2019~2023 5년간 75번. 써도 딱지 없음·CDOT 청소비 없음. 한국도 대관령·미시령 같은 긴 내리막에 '긴급제동시설'이 있음 — 승용차도 브레이크 고장이면 쓸 수 있고, 평소엔 절대 차를 세우면 안 됨",
+ "hook": {
+  "t": "고속도로 옆 '자갈길'로\n트럭이 돌진한 이유ㄷㄷ"
+ },
+ "credit": "영상: Colorado State Patrol(Connor Storer) · Denver7(Jesse Terrell)",
+ "bgm": {
+  "file": "assets/bgm/worthy/ice_flow.mp3",
+  "start": 64.0,
+  "vol": 0.3
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상 1: 콜로라도 주 경찰(Colorado State Patrol) 공식 X @CSP_News 2026.9.14 게시물(2099560266614919414) — 촬영 Connor Storer, I-70 서쪽 방향 아이젠하워 패스 내리막. 15~23초 램프 흙먼지 장면 사용",
+  "영상 2: Denver7 News 공식 X @DenverChannel 2019.4.30 게시물(1123330862177767424) — 촬영 Jesse Terrell, I-70 서쪽 방향 실버손 출구 직전. 오른쪽 위 'JESSE TERRELL' 글자는 크롭으로 피함"
+ ],
+ "sources": [
+  {
+   "publisher": "Denver7 'This runaway truck ramp on I-70 in Colorado is the most heavily used in the US — here's how they work' — CDOT Lower Straight Creek 램프 = 콜로라도·미국에서 가장 많이 쓰임, 콜로라도 램프 13개, 0.5~0.75인치 clear stone(고운 돌 없음) '볼풀처럼 끌어당김', 65mph 에선 브레이크만으로 80,000파운드 세미트럭 못 세움, 써도 딱지 없고 CDOT 청소비 없음",
+   "url": "https://denver7.com/traffic/this-runaway-truck-ramp-on-i-70-in-colorado-is-the-most-heavily-used-in-the-us-heres-how-they-work"
+  },
+  {
+   "publisher": "Colorado Sun 2023.12.3 — 램프는 중력·마찰로 세움(깊고 느슨한 자갈·모래), 긴 내리막에서 브레이크 과열, Lower Straight Creek 5년간 75번(가장 많음), 5.5마일 7% 내리막, 견인비 쉬우면 약 1,500달러",
+   "url": "https://coloradosun.com/2023/12/03/colorado-runaway-truck-ramps/"
+  },
+  {
+   "publisher": "CDLLife 2026.9.14 'Colorado troopers share video of semi truck using runaway ramp on I-70' — CSP: 뒤에서 폭주 트럭이 오면 왼쪽으로 비켜라(램프는 모두 오른쪽), 램프 이용자 65%가 경력 5년 이하",
+   "url": "https://cdllife.com/2026/colorado-troopers-share-video-of-semi-truck-using-runaway-truck-ramp-on-i-70/"
+  },
+  {
+   "publisher": "네이트 자동차(긴급제동시설) — 미시령 터널 하행 내리막 등 산간 내리막에 설치, 모래·자갈로 감속시켜 정차",
+   "url": "https://view.nate.com/auto/view/271537/"
+  },
+  {
+   "publisher": "서울신문 2002.3.7 — 영동고속도로 대관령 신구간 21km 에 브레이크 고장 대피시설(긴급제동시설) 2곳, 5% 경사 65m 자갈 노면",
+   "url": "https://www.seoul.co.kr/news/2002/03/07/20020307024001"
+  }
+ ],
+ "_note": "csp.mp4 = CSP X 720x1280 31.6초(14~23초 램프 위 흙먼지, 16초 흙먼지 꼭대기에 흰 트럭, 27초~ 창틀·트레일러라 안 씀), d7.mp4 = Denver7 X 720x720 44.4초(0~10초 파란 브레이크 연기 끄는 트럭, 26~31초 램프 오르막, 38~42초 램프 꼭대기 흙먼지, 오른쪽 위 JESSE TERRELL 글자 → y 0.3 이상). 둘 다 `ffmpeg -an -c:v libx264 -crf 18 -g 15` 재인코딩한 tmp_csp/tmp_d7 사용(커밋 안 함). 원본 소리 끔(바람·말소리). presy_jay 틱톡 2개는 얼굴캠·영어 자막 투성이, @i70things 는 julietaylor5280 영상 재게시, @maxalilogistics 는 화물 싣기 영상이라 안 씀. tmp_d7z.mp4 = d7.mp4 앞 12초 crop=480:346:150:130 확대(연기 끄는 트럭).",
+ "scenes": [
+  {
+   "text": "고속도로 옆 산에서 '흙먼지'가 터졌다",
+   "video": {
+    "src": "video/tmp_csp.mp4",
+    "start": 15.4,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 1.0
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "산사태가 아니라, 브레이크가 타 버린 '트럭'",
+   "video": {
+    "src": "video/tmp_d7z.mp4",
+    "start": 2.3,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 1.0
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "긴 내리막에서 계속 밟으면 과열돼 '안 듣는다'",
+   "video": {
+    "src": "video/tmp_d7z.mp4",
+    "start": 5.6,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 1.0
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "그래서 내리막 옆에 일부러 만든 '탈출로'",
+   "video": {
+    "src": "video/tmp_d7.mp4",
+    "start": 26.0,
+    "x": 0.5,
+    "y": 0.4,
+    "speed": 1.0
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "단단한 길 대신 깊은 자갈이 바퀴를 '삼켜' 세운다",
+   "video": {
+    "src": "video/tmp_csp.mp4",
+    "start": 18.0,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 1.0
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "미국에서 가장 많이 쓰는 이곳, 5년간 75번",
+   "video": {
+    "src": "video/tmp_d7.mp4",
+    "start": 38.0,
+    "x": 0.5,
+    "y": 0.6,
+    "speed": 1.0
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "대관령·미시령에도 있으니, 절대 '주차' 금지",
+   "video": {
+    "src": "video/tmp_csp.mp4",
+    "start": 21.0,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 1.0
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "길 위의 숨은 생명줄, 구독하면 더 보여 드려요",
+   "video": {
+    "src": "video/tmp_csp.mp4",
+    "start": 16.0,
+    "x": 0.5,
+    "y": 0.5,
+    "speed": 1.0
+   },
+   "dur": 2.6
+  }
+ ]
+}

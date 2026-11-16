@@ -1,0 +1,77 @@
+{
+ "id": "20261104-pearl",
+ "media": "media/20261104-pearl",
+ "topic": "공중에 멈춰 떠 있는(거꾸로 올라가기까지 하는) 물방울 — 반중력이 아니라 1초 50~60개씩 떨어지는 물방울에 박자를 맞춘 스트로보(깜빡이는 조명)가 만든 잔상 착시. 일본 워터펄(Water Pearl) 설치물. 잘난지 '물방울이 공중에 떠있는 이유' 100만 소재(사용자 11.04 09:17 회차 2번 선택, 제목은 사용자 선택 '공중에 뜬 물방울의 정체').",
+ "hook": {
+  "t": "공중에 뜬\n물방울의 '정체'"
+ },
+ "credit": "영상: TikTok @waterpearljapan · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/inescapable.mp3",
+  "start": 107.0,
+  "vol": 0.49
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @waterpearljapan https://www.tiktok.com/@waterpearljapan/video/7490666666423028993 (2025.4.7, 조회 150만·좋아요 8.51만 — media/20261104-pearl/video/v5.info.json, 워터펄 회사 본인 게시).",
+  "모션그래픽: scripts/story_shorts/anim_pearl.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "워터펄(株式会社ウォーターパール) 제품 안내(IPROS) — 특수 음파로 물을 구슬 모양으로, 1초 약 50~60방울 분사, 전용 스트로보 조명, 잔상 현상으로 공중에 떠 있는 것처럼 보임",
+   "url": "https://pr.www.ipros.com/en/waterpearl/product/detail/1372805001"
+  },
+  {
+   "publisher": "Science Buddies 'Stroboscopic Effect: Levitating Water Drops' — 조명 깜빡임이 물방울 박자와 같으면 멈춘 듯, 살짝 다르면 천천히 오르내리는 듯 보임",
+   "url": "https://www.sciencebuddies.org/science-fair-projects/project-ideas/Phys_p120/physics/stroboscopic-effect-levitating-water-drops"
+  },
+  {
+   "publisher": "TikTok @waterpearljapan 영상 속 설명 — 바닥 물을 펌프로 올려 위 노즐에서 떨어뜨림, 물의 움직임에 맞춘 특수 플래시 조명, 도쿄",
+   "url": "https://www.tiktok.com/@waterpearljapan/video/7490666666423028993"
+  }
+ ],
+ "_note": "클립은 v5(576x1024, 가운데 영상 띠 y280~742, 아래 일·영 자막 y≈660~725)를 crop W:W*780/1080 +x+280 → 1080x780(-an, 대비·채도 살짝↑, unsharp). A = 3컷(0.0~1.3 손가락 옆 물방울 / 31.2~32.4 촘촘한 물방울 사이 손 / 36.0~36.6 0.6배 슬로 보라 조명 손) — 컷 전환 1.3·2.5초, 플래시 조명은 안 보임. B 44.5~47.1 손바닥 앞 물방울, C 15.85~17.1 0.5배 슬로 천장 물방울 아치, F 18.5~21.1 손 뒤 플래시 조명(답 공개), H 0.0~1.3 400px 크롭 2.7배 + 0.5배 슬로 리플레이. 그래픽 gfx/fall·strobe·rise = anim_pearl.py. 효과음 없음, 원본 소리 끔(말소리).",
+ "scenes": [
+  {
+   "text": "손 바로 옆 물방울이, 왜 안 떨어질까요?",
+   "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.4
+  },
+  {
+   "text": "손바닥 앞에서도 '둥둥' 멈춰 있다",
+   "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "물줄기째 멈춘 방, '중력'이 꺼진 걸까?",
+   "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.5
+  },
+  {
+   "text": "사실 물방울은 1초 50~60개씩 '떨어지는 중'",
+   "video": {"src": "gfx/fall.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.8
+  },
+  {
+   "text": "그런데 조명이 물방울 박자에 맞춰 '깜빡'이면",
+   "video": {"src": "gfx/strobe.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.1
+  },
+  {
+   "text": "정체는 이 '플래시', 눈엔 멈춘 걸로 보인다",
+   "video": {"src": "clip/F.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "박자를 살짝 당기면 '거꾸로' 올라가기까지",
+   "video": {"src": "gfx/rise.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.9
+  },
+  {
+   "text": "멈춘 건 물이 아니라 내 '눈', 구독은 진짜예요",
+   "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "20261112-cbbt",
+ "finished_at": "2026-11-12T14:05:50+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=owvDRAsVkRc",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-cbbt/video/y1.mp4",
+   "mb": 8.7,
+   "view_count": 3063,
+   "title": "A Bridge Into a Tunnel (in the middle of the ocean) For real… #strangerthings #modernmarvles"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=NY0a7OOuU-A",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-cbbt/video/y2.mp4",
+   "mb": 67.0,
+   "error": "재시도 실패",
+   "view_count": 2463,
+   "title": "Virginia’s Chesapeake Bay Bridge–Tunnel"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=tS2uJRRfiFE",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Download completed"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/watch?v=f2sqUZQDaCU",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Download completed"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "id": "20261020-cowmagnet",
+ "media": "media/20261020-cowmagnet",
+ "topic": "소 배 밑에 나침반을 대 보는 이유 — 송아지 때 손가락만 한 '소 자석'을 삼키게 해 평생 뱃속(벌집위)에 둔다. 소는 먹이를 거의 안 씹고 삼켜 못·철사까지 먹는데, 이 쇳조각이 위벽을 뚫고 심장까지 찌르는 '하드웨어병'을 막으려는 것. 미국 동부 도축 소 55~75% 뱃속에서 쇠붙이가 나왔고, 자석이 쇳조각을 한 덩어리로 붙잡아 찌르지 못하게 한다. 무거워서 똥으로도 안 나와 나침반으로 아직 있는지 확인",
+ "hook": {
+  "t": "소 배에 '나침반'을\n대 보는 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: TikTok @bryant.ok.homestead",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "소 배 밑에 '나침반'을 대자 바늘이 휙휙 돈다",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 41.0,
+    "x": 0.5,
+    "y": 0.76
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "몇 달 전 소 입에 '쏙' 넣어 준 이것 때문이다",
+   "video": {
+    "src": "video/tmp_bolus.mp4",
+    "start": 0.3,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "손가락만 한 쇠막대, 바로 '자석'이다",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 0.2,
+    "x": 0.5,
+    "y": 0.49
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "보통은 소한테 '해로울' 거라고 생각한다",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 8.4,
+    "x": 0.5,
+    "y": 0.34
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "그런데 소는 거의 안 씹고 못·철사까지 '꿀꺽' 삼킨다",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 10.8,
+    "x": 0.5,
+    "y": 0.6
+   },
+   "dur": 2.9
+  },
+  {
+   "text": "이 쇳조각이 위벽을 뚫고 '심장'까지 찌르기도 한다",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 26.0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "미국에선 도축된 소 55~75%의 뱃속에서 '쇠붙이'가 나왔다",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 45.0,
+    "x": 0.5,
+    "y": 0.76
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "자석이 쇳조각을 한 덩어리로 '붙잡아' 못 찌르게 막는다",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 17.0,
+    "x": 0.5,
+    "y": 0.42
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "무거워서 똥으로도 안 나오고 '평생' 소를 지킨다, 다음 이유도 구독",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 55.5,
+    "x": 0.5,
+    "y": 0.7
+   },
+   "dur": 3.6
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @bryant.ok.homestead 'I found Maple's magnet, and it's exactly where it's supposed to be!' 원본(7522126050231438623, 2025.7.1 게시 — 저지 소에게 자석 먹이기·나침반으로 자석 위치 확인)"
+ ],
+ "sources": [
+  {
+   "publisher": "Wikipedia 'Hardware disease' — 소는 입술로 골라 먹지 않고 잘 안 씹어 못·철사를 삼킴, 쇳조각이 벌집위 벽을 뚫고 드물게 심장막까지(심막염), 소 자석은 송아지 때 먹이며 평생 벌집위·혹위에 머물며 쇠붙이를 모음",
+   "url": "https://en.wikipedia.org/wiki/Hardware_disease"
+  },
+  {
+   "publisher": "University of Missouri Extension G7700 'Hardware Disease of Cattle'(Bonnard L. Moseley) — 미국 동부 도축 소 55~75% 벌집위에서 쇠붙이 발견, 자석은 쇠붙이를 한 덩어리로 붙잡아 위벽 관통을 줄임",
+   "url": "https://extension.missouri.edu/g7700"
+  },
+  {
+   "publisher": "Gizmodo 'If You Want Healthy Cows, Feed Them Magnets'(Sarah Zhang) — 손가락 크기 자석을 볼러스 건으로 넣고, 나침반으로 자석이 있는지 확인, 1990년대 보고 55~75%",
+   "date": "2015.3.11",
+   "url": "https://gizmodo.com/if-you-want-healthy-cows-feed-them-magnets-1690931626"
+  },
+  {
+   "publisher": "SunLive(RNZ) 'Why farmers are turning to magnets to protect cows' — 뉴질랜드 낙농가·수의사, 이미 심장 쪽으로 뚫고 들어간 쇠는 자석도 못 막음",
+   "date": "2025.2.18",
+   "url": "https://www.sunlive.co.nz/news/360835-why-farmers-are-turning-to-magnets-to-protect-cows.html"
+  }
+ ],
+ "_note": "bryant.mp4 = TikTok @bryant.ok.homestead/video/7522126050231438623 (576x1024, 61.4초, 말소리라 원본 소리 끔). 0~2.7초 위쪽 댓글 말풍선(y 0.16~0.27)은 y 0.49 크롭(위 0.29~)으로 피함. 3~8초 영어 자막(y 0.27~0.46)은 tmp_bolus.mp4 로 피함: ffmpeg -ss 3.0 -t 5.0 -i bryant.mp4 -vf \"crop=374:270:60:5,scale=1080:780\" -an tmp_bolus.mp4 (커밋 안 함)."
+}

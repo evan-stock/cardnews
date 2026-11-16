@@ -1,0 +1,123 @@
+{
+ "id": "20261028-beeswarm",
+ "media": "media/20261028-beeswarm",
+ "topic": "양봉가가 맨손으로 꿀벌 떼를 퍼 담아도 거의 안 쏘이는 이유 — 집을 떠나 이사 중인 분봉 벌떼는 지킬 새끼·꿀 창고가 없어 방어 본능이 약하고(네브래스카대 확장교육), 떠나기 전 일벌 30~70%가 꿀을 배에 가득 채움(유타주립대 확장교육). 진짜 열쇠는 여왕벌 — 여왕 냄새(페로몬)를 따라 벌떼가 모이고 움직이며, 여왕을 새 벌통에 넣으면 무리 전체가 줄지어 따라 들어감. 여왕 없는 벌떼는 오히려 방어적으로 변함. 단 말벌·집 지은 벌은 다르니 직접 건드리지 말고 119",
+ "hook": {
+  "t": "벌떼를 '맨손'으로\n퍼 담는 진짜 비밀ㄷㄷ"
+ },
+ "credit": "영상: Erika Thompson(TikTok @texasbeeworks)",
+ "bgm": {
+  "file": "assets/bgm/worthy/bit_shift.mp3",
+  "start": 3.0,
+  "vol": 0.64
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "트럭 벌떼 영상: 미국 텍사스 양봉가 Erika Thompson(Texas Beeworks) 본인 TikTok @texasbeeworks 6962225231582842118 'Bees swarming in the morning!'(2021.5.14, 조회 1억 3,990만·좋아요 1,740만 — 10.28 확인) — 영어 자막 상자는 크롭으로 피함",
+  "파라솔 벌떼 영상: 같은 계정 6968527379262147846(2021.5.31, 조회 1억 130만·좋아요 1,580만) — 영어 자막 피함",
+  "헛간 벌집 영상: 같은 계정 6938831081684651269(2021.3.12, 조회 1억 690만·좋아요 1,620만) — 영어 자막 피함"
+ ],
+ "sources": [
+  {
+   "publisher": "네브래스카대 링컨 확장교육 G2225 — 분봉 중인 벌은 지킬 새끼도 먹이도 없어 방어 본능이 아주 약하다, 여왕 페로몬이 있어야 머문다, 여왕 없는 벌은 방어적으로 행동",
+   "url": "https://extensionpubs.unl.edu/publication/g2225/2013/html/view"
+  },
+  {
+   "publisher": "유타주립대 확장교육 — 분봉 벌은 벌통 안 벌보다 훨씬 순함, 일벌 30~70%가 떠나기 전 꿀을 배에 채움",
+   "url": "https://extension.usu.edu/htm/news-multimedia/articleID=13381"
+  },
+  {
+   "publisher": "Texas Monthly — Erika Thompson 맨손 벌 이주 영상 3,840만 회, 가끔 쏘이기도 함, 연기로 경보 페로몬을 가림",
+   "url": "https://www.texasmonthly.com/the-culture/erika-thompson-beekeeper-tiktok/"
+  },
+  {
+   "publisher": "위키백과 Erika Thompson — 틱톡 팔로워 1,100만 명대, 한 영상 6,000만 회, 2021 연출 의혹과 CNN 인터뷰 전문 양봉가의 '위험한 선례' 비판",
+   "url": "https://en.wikipedia.org/wiki/Erika_Thompson"
+  },
+  {
+   "publisher": "뉴시스 2026.8.6 — 벌 쏘임 7~9월 집중, 벌집은 직접 제거하거나 다가가지 말고 119 신고",
+   "url": "https://mobile.newsis.com/view/NISX20260806_0003739007"
+  }
+ ],
+ "_note": "truck.mp4 = TikTok 6962225231582842118 576x1024 59초. 자막: 0~3 가운데(0.57~0.75), 26~29 위(0.15~0.3), 35 위, 37~41 아래(0.67~0.83), 47~49 위(0.12~0.27). 36.5~ 벌 덮인 손 근접(자막 없음 또는 아래 자막) → y 0.38(보이는 범위 0.23~0.63). umbrella.mp4 = 6968527379262147846 83초, 4~9 퍼 담기(자막 아래 0.73~0.88 → y 0), 18~19.9 벌 한 줌(자막 위 → y 1.0). shed.mp4 = 6938831081684651269 59초, 35~37 벌 행렬(자막 0.64~0.8 → y 0). 원본 소리 끔(말소리·음악). 세 영상 모두 -an -g 15 재인코딩(키프레임 문제로 첫 장면이 앞 장면으로 렌더돼서).",
+ "scenes": [
+  {
+   "text": "벌 수백 마리가 맨손에 '바글바글'",
+   "video": {
+    "src": "video/truck.mp4",
+    "start": 36.55,
+    "x": 0.5,
+    "y": 0.38,
+    "speed": 0.8
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "맨손으로 퍼 담는데도 벌떼가 공격을 안 한다",
+   "video": {
+    "src": "video/umbrella.mp4",
+    "start": 4.0,
+    "x": 0.5,
+    "y": 0.0,
+    "speed": 1.0
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "이 벌들은 원래 집을 떠나 '이사 중'인 벌떼",
+   "video": {
+    "src": "video/truck.mp4",
+    "start": 1.5,
+    "x": 0.5,
+    "y": 0.0,
+    "speed": 0.9
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "지킬 새끼도 꿀 창고도 없어 거의 안 쏜다",
+   "video": {
+    "src": "video/umbrella.mp4",
+    "start": 18.0,
+    "x": 0.5,
+    "y": 1.0,
+    "speed": 0.65
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "진짜 열쇠는 이 작은 통 속 '여왕벌'",
+   "video": {
+    "src": "video/truck.mp4",
+    "start": 26.1,
+    "x": 0.5,
+    "y": 0.52,
+    "speed": 0.6
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "여왕만 넣으면 벌떼 전체가 냄새 따라 입주",
+   "video": {
+    "src": "video/truck.mp4",
+    "start": 46.5,
+    "x": 0.5,
+    "y": 0.75,
+    "speed": 1.0
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "단, 말벌집은 절대 손대지 말고 119! 구독하고 여름 대비",
+   "video": {
+    "src": "video/shed.mp4",
+    "start": 35.0,
+    "x": 0.5,
+    "y": 0.0,
+    "speed": 0.9
+   },
+   "dur": 3.2
+  }
+ ]
+}

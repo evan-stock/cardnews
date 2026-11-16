@@ -1,0 +1,42 @@
+{
+ "id": "20261027-life5",
+ "yt_id": "tjZPBs2gdtM",
+ "counted_at": "2026-10-28T19:28:52.357116+09:00",
+ "rule": "top_liked_comment",
+ "total_comments": 2,
+ "valid_votes": 1,
+ "count_by_option": {
+  "1": 0,
+  "2": 0,
+  "3": 1
+ },
+ "support": {
+  "1": 0,
+  "2": 0,
+  "3": 4
+ },
+ "tie": false,
+ "top": [
+  {
+   "n": 3,
+   "name": "놀이터 통행료",
+   "text": "놀이터 통행료",
+   "likes": 3,
+   "author": "@대충드가자",
+   "at": "2026-10-27T13:34:42Z"
+  }
+ ],
+ "skipped": [],
+ "winner": {
+  "n": 3,
+  "name": "놀이터 통행료",
+  "comment": {
+   "n": 3,
+   "name": "놀이터 통행료",
+   "text": "놀이터 통행료",
+   "likes": 3,
+   "author": "@대충드가자",
+   "at": "2026-10-27T13:34:42Z"
+  }
+ }
+}

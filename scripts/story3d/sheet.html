@@ -1,0 +1,48 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+html,body{margin:0;background:#20242c;font-family:"Noto Sans CJK KR",sans-serif}
+#lab{position:absolute;inset:0;pointer-events:none}
+.l{position:absolute;color:#fff;font-weight:900;font-size:22px;text-align:center;width:300px;-webkit-text-stroke:5px #000;paint-order:stroke fill}
+</style></head><body><div id="lab"></div>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import { makeMan, makeBrain, makeKidney } from './chars.js';
+import { face } from './face.js';
+const W = 1800, H = 1200;
+const r = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true }); r.setSize(W, H); r.setScissorTest(true);
+r.outputColorSpace = THREE.SRGBColorSpace; r.toneMapping = THREE.ACESFilmicToneMapping; r.toneMappingExposure = 1.1;
+r.shadowMap.enabled = true; r.shadowMap.type = THREE.PCFSoftShadowMap; document.body.prepend(r.domElement);
+function stage(bg) {
+  const s = new THREE.Scene(); s.background = new THREE.Color(bg);
+  s.add(new THREE.HemisphereLight(0xcfe0ff, 0x6a5040, 0.9));
+  const key = new THREE.DirectionalLight(0xffd9b0, 2.6); key.position.set(3, 5, 4); key.castShadow = true; key.shadow.mapSize.set(1024, 1024); key.shadow.normalBias = 0.02; s.add(key);
+  const fill = new THREE.DirectionalLight(0x9fc0ff, 0.9); fill.position.set(-4, 2, 2); s.add(fill);
+  const rim = new THREE.DirectionalLight(0xffc27a, 2.2); rim.position.set(-2, 3, -4); s.add(rim);
+  const fl = new THREE.Mesh(new THREE.CircleGeometry(3, 48), new THREE.MeshStandardMaterial({ color: 0xcfc6bb, roughness: 1 })); fl.rotation.x = -Math.PI / 2; fl.receiveShadow = true; s.add(fl);
+  return s;
+}
+const lab = document.getElementById('lab');
+function label(t, x, y) { const d = document.createElement('div'); d.className = 'l'; d.textContent = t; d.style.left = (x - 150) + 'px'; d.style.top = y + 'px'; lab.appendChild(d); }
+function view(scene, cam, x, y, w, h) { r.setViewport(x, H - y - h, w, h); r.setScissor(x, H - y - h, w, h); cam.aspect = w / h; cam.updateProjectionMatrix(); r.render(scene, cam); }
+const cam = new THREE.PerspectiveCamera(28, 1, 0.1, 50);
+window.render = async () => {
+  await document.fonts.ready;
+  // 위 줄: 이 남자 정면 / 3/4 / 옆
+  const s1 = stage(0xe9e3da); const man = makeMan({ card: '박보통' }); s1.add(man.root);
+  man.pose({ armL: [0, 0, 0.05, -0.15], armR: [0, 0, 0.05, -0.15] }); man.setFace(face('neutral'));
+  const views = [[0, 0], [0.7, 0], [Math.PI / 2, 0]];
+  views.forEach(([a], i) => { cam.position.set(Math.sin(a) * 7.2, 1.55, Math.cos(a) * 7.2); cam.lookAt(0, 1.25, 0); view(s1, cam, i * 300, 0, 300, 600); });
+  label('이 남자 · 정면', 150, 560); label('3/4', 450, 560); label('옆', 750, 560);
+  // 위 오른쪽: 뇌 관제실장, 콩팥 공장장
+  const s2 = stage(0x2b3550); const br = makeBrain(); s2.add(br.root); br.pose({ armL: [0, 0, 0.5, -0.6], armR: [-0.4, 0, 0.2, -1.2] }); br.setFace(face('determined'));
+  cam.position.set(0.8, 1.0, 4.6); cam.lookAt(0, 0.8, 0); view(s2, cam, 900, 0, 450, 600); label('뇌 관제실장', 1125, 560);
+  const s3 = stage(0x3b2c2a); const kd = makeKidney(); s3.add(kd.root); kd.pose({ armL: [0, 0, 0.4, -0.3], armR: [-2.6, 0, 0.2, 0] }); kd.setFace(face('smug'));
+  cam.position.set(-0.8, 1.0, 4.6); cam.lookAt(0, 0.85, 0); view(s3, cam, 1350, 0, 450, 600); label('콩팥 공장장', 1575, 560);
+  // 아래 줄: 표정 6종(얼굴 클로즈업)
+  const ex = ['slurp', 'thirsty', 'shock', 'panic', 'defeated', 'relieved'], names = ['국물 흡입', '목마름', '충격', '패닉', '체념', '안도'];
+  ex.forEach((e, i) => { man.setFace(face(e)); man.pose({ headT: e === 'slurp' ? -0.2 : 0, armL: [0, 0, 0.05, -0.15], armR: [0, 0, 0.05, -0.15] });
+    cam.position.set(0.35, 2.05, 3.0); cam.lookAt(0, 1.92, 0); view(s1, cam, i * 300, 600, 300, 600); label(names[i], i * 300 + 150, 1150); });
+  return 'ok';
+};
+window.ready = true;
+</script></body></html>

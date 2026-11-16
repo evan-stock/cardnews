@@ -1,0 +1,61 @@
+{
+ "id": "20261114-wd1",
+ "finished_at": "2026-11-14T20:23:57+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/Xlv4V-sMc1k",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261114-wd1/video/y1.mp4",
+   "mb": 9.9,
+   "view_count": 10532750,
+   "title": "쌀과자가 소용돌이를 만나면 생기는 일"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/ReGvFN9aS9Q",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261114-wd1/video/y2.mp4",
+   "mb": 7.3,
+   "view_count": 1155985,
+   "title": "절대 와장창 쏟아지지 않는 유리의 원리"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/tjRJUXD0Fog",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261114-wd1/video/y3.mp4",
+   "mb": 6.3,
+   "view_count": 6538411,
+   "title": "볏짚을 다 싸매는 이유"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/y4kduZu7YLU",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261114-wd1/video/y4.mp4",
+   "mb": 6.7,
+   "view_count": 1029922,
+   "title": "빙판길 미리 알려주는 소름 돋는 기술"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/ePBMuWJLyKU",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261114-wd1/video/y5.mp4",
+   "mb": 5.8,
+   "view_count": 12331258,
+   "title": "돌 두 개를 땅에 놓는 이유"
+  }
+ ]
+}

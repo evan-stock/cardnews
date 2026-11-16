@@ -1,0 +1,20 @@
+name: tg-preview
+# 2026.10.26: 채팅에서 만든 게시물(state/posts/<id>.json)을 텔레그램으로 미리보기 전송
+on:
+  workflow_dispatch:
+    inputs:
+      id: {description: "state/posts 게시물 id", required: true}
+jobs:
+  send:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    env:
+      TZ: Asia/Seoul
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q requests pyyaml
+      - run: python scripts/tg_post_preview.py "${{ inputs.id }}"

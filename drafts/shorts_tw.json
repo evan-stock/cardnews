@@ -1,0 +1,146 @@
+{
+ "id": "20261027-giletsjaunes",
+ "mode": "render",
+ "speed": 1.25,
+ "topic": "[TTS 릴스 3편] 프랑스 시위대가 다 노란 조끼 입는 이유(2008 형광 조끼 의무·2018 유류세)",
+ "hook": {
+  "t": "프랑스 시위 하면\n왜 '노란 조끼'일까"
+ },
+ "style": {
+  "layout": "letterbox",
+  "band": 490,
+  "title_pad_bottom": 24,
+  "video_h": 780,
+  "title_size": 86,
+  "title_base": [
+   255,
+   255,
+   255
+  ],
+  "sub_size": 76,
+  "sub_y": 0.693,
+  "sub_max_w": 860,
+  "chunk": 10,
+  "credit_center": true,
+  "credit_size": 25,
+  "font_title": "assets/fonts/Pretendard-Black.otf",
+  "font_sub": "assets/fonts/Pretendard-Black.otf",
+  "logo": "brand/logo_typo_A.png",
+  "logo_w": 250,
+  "logo_y": 1455,
+  "mascot": null,
+  "zoom": 0.06
+ },
+ "voice": {
+  "engine": "gemini",
+  "gemini": {
+   "voice": "Sadaltager",
+   "style": "인스타 릴스 해외 이슈 해설. 흥미를 끄는 30대 남성 해설자 말투, 차분하고 또박또박, 과장하지 않기",
+   "tempo": 1.2
+  }
+ },
+ "credit": "영상 Marie Gendron(위키미디어) · X @WithyGrove  |  일부 재현 그래픽",
+ "photo_credits": [
+  "Marie Gendron (CC BY 3.0)",
+  "X @WithyGrove",
+  "Chabe01 (CC BY-SA 4.0)"
+ ],
+ "scenes": [
+  {
+   "say": "프랑스 시위 하면 떠오르는 이 '노란 조끼', 왜 하필 이걸 입고 나왔을까요?",
+   "video": {
+    "src": "video/b1.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  {
+   "say": "답은 프랑스 '자동차' 안에 있습니다.",
+   "video": {
+    "src": "video/gilet_anim.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  {
+   "say": "2008년부터 프랑스 운전자는 차 안에 형광 조끼를 꼭 둬야 합니다. 없으면 벌금 135유로예요.",
+   "video": {
+    "src": "video/gilet_anim.mp4",
+    "start": 1.6,
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  {
+   "say": "2018년, 정부가 경유 세금을 더 올리겠다고 하자, 차 없이는 출근도 못 하는 운전자들이 폭발했습니다.",
+   "video": {
+    "src": "video/b1.mp4",
+    "start": 9,
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  {
+   "say": "그들은 차에 있던 바로 그 조끼를 꺼내 입고 거리로 나왔습니다. 첫날에만 약 30만 명이었죠.",
+   "video": {
+    "src": "video/b2.mp4",
+    "start": 60,
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  {
+   "say": "누구나 갖고 있고, 멀리서도 잘 보이고, '도와 달라'는 신호. 그렇게 노란 조끼는 '분노'의 상징이 됐습니다.",
+   "video": {
+    "src": "video/b2.mp4",
+    "start": 10,
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  {
+   "say": "이번 10월 물가 시위에도 노란 조끼 운동이 다시 합류했습니다. 다만 이번 주인공은 학생들이라, 조끼는 예전만큼 많지 않죠.",
+   "video": {
+    "src": "../20261025-europeall/video/fr.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  {
+   "say": "지금 터진 세계 소식, 오늘의쓸모에서 제일 먼저 보세요.",
+   "img": "cand/champs.jpg",
+   "zoom": 0.06,
+   "end": true
+  }
+ ],
+ "sources": [
+  {
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+   "date": ""
+  },
+  {
+   "publisher": "French Property",
+   "url": "https://www.french-property.com/newsletter/2008/12/16/hi-vis-jacket-france",
+   "date": "2008.12.16"
+  },
+  {
+   "publisher": "Kuwait Times(AFP)",
+   "url": "https://kuwaittimes.com/article/51769/world/looting-fires-and-clashes-as-france-protests-over-soaring-prices/",
+   "date": "2026.10.17"
+  },
+  {
+   "publisher": "Lyon Mag",
+   "url": "https://www.lyonmag.com/article/154371/le-retour-des-gilets-jaunes-ce-samedi-a-lyon-de-premieres-actions-menees-ce-matin",
+   "date": "2026.10.17"
+  },
+  {
+   "publisher": "Sortiraparis",
+   "url": "https://www.sortiraparis.com/en/news/in-paris/articles/353907-strike-on-october-17-2026-yellow-vests-protests-by-students-transport-disruptions-what-s-planned",
+   "date": "2026.10"
+  }
+ ]
+}

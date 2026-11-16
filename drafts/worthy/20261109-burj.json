@@ -1,0 +1,31 @@
+{
+ "id": "20261109-burj",
+ "media": "media/20261109-burj",
+ "topic": "에미레이트 항공 2021 광고 — 승무원 유니폼을 입은 스카이다이빙 강사 니콜 스미스-루드빅이 세계 최고층 부르즈 할리파(828m) 맨 꼭대기에 섰다. 합성·그린스크린 없이, 엘리베이터로 160층까지 간 뒤 사다리·계단으로 1시간 15분을 올라가, 기둥 달린 맞춤 발판에 유니폼 속 숨긴 하네스로 기둥과 꼭대기 두 곳(3곳)에 묶고 드론 1대로 이어 찍었다. 사용자 11.09 14:17 회차 1번 선택(쉬는 시간 1,467만 소재 재활용).",
+ "hook": {"t": "'828m' 꼭대기에\n선 승무원? ㄷㄷ"},
+ "credit": "영상: Emirates 공식 'We're on top of the world' · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/killers.mp3", "start": 185.5, "vol": 0.38},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "장면 1(3컷), 3, 5, 7, 8: Emirates 공식 유튜브 'We're on top of the world | Behind the scenes | Emirates Airline' HagU3vUp0Ck(2021.08.09) — media/20261109-wb1/video/y3.mp4. 영상에 박힌 빨간 영어 자막 구간은 피하거나 크롭.",
+  "모션그래픽: scripts/story_shorts/anim_burj.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "Khaleej Times 2021.08.09 'How Emirates pulled off a daring ad shoot at the top of the Burj Khalifa' — 828m, 160층에서 1시간 15분, 기둥 달린 맞춤 발판, 숨긴 하네스로 기둥+꼭대기 두 곳, 드론 1대 연속 촬영, 꼭대기 약 5시간, 스카이다이빙 강사", "url": "https://www.khaleejtimes.com/uae/emirates-burj-khalifa-stunt-behind-the-scenes-of-the-top-of-the-world-ad-shoot"},
+  {"publisher": "The National 2021.08.09 'Behind the scenes of Emirates' viral Burj Khalifa shoot'", "url": "https://www.thenationalnews.com/travel/news/2021/08/09/behind-the-scenes-of-emirates-viral-burj-khalifa-shoot"},
+  {"publisher": "Airline Ratings 2022.01.14 — 2편(A380이 뒤로 지나감, 엑스포 홍보)", "url": "https://www.airlineratings.com/news/emirates-produces-another-stunning-advert-atop-worlds-tallest-building/"},
+  {"publisher": "The Points Guy 2022.01.23 — 2편 A380 11번 선회, 145노트, 약 2,700피트", "url": "https://thepointsguy.com/news/emirates-dubai-expo-advert-behind-the-scenes-burj-khalifa/"}
+ ],
+ "_note": "A=3컷(y3 42.4~ 꼭대기에 선 승무원 2.6배 확대 / 6.2~ 얼굴 클로즈업(아래쪽 등반팀 헬멧은 크롭) / 38.3~ 첨탑 전경) → 컷 1.33·2.53초. 답(하네스·고정점 3곳)은 harness 그래픽(14.3초)에서 처음. 효과음 없음, 원본 소리 끔(광고 음악).",
+ "scenes": [
+  {"text": "이 장면, 합성이 아니라면 어떻게 찍었을까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.6},
+  {"text": "높이 828m, 세계에서 가장 높은 건물의 맨 끝", "video": {"src": "gfx/height.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "발 디딜 곳은 겨우 1.2m 남짓한 공간뿐", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.5},
+  {"text": "160층부터는 사다리를 타고 '1시간 15분'", "video": {"src": "gfx/climb.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "출발 전, 창고에 똑같은 발판을 세워 연습했는데", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "비밀은 유니폼 속에 숨긴 하네스, 고정점 3곳", "video": {"src": "gfx/harness.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "주인공은 진짜 승무원이 아닌 '스카이다이빙 강사'", "video": {"src": "clip/G.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "A380과 다시 오른 2편은 다음 영상에서, 구독!", "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4}
+ ]
+}

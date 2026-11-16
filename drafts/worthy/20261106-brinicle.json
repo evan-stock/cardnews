@@ -1,0 +1,30 @@
+{
+ "id": "20261106-brinicle",
+ "media": "media/20261106-brinicle",
+ "topic": "남극 바다얼음 아래의 브리니클(brinicle, '죽음의 손가락') — 바닷물이 얼 때 밀려난 짜고 차가운 소금물이 가라앉으며 주변 바닷물을 얼려 얼음 관을 만들고, 바닥에 닿으면 얼음이 번져 불가사리 등을 가둠. 2011 BBC Frozen Planet 첫 촬영. 사용자 11.06 20:17 회차 2번 선택.",
+ "hook": {"t": "바닷속에서 절대\n마주치면 안 되는 '고드름'"},
+ "credit": "영상: BBC 'Frozen Planet'(2011) · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/inescapable.mp3", "start": 107.0, "vol": 0.49},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "브리니클 저속 촬영: BBC 'Frozen Planet'(2011, 촬영 Hugh Miller·Doug Anderson). 받은 파일은 X @wonderofscience 1810702702793351600(📽: BBC, Frozen Planet 표기 재게시, 화면 글자 없음) — media/20261106-brinicle/video/src.mp4",
+  "모션그래픽: scripts/story_shorts/anim_brinicle.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "Wikipedia 'Brinicle' — 바닷물이 얼 때 염분이 빠져 차갑고 밀도 높은 브라인이 가라앉으며 주변을 얼려 관 형성, 바닥에 닿으면 얼음이 번져 성게·불가사리를 가둠. 2011 BBC Frozen Planet 첫 촬영(로스섬 근처 Little Razorback Island)", "url": "https://en.wikipedia.org/wiki/Brinicle"},
+  {"publisher": "HuffPost UK 2011.11 'Frozen Planet's Brinicle'", "url": "https://huffingtonpost.co.uk/amp/entry/brinicle-frozen-planet-icicle-antarctica_n_1111637"},
+  {"publisher": "Wetpixel 'BBC Frozen Planet captures growth of brinicle'", "url": "https://wetpixel.com/articles/bbc-frozen-planet-captures-growth-of-brinicle"}
+ ],
+ "_note": "A=3컷(src 2.0~ 1.6배 0.7배 슬로 / 0.0~ 1.15배 0.8배 / 4.6~ 끝부분 1.8배 0.6배) → 컷 1.3·2.5초, 바닥 닿는 장면(결과)은 0~3초에 없음. B src 43~ 1.6배 위쪽(얼음 천장+관만). C src 7.0~ 1.4배 0.8배(바닥 닿음). D src 17.5~ 1.15배 0.9배(번지는 얼음·불가사리). H src 44.5~ 1.4배 0.6배 리플레이. 그래픽 salt·tube·map = anim_brinicle.py. 효과음 없음, 원본 소리 없음(무음 원본).",
+ "scenes": [
+  {"text": "바다 밑으로 내려오는 이 하얀 기둥, 무엇일까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 4.0},
+  {"text": "남극 바다얼음 아래에서 '쑥쑥' 자라는데", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "바닷물이 얼 때, 소금은 얼음 밖으로 밀려나요", "video": {"src": "gfx/salt.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.2},
+  {"text": "짜고 차가운 이 물이 가라앉으며 주변을 '얼음 관'으로", "video": {"src": "gfx/tube.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "그리고 바닥에 닿는 순간…", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "번지는 얼음에 불가사리까지 '꽁꽁'", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "그래서 붙은 별명이 '죽음의 손가락'", "video": {"src": "gfx/map.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "다음 편도 얼음 속 비밀, 구독하고 이어 봐요!", "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.7}
+ ]
+}

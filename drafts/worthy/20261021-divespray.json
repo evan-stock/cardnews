@@ -1,0 +1,134 @@
+{
+ "id": "20261021-divespray",
+ "media": "media/20261021-divespray",
+ "topic": "다이빙장 수면에 물줄기를 계속 뿌리는 진짜 이유 — 물을 식히거나 채우려는 게 아니라, 잔잔한 물은 유리판처럼 투명해 10m 위에서 수면이 어디인지 안 보이기 때문. 물결이 '여기가 수면' 표시가 되어 시속 50km 넘게 떨어지는 선수가 입수 직전 몸을 펼 때를 맞춘다. 국제 규정(World Aquatics)으로 수면 물결 장치가 의무",
+ "hook": {
+  "t": "다이빙장 수면에 '물'을\n계속 뿌리는 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: TikTok @mia_vallee1 · @swimoutlet",
+ "bgm": {
+  "file": "assets/bgm/worthy/darkest_child.mp3",
+  "start": 54.0,
+  "vol": 0.56
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "다이빙장 물 위로 '물줄기'를 계속 쏜다",
+   "video": {
+    "src": "video/swimoutlet.mp4",
+    "start": 9.0,
+    "x": 0.5,
+    "y": 0.83
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "보통은 튄 물을 채우거나 '식히는' 거라고 생각한다",
+   "video": {
+    "src": "video/mia.mp4",
+    "start": 5.6,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "그런데 진짜 이유는 10m 위 '선수 눈'에 있다",
+   "video": {
+    "src": "video/mia.mp4",
+    "start": 0.6,
+    "x": 0.5,
+    "y": 0.17
+   },
+   "dur": 3.4
+  },
+  {
+   "text": "잔잔한 물은 '유리판'처럼 비쳐 수면이 어디인지 안 보인다",
+   "video": {
+    "src": "video/mia.mp4",
+    "start": 8.6,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "물결이 생기면 '여기가 수면'이라는 표시가 된다",
+   "video": {
+    "src": "video/mia.mp4",
+    "start": 17.8,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "선수는 시속 50km 넘게 떨어지며 입수 직전에 몸을 편다",
+   "video": {
+    "src": "video/mia.mp4",
+    "start": 23.0,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 3.6
+  },
+  {
+   "text": "거리를 잘못 재면 '배치기'로 크게 다칠 수 있다",
+   "video": {
+    "src": "video/mia.mp4",
+    "start": 3.4,
+    "x": 0.5,
+    "y": 0.17
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "그래서 국제 규정으로 수면 '물결 장치'가 꼭 있어야 한다",
+   "video": {
+    "src": "video/swimoutlet.mp4",
+    "start": 6.5,
+    "x": 0.5,
+    "y": 0.83
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "물줄기는 선수의 '눈'이었다, 다음 진짜 이유도 구독",
+   "video": {
+    "src": "video/mia.mp4",
+    "start": 13.6,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 3.0
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @mia_vallee1 — 캐나다 다이빙 국가대표 Mia Vallée 본인 원본(7285150082540850475, 마이애미대 다이빙장 플랫폼 위 시점·실제 다이빙)",
+  "영상: TikTok @swimoutlet(SwimOutlet 공식 계정) 원본(7363764648476462382, 다이빙 풀 수면 물줄기)"
+ ],
+ "sources": [
+  {
+   "publisher": "NBC Connecticut 'Why is water sprayed in Olympic diving pools?' — World Aquatics 규정 'mechanical surface agitation… to aid the divers in their visual perception of the surface', 10m 플랫폼 약 33피트, 입수 직전 최대 시속 35마일(약 56km)",
+   "date": "2024.7.30",
+   "url": "https://www.nbcconnecticut.com/paris-2024-summer-olympics/why-water-sprayed-olympics-diving-pools-2024-paris/3349266/"
+  },
+  {
+   "publisher": "USA TODAY Sports(John Leuzzi, Yahoo Sports 재게재) — 물줄기가 없으면 수면이 'like a sheet of glass', 선수가 다칠 수 있음, World Aquatics 규칙 3.1.3.10(수중 거품 장치 또는 수평 스프링클러)",
+   "date": "2024.7.27",
+   "url": "https://uk.sports.yahoo.com/news/why-water-sprayed-onto-olympic-223604115.html"
+  },
+  {
+   "publisher": "Mental Floss 'Why Do Sprinklers Spray Water Into Olympic Diving Pools?'(Ellen Gutoskey) — 물결이 수면까지 거리를 가늠하게 해 회전을 마치고 배치기를 피하게 함",
+   "date": "2021.7.28",
+   "url": "https://www.mentalfloss.com/sports/olympics/why-do-sprinklers-spray-water-olympic-diving-pool"
+  },
+  {
+   "publisher": "Diving Canada 'Mia Vallée' 선수 소개",
+   "url": "https://diving.ca/athletes/mia-vallee/"
+  }
+ ],
+ "_note": "mia.mp4 = TikTok @mia_vallee1/video/7285150082540850475 (576x1024, 27.7초). 0~4초 흰 글자 상자(y 0.53~0.6)는 y 0.17 크롭(위 0.10~0.51)으로 피함. swimoutlet.mp4 = TikTok @swimoutlet/video/7363764648476462382 (576x1024, 11.2초), 전 구간 흰 글자(y 0.33~0.48)는 y 0.83 크롭(위 0.49~0.90)으로 피함. 원본 소리 끔. 시속 50km = 10m 자유낙하 약 14m/s 계산 + NBC 최대 35mph."
+}

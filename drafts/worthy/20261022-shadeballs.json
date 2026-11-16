@@ -1,0 +1,40 @@
+{
+ "id": "20261022-shadeballs",
+ "media": "media/20261022-shadeballs",
+ "format": "quiz",
+ "topic": "[형식 시험: 퀴즈형 1/3] LA 저수지에 검은 플라스틱 공 9,600만 개(개당 36센트)를 띄운 '처음' 이유 — 물속 브롬화물이 소독약 염소와 만나 햇빛을 받으면 발암 의심 물질 브롬산염이 생겨, 햇빛을 막으려고 아이반호 저수지에서 처음 씀. 증발 감소(LA 저수지 연 3억 갤런 ≈ 11억 L)는 덤. 2018 Nature Sustainability: 공 만드는 데 든 물(290만 m³)이 1년 반 동안 아낀 물(170만 m³)보다 많다는 반론",
+ "hook": {
+  "t": "저수지에 '검은 공'을 잔뜩\n쏟아붓는 진짜 이유ㄷㄷ"
+ },
+ "credit": "사진: Eric Garcetti(CC BY 2.0)·Junkyardsparkle(CC0) 외",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {"text": "LA 저수지에 검은 공 '9,600만 개'를 쏟아부었다", "img": "video/balls_pour.jpg", "zoom": 0.12, "dur": 3.0},
+  {"text": "왜 그랬을까? '3초' 안에 골라 보세요", "video": {"src": "gfx/quiz_q.mp4", "start": 0}, "dur": 3.6},
+  {"text": "대부분 ①번 '증발'을 고른다", "video": {"src": "gfx/quiz_q.mp4", "start": 3.6}, "dur": 2.4},
+  {"text": "정답은 ③번, 물이 '독'으로 변하는 걸 막으려고", "video": {"src": "gfx/quiz_a.mp4", "start": 0}, "dur": 3.0},
+  {"text": "이 물엔 '브롬'이 섞여 있어 소독약 염소와 만나면", "img": "video/ivanhoe.jpg", "zoom": 0.1, "dur": 3.0},
+  {"text": "햇빛을 받아 '발암 의심 물질'이 생긴다", "img": "video/reservoir_black.jpg", "zoom": 0.1, "dur": 2.8},
+  {"text": "검은 공은 수면을 덮어 '햇빛'만 막은 것", "img": "video/single_ball.jpg", "zoom": 0.12, "dur": 2.8},
+  {"text": "①번 증발도 1년에 '11억 L'씩 덤으로 줄었다", "img": "video/garcetti_podium.jpg", "zoom": 0.08, "dur": 3.0},
+  {"text": "공 만들 때 물이 '더 들었다'는 연구도… 다음 퀴즈도 구독", "img": "video/elysian_bulldozer.jpg", "zoom": 0.1, "dur": 3.4}
+ ],
+ "products": [],
+ "photo_credits": [
+  "Eric Garcetti(LA 시장실 Flickr) 'Deployment of Shade Balls at the LA Reservoir' 2015.8.10 — CC BY 2.0 (20580703750 공 쏟기, 20580695960 연단, 20580692058 저수지)",
+  "Junkyardsparkle 'Ivanhoe Reservoir view from north 2015-10-11' — CC0",
+  "Richard Thomas 'Single Shade ball' 2019 — CC BY-SA 4.0",
+  "Scott L(Flickr) '1 D4C1677' 2015.12.11 엘리시안 저수지 셰이드볼 — CC BY-SA 2.0"
+ ],
+ "sources": [
+  {"publisher": "LAist 2015.8.11 — 실마 LA 저수지 마지막 투입, 총 9,600만 개·개당 36센트·3,450만 달러, 햇빛 화학 반응·새·조류·먼지 차단, 증발 연 3억 갤런 감소, 아이반호 저수지에서 처음 사용", "url": "https://laist.com/news/shade-balls"},
+  {"publisher": "위키백과 'Shade ball' — LADWP 아이반호 저수지에 약 40만 개, 주로 브롬산염 생성 방지 목적", "url": "https://en.wikipedia.org/wiki/Shade_ball"},
+  {"publisher": "Science ABC — 브롬화물+염소+햇빛 → 브롬산염(발암 의심), 2015.8~2017.3 증발 170만 m³ 절약 vs 생산에 290만 m³(2018 Nature Sustainability)", "url": "https://www.scienceabc.com/eyeopeners/what-are-96-million-black-balls-doing-in-the-los-angeles-water-reservoir.html"}
+ ],
+ "_note": "퀴즈형 시험 1편. 보기 화면은 scripts/story_shorts/anim_quiz.py 로 만든 gfx/quiz_q.mp4(6초: 보기 등장·3·2·1·3.6초부터 ①에 '많이 고르는 답')·quiz_a.mp4(3초). 증발·새 막기도 실제 효과라 '처음' 이유로 물었고, ②는 확실한 오답 '물 데우기'. 영상 원본은 Veritasium 것뿐이라 안 쓰고 커먼즈 사진만 사용."
+}

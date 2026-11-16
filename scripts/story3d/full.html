@@ -1,0 +1,353 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+html,body{margin:0;width:720px;height:1280px;overflow:hidden;background:#000;font-family:"Noto Sans CJK KR",sans-serif}
+canvas{display:block}
+#cap{position:absolute;left:0;width:720px;top:calc(1280px*0.70);text-align:center;font-weight:900;font-size:66px;line-height:1.1;color:#fff;-webkit-text-stroke:13px #000;paint-order:stroke fill;letter-spacing:-1px}
+#src{position:absolute;left:0;width:720px;bottom:22px;text-align:center;font-size:15px;color:rgba(255,255,255,.75);text-shadow:0 0 4px #000}
+</style></head><body><div id="cap"></div><div id="src"></div>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
+import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
+import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
+import { ShaderPass } from 'three/addons/postprocessing/ShaderPass.js';
+import { OutputPass } from 'three/addons/postprocessing/OutputPass.js';
+import { makeMan } from './chars.js';
+import { face, morph } from './face.js';
+
+const W = 720, H = 1280;
+const r = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
+r.setSize(W, H); r.outputColorSpace = THREE.SRGBColorSpace; r.toneMapping = THREE.ACESFilmicToneMapping; r.toneMappingExposure = 1.3;
+r.shadowMap.enabled = true; r.shadowMap.type = THREE.PCFSoftShadowMap; document.body.prepend(r.domElement);
+const scene = new THREE.Scene(); scene.background = new THREE.Color(0x1a1d2b);
+const cam = new THREE.PerspectiveCamera(38, W / H, 0.05, 60);
+
+// ── 후처리: 블룸 0.3, 비네트 0.28, 그레인, 살짝 선명하게 ──
+const comp = new EffectComposer(r); comp.addPass(new RenderPass(scene, cam));
+comp.addPass(new UnrealBloomPass(new THREE.Vector2(W, H), 0.3, 0.5, 0.85));
+const fin = new ShaderPass({ uniforms: { tDiffuse: { value: null }, t: { value: 0 }, mixT: { value: null }, mixA: { value: 0 } },
+  vertexShader: 'varying vec2 vUv; void main(){vUv=uv;gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.0);}',
+  fragmentShader: `uniform sampler2D tDiffuse; uniform sampler2D mixT; uniform float mixA; uniform float t; varying vec2 vUv;
+  float h(vec2 p){return fract(sin(dot(p,vec2(12.9898,78.233))+t*17.0)*43758.5453);}
+  void main(){ vec2 px=vec2(1.0/720.0,1.0/1280.0); vec4 c=texture2D(tDiffuse,vUv);
+    vec4 b=(texture2D(tDiffuse,vUv+vec2(px.x,0.))+texture2D(tDiffuse,vUv-vec2(px.x,0.))+texture2D(tDiffuse,vUv+vec2(0.,px.y))+texture2D(tDiffuse,vUv-vec2(0.,px.y)))*0.25;
+    c.rgb+= (c.rgb-b.rgb)*0.35;
+    if(mixA>0.0){ c.rgb=mix(c.rgb, texture2D(mixT,vUv).rgb, mixA); }
+    float d=distance(vUv,vec2(0.5)); c.rgb*=1.0-0.28*smoothstep(0.35,0.85,d);
+    c.rgb+= (h(vUv*1000.0)-0.5)*0.035; gl_FragColor=c; }` });
+comp.addPass(fin); comp.addPass(new OutputPass());
+const rtA = new THREE.WebGLRenderTarget(W, H, { type: THREE.HalfFloatType });
+
+// ── 공용 도우미 ──
+const M = (c, r_ = 0.8, e = {}) => new THREE.MeshStandardMaterial({ color: c, roughness: r_, ...e });
+function box(w, h, d, m, x, y, z, p = scene) { const o = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), m); o.position.set(x, y, z); o.castShadow = o.receiveShadow = true; p.add(o); return o; }
+function cyl(rt, rb, h, m, x, y, z, p = scene, seg = 28) { const o = new THREE.Mesh(new THREE.CylinderGeometry(rt, rb, h, seg), m); o.position.set(x, y, z); o.castShadow = o.receiveShadow = true; p.add(o); return o; }
+function tex(w, h, fn) { const c = document.createElement('canvas'); c.width = w; c.height = h; fn(c.getContext('2d'), w, h); const t = new THREE.CanvasTexture(c); t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = 8; t.userData.canvas = c; return t; }
+const KR = '"Noto Sans CJK KR"';
+
+// ── 원룸 (한 번에 짓는 하나의 세계) ──
+// 바닥(나무)
+const floorT = tex(1024, 1024, (g, w, h) => { for (let i = 0; i < 16; i++) { g.fillStyle = i % 2 ? '#a8774f' : '#b5845a'; g.fillRect(0, i * 64, w, 64); g.fillStyle = 'rgba(0,0,0,.18)'; g.fillRect(0, i * 64, w, 3); for (let k = 0; k < 4; k++) g.fillRect(((i * 397 + k * 251) % w), i * 64, 3, 64); } });
+const floor = new THREE.Mesh(new THREE.PlaneGeometry(6, 6), new THREE.MeshStandardMaterial({ map: floorT, roughness: 0.6 })); floor.rotation.x = -Math.PI / 2; floor.receiveShadow = true; scene.add(floor);
+// 벽(뒤·왼쪽): 연한 벽지
+const wallT = tex(512, 512, (g, w, h) => { g.fillStyle = '#e9e1cf'; g.fillRect(0, 0, w, h); g.fillStyle = 'rgba(0,0,0,.035)'; for (let x = 0; x < w; x += 32) g.fillRect(x, 0, 2, h); });
+const back = new THREE.Mesh(new THREE.PlaneGeometry(6, 3.2), new THREE.MeshStandardMaterial({ map: wallT, roughness: 0.95 })); back.position.set(0, 1.6, -2.2); back.receiveShadow = true; scene.add(back);
+const left = back.clone(); left.rotation.y = Math.PI / 2; left.position.set(-2.6, 1.6, 0.6); scene.add(left);
+box(6, 0.1, 0.04, M('#d6ccb8'), 0, 0.05, -2.18); // 걸레받이
+// 창문: 밤 도시 + 달
+const nightT = tex(512, 400, (g, w, h) => { const gr = g.createLinearGradient(0, 0, 0, h); gr.addColorStop(0, '#0d1236'); gr.addColorStop(1, '#2a2f6b'); g.fillStyle = gr; g.fillRect(0, 0, w, h);
+  g.fillStyle = '#fff6cf'; g.beginPath(); g.arc(400, 80, 34, 0, 7); g.fill(); for (let i = 0; i < 40; i++) { g.fillStyle = 'rgba(255,255,255,.7)'; g.fillRect((i * 97) % w, (i * 53) % 160, 2, 2); }
+  for (let i = 0; i < 9; i++) { const bx = i * 58, bh = 120 + (i * 71) % 140; g.fillStyle = '#121633'; g.fillRect(bx, h - bh, 52, bh); g.fillStyle = '#ffd36e'; for (let y = h - bh + 12; y < h - 10; y += 22) for (let x = bx + 8; x < bx + 46; x += 14) if ((x * 7 + y * 3) % 5 < 2) g.fillRect(x, y, 7, 10); } });
+const win = new THREE.Mesh(new THREE.PlaneGeometry(1.5, 1.15), new THREE.MeshBasicMaterial({ map: nightT })); win.position.set(1.0, 1.75, -2.19); scene.add(win);
+for (const [w_, h_, x, y] of [[1.6, 0.06, 1.0, 2.35], [1.6, 0.06, 1.0, 1.15], [0.06, 1.2, 0.2, 1.75], [0.06, 1.2, 1.8, 1.75], [0.04, 1.15, 1.0, 1.75]]) box(w_, h_, 0.06, M('#f4f1ea', 0.5), x, y, -2.16);
+const moonLight = new THREE.PointLight(0x8fa6ff, 1.2, 4); moonLight.position.set(1.0, 1.8, -1.6); scene.add(moonLight);
+// 벽시계: 11:00 (숫자는 물건 위에)
+const clockT = tex(256, 256, (g) => { g.fillStyle = '#fff'; g.beginPath(); g.arc(128, 128, 120, 0, 7); g.fill(); g.lineWidth = 12; g.strokeStyle = '#2A1D17'; g.stroke();
+  g.fillStyle = '#2A1D17'; g.font = `900 34px ${KR}`; g.textAlign = 'center'; g.textBaseline = 'middle'; for (let i = 1; i <= 12; i++) { const a = i / 12 * Math.PI * 2 - Math.PI / 2; g.fillText(i, 128 + Math.cos(a) * 90, 128 + Math.sin(a) * 90); }
+  g.lineCap = 'round'; g.lineWidth = 10; g.beginPath(); g.moveTo(128, 128); g.lineTo(128 + Math.cos(-Math.PI / 2 - Math.PI / 6) * 55, 128 + Math.sin(-Math.PI / 2 - Math.PI / 6) * 55); g.stroke();
+  g.lineWidth = 6; g.beginPath(); g.moveTo(128, 128); g.lineTo(128, 45); g.stroke(); });
+const clock = new THREE.Mesh(new THREE.CircleGeometry(0.26, 40), new THREE.MeshStandardMaterial({ map: clockT, roughness: 0.5 })); clock.position.set(-0.9, 2.3, -2.17); scene.add(clock);
+// 디지털 시계(숫자 객체)
+const dT = tex(256, 96, (g) => { g.fillStyle = '#111'; g.fillRect(0, 0, 256, 96); g.fillStyle = '#ff4b3e'; g.font = `900 64px ${KR}`; g.textAlign = 'center'; g.textBaseline = 'middle'; g.fillText('23:00', 128, 50); });
+const dclock = new THREE.Mesh(new THREE.PlaneGeometry(0.34, 0.13), new THREE.MeshBasicMaterial({ map: dT })); dclock.position.set(-1.62, 0.79, -1.69); dclock.rotation.y = 0.15; scene.add(dclock);
+// 침대(왼쪽 벽)
+box(1.1, 0.35, 2.0, M('#6e5643'), -2.0, 0.17, -0.9); const blanket = box(1.12, 0.14, 1.5, M('#8fb3e0', 0.95), -2.0, 0.42, -0.6);
+const pillow = box(0.7, 0.14, 0.38, M('#f5f5f0', 0.95), -2.0, 0.44, -1.65); pillow.rotation.x = 0.1;
+// 책상 + 모니터(화면에 글자)
+box(1.0, 0.05, 0.55, M('#d9c8a8'), -1.55, 0.74, -1.85); for (const [x, z] of [[-2.0, -2.08], [-1.1, -2.08], [-2.0, -1.62], [-1.1, -1.62]]) box(0.04, 0.72, 0.04, M('#8a7a62'), x, 0.36, z);
+const scrT = tex(512, 300, (g) => { g.fillStyle = '#1f2b44'; g.fillRect(0, 0, 512, 300); g.fillStyle = '#ffd34d'; g.font = `900 46px ${KR}`; g.fillText('야식 추천', 30, 70); g.fillStyle = '#fff'; g.font = `700 32px ${KR}`; g.fillText('1위 라면', 30, 130); g.fillText('2위 라면', 30, 180); g.fillText('3위 라면', 30, 230); });
+box(0.62, 0.38, 0.04, M('#222'), -1.55, 1.05, -2.02); const scr = new THREE.Mesh(new THREE.PlaneGeometry(0.58, 0.34), new THREE.MeshBasicMaterial({ map: scrT })); scr.position.set(-1.55, 1.05, -1.995); scene.add(scr);
+box(0.06, 0.16, 0.06, M('#222'), -1.55, 0.83, -2.02);
+const scrLight = new THREE.PointLight(0x7fa8ff, 0.6, 2); scrLight.position.set(-1.55, 1.05, -1.7); scene.add(scrLight);
+// 선반 + 책 + 라면 박스
+box(0.9, 0.04, 0.25, M('#c9b48f'), 1.95, 1.3, -2.08); for (let i = 0; i < 7; i++) box(0.07, 0.24 + (i % 3) * 0.04, 0.18, M(['#c0392b', '#2e86de', '#f1c40f', '#27ae60', '#8e44ad', '#e67e22', '#34495e'][i]), 1.6 + i * 0.09, 1.44 + (i % 3) * 0.02, -2.08);
+const ramenBoxT = tex(256, 160, (g) => { g.fillStyle = '#e8352b'; g.fillRect(0, 0, 256, 160); g.fillStyle = '#fff'; g.font = `900 46px ${KR}`; g.textAlign = 'center'; g.fillText('보통라면', 128, 70); g.font = `700 26px ${KR}`; g.fillText('5개입', 128, 120); });
+for (const [x, y, ry] of [[2.0, 0.17, 0.1], [2.05, 0.5, -0.12], [1.55, 0.17, 0.3]]) { const b = box(0.5, 0.32, 0.32, [M('#e8352b'), M('#e8352b'), M('#e8352b'), M('#e8352b'), new THREE.MeshStandardMaterial({ map: ramenBoxT }), M('#e8352b')], x, y, -1.7); b.rotation.y = ry; }
+// 냉장고 + 전기레인지 + 주전자
+box(0.55, 0.85, 0.55, M('#eef0f2', 0.4), 2.25, 0.43, -0.6); box(0.03, 0.25, 0.03, M('#aaa', 0.3), 1.96, 0.62, -0.42);
+box(0.5, 0.06, 0.4, M('#222', 0.3), 2.25, 0.88, -0.6); const kettle = cyl(0.08, 0.1, 0.18, M('#c0c6cc', 0.25, { metalness: 0.6 }), 2.25, 1.0, -0.6);
+// 빨래 건조대, 휴지통, 화분, 슬리퍼, 포스터, 스탠드
+for (const x of [-0.2, 0.4]) box(0.03, 1.1, 0.03, M('#ccc', 0.4), x, 0.55, -1.8); box(0.65, 0.03, 0.03, M('#ccc'), 0.1, 1.08, -1.8);
+box(0.3, 0.45, 0.02, M('#f7d3e0', 0.95), -0.05, 0.8, -1.79); box(0.25, 0.4, 0.02, M('#fff', 0.95), 0.25, 0.83, -1.79);
+cyl(0.12, 0.1, 0.3, M('#3a3f47'), -0.3, 0.15, -1.3); cyl(0.1, 0.08, 0.18, M('#c47a4a'), 2.4, 1.41, -2.05); const plant = new THREE.Mesh(new THREE.IcosahedronGeometry(0.16, 1), M('#3f9d4b', 0.8, { flatShading: true })); plant.position.set(2.4, 1.62, -2.05); scene.add(plant);
+for (const x of [0.5, 0.68]) box(0.12, 0.04, 0.26, M('#ff8fb0'), x, 0.02, 1.0);
+const posterT = tex(300, 420, (g) => { g.fillStyle = '#ffcf33'; g.fillRect(0, 0, 300, 420); g.fillStyle = '#e8352b'; g.font = `900 70px ${KR}`; g.textAlign = 'center'; g.fillText('오늘도', 150, 150); g.fillText('수고', 150, 240); g.fillStyle = '#2A1D17'; g.font = `700 32px ${KR}`; g.fillText('했다 나', 150, 320); });
+const poster = new THREE.Mesh(new THREE.PlaneGeometry(0.5, 0.7), new THREE.MeshStandardMaterial({ map: posterT })); poster.rotation.y = Math.PI / 2; poster.position.set(-2.58, 1.75, 0.2); scene.add(poster);
+const lamp = cyl(0.02, 0.02, 0.5, M('#333'), -1.25, 1.02, -1.85); const shade = cyl(0.08, 0.15, 0.16, M('#ffe2a8', 0.9, { emissive: 0xffb84d, emissiveIntensity: 0.6 }), -1.25, 1.3, -1.85);
+// 러그 + 좌식 테이블 + 방석
+const rug = new THREE.Mesh(new THREE.CircleGeometry(1.05, 48), M('#5d79a8', 1)); rug.rotation.x = -Math.PI / 2; rug.position.set(0.15, 0.006, 0.15); rug.receiveShadow = true; scene.add(rug);
+box(0.95, 0.05, 0.6, M('#e3c393', 0.55), 0.15, 0.36, -0.15); for (const [x, z] of [[-0.25, -0.38], [0.55, -0.38], [-0.25, 0.08], [0.55, 0.08]]) box(0.05, 0.34, 0.05, M('#b8956a'), x, 0.17, z);
+cyl(0.32, 0.32, 0.08, M('#e85d75', 0.95), 0.12, 0.04, -0.74);
+// 테이블 위: 김치 접시, 젓가락, 리모컨, 컵
+cyl(0.1, 0.08, 0.03, M('#fff', 0.3), 0.45, 0.4, -0.25); cyl(0.08, 0.07, 0.03, M('#d9412b', 0.7), 0.45, 0.42, -0.25);
+box(0.22, 0.012, 0.012, M('#c9a24a', 0.3, { metalness: 0.5 }), -0.05, 0.395, 0.0).rotation.y = 0.3;
+box(0.05, 0.02, 0.16, M('#222'), 0.5, 0.395, 0.0); cyl(0.045, 0.04, 0.11, M('#ffffff', 0.2), 0.52, 0.44, 0.05);
+
+// ── 영웅 소품: 라면 봉지(실제의 2배) + 영양표 카운터 ──
+const pack = new THREE.Group(); scene.add(pack); pack.position.set(-0.08, 0.41, -0.22); pack.rotation.set(-Math.PI / 2 + 0.02, 0, 0.35);
+const packT = tex(512, 640, (g, w, h) => { g.fillStyle = '#e8352b'; g.fillRect(0, 0, w, h); g.fillStyle = '#b8231c'; g.fillRect(0, h * 0.58, w, h * 0.42);
+  g.fillStyle = '#fff'; g.font = `900 92px ${KR}`; g.textAlign = 'center'; g.fillText('보통라면', w / 2, 140);
+  g.fillStyle = '#ffd34d'; g.beginPath(); g.ellipse(w / 2, 280, 150, 80, 0, 0, 7); g.fill(); g.fillStyle = '#e8352b'; g.font = `900 52px ${KR}`; g.fillText('매운맛', w / 2, 298); });
+const packMesh = new THREE.Mesh(new THREE.BoxGeometry(0.42, 0.52, 0.05), [M('#e8352b'), M('#e8352b'), M('#e8352b'), M('#e8352b'), new THREE.MeshStandardMaterial({ map: packT, roughness: 0.35 }), M('#e8352b')]);
+packMesh.castShadow = true; pack.add(packMesh);
+// 영양표 패널(숫자는 롤업)
+const labC = document.createElement('canvas'); labC.width = 512; labC.height = 300; const labT = new THREE.CanvasTexture(labC); labT.colorSpace = THREE.SRGBColorSpace;
+function drawLabel(n, hi) { const g = labC.getContext('2d'); g.fillStyle = '#fff'; g.fillRect(0, 0, 512, 300); g.strokeStyle = '#111'; g.lineWidth = 8; g.strokeRect(6, 6, 500, 288);
+  g.fillStyle = '#111'; g.font = `900 40px ${KR}`; g.textAlign = 'left'; g.fillText('영양정보', 24, 56); g.fillRect(20, 72, 472, 6);
+  g.font = `700 30px ${KR}`; g.fillText('총 내용량 120g', 24, 116); g.fillRect(20, 132, 472, 3);
+  g.fillStyle = hi ? '#e8352b' : '#111'; g.font = `900 46px ${KR}`; g.fillText('나트륨', 24, 205); g.textAlign = 'right'; g.font = `900 64px ${KR}`; g.fillText(Math.round(n).toLocaleString() + 'mg', 492, 210);
+  g.fillStyle = '#111'; g.font = `700 28px ${KR}`; g.fillText('1일 기준치의 ' + Math.round(n / 2000 * 100) + '%', 492, 268); labT.needsUpdate = true; }
+drawLabel(0, false);
+const labMesh = new THREE.Mesh(new THREE.PlaneGeometry(0.34, 0.2), new THREE.MeshStandardMaterial({ map: labT, roughness: 0.5 })); labMesh.position.set(0, -0.13, 0.026); pack.add(labMesh);
+pack.scale.setScalar(1.0);
+
+// ── 냄비(손에 든 영웅 소품) ──
+const pot = new THREE.Group();
+const potBody = new THREE.Mesh(new THREE.CylinderGeometry(0.2, 0.18, 0.16, 36, 1, true), M('#d9a441', 0.35, { metalness: 0.7, side: THREE.DoubleSide })); potBody.castShadow = true; pot.add(potBody);
+const potBot = new THREE.Mesh(new THREE.CircleGeometry(0.18, 36), M('#c48f2d', 0.4, { metalness: 0.7 })); potBot.rotation.x = Math.PI / 2; potBot.position.y = -0.08; pot.add(potBot);
+const soup = new THREE.Mesh(new THREE.CircleGeometry(0.19, 36), M('#d2461f', 0.25, { emissive: 0x4a1000, emissiveIntensity: 0.4 })); soup.rotation.x = -Math.PI / 2; soup.position.y = 0.0; pot.add(soup);
+for (const s of [-1, 1]) { const h = new THREE.Mesh(new THREE.TorusGeometry(0.05, 0.015, 8, 16, Math.PI), M('#c48f2d', 0.4, { metalness: 0.7 })); h.position.set(s * 0.22, 0.06, 0); h.rotation.set(Math.PI / 2, 0, s > 0 ? -Math.PI / 2 : Math.PI / 2); pot.add(h); }
+
+// ── 이 남자: 방석에 앉아 냄비째 들이켬 ──
+const man = makeMan({ card: '박보통' }); scene.add(man.root); man.root.position.set(0.12, 0.08, -0.74); man.root.rotation.y = 0.12; man.root.scale.setScalar(0.55);
+man.R.torso.add(pot); pot.scale.setScalar(1.8);
+
+// ── 조명: 따뜻한 키, 차가운 필, 따뜻한 림 ──
+scene.add(new THREE.HemisphereLight(0x9fb4ff, 0x4a3426, 0.55));
+const key = new THREE.SpotLight(0xffc98a, 30, 9, 0.75, 0.6); key.position.set(1.6, 3.2, 2.6); key.target.position.set(0.1, 0.6, 0); key.castShadow = true; key.shadow.mapSize.set(1024, 1024); key.shadow.normalBias = 0.02; scene.add(key, key.target);
+const fill = new THREE.DirectionalLight(0x8fb2ff, 0.7); fill.position.set(-3, 2, 2); scene.add(fill);
+const rim = new THREE.DirectionalLight(0xffb36b, 2.4); rim.position.set(-1, 2.5, -3); scene.add(rim);
+const lampL = new THREE.PointLight(0xffb84d, 1.4, 3); lampL.position.set(-1.25, 1.3, -1.7); scene.add(lampL);
+
+// ── 공통 ──
+const cap = document.getElementById('cap'), src = document.getElementById('src');
+const ease = (x) => x <= 0 ? 0 : x >= 1 ? 1 : 1 - Math.pow(1 - x, 3);
+const easeIO = (x) => x <= 0 ? 0 : x >= 1 ? 1 : x * x * (3 - 2 * x);
+const v3 = (a, b, c) => new THREE.Vector3(a, b, c);
+const F = { slurp: face('slurp'), neutral: face('neutral'), stunned: face('stunned'), shock: face('shock'), thirsty: face('thirsty'), panic: face('panic') };
+// ───────── 몸속·다른 장소 세트 (같은 세계의 멀리 떨어진 자리) ─────────
+import { makeBrain, makeKidney } from './chars.js';
+function sign(text, w, h, bg, fg, fs, x, y, z, ry = 0, p = scene, glow = false) {
+  const t = tex(Math.round(w * 600), Math.round(h * 600), (g, W_, H_) => { g.fillStyle = bg; g.fillRect(0, 0, W_, H_); g.fillStyle = fg; g.font = `900 ${fs}px ${KR}`; g.textAlign = 'center'; g.textBaseline = 'middle';
+    const ls = text.split('\n'); ls.forEach((l, i) => g.fillText(l, W_ / 2, H_ / 2 + (i - (ls.length - 1) / 2) * fs * 1.15)); });
+  const m = glow ? new THREE.MeshBasicMaterial({ map: t }) : new THREE.MeshStandardMaterial({ map: t, roughness: 0.6 });
+  const o = new THREE.Mesh(new THREE.PlaneGeometry(w, h), m); o.position.set(x, y, z); o.rotation.y = ry; p.add(o); return o;
+}
+function dynSign(w, h, x, y, z, ry, p, draw) { const c = document.createElement('canvas'); c.width = Math.round(w * 600); c.height = Math.round(h * 600); const t = new THREE.CanvasTexture(c); t.colorSpace = THREE.SRGBColorSpace;
+  const o = new THREE.Mesh(new THREE.PlaneGeometry(w, h), new THREE.MeshBasicMaterial({ map: t })); o.position.set(x, y, z); o.rotation.y = ry; p.add(o);
+  let last = null; return (v) => { const k = JSON.stringify(v); if (k === last) return; last = k; draw(c.getContext('2d'), c.width, c.height, v); t.needsUpdate = true; }; }
+
+// ① 뇌 관제실 (x=30)
+const BR = new THREE.Group(); BR.position.set(30, 0, 0); scene.add(BR);
+{ const fl = new THREE.Mesh(new THREE.PlaneGeometry(8, 8), M('#26304a', 0.7)); fl.rotation.x = -Math.PI / 2; fl.receiveShadow = true; BR.add(fl);
+  const wall = new THREE.Mesh(new THREE.PlaneGeometry(8, 4), M('#344062', 0.9)); wall.position.set(0, 2, -2.2); BR.add(wall);
+  for (let i = -3; i <= 3; i++) box(0.05, 4, 0.05, M('#4a5a85'), i * 1.1, 2, -2.15, BR);
+  box(3.4, 0.75, 0.9, M('#5b6a8f', 0.5), 0, 0.38, -0.7, BR); box(3.4, 0.08, 1.0, M('#2b3350', 0.4), 0, 0.78, -0.7, BR);
+  for (let i = 0; i < 14; i++) { const b = cyl(0.05, 0.05, 0.04, M(['#ff5a4e', '#ffd34d', '#5ad17a', '#55b3ff'][i % 4], 0.3, { emissive: ['#ff5a4e', '#ffd34d', '#5ad17a', '#55b3ff'][i % 4], emissiveIntensity: 0.5 }), -1.5 + (i % 7) * 0.22, 0.83, -0.95 + Math.floor(i / 7) * 0.18, BR); }
+  for (const x of [-1.45, 1.45]) { box(0.06, 0.3, 0.06, M('#999', 0.3), x, 0.95, -0.75, BR); cyl(0.07, 0.07, 0.07, M('#e33'), x, 1.12, -0.75, BR); }
+  for (const [x, z] of [[-3.3, -1.6], [3.3, -1.6]]) { box(0.7, 2.0, 0.6, M('#1d2438', 0.5), x, 1.0, z, BR); for (let k = 0; k < 8; k++) box(0.5, 0.03, 0.02, M('#5ad17a', 0.3, { emissive: '#5ad17a', emissiveIntensity: 1 }), x, 0.4 + k * 0.2, z + 0.31, BR); }
+  cyl(0.25, 0.25, 0.08, M('#333'), 1.0, 0.5, 0.4, BR); box(0.5, 0.06, 0.5, M('#444'), 1.0, 0.55, 0.4, BR);
+  cyl(0.05, 0.045, 0.1, M('#fff', 0.3), -1.2, 0.87, -0.5, BR); box(0.2, 0.01, 0.28, M('#f2efe6'), 0.8, 0.83, -0.45, BR);
+  sign('안전 제일\n뇌 관제실', 0.9, 0.55, '#ffd34d', '#2A1D17', 70, 2.6, 2.8, -2.18, 0, BR);
+}
+const BRAIN = makeBrain(); BR.add(BRAIN.root); BRAIN.root.position.set(-0.2, 0, 0.1); BRAIN.root.scale.setScalar(0.9);
+const monNa = dynSign(1.4, 0.8, -1.05, 2.0, -2.17, 0, BR, (g, w, h, v) => { g.fillStyle = '#0d1424'; g.fillRect(0, 0, w, h); g.fillStyle = '#9fb4d9'; g.font = `900 70px ${KR}`; g.textAlign = 'center'; g.fillText('혈중 나트륨', w / 2, 100);
+  g.fillStyle = '#26324f'; g.fillRect(60, 170, w - 120, 90); g.fillStyle = v.lvl > 0.7 ? '#ff4b3e' : '#ffd34d'; g.fillRect(60, 170, (w - 120) * v.lvl, 90);
+  g.fillStyle = v.lvl > 0.7 ? '#ff4b3e' : '#fff'; g.font = `900 120px ${KR}`; g.fillText(v.lvl > 0.7 ? '짜다!' : '보통', w / 2, 420); });
+const monCmd = dynSign(1.4, 0.8, 1.05, 2.0, -2.17, 0, BR, (g, w, h, v) => { g.fillStyle = '#0d1424'; g.fillRect(0, 0, w, h); g.textAlign = 'center'; g.font = `900 64px ${KR}`;
+  g.fillStyle = v.a ? '#55b3ff' : '#3a4566'; g.fillText('① 물 마셔!', w / 2, 170); g.fillStyle = v.b ? '#ff8a3d' : '#3a4566'; g.fillText('② 콩팥: 물 잠가!', w / 2, 330); });
+const beacon = cyl(0.14, 0.18, 0.22, M('#ff2a2a', 0.3, { emissive: '#ff2a2a', emissiveIntensity: 0 }), 0, 3.6, -2.0, BR);
+const alarmL = new THREE.PointLight(0xff3020, 0, 9); alarmL.position.set(0, 3.2, -1.2); BR.add(alarmL);
+const brKey = new THREE.SpotLight(0xffd2a0, 22, 10, 0.8, 0.6); brKey.position.set(1.5, 4, 3); brKey.target.position.set(0, 0.8, 0); BR.add(brKey, brKey.target); brKey.target.updateMatrixWorld();
+
+// ② 콩팥 공장 (x=60)
+const KF = new THREE.Group(); KF.position.set(60, 0, 0); scene.add(KF);
+const valveWheel = new THREE.Group();
+{ const fl = new THREE.Mesh(new THREE.PlaneGeometry(10, 8), M('#8c8a84', 0.95)); fl.rotation.x = -Math.PI / 2; fl.receiveShadow = true; KF.add(fl);
+  const wall = new THREE.Mesh(new THREE.PlaneGeometry(10, 4.5), M('#6d5a52', 0.95)); wall.position.set(0, 2.2, -2.4); KF.add(wall);
+  for (let i = 0; i < 10; i++) box(0.35, 0.12, 0.02, M(i % 2 ? '#1d1d1d' : '#ffc928', 0.6), -3.5 + i * 0.35, 0.06, -2.38, KF);
+  const pipeM = M('#b8743c', 0.35, { metalness: 0.6 });
+  const p1 = cyl(0.18, 0.18, 6, pipeM, 0, 1.6, -1.9, KF); p1.rotation.z = Math.PI / 2; const p2 = cyl(0.18, 0.18, 2.4, pipeM, 2.2, 1.6 - 1.2, -1.9, KF);
+  const p3 = cyl(0.12, 0.12, 3, pipeM, -2.6, 2.6, -2.1, KF);
+  KF.add(valveWheel); valveWheel.position.set(0, 1.6, -1.6);
+  const rim = new THREE.Mesh(new THREE.TorusGeometry(0.42, 0.05, 10, 32), M('#d23c2c', 0.4)); valveWheel.add(rim);
+  for (let k = 0; k < 4; k++) { const sp = box(0.82, 0.05, 0.05, M('#d23c2c', 0.4), 0, 0, 0, valveWheel); sp.rotation.z = k * Math.PI / 4; }
+  sign('배출 밸브', 1.0, 0.32, '#fff', '#d23c2c', 120, 0, 2.35, -2.37, 0, KF);
+  for (let i = 0; i < 6; i++) { const bag = box(0.38, 0.24, 0.28, M('#f2f0ea', 0.95), -3.2 + (i % 3) * 0.42, 0.12 + Math.floor(i / 3) * 0.25, 0.8, KF); }
+  sign('소금', 0.3, 0.12, '#f2f0ea', '#2A1D17', 70, -2.78, 0.62, 0.95, 0, KF);
+  box(2.6, 0.12, 0.6, M('#333', 0.6), 1.6, 0.55, 0.6, KF); for (let i = 0; i < 6; i++) cyl(0.06, 0.06, 0.6, M('#777', 0.3), 0.4 + i * 0.48, 0.55, 0.6, KF).rotation.x = Math.PI / 2;
+  for (const x of [3.6, 4.1]) cyl(0.25, 0.25, 0.7, M('#2f6fd6', 0.5), x, 0.35, -1.4, KF);
+  const lampK = cyl(0.25, 0.1, 0.2, M('#ffd34d', 0.4, { emissive: '#ffb84d', emissiveIntensity: 0.8 }), -1.5, 3.4, -0.5, KF);
+  sign('콩팥 공장\n24시간 가동', 1.2, 0.6, '#2b2f36', '#ffd34d', 70, -3.0, 3.0, -2.37, 0, KF);
+}
+const kfClock = dynSign(0.7, 0.3, 2.9, 3.1, -2.37, 0, KF, (g, w, h, v) => { g.fillStyle = '#111'; g.fillRect(0, 0, w, h); g.fillStyle = '#ff4b3e'; g.font = `900 140px ${KR}`; g.textAlign = 'center'; g.textBaseline = 'middle'; g.fillText(v, w / 2, h / 2 + 6); });
+const kfBoard = dynSign(1.6, 0.6, 2.2, 2.2, -2.37, 0, KF, (g, w, h, v) => { g.fillStyle = '#16202e'; g.fillRect(0, 0, w, h); g.fillStyle = '#9fb4d9'; g.font = `900 70px ${KR}`; g.textAlign = 'left'; g.fillText('남은 소금', 40, 110);
+  g.fillStyle = '#fff'; g.font = `900 150px ${KR}`; g.textAlign = 'right'; g.fillText(Math.round(v).toLocaleString() + 'mg', w - 40, 300); });
+const KID = makeKidney(); KF.add(KID.root); KID.root.position.set(-0.75, 0, -0.9); KID.root.scale.setScalar(1.0);
+const shovel = new THREE.Group(); { const h = cyl(0.025, 0.025, 1.0, M('#8a5a32'), 0, 0, 0, shovel); const bl = box(0.26, 0.02, 0.3, M('#9aa0a6', 0.3, { metalness: 0.6 }), 0, -0.52, 0.06, shovel); }
+const kfKey = new THREE.SpotLight(0xffc98a, 26, 12, 0.8, 0.6); kfKey.position.set(2, 4.5, 3); kfKey.target.position.set(0, 0.8, -0.8); KF.add(kfKey, kfKey.target);
+
+// ③ 혈액 비커 (x=90)
+const BL = new THREE.Group(); BL.position.set(90, 0, 0); scene.add(BL);
+let bloodLiquid, saltCubes = [], waterStream;
+{ const fl = new THREE.Mesh(new THREE.PlaneGeometry(8, 8), M('#3c2230', 0.9)); fl.rotation.x = -Math.PI / 2; BL.add(fl);
+  const wall = new THREE.Mesh(new THREE.PlaneGeometry(8, 4), M('#5a2a3a', 0.9)); wall.position.set(0, 2, -2); BL.add(wall);
+  box(3, 0.1, 1.2, M('#e8e2d6', 0.6), 0, 0.85, -0.4, BL); for (const [x, z] of [[-1.4, -0.9], [1.4, -0.9], [-1.4, 0.1], [1.4, 0.1]]) box(0.08, 0.85, 0.08, M('#bbb'), x, 0.42, z, BL);
+  const glass = new THREE.Mesh(new THREE.CylinderGeometry(0.42, 0.42, 1.0, 40, 1, true), new THREE.MeshPhysicalMaterial({ color: 0xffffff, transparent: true, opacity: 0.22, roughness: 0.05, side: THREE.DoubleSide }));
+  glass.position.set(0, 1.4, -0.4); BL.add(glass);
+  bloodLiquid = new THREE.Mesh(new THREE.CylinderGeometry(0.4, 0.4, 1, 40), M('#c0182a', 0.25, { emissive: '#3a0008', emissiveIntensity: 0.5, transparent: true, opacity: 0.92 })); BL.add(bloodLiquid);
+  for (let i = 0; i < 14; i++) { const c = box(0.07, 0.07, 0.07, M('#ffffff', 0.4, { emissive: '#ffffff', emissiveIntensity: 0.15 }), (Math.random() - 0.5) * 0.5, 1.2 + Math.random() * 0.3, -0.4 + (Math.random() - 0.5) * 0.5, BL); c.userData.p = c.position.clone(); saltCubes.push(c); }
+  waterStream = cyl(0.04, 0.04, 1, M('#6fc3ff', 0.1, { emissive: '#2a7fd0', emissiveIntensity: 0.6, transparent: true, opacity: 0.85 }), 0.2, 2.4, -0.4, BL);
+  const jug = cyl(0.18, 0.14, 0.35, M('#6fc3ff', 0.1, { transparent: true, opacity: 0.6 }), 0.45, 3.0, -0.4, BL); jug.rotation.z = 1.9;
+  for (let i = 0; i < 5; i++) cyl(0.04, 0.04, 0.3, M(['#e74c3c', '#3498db', '#2ecc71', '#f1c40f', '#9b59b6'][i], 0.2, { transparent: true, opacity: 0.8 }), -1.2 + i * 0.12, 1.05, -0.8, BL);
+  sign('혈액', 0.5, 0.2, '#fff', '#c0182a', 90, 0, 1.45, 0.03, 0, BL);
+}
+const blGauge = dynSign(1.3, 0.7, 1.9, 2.3, -1.98, 0, BL, (g, w, h, v) => { g.fillStyle = '#fff'; g.fillRect(0, 0, w, h); g.fillStyle = '#2A1D17'; g.font = `900 64px ${KR}`; g.textAlign = 'center'; g.fillText('피 농도', w / 2, 80);
+  const cx = w / 2, cy = h - 40, R = 250; g.lineWidth = 40; const seg = [['#5ad17a', Math.PI, Math.PI * 1.5], ['#ff4b3e', Math.PI * 1.5, Math.PI * 2]]; for (const [c, a0, a1] of seg) { g.strokeStyle = c; g.beginPath(); g.arc(cx, cy, R, a0, a1); g.stroke(); }
+  g.fillStyle = '#2A1D17'; g.font = `900 44px ${KR}`; g.fillText('적당', cx - 170, cy - 40); g.fillText('짜다', cx + 170, cy - 40);
+  const a = Math.PI + Math.PI * v; g.strokeStyle = '#2A1D17'; g.lineWidth = 16; g.beginPath(); g.moveTo(cx, cy); g.lineTo(cx + Math.cos(a) * (R - 40), cy + Math.sin(a) * (R - 40)); g.stroke(); });
+const blKey = new THREE.SpotLight(0xffd2a0, 22, 10, 0.8, 0.6); blKey.position.set(1.5, 4, 3); blKey.target.position.set(0, 1.2, -0.4); BL.add(blKey, blKey.target);
+
+// ④ 욕실 거울 (x=120)
+const BA = new THREE.Group(); BA.position.set(120, 0, 0); scene.add(BA);
+{ const tileT = tex(512, 512, (g) => { g.fillStyle = '#dfeef0'; g.fillRect(0, 0, 512, 512); g.strokeStyle = '#b9cfd2'; g.lineWidth = 4; for (let i = 0; i <= 512; i += 64) { g.beginPath(); g.moveTo(i, 0); g.lineTo(i, 512); g.moveTo(0, i); g.lineTo(512, i); g.stroke(); } });
+  tileT.wrapS = tileT.wrapT = THREE.RepeatWrapping; tileT.repeat.set(4, 2);
+  const wall = new THREE.Mesh(new THREE.PlaneGeometry(6, 3.5), new THREE.MeshStandardMaterial({ map: tileT, roughness: 0.4 })); wall.position.set(0, 1.75, -1.6); BA.add(wall);
+  const fl = new THREE.Mesh(new THREE.PlaneGeometry(6, 6), M('#c9d6d8', 0.6)); fl.rotation.x = -Math.PI / 2; BA.add(fl);
+  for (const [x, c] of [[-0.9, '#ff8fb0'], [-0.75, '#5ad17a'], [0.85, '#ffd34d']]) cyl(0.05, 0.05, 0.2, M(c, 0.4), x, 1.12, -1.4, BA);
+  box(2.4, 0.06, 0.4, M('#fff', 0.3), 0, 1.0, -1.4, BA); const towel = box(0.45, 0.6, 0.04, M('#ff8a65', 0.95), 1.6, 1.2, -1.55, BA);
+  cyl(0.04, 0.035, 0.12, M('#7fc8ff', 0.3), 0.6, 1.09, -1.35, BA); box(0.15, 0.01, 0.02, M('#ff5a4e'), 0.6, 1.2, -1.35, BA);
+  const win = new THREE.Mesh(new THREE.PlaneGeometry(0.8, 0.6), new THREE.MeshBasicMaterial({ color: 0xfff1c4 })); win.position.set(-1.8, 2.2, -1.58); BA.add(win);
+  sign('오늘도 출근', 0.6, 0.25, '#fff', '#2A1D17', 70, 1.9, 2.4, -1.58, 0, BA);
+}
+const baClock = dynSign(0.5, 0.22, -1.7, 1.45, -1.58, 0, BA, (g, w, h, v) => { g.fillStyle = '#111'; g.fillRect(0, 0, w, h); g.fillStyle = '#5ad17a'; g.font = `900 100px ${KR}`; g.textAlign = 'center'; g.textBaseline = 'middle'; g.fillText(v, w / 2, h / 2 + 4); });
+const mirrorFrame = new THREE.Mesh(new THREE.TorusGeometry(0.62, 0.05, 12, 48), M('#d9c08a', 0.3, { metalness: 0.6 })); mirrorFrame.scale.set(0.8, 1.05, 1); BA.add(mirrorFrame);
+const baKey = new THREE.SpotLight(0xfff0d0, 26, 9, 0.8, 0.6); baKey.position.set(-1.5, 3, 2.5); baKey.target.position.set(0, 1.3, 0); BA.add(baKey, baKey.target);
+
+// ⑤ 면발 단면 스튜디오 (x=150)
+const NM = new THREE.Group(); NM.position.set(150, 0, 0); scene.add(NM);
+{ const bg = new THREE.Mesh(new THREE.PlaneGeometry(10, 6), M('#2a2234', 0.9)); bg.position.set(0, 2, -2.5); NM.add(bg);
+  const fl = new THREE.Mesh(new THREE.PlaneGeometry(10, 8), M('#3a3046', 0.9)); fl.rotation.x = -Math.PI / 2; NM.add(fl);
+  const curve = new THREE.CatmullRomCurve3([new THREE.Vector3(-3, 0.6, -1.5), new THREE.Vector3(-1.5, 1.6, -1), new THREE.Vector3(-0.3, 1.0, -0.3), new THREE.Vector3(0.6, 1.4, 0.2)]);
+  const noodle = new THREE.Mesh(new THREE.TubeGeometry(curve, 80, 0.32, 24), M('#f2c45a', 0.45)); noodle.castShadow = true; NM.add(noodle);
+  const capT = tex(512, 512, (g) => { g.fillStyle = '#f7d27a'; g.beginPath(); g.arc(256, 256, 250, 0, 7); g.fill(); for (let i = 0; i < 90; i++) { const a = Math.random() * 7, r = Math.random() * 230; g.fillStyle = 'rgba(255,255,255,.95)'; g.fillRect(256 + Math.cos(a) * r, 256 + Math.sin(a) * r, 14, 14); } });
+  const cap = new THREE.Mesh(new THREE.CircleGeometry(0.32, 40), new THREE.MeshStandardMaterial({ map: capT, roughness: 0.6 }));
+  const tan = curve.getTangent(1); cap.position.copy(curve.getPoint(1)); cap.lookAt(cap.position.clone().add(tan)); NM.add(cap);
+  for (let i = 0; i < 12; i++) box(0.06, 0.06, 0.06, M('#fff', 0.3, { emissive: '#ffffff', emissiveIntensity: 0.3 }), 0.6 + Math.random() * 0.8, 1.0 + Math.random() * 0.9, 0.3 + Math.random() * 0.5, NM);
+}
+const nmGauge = dynSign(1.2, 1.0, 1.9, 2.0, -0.9, -0.35, NM, (g, w, h, v) => { g.fillStyle = '#fff'; g.fillRect(0, 0, w, h); g.fillStyle = '#2A1D17'; g.textAlign = 'center'; g.font = `900 60px ${KR}`; g.fillText('라면 나트륨 중', w / 2, 80);
+  g.fillText('면에 배어 있는 양', w / 2, 150); const cx = w / 2, cy = 420, R = 170; g.lineWidth = 60; g.strokeStyle = '#eee'; g.beginPath(); g.arc(cx, cy, R, 0, 7); g.stroke();
+  g.strokeStyle = '#ff4b3e'; g.beginPath(); g.arc(cx, cy, R, -Math.PI / 2, -Math.PI / 2 + Math.PI * 2 * v); g.stroke(); g.fillStyle = '#ff4b3e'; g.font = `900 110px ${KR}`; g.fillText(Math.round(v * 100) + '%', cx, cy + 38); });
+const nmKey = new THREE.SpotLight(0xffd2a0, 30, 12, 0.7, 0.6); nmKey.position.set(2, 4, 4); nmKey.target.position.set(0, 1.1, 0); NM.add(nmKey, nmKey.target);
+const nmRim = new THREE.DirectionalLight(0xff9a5a, 2); nmRim.position.set(-3, 3, -3); NM.add(nmRim);
+
+// 물병(방)
+const bottle = new THREE.Group(); cyl(0.07, 0.07, 0.3, M('#9fd8ff', 0.1, { transparent: true, opacity: 0.7 }), 0, 0, 0, bottle); cyl(0.035, 0.035, 0.06, M('#2f6fd6'), 0, 0.18, 0, bottle);
+// 볼 부기(아침)
+const puffs = []; for (const s of [-1, 1]) { const p = new THREE.Mesh(new THREE.SphereGeometry(0.2, 20, 14), M('#f6dcc6', 0.75)); p.position.set(s * 0.36, -0.22, 0.38); p.visible = false; man.head.add(p); puffs.push(p); }
+
+// ───────── 대본 타이밍(목소리 무음 구간에서 뽑은 구절 시작·끝) ─────────
+const SEG = [[0, 0.63, '밤 열한 시.'], [0.94, 3.61, '이 남자는 라면 국물을 마지막 한 방울까지 마십니다.'], [3.89, 4.85, '이 봉지 하나에'], [4.96, 6.46, '나트륨 1,790밀리그램.'],
+  [6.77, 7.47, '하루 권장량'], [7.61, 8.08, '2,000의'], [8.28, 8.86, '90%.'], [9.19, 9.58, '10분 뒤,'], [9.89, 10.74, '갑자기 목이 탑니다.'], [11.02, 11.72, '이유는 이겁니다.'],
+  [12.02, 12.7, '피가 짜지면,'], [12.95, 14.03, '뇌가 경보를 울립니다.'], [14.32, 15.28, '물을 더 마시게 하고,'], [15.42, 17.64, '콩팥에는 물을 내보내지 말라고 명령하죠.'],
+  [17.96, 18.91, '짠 피를 묽히려고,'], [19.15, 20.22, '물을 붙잡아 두는 겁니다.'], [20.52, 21.63, '그렇게 붙잡힌 물 때문에,'], [21.94, 23.48, '다음 날 아침 얼굴이 이렇게 됩니다.'],
+  [23.8, 26.57, '콩팥은 남은 소금을 다 내보낼 때까지 일합니다.'], [26.86, 28.45, '그럼 국물만 남기면 될까요?'], [28.76, 29.42, '한 연구에서,'], [29.55, 30.89, '라면 나트륨의 절반은'],
+  [31.1, 32.37, '이미 면에 배어 있었습니다.'], [32.67, 33.77, '국물을 다 남겨도,'], [33.94, 34.77, '줄어드는 건 절반.'], [35.08, 36.08, '그래도 절반이 어디예요.'], [36.4, 37.15, '오늘은 남기세요.']];
+const CAPS = []; // 두 단어씩, 글자 수 비례로 시간 배분
+for (const [a, b, txt] of SEG) { const ws = txt.split(' '); const chunks = []; for (let i = 0; i < ws.length; i += 2) chunks.push(ws.slice(i, i + 2).join(' '));
+  const tot = chunks.reduce((s, c) => s + c.length, 0); let t = a; for (const c of chunks) { CAPS.push([t, c]); t += (b - a) * c.length / tot; } CAPS.push([b + 0.01, '']); }
+
+// ───────── 샷 ─────────
+const SH = [ // [시작, 끝, 함수, 출처 줄]
+  [0, 3.75, sRoomDrink, ''], [3.75, 8.95, sLabel, '※ 농심 신라면 120g 영양정보 · WHO 성인 나트륨 권고 2,000mg 미만'], [8.95, 10.95, sThirst, ''],
+  [10.95, 14.2, sBrain, ''], [14.2, 15.4, sBrainCmd, ''], [15.4, 17.9, sValve, ''], [17.9, 20.4, sBlood, ''], [20.4, 23.65, sMirror, ''],
+  [23.65, 26.7, sNight, ''], [26.7, 28.6, sPush, ''], [28.6, 32.55, sNoodle, '※ 대한지역사회영양학회지(2014): 라면 1개 나트륨 중 국물 약 49%, 면 약 51%'], [32.55, 38.4, sEnd, '']];
+const DUR = 38.4;
+function roomBase() { pot.visible = true; bottle.visible = false; puffs.forEach(p => p.visible = false); man.head.scale.set(1, 1, 1); man.root.position.set(0.12, 0.08, -0.74); man.root.rotation.y = 0.12; }
+const sitLegs = { legL: [-1.45, 1.55], legR: [-1.45, 1.55], bob: -0.3 };
+function blinkAt(t) { return (t % 3.1) > 3.0 ? 1 : 0; }
+function sRoomDrink(t, T) { roomBase(); const tilt = Math.min(1, T / 0.6), gulp = Math.sin(T * 9) * 0.03;
+  man.pose({ ...sitLegs, lean: 0.05 - 0.12 * tilt, headT: -0.45 * tilt + gulp, armL: [-1.1 - 0.3 * tilt, 0, -0.42, -0.9], armR: [-1.1 - 0.3 * tilt, 0, -0.42, -0.9] });
+  pot.position.set(0, 0.93 + 0.1 * tilt, 0.74 - 0.06 * tilt); pot.rotation.set(-0.95 * tilt - gulp, 0, 0); man.setFace(morph(F.neutral, F.slurp, T / 0.35), blinkAt(t));
+  const k = easeIO(T / 3.75); cam.position.lerpVectors(v3(-1.1, 1.75, 2.6), v3(-0.45, 1.25, 1.45), k); cam.lookAt(0.1, 0.72 + 0.12 * k, -0.55); }
+function sLabel(t, T) { roomBase(); pot.visible = false; man.pose({ ...sitLegs, armL: [0, 0, 0.1, -0.2], armR: [0, 0, 0.1, -0.2] }); man.setFace(F.stunned);
+  const roll = (t - 5.15) / 0.95; drawLabel(1790 * ease(roll), roll > 0); const k = easeIO(T / 5.2); const lp = new THREE.Vector3(); labMesh.getWorldPosition(lp);
+  const orb = 0.25 - 0.35 * k; cam.position.set(lp.x + Math.sin(orb) * (0.85 - 0.2 * k), lp.y + 0.95 - 0.25 * k, lp.z + Math.cos(orb) * (0.85 - 0.2 * k) * 0.7); cam.lookAt(lp.x, lp.y, lp.z); }
+function sThirst(t, T) { roomBase(); pot.visible = false; bottle.visible = true; man.R.torso.add(bottle);
+  const g = Math.min(1, Math.max(0, (T - 0.85) / 0.3)); // '갑자기'에 물병을 든다
+  man.pose({ ...sitLegs, lean: -0.05, headT: -0.35 * g, armL: [-0.3, 0, 0.6, -2.2], armR: [-0.5 - 1.1 * g, 0, -0.3, -1.0 * g] });
+  bottle.position.set(-0.32 + 0.2 * g, 0.75 + 0.55 * g, 0.55 + 0.15 * g); bottle.rotation.set(-1.9 * g, 0, 0.3);
+  man.setFace(morph(F.stunned, F.thirsty, (T - 0.6) / 0.3), blinkAt(t));
+  drawDclock('23:10');
+  const k = easeIO(T / 2.0); cam.position.lerpVectors(v3(0.9, 1.15, 1.25), v3(0.55, 1.05, 0.55), k); cam.lookAt(0.12, 0.95, -0.7); }
+function sBrain(t, T) { const a = (t > 12.02) ? 1 : 0; const lvl = Math.min(1, 0.35 + Math.max(0, (t - 12.0) / 0.7) * 0.6);
+  monNa({ lvl }); monCmd({ a: 0, b: 0 }); const fl = a ? (Math.sin(t * 14) > 0 ? 1 : 0.2) : 0; beacon.material.emissiveIntensity = 3 * fl; alarmL.intensity = 18 * fl;
+  BRAIN.pose({ armL: [0, 0, 0.3, -0.3], armR: [0, 0, 0.3, -0.3], lean: 0.05 * Math.sin(t * 3), headT: a ? -0.1 : 0 });
+  BRAIN.setFace(a ? morph(F.neutral, F.panic, (t - 12.95) / 0.3) : face('bored'), blinkAt(t));
+  const k = easeIO(T / 3.25); cam.position.lerpVectors(v3(30.6, 1.7, 4.6), v3(30.1, 1.35, 3.5), k); cam.lookAt(29.8, 0.8 + 0.15 * (1 - k), -0.2); }
+function sBrainCmd(t, T) { monNa({ lvl: 0.95 }); monCmd({ a: 1, b: t > 15.3 ? 1 : 0 }); const fl = Math.sin(t * 14) > 0 ? 1 : 0.2; beacon.material.emissiveIntensity = 3 * fl; alarmL.intensity = 18 * fl;
+  const press = Math.max(0, Math.sin(Math.min(1, T / 0.35) * Math.PI));
+  BRAIN.pose({ armR: [-1.3 - 0.4 * press, 0, -0.3, -0.4], armL: [0, 0, 0.4, -0.3], lean: 0.25 * press }); BRAIN.setFace(face('determined'), 0);
+  const k = easeIO(T / 1.2); cam.position.lerpVectors(v3(29.2, 1.35, 3.2), v3(29.35, 1.3, 2.8), k); cam.lookAt(29.8, 0.8, 0); }
+function sValve(t, T) { const turn = Math.max(0, Math.min(1, (t - 16.4) / 1.0)); valveWheel.rotation.z = -turn * Math.PI * 1.5; kfClock('03:00'); kfBoard(1790);
+  KID.root.add(shovel); shovel.visible = false; KID.root.position.set(-0.55, 0, -1.1);
+  KID.pose({ armL: [-1.7 - 0.3 * Math.sin(turn * 9), 0, -0.4, -0.5], armR: [-1.6 + 0.3 * Math.sin(turn * 9), 0, -0.4, -0.5], lean: -0.1 }); KID.setFace(turn > 0 ? face('determined') : face('skeptical'), blinkAt(t));
+  const k = easeIO(T / 2.5); cam.position.lerpVectors(v3(60 + 1.8, 1.2, 1.9), v3(60 + 0.9, 1.5, 1.2), k); cam.lookAt(60 - 0.2, 1.4, -1.4); }
+function sBlood(t, T) { const w = Math.min(1, T / 2.0); bloodLiquid.scale.set(1, 0.55 + 0.4 * w, 1); bloodLiquid.position.set(0, 0.9 + (0.55 + 0.4 * w) / 2, -0.4);
+  waterStream.scale.set(1, 1.2, 1); waterStream.position.set(0.2, 1.4 + 0.95 + 0.6 - 0.1, -0.4); waterStream.visible = T < 2.2;
+  saltCubes.forEach((c, i) => { c.position.y = 0.95 + (0.55 + 0.4 * w) * (0.3 + 0.6 * ((i * 37) % 10) / 10) + Math.sin(t * 2 + i) * 0.02; c.rotation.set(t + i, t * 0.7 + i, 0); });
+  blGauge(0.95 - 0.55 * w);
+  const k = easeIO(T / 2.5); cam.position.lerpVectors(v3(89.6, 2.3, 4.6), v3(89.85, 2.1, 3.9), k); cam.lookAt(90.55, 1.85, -0.8); }
+function sMirror(t, T) { pot.visible = false; bottle.visible = false; man.root.position.set(120, 0.08, 0.1); man.root.rotation.y = 0; man.root.scale.setScalar(0.55);
+  const p = Math.min(1, Math.max(0, (t - 22.6) / 0.25)); puffs.forEach(x => { x.visible = true; x.scale.setScalar(0.4 + 0.6 * p); }); man.head.scale.set(1 + 0.12 * p, 1, 1 + 0.06 * p);
+  man.pose({ armL: [0, 0, 0.08, -0.15], armR: [-0.4 * p, 0, -0.2, -2.0 * p], legL: [0, 0], legR: [0, 0] });
+  man.setFace(p > 0.5 ? face('defeated', { eye: 0.35 }) : face('bored'), blinkAt(t)); baClock('07:30');
+  // 거울 너머에서 보는 구도: 거울 테두리가 앞에 걸림
+  const k = easeIO(T / 3.25); const z = 2.0 - 0.6 * k; cam.position.set(120 + 0.05, 1.18, z); cam.lookAt(120, 1.12, 0); mirrorFrame.visible = false; }
+function sNight(t, T) { KID.root.position.set(-0.4, 0, 0.4); KID.root.rotation.y = 0.5; KID.R.armR.hand.add(shovel); shovel.visible = true; shovel.position.set(0, -0.1, 0); shovel.rotation.set(1.3, 0, 0);
+  const sc = Math.sin(T * 6); KID.pose({ armR: [-0.9 + 0.5 * sc, 0, -0.3, -0.6], armL: [-0.9 + 0.5 * sc, 0, 0.3, -0.6], lean: 0.25 + 0.1 * sc }); KID.setFace(face('determined', { sweat: 1 }), blinkAt(t));
+  kfClock(T < 1.5 ? '03:00' : '05:00'); kfBoard(1790 - 1790 * 0.85 * easeIO(T / 3.0)); valveWheel.rotation.z = -Math.PI * 1.5;
+  const k = easeIO(T / 3.05); cam.position.lerpVectors(v3(60.9, 1.7, 3.8), v3(60.6, 1.45, 3.0), k); cam.lookAt(59.75, 1.0, 0.2); }
+function sPush(t, T) { roomBase(); pot.visible = true; const g = Math.min(1, T / 0.6);
+  man.pose({ ...sitLegs, armL: [-0.6, 0, -0.3, -0.6], armR: [-0.6, 0, -0.3, -0.6], lean: 0.1 }); pot.position.set(0, 0.45, 0.85 + 0.25 * g); pot.rotation.set(0, 0, 0);
+  man.setFace(face('skeptical'), blinkAt(t)); const k = easeIO(T / 1.9); cam.position.lerpVectors(v3(0.9, 1.0, 1.0), v3(0.6, 0.95, 0.6), k); cam.lookAt(0.12, 0.75, -0.6); }
+function sNoodle(t, T) { const v = 0.51 * ease((t - 29.55) / 1.2); nmGauge(Math.max(0, v));
+  const k = easeIO(T / 3.95); const a = 0.22 - 0.17 * k; const d = 5.0 - 0.5 * k; cam.position.set(151.0 + Math.sin(a) * d, 1.8, -0.35 + Math.cos(a) * d); cam.lookAt(151.0, 1.7, -0.35); }
+function sEnd(t, T) { roomBase(); pot.visible = true; soup.position.y = -0.03; const g = Math.min(1, Math.max(0, (t - 36.4) / 0.4));
+  man.pose({ ...sitLegs, armL: [-0.5, 0, -0.3, -0.7], armR: [-0.5 - 0.6 * g, 0, -0.3, -0.7], lean: -0.05 }); pot.position.set(0, 0.45, 1.1);
+  man.setFace(t < 35 ? face('defeated') : morph(F.neutral, face('relieved'), (t - 35.1) / 0.3), blinkAt(t));
+  const k = easeIO(Math.min(1, T / 4.8)); cam.position.lerpVectors(v3(-0.6, 1.3, 1.6), v3(-0.25, 1.1, 0.95), k); cam.lookAt(0.12, 0.85, -0.65); }
+function drawDclock(s) { const g = dT.userData.canvas.getContext('2d'); g.fillStyle = '#111'; g.fillRect(0, 0, 256, 96); g.fillStyle = '#ff4b3e'; g.font = `900 64px ${KR}`; g.textAlign = 'center'; g.textBaseline = 'middle'; g.fillText(s, 128, 50); dT.needsUpdate = true; }
+
+window.renderFrame = (t) => {
+  fin.uniforms.t.value = t; drawDclock(t < 8.95 ? '23:00' : '23:10');
+  const i = SH.findIndex(s => t >= s[0] && t < s[1]); const cur = SH[Math.max(0, i === -1 ? SH.length - 1 : i)];
+  const D = 6 / 30, prev = SH[SH.indexOf(cur) - 1];
+  if (prev && t < cur[0] + D) { prev[2](t, t - prev[0]); fin.uniforms.mixA.value = 0; r.setRenderTarget(rtA); r.render(scene, cam); r.setRenderTarget(null);
+    cur[2](t, t - cur[0]); fin.uniforms.mixT.value = rtA.texture; fin.uniforms.mixA.value = 1 - (t - cur[0]) / D; comp.render(); fin.uniforms.mixA.value = 0; }
+  else { cur[2](t, t - cur[0]); comp.render(); }
+  const c = [...CAPS].reverse().find(x => t >= x[0]); cap.textContent = c ? c[1] : ''; src.textContent = cur[3];
+};
+document.fonts.ready.then(() => { window.ready = true; });
+
+</script></body></html>

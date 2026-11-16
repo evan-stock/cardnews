@@ -1,0 +1,22 @@
+{
+ "id": "20261028-life6",
+ "yt_id": "VUBEXrkgkl8",
+ "counted_at": "2026-10-29T19:28:30.351695+09:00",
+ "rule": "top_liked_comment",
+ "total_comments": 1,
+ "valid_votes": 0,
+ "count_by_option": {
+  "1": 0,
+  "2": 0,
+  "3": 0
+ },
+ "support": {
+  "1": 0,
+  "2": 0,
+  "3": 0
+ },
+ "tie": false,
+ "top": [],
+ "skipped": [],
+ "winner": null
+}

@@ -1,0 +1,30 @@
+{
+ "id": "20261108-t13d",
+ "finished_at": "2026-11-08T13:28:17+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/QWPoikppMU0",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-t13d/video/y1.mp4",
+   "audio": "media/20261108-t13d/video/y1_audio.m4a",
+   "mb": 2.9,
+   "view_count": 144543,
+   "title": "This Husky SPEAKS English!😳 #shorts #husky #dog"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/GoDdgnIYsCk",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-t13d/video/y2.mp4",
+   "audio": "media/20261108-t13d/video/y2_audio.m4a",
+   "mb": 5.1,
+   "view_count": 4446652,
+   "title": "Husky Dad Howls, Tiny Puppy Answers #funnypuppy #dogs"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+[debug] Command-line config: ['-q', '--no-playlist', '--extractor-args', 'youtube:player_client=web_embedded,tv_simply,mweb', '-v', '-f', 'bv*[height<=1080]+ba/b', '--merge-output-format', 'mp4', '-o', 'media/20261115-brkyt/video/v1.%(ext)s', 'https://www.youtube.com/watch?v=G8c48YnCpro']
+[debug] Encodings: locale UTF-8, fs utf-8, pref UTF-8, out utf-8 (No ANSI), error utf-8 (No ANSI), screen utf-8 (No ANSI)
+[debug] yt-dlp version stable@2026.10.26 from yt-dlp/yt-dlp [c91f8de0b] (pip)
+[debug] Python 3.12.3 (CPython x86_64 64bit) - Linux-7.0.0-1017-azure-x86_64-with-glibc2.39 (OpenSSL 3.0.13 30 Jan 2024, glibc 2.39)
+[debug] exe versions: ffmpeg 6.1.1 (setts), ffprobe 6.1.1
+[debug] Optional libraries: Cryptodome-3.24.2, brotli-1.2.1, certifi-2026.10.23, curl_cffi-0.17.0, mutagen-1.48.1, requests-2.34.2, sqlite3-3.45.1, urllib3-2.0.7, websockets-17.4, yt_dlp_ejs-0.8.0
+[debug] JS runtimes: deno-2.9.8
+[debug] Proxy map: {}
+[debug] Request Handlers: urllib, requests, websockets, curl_cffi
+[debug] Plugin directories: none
+[debug] Loaded 1747 extractors
+[debug] [youtube] [pot] PO Token Providers: none
+[debug] [youtube] [pot] PO Token Cache Providers: memory
+[debug] [youtube] [pot] PO Token Cache Spec Providers: webpo
+[debug] [youtube] [jsc] JS Challenge Providers: bun (unavailable), deno, node (unavailable), quickjs (unavailable)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=G8c48YnCpro
+[youtube] G8c48YnCpro: Downloading webpage
+[youtube] G8c48YnCpro: Downloading web embedded client config
+[debug] [youtube] Forcing "main" player JS variant for player fad7e4e9
+        original url = /s/player/fad7e4e9/player_es6.vflset/en_US/base.js
+[debug] [youtube] G8c48YnCpro: Detected experiment to bind GVS PO Token to video ID for web_embedded client
+[youtube] G8c48YnCpro: Downloading player fad7e4e9-main
+[youtube] G8c48YnCpro: Downloading web embedded player API JSON
+[debug] [youtube] G8c48YnCpro: web_embedded player response playability status: LOGIN_REQUIRED
+[youtube] G8c48YnCpro: Downloading tv simply player API JSON
+[debug] [youtube] G8c48YnCpro: tv_simply player response playability status: UNPLAYABLE
+[youtube] G8c48YnCpro: Downloading mweb client config
+[debug] [youtube] G8c48YnCpro: Detected experiment to bind GVS PO Token to video ID for mweb client
+[youtube] G8c48YnCpro: Downloading mweb player API JSON
+[debug] [youtube] G8c48YnCpro: mweb player response playability status: LOGIN_REQUIRED
+ERROR: [youtube] G8c48YnCpro: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/extractor/common.py", line 764, in extract
+    ie_result = self._real_extract(url)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/extractor/youtube/_video.py", line 4083, in _real_extract
+    self.raise_no_formats(reason, expected=True)
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/extractor/common.py", line 1271, in raise_no_formats
+    raise ExtractorError(msg, expected=expected, video_id=video_id)
+
+실패: https://www.youtube.com/watch?v=G8c48YnCpro
+total 12
+drwxr-xr-x 2 runner runner 4096 Nov 15 01:04 .
+drwxr-xr-x 3 runner runner 4096 Nov 15 01:04 ..
+-rw-r--r-- 1 runner runner 3446 Nov 15 01:04 log.txt
