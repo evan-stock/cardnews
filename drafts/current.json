@@ -2,45 +2,111 @@
  {
   "id": "20261116-gaokao",
   "slot": "lunch",
-  "mode": "collect",
-  "limit": 40,
-  "image_pages": [
-   "https://www.chinadaily.com.cn/a/202505/29/WS6837af3ba310a04af22c21cb.html",
-   "https://www.globaltimes.cn/page/202606/1362931.shtml",
-   "https://www.globaltimes.cn/page/202606/1362677.shtml",
-   "https://www.globaltimes.cn/page/202505/1334940.shtml",
-   "http://en.people.cn/n3/2026/0604/c90000-20464046.html",
-   "http://www.china.org.cn/2026-06/04/content_118530619.shtml",
-   "http://www.ecns.cn/m/news/society/2025-05-28/detail-iherwsih6785978.shtml",
-   "https://www.newsgd.com/node_1299786306/a567ec1336.shtml",
-   "https://english.news.cn/20250607/3e7529a9cf4f4cb6b2d659d998589b0c/c.html",
-   "https://www.campussafetymagazine.com/news/chinese_schools_to_use_drones_to_find_students_cheating_on_exam/",
-   "https://www.newsweekpakistan.com/big-drone-is-watching/",
-   "https://www.kmib.co.kr/article/view.asp?arcid=0029912929&code=61131111&sid1=int",
-   "https://www.asiae.co.kr/en/article/2026060315404475208",
-   "https://m.news.nate.com/view/20260529n26135",
-   "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/05/china-to-inspect-eyeglasses-to-stop-students-cheating-at-gaokao-exam",
-   "https://www.scmp.com/news/china/politics/article/3265764/chinese-provinces-bring-ai-stop-cheating-gaokao-university-entrance-exams",
-   "https://www.etoday.co.kr/news/view/2648364",
-   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082363"
-  ]
- },
- {
-  "id": "20261116-mimiminu",
-  "slot": "lunch",
-  "mode": "collect",
-  "limit": 40,
-  "image_pages": [
-   "https://www.starnewskorea.com/star/2026/11/16/2026111607005176827",
-   "https://www.insight.co.kr/news/582155",
-   "https://feed.viewus.co.kr/ai/article/367343/",
-   "https://mhnse.com/news/articleView.html?idxno=1698159",
-   "https://www.mydaily.co.kr/page/view/2026111607240371063",
-   "https://www.fnnews.com/news/202611160800582767",
-   "https://www.sisajournal.com/news/articleView.html?idxno=394065",
-   "https://www.wikitree.co.kr/articles/1174866",
-   "https://www.segye.com/newsView/20261116502889",
-   "https://www.ytn.co.kr/_ln/0103_202611160801136890"
-  ]
+  "mode": "send",
+  "topic": "AI 안경만 잡아선 못 막는 이유: 세무사 수법·국내 적발·전파 차단 한계·중국 가오카오 대책(엑스 @itwillbe_sage 글 기반)",
+  "category": "국제·국내 사회",
+  "slides": [
+   {
+    "t": "중국은 AI·드론이 시험장 감시\n한국 수능은 '맨눈'",
+    "lay": "one"
+   },
+   {
+    "t": "x",
+    "raw": true
+   },
+   {
+    "t": "x",
+    "raw": true
+   },
+   {
+    "t": "x",
+    "raw": true
+   },
+   {
+    "t": "x",
+    "raw": true
+   },
+   {
+    "t": "x",
+    "raw": true
+   },
+   {
+    "t": "x",
+    "raw": true
+   },
+   {
+    "t": "x",
+    "raw": true
+   },
+   {
+    "t": "x",
+    "raw": true
+   },
+   {
+    "t": "1,290만 명은 기계로 막는데\n55만 명은 '눈'으로 막는다",
+    "b": "오늘 국회 현안보고 결과, 팔로우하면 이어서 올립니다"
+   }
+  ],
+  "images": [
+   "cover_ai",
+   "v2_02",
+   "v2_03",
+   "v2_04",
+   "v2_05",
+   "c02",
+   "v2_07",
+   "v2_08",
+   "c05",
+   "cta_bg"
+  ],
+  "sources": [
+   {
+    "publisher": "한국경제·아주경제·이투데이",
+    "date": "2026.11.15"
+   },
+   {
+    "publisher": "더팩트·세계일보(국내 적발 사례)",
+    "date": "2026"
+   },
+   {
+    "publisher": "노컷뉴스 팩트체크·서울신문",
+    "date": "2026 / 2004.11"
+   },
+   {
+    "publisher": "PTI·The Wire(인도 REET)",
+    "date": "2021.9"
+   },
+   {
+    "publisher": "Ecns·China Daily·Xinhua·인민망·Global Times",
+    "date": "2025~2026"
+   },
+   {
+    "publisher": "아시아경제(中 AI 문답 중단)",
+    "date": "2026.6"
+   },
+   {
+    "publisher": "신아일보(수능 대책)",
+    "date": "2026.11"
+   },
+   {
+    "publisher": "엑스 @itwillbe_sage",
+    "date": "2026.11.15"
+   }
+  ],
+  "photo_credits": [
+   "표지·6장: 양장TV(The Paper 경유) 가오카오 AI 감시 화면",
+   "2장: 유튜브 '이돈호 변호사' 영상 갈무리",
+   "7장: 2015 뤄양 전파탐지 드론(엑스 @itwillbe_sage 게시물 재인용)",
+   "8장: Global Times"
+  ],
+  "caption": "[수능 사흘 앞] AI 안경만 잡아서는 부정행위를 막을 수 없는 이유, 그리고 중국은 어떻게 막고 있나\n\n올해 세무사 시험 수석 합격자가 자백한 방법은 초소형 카메라로 문제를 찍어 AI에 보내고 스마트폰으로 답을 확인하는 방식이었습니다. 감독관 4명은 \"특이사항이 없었다\"고 했고, 같은 방식으로 공인회계사 1차 시험도 치렀다고 털어놨습니다. 엑스에서 100만 회 넘게 읽힌 글은 이 사건을 두고 부정행위의 핵심이 안경이 아니라 '찍는 카메라, 답을 내는 AI, 답을 받는 장치'의 조합이라고 짚었습니다.\n\n올해 국내에서만 토익, 소방설비기사·전기산업기사, 가스기능사, 연세대·서울시립대 논술, 중·고교 내신에서 스마트안경 부정행위가 잇따라 적발됐습니다. 전파를 끊자는 주장도 나오지만 전파는 사방으로 퍼져 시험장만 골라 끊기 어렵고, 현행 전파법상 안보 상황이 아니면 차단이 금지돼 있습니다. 2004년 수능 휴대전화 부정 사건 뒤에도 같은 논의가 있었지만 무산됐습니다. 인도는 2021년 교사 시험 날 인터넷까지 끊었지만 블루투스 장치를 숨긴 슬리퍼를 신은 응시자들이 체포됐습니다.\n\n중국 대입 시험 가오카오는 시험실 카메라를 AI가 실시간으로 분석해 두리번거림, 귓속말, 너무 빨리 답하기 같은 40가지 이상 행동을 0.5초 안에 감독관에게 알립니다. 입구엔 스마트 보안문, 시험장엔 전파 차단이 깔리고, 2015년엔 전파를 잡는 드론까지 띄웠습니다. 시험 시간에는 더우바오 등 주요 AI 앱이 문제 촬영·풀이 기능을 멈추고 \"시험 기간 문답 기능을 일시 중단한다\"는 안내를 띄웁니다.\n\n19일 수능을 치르는 한국은 시험장마다 스마트안경 전담요원 1명을 두고, 안경은 의심될 때 벗겨 확인합니다. 전파탐지기는 내년부터 보급을 검토하고, 올해는 감독관의 눈이 사실상 유일한 수단입니다. 사흘 남은 수능, 이 대책으로 충분하다고 보시나요?\n\n수능 보는 동생·자녀에게 공유해주세요! 팔로우하면 오늘 국회 현안보고 결과를 이어서 받아보실 수 있습니다.",
+  "hashtags": [
+   "수능",
+   "AI안경",
+   "부정행위",
+   "가오카오",
+   "세무사"
+  ],
+  "publish_at": "2026-11-16T09:57:40+09:00"
  }
 ]
