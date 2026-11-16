@@ -29,7 +29,9 @@ TW_EPOCH_MS = 1288834974657  # 게시물 번호 앞자리에 올린 시각이 �
 DEFAULTS = {
     "max_age_h": 12,          # 이보다 오래된 글은 '선점'이 아니므로 알리지 않는다
     "drop_age_h": 30,         # 이보다 오래되면 추적에서 뺀다
-    "min_views": 30000,       # 이 조회수 아래는 아직 판단하지 않는다
+    "min_views": 200000,      # 이 조회수 아래는 알리지 않는다(2026.11.16: 3만이던 때 잡글이 올라와 올림)
+    "min_likes": 1500,        # 이 좋아요 아래는 알리지 않는다
+    "big_views": 2000000,     # 이 조회수를 넘으면 주제가 안 맞아도 알림(초대형)
     "views_per_h": 100000,    # 지금 시간당 조회수 증가가 이 이상이면 알림
     "likes_per_h": 2000,      # 또는 시간당 좋아요 증가가 이 이상이면 알림
     "reach_ratio": 3.0,       # 또는 조회수가 팔로워 수의 몇 배 이상(작은 계정 글이 터지는 신호), 6시간 이내 글만
@@ -156,6 +158,15 @@ def judge(post, cfg, now):
     fol = post.get("followers") or 0
     calc["reach"] = cur["v"] / fol if fol >= 500 else None
 
+    calc["tags"] = topic_tags(post, cfg)
+    if any(w.lower() in (post.get("text") or "").lower() for w in cfg.get("exclude") or []):
+        return None, calc
+    if cfg.get("channels") and not calc["tags"]:
+        if cur["v"] < cfg["big_views"]:
+            return None, calc
+        calc["tags"] = ["초대형"]
+    if cur["l"] < cfg["min_likes"]:
+        return None, calc
     if cfg["langs"] and post.get("lang") not in cfg["langs"]:
         return None, calc
     if cfg["video_only"] and not post.get("video"):
@@ -171,6 +182,21 @@ def judge(post, cfg, now):
     if calc["reach"] and calc["reach"] >= cfg["reach_ratio"] and age_h <= 6:
         return "reach", calc
     return None, calc
+
+
+def topic_tags(post, cfg):
+    """글이 어느 채널 성격에 맞는지 낱말로 가려낸다(채널 이름 목록). 낱말 맞추기라 정확하진 않다."""
+    text = (post.get("text") or "").lower()
+    acc = (post.get("author") or "").lower()
+    out = []
+    for name, rule in (cfg.get("channels") or {}).items():
+        rule = rule or {}
+        hit = any(str(w).lower() in text for w in rule.get("words") or [])
+        hit = hit or acc in [str(a).lower().lstrip("@") for a in rule.get("accounts") or []]
+        hit = hit or (post.get("video") and post.get("lang") in (rule.get("video_langs") or []))
+        if hit:
+            out.append(name)
+    return out
 
 
 def man(n):
@@ -194,7 +220,7 @@ def alert_text(kind, tid, post, c):
     head = {"hot": "🚀 엑스 급상승", "reach": "🌱 작은 계정 글이 터지는 중", "more": "📈 계속 오르는 중"}[kind]
     kinds = "영상" if post.get("video") else "사진" if post.get("photo") else "글"
     lines = [
-        f"{head} · {kinds} · {age_str(c['age_h'])} 게시",
+        (f"[{'·'.join(c['tags'])}] " if c.get("tags") else "") + f"{head} · {kinds} · {age_str(c['age_h'])} 게시",
         f"@{post.get('author')} (팔로워 {man(post.get('followers') or 0)})",
         f"조회 {man(c['views'])} · 좋아요 {man(c['likes'])}",
         f"지금 속도: 시간당 조회 +{man(c['vph'])} · 좋아요 +{man(c['lph'])}"
@@ -236,6 +262,8 @@ def load_cfg(path):
     cfg.update(raw.get("rules") or {})
     cfg["accounts"] = [str(a).lstrip("@") for a in raw.get("accounts") or []]
     cfg["inbox"] = [str(u) for u in raw.get("inbox") or []]
+    cfg["channels"] = raw.get("channels") or {}
+    cfg["exclude"] = [str(w) for w in raw.get("exclude") or []]
     return cfg
 
 

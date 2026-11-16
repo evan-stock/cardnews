@@ -13,7 +13,7 @@ def tid_at(ts):
 
 
 def cfg(**kw):
-    c = dict(xr.DEFAULTS, accounts=[], inbox=[])
+    c = dict(xr.DEFAULTS, accounts=[], inbox=[], min_views=30000, min_likes=0)
     c.update(kw)
     return c
 
@@ -72,3 +72,18 @@ def test_timeline_parse_and_drop(tmp_path):
     xr.run(cfg(accounts=["w"]), tmp_path, lambda t: None, now=t0, discover=lambda a: xr.parse_timeline_html(html),
            meter=fake_meter({new: (10, 1)}), sleep=lambda s: None)
     assert list(json.loads((tmp_path / "track.json").read_text())) == [new]
+
+
+def test_floors_and_topic(tmp_path):
+    t0 = 1790000000.0
+    ids = [tid_at(t0 - 3600 - i) for i in range(4)]
+    texts = ["휴머노이드 로봇이 공중제비", "오늘 점심 뭐 먹지", "골반 썰 로봇", "로봇 소식"]
+    stats = [(400000, 5000), (400000, 5000), (400000, 5000), (400000, 300)]
+    def m(tid):
+        i = ids.index(tid)
+        return {"author": "a", "name": "A", "followers": 10**6, "text": texts[i], "lang": "ko", "views": stats[i][0],
+                "likes": stats[i][1], "rts": 0, "replies": 0, "video": False, "photo": True, "url": ""}
+    c = cfg(inbox=ids, channels={"오늘의쓸모": {"words": ["로봇"]}}, exclude=["골반"])
+    sent = []
+    xr.run(c, tmp_path, sent.append, now=t0, meter=m, sleep=lambda s: None)
+    assert len(sent) == 1 and ids[0] in sent[0] and sent[0].startswith("[오늘의쓸모]")
