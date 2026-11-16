@@ -38,7 +38,8 @@ jobs:
         run: |
           end=$((SECONDS + 19200))
           while [ $SECONDS -lt $end ]; do
-            git pull -q --depth 1 origin main || true
+            # 2026.11.16: 얕은 checkout 에서 git pull 이 조용히 실패해 설정 변경이 안 먹었음 → 두 파일만 최신으로 덮어쓴다
+            git fetch -q --depth 1 origin main && git checkout -q FETCH_HEAD -- scripts/x_radar.py drafts/x_radar.yaml || echo "설정 새로 받기 실패"
             python scripts/x_radar.py --config drafts/x_radar.yaml --state rs || true
             (cd rs && git add -A && { git commit -q --amend -m "x-radar" 2>/dev/null || git commit -qm "x-radar"; } \
               && git push -qf origin HEAD:refs/heads/radar-state) || true
