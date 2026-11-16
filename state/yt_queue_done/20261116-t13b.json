@@ -1,0 +1,40 @@
+{
+ "id": "20261116-t13b",
+ "finished_at": "2026-11-16T13:19:18+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/aZ9uPz7okvA",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261116-t13b/video/y1.mp4",
+   "mb": 4.3,
+   "view_count": 2183,
+   "title": "I Copied My Cat’s Angry Meow… He Had No Idea What to Do! 😂🐱 #Shorts"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/zpqn81_Y3tU",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261116-t13b/video/y2.mp4",
+   "mb": 3.7,
+   "view_count": 2840,
+   "title": "I told my dog she was FAT… 😭🐶She said, “OH, SO WE’RE DISRESPECTING EACH OTHER TODAY?!” #fyp #fypシ"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/mJ1NfRi5NKA",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261116-t13b/video/y3.mp4",
+   "mb": 42.2,
+   "error": "재시도 실패",
+   "view_count": 58900,
+   "title": "I Pretended to Drown in Front of My Golden Retriever 😱"
+  }
+ ]
+}
