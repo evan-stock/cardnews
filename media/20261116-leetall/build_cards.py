@@ -3,9 +3,9 @@ import json, subprocess, sys
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter
 D = Path(__file__).parent; R = D.parents[1]; O = D / "cand"; W, H = 1080, 1350
-src = Image.open(O / "src_shot.png").convert("RGB")
-head = src.crop((20, 712, 1186, 1075)); photo = src.crop((0, 1330, 1206, 2135))
-def vstack(parts, w=1166, bg=(255, 255, 255)):
+# 중앙일보 원문 화면 캡처(크롬, 2026.11.16 17:54) — 인스타 재게시본 워터마크 없음
+head = Image.open(O / "ja_head.png").convert("RGB").crop((0, 0, 1240, 505)); photo = Image.open(O / "ja_photo.png").convert("RGB")
+def vstack(parts, w=1240, bg=(255, 255, 255)):
     parts = [p.resize((w, round(p.height * w / p.width)), Image.LANCZOS) for p in parts]
     out = Image.new("RGB", (w, sum(p.height for p in parts)), bg); y = 0
     for p in parts: out.paste(p, (0, y)); y += p.height
@@ -29,7 +29,7 @@ def place(base, t, cx, cy, ang, wdt):
     sh = sh.filter(ImageFilter.GaussianBlur(14)); sh.alpha_composite(t, (30, 30)); sh = sh.rotate(ang, Image.BICUBIC, expand=True)
     base.alpha_composite(sh, (int(cx - sh.width / 2), int(cy - sh.height / 2)))
 place(cov, vstack([head]), 760, 250, -2, 600)
-place(cov, photo.crop((150, 0, 1056, 805)), 820, 640, 3, 420)
+place(cov, photo.crop((250, 0, 1100, 896)), 820, 660, 3, 420)
 person = Image.open(R / "media/20261115-nowyeosi/cand/person_cut2.png").convert("RGBA")
 ph = 1180; person = person.resize((round(person.width * ph / person.height), ph), Image.LANCZOS)
 cov.alpha_composite(person, (-170, H - ph))
