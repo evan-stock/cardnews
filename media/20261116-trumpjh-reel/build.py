@@ -6,13 +6,14 @@ from PIL import Image, ImageDraw, ImageFont
 D='media/20261116-trumpjh-reel'; V=f'{D}/video'; R=f'{D}/work'; os.makedirs(R,exist_ok=True)
 FB='assets/fonts/Pretendard-Black.otf'; FM='assets/fonts/Pretendard-Medium.otf'; FX='assets/fonts/Pretendard-ExtraBold.otf'
 Y=(255,216,77); BY0,BH=660,720
-TAG='젠슨 황 스캔들'; L=['사임한 젠슨 황','트럼프 "복귀,','나쁜 생각 아냐"']
+TAG='트럼프 순방 직전 발언'; L=['트럼프 "젠슨 복귀,','나쁘지 않아"','"김정은도 만날 수도"']
 def top():
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
     lg=Image.open('brand/logo_typo_A.png').convert('RGBA'); h=46; lg=lg.resize((int(lg.width*h/lg.height),h)); im.alpha_composite(lg,(70,238))
     f=ImageFont.truetype(FX,34); tw=d.textlength(TAG,font=f)
     d.rounded_rectangle((70,310,70+tw+36,362),radius=8,fill=Y); d.text((88,336),TAG,font=f,fill=(0,0,0),anchor='lm')
     f=ImageFont.truetype(FB,78)
+    for l in L: assert d.textlength(l,font=f)<=950,l
     for i,l in enumerate(L): d.text((70,433+i*88),l,font=f,fill=Y if i==len(L)-1 else (255,255,255),anchor='ls')
     im.save(f'{R}/top.png')
 def cap(i,small,b1,b2):
@@ -25,7 +26,8 @@ def cap(i,small,b1,b2):
     im.save(f'{R}/cap{i}.png')
 top()
 C4='1440:960:300:60'   # v4 정면 클로즈업(1920x1080)
-C3='1260:840:600:80'   # v3: 왼쪽 위 젠슨 황 작은 사진(작성자 편집) 잘라냄
+C3='1260:840:600:80'
+C2='1440:960:240:60'   # v2 순방 일정 발언   # v3: 왼쪽 위 젠슨 황 작은 사진(작성자 편집) 잘라냄
 S=[ # src, ss, dur, crop, [(t0,t1,small,b1,b2)]
  (f'{V}/v4.mp4',2.5,17.4,C4,[(0,1.9,"루비오 장관이 '스파이' 경고했다는 보도에",'"누가 그래?','누가 그랬는데?"'),
                              (1.9,4.0,"루비오 장관이 '스파이' 경고했다는 보도에",'"그런 얘기','못 들었어"'),
@@ -33,10 +35,12 @@ S=[ # src, ss, dur, crop, [(t0,t1,small,b1,b2)]
                              (6.2,10.7,'트럼프 대통령 · 16일 백악관','"보통 이 나라에 오는','중국 미녀는"'),
                              (10.7,14.6,'트럼프 대통령 · 16일 백악관','"다들 스파이라고','하더라고"'),
                              (14.6,17.4,'트럼프 대통령 · 16일 백악관','"스파이였는지는','난 전혀 모르겠어"')]),
- (f'{V}/v4.mp4',21.45,5.2,C4,[(0,5.2,'젠슨 황, 12일 불륜 보도 뒤 엔비디아 CEO 사임','"젠슨은 가정 문제가 있지,','힘든 상황이야"')]),
- (f'{V}/v3.mp4',1.6,3.3,C3,[(0,3.3,'젠슨 황 CEO 복귀론에','"복귀? 난','전혀 상관없어"')]),
+ (f'{V}/v3.mp4',1.6,3.3,C3,[(0,3.3,'12일 불륜 보도 뒤 CEO 사임한 젠슨 황 복귀론에','"복귀? 난','전혀 상관없어"')]),
  (f'{V}/v3.mp4',12.3,4.3,C3,[(0,4.3,'젠슨 황 복귀에 대해','"젠슨은 큰 교훈을','얻었을 거야"')]),
  (f'{V}/v4.mp4',54.3,5.6,C4,[(0,5.6,"일론 머스크도 '젠슨은 대체 불가' 글에 동의",'"젠슨이 돌아와야 한다는데,','나쁜 생각 아니야"')]),
+ (f'{V}/v2.mp4',15.8,11.95,C2,[(0,3.3,'같은 자리 · 18일 중국 APEC 앞두고 순방 출발','"그다음 중국에 가서','시진핑 주석과 만난다"'),
+                              (3.3,8.2,'같은 자리 · 18일 중국 APEC 앞두고 순방 출발','"푸틴 대통령과도','만날 거고"'),
+                              (8.2,11.95,'10월엔 김정은 회동에 "모르겠다"던 트럼프','"김정은도','만날 수도 있어"')]),
 ]
 segs=[]; ci=0
 for k,(src,ss,dur,crop,caps) in enumerate(S):
