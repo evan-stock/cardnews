@@ -38,8 +38,8 @@ DEFAULTS = {
     "realert_x": 3.0,         # 알린 뒤 조회수가 이 배수로 더 커지면 한 번 더 알림
     "langs": [],              # 비우면 모든 언어. 예: [ko, en, ja]
     "video_only": False,      # true 면 영상 있는 글만 알림
-    "max_track": 200,         # 한 번에 재는 글 수 상한
-    "per_account": 8,         # 계정마다 최근 글 몇 개까지 후보로
+    "max_track": 260,         # 한 번에 재는 글 수 상한
+    "per_account": 6,         # 계정마다 최근 글 몇 개까지 후보로
 }
 
 
@@ -293,7 +293,10 @@ def run(cfg, state_dir, send, now=None, discover=discover_account, meter=measure
         saved = [k for k in json.loads(sf.read_text()) if k in SOURCES]
         SOURCE_STATE["order"] = saved + [k for k in SOURCES if k not in saved]
     misses = 0
-    for acc in cfg["accounts"]:
+    # 계정이 많아져(2026.11.16) 한 번에 절반씩 번갈아 읽는다 → 계정마다 20분에 한 번
+    half = int(now // 600) % 2
+    turn = [a for i, a in enumerate(cfg["accounts"]) if len(cfg["accounts"]) <= 30 or i % 2 == half]
+    for acc in turn:
         if misses >= 8:
             log.append("계정 읽기 8번 연속 실패 → 이번 실행은 계정 읽기 건너뜀")
             break
@@ -311,8 +314,18 @@ def run(cfg, state_dir, send, now=None, discover=discover_account, meter=measure
     for tid in [t for t, p in track.items() if (now - p["created"]) / 3600 > cfg["drop_age_h"]]:
         del track[tid]
 
+    # 6시간 지났는데 조회 5천도 안 되는 글은 더 재지 않는다(자리 비우기)
+    for tid in [t for t, p in track.items() if p.get("snaps") and (now - p["created"]) / 3600 > 6 and p["snaps"][-1]["v"] < 5000]:
+        track[tid]["dead"] = True
+
+    def prio(t):
+        p = track[t]
+        if not p.get("snaps"):
+            return (0, -p["created"])          # 아직 한 번도 안 잰 새 글 먼저
+        return (1, -judge(p, cfg, now)[1]["vph"])  # 그다음 빠르게 오르는 글 순
+
     sent = 0
-    order = sorted(track, key=lambda t: -track[t]["created"])[: cfg["max_track"]]
+    order = sorted((t for t in track if not track[t].get("dead")), key=prio)[: cfg["max_track"]]
     for tid in order:
         p = track[tid]
         try:
@@ -338,7 +351,7 @@ def run(cfg, state_dir, send, now=None, discover=discover_account, meter=measure
                     p["alerted"], p["alerted_views"] = int(now), m["views"]
             except Exception as e:  # noqa: BLE001
                 log.append(f"알림 보내기 실패 {tid}: {e}")
-        sleep(1.0)
+        sleep(0.6)
 
     if discover is discover_account:
         sf.write_text(json.dumps(SOURCE_STATE["order"]))

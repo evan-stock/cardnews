@@ -31,6 +31,63 @@ accounts:
   - LucAuffret
   - clashreport
   - Absurd__World
+  # 2026.11.16 추가: 큐레이션 계정(남의 화제 글·영상을 모아 올리는 계정)과 속보 계정. 기존 목록은 그대로 둠.
+  # 신기한 영상·과학·자연
+  - gunsnrosesgirl3
+  - TansuYegen
+  - fasc1nate
+  - wonderofscience
+  - MAstronomers
+  - engineers_feed
+  - PhysInHistory
+  - historyinmemes
+  - TheFigen_
+  - Enezator
+  - HumansNoContext
+  - DudespostingWs
+  - FearedBuck
+  - crazyclipsonly
+  - buitengebieden
+  - Yoda4ever
+  - AMAZlNGNATURE
+  # 로봇·AI·우주·테크
+  - TheHumanoidHub
+  - CyberRobooo
+  - XRoboHub
+  - Figure_robot
+  - Tesla_Optimus
+  - BostonDynamics
+  - SawyerMerritt
+  - minchoi
+  - rowancheung
+  - testingcatalog
+  - latestinspace
+  - konstructivizm
+  - NASASpaceflight
+  # 해외 속보·사건 현장
+  - BNONews
+  - disclosetv
+  - spectatorindex
+  - nexta_tv
+  - visegrad24
+  - sentdefender
+  - CollinRugg
+  - PopBase
+  - PopCrave
+  - AutismCapital
+  - livedoornews
+  - YahooNewsTopics
+  # 국내 뉴스
+  - yonhaptweet
+  - JTBC_news
+  - SBS8news
+  - YTN24
+  - mbcnews
+  - hanitweet
+  - kyunghyang
+  - joongangilbo
+  - OhmyNews_Korea
+  - newstapa
 
 # 바로 추적할 게시물 주소. 채팅에서 엑스 검색으로 찾은 글이나 눈에 띈 글을 넣는다(30시간 지나면 자동으로 빠짐).
 inbox: []
