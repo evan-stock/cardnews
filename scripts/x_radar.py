@@ -80,9 +80,44 @@ def parse_timeline_html(html):
     return out
 
 
+# 계정의 최근 글을 읽을 수 있는 공개 경로들(로그인 없음). 위에서부터 시도하고, 된 경로를 기억해 다음엔 먼저 쓴다.
+SOURCES = {
+    "fx": "https://api.fxtwitter.com/2/profile/{name}/statuses",
+    "synd": "https://syndication.twitter.com/srv/timeline-profile/screen-name/{name}",
+    "nitter": "https://nitter.net/{name}/rss",
+    "xcancel": "https://xcancel.com/{name}/rss",
+    "poast": "https://nitter.poast.org/{name}/rss",
+    "privacyredirect": "https://nitter.privacyredirect.com/{name}/rss",
+    "tiekoetter": "https://nitter.tiekoetter.com/{name}/rss",
+}
+SOURCE_STATE = {"order": list(SOURCES), "errors": {}}
+
+
+def ids_from_body(body, name):
+    """RSS·JSON·HTML 어디서든 그 계정의 게시물 번호를 뽑는다."""
+    got = parse_timeline_html(body)
+    if got:
+        return got
+    ids = re.findall(r"/%s/status/(\d{15,20})" % re.escape(name), body, re.I)
+    if not ids and body.lstrip().startswith("{"):
+        ids = re.findall(r'"(?:id|id_str|rest_id)"\s*:\s*"(\d{17,20})"', body)
+    return [(i, name) for i in dict.fromkeys(ids)]
+
+
 def discover_account(name):
-    html = http_get(f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{name}")
-    return parse_timeline_html(html)
+    last = None
+    for key in list(SOURCE_STATE["order"]):
+        try:
+            found = ids_from_body(http_get(SOURCES[key].format(name=name), timeout=15), name)
+            if found:
+                SOURCE_STATE["order"].remove(key)
+                SOURCE_STATE["order"].insert(0, key)
+                return found
+            last = f"{key}: 글 없음"
+        except Exception as e:  # noqa: BLE001
+            last = f"{key}: {e}"
+        SOURCE_STATE["errors"][key] = last
+    raise RuntimeError("모든 경로 실패 — " + " / ".join(SOURCE_STATE["errors"].values())[:600])
 
 
 # ---------- 수치 재기 ----------
@@ -228,14 +263,24 @@ def run(cfg, state_dir, send, now=None, discover=discover_account, meter=measure
         tid = status_id(u)
         if tid:
             add(tid, "inbox")
+    sf = state_dir / "sources.json"
+    if discover is discover_account and sf.exists():
+        saved = [k for k in json.loads(sf.read_text()) if k in SOURCES]
+        SOURCE_STATE["order"] = saved + [k for k in SOURCES if k not in saved]
+    misses = 0
     for acc in cfg["accounts"]:
+        if misses >= 3:
+            log.append("계정 읽기 3번 연속 실패 → 이번 실행은 계정 읽기 건너뜀")
+            break
         try:
             found = discover(acc)
             for tid, _ in sorted(found, key=lambda x: -int(x[0]))[: cfg["per_account"]]:
                 add(tid, f"@{acc}")
             log.append(f"계정 @{acc}: 글 {len(found)}개")
+            misses = 0
         except Exception as e:  # noqa: BLE001 — 한 계정이 막혀도 나머지는 계속
             log.append(f"계정 @{acc} 읽기 실패: {e}")
+            misses += 1
         sleep(0.5)
 
     for tid in [t for t, p in track.items() if (now - p["created"]) / 3600 > cfg["drop_age_h"]]:
@@ -270,6 +315,8 @@ def run(cfg, state_dir, send, now=None, discover=discover_account, meter=measure
                 log.append(f"알림 보내기 실패 {tid}: {e}")
         sleep(0.3)
 
+    if discover is discover_account:
+        sf.write_text(json.dumps(SOURCE_STATE["order"]))
     tf.write_text(json.dumps(track, ensure_ascii=False, indent=0), encoding="utf-8")
     (state_dir / "board.md").write_text(board(track, cfg, now), encoding="utf-8")
     stamp = f"{dt.datetime.fromtimestamp(now, KST):%m-%d %H:%M}"
