@@ -1,0 +1,46 @@
+{
+ "id": "20261116-t13",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-16T13:37:53.520600+09:00",
+ "publish_at": "2026-11-16T13:37:53.520624+09:00",
+ "publish_now": true,
+ "topic": "한 원본(11.16 13:07, ★사람 행동형 1편째): 가족이 골든 앞에서 쓰러진 척 → 골든은 킁킁 한 번 맡고 아빠와 줄다리기 → 아빠가 구급상자를 가져와 골든에게 간호사 모자를 씌움 → 아빠가 심폐소생술 흉내를 내자 '간호사' 골든은 장난감 링을 물고 와 놀자고 함 → 아빠가 그 링으로 가슴을 누르자 링을 물어 감. 원본 YouTube 'Bella the Doggo' 본인 채널(yRhKO5HJp1A, 2026.11.01, 31.3초, 1080x1920, 자막·워터마크 없음). 원본 0~5.3·10.0~12.5·14.0~16.4·19.5~24.6·26.6~31.3초 시간순(13.5·15.5·19.5초는 원작자 컷). 서버 렌더(mode render) 실제 누적으로 구간 정리. bgm curious_kitten.",
+ "sources": [
+  {
+   "publisher": "YouTube Bella the Doggo - What Happens When You Pretend to Get Hurt in Front of Your Dog?",
+   "url": "https://www.youtube.com/shorts/yRhKO5HJp1A",
+   "date": "2026-11-01"
+  }
+ ],
+ "seconds": 19.679999999999996,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261116-t13/short.mp4"
+ ],
+ "app_file": "media/20261116-t13/short_nobgm.mp4",
+ "yt": {
+  "title": "골든리트리버 앞에서 쓰러진 척하면 일어나는 일ㅋㅋ #shorts",
+  "description": "가족이 쓰러졌는데, 골든이 고른 건 응급처치가 아니라… 🐶\n\n🎥 원본 영상: YouTube Bella the Doggo https://www.youtube.com/shorts/yRhKO5HJp1A\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#오늘의털뭉치 #골든리트리버 #골댕이 #강아지반응 #댕댕이 #동물쇼츠\n\n출처: YouTube Bella the Doggo - What Happens When You Pretend to Get Hurt in Front of Your Dog? 2026-11-01\n사진·영상: YouTube Bella the Doggo\n음성: Typecast\n\n#shorts #오늘의털뭉치 #골든리트리버 #골댕이 #강아지반응",
+  "tags": [
+   "오늘의털뭉치",
+   "골든리트리버",
+   "골댕이",
+   "강아지반응",
+   "댕댕이",
+   "강아지",
+   "동물쇼츠",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "a93869872a77",
+ "tg_video": 2745,
+ "tg_msg": 2746
+}
