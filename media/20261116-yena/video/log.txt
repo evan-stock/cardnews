@@ -1,0 +1,8 @@
+ERROR: [twitter] 2122125424646082624: No video could be found in this tweet
+영상 없는 글(사진만): https://x.com/yena_jang_/status/2122125424646082624
+실패: https://x.com/yena_jang_/status/2122125424646082624
+total 16
+drwxr-xr-x 2 runner runner 4096 Nov 16 01:23 .
+drwxr-xr-x 3 runner runner 4096 Nov 16 01:23 ..
+-rw-r--r-- 1 runner runner  218 Nov 16 01:23 log.txt
+-rw-r--r-- 1 runner runner  996 Nov 16 01:23 x1.json
