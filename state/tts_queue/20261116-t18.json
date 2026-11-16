@@ -1,0 +1,81 @@
+{
+ "id": "20261116-t18",
+ "created": "2026-11-16T18:24:37.208457+09:00",
+ "items": [
+  {
+   "key": "41b0089cce51",
+   "text": "머리에 뽀뽀를 했더니",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "눈 질끈 감았다가 대답하네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "da76181344f7",
+   "text": "눈 질끈 감았다가 대답하네요",
+   "ctx": {
+    "previous_text": "머리에 뽀뽀를 했더니",
+    "next_text": "또 하자 또 야옹"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "12935b79f58f",
+   "text": "또 하자 또 야옹",
+   "ctx": {
+    "previous_text": "눈 질끈 감았다가 대답하네요",
+    "next_text": "다섯 번째엔 윙크까지"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "ea6f72c78f6b",
+   "text": "다섯 번째엔 윙크까지",
+   "ctx": {
+    "previous_text": "또 하자 또 야옹",
+    "next_text": "여섯 번 다 꼬박꼬박 답장하네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "1d0febbca2a1",
+   "text": "여섯 번 다 꼬박꼬박 답장하네요",
+   "ctx": {
+    "previous_text": "다섯 번째엔 윙크까지",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
