@@ -83,7 +83,7 @@ def test_floors_and_topic(tmp_path):
         i = ids.index(tid)
         return {"author": "a", "name": "A", "followers": 10**6, "text": texts[i], "lang": "ko", "views": stats[i][0],
                 "likes": stats[i][1], "rts": 0, "replies": 0, "video": False, "photo": True, "url": ""}
-    c = cfg(inbox=ids, channels={"오늘의쓸모": {"words": ["로봇"]}}, exclude=["골반"])
+    c = cfg(inbox=ids, channels={"오늘의쓸모": {"words": ["로봇"]}}, exclude=["골반"], min_views=200000, min_likes=1500)
     sent = []
     xr.run(c, tmp_path, sent.append, now=t0, meter=m, sleep=lambda s: None)
     assert len(sent) == 1 and ids[0] in sent[0] and sent[0].startswith("[오늘의쓸모]")

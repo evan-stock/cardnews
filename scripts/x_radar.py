@@ -305,7 +305,7 @@ def run(cfg, state_dir, send, now=None, discover=discover_account, meter=measure
         except Exception as e:  # noqa: BLE001 — 한 계정이 막혀도 나머지는 계속
             log.append(f"계정 @{acc} 읽기 실패: {e}")
             misses += 1
-        sleep(0.5)
+        sleep(1.5)
 
     for tid in [t for t, p in track.items() if (now - p["created"]) / 3600 > cfg["drop_age_h"]]:
         del track[tid]
@@ -337,7 +337,7 @@ def run(cfg, state_dir, send, now=None, discover=discover_account, meter=measure
                     p["alerted"], p["alerted_views"] = int(now), m["views"]
             except Exception as e:  # noqa: BLE001
                 log.append(f"알림 보내기 실패 {tid}: {e}")
-        sleep(0.3)
+        sleep(1.0)
 
     if discover is discover_account:
         sf.write_text(json.dumps(SOURCE_STATE["order"]))
