@@ -1,21 +1,23 @@
 name: x-radar
-# 엑스 급상승 감지(오늘의쓸모 소재 선점). 10분마다 후보 글의 수치를 다시 재서 빠르게 오르는 글을 텔레그램으로 알린다.
-# 측정 기록은 main 을 어지럽히지 않게 radar-state 브랜치에 쌓는다(board.md = 지금 순위표).
+# 엑스 급상승 감지(오늘의쓸모 소재 선점). 10분마다 후보 글의 수치를 다시 재서 순위표를 만든다.
+# 측정 기록은 main 을 어지럽히지 않게 radar-state 브랜치에 쌓는다(board.md = 지금 순위표, 커밋은 늘 1개로 유지).
+# 2026.11.16 사용자 승인: 이 저장소는 깃허브 예약(cron)이 하루 몇 번밖에 안 돈다(15분 간격 워크플로도 몇 시간에 한 번).
+#   그래서 한 번 시작하면 약 5시간 20분 동안 10분 간격으로 스스로 반복하고, 끝날 때 다음 실행을 직접 부른다.
+#   cron 은 사슬이 끊겼을 때 다시 살리는 예비용. 설정(drafts/x_radar.yaml)·스크립트는 매 회 main 에서 새로 받아 쓴다.
+#   멈추려면: Actions 화면에서 x-radar 실행을 취소하고 워크플로를 '사용 중지'한다.
 on:
   schedule:
-    - cron: "*/10 * * * *"
-  push:
-    branches: [main]
-    paths: ["drafts/x_radar.yaml"]
+    - cron: "17 * * * *"
   workflow_dispatch:
 concurrency: {group: x-radar, cancel-in-progress: false}
-permissions: {contents: write}
+permissions: {contents: write, actions: write}
 jobs:
   radar:
     runs-on: ubuntu-24.04
-    timeout-minutes: 14
+    timeout-minutes: 345
     env:
       TZ: Asia/Seoul
+      GH_TOKEN: ${{ github.token }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
     steps:
@@ -28,9 +30,17 @@ jobs:
         run: |
           git fetch -q --depth 1 origin radar-state 2>/dev/null && git worktree add -q rs FETCH_HEAD \
             || { git worktree add -q --detach rs && (cd rs && git checkout -q --orphan radar-state && git rm -rqf . ); }
-      - run: python scripts/x_radar.py --config drafts/x_radar.yaml --state rs
-      - name: 측정 기록 저장
+          git -C rs config user.name "github-actions[bot]"; git -C rs config user.email "41898+github-actions[bot]@users.noreply.github.com"
+      - name: 10분 간격 반복
         run: |
-          cd rs
-          git config user.name "github-actions[bot]"; git config user.email "41898+github-actions[bot]@users.noreply.github.com"
-          git add -A --sparse && git commit -qm "x-radar" && git push -qf origin HEAD:refs/heads/radar-state
+          end=$((SECONDS + 19200))
+          while [ $SECONDS -lt $end ]; do
+            git pull -q --depth 1 origin main || true
+            python scripts/x_radar.py --config drafts/x_radar.yaml --state rs || true
+            (cd rs && git add -A --sparse && { git commit -q --amend -m "x-radar" 2>/dev/null || git commit -qm "x-radar"; } \
+              && git push -qf origin HEAD:refs/heads/radar-state) || true
+            sleep $((600 - $(date +%s) % 600))
+          done
+      - name: 다음 실행 부르기
+        if: success()
+        run: gh workflow run x-radar.yml --repo "$GITHUB_REPOSITORY" --ref main
