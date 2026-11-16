@@ -1,0 +1,14 @@
+{
+ "id": "20261116-scr",
+ "finished_at": "2026-11-16T21:21:10+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/iQEjB1bOdDs",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+  }
+ ]
+}
