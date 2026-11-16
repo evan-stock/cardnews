@@ -1,0 +1,126 @@
+{
+ "id": "20261116-t13",
+ "created": "2026-11-16T13:24:40.413847+09:00",
+ "items": [
+  {
+   "key": "b0cd37dacf39",
+   "text": "가족이 쓰러진 척을 했더니",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "골든은 아빠랑 줄다리기를 하네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "cc06682f3492",
+   "text": "골든은 아빠랑 줄다리기를 하네요",
+   "ctx": {
+    "previous_text": "가족이 쓰러진 척을 했더니",
+    "next_text": "아빠가 구급상자를 가져오더니"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "e0364ca7def0",
+   "text": "아빠가 구급상자를 가져오더니",
+   "ctx": {
+    "previous_text": "골든은 아빠랑 줄다리기를 하네요",
+    "next_text": "골든한테 간호사 모자를 씌워 주는데요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "149316e2f786",
+   "text": "골든한테 간호사 모자를 씌워 주는데요",
+   "ctx": {
+    "previous_text": "아빠가 구급상자를 가져오더니",
+    "next_text": "아빠가 심폐소생술을 시작하자"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "026e0b525722",
+   "text": "아빠가 심폐소생술을 시작하자",
+   "ctx": {
+    "previous_text": "골든한테 간호사 모자를 씌워 주는데요",
+    "next_text": "간호사는 장난감부터 물고 오네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "8206806044e2",
+   "text": "간호사는 장난감부터 물고 오네요",
+   "ctx": {
+    "previous_text": "아빠가 심폐소생술을 시작하자",
+    "next_text": "아빠가 그 링으로 가슴을 누르자"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "9062d75cf2e7",
+   "text": "아빠가 그 링으로 가슴을 누르자",
+   "ctx": {
+    "previous_text": "간호사는 장난감부터 물고 오네요",
+    "next_text": "그 링마저 물어 가려 하네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "89e8f8050b8a",
+   "text": "그 링마저 물어 가려 하네요",
+   "ctx": {
+    "previous_text": "아빠가 그 링으로 가슴을 누르자",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
