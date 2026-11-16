@@ -1,31 +1,28 @@
 [
  {
-  "id": "20261116-sage",
+  "id": "20261116-gaokao",
   "slot": "lunch",
   "mode": "collect",
-  "limit": 5,
-  "image_pages": [],
-  "image_urls": [
-   "https://pbs.twimg.com/media/HXI0Eglb0AAHzjU?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgibEAAcsLZ?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgnbkAA7HiL?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgoboAE5lIW?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgpbwAAi0jb?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EglagAA5rCA?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0Egma4AIEGnt?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EglaUAEvwIs?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgnaQAAJG_5?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0Egyb0AAOGgD?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgpasAApt8T?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0Egya8AAAeCF?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgobEAAkH5j?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgxaAAIWSD0?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0Egxa0AAn-l8?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgybQAEKSjN?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgxagAAg2M_?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgzbQAA_9Ar?format=jpg&name=large",
-   "https://pbs.twimg.com/media/HXI0EgzagAAXr6i?format=jpg&name=large"
-  ],
-  "referer": "https://x.com/"
+  "limit": 40,
+  "image_pages": [
+   "https://www.chinadaily.com.cn/a/202505/29/WS6837af3ba310a04af22c21cb.html",
+   "https://www.globaltimes.cn/page/202606/1362931.shtml",
+   "https://www.globaltimes.cn/page/202606/1362677.shtml",
+   "https://www.globaltimes.cn/page/202505/1334940.shtml",
+   "http://en.people.cn/n3/2026/0604/c90000-20464046.html",
+   "http://www.china.org.cn/2026-06/04/content_118530619.shtml",
+   "http://www.ecns.cn/m/news/society/2025-05-28/detail-iherwsih6785978.shtml",
+   "https://www.newsgd.com/node_1299786306/a567ec1336.shtml",
+   "https://english.news.cn/20250607/3e7529a9cf4f4cb6b2d659d998589b0c/c.html",
+   "https://www.campussafetymagazine.com/news/chinese_schools_to_use_drones_to_find_students_cheating_on_exam/",
+   "https://www.newsweekpakistan.com/big-drone-is-watching/",
+   "https://www.kmib.co.kr/article/view.asp?arcid=0029912929&code=61131111&sid1=int",
+   "https://www.asiae.co.kr/en/article/2026060315404475208",
+   "https://m.news.nate.com/view/20260529n26135",
+   "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/05/china-to-inspect-eyeglasses-to-stop-students-cheating-at-gaokao-exam",
+   "https://www.scmp.com/news/china/politics/article/3265764/chinese-provinces-bring-ai-stop-cheating-gaokao-university-entrance-exams",
+   "https://www.etoday.co.kr/news/view/2648364",
+   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082363"
+  ]
  }
 ]
