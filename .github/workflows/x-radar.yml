@@ -27,17 +27,20 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -q requests pyyaml
       - name: 측정 기록 불러오기
+        # 2026.11.16: worktree 로 받으면 sparse-checkout 설정을 물려받아 기록 파일이 안 풀렸다(매번 빈 상태로 시작) → 따로 clone
         run: |
-          git fetch -q --depth 1 origin radar-state 2>/dev/null && git worktree add -q rs FETCH_HEAD \
-            || { git worktree add -q --detach rs && (cd rs && git checkout -q --orphan radar-state && git rm -rqf . ); }
+          url="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}"
+          git clone -q --depth 1 --branch radar-state "$url" rs \
+            || { rm -rf rs; mkdir rs; git -C rs init -q -b radar-state; git -C rs remote add origin "$url"; }
           git -C rs config user.name "github-actions[bot]"; git -C rs config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          ls -la rs
       - name: 10분 간격 반복
         run: |
           end=$((SECONDS + 19200))
           while [ $SECONDS -lt $end ]; do
             git pull -q --depth 1 origin main || true
             python scripts/x_radar.py --config drafts/x_radar.yaml --state rs || true
-            (cd rs && git add -A --sparse && { git commit -q --amend -m "x-radar" 2>/dev/null || git commit -qm "x-radar"; } \
+            (cd rs && git add -A && { git commit -q --amend -m "x-radar" 2>/dev/null || git commit -qm "x-radar"; } \
               && git push -qf origin HEAD:refs/heads/radar-state) || true
             sleep $((600 - $(date +%s) % 600))
           done
