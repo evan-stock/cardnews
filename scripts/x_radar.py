@@ -81,14 +81,10 @@ def parse_timeline_html(html):
 
 
 # 계정의 최근 글을 읽을 수 있는 공개 경로들(로그인 없음). 위에서부터 시도하고, 된 경로를 기억해 다음엔 먼저 쓴다.
+# 2026.11.16 깃허브에서 확인: fx 됨 / synd 429 / 니터 계열(nitter.net·xcancel·poast 등)은 전부 막혀서 뺌.
 SOURCES = {
     "fx": "https://api.fxtwitter.com/2/profile/{name}/statuses",
     "synd": "https://syndication.twitter.com/srv/timeline-profile/screen-name/{name}",
-    "nitter": "https://nitter.net/{name}/rss",
-    "xcancel": "https://xcancel.com/{name}/rss",
-    "poast": "https://nitter.poast.org/{name}/rss",
-    "privacyredirect": "https://nitter.privacyredirect.com/{name}/rss",
-    "tiekoetter": "https://nitter.tiekoetter.com/{name}/rss",
 }
 SOURCE_STATE = {"order": list(SOURCES), "errors": {}}
 
@@ -269,8 +265,8 @@ def run(cfg, state_dir, send, now=None, discover=discover_account, meter=measure
         SOURCE_STATE["order"] = saved + [k for k in SOURCES if k not in saved]
     misses = 0
     for acc in cfg["accounts"]:
-        if misses >= 3:
-            log.append("계정 읽기 3번 연속 실패 → 이번 실행은 계정 읽기 건너뜀")
+        if misses >= 8:
+            log.append("계정 읽기 8번 연속 실패 → 이번 실행은 계정 읽기 건너뜀")
             break
         try:
             found = discover(acc)
