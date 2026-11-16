@@ -127,8 +127,31 @@ def main():
             return 0
         print(f"기사 페이지에서도 영상 못 받음: {card} {r.stderr[-200:]}")
     if not vids:
+        # 사진 글: 본문 사진(p<i>_<k>.jpg)과 인용글 사진(q<i>_<k>.jpg)을 원본 크기로 받아 둔다(캡처 카드용)
+        got = 0
+        for pre, ph in (("p", (fx.get("media") or {}).get("photos") or []),
+                        ("q", (((fx.get("quote") or {}).get("media") or {}).get("photos")) or [])):
+            for k, p in enumerate(ph, 1):
+                u = p.get("url")
+                if not u:
+                    continue
+                u2 = u.split("?")[0] + "?name=orig" if "pbs.twimg.com" in u else u
+                name = f"{pre}{i}_{k}.jpg"
+                try:
+                    download(u2, os.path.join(out, name))
+                except Exception:  # noqa: BLE001
+                    download(u, os.path.join(out, name))
+                got += 1
+                print(f"사진 받음 {name}")
+        qt = fx.get("quote") or {}
+        if qt:
+            meta["quote_text"] = qt.get("text")
+            meta["quote_date"] = qt.get("created_at")
+            meta["quote_author"] = (qt.get("author") or {}).get("screen_name")
+            with open(os.path.join(out, f"x{i}.json"), "w", encoding="utf-8") as f:
+                json.dump(meta, f, ensure_ascii=False, indent=1)
         print(f"영상 없는 글({meta.get('kind')}): {url}")
-        return 1
+        return 0 if got else 1
     for k, v in enumerate(vids, 1):
         name = f"v{i}.mp4" if k == 1 else f"v{i}_{k}.mp4"
         size = download(v["url"], os.path.join(out, name))
