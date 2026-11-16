@@ -1,0 +1,38 @@
+{
+ "id": "20261116-scrw",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-16T21:41:02.796745+09:00",
+ "publish_at": "2026-11-16T21:41:02.796759+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 헛도는 볼트 구멍을 녹인 주석으로 되살리는 수리(숏파일럿 504만 소재)",
+ "sources": [],
+ "seconds": 24.9,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261116-scrw/short_card.mp4"
+ ],
+ "yt": {
+  "title": "망가진 나사 구멍에 쇳물을 부으면 생기는 일 #shorts",
+  "description": "나사산이 뭉개져 볼트가 헛도는 주철 부품 구멍. 부품을 통째로 버리는 대신, 녹인 '주석'(녹는점 약 232℃)을 구멍에 부어 꽉 메웁니다.\n굳으면 망치로 다져 빈틈을 없애고, 튀어나온 부분은 줄로 평평하게 민 뒤, 가운데를 드릴로 뚫고 '탭'으로 나사산을 새로 깎으면 볼트가 다시 물립니다. 주석은 무른 금속이라 쉽게 깎이는 대신 큰 힘을 받는 곳엔 맞지 않아요. 엔진처럼 힘을 많이 받는 곳은 보통 스프링 모양 '헬리코일'이나 나사 인서트로 고칩니다.\n\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: 원촬영자 영상 'Thread restored with melted tin!'(YouTube Vinicinn_torneiro, 2026.09.10), Wikipedia·영국왕립화학회(주석 녹는점 231.9℃), Jalopnik 2020·Hagerty UK(헬리코일 수리)\n영상: YouTube Vinicinn_torneiro https://www.youtube.com/watch?v=iQEjB1bOdDs\n배경음악: YouTube 오디오 보관함\n\n#나사산복구 #기계수리 #주석 #정비꿀팁 #오늘의쓸모 #shorts",
+  "tags": [
+   "나사산복구",
+   "나사구멍",
+   "주석",
+   "기계수리",
+   "정비꿀팁",
+   "헬리코일",
+   "신기한이야기",
+   "오늘의쓸모"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "app_file": "media/20261116-scrw/short_card_nomusic.mp4",
+ "tg_video": 2798,
+ "tg_msg": 2799
+}
