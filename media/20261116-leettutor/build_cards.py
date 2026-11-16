@@ -60,6 +60,8 @@ def place(base, t, cx, cy, ang, wdt):
 
 
 person = Image.open(O / "person_new.png").convert("RGBA")  # 사용자 제공 사진(흰 배경 누끼)
+# 눈 모자이크(2026.11.16 사용자 지시)
+_b = (200, 100, 315, 150); _r = person.crop(_b); _r = _r.resize((max(1, _r.width // 9), max(1, _r.height // 9)), Image.NEAREST).resize(_r.size, Image.NEAREST); person.paste(_r, _b[:2])
 ph = 1260; person = person.resize((round(person.width * ph / person.height), ph), Image.LANCZOS).filter(ImageFilter.UnsharpMask(2, 60, 2))
 cov.alpha_composite(person, (100, 150))
 place(cov, req.crop((0, 190, 850, 845)), 900, 300, -3, 340)
