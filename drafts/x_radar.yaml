@@ -2,7 +2,31 @@
 # 이 파일을 고쳐 push 하면 다음 실행부터 반영된다.
 
 # 지켜볼 계정(@ 없이). 소재가 자주 나오는 계정을 넣는다. 계정의 최근 글이 자동으로 후보가 된다.
-accounts: []
+accounts:
+  # 2026.11.16: 지금까지 오늘의쓸모 소재로 2번 이상 쓴 엑스 계정에서 뽑은 시작 목록(동물 밈 계정·일론 머스크 제외)
+  - itwillbe_sage
+  - nowyeosi
+  - nowgeun
+  - kjibak
+  - Insight_sua
+  - zzzzzzzikkkkk
+  - yena_jang_
+  - node_park
+  - kingwest0219
+  - eom0x
+  - cocadol
+  - UnitreeRobotics
+  - SpaceX
+  - thayzzysmith
+  - tQuietEngineer
+  - meta_pavy
+  - emmarincon
+  - argent_wave
+  - amitisinvesting
+  - Rainmaker1973
+  - LucAuffret
+  - clashreport
+  - Absurd__World
 
 # 바로 추적할 게시물 주소. 채팅에서 엑스 검색으로 찾은 글이나 눈에 띈 글을 넣는다(30시간 지나면 자동으로 빠짐).
 inbox: []
