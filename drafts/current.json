@@ -1,105 +1,28 @@
 [
  {
-  "id": "20261116-mimiminu2",
-  "slot": "lunch",
-  "mode": "send",
-  "topic": "미미미누 '수능 무조건 연기해야' — 세무사 수석 AI 자수 후속, 수능 사흘 앞",
-  "category": "국내 사회",
-  "images": [
-   "cover_bg.jpg",
-   "f02.jpg",
-   "f03.jpg",
-   "f04.jpg",
-   "f05.jpg",
-   "f06.jpg",
-   "c06.jpg",
-   "f07.jpg",
-   ""
+  "id": "20261116-meme",
+  "slot": "evening",
+  "mode": "collect",
+  "limit": 1,
+  "image_pages": [],
+  "image_urls": [
+   "https://pbs.twimg.com/media/HXJkEKJbYAAaqt8.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXJkEiPaMAAkkDX.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXJkE60bEAAwNkq.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXJkFQ-bsAEZdC0.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXJkFn-agAAqszX.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXJkF9Ua0AAWjMj.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXJkGTIbAAAgnS4.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXJkGpKbcAAvFXO.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXJkHABb0AAw6F7.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXI4Cj7aIAAb1ah.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXI4DCXakAA75oI.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXAaqQ0asAAPM9Y.jpg?name=orig",
+   "https://pbs.twimg.com/media/HW6EYvpaUAATj9r.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXIrr43bQAEH_Zy.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXJdFhNbcAA7DvL.jpg?name=orig",
+   "https://pbs.twimg.com/media/HW9hRqBb0AAJnd3.jpg?name=orig"
   ],
-  "slides": [
-   {
-    "lay": "one",
-    "t": "수능 사흘 앞두고 눈시울 붉힌 미미미누\n\"무조건 '연기'해야 돼\""
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "t": "55만 명의 1년을\n'감독관 눈'에만 맡기나",
-    "b": "국회 보고·수능 당일 상황, 이어서 올립니다"
-   }
-  ],
-  "caption": "[수능 사흘 앞, 입시 유튜버가 \"미뤄 달라\"고 했습니다]\n\n입시 유튜버 미미미누(본명 김민우)가 15일 라이브 방송과 16일 영상에서 19일 치러지는 2027학년도 수능의 연기 검토를 교육 당국에 촉구했습니다. 방송 중 성실히 준비한 수험생이 느낄 박탈감을 이야기하다 눈시울을 붉히기도 했습니다.\n\n발단은 세무사 시험 수석 합격자의 자수입니다. 초소형 카메라와 생성형 AI로 문제를 풀었는데, 감독관 바로 앞자리에서도 적발되지 않았습니다. 미미미누는 \"지금은 AI 안경을 아득히 넘어섰다\"며 단추·팔찌 같은 초소형 기기로도 AI 풀이가 가능하다고 짚었습니다. 정부는 시험장 1,312곳에 AI 기기 판단 전담 인력을 두고 감독관 교육을 강화하겠다고 했지만, 그는 사흘 안에 교육이 현실적으로 되겠느냐고 물었습니다.\n\n수능은 2017년 포항 지진 때 하루 전 1주일, 2020년 코로나19 때 2주 미뤄진 적이 있습니다. 다만 그때는 수험생 안전이 이유였고, 이번엔 부정행위 우려입니다. 미루면 부정행위를 준비할 시간만 준다는 반론도 나옵니다. 평가원 게시판에는 16일에도 연기·대책 요구 글이 이어졌고, 올해 수능 응시자는 55만1,864명입니다.\n\n정부 답은 16일 오전에 나왔습니다. 한성숙 국무총리는 관계부처 회의에서 '수능 범정부 긴급대응팀'을 꾸려 사전·사후 대책을 마련하겠다고 밝혔습니다. 교육부에는 시험장 관리·감독 체계 긴급 점검을, 시험이 끝난 뒤에도 이상 징후가 나오면 객관적 자료로 사실관계를 조사하라고 주문했습니다. AI 탐지 기술 개발·보급은 '검토'하기로 했습니다. 같은 날 국회 교육위원회는 교육부 장관에게 부정행위 방지 대책을 보고받습니다.\n\n연기해서라도 확실한 대책을 세워야 할까요, 예정대로 치르고 감독을 강화해야 할까요?\n\n생각나는 친구에게 보내주세요! 팔로우하면 국회 보고와 수능 당일 상황을 이어서 받아보실 수 있습니다.",
-  "hashtags": [
-   "미미미누",
-   "수능연기",
-   "AI부정행위",
-   "2027수능",
-   "세무사시험"
-  ],
-  "photo_credits": [
-   "유튜브 미미미누",
-   "표지 고사장: 사진공동취재단(2025.11.13 수능)",
-   "유튜브 이돈호 변호사",
-   "한국교육과정평가원 게시판",
-   "2017년 수능 연기 당시 보도사진"
-  ],
-  "sources": [
-   {
-    "publisher": "시사저널",
-    "url": "https://www.sisajournal.com/news/articleView.html?idxno=394065",
-    "date": "2026.11.16"
-   },
-   {
-    "publisher": "마이데일리",
-    "url": "https://www.mydaily.co.kr/page/view/2026111607240371063",
-    "date": "2026.11.16"
-   },
-   {
-    "publisher": "MHN",
-    "url": "https://mhnse.com/news/articleView.html?idxno=1698159",
-    "date": "2026.11.16"
-   },
-   {
-    "publisher": "세계일보",
-    "url": "https://www.segye.com/newsView/20261116502889",
-    "date": "2026.11.16"
-   },
-   {
-    "publisher": "위키트리",
-    "url": "https://www.wikitree.co.kr/articles/1174866",
-    "date": "2026.11.16"
-   },
-   {
-    "publisher": "서울경제",
-    "url": "https://www.sedaily.com/article/20114652",
-    "date": "2026.11.16"
-   },
-   {
-    "publisher": "데일리한국",
-    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1425312",
-    "date": "2026.11.16"
-   }
-  ],
-  "publish_at": "2026-11-16T10:44:11+09:00",
-  "publish_now": true
+  "referer": "https://x.com/"
  }
 ]
