@@ -1,0 +1,9 @@
+ERROR: [twitter] 2122158366856532325: No video could be found in this tweet
+사진 받음 p1_1.jpg
+영상 없는 글(사진만): https://x.com/meowydmv/status/2122158366856532325
+total 136
+drwxr-xr-x 2 runner runner   4096 Nov 16 08:27 .
+drwxr-xr-x 3 runner runner   4096 Nov 16 08:27 ..
+-rw-r--r-- 1 runner runner    179 Nov 16 08:27 log.txt
+-rw-r--r-- 1 runner runner 122121 Nov 16 08:27 p1_1.jpg
+-rw-r--r-- 1 runner runner    442 Nov 16 08:27 x1.json
