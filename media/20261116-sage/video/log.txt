@@ -14,3 +14,22 @@ drwxr-xr-x 2 runner runner 4096 Nov 16 07:46 .
 drwxr-xr-x 4 runner runner 4096 Nov 16 07:46 ..
 -rw-r--r-- 1 runner runner  658 Nov 16 07:47 log.txt
 -rw-r--r-- 1 runner runner  801 Nov 16 07:47 x1.json
+ERROR: [twitter] 2122176270087950842: No video could be found in this tweet
+사진 받음 p1_1.jpg
+사진 받음 p1_2.jpg
+사진 받음 q1_1.jpg
+사진 받음 q1_2.jpg
+사진 받음 q1_3.jpg
+사진 받음 q1_4.jpg
+영상 없는 글(사진만): https://x.com/itwillbe_sage/status/2122176270087950842
+total 1216
+drwxr-xr-x 2 runner runner   4096 Nov 16 07:51 .
+drwxr-xr-x 4 runner runner   4096 Nov 16 07:51 ..
+-rw-r--r-- 1 runner runner   1167 Nov 16 07:51 log.txt
+-rw-r--r-- 1 runner runner  80801 Nov 16 07:51 p1_1.jpg
+-rw-r--r-- 1 runner runner  74468 Nov 16 07:51 p1_2.jpg
+-rw-r--r-- 1 runner runner 265763 Nov 16 07:51 q1_1.jpg
+-rw-r--r-- 1 runner runner 268966 Nov 16 07:51 q1_2.jpg
+-rw-r--r-- 1 runner runner 252667 Nov 16 07:51 q1_3.jpg
+-rw-r--r-- 1 runner runner 275664 Nov 16 07:51 q1_4.jpg
+-rw-r--r-- 1 runner runner   1000 Nov 16 07:51 x1.json
