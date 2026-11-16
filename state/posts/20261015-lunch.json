@@ -1,0 +1,97 @@
+{
+ "id": "20261015-lunch",
+ "slot": "lunch",
+ "slot_label": "점심",
+ "status": "expired",
+ "created_at": "2026-10-15T16:32:51.436711+09:00",
+ "publish_at": "2026-10-15T13:00:00+09:00",
+ "topic": "과테말라 15세 소녀, 의사 확인 없이 관에 안치됐다가 장례 도중 깨어나 검찰 조사",
+ "category": "해외 황당·기묘 인물 사연",
+ "core": "아버지가 의사 확인 없이 숨진 것으로 판단해 장례를 준비한 15세 딸이 약 8시간 뒤 관 안에서 움직였고, 과테말라 당국이 경위를 조사 중이다.",
+ "risk": "피해 당사자가 미성년자라 카드·본문에서 실명을 뺐고, 아버지 책임은 '조사 중'과 'SNS 비난'으로만 썼습니다. 소녀가 병원으로 옮겨졌는지(세계일보)와 집에서 회복 중인지(데일리안)는 보도가 엇갈리고, 영문 매체는 '재구성 보도'이거나 'unverified'라고 표기한 곳이 있습니다. 8시간은 쓰러진 뒤 경과 시간이고, 사진·영상 원본은 저작권 확인이 필요합니다.",
+ "sources": [
+  {
+   "publisher": "세계일보",
+   "title": "사망 확인도 안 했나…관 속에서 8시간 만에 깨어난 15세 소녀",
+   "url": "https://www.segye.com/newsView/20261014508455",
+   "date": "2026.10.14"
+  },
+  {
+   "publisher": "데일리안",
+   "title": "의사 확인없이 장례를?…관에서 벌떡 일어난 15살 딸",
+   "url": "https://www.dailian.co.kr/news/view/1701791/%EC%9D%98%EC%82%AC-%ED%99%95%EC%9D%B8%EC%97%86-%EC%9E%A5%EB%A1%80%EB%A5%BC%EA%B4%80-%EB%B2%8C%EB%96%A1-%EC%9D%BC%EC%96%B4%EB%82%9C-1-2026",
+   "date": "2026.10.15"
+  },
+  {
+   "publisher": "Mothership.SG",
+   "title": "Girl, 15, reportedly wakes up after 8 hours in coffin during wake in Guatemala",
+   "url": "https://mothership.sg/2026/10/girl-wakes-up-coffin/",
+   "date": "2026.10.14"
+  }
+ ],
+ "slides": [
+  {
+   "t": "의사 확인도 없이\n'관'에 넣은 15세 딸\n8시간 만에 깨어났다",
+   "b": "",
+   "photo_query": "Guatemala coffin funeral wake",
+   "ai_prompt": "Photorealistic documentary photo, dim candle-lit living room in rural Guatemala, a simple wooden coffin with a small viewing window in its lid, grieving relatives silhouetted in the background, dramatic shadows, vertical 4:5, no text, no logos, no real person's face"
+  },
+  {
+   "t": "장례 도중 관 안에서\n'딸'이 움직였다",
+   "b": "",
+   "photo_query": "Guatemala coffin open funeral",
+   "ai_prompt": "Photorealistic photo, close view of an open wooden coffin at a home wake, a teenage girl's hand reaching up from inside, stunned relatives leaning in with shocked expressions, warm indoor light, vertical 4:5, no text, no logos, faces turned away or blurred"
+  },
+  {
+   "t": "새벽 차 안에서 '쓰러졌다'",
+   "b": "지난 10일(현지시간) 새벽, 과테말라 서부 키체주 사카풀라스의 마을에서 15세 소녀가 병원으로 가던 중 **가슴 통증을 호소하다 의식을 잃었다**. 아버지는 호흡과 맥박이 느껴지지 않자 숨진 것으로 판단했다.",
+   "photo_query": "Sacapulas Guatemala",
+   "ai_prompt": "Photorealistic photo, a pickup truck parked on a dark rural mountain road in Guatemalan highlands before dawn, headlights on, a man leaning into the open passenger door in panic, vertical 4:5, no text, no logos, no identifiable face"
+  },
+  {
+   "t": "의사 없이 '장례' 준비",
+   "b": "가족은 **의료진의 공식 사망 확인 없이** 관을 마련해 집에서 이웃들과 장례를 준비했다. 소녀가 병원에서 진찰을 받은 기록은 보도에 나오지 않는다.",
+   "photo_query": "Guatemala highlands village house",
+   "ai_prompt": "Photorealistic photo, modest rural Guatemalan home with neighbors gathering outside at dusk, a wooden coffin being carried through the doorway, somber mood, vertical 4:5, no text, no logos, faces not visible"
+  },
+  {
+   "t": "어머니가 '뚜껑'을 열었다",
+   "b": "장례가 진행되던 중 관 옆에서 울던 어머니가 **딸의 움직임을 발견하고 관을 열었다**. 영상에는 분홍색 티셔츠를 입은 소녀가 상체를 일으키자 가족들이 '할렐루야'를 외치는 모습이 담겼다.",
+   "photo_query": "mother crying coffin funeral",
+   "ai_prompt": "Photorealistic photo, a woman bent over a coffin lid with a small viewing window, hands on the lid, tears on her cheeks, relatives gasping behind her, emotional indoor scene, vertical 4:5, no text, no logos, face partially hidden"
+  },
+  {
+   "t": "이제 '조사'가 시작됐다",
+   "b": "소녀는 집에서 회복 중인 것으로 알려졌다. 가족은 기적으로 받아들였지만 **과테말라 검찰이 의료진 확인 없이 사망으로 판단한 경위를 조사 중**이다. SNS에선 아버지를 향한 비난이 쏟아졌다.",
+   "photo_query": "Guatemala prosecutor office",
+   "ai_prompt": "Photorealistic photo, a government prosecutor's office desk in Central America with case folders and a lamp, a rural village visible through a window at dusk, serious mood, vertical 4:5, no text, no logos, no people"
+  },
+  {
+   "t": "생각나는 친구에게 보내주세요",
+   "b": "팔로우하면 매일 화제 소식",
+   "photo_query": "smartphone sharing message",
+   "ai_prompt": "Photorealistic photo, two friends looking at a smartphone together in a cafe, one pointing at the screen with a surprised look, soft daylight, vertical 4:5, no text, no logos, faces turned away"
+  }
+ ],
+ "image_pages": [
+  "https://www.pulse.ng/story/guatemala-girl-wakes-up-inside-coffin-at-wake-2026101314392497323",
+  "https://www.ibtimes.co.uk/guatemalan-teenager-wakes-inside-coffin-1825227",
+  "https://tribuneonlineng.com/guatemala-drama-as-teen-wakes-up-in-coffin-during-her-own-funeral/",
+  "https://time.news/guatemalan-teen-wakes-up-inside-coffin-at-own-funeral/",
+  "https://en.lasicilia.it/news/italy-world/3081135/yuleidy-declared-dead-at-15-wakes-up-in-the-coffin-during-the-wake-the-video-has-gone-viral.html"
+ ],
+ "caption_full": "의사 확인 없이 관에 넣은 15세 딸이 장례 도중 깨어났습니다\n\n지난 10일(현지시간) 과테말라 서부 키체주 사카풀라스의 한 마을에서 15세 소녀가 병원으로 이동하던 중 가슴 통증을 호소하다 의식을 잃었습니다. 아버지는 호흡과 맥박이 느껴지지 않자 숨진 것으로 판단하고 딸을 집으로 데려와 장례를 준비했습니다.\n\n약 8시간 뒤 관 옆에서 울던 어머니가 딸의 움직임을 발견하고 관을 열었습니다. 영상에는 소녀가 상체를 일으키자 가족들이 환호하는 모습이 담겼습니다.\n\n과테말라 검찰은 의료진의 확인 없이 사망으로 판단한 경위를 조사 중이며, SNS에서는 아버지를 향한 비난이 쏟아졌습니다. 현지 매체는 일부 농촌에 이런 관행이 남아 있다고 전했습니다.\n\n여러분은 아버지 책임이다 vs 안타까운 오판이다?\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아볼 수 있어요.\n\n출처: 세계일보 2026.10.14, 데일리안 2026.10.15, Mothership.SG 2026.10.14\n사진: 세계일보\n\n#과테말라 #관에서깨어난소녀 #사망판정",
+ "credits": [
+  "세계일보"
+ ],
+ "files": [
+  "media/20261015-lunch/01.jpg",
+  "media/20261015-lunch/02.jpg",
+  "media/20261015-lunch/03.jpg",
+  "media/20261015-lunch/04.jpg",
+  "media/20261015-lunch/05.jpg",
+  "media/20261015-lunch/06.jpg",
+  "media/20261015-lunch/07.jpg"
+ ],
+ "tg_msg": 148
+}

@@ -1,0 +1,72 @@
+{
+ "id": "bench-1114",
+ "finished_at": "2026-11-14T14:06:49+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/tMvMh8Hktyk",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/bench-1114/video/y1.mp4",
+   "mb": 5.9,
+   "view_count": 2585012,
+   "title": "대형 고양이를 처음 본 고양이의 반응 ㅋㅋ"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/kTpG526vIfQ",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/bench-1114/video/y2.mp4",
+   "mb": 6.7,
+   "view_count": 2406836,
+   "title": "고양이 욕(?) 따라하면 안되는 이유"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/ZyH-2wn3KUI",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/bench-1114/video/y3.mp4",
+   "mb": 5.2,
+   "view_count": 1316923,
+   "title": "소리 지르면 밥이 나온다는 걸 알아버린 아기 삐약이ㅋㅋ"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/RXd9p2sUuF4",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/bench-1114/video/y4.mp4",
+   "mb": 6.5,
+   "view_count": 494578,
+   "title": "날카로운 집게발에 겁 없이 도전한 아기 고양이의 최후ㅋㅋ"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/eSeVLcJa80c",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/bench-1114/video/y5.mp4",
+   "mb": 9.6,
+   "view_count": 1531163,
+   "title": "아기 코끼리 놀리던 사육사의 최후"
+  },
+  {
+   "n": 6,
+   "url": "https://www.youtube.com/shorts/NJf7IovZe14",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/bench-1114/video/y6.mp4",
+   "mb": 5.3,
+   "view_count": 661983,
+   "title": "용맹하게 훈련받는 댕댕이"
+  }
+ ]
+}

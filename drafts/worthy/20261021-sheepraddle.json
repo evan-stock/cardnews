@@ -1,0 +1,121 @@
+{
+ "id": "20261021-sheepraddle",
+ "media": "media/20261021-sheepraddle",
+ "topic": "숫양 가슴에 물감(래들·크레용)을 칠하는 진짜 이유 — 주인 표시가 아니라, 숫양이 짝짓기한 암양 엉덩이에 색이 찍히게 하는 '기록 장치'. 농부는 색으로 누가 짝짓기했는지 보고, 2~3주마다 색을 바꿔 새끼 낳을 시기를 나누며, 여러 색이 겹친 암양이 많으면 숫양 불임을 의심해 바꾼다",
+ "hook": {
+  "t": "숫양 가슴에 '물감'을\n바르는 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: TikTok @the.kernow.shepherdess · @adam.henson · @farmer_lel",
+ "bgm": {
+  "file": "assets/bgm/worthy/sneaky_adventure.mp3",
+  "start": 48.0,
+  "vol": 1.12
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "숫양 가슴에 형광 '물감'을 듬뿍 바른다",
+   "video": {
+    "src": "video/kernow.mp4",
+    "start": 14.3,
+    "x": 0.5,
+    "y": 0.6
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "며칠 뒤엔 암양들 '엉덩이'가 알록달록해진다",
+   "img": "video/queue_c.jpg",
+   "zoom": 0.1,
+   "dur": 3.0
+  },
+  {
+   "text": "보통은 농부가 칠한 '주인 표시'라고 생각한다",
+   "img": "video/raddled.jpg",
+   "zoom": 0.08,
+   "dur": 2.8
+  },
+  {
+   "text": "그런데 이 색은 숫양이 직접 '찍은' 것이다",
+   "video": {
+    "src": "video/henson.mp4",
+    "start": 38.3,
+    "x": 0.5,
+    "y": 1.0
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "숫양이 올라탈 때마다 가슴의 색이 묻어난다",
+   "video": {
+    "src": "video/lel_harness.mp4",
+    "start": 8.3,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "농부는 색만 보고 누가 '짝짓기'했는지 안다",
+   "img": "video/mynydd_c.jpg",
+   "zoom": 0.1,
+   "dur": 3.0
+  },
+  {
+   "text": "2~3주마다 색을 바꿔 새끼 낳을 '시기'까지 나눈다",
+   "video": {
+    "src": "video/lel_crayon.mp4",
+    "start": 7.0,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "색이 겹친 암양이 많으면 숫양 '불임' 신호다",
+   "video": {
+    "src": "video/henson.mp4",
+    "start": 33.8,
+    "x": 0.5,
+    "y": 1.0
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "가슴 물감은 숫양의 '성적표'였다, 다음 비밀도 구독",
+   "video": {
+    "src": "video/kernow.mp4",
+    "start": 26.0,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 3.0
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @the.kernow.shepherdess 원본(7404510321693543712, 2024.8 — 영국 콘월 양치기가 즈바르트블레스 숫양 가슴에 래들 물감을 바르는 영상)",
+  "영상: TikTok @adam.henson 원본(7436503709384740128, 2024.11 — 숫양 가슴에 주황 래들 바르기)",
+  "영상: TikTok @farmer_lel 원본(7284873222028299553 2023.10 크레용 하네스 설명, 7691386103517007137 2026.9 크레용 색 바꾸기·숫양에 입히기)",
+  "사진: Nigel Mykura 'Form an orderly queue, ladies, please…'(geograph 1531074, CC BY-SA 2.0)",
+  "사진: Yohan euan o4 'Raddled sheep'(CC BY-SA 3.0)",
+  "사진: ceridwen 'Raddled ewes on Mynydd Dinas'(geograph 2180399, CC BY-SA 2.0)"
+ ],
+ "sources": [
+  {
+   "publisher": "Vet Help Direct 'Why do sheep have paint on them?'(Cassandra Longhi 수의사) — 숫양 가슴 크레용 하네스·래들이 짝짓기한 암양 엉덩이에 묻음, 17일 주기마다 색을 바꿔 출산 시기 추정, 다시 표시된 암양·숫양 번식력 확인",
+   "date": "2021.9.29",
+   "url": "https://vethelpdirect.com/vetblog/2021/09/29/why-do-sheep-have-paint-on-them/"
+  },
+  {
+   "publisher": "Teagasc(아일랜드 농업식품개발청) 'Mating management in sheep' — 밝은 색→어두운 색 순서, 매주·최소 14일마다 색 교체, 여러 색으로 다시 표시된 암양이 많으면 숫양 번식력 문제 → 교체",
+   "url": "https://teagasc.ie/news--events/daily/mating-management-in-sheep/"
+  },
+  {
+   "publisher": "FAS(스코틀랜드 농업자문서비스) 'Raddle/Keel Marks'(Kirsten Williams) — 10일 또는 17일마다 색 교체, 표시로 숫양이 일을 하는지 확인",
+   "date": "2017.2.1",
+   "url": "https://www.fas.scot/article/2428/"
+  }
+ ],
+ "_note": "kernow.mp4=TikTok @the.kernow.shepherdess/video/7404510321693543712(576x1024, 96.6초, 화면 글자 없음). henson.mp4=@adam.henson/video/7436503709384740128(58.4초, 가운데 y 0.45~0.55 흰 단어 자막 → y 1.0 크롭(칸 아래쪽)으로 피함). lel_harness.mp4=@farmer_lel/video/7284873222028299553(40.2초). lel_crayon.mp4=@farmer_lel/video/7691386103517007137(86.2초). 사진 queue_c(가로 40~560,세로 40~415 크롭)·mynydd_c(330,260,800,600 크롭)·raddled 는 커먼즈 1280px 이하 원본. 원본 소리 끔(말소리)."
+}

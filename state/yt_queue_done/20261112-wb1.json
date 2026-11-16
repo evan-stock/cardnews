@@ -1,0 +1,63 @@
+{
+ "id": "20261112-wb1",
+ "finished_at": "2026-11-12T14:27:10+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/hTC0Cvwalz4",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wb1/video/y1.mp4",
+   "mb": 21.8,
+   "view_count": 619664,
+   "title": "氷を砕く男たち"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=hE9SD7KP_dc",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wb1/video/y2.mp4",
+   "mb": 58.1,
+   "error": "재시도 실패",
+   "view_count": 297,
+   "title": "Freezing Strawberries To Keep Them Warm? | Frost Protection on the Strawberry Field | Carrigan Farms"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=wknwcDCOQwc",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wb1/video/y3.mp4",
+   "mb": 60.7,
+   "error": "재시도 실패",
+   "view_count": 338,
+   "title": "How a Lake County farm uses water to protect its orange crop from freezing"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/dMZ-OV1HD5U",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wb1/video/y4.mp4",
+   "mb": 2.4,
+   "view_count": 3177035,
+   "title": "How sweeping effects the stone 🥌🧹 #curling"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/JdbeHaSIm58",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261112-wb1/video/y5.mp4",
+   "mb": 3.1,
+   "view_count": 81210631,
+   "title": "SO SATISFYING  #curling #olympics #sports"
+  }
+ ]
+}

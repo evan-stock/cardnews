@@ -1,0 +1,72 @@
+{
+ "id": "20261103-lockbolt",
+ "media": "media/20261103-lockbolt",
+ "topic": "록볼트(허크볼트): 나사산 대신 홈 파인 핀에 매끈한 고리를 공구로 눌러 박고 꼬리를 끊어 내는 볼트 — 보통 볼트·너트는 옆으로 흔들리면 너트가 조금씩 돌아 풀리지만, 록볼트는 돌릴 나사가 없어 진동에도 안 풀림. 화물열차·트럭에 쓰임. 사용자 11.03 14:17 회차 후보 2번 선택(잘난지 'The rivet that never comes loose' 350만 소재 재활용).",
+ "hook": {
+  "t": "아무리 흔들어도\n'안' 풀리는 볼트"
+ },
+ "credit": "영상: TikTok @kseet.rivet_lucky · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/danger_snow.mp3",
+  "start": 24.0,
+  "vol": 0.25
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @kseet.rivet_lucky https://www.tiktok.com/@kseet.rivet_lucky/video/7507096319928929558 (2025.5.22, Kseet 리벳 공구 시연 — media/20261103-wb1/video/v11.info.json).",
+  "소재 수치: 잘난지 'The rivet that never comes loose' 350만(state/bench/잘난지.tsv 389번, 잘난지 영상 내용은 못 봄).",
+  "모션그래픽: scripts/story_shorts/anim_lockbolt.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "Fastfix Technology 'Lockbolt benefits' — 홈 파인 핀 + 매끈한 고리를 홈에 압착, 진동에 안 풀려 다시 조일 필요 없음, 미 해군·화물열차용으로 개발",
+   "url": "https://fastfixtechnology.com/rail/lockbolt-benefits"
+  },
+  {
+   "publisher": "Ovesco 'How strong are HUCK bolts?' — 1950년대 Louis C. Huck 개발, 너트 대신 압착 고리로 풀림 문제 해결",
+   "url": "https://www.ovesco.com.au/news/how-strong-are-huck-bolts/"
+  },
+  {
+   "publisher": "Wikipedia 'Junker test' — 가로 진동에서 볼트 체결이 조임 힘을 잃는 시점을 찾는 시험(Gerhard Junker, 1969)",
+   "url": "https://en.wikipedia.org/wiki/Junker_test"
+  },
+  {
+   "publisher": "TheTruckersReport 포럼 — 트럭 캡 마운트 등의 허크볼트, 고리를 갈거나 잘라서 제거",
+   "url": "https://www.thetruckersreport.com/truckingindustryforum/posts/4336122"
+  }
+ ],
+ "_note": "클립 1080x780(-an, 대비·채도 살짝↑, unsharp, 원본 노란 자막(세로 765~870px)은 크롭으로 뺌). A = v11 1.4~2.7 crop 360x260+130+400(핀 꼬리가 공구 코로 들어감) → 3.0~3.6 crop 300x217+150+400 0.5배 슬로(공구가 당김) → 7.0~7.5 crop 300x217+170+420(박힌 고리 근접) — 첫 3초 3컷(0/1.3/2.5초 전환). B = v11 6.3~8.9 crop 420x303+100+360. C = v11 9.6~10.7 crop 320x231+130+420 2.6배 슬로(고리 옆모습). 원본 소리 없음 → 효과음(0초 thud, 1.3·2.5초 whoosh, 꼬리 끊김 pop)은 렌더 뒤 ffmpeg 로 섞음. 그래픽 gfx/loosen·swage·where = anim_lockbolt.py.",
+ "scenes": [
+  {
+   "text": "이 볼트, 왜 꼬리를 뜯어 버릴까요?",
+   "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "보통 볼트는 흔들리면 너트가 '빙글' 풀린다",
+   "video": {"src": "gfx/loosen.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "이건 나사 대신 고리를 홈에 '꾹' 눌러 박는다",
+   "video": {"src": "gfx/swage.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.2
+  },
+  {
+   "text": "돌릴 나사가 없으니 흔들어도 '그대로'",
+   "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "그래서 화물열차·트럭에 이 볼트를 쓴다",
+   "video": {"src": "gfx/where.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "풀려면 고리를 '갈아' 내야 할 정도, 구독은 풀지 마세요",
+   "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.8
+  }
+ ]
+}

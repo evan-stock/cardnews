@@ -1,0 +1,28 @@
+{
+ "id": "20261018-octopunch",
+ "media": "media/20261018-octopunch",
+ "topic": "문어가 같이 다니는 물고기를 주먹질하는 이유 — 물고기와 팀으로 사냥하며, 무임승차하는 물고기를 벌주는 것(Sampaio 외, Ecology 2020 · Nature Ecology & Evolution 2024)",
+ "hook": {"t": "문어가 옆 물고기를\n'퍽' 때리는 이유ㄷㄷ"},
+ "credit": "영상: Eduardo Sampaio (@OctoEduardo)",
+ "bgm": {"file": "assets/bgm/worthy/moonlit.mp3", "start": 65.0, "vol": 0.6},
+ "orig_vol": 0,
+ "scenes": [
+  {"text": "문어가 옆에 있던 물고기를 '퍽' 때렸다", "video": {"src": "video/tmp_b.mp4", "start": 2.3, "x": 0.4, "y": 0.5}, "dur": 3.2},
+  {"text": "원래 문어는 '혼자' 사는 동물로 알려져 있다", "video": {"src": "video/tmp_a.mp4", "start": 0.0, "x": 0.4, "y": 0.4}, "dur": 3.4},
+  {"text": "그런데 이 물고기들은 문어와 함께 다니는 '사냥 팀'", "video": {"src": "video/tmp_d.mp4", "start": 0.0, "x": 0.3, "y": 0.6}, "dur": 3.6},
+  {"text": "물고기가 먹이를 찾아 앞장서면", "video": {"src": "video/tmp_b.mp4", "start": 4.6, "x": 0.4, "y": 0.5}, "dur": 2.8},
+  {"text": "문어가 바위 틈을 '덮쳐' 먹이를 몰아낸다", "video": {"src": "video/tmp_c.mp4", "start": 3.2, "x": 0.4, "y": 0.4}, "dur": 3.4},
+  {"text": "주먹은 일 안 하고 얻어먹는 '얌체'에게 날아갔다", "video": {"src": "video/tmp_a.mp4", "start": 3.4, "x": 0.4, "y": 0.4}, "dur": 3.6},
+  {"text": "언제 움직일지도 문어가 정하는 '팀장'이었다", "video": {"src": "video/tmp_b.mp4", "start": 0.4, "x": 0.4, "y": 0.4}, "dur": 3.4},
+  {"text": "바닷속 다음 비밀도 '구독'하고 보기", "video": {"src": "video/tmp_d.mp4", "start": 1.5, "x": 0.3, "y": 0.6}, "dur": 2.8}
+ ],
+ "products": [],
+ "photo_credits": ["Eduardo Sampaio — X @OctoEduardo (2020.12), 홍해 에일랏·엘쿠세이르 촬영"],
+ "sources": [
+  {"publisher": "Sampaio E. 외, Ecology 'Octopuses punch fishes during collaborative interspecific hunting events'", "date": "2020.12", "url": "https://doi.org/10.1002/ecy.3266"},
+  {"publisher": "Smithsonian Magazine 'Watch Octopuses Sucker-Punch Fish'", "date": "2020.12", "url": "https://www.smithsonianmag.com/smart-news/video-octopuses-sucker-punching-fish-180976629/"},
+  {"publisher": "막스플랑크 동물행동연구소·콘스탄츠대 'Unlocking the secrets of multispecies hunting'(Nature Ecology & Evolution)", "date": "2024.9.23", "url": "https://ab.mpg.de/629981/unlocking-the-secrets-of-multispecies-hunting"},
+  {"publisher": "ZME Science 'Octopuses hunt with fish — and punch the slackers'", "date": "2024.9.30", "url": "https://zmescience.com/ecology/animals-ecology/octopus-hunt-with-fish"}
+ ],
+ "_note": "video/tmp_a~d.mp4 = v1.mp4 를 확대 크롭한 변환본(커밋 안 함). tmp_a: -ss 0 -t 7.5 crop=640:462:280:200 / tmp_b: -ss 7 -t 7 crop=640:462:400:150 / tmp_c: -ss 35 -t 7 crop=640:462:300:150 / tmp_d: -ss 19 -t 6 crop=853:616:300:60, 모두 scale=1280:-2"
+}

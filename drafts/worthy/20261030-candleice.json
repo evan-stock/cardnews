@@ -1,0 +1,110 @@
+{
+ "id": "20261030-candleice",
+ "media": "media/20261030-candleice",
+ "topic": "꽁꽁 언 호수를 사람이 헤엄쳐 지나가고, 부서진 얼음이 전부 연필처럼 길쭉한 이유 — 기둥 모양(주상) 얼음 결정 사이 경계가 봄볕·녹은 물에 먼저 녹아 생기는 '촛대 얼음(candle ice)'. 겉보기엔 두꺼워도 옆으로 이어 주는 구조가 없어 사람 무게를 못 버티고, 빠지면 붙잡을 테두리도 없다. 영상 속 남자는 알래스카 얼음 구조 강사 Luc Mehl(일부러 구조복 입고 들어감). 한국도 해빙기엔 15cm 얼음도 깨진다(한국일보 2026.2.21).",
+ "hook": {
+  "t": "꽁꽁 언 호수를\n'헤엄쳐' 건너는 이유ㄷㄷ"
+ },
+ "credit": "영상: 얼음 구조 강사 Luc Mehl(Instagram @lucmehl)",
+ "bgm": {
+  "file": "assets/bgm/worthy/the_awakening.mp3",
+  "start": 30.0,
+  "vol": 0.38
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: 알래스카 얼음 구조 강사 Luc Mehl 본인 Instagram 릴스 @lucmehl DJS2d3rtw6d(2025.5.6, 'Well, that's a wrap…' #candleice) — 확대·슬로 가공, 영어 자막 구간(4~13초)은 안 씀. 같은 장면(Luc Mehl 촬영 촛대 얼음 헤엄)을 실은 Outside Magazine TikTok 7499127612799814958 조회 340만·좋아요 7.5만(10.30 info json 확인)"
+ ],
+ "sources": [
+  {
+   "publisher": "Wikipedia 'Rotten ice' — candle ice: 수면에 수직인 기둥 모양 결정, 결정 경계부터 녹음, 두께와 상관없이 위험·수평 구조가 없어 빠지면 붙잡을 테두리가 없음, 부딪히며 쨍그랑 소리",
+   "url": "https://en.wikipedia.org/wiki/Rotten_ice"
+  },
+  {
+   "publisher": "Outside Magazine TikTok 2025.4.30 — Luc Mehl(앵커리지 얼음 구조 강사)이 한 겨울 12번 찾아가 얼음 지도를 만든 뒤 촛대 얼음 체험, 주상 얼음 경계가 녹아 촛대 얼음이 되면 급격히 약해져 무게를 못 버팀",
+   "url": "https://www.tiktok.com/@outsidemagazine/video/7499127612799814958"
+  },
+  {
+   "publisher": "NTD/Reuters 2023.11 — Luc Mehl 은 알래스카 야외 교육자·얼음 구조 강사",
+   "url": "https://www.ntd.com/alaskan-outdoor-instructor-shares-experience-of-skating-on-rare-ice-window-urges-caution_953992.html"
+  },
+  {
+   "publisher": "한국일보 2026.2.21 '15㎝ 두께 빙판도 쩍' — 해빙기엔 얼음이 두꺼워도 쉽게 깨짐, 2021~2024 겨울철 수난 사망 231명(여름 112명)",
+   "url": "https://v.daum.net/v/YSYbDIaeew"
+  }
+ ],
+ "_note": "A~H 는 media/20261030-candleice/video/v1.mp4(720x1280)에서 ffmpeg 로 미리 확대한 1080x780 클립(-an -g 15). A=13.9~16.6 crop 656x474+32+486(1.1배), B=14.3~15.7 crop 514x371+150+560(1.4배) 0.55배 슬로 리플레이, C=0.2~3.0 crop 720x520+0+500, D=20.0~22.8 crop 720x520+0+120(물속에서 본 얼음 기둥), F=15.6~18.4 crop 600x433+120+520(1.2배), G=17.6~21.0 crop 600x433+60+560, H=16.4~19.4 crop 720x520+0+470.",
+ "scenes": [
+  {
+   "text": "꽁꽁 언 호수에서 사람이 '헤엄'친다",
+   "video": {
+    "src": "video/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.7
+  },
+  {
+   "text": "깨진 얼음이 전부 '연필'처럼 길쭉하다",
+   "video": {
+    "src": "video/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "이 남자는 '얼음 구조' 강사, 일부러 들어왔다",
+   "video": {
+    "src": "video/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "물속에서 보면 얼음이 '기둥' 수천 개",
+   "video": {
+    "src": "video/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "기둥 사이부터 녹아 버린 '촛대 얼음'",
+   "video": {
+    "src": "video/F.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "두꺼워 보여도 사람 무게를 못 버틴다",
+   "video": {
+    "src": "video/G.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "해빙기엔 15cm 얼음도 '쩍'! 구독 꾹",
+   "video": {
+    "src": "video/H.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  }
+ ]
+}

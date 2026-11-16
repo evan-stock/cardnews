@@ -1,0 +1,77 @@
+{
+ "id": "20261104-devilshole",
+ "media": "media/20261104-devilshole",
+ "topic": "미국 네바다 사막의 물 찬 석회암 동굴 '데빌스홀'이 수백~수천 km 밖 지진에도 출렁이는 이유(지진 세이시). 잘난지 '우물이 혼자 출렁거리는 이유' 180만 소재(사용자 11.04 14:17 회차 3번 선택, 제목은 사용자 지정 '사막 한가운데 혼자 요동치는 물의 비밀 ㄷㄷ').",
+ "hook": {
+  "t": "사막 한가운데 혼자\n요동치는 물의 '비밀'ㄷㄷ"
+ },
+ "credit": "영상: 미국 국립공원관리청(NPS) 데스밸리 · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/dark_tranquility.mp3",
+  "start": 32.0,
+  "vol": 0.45
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: Death Valley National Park(NPS) 공식 Facebook '7.1M Earthquake and Devils Hole' https://www.facebook.com/DeathValleyNPS/videos/71m-earthquake-and-devils-hole/349094665767248/ (2019.7.13, 조회 8.8만 — media/20261104-devilshole/video/nps2019.info.json = media/20261104-wb2/video/v1.info.json, 원본 영상은 wb2/video/v1.mp4, 데빌스홀 감시 카메라).",
+  "모션그래픽: scripts/story_shorts/anim_devilshole.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "NPS 데스밸리 보도자료 2018.1.24 — 알래스카만 M7.9, 약 2,000마일 떨어진 데빌스홀에 몇 분 뒤 '지진 세이시'(지진파로 갇힌 물이 출렁이는 정상파), 30cm 넘는 파도, 데빌스홀 펍피시의 유일한 서식지",
+   "url": "https://home.nps.gov/deva/learn/news/alaska-quake-shakes-water-in-devils-hole.htm"
+  },
+  {
+   "publisher": "NPS 데스밸리 보도자료 2022.9.21 — 멕시코 M7.6, 약 1,500마일, 약 4피트 파도('사막의 쓰나미'), 수백 피트 깊이 석회암 동굴, 펍피시 175마리(2022.3)",
+   "url": "https://nps.gov/deva/learn/news/9-19-2022.htm"
+  },
+  {
+   "publisher": "KQED 2019.7 — 리지크레스트 M7.1(7.5 20:20), 약 150마일 떨어진 데빌스홀 물이 10~15피트 오르내림(공원 추정), 잠수부도 바닥에 닿지 못함",
+   "url": "https://kqed.org/science/1945073/underwater-video-shows-violent-shaking-during-7-1m-socal-earthquake"
+  }
+ ],
+ "_note": "클립은 NPS 2019 영상(1920x1080, 4:3 화면이 가운데)을 crop=1200:866:440:40 → 1080x780(왼쪽 아래 NPS 로고·위 카메라 이름·아래 시각 표시 뺌, 대비↑·샤픈, -an). A = 3컷(72.5~73.8 바위 위로 쏟아지는 물 / 63.6~64.8 1.2배 확대 물보라 / 46.0~46.7 1.25배 확대 0.6배 슬로) — 컷 전환 1.3·2.5초. B 10.0~12.8 낮 카메라 좁은 바위틈 계단(제목·Stairway 글자 피해 crop 900x650+520+190, 천천히 확대). C 37.0~39.7 물속 카메라 뒤집힌 흙탕물. D 73.6~75.9 0.83배 슬로 소용돌이. H 72.5~73.9 1.4배 확대 0.5배 슬로 리플레이. 그래픽 gfx/map·section·distance = anim_devilshole.py. 효과음 없음, 원본 소리 끔(배경음악만).",
+ "scenes": [
+  {
+   "text": "사막 한가운데 동굴 물이, 갑자기 날뛰는데",
+   "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.6
+  },
+  {
+   "text": "바다도 강도 없는 사막, 바닥도 모르는 '구멍'",
+   "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "물속 카메라까지 '흙탕물'로 뒤집혔다",
+   "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.5
+  },
+  {
+   "text": "범인은 '240km' 밖에서 난 지진",
+   "video": {"src": "gfx/map.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.1
+  },
+  {
+   "text": "지진파가 땅속 물을 흔들자 '위아래로' 출렁",
+   "video": {"src": "gfx/section.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.1
+  },
+  {
+   "text": "최대 4.5m가 오르내린 '사막의 쓰나미'",
+   "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "멕시코·알래스카 지진에도 매번 '출렁'",
+   "video": {"src": "gfx/distance.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.1
+  },
+  {
+   "text": "사막 속 '지진계', 구독은 흔들림 없이",
+   "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  }
+ ]
+}

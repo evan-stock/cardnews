@@ -1,0 +1,26 @@
+{
+ "id": "20261031-bladelift",
+ "media": "media/20261031-bladelift",
+ "topic": "영국 헐 도심에서 풍력발전기 날개가 트럭 위에 하늘로 비스듬히 세워져 지나가는 이유 — '블레이드 리프터' 트레일러가 날개를 최대 60도까지 세워(필요하면 회전) 전체 길이를 줄이고, 좁은 커브·건물·표지판을 피해 간다. 날개를 세운 채로는 시속 약 5km, 바람 10m/s 아래에서만 움직인다(Iberdrola). 사용자가 10.31 오전 후보 3개 중 직접 고름.",
+ "hook": {"t": "도로 위 풍력 날개가\n'하늘'로 선 이유ㄷㄷ"},
+ "credit": "영상: X @Rainmaker1973 게시(영국 헐, 2024.4)",
+ "bgm": {"file": "assets/bgm/worthy/subway_dreams.mp3", "start": 46.0, "vol": 0.28},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": ["영상: X @Rainmaker1973 https://x.com/Rainmaker1973/status/1777619297054941193 (2024.4.9, 조회 1,157.8만·좋아요 2.5만 — 10.31 media/20261031-wa1/video/x2.json 확인). 원촬영자 미상(레딧 등에서 퍼짐). 자막·로고 없는 원본, 크롭·확대·슬로 가공."],
+ "sources": [
+  {"publisher": "Iberdrola 'Blade Lifter' — 유압으로 날개를 약 60도까지 세워 전체 길이를 줄이고 360도 회전, 커브·장애물·마을을 길을 고치지 않고 통과, 세운 채 시속 약 5km·풍속 10m/s 미만에서만 운행", "url": "https://www.iberdrola.com/about-us/our-innovation-model/blade-lifter-wind-turbine-blades-transportation"},
+  {"publisher": "The Autopian — Scheuerle 블레이드 어댑터는 날개를 최대 60도까지 기울여 좁은 모퉁이·작은 마을 길에서 표지판·굴뚝을 피함, 옆에서 걷는 기사가 리모컨으로 운전", "url": "https://theautopian.com/this-machine-sneaks-giant-wind-turbine-blades-through-tight-village-streets"},
+  {"publisher": "ITV Calendar 2024.4.3 — 헐에서 출발한 거대한 터빈 날개 특수 화물이 도로를 막음", "url": "https://itv.com/news/calendar/2024-04-03/lorry-carrying-huge-turbine-blade-holds-up-traffic"}
+ ],
+ "_note": "클립은 media/20261031-wa1/video/v2.mp4(720x1256)에서 ffmpeg 로 미리 만든 1080x780(-an). A=0~2.7 crop 640x462+0+470(1.125배), B=9.0~11.7 crop 720x520+0+330(하늘·성당 탑), C=3.2~4.9 crop 500x361+0+600(1.44배, 0.65배 슬로), D=13.4~16.1 crop 720x520+0+430, E=16.2~18.9 crop 620x448+0+480, F=19.0~21.7 crop 720x520+0+430, G=5.0~7.8 crop 640x462+0+470.",
+ "scenes": [
+  {"text": "도심 한복판, 거대한 날개가 '하늘'을 찌른다", "video": {"src": "video/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "트럭에 실린 건 '풍력발전기' 날개", "video": {"src": "video/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.5},
+  {"text": "끝이 안 보일 만큼 '긴' 날개를 왜 세웠을까?", "video": {"src": "video/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "눕혀 실으면 모퉁이마다 건물에 '쾅'", "video": {"src": "video/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "그래서 날개를 최대 '60도'까지 세운다", "video": {"src": "video/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "세우면 차가 짧아져 좁은 길도 '쓱' 통과", "video": {"src": "video/F.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "대신 시속 '5km'로 엉금엉금! 궁금증 풀렸으면 구독", "video": {"src": "video/G.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8}
+ ]
+}

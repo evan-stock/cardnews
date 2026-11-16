@@ -1,0 +1,88 @@
+{
+ "id": "20261102-skypool",
+ "media": "media/20261102-skypool",
+ "topic": "2025.3.28 미얀마 규모 7.7 지진 때 약 1,000km 떨어진 방콕에서 고층 빌딩 옥상 수영장 물이 폭포처럼 쏟아진 장면 — 멀리 가는 느리고 긴 흔들림(장주기 지진동)이 낮은 건물은 거의 안 흔들고 고층 꼭대기만 크게 흔듦. 고층은 부러지지 않게 휘도록 설계되고, 타이베이101은 87~92층에 660톤 쇠공(댐퍼)을 매달아 흔들림을 최대 40% 줄임. 사용자 11.02 21:40 선택(2차 후보 1번).",
+ "hook": {
+  "t": "지진이 나자 빌딩\n옥상에서 '폭포'가"
+ },
+ "credit": "영상: ABC News·Daily Mail(원촬영 X @mitchie_ta 등) · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/inescapable.mp3",
+  "start": 107.0,
+  "vol": 0.49
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: ABC News(호주) TikTok @abcnewsaus https://www.tiktok.com/@abcnewsaus/video/7487193334037925128 (2025.3.29, 조회 2,820만·좋아요 71.7만 — media/20261102-wc3/video/v2.info.json), 화면 표기 원촬영 X @mitchie_ta.",
+  "영상: ABC News(호주) TikTok @abcnewsaus https://www.tiktok.com/@abcnewsaus/video/7487432171171417345 (2025.3.30, 옥상 수영장 CCTV, 조회 460만 — media/20261102-wc6/video/v1.info.json), 화면 표기 X @Disasters Daily.",
+  "영상: Daily Mail TikTok @dailymail https://www.tiktok.com/@dailymail/video/7486782296809426218 (2025.3.28, Viral Press, 조회 160만 — wc6 v3.info.json).",
+  "영상: Daily Mail TikTok @dailymail https://www.tiktok.com/@dailymail/video/7353694966956264746 (2024.4.3, 타이베이101 댐퍼, 조회 120만 — wc6 v7.info.json).",
+  "모션그래픽: scripts/story_shorts/anim_skypool.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "YTN 2025.7.5 — 1Hz 이하 저주파(장주기) 지진동은 멀리 퍼지고 고층·대형 구조물에 큰 영향, 미얀마 지진 때 약 1,000km 떨어진 방콕 피해",
+   "url": "https://www.ytn.co.kr/_ln/0134_202507051043530858"
+  },
+  {
+   "publisher": "The Star 2026.4.3 — 방콕의 연약 점토 분지가 지진 흔들림을 3~6배 키울 수 있음",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/03/bangkoks-soft-soil-basin-could-amplify-earthquake-shaking-by-three-to-six-times"
+  },
+  {
+   "publisher": "YTN 2024.4.4 — 타이베이101, 87~92층 사이 약 660t 댐퍼로 흔들림 최대 40% 감소",
+   "url": "https://www.ytn.co.kr/_ln/0104_202404041518383607"
+  },
+  {
+   "publisher": "한국경제 2025.3.28 — 미얀마 만달레이 인근 규모 7.7, 방콕은 1,000km 이상 떨어짐, 방콕 공사 중 고층 건물 붕괴",
+   "url": "https://www.hankyung.com/article/2025032865427"
+  },
+  {
+   "publisher": "Khaosod English 2025.3.28 — 방콕 고층 건물이 흔들려 대피",
+   "url": "https://www.khaosodenglish.com/news/2025/03/28/strong-earthquake-rocks-bangkok-prompting-evacuations-from-swaying-buildings/"
+  }
+ ],
+ "_note": "클립은 미리 만든 1080x780(-an, 대비·채도 살짝↑, unsharp). A=wc3 v2 28.8~ crop 440x318+136+246 0.83배 슬로(옥상 폭포, ABC 표기 'Video: X/@mitchie_ta' 위쪽으로 피함), B=wc6 v1 18.0~ crop 576x416+0+330(옥상 수영장 CCTV 파도), C=wc6 v3 10.0~ crop 480x347+40+170(다른 빌딩 물 쏟아짐, Daily Mail 로고 피함), D=wc6 v7 30.0~ crop 560x405+8+300(타이베이101 댐퍼 쇠공, 아래 자막 피함), E=wc3 v2 32.0~ crop 380x275+196+246 0.71배 슬로 리플레이. 그래픽 gfx/far·sway·damper = anim_skypool.py.",
+ "scenes": [
+  {
+   "text": "고층 빌딩 꼭대기에서 물이 '콸콸'",
+   "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.7
+  },
+  {
+   "text": "옥상 수영장엔 '파도'가 덮쳤다",
+   "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.6
+  },
+  {
+   "text": "그런데 진앙은 '1,000km' 밖 미얀마",
+   "video": {"src": "gfx/far.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "멀리 온 느린 흔들림은 '고층'만 크게 흔든다",
+   "video": {"src": "gfx/sway.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "빌딩은 부러지지 않게 일부러 '휘게' 짓는다",
+   "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.7
+  },
+  {
+   "text": "타이베이101은 '660톤' 쇠공으로 버틴다",
+   "video": {"src": "gfx/damper.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 3.2
+  },
+  {
+   "text": "87층 높이에 실제로 매달린 이 쇠공",
+   "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.5
+  },
+  {
+   "text": "폭포는 빌딩이 '휘며' 버틴 흔적, 구독",
+   "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5},
+   "dur": 2.7
+  }
+ ]
+}

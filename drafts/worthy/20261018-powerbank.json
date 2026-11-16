@@ -1,0 +1,32 @@
+{
+ "id": "20261018-powerbank",
+ "media": "media/20261018-powerbank",
+ "topic": "보조배터리를 위탁수하물로 못 부치는 이유 — 열폭주가 나도 짐칸에선 아무도 못 보고, 객실에선 승무원이 바로 대응(FAA·국토부·2026.1 한진계열 기내 충전 금지)",
+ "hook": {"t": "보조배터리를 '짐'으로\n못 부치는 이유ㄷㄷ"},
+ "credit": "영상: KSL News Utah (CC BY 3.0) · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/conspiracy_theory.mp3", "start": 10.5, "vol": 0.6},
+ "orig_vol": 0,
+ "scenes": [
+  {"text": "리튬 배터리가 갑자기 '확' 불을 뿜었다", "video": {"src": "video/tmp_fire.mp4", "start": 0.0, "x": 0.3, "y": 0.5}, "dur": 3.2},
+  {"text": "한 칸이 타면 옆 칸까지 번지는 '열폭주'", "video": {"src": "video/gfx/domino.mp4", "start": 0.4}, "dur": 3.6},
+  {"text": "그런데 위험해서라면 왜 '들고' 타는 건 될까?", "video": {"src": "video/gfx/cargo.mp4", "start": 0.0}, "dur": 3.2},
+  {"text": "짐칸에서 불나면 '아무도' 못 보기 때문", "video": {"src": "video/gfx/cargo.mp4", "start": 1.2}, "dur": 2.6},
+  {"text": "객실에선 승무원이 '바로' 달려와 끈다", "video": {"src": "video/gfx/cabin.mp4", "start": 0.2}, "dur": 3.4},
+  {"text": "그래서 선반 위 대신 '몸 가까이' 두라고 한다", "video": {"src": "video/gfx/bin.mp4", "start": 0.0}, "dur": 3.4},
+  {"text": "올해 1월부턴 기내 '충전'까지 막은 항공사도", "video": {"src": "video/gfx/ban.mp4", "start": 0.0}, "dur": 3.4},
+  {"text": "단자엔 '절연 테이프', 여행 전 '쓸모'는 구독으로", "video": {"src": "video/gfx/tape.mp4", "start": 0.0}, "dur": 3.4}
+ ],
+ "products": [
+  {"name": "보조배터리 방염 파우치", "keyword": "보조배터리 방염 파우치"},
+  {"name": "절연 테이프", "keyword": "절연 테이프"},
+  {"name": "기내용 보조배터리 100Wh 이하", "keyword": "보조배터리 10000mAh"}
+ ],
+ "photo_credits": ["KSL News Utah 'State fire marshal warns of lithium-ion battery dangers' — CC BY 3.0 (Wikimedia Commons)", "모션그래픽: 오늘의쓸모 직접 제작(scripts/story_shorts/anim_powerbank.py)"],
+ "sources": [
+  {"publisher": "FAA PackSafe 'Lithium Batteries' (보조배터리 위탁수하물 금지, 객실 승무원 대응 훈련)", "url": "https://www.faa.gov/hazmat/packsafe/more_info/?hazmat=7"},
+  {"publisher": "뉴시스 '국토부, 기내 보조배터리 절연테이프 붙여 비닐백 보관'", "date": "2025.4.30", "url": "https://mobile.newsis.com/view/NISX20250430_0003161001"},
+  {"publisher": "SBS Biz '보조배터리 비행기 반입규정 바뀐다…비닐봉투 없던 일로'", "date": "2025.8.27", "url": "https://biz.sbs.co.kr/amp/article/20000255710"},
+  {"publisher": "헤럴드경제 '한진그룹 5개 항공사, 26일부터 기내 보조배터리 사용 금지'", "date": "2026.1.23", "url": "https://www.heraldk.com/article/2026012311395810227"}
+ ],
+ "_note": "video/tmp_fire.mp4 = img1.webm(KSL) -ss 33.8 -t 4.5 crop=610:440:0:0(아래 방송 자막 띠 제외),scale=1280:-2 (커밋 안 함). gfx/*.mp4 = anim_powerbank.py 출력."
+}

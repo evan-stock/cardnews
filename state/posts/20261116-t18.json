@@ -1,0 +1,50 @@
+{
+ "id": "20261116-t18",
+ "kind": "short",
+ "status": "published",
+ "created_at": "2026-11-16T18:39:44.072991+09:00",
+ "publish_at": "2026-11-16T18:39:44.073010+09:00",
+ "publish_now": true,
+ "topic": "한 원본(11.16 18:07, ★사람 행동형 2편째): 집사가 고양이 머리에 뽀뽀할 때마다 고양이가 눈을 질끈 감았다가 고개를 들고 '야옹' 대답 — 6번 뽀뽀, 6번 대답(5번째엔 윙크). 원본 YouTube 'اتفيتيت' (CH1wIILrzmE, 2026.10.31, 11.8초, 1080x1920, 자막·워터마크·덧입힌 음악 없음). 처음부터 끝까지 그대로. 서버 렌더 누적(1.5/3.2/5.1/6.5/8.5/11.6)으로 장면 시작 = 원본 시각. 원본 소리 0.35(첫 장면 0.5, 울음+내레이션 겹침 최고 -0.5dB → -1dB 이하로). bgm curious_kitten.",
+ "sources": [
+  {
+   "publisher": "YouTube اتفيتيت - My Cat Answers Every Single Kiss",
+   "url": "https://www.youtube.com/shorts/CH1wIILrzmE",
+   "date": "2026-10-31"
+  }
+ ],
+ "seconds": 11.559999999999999,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261116-t18/short.mp4"
+ ],
+ "app_file": "media/20261116-t18/short_nobgm.mp4",
+ "yt": {
+  "title": "고양이한테 뽀뽀하면 안 되는 이유ㅋㅋ #shorts",
+  "description": "뽀뽀 한 번, 대답 한 번… 몇 번을 해도 빠짐없이 돌아오는 답장 🐱\n\n🎥 원본 영상: YouTube اتفيتيت https://www.youtube.com/shorts/CH1wIILrzmE\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#오늘의털뭉치 #고양이 #냥이 #고양이반응 #말하는고양이 #동물쇼츠\n\n출처: YouTube اتفيتيت - My Cat Answers Every Single Kiss 2026-10-31\n사진·영상: YouTube اتفيتيت\n음성: Typecast\n\n#shorts #오늘의털뭉치 #고양이 #냥이 #고양이반응",
+  "tags": [
+   "오늘의털뭉치",
+   "고양이",
+   "냥이",
+   "고양이반응",
+   "말하는고양이",
+   "치즈냥이",
+   "동물쇼츠",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "6347d1f64353",
+ "tg_video": 2779,
+ "tg_msg": 2780,
+ "decided_at": "2026-11-16T18:57:27.787806+09:00",
+ "yt_id": "XeZvHDAdMw8",
+ "permalink": "https://youtube.com/shorts/XeZvHDAdMw8",
+ "published_at": "2026-11-16T18:57:30.275846+09:00"
+}

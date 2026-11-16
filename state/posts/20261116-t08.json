@@ -1,0 +1,50 @@
+{
+ "id": "20261116-t08",
+ "kind": "short",
+ "status": "published",
+ "created_at": "2026-11-16T08:36:20.713201+09:00",
+ "publish_at": "2026-11-16T08:36:20.713224+09:00",
+ "publish_now": true,
+ "topic": "한 원본(11.16 08:07, ★첫 장면 동물 대사형 3편째·'삐진 동물' 시리즈, 감정 유형: 삐짐/외면): 발톱을 깎은 뒤 엄마가 간식을 내밀자 장모 저먼 셰퍼드가 고개를 돌려 외면 → 얼굴을 돌려 세워도·앞발을 잡아도 외면 → 잠시 뒤 일어나 공을 물고 와서 먼저 앞발을 내밂. 원본 YouTube 'Supawstar | Dogmom Tarash' 본인 채널(Z77BJ7u5wPg, 2026.10.21, 78초, 1080x1920, 자막·워터마크 없음). 원본 0~20초·34~36초·46~62초를 시간순으로(원본 44.5초에 원작자 컷이 있음). 원본 소리 0(덧입힌 음악), bgm curious_kitten. 서버 렌더(mode render) 확인 뒤 장면 구간 겹침 정리(공 장면 48.5, 펀치라인 61.5).",
+ "sources": [
+  {
+   "publisher": "YouTube Supawstar | Dogmom Tarash - Nail Cut Kiya, Ab Mumma Se Baat Band",
+   "url": "https://www.youtube.com/shorts/Z77BJ7u5wPg",
+   "date": "2026-10-21"
+  }
+ ],
+ "seconds": 20.52,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261116-t08/short.mp4"
+ ],
+ "app_file": "media/20261116-t08/short_nobgm.mp4",
+ "yt": {
+  "title": "발톱 깎은 날 단단히 삐진 셰퍼드가 엄마한테 보인 반응ㅋㅋ #shorts",
+  "description": "발톱을 깎자마자 내민 간식, 고개를 돌려 버린 셰퍼드의 선택 🐶\n\n🎥 원본 영상: YouTube Supawstar | Dogmom Tarash https://www.youtube.com/shorts/Z77BJ7u5wPg\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#오늘의털뭉치 #셰퍼드 #저먼셰퍼드 #삐진강아지 #댕댕이 #동물쇼츠\n\n출처: YouTube Supawstar | Dogmom Tarash - Nail Cut Kiya, Ab Mumma Se Baat Band 2026-10-21\n사진·영상: YouTube Supawstar | Dogmom Tarash\n음성: Typecast\n\n#shorts #오늘의털뭉치 #셰퍼드 #저먼셰퍼드 #삐진강아지",
+  "tags": [
+   "오늘의털뭉치",
+   "셰퍼드",
+   "저먼셰퍼드",
+   "삐진강아지",
+   "댕댕이",
+   "강아지",
+   "동물쇼츠",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "8b5c0054107c",
+ "tg_video": 2673,
+ "tg_msg": 2674,
+ "decided_at": "2026-11-16T08:43:40.678934+09:00",
+ "yt_id": "g5vK62CL1rI",
+ "permalink": "https://youtube.com/shorts/g5vK62CL1rI",
+ "published_at": "2026-11-16T08:43:44.156510+09:00"
+}

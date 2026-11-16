@@ -1,0 +1,122 @@
+{
+ "id": "20261105-agarwood",
+ "media": "media/20261105-agarwood",
+ "topic": "침향(아퀼라리아): 살아 있는 나무에 칼집을 내고 토치로 지지는 이유 — 상처·균 감염에 맞서 나무가 검은 방어 수지를 만들고 그게 침향이 됨. 자연에선 일부 나무만 생겨 농장에선 일부러 상처를 냄. 사용자 11.05 14:17 회차 2번 선택(잘난지 150만 소재 재활용, 제목은 사용자 지정 '금보다 비싼 나무의 상처').",
+ "hook": {
+  "t": "금보다 비싼\n나무의 '상처'"
+ },
+ "credit": "영상: Miki Lee(@lee_miki) · @vanessa_cwy · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/inescapable.mp3",
+  "start": 107.0,
+  "vol": 0.49
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @lee_miki(Miki Lee) https://www.tiktok.com/@lee_miki/video/7491340050345528583 (중국 남부 침향나무 칼집·토치 작업, 촬영자 본인 게시, 110만) — media/20261105-agarwood/video/v1.mp4. 'Miki Lee' 워터마크 구간(8.5~10초, 11.5초 이후)은 피함.",
+  "영상: TikTok @vanessa_cwy https://www.tiktok.com/@vanessa_cwy/video/7206315072178736386 (70년 된 캄보디아산 침향 1.4kg, 20만 링깃이라고 소개) — media/20261105-agarwood/video/v4.mp4. 아래 영어 자막은 크롭으로 뺌.",
+  "모션그래픽: scripts/story_shorts/anim_agarwood.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "Wikipedia 'Agarwood' — 아퀼라리아 나무가 상처·곰팡이 감염에 반응해 짙은 수지를 만들며 이것이 침향, 감염 전 나무 속은 옅은 색에 향이 거의 없음",
+   "url": "https://en.wikipedia.org/wiki/Agarwood"
+  },
+  {
+   "publisher": "PMC9181942 리뷰(2022) — 침향 형성은 상처·미생물 감염에 대한 방어 반응, 인공 유도법(구멍·못·화학 처리·불 등 상처 내기)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9181942/"
+  },
+  {
+   "publisher": "Premiere Peau 'Agarwood: the $100,000/kg tree' — 최상급 침향 값, 야생 아퀼라리아 남획(CITES 부속서 II)",
+   "url": "https://premierepeau.com/blogs/news/agarwood-the-100-000-kg-tree-poached-to-extinction-premiere-peau"
+  },
+  {
+   "publisher": "@lee_miki 영상 설명 — 중국 남부에서 재배하는 아퀼라리아에 가스 불로 상처를 내 수지를 유도(주사 방식 대신)",
+   "url": "https://www.tiktok.com/@lee_miki/video/7491340050345528583"
+  }
+ ],
+ "_note": "원본 v1(576x1024). A=3컷: v1 0.0~1.3 토치가 칼집에 들어간 근접(crop 576x416 y90) / 6.4~7.6 그을린 칼집 1.2배 확대(480x347 x60 y300) / 4.3~5.15 아래 칼집에 토치 0.7배 슬로(y330) → 컷 전환 1.3·2.5초. B v1 18.9~20.9 톱날이 줄기에 박힘 0.74배(520x376 y285, 워터마크 피함). C v1 2.0~3.4 불꽃 0.53배 슬로. D v4 0.0~1.0 침향 결 근접 0.77배 + 7.0~8.5 토치로 침향 데우기. H v1 0~1.6 1.33배 확대 0.56배 슬로 리플레이. 대비·채도 살짝↑·샤픈. 그래픽 gfx/wound·rare·price = anim_agarwood.py. 효과음 없음, 원본 소리 끔.",
+ "scenes": [
+  {
+   "text": "멀쩡한 나무에 왜 불을 넣을까요?",
+   "video": {
+    "src": "clip/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.6
+  },
+  {
+   "text": "톱으로 칼집까지 '쭉' 내 놓고",
+   "video": {
+    "src": "clip/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "나무를 죽이려는 걸까?",
+   "video": {
+    "src": "clip/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "사실 이 나무, 다치면 '향'을 만들어요",
+   "video": {
+    "src": "gfx/wound.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "자연에선 몇 그루뿐이라 일부러 상처를",
+   "video": {
+    "src": "gfx/rare.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "그렇게 생긴 검은 덩어리가 '침향'",
+   "video": {
+    "src": "clip/D.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "이 조각 하나가 약 6천만 원이래요",
+   "video": {
+    "src": "gfx/price.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "상처가 보물 되는 나무, 다음 편도 구독!",
+   "video": {
+    "src": "clip/H.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  }
+ ]
+}

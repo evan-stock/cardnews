@@ -1,0 +1,76 @@
+{
+ "id": "20261027-forestbreath",
+ "media": "media/20261027-forestbreath",
+ "topic": "폭풍 때 숲 바닥이 숨 쉬듯 통째로 부풀었다 꺼지는 '숨 쉬는 숲'. 지진·땅속 생물이 아니라 강풍에 밀린 나무가 지렛대처럼 뿌리를 들어 올리는 것. 비에 젖어 흙이 물러지면 뿌리와 흙의 결속이 약해져 잘 들썩임. 바람이 더 세거나 오래 불면 뿌리가 끊겨 나무가 쓰러질 수 있음(수목 전문가 Mark Vanderwouw, Live Science 2018). 2018.10 캐나다 퀘벡 사크레쾨르, 2023.10 스코틀랜드 머그독(폭풍 바벳), 2023.12 미국 그레이트스모키산맥",
+ "hook": {
+  "t": "폭풍 속 숲 바닥이\n'숨' 쉬는 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: Sky News(David Nugent-Malone) · AccuWeather(@r.c.dover)",
+ "bgm": {
+  "file": "assets/bgm/worthy/bit_shift.mp3",
+  "start": 3.0,
+  "vol": 0.64
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상 1: Sky News 공식 TikTok @skynews 7292495785093057825 (2023.10.20 스코틀랜드 머그독, 폭풍 바벳 — 촬영 David Nugent-Malone, 개 산책 중). 빨간 자막 상자·이름 표시 구간은 크롭으로 피함",
+  "영상 2: AccuWeather 공식 TikTok @accuweather 7312569597142584606 (2023.12 미국 그레이트스모키산맥 — 원촬영 Instagram @r.c.dover). 위쪽 표시 글자는 크롭으로 피함"
+ ],
+ "sources": [
+  {
+   "publisher": "Live Science 2018.10 'The Earth Breathes in Incredibly Creepy Video from Canadian Forest' — 퀘벡 사크레쾨르, 수목 전문가 Mark Vanderwouw: 비에 젖은 흙이 뿌리를 놓고, 나무 꼭대기를 미는 바람의 힘이 뿌리로 전해져 땅이 들썩임. 더 세거나 오래 불면 뿌리가 끊기고 숲이 쓰러지기 시작",
+   "url": "https://www.livescience.com/63915-forest-breathing-canada-video.html"
+  },
+  {
+   "publisher": "IFLScience 2018.10 'What The Hell Is Going On In This Bizarre Viral Video Of A Forest Breathing?' — 같은 설명, 바람이 충분히 세고 길면 일부 나무가 쓰러짐",
+   "url": "https://www.iflscience.com/environment/what-the-hell-is-going-on-in-this-bizarre-viral-video-of-a-forest-breathing/"
+  },
+  {
+   "publisher": "LBC 2023.10.21 — 폭풍 바벳 때 스코틀랜드 머그독에서 개 산책하던 David Nugent-Malone 이 촬영, 강풍이 뿌리를 들어 올려 숲 바닥이 오르내림",
+   "url": "https://www.lbc.co.uk/news/uk/storm-babet-video-wild-winds/"
+  },
+  {
+   "publisher": "ExplorersWeb 'Natural Wonders: Breathing Forest' — 젖은 흙 + 강풍으로 흔들리는 나무의 비틀림이 뿌리를 움직임, 접시 모양 뿌리를 가진 나무에서 흔함",
+   "url": "https://explorersweb.com/natural-wonders-breathing-forest/"
+  }
+ ],
+ "_note": "v2.mp4 = Sky News TikTok 576x1024 48초(4~10초 잔디째 땅이 들려 시커먼 틈, 이름 표시 위 0.13~0.16·빨간 자막 0.68~0.8 → y 0.27 로 피함, 18~26초 빨간 자막 위쪽, 27~33초 뿌리 들썩임 자막 없음). v1.mp4 = AccuWeather TikTok 576x1024 22.4초(위 0.14~0.17 INSTAGRAM/@R.C.DOVER·로고 → 나무 장면 y 0.33, 땅 장면 y 1.0). 원본 소리 끔(바람 잡음·말소리).",
+ "scenes": [
+  {
+   "text": "숲 바닥이 통째로 '들썩'인다",
+   "video": {"src": "video/v2.mp4", "start": 4.3, "x": 0.5, "y": 0.31, "speed": 1.0},
+   "dur": 3.0
+  },
+  {
+   "text": "지진도, 땅속 괴물도 아니다",
+   "video": {"src": "video/v2.mp4", "start": 7.4, "x": 0.5, "y": 0.31, "speed": 1.0},
+   "dur": 2.5
+  },
+  {
+   "text": "범인은 강풍에 휘청이는 '나무'",
+   "video": {"src": "video/v1.mp4", "start": 0.5, "x": 0.5, "y": 0.33, "speed": 1.0},
+   "dur": 2.8
+  },
+  {
+   "text": "비에 젖어 흙이 물러지면 뿌리가 붙잡지 못하고",
+   "video": {"src": "video/v1.mp4", "start": 9.0, "x": 0.5, "y": 1.0, "speed": 1.0},
+   "dur": 2.9
+  },
+  {
+   "text": "나무가 밀릴 때마다 뿌리가 땅을 '들어 올린다'",
+   "video": {"src": "video/v2.mp4", "start": 27.5, "x": 0.5, "y": 0.5, "speed": 1.0},
+   "dur": 3.0
+  },
+  {
+   "text": "바람이 더 세지면 뿌리가 끊겨 숲이 '쓰러진다'",
+   "video": {"src": "video/v1.mp4", "start": 13.0, "x": 0.5, "y": 0.33, "speed": 1.0},
+   "dur": 2.9
+  },
+  {
+   "text": "땅이 숨 쉬면 구경 말고 대피! 구독하면 더 알려 드려요",
+   "video": {"src": "video/v2.mp4", "start": 5.3, "x": 0.5, "y": 0.31, "speed": 1.0},
+   "dur": 2.9
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+[
+ {
+  "id": "20261022-fakebookstore",
+  "slot": "lunch",
+  "mode": "render",
+  "topic": "프랑스 약탈 속 '살아남은 유일한 서점' 사진은 AI 영상이었다 + 실제로는 서점도 털렸다",
+  "category": "해외 사건 + 팩트체크 반전",
+  "emotion": "놀람(배신감 — 나도 믿었는데)",
+  "core": "10/17 프랑스 물가 시위 약탈 속 서점 주인이 WELCOME/OPEN 팻말 앞에서 커피 마시며 책 읽는 사진이 '지식인은 훔치지 않고 도둑은 읽지 않는다'와 함께 국내외 확산(루리웹 유머 베스트 조회 3.7만, 10/20). TF1 INFO 팩트체크(10/21): 원본은 AI 생성 영상, 그날 서점들은 실제로 부서지고 털림. 그르노블 모미 망가(창업 42년, 2022년 개점 매장): 30분 약탈, BD·만화·피규어 가져가고 남은 건 부숨(ICI 10/19, 대표 파트리크 코르베). 파리 11구 만화 서점 통째로 비워짐, 파리 어린이 서점·스트라스부르·툴루즈 서점 파손, 낭트·릴 프낙 약탈(Livres Hebdo 10/19).",
+  "risk": "TF1 원문은 직접 못 열고 TF1 요약 인용 기사(titrespresse)로 확인 → 'TF1 INFO 팩트체크'로만 쓰고 세부 추적 과정은 안 씀. 사진 속 인물은 AI 생성. 정당 책임론 없음, 대표 말대로 '시위대가 아닌 약탈범'.",
+  "slides": [
+   {
+    "lay": "one",
+    "t": "약탈 속 살아남은 유일한 서점?\n이 사진 '가짜'였다"
+   },
+   {
+    "sub": "국내 커뮤니티까지 퍼진 사진",
+    "t": "'지식인은 훔치지 않고\n도둑은 읽지 않는다'",
+    "b": "프랑스 10월 17일 시위 약탈 속에도 멀쩡했다는 서점 사진입니다. 주인은 팻말을 세우고 커피를 마시며 책을 읽습니다."
+   },
+   {
+    "sub": "프랑스 TF1 팩트체크",
+    "t": "원본은 'AI가 만든 영상'",
+    "b": "TF1 INFO가 이 사진의 출처를 추적했더니 인공지능으로 만든 영상의 한 장면이었습니다."
+   },
+   {
+    "sub": "그날 실제 그르노블",
+    "t": "42년 된 만화 서점\n30분 만에 '쑥대밭'",
+    "b": "만화책·피규어를 쓸어 갔고, 못 가져간 건 바닥에 던져 부쉈습니다. 대표는 \"말릴 사람이 아무도 없었다\"고 했습니다."
+   },
+   {
+    "sub": "그르노블만이 아니었다",
+    "t": "도둑도 '책'은 가져갔다",
+    "b": "파리의 만화 서점은 통째로 비워졌고, 어린이 서점과 지역 서점들도 유리창이 깨졌습니다."
+   },
+   {
+    "t": "그 사진 믿었던 친구에게\n'보내주세요'",
+    "b": "팔로우하면 매일 화제 소식 · 가짜도 먼저 걸러드려요"
+   }
+  ],
+  "images": [
+   "viral_clean",
+   "viral_sign",
+   "viral_clean",
+   "press02",
+   "press03",
+   "viral_clean"
+  ],
+  "caption": "[약탈 속 살아남은 유일한 서점? 그 사진, 가짜였습니다]\n\n17일(현지시각) 프랑스 고물가 시위 때 일부가 상점을 약탈하는 와중에도, 한 서점만은 멀쩡했다는 사진이 퍼졌습니다. 'WELCOME / OPEN' 팻말 앞에서 주인이 커피를 마시며 책을 읽는 장면입니다. 국내 커뮤니티에서도 '지식인은 훔치지 않고, 도둑은 읽지 않는다'는 말과 함께 인기글에 올랐습니다.\n\n하지만 프랑스 방송 TF1의 팩트체크 코너 TF1 INFO는 이 사진이 인공지능으로 만든 영상에서 나온 장면이라고 밝혔습니다. 그리고 그날 실제로는 서점들도 부서지고 털렸다고 짚었습니다.\n\n그르노블에서 42년째 만화 서점을 해 온 '모미 망가'는 30분 동안 약탈당했습니다. 대표 파트리크 코르베 씨는 프랑스 지역방송 ICI에 \"만화책과 피규어를 가져갔고, 못 가져간 건 바닥에 던져 부쉈다\"며 \"말릴 사람이 아무도 없었다\"고 말했습니다. 그는 약탈한 사람들은 시위대가 아니라고 선을 그었습니다. 출판 전문지 리브르 엡도에 따르면 파리의 한 만화 서점은 통째로 비워졌고, 파리 어린이 서점과 스트라스부르·툴루즈 서점, 낭트·릴의 프낙 매장도 피해를 입었습니다.\n\n그럴듯한 사진일수록 한 번 더 의심해 보세요. 여러분은 이 사진, 믿으셨나요? 💬\n\n그 사진 믿었던 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "hashtags": [
+   "프랑스시위",
+   "팩트체크",
+   "AI사진",
+   "가짜뉴스",
+   "해외이슈"
+  ],
+  "sources": [
+   {
+    "publisher": "TF1 INFO(titrespresse 인용)",
+    "date": "2026.10.21",
+    "url": "https://www.titrespresse.com/26010232603/verif-librairie-pillages"
+   },
+   {
+    "publisher": "ICI Isère",
+    "date": "2026.10.19",
+    "url": "https://www.ici.fr/emissions/l-info-d-ici-matin-ici-isere/c-est-devaste-la-librairie-momie-manga-saccagee-par-des-casseurs-en-marge-de-la-manifestation-du-17-octobre-2954115"
+   },
+   {
+    "publisher": "Livres Hebdo",
+    "date": "2026.10.19",
+    "url": "https://www.livreshebdo.fr/article/manifestations-du-17-octobre-des-librairies-attaquees-et-pillees-dans-plusieurs-villes"
+   },
+   {
+    "publisher": "ActuaLitté",
+    "date": "2026.10",
+    "url": "https://actualitte.com/article/134705/librairie/apres-les-violences-du-17-octobre-le-bilan-s-alourdit-pour-les-librairies"
+   }
+  ],
+  "photo_credits": [
+   "표지·2장: SNS 확산 이미지(AI 생성 영상 장면, TF1 INFO 확인)",
+   "4·5장: Radio France / ICI Isère"
+  ]
+ }
+]

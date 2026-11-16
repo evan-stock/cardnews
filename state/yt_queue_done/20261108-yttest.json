@@ -1,0 +1,18 @@
+{
+ "id": "20261108-yttest",
+ "finished_at": "2026-11-08T04:51:42+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/1hJnjC2lUUg",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": false,
+   "file": "media/20261108-yttest/video/y1.mp4",
+   "audio": "media/20261108-yttest/video/y1_audio.m4a",
+   "mb": 6.0,
+   "view_count": 1492991,
+   "title": "잠수사 최대의 적은 상어가 아닌 '델타 P'"
+  }
+ ]
+}

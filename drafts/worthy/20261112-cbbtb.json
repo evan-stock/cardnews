@@ -1,0 +1,132 @@
+{
+ "id": "20261112-cbbtb",
+ "media": "media/20261112-cbbtb",
+ "topic": "미국 체서피크 베이 브리지-터널(1964, 28.3km) — 바다 한가운데 인공섬에서 다리가 해저터널로 들어간다. 미 해군이 '다리가 무너지면(사보타주 등) 노퍽 해군기지가 대서양과 끊긴다'며 항로 위 다리를 반대해, 배가 다니는 두 항로(심블 숄스·체서피크 채널)만 1.6km 터널 2개로, 인공섬 4개로 다리와 터널을 이었다. 사용자 11.12 09:17 회차 3번 선택.",
+ "hook": {
+  "t": "이 고속도로는\n'무너진' 게 아닙니다"
+ },
+ "credit": "영상: banginbeamer · Filmed(YouTube) · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/subway_dreams.mp3",
+  "start": 46.0,
+  "vol": 0.28
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "장면 1·2·9·10: banginbeamer 'Chesapeake Bay Bridge Tunnel Virgina Beach Drone Phantom 3 & OSMO'(2016.02.22) https://www.youtube.com/watch?v=BJMGgbJZYwI — media/20261112-wa2/video/y1.mp4(맥북 유튜브 받기, 조회 39.5만, 촬영자 본인).",
+  "장면 3: Filmed 'Chesapeake Bay Bridge Tunnel | Eastern Shore Virginia | Night Timelapse in 4K'(2018.01.08, 2017.1.8 촬영) https://www.youtube.com/watch?v=yaMCOO0rq8c — media/20261112-cbbt2/video/y2.mp4(맥북 유튜브 받기, 촬영자 본인).",
+  "모션그래픽: scripts/story_shorts/anim_cbbt.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "Wikipedia 'Chesapeake Bay Bridge–Tunnel' — 1964.4 개통, 해안 간 17.6마일(28.3km), 심블 숄스·체서피크 항로 밑 1마일(1.6km) 터널 2개, 인공섬 4개, 미 해군이 '다리 붕괴(사보타주 가능성)로 노퍽 해군기지가 대서양과 끊길 수 있다'며 심블 숄스 항로 위 다리에 반대",
+   "url": "https://en.wikipedia.org/wiki/Chesapeake_Bay_Bridge%E2%80%93Tunnel"
+  },
+  {
+   "publisher": "PBS Building Big 'Chesapeake Bay Bridge-Tunnel' — 선박 운항이 중요해 두 곳을 1마일 터널로, 1965 미국토목학회 '뛰어난 토목 업적'",
+   "url": "https://www.pbs.org/wgbh/buildingbig/wonder/structure/chesapeake_bay_tun.html"
+  },
+  {
+   "publisher": "Roads to the Future 'Bridge-Tunnel Facilities in Virginia' — 해군은 노퍽·햄프턴로즈 하류 횡단을 터널로 해 달라고 요구해 왔음(VDOT 1999 연구 인용)",
+   "url": "https://roadstothefuture.com/Bridge_Tunnels_VA.html"
+  },
+  {
+   "publisher": "서울신문 2010.12.05 '바닷속을 달린다…거가대교 9일 준공'(다음 편 예고용)",
+   "url": "https://m.go.seoul.co.kr/news/2010/12/05/20101205800049"
+  }
+ ],
+ "_note": "사용자 11.12 14:30 수정 지시 \"초반을 롱테이크로 바꿔 뭐가 신기하다는건지 안보임\" → 0~3초 빠른 컷(1.4초 2컷) 대신 롱테이크 3장면: L1 드론 한 테이크(원본 25.35~28.3초, 0.7배 슬로 4.2초, 원본 전체 폭으로 수평선까지 이어진 다리 + 끊긴 섬, 빨간 화살표 '바다 한가운데서 길이 뚝?') / L2 위에서 본 섬 한 테이크(19.9~22.5초, 0.7배 3.7초, 1.54배, 화살표 '차들이 아래로 쑥') / L3 밤 타임랩스 다리→터널 입구→터널 안 한 테이크(60.0~63.2초). 실사 0~11.1초 → 그래픽 11.1~20.9초 → 실사 2장면. 답(해군 반대)은 11.1초 navy 그래픽에서 처음. 효과음 없음, 원본 소리 끔.",
+ "scenes": [
+  {
+   "text": "28km 바다 위 다리가 작은 섬에서 뚝 끊겼는데",
+   "video": {
+    "src": "clip/L1.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 4.0
+  },
+  {
+   "text": "섬에 닿은 차들은 가운데 길로 쑥 내려가더니",
+   "video": {
+    "src": "clip/L2.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.7
+  },
+  {
+   "text": "다리로 이으면 될 걸, 왜 굳이 바닷속으로 들어갈까?",
+   "video": {
+    "src": "clip/L3.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.2
+  },
+  {
+   "text": "알고 보니 이곳은 해군 군함의 출입구",
+   "video": {
+    "src": "gfx/navy.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "해군은 다리가 무너지면 군함이 갇힌다며 반대했다",
+   "video": {
+    "src": "gfx/navy.mp4",
+    "start": 2.5,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "그래서 배가 다니는 두 곳만 바닷속 터널로",
+   "video": {
+    "src": "gfx/section.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "인공섬 4개로 다리와 터널을 이어 1964년 완성",
+   "video": {
+    "src": "gfx/section.mp4",
+    "start": 2.6,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "덕분에 배들은 다리 걱정 없이 그 위를 지난다",
+   "video": {
+    "src": "clip/F.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "거가대교가 바닷속으로 들어간 이유는 다음 편에서, 구독!",
+   "video": {
+    "src": "clip/G.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  }
+ ]
+}

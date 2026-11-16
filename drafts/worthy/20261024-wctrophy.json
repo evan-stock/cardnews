@@ -1,0 +1,133 @@
+{
+ "id": "20261024-wctrophy",
+ "media": "media/20261024-wctrophy",
+ "topic": "월드컵 트로피의 진짜 정체 — 우승팀이 가져가는 건 금도금 청동 복제품이고 진품은 FIFA가 보관. 옛 트로피(줄리메컵)는 1966년 런던 전시회에서 도난당했다가 일주일 뒤 산책하던 개 피클스가 찾아냈고, 1983년 브라질에서 또 도난당해 끝내 못 찾음(녹였다고 알려짐)",
+ "hook": {
+  "t": "월드컵 '트로피'에\n숨겨진 진짜 정체ㄷㄷ"
+ },
+ "credit": "영상: FOX Soccer(TikTok @foxsoccer) · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/darkest_child.mp3",
+  "start": 54.0,
+  "vol": 0.56
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "메시가 들어 올린 이 '트로피'",
+   "video": {
+    "src": "video/foxall.mp4",
+    "start": 25.2,
+    "x": 0.5,
+    "y": 0.1,
+    "speed": 0.6
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "다들 우승팀이 갖고 가는 줄 알지만",
+   "video": {
+    "src": "video/fox.mp4",
+    "start": 10.0,
+    "x": 0.5,
+    "y": 0.6
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "진품은 FIFA가 '회수'하고 복제품을 준다",
+   "gfx": "gfx/swap.mp4",
+   "start": 0,
+   "dur": 3.8
+  },
+  {
+   "text": "옛 트로피가 두 번이나 겪은 '사건' 때문",
+   "video": {
+    "src": "video/foxall.mp4",
+    "start": 3.95,
+    "x": 0.5,
+    "y": 0.1,
+    "speed": 0.35
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "1966년 런던 전시회에서 '도둑'맞았고",
+   "gfx": "gfx/steal.mp4",
+   "start": 0,
+   "dur": 3.8
+  },
+  {
+   "text": "찾아낸 건 경찰이 아니라 '개'였다",
+   "gfx": "gfx/dog.mp4",
+   "start": 0,
+   "dur": 3.8
+  },
+  {
+   "text": "덕분에 그해 잉글랜드가 이 컵을 들었다",
+   "video": {
+    "src": "video/foxall.mp4",
+    "start": 4.66,
+    "x": 0.5,
+    "y": 0.05,
+    "speed": 0.38
+   },
+   "dur": 2.5
+  },
+  {
+   "text": "1983년 브라질에서 또 도난, 끝내 '못' 찾았다",
+   "gfx": "gfx/gone.mp4",
+   "start": 0,
+   "dur": 3.5
+  },
+  {
+   "text": "지금 진품은 우승 선수·국가원수만 '만질' 수 있다",
+   "video": {
+    "src": "video/foxall.mp4",
+    "start": 27.0,
+    "x": 0.5,
+    "y": 0.1,
+    "speed": 0.8
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "숨은 사연이 더 궁금하면 '구독' 꾹",
+   "video": {
+    "src": "video/fox.mp4",
+    "start": 18.3,
+    "x": 0.5,
+    "y": 0.4
+   },
+   "dur": 2.6
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: FOX Soccer 공식 TikTok @foxsoccer — 7178564243002936622(2022.12.18 카타르 월드컵 아르헨티나 우승 시상식), 7178728981716520238('Every World Cup Trophy Lift Since 1954' — 1966 잉글랜드 바비 무어·줄리메컵·2022 메시)",
+  "그래픽: 오늘의쓸모 직접 제작(scripts/story_shorts/anim_wctrophy.py — 트로피는 실제 디자인을 본뜨지 않은 단순 모양)"
+ ],
+ "sources": [
+  {
+   "publisher": "Wikipedia '1966 theft of the Jules Rimet Trophy' — 1966.3.20 웨스트민스터 센트럴홀 우표 전시회(Stampex)에서 도난, 3.27 David Corbett 의 개 Pickles 가 신문지에 싼 트로피 발견, 보상금 총 6,000파운드",
+   "url": "https://en.wikipedia.org/wiki/1966_theft_of_the_Jules_Rimet_Trophy"
+  },
+  {
+   "publisher": "History(UK) 'Pickles the dog' — 몸값 1만5천 파운드 요구, 신문지에 싸 끈으로 묶은 꾸러미, 범인은 끝내 못 밝힘(Edward Betchley 장물 취급 유죄)",
+   "url": "https://www.history.co.uk/articles/pickles-the-dog-world-cup"
+  },
+  {
+   "publisher": "Sports Illustrated 2018.7.14 — 우승팀은 금도금 복제품(FIFA World Cup Winners' Trophy), 줄리메컵은 1970년 브라질 영구 소유 후 1983년 도난·미회수, 녹였다고 알려짐",
+   "url": "https://www.si.com/.amp/soccer/2018/07/14/world-cup-trophy-weight-height-size-history-details"
+  },
+  {
+   "publisher": "Outlook Luxe 'FIFA World Cup trophy rules explained' — 진품은 FIFA 소유, 금도금 청동 복제품, 만질 수 있는 사람 제한, 옛 트로피 도난 이력으로 FIFA가 더 엄격해짐",
+   "url": "https://luxe.outlookindia.com/amp/story/food-travel/travel/fifa-world-cup-trophy-rules-explained-why-champions-dont-keep-the-original-trophy"
+  },
+  {
+   "publisher": "중앙일보/다음 2022.12.22 '월드컵 트로피의 우여곡절' — FIFA 컵은 우승국·국가원수만 만질 수 있음, 우승국엔 복제품",
+   "url": "https://v.daum.net/v/20221222200402577"
+  }
+ ],
+ "_note": "fox.mp4 = TikTok @foxsoccer/7178564243002936622 (360x642, 55초; 9.0~17.7 메시 트로피 근접, 17.7~21.4 불꽃 단체, 21.4~ 아래 'Champions' 글자). foxall.mp4 = @foxsoccer/7178728981716520238 (576x1024, 33초; 3.93~4.63 줄리메컵 든 손, 4.63~5.67 바비 무어 1966, 25.13~29.43 메시 들어 올림). gfx = anim_wctrophy.py 출력."
+}

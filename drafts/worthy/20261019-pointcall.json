@@ -1,0 +1,77 @@
+{
+ "id": "20261019-pointcall",
+ "media": "media/20261019-pointcall",
+ "topic": "일본 기관사·역무원이 허공에 손가락질하며 외치는 이유 — 지적환호(指差喚呼, pointing and calling). 눈으로만 보면 놓치기 쉬운 확인을 손·입·귀로 한 번 더 해서 일본 철도종합기술연구소 실험에서 실수가 약 85%(약 6분의 1로) 줄었다. 뉴욕 지하철·캐나다 GO 열차도 도입, 도요타 공장·가정의 가스 밸브 확인에도 쓴다",
+ "hook": {
+  "t": "허공에 '손가락질'하는\n일본 기관사의 정체ㄷㄷ"
+ },
+ "credit": "영상: Christoph Roser(AllAboutLean.com) · 사진: 위키미디어 커먼즈",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0,
+ "scenes": [
+  {
+   "text": "아무도 없는 허공에 '손가락질'하며 외친다",
+   "video": {"src": "video/roser.webm", "start": 195.0, "x": 0.35, "y": 0.5},
+   "dur": 3.0
+  },
+  {
+   "text": "기관사도 달리는 내내 계기판을 '콕콕'",
+   "video": {"src": "video/roser.webm", "start": 12.0, "x": 0.55, "y": 0.5},
+   "dur": 3.2
+  },
+  {
+   "text": "외국인 눈엔 '이상한 의식'처럼 보이지만",
+   "video": {"src": "video/roser.webm", "start": 74.3, "x": 0.35, "y": 0.5},
+   "dur": 3.2
+  },
+  {
+   "text": "100년 가까이 이어진 '지적환호'라는 안전 규칙",
+   "img": "video/jrwest.jpg",
+   "zoom": 0.1,
+   "dur": 3.4
+  },
+  {
+   "text": "눈으로만 보면 신호를 '깜빡' 놓치기 쉬워서",
+   "video": {"src": "video/roser.webm", "start": 96.5, "x": 0.6, "y": 0.5},
+   "dur": 3.2
+  },
+  {
+   "text": "손으로 가리키고 입으로 외쳐 '한 번 더' 확인한다",
+   "video": {"src": "video/roser.webm", "start": 54.0, "x": 0.45, "y": 0.5},
+   "dur": 3.4
+  },
+  {
+   "text": "그러자 실험에서 실수가 약 '85%' 줄었다",
+   "video": {"src": "video/roser.webm", "start": 166.0, "x": 0.5, "y": 0.5},
+   "dur": 3.4
+  },
+  {
+   "text": "그래서 '뉴욕 지하철'과 캐나다 열차도 따라 한다",
+   "img": "video/go_csa.jpg",
+   "zoom": 0.1,
+   "dur": 3.2
+  },
+  {
+   "text": "가스 밸브 헷갈릴 땐 '손가락질', 내일도 '쓸모' 구독",
+   "video": {"src": "video/tmp_toyota.mp4", "start": 0.0, "x": 0.5, "y": 0.5},
+   "dur": 3.8
+  }
+ ],
+ "products": [],
+ "photo_credits": [
+  "영상: Christoph Roser at AllAboutLean.com, 'Pointing and Calling Japanese Safety Standard at Railway Companies & Toyota', CC BY-SA 4.0 (위키미디어 커먼즈, 촬영자 본인 게시·운영사 촬영 허락)",
+  "Pointing and calling, JR West Osaka Higashi Line train driver 20260801.jpg — gog.creator, CC BY-SA 4.0, 위키미디어 커먼즈",
+  "GO CSA points at Rouge Hill.jpg — Félix An, CC BY 4.0, 위키미디어 커먼즈"
+ ],
+ "sources": [
+  {"publisher": "위키백과(영문) 'Pointing and calling' — 1994 철도종합기술연구소 실험 실수 약 85%↓, 뉴욕 지하철·토론토·GO Transit 도입", "url": "https://en.wikipedia.org/wiki/Pointing_and_calling"},
+  {"publisher": "nippon.com 'Pointing and Calling: Japan's Railway Safety Technique' — 1910년대 호칭, 1920년대 후반 손가락 추가, 1970 국철 규정화, 확인 작업 오류율 6분의 1", "url": "https://www.nippon.com/en/japan-topics/g02575/"},
+  {"publisher": "Metrolinx 'Japanese safety technique Shisa Kanko coming to GO Trains'", "date": "2021.3.15", "url": "https://www.metrolinx.com/en/discover/japanese-safety-technique-shisa-kanko-coming-to-go-trains"},
+  {"publisher": "한큐전철 공식 X — 지적환호는 가스 밸브 확인 등 일상에도 쓸 수 있다", "url": "https://x.com/hankyu_ex/status/587913959698595840"}
+ ],
+ "_note": "roser.webm = 커먼즈 720p 변환본(Christoph Roser 원본, 영문 설명 자막은 화면 아래 — 쓰는 구간 12~15·54~57·74~77·96~99·166~169·195~198초엔 자막 없음). tmp_toyota.mp4 = ffmpeg -ss 207.5 -t 4.5 -i roser.webm -vf crop=880:635:220:0 (아래 'Toyota Headquarters' 자막 잘라냄, 커밋 안 함). shimbashi.webm 은 역무원이 너무 작아 안 씀. 말소리(호칭)라 orig_vol 0."
+}

@@ -1,0 +1,37 @@
+{
+ "id": "20261110-zip",
+ "finished_at": "2026-11-10T18:38:03+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=hMkLcAstxgA",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "파일이 너무 큼 92MB"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=IzAGqOfDANM",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261110-zip/video/y2.mp4",
+   "mb": 41.2,
+   "error": "재시도 실패",
+   "view_count": 116151,
+   "title": "Golden Gate Zipper"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=CeX1Fl_1cVE",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261110-zip/video/y3.mp4",
+   "mb": 30.7,
+   "view_count": 157969,
+   "title": "Sneak Peek! Inside a Golden Gate Bridge Zipper Truck"
+  }
+ ]
+}

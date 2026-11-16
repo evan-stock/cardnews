@@ -1,0 +1,142 @@
+{
+ "id": "20261024-calfring",
+ "media": "media/20261024-calfring",
+ "topic": "송아지 코에 '가시 달린 고리'를 끼우는 진짜 이유 — 괴롭히는 게 아니라 젖떼기 고리(weaning ring). 젖을 물려 하면 가시가 엄마 젖을 찔러 엄마가 피하니 젖만 끊기고, 엄마 곁에서 풀·물은 그대로 먹는다. 4~7일 뒤 떼어 놓으면 갑자기 떼는 것보다 우는 횟수 96.6%↓·걷기 78.9%↓·먹는 시간 23%↑(Haley 외 2005 J. Anim. Sci.)",
+ "hook": {
+  "t": "송아지 코에 '가시' 고리를\n끼우는 진짜 이유ㄷㄷ"
+ },
+ "credit": "영상: TikTok @duewestlivestock · @bryant.ok.homestead · @silver.dog.farm",
+ "bgm": {
+  "file": "assets/bgm/worthy/hitman.mp3",
+  "start": 51.5,
+  "vol": 0.5
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @duewestlivestock 원본(7200842983153962282 — 8개월 송아지 Lou 코에 초록 가시 젖떼기 고리, 엄마 소. 아래 영어 자막·오른쪽 위 안내 문구는 y 0.41 크롭으로 피함)",
+  "영상: TikTok @bryant.ok.homestead 원본(7490337595596082462 — 주황 젖떼기 고리를 한 송아지가 엄마 곁 풀밭에서 지냄, 위 제목 글자 구간(0~5초) 안 씀)",
+  "영상: TikTok @silver.dog.farm 원본(7593040915296439583 — 초록 고리를 한 저지 송아지, 가운데 영어 자막은 y 0 크롭으로 피함)"
+ ],
+ "sources": [
+  {
+   "publisher": "Oregon State University Extension 'Strategies for easing the weaning process for beef calves' — Haley 외 2005(J. Anim. Sci. 83:2205-2214): 2단계 젖떼기 송아지는 분리 뒤 울음 96.6%↓·걷기 78.9%↓·먹기 23%↑·쉬기 24.1%↑, 고리는 4~14일",
+   "url": "https://extension.oregonstate.edu/animals-livestock/beef/weaning-management-beef-calves"
+  },
+  {
+   "publisher": "Beef Magazine 'Stop the bawling! Why it's time to consider two-step calf weaning' — 2005 서스캐처원대 수의대(WCVM) 연구, 울음 96.6%↓, 분리 4~7일 전 착용",
+   "url": "https://beefmagazine.com/weaning/stop-bawling-why-its-time-consider-two-step-calf-weaning"
+  },
+  {
+   "publisher": "New Mexico State Univ. Circular 648 — 송아지는 고리를 한 채 엄마 곁에서 풀·물을 먹음, 기존 방식 송아지는 약 20배 더 울음",
+   "url": "https://pubs.nmsu.edu/_circulars/CR648.pdf"
+  },
+  {
+   "publisher": "RSPCA Australia Knowledge Base — 가시 고리는 젖을 물면 엄마 젖을 찔러 엄마가 차거나 피함, 갑작스러운 분리보다 덜 괴롭지만 엄마 젖 통증·송아지 좌절 우려로 '이상적이지 않다'",
+   "url": "https://kb.rspca.org.au/knowledge-base/what-are-the-animal-welfare-issues-with-weaning-nose-rings-and-other-anti-suckling-devices-for-calves/"
+  }
+ ],
+ "_note": "dw.mp4 = duewest(576x1024, 15초): 0~0.5 자막 없음, 2.5~4 정면 고리, 4~6.5 고리 근접, 7.5~10 엄마 소, 10.5~13 줄 잡힌 송아지. 영어 자막 세로 0.67~0.79, 오른쪽 위 안내문 0.12~0.23 → y 0.41(보이는 범위 0.245~0.65). br = bryant 80.8초: 0~5초 위 제목 글자, 5~7 두 송아지 정면, 9~14 풀밭. sv = silver 8.8초, 자막 세로 0.57~ → y 0.",
+ "scenes": [
+  {
+   "text": "송아지 코에 꽂힌 '가시' 고리",
+   "video": {
+    "src": "video/duewest.mp4",
+    "start": 4.2,
+    "x": 0.5,
+    "y": 0.41
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "누가 봐도 괴롭히는 장면 같은데",
+   "video": {
+    "src": "video/duewest.mp4",
+    "start": 2.5,
+    "x": 0.5,
+    "y": 0.41
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "알고 보니 '젖'을 끊는 고리다",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 5.2,
+    "x": 0.5,
+    "y": 0.55
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "젖을 물면 가시가 엄마를 콕 찔러",
+   "video": {
+    "src": "video/duewest.mp4",
+    "start": 5.5,
+    "x": 0.5,
+    "y": 0.41
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "놀란 엄마가 '발길질'로 밀어낸다",
+   "video": {
+    "src": "video/duewest.mp4",
+    "start": 7.6,
+    "x": 0.5,
+    "y": 0.41
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "그래도 풀이랑 물은 그대로 먹는다",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 9.2,
+    "x": 0.5,
+    "y": 0.7
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "보통은 하루아침에 엄마와 떼어 놓는데",
+   "video": {
+    "src": "video/silver.mp4",
+    "start": 0.5,
+    "x": 0.5,
+    "y": 0.0
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "그러면 며칠씩 울며 엄마를 찾아 헤맨다",
+   "video": {
+    "src": "video/silver.mp4",
+    "start": 4.0,
+    "x": 0.5,
+    "y": 0.0
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "엄마 곁에서 젖만 먼저 끊으면 울음 '97%'↓",
+   "video": {
+    "src": "video/bryant.mp4",
+    "start": 12.0,
+    "x": 0.5,
+    "y": 0.7
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "가시는 '이별 연습'이었다, 구독하고 또 봐요",
+   "video": {
+    "src": "video/duewest.mp4",
+    "start": 4.6,
+    "x": 0.5,
+    "y": 0.41
+   },
+   "dur": 3.0
+  }
+ ]
+}

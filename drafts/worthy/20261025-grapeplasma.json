@@ -1,0 +1,36 @@
+{
+ "id": "20261025-grapeplasma",
+ "media": "media/20261025-grapeplasma",
+ "topic": "전자레인지에 포도를 넣으면 불덩이(플라즈마)가 튀는 진짜 이유 — 20년 넘게 '반 자른 포도를 잇는 껍질이 전선 역할'이라고 믿었지만 2019 PNAS 실험(트렌트대 Slepkov 등)에서 껍질 없이 통포도 두 알·물 젤리 구슬로도 불꽃이 남을 보임. 물 많은 포도가 전자파를 가두고 두 알이 맞닿은 틈으로 에너지가 몰려 껍질 속 나트륨·칼륨이 빛나는 플라즈마가 됨",
+ "hook": {
+  "t": "전자레인지에 '포도'를\n데우자 생긴 일ㄷㄷ"
+ },
+ "credit": "영상: TikTok @seandreww · @engineeredlabs · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/sneaky_adventure.mp3",
+  "start": 48.0,
+  "vol": 1.12
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: TikTok @seandreww 원본(7329253025636371758, 2024.1 — 본인 전자레인지 속 반 자른 포도 불꽃. 화면 글자·빨간 화살표·열화상 그림 구간은 피하고 불꽃 부분만 확대 크롭 tmp_flame.mp4 = crop=375:333:100:358)",
+  "영상: TikTok @engineeredlabs 원본(7496166827114958126, 2025.4 — 포도를 반 갈라 껍질로 잇기, 비커 속 포도 불꽃. 아래 영어 자막(세로 0.88~)은 y 0.4~0.74 크롭으로 피함, 만화 장면 구간 안 씀)",
+  "그래픽: 오늘의쓸모 직접 제작(scripts/story_shorts/anim_grapeplasma.py — 통포도·물 젤리 구슬, 전자파가 맞닿은 틈으로 몰림)"
+ ],
+ "sources": [
+  {"publisher": "Live Science 'Microwaved Grapes Spit Plasma, and Scientists Finally Know Why' 2019.2.22 — PNAS 2019.2.18, 옛 설명(껍질 다리 전류), 통포도 두 알도 약 60% 확률로 플라즈마, 한 알은 안 됨", "url": "https://www.livescience.com/64841-grapes-plasma-microwave.html"},
+  {"publisher": "kawarthaNOW 2019.3.14 — 트렌트대 Aaron Slepkov·콘코디아대 Pablo Bianucci·Hamza Khattak, 포도 크기 + 물이 전자파를 가둬 맞닿은 점으로 몰림, 나트륨·칼륨 이온화, 물 젤리(하이드로겔) 구슬·메추리알도 됨, 유튜브 영상 수천 개", "url": "https://kawarthanow.com/2019/03/14/grape-balls-of-fire-trent-university-physicists-research-goes-viral/"},
+  {"publisher": "Big Think 'Starts With A Bang' — 20년 넘게 껍질 다리 설명, 2019 공진 설명, 2021 Lin 외 후속 연구는 틈의 전기 방전 쪽으로 해석", "url": "https://bigthink.com/starts-with-a-bang/sparks-microwave-grapes/"}
+ ],
+ "_note": "sean.mp4 576x1024 37.8초: 5.3~6.4 반 자른 포도 큰 불꽃(6.5~ 만화 불 그림), 29.5~30.9 '5x slowed' 불꽃(31~ 얼굴). 화면 글자(세로 0.68~0.73 자막, 0.25~0.33 빨간 화살표, 0.36 '5x slowed', 위 열화상)를 피해 tmp_flame.mp4 = ffmpeg -i sean.mp4 -an -vf crop=375:333:100:358,scale=1080:960 -c:v libx264 -crf 18 -g 15. eng.mp4 576x1024 60.8초: 19.5~21.6 반 갈라 껍질로 잇기, 25~29 비커 속 반쪽 포도, 30.0~31 불꽃, 0~7·8~12 만화 구간 안 씀, 자막은 아래 0.88~. tmp_eng.mp4 = -g 15 재인코딩. tmp_engz.mp4 = ffmpeg -ss 28 -t 4 -i eng.mp4 -an -vf crop=375:333:58:563,scale=1080:960 (비커 속 불꽃 확대, 1.5~3.0초 불꽃). gfx = anim_grapeplasma.py",
+ "scenes": [
+  {"text": "포도 두 쪽을 돌리자 '불덩이'가?", "video": {"src": "video/tmp_flame.mp4", "start": 5.4, "x": 0.5, "y": 0.5, "speed": 0.38}, "dur": 2.4},
+  {"text": "번개처럼 빛나는 '플라즈마'다", "video": {"src": "video/tmp_engz.mp4", "start": 1.4, "x": 0.5, "y": 0.5, "speed": 0.6}, "dur": 2.2},
+  {"text": "20년 넘게 '껍질'이 전선이라 믿었다", "video": {"src": "video/tmp_eng.mp4", "start": 19.6, "x": 0.5, "y": 0.4, "speed": 0.7}, "dur": 2.8},
+  {"text": "그런데 껍질 없이 통포도 두 알도 된다", "gfx": "gfx/whole.mp4", "dur": 3.4},
+  {"text": "알고 보니 포도가 전자파를 가두는 '그릇'", "gfx": "gfx/hotspot.mp4", "dur": 3.6},
+  {"text": "몰린 에너지에 껍질 속 '소금기'가 번쩍", "video": {"src": "video/tmp_flame.mp4", "start": 29.55, "x": 0.5, "y": 0.5, "speed": 0.35}, "dur": 2.6},
+  {"text": "따라 하면 전자레인지가 망가져요, 구독하고 또 봐요", "video": {"src": "video/tmp_flame.mp4", "start": 5.6, "x": 0.5, "y": 0.5, "speed": 0.3}, "dur": 2.6}
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "id": "20261110-zipperb",
+ "media": "media/20261110-zipperb",
+ "topic": "금문교 '로드 지퍼'(B판: 실사 먼저 길게 → 그래픽 설명) — 노란 트럭이 680kg 콘크리트 블록 3,200여 개로 된 중앙분리대를 들어 약 3m 옆으로 옮겨 출근길 남쪽 4차로·퇴근길 북쪽 4차로를 만든다. 2015.1 설치 전엔 노란 플라스틱 막대뿐이라 1970년부터 정면충돌 100여 건·사망 사고 16건, 설치 뒤 정면충돌 0건(CNBC 2018). 사용자 11.10 09:17 회차 1번 선택, 14:40 '실사로 실제 장면을 먼저 길게 보여 주고 그다음 모션그래픽으로 설명' 지시로 20261110-zipper 를 다시 만듦(쉬는 시간 180.6만 소재 재활용).",
+ "hook": {
+  "t": "이 노란 트럭은\n'공사 중'이 아닙니다"
+ },
+ "credit": "영상: Golden Gate Bridge 공식 · PermaGrinFilms · Lindsay · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/demon.mp3",
+  "start": 12.0,
+  "vol": 0.26
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "장면 1·2·10: PermaGrinFilms 촬영(망원 금문교 영상), X @Rainmaker1973 게시본 https://x.com/Rainmaker1973/status/1626534999208886272 (조회 201만·좋아요 1.9만 — media/20261110-zipperb/video/x5.json, 원작자 표기 'PermaGrinFilms').",
+  "장면 3·4·5: Golden Gate Bridge 공식 페이스북 'Go Inside the Golden Gate Bridge Zipper Truck!'(2017.03.10) https://www.facebook.com/goldengatebridge/videos/1281136241934808/ — video/g1.mp4.",
+  "장면 11: Lindsay Infrastructure 공식 페이스북 'The Road Zipper System'(2021.01.29, 일본 고속도로 장면) https://www.facebook.com/lindsayinfrastructure/videos/808064986591340/ — video/l2.mp4, 'JAPAN' 글자 크롭.",
+  "모션그래픽: scripts/story_shorts/anim_zipper_b.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "Golden Gate Bridge 공식 'Moveable Median Barrier' — 2015.1.10 설치, 이전엔 25피트마다 노란 플라스틱 튜브, 약 10피트 이동, 약 30분, 평일 아침 남쪽 4차로·저녁 북쪽 4차로, 3,000만 달러",
+   "url": "https://www.goldengate.org/bridge/bridge-operations/moveable-median-barrier/"
+  },
+  {
+   "publisher": "CNBC 2018.02.08 — 1970년부터 설치 전까지 정면충돌 100건 넘게·그중 16건 사망, 설치 뒤 정면충돌 0건, 블록 1,500파운드",
+   "url": "https://www.cnbc.com/2018/02/08/the-road-zipper-eliminated-head-on-collisions-on-golden-gate-bridge.html"
+  },
+  {
+   "publisher": "MTC 2016.10.25 — 블록 3,200개·각 1,500파운드, 30톤·58피트 트럭, 하루 두 번 배치 변경",
+   "url": "https://mtc.ca.gov/news/special-features/golden-gate-bridge-moveable-median-barrier"
+  },
+  {
+   "publisher": "ABC7 2015.01.02 — 설치 공사로 다리 통제, 정면충돌 사망 16명",
+   "url": "https://abc7news.com/post/golden-gate-bridge-to-close-for-installation-of-median-barrier/459819/"
+  }
+ ],
+ "_note": "사용자 11.10 14:40 지시: 실사로 실제 장면을 먼저 길게(0~10.8초 실사 5장면) → 그다음 모션그래픽 설명(10.8~20.2초 4장면) → 실사 결과·마무리. A=v5 11.1~ 3배 확대 / B=v5 13.0~ → 컷 1.4초. 답(정면충돌 방지)은 before 그래픽(10.8초~)에서 처음. 효과음 없음, 원본 소리 끔.",
+ "scenes": [
+  {
+   "text": "그럼 매일 아침 다리 위에서 뭘 하는 걸까요?",
+   "video": {
+    "src": "clip/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.4
+  },
+  {
+   "text": "그럼 매일 아침 다리 위에서 뭘 하는 걸까요?",
+   "video": {
+    "src": "clip/B.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.4
+  },
+  {
+   "text": "트럭 옆으로 콘크리트 벽이 따라 움직이는데",
+   "video": {
+    "src": "clip/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "블록이 트럭 안으로 들어갔다 옆으로 빠져나온다",
+   "video": {
+    "src": "clip/G.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "다리 끝까지 약 30분, 벽 한 줄이 통째로 옮겨졌다",
+   "video": {
+    "src": "clip/I.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "원래 다리 가운데엔 플라스틱 막대뿐이었고",
+   "video": {
+    "src": "gfx/before.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "1970년부터 정면충돌 사망 사고만 16건",
+   "video": {
+    "src": "gfx/before.mp4",
+    "start": 3.0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.0
+  },
+  {
+   "text": "그래서 680kg 블록 3,200여 개로 벽을 세우고",
+   "video": {
+    "src": "gfx/shift.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "출퇴근 방향에 맞춰 차로를 4:2로 바꾼다",
+   "video": {
+    "src": "gfx/shift.mp4",
+    "start": 2.8,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.2
+  },
+  {
+   "text": "설치 뒤 정면충돌은 '0건'",
+   "video": {
+    "src": "clip/H.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.3
+  },
+  {
+   "text": "일본의 '움직이는 벽'은 다음 편에서, 구독!",
+   "video": {
+    "src": "clip/J.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.3
+  }
+ ]
+}

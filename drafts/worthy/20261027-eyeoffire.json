@@ -1,0 +1,34 @@
+{
+ "id": "20261027-eyeoffire",
+ "media": "media/20261027-eyeoffire",
+ "topic": "2021.7.2 멕시코만 캄페체만 Ku-Maloob-Zaap 유전 Ku-C(Ku-Charly) 플랫폼 근처 바다 위에 둥근 불덩이가 끓어오른 '불의 눈'. 해저 화산·용암이 아니라 바닷속 12인치 가스관에서 샌 가스가 물 위로 솟아 불이 붙은 것(폭풍·번개). 소방선이 물을 뿌렸지만 밸브를 잠그고 질소를 넣어 약 5시간 만에 진화. Pemex: 다친 사람 없음, 기름 유출 없음(유출 없다는 발표엔 의문 제기)",
+ "hook": {
+  "t": "바다 한가운데 뜬\n'불의 눈'의 비밀ㄷㄷ"
+ },
+ "credit": "영상: Manuel López San Martín(X) · 2021.7 멕시코만",
+ "bgm": {
+  "file": "assets/bgm/worthy/ice_flow.mp3",
+  "start": 64.0,
+  "vol": 0.3
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상 1·2: 멕시코 언론인 Manuel López San Martín X @MLopezSanMartin 1411045300781948931(근접, 640x352 17초)·1411059695503261697(공중, 소방선 물대포, 848x480 11초) — 2021.7.2 게시. 자막·로고 없음"
+ ],
+ "sources": [
+  {"publisher": "Popular Science 2021.7.2(7.3 갱신) — Ku-Maloob-Zaap 유전, Ku-Charly 플랫폼 약 400m, Pemex '가스관 파열', 약 5시간 만에 진화, Reuters: 질소 사용", "url": "https://www.popsci.com/?p=377165"},
+  {"publisher": "JPT(SPE) 2021.7.7 'Pemex Fire Triggered by Storm and Pipeline Gas Leak' — 12인치 가스관 누출, 가스가 수면으로 올라와 인근 뇌우의 번개로 점화, 해저 밸브 잠그고 질소 주입, 약 5시간, Pemex '기름 유출 없음'", "url": "https://jpt.spe.org/pemex-fire-triggered-by-storm-and-pipeline-gas-leak"},
+  {"publisher": "Stars and Stripes(AP) 2021.7.3 — 소방선 진화, 질소 사용, 약 5시간, Pemex '다친 사람 없음', 규제기관장 '유출 없음' 발표에 의문", "url": "https://www.stripes.com/theaters/americas/2021-07-03/gulf-mexico-surface-fire-extinguished-pipeline-leak-questioned-2040879.html"}
+ ],
+ "_note": "v1.mp4 = 근접 17초(0~5 불의 눈, 6~10 왼쪽 플랫폼+불, 11~16 불의 눈). v2.mp4 = 공중 11초(0~9.5 소방선 물대포+불, 10초~ 기내 흔들림 — 안 씀). 둘 다 자막·로고 없음. 원본 소리 끔.",
+ "scenes": [
+  {"text": "바다 한가운데서 '불'이 끓어오른다", "video": {"src": "video/v1.mp4", "start": 0.0, "x": 0.5, "y": 0.5, "speed": 1.0}, "dur": 3.0},
+  {"text": "해저 화산? 용암? 둘 다 아니다", "video": {"src": "video/v1.mp4", "start": 11.0, "x": 0.5, "y": 0.5, "speed": 1.0}, "dur": 2.6},
+  {"text": "알고 보니 바닷속 '가스관'이 터진 것", "video": {"src": "video/v1.mp4", "start": 6.2, "x": 0.35, "y": 0.5, "speed": 1.0}, "dur": 2.8},
+  {"text": "새어 나온 가스가 물 위로 솟고 폭풍 속 번개에 불붙었다", "video": {"src": "video/v1.mp4", "start": 13.0, "x": 0.5, "y": 0.5, "speed": 1.0}, "dur": 3.0},
+  {"text": "물을 퍼부어도 가스가 계속 올라와 안 꺼졌다", "video": {"src": "video/v2.mp4", "start": 0.3, "x": 0.5, "y": 0.5, "speed": 1.0}, "dur": 3.0},
+  {"text": "결국 밸브를 잠그고 '질소'를 넣어 5시간 만에 진화", "video": {"src": "video/v2.mp4", "start": 5.5, "x": 0.6, "y": 0.5, "speed": 1.0}, "dur": 3.0},
+  {"text": "다친 사람은 없었다! 신기한 이유가 궁금하면 구독", "video": {"src": "video/v1.mp4", "start": 3.0, "x": 0.5, "y": 0.5, "speed": 1.0}, "dur": 2.8}
+ ]
+}

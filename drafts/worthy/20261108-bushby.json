@@ -1,0 +1,32 @@
+{
+ "id": "20261108-bushby",
+ "media": "media/20261108-bushby",
+ "topic": "칼 부시비(영국 전 공수부대원) — 1998년 칠레 남쪽 끝 푼타아레나스에서 '집에 닿을 때까지 차·비행기·배 없이 두 발로만' 규칙을 정하고 출발, 얼어붙은 베링 해협(2006)을 건너고 카스피해(2024)·영국 해협은 헤엄쳐서, 약 5만 km(3만 1천 마일)를 걸어 2026.11.02 고향 헐에 도착(28년). 사용자 11.08 14:17 회차 2번 선택(쉬는 시간 '조금 긴 산책을 나온 남자' 1,444만 소재 재활용).",
+ "hook": {"t": "칠레에서 영국 집까지\n'걸어서' 가 봤더니"},
+ "credit": "영상: NBC News(2026.11.3) · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/subway_dreams.mp3", "start": 46.0, "vol": 0.28},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "실사 전부(장면 1 컷1~3, 4, 5, 7, 8): NBC News 'British adventurer Karl Bushby completes 28-year walk around the world'(2026.11.03, youtube wGSza7FC2Ss) — media/20261108-wb1/video/y2.mp4(맥북 유튜브 받기 원본, info: media/20261108-bushby/video/nbc.info.json). 화면 아래 NBC 자막 띠·이름표는 크롭으로 피함. 영상 속 여정 사진·영상은 칼 부시비(Goliath Expedition)·동행자 제공 자료.",
+  "모션그래픽: scripts/story_shorts/anim_bushby.py (오늘의쓸모 제작). 지도: Natural Earth 50m 육지(world-atlas 2.0.2, 퍼블릭 도메인) assets/geo/land-50m.json."
+ ],
+ "sources": [
+  {"publisher": "NBC News 2026.11.03 — 31,000마일, 1998 출발, 11.2 헐 도착", "url": "https://www.youtube.com/watch?v=wGSza7FC2Ss"},
+  {"publisher": "Al Jazeera 2026.11.02 'British adventurer Karl Bushby returns home after 28-year walk around world'", "url": "https://aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world"},
+  {"publisher": "ITV News Calendar 2026.11.02 'Karl Bushby returns home to Hull after 28-year round-the-world trek'", "url": "https://www.itv.com/news/calendar/2026-11-02/adventurer-arrives-back-in-home-city-after-28-year-walk-round-the-world"},
+  {"publisher": "Wikipedia 'Karl Bushby' — 1998.11 푼타아레나스 출발, 2006 베링 해협 얼음 횡단(디미트리 키퍼와), 2024 카스피해 수영, 기계 교통수단 금지 규칙", "url": "https://en.wikipedia.org/wiki/Karl_Bushby"},
+  {"publisher": "ExplorersWeb 'Karl Bushby and Angela Maxwell Swim Across the Caspian Sea'", "url": "https://explorersweb.com/karl-bushby-and-angela-maxwell-swim-across-the-caspian-sea/"}
+ ],
+ "_note": "A=3컷(nbc 58.0~ 산길을 걸어오는 큰 배낭의 남자 / 23.0~ 1998년 젊은 부시비 얼굴 / 64.0~ 정글) → 컷 1.3·2.6초. 답(28년·집 도착)은 route 그래픽 10초 무렵 '2026 영국 헐'에서 처음, count 그래픽에서 '= 28년'. 효과음 없음, 원본 소리 끔(NBC 기자 말소리).",
+ "scenes": [
+  {"text": "1998년, 스물아홉 살 전직 군인이 배낭을 메고 떠났는데", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 4.0},
+  {"text": "스스로 정한 규칙은 '두 발로만' 집에 가기", "video": {"src": "gfx/rule.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "출발점은 칠레 남쪽 끝, 집은 지구 반대편 영국", "video": {"src": "gfx/route.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.6},
+  {"text": "얼어붙은 바다는 얼음 사이를 기고 헤엄쳐서", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "배를 못 타니 카스피해는 '헤엄'쳐서 건넜어요", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "그렇게 걸은 거리, 지구 한 바퀴보다 길어요", "video": {"src": "gfx/count.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.1},
+  {"text": "그리고 지난 11월 2일, 마침내 '집'에 도착", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.9},
+  {"text": "다음 '극한 귀갓길'도 보려면 구독!", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.7}
+ ]
+}

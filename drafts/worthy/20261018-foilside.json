@@ -1,0 +1,36 @@
+{
+ "id": "20261018-foilside",
+ "media": "media/20261018-foilside",
+ "topic": "쿠킹호일이 한쪽만 반짝이는 이유 — 너무 얇아(약 0.016mm) 마지막 압연 때 두 장을 겹쳐 밀기 때문. 롤러에 닿은 면=반짝, 서로 닿은 면=무광. 요리 효과는 같다(레이놀즈). 논스틱 호일만 무광 면이 코팅 면",
+ "hook": {"t": "호일은 왜 한쪽만\n'반짝'이는 걸까ㄷㄷ"},
+ "credit": "사진: frakorea(CC BY 2.0), Splarka(퍼블릭 도메인) · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/moonlit.mp3", "start": 65.0, "vol": 0.6},
+ "orig_vol": 0,
+ "scenes": [
+  {"text": "호일은 한쪽만 '반짝', 반대쪽은 '무광'", "video": {"src": "video/gfx/flip.mp4", "start": 0.0}, "dur": 3.2},
+  {"text": "음식을 쌀 때 어느 면이 '안쪽'이어야 할까?", "img": "video/kimbap.jpg", "zoom": 0.1, "dur": 3.0},
+  {"text": "반짝 면이 안쪽? 아니면 '무광 면'? 말이 많지만", "video": {"src": "video/gfx/rumor.mp4", "start": 0.0}, "dur": 3.4},
+  {"text": "제조사 답은 '아무 면이나 똑같다'", "video": {"src": "video/gfx/same.mp4", "start": 0.0}, "dur": 3.4},
+  {"text": "진짜 이유는 호일이 '0.016mm'로 너무 얇아서", "img": "video/micrometer.jpg", "zoom": 0.12, "dur": 3.2},
+  {"text": "혼자 밀면 찢어지니 마지막엔 '두 장을 겹쳐' 민다", "video": {"src": "video/gfx/mill.mp4", "start": 0.0}, "dur": 3.6},
+  {"text": "롤러에 닿은 면은 '반짝', 서로 닿은 면은 '무광'", "video": {"src": "video/gfx/split.mp4", "start": 0.0}, "dur": 3.8},
+  {"text": "논스틱 호일만 '무광 면'이 음식 쪽, 내일도 '쓸모' 구독", "video": {"src": "video/gfx/nonstick.mp4", "start": 0.0}, "dur": 3.6}
+ ],
+ "products": [
+  {"name": "쿠킹호일 대용량", "keyword": "쿠킹호일"},
+  {"name": "논스틱 쿠킹호일", "keyword": "논스틱 호일"},
+  {"name": "에어프라이어 호일 용기", "keyword": "에어프라이어 호일 용기"}
+ ],
+ "photo_credits": [
+  "Kimbap on a aluminium foil sheet — frakorea (flickr.com/photos/framore), CC BY 2.0, 위키미디어 커먼즈",
+  "Aluminium foil micrometer — Splarka (영어 위키백과), 퍼블릭 도메인, 위키미디어 커먼즈",
+  "모션그래픽: 오늘의쓸모 직접 제작(scripts/story_shorts/anim_foilside.py)"
+ ],
+ "sources": [
+  {"publisher": "TODAY 'Why is only 1 side of aluminum foil shiny?' — 레이놀즈 랩 Mike Mazza: 두 장을 함께 압연, 롤러에 닿은 면이 반짝, 어느 면이든 같은 역할, 논스틱 호일만 예외", "url": "https://www.today.com/today/amp/tdna115229"},
+  {"publisher": "Mental Floss 'Why tinfoil has one shiny side'", "date": "2020.11.4", "url": "https://www.mentalfloss.com/live-smarter/home/why-tinfoil-has-one-shiny-side"},
+  {"publisher": "위키백과(영문) 'Aluminium foil' — 가정용 표준 0.016mm, 마지막 공정에서 두 장을 겹쳐 압연", "url": "https://en.wikipedia.org/wiki/Aluminium_foil"},
+  {"publisher": "위키트리 '쿠킹호일 사용법' — 앞뒷면 개념 없음, 무광 면 코팅설은 사실 아님", "date": "2025.4.28", "url": "https://www.wikitree.co.kr/articles/1046005"}
+ ],
+ "_note": "gfx/*.mp4 = anim_foilside.py 출력. 사진은 커먼즈 api4.json(검색 '알루미늄 호일')에서 고름. 실제 호일 공장 SNS 원본 영상은 찾지 못해 모션그래픽 위주."
+}

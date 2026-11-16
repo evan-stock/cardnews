@@ -1,0 +1,122 @@
+{
+ "id": "20261025-ashtray",
+ "media": "media/20261025-ashtray",
+ "topic": "금연인 비행기 화장실 문에 재떨이가 꼭 달린 진짜 이유 — 몰래 피운 사람이 꽁초를 휴지통에 버리면 불이 나기 때문. 1973 바리그 820편 화장실 휴지통 불(꽁초 추정) 뒤 FAA가 화장실 재떨이를 의무화(FAR 25.853), 새 비행기도 재떨이 없으면 인증 불가, 재떨이가 없어 출발이 막히거나 늦어진 비행기도 있음(2009 BA, 2022 유나이티드)",
+ "hook": {
+  "t": "금연인 비행기 화장실에\n'재떨이'가 있는 이유ㄷㄷ"
+ },
+ "credit": "영상: TikTok @klm(KLM 네덜란드항공 공식) · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/darkest_child.mp3",
+  "start": 54.0,
+  "vol": 0.56
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "영상: KLM Royal Dutch Airlines 공식 TikTok @klm 원본(7311738230108392736, 2023.12 — 화장실 문 재떨이·'No Smoking in Lavatory' 표지·벽에 묻힌 재떨이. 위쪽 파란 자막 상자(세로 0.13~0.17)는 y 0.45 이상 크롭으로 피함, KLM 이 합성한 공룡·옛 사진 구간은 안 씀)",
+  "그래픽: 오늘의쓸모 직접 제작(scripts/story_shorts/anim_ashtray.py — 휴지통 불, 1973 연기, 출발 전 점검)"
+ ],
+ "sources": [
+  {
+   "publisher": "TIME 'Why Airplanes Still Have Ashtrays' 2017.9.18(2023.12.13 갱신) — 몰래 피우는 승객이 있어 안전하게 끌 곳이 필요, FAA 최소 장비 목록, 1973 리우→파리 여객기 연기·담배 추정, 2009 BA 멕시코행이 재떨이 없어 운항 중단",
+   "url": "https://time.com/4919780/airplanes-smoking-tray-ashtrays-airlines/"
+  },
+  {
+   "publisher": "Migflug 'Why Airliners Still Have Ashtrays Decades After the Smoking Ban' — FAR 25.853: 흡연 허용 여부와 상관없이 화장실 문 근처에 재떨이, 없으면 보잉·에어버스 인증 불가, 1973.7.11 바리그 820편 화장실 연기",
+   "url": "https://migflug.com/afterburner/why-airliners-still-have-ashtrays-far-25-853/"
+  },
+  {
+   "publisher": "Fear of Landing 'Why do aircraft still have ashtrays in the lavatory?' — 미국 국내선 금연 1990, 재떨이는 MEL 항목, 2011.2 재즈항공 재떨이 없어 9시간 지연, 바리그 820 화장실 세면대 쪽 불",
+   "url": "https://fearoflanding.com/demystifying/why-do-aircraft-still-have-ashtrays-in-the-lavatory/"
+  },
+  {
+   "publisher": "View from the Wing 2022.7.31 — 유나이티드 덴버→워싱턴 덜레스편이 없어진 재떨이를 바꾸느라 출발 지연",
+   "url": "https://viewfromthewing.com/united-airlines-delays-flight-to-replace-missing-ashtray-like-its-1972-roundup"
+  }
+ ],
+ "_note": "klm.mp4 576x1024 44.4초. 1.44~2.32 초록 문 재떨이+잠금 표시(2.25~ 변기), 18.5~20.1 No Smoking in Lavatory 표지(벌금 문구), 20.5~21.52 초록 재떨이 근접(컷 시각: 1.44 2.32 18.48 21.52 26.8 29.08), 26.9~29.0 회색 벽 재떨이(26.8~27.2 KLM 담배 스티커). 위쪽 파란 자막 상자 세로 0.13~0.17 → y 0.45 이상. 짧은 컷은 speed 로 늘림. gfx = anim_ashtray.py",
+ "scenes": [
+  {
+   "text": "금연인 비행기 화장실 문에 '재떨이'?",
+   "video": {
+    "src": "video/klm.mp4",
+    "start": 1.48,
+    "x": 0.5,
+    "y": 0.85,
+    "speed": 0.36
+   },
+   "dur": 2.2
+  },
+  {
+   "text": "기내 담배는 수십 년째 금지인데",
+   "video": {
+    "src": "video/klm.mp4",
+    "start": 18.6,
+    "x": 0.5,
+    "y": 0.45,
+    "speed": 0.6
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "갓 나온 '새 비행기'에도 꼭 달려 나온다",
+   "video": {
+    "src": "video/klm.mp4",
+    "start": 20.55,
+    "x": 0.5,
+    "y": 0.8,
+    "speed": 0.35
+   },
+   "dur": 2.6
+  },
+  {
+   "text": "알고 보니 몰래 피우는 사람 때문",
+   "video": {
+    "src": "video/klm.mp4",
+    "start": 27.3,
+    "x": 0.5,
+    "y": 0.8,
+    "speed": 0.75
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "꽁초를 휴지 가득한 '휴지통'에 버리면",
+   "gfx": "gfx/bin.mp4",
+   "dur": 3.0
+  },
+  {
+   "text": "1973년 화장실 불로 실제 큰 사고가 났다",
+   "gfx": "gfx/smoke.mp4",
+   "dur": 3.0
+  },
+  {
+   "text": "그래서 금지해도 '끌 곳'은 꼭 남겨 둔다",
+   "video": {
+    "src": "video/klm.mp4",
+    "start": 20.6,
+    "x": 0.5,
+    "y": 0.8,
+    "speed": 0.36
+   },
+   "dur": 2.4
+  },
+  {
+   "text": "재떨이가 없어 '출발'을 못 한 비행기도",
+   "gfx": "gfx/gate.mp4",
+   "dur": 3.2
+  },
+  {
+   "text": "규칙을 어길 사람까지 대비한 장치, 구독하고 또 봐요",
+   "video": {
+    "src": "video/klm.mp4",
+    "start": 1.48,
+    "x": 0.5,
+    "y": 0.85,
+    "speed": 0.3
+   },
+   "dur": 2.6
+  }
+ ]
+}

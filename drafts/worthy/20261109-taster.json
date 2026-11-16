@@ -1,0 +1,31 @@
+{
+ "id": "20261109-taster",
+ "media": "media/20261109-taster",
+ "topic": "아이스크림 회사 드라이어스(동부 상표 에디스)의 '공식 맛 감별사' 존 해리슨(1980~2010) — 회사가 그의 미뢰에 100만 달러 보험을 들었고(1992 보도), 그는 하루 약 60통을 맛보되 삼키지 않고 뱉으며, 숟가락을 뒤집어 따뜻한 윗부분을 혀에 대고, 뒷맛이 섞이지 않게 18K 금 숟가락을 쓰고, 평일엔 양파·마늘·매운 음식·술·담배를 피하고 커피 대신 허브차를 마셨다. 사용자 11.09 20:17 회차 3번 선택(쉬는 시간 620.9만 소재 재활용).",
+ "hook": {"t": "조금 '비싼' 혀를\n가진 남자"},
+ "credit": "영상: 13WHAM ABC News 자료화면 · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/subway_dreams.mp3", "start": 46.0, "vol": 0.28},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "장면 1(3컷), 3, 6, 8: 13WHAM ABC News 유튜브 'Ice cream taste tester John Harrison visits Wegmans' 2RjeDOlb0QI(2024.07.22 게시, 1990년대 자료화면) — media/20261109-taster/video/y3.mp4. 4:3 화면 가운데를 크롭, 큰 상표 라벨 구간은 피함.",
+  "모션그래픽: scripts/story_shorts/anim_taster.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "Deseret News 1992.06.23 'Ice cream tester takes a taste but not a swallow' — 미뢰 100만 달러 보험, 삼키지 않음, 숟가락을 뒤집어 따뜻한 부분을 혀에, 굴리고 뱉음, 50~60통, 매운 음식·술·담배 안 함", "url": "https://www.deseret.com/1992/6/23/18990793/ice-cream-tester-takes-a-taste-but-not-a-swallow/"},
+  {"publisher": "Seattle Times 2006.06.21 'White coat, gold spoon, a job made in heaven' — 18K 금 숟가락(뒷맛 방지), 하루 약 60통, 55갤런 통에 뱉음, 평일 양파·마늘·고추 X, 커피 대신 허브차, 금요일 밤 피자", "url": "https://archive.seattletimes.com/archive/20060621/tastebuds21/white-coat-gold-spoon-a-job-made-in-heaven"},
+  {"publisher": "The Hustle 2021.08.04 'The ice cream man whose taste buds are insured for $1m' — 1980~2010, 수억 갤런을 맛봄(거의 안 삼킴), 4대째 아이스크림 집안, 쿠키앤크림 공동 개발 주장", "url": "https://thehustle.co/08042021-john-harrison"},
+  {"publisher": "Wikipedia 'John Harrison (ice cream taster)' — 하루 평균 약 60가지, 100가지 넘는 맛 개발에 참여, 쿠키앤크림을 만들었다고 주장", "url": "https://en.wikipedia.org/wiki/John_Harrison_(ice_cream_taster)"}
+ ],
+ "_note": "A=3컷(y3 36.0~ 고개 숙여 맛보는 얼굴 1.6배 / 14.0~ 콘에 퍼 담는 숟가락 근접 1.7배 / 24.5~ 인터뷰 얼굴 1.5배) → 컷 1.3·2.5초. 답(맛보는 법·금 숟가락)은 taste·spoon 그래픽(8.6초~)에서 처음. 효과음 없음, 원본 소리 끔(인터뷰 말소리).",
+ "scenes": [
+  {"text": "이 남자의 혀는 보험에 들어 있는데", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.8},
+  {"text": "보험금은 무려 100만 달러", "video": {"src": "gfx/policy.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "직업은 아이스크림 회사의 '맛 감별사'", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "하루 60통을 맛보지만, 한 입도 삼키지 않는다", "video": {"src": "gfx/taste.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 3.0},
+  {"text": "숟가락은 18K 금, 다른 맛이 섞이지 않게", "video": {"src": "gfx/spoon.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "그렇게 30년, 맛본 아이스크림이 수억 갤런", "video": {"src": "clip/F.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "대신 평일엔 양파·마늘·매운 음식 금지", "video": {"src": "gfx/rules.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "그가 만들었다는 그 맛은 다음 편에서, 구독!", "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6}
+ ]
+}
