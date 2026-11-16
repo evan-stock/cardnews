@@ -2,7 +2,7 @@
  "id": "20261116-leettutor",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-16T23:35:54.162574+09:00",
  "publish_at": "2026-11-16T23:41:52+09:00",
  "topic": "리트 만점자 생2 과외 선생 등장 (고파스·에타 캡처)",
@@ -56,5 +56,9 @@
   "media/20261116-leettutor/04.jpg",
   "media/20261116-leettutor/05.jpg"
  ],
- "tg_msg": 2825
+ "tg_msg": 2825,
+ "decided_at": "2026-11-16T23:47:58.628017+09:00",
+ "ig_media_id": "17953736637054322",
+ "permalink": "https://www.instagram.com/p/Dfzmz0FkSOt/",
+ "published_at": "2026-11-16T23:49:08.331225+09:00"
 }
