@@ -1,26 +1,31 @@
 [
  {
-  "id": "20261116-snyeon",
+  "id": "20261116-sage",
   "slot": "lunch",
   "mode": "collect",
-  "limit": 40,
-  "image_pages": [
-   "https://www.starnewskorea.com/star/2026/11/16/2026111607005176827",
-   "https://biz.heraldcorp.com/article/10937825",
-   "https://isplus.com/article/view/isp202611160005",
-   "https://www.newstong.co.kr/view3.aspx?seq=14817237",
-   "https://www.etoday.co.kr/news/view/2648364",
-   "https://www.hankyung.com/article/2026111573067",
-   "https://www.kyobit.com/news/articleView.html?idxno=8180",
-   "https://www.ajunews.com/view/20261115161816378",
-   "https://m.news.nate.com/view/20261116n00826",
-   "https://www.imaeil.com/page/view/2026111521303667666",
-   "https://supple.kr/news/cmwidbe39c7tkal9p5m3zthsh",
-   "https://m.seoul.co.kr/news/2017/11/21/20171121500068",
-   "https://www.newsis.com/view/NISX20171120_0000152988",
-   "https://www.journalist.or.kr/ezview/article_main.html?no=43025",
-   "https://www.fnnews.com/news/202611160500532589",
-   "https://www.etoday.co.kr/news/view/2648350"
-  ]
+  "limit": 5,
+  "image_pages": [],
+  "image_urls": [
+   "https://pbs.twimg.com/media/HXI0Eglb0AAHzjU?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgibEAAcsLZ?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgnbkAA7HiL?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgoboAE5lIW?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgpbwAAi0jb?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EglagAA5rCA?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0Egma4AIEGnt?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EglaUAEvwIs?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgnaQAAJG_5?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0Egyb0AAOGgD?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgpasAApt8T?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0Egya8AAAeCF?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgobEAAkH5j?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgxaAAIWSD0?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0Egxa0AAn-l8?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgybQAEKSjN?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgxagAAg2M_?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgzbQAA_9Ar?format=jpg&name=large",
+   "https://pbs.twimg.com/media/HXI0EgzagAAXr6i?format=jpg&name=large"
+  ],
+  "referer": "https://x.com/"
  }
 ]
