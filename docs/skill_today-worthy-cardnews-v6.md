@@ -258,6 +258,11 @@ description: "@today.worthy(오늘의쓸모) 카드뉴스를 채팅에서 조사
   - 릴스 커버: 1080x1920으로 맞춘 뒤 영상과 같은 `cand/overlay.png`(제목·그라데이션)만 얹어 `cand/reel_cover_final.jpg`와 `reel_cover.jpg`에 저장한다(딱지 없음). 본문 출처에 `커버: 참고 이미지(AI 생성)`을 추가한다.
   - 이미 예약된 카드뉴스는 같은 `publish_at`·`approved: true`로 다시 send해 state를 덮어쓴다. 예약된 릴스는 커버 파일과 state의 caption_full만 고쳐 커밋한다.
 
+## 막히면 다른 길로 (2026.11.16 사용자 지시, 프로젝트 규칙)
+- "못 본다·안 된다"로 답하지 않는다. 도구 하나가 막히면 다른 경로로 끝까지 찾아서 본다: 웹 검색 → 웹페치 → Claude in Chrome(사용자 크롬) → 앱 안 브라우저 → 저장소 워크플로.
+- 네이버 뉴스 링크(n.news.naver.com/article/<언론사번호>/...)는 웹페치·크롬 모두 막혀 있다. 언론사 번호로 원래 언론사를 알아내(025=중앙일보 등) 크롬으로 그 언론사 사이트 검색 → 원문 기사를 열어 `get_page_text`로 읽는다. 예: 중앙일보 검색 `https://www.joongang.co.kr/search?keyword=<검색어>`.
+- 엑스 사진 글은 fetch-video 워크플로가 본문 사진(p<i>_<k>.jpg)과 인용글 사진(q<i>_<k>.jpg)까지 받는다(2026.11.16 x_video.py 보강).
+
 ## 카드 크기·디자인 (2026.10.17 사용자 참고자료 반영)
 - **제목 글꼴(2026.10.18 통일)**: 카드뉴스(renderer.html)·릴스 커버(thumb.html)·릴스 영상 글자(PIL) 모두 **Pretendard Black**(`assets/fonts/Pretendard-Black.otf`, CSS 이름 "PretendardT"). 본문은 Noto Sans KR. 표지 제목은 아래쪽(H-115), 줄간격 1.22. cloud__pages의 글씨체·배치를 참고하되 노란 강조는 유지한다.
   - 제목 글꼴은 저장소 파일을 쓰지만 본문 글꼴은 Google Fonts에서 받는다 → 채팅 작업공간에서 직접 렌더하면 본문 글꼴이 달라진다. 확인용 렌더도 GitHub(manual-draft)로 돌린다.
