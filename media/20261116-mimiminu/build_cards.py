@@ -99,3 +99,23 @@ subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], c
 frame(("실제로 미룬 적 있다", "2017년 포항 지진, 수능 '하루 전' 1주일 연기"), fit("press28.jpg", 940, 640),
       "2020년엔 코로나로 '2주' 미뤄 12월에", sub="사진: 2017년 연기 발표 다음 날, 버린 문제집 다시 찾는 수험생").save(O / "f07.jpg", quality=95)
 print("ok")
+
+# 6장(신규): 16일 오전 총리 주재 관계부처 회의 결과
+pw, ph = 940, 640
+panel = Image.new("RGB", (pw, ph), (24, 24, 30)); d = ImageDraw.Draw(panel)
+d.text((40, 36), "16일 오전 총리 주재 관계부처 회의", font=F("Black", 36), fill=YE)
+rows = ["'수능 범정부 긴급대응팀' 구성",
+        "교육부, 시험장 관리·감독 체계 긴급 점검",
+        "시험 '끝난 뒤' 이상 징후 나오면 자료로 조사",
+        "위법 확인되면 법과 원칙대로 엄정 조치",
+        "AI 탐지 기술 개발·보급은 '검토'"]
+y = 112
+for r in rows:
+    d.ellipse((44, y + 14, 56, y + 26), fill=YE); rich(d, 78, y, r, F("SemiBold", 33)); y += 66
+d.line((40, y + 14, pw - 40, y + 14), fill=(60, 60, 70), width=2); y += 44
+rich(d, 40, y, "\"일부의 부정행위로 성실하게 노력한", F("SemiBold", 33)); y += 50
+rich(d, 40, y, "수험생들이 피해를 보거나 … '결코 안 된다'\"", F("SemiBold", 33)); y += 54
+d.text((40, y), "한성숙 국무총리", font=F("Medium", 28), fill=(170, 170, 180))
+frame(("미미미누 라이브 다음 날 아침", "정부 답은 '긴급대응팀'"), panel,
+      "탐지 기술은 '검토', 수능은 '사흘 뒤'", sub="16일 관계부처 회의 · 같은 날 국회 교육위 현안보고").save(O / "f06.jpg", quality=95)
+print("ok6")
