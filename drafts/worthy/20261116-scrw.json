@@ -1,0 +1,37 @@
+{
+ "id": "20261116-scrw",
+ "media": "media/20261116-scrw",
+ "topic": "나사산이 뭉개져 볼트가 헛도는 주철 부품 구멍에 녹인 주석(녹는점 232℃)을 부어 메우고, 망치로 다진 뒤 평평하게 깎아 가운데를 드릴로 뚫고 탭으로 새 나사산을 깎아 되살리는 수리. 주석은 무른 금속이라 힘을 적게 받는 곳에만 쓰고, 정석은 헬리코일·인서트. 사용자 11.16 20:17 회차 3번 선택(숏파일럿 '구멍에 쇳물을 넣는 이유' 504만 소재 재활용) — 원촬영자 YouTube Vinicinn_torneiro 원본으로 제작.",
+ "hook": {
+  "t": "헛도는 볼트 구멍,\n'버리지' 마세요"
+ },
+ "credit": "영상: YouTube Vinicinn_torneiro · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/how_it_began.mp3", "start": 14.5, "vol": 0.56},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "실사 전 장면: YouTube Vinicinn_torneiro 'Thread restored with melted tin!' (2026.09.10) https://www.youtube.com/watch?v=iQEjB1bOdDs — 원촬영자 본인 게시물(숏파일럿 편집본 화면의 VINICIN_TORNEIROO 표기와 같은 장면). 원본 음악은 끔.",
+  "모션그래픽: scripts/story_shorts/anim_scrw.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {"publisher": "원촬영자 영상 제목 'Thread restored with melted tin!' (YouTube Vinicinn_torneiro, 2026.09.10) — 녹인 금속이 주석이라는 근거", "url": "https://www.youtube.com/watch?v=iQEjB1bOdDs"},
+  {"publisher": "Wikipedia 'Tin' — 녹는점 231.93℃, 무르고 잘 펴지는 금속", "url": "https://en.wikipedia.org/wiki/Tin"},
+  {"publisher": "Royal Society of Chemistry 원소표 'Tin' — 녹는점 231.928℃", "url": "https://www.rsc.org/periodic-table/element/50/tin"},
+  {"publisher": "Jalopnik 2020 'Here's The Definitive Best Method Of Fixing A Stripped Thread' — 뭉개진 나사산 수리법 비교(헬리코일·인서트)", "url": "https://jalopnik.com/heres-the-definitive-best-method-of-fixing-a-stripped-t-1846935915"},
+  {"publisher": "Hagerty UK 'How to repair a stripped thread using a Helicoil'", "url": "https://hagerty.co.uk/articles/maintenance-and-gear/how-to-repair-a-stripped-thread-using-a-helicoil"}
+ ],
+ "_note": "실사 0~9.8초(5장면: 주석 붓기 0.65배 슬로 → 볼록하게 굳음 → 볼트가 헛돌던 구멍 → 망치·줄 → 드릴) → 그래픽 9.8~19.5초(4장면, 답 공개 9.8초) → 실사 19.5~24.9초(탭 → 볼트 꽉 + 구독). 효과음 없음, 원본 소리 끔(배경음악 깔려 있음).",
+ "scenes": [
+  {"text": "부품 구멍에 이걸 통째로 들이붓는데", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 1.4},
+  {"text": "부품 구멍에 이걸 통째로 들이붓는데", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 1.4},
+  {"text": "원래 볼트를 넣어도 헛돌기만 하던 구멍", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "굳자마자 망치로 쾅쾅, 줄로 싹 밀더니", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.3},
+  {"text": "꽉 막은 구멍을 다시 드릴로 뚫는다?", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.3},
+  {"text": "알고 보니 뭉개진 나사산을 '새로' 만드는 수리", "video": {"src": "gfx/fill.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6},
+  {"text": "잘 녹는 '주석'으로 빈틈까지 꽉 메우고", "video": {"src": "gfx/fill.mp4", "start": 2.6, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "가운데를 뚫어 '탭'으로 나사산을 깎는다", "video": {"src": "gfx/tap.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.8},
+  {"text": "단, 주석은 물러서 힘 적게 받는 곳에만", "video": {"src": "gfx/tap.mp4", "start": 2.8, "x": 0.5, "y": 0.5}, "dur": 2.3},
+  {"text": "실제로 반짝이는 새 나사산이 생기고", "video": {"src": "clip/F.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "버릴 뻔한 부품 부활! 더 튼튼한 수리법은 다음 편에서, 구독", "video": {"src": "clip/G.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.6}
+ ]
+}
