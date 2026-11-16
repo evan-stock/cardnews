@@ -313,6 +313,10 @@ def run(cfg, state_dir, send, now=None, discover=discover_account, meter=measure
 
     for tid in [t for t, p in track.items() if (now - p["created"]) / 3600 > cfg["drop_age_h"]]:
         del track[tid]
+    # 목록에서 뺀 계정의 글은 순위표에서도 지운다(직접 넣은 inbox 글은 그대로)
+    keep = {f"@{a}".lower() for a in cfg["accounts"]}
+    for tid in [t for t, p in track.items() if p.get("src", "inbox") != "inbox" and p["src"].lower() not in keep]:
+        del track[tid]
 
     # 6시간 지났는데 조회 5천도 안 되는 글은 더 재지 않는다(자리 비우기)
     for tid in [t for t, p in track.items() if p.get("snaps") and (now - p["created"]) / 3600 > 6 and p["snaps"][-1]["v"] < 5000]:

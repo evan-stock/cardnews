@@ -7,6 +7,9 @@ alerts: false
 
 # 지켜볼 계정(@ 없이). 소재가 자주 나오는 계정을 넣는다. 계정의 최근 글이 자동으로 후보가 된다.
 accounts:
+  # 2026.11.16 사용자 지시 "한국 시청자가 안 보는 계정은 빼": 일본 국내 뉴스(YahooNewsTopics·livedoornews), 미국 연예·정치(PopBase·PopCrave·CollinRugg·AutismCapital·FearedBuck),
+  #   전쟁·지정학 속보(visegrad24·sentdefender·nexta_tv·clashreport·spectatorindex·BNONews), 음모론·루머(disclosetv·tQuietEngineer), 명언·AI 성능표(PhysInHistory·testingcatalog) 뺌.
+  #   말이 필요 없는 해외 영상 계정과, 실제로 우리 게시물 출처가 됐던 계정(thayzzysmith·emmarincon·amitisinvesting·LucAuffret)은 남김.
   # 2026.11.16: 지금까지 오늘의쓸모 소재로 2번 이상 쓴 엑스 계정에서 뽑은 시작 목록(동물 밈 계정·일론 머스크 제외)
   - itwillbe_sage
   - nowyeosi
@@ -22,14 +25,12 @@ accounts:
   - UnitreeRobotics
   - SpaceX
   - thayzzysmith
-  - tQuietEngineer
   - meta_pavy
   - emmarincon
   - argent_wave
   - amitisinvesting
   - Rainmaker1973
   - LucAuffret
-  - clashreport
   - Absurd__World
   # 2026.11.16 추가: 큐레이션 계정(남의 화제 글·영상을 모아 올리는 계정)과 속보 계정. 기존 목록은 그대로 둠.
   # 신기한 영상·과학·자연
@@ -39,13 +40,11 @@ accounts:
   - wonderofscience
   - MAstronomers
   - engineers_feed
-  - PhysInHistory
   - historyinmemes
   - TheFigen_
   - Enezator
   - HumansNoContext
   - DudespostingWs
-  - FearedBuck
   - crazyclipsonly
   - buitengebieden
   - Yoda4ever
@@ -60,23 +59,9 @@ accounts:
   - SawyerMerritt
   - minchoi
   - rowancheung
-  - testingcatalog
   - latestinspace
   - konstructivizm
   - NASASpaceflight
-  # 해외 속보·사건 현장
-  - BNONews
-  - disclosetv
-  - spectatorindex
-  - nexta_tv
-  - visegrad24
-  - sentdefender
-  - CollinRugg
-  - PopBase
-  - PopCrave
-  - AutismCapital
-  - livedoornews
-  - YahooNewsTopics
   # 국내 뉴스
   - yonhaptweet
   - JTBC_news
