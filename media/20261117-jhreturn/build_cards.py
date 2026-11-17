@@ -21,12 +21,22 @@ specs = [
 ]
 sp = O / "specs.json"; sp.write_text(json.dumps(specs, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], check=True)
-# 표지(사용자): 젠슨 황과 엔비디아 로고가 함께 보이게 가로 사진을 폭에 맞춰 위쪽에 크게, 아래는 어둡게 이어 글자 자리
-ph = Image.open(O / "chip.jpg").convert("RGB"); ph = ph.resize((W, round(ph.height * W / ph.width)), Image.LANCZOS)
-bgc = (10, 12, 10); cov = Image.new("RGB", (W, H), bgc); top = 300; cov.paste(ph, (0, top))
-g = Image.new("L", (W, 240)); g.putdata([int(255 * y / 239) for y in range(240) for _ in range(W)])
-cov.paste(Image.new("RGB", (W, 240), bgc), (0, top + ph.height - 240), g)
-g2 = Image.new("L", (W, 120)); g2.putdata([int(255 * (119 - y) / 119) for y in range(120) for _ in range(W)])
-cov.paste(Image.new("RGB", (W, 120), bgc), (0, top), g2)
+# 표지(사용자): 화면 꽉 차게 + 로고를 젠슨 황 뒤로. 오른쪽 로고 부분을 배경으로 크게 깔고, 왼쪽 젠슨 황 부분을 앞에 겹쳐 페이드
+src = Image.open(O / "chip.jpg").convert("RGB")  # 1280x720
+bgl = ImageOps.fit(src.crop((560, 0, 1280, 720)), (W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(45)); bgl = Image.blend(bgl, Image.new("RGB", (W, H), (6, 10, 6)), .45)  # 초록 벽 흐린 바탕
+logo = src.crop((660, 30, 1250, 520)); LW = 680; logo = logo.resize((LW, round(logo.height * LW / logo.width)), Image.LANCZOS)
+lm = Image.new("L", logo.size, 0); ImageDraw.Draw(lm).rounded_rectangle((50, 40, logo.width - 20, logo.height - 50), 80, fill=255); lm = lm.filter(ImageFilter.GaussianBlur(45))
+bgl.paste(logo, (W - LW + 20, 70), lm)
+jh = src.crop((0, 0, 640, 720)); JH = 1050; jh = jh.resize((round(jh.width * JH / jh.height), JH), Image.LANCZOS)
+ox, oy = -170, 120
+lay = bgl.copy(); lay.paste(jh, (ox, oy))
+fx0, fx1 = ox + jh.width - 260, ox + jh.width - 10
+row = Image.new("L", (W, 1)); row.putdata([255 if x < fx0 else 0 if x > fx1 else int(255 * (fx1 - x) / (fx1 - fx0)) for x in range(W)])
+m = Image.new("L", (W, H), 0); m.paste(row.resize((W, JH)), (0, oy))
+col = Image.new("L", (1, 70)); col.putdata([int(255 * y / 69) for y in range(70)])
+m2 = Image.new("L", (W, H), 255); m2.paste(col.resize((W, 70)), (0, oy)); m2.paste(0, (0, 0, W, oy))
+from PIL import ImageChops
+mask = ImageChops.multiply(m, m2)
+cov = Image.composite(lay, bgl, mask)
 cov.save(O / "cover_bg.jpg", quality=95)
 print("ok")
