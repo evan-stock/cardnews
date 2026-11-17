@@ -1,0 +1,15 @@
+ERROR: [twitter] 2122574607622566154: No video could be found in this tweet
+사진 받음 p1_1.jpg
+사진 받음 p1_2.jpg
+사진 받음 q1_1.jpg
+사진 받음 q1_2.jpg
+영상 없는 글(사진만): https://x.com/muuuaaa11/status/2122574607622566154
+total 756
+drwxr-xr-x 2 runner runner   4096 Nov 17 08:44 .
+drwxr-xr-x 3 runner runner   4096 Nov 17 08:44 ..
+-rw-r--r-- 1 runner runner    249 Nov 17 08:44 log.txt
+-rw-r--r-- 1 runner runner 217866 Nov 17 08:44 p1_1.jpg
+-rw-r--r-- 1 runner runner 306073 Nov 17 08:44 p1_2.jpg
+-rw-r--r-- 1 runner runner 110142 Nov 17 08:44 q1_1.jpg
+-rw-r--r-- 1 runner runner 116196 Nov 17 08:44 q1_2.jpg
+-rw-r--r-- 1 runner runner   1110 Nov 17 08:44 x1.json
