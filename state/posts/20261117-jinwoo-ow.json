@@ -2,7 +2,7 @@
  "id": "20261117-jinwoo-ow",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "manual": true,
  "created_at": "2026-11-17T18:05:24+09:00",
  "publish_at": "2026-11-17T18:05:24+09:00",
@@ -39,5 +39,8 @@
   "media/20261117-jinwoo-ow/04.jpg",
   "media/20261117-jinwoo-ow/05.jpg",
   "media/20261117-jinwoo-ow/06.jpg"
- ]
+ ],
+ "ig_media_id": "17997642390098722",
+ "permalink": "https://www.instagram.com/p/Df1kn9hETZ_/",
+ "published_at": "2026-11-17T18:07:59.305501+09:00"
 }
