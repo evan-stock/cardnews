@@ -29,7 +29,7 @@ y += h + 40
 for ln in ['"공연히 요행을 노리다가 \'인생 망치지 마시고\',', '본인이나 모두를 위해 포기하시기 바랍니다."']:
     rich(d, P, y, ln, F("Bold" if False else "SemiBold", 34)); y += 50
 d.text((P, y + 14), "X 게시물 내용을 옮겨 구성 · 포상금은 '도입 검토 지시' 단계", font=F("Medium", 24), fill=MU)
-logo(im); im.save(Path(__file__).parent / "cand" / "c02_rebuilt_unused.jpg", quality=93)  # 2장은 사용자 제공 트윗 캡처(cand/spec.json → scripts/post_cap_card.py); print("ok", y)
+logo(im)  # 2장은 사용자 제공 트윗 캡처(cand/spec.json → scripts/post_cap_card.py)라 다시 그린 카드는 저장 안 함
 # 표지 배경(사용자 지정): 왼쪽 대통령 사진, 오른쪽 수능 D-7 학원 사진(뉴스1) 나란히, 경계 페이드. 아래는 글자 자리로 어둡게.
 # D-7 사진 위쪽 '11월 12일(목)' 글씨는 이번 수능 날짜(19일)와 달라 잘라냄.
 from PIL import ImageFilter, ImageOps
