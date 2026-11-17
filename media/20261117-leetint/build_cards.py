@@ -1,5 +1,5 @@
 """20261117-leetint: 리트 만점자 17일 밤 자택 앞 인터뷰(중앙일보 단독·한국일보) — AI 부정행위 전면 부인, "차라리 수사 받겠다".
-따옴표는 기사에 실린 실제 발언만. 실명 안 씀. 표지 사진: 나무위키 프로필(사용자 제공, jinwoo-ow와 같은 사진)."""
+따옴표는 기사에 실린 실제 발언만. 실명 안 씀. 표지 사진: 기사 속 17일 밤 자택 앞 사진(중앙일보)."""
 import json, re, subprocess, sys
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps, ImageEnhance
@@ -71,5 +71,5 @@ frame(("17일 밤 자택 앞에서 만난 리트 만점자", "의혹 '전면 부
 frame(("시험지 의혹엔 이렇게 답했다", "'확률 희박'은 인정"),
       panel([("25~29번 답 고친 흔적", "\"고민하다 답을 '고른' 거다\""), ("우연일 가능성", "\"확률이 희박하다는 건 '인정한다'\""), ("시험지에 적힌 숫자 '33'", "\"다음 날 '전화통화' 하다 끄적인 것\"")], h=560),
       "스토킹 폭로자엔 '법적 대응' 고려", "부정행위는 아직 확인된 사실이 아닙니다").save(O / "c03.jpg", quality=93)
-fit(op("lee_photo.jpg"), W, H, (.5, .2)).save(O / "cover_bg.jpg", quality=95)
+fit(op("article_photo.jpg"), W, H, (.5, .2)).filter(ImageFilter.UnsharpMask(2, 80, 2)).save(O / "cover_bg.jpg", quality=95)  # 사용자: 기사 속 17일 밤 자택 앞 사진(중앙일보, X 캡처에서)
 print("ok")
