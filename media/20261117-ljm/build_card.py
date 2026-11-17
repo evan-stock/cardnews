@@ -34,14 +34,14 @@ logo(im); im.save(Path(__file__).parent / "cand" / "c02.jpg", quality=93); print
 # D-7 사진 위쪽 '11월 12일(목)' 글씨는 이번 수능 날짜(19일)와 달라 잘라냄.
 from PIL import ImageFilter, ImageOps
 A = Image.open(Path(__file__).parent / "cand" / "user_photo.jpg").convert("RGB").crop((110, 0, 450, 365))
-B = Image.open(Path(__file__).parent / "cand" / "user_d7.jpg").convert("RGB").crop((0, 88, 330, 369))
-TH = 760
+B = Image.open(Path(__file__).parent / "cand" / "user_d7.jpg").convert("RGB").crop((0, 88, 300, 369))
+TH = 950
 A = ImageOps.fit(A, (620, TH), Image.LANCZOS, centering=(.5, 0)).filter(ImageFilter.UnsharpMask(2, 60, 2))
-B = ImageOps.fit(B, (620, TH), Image.LANCZOS, centering=(.35, .5)).filter(ImageFilter.UnsharpMask(2, 60, 2))
+B = ImageOps.fit(B, (620, TH), Image.LANCZOS, centering=(.55, .5)).filter(ImageFilter.UnsharpMask(2, 60, 2))
 L = Image.new("RGB", (W, TH)); L.paste(A, (0, 0)); Rr = Image.new("RGB", (W, TH)); Rr.paste(B, (W - 620, 0))
 row = Image.new("L", (W, 1)); row.putdata([0 if x < 470 else 255 if x > 610 else int(255 * (x - 470) / 140) for x in range(W)])
 top = Image.composite(Rr, L, row.resize((W, TH)))
-OY = 110; bg = Image.new("RGB", (W, H), (14, 14, 16)); bg.paste(top, (0, OY))
-g = Image.new("L", (W, 200)); g.putdata([int(255 * y / 199) for y in range(200) for _ in range(W)])
-bg.paste(Image.new("RGB", (W, 200), (14, 14, 16)), (0, OY + TH - 200), g)
+OY = 0; bg = Image.new("RGB", (W, H), (14, 14, 16)); bg.paste(top, (0, OY))
+g = Image.new("L", (W, 260)); g.putdata([int(255 * y / 259) for y in range(260) for _ in range(W)])
+bg.paste(Image.new("RGB", (W, 260), (14, 14, 16)), (0, OY + TH - 260), g)
 bg.save(Path(__file__).parent / "cand" / "cover_bg.jpg", quality=95)
