@@ -2,7 +2,7 @@
  "id": "20261117-taxyoung-c",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-18T07:43:24.105683+09:00",
  "publish_at": "2026-11-18T18:00:00+09:00",
  "topic": "세무냥이 불똥: 세무사 최연소 합격자, AI 의심 저격에 책 캐리어로 증명·성적 '722명 중 518등' 공개",
@@ -49,5 +49,6 @@
   "media/20261117-taxyoung-c/04.jpg",
   "media/20261117-taxyoung-c/05.jpg"
  ],
- "tg_msg": 2871
+ "tg_msg": 2871,
+ "decided_at": "2026-11-18T07:49:00+09:00"
 }
