@@ -1,0 +1,29 @@
+{
+ "id": "20261117-t18",
+ "finished_at": "2026-11-17T18:18:55+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/Y-okEVXN1N0",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-t18/video/y1.mp4",
+   "mb": 41.1,
+   "error": "재시도 실패",
+   "view_count": 23312,
+   "title": "We Decided to Ignore Our Golden Retriever… Let’s See Her Reaction! 😂"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/Cz6uOdCfTVU",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-t18/video/y2.mp4",
+   "mb": 6.3,
+   "view_count": 42169,
+   "title": "I PRETENDED TO LEAVE… OUR GOLDEN RETRIEVER'S REACTION 😂🐶#Shorts #GoldenRetriever #FunnyDogs"
+  }
+ ]
+}
