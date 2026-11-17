@@ -2,7 +2,7 @@
  "id": "20261117-jensenback",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-17T14:16:44.244247+09:00",
  "publish_at": "2026-11-17T14:12:51+09:00",
  "topic": "젠슨 황 복귀론 총정리: 스파이설 흔들(트럼프·색스) → 복귀 청원 18만·트럼프 '개의치 않아' → 걸림돌(불륜 인정·물병 증언, 이사회 '검토 안 해') → 17일 실적",
@@ -81,5 +81,9 @@
   "media/20261117-jensenback/06.jpg",
   "media/20261117-jensenback/07.jpg"
  ],
- "tg_msg": 2849
+ "tg_msg": 2849,
+ "decided_at": "2026-11-17T14:25:10.533688+09:00",
+ "ig_media_id": "17947228560088257",
+ "permalink": "https://www.instagram.com/p/Df1LN1DFooi/",
+ "published_at": "2026-11-17T14:26:27.909578+09:00"
 }
