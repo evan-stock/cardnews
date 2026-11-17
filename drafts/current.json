@@ -1,15 +1,28 @@
 [
  {
-  "id": "20261118-leetjh",
+  "id": "20261118-feed-reward",
   "mode": "collect",
   "slot": "evening",
-  "topic": "리트 만점자 이진우 자택 앞 중앙일보 단독 인터뷰 AI 부정행위 부인",
+  "topic": "수능 부정 신고 포상금 1억 찬반(더피드 릴스 자료)",
   "image_pages": [
-   "https://m.news.nate.com/view/20261117n37559",
-   "https://news.nate.com/view/20261117n37559",
-   "https://www.hankookilbo.com/news/article/A2026111721060003303"
+   "https://m.news.nate.com/view/20261118n00509",
+   "https://m.news.nate.com/view/20261118n01469",
+   "https://m.news.nate.com/view/20261118n00613",
+   "https://m.news.nate.com/view/20261117n38139",
+   "https://www.khan.co.kr/article/202611172221005/",
+   "https://www.hankyung.com/article/2026111730851"
+  ],
+  "read_pages": [
+   "https://m.news.nate.com/view/20261118n00509",
+   "https://m.news.nate.com/view/20261118n01469",
+   "https://m.news.nate.com/view/20261118n00613",
+   "https://m.news.nate.com/view/20261117n38139",
+   "https://www.khan.co.kr/article/202611172221005/",
+   "https://www.hankyung.com/article/2026111730851",
+   "https://www.sedaily.com/article/20115654",
+   "https://view.asiae.co.kr/article/2026111721290741251"
   ],
   "sources": [],
-  "limit": 12
+  "limit": 16
  }
 ]
