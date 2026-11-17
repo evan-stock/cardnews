@@ -23,7 +23,7 @@ sp = O / "specs.json"; sp.write_text(json.dumps(specs, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], check=True)
 # 표지(사용자): 화면 꽉 차게 + 로고를 젠슨 황 뒤로. 오른쪽 로고 부분을 배경으로 크게 깔고, 왼쪽 젠슨 황 부분을 앞에 겹쳐 페이드
 src = Image.open(O / "chip.jpg").convert("RGB")  # 1280x720
-bgl = ImageOps.fit(src.crop((560, 0, 1280, 720)), (W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(45)); bgl = Image.blend(bgl, Image.new("RGB", (W, H), (6, 10, 6)), .45)  # 초록 벽 흐린 바탕
+bgl = Image.new("RGB", (W, H), (8, 12, 8))  # 바탕은 단색(흐린 사진 바탕이 모자이크처럼 보여 교체)
 logo = src.crop((660, 30, 1250, 520)); LW = 680; logo = logo.resize((LW, round(logo.height * LW / logo.width)), Image.LANCZOS)
 lm = Image.new("L", logo.size, 0); ImageDraw.Draw(lm).rounded_rectangle((50, 40, logo.width - 20, logo.height - 50), 80, fill=255); lm = lm.filter(ImageFilter.GaussianBlur(45))
 bgl.paste(logo, (W - LW + 20, 70), lm)
