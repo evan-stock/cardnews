@@ -66,5 +66,5 @@ subprocess.run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i',f'{R}/
 # 커버: 검정 바탕 + 가운데 위 띠 + 아래 격자 통일형 큰 제목
 subprocess.run(['ffmpeg','-v','error','-y','-ss','16.7','-i',TX,'-frames:v','1','-vf',f'crop={CTX},scale=1080:{BH}',f'{R}/cov_band.jpg'],check=True)
 bg=Image.new('RGB',(1080,1920),(0,0,0)); bg.paste(Image.open(f'{R}/cov_band.jpg'),(0,330)); bg.save(f'{R}/cov_bg.jpg',quality=95)
-subprocess.run(['python3','scripts/reel_overlay.py',f'{D}/cand/overlay.png','리트 만점자\n"답 바꾼 건\n23번 하나"','',f'{R}/cov_bg.jpg',f'{D}/reel_cover.jpg'],check=True)
+subprocess.run(['python3','scripts/reel_overlay.py',f'{D}/cand/overlay.png','리트 만점자\n과거 인터뷰 내용\n모아 보니','',f'{R}/cov_bg.jpg',f'{D}/reel_cover.jpg'],check=True)
 print('done')
