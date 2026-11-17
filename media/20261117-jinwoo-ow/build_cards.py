@@ -87,3 +87,11 @@ frame(("지금까지 나온 의혹과 해명", "'목요일'에 풀이 공개"),
       panel([("MBC 보도", "언어이해 25~29번 답 '연달아 수정'"), ("처음 고른 답", "바로 앞 24~28번 정답과 '일치'"), ("본인 해명", "후반 집중력 저하로 '잔실수'"), ("예고", "19일(목) 수능 국어 '풀이 공개'")]),
       "부정행위는 '확인된 사실 아님'", "MBC(11.16)·TV리포트(11.17)").save(O / "c05.jpg", quality=93)
 print("ok")
+# 표지 배경(사용자 지정): 왼쪽 이진우 프로필 사진(사용자 제공), 오른쪽 정커퀸 — 가운데 경계는 페이드
+lee = Image.open(O / "lee_photo.jpg"); s = H / lee.height; lee = lee.resize((round(lee.width * s), H), Image.LANCZOS)
+Lc = Image.new("RGB", (W, H), (235, 238, 242)); Lc.paste(lee, (round(330 - 480 * s), 0))
+jq = ImageOps.fit(Image.open(O / "jq.png").convert("RGB").crop((180, 92, 700, 628)), (620, H), Image.LANCZOS, centering=(.5, .3))
+Rc = Image.new("RGB", (W, H)); Rc.paste(jq, (W - 620, 0))
+row = Image.new("L", (W, 1)); row.putdata([0 if x < 500 else 255 if x > 680 else int(255 * (x - 500) / 180) for x in range(W)])
+mask = row.resize((W, H))
+Image.composite(Rc, Lc, mask).save(O / "cover_bg.jpg", quality=95)
