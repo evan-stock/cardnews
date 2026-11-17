@@ -21,5 +21,12 @@ specs = [
 ]
 sp = O / "specs.json"; sp.write_text(json.dumps(specs, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], check=True)
-ImageOps.fit(Image.open(O / "chip.jpg").convert("RGB"), (W, H), Image.LANCZOS, centering=(.2, .3)).save(O / "cover_bg.jpg", quality=95)
+# 표지(사용자): 젠슨 황과 엔비디아 로고가 함께 보이게 가로 사진을 폭에 맞춰 위쪽에 크게, 아래는 어둡게 이어 글자 자리
+ph = Image.open(O / "chip.jpg").convert("RGB"); ph = ph.resize((W, round(ph.height * W / ph.width)), Image.LANCZOS)
+bgc = (10, 12, 10); cov = Image.new("RGB", (W, H), bgc); top = 300; cov.paste(ph, (0, top))
+g = Image.new("L", (W, 240)); g.putdata([int(255 * y / 239) for y in range(240) for _ in range(W)])
+cov.paste(Image.new("RGB", (W, 240), bgc), (0, top + ph.height - 240), g)
+g2 = Image.new("L", (W, 120)); g2.putdata([int(255 * (119 - y) / 119) for y in range(120) for _ in range(W)])
+cov.paste(Image.new("RGB", (W, 120), bgc), (0, top), g2)
+cov.save(O / "cover_bg.jpg", quality=95)
 print("ok")
