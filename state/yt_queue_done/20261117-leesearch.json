@@ -1,0 +1,25 @@
+{
+ "id": "20261117-leesearch",
+ "finished_at": "2026-11-17T10:25:06+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "ytsearch3:지금백지연 리트 만점자 이진우 인터뷰 관련",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-leesearch/video/y1.mp4",
+   "mb": 6.1,
+   "view_count": null,
+   "title": "지금백지연 리트 만점자 이진우 인터뷰 관련"
+  },
+  {
+   "n": 2,
+   "url": "ytsearch3:DreamSchool 이윤규 리트 만점자 인터뷰",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "파일이 너무 큼 101MB"
+  }
+ ]
+}
