@@ -74,7 +74,7 @@ sh = lambda im: im.filter(ImageFilter.UnsharpMask(2, 70, 2))
 full = lambda n: sh(fit(op(n).crop((0, 0, 1060, 636)), 940, 564))
 frame(("세무냥이 불똥에 공개된 성적", "722명 중 '518등'"), full("f31.png"),
       "한 과목은 '겨우' 과락 면했다", "MBC 뉴스데스크(11.17)").save(O / "c02.jpg", quality=93)
-frame(("최연소 합격자라는 이유로", "\"너도 'AI'냐\" 저격"), full("f5.png"),
+frame(("최연소 합격자라는 이유로", "'AI 부정행위' 의심 저격"), full("f5.png"),
       "여자친구 인스타 아이디까지 '태그'", "애먼 사람이 의심받았다").save(O / "c03.jpg", quality=93)
 frame(("결국 공부한 책을", "'캐리어'째 들고 왔다"), full("f17.png"),
       "학원 별명은 '지박령'", "동료 수강생 인터뷰").save(O / "c04.jpg", quality=93)
