@@ -33,7 +33,7 @@ logo(im); im.save(Path(__file__).parent / "cand" / "c02_rebuilt_unused.jpg", qua
 # 표지 배경(사용자 지정): 왼쪽 대통령 사진, 오른쪽 수능 D-7 학원 사진(뉴스1) 나란히, 경계 페이드. 아래는 글자 자리로 어둡게.
 # D-7 사진 위쪽 '11월 12일(목)' 글씨는 이번 수능 날짜(19일)와 달라 잘라냄.
 from PIL import ImageFilter, ImageOps
-A = Image.open(Path(__file__).parent / "cand" / "user_photo2.png").convert("RGB")  # 2026-11-17 사용자 교체 사진
+A = Image.open(Path(__file__).parent / "cand" / "user_photo3.jpg").convert("RGB")  # 2026-11-17 사용자 교체 사진(고화질)
 B = Image.open(Path(__file__).parent / "cand" / "user_d7.jpg").convert("RGB").crop((0, 88, 300, 369))
 TH = 950
 A = ImageOps.fit(A, (620, TH), Image.LANCZOS, centering=(.5, 0)).filter(ImageFilter.UnsharpMask(2, 60, 2))
