@@ -1,0 +1,61 @@
+{
+ "id": "20261117-wd1",
+ "finished_at": "2026-11-17T20:28:05+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/b3rw9D-8xhA",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-wd1/video/y1.mp4",
+   "mb": 27.4,
+   "view_count": 6221238,
+   "title": "하마가 왜 이럴까요?"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/8GCYr2HU5I4",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-wd1/video/y2.mp4",
+   "mb": 15.4,
+   "view_count": 2195886,
+   "title": "계곡에서 돌이 들썩이면 당장 도망쳐야 하는 이유"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/tjRJUXD0Fog",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-wd1/video/y3.mp4",
+   "mb": 9.6,
+   "view_count": 6538477,
+   "title": "볏짚을 다 싸매는 이유"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/LHFKPMCMjck",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-wd1/video/y4.mp4",
+   "mb": 25.5,
+   "view_count": 2659990,
+   "title": "가스통 화재 시 반드시 기억해야 할 수칙"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/87NO9C_-mEs",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-wd1/video/y5.mp4",
+   "mb": 10.6,
+   "view_count": 3325989,
+   "title": "제초제 뿌리다 미군이 된 농부"
+  }
+ ]
+}
