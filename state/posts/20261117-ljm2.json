@@ -2,7 +2,7 @@
  "id": "20261117-ljm2",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "manual": true,
  "created_at": "2026-11-17T23:08:14+09:00",
  "publish_at": "2026-11-17T23:10:55+09:00",
@@ -30,5 +30,8 @@
  "files": [
   "media/20261117-ljm2/01.jpg",
   "media/20261117-ljm2/02.jpg"
- ]
+ ],
+ "ig_media_id": "18135331498769430",
+ "permalink": "https://www.instagram.com/p/Df2HrEjm29o/",
+ "published_at": "2026-11-17T23:14:44.298888+09:00"
 }
