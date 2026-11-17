@@ -1,0 +1,46 @@
+{
+ "id": "20261117-t18",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-17T18:55:27.895699+09:00",
+ "publish_at": "2026-11-17T18:55:27.895724+09:00",
+ "publish_now": true,
+ "topic": "한 원본(11.17 18:07, ★사람 행동형 3편째): 깊이 잠든 골든에게 집사가 치즈를 들고 살금살금 다가감 → 꿈쩍도 안 하다가 눈만 뜨고 쳐다봄 → 코앞에 치즈를 놔 주자 고개도 안 들고 누운 채로 먹음. 원본 YouTube Bella the Doggo 'Even in a deep sleep, a dog hears everything.'(OMMuflxEKiY, 2026.11.15, 42초, 1080x1920, 자막·워터마크 없음, 덧입힌 음악 전 구간 → 원본 소리 0). 원본 23.2~41.9초 사용(32.5→33.0 원작자 컷, 건너뜀 없음). 서버 render 누적(1.5/4.1/7.1/9.3/11.4/14.1/18.2)으로 장면 시작 = 원본 시각, 원본 끝 42.05 안에 맞추려 마지막 문장 '다 먹고도 그대로 누워 있네요'를 빼고 펀치라인을 6문장째로. bgm curious_kitten.",
+ "sources": [
+  {
+   "publisher": "YouTube Bella the Doggo - Even in a deep sleep, a dog hears everything.",
+   "url": "https://www.youtube.com/shorts/OMMuflxEKiY",
+   "date": "2026-11-15"
+  }
+ ],
+ "seconds": 16.61,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261117-t18/short.mp4"
+ ],
+ "app_file": "media/20261117-t18/short_nobgm.mp4",
+ "yt": {
+  "title": "잠든 골든리트리버 코앞에 치즈를 내밀자 한 행동ㅋㅋ #shorts",
+  "description": "살금살금 다가가 치즈를 내밀었더니… 일어나는 대신 고른 방법 🐶🧀\n\n🎥 원본 영상: YouTube Bella the Doggo https://www.youtube.com/shorts/OMMuflxEKiY\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#오늘의털뭉치 #골든리트리버 #강아지 #강아지반응 #댕댕이 #동물쇼츠\n\n출처: YouTube Bella the Doggo - Even in a deep sleep, a dog hears everything. 2026-11-15\n사진·영상: YouTube Bella the Doggo\n음성: Typecast\n\n#shorts #오늘의털뭉치 #골든리트리버 #강아지 #강아지반응",
+  "tags": [
+   "오늘의털뭉치",
+   "골든리트리버",
+   "강아지",
+   "강아지반응",
+   "댕댕이",
+   "리트리버",
+   "동물쇼츠",
+   "shorts"
+  ],
+  "category": 24,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "ce1ceb90eace",
+ "tg_video": 2857,
+ "tg_msg": 2858
+}
