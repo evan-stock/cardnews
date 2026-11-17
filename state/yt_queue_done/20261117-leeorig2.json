@@ -1,0 +1,26 @@
+{
+ "id": "20261117-leeorig2",
+ "finished_at": "2026-11-17T11:13:16+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "ytsearch1:DreamSchool 이윤규 리트 만점자 인터뷰",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-leeorig2/video/y1.mp4",
+   "mb": 69.6,
+   "error": "재시도 실패",
+   "view_count": null,
+   "title": "DreamSchool 이윤규 리트 만점자 인터뷰"
+  },
+  {
+   "n": 2,
+   "url": "ytsearch1:미미미누 리트 만점 서울대 치대",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Finished downloading playlist: 미미미누 리트 만점 서울대 치대"
+  }
+ ]
+}
