@@ -1,756 +1,273 @@
 {
- "since": "2026-09-17",
- "fixed": [],
- "found": [
+ "since": "2026-08-01",
+ "fixed": [
   {
-   "title": "Tom Davis Dog Training ",
-   "id": "UC-TFajjG5CMAmUrJG1ONtKQ",
-   "created": "2014-06-21",
-   "subs": "1140000",
-   "videos": "1868"
-  },
-  {
-   "title": "Tuffy vs Taffy",
-   "id": "UCsbEPhPa3xAcdA0zkIlZ1vA",
-   "created": "2024-03-06",
-   "subs": "112",
-   "videos": "43"
-  },
-  {
-   "title": "Munaza Sarfraz",
-   "id": "UCxTOTw2ANX9Gx7OWB1nqv5A",
-   "created": "2025-03-08",
-   "subs": "94",
-   "videos": "26"
-  },
-  {
-   "title": "Baba e o Café do Bem",
-   "id": "UCg6NE97oKWCCdOodtuD-eKw",
-   "created": "2026-05-12",
-   "subs": "54600",
-   "videos": "737"
-  },
-  {
-   "title": "どうぶつタイムズ",
-   "id": "UCf-WH4Lz92cLpCZIOGJU4aQ",
-   "created": "2026-06-13",
-   "subs": "7320",
-   "videos": "233"
-  },
-  {
+   "handle": "UCezS-8BB6efc4xMG9n3I5Kw",
    "title": "Bella the Doggo",
    "id": "UCezS-8BB6efc4xMG9n3I5Kw",
    "created": "2026-03-18",
    "subs": "1380",
-   "videos": "261"
+   "videos": "261",
+   "before": {
+    "n": 0,
+    "median": null,
+    "max": null,
+    "over10k": 0
+   },
+   "after": {
+    "n": 82,
+    "median": 1425,
+    "max": 726018,
+    "over10k": 11
+   },
+   "last3d": {
+    "n": 18,
+    "median": 1655,
+    "max": 11086,
+    "over10k": 2
+   },
+   "recent": [
+    {
+     "id": "6b5KgFcw9-k",
+     "date": "2026-11-17",
+     "title": "The dog is asking for help to get its ball 🥎",
+     "views": 1199,
+     "dur": "PT52S"
+    },
+    {
+     "id": "YTqQPBo7o9Y",
+     "date": "2026-11-16",
+     "title": "how to give a dog a pill?",
+     "views": 2211,
+     "dur": "PT45S"
+    },
+    {
+     "id": "3tiBQOeRFAg",
+     "date": "2026-11-16",
+     "title": "puppy bone 🦴",
+     "views": 57,
+     "dur": "PT28S"
+    },
+    {
+     "id": "Esx-Vcnm8ag",
+     "date": "2026-11-16",
+     "title": "What do you think is happening?",
+     "views": 2353,
+     "dur": "PT25S"
+    },
+    {
+     "id": "q3tnOio-AnA",
+     "date": "2026-11-15",
+     "title": "Our Golden Retriever Puppy Is Teething on His New Toy. 🐶🦴",
+     "views": 67,
+     "dur": "PT44S"
+    },
+    {
+     "id": "m36hMV8Xl0Q",
+     "date": "2026-11-15",
+     "title": "What Happens If You Bring a Big Dog to a Shopping Mall? 🐶",
+     "views": 1653,
+     "dur": "PT36S"
+    },
+    {
+     "id": "pOYWncDDSJs",
+     "date": "2026-11-15",
+     "title": "A Golden Retriever Visits a Huge Shopping Mall for the First",
+     "views": 4040,
+     "dur": "PT32S"
+    },
+    {
+     "id": "7vi1_SPsguQ",
+     "date": "2026-11-15",
+     "title": "Puppy golden retriever ✨",
+     "views": 72,
+     "dur": "PT16S"
+    },
+    {
+     "id": "2gWZGo1-JoY",
+     "date": "2026-11-15",
+     "title": "Sprunki and a Golden Retriever 🐶",
+     "views": 3841,
+     "dur": "PT14S"
+    },
+    {
+     "id": "OMMuflxEKiY",
+     "date": "2026-11-15",
+     "title": "Even in a deep sleep, a dog hears everything.",
+     "views": 2081,
+     "dur": "PT43S"
+    },
+    {
+     "id": "Gk0aUb_Itts",
+     "date": "2026-11-15",
+     "title": "Golden Retriever Bella ✨",
+     "views": 6781,
+     "dur": "PT11S"
+    },
+    {
+     "id": "UcMRs1OyyQw",
+     "date": "2026-11-14",
+     "title": "Our Golden Retrievers Got Sent to Their Crates for Bad Behav",
+     "views": 1658,
+     "dur": "PT1M9S"
+    },
+    {
+     "id": "OBS8jJCNDHI",
+     "date": "2026-11-14",
+     "title": "How to Make a Long-Lasting Dog Treat 🐶",
+     "views": 11086,
+     "dur": "PT37S"
+    },
+    {
+     "id": "xnbOUFNn_y4",
+     "date": "2026-11-14",
+     "title": "What Happens If You Give Your Dog a Fresh Mandarin? 🍊🐶",
+     "views": 1052,
+     "dur": "PT36S"
+    },
+    {
+     "id": "vf957NAUE0g",
+     "date": "2026-11-14",
+     "title": "I Put on a Cat Mask… I Didn’t Expect This Reaction!",
+     "views": 292,
+     "dur": "PT1M15S"
+    }
+   ]
   },
   {
-   "title": "Falcon Crowd",
-   "id": "UChznxeSNp4QUVOeclXY0pEQ",
-   "created": "2024-07-20",
-   "subs": "90300",
-   "videos": "1228"
-  },
-  {
-   "title": "FurLoom",
-   "id": "UCscv4QwJiJgtemPalO1Yt2w",
-   "created": "2026-09-04",
-   "subs": "86",
-   "videos": "42"
-  },
-  {
-   "title": "AnimalVerse TV",
-   "id": "UC5VlgN2tB8ZIFznpnoA_0yw",
-   "created": "2026-07-10",
-   "subs": "55",
-   "videos": "118"
-  },
-  {
-   "title": "Jack The retriever",
-   "id": "UCP5KO9fyMIzb_7tOE6OPNsg",
-   "created": "2025-05-25",
-   "subs": "3870",
-   "videos": "474"
-  },
-  {
-   "title": "USA INSIDER",
-   "id": "UCnznM3urRhLovPxZ97ywavw",
-   "created": "2026-06-26",
-   "subs": "201",
-   "videos": "105"
-  },
-  {
-   "title": "LOVE ANIMALS ID",
-   "id": "UCHnMcsuPWn6ZU_iQZHIRYPg",
-   "created": "2020-03-04",
-   "subs": "39900",
-   "videos": "4858"
-  },
-  {
-   "title": "Buddy",
-   "id": "UCkn69N_9CoPYIMArbQw6t-Q",
-   "created": "2021-01-24",
-   "subs": "61700",
-   "videos": "792"
-  },
-  {
-   "title": "Nono Meegi",
-   "id": "UCw-qfc7xzNHirAoL-EhmT2g",
-   "created": "2026-10-12",
-   "subs": "34",
-   "videos": "9"
-  },
-  {
-   "title": "Malinois Minute",
-   "id": "UCm4gVMIQ39XcrDX18Tp8WHg",
-   "created": "2026-03-11",
-   "subs": "90",
-   "videos": "15"
-  },
-  {
-   "title": "Droppp",
-   "id": "UC0tL7xbJrVwEcro22Ml00CQ",
-   "created": "2016-08-15",
-   "subs": "1170000",
-   "videos": "245"
-  },
-  {
-   "title": "Purr & Bark",
-   "id": "UCA2vtMITvXKapXU742kaEmQ",
-   "created": "2026-10-28",
-   "subs": "29",
-   "videos": "171"
-  },
-  {
-   "title": "Puainta®",
-   "id": "UClyMiRVI-05G-HLiIROglww",
-   "created": "2023-09-27",
-   "subs": "1200",
-   "videos": "267"
-  },
-  {
-   "title": "Gary Rizky",
-   "id": "UCGMYoqiKkNK0glNaPhB7-IQ",
-   "created": "2024-11-27",
-   "subs": "7980",
-   "videos": "2035"
-  },
-  {
-   "title": "Golden Charlie /golden retriever🐾",
-   "id": "UCCxSWj1DXBfCaTtFzNJPiMQ",
-   "created": "2019-11-16",
-   "subs": "353",
-   "videos": "296"
-  },
-  {
-   "title": "No Way Facts",
-   "id": "UCjWU897wvgNd1cMyHrOVfJw",
-   "created": "2026-01-13",
-   "subs": "2990",
-   "videos": "122"
-  },
-  {
-   "title": "Pug & Chief",
-   "id": "UClq81vl3hXnXIR_k6M-TYzA",
-   "created": "2025-11-04",
-   "subs": "139",
-   "videos": "27"
-  },
-  {
-   "title": " Life With Rio | Golden Retriever\n\n",
-   "id": "UCRzBKJFtQ-sBtqniRr2Vnjg",
-   "created": "2023-08-13",
-   "subs": "295",
-   "videos": "192"
-  },
-  {
-   "title": "Animal LoL.3m",
-   "id": "UCECcjxXORr2Q75rkW_pnuKQ",
-   "created": "2026-10-02",
-   "subs": "18",
-   "videos": "20"
-  },
-  {
-   "title": "Life with Lia",
-   "id": "UCovZYfNpbBFAoaDFSPbw8bA",
-   "created": "2026-08-31",
-   "subs": "22",
-   "videos": "28"
-  },
-  {
-   "title": "Its Balilo",
-   "id": "UCGPUfD76CsnEo-TG-erVeLA",
-   "created": "2025-06-05",
-   "subs": "16300",
-   "videos": "198"
-  },
-  {
-   "title": "Henry David",
-   "id": "UCe2FUAbk0wqaEH8HaGAP8wA",
-   "created": "2025-02-24",
-   "subs": "13700",
-   "videos": "2890"
-  },
-  {
-   "title": "Void Horizon ",
-   "id": "UC_KJv9INtC7Rb2vALrmqj5A",
-   "created": "2024-03-30",
-   "subs": "65",
-   "videos": "19"
-  },
-  {
-   "title": "크릉",
-   "id": "UC4QGsUTH1HYBoe-XGP_MpXw",
-   "created": "2026-02-06",
-   "subs": "39400",
-   "videos": "195"
-  },
-  {
-   "title": "아니근데진짜라고",
-   "id": "UC1a-dAzjutMGkqklFWaDJ1g",
-   "created": "2025-12-29",
-   "subs": "3500",
-   "videos": "34"
-  },
-  {
-   "title": "Adorable Lucy",
-   "id": "UCXz9Rj9E_sRFemHPU7O4STw",
-   "created": "2022-05-06",
-   "subs": "75",
-   "videos": "103"
-  },
-  {
-   "title": "Golden Retriever",
-   "id": "UC22TrdxvZPcDhPN8oiRHeHg",
-   "created": "2026-07-04",
-   "subs": "383",
-   "videos": "136"
-  },
-  {
-   "title": "WowverseAi10",
-   "id": "UCBGcx7TN9gK_RSLE4pP9HPg",
-   "created": "2026-10-08",
-   "subs": "7",
-   "videos": "39"
-  },
-  {
-   "title": "SUAVE XAVIER DOGS",
-   "id": "UCs8mEUtHi3mRyQvI0Mz_mCQ",
-   "created": "2026-11-10",
-   "subs": "0",
-   "videos": "10"
-  },
-  {
-   "title": "반려의 정석",
-   "id": "UCOX4svnUa6IwiMpKNY9S7WQ",
-   "created": "2026-03-01",
-   "subs": "286",
-   "videos": "128"
-  },
-  {
-   "title": "Crazy Laughs USA",
-   "id": "UCR8lz0n_6C6T6WIRzFxWkxQ",
-   "created": "2025-12-17",
-   "subs": "11",
-   "videos": "13"
-  },
-  {
-   "title": "Miko & Yuchi",
-   "id": "UCqWS9gB9A8vaAgJ_GeF7scA",
-   "created": "2026-11-03",
-   "subs": "9",
-   "videos": "26"
-  },
-  {
-   "title": "Our Little Zoo",
-   "id": "UCLLDUQjsuzEWC8ANernicaw",
-   "created": "2025-03-25",
-   "subs": "130",
-   "videos": "117"
-  },
-  {
-   "title": "Golden Retriever Buddy",
-   "id": "UCD_YSVXUySzh-kYF6DpVcTg",
-   "created": "2020-03-29",
-   "subs": "710000",
-   "videos": "620"
-  },
-  {
-   "title": "Nexzo",
-   "id": "UC-CfqpVbAJ9zlBx8A51DoOQ",
-   "created": "2026-11-15",
-   "subs": "0",
-   "videos": "2"
-  },
-  {
-   "title": "Otak Brillian",
-   "id": "UCriVupAe8JF3vYDfSYGTVIg",
-   "created": "2026-08-01",
-   "subs": "743000",
-   "videos": "62"
-  },
-  {
-   "title": "【わんこの雑学】わんこの気持ち大学",
-   "id": "UCmHNvKtFqKs4ykCDsILTiJg",
-   "created": "2025-10-11",
-   "subs": "9030",
-   "videos": "279"
-  },
-  {
-   "title": "News 4 Tucson KVOA-TV",
-   "id": "UCs8cRivViWcNIx5arlnYXYg",
-   "created": "2013-08-28",
-   "subs": "93600",
-   "videos": "61550"
-  },
-  {
-   "title": "The Dog Fixer",
-   "id": "UCnG17wMbWUQ8jPzjDO5VI2Q",
-   "created": "2019-04-29",
-   "subs": "472",
-   "videos": "48"
+   "handle": "@macdeminidachshund",
+   "title": "Mac DeMini Dachshund",
+   "id": "UCOAYbzYxT0LPVLVQBsXQNCw",
+   "created": "2022-05-14",
+   "subs": "117000",
+   "videos": "899",
+   "before": {
+    "n": 45,
+    "median": 38337,
+    "max": 259001,
+    "over10k": 45
+   },
+   "after": {
+    "n": 54,
+    "median": 36619,
+    "max": 288318,
+    "over10k": 54
+   },
+   "last3d": {
+    "n": 1,
+    "median": 36510,
+    "max": 36510,
+    "over10k": 1
+   },
+   "recent": [
+    {
+     "id": "oCna4Tzig4c",
+     "date": "2026-11-14",
+     "title": "Things a mini dachshund does when he thinks no one is watchi",
+     "views": 36510,
+     "dur": "PT1M40S"
+    },
+    {
+     "id": "FRjYb2UJ20Y",
+     "date": "2026-11-12",
+     "title": "Can we tire a mini dachshund out without going for long walk",
+     "views": 22943,
+     "dur": "PT1M36S"
+    },
+    {
+     "id": "dWVl5jbotJM",
+     "date": "2026-11-10",
+     "title": "Hiding in plain sight!  Can you spot the miniature dachshund",
+     "views": 20575,
+     "dur": "PT1M36S"
+    },
+    {
+     "id": "aJuxdQxgBg8",
+     "date": "2026-11-07",
+     "title": "Mini dachshund's sleepiest side eye yet! 👀",
+     "views": 34066,
+     "dur": "PT1M37S"
+    },
+    {
+     "id": "-RBQeK-5AIo",
+     "date": "2026-11-05",
+     "title": "Mini dachshund taste tests baby food!",
+     "views": 26612,
+     "dur": "PT1M46S"
+    },
+    {
+     "id": "YiVY5Ovy9rs",
+     "date": "2026-11-03",
+     "title": "Mini dachshund soaks up the last sunny day of the year! 🍂",
+     "views": 19747,
+     "dur": "PT1M41S"
+    },
+    {
+     "id": "rqsfglCAiD4",
+     "date": "2026-10-31",
+     "title": "Mini dachshund says: \"No tricks, just treats!\" on Halloween ",
+     "views": 23664,
+     "dur": "PT1M37S"
+    },
+    {
+     "id": "jwkSUNz1gpI",
+     "date": "2026-10-29",
+     "title": "Can you guess a mini dachshund's Halloween costume? 🎃",
+     "views": 25635,
+     "dur": "PT1M40S"
+    },
+    {
+     "id": "8krgvZJtf3U",
+     "date": "2026-10-27",
+     "title": "Mini dachshund reacts to a book in colors he can actually se",
+     "views": 29994,
+     "dur": "PT1M50S"
+    },
+    {
+     "id": "a2ahYrifGFk",
+     "date": "2026-10-24",
+     "title": "Mini dachshund breaks in his newest blankets!",
+     "views": 38995,
+     "dur": "PT1M40S"
+    },
+    {
+     "id": "iO1GRvyI_2g",
+     "date": "2026-10-22",
+     "title": "Mini dachshund is a believer in finders keepers!",
+     "views": 43062,
+     "dur": "PT1M45S"
+    },
+    {
+     "id": "SU9s7SqcbIw",
+     "date": "2026-10-18",
+     "title": "Mini dachshund is always extra snuggly on a rainy day! ❤️",
+     "views": 42250,
+     "dur": "PT1M36S"
+    },
+    {
+     "id": "ZiEmcE7vM3s",
+     "date": "2026-10-17",
+     "title": "Mini dachshund escapes the big city for the day! ⛰️",
+     "views": 26412,
+     "dur": "PT1M37S"
+    },
+    {
+     "id": "_3_3zob-3OA",
+     "date": "2026-10-15",
+     "title": "Surprising mini dachshund with food when he least expects it",
+     "views": 35360,
+     "dur": "PT1M47S"
+    },
+    {
+     "id": "76RwklSE-RU",
+     "date": "2026-10-13",
+     "title": "Mini dachshund vs Remote control car!",
+     "views": 71093,
+     "dur": "PT1M39S"
+    }
+   ]
   }
  ],
- "search_hits": [
-  {
-   "q": "suddenly hugging my cat reaction",
-   "vid": "EUmpXGC-LLY",
-   "ch": "Droppp",
-   "cid": "UC0tL7xbJrVwEcro22Ml00CQ",
-   "date": "2026-09-21",
-   "title": "Sisters Hugging Their Brothers to See Their Reactions 😂",
-   "views": 1407534,
-   "desc": "#shorts #english #usa #family #sister #brother #funny #happy"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "apf_BjwAdyg",
-   "ch": "크릉",
-   "cid": "UC4QGsUTH1HYBoe-XGP_MpXw",
-   "date": "2026-09-26",
-   "title": "외국인 견주의 소파를 탐내는 진돗개의 혼신의 연기",
-   "views": 514626,
-   "desc": "진돗개와 외국인 견주 사이에서 벌어진 유쾌한 소파 쟁탈전입니다.\n\n자기 자리를 지켜달라는 외국인 견주의 말을 찰떡같이 알아듣고 순순히 돌아가는 진돗개.\n\n그런데 다음날, 주인이 앉는 소파 자리를 떡하니 차지한 진돗개가 발견되는데요.\n\n네 자리로 가라는 말에도 꿋꿋하게 자는 척하며 버티는 모습이 웃음을 자아냅니다.\n\n주인의 소파를 차지하려는 진돗개의 엉뚱한 행동과 진돗개 특유의 고집을 만나보세요.\n\n#진돗개 #진도믹스 #시고르자브종\n#외국인반응 #해외반응 #반려동물 \n#JindoDog #KoreanJindo"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "r6ZtQn1TlEQ",
-   "ch": "AnimalVerse TV",
-   "cid": "UC5VlgN2tB8ZIFznpnoA_0yw",
-   "date": "2026-10-28",
-   "title": "😂 Dogs Ring the Doorbell &amp; Pretend to Sleep! 🐶🤣 | Funnie",
-   "views": 66207,
-   "desc": "😂🐶 The funniest dog prank ever! These mischievous dogs ring the doorbell and instantly pretend to be asleep when the owner opens the door! 🤣🔔\n\nBut wait until the door closes… their hilarious secret reaction is absolutely priceless! 😂🐕 Did they really think they could fool the owner?\n\nWatch till the "
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "h25jCVMx30Q",
-   "ch": "Otak Brillian",
-   "cid": "UCriVupAe8JF3vYDfSYGTVIg",
-   "date": "2026-09-20",
-   "title": "Dia Pura-Pura Tidur, Lihat Reaksi Anjingnya! 😱 #shorts",
-   "views": 30531,
-   "desc": ""
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "So44fJONCgs",
-   "ch": "Void Horizon ",
-   "cid": "UC_KJv9INtC7Rb2vALrmqj5A",
-   "date": "2026-11-10",
-   "title": "Dog Gets Caught Stealing Chicken… Then Pretends to Be ASLEEP",
-   "views": 40662,
-   "desc": "This sneaky Golden Retriever thought he could steal a delicious piece of fried chicken without anyone noticing. But just as he takes a bite, his owner walks into the kitchen and catches him red-pawed! 😭🤣\n\nHis reaction? He puts the chicken back on the table and pretends to be sleeping like nothing ha"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "0QDn8xuQPzg",
-   "ch": "Falcon Crowd",
-   "cid": "UChznxeSNp4QUVOeclXY0pEQ",
-   "date": "2026-09-19",
-   "title": "She Tested Her Dogs’ Loyalty But Only One Passed #shortvideo",
-   "views": 28087,
-   "desc": "This girl wanted to see how her two dogs would react to a simple loyalty test. 🐶🧀 She held a piece of cheese and pretended to fall asleep. One dog patiently sat beside her and waited, while the other couldn’t resist the temptation and went for the cheese! 😂 But in the end, the patient Pitbull got a "
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "stKD0Tz54n0",
-   "ch": "どうぶつタイムズ",
-   "cid": "UCf-WH4Lz92cLpCZIOGJU4aQ",
-   "date": "2026-10-13",
-   "title": "靴をかじって寝たふりで逃げ切ろうとするワンコ",
-   "views": 31728,
-   "desc": "靴をかじったのがバレて、突然寝たふりを始めるワンコ🐶💤\n飼い主に問い詰められると、こっそり目を開けて様子を確認ｗｗ\n最後まで寝たふりを貫く姿に怒る気もなくなりますね🤣\n\n#Shorts #犬 #犬のいたずら #寝たふり #犬の反応\n#面白い犬 #かわいい犬 #動物ユーモア #面白い動物\n\n🎵Music provided by 브금대통령\n🎵Track : Jelly Steps -  https://www.youtube.com/watch?v=_P7yBcZ6jPA\n\nVoicevox : 四国めたん（ノーマル）"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "8QWwdE6pmLE",
-   "ch": "아니근데진짜라고",
-   "cid": "UC1a-dAzjutMGkqklFWaDJ1g",
-   "date": "2026-10-29",
-   "title": "자는 척하고 간식 들고 누웠더니 생긴 일 ㅋㅋ",
-   "views": 13841,
-   "desc": "손에 든 과자부터 슬쩍 가져가더니 결국 그릇에 얼굴을 박음 ㅋㅋ\n딱 걸리자 애교로 무마하는 리트리버\n\n영상 출처: AMomWithDogs — \"POV: Pretending To Fall Asleep With Snack | Funny Dog Reaction\"\nhttps://www.youtube.com/watch?v=_UQJMEiw_4o (CC BY, 재사용 허용)\n음악: \"Monkeys Spinning Monkeys\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: "
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "CL_fzuNnfrE",
-   "ch": "Crazy Laughs USA",
-   "cid": "UCR8lz0n_6C6T6WIRzFxWkxQ",
-   "date": "2026-11-04",
-   "title": "My Dog Pretends to Sleep Every Time I Ask Him to Clean! 😂🐶#S",
-   "views": 4751,
-   "desc": "My Dog Pretends to Sleep Every Time I Ask Him to Clean! 😂🐶#Shorts#FunnyDog #DogComedy #SmartDog #FunnyAnimals\n\nMy dog has mastered the art of pretending to sleep! 😂🐶\n\nEvery time I ask him to help clean the house, he suddenly falls asleep. But when I mention treats, he wakes up instantly! 🤣\n\nIs your "
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "rghwSL-r8g0",
-   "ch": "Nono Meegi",
-   "cid": "UCw-qfc7xzNHirAoL-EhmT2g",
-   "date": "2026-10-24",
-   "title": "This Chihuahua FAKED SLEEP After Stealing Chicken! 🐶🍗 #short",
-   "views": 2392,
-   "desc": "Nono the tiny Chihuahua got caught stealing chicken… and his solution? Pretend to be ASLEEP! \nBut Meegi, the giant Cane Corso, accidentally makes everything worse! Will Nono get away with his hilarious little crime, or will his owner catch him red-pawed? \n\nWait for the ending — Nono’s guilty face sa"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "n_wmson63wY",
-   "ch": "Malinois Minute",
-   "cid": "UCm4gVMIQ39XcrDX18Tp8WHg",
-   "date": "2026-11-13",
-   "title": "Faking Sleep to Test My Dog&#39;s Honesty",
-   "views": 1758,
-   "desc": "I pretended to fall asleep on the couch to see if Rex would steal the food right off the table. Watch his reaction when he thinks nobody is watching!\n\nDid he pass or fail? Tell me in the comments!\n\n#malinois #belgianmalinois #dogtraining #funnydogs #shorts"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "pQM2AelFKgs",
-   "ch": "반려의 정석",
-   "cid": "UCOX4svnUa6IwiMpKNY9S7WQ",
-   "date": "2026-10-17",
-   "title": "주인이 바나나 들고 자는 척하면 닥스훈트는 어떻게 할까",
-   "views": 1423,
-   "desc": "주인이 바나나를 손에 들고 자는 척하면, 닥스훈트는 끝까지 참을 수 있을까? 🍌🐶\n\n#닥스훈트 #강아지 #반려견 #강아지실험 #shorts\n\n🎥 원본 영상: Mac DeMini Dachshund 「Pretending to fall asleep with food (mini dachshund's reaction)」\nhttps://www.youtube.com/watch?v=xELp6ps8XPk\n모든 영상의 권리는 원작자(Mac DeMini Dachshund)에게 있습니다. 자막·편집: 반려의 정석"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "Bzukg0o8nAk",
-   "ch": "Munaza Sarfraz",
-   "cid": "UCxTOTw2ANX9Gx7OWB1nqv5A",
-   "date": "2026-10-23",
-   "title": "He pretended to sleep after destroying the kitchen",
-   "views": 1177,
-   "desc": "😂🐶 Coco destroyed the entire kitchen… and then pretended to be asleep like an innocent little angel! 😴🤣 But Jerry isn’t buying this suspicious behavior! 🐕💥 Will Coco fool his big buddy, or will Jerry uncover the truth behind the kitchen disaster? 🍳😱\n\nWatch until the end to see Coco’s hilarious guilt"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "h7MsgwuZcJ0",
-   "ch": "Gary Rizky",
-   "cid": "UCGMYoqiKkNK0glNaPhB7-IQ",
-   "date": "2026-09-17",
-   "title": "Doggy pura pura tidur🤣⁉️ #dubbing #funny #remix #shorts #rea",
-   "views": 667,
-   "desc": ""
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "Vb0rAAZopxc",
-   "ch": "Animal LoL.3m",
-   "cid": "UCECcjxXORr2Q75rkW_pnuKQ",
-   "date": "2026-10-03",
-   "title": "😂 My Dog Thought I Was REALLY Asleep! 🐶🤣 | Funny Dog Prank#d",
-   "views": 1201,
-   "desc": "😂 My Dog Thought I Was REALLY Asleep! 🐶🤣 | Funny Dog Prank\n\nDescription:\nI pretended to be fast asleep… and my dog was NOT buying it! 😂🐶\nWatch his hilarious reaction when he realizes it was all a prank!\n\nIf this made you smile, hit Like 👍, Subscribe 🔔, and share with a dog lover! 🐕❤️\n\n#DogPrank #Fun"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "baMLQ-LJA64",
-   "ch": "【わんこの雑学】わんこの気持ち大学",
-   "cid": "UCmHNvKtFqKs4ykCDsILTiJg",
-   "date": "2026-10-24",
-   "title": "目の前で急に寝たふりをした時の犬の理由",
-   "views": 1021,
-   "desc": "🐶 〜 わんこの気持ち大学へようこそ 〜 🐶\nこのチャンネルでは\n・わんこの行動や気持ちの意味\n・わんこと飼い主さんの気持ちを近づけるコツ\n・わんこが幸せになるヒントなどを、研究で出た結果などを含めて分かりやすく配信するチャンネルです☺️✨\n\n今回は【犬と寝たふり】をテーマに\n愛犬と過ごしている中で、実は飼い主であるあなたが寝たふりをした瞬間に犬が考えていることを全て大公開！！\n\n飼い主さんが今日から活かせるヒントが沢山なので、ぜひ最後までご覧ください🐾\n\n「うちの子はこんな事するよ！」ってコメントで教えてもらえると、その理由も別の動画で教えていくよ🎉\n\n🔔 チャンネル登録や高評価、コメントも"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "ouGuue08-b4",
-   "ch": "USA INSIDER",
-   "cid": "UCnznM3urRhLovPxZ97ywavw",
-   "date": "2026-11-13",
-   "title": "My Dog Thought He Got Away With It 😂🐶💀 #Shorts #FunnyDog #Do",
-   "views": 374,
-   "desc": "My Dog Thought He Got Away With It 😂🐶💀 #Shorts\n\nfunny dog video funny dog shorts dog comedy dog caught in the act guilty dog reaction dog pretending to sleep funny dog reaction dog with tv remote smart dog funny video sneaky dog dog caught stealing funny pet videos cute funny dogs viral dog shorts f"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "4yiiU5LiimQ",
-   "ch": "Henry David",
-   "cid": "UCe2FUAbk0wqaEH8HaGAP8wA",
-   "date": "2026-10-07",
-   "title": "The dog pretending to sleep.   #doglife #funnydog #dogbehavi",
-   "views": 829,
-   "desc": ""
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "7jPkju4-PlY",
-   "ch": "Tuffy vs Taffy",
-   "cid": "UCsbEPhPa3xAcdA0zkIlZ1vA",
-   "date": "2026-10-20",
-   "title": "Tiny Chihuahua Fakes Sleep to Prank Giant Dog! 😂🐶 #shorts",
-   "views": 120,
-   "desc": "Tiny Chihuahua Fakes Sleep to Prank Giant Dog! 😂🐶 #shorts\n\n😂 Tiny Chihuahua Fakes Sleep to Prank Giant Cane Corso! 🐶\n\nMeet Taffy, the tiny mischievous Chihuahua, and Tuffy, the giant Cane Corso!\n\nTaffy pretends to sleep peacefully on the carpet. But when Tuffy comes closer to check on him, Taffy sud"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "FLDebhl4Uec",
-   "ch": "Pug & Chief",
-   "cid": "UClq81vl3hXnXIR_k6M-TYzA",
-   "date": "2026-10-10",
-   "title": "Pug Got Caught Using His Phone at Night! 😂📱🐶",
-   "views": 59,
-   "desc": "Pug thought he could secretly use his phone past bedtime… 😂📱\n\nBut when Dad suddenly walks into the bedroom, Pug has to pretend he's fast asleep! 💤🐶\n\nWill Dad catch him, or will Pug get away with another sneaky prank?\n\nReal dogs. Unreal trouble. 🐾\n\n#PugAndChief #FunnyDogs #DogShorts #FunnyPets #AISho"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "S_OirIPlhbs",
-   "ch": "The Dog Fixer",
-   "cid": "UCnG17wMbWUQ8jPzjDO5VI2Q",
-   "date": "2026-10-17",
-   "title": "Dog &amp; Baby Pretend to Sleep… Until Mom Says THIS 😂",
-   "views": 61,
-   "desc": "Mom found the chewed slipper, and these two suddenly needed a nap. One mention of snacks ruined their entire alibi. 😂\n\nThis funny dog video captures the sweetest nap time on the couch. See how this golden retriever handles a sleepy baby.\n\nWatching a baby and dog bond is always a highlight, but this "
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "ONRWWXDyOWI",
-   "ch": "FurLoom",
-   "cid": "UCscv4QwJiJgtemPalO1Yt2w",
-   "date": "2026-10-18",
-   "title": "Coco Pretended to Be ASLEEP… But Puppy Knew He Was Faking It",
-   "views": 15,
-   "desc": "Coco thought he could fool Puppy by pretending to be asleep… 😴🐶\n\nBut Puppy was watching every little move! 👀😂\n\nWhen Coco’s favorite toy becomes the ultimate test, his secret plan is exposed!\nWatch until the end to see how Coco reacts when he gets caught! 🐶🤣\n\nA funny, wholesome and family-friendly 3D"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "eYS5YTAUbzM",
-   "ch": "Puainta®",
-   "cid": "UClyMiRVI-05G-HLiIROglww",
-   "date": "2026-11-17",
-   "title": "Just checking if she’s really asleep 👀",
-   "views": 1189,
-   "desc": "No response? Guess the snack’s fair game 😂\n#doglife  #dogfamily  #dogtraining  #DogReactions #DogHumor #Shorts #Puainta"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "oe-S4NENdSI",
-   "ch": "Miko & Yuchi",
-   "cid": "UCqWS9gB9A8vaAgJ_GeF7scA",
-   "date": "2026-11-07",
-   "title": "French Bulldog Gets Caught Scrolling… Pretends to Sleep 😂 #s",
-   "views": 16,
-   "desc": "Caught scrolling in bed? Just pretend to be asleep. 🐶📱😂\nThis French bulldog has a plan… and another video to watch.\n\nCreated with @higgsfield.ai\n\nFrench bulldog pretending to sleep, funny dog watching phone, dog caught scrolling in bed, sneaky Frenchie, bedtime scrolling, late night phone habits, fu"
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "FAcAZNgdOs0",
-   "ch": "SUAVE XAVIER DOGS",
-   "cid": "UCs8mEUtHi3mRyQvI0Mz_mCQ",
-   "date": "2026-11-12",
-   "title": "😂 Saying My Doberman’s Favorite Words While Pretending to Sl",
-   "views": 4,
-   "desc": ""
-  },
-  {
-   "q": "pretending to be asleep dog reaction",
-   "vid": "68SKLQ2vvS8",
-   "ch": "WowverseAi10",
-   "cid": "UCBGcx7TN9gK_RSLE4pP9HPg",
-   "date": "2026-10-30",
-   "title": "He Was NEVER Sleeping! 🐶😂 | Funny Golden Retriever #Shorts",
-   "views": 1,
-   "desc": "This golden retriever was pretending to sleep… until the treat bag made a sound! 🐶😂\n\nWatch his priceless reaction. Would your dog stay asleep? 🦴\n\nFun AI-generated animal comedy by WowVerse. Subscribe for more funny animal Shorts!\n\n#Shorts #GoldenRetriever #FunnyDogs #WowVerse"
-  },
-  {
-   "q": "took my cat's favorite toy reaction",
-   "vid": "Zaca3JKtu-g",
-   "ch": "LOVE ANIMALS ID",
-   "cid": "UCHnMcsuPWn6ZU_iQZHIRYPg",
-   "date": "2026-10-23",
-   "title": "My Cat&#39;s Reaction to a Lost Toy Was Heartbreaking 🥺🧸",
-   "views": 1153,
-   "desc": "cute animals, dog shorts, cat shorts, funny pets. puppy videos, kitten video\npet shorts, animal lovers, dog videos, daily pet content, animal compilation, pet reaction, love animals id"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "Y-okEVXN1N0",
-   "ch": "Bella the Doggo",
-   "cid": "UCezS-8BB6efc4xMG9n3I5Kw",
-   "date": "2026-10-24",
-   "title": "We Decided to Ignore Our Golden Retriever… Let’s See Her Rea",
-   "views": 23312,
-   "desc": "We decided to play around and have fun together while completely ignoring our Golden Retriever. 😂 We wanted to see how she would react when she wasn't getting any attention from us!\n\nA Golden Retriever is a very family-oriented dog who loves being involved in everything and getting attention from th"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "n_ZWK2JHJ6U",
-   "ch": "Golden Retriever Buddy",
-   "cid": "UCD_YSVXUySzh-kYF6DpVcTg",
-   "date": "2026-09-22",
-   "title": "Tiny Kitten Gently Attacks a Giant Golden Retriever… His Rea",
-   "views": 20557,
-   "desc": "What happens when a tiny kitten decides to gently attack a giant Golden Retriever? 😂🐱🐶\n\nThis little kitten has absolutely no fear! A playful pounce turns into the cutest and funniest encounter, while the giant Golden Retriever has the most hilarious reaction ever. He clearly wasn’t prepared for such"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "HZAB5spmiKA",
-   "ch": "Buddy",
-   "cid": "UCkn69N_9CoPYIMArbQw6t-Q",
-   "date": "2026-10-13",
-   "title": "Golden Retriever Gets IGNORED by a Tiny Kitten… His Reaction",
-   "views": 13949,
-   "desc": "😂 When a Golden Retriever just wants a little love, but a tiny kitten decides to IGNORE him completely! 🐶🐱💔\n\nThis poor Golden Retriever is trying his best to get the tiny kitten’s attention, but the little furball has other plans! 😹 Will our sweet, fluffy boy give up, or will he come up with another"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "SLsO-HuOWGM",
-   "ch": "Tom Davis Dog Training ",
-   "cid": "UC-TFajjG5CMAmUrJG1ONtKQ",
-   "date": "2026-09-25",
-   "title": "Why Your Dog Reacts to Some Dogs but Ignores Others",
-   "views": 6305,
-   "desc": "If your dog reacts to some dogs but ignores others, I do not assume it is random.\n\nSize, movement, staring, sex, past experiences, and even distance can change the reaction.\n\nStart tracking the pattern. Once you know what sets your dog off and how close is too close, you finally have something you c"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "8m_uNp1S1ng",
-   "ch": "Its Balilo",
-   "cid": "UCGPUfD76CsnEo-TG-erVeLA",
-   "date": "2026-10-19",
-   "title": "This Dog Ignores Everything… Until Greenies 🐶",
-   "views": 4555,
-   "desc": "This dog refuses to react while holding a rock tightly in its mouth, no matter what the owner says. Total silence, zero response. But everything changes the moment Greenies are offered, and the reaction says it all. Wait until the end!"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "kkgp-QbiT2Y",
-   "ch": "No Way Facts",
-   "cid": "UCjWU897wvgNd1cMyHrOVfJw",
-   "date": "2026-10-30",
-   "title": "She Ignored Her Dog… His Reaction Was Priceless! 🥺",
-   "views": 3094,
-   "desc": "She pretended to be mad at her dog, but he just kept trying to hug her and make things right. He passed her little love test! 🐶❤️\n\n#shorts #DogLove #CuteDog #DogLovers #LoyalDog #PetLove #EmotionalStory #Wholesome"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "5tY45rlXMlg",
-   "ch": "News 4 Tucson KVOA-TV",
-   "cid": "UCs8cRivViWcNIx5arlnYXYg",
-   "date": "2026-09-18",
-   "title": "Watch: Burglar Takes A Nap And Ignores Golden Retriever Want",
-   "views": 2299,
-   "desc": "A Golden Retriever in San Diego is going viral for his hilarious reaction to a home intruder. Dante Rowley and his fiancée watched in real-time from their Ring cameras on a flight out of Chicago as a burglar used a ladder to enter an open upstairs window of their home.   Instead of barking or chasin"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "aEjJQjDS11s",
-   "ch": "Golden Charlie /golden retriever🐾",
-   "cid": "UCCxSWj1DXBfCaTtFzNJPiMQ",
-   "date": "2026-11-12",
-   "title": "When You’re Too Handsome to Ignore Your Own Photos! 😂🐶”#shor",
-   "views": 1665,
-   "desc": "Someone is checking his own pictures and loving every second! 😍📱\nCharlie knows he’s handsome, and he doesn’t need anyone’s approval! 😂❤️\n\nWho’s the cutest superstar? Obviously, Charlie! 🐾\n\nLike, Share & Subscribe for more Golden Charlie moments!#goldenretriever #golden #funnydogs #dogshorts #cutedog"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "TSIXB6Os0V0",
-   "ch": "Golden Retriever",
-   "cid": "UC22TrdxvZPcDhPN8oiRHeHg",
-   "date": "2026-10-16",
-   "title": "Baby Tries to Get a Golden Retriever’s Attention 😂🐶",
-   "views": 1111,
-   "desc": "What happens when a cute baby tries to get a Golden Retriever’s attention but gets ignored? 😂🐶\n\nWatch this adorable baby’s funny reaction as she tries to make her furry friend look at her! From sweet smiles to the cutest little giggles, this baby and Golden Retriever moment is guaranteed to melt you"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "TarHoKV6fKY",
-   "ch": "Nexzo",
-   "cid": "UC-CfqpVbAJ9zlBx8A51DoOQ",
-   "date": "2026-11-15",
-   "title": "Dog Gets Ignored… Her Reaction Though 😂",
-   "views": 1128,
-   "desc": "He just wanted to play… and she was too busy working 😭🐶\n\nThis Golden Retriever figured out how to get attention all by himself. Wait for the ending, it's too cute! 🥹\n\n🐕 Follow for daily cute & funny dog videos!\n👍 Like if your dog does this too\n💬 Comment: what does YOUR dog do when ignored?\n🔔 Subscri"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "rwYtTDP56Sw",
-   "ch": "Purr & Bark",
-   "cid": "UCA2vtMITvXKapXU742kaEmQ",
-   "date": "2026-10-29",
-   "title": "Ranking Cat vs Dog Reactions to a New Toy... #1 Is NOT What ",
-   "views": 1202,
-   "desc": "A tabby cat completely ignores a brand-new toy on the living room floor.\n\nThe golden retriever goes wild over it, while the cat watches calmly from the sofa.\n\nWho had the funniest reaction, Team Cat or Team Dog?\n\nTell us in the comments! Subscribe to Purr & Bark for daily funny and cute cat and dog "
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "EstaQBvXa18",
-   "ch": "Baba e o Café do Bem",
-   "cid": "UCg6NE97oKWCCdOodtuD-eKw",
-   "date": "2026-11-15",
-   "title": "Olha esse GOLDEN ignorando o dono #reaction #cachorro #ajuda",
-   "views": 1152,
-   "desc": ""
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "ykEuzUu-HZ8",
-   "ch": "Jack The retriever",
-   "cid": "UCP5KO9fyMIzb_7tOE6OPNsg",
-   "date": "2026-10-27",
-   "title": "Golden retriever reaction 🥰🥹 #shorts #status",
-   "views": 651,
-   "desc": "🐶❤️ Jack, your girlfriend is here to meet you! 😂💕\n\nToday, I told my Golden Retriever Jack that his girlfriend had come to meet him! 🐕😍 But how did Jack react? Did he get excited, confused, or just ignore me? 😂 Watch the video till the end to see Jack's adorable reaction!\n\nJack is not just a dog; he "
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "hdQfmI-d2lA",
-   "ch": "Adorable Lucy",
-   "cid": "UCXz9Rj9E_sRFemHPU7O4STw",
-   "date": "2026-11-02",
-   "title": "when I ignore?🤔watch her Reaction 😔#shortvideo #trending #pu",
-   "views": 1318,
-   "desc": "when I ignore?🤔watch her Reaction 😔#shortvideo #trending #puppy#funnyvideo"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "PGUGhl8MQaA",
-   "ch": " Life With Rio | Golden Retriever\n\n",
-   "cid": "UCRzBKJFtQ-sBtqniRr2Vnjg",
-   "date": "2026-10-20",
-   "title": "no reaction 🤣 #shorts #funnydogs #trending #viral  #goldenre",
-   "views": 112,
-   "desc": "जब मम्मी फिर से वो डब्बा (कैमरा) मुँह के आगे ले आई... आज तो ज़ीरो अटेंशन मिलेगा! 😒🐾\n\nfunny dog, funny dog reaction, dog ignoring owner, golden retriever attitude, dog side eye, pets being dramatic, funny pet videos, cute animals doing funny things, funny cat and dog moments, relatable pet reels, tre"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "FkB28BTScuk",
-   "ch": "Our Little Zoo",
-   "cid": "UCLLDUQjsuzEWC8ANernicaw",
-   "date": "2026-09-29",
-   "title": "Daisy, so jao! 🥺Daisy: Mujhe apni marzi se jeena hai! 😂🐾Sone",
-   "views": 27,
-   "desc": "Daisy Ko Sone Bolo… Phir Jo Kiya 😂🐶 |\n\nDaisy ko bas “so jao” bola tha… madam ne seedha IGNORE kar diya 😂🐶\n\nDaisy ko sone ke liye bol rahi hoon, lekin Daisy ka mood hi kuch aur hai 😂🐾\nCute dog ka ye funny reaction dekhkar aap bhi hasoge! 🥹❤️\n\nKeywords:\nfunny dog, cute dog, dog shorts, funny dog react"
-  },
-  {
-   "q": "golden retriever ignored reaction",
-   "vid": "n-Sm_MM5XNk",
-   "ch": "Life with Lia",
-   "cid": "UCovZYfNpbBFAoaDFSPbw8bA",
-   "date": "2026-09-23",
-   "title": "I Ignored Mochi for 10 Minutes… I Lasted TWO 😭🐶",
-   "views": 18,
-   "desc": "I tried ignoring Mochi for just 10 minutes… he had other plans. 🐶😂\n\nFirst came the stare. Then his favourite toy. And when I still didn’t react, Mochi used his ultimate weapon — cuddles. ❤️\n\nSafe to say, I failed the challenge.\n\n#LiaAndMochi #Mochi #DogLife #CuteDog #AIPet #FunnyDogs #Shorts"
-  }
- ]
+ "found": [],
+ "search_hits": []
 }
