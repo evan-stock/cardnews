@@ -1,0 +1,9 @@
+ERROR: [twitter] 2122813356675375544: No video could be found in this tweet
+사진 받음 p1_1.jpg
+영상 없는 글(사진만): https://x.com/wallstengine/status/2122813356675375544
+total 140
+drwxr-xr-x 2 runner runner   4096 Nov 17 22:28 .
+drwxr-xr-x 3 runner runner   4096 Nov 17 22:28 ..
+-rw-r--r-- 1 runner runner    183 Nov 17 22:28 log.txt
+-rw-r--r-- 1 runner runner 124272 Nov 17 22:28 p1_1.jpg
+-rw-r--r-- 1 runner runner    668 Nov 17 22:28 x1.json
