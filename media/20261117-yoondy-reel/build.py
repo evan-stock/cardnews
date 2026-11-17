@@ -38,8 +38,8 @@ S=[ # src, ss, dur, crop, [(t0,t1,small,b1,b2)]
 segs=[]; ci=0
 for k,(src,ss,dur,crop,caps) in enumerate(S):
     inputs=['-ss',str(ss),'-t',str(dur),'-i',src,'-i',f'{R}/top.png']
-    fc=(f"[0:v]{crop if '=' in crop else 'crop='+crop},scale=1080:{BH},setsar=1[fg];color=c=black:s=1080x1920:d={dur}:r=30[bg];"
-        f"[bg][fg]overlay=0:{BY0}:shortest=1[b0];[b0][1:v]overlay[b1]")
+    # 2026.11.17: 검정 color 소스 위에 overlay 하면 장면 첫 프레임이 검게 비어 깜박였다 → 영상 자체를 pad로 키워 바탕을 만든다
+    fc=(f"[0:v]{crop if '=' in crop else 'crop='+crop},scale=1080:{BH},setsar=1,pad=1080:1920:0:{BY0}:black,fps=30[b0];[b0][1:v]overlay[b1]")
     last='b1'
     for j,(t0,t1,s,b1,b2) in enumerate(caps):
         cap(ci,s,b1,b2); inputs+=['-i',f'{R}/cap{ci}.png']; n=2+j
