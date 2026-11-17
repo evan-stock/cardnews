@@ -1,0 +1,22 @@
+{
+ "id": "20261117-leeds2",
+ "finished_at": "2026-11-17T11:37:13+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "ytsearch1:DreamSchool 리트 만점 패러글라이딩 비행 원리",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Finished downloading playlist: DreamSchool 리트 만점 패러글라이딩 비행 원리"
+  },
+  {
+   "n": 2,
+   "url": "ytsearch1:이윤규 리트 만점자 단 음식 하루 30km",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Finished downloading playlist: 이윤규 리트 만점자 단 음식 하루 30km"
+  }
+ ]
+}
