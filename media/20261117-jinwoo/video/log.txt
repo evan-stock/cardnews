@@ -1,0 +1,22 @@
+ERROR: [twitter] 2122489775445909940: No video could be found in this tweet
+사진 받음 p1_1.jpg
+사진 받음 p1_2.jpg
+영상 없는 글(사진만): https://x.com/poongkawaii/status/2122489775445909940
+ERROR: [twitter] 2122587564578324749: No video could be found in this tweet
+사진 받음 p2_1.jpg
+사진 받음 p2_2.jpg
+사진 받음 q2_1.jpg
+사진 받음 q2_2.jpg
+영상 없는 글(사진만): https://x.com/sonsudiggng/status/2122587564578324749
+total 820
+drwxr-xr-x 2 runner runner   4096 Nov 17 08:15 .
+drwxr-xr-x 3 runner runner   4096 Nov 17 08:15 ..
+-rw-r--r-- 1 runner runner    456 Nov 17 08:15 log.txt
+-rw-r--r-- 1 runner runner 110142 Nov 17 08:15 p1_1.jpg
+-rw-r--r-- 1 runner runner 116196 Nov 17 08:15 p1_2.jpg
+-rw-r--r-- 1 runner runner 185844 Nov 17 08:15 p2_1.jpg
+-rw-r--r-- 1 runner runner 167994 Nov 17 08:15 p2_2.jpg
+-rw-r--r-- 1 runner runner 110142 Nov 17 08:15 q2_1.jpg
+-rw-r--r-- 1 runner runner 116196 Nov 17 08:15 q2_2.jpg
+-rw-r--r-- 1 runner runner    708 Nov 17 08:15 x1.json
+-rw-r--r-- 1 runner runner   1166 Nov 17 08:15 x2.json
