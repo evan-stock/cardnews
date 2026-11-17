@@ -43,7 +43,7 @@ specs = [
  {"out": str(O / "c06.jpg"), "sub": "③ 경희냥이 · 경희대 컴공 편입 합격생", "title": "두 달 뒤 30문제를\n'통째로' 복기", "cap": str(O / "cap_khu.png"), "cap_max_h": 580, "box_bg": [255, 255, 255],
   "caption": "디시인사이드 게시물 캡처(손글씨 복기)", "label": "기출 공개 전에 올린 손글씨", "lines": ["학교가 나중에 공개한 시험지와", "번호·보기 '순서까지' 모두 일치"]},
  {"out": str(O / "c07.jpg"), "sub": "③ 경희냥이 · 본인 해명", "title": "해명은\n'과잉기억증후군'", "cap": str(O / "cap_game.png"), "cap_max_h": 560, "box_bg": [255, 255, 255],
-  "caption": "디시인사이드 게시물 캡처(닉네임 가림)", "label": "네티즌이 찾아낸 과거 글", "lines": ["시험 직전까지 게임 인증 글을 올리고", "AI로 디스코드 게임 봇을 만들고 있었다"]},
+  "caption": "디시인사이드 게시물 캡처(닉네임 가림)", "label": "그런데 1년 전 첫 편입 시험은", "lines": ["'전부 찍고 잠만 잤다'는 본인 글이 나왔고", "시험 직전까지 게임·AI 봇 글을 올렸다"]},
 ]
 sp = Path("/tmp/nyang3_specs.json"); sp.write_text(json.dumps(specs, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], check=True)
