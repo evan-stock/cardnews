@@ -34,7 +34,7 @@ logo(im)  # 2장은 사용자 제공 트윗 캡처(cand/spec.json → scripts/po
 # D-7 사진 위쪽 '11월 12일(목)' 글씨는 이번 수능 날짜(19일)와 달라 잘라냄.
 from PIL import ImageFilter, ImageOps
 A = Image.open(Path(__file__).parent / "cand" / "user_photo3.jpg").convert("RGB")  # 2026-11-17 사용자 교체 사진(고화질)
-B = Image.open(Path(__file__).parent / "cand" / "user_d7.jpg").convert("RGB").crop((340, 20, 588, 322))  # 사용자: 팻말 말고 시험 보는 학생들 쪽
+B = Image.open(Path(__file__).parent / "cand" / "user_exam.jpg").convert("RGB").crop((230, 0, 800, 629))  # 사용자 제공: 교실에서 시험 보는 학생들
 TH = 950
 A = ImageOps.fit(A, (620, TH), Image.LANCZOS, centering=(.5, 0)).filter(ImageFilter.UnsharpMask(2, 60, 2))
 B = ImageOps.fit(B, (620, TH), Image.LANCZOS, centering=(.5, .5)).filter(ImageFilter.UnsharpMask(2, 60, 2))
