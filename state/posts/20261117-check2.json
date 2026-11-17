@@ -2,7 +2,7 @@
  "id": "20261117-check2",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "manual": true,
  "created_at": "2026-11-17T16:48:08+09:00",
  "publish_at": "2026-11-17T16:48:08+09:00",
@@ -38,5 +38,8 @@
   "media/20261117-check2/05.jpg",
   "media/20261117-check2/06.jpg",
   "media/20261117-check2/07.jpg"
- ]
+ ],
+ "ig_media_id": "18052801250818979",
+ "permalink": "https://www.instagram.com/p/Df1b2nBG5Yk/",
+ "published_at": "2026-11-17T16:51:21.180526+09:00"
 }
