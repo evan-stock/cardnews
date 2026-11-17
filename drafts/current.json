@@ -1,17 +1,17 @@
 [
  {
-  "id": "20261117-check2",
+  "id": "20261117-ljm",
   "mode": "collect",
-  "slot": "lunch",
-  "topic": "총리 대국민 담화",
+  "slot": "evening",
+  "topic": "이재명 대통령 수능 입시부정 긴급대책 영상회의",
   "image_pages": [
-   "https://m.inews24.com/v/2027257",
-   "https://www.dailian.co.kr/news/view/1716249",
-   "https://www.fnnews.com/news/202611171554414998",
-   "https://www.fnnews.com/news/202611171508290629",
-   "https://www.fnnews.com/news/202611171613403317",
-   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285796",
-   "https://www.smnews.co.kr/default/index_view_page.php?part_idx=1&idx=308193"
+   "https://www.khan.co.kr/article/202611172221005/",
+   "https://www.news1.kr/politics/president/6357301",
+   "https://www.newspim.com/news/view/20261117001369",
+   "https://www.seoul.co.kr/news/politics/2026/11/17/20261117500378",
+   "https://view.asiae.co.kr/article/2026111721290741251",
+   "https://asiatoday.co.kr/kn/view.php?key=20261117010006758",
+   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2493819"
   ],
   "sources": [],
   "limit": 24
