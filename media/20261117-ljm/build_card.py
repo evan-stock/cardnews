@@ -1,4 +1,4 @@
-"""20261117-ljm: 이재명 대통령 X 게시물(11.17 긴급대책 영상회의) 1장 카드 — 부정행위 신고 포상금 '1억 이상'.
+"""20261117-ljm: 이재명 대통령 X 게시물(11.17 긴급대책 영상회의) 표지(lay one)+정리 카드 2장 캐러셀(1장 게시 불가) — 부정행위 신고 포상금 '1억 이상'.
 게시물 원문에서 발췌(뜻 바꾸지 않음). 포상금은 '최대'가 아니라 '건당 1억원 이상, 인원수만큼 가산', 검토·도입 지시 단계."""
 import sys
 from pathlib import Path
@@ -7,7 +7,7 @@ R = Path(__file__).resolve().parents[2]; sys.path.insert(0, str(R / "scripts"))
 from xpost_cards import W, H, P, FG, MU, YE, LN, BOX, F, wrap, rich, base, logo, head, avatar
 
 im = base(); d = ImageDraw.Draw(im)
-y = head(d, "11월 17일 · 이재명 대통령 X 게시물", "수능 부정행위 신고하면\n포상금 '1억 원 이상'", y=100)
+y = head(d, "11월 17일 · 이재명 대통령 X 게시물", "긴급대책 회의 뒤\n추가로 지시한 '3가지'", y=100)
 x0, x1 = P, W - P; cx = x0 + 36; inner = x1 - x0 - 72
 items = [
     ("① 신고 포상", "부정 '한 건당 1억원 이상'", "입시부정 인원수만큼 가산, 공동 부정 신고자는 처벌 감면"),
@@ -29,4 +29,7 @@ y += h + 40
 for ln in ['"공연히 요행을 노리다가 \'인생 망치지 마시고\',', '본인이나 모두를 위해 포기하시기 바랍니다."']:
     rich(d, P, y, ln, F("Bold" if False else "SemiBold", 34)); y += 50
 d.text((P, y + 14), "X 게시물 내용을 옮겨 구성 · 포상금은 '도입 검토 지시' 단계", font=F("Medium", 24), fill=MU)
-logo(im); im.save(Path(__file__).parent / "01.jpg", quality=93); print("ok", y)
+logo(im); im.save(Path(__file__).parent / "cand" / "c02.jpg", quality=93); print("ok", y)
+# 표지 배경: 필리핀 현지 긴급대책 영상회의 사진(아시아투데이 기사)
+from PIL import ImageOps
+ImageOps.fit(Image.open(Path(__file__).parent / "cand" / "press10.jpg").convert("RGB"), (W, H), Image.LANCZOS, centering=(.72, .5)).save(Path(__file__).parent / "cand" / "cover_bg.jpg", quality=95)
