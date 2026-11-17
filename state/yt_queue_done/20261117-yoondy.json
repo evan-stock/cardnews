@@ -1,0 +1,18 @@
+{
+ "id": "20261117-yoondy",
+ "finished_at": "2026-11-17T09:03:03+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=HZ52MLhZIbA",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-yoondy/video/y1.mp4",
+   "mb": 68.5,
+   "error": "504 We couldn't respond to your request in time. Sorry about that. Please try resubmitting your request and contact us if the problem persists.",
+   "view_count": 237516,
+   "title": "AI 부정행위에 대해"
+  }
+ ]
+}
