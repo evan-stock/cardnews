@@ -1,1 +1,0 @@
-Mac DeMini Dachshund 생성 2022-05-14 구독 117000 | 전 {'n': 145, 'median': 43235, 'max': 259001, 'over10k': 145} | 후 {'n': 54, 'median': 36619, 'max': 288318, 'over10k': 54} | 3일 {'n': 1, 'median': 36510, 'max': 36510, 'over10k': 1}
