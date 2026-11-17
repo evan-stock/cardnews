@@ -1,0 +1,111 @@
+{
+ "id": "20261117-t18",
+ "created": "2026-11-17T18:30:45.808389+09:00",
+ "items": [
+  {
+   "key": "23566145f443",
+   "text": "깊이 잠든 골든에게 치즈를 들고 다가갔더니",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "코앞까지 가도 꿈쩍도 안 하는데요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "70808081ecdb",
+   "text": "코앞까지 가도 꿈쩍도 안 하는데요",
+   "ctx": {
+    "previous_text": "깊이 잠든 골든에게 치즈를 들고 다가갔더니",
+    "next_text": "숨죽이고 조금 더 기다리자"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "c0b1767f5817",
+   "text": "숨죽이고 조금 더 기다리자",
+   "ctx": {
+    "previous_text": "코앞까지 가도 꿈쩍도 안 하는데요",
+    "next_text": "눈만 번쩍 뜨고 쳐다보네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "325ebaa4487e",
+   "text": "눈만 번쩍 뜨고 쳐다보네요",
+   "ctx": {
+    "previous_text": "숨죽이고 조금 더 기다리자",
+    "next_text": "치즈를 코앞에 놔 줬더니"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "dc244b688eee",
+   "text": "치즈를 코앞에 놔 줬더니",
+   "ctx": {
+    "previous_text": "눈만 번쩍 뜨고 쳐다보네요",
+    "next_text": "고개도 안 들고 누운 채로 냠"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "a80c130786c1",
+   "text": "고개도 안 들고 누운 채로 냠",
+   "ctx": {
+    "previous_text": "치즈를 코앞에 놔 줬더니",
+    "next_text": "다 먹고도 그대로 누워 있네요"
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "16f6b53a57d4",
+   "text": "다 먹고도 그대로 누워 있네요",
+   "ctx": {
+    "previous_text": "고개도 안 들고 누운 채로 냠",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
