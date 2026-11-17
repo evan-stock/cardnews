@@ -30,6 +30,14 @@ for ln in ['"공연히 요행을 노리다가 \'인생 망치지 마시고\',', 
     rich(d, P, y, ln, F("Bold" if False else "SemiBold", 34)); y += 50
 d.text((P, y + 14), "X 게시물 내용을 옮겨 구성 · 포상금은 '도입 검토 지시' 단계", font=F("Medium", 24), fill=MU)
 logo(im); im.save(Path(__file__).parent / "cand" / "c02.jpg", quality=93); print("ok", y)
-# 표지 배경: 필리핀 현지 긴급대책 영상회의 사진(아시아투데이 기사)
-from PIL import ImageOps
-ImageOps.fit(Image.open(Path(__file__).parent / "cand" / "press10.jpg").convert("RGB"), (W, H), Image.LANCZOS, centering=(.72, .5)).save(Path(__file__).parent / "cand" / "cover_bg.jpg", quality=95)
+# 표지 배경(사용자 제공 사진, 547x365): 폭 1080에 맞춰 위쪽에 두고 아래는 사진 바탕색으로 이어 붙임(글자 자리)
+from PIL import ImageFilter
+ph = Image.open(Path(__file__).parent / "cand" / "user_photo.jpg").convert("RGB")
+ph = ph.resize((W, round(ph.height * W / ph.width)), Image.LANCZOS).filter(ImageFilter.UnsharpMask(2, 60, 2))
+col = ph.crop((0, ph.height - 20, 40, ph.height)).resize((1, 1)).getpixel((0, 0))
+bg = Image.new("RGB", (W, H), col); top = 150; bg.paste(ph, (0, top))
+g = Image.new("L", (W, 120)); g.putdata([int(255 * y / 119) for y in range(120) for _ in range(W)])
+bg.paste(Image.new("RGB", (W, 120), col), (0, top + ph.height - 120), g)
+g2 = Image.new("L", (W, 120)); g2.putdata([int(255 * (119 - y) / 119) for y in range(120) for _ in range(W)])
+bg.paste(Image.new("RGB", (W, 120), col), (0, top), g2)
+bg.save(Path(__file__).parent / "cand" / "cover_bg.jpg", quality=95)
