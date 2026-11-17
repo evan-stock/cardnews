@@ -30,14 +30,18 @@ for ln in ['"공연히 요행을 노리다가 \'인생 망치지 마시고\',', 
     rich(d, P, y, ln, F("Bold" if False else "SemiBold", 34)); y += 50
 d.text((P, y + 14), "X 게시물 내용을 옮겨 구성 · 포상금은 '도입 검토 지시' 단계", font=F("Medium", 24), fill=MU)
 logo(im); im.save(Path(__file__).parent / "cand" / "c02.jpg", quality=93); print("ok", y)
-# 표지 배경(사용자 제공 사진, 547x365): 폭 1080에 맞춰 위쪽에 두고 아래는 사진 바탕색으로 이어 붙임(글자 자리)
-from PIL import ImageFilter
-ph = Image.open(Path(__file__).parent / "cand" / "user_photo.jpg").convert("RGB")
-ph = ph.resize((W, round(ph.height * W / ph.width)), Image.LANCZOS).filter(ImageFilter.UnsharpMask(2, 60, 2))
-col = ph.crop((0, ph.height - 20, 40, ph.height)).resize((1, 1)).getpixel((0, 0))
-bg = Image.new("RGB", (W, H), col); top = 150; bg.paste(ph, (0, top))
-g = Image.new("L", (W, 120)); g.putdata([int(255 * y / 119) for y in range(120) for _ in range(W)])
-bg.paste(Image.new("RGB", (W, 120), col), (0, top + ph.height - 120), g)
-g2 = Image.new("L", (W, 120)); g2.putdata([int(255 * (119 - y) / 119) for y in range(120) for _ in range(W)])
-bg.paste(Image.new("RGB", (W, 120), col), (0, top), g2)
+# 표지 배경(사용자 지정): 왼쪽 대통령 사진, 오른쪽 수능 D-7 학원 사진(뉴스1) 나란히, 경계 페이드. 아래는 글자 자리로 어둡게.
+# D-7 사진 위쪽 '11월 12일(목)' 글씨는 이번 수능 날짜(19일)와 달라 잘라냄.
+from PIL import ImageFilter, ImageOps
+A = Image.open(Path(__file__).parent / "cand" / "user_photo.jpg").convert("RGB").crop((110, 0, 450, 365))
+B = Image.open(Path(__file__).parent / "cand" / "user_d7.jpg").convert("RGB").crop((0, 88, 330, 369))
+TH = 760
+A = ImageOps.fit(A, (620, TH), Image.LANCZOS, centering=(.5, 0)).filter(ImageFilter.UnsharpMask(2, 60, 2))
+B = ImageOps.fit(B, (620, TH), Image.LANCZOS, centering=(.35, .5)).filter(ImageFilter.UnsharpMask(2, 60, 2))
+L = Image.new("RGB", (W, TH)); L.paste(A, (0, 0)); Rr = Image.new("RGB", (W, TH)); Rr.paste(B, (W - 620, 0))
+row = Image.new("L", (W, 1)); row.putdata([0 if x < 470 else 255 if x > 610 else int(255 * (x - 470) / 140) for x in range(W)])
+top = Image.composite(Rr, L, row.resize((W, TH)))
+OY = 110; bg = Image.new("RGB", (W, H), (14, 14, 16)); bg.paste(top, (0, OY))
+g = Image.new("L", (W, 200)); g.putdata([int(255 * y / 199) for y in range(200) for _ in range(W)])
+bg.paste(Image.new("RGB", (W, 200), (14, 14, 16)), (0, OY + TH - 200), g)
 bg.save(Path(__file__).parent / "cand" / "cover_bg.jpg", quality=95)
