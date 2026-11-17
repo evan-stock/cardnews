@@ -2,7 +2,7 @@
  "id": "20261117-leetint",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "manual": true,
  "created_at": "2026-11-18T00:26:09+09:00",
  "publish_at": "2026-11-18T00:27:57+09:00",
@@ -30,5 +30,8 @@
   "media/20261117-leetint/02.jpg",
   "media/20261117-leetint/03.jpg",
   "media/20261117-leetint/04.jpg"
- ]
+ ],
+ "ig_media_id": "18148129882584058",
+ "permalink": "https://www.instagram.com/p/Df2QeUfm3ZX/",
+ "published_at": "2026-11-18T00:31:08.008426+09:00"
 }
