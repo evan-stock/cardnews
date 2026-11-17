@@ -90,7 +90,7 @@ print("ok")
 # 표지 배경(사용자 지정): 왼쪽 이진우 프로필 사진(사용자 제공), 오른쪽 정커퀸 — 가운데 경계는 페이드
 lee = Image.open(O / "lee_photo.jpg"); s = H / lee.height; lee = lee.resize((round(lee.width * s), H), Image.LANCZOS)
 Lc = Image.new("RGB", (W, H), (235, 238, 242)); Lc.paste(lee, (round(330 - 480 * s), 0))
-jq = ImageOps.fit(Image.open(O / "jq.png").convert("RGB").crop((180, 92, 700, 628)), (620, H), Image.LANCZOS, centering=(.5, .3))
+jq = ImageOps.fit(Image.open(O / "jq_hd.jpg").convert("RGB").crop((0, 0, 560, 720)), (620, H), Image.LANCZOS, centering=(.4, .3))  # 사용자 제공 고화질(오버워치 2 애니메이션 단편 썸네일), 로고 글자 빼고 자름
 Rc = Image.new("RGB", (W, H)); Rc.paste(jq, (W - 620, 0))
 row = Image.new("L", (W, 1)); row.putdata([0 if x < 500 else 255 if x > 680 else int(255 * (x - 500) / 180) for x in range(W)])
 mask = row.resize((W, H))
