@@ -1,3 +1,2 @@
-Bella the Doggo 생성 2026-03-18 구독 1380 | 전 {'n': 0, 'median': None, 'max': None, 'over10k': 0} | 후 {'n': 82, 'median': 1425, 'max': 726018, 'over10k': 11} | 3일 {'n': 18, 'median': 1655, 'max': 11086, 'over10k': 2}
-Mac DeMini Dachshund 생성 2022-05-14 구독 117000 | 전 {'n': 45, 'median': 38337, 'max': 259001, 'over10k': 45} | 후 {'n': 54, 'median': 36619, 'max': 288318, 'over10k': 54} | 3일 {'n': 1, 'median': 36510, 'max': 36510, 'over10k': 1}
+Mac DeMini Dachshund 생성 2022-05-14 구독 117000 | 전 {'n': 145, 'median': 43235, 'max': 259001, 'over10k': 145} | 후 {'n': 54, 'median': 36619, 'max': 288318, 'over10k': 54} | 3일 {'n': 1, 'median': 36510, 'max': 36510, 'over10k': 1}
 

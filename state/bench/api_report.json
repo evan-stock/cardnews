@@ -2,139 +2,6 @@
  "since": "2026-08-01",
  "fixed": [
   {
-   "handle": "UCezS-8BB6efc4xMG9n3I5Kw",
-   "title": "Bella the Doggo",
-   "id": "UCezS-8BB6efc4xMG9n3I5Kw",
-   "created": "2026-03-18",
-   "subs": "1380",
-   "videos": "261",
-   "before": {
-    "n": 0,
-    "median": null,
-    "max": null,
-    "over10k": 0
-   },
-   "after": {
-    "n": 82,
-    "median": 1425,
-    "max": 726018,
-    "over10k": 11
-   },
-   "last3d": {
-    "n": 18,
-    "median": 1655,
-    "max": 11086,
-    "over10k": 2
-   },
-   "recent": [
-    {
-     "id": "6b5KgFcw9-k",
-     "date": "2026-11-17",
-     "title": "The dog is asking for help to get its ball 🥎",
-     "views": 1199,
-     "dur": "PT52S"
-    },
-    {
-     "id": "YTqQPBo7o9Y",
-     "date": "2026-11-16",
-     "title": "how to give a dog a pill?",
-     "views": 2211,
-     "dur": "PT45S"
-    },
-    {
-     "id": "3tiBQOeRFAg",
-     "date": "2026-11-16",
-     "title": "puppy bone 🦴",
-     "views": 57,
-     "dur": "PT28S"
-    },
-    {
-     "id": "Esx-Vcnm8ag",
-     "date": "2026-11-16",
-     "title": "What do you think is happening?",
-     "views": 2353,
-     "dur": "PT25S"
-    },
-    {
-     "id": "q3tnOio-AnA",
-     "date": "2026-11-15",
-     "title": "Our Golden Retriever Puppy Is Teething on His New Toy. 🐶🦴",
-     "views": 67,
-     "dur": "PT44S"
-    },
-    {
-     "id": "m36hMV8Xl0Q",
-     "date": "2026-11-15",
-     "title": "What Happens If You Bring a Big Dog to a Shopping Mall? 🐶",
-     "views": 1653,
-     "dur": "PT36S"
-    },
-    {
-     "id": "pOYWncDDSJs",
-     "date": "2026-11-15",
-     "title": "A Golden Retriever Visits a Huge Shopping Mall for the First",
-     "views": 4040,
-     "dur": "PT32S"
-    },
-    {
-     "id": "7vi1_SPsguQ",
-     "date": "2026-11-15",
-     "title": "Puppy golden retriever ✨",
-     "views": 72,
-     "dur": "PT16S"
-    },
-    {
-     "id": "2gWZGo1-JoY",
-     "date": "2026-11-15",
-     "title": "Sprunki and a Golden Retriever 🐶",
-     "views": 3841,
-     "dur": "PT14S"
-    },
-    {
-     "id": "OMMuflxEKiY",
-     "date": "2026-11-15",
-     "title": "Even in a deep sleep, a dog hears everything.",
-     "views": 2081,
-     "dur": "PT43S"
-    },
-    {
-     "id": "Gk0aUb_Itts",
-     "date": "2026-11-15",
-     "title": "Golden Retriever Bella ✨",
-     "views": 6781,
-     "dur": "PT11S"
-    },
-    {
-     "id": "UcMRs1OyyQw",
-     "date": "2026-11-14",
-     "title": "Our Golden Retrievers Got Sent to Their Crates for Bad Behav",
-     "views": 1658,
-     "dur": "PT1M9S"
-    },
-    {
-     "id": "OBS8jJCNDHI",
-     "date": "2026-11-14",
-     "title": "How to Make a Long-Lasting Dog Treat 🐶",
-     "views": 11086,
-     "dur": "PT37S"
-    },
-    {
-     "id": "xnbOUFNn_y4",
-     "date": "2026-11-14",
-     "title": "What Happens If You Give Your Dog a Fresh Mandarin? 🍊🐶",
-     "views": 1052,
-     "dur": "PT36S"
-    },
-    {
-     "id": "vf957NAUE0g",
-     "date": "2026-11-14",
-     "title": "I Put on a Cat Mask… I Didn’t Expect This Reaction!",
-     "views": 292,
-     "dur": "PT1M15S"
-    }
-   ]
-  },
-  {
    "handle": "@macdeminidachshund",
    "title": "Mac DeMini Dachshund",
    "id": "UCOAYbzYxT0LPVLVQBsXQNCw",
@@ -142,10 +9,10 @@
    "subs": "117000",
    "videos": "899",
    "before": {
-    "n": 45,
-    "median": 38337,
+    "n": 145,
+    "median": 43235,
     "max": 259001,
-    "over10k": 45
+    "over10k": 145
    },
    "after": {
     "n": 54,
@@ -171,7 +38,7 @@
      "id": "FRjYb2UJ20Y",
      "date": "2026-11-12",
      "title": "Can we tire a mini dachshund out without going for long walk",
-     "views": 22943,
+     "views": 22945,
      "dur": "PT1M36S"
     },
     {
