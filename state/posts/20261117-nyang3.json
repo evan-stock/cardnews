@@ -2,7 +2,7 @@
  "id": "20261117-nyang3",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "manual": true,
  "created_at": "2026-11-17T12:01:50+09:00",
  "publish_at": "2026-11-17T12:01:50+09:00",
@@ -38,5 +38,8 @@
   "media/20261117-nyang3/06.jpg",
   "media/20261117-nyang3/07.jpg",
   "media/20261117-nyang3/08.jpg"
- ]
+ ],
+ "ig_media_id": "18079802741484274",
+ "permalink": "https://www.instagram.com/p/Df07BRYjSkz/",
+ "published_at": "2026-11-17T12:04:56.552677+09:00"
 }
