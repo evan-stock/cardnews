@@ -1,0 +1,40 @@
+{
+ "id": "20261117-leeorig3",
+ "finished_at": "2026-11-17T11:19:40+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "ytsearch1:DreamSchool 이윤규 리트 만점자 인터뷰",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-leeorig3/video/y1.mp4",
+   "mb": 29.3,
+   "view_count": null,
+   "title": "DreamSchool 이윤규 리트 만점자 인터뷰"
+  },
+  {
+   "n": 2,
+   "url": "ytsearch1:미미미누 LEET 만점자",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-leeorig3/video/y2.mp4",
+   "mb": 78.9,
+   "error": "504 We couldn't respond to your request in time. Sorry about that. Please try resubmitting your request and contact us if the problem persists.",
+   "view_count": null,
+   "title": "미미미누 LEET 만점자"
+  },
+  {
+   "n": 3,
+   "url": "ytsearch1:미미미누 리트 최초 만점자 인터뷰",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261117-leeorig3/video/y3.mp4",
+   "mb": 2.2,
+   "view_count": null,
+   "title": "미미미누 리트 최초 만점자 인터뷰"
+  }
+ ]
+}
