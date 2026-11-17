@@ -1,0 +1,36 @@
+ERROR: [twitter] 2122693643156979762: No video could be found in this tweet
+사진 받음 p1_1.jpg
+사진 받음 p1_2.jpg
+사진 받음 p1_3.jpg
+사진 받음 p1_4.jpg
+영상 없는 글(사진만): https://x.com/itwillbe_sage/status/2122693643156979762
+ERROR: [twitter] 2122704790362976427: No video could be found in this tweet
+사진 받음 p2_1.jpg
+사진 받음 p2_2.jpg
+사진 받음 p2_3.jpg
+사진 받음 p2_4.jpg
+사진 받음 q2_1.jpg
+사진 받음 q2_2.jpg
+사진 받음 q2_3.jpg
+사진 받음 q2_4.jpg
+영상 없는 글(사진만): https://x.com/yena_jang_/status/2122704790362976427
+total 2752
+drwxr-xr-x 2 runner runner    4096 Nov 17 15:34 .
+drwxr-xr-x 3 runner runner    4096 Nov 17 15:34 ..
+-rw-r--r-- 1 runner runner     595 Nov 17 15:34 log.txt
+-rw-r--r-- 1 runner runner   39051 Nov 17 15:34 p1_1.jpg
+-rw-r--r-- 1 runner runner   34980 Nov 17 15:34 p1_2.jpg
+-rw-r--r-- 1 runner runner   51448 Nov 17 15:34 p1_3.jpg
+-rw-r--r-- 1 runner runner   45804 Nov 17 15:34 p1_4.jpg
+-rw-r--r-- 1 runner runner  152023 Nov 17 15:34 p2_1.jpg
+-rw-r--r-- 1 runner runner  265105 Nov 17 15:34 p2_2.jpg
+-rw-r--r-- 1 runner runner  311459 Nov 17 15:34 p2_3.jpg
+-rw-r--r-- 1 runner runner  357756 Nov 17 15:34 p2_4.jpg
+-rw-r--r-- 1 runner runner   39051 Nov 17 15:34 q2_1.jpg
+-rw-r--r-- 1 runner runner   34980 Nov 17 15:34 q2_2.jpg
+-rw-r--r-- 1 runner runner   51448 Nov 17 15:34 q2_3.jpg
+-rw-r--r-- 1 runner runner   45804 Nov 17 15:34 q2_4.jpg
+-rw-r--r-- 1 runner runner 1332977 Nov 17 15:34 v3.mp4
+-rw-r--r-- 1 runner runner     673 Nov 17 15:34 x1.json
+-rw-r--r-- 1 runner runner    1228 Nov 17 15:34 x2.json
+-rw-r--r-- 1 runner runner     658 Nov 17 15:34 x3.json
