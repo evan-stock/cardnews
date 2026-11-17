@@ -71,5 +71,13 @@ frame(("17일 밤 자택 앞에서 만난 리트 만점자", "의혹 '전면 부
 frame(("시험지 의혹엔 이렇게 답했다", "'확률 희박'은 인정"),
       panel([("25~29번 답 고친 흔적", "\"고민하다 답을 '고른' 거다\""), ("우연일 가능성", "\"확률이 희박하다는 건 '인정한다'\""), ("시험지에 적힌 숫자 '33'", "\"다음 날 '전화통화' 하다 끄적인 것\"")], h=560),
       "스토킹 폭로자엔 '법적 대응' 고려", "부정행위는 아직 확인된 사실이 아닙니다").save(O / "c03.jpg", quality=93)
-fit(op("article_photo.jpg"), W, H, (.5, .2)).filter(ImageFilter.UnsharpMask(2, 80, 2)).save(O / "cover_bg.jpg", quality=95)  # 사용자: 기사 속 17일 밤 자택 앞 사진(중앙일보, X 캡처에서)
+# 표지: 사용자 제공 선명한 원본(610x343, 중앙일보 자택 앞 사진). 세로로 자르면 너무 늘어나서 일부만 자르고(가로 460) 위쪽에 크게 두고 아래는 어둡게 이음
+ph = op("article_photo_hd.jpg").crop((150, 0, 610, 343))
+ph = ph.resize((W, round(ph.height * W / ph.width)), Image.LANCZOS).filter(ImageFilter.UnsharpMask(2, 70, 2))
+bgc = (10, 10, 12); cov = Image.new("RGB", (W, H), bgc); cov.paste(ph, (0, 60))
+g = Image.new("L", (W, 260)); g.putdata([int(255 * y / 259) for y in range(260) for _ in range(W)])
+cov.paste(Image.new("RGB", (W, 260), bgc), (0, 60 + ph.height - 260), g)
+g2 = Image.new("L", (W, 60)); g2.putdata([int(255 * (59 - y) / 59) for y in range(60) for _ in range(W)])
+cov.paste(Image.new("RGB", (W, 60), bgc), (0, 60), g2)
+cov.save(O / "cover_bg.jpg", quality=95)
 print("ok")
