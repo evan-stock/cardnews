@@ -4,3 +4,9 @@ drwxr-xr-x 3 runner runner   4096 Nov 18 03:24 ..
 -rw-r--r-- 1 runner runner      0 Nov 18 03:24 log.txt
 -rw-r--r-- 1 runner runner 158759 Nov 18 03:24 page1.html
 -rw-r--r-- 1 runner runner  68785 Nov 18 03:24 page2.html
+total 236
+drwxr-xr-x 2 runner runner   4096 Nov 18 04:35 .
+drwxr-xr-x 3 runner runner   4096 Nov 18 04:35 ..
+-rw-r--r-- 1 runner runner    280 Nov 18 04:35 log.txt
+-rw-r--r-- 1 runner runner 158895 Nov 18 04:35 page1.html
+-rw-r--r-- 1 runner runner  68783 Nov 18 04:35 page2.html
