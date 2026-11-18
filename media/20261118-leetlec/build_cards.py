@@ -1,5 +1,5 @@
 """20261118-leetlec: 리트 만점자 특강 후기 — '엔트로피' 나오면 '트로피'를 떠올린다, 필기 안 함(고려대 커뮤니티 고파스 익명 후기, X @itwillbe_sage 경유)
-+ 리트 국어 강사(노형석)가 설명회에서 '계'를 '강아지'로 연상한다는 설명을 듣고 끝까지 안 듣고 나왔다는 내용(나무위키 인용). 실명 안 씀, 인스타 사진은 안 씀."""
++ 리트 국어 강사(노형석)가 설명회에서 '계'를 '강아지'로 연상한다는 설명을 듣고 끝까지 안 듣고 나왔다는 내용(나무위키 인용). 실명 안 씀, 인스타 사진은 안 씀. 표지: 유튜브 DreamSchool 인터뷰 화면."""
 import json, subprocess, sys
 from pathlib import Path
 from PIL import Image, ImageOps
@@ -23,5 +23,7 @@ for lab, txt in rows:
     y += 172
 d.text((P, y + 20), "나무위키 인용(해당 강사 발언 출처 표기)", font=F("Medium", 26), fill=MU)
 logo(im); im.save(O / "c03.jpg", quality=93)
-ImageOps.fit(Image.open(O / "photo.jpg").convert("RGB"), (W, H), Image.LANCZOS, centering=(.64, .3)).save(O / "cover_bg.jpg", quality=95)
+from PIL import ImageFilter
+# 표지(사용자: 본인이 나오되 다른 사진): DreamSchool 인터뷰 화면(책장 앞, 10초) — 아래 박힌 자막은 잘라냄
+ImageOps.fit(Image.open(O / "ds_10.png").convert("RGB").crop((640, 0, 1260, 625)), (W, H), Image.LANCZOS, centering=(.45, .3)).filter(ImageFilter.UnsharpMask(2, 70, 2)).save(O / "cover_bg.jpg", quality=95)
 print("ok")
