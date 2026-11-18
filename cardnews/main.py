@@ -326,7 +326,19 @@ def _send_app_kit(p):
     save_post(p)
 
 
+def pending_comments():
+    """2026-11-18: state/posts 에 "comment" 를 적어 둔 게시된 글에 댓글을 단다(watch·tick 이 돌 때마다, 한 번만)."""
+    for p in all_posts():
+        if p.get("comment") and not p.get("comment_id") and p.get("status") == "published" and p.get("ig_media_id"):
+            try:
+                j = instagram._req("POST", f"{p['ig_media_id']}/comments", message=p["comment"])
+                p["comment_id"] = j.get("id"); save_post(p); print("댓글 완료:", p["id"], j)
+            except Exception:
+                traceback.print_exc()
+
+
 def tick():
+    pending_comments()
     decisions = tg.poll_decisions()
     for pid, act in decisions:
         p = load_post(pid)
