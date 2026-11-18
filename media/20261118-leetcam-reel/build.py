@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 D='media/20261118-leetcam-reel'; V='media/20261118-leetcam2/video'; R=f'{D}/work'; os.makedirs(R,exist_ok=True); os.makedirs(f'{D}/cand',exist_ok=True)
 FB='assets/fonts/Pretendard-Black.otf'; FM='assets/fonts/Pretendard-Medium.otf'; FX='assets/fonts/Pretendard-ExtraBold.otf'
 Y=(255,216,77); BY0,BH=660,720
-TAG='수능 D-1 · 리트 만점자'; L=['인터뷰 도중','카메라가 갑자기','줌인한 곳']
+TAG='수능 D-1 · 17일 밤 자택 앞'; L=['리트 만점자 인터뷰','카메라에 잡힌','불안한 손']
 def top():
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
     lg=Image.open('brand/logo_typo_A.png').convert('RGBA'); h=46; lg=lg.resize((int(lg.width*h/lg.height),h)); im.alpha_composite(lg,(70,238))
@@ -32,7 +32,7 @@ CY='720:480:67:0'   # 얼굴 장면(엠빅뉴스 로고는 오른쪽 위 x>787�
 K='17일 밤 · 자택 인근 · MBC 취재진'
 S=[ # src, ss, dur, crop, [(t0,t1,small,b1,b2)]
  (f'{V}/y1.mp4',496.6,8.2,CW,[(0,1.9,K,'목요일에 해명할 의혹을','하나씩 꼽는 리트 만점자'),
-                              (1.9,8.2,'손가락으로 하나씩 세는 순간 → 줌인','"리트, 수능, 성적표','스토킹, 욕설"')]),
+                              (1.9,8.2,'안장 위 손가락으로 하나씩 세는 순간','"리트, 수능, 성적표','스토킹, 욕설"')]),
  (f'{V}/y1.mp4',505.6,4.0,CY,[(0,4.0,'촬영 중인 걸 확인하더니','"혹시 화면도 나가네요?','동영상이 나가요?"')]),
  (f'{V}/y1.mp4',509.7,4.4,CY,[(0,4.4,'MBC 취재진','"원하시면 모자이크는','당연히 가능합니다"')]),
  (f'{V}/y1.mp4',514.1,5.3,CY,[(0,5.3,'오히려 범죄자처럼 보인다며','"모자이크','하지 마세요"')]),
@@ -57,5 +57,5 @@ subprocess.run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i',f'{R}/
 # 커버: 검정 바탕 + 위 띠(손가락 줌인 장면) + 아래 격자 통일형 큰 제목
 subprocess.run(['ffmpeg','-v','error','-y','-ss','501.0','-i',f'{V}/y1.mp4','-frames:v','1','-vf',f'crop={CW},scale=1080:{BH}',f'{R}/cov_band.jpg'],check=True)
 bg=Image.new('RGB',(1080,1920),(0,0,0)); bg.paste(Image.open(f'{R}/cov_band.jpg'),(0,330)); bg.save(f'{R}/cov_bg.jpg',quality=95)
-subprocess.run(['python3','scripts/reel_overlay.py',f'{D}/cand/overlay.png','리트 만점자\n카메라 감독이\n줌인한 곳','',f'{R}/cov_bg.jpg',f'{D}/reel_cover.jpg'],check=True)
+subprocess.run(['python3','scripts/reel_overlay.py',f'{D}/cand/overlay.png','리트 만점자\n카메라에 잡힌\n불안한 손','',f'{R}/cov_bg.jpg',f'{D}/reel_cover.jpg'],check=True)
 print('done')
