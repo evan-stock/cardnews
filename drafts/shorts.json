@@ -1,209 +1,232 @@
 {
- "id": "20261117-t18",
- "mode": "send",
+ "id": "20261118-t18",
+ "mode": "render",
  "format": "meme",
- "topic": "한 원본(11.17 18:07, ★사람 행동형 3편째): 깊이 잠든 골든에게 집사가 치즈를 들고 살금살금 다가감 → 꿈쩍도 안 하다가 눈만 뜨고 쳐다봄 → 코앞에 치즈를 놔 주자 고개도 안 들고 누운 채로 먹음. 원본 YouTube Bella the Doggo 'Even in a deep sleep, a dog hears everything.'(OMMuflxEKiY, 2026.11.15, 42초, 1080x1920, 자막·워터마크 없음, 덧입힌 음악 전 구간 → 원본 소리 0). 원본 23.2~41.9초 사용(32.5→33.0 원작자 컷, 건너뜀 없음). 서버 render 누적(1.5/4.1/7.1/9.3/11.4/14.1/18.2)으로 장면 시작 = 원본 시각, 원본 끝 42.05 안에 맞추려 마지막 문장 '다 먹고도 그대로 누워 있네요'를 빼고 펀치라인을 6문장째로. bgm curious_kitten.",
- "sfx_max": 1,
- "style": {
-  "mascot": null,
-  "band": 480,
-  "title_pad_bottom": 18,
-  "voice_volume": 0.8
- },
+ "topic": "복귀 방식 1편(11.18 18:07): 아빠가 발톱을 깎아 주다 하나를 실수로 너무 짧게 잘랐더니, 벽에 코 박고 등 돌려 앉아 단단히 삐진 강아지 거너. 엄마가 쓰다듬자 옆눈으로 흘깃 보고는 다시 벽을 봄(TikTok @xxodestina, Destiny Rayne Bonner, 2,000만 회·좋아요 400만, TAG24 2024.7.24 보도). 펫스파이 '~했다가 제대로 삐진 ○○' 틀 + '삐진' 시리즈(11.01 골든 6.4만). 발톱·휴지 나오는 구간(1.5~3, 7.5~11.5초)은 건너뜀. 원본 소리는 음악 아닌 방 소리·말소리(-40dB 안팎)라 살림. 원본 영어 캡션(화면 64~77% 높이)은 zoom 1.5 + y 0.2으로 화면 밖으로. 사실: AKC — 발톱 속 퀵에 혈관·신경, 끝만 조금씩.",
+ "bgm": "assets/bgm/worthy/curious_kitten.mp3",
+ "bgm_start": 11.0,
+ "bgm_volume": 0.9,
+ "sfx_max": 4,
  "hook": {
-  "t": "눈만 뜨고 다 해결하는\n'귀차니즘 끝판왕'ㅋㅋ"
+  "t": "발톱 깎았을 뿐인데\n'제대로 삐진 강아지ㅋㅋ'"
  },
  "photo_credits": [
-  "YouTube Bella the Doggo"
+  "TikTok @xxodestina"
  ],
- "credit": "영상: YouTube Bella the Doggo",
- "sources": [
-  {
-   "publisher": "YouTube Bella the Doggo - Even in a deep sleep, a dog hears everything.",
-   "url": "https://www.youtube.com/shorts/OMMuflxEKiY",
-   "date": "2026-11-15"
-  }
- ],
+ "credit": "영상: TikTok @xxodestina",
  "scenes": [
   {
-   "dur": 1.5,
+   "dur": 2.0,
    "video": {
-    "src": "video/k1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.0,
-    "start": 23.2,
-    "zoom": 1.25
+    "src": "video/v2.mp4",
+    "start": 0.0,
+    "zoom": 1.5,
+    "x": 0.75,
+    "y": 0.2,
+    "audio": 2
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "…꿈에서 치즈 냄새가",
-     "x": 0.45,
-     "y": 0.2,
+     "k": "sfx",
+     "t": "(벽만 봄)",
+     "x": 0.3,
+     "y": 0.12,
      "at": 0.0,
-     "to": 1.5,
-     "c": "yellow",
-     "size": 84
+     "to": 2.0,
+     "s": "dundun",
+     "sv": 0.7
+    },
+    {
+     "k": "talk",
+     "t": "말 시키지 마.",
+     "x": 0.35,
+     "y": 0.4,
+     "at": 0.4,
+     "to": 2.0
     }
    ]
   },
   {
-   "say": "깊이 잠든 골든에게 치즈를 들고 다가갔더니",
-   "sub": "깊이 잠든 골든에게, 치즈를 들고 다가갔더니",
+   "say": "아빠가 발톱을 깎아 주다 하나를 너무 짧게 잘랐거든요.",
    "video": {
-    "src": "video/k1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.0,
-    "start": 24.7,
-    "zoom": 1.25
+    "src": "video/v2.mp4",
+    "start": 12.0,
+    "zoom": 1.5,
+    "x": 0.75,
+    "y": 0.2,
+    "audio": 0.4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "zZ… 쿨쿨",
-     "x": 0.45,
-     "y": 0.2,
-     "at": 0.3,
-     "to": 2.5,
-     "c": "yellow",
-     "size": 74
+     "t": "아팠거든?",
+     "x": 0.3,
+     "y": 0.25,
+     "at": 0.8
     }
    ]
   },
   {
-   "say": "코앞까지 가도 꿈쩍도 안 하는데요",
-   "sub": "코앞까지 가도, 꿈쩍도 안 하는데요",
+   "say": "그 뒤로 벽에 코 박고 시위 중입니다.",
    "video": {
-    "src": "video/k1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.0,
-    "start": 27.3,
-    "zoom": 1.25
+    "src": "video/v2.mp4",
+    "start": 3.0,
+    "zoom": 1.5,
+    "x": 0.75,
+    "y": 0.2,
+    "audio": 0.4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "(아직 자는 중)",
-     "x": 0.45,
-     "y": 0.2,
-     "at": 0.3,
-     "to": 2.3,
-     "c": "yellow",
-     "size": 74
+     "t": "나 지금 화났어",
+     "x": 0.35,
+     "y": 0.25,
+     "at": 0.6
     }
    ]
   },
   {
-   "say": "숨죽이고 조금 더 기다리자",
-   "sub": "숨죽이고, 조금 더 기다리자",
+   "say": "엄마가 달래 주자 슬쩍 보는데요.",
    "video": {
-    "src": "video/k1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.0,
-    "start": 30.3,
-    "zoom": 1.25
+    "src": "video/v2.mp4",
+    "start": 19.6,
+    "zoom": 1.5,
+    "x": 0.6,
+    "y": 0.2,
+    "audio": 0.4
    },
    "caps": []
   },
   {
-   "say": "눈만 번쩍 뜨고 쳐다보네요",
-   "sub": "눈만 번쩍 뜨고, 쳐다보네요",
+   "dur": 2.4,
    "video": {
-    "src": "video/k1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.0,
-    "start": 33.0
+    "src": "video/v2.mp4",
+    "start": 24.4,
+    "zoom": 1.5,
+    "x": 0.45,
+    "y": 0.2,
+    "audio": 2
    },
    "caps": [
     {
-     "k": "talk",
-     "t": "…방금 뭐 들고 왔어?",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 0.2,
-     "to": 2.2,
-     "c": "yellow",
-     "size": 74
-    }
-   ]
-  },
-  {
-   "say": "치즈를 코앞에 놔 줬더니",
-   "sub": "치즈를 코앞에 놔 줬더니",
-   "video": {
-    "src": "video/k1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.0,
-    "start": 35.1
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "여기까지 배달해",
-     "x": 0.5,
+     "k": "sfx",
+     "t": "(흘깃)",
+     "x": 0.75,
      "y": 0.12,
      "at": 0.2,
-     "to": 2.0,
-     "c": "yellow",
-     "size": 74
-    }
-   ]
-  },
-  {
-   "say": "고개도 안 들고 누운 채로 냠",
-   "sub": "고개도 안 들고, 누운 채로 냠",
-   "video": {
-    "src": "video/k1.mp4",
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.0,
-    "start": 37.8
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "일어나긴 귀찮고",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.2,
-     "to": 2.0,
-     "c": "yellow",
-     "size": 74
+     "to": 2.4,
+     "s": "question",
+     "sv": 0.6
     },
     {
+     "k": "talk",
+     "t": "...사과하는 거야?",
+     "x": 0.5,
+     "y": 0.3,
+     "at": 0.6,
+     "to": 2.4
+    }
+   ]
+  },
+  {
+   "dur": 1.8,
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 27.2,
+    "zoom": 1.5,
+    "x": 0.9,
+    "y": 0.2,
+    "audio": 2
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(다시 벽)",
+     "x": 0.3,
+     "y": 0.12,
+     "at": 0.0,
+     "to": 1.8,
+     "s": "pop",
+     "sv": 0.7
+    },
+    {
+     "k": "talk",
+     "t": "아직 안 풀렸어",
+     "x": 0.4,
+     "y": 0.3,
+     "at": 0.3,
+     "to": 1.8
+    }
+   ]
+  },
+  {
+   "say": "발톱 속엔 혈관이 있어서 끝만 조금씩 깎아야 한대요.",
+   "video": {
+    "src": "video/v2.mp4",
+    "start": 29.0,
+    "zoom": 1.5,
+    "x": 0.8,
+    "y": 0.2,
+    "audio": 0.4,
+    "boomerang": true
+   },
+   "caps": [
+    {
      "k": "desc",
-     "t": "(일어나는 건 치즈값에 미포함ㅋㅋ)",
+     "t": "발톱 속 '퀵'엔 혈관과 신경이 있어\n끝만 조금씩 깎아야 해요\n(미국켄넬클럽 AKC)",
      "x": 0.5,
      "y": 0.12,
-     "at": 2.2,
-     "to": 4.1,
-     "c": "sky",
-     "size": 60
+     "at": 0.2,
+     "size": 48
+    },
+    {
+     "k": "talk",
+     "t": "간식 3개면 용서함",
+     "x": 0.4,
+     "y": 0.4,
+     "at": 1.2,
+     "s": "fail",
+     "sv": 0.6
     }
    ]
   }
  ],
+ "sources": [
+  {
+   "publisher": "TikTok @xxodestina (Destiny Rayne Bonner)",
+   "url": "https://www.tiktok.com/@xxodestina/video/7391120187421936938",
+   "date": "2024-07"
+  },
+  {
+   "publisher": "TAG24 - Dog upset about his manicure gets TikTok giggling: \"He won't even look at us\"",
+   "url": "https://tag24.com/animals/dogs/dog-upset-about-his-manicure-gets-tiktok-giggling-he-wont-even-look-at-us-3302039",
+   "date": "2024-07-24"
+  },
+  {
+   "publisher": "American Kennel Club - How to Trim Dog Nails Safely",
+   "url": "https://www.akc.org/expert-advice/health/trim-dog-nails/",
+   "date": "2025"
+  }
+ ],
  "yt": {
-  "title": "잠든 골든리트리버 코앞에 치즈를 내밀자 한 행동ㅋㅋ #shorts",
-  "description": "살금살금 다가가 치즈를 내밀었더니… 일어나는 대신 고른 방법 🐶🧀\n\n🎥 원본 영상: YouTube Bella the Doggo https://www.youtube.com/shorts/OMMuflxEKiY\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#오늘의털뭉치 #골든리트리버 #강아지 #강아지반응 #댕댕이 #동물쇼츠",
+  "title": "아빠가 발톱 깎아줬다가 제대로 삐진 강아지ㅋㅋ #shorts",
+  "description": "아빠가 발톱을 깎아 주다 하나를 그만 너무 짧게 잘라 버렸어요ㅋㅋ 그 뒤로 거너는 벽에 코 박고 등 돌린 채 시위 중. 엄마가 달래 주자 슬쩍 쳐다보는데...\n\n미국켄넬클럽(AKC)에 따르면 발톱 속 '퀵'에는 혈관과 신경이 있어서, 끝만 조금씩 깎아야 한대요.\n\n여러분 댕댕이도 삐지면 벽 보고 앉나요?\n\n영상: TikTok @xxodestina\n참고: TAG24, American Kennel Club\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#강아지 #삐짐 #발톱깎기 #댕댕이 #강아지발톱 #귀여운동물 #동물쇼츠 #오늘의털뭉치",
   "tags": [
-   "오늘의털뭉치",
-   "골든리트리버",
    "강아지",
-   "강아지반응",
+   "삐짐",
+   "발톱깎기",
+   "강아지발톱",
    "댕댕이",
-   "리트리버",
+   "귀여운동물",
    "동물쇼츠",
-   "shorts"
-  ]
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public"
  },
  "publish_now": true,
- "bgm": "assets/bgm/worthy/curious_kitten.mp3",
- "bgm_volume": 2.0
+ "style": {
+  "sub_y": 0.84
+ }
 }
