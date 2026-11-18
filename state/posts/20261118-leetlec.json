@@ -2,7 +2,7 @@
  "id": "20261118-leetlec",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "manual": true,
  "created_at": "2026-11-18T18:25:25+09:00",
  "publish_at": "2026-11-18T18:25:25+09:00",
@@ -30,5 +30,8 @@
   "media/20261118-leetlec/02.jpg",
   "media/20261118-leetlec/03.jpg",
   "media/20261118-leetlec/04.jpg"
- ]
+ ],
+ "ig_media_id": "18076647119772933",
+ "permalink": "https://www.instagram.com/p/Df4LvO1lVNq/",
+ "published_at": "2026-11-18T18:28:45.420852+09:00"
 }
