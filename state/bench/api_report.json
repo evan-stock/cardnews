@@ -1,1771 +1,1677 @@
 {
- "since": "2023-01-01",
+ "since": "2025-11-18",
  "fixed": [],
  "found": [
   {
-   "title": "Moabe Torneiro (MSM)",
-   "id": "UChGMPvNf7uQwU8ejmYJOThg",
-   "created": "2020-02-28",
-   "subs": "7450",
-   "videos": "830"
+   "title": "Instant Riseup",
+   "id": "UCnxKeSCj2QIknE0uqIA1SWw",
+   "created": "2017-05-09",
+   "subs": "120",
+   "videos": "218"
   },
   {
-   "title": "Matheus Rezende Usinagem",
-   "id": "UCwvNYGzmxBkHA4EBOUxjJeg",
-   "created": "2020-01-31",
-   "subs": "53600",
-   "videos": "758"
+   "title": "Pismo Beach Publishing",
+   "id": "UCYByWTiW9Vl7h9wenwDxpAg",
+   "created": "2024-03-20",
+   "subs": "318",
+   "videos": "369"
   },
   {
-   "title": "opelservice kyiv",
-   "id": "UCJgRRMcnoGLLZnh8oXY2Ijg",
-   "created": "2020-10-09",
-   "subs": "780000",
-   "videos": "832"
+   "title": "Cinemarxism",
+   "id": "UCQF22jLakoaIGnWHdV6muSw",
+   "created": "2022-02-01",
+   "subs": "2000",
+   "videos": "77"
   },
   {
-   "title": "Scila Alex Dicas",
-   "id": "UCwbm-xSlSmzpHOSRKa1drUw",
-   "created": "2025-09-30",
-   "subs": "70",
-   "videos": "27"
+   "title": "Cute Otter",
+   "id": "UCArgO3zXFns6iBG3Ww9VbHg",
+   "created": "2020-09-25",
+   "subs": "63500",
+   "videos": "6750"
   },
   {
-   "title": "Neco Serviços automotivos",
-   "id": "UCs8ntd1KW59Q5RztKgS9-XQ",
-   "created": "2020-01-15",
-   "subs": "2650",
-   "videos": "540"
+   "title": "PawBuzz ",
+   "id": "UCmp2x4_FD42HtF8ikwvNe9g",
+   "created": "2026-06-10",
+   "subs": "101000",
+   "videos": "105"
   },
   {
-   "title": "DIY Auto Doctor",
-   "id": "UCR5vBugFsOmye9NyCagTvpw",
-   "created": "2024-11-23",
-   "subs": "11200",
-   "videos": "582"
+   "title": "Otter Story",
+   "id": "UClA359XqSpklbUUwlhg_8Rw",
+   "created": "2026-08-01",
+   "subs": "17",
+   "videos": "13"
   },
   {
-   "title": "Dicas de Casa",
-   "id": "UCPiFpCiUL2y9-sWWfI-mvqg",
-   "created": "2023-01-18",
-   "subs": "367000",
-   "videos": "4379"
-  },
-  {
-   "title": "Criative Ideias",
-   "id": "UCQPaK9rLuiTKc_68L1IpHLA",
-   "created": "2024-06-01",
-   "subs": "297000",
-   "videos": "2697"
-  },
-  {
-   "title": "Vibran Tutoriais",
-   "id": "UCAW7MLAGccG6Yz1toOLXyIA",
-   "created": "2011-05-30",
-   "subs": "9440",
-   "videos": "240"
-  },
-  {
-   "title": "Carriel Produções",
-   "id": "UC-ip5HKslGEJPa1U3U6NbQQ",
-   "created": "2012-01-01",
-   "subs": "2830",
-   "videos": "303"
-  },
-  {
-   "title": "Wonder Wise",
-   "id": "UCqdoRgVMMQyBh_ETyyUCXEQ",
-   "created": "2025-11-22",
-   "subs": "440",
-   "videos": "261"
-  },
-  {
-   "title": "That SUBARU Guy",
-   "id": "UCWS1R4G_cAjA7MV_sDcl_ag",
-   "created": "2022-01-23",
-   "subs": "73900",
-   "videos": "846"
-  },
-  {
-   "title": "Canal 2 Tempos",
-   "id": "UCGdAaWh1UbBFSoD-vztgYBA",
-   "created": "2020-09-07",
-   "subs": "23600",
-   "videos": "910"
-  },
-  {
-   "title": "Joilton torneiro",
-   "id": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "created": "2019-10-13",
-   "subs": "160000",
-   "videos": "1395"
-  },
-  {
-   "title": "bruno cb",
-   "id": "UCadXj6yNFlbJ0V-Kd0EoatQ",
-   "created": "2020-06-01",
-   "subs": "643000",
-   "videos": "575"
-  },
-  {
-   "title": "Encanamentos na Prática",
-   "id": "UCdLgsftq4RGvwF2fL8PYXTA",
-   "created": "2021-03-16",
-   "subs": "3790",
-   "videos": "145"
-  },
-  {
-   "title": "SRN Retífica ",
-   "id": "UC9NOhwRCYcF9QQldnG4BsIw",
-   "created": "2016-08-21",
-   "subs": "4020",
-   "videos": "410"
-  },
-  {
-   "title": "Gambiarras e Soluções ",
-   "id": "UCiNxFnhgRLtJ6-slwWVDJqQ",
-   "created": "2024-05-13",
-   "subs": "542000",
-   "videos": "2791"
-  },
-  {
-   "title": "Júnior ferreira ",
-   "id": "UCncO3HtRRvsHvpV3Eeen56g",
-   "created": "2020-05-05",
-   "subs": "26400",
-   "videos": "333"
-  },
-  {
-   "title": "Astemac Usinagem - José Antônio ",
-   "id": "UC9NGWDkqXfhRixj0ngpa6lA",
-   "created": "2025-09-03",
-   "subs": "115",
-   "videos": "10"
-  },
-  {
-   "title": "Top10 curso",
-   "id": "UCu0KdF_BnXCnvJlv7-cYEfA",
-   "created": "2019-12-12",
-   "subs": "119000",
-   "videos": "5099"
-  },
-  {
-   "title": "HEAVY KINETICS",
-   "id": "UCkHxvZYFEowBuxpOLSqZYlw",
-   "created": "2026-07-06",
-   "subs": "29",
-   "videos": "37"
-  },
-  {
-   "title": "Daily hacks 360",
-   "id": "UChbowfozU--Fipm2RywoT5A",
-   "created": "2024-01-30",
-   "subs": "27900",
-   "videos": "119"
-  },
-  {
-   "title": "Sanderson Feliciano",
-   "id": "UC4m1nzP7eKw4sFSXhnJtpKQ",
-   "created": "2015-02-25",
-   "subs": "4100",
-   "videos": "534"
-  },
-  {
-   "title": "Vinicinn_torneiro",
-   "id": "UC4O_F_Xt1Z2ZKV3v9icmhCA",
-   "created": "2016-07-17",
-   "subs": "129000",
-   "videos": "1503"
-  },
-  {
-   "title": "Cunha & Filho manutenções",
-   "id": "UCUpPxB3QO1m9kau-CrKM_sg",
-   "created": "2022-04-27",
-   "subs": "94800",
-   "videos": "763"
-  },
-  {
-   "title": "Canal do Azeitona (Dicas e Experiências)",
-   "id": "UCEiTSzzEqehfw8tbAlaf1lQ",
-   "created": "2011-10-06",
-   "subs": "12300",
-   "videos": "416"
-  },
-  {
-   "title": "MANIFACO",
-   "id": "UCdbUdwrSzWbofkJKEu7TiEA",
-   "created": "2014-11-26",
-   "subs": "1740000",
-   "videos": "8138"
-  },
-  {
-   "title": "GMF",
-   "id": "UC7oz7SHjyySTjerDR6HebUg",
-   "created": "2021-07-18",
-   "subs": "181000",
-   "videos": "888"
-  },
-  {
-   "title": "AutoDIY Express",
-   "id": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "created": "2023-12-07",
-   "subs": "15300",
-   "videos": "187"
-  },
-  {
-   "title": "Ideia que Funciona",
-   "id": "UCq-OCkK9DTOhtLs4owZd5XQ",
-   "created": "2024-06-05",
-   "subs": "438000",
-   "videos": "2594"
-  },
-  {
-   "title": "Mundo da Curiosidade ",
-   "id": "UCSRBHf6-EDcXK9K63YmkUGA",
-   "created": "2023-12-18",
-   "subs": "235000",
-   "videos": "781"
-  },
-  {
-   "title": "Criando em 3 minutos",
-   "id": "UCRTusoA-0dhJdpWFdHt7wkg",
-   "created": "2022-12-31",
-   "subs": "14500",
-   "videos": "391"
-  },
-  {
-   "title": "Emerson torneiro ",
-   "id": "UCVSFA1z4w1Mlhp8_N5RBYFQ",
-   "created": "2025-04-25",
-   "subs": "1090",
-   "videos": "55"
-  },
-  {
-   "title": "Dave's Auto Center",
-   "id": "UCRMiFgN0EEIPrhJP58kRMyw",
-   "created": "2015-04-24",
-   "subs": "1680000",
-   "videos": "1154"
-  },
-  {
-   "title": "Europa Ferramentas",
-   "id": "UCl7GXEAAg4ETi2aPIDoBHng",
-   "created": "2016-07-07",
-   "subs": "2500",
-   "videos": "22"
-  },
-  {
-   "title": "Maker Garage 101",
-   "id": "UCgwysjiRiGjaueWY5GJABcQ",
-   "created": "2012-08-22",
-   "subs": "2790",
-   "videos": "467"
-  },
-  {
-   "title": "KNR channel13",
-   "id": "UCWo4QprZYR0t8hpRLPTpyug",
-   "created": "2015-05-31",
-   "subs": "24900",
-   "videos": "2087"
-  },
-  {
-   "title": "Canal do Cabeçoteiro",
-   "id": "UCC39wTy8q-ADpFdZjo3IV3A",
-   "created": "2020-06-06",
-   "subs": "1040000",
-   "videos": "5280"
-  },
-  {
-   "title": " Ponto Duas Rodas ",
-   "id": "UC14yZTBHnL5ORDwqCMb2hwg",
-   "created": "2016-04-30",
-   "subs": "44100",
-   "videos": "1790"
-  },
-  {
-   "title": "Classic Cars Mechanic",
-   "id": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "created": "2013-11-21",
-   "subs": "214000",
-   "videos": "515"
-  },
-  {
-   "title": "Escola de Nerd",
-   "id": "UC39TPbWI3g__bXUg--gX1qA",
-   "created": "2016-06-15",
-   "subs": "153",
-   "videos": "11"
-  },
-  {
-   "title": "Pox Serralheria Tutoriais",
-   "id": "UCqXbjA9arOBXgoucrvG9fCQ",
-   "created": "2013-07-07",
-   "subs": "579000",
-   "videos": "1099"
-  },
-  {
-   "title": "TO Motos",
-   "id": "UCVIZGRRU8HmUaP2Vj3pqxWA",
-   "created": "2013-03-12",
-   "subs": "3720",
+   "title": "100kisaiah",
+   "id": "UCpg90_1E76uUjJA_0gHjPVg",
+   "created": "2024-08-04",
+   "subs": "3070",
    "videos": "461"
   },
   {
-   "title": "Aprendendo Fatos",
-   "id": "UCELLXcSJSnmu525tWmqhyPQ",
-   "created": "2012-12-25",
-   "subs": "338000",
-   "videos": "1587"
+   "title": "Jessia Turcotte",
+   "id": "UCU_Qv9CyEBvvCPhuxIvL9IA",
+   "created": "2026-06-05",
+   "subs": "301",
+   "videos": "162"
   },
   {
-   "title": "TechLuck",
-   "id": "UCB_FBd6m15njo6X0q5fPfiA",
-   "created": "2025-06-10",
-   "subs": "152000",
-   "videos": "1012"
+   "title": "Me Her and The Bobster",
+   "id": "UCD3jJtFuoRMB1R66JxlhQlA",
+   "created": "2013-07-05",
+   "subs": "623",
+   "videos": "197"
   },
   {
-   "title": "Gleidson Motos ",
-   "id": "UCsOCtUWqTYzuiswS3ONHQYw",
-   "created": "2010-07-23",
-   "subs": "237",
-   "videos": "150"
+   "title": "Daily Adventures ",
+   "id": "UCJe33oEALl2VIdRPJb6fvSQ",
+   "created": "2025-07-10",
+   "subs": "3560",
+   "videos": "403"
   },
   {
-   "title": "Casal Gambiarra11",
-   "id": "UCKxX3kdF7uEyjIUBhxSajYg",
-   "created": "2022-12-26",
-   "subs": "235000",
-   "videos": "2037"
+   "title": "storm vibe ",
+   "id": "UCmfX4q4G5msJdrKGeveiHlw",
+   "created": "2026-04-20",
+   "subs": "20300",
+   "videos": "267"
   },
   {
-   "title": "HGTV [생활의 발견]",
-   "id": "UCq88DcgGj7J9JmEF1H1bEtQ",
-   "created": "2024-04-07",
-   "subs": "26500",
-   "videos": "449"
+   "title": "Eras Decoded",
+   "id": "UC3wUQxGn63y1XvpuPsP5bqA",
+   "created": "2026-04-03",
+   "subs": "483",
+   "videos": "64"
   },
   {
-   "title": "Yudi Cekodt Short",
-   "id": "UC9OEGeFON0MN4d3-wZ23ADw",
-   "created": "2014-10-06",
-   "subs": "395000",
-   "videos": "3533"
+   "title": "Ellaevoyy ",
+   "id": "UCKsy8c3TpUNK97bz_Fz-Qqw",
+   "created": "2026-01-30",
+   "subs": "1680",
+   "videos": "77"
   },
   {
-   "title": "獵影山谷",
-   "id": "UCuOm-OqqgI6QAmTnn7Ehc8w",
-   "created": "2025-06-01",
-   "subs": "2600",
-   "videos": "3935"
+   "title": "Panda Paradise Horizon",
+   "id": "UCnImKife8U3CkF2JGKHtkWg",
+   "created": "2020-06-09",
+   "subs": "1290",
+   "videos": "159"
   },
   {
-   "title": "GHOSTFACE WORKSHOP",
-   "id": "UCZn_lgUk9cCB6n0uB6zlqGQ",
-   "created": "2018-06-16",
-   "subs": "26300",
-   "videos": "666"
+   "title": "Magic Ganna",
+   "id": "UCQcbQIAUys2BUIpnZhFRdcw",
+   "created": "2026-01-01",
+   "subs": "2210",
+   "videos": "269"
   },
   {
-   "title": "Clank Theory",
-   "id": "UCml9SY7-OPZcFw6tO1X3eLw",
-   "created": "2026-10-15",
-   "subs": "53",
-   "videos": "59"
+   "title": "Mirage K",
+   "id": "UCWDzu8mTQ50__JiUz50ZHIA",
+   "created": "2025-10-18",
+   "subs": "1010",
+   "videos": "49"
   },
   {
-   "title": "BARA BUDAYA",
-   "id": "UC-_HcA0kHIvUMpU3Ca61ZmA",
-   "created": "2015-05-06",
-   "subs": "13800",
-   "videos": "6552"
+   "title": "Otterly Amazing",
+   "id": "UCFwdvIibkQclfRh_q0oNuog",
+   "created": "2026-10-07",
+   "subs": "197",
+   "videos": "42"
   },
   {
-   "title": "MUNNA LEATH ",
-   "id": "UCx1bQM-zKsuElZIMEOD1DTA",
-   "created": "2023-01-23",
-   "subs": "38",
-   "videos": "18"
+   "title": "DailyWATCH",
+   "id": "UCoxKHvA32TnzuRWZkGlUKLQ",
+   "created": "2026-06-01",
+   "subs": "15200",
+   "videos": "39"
   },
   {
-   "title": "Garage15",
-   "id": "UCvX23gr4XXKiOrjAlhNkneg",
-   "created": "2026-06-03",
-   "subs": "348",
-   "videos": "149"
+   "title": "Mochi_video ",
+   "id": "UCZVyxqsOsAryp834gm55CeA",
+   "created": "2006-06-10",
+   "subs": "24800",
+   "videos": "217"
   },
   {
-   "title": "Imperial Sky",
-   "id": "UC1gGi2YnL7_QWhEtxez2M7Q",
-   "created": "2019-02-03",
-   "subs": "16500",
-   "videos": "5596"
+   "title": "Sameer_Universe",
+   "id": "UCFd85mNeaIx7XOjQpt8Lfsg",
+   "created": "2026-08-09",
+   "subs": "55",
+   "videos": "24"
   },
   {
-   "title": "Monis Turner Mechanical.🛠️",
-   "id": "UCxFPht5kmKwm04c425ifVGw",
-   "created": "2023-10-11",
-   "subs": "1790",
-   "videos": "893"
+   "title": "Palash's WonderLoop",
+   "id": "UCKipZpXQlnzM_2w_BeYNnXQ",
+   "created": "2024-08-16",
+   "subs": "643",
+   "videos": "200"
   },
   {
-   "title": "Fixora",
-   "id": "UCnmsK4n___Fj9p2K4cu0Mng",
-   "created": "2025-12-08",
-   "subs": "1",
-   "videos": "14"
+   "title": "TVP WORLD",
+   "id": "UCBjUPsHj7bXt24SUWNoZ0zA",
+   "created": "2018-11-07",
+   "subs": "641000",
+   "videos": "10655"
   },
   {
-   "title": "POV Man",
-   "id": "UCWciG0daLD0mMhgMO7s3i_A",
-   "created": "2025-10-20",
-   "subs": "1890",
-   "videos": "697"
+   "title": "Quiet Country Stories ",
+   "id": "UCRBsGa5R5jxrPqnjezQtDew",
+   "created": "2026-09-03",
+   "subs": "27",
+   "videos": "7"
   },
   {
-   "title": "LNG Films ",
-   "id": "UCCqMBj0nfA7TKv-8gqs92gA",
-   "created": "2021-09-27",
-   "subs": "508",
-   "videos": "284"
+   "title": "Smile gardening",
+   "id": "UCvm5rzCYEMbbucE00_ap0ug",
+   "created": "2020-02-27",
+   "subs": "6290",
+   "videos": "2012"
   },
   {
-   "title": "Body Equilibrium",
-   "id": "UCcpKz8tvKwqaXJplnJ2Ts4w",
-   "created": "2023-12-31",
-   "subs": "99",
-   "videos": "865"
+   "title": "Valuetainment Comedy",
+   "id": "UCBhk5IGscWGP53VhaOs8Apg",
+   "created": "2022-06-02",
+   "subs": "1030000",
+   "videos": "2488"
   },
   {
-   "title": "Doktech HD",
-   "id": "UConp5I3L0_FrgsOF5OQ145w",
-   "created": "2018-03-02",
-   "subs": "1570000",
-   "videos": "249"
+   "title": "Otti's little world ",
+   "id": "UCyOHjF9306zTtS_p3g0FhQA",
+   "created": "2026-09-02",
+   "subs": "49",
+   "videos": "15"
   },
   {
-   "title": "AMAZING WORK TOOLS",
-   "id": "UCGCj3cdnIlZPpr1SycmuBSw",
-   "created": "2016-06-13",
-   "subs": "4260",
-   "videos": "477"
+   "title": "ViralHog",
+   "id": "UC3339WgBDKIcxTfywuSmG8w",
+   "created": "2014-08-22",
+   "subs": "30100000",
+   "videos": "64880"
   },
   {
-   "title": "天气微凉淡淡月光",
-   "id": "UCPP2wdaQxDGGC73YUGd6ibA",
-   "created": "2022-12-08",
-   "subs": "19500",
-   "videos": "884"
+   "title": "Ruwan Herath 🎷",
+   "id": "UCSvmQ6RS8bAr52-4r3D7jyw",
+   "created": "2019-08-13",
+   "subs": "1100",
+   "videos": "433"
   },
   {
-   "title": "Mas Kliwon",
-   "id": "UC920cFglBUzqa8Vx_dxW9yA",
-   "created": "2024-03-27",
-   "subs": "11300",
-   "videos": "2573"
+   "title": "Husky&LittleOne",
+   "id": "UC9wrscEJ1HQqMH1P9cgQiOQ",
+   "created": "2025-11-09",
+   "subs": "766",
+   "videos": "35"
   },
   {
-   "title": "The Tech Solution ",
-   "id": "UCz4v6SS6BcQFThhg4uPw8ng",
-   "created": "2025-10-29",
-   "subs": "287",
+   "title": "Otterly Cute ⭐",
+   "id": "UCqiOZB0EvG1fOPP2lcUryKw",
+   "created": "2026-09-08",
+   "subs": "8",
+   "videos": "25"
+  },
+  {
+   "title": "Chhavi facts ",
+   "id": "UClhSWD6vJAEq7Z3S6q2wl8g",
+   "created": "2019-02-22",
+   "subs": "204000",
+   "videos": "143"
+  },
+  {
+   "title": "@'CRlTTER CHAOS TOONS ?",
+   "id": "UCbt3oVj7v_fL-CR9sy8kZ0A",
+   "created": "2026-01-01",
+   "subs": "7",
+   "videos": "13"
+  },
+  {
+   "title": "Rufus Goodboy",
+   "id": "UC6T4TmdMIg3bPWd9at6vFRQ",
+   "created": "2024-04-04",
+   "subs": "1050000",
+   "videos": "1239"
+  },
+  {
+   "title": "Maheshwari13",
+   "id": "UCw_h26hnumhQUxnezUR8qIw",
+   "created": "2024-09-02",
+   "subs": "3760",
+   "videos": "3136"
+  },
+  {
+   "title": "Animali Facili",
+   "id": "UCMX9FdcQl6Uze87S-8LcqKA",
+   "created": "2013-08-27",
+   "subs": "2840",
+   "videos": "1277"
+  },
+  {
+   "title": "Otter Otter in your world",
+   "id": "UCHOxRPVNiUXLX787q5bQ52g",
+   "created": "2016-06-11",
+   "subs": "285",
+   "videos": "194"
+  },
+  {
+   "title": "Comedy Animal Shorts TV",
+   "id": "UCvO8mQ89-CXI6ai1_866U3Q",
+   "created": "2021-03-21",
+   "subs": "5",
+   "videos": "380"
+  },
+  {
+   "title": "JUSTDOGS",
+   "id": "UCoFePc92G0XHStbfjnc7nYg",
+   "created": "2017-05-01",
+   "subs": "13000",
+   "videos": "415"
+  },
+  {
+   "title": "ClawTalk",
+   "id": "UCbN_1hS7SgA0PFls1focSiA",
+   "created": "2026-06-10",
+   "subs": "840",
+   "videos": "93"
+  },
+  {
+   "title": "【カワウソTV】",
+   "id": "UCFIH81TTFozuuiJsUpDn48g",
+   "created": "2018-01-24",
+   "subs": "2800",
+   "videos": "1020"
+  },
+  {
+   "title": "Vintro Toons",
+   "id": "UCMeU-zOhvXjTL46RGJ7iiIA",
+   "created": "2026-06-08",
+   "subs": "3",
+   "videos": "17"
+  },
+  {
+   "title": "Otterly Bandits",
+   "id": "UC8N4My8k6SwPIq0fBXsSt8A",
+   "created": "2026-09-26",
+   "subs": "17",
+   "videos": "129"
+  },
+  {
+   "title": "Eno",
+   "id": "UC8ZrywjgrzqXdJXqLJgk5wg",
+   "created": "2011-08-16",
+   "subs": "43",
+   "videos": "22"
+  },
+  {
+   "title": "Mudgie DaOtter",
+   "id": "UCCuCJpMp8ujzQoJqwRyuioA",
+   "created": "2009-08-18",
+   "subs": "77900",
+   "videos": "1286"
+  },
+  {
+   "title": "The Daily Dose of Wholesome ",
+   "id": "UCa86fRwb10mBVM8HgehL5HQ",
+   "created": "2024-03-23",
+   "subs": "2",
+   "videos": "546"
+  },
+  {
+   "title": "French Bulldog Owner",
+   "id": "UCsbNU1hEMQLAqOBg__lcHdA",
+   "created": "2026-07-06",
+   "subs": "148",
+   "videos": "145"
+  },
+  {
+   "title": "JeTTA; My Failed Police Dog",
+   "id": "UCkrN1lu6_IpwabsYFRsJ6GA",
+   "created": "2026-03-25",
+   "subs": "207",
+   "videos": "64"
+  },
+  {
+   "title": "Nonsense Genius",
+   "id": "UCGm3SUdSrGr9clO07g5WYzA",
+   "created": "2026-03-07",
+   "subs": "60300",
+   "videos": "87"
+  },
+  {
+   "title": "DizzyDonut8",
+   "id": "UCr-dhDmQnT4y-wKcRFJ_g6Q",
+   "created": "2017-09-19",
+   "subs": "862",
+   "videos": "29"
+  },
+  {
+   "title": "CANOPY COUSIIN ",
+   "id": "UC6OytJykIdC1RntXPWLlIlw",
+   "created": "2026-07-01",
+   "subs": "537",
+   "videos": "100"
+  },
+  {
+   "title": "onedertales",
+   "id": "UCiRXjAk66O5LSGFNoGcm0GQ",
+   "created": "2025-02-12",
+   "subs": "77",
+   "videos": "411"
+  },
+  {
+   "title": "Parrot Wizard",
+   "id": "UCAbBYFDkdbAWyt4r_kD45dw",
+   "created": "2009-04-29",
+   "subs": "251000",
+   "videos": "1171"
+  },
+  {
+   "title": "The Dodo",
+   "id": "UCINb0wqPz-A0dV9nARjJlOQ",
+   "created": "2014-03-21",
+   "subs": "18900000",
+   "videos": "15199"
+  },
+  {
+   "title": "Clipsss",
+   "id": "UC6eXC8Qa4whNET_iDYadW3A",
+   "created": "2025-10-15",
+   "subs": "244",
+   "videos": "229"
+  },
+  {
+   "title": "Shabu's Vlog Pets World",
+   "id": "UCmE0fwG-_ZtsluKx1DxAMrw",
+   "created": "2019-03-13",
+   "subs": "172000",
+   "videos": "4412"
+  },
+  {
+   "title": "Around The World",
+   "id": "UCMcOjGVmXK_VCoAlcZKZvkg",
+   "created": "2023-02-13",
+   "subs": "157000",
+   "videos": "228"
+  },
+  {
+   "title": "Beingcreative1536",
+   "id": "UC-ciVfIqfyQwNfm-DiGPi8Q",
+   "created": "2012-01-24",
+   "subs": "763",
+   "videos": "784"
+  },
+  {
+   "title": "HealthyDogTips",
+   "id": "UCNF_PvShDOFgRFbiFMkrulA",
+   "created": "2025-11-03",
+   "subs": "2830",
+   "videos": "296"
+  },
+  {
+   "title": "Beach Avenue Animal Hospital",
+   "id": "UCQ_5lNt4KZT1eaeVqd11tBw",
+   "created": "2025-01-28",
+   "subs": "154",
+   "videos": "134"
+  },
+  {
+   "title": "Wink Studios",
+   "id": "UCtflqjaOtEa3Tdxil5X2Syg",
+   "created": "2026-09-02",
+   "subs": "20",
+   "videos": "19"
+  },
+  {
+   "title": "japprends",
+   "id": "UCvZYR4wlIBnKnMhiqdeZ6sQ",
+   "created": "2025-06-23",
+   "subs": "1760",
+   "videos": "478"
+  },
+  {
+   "title": "Otto the Otter",
+   "id": "UCj2Pj8msOK1rNb7TcJ69gDg",
+   "created": "2026-08-27",
+   "subs": "0",
+   "videos": "2"
+  },
+  {
+   "title": "MadKweb",
+   "id": "UCvLn6awwbYAOAlPA7NnieFA",
+   "created": "2022-04-30",
+   "subs": "4490",
+   "videos": "868"
+  },
+  {
+   "title": "Leide & Elias",
+   "id": "UCz5TKeihsRkBrw8VHkkJhVQ",
+   "created": "2021-01-12",
+   "subs": "1480",
+   "videos": "285"
+  },
+  {
+   "title": "Parrot Jokes",
+   "id": "UC3tC9b1GSzfc13qC5xk6L4w",
+   "created": "2025-11-19",
+   "subs": "92",
+   "videos": "7"
+  },
+  {
+   "title": "Echoes Of Faith",
+   "id": "UCmGRNEhfJiKUQmmSbu8MomA",
+   "created": "2014-11-04",
+   "subs": "109",
+   "videos": "136"
+  },
+  {
+   "title": "Global Weird Animals",
+   "id": "UCPZZWC22dV4s1irw3MIOm6g",
+   "created": "2025-08-25",
+   "subs": "83000",
+   "videos": "1407"
+  },
+  {
+   "title": "ACT — Advanced Clinical Transformation",
+   "id": "UCTJz-Nn57UQpVJwwaHH9NIA",
+   "created": "2024-12-23",
+   "subs": "14700",
+   "videos": "1630"
+  },
+  {
+   "title": "Ai World",
+   "id": "UCNUWZVHUlWrrfsviy3ufy-Q",
+   "created": "2025-10-17",
+   "subs": "610",
    "videos": "141"
   },
   {
-   "title": "Swift Mechanic DIY",
-   "id": "UC6WePDo7OUfvgzFdBrXj5RA",
-   "created": "2026-05-24",
-   "subs": "1920",
-   "videos": "214"
+   "title": "Pip & Rue",
+   "id": "UCoQ4CQdMQbcFaQIxGlDsNIw",
+   "created": "2023-09-12",
+   "subs": "1150",
+   "videos": "117"
   },
   {
-   "title": "Success Master",
-   "id": "UCCBtIk-vCx7ERtGL0rR4znQ",
-   "created": "2022-07-21",
-   "subs": "947",
-   "videos": "225"
+   "title": "Amba",
+   "id": "UCrksH62uSXQM-TkF9sochSg",
+   "created": "2022-02-27",
+   "subs": "169000",
+   "videos": "1079"
+  },
+  {
+   "title": "Good.DogGuide",
+   "id": "UCEnNMTIJBECWQxl4B4z_00Q",
+   "created": "2025-11-20",
+   "subs": "302",
+   "videos": "219"
+  },
+  {
+   "title": "Circus OMG",
+   "id": "UCGqe4sOK6zN4MAvj8-tyXkA",
+   "created": "2021-10-28",
+   "subs": "93",
+   "videos": "79"
+  },
+  {
+   "title": "Ali_creations",
+   "id": "UCmsHlYfvJ5KcFJ_2sDVtzuA",
+   "created": "2026-08-23",
+   "subs": "57",
+   "videos": "54"
+  },
+  {
+   "title": "The Dialogue Doctor",
+   "id": "UCj2zEsB5pvJgcKjtPQijheQ",
+   "created": "2020-07-17",
+   "subs": "861",
+   "videos": "1739"
+  },
+  {
+   "title": "Phoenix The Golden Boy",
+   "id": "UC012UIkwTAJRUAOWlr1Kkgw",
+   "created": "2024-05-15",
+   "subs": "11400",
+   "videos": "470"
+  },
+  {
+   "title": "Learn Skills With SN",
+   "id": "UCbU9ZpdgENFOo1zYB_ZtefA",
+   "created": "2023-10-23",
+   "subs": "5580",
+   "videos": "659"
+  },
+  {
+   "title": "Kids Story Time ",
+   "id": "UCul9PUGplmkAE5ldAjOaT-g",
+   "created": "2026-03-26",
+   "subs": "17",
+   "videos": "30"
+  },
+  {
+   "title": "Real Story 1313",
+   "id": "UCgjs0EV2uOY7cRp-kFws8KQ",
+   "created": "2020-05-03",
+   "subs": "382",
+   "videos": "136"
+  },
+  {
+   "title": "FEATHER LAUGHTHS",
+   "id": "UC-fcuzSgyYqkGhAznThJoJA",
+   "created": "2025-04-12",
+   "subs": "169",
+   "videos": "42"
+  },
+  {
+   "title": "BMR Creations",
+   "id": "UC66Z0IUcb8Y1B2AX9HREPTw",
+   "created": "2025-09-03",
+   "subs": "687",
+   "videos": "340"
+  },
+  {
+   "title": "Indian comedy youtube channel ",
+   "id": "UCpbsrB2a9ChnSAvO0gDE2MQ",
+   "created": "2026-10-15",
+   "subs": "27",
+   "videos": "44"
+  },
+  {
+   "title": "Farawla",
+   "id": "UCiyu8ZR-TEYbc-rv1W8J1wA",
+   "created": "2025-07-27",
+   "subs": "4510",
+   "videos": "577"
+  },
+  {
+   "title": "Reverse Word AI",
+   "id": "UCIzU9lBnp3WPSZr3SFyTwVA",
+   "created": "2017-12-13",
+   "subs": "3",
+   "videos": "7"
+  },
+  {
+   "title": "Afghan channel",
+   "id": "UCYAeEARUXyRD_qJz1853f8Q",
+   "created": "2022-11-30",
+   "subs": "784",
+   "videos": "1019"
+  },
+  {
+   "title": "HappyPupHacks",
+   "id": "UCNRWibXlYK455RhHGtRIlnA",
+   "created": "2026-01-17",
+   "subs": "357",
+   "videos": "173"
+  },
+  {
+   "title": "Animex",
+   "id": "UCVauXui7qAv29s-YRMklm_A",
+   "created": "2025-12-04",
+   "subs": "392",
+   "videos": "161"
   }
  ],
  "search_hits": [
   {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "cDHawpgov9E",
-   "ch": "Canal do Cabeçoteiro",
-   "cid": "UCC39wTy8q-ADpFdZjo3IV3A",
-   "date": "2025-09-24",
-   "title": "Rosca espanada na vela",
-   "views": 5992725,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "9YUR8W_-sMI",
-   "ch": "Mundo da Curiosidade ",
-   "cid": "UCSRBHf6-EDcXK9K63YmkUGA",
-   "date": "2026-02-24",
-   "title": "Como recuperar rosca espanada do motor sem trocar a peça.",
-   "views": 4471020,
-   "desc": "Créditos: @umamfaqihul\nComo recuperar rosca espanada do motor sem trocar a peça. #mecanica #manutenção #dicademecanico #reparoautomotivo"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "JTegfVS4WDw",
-   "ch": "Vibran Tutoriais",
-   "cid": "UCAW7MLAGccG6Yz1toOLXyIA",
-   "date": "2024-02-25",
-   "title": "Trocando bucha do Registro do chuveiro fácil e correto. #ban",
-   "views": 1529858,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "Z13YEPngrsI",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-05-21",
-   "title": "Veja Como Restaurar Rosca Espanada O passo A passo. #usinage",
-   "views": 431401,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "4182bdup6tU",
-   "ch": "Aprendendo Fatos",
-   "cid": "UCELLXcSJSnmu525tWmqhyPQ",
-   "date": "2025-08-15",
-   "title": "Se o problema é ROSCA ESPANADA aqui está a SOLUÇÃO 👏👏",
-   "views": 488694,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "UHUkwNhjoM4",
-   "ch": "bruno cb",
-   "cid": "UCadXj6yNFlbJ0V-Kd0EoatQ",
-   "date": "2024-02-17",
-   "title": "Rosca espanada ❌ #short #youtubeshorts #moto #mecanica #moto",
-   "views": 219530,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "pH-6EUPtfk8",
-   "ch": "Ideia que Funciona",
-   "cid": "UCq-OCkK9DTOhtLs4owZd5XQ",
-   "date": "2025-03-31",
-   "title": "Como consertar sua torneira pingando #dicas #torneira #reels",
-   "views": 349701,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "mWBkCl2enpI",
-   "ch": "Matheus Rezende Usinagem",
-   "cid": "UCwvNYGzmxBkHA4EBOUxjJeg",
-   "date": "2023-05-04",
-   "title": "Como Recuperar Rosca: Aprenda Passo a Passo!",
-   "views": 138179,
-   "desc": "Neste vídeo, você aprenderá passo a passo como recuperar rosca. Quando chegou uma peça com a rosca toda danificada, tive que repassar para uma rosca menor recuperando as 2 roscas da peça. Aprenda como fazer isso de forma simples e eficaz. Aprenda como recuperar rosca e faça você mesmo!!\n\nClique no l"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "ZAzLAuT0I-Q",
-   "ch": "Neco Serviços automotivos",
-   "cid": "UCs8ntd1KW59Q5RztKgS9-XQ",
-   "date": "2023-07-01",
-   "title": "Recuperação de rosca espanada.",
-   "views": 199326,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "it4Q9MUMoBM",
-   "ch": "Criando em 3 minutos",
-   "cid": "UCRTusoA-0dhJdpWFdHt7wkg",
-   "date": "2024-12-19",
-   "title": "O segredo para usar veda-rosca ! 😉 #VedaRosca #Segredo #Dica",
-   "views": 182418,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "eKZBOc8Lk5k",
-   "ch": "Gleidson Motos ",
-   "cid": "UCsOCtUWqTYzuiswS3ONHQYw",
-   "date": "2023-10-08",
-   "title": "rosca do bujão do óleo recuperada",
-   "views": 240873,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "tprSz-o1MIE",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-28",
-   "title": "Olha como fiz essa rosca muito rápido. #usinagem #metalúrgic",
-   "views": 113337,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "-WTX3BTB69E",
-   "ch": "Gambiarras e Soluções ",
-   "cid": "UCiNxFnhgRLtJ6-slwWVDJqQ",
-   "date": "2024-09-08",
-   "title": "Vazamento de torneira !!! Resolva sem veda rosca #encanador ",
-   "views": 143614,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "2yI6Qw6zTEI",
-   "ch": "Casal Gambiarra11",
-   "cid": "UCKxX3kdF7uEyjIUBhxSajYg",
-   "date": "2023-12-14",
-   "title": "Aprenda a maneira correta de passar veda rosca #dicas #torne",
-   "views": 165577,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "NFj9pfzG3cI",
-   "ch": "Top10 curso",
-   "cid": "UCu0KdF_BnXCnvJlv7-cYEfA",
-   "date": "2023-08-16",
-   "title": "Como eliminar pinga pinga da torneira pingando vazando conse",
-   "views": 136456,
-   "desc": "Vedante De Torneira Reparo Registro Carrapeta\nInscreva-se no CANAL Deixe seu LIKE Compartilhe o VÍDEO Obrigado por ASSISTIR \nhttps://www.youtube.com/c/ESCOTECV%C3%8DDEOAULA\nGrupo do facebook: \nhttps://www.facebook.com/groups/2750280925237313\nInstagram:\n@eugenio_escotec\n\nO nosso objetivo e que você a"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "4i5zJbZabRg",
-   "ch": " Ponto Duas Rodas ",
-   "cid": "UC14yZTBHnL5ORDwqCMb2hwg",
-   "date": "2023-08-06",
-   "title": "Rosca espanada no motor da Moto",
-   "views": 107106,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "YhZb_zWXX6U",
-   "ch": "SRN Retífica ",
-   "cid": "UC9NOhwRCYcF9QQldnG4BsIw",
-   "date": "2023-09-21",
-   "title": "Colocando Bucha na Rosca do Bujão Carter do Motor",
-   "views": 106144,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "6pMM7l9xAX0",
-   "ch": "Gambiarras e Soluções ",
-   "cid": "UCiNxFnhgRLtJ6-slwWVDJqQ",
-   "date": "2024-11-21",
-   "title": "Como consertar torneira quebrada sem quebrar parede #encanad",
-   "views": 81068,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "Ouiyzj7Y5_c",
-   "ch": "Criative Ideias",
-   "cid": "UCQPaK9rLuiTKc_68L1IpHLA",
-   "date": "2025-04-09",
-   "title": "Quebrou a torneira, um jeito fácil de resolver essa situação",
-   "views": 108585,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "iXC9Oz9cPAc",
-   "ch": "Cunha & Filho manutenções",
-   "cid": "UCUpPxB3QO1m9kau-CrKM_sg",
-   "date": "2025-08-04",
-   "title": "Vazamento no joelho da torneira da cozinha e olha no que deu",
-   "views": 89350,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "VaSkbu0HQeQ",
-   "ch": "MANIFACO",
-   "cid": "UCdbUdwrSzWbofkJKEu7TiEA",
-   "date": "2024-11-21",
-   "title": "Como consertar torneira vazando em 1 minuto!",
-   "views": 54620,
-   "desc": "Redes sociais oficiais:\n- Instagram: https://www.instagram.com/manifaco/?hl=pt-br\n- Facebook: https://www.facebook.com/manifaco\n- Tiktok: https://www.tiktok.com/@manifaco\n- Manifaco Testou: https://www.youtube.com/c/MANIFACO20\n- Kwai: https://www.kwai.com/@cutelariamanif\n\n- Seja um apoiador: https:/"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "yBrl0oV9uqY",
-   "ch": "Dicas de Casa",
-   "cid": "UCPiFpCiUL2y9-sWWfI-mvqg",
-   "date": "2025-07-05",
-   "title": "Dona de depósito ensina encanador consertar torneira vazando",
-   "views": 87139,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "Sulv23Mx6jw",
-   "ch": "Sanderson Feliciano",
-   "cid": "UC4m1nzP7eKw4sFSXhnJtpKQ",
-   "date": "2023-03-21",
-   "title": "Rosca do cano funda , como consertar by Sanderson",
-   "views": 42994,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "GxSPYb_INw8",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-18",
-   "title": "Forma certa de embuchamento de rosca. #usinagem #metalúrgica",
-   "views": 31323,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "MfnZ2-nrPJ8",
-   "ch": "TO Motos",
-   "cid": "UCVIZGRRU8HmUaP2Vj3pqxWA",
-   "date": "2025-04-21",
-   "title": "Como Recuperar a Rosca do ViraBrequim de Forma Profissional",
-   "views": 53395,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "jOvaIkpqipA",
-   "ch": "Encanamentos na Prática",
-   "cid": "UCdLgsftq4RGvwF2fL8PYXTA",
-   "date": "2025-01-11",
-   "title": "Torneira Espanada?Veja Como Resolver Rápido! #dica #ReparosD",
-   "views": 33252,
-   "desc": "Está lidando com uma torneira espanada? Não se preocupe! Neste vídeo rápido, mostramos uma solução prática e eficiente para resolver esse problema em minutos. Ideal para quem busca um reparo fácil e sem complicações. Assista agora e dê adeus à torneira solta!"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "VTzs67g_hE8",
-   "ch": "Moabe Torneiro (MSM)",
-   "cid": "UChGMPvNf7uQwU8ejmYJOThg",
-   "date": "2023-07-02",
-   "title": "Embuchamento da rosca do bloco do Corsa gm #bike #meme #car ",
-   "views": 32284,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "c3bLNV6aBuY",
-   "ch": "Pox Serralheria Tutoriais",
-   "cid": "UCqXbjA9arOBXgoucrvG9fCQ",
-   "date": "2024-01-23",
-   "title": "Como recuperar bujão de moto com rosca espanada",
-   "views": 23071,
-   "desc": "* Para acessar o(s) link(s) do(s) produto(s) mencionado(s) no vídeo \nclique em: 🔎 https://linktr.ee/Produtos_mencionados ou no final da descrição.\n\nNossos Parceiros:\n.............................................................\n🔎 Boxer Soldas\n✔ https://utapy.link/boxersoldas\n........................"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "2u3K3L5Grp4",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-20",
-   "title": "VEJA COMO FIZ PARA RECUPERAR UMA ROSCA NO TRATOR. #solda #us",
-   "views": 15930,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "GFcgghh3yAU",
-   "ch": "Canal do Azeitona (Dicas e Experiências)",
-   "cid": "UCEiTSzzEqehfw8tbAlaf1lQ",
-   "date": "2025-08-26",
-   "title": "Torneira do chuveiro espanou, o que fazer? #chuveiro #banhei",
-   "views": 24059,
-   "desc": "Torneira do chuveiro espanada.\nChuveiro não abre.\nTorneira do chuveiro não gira .\nTorneira do banheiro não abre."
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "9gg9bnE26AI",
-   "ch": "Carriel Produções",
-   "cid": "UC-ip5HKslGEJPa1U3U6NbQQ",
-   "date": "2023-12-18",
-   "title": "Dica Rápida para consertar uma Torneira Espanada #shorts",
-   "views": 19962,
-   "desc": "Assista ao vídeo e deixe o seu comentário, o seu like e compartilhe essa dica para todos os seus amigos e familiares. E não se esqueça de se inscrever em nosso canal para receber mais dicas e vídeos diversos. Obrigado por assistir e até a próxima!\nDeus te abençoe!\n.\n.\n.\n.\n#carrielproduções #torneira"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "DGEIO3YoWiE",
-   "ch": "Moabe Torneiro (MSM)",
-   "cid": "UChGMPvNf7uQwU8ejmYJOThg",
-   "date": "2024-06-07",
-   "title": "Rosca do pedivela Shimano recuperada, lado esquerdo #jesus #",
-   "views": 11154,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "OJErxwSS-rE",
-   "ch": "Júnior ferreira ",
-   "cid": "UCncO3HtRRvsHvpV3Eeen56g",
-   "date": "2025-09-06",
-   "title": "Como recuperar rosca espanada #dica #mecanico #carro",
-   "views": 13481,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "yJArbslrI8A",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-04",
-   "title": "FORMA CERTA DE FAZER EMBUCHAMENTO DE ROSCA. #solda #usinagem",
-   "views": 7195,
-   "desc": "Ganhe uma renda extra de sua PRÓPRIA CASA  DOLAR. \nComesse hoje mesmo e melhore a vida de sua FAMILIA. \nVer no link abaixo.\n.\nhttps://app.monetizze.com.br/r/AKH21963849/?u=GF55972\n\nRESTAURANDO UM  SEMI EIXO. #solda #usinagem #metalúrgica #torneiro #torno #tornomecanico #mecanica \n\nPessoal esse canal"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "U8vF8umJ4Ts",
-   "ch": "Scila Alex Dicas",
-   "cid": "UCwbm-xSlSmzpHOSRKa1drUw",
-   "date": "2025-10-13",
-   "title": "TORNEIRA ESPANADA, VAZANDO? #torneira #torneiravazando #troc",
-   "views": 8810,
-   "desc": "a minha torneira quebrou e eu precisei trocar o reparo, veja como está é fácil. Caso sua torneira esteja pingando trocar o reparo ou a borrachinha poderá ajudar"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "1ByQ9D43UPQ",
-   "ch": "Escola de Nerd",
-   "cid": "UC39TPbWI3g__bXUg--gX1qA",
-   "date": "2023-03-13",
-   "title": "ROSCA DA BENGALA ESPANADA TORNADO250/TWISTER250 #twister250 ",
-   "views": 7167,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "uFQDeMfEQDE",
-   "ch": "Europa Ferramentas",
-   "cid": "UCl7GXEAAg4ETi2aPIDoBHng",
-   "date": "2025-05-08",
-   "title": "NOVO!! Kit Reparo de roscas da Vela - Conserte Rosca Espanad",
-   "views": 9371,
-   "desc": "Este é um kit de roscas postiças com macho de rosqueamento, indicado para recuperar as roscas da velas, que espanam ao longo do tempo e conforme o mecânico remove e instala novamente é comum que as roscas apresentem problema. Utilizando este kit você consegue recuperar as roscas sem a necessidade de"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "gLY8xkdSwL8",
-   "ch": "Astemac Usinagem - José Antônio ",
-   "cid": "UC9NGWDkqXfhRixj0ngpa6lA",
-   "date": "2025-09-08",
-   "title": "Recuperar rosca M14 X 1,5 , caixa de direção . #torneiromeca",
-   "views": 2681,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "jnJEA1DP65M",
-   "ch": "Emerson torneiro ",
-   "cid": "UCVSFA1z4w1Mlhp8_N5RBYFQ",
-   "date": "2026-05-10",
-   "title": "Recuperando rosca espanada em molde de garrafa PET",
-   "views": 1246,
-   "desc": "Hoje vamos recuperar a rosca de um molde de garrafa PET que está espanada. Refaremos a rosca e criaremos uma nova bucha no torno.\n\nObrigado por assistir esse vídeo. Lembre de deixar o like e se inscrever no canal para continuar me acompanhando!\nQualquer dúvida, podem deixar nos comentários e eu resp"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "ytxd0vZa3tA",
-   "ch": "Canal 2 Tempos",
-   "cid": "UCGdAaWh1UbBFSoD-vztgYBA",
-   "date": "2024-12-18",
-   "title": "Como recuperar rosca espanada de qualquer máquina, moto ou c",
-   "views": 809,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "3qPXszCdUUI",
-   "ch": "GMF",
-   "cid": "UC7oz7SHjyySTjerDR6HebUg",
-   "date": "2024-09-22",
-   "title": "Thread Repair like Pro $180",
-   "views": 4702772,
-   "desc": "How to repair stripped threads\nThread repair techniques\nHeli-coil installation tutorial\nThread repair with tap and dye\nUsing thread inserts for repairs\nLoctite thread repair guide\nHow to use a thread repair kit\nRe-tapping threaded holes\nMetal thread repair solutions\nDIY thread repair methods"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "XWN-B17Qbzo",
-   "ch": "opelservice kyiv",
-   "cid": "UCJgRRMcnoGLLZnh8oXY2Ijg",
-   "date": "2023-03-21",
-   "title": "Repair of a stripped thread on an aluminum cylinder block #s",
-   "views": 2234747,
-   "desc": "Repair of a stripped thread on an aluminum cylinder block block\n\n#shorts #tools #carrepair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "j0HHj0xgQtg",
-   "ch": "Dave's Auto Center",
-   "cid": "UCRMiFgN0EEIPrhJP58kRMyw",
-   "date": "2023-12-11",
-   "title": "The best way to repair damaged threads - why we use Time Ser",
-   "views": 2426604,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "1F5QtbgN9JI",
-   "ch": "Classic Cars Mechanic",
-   "cid": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "date": "2023-07-16",
-   "title": "how to repair stripped threads? #classic #old #vintage #best",
-   "views": 323085,
-   "desc": "Dear friends, a simple and very useful method to solve the problem of failure of cylinder block threads and other parts. \n\n#amazing #american #art #attitude #auto #automobile #block #benz #benefits #car #cylinder #cadillac #chevrolet #chrysler #chevy #camaro #cool #diy #diesel #dodge #dailyvlog #eng"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "AphgNqK8LCI",
-   "ch": "Daily hacks 360",
-   "cid": "UChbowfozU--Fipm2RywoT5A",
-   "date": "2026-01-03",
-   "title": "ইঞ্জিনের নষ্ট হয়ে যাওয়া প্যাঁচ মেরামতের নিখুঁত পদ্ধতি | Engi",
-   "views": 161144,
-   "desc": "This video demonstrates the incredible engineering process of repairing damaged or stripped threads inside an engine block. The journey begins by filling the damaged hole with molten metal to create a solid foundation. Once hardened, a precise drilling technique is used to carve out brand-new thread"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "g4jqQKi5lXs",
-   "ch": "Maker Garage 101",
-   "cid": "UCgwysjiRiGjaueWY5GJABcQ",
-   "date": "2025-08-22",
-   "title": "SHOP PROVEN | DIY Fix Threads in Seconds with a Helicoil",
-   "views": 173276,
-   "desc": "Stripped bolt hole? No problem. DIY Fix Threads in Seconds with a Helicoil\nIn this quick #MG101Fasteners short, Sparky shows you how to rescue damaged internal threads using a helicoil insert — drill, tap, install, snap the tang, done! Perfect for aluminum, castings, and other soft metals that need "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "cTsFc-vMSBQ",
-   "ch": "Classic Cars Mechanic",
-   "cid": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "date": "2023-06-13",
-   "title": "How to repair stripped aluminum threads ? #howto #shorts #am",
-   "views": 71419,
-   "desc": "In this video, I repair the\nStripped threads of the\naluminum part of the\nRochester carburetor, which\nis used in most of the eight-\ncylinder engines of General\nMotors, with the lowest cost\nand the need for special\ntools.\n\n#vintage #classic #old #type #engine #transmission #body #all #part #car #cars "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "iUXEC8erWBM",
-   "ch": "Yudi Cekodt Short",
-   "cid": "UC9OEGeFON0MN4d3-wZ23ADw",
-   "date": "2026-10-15",
-   "title": "Repair a Completely Stripped Bolt Hole #MechanicTips #Thread",
-   "views": 85915,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "uaZ5eYunIhc",
-   "ch": "TechLuck",
-   "cid": "UCB_FBd6m15njo6X0q5fPfiA",
-   "date": "2026-07-02",
-   "title": "How to Repair Stripped Threads Perfectly Using Solid Thread ",
-   "views": 58938,
-   "desc": "🎥 *Title:*\nHow to Repair Stripped Threads Perfectly Using Solid Thread Inserts\n\n🛠️ *Tools Name:*\n - Power Drill\n - Twist Drill Bit (for enlarging the hole)\n - Thread Tap & Tap Handle/Adapter (for cutting new external threads)\n - Thread Insert Installation Tool\n - Angle Grinder (with sanding/grinding"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "cPU1GQUUX2w",
-   "ch": "HGTV [생활의 발견]",
-   "cid": "UCq88DcgGj7J9JmEF1H1bEtQ",
-   "date": "2026-11-09",
-   "title": "나사구멍 복구기술 #기계정비 #금속가공 #정비꿀팁",
-   "views": 53774,
-   "desc": "🔧 망가진 나사 구멍을 새것처럼 완벽하게 살려내는 미친 정비 기술!\n나사산이 뭉개져서 버려야 하는 기계 부품에 액체 금속을 채운 뒤, \n드릴과 탭으로 완벽하게 재생해 내는 속이 뻥 뚫리는 금속 가공 과정입니다.\n영상이 유익하고 신기하셨다면 구독과 좋아요 부탁드립니다!\n\n\n#기계정비 #나사산복구 #금속가공 #엔진수리 #정비꿀팁 #공구활용 #기술자 #수공예 #신기한공정 #DIY정비"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "39CJVyFH9uI",
-   "ch": "AutoDIY Express",
-   "cid": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "date": "2026-10-14",
-   "title": "Genius Thread Repair Insert Hack for Stripped Bolts! 🚗⚙️",
-   "views": 37545,
-   "desc": "Genius Thread Repair Insert Hack for Stripped Bolts! 🚗⚙️\n\nStruggling with a stripped, oversized, or damaged threaded hole in a heavy engine component like a flywheel, cylinder head, or engine block? Watch this genius brass thread insert repair hack to restore factory holding power in seconds!\nOver-t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "TVYzA4TyME8",
-   "ch": "Wonder Wise",
-   "cid": "UCqdoRgVMMQyBh_ETyyUCXEQ",
-   "date": "2026-08-06",
-   "title": "Precision Restoration of Worn Bolt Holes with Molten Metal #",
-   "views": 35888,
-   "desc": "1. Work Overview\nThe video demonstrates a specialized industrial maintenance procedure used to repair and restore heavily worn or stripped threaded bolt holes in heavy machinery components using a molten metal pour followed by precision drilling and tapping.\n\n2. Materials and Equipment Used\n- High-t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "nHuYWVx1aWA",
-   "ch": "That SUBARU Guy",
-   "cid": "UCWS1R4G_cAjA7MV_sDcl_ag",
-   "date": "2023-02-18",
-   "title": "Stripped plastic tread repair",
-   "views": 21432,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "injIx2v0brs",
-   "ch": "HEAVY KINETICS",
-   "cid": "UCkHxvZYFEowBuxpOLSqZYlw",
-   "date": "2026-08-15",
-   "title": "Most Satisfying Metal Thread Repair Ever! 2 🔩✨ #shorts",
-   "views": 30149,
-   "desc": "Don't throw away metal parts with stripped threads! Pouring molten metal, flush sanding, and retapping creates a brand new thread. Would you trust this repair? Let us know in the comments! 👇\n\n#shorts #metalworking #machining #diy #restoration #satisfying #lifehacks #tools #repair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "kcL8mff5oE0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-15",
-   "title": "How to Repair Damaged Thread Holes#shorts #mechanic #satisfy",
-   "views": 30316,
-   "desc": "How to Repair Damaged Thread Holes\n\nFirst, pour molten metal into the damaged threaded hole and let it solidify completely. Once hardened, drill precisely through the center of the metal fill. Finally, re-tap the hole to create new threads so the bolt fits securely again.#shorts #satisfying #repairs"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "e8Kib7Jfg-k",
-   "ch": "HEAVY KINETICS",
-   "cid": "UCkHxvZYFEowBuxpOLSqZYlw",
+   "q": "dog offended reaction owner",
+   "vid": "jxaNMfmzl50",
+   "ch": "JUSTDOGS",
+   "cid": "UCoFePc92G0XHStbfjnc7nYg",
    "date": "2026-08-12",
-   "title": "Most Satisfying Metal Thread Repair Ever! 🔩✨ #shorts",
-   "views": 28642,
-   "desc": "Don't throw away metal parts with stripped threads! Pouring molten metal, flush sanding, and retapping creates a brand new thread. Would you trust this repair? Let us know in the comments! 👇\n\n#shorts #metalworking #machining #diy #restoration #satisfying #lifehacks #tools #repair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "BgrY-Wop2VU",
-   "ch": "DIY Auto Doctor",
-   "cid": "UCR5vBugFsOmye9NyCagTvpw",
-   "date": "2026-06-06",
-   "title": "How To Easily Fix Stripped Threads With Metal",
-   "views": 40529,
-   "desc": "Don't throw away that stripped part just yet! Watch this satisfying and genius way to repair damaged bolt threads using molten metal. We filled the hole, leveled it flat, and re-drilled it back to perfection. Perfect DIY hack for machinists and automotive enthusiasts! What do you think of this techn"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "OeVEyHbjRiY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-25",
-   "title": "How to Repair Damaged Screw Thread Hole#shorts #satisfying #",
-   "views": 26674,
-   "desc": "How to Repair Damaged Screw Thread Hole\n\nThe process begins by pouring molten metal to fill the damaged hole. Once solidified, grind the surface smooth and flat. Next, drill a new hole precisely in the center. Finally, use a thread tap tool to create fresh internal threads, making it usable again.#s"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "iQEjB1bOdDs",
-   "ch": "Vinicinn_torneiro",
-   "cid": "UC4O_F_Xt1Z2ZKV3v9icmhCA",
-   "date": "2026-09-10",
-   "title": "Thread restored with melted tin! 🔥#Machining #Lathe #Metalwo",
-   "views": 25256,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "_PD8uN-fB1A",
-   "ch": "獵影山谷",
-   "cid": "UCuOm-OqqgI6QAmTnn7Ehc8w",
-   "date": "2026-09-08",
-   "title": "絕了！金屬液直接灌絲錐，硬核修復報廢螺紋孔 #金属液，攻丝，修孔，硬核工艺，手工",
-   "views": 23413,
-   "desc": "絕了！金屬液直接灌絲錐，硬核修復報廢螺紋孔\r\n液态攻丝 金属液直接灌丝锥，硬核攻丝过程\r\nPouring liquid metal into a tap to fix threads. Insane craftsmanship\r\n\r\n\r\n\r\n\r\n金属液，攻丝，修孔，硬核工艺，手工\r\nliquid metal, tapping, thread repair, welding, diy, craftsmanship\r\n野人,猎人,山谷,警察,冒险,生存,荒野求生,动作,惊悚,绑架,反击,复仇,搏斗,追捕,陷阱,救援,冲突,人与自然,野外生存,原始部落,逃亡,埋伏,遭遇战,警匪,对峙,困境,反转,悬"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "zCjUYelyzB0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-08",
-   "title": "How to Repair Damaged Screw Threads Properly#shorts #satisfy",
-   "views": 14311,
-   "desc": "How to Repair Damaged Screw Threads Properly\n\nhow to repair a damaged threaded hole using molten metal. First, pour liquid metal into the stripped hole and let it cool down. Next, hammer the surface flat and grind it smooth. Drill a new center hole, sand it, and use a tap tool to create precise thre"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "6EUp41Liv18",
-   "ch": "POV Man",
-   "cid": "UCWciG0daLD0mMhgMO7s3i_A",
-   "date": "2026-09-25",
-   "title": "Smart Mechanical Fix: Pouring Molten Metal &amp; Drilling Ne",
-   "views": 15732,
-   "desc": "Title\nSmart Mechanical Fix: Pouring Molten Metal & Drilling New Threads 🛠️🔥\n\nDescription:\n​Watch this satisfying restoration and repair process! Molten metal is poured into a damaged hole, drilled out with precision, and custom-threaded to secure a new bolt perfectly. A brilliant technique for metal"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "pFu1ZxaeTm4",
-   "ch": "Clank Theory",
-   "cid": "UCml9SY7-OPZcFw6tO1X3eLw",
-   "date": "2026-10-25",
-   "title": "Fixing a stripped bolt hole with molten metal 😱 #satisfying ",
-   "views": 10112,
-   "desc": "A stripped bolt hole is filled with molten metal. Once it hardens, it is drilled out, a new thread is cut, and a bolt screws in like new.\n\n## 1. Overview\nA damaged threaded hole in a metal part is repaired by filling it, drilling it out again and cutting a fresh thread.\n\n## 2. Materials & Equipment\n"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "YGdwe5FoBcY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-10",
-   "title": "How to Repair Damaged Thread Holes with Liquid Metal#shorts ",
-   "views": 8168,
-   "desc": "How to Repair Damaged Thread Holes with Liquid Metal\n\nPour molten metal into the damaged hole, then flatten the surface with a hammer after cooling. Next, drill a new pilot hole, tap accurate threads into the solidified metal, and thread in a new bolt until securely fitted, restored, and completely "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "X7p-7My8Oks",
-   "ch": "Swift Mechanic DIY",
-   "cid": "UC6WePDo7OUfvgzFdBrXj5RA",
-   "date": "2026-09-09",
-   "title": "Easy DIY Repair for Stripped Mirror Mount Threads 🔧",
-   "views": 7677,
-   "desc": "Learn how to repair a stripped motorcycle mirror mount thread quickly and easily! This step-by-step DIY guide shows you how to fix damaged threads so your mirror stays securely mounted.\n\n​Steps Included:\n\n​Pouring molten metal/filler into the damaged mount.\n​Drilling a clean pilot hole.\n​Smoothing t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "B4NPCLwacws",
-   "ch": "AMAZING WORK TOOLS",
-   "cid": "UCGCj3cdnIlZPpr1SycmuBSw",
-   "date": "2026-09-02",
-   "title": "Watch how this clever trick fixes stripped screw threads in ",
-   "views": 6539,
-   "desc": "This video showcases an ingenious metal-repair technique used when a threaded hole in a heavy casting becomes stripped or damaged. Instead of completely welding or throwing away the expensive part, the mechanic fills the stripped hole with molten metal. Once the poured metal cools and solidifies, a "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "4-QNFIJfELI",
-   "ch": "Garage15",
-   "cid": "UCvX23gr4XXKiOrjAlhNkneg",
-   "date": "2026-10-11",
-   "title": "How to Fix a Stripped Thread Like a Pro!  #automobile #autom",
-   "views": 4109,
-   "desc": "​Watch this brilliant engineering and metalworking restoration technique! In this video, liquid metal is poured into a stripped and damaged threaded hole. Once cooled and solidified, the area is hammered, ground flat, precisely center-punched, drilled, and re-tapped to create brand new, heavy-duty t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "oZZCt-ARfn4",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-05-26",
-   "title": "Smart Solution Repairing Damaged Bolt Holes with Molten Meta",
-   "views": 2898,
-   "desc": "Deskripsi: Got a stripped or damaged bolt hole? Don't scrap it yet! This quick tutorial demonstrates a precise machining technique to restore a bolt hole. Watch the step-by-step process from pouring molten metal, grinding it flush, re-drilling, to tapping new threads. The result is strong, clean, an"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "K2UpsyjJj0g",
-   "ch": "Imperial Sky",
-   "cid": "UC1gGi2YnL7_QWhEtxez2M7Q",
-   "date": "2026-08-30",
-   "title": "How Heated Copper Wire Coils Repair Stripped Screw Holes in ",
-   "views": 3315,
-   "desc": "How do you repair a stripped screw hole in plastic housing when the threads are completely worn out and won't bite? 🔩🔥\n​In this video, discover the simple thermal repair hack behind custom copper wire thread inserts! Watch how wrapping bare copper wire around a screw creates a coiled spring shape. B"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "61tb8lwIwVM",
-   "ch": "The Tech Solution ",
-   "cid": "UCz4v6SS6BcQFThhg4uPw8ng",
-   "date": "2026-10-30",
-   "title": "How to Repair Damaged Screw Holes With Molten Metal | Worksh",
-   "views": 1954,
-   "desc": "Discover an incredible workshop trick for restoring damaged, stripped screw holes using molten metal! In this quick demonstration, watch how liquid metal is cast directly into the worn hole, cooled, hammered, and precision-ground smooth. From there, a pilot hole is drilled and retapped to create bra"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "2eB5cJaQ1N0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-09",
-   "title": "How to Repair Stripped Threaded Holes#shorts #repairs #mecha",
-   "views": 1927,
-   "desc": "How to Repair Stripped Threaded Holes\n\nFirst, insert a bolt into the worn-out hole to test the fit. Next, pour molten metal into the hole until it overflows. Hammer and grind the surface smooth, center-punch the middle, drill a fresh pilot hole, and tap new threads to securely refit the bolt.#shorts"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "hlC9N3IBtmw",
-   "ch": "HEAVY KINETICS",
-   "cid": "UCkHxvZYFEowBuxpOLSqZYlw",
-   "date": "2026-08-16",
-   "title": "Most Satisfying Metal Thread Repair Ever! 3 🔩✨ #shorts",
-   "views": 855,
-   "desc": "Don't throw away metal parts with stripped threads! Pouring molten metal, flush sanding, and retapping creates a brand new thread. Would you trust this repair? Let us know in the comments! 👇\n\n#shorts #metalworking #machining #diy #restoration #satisfying #lifehacks #tools #repair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "v2rfWIgmxco",
-   "ch": "天气微凉淡淡月光",
-   "cid": "UCPP2wdaQxDGGC73YUGd6ibA",
-   "date": "2026-09-08",
-   "title": "修螺纹孔全过程揭秘，金属液灌注到丝锥攻丝，手艺真是绝了！#工业#手工",
-   "views": 568,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "RSEGlJQQeN4",
-   "ch": "BARA BUDAYA",
-   "cid": "UC-_HcA0kHIvUMpU3Ca61ZmA",
-   "date": "2026-10-22",
-   "title": "Stripped Thread Fix: How Thread Inserts Repair Broken Screw ",
-   "views": 464,
-   "desc": "In an era increasingly dominated by throwing away damaged parts and purchasing expensive replacement machinery, there is a mesmerizing display of mechanical ingenuity when a vibrant red liquid threadlocker and a threaded metal insert restore a completely stripped bolt hole back to factory-strength p"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "g1CzrWmLfC0",
-   "ch": "MUNNA LEATH ",
-   "cid": "UCx1bQM-zKsuElZIMEOD1DTA",
-   "date": "2026-10-01",
-   "title": "Damaged Bolt Thread Repairing With Hot Molten Metal 🛠️ | Gun",
-   "views": 48,
-   "desc": "Welcome back to the channel! In this video, we are fixing a completely stripped and damaged internal bolt thread by pouring hot molten metal into the hole to recreate a brand-new thread.\n\nIf you love mechanical engineering, metal casting, lathe work, and satisfying restoration projects, make sure to"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "eo5INL9AZxw",
-   "ch": "Fixora",
-   "cid": "UCnmsK4n___Fj9p2K4cu0Mng",
-   "date": "2026-09-28",
-   "title": "How to Repair a Damaged Threaded Hole - Genius Metal Hack 🔩🛠",
-   "views": 23,
-   "desc": "Watch this incredible metal repair hack to see how a completely damaged threaded hole is restored to perfection! In this short video, the process begins by pouring molten metal to completely fill the stripped hole. Once cooled, the excess metal is scraped off to create a perfectly smooth, flush surf"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "iUXEC8erWBM",
-   "ch": "Yudi Cekodt Short",
-   "cid": "UC9OEGeFON0MN4d3-wZ23ADw",
-   "date": "2026-10-15",
-   "title": "Repair a Completely Stripped Bolt Hole #MechanicTips #Thread",
-   "views": 85915,
-   "desc": ""
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "FWbNu59SdAs",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-08",
-   "title": "Easy Trick to Remove a Broken Bolt#shorts #repairs #satisfyi",
-   "views": 41207,
-   "desc": "Easy Trick to Remove a Broken Bolt\n\nPlace a threading die over the broken stud. Pour molten metal into the die cavity to cast a new head around the broken tip. Once solidified, attach the die stock wrench and turn counterclockwise to smoothly extract the broken bolt from the threaded hole.#shorts #s"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "TVYzA4TyME8",
-   "ch": "Wonder Wise",
-   "cid": "UCqdoRgVMMQyBh_ETyyUCXEQ",
-   "date": "2026-08-06",
-   "title": "Precision Restoration of Worn Bolt Holes with Molten Metal #",
-   "views": 35888,
-   "desc": "1. Work Overview\nThe video demonstrates a specialized industrial maintenance procedure used to repair and restore heavily worn or stripped threaded bolt holes in heavy machinery components using a molten metal pour followed by precision drilling and tapping.\n\n2. Materials and Equipment Used\n- High-t"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "8PAzpNv4wO8",
-   "ch": "GHOSTFACE WORKSHOP",
-   "cid": "UCZn_lgUk9cCB6n0uB6zlqGQ",
-   "date": "2026-05-25",
-   "title": "MOLTEN METAL BEATS A BOLT",
-   "views": 36567,
-   "desc": "He's pouring molten metal straight into a threaded engine port, then tapping the cooled plug flat as a field repair or a very aggressive way to delete a hole. Search terms and topics covered: molten metal engine repair, pouring metal into threaded port, threaded engine port plug repair, improvised m"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "OeVEyHbjRiY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-25",
-   "title": "How to Repair Damaged Screw Thread Hole#shorts #satisfying #",
-   "views": 26674,
-   "desc": "How to Repair Damaged Screw Thread Hole\n\nThe process begins by pouring molten metal to fill the damaged hole. Once solidified, grind the surface smooth and flat. Next, drill a new hole precisely in the center. Finally, use a thread tap tool to create fresh internal threads, making it usable again.#s"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "6EUp41Liv18",
-   "ch": "POV Man",
-   "cid": "UCWciG0daLD0mMhgMO7s3i_A",
-   "date": "2026-09-25",
-   "title": "Smart Mechanical Fix: Pouring Molten Metal &amp; Drilling Ne",
-   "views": 15732,
-   "desc": "Title\nSmart Mechanical Fix: Pouring Molten Metal & Drilling New Threads 🛠️🔥\n\nDescription:\n​Watch this satisfying restoration and repair process! Molten metal is poured into a damaged hole, drilled out with precision, and custom-threaded to secure a new bolt perfectly. A brilliant technique for metal"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "sUzt8957P4U",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-10-07",
-   "title": "Genius Trick to Extract a Broken Bolt with Liquid Metal#shor",
-   "views": 7802,
-   "desc": "Description:\nThis video demonstrates a creative and effective workshop hack for removing a broken bolt stuck in a threaded hole. By placing a socket wrench head over the broken stud and pouring liquid metal inside, the metal solidifies and fuses the bolt to the socket. After cooling down and applyin"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "z3bEhFhXmcU",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-07-06",
-   "title": "Genius Hack Repairing a Damaged Bolt Hole with Molten Metal#",
-   "views": 7033,
-   "desc": "Learn how to effectively repair stripped or damaged bolt holes using metal casting techniques. This step-by-step restoration is detailed and provides incredibly satisfying results. Perfect for automotive and engineering enthusiasts!\nmechanical engineering, DIY tutorial, cara membuat ulir baut, baut "
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "YGdwe5FoBcY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-10",
-   "title": "How to Repair Damaged Thread Holes with Liquid Metal#shorts ",
-   "views": 8168,
-   "desc": "How to Repair Damaged Thread Holes with Liquid Metal\n\nPour molten metal into the damaged hole, then flatten the surface with a hammer after cooling. Next, drill a new pilot hole, tap accurate threads into the solidified metal, and thread in a new bolt until securely fitted, restored, and completely "
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "oZZCt-ARfn4",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-05-26",
-   "title": "Smart Solution Repairing Damaged Bolt Holes with Molten Meta",
-   "views": 2898,
-   "desc": "Deskripsi: Got a stripped or damaged bolt hole? Don't scrap it yet! This quick tutorial demonstrates a precise machining technique to restore a bolt hole. Watch the step-by-step process from pouring molten metal, grinding it flush, re-drilling, to tapping new threads. The result is strong, clean, an"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "_7u4M8S5hHo",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-12",
-   "title": "Trick for Removing Broken Bolts Using Molten Metal#shorts #r",
-   "views": 3773,
-   "desc": "Trick for Removing Broken Bolts Using Molten Metal\n\nClean the corrosion inside the bolt hole using a wire brush. Position the socket wrench over the hole, pour in liquid metal, then apply lubricating oil. Insert the hex key into the center until the metal solidifies, then turn it to extract the brok"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "2eB5cJaQ1N0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-09",
-   "title": "How to Repair Stripped Threaded Holes#shorts #repairs #mecha",
-   "views": 1927,
-   "desc": "How to Repair Stripped Threaded Holes\n\nFirst, insert a bolt into the worn-out hole to test the fit. Next, pour molten metal into the hole until it overflows. Hammer and grind the surface smooth, center-punch the middle, drill a fresh pilot hole, and tap new threads to securely refit the bolt.#shorts"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "v2rfWIgmxco",
-   "ch": "天气微凉淡淡月光",
-   "cid": "UCPP2wdaQxDGGC73YUGd6ibA",
-   "date": "2026-09-08",
-   "title": "修螺纹孔全过程揭秘，金属液灌注到丝锥攻丝，手艺真是绝了！#工业#手工",
-   "views": 568,
-   "desc": ""
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "5TJ2rAoqAPE",
-   "ch": "LNG Films ",
-   "cid": "UCCqMBj0nfA7TKv-8gqs92gA",
-   "date": "2025-10-17",
-   "title": "I POURED LIQUID METAL Into a Broken Bolt... And it worked! (",
-   "views": 186,
-   "desc": "Have you ever snapped a bolt head off deep inside a tool or a hole? Bolt extractors, vice grips, and heat can all fail, leaving you with an impossible repair.\n\nIn this short update, we use an amazing mechanic's trick involving a low-melting-point alloy (like a bismuth or tin-based fusible alloy) to "
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "g1CzrWmLfC0",
-   "ch": "MUNNA LEATH ",
-   "cid": "UCx1bQM-zKsuElZIMEOD1DTA",
-   "date": "2026-10-01",
-   "title": "Damaged Bolt Thread Repairing With Hot Molten Metal 🛠️ | Gun",
-   "views": 48,
-   "desc": "Welcome back to the channel! In this video, we are fixing a completely stripped and damaged internal bolt thread by pouring hot molten metal into the hole to recreate a brand-new thread.\n\nIf you love mechanical engineering, metal casting, lathe work, and satisfying restoration projects, make sure to"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "i-QUvgax3jE",
-   "ch": "Doktech HD",
-   "cid": "UConp5I3L0_FrgsOF5OQ145w",
-   "date": "2023-08-08",
-   "title": "How to thread a bolt hole- Satisfying jobs and machinery in ",
-   "views": 4201411,
-   "desc": "How to thread a bolt hole- Satisfying jobs and machinery in the world\n\nDon't forget to like this video and subscribe to this channel for support us.\nhttps://www.youtube.com/@doktech  \n\nRegards\nDoktech HD 🙏🏻\n\n===================================="
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "cTsFc-vMSBQ",
-   "ch": "Classic Cars Mechanic",
-   "cid": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "date": "2023-06-13",
-   "title": "How to repair stripped aluminum threads ? #howto #shorts #am",
-   "views": 71419,
-   "desc": "In this video, I repair the\nStripped threads of the\naluminum part of the\nRochester carburetor, which\nis used in most of the eight-\ncylinder engines of General\nMotors, with the lowest cost\nand the need for special\ntools.\n\n#vintage #classic #old #type #engine #transmission #body #all #part #car #cars "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "HviHGeC8HXY",
-   "ch": "Body Equilibrium",
-   "cid": "UCcpKz8tvKwqaXJplnJ2Ts4w",
-   "date": "2024-10-18",
-   "title": "Genius Hack to Fix Stripped Screw Holes in Seconds!",
-   "views": 52185,
-   "desc": "Use this easy toothpick trick to fix stripped screws fast!"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "Its1O4BL1TA",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-05",
-   "title": "How to Repair Damaged Screw Threads Using Thread Insert#shor",
-   "views": 41783,
-   "desc": "How to Repair Damaged Screw Threads Using Thread Insert\n\nApply thread locker liquid inside the damaged bolt hole. Insert a threaded insert sleeve and press it firmly into place. Drill through the center to secure and form clean threads. Finally, grind the surface flat until perfectly smooth.#shorts "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "SvnqPN96cz8",
-   "ch": "AutoDIY Express",
-   "cid": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "date": "2026-10-16",
-   "title": "How to Drill, Tap, and Repair Engine Block Threads! 🚗⚙️",
-   "views": 39426,
-   "desc": "How to Drill, Tap, and Repair Engine Block Threads! 🚗⚙️\n\nStruggling with a completely stripped bolt hole or needing to cut new threads into an engine block or transmission housing? Watch this professional step-by-step tutorial on how to drill, tap, and install thread inserts like a master machinist!"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "qw7j30IC9NU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-10",
-   "title": "Easy Way to Fix a Stripped Bolt Thread#shorts #satisfying #m",
-   "views": 29784,
-   "desc": "Easy Way to Fix a Stripped Bolt Thread\n\nDrill out the damaged hole to clear the old threads. Next, create new threads with a tap. Then, insert the threaded insert by hand. Finally, push the insert in with a drill so that the hole once again has strong threads of the original size.#shorts #satisfying"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "isFvKdCWpAk",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-11",
-   "title": "Thread Repairing with Helicoil Insert#shorts #satisfying #re",
-   "views": 31390,
-   "desc": "Thread Repairing with Helicoil Insert\n\nFirst, drill out the damaged hole to clean the old threads. Tap new threads into the enlarged hole, then apply threadlocker fluid. Insert a metal helicoil coil to restore the original size, and press it firmly into position.#shorts #satisfying #repairs #restora"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "gJQzvbarxtI",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-05-09",
-   "title": "How to Fix a Loose Bolt Hole with an Insert#shorts #satisfyi",
-   "views": 29370,
-   "desc": "How to Fix a Loose Bolt Hole with an Insert\n\nFirst, drill out the damaged hole. Next, tap new threads into it. Apply strong red threadlocker to the threaded insert, then screw it firmly into the hole using a bolt and wrench. Finally, grind the surface flush. Your bolt hole is now completely restored"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "OeVEyHbjRiY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-25",
-   "title": "How to Repair Damaged Screw Thread Hole#shorts #satisfying #",
-   "views": 26674,
-   "desc": "How to Repair Damaged Screw Thread Hole\n\nThe process begins by pouring molten metal to fill the damaged hole. Once solidified, grind the surface smooth and flat. Next, drill a new hole precisely in the center. Finally, use a thread tap tool to create fresh internal threads, making it usable again.#s"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "XXGXJy211tU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-15",
-   "title": "How to Repair Damaged Spark Plug Threads#shorts #satisfying ",
-   "views": 22078,
-   "desc": "How to Repair Damaged Spark Plug Threads\n\nhow to repair stripped spark plug threads using a threaded insert repair tool. Thread the insert onto the installation tool, apply thread locker, screw it firmly into the cylinder head with a wrench, and unscrew the tool to leave a restored thread.#shorts #s"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "713oV26xi2E",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-04-04",
-   "title": "How to deal with Damaged Threads in bolt holes#shorts #satis",
-   "views": 19372,
-   "desc": "How to deal with Damaged Threads in bolt holes\n\nDo you want to get rid of the bugs? Don't worry, this video shows you how to deal with it. The process starts from drilling an old hole, then making a new thread using a tap, and installing a 'recoil' as a stronger replacement thread. Practical and eff"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "8IBiDsaJvWE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-11-09",
-   "title": "Fixing Stripped Thread Without Replacing Engine Blocks#short",
-   "views": 14986,
-   "desc": "Fixing Stripped Thread Without Replacing Engine Blocks\n\nEvery mechanic who has ever dealt with a broken bolt or stripped engine block thread definitely knows this pain. When bolt holes get completely stripped out, replacing the entire housing component is never budget-friendly. To make a permanent r"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "kg7dxD_uK74",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-05",
-   "title": "Repairing Damaged Spark Plug Threads#shorts #satisfying #mec",
-   "views": 14456,
-   "desc": "Repairing Damaged Spark Plug Thread\n\nThis clip demonstrates how to repair stripped spark plug threads. First, clean the area and fill it with a repair compound. Once hardened, drill the center and tap new threads. Finally, install a thread insert to restore original functionality and strength.#short"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "aUR7Ol4IPeY",
-   "ch": "Monis Turner Mechanical.🛠️",
-   "cid": "UCxFPht5kmKwm04c425ifVGw",
-   "date": "2026-04-27",
-   "title": "How to Fix Damaged Threads in Tight Spaces! 🔩🛠️ #MonisTurner",
-   "views": 10493,
-   "desc": "Working on a difficult spot! ⚙️ Watch how we drill, tap, and restore damaged threads to factory perfection using professional mechanical tools. Precision work in Saudi Arabia! 🛠️🇸🇦\n​Was this helpful? Rate the repair 1 to 10 in the comments! 👇\n​📍 Hafar Al Batin, Saudi Arabia 🇸🇦\n🛠️ Monis Turner Mechan"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "OxLyarvbdQw",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-01",
-   "title": "Repairing Damaged Bolt Threads#shorts #repairs #mechanic #sa",
-   "views": 12527,
-   "desc": "Repairing Damaged Bolt Threads\n\ndrill out the stripped bolt hole using a drill bit to clear old thread debris. Tap the enlarged hole to cut fresh threads. Apply red threadlocker fluid onto the solid brass insert. Finally, drive the insert tightly into the hole for a perfect repair.#shorts #satisfyin"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "69Dxh1ZmFBE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-26",
-   "title": "How to Repair Damaged Thread Holes#shorts #satisfying #repai",
-   "views": 12756,
-   "desc": "How to Repair Damaged Thread Holes\n\ndrill a precise hole over the damaged area to clean it up. Smooth the edges, then use a tap tool to create new threads. Apply threadlocker to a threaded insert, screw it in using a bolt, grind off the excess, and re-drill for perfection.#shorts #satisfying #repair"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "mV899-L5xPE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-23",
-   "title": "How to Fix Broken Threaded Holes Like a Pro#shorts #satisfyi",
-   "views": 10941,
-   "desc": "How to Fix Broken Threaded Holes Like a Pro\n\nPuzzled by a stripped or broken threaded hole that ruins your metal project? Do not panic! Simply melt and pour liquid metal into the damaged socket to fill it. Once cooled and solidified, use an angle grinder to flatten the surface smoothly. Next, drill "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "6EUp41Liv18",
-   "ch": "POV Man",
-   "cid": "UCWciG0daLD0mMhgMO7s3i_A",
-   "date": "2026-09-25",
-   "title": "Smart Mechanical Fix: Pouring Molten Metal &amp; Drilling Ne",
-   "views": 15732,
-   "desc": "Title\nSmart Mechanical Fix: Pouring Molten Metal & Drilling New Threads 🛠️🔥\n\nDescription:\n​Watch this satisfying restoration and repair process! Molten metal is poured into a damaged hole, drilled out with precision, and custom-threaded to secure a new bolt perfectly. A brilliant technique for metal"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "pFu1ZxaeTm4",
-   "ch": "Clank Theory",
-   "cid": "UCml9SY7-OPZcFw6tO1X3eLw",
-   "date": "2026-10-25",
-   "title": "Fixing a stripped bolt hole with molten metal 😱 #satisfying ",
-   "views": 10112,
-   "desc": "A stripped bolt hole is filled with molten metal. Once it hardens, it is drilled out, a new thread is cut, and a bolt screws in like new.\n\n## 1. Overview\nA damaged threaded hole in a metal part is repaired by filling it, drilling it out again and cutting a fresh thread.\n\n## 2. Materials & Equipment\n"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "YGdwe5FoBcY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-10",
-   "title": "How to Repair Damaged Thread Holes with Liquid Metal#shorts ",
-   "views": 8168,
-   "desc": "How to Repair Damaged Thread Holes with Liquid Metal\n\nPour molten metal into the damaged hole, then flatten the surface with a hammer after cooling. Next, drill a new pilot hole, tap accurate threads into the solidified metal, and thread in a new bolt until securely fitted, restored, and completely "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "W2zqLbYMnpA",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-03-02",
-   "title": "Re-drilling process, creating new threads with a hand tap.#s",
-   "views": 11521,
-   "desc": "Re-drilling process, creating new threads with a hand tap.\n\nDescription:\nThis video provides a step-by-step technical guide for repairing damaged M6 threads using the recoil method. This technique is much stronger than simply enlarging the bolt size because it maintains the originality of your engin"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "np21VtkLNmI",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-31",
-   "title": "Easy way to repair a loose bolt thread hole#shorts #satisfyi",
-   "views": 7325,
-   "desc": "Easy way to repair a loose bolt thread hole\n\nHave stripped bolt holes ever frustrated you? Don't panic! Here is an easy thread hole restoration technique. The process starts by drilling the hole, cutting new threads using a tap, applying threadlocker, inserting a threaded bushing, and then smoothing"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "ApxUYjkkEZU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-03",
-   "title": "Repairing Stripped Engine Bolt Threads#shorts #satisfying #m",
-   "views": 6702,
-   "desc": "Repairing Stripped Engine Bolt Threads\n\nFirst, drill the damaged hole smoothly. Next, use a larger bit to prepare for tapping. Create new internal threads using a tap tool. Apply threadlocker to a threaded insert and screw it inside. Grind the surface completely flush, and finally, test the new thre"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "wyiPXMScYPM",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-14",
-   "title": "Easy Way to Fix a Stripped Bolt Thread#shorts #repairs #sati",
-   "views": 7707,
-   "desc": "Easy Way to Fix a Stripped Bolt Thread\n\ndrill out the damaged bolt hole to enlarge it. Create new internal threads using a tap tool. Apply threadlocker to the brass insert, then drive it in flush. Smooth the surface, and your bolt hole is good as new!#shorts #satisfying #repairs #restoration #mechan"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "oO2pSBG8-vE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-12",
-   "title": "How to Repair Damaged Engine Threads#shorts #repairs #mechan",
-   "views": 6992,
-   "desc": "How to Repair Damaged Engine Threads\n\nhow to repair stripped bolt threads in an engine block. First, drill out the damaged hole and tap new internal threads using a specialized tap bit. Apply threadlocker adhesive to a brass insert, screw it firmly into place, and remove the installation tool cleanl"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "3Eh11IBMTrg",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-01",
-   "title": "How to Repair a Stripped Thread with a Thread Insert#shorts ",
-   "views": 5713,
-   "desc": "How to Repair a Stripped Thread with a Thread Insert\n\nFirst, drill out the damaged thread to create a clean hole. Next, use a tap to cut new threads inside the hole. Apply liquid adhesive to the thread insert, then screw it into place. Trim any excess material and smooth the surface. Finally, test t"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "prLAM1NIUzU",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-09-06",
-   "title": "Clever Hack for Repairing Stripped Motorcycle Mirror Threads",
-   "views": 4800,
-   "desc": "Description: Don't panic if your motorcycle mirror mount threads are stripped. This video provides a step-by-step tutorial on fixing it by creating a custom threaded insert from a brass bolt. Watch the satisfying process of drilling out the damaged hole, tapping new threads, securing the brass plug,"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "srioOCHAQDc",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-20",
-   "title": "Repairing Damaged Bolt Threads with Thread Inserts#shorts #s",
-   "views": 4799,
-   "desc": "Repairing Damaged Bolt Threads with Thread Inserts\n\nDrill out the damaged hole to enlarge its size. After that, create new threads using a tap bit. Apply threadlocker adhesive to the threaded insert, then firmly install the insert into the hole. Finally, remove the helper bolt and the sturdy new thr"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "Q7OxPF-HwdY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-08",
-   "title": "How to Repair Stripped Oil Drain Plug Threads#shorts #repair",
-   "views": 5205,
-   "desc": "How to Repair Stripped Oil Drain Plug Threads\n\napply grease generously to the tap tool. Insert the tap into the oil drain hole and rotate carefully using a wrench to create new threads. Once finished, clean off any residue, then install the new drain plug and tighten it securely.#shorts #satisfying "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "0U7-rX5bWrU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-06-28",
-   "title": "How to Repair Stripped Engine Threads#shorts #satisfying #me",
-   "views": 3728,
-   "desc": "How to Repair Stripped Engine Threads\n\nhow to fix damaged engine threads efficiently. Start by drilling out the old, stripped threads to clear the hole. Next, tap the new threads carefully using a thread tap tool. Insert a high-quality thread repair insert, and finally, grind the surface smooth for "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "DITSMPECHgs",
-   "ch": "Success Master",
-   "cid": "UCCBtIk-vCx7ERtGL0rR4znQ",
-   "date": "2023-12-25",
-   "title": "Threads restoration || Mechanical skills #satisfying #shorts",
-   "views": 1615,
-   "desc": "Cylinder head core plug threads restoration #satisfying #shorts #youtubeshorts #best #skills\n\n\nHow do you restore a thread ?   \nUsing a Tap  Set:\n A tap is used to create new threads in a hole,   By carefully using the appropriate tap,    you can often restore the stripped threads.\n\nTravers Tool Res"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "iovTyAwi-K8",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-11-08",
-   "title": "Fixing Stripped Threads Permanently#shorts #satisfying #repa",
-   "views": 3090,
-   "desc": "Fixing Stripped Threads Permanently\n\nEvery machinist who has dealt with a stripped bolt hole knows this frustration. Normal taps or bigger bolts never hold the heavy torque. To make a permanent fix, you can drill out the damaged hole, tap new threads, and lock a solid steel insert in place to save h"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "3P2NoJGsgjU",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-10-23",
-   "title": "How to Repair Damaged Threads with a Threaded Insert#shorts ",
-   "views": 3242,
-   "desc": "Description:\nA quick tutorial on an effective way to repair stripped or worn bolt holes in metal components. Using a threaded insert restores the thread's original strength and prevents further damage to the engine block. Highly useful for mechanical repairs and automotive restoration.  \n​Keywords:\n"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "dayCdTTcJPs",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-07",
-   "title": "Thread Repair Tutorial#shorts #satisfying #mechanic #repair ",
-   "views": 2723,
-   "desc": "Thread Repair Tutorial\n\nFirst, drill out the damaged hole to clean it. Next, use a tap tool to create new threads. Apply thread locker fluid to a thread insert, then install it using a bolt and nut. Tighten with a wrench to secure the insert firmly into place, and finally, remove the bolt.#shorts #s"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "LFjiiXxm5Dw",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-11-07",
-   "title": "Smart Engine Block Thread Repair Solution#shorts #repairs #m",
-   "views": 2183,
-   "desc": "Smart Engine Block Thread Repair Solution\n\nEvery mechanic who has dealt with stripped engine block threads knows the absolute frustration. When the threads fail and the bolt spins freely, replacing the entire housing costs a fortune. For a permanent repair that withstands intense pressure, simply dr"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "2eB5cJaQ1N0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-09",
-   "title": "How to Repair Stripped Threaded Holes#shorts #repairs #mecha",
-   "views": 1927,
-   "desc": "How to Repair Stripped Threaded Holes\n\nFirst, insert a bolt into the worn-out hole to test the fit. Next, pour molten metal into the hole until it overflows. Hammer and grind the surface smooth, center-punch the middle, drill a fresh pilot hole, and tap new threads to securely refit the bolt.#shorts"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "__auNs1zotU",
-   "ch": "AutoDIY Express",
-   "cid": "UCoRaEeCFQ_sOzP3wnk4rIGA",
+   "title": "Golden Retriever Reaction When Owner Stops Cuddling 😂 | Cute",
+   "views": 230590,
+   "desc": "POV: You moved during cuddle session.\nYour dog is now personally offended. 🐾😒\n\n#relatable #goldenretriever #doglife #fyp #justdogs"
+  },
+  {
+   "q": "dog offended reaction owner",
+   "vid": "K6mcYiXDig8",
+   "ch": "Mochi_video ",
+   "cid": "UCZVyxqsOsAryp834gm55CeA",
+   "date": "2025-12-11",
+   "title": "He Is So Offended 😒 #funny #animals #puppy #dog",
+   "views": 7982,
+   "desc": "Get ready for a symphony of the strangest and most hilarious sounds the animal kingdom has to offer! This video is a tribute to the weird and wonderful noises our canine companions make. From dramatic howls and sleepy snores that wake them up in a panic, to indignant grumbles and sneezes that make t"
+  },
+  {
+   "q": "dog offended reaction owner",
+   "vid": "Spo0NYaZqk0",
+   "ch": "Daily Adventures ",
+   "cid": "UCJe33oEALl2VIdRPJb6fvSQ",
+   "date": "2026-10-04",
+   "title": "He&#39;s really offended, I&#39;m sorry buddy 🐕 #GermanSheph",
+   "views": 2767,
+   "desc": "Rex clearly wasn't happy about losing his favorite toy 😂🐕\n\n\n#GermanShepherd #FunnyDogs #CuteDogs #DogBehavior #DogShorts"
+  },
+  {
+   "q": "dog offended reaction owner",
+   "vid": "Qh3wiIEcu1c",
+   "ch": "Eno",
+   "cid": "UC8ZrywjgrzqXdJXqLJgk5wg",
    "date": "2026-11-13",
-   "title": "Stripped Thread Repair and Threaded Insert Installation Tech",
-   "views": 2068,
-   "desc": "Stripped Thread Repair and Threaded Insert Installation Technique! 🚗⚙️\n\nStruggling with stripped bolt holes, broken fasteners, or wondering how to permanently restore damaged threads in metal castings using drilling, tapping, and threaded inserts? Watch this step-by-step tutorial on professional thr"
+   "title": "I think I OFFENDED him yall😭😭",
+   "views": 1307,
+   "desc": "making weird noises to my PitSki to get his reaction🤣🤣"
+  },
+  {
+   "q": "dog offended reaction owner",
+   "vid": "ZYbC3-mo940",
+   "ch": "JeTTA; My Failed Police Dog",
+   "cid": "UCkrN1lu6_IpwabsYFRsJ6GA",
+   "date": "2026-04-16",
+   "title": "JeTTa;She got offended over her feet 💀#JeTTa #funnydog #cute",
+   "views": 1485,
+   "desc": "Just comparing feet… I didn’t expect this reaction 😭🐶"
+  },
+  {
+   "q": "dog offended reaction owner",
+   "vid": "pp7ECQqNJ-Q",
+   "ch": "Maheshwari13",
+   "cid": "UCw_h26hnumhQUxnezUR8qIw",
+   "date": "2026-10-06",
+   "title": "Max Got OFFENDED When I Said “Eww”! 😂🐶👅 | Pomeranian",
+   "views": 199,
+   "desc": "Max was just giving me some kisses… until I said “Eww!” 😂🐶👅\n\nThe way he immediately turned his face away and then refused to take my hand again… 😭😂\n\nMax really said: “If you don’t appreciate my kisses, you don’t get them anymore!” 😤🐶💔\n\nThat little attitude change was INSTANT! 😂\n\n🐾 ABOUT MAX\n\nMax is "
+  },
+  {
+   "q": "dog offended reaction owner",
+   "vid": "LWWWUuGA19w",
+   "ch": "Maheshwari13",
+   "cid": "UCw_h26hnumhQUxnezUR8qIw",
+   "date": "2026-10-03",
+   "title": "I Hurt Max’s Feelings… And He Got OFFENDED! 😂🐶 | Pomeranian ",
+   "views": 54,
+   "desc": "Apparently, Max has feelings… and he is NOT afraid to show them. 😂🐶❤️\n\nHe was happily licking my hand until I called him gross… and suddenly, I was the one who got rejected! 😭😂\n\nThe look.\nThe attitude.\nAnd then pushing my hand away TWICE. 😂🐾\n\nOkay Max… message received. Someone is definitely holding"
+  },
+  {
+   "q": "dog offended reaction owner",
+   "vid": "YjAqS_FWQE4",
+   "ch": "100kisaiah",
+   "cid": "UCpg90_1E76uUjJA_0gHjPVg",
+   "date": "2026-01-07",
+   "title": "Funny Dog Reaction to Owner&#39;s Insults!",
+   "views": 16,
+   "desc": ""
+  },
+  {
+   "q": "dog offended reaction owner",
+   "vid": "sVPySH8ogTs",
+   "ch": "Animali Facili",
+   "cid": "UCMX9FdcQl6Uze87S-8LcqKA",
+   "date": "2026-02-16",
+   "title": "Il Cane Si Offende Se Lo Ignori?",
+   "views": 3,
+   "desc": "Il Cane Si Offende Se Lo Ignori?\n\nIl cane si offende se lo ignori davvero? A volte basta distogliere lo sguardo o prendere il telefono in mano per notare un cambiamento immediato nel suo atteggiamento. Lo sguardo si fa intenso, il corpo si irrigidisce, qualcuno sospira platealmente e qualcun altro s"
+  },
+  {
+   "q": "dog sulking silent treatment",
+   "vid": "n9AGzl4JjXY",
+   "ch": "Husky&LittleOne",
+   "cid": "UC9wrscEJ1HQqMH1P9cgQiOQ",
+   "date": "2025-11-28",
+   "title": "Husky Is MAD At Baby For Not Sharing! 😤 (The Silent Treatmen",
+   "views": 21309,
+   "desc": "This fictional story was created using AI video generation tools. Sharing is caring, but not for this husky! 🤣 He is SO offended that the baby didn't give him the toy. Watch how the baby tries to apologize... Will he forgive her? 👇\n\n#shorts #ai #husky #siberianhusky #baby #dogandbaby #sulking #shari"
+  },
+  {
+   "q": "dog sulking silent treatment",
+   "vid": "t6IgNxpyeYE",
+   "ch": "Mirage K",
+   "cid": "UCWDzu8mTQ50__JiUz50ZHIA",
+   "date": "2026-10-19",
+   "title": "Sulky Dogs Who Are VERY Mad at Their Owners 😤🐶 (Wait for the",
+   "views": 6915,
+   "desc": "5 dogs. 5 grudges. One of them can be bought with a single treat. 😂\nWho's the most dramatic?\n\n🎥 Original videos (TikTok):\n@mynamesjames4 https://www.tiktok.com/@mynamesjames4/video/7025048151933472006\n@modern.midlife.beauty https://www.tiktok.com/@modern.midlife.beauty/video/7668746707546541343\n@gol"
+  },
+  {
+   "q": "dog sulking silent treatment",
+   "vid": "zzLx9UjMPd4",
+   "ch": "ViralHog",
+   "cid": "UC3339WgBDKIcxTfywuSmG8w",
+   "date": "2026-07-08",
+   "title": "Upset Labrador Gives Owner The Silent Treatment || ViralHog",
+   "views": 2116,
+   "desc": "Occurred on June 3, 2026 / Uttar Pradesh, India\n\n\"After not getting her way, Cookie sat quietly and refused to acknowledge me, giving what looked exactly like the silent treatment.\" Credit: Samiksha Rai\n\nContact licensing@viralhog.com to license this or any ViralHog video. ViralHog is based in Bozem"
+  },
+  {
+   "q": "dog sulking silent treatment",
+   "vid": "ru5QV05Pu8A",
+   "ch": "French Bulldog Owner",
+   "cid": "UCsbNU1hEMQLAqOBg__lcHdA",
+   "date": "2026-11-13",
+   "title": "My French Bulldog’s Red Flags 🚩 and the Silent Treatment",
+   "views": 1536,
+   "desc": "My French Bulldog's red flags, one very dramatic silent treatment, and a dream I wish I could see. 🐶\n\nThree funny Frenchie moments in one Short.\n\nIn this Short:\n1. Frenchie Red Flags: stares at you while you eat, steals your spot, sighs when ignored\n2. The Silent Treatment: I said no more treats\n3. "
+  },
+  {
+   "q": "dog sulking silent treatment",
+   "vid": "TK8yAdPR0pQ",
+   "ch": "Me Her and The Bobster",
+   "cid": "UCD3jJtFuoRMB1R66JxlhQlA",
+   "date": "2026-10-12",
+   "title": "The Ultimate Betrayal: Bathtime Edition 🐶💨",
+   "views": 1237,
+   "desc": "My dog is NOT happy with me! 😭 He had to have a shower and a blow dry and now he's giving me the silent treatment.\nThat post-bath sulk is REAL. Tell me I'm not the only one with a dramatic dog?!\n#dogshorts #funnydog"
+  },
+  {
+   "q": "husky jealous kiss sister",
+   "vid": "7bI3toq8PFw",
+   "ch": "Comedy Animal Shorts TV",
+   "cid": "UCvO8mQ89-CXI6ai1_866U3Q",
+   "date": "2026-10-15",
+   "title": "Jealous Dog Reaction: Mom Kisses His Sister, He Screams 👑 #S",
+   "views": 18,
+   "desc": "Jealous dog reaction: watch what happens when mom kisses one Klee Kai and the other loses it.\nThis funny dramatic dog moment is pure sibling jealousy, with one dog screaming the second the kiss lands. Funny dog drama at its best.\nSubscribe for daily funny animal moments!\n\nCredit: @lifewithkleekai on"
+  },
+  {
+   "q": "dog told diet reaction",
+   "vid": "gl3dY1hgDUY",
+   "ch": "Nonsense Genius",
+   "cid": "UCGm3SUdSrGr9clO07g5WYzA",
+   "date": "2026-11-09",
+   "title": "She told her pet it needs a diet! How does your pet react to",
+   "views": 892914,
+   "desc": ""
+  },
+  {
+   "q": "dog told diet reaction",
+   "vid": "tUrl7zvN9Mc",
+   "ch": "Magic Ganna",
+   "cid": "UCQcbQIAUys2BUIpnZhFRdcw",
+   "date": "2026-08-08",
+   "title": "😱 Dog Got Tricked Into Eating Medicine! 🐶💊 My Reaction Says ",
+   "views": 36010,
+   "desc": "I couldn’t believe what happened! 😱🐶 Watch my shocked reaction as the dog gets tricked into taking medicine. The ending is unbelievable! 😂💊\n\n#shorts #dog #dogreaction #funnydog #cutedog #dogvideo #petshorts #viralshorts #funnyanimals #reaction"
+  },
+  {
+   "q": "dog told diet reaction",
+   "vid": "iZec2jdPOOg",
+   "ch": "Smile gardening",
+   "cid": "UCvm5rzCYEMbbucE00_ap0ug",
+   "date": "2026-07-06",
+   "title": "I told the dog to wait before eating #dog reaction #viral #a",
+   "views": 474,
+   "desc": ""
+  },
+  {
+   "q": "dog told diet reaction",
+   "vid": "E7fIQmMiiJQ",
+   "ch": "The Daily Dose of Wholesome ",
+   "cid": "UCa86fRwb10mBVM8HgehL5HQ",
+   "date": "2026-05-12",
+   "title": "The dog&#39;s reaction says everything: Eating pasta at the ",
+   "views": 0,
+   "desc": "This moment is proof the world still has good in it. Watch to the end.\n\nComment ❤️ if this made you feel something — it means a lot.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔔 New wholesome moment posted daily — subscribe so you don't miss it\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nEvery video on this channel is chosen "
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "vk-Iq8tkeTQ",
+   "ch": "Rufus Goodboy",
+   "cid": "UC6T4TmdMIg3bPWd9at6vFRQ",
+   "date": "2026-06-10",
+   "title": "Ranking My Funniest Singing Animals Clips! 🎤🦌",
+   "views": 9516268,
+   "desc": "My top 5 greatest singing animals of all time! These should all win grammies. Did your favorite make the list?\n---------------------------------------------------------------------------------\nWelcome to Rufus Goodboy – home of the funniest animal voice overs on the internet! \nHere you’ll find Germa"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "OgkojReAyTU",
+   "ch": "Rufus Goodboy",
+   "cid": "UC6T4TmdMIg3bPWd9at6vFRQ",
+   "date": "2026-08-23",
+   "title": "ShOuLd i WaKe HiM uP? 😴💃",
+   "views": 3865798,
+   "desc": "He's dreaming of the clerb.\nCredit: Matt Yost via ViralHog\n---------------------------------------------------------------------------------\nWelcome to Rufus Goodboy – home of the funniest animal voice overs on the internet! \nHere you’ll find German German Shepherds, Nasty Otters, Cat Shanties and m"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "6Qnf7CeBCQI",
+   "ch": "Valuetainment Comedy",
+   "cid": "UCBhk5IGscWGP53VhaOs8Apg",
+   "date": "2026-01-05",
+   "title": "You Wont Believe the Noise This Otter Makes 😂🦦",
+   "views": 145687,
+   "desc": "He woke up mid dream and made a sound no one was ready for.\n\nLike & SUBSCRIBE if you enjoyed it!\n\nFollow Vincent Oshana on Instagram: https://bit.ly/3v5gQDk\nFollow Vincent Oshana on X: https://bit.ly/3v3ZQgT\n\n#funny #comedy #Shorts #shortsfeed #valuetainment #lol #animals #funnyanimals #hilarious"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "bt6iHDXOQPk",
+   "ch": "Chhavi facts ",
+   "cid": "UClhSWD6vJAEq7Z3S6q2wl8g",
+   "date": "2026-09-27",
+   "title": "Noughty otter scared of water🦦🥰 #shorts #video #bts",
+   "views": 26067,
+   "desc": "Noughty otter scared of water🦦🥰 #shorts #video #bts\n\n\nloving father gifted a tiny cute dog to his daughter in a beautiful glowing box! This cute dolphin does funny gymnast stunts, wakes up the baby girl, and even gets funny scolds from its cat mom. But the best part is when the family goes on a road"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "wqw-T0mbwJA",
+   "ch": "Otti's little world ",
+   "cid": "UCyOHjF9306zTtS_p3g0FhQA",
+   "date": "2026-09-08",
+   "title": "Baby Otter vs Alarm Clock 😂⏰ |   #BabyOtter #Otter #CuteAnim",
+   "views": 36101,
+   "desc": "This sleepy baby otter just wanted a few more minutes of sleep… but the alarm clock had other plans! 😂⏰🦦\n\nWatch this adorable little otter wake up, get annoyed by the ringing alarm, and attempt to silence it. ❤️\n\nA cute, wholesome animated short made for everyone who loves adorable animals, funny mo"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "zCp1SjKhU90",
+   "ch": "PawBuzz ",
+   "cid": "UCmp2x4_FD42HtF8ikwvNe9g",
+   "date": "2026-11-07",
+   "title": "This Little Otter Never Gave Up on Getting Attention 🦦💕 #sho",
+   "views": 17104,
+   "desc": "Cute Dogs, Funny Puppies & Dog Moments 🐶🐕 Welcome to our Dogs channel #dog #dogs #puppy #puppies #cutedog #funnydogs #doglover #dogvideos #pets #dogshorts #boby #perro #can #mascota"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "2iOSm2pDxC8",
+   "ch": "storm vibe ",
+   "cid": "UCmfX4q4G5msJdrKGeveiHlw",
+   "date": "2026-07-19",
+   "title": "🦦 This Otter Is Too Cute to Wake Up 🥹",
+   "views": 21541,
+   "desc": "This little otter is enjoying the sweetest nap ever. 🦦💤\nWould you wake this cutie up... or let it sleep? 🥹❤️\n\n#otter #cuteanimals #sleepy #adorable #animals #shorts #viral"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "RA7EMgIKXUU",
+   "ch": "TVP WORLD",
+   "cid": "UCBjUPsHj7bXt24SUWNoZ0zA",
+   "date": "2026-02-11",
+   "title": "The dream #job: Waking up sleepy #otters",
+   "views": 15237,
+   "desc": "River otters are naturally heavy sleepers, often enjoying long, uninterrupted naps. In aquariums and zoos, keepers start their day with a gentle but important task: waking these sleepy creatures. The goal is simple but essential – keeping the otters on a regular daily schedule.\n\nEven a small delay c"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "Qbmsc_8zNfI",
+   "ch": "Ellaevoyy ",
+   "cid": "UCKsy8c3TpUNK97bz_Fz-Qqw",
+   "date": "2026-02-16",
+   "title": "Waking baby Lola up from her nap 😴 @Paul Cuffaro #otter #for",
+   "views": 16528,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "9v24AWi-ou4",
+   "ch": "DailyWATCH",
+   "cid": "UCoxKHvA32TnzuRWZkGlUKLQ",
+   "date": "2026-08-24",
+   "title": "he is already woke up 😴 #otter #cuteanimals",
+   "views": 15249,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "r7AcelE4VKI",
+   "ch": "DizzyDonut8",
+   "cid": "UCr-dhDmQnT4y-wKcRFJ_g6Q",
+   "date": "2026-08-14",
+   "title": "The otter just woke up, all it wants is food!#otter #otterli",
+   "views": 4996,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "4gjEtDtTny8",
+   "ch": "Cute Otter",
+   "cid": "UCArgO3zXFns6iBG3Ww9VbHg",
+   "date": "2026-07-31",
+   "title": "Otter Fuku: &quot;Daddy! It&#39;s playtime...Wake Up! 😂🦦💙|Cu",
+   "views": 3541,
+   "desc": "Otter Fuku: \"Daddy! It's playtime...Wake Up! 😂🦦💙|Cute Otter #ytshorts #ytviral"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "ta7mFPgeZ10",
+   "ch": "ClawTalk",
+   "cid": "UCbN_1hS7SgA0PFls1focSiA",
+   "date": "2026-06-17",
+   "title": "Bro woke up and chose chaos 😭 #shorts #otter",
+   "views": 2290,
+   "desc": "This tiny chaos machine turned an ordinary moment into pure entertainment Who else thinks animals secretly have their own little missiens?\n\n#animals #cuteanimals #funnyanimals #pets #shorts #viralshorts"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "lP0g7Gz6K5s",
+   "ch": "Otterly Bandits",
+   "cid": "UC8N4My8k6SwPIq0fBXsSt8A",
+   "date": "2026-10-21",
+   "title": "🦦 Pip&#39;s Super Snowy Snowball Snowdown! Funny Otter Carto",
+   "views": 975,
+   "desc": "Can Pip ride a GIANT snowball down Snowman Hill and win the Great Snowball Snowdown?!\n\nPip wakes up to a blanket of snow, builds the funniest snow-otter the river has ever seen, and rolls straight into the biggest snowball fight of the year! Benny the beaver and Willa the duck are along for the ride"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "EWN9Dtks1iI",
+   "ch": "Pismo Beach Publishing",
+   "cid": "UCYByWTiW9Vl7h9wenwDxpAg",
+   "date": "2026-01-17",
+   "title": "Waking up can be tuff 🥰#cuteotter #otter #otterlover #funnya",
+   "views": 1723,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "k2Q-Dt8xeqo",
+   "ch": "Sameer_Universe",
+   "cid": "UCFd85mNeaIx7XOjQpt8Lfsg",
+   "date": "2026-09-02",
+   "title": "The Otter’s Fishing Day 🦦🐟 | He Caught Fish, Cooked It &amp;",
+   "views": 1463,
+   "desc": "The Otter’s Fishing Day 🦦🐟 | He Caught Fish, Cooked It & Had a Happy Meal!\n\n📝 Description\n\nA cute little otter wakes up in his beautiful tree house beside the river and goes fishing. 🦦🌊🐟 He dives underwater, catches big fish, brings them home, prepares a delicious meal, enjoys it with a warm cup of "
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "7_9terpgvg4",
+   "ch": "Cinemarxism",
+   "cid": "UCQF22jLakoaIGnWHdV6muSw",
+   "date": "2026-03-02",
+   "title": "Wake up! #otter #animals #leftist #streamer",
+   "views": 1238,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "Csh_VhBT7CA",
+   "ch": "Otterly Cute ⭐",
+   "cid": "UCqiOZB0EvG1fOPP2lcUryKw",
+   "date": "2026-09-13",
+   "title": "Cute Baby Otter 🦦💕 #Shorts",
+   "views": 1635,
+   "desc": "Good morning from the cutest little otter! 🦦🎀💗\n\nWatch this adorable baby otter wake up and start the day with the sweetest little smile! 🥹✨\n\nSubscribe to **Otterly Cute** for more cute, funny and adorable otter videos! 💕\n\n#OtterlyCute #Otter #CuteOtter #BabyOtter #CuteAnimals #Shorts"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "Ot9Qg4fVLBQ",
+   "ch": "CANOPY COUSIIN ",
+   "cid": "UC6OytJykIdC1RntXPWLlIlw",
+   "date": "2026-07-19",
+   "title": "POV: Tintin refuses to let Dad sleep in #otter #cuteotter #f",
+   "views": 1701,
+   "desc": "POV: Tintin Won't Give Up Until Papa Wakes Up\n\n #otter #cuteotter #otterlove #ptterpet #animals #kids #cartoon #funnyanumals #cutebaby #babyanimals\n\nSearching keywords:\nfunny otter videos, Kids Video, Usa Kids ,  cute baby otter,  Ottaer Sound , Relaxing Otter, Cute Otter, otters holding hands, play"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "ZmUUuWc7M24",
+   "ch": "【カワウソTV】",
+   "cid": "UCFIH81TTFozuuiJsUpDn48g",
+   "date": "2026-02-21",
+   "title": "起きてすぐお手入れを始めるカワウソAn otter starts grooming himself as soon as",
+   "views": 2170,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "s9EQSwWer8M",
+   "ch": "【カワウソTV】",
+   "cid": "UCFIH81TTFozuuiJsUpDn48g",
+   "date": "2026-02-19",
+   "title": "もう少しで目覚めそうなカワウソAn otter that is about to wake up#shorts",
+   "views": 2457,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "bfz-beLrsp0",
+   "ch": "【カワウソTV】",
+   "cid": "UCFIH81TTFozuuiJsUpDn48g",
+   "date": "2026-06-12",
+   "title": "そろそろ昼寝から起きそうなカワウソThe otter looks like it&#39;s about to wake",
+   "views": 2034,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "1lEKjNGl5JY",
+   "ch": "Otter Otter in your world",
+   "cid": "UCHOxRPVNiUXLX787q5bQ52g",
+   "date": "2025-12-06",
+   "title": "Funny Otter Wakes Up Shocked 😱🦦😂 カワウソがびっくりして目覚めた！ऊदबिलाव अचा",
+   "views": 2357,
+   "desc": "This adorable otter just woke up and got the biggest surprise! 🦦🤣 So cute and funny! #Shorts #Viral\n\n\n寝ていたカワウソが突然目を覚ましてびっくり！かわいすぎて笑っちゃう！🦦💖🤣 \n귀여운 수달이 갑자기 깨어나서 깜짝 놀라는 장면이에요!🦦💖😂 \nदेखिए यह प्यारा ऊदबिलाव कैसे अचानक जागकर डर जाता है – बहुत मजेदार!]🦦💖🤣"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "5--kBDyqWxA",
+   "ch": "【カワウソTV】",
+   "cid": "UCFIH81TTFozuuiJsUpDn48g",
+   "date": "2026-04-23",
+   "title": "中々目覚めないカワウソThe otter is having trouble waking up.#shorts",
+   "views": 1952,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "oWx4_CgmSdI",
+   "ch": "Jessia Turcotte",
+   "cid": "UCU_Qv9CyEBvvCPhuxIvL9IA",
+   "date": "2026-09-04",
+   "title": "Never Wake Up A Sleeping Otter! 🦦 #Funny #CuteAnimals #Wildl",
+   "views": 1560,
+   "desc": "Meet the ultimate slumber champions of the ocean! Sea otters spend nearly twelve hours a day catching quick naps, balancing their rest with dedicated eating and grooming rituals. Waking up one of these adorable creatures mid-snooze produces the sweetest, most dramatic vocal complaints. Witness how t"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "1PpZNTOwD6Y",
+   "ch": "【カワウソTV】",
+   "cid": "UCFIH81TTFozuuiJsUpDn48g",
+   "date": "2026-05-11",
+   "title": "起きてすぐあくびが出てしまうカワウソAn otter that yawns as soon as it wakes up",
+   "views": 1731,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "ZkgglJQeff0",
+   "ch": "【カワウソTV】",
+   "cid": "UCFIH81TTFozuuiJsUpDn48g",
+   "date": "2025-12-26",
+   "title": "寒い中頑張って起きるカワウソAn otter trying hard to wake up in the cold#sh",
+   "views": 1625,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "52sK7smXmuc",
+   "ch": "CANOPY COUSIIN ",
+   "cid": "UC6OytJykIdC1RntXPWLlIlw",
+   "date": "2026-10-15",
+   "title": "My Cute Otter Refuses to Wake Up! 🦦💤 #カワウソ#otter #funny #cut",
+   "views": 1256,
+   "desc": "This dramatic baby otter's funny reaction will instantly melt your heart! 🦦❤️ Watch this cute otter scream, yawn, and show its low battery reaction when mom holds it. \n\nWhen your internal alarm clock breaks and you're running on 1% battery life! 🔋😂 \n\n🦦 Otter: \"Uwaah! Who woke me up so early in the m"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "XWklAUDDTZg",
+   "ch": "【カワウソTV】",
+   "cid": "UCFIH81TTFozuuiJsUpDn48g",
+   "date": "2026-07-24",
+   "title": "起きた反動で転がるカワウソAn otter rolling over from the momentum of waki",
+   "views": 1452,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "mE7Iq1F157U",
+   "ch": "Panda Paradise Horizon",
+   "cid": "UCnImKife8U3CkF2JGKHtkWg",
+   "date": "2025-12-11",
+   "title": "The RUDEST Alarm Clock Ever! ⏰💦🦦 (Wait for the escape...)",
+   "views": 1087,
+   "desc": "Peace was never an option. ☮️🚫\n\nThis Giant Panda was enjoying the deepest, most peaceful nap of his life... until his roommate decided to be a menace. 😈 Enter: The Baby River Otter (aka The Agent of Chaos). 🦦\n\nWatch the precision of this water prank! 💧💥 The panda's reaction is pure terror, but the r"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "q9LZ-Vf7igo",
+   "ch": "【カワウソTV】",
+   "cid": "UCFIH81TTFozuuiJsUpDn48g",
+   "date": "2026-09-20",
+   "title": "寝起きで目が開かないカワウソAn otter that can&#39;t open its eyes after wa",
+   "views": 1410,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "Jl6zKbAptP8",
+   "ch": "Ruwan Herath 🎷",
+   "cid": "UCSvmQ6RS8bAr52-4r3D7jyw",
+   "date": "2026-02-13",
+   "title": "Otter - A dream job is when the hardest part is waking up a ",
+   "views": 674,
+   "desc": "A dream job is when the hardest part is waking up a sleepy otter.\nРабота мечты — это когда самая сложная часть, разбудить сонную выдру"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "I-H1W0YiBXM",
+   "ch": "Otter Otter in your world",
+   "cid": "UCHOxRPVNiUXLX787q5bQ52g",
+   "date": "2026-01-11",
+   "title": "Otter Naps on Carpet &amp; Wakes Up Cutely | カーペットで寝起きのラッコ| ",
+   "views": 1490,
+   "desc": "🦦😴 This sleepy otter dozes off on the soft carpet, then wakes up in the cutest way ever. Cozy vibes and gentle yawns. ✨ \n \nふかふかカーペットでぐっすり眠るラッコ。ゆっくり目を覚ます姿にほっこりします 🦦💤  \n\n폭신한 카펫 위에서 잠든 수달이 천천히 눈을 뜨는 순간, 힐링 가득한 귀여운 장면이에요 🦦🌙  \n\nनर्म कालीन पर मीठी नींद में सोया ऊदबिलाव, फिर आलस भरी क्यूट सी जागने की अदा।द"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "w7Dm7VrUKqw",
+   "ch": "Instant Riseup",
+   "cid": "UCnxKeSCj2QIknE0uqIA1SWw",
+   "date": "2025-12-07",
+   "title": "Otter Sleeping Peacefully Until Frog Screams! 🦦🐸😂 Funny Anim",
+   "views": 847,
+   "desc": "An adorable otter rests on a rock, but a loud frog suddenly croaks right next to it.\nThe otter wakes up angry and splashes water at the frog!\nA super-funny moment perfect for your daily laugh.\n\n#funnyanimalfight #animalfightreaction #animalvideo #funnyanimals #angryanimals #animalshorts #funnyanimal"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "f538T0CR57w",
+   "ch": "【カワウソTV】",
+   "cid": "UCFIH81TTFozuuiJsUpDn48g",
+   "date": "2026-07-31",
+   "title": "寝起きで力の入らないカワウソA lethargic otter just after waking up.#shorts",
+   "views": 971,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "fAkmqZ30Yfc",
+   "ch": "Vintro Toons",
+   "cid": "UCMeU-zOhvXjTL46RGJ7iiIA",
+   "date": "2026-06-16",
+   "title": "Cute Little Otter’s Adorable Day Out 🦦💛 #shorts",
+   "views": 584,
+   "desc": "Follow this adorable little otter as it wakes up, gets ready, and heads out for a fun day adventure! 🦦✨\n\nThis heartwarming AI animation is packed with cute moments, happy vibes, and an unforgettable journey that animal lovers will enjoy.\n\nIf you enjoyed the video, subscribe to the channel and suppor"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "yRGfRG0pPbQ",
+   "ch": "【カワウソTV】",
+   "cid": "UCFIH81TTFozuuiJsUpDn48g",
+   "date": "2026-10-08",
+   "title": "慌てながら起きてくるカワウソAn otter waking up in a panic.#shorts",
+   "views": 976,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "k2-DDoWf31I",
+   "ch": "Quiet Country Stories ",
+   "cid": "UCRBsGa5R5jxrPqnjezQtDew",
+   "date": "2026-09-17",
+   "title": "DON’T WAKE THE OTTER! 😂",
+   "views": 224,
+   "desc": "Chico thought it would be funny to wake up Otter...\nHe was wrong. 😂\n\nA funny little adventure in the rainforest with Chico and Otter.\n\n#FunnyAnimals #AnimalStory #3DAnimation"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "HigpPeyMfY8",
+   "ch": "@'CRlTTER CHAOS TOONS ?",
+   "cid": "UCbt3oVj7v_fL-CR9sy8kZ0A",
+   "date": "2026-11-16",
+   "title": "🐍🦦🐸 ** the snake woke up!** 😱💥 frog &amp; otter thought they",
+   "views": 495,
+   "desc": ""
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "FH7yJDepofs",
+   "ch": "Mudgie DaOtter",
+   "cid": "UCCuCJpMp8ujzQoJqwRyuioA",
+   "date": "2026-10-22",
+   "title": "Why is this deer acting like a gym bro? 💪🦌 #funny #animals #",
+   "views": 2747,
+   "desc": "Meet Brodie. He wakes up at 4 AM to scream at trees. 🌲😤 \n\nTimber and Rhett analyze the forest's most intense \"Alpha Male\" who is definitely, absolutely NOT afraid of his own shadow.\n\n#comedy #animation #gymbro #alphamale #satire #deer #grindset #beaver #squirrel \n\n─────────────────────────────\n🦦 FIN"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "lASeDOJiCkg",
+   "ch": "Otter Otter in your world",
+   "cid": "UCHOxRPVNiUXLX787q5bQ52g",
+   "date": "2025-12-22",
+   "title": "Otter Wakes Up in a Towel Roll!|タオルに包まれたラッコ|수건 속에서 깬 수달|तौलि",
+   "views": 766,
+   "desc": "🦦🛏️ This adorable otter wakes up wrapped in a warm towel — cutest winter morning ever! ☀️❄️💖  \nふわふわタオルにくるまれて朝を迎えるラッコ。冬の癒しタイム🦦☃️✨  \n따뜻한 수건 속에서 잠에서 깬 수달! 겨울 아침의 포근한 행복 🦦💞❄️  \nप्यारा ऊदबिलाव तौलिया में लिपटा जागता है — सर्दियों की सबसे क्यूट सुबह ☃️🦦💗  \n\n✨ Warm towel + sleepy otter = perfect cozy bliss"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "bbzVneM4hOE",
+   "ch": "Palash's WonderLoop",
+   "cid": "UCKipZpXQlnzM_2w_BeYNnXQ",
+   "date": "2026-09-01",
+   "title": "This Otter Is MAD I Overslept 😂 #FunnyAnimals",
+   "views": 188,
+   "desc": "Ever experienced a funny otter waking owner up in the absolute most chaotic way possible? I accidentally overslept today, and this angry otter decided it was time to take matters into its own paws!\n\nIt climbed right up, stood directly on my stomach, and started screaming straight into my face until "
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "iHWDXCQA_e0",
+   "ch": "Otterly Amazing",
+   "cid": "UCFwdvIibkQclfRh_q0oNuog",
+   "date": "2026-10-21",
+   "title": "Baby Otter Won&#39;t Let Mom &amp; Dad Nap! 🦦😂 #Shorts #otte",
+   "views": 184,
+   "desc": "This baby otter refuses to take a nap! 🦦😂❤️\n\nWhile Mom and Dad are trying to get some sleep, their playful little otter has other plans! 🥹💕\n\nInstead of sleeping, this energetic baby otter keeps moving around, trying to wake up its sleepy parents for some playtime!\n\nAll this little one wants is to pl"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "9rHgOdtLFWc",
+   "ch": "Otterly Cute ⭐",
+   "cid": "UCqiOZB0EvG1fOPP2lcUryKw",
+   "date": "2026-09-15",
+   "title": "Cute Baby Otter🦦🪥🎀 #Shorts",
+   "views": 173,
+   "desc": "🦦🎀 Good morning from the cutest little otter! 🪥💕\nThis adorable baby otter wakes up, gets ready for the day and brushes her tiny teeth! 🥹✨ Her cute little morning routine is simply too adorable! 🦦🎀\nWould you let this little otter be your morning buddy? 😂💗\nSubscribe to Otterly Cute for more adorable o"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "U4JUGiB89nQ",
+   "ch": "Eras Decoded",
+   "cid": "UC3wUQxGn63y1XvpuPsP5bqA",
+   "date": "2026-08-26",
+   "title": "cute otter Morning Wake Up 🥰",
+   "views": 166,
+   "desc": "His morning routine is apparently just one more nap. 😴\n#babyotter  #GoodMorning #SleepyOtter #CuteAnimals #OtterLove #TinyAnimals #MorningCuteness #AnimalVideos #WholesomeContent #cutereels"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "pdE9qPf-kF0",
+   "ch": "Otti's little world ",
+   "cid": "UCyOHjF9306zTtS_p3g0FhQA",
+   "date": "2026-09-19",
+   "title": "The Cutest Baby Otter You’ll See Today 🥹🦦. #BabyOtter #CuteO",
+   "views": 152,
+   "desc": "Meet this tiny, fluffy baby otter with the cutest round face and big beautiful eyes! 🦦🤎\nWatch this little otter relax, wake up, explore the forest, and give the camera the sweetest looks.\nIf this adorable baby otter made you smile, Like ❤️ and Follow/Subscribe for more cute animal videos!\nHashtags\n#"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "xJtkrc7FudI",
+   "ch": "Otter Story",
+   "cid": "UClA359XqSpklbUUwlhg_8Rw",
+   "date": "2026-08-04",
+   "title": "A New Morning 🌅 | Episode 1 Otter Story| A Heartwarming Stor",
+   "views": 100,
+   "desc": "📖 DESCRIPTION\n🌅 A brand new morning begins... and so does Milo's very first adventure.\nMeet Milo, a cheerful little river otter who wakes up excited for another beautiful day with his loving mother, Mila. Every sunrise brings a new lesson, a new smile, and a new chance to discover the kindness hidde"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "B-SrQIuDW8g",
+   "ch": "Clipsss",
+   "cid": "UC6eXC8Qa4whNET_iDYadW3A",
+   "date": "2026-08-08",
+   "title": "Otter Waking Up Is Too Cute! 🦦🥹 #shorts",
+   "views": 270,
+   "desc": "Watch this adorable otter waking up from his cozy bed 🦦💤\nHis sleepy reaction is funny, cute, and heart-melting at the same time.\nThe perfect wholesome moment to start your day!\n\nTags:\n#shorts \n#otter\n#cute \n#animals \n #cuteanimals\n #adorable"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "P6mOqObTmsE",
+   "ch": "Otto the Otter",
+   "cid": "UCj2Pj8msOK1rNb7TcJ69gDg",
+   "date": "2026-08-27",
+   "title": "🦦 NEVER WAKE UP A SKUNK! 😂💨 | Otto the Otter",
+   "views": 111,
+   "desc": "🦦 NEVER WAKE UP A SKUNK! 😂💨 | Otto the Otter"
+  },
+  {
+   "q": "otter waking up funny",
+   "vid": "T7ov_cSYUhY",
+   "ch": "onedertales",
+   "cid": "UCiRXjAk66O5LSGFNoGcm0GQ",
+   "date": "2026-02-18",
+   "title": "🦦 Quote of the Day with Ollie Otter: What Matters Most Today",
+   "views": 53,
+   "desc": "Hello friends! 🦦💛 Today Ollie the Otter is sharing a thoughtful Quote of the Day:\n“Wake up and ask: ‘What matters most today?’”\nOllie explains this quote in kid-friendly words and shows how choosing your “most important thing” can help your day feel calmer and happier—even when life gets busy. 🌿🌈\n✅ "
+  },
+  {
+   "q": "hamster offended reaction",
+   "vid": "DPDZ2U7lmzQ",
+   "ch": "MadKweb",
+   "cid": "UCvLn6awwbYAOAlPA7NnieFA",
+   "date": "2026-01-04",
+   "title": "Hamster Bagel Pigeon, Rude Llama Reacts To Insults! #shorts",
+   "views": 25,
+   "desc": "Witness unexpected animal friendships and human-animal interactions in this heartwarming video. From a hamster and pigeon hanging out, to a person bonding with a llama, to reaching out for a fish. #AnimalFriends #CuteAnimals #AnimalEncounters #Hamster #Pigeon #Llama"
+  },
+  {
+   "q": "hamster offended reaction",
+   "vid": "JtT5ch8bYI4",
+   "ch": "japprends",
+   "cid": "UCvZYR4wlIBnKnMhiqdeZ6sQ",
+   "date": "2026-01-04",
+   "title": "Hamster Bagel Pigeon, Rude Llama Reacts To Insults! #shorts",
+   "views": 18,
+   "desc": "From hamster wheels to llama fields, witness a montage of unexpected animal encounters. What could these creatures possibly have in common? #Hamster #Pigeon #Llama #ExoticAnimals"
+  },
+  {
+   "q": "hamster offended reaction",
+   "vid": "koRQcGqNoZE",
+   "ch": "MadKweb",
+   "cid": "UCvLn6awwbYAOAlPA7NnieFA",
+   "date": "2025-12-09",
+   "title": "Hamster Bagel Pigeon, Rude Llama Reacts To Insults! #shorts",
+   "views": 9,
+   "desc": "From a cozy hamster to a surprising pigeon encounter, this short captures unexpected animal moments. Plus, a fun interaction with a llama and a reaching hand for a fish! #Hamster #Pigeon #Llama #AnimalMoments #Shorts"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "i_9cM0LzJ-M",
+   "ch": "The Dodo",
+   "cid": "UCINb0wqPz-A0dV9nARjJlOQ",
+   "date": "2025-12-25",
+   "title": "28-Year-Old Macaw Is Jealous Of Mom&#39;s Boyfriend | The Do",
+   "views": 215636,
+   "desc": "This macaw said, “I was here first.” And he definitely meant it 😂❤️\n\nWe spoke to Kelsey and Alec about how Louie went from a shy rescue to Kelsey’s velcro bird — and how Alec’s been third-wheeling their relationship!\n\nFollow along with @NoPlucksGiven on Instagram: https://thedo.do/noplucksgiven & Ti"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "Detla4pQX7Q",
+   "ch": "Parrot Jokes",
+   "cid": "UC3tC9b1GSzfc13qC5xk6L4w",
+   "date": "2026-01-24",
+   "title": "Jealous Parrot Tells Police Officer to Divorce Her Husband i",
+   "views": 16214,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "ZTjxjo46iO4",
+   "ch": "Amba",
+   "cid": "UCrksH62uSXQM-TkF9sochSg",
+   "date": "2026-03-30",
+   "title": "shes picking my husband up as her favorite right now and im ",
+   "views": 13999,
+   "desc": "shes picking my husband up as her favorite right now and im JEALOUS but as long as shes comfortable 😭😭🥹 #conuresoftiktok"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "J_yqGDRCxjs",
+   "ch": "Ali_creations",
+   "cid": "UCmsHlYfvJ5KcFJ_2sDVtzuA",
+   "date": "2026-08-25",
+   "title": "Parrot speaks to jealous husband 202608241245",
+   "views": 10065,
+   "desc": "🦜😂 This Parrot Just Had a Serious Conversation With a Jealous Husband!\n\nWhen the husband gets jealous, the parrot has something to say… and the comeback is absolutely savage! 😳🤣\n\nThis funny talking parrot takes the situation to another level with a perfectly timed response that nobody expected.\n\nWat"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "mKCiSFSHTB8",
+   "ch": "Global Weird Animals",
+   "cid": "UCPZZWC22dV4s1irw3MIOm6g",
+   "date": "2025-12-02",
+   "title": "American Parrot Jealous Of Owner&#39;s Husband",
+   "views": 10457,
+   "desc": "Roco is having a mid-life crisis in this American kitchen! When his owner asks if he needs anything from the grocery store, he screams, \"I don't want eggs! I want a wife who loves me!\"\n\nHe hilariously declares that finding love is the \"American Dream\" and complains that while his owner has a husband"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "qnM_vXfqSTg",
+   "ch": "Shabu's Vlog Pets World",
+   "cid": "UCmE0fwG-_ZtsluKx1DxAMrw",
+   "date": "2026-05-31",
+   "title": "Don’t touch my husband 😂 Jealous female cockatiel #cockatiel",
+   "views": 7412,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "tbyZU2eSwRY",
+   "ch": "Parrot Wizard",
+   "cid": "UCAbBYFDkdbAWyt4r_kD45dw",
+   "date": "2026-08-07",
+   "title": "Senegal Parrot Adores Husband but Hates Wife",
+   "views": 3964,
+   "desc": "A viewer said that she has a Senegal Parrot. The previous one she had was friendly with her but the current one she has is friendly with her husband. Whenever the husband is around, the Senegal Parrot is not friendly toward her.\n\nThis is a very common issue with Senegal Parrots as they tend to be on"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "hU3PlXMTdGY",
+   "ch": "FEATHER LAUGHTHS",
+   "cid": "UC-fcuzSgyYqkGhAznThJoJA",
+   "date": "2025-12-22",
+   "title": "​This bird is OBSESSED with my husband!",
+   "views": 4613,
+   "desc": "She literally said \"My Husband\" and \"Mine\"! 😂\nThis parrot gets so jealous when anyone gets close.\nDo you have a jealous pet? Let me know in the comments!\n\n\n\n\n\n#funnyanimals #cockatoo #jealous #talkingbird \n#couplegoals #parrot #comedy #viral \n#shorts #nonstoptalkingparrot #funny"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "yhlsgbrtHfI",
+   "ch": "Ai World",
+   "cid": "UCNUWZVHUlWrrfsviy3ufy-Q",
+   "date": "2025-11-23",
+   "title": "“Parrot Gets Jealous of Police Officer’s Husband 😂 | Funnies",
+   "views": 3930,
+   "desc": "This bold parrot takes things way too far during a sweet moment with a lady police officer! 🦜🤣\n\nParrot: “Officer… do you really love me?”\nOfficer (laughing): “Yes!”\nParrot: “Then divorce your husband! I don’t want any third person between us!”\nOfficer: “WHAT?!”\nParrot: “Relax, officer — I was just j"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "CQNnqzHidqE",
+   "ch": "Indian comedy youtube channel ",
+   "cid": "UCpbsrB2a9ChnSAvO0gDE2MQ",
+   "date": "2026-10-27",
+   "title": "My Parrot Has More Attitude Than My Husband#shorts",
+   "views": 2930,
+   "desc": "My parrot Mitthu is such a drama queen 😂🦜 I brought grapes for him and he got jealous!\n\n#parrot #funnyparrot #malkin #talkingparrot #parrotsoftiktok #funnybirds #petcomedy #usa"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "NPbv0OhlaA4",
+   "ch": "BMR Creations",
+   "cid": "UC66Z0IUcb8Y1B2AX9HREPTw",
+   "date": "2026-09-11",
+   "title": "Wife Gets Jealous! 😂❤️#shortsfeed #viral #shorts",
+   "views": 3088,
+   "desc": "Wife Gets Jealous! 😂❤️\n\nA husband and wife are walking on the road happily. 🚶‍♂️❤️🚶‍♀️ Suddenly, the husband looks at another lady passing by. 👀😅 The wife notices it immediately and gets angry! 😡😂 What happens next? Watch this funny comedy video till the end and enjoy the laughter!\n\n#shorts \n#shorts"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "sEJKYpv58yU",
+   "ch": "Pip & Rue",
+   "cid": "UCoQ4CQdMQbcFaQIxGlDsNIw",
+   "date": "2026-08-26",
+   "title": "Jealous wife&#39;s reaction when her husband stands next to ",
+   "views": 1915,
+   "desc": "follow for more Pip and Rue"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "CKDa0ZvSQ_4",
+   "ch": "Around The World",
+   "cid": "UCMcOjGVmXK_VCoAlcZKZvkg",
+   "date": "2026-04-11",
+   "title": "This Parrot Is Jealous of Its Owner’s Husband! 😹❤️ #shorts #",
+   "views": 1555,
+   "desc": "You might think jealousy is only a human emotion, but this parrot proves otherwise! Every time its owner kisses her husband, the parrot gets upset and tries every trick to push him away. It simply cannot stand anyone getting close to its favorite human.\n\nSo now the big question: Who is the man reall"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "1r-PfMU4cUM",
+   "ch": "Real Story 1313",
+   "cid": "UCgjs0EV2uOY7cRp-kFws8KQ",
+   "date": "2026-08-28",
+   "title": "Biwi Ka Gussa Sab Jagah Same Hai! Jealous Parrot Comedy😂Chip",
+   "views": 1178,
+   "desc": "Jab Parrot Ki Biwi Rooth Jaye! 🤣🦜\nBiwi Ka Gussa Sab Jagah Same Hai! Jealous Parrot Comedy 😂\nChips, Attitude aur Hasi! Cute Parrot Reel ❤️\n\nDekhiye kya hota hai jab hamara male parrot apni partner ko chhod kar mujhe chips khilata hai! 😂 Female parrot ka gusse wala attitude aur meri wife ki zor dar ha"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "krrkhWdBdoQ",
+   "ch": "Beingcreative1536",
+   "cid": "UC-ciVfIqfyQwNfm-DiGPi8Q",
+   "date": "2026-10-03",
+   "title": "Parrot Flirts With the Wife and Makes Her Husband JEALOUS! 🤣",
+   "views": 2300,
+   "desc": "This hilarious parrot has a few charming words for the wife—and her husband is not impressed! Watch as the playful bird delivers funny compliments, sparks a jealous reaction, and leaves everyone laughing. Perfect for fans of funny animals, family-friendly comedy, and viral YouTube Shorts.\n\n#FunnyPar"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "-r6b0qFHYYA",
+   "ch": "Wink Studios",
+   "cid": "UCtflqjaOtEa3Tdxil5X2Syg",
+   "date": "2026-09-15",
+   "title": "Macaw Husband Gets Jealous of His Own Baby 😂🦜👶",
+   "views": 1321,
+   "desc": "Macaw Husband Gets Jealous of His Own Baby 😂🦜👶\n\n📝 DESCRIPTION\nA hilarious family moment between a Yellow/Blue Macaw husband, his Red Macaw wife, and their adorable 1-year-old baby! 😂🦜❤️\n\nDad thought the baby chose him… but the ending had a totally different plan! 🤣\n\nA cute, wholesome and funny famil"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "seLj-44UdDs",
+   "ch": "Circus OMG",
+   "cid": "UCGqe4sOK6zN4MAvj8-tyXkA",
+   "date": "2026-02-23",
+   "title": "Jealous Parrot LOSES IT Over Red Heels 😭🦜👠 #wife #parrot  #p",
+   "views": 678,
+   "desc": "She put on red heels… and he completely spiraled 😭\n\nThis dramatic parrot sees his partner dressed up and instantly turns into the most jealous “husband” on the planet. The yelling. The chaos. The confidence.\n\nMeanwhile? She just keeps walking. Unbothered.\n\n👉 LIKE if that reaction was way too dramati"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "lHNwbj5M6JI",
+   "ch": "Afghan channel",
+   "cid": "UCYAeEARUXyRD_qJz1853f8Q",
+   "date": "2026-08-29",
+   "title": "Jealous husband and wife 😂😅 #fypシ #birds",
+   "views": 514,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "pzfoBsLTomU",
+   "ch": "Leide & Elias",
+   "cid": "UCz5TKeihsRkBrw8VHkkJhVQ",
+   "date": "2026-05-30",
+   "title": "Marido ciumento! Kkk  #bosque #registrodevida #papagaio #sho",
+   "views": 774,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "Zi5aORbDhP4",
+   "ch": "Learn Skills With SN",
+   "cid": "UCbU9ZpdgENFOo1zYB_ZtefA",
+   "date": "2026-08-29",
+   "title": "A jealous wife and a loyal husband 😁🦜🦜 #shorts #viral #fyp #",
+   "views": 146,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "JhPPkzLOVX8",
+   "ch": "The Dialogue Doctor",
+   "cid": "UCj2zEsB5pvJgcKjtPQijheQ",
+   "date": "2026-03-22",
+   "title": "Trapped Parrot Watches Wife Move On  Jealous Husband&#39;s F",
+   "views": 175,
+   "desc": "In episode 318, Editor Tom Hollbrook and Dialogue Doctor Jeff Elkins talk about why some stories feel broken and other stories feel strong. Check out the full episode at https://youtu.be/T4T_CjwVau0"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "ZQc_2ifa5x4",
+   "ch": "Farawla",
+   "cid": "UCiyu8ZR-TEYbc-rv1W8J1wA",
+   "date": "2026-11-15",
+   "title": "حكايات ألف ليلة وليلة: قصة التاجر والزوج مع الببغاء | كاملة ",
+   "views": 28,
+   "desc": "حكايات ألف ليلة وليلة: قصة التاجر مع الببغاءكاملة باللغة العربية مع الترجمة النصية!عاقبة التسرع في الحكم والغيرة العمياء، وكيف ندم الزوج أشد الندم بعد قتل طائره الوفي.#الف_ليلة_وليلة #قصص_عربية #التاجر_والببغاء #أدب_عربي #FarawlaStory #ArabianNights"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "y9GqnxT84rU",
+   "ch": "Echoes Of Faith",
+   "cid": "UCmGRNEhfJiKUQmmSbu8MomA",
+   "date": "2025-11-29",
+   "title": "A Jealous Husband Reincarnated As A Parrot After His Death ",
+   "views": 21,
+   "desc": "A Jealous Husband Died From His Suspicious And Reincarnated As A Parrot Eventually Bought By His Former Wife From A Pet Shop And Brought Back To His House . Life forced Him to Witness Her Life From His Cage #folkliterature #animals #history #marriage #facts"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "YFYtd7xm2qU",
+   "ch": "The Dialogue Doctor",
+   "cid": "UCj2zEsB5pvJgcKjtPQijheQ",
+   "date": "2026-04-22",
+   "title": "Trapped Parrot Watches Wife Move On  Jealous Husband&#39;s F",
+   "views": 75,
+   "desc": "In episode 318 of the Dialogue Doctor Podcast, Jeff and Tom talk about stories that work and stories that don’t. They discuss new stats on authors using AI to write and publish. And they talk about the state of their own careers and endeavors. Check out the full episode at https://youtu.be/T4T_CjwVa"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "tUohcxP32Ng",
+   "ch": "Kids Story Time ",
+   "cid": "UCul9PUGplmkAE5ldAjOaT-g",
+   "date": "2026-04-07",
+   "title": "He Said “You Are My Heartbeat”… Then I Checked His Phone! 😤📱",
+   "views": 76,
+   "desc": "Yesterday my husband said something very romantic… ❤️\nHe said, “You are my heartbeat!”\nSo today I checked his phone…\nand I found THREE more heartbeats! 😤😂\nNow I am not going to spare anyone!\nWatch this funny jealous parrot wife moment till the end!\nFollow for more funny parrot comedy shorts.\n#FunnyP"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "A14yUBxUWto",
+   "ch": "Ali_creations",
+   "cid": "UCmsHlYfvJ5KcFJ_2sDVtzuA",
+   "date": "2026-10-10",
+   "title": "Parrot speaks to jealous husband",
+   "views": 4,
+   "desc": "JEALOUS HUSBAND vs SAVAGE PARROT 😂🦜 | Funniest Parrot Ever! #Shorts\n\n**📌 Trending Description:**\n\nWhen a husband gets jealous, this savage talking parrot makes everything WORSE! 😂🦜 The parrot starts talking, exposes the husband's jealousy, and leaves him completely shocked! 😱🤣\n\nThis hilarious AI-gen"
+  },
+  {
+   "q": "parrot jealous husband",
+   "vid": "wlg41b6RYxI",
+   "ch": "Reverse Word AI",
+   "cid": "UCIzU9lBnp3WPSZr3SFyTwVA",
+   "date": "2026-09-13",
+   "title": "My Parrot Got Jealous of My Girlfriend 😂🦜💔 #funnyanimals #fu",
+   "views": 8,
+   "desc": "🦜😂 MY PARROT GOT JEALOUS OF MY GIRLFRIEND! 💔😭\n\nI honestly didn't expect my parrot to react like THIS when my girlfriend hugged me! 😂\n\nEverything started normally. My girlfriend was sitting beside me, gave me a little hug and said she missed me. ❤️\n\nThen I looked over at my African Grey parrot…\n\nHe w"
+  },
+  {
+   "q": "dog ignores owner after vet",
+   "vid": "75Myef3lDHw",
+   "ch": "HealthyDogTips",
+   "cid": "UCNF_PvShDOFgRFbiFMkrulA",
+   "date": "2025-12-19",
+   "title": "5 Things You Should NEVER Ignore in Your Dog (32-Year Vet Wa",
+   "views": 13848,
+   "desc": "After 32 years as a vet, I can tell you this: most dog health problems don’t start overnight—and they’re not solved with harsh meds.\n\nScooting, bad breath, puffy eyes, itchy paws, and stiff joints are early red flags most owners miss. The biggest long-term issue? Collagen loss, which affects joints,"
+  },
+  {
+   "q": "dog ignores owner after vet",
+   "vid": "BNakm_mn3Xk",
+   "ch": "Phoenix The Golden Boy",
+   "cid": "UC012UIkwTAJRUAOWlr1Kkgw",
+   "date": "2026-09-28",
+   "title": "When your Golden Retriever completely ignores you so you go ",
+   "views": 9233,
+   "desc": ""
+  },
+  {
+   "q": "dog ignores owner after vet",
+   "vid": "LO8vQNn4xKI",
+   "ch": "Good.DogGuide",
+   "cid": "UCEnNMTIJBECWQxl4B4z_00Q",
+   "date": "2025-12-19",
+   "title": "5 Things You Should NEVER Ignore in Your Dog (32-Year Vet Wa",
+   "views": 611,
+   "desc": "After 32 years as a vet, I can tell you this: most dog health problems don’t start overnight—and they’re not solved with harsh meds.\n\nScooting, bad breath, puffy eyes, itchy paws, and stiff joints are early red flags most owners miss. The biggest long-term issue? Collagen loss, which affects joints,"
+  },
+  {
+   "q": "dog ignores owner after vet",
+   "vid": "6KWo13xDZYg",
+   "ch": "Beach Avenue Animal Hospital",
+   "cid": "UCQ_5lNt4KZT1eaeVqd11tBw",
+   "date": "2026-04-13",
+   "title": "Episode 6: Dog Limping? 🚨 Don’t Ignore This (Vet Explains)",
+   "views": 562,
+   "desc": "Why is my dog limping? In this episode, the doctor explains the most common reasons a dog may start limping and what pet owners should do next.\n\nIf your dog is limping suddenly, limping on one leg, or showing mild to severe discomfort, this video walks you through possible causes such as injury, pai"
+  },
+  {
+   "q": "dog ignores owner after vet",
+   "vid": "uS1lsy6rnTw",
+   "ch": "HappyPupHacks",
+   "cid": "UCNRWibXlYK455RhHGtRIlnA",
+   "date": "2026-02-09",
+   "title": "20 years as a vet, This is the #1 thing dog owners ignore in",
+   "views": 683,
+   "desc": "WINTER WARNING FOR DOG OWNERS ⚠️\n\nAfter 20 years in veterinary medicine, I'm begging you to check your dog's paws. Rock salt and ice melt are causing chemical burns and poisoning dogs every single winter—and most owners have no idea.\n\nI'll never forget the Labrador who came into my ER last January.."
+  },
+  {
+   "q": "dog ignores owner after vet",
+   "vid": "i5jEdPancOs",
+   "ch": "Animex",
+   "cid": "UCVauXui7qAv29s-YRMklm_A",
+   "date": "2026-05-28",
+   "title": "The dog Refused to eating...Then the vet found this",
+   "views": 127,
+   "desc": "He refused to eat… for 2 days. 😟🐶\nThe vet’s discovery shocked everyone… 💔\nNever ignore when your dog suddenly stops eating. Sometimes it’s more serious than it looks. 🐾"
+  },
+  {
+   "q": "dog ignores owner after vet",
+   "vid": "VKuFYMpbN9g",
+   "ch": "ACT — Advanced Clinical Transformation",
+   "cid": "UCTJz-Nn57UQpVJwwaHH9NIA",
+   "date": "2026-03-18",
+   "title": "Vet Tech Secret: Never Ignore Owner&#39;s Bandage Concerns! ",
+   "views": 2,
+   "desc": "Technicians should never dismiss owner concerns about bandages. Always listen, provide peace of mind, and address issues early to build trust with pet owners. #VeterinaryTips #PetCare #DogHealth #AnimalWelfare"
   }
  ]
 }
