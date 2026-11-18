@@ -1,8 +1,0 @@
-ERROR: [twitter] 2121891719939788921: No video could be found in this tweet
-영상 없는 글(사진만): https://x.com/kingwest0219/status/2121891719939788921
-실패: https://x.com/kingwest0219/status/2121891719939788921
-total 16
-drwxr-xr-x 2 runner runner 4096 Nov 15 12:53 .
-drwxr-xr-x 3 runner runner 4096 Nov 15 12:53 ..
--rw-r--r-- 1 runner runner  222 Nov 15 12:53 log.txt
--rw-r--r-- 1 runner runner  919 Nov 15 12:53 x1.json
