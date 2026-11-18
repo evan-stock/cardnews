@@ -1,55 +1,24 @@
 [
  {
-  "id": "20261118-leetjh",
-  "slot": "lunch",
-  "mode": "send",
-  "topic": "리트 만점자 자택 앞 인터뷰(중앙일보): AI 부정 부인 '차라리 수사를 받겠다', 스토킹 폭로엔 '반대로 그 사람이 한 것 같다'",
-  "category": "국내 사회",
-  "risk": "따옴표는 중앙일보 11.17 인터뷰 원문만. 실명·개명 전 이름 쓰지 않음. 스토킹은 양쪽 주장 모두 미확인 명시.",
-  "images": [
-   "press01",
-   "press01",
-   "press02",
-   "press01"
+  "id": "20261118-leetsue",
+  "mode": "collect",
+  "slot": "evening",
+  "topic": "리트 만점자 현직 변호사 형사고발(관악경찰서), 시대인재 계약 해지",
+  "image_pages": [
+   "https://biz.heraldcorp.com/article/10941200",
+   "https://m.news.nate.com/view/20261118n17498",
+   "https://news.nate.com/view/20261118n17051",
+   "https://www.slist.kr/news/articleView.html?idxno=782797",
+   "https://www.topstarnews.net/news/articleView.html?idxno=16279685"
   ],
-  "slides": [
-   {
-    "lay": "one",
-    "t": "AI 부정 의혹 리트 만점자\n'차라리 수사를 받겠다'"
-   },
-   {
-    "sub": "AI 부정행위 의혹엔",
-    "t": "\"실력으로 얼마든지\n보여드릴 수 있다\"",
-    "b": "\"제가 라이브를 왜 하겠냐\"며\n조사가 개시되면 언제든 응하겠다고 했습니다"
-   },
-   {
-    "sub": "스토킹 폭로엔",
-    "t": "\"스토킹도 반대로\n그 사람이 한 것 같다\"",
-    "b": "\"지난해 가을부터 올해 초까지 계속 연락이 왔다\"며\n폭로자에게 법적 대응을 검토 중이라고 했습니다"
-   },
-   {
-    "t": "\"어디 도망가지\n않을 것\"",
-    "b": "19일 생중계 풀이, 이어서 올립니다"
-   }
+  "read_pages": [
+   "https://biz.heraldcorp.com/article/10941200",
+   "https://m.news.nate.com/view/20261118n17498",
+   "https://news.nate.com/view/20261118n17051",
+   "https://www.slist.kr/news/articleView.html?idxno=782797",
+   "https://www.topstarnews.net/news/articleView.html?idxno=16279685"
   ],
-  "caption": "[리트 만점자 \"차라리 수사를 받겠다\"]\n\nAI 부정행위 의혹을 받는 리트 첫 만점자가 17일 저녁 자택 앞에서 중앙일보 취재진을 만나 입장을 밝혔습니다.\n\n리트와 수능에서 AI를 한 번도 쓰지 않았느냐는 질문에 그는 \"그렇다. 실력으로 얼마든지 보여드릴 수 있다\"며 \"제가 라이브를 왜 하겠냐\"고 답했습니다. 이어 \"차라리 수사를 받겠다. 조사가 개시되면 언제든 적극 응하겠다\"고 했습니다.\n\n앞서 나온 스토킹 폭로는 강하게 부인했습니다. 그는 폭로자가 \"먼저 욕했다. 스토킹도 반대로 그 사람이 한 것 같다\"며 \"지난해 가을부터 올해 초까지 계속 연락이 왔다\"고 주장했고, 명예훼손 등 법적 대응을 검토 중이라고 밝혔습니다. 폭로자와 본인 주장 모두 아직 확인된 사실이 아닙니다.\n\n그는 \"목요일에 다 나올 거다. 지금은 기다려 달라\", \"어디 도망가지 않을 것\"이라고 했습니다. 19일 수능 국어 풀이 생중계를 예고한 상태입니다.\n\n목요일 생중계, 의혹을 풀 수 있을까요?",
-  "hashtags": [
-   "리트만점자",
-   "리트",
-   "AI부정행위",
-   "스토킹",
-   "수능"
-  ],
-  "sources": [
-   {
-    "publisher": "중앙일보",
-    "url": "https://m.news.nate.com/view/20261117n37559",
-    "date": "2026.11.17"
-   }
-  ],
-  "photo_credits": [
-   "중앙일보",
-   "유튜브 화면"
-  ]
+  "sources": [],
+  "limit": 14
  }
 ]
