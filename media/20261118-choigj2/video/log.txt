@@ -6,3 +6,11 @@ drwxr-xr-x 2 runner runner   4096 Nov 17 23:55 .
 drwxr-xr-x 3 runner runner   4096 Nov 17 23:55 ..
 -rw-r--r-- 1 runner runner    183 Nov 17 23:55 log.txt
 -rw-r--r-- 1 runner runner 158305 Nov 17 23:55 page2.html
+WARNING: [generic] Falling back on generic information extractor
+ERROR: Unsupported URL: https://news.jtbc.co.kr/article/NB12328499
+실패: https://news.jtbc.co.kr/article/NB12328499
+total 168
+drwxr-xr-x 2 runner runner   4096 Nov 18 01:30 .
+drwxr-xr-x 3 runner runner   4096 Nov 18 01:30 ..
+-rw-r--r-- 1 runner runner    588 Nov 18 01:36 log.txt
+-rw-r--r-- 1 runner runner 158305 Nov 18 01:36 page2.html
