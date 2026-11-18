@@ -1,1771 +1,2671 @@
 {
- "since": "2023-01-01",
+ "since": "2015-01-01",
  "fixed": [],
  "found": [
   {
-   "title": "Moabe Torneiro (MSM)",
-   "id": "UChGMPvNf7uQwU8ejmYJOThg",
-   "created": "2020-02-28",
-   "subs": "7450",
-   "videos": "830"
+   "title": "Xdan Cao",
+   "id": "UCWs155emuNlSkekuUaZ3n3g",
+   "created": "2017-02-23",
+   "subs": "3",
+   "videos": "590"
   },
   {
-   "title": "Matheus Rezende Usinagem",
-   "id": "UCwvNYGzmxBkHA4EBOUxjJeg",
-   "created": "2020-01-31",
-   "subs": "53600",
-   "videos": "758"
+   "title": "ANC 24/7",
+   "id": "UCvi6hEzLM-Z_unKPSuuzKvg",
+   "created": "2010-01-29",
+   "subs": "3190000",
+   "videos": "203733"
   },
   {
-   "title": "opelservice kyiv",
-   "id": "UCJgRRMcnoGLLZnh8oXY2Ijg",
-   "created": "2020-10-09",
-   "subs": "780000",
-   "videos": "832"
+   "title": "Built Uncovered",
+   "id": "UCiEDQzSy2J4xS4O2VoLQ4fw",
+   "created": "2026-09-06",
+   "subs": "16000",
+   "videos": "300"
   },
   {
-   "title": "Scila Alex Dicas",
-   "id": "UCwbm-xSlSmzpHOSRKa1drUw",
-   "created": "2025-09-30",
-   "subs": "70",
-   "videos": "27"
+   "title": "Montgomery Co EMA",
+   "id": "UCeIvZT3w_mpsKxEK3IteReA",
+   "created": "2015-04-16",
+   "subs": "117",
+   "videos": "63"
   },
   {
-   "title": "Neco Serviços automotivos",
-   "id": "UCs8ntd1KW59Q5RztKgS9-XQ",
-   "created": "2020-01-15",
-   "subs": "2650",
-   "videos": "540"
+   "title": "Dingo Visuals",
+   "id": "UCy71g3rABcQHIg5NBfn89bg",
+   "created": "2026-09-09",
+   "subs": "204",
+   "videos": "28"
   },
   {
-   "title": "DIY Auto Doctor",
-   "id": "UCR5vBugFsOmye9NyCagTvpw",
-   "created": "2024-11-23",
-   "subs": "11200",
-   "videos": "582"
+   "title": "139thAirliftWing",
+   "id": "UCoXmtpWb3GnS7FPvjQTofHA",
+   "created": "2010-09-08",
+   "subs": "766",
+   "videos": "230"
   },
   {
-   "title": "Dicas de Casa",
-   "id": "UCPiFpCiUL2y9-sWWfI-mvqg",
-   "created": "2023-01-18",
-   "subs": "367000",
-   "videos": "4379"
+   "title": "Quark to Coast",
+   "id": "UCEwqOZkQDJqXTwWFzcK32bw",
+   "created": "2026-07-23",
+   "subs": "436",
+   "videos": "121"
   },
   {
-   "title": "Criative Ideias",
-   "id": "UCQPaK9rLuiTKc_68L1IpHLA",
-   "created": "2024-06-01",
-   "subs": "297000",
-   "videos": "2697"
-  },
-  {
-   "title": "Vibran Tutoriais",
-   "id": "UCAW7MLAGccG6Yz1toOLXyIA",
-   "created": "2011-05-30",
-   "subs": "9440",
-   "videos": "240"
-  },
-  {
-   "title": "Carriel Produções",
-   "id": "UC-ip5HKslGEJPa1U3U6NbQQ",
-   "created": "2012-01-01",
-   "subs": "2830",
-   "videos": "303"
-  },
-  {
-   "title": "Wonder Wise",
-   "id": "UCqdoRgVMMQyBh_ETyyUCXEQ",
-   "created": "2025-11-22",
-   "subs": "440",
-   "videos": "261"
-  },
-  {
-   "title": "That SUBARU Guy",
-   "id": "UCWS1R4G_cAjA7MV_sDcl_ag",
-   "created": "2022-01-23",
-   "subs": "73900",
-   "videos": "846"
-  },
-  {
-   "title": "Canal 2 Tempos",
-   "id": "UCGdAaWh1UbBFSoD-vztgYBA",
-   "created": "2020-09-07",
-   "subs": "23600",
-   "videos": "910"
-  },
-  {
-   "title": "Joilton torneiro",
-   "id": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "created": "2019-10-13",
-   "subs": "160000",
-   "videos": "1395"
-  },
-  {
-   "title": "bruno cb",
-   "id": "UCadXj6yNFlbJ0V-Kd0EoatQ",
-   "created": "2020-06-01",
-   "subs": "643000",
-   "videos": "575"
-  },
-  {
-   "title": "Encanamentos na Prática",
-   "id": "UCdLgsftq4RGvwF2fL8PYXTA",
-   "created": "2021-03-16",
-   "subs": "3790",
-   "videos": "145"
-  },
-  {
-   "title": "SRN Retífica ",
-   "id": "UC9NOhwRCYcF9QQldnG4BsIw",
-   "created": "2016-08-21",
-   "subs": "4020",
-   "videos": "410"
-  },
-  {
-   "title": "Gambiarras e Soluções ",
-   "id": "UCiNxFnhgRLtJ6-slwWVDJqQ",
-   "created": "2024-05-13",
-   "subs": "542000",
-   "videos": "2791"
-  },
-  {
-   "title": "Júnior ferreira ",
-   "id": "UCncO3HtRRvsHvpV3Eeen56g",
-   "created": "2020-05-05",
-   "subs": "26400",
-   "videos": "333"
-  },
-  {
-   "title": "Astemac Usinagem - José Antônio ",
-   "id": "UC9NGWDkqXfhRixj0ngpa6lA",
-   "created": "2025-09-03",
-   "subs": "115",
-   "videos": "10"
-  },
-  {
-   "title": "Top10 curso",
-   "id": "UCu0KdF_BnXCnvJlv7-cYEfA",
-   "created": "2019-12-12",
-   "subs": "119000",
-   "videos": "5099"
-  },
-  {
-   "title": "HEAVY KINETICS",
-   "id": "UCkHxvZYFEowBuxpOLSqZYlw",
-   "created": "2026-07-06",
-   "subs": "29",
-   "videos": "37"
-  },
-  {
-   "title": "Daily hacks 360",
-   "id": "UChbowfozU--Fipm2RywoT5A",
-   "created": "2024-01-30",
-   "subs": "27900",
-   "videos": "119"
-  },
-  {
-   "title": "Sanderson Feliciano",
-   "id": "UC4m1nzP7eKw4sFSXhnJtpKQ",
-   "created": "2015-02-25",
-   "subs": "4100",
-   "videos": "534"
-  },
-  {
-   "title": "Vinicinn_torneiro",
-   "id": "UC4O_F_Xt1Z2ZKV3v9icmhCA",
-   "created": "2016-07-17",
-   "subs": "129000",
-   "videos": "1503"
-  },
-  {
-   "title": "Cunha & Filho manutenções",
-   "id": "UCUpPxB3QO1m9kau-CrKM_sg",
-   "created": "2022-04-27",
-   "subs": "94800",
-   "videos": "763"
-  },
-  {
-   "title": "Canal do Azeitona (Dicas e Experiências)",
-   "id": "UCEiTSzzEqehfw8tbAlaf1lQ",
-   "created": "2011-10-06",
-   "subs": "12300",
-   "videos": "416"
-  },
-  {
-   "title": "MANIFACO",
-   "id": "UCdbUdwrSzWbofkJKEu7TiEA",
-   "created": "2014-11-26",
-   "subs": "1740000",
-   "videos": "8138"
-  },
-  {
-   "title": "GMF",
-   "id": "UC7oz7SHjyySTjerDR6HebUg",
-   "created": "2021-07-18",
-   "subs": "181000",
-   "videos": "888"
-  },
-  {
-   "title": "AutoDIY Express",
-   "id": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "created": "2023-12-07",
-   "subs": "15300",
-   "videos": "187"
-  },
-  {
-   "title": "Ideia que Funciona",
-   "id": "UCq-OCkK9DTOhtLs4owZd5XQ",
-   "created": "2024-06-05",
-   "subs": "438000",
-   "videos": "2594"
-  },
-  {
-   "title": "Mundo da Curiosidade ",
-   "id": "UCSRBHf6-EDcXK9K63YmkUGA",
-   "created": "2023-12-18",
-   "subs": "235000",
-   "videos": "781"
-  },
-  {
-   "title": "Criando em 3 minutos",
-   "id": "UCRTusoA-0dhJdpWFdHt7wkg",
-   "created": "2022-12-31",
-   "subs": "14500",
-   "videos": "391"
-  },
-  {
-   "title": "Emerson torneiro ",
-   "id": "UCVSFA1z4w1Mlhp8_N5RBYFQ",
-   "created": "2025-04-25",
-   "subs": "1090",
-   "videos": "55"
-  },
-  {
-   "title": "Dave's Auto Center",
-   "id": "UCRMiFgN0EEIPrhJP58kRMyw",
-   "created": "2015-04-24",
-   "subs": "1680000",
-   "videos": "1154"
-  },
-  {
-   "title": "Europa Ferramentas",
-   "id": "UCl7GXEAAg4ETi2aPIDoBHng",
-   "created": "2016-07-07",
-   "subs": "2500",
-   "videos": "22"
-  },
-  {
-   "title": "Maker Garage 101",
-   "id": "UCgwysjiRiGjaueWY5GJABcQ",
-   "created": "2012-08-22",
-   "subs": "2790",
-   "videos": "467"
-  },
-  {
-   "title": "KNR channel13",
-   "id": "UCWo4QprZYR0t8hpRLPTpyug",
-   "created": "2015-05-31",
-   "subs": "24900",
-   "videos": "2087"
-  },
-  {
-   "title": "Canal do Cabeçoteiro",
-   "id": "UCC39wTy8q-ADpFdZjo3IV3A",
-   "created": "2020-06-06",
-   "subs": "1040000",
-   "videos": "5280"
-  },
-  {
-   "title": " Ponto Duas Rodas ",
-   "id": "UC14yZTBHnL5ORDwqCMb2hwg",
-   "created": "2016-04-30",
-   "subs": "44100",
-   "videos": "1790"
-  },
-  {
-   "title": "Classic Cars Mechanic",
-   "id": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "created": "2013-11-21",
-   "subs": "214000",
-   "videos": "515"
-  },
-  {
-   "title": "Escola de Nerd",
-   "id": "UC39TPbWI3g__bXUg--gX1qA",
-   "created": "2016-06-15",
-   "subs": "153",
-   "videos": "11"
-  },
-  {
-   "title": "Pox Serralheria Tutoriais",
-   "id": "UCqXbjA9arOBXgoucrvG9fCQ",
-   "created": "2013-07-07",
-   "subs": "579000",
-   "videos": "1099"
-  },
-  {
-   "title": "TO Motos",
-   "id": "UCVIZGRRU8HmUaP2Vj3pqxWA",
-   "created": "2013-03-12",
-   "subs": "3720",
-   "videos": "461"
-  },
-  {
-   "title": "Aprendendo Fatos",
-   "id": "UCELLXcSJSnmu525tWmqhyPQ",
-   "created": "2012-12-25",
-   "subs": "338000",
-   "videos": "1587"
-  },
-  {
-   "title": "TechLuck",
-   "id": "UCB_FBd6m15njo6X0q5fPfiA",
-   "created": "2025-06-10",
-   "subs": "152000",
-   "videos": "1012"
-  },
-  {
-   "title": "Gleidson Motos ",
-   "id": "UCsOCtUWqTYzuiswS3ONHQYw",
-   "created": "2010-07-23",
-   "subs": "237",
-   "videos": "150"
-  },
-  {
-   "title": "Casal Gambiarra11",
-   "id": "UCKxX3kdF7uEyjIUBhxSajYg",
-   "created": "2022-12-26",
-   "subs": "235000",
-   "videos": "2037"
-  },
-  {
-   "title": "HGTV [생활의 발견]",
-   "id": "UCq88DcgGj7J9JmEF1H1bEtQ",
-   "created": "2024-04-07",
-   "subs": "26500",
-   "videos": "449"
-  },
-  {
-   "title": "Yudi Cekodt Short",
-   "id": "UC9OEGeFON0MN4d3-wZ23ADw",
-   "created": "2014-10-06",
-   "subs": "395000",
-   "videos": "3533"
-  },
-  {
-   "title": "獵影山谷",
-   "id": "UCuOm-OqqgI6QAmTnn7Ehc8w",
-   "created": "2025-06-01",
-   "subs": "2600",
-   "videos": "3935"
-  },
-  {
-   "title": "GHOSTFACE WORKSHOP",
-   "id": "UCZn_lgUk9cCB6n0uB6zlqGQ",
-   "created": "2018-06-16",
-   "subs": "26300",
-   "videos": "666"
-  },
-  {
-   "title": "Clank Theory",
-   "id": "UCml9SY7-OPZcFw6tO1X3eLw",
-   "created": "2026-10-15",
-   "subs": "53",
+   "title": "What Changes First?",
+   "id": "UCa37ED0hO9aapBKrZk7m8yQ",
+   "created": "2026-08-13",
+   "subs": "1",
    "videos": "59"
   },
   {
-   "title": "BARA BUDAYA",
-   "id": "UC-_HcA0kHIvUMpU3Ca61ZmA",
-   "created": "2015-05-06",
-   "subs": "13800",
-   "videos": "6552"
+   "title": "Keeng New",
+   "id": "UC4QkST7pr21Wg0nfLJj_Yqg",
+   "created": "2017-02-22",
+   "subs": "3",
+   "videos": "263"
   },
   {
-   "title": "MUNNA LEATH ",
-   "id": "UCx1bQM-zKsuElZIMEOD1DTA",
-   "created": "2023-01-23",
-   "subs": "38",
-   "videos": "18"
+   "title": "Arini Fousty Badri",
+   "id": "UCgqlr3U6LePf0Z_syA0vQfQ",
+   "created": "2014-09-11",
+   "subs": "8150",
+   "videos": "980"
   },
   {
-   "title": "Garage15",
-   "id": "UCvX23gr4XXKiOrjAlhNkneg",
-   "created": "2026-06-03",
-   "subs": "348",
-   "videos": "149"
+   "title": "Be the Perfect",
+   "id": "UCUaXsYoHlJvKdeLTfmFAWrA",
+   "created": "2017-06-18",
+   "subs": "100000",
+   "videos": "952"
   },
   {
-   "title": "Imperial Sky",
-   "id": "UC1gGi2YnL7_QWhEtxez2M7Q",
-   "created": "2019-02-03",
-   "subs": "16500",
-   "videos": "5596"
+   "title": "Sachin 46",
+   "id": "UC5-HjqwIf4PUbHGPQ9WhZjw",
+   "created": "2024-05-08",
+   "subs": "163000",
+   "videos": "1164"
   },
   {
-   "title": "Monis Turner Mechanical.🛠️",
-   "id": "UCxFPht5kmKwm04c425ifVGw",
-   "created": "2023-10-11",
-   "subs": "1790",
-   "videos": "893"
+   "title": "GeologyFacts",
+   "id": "UCUpqqj4XAzxCisRWCtBCJiA",
+   "created": "2013-08-22",
+   "subs": "150",
+   "videos": "77"
   },
   {
-   "title": "Fixora",
-   "id": "UCnmsK4n___Fj9p2K4cu0Mng",
-   "created": "2025-12-08",
-   "subs": "1",
-   "videos": "14"
+   "title": "tulsaworld",
+   "id": "UCYNkLAftqsda2W3KKE6tvYg",
+   "created": "2007-08-23",
+   "subs": "52500",
+   "videos": "12887"
   },
   {
-   "title": "POV Man",
-   "id": "UCWciG0daLD0mMhgMO7s3i_A",
-   "created": "2025-10-20",
-   "subs": "1890",
-   "videos": "697"
+   "title": "세상짚기",
+   "id": "UCrWyV0juMIhtZvnniTrQItw",
+   "created": "2026-10-31",
+   "subs": "5",
+   "videos": "23"
   },
   {
-   "title": "LNG Films ",
-   "id": "UCCqMBj0nfA7TKv-8gqs92gA",
-   "created": "2021-09-27",
-   "subs": "508",
-   "videos": "284"
+   "title": "Dari Pondasi ke Atap",
+   "id": "UC1yTHLbWUCcFRnSbvN93IrQ",
+   "created": "2026-07-30",
+   "subs": "7910",
+   "videos": "133"
   },
   {
-   "title": "Body Equilibrium",
-   "id": "UCcpKz8tvKwqaXJplnJ2Ts4w",
-   "created": "2023-12-31",
+   "title": "Simulated What ifs",
+   "id": "UCd-XnF9QdUYmC8gSGmkqV6g",
+   "created": "2026-10-12",
+   "subs": "565",
+   "videos": "159"
+  },
+  {
+   "title": "Sudal Rai",
+   "id": "UC5noVwZoFsGcv2hwa3rYTxA",
+   "created": "2017-11-03",
+   "subs": "346",
+   "videos": "6"
+  },
+  {
+   "title": "California Conservation Corps",
+   "id": "UCvc5inRZNRG8yCOVoBTA_qA",
+   "created": "2007-09-20",
+   "subs": "4880",
+   "videos": "555"
+  },
+  {
+   "title": "Yard Slice",
+   "id": "UCgB9gjBJ8kmn0eCYR0rIBhQ",
+   "created": "2026-11-02",
+   "subs": "230",
+   "videos": "8"
+  },
+  {
+   "title": "College of Engineering - Oregon State University",
+   "id": "UCkEX1IFsyGHm-nxbL8K7Y7w",
+   "created": "2017-05-25",
+   "subs": "5390",
+   "videos": "405"
+  },
+  {
+   "title": "Against the Glitch Stories",
+   "id": "UCP73GccQEmBMW_NevJLNxPA",
+   "created": "2026-09-21",
+   "subs": "20",
+   "videos": "32"
+  },
+  {
+   "title": "DOST- PHIVOLCS",
+   "id": "UC2wloNmamASN3LtJhOVze2g",
+   "created": "2015-01-04",
+   "subs": "15400",
+   "videos": "106"
+  },
+  {
+   "title": "건축지식60초",
+   "id": "UCeb34VJ1Q_tzb5V48IfvaMA",
+   "created": "2026-09-05",
+   "subs": "6670",
+   "videos": "236"
+  },
+  {
+   "title": "Slab to Roof",
+   "id": "UCvBxSPPpdieX1XV-9GDn6Rg",
+   "created": "2026-07-27",
+   "subs": "73",
+   "videos": "71"
+  },
+  {
+   "title": "Express Stories",
+   "id": "UCg5agvAeAB0JRetkdkwfzfg",
+   "created": "2026-02-13",
+   "subs": "6620",
+   "videos": "601"
+  },
+  {
+   "title": "Thomas Fay",
+   "id": "UCatA890grIYQoEe2aR83Ugw",
+   "created": "2012-09-16",
+   "subs": "60",
+   "videos": "2"
+  },
+  {
+   "title": "Failsafe Engineering",
+   "id": "UCq20ySzd3CjWVlnHMa-ZNKg",
+   "created": "2022-01-09",
+   "subs": "328",
+   "videos": "43"
+  },
+  {
+   "title": "Don't Be Steve",
+   "id": "UCG-t3RjMzWrqrGH3FMD3OFw",
+   "created": "2026-03-23",
+   "subs": "5100",
+   "videos": "27"
+  },
+  {
+   "title": "Oscillate Archive",
+   "id": "UCiRJmhEoUrHwAGUfCocv8mA",
+   "created": "2026-05-16",
+   "subs": "7",
+   "videos": "73"
+  },
+  {
+   "title": "Hüttinger Interactive Exhibitions",
+   "id": "UCuH08dlec5Bd_EL6FiHuzpQ",
+   "created": "2011-11-30",
+   "subs": "1880",
+   "videos": "226"
+  },
+  {
+   "title": "Huh Files",
+   "id": "UCsWT4HjJx1N9Z6R03Hup7Uw",
+   "created": "2013-11-02",
+   "subs": "28",
+   "videos": "47"
+  },
+  {
+   "title": "California DWR",
+   "id": "UCTTvFfFatgWr6jv1jVgei1w",
+   "created": "2008-01-09",
+   "subs": "22200",
+   "videos": "1075"
+  },
+  {
+   "title": "STRANGE BUT TRUE Official",
+   "id": "UCjxVHnIF8caEfboFMZ3FqAQ",
+   "created": "2026-02-19",
    "subs": "99",
-   "videos": "865"
+   "videos": "23"
   },
   {
-   "title": "Doktech HD",
-   "id": "UConp5I3L0_FrgsOF5OQ145w",
-   "created": "2018-03-02",
-   "subs": "1570000",
-   "videos": "249"
+   "title": "AvatarBoy_132",
+   "id": "UCPWiqBrq0WlnVDgBMxvIXlA",
+   "created": "2020-04-08",
+   "subs": "30",
+   "videos": "33"
   },
   {
-   "title": "AMAZING WORK TOOLS",
-   "id": "UCGCj3cdnIlZPpr1SycmuBSw",
-   "created": "2016-06-13",
-   "subs": "4260",
-   "videos": "477"
+   "title": "US Military Moments 5",
+   "id": "UCaEBLGDWOFFWBnpvRQDQeTw",
+   "created": "2020-02-23",
+   "subs": "858",
+   "videos": "2917"
   },
   {
-   "title": "天气微凉淡淡月光",
-   "id": "UCPP2wdaQxDGGC73YUGd6ibA",
-   "created": "2022-12-08",
-   "subs": "19500",
-   "videos": "884"
+   "title": "You Made It Bro",
+   "id": "UCntuCtHTYlTUHww8IJEsRsg",
+   "created": "2026-10-28",
+   "subs": "217",
+   "videos": "16"
   },
   {
-   "title": "Mas Kliwon",
-   "id": "UC920cFglBUzqa8Vx_dxW9yA",
-   "created": "2024-03-27",
-   "subs": "11300",
-   "videos": "2573"
+   "title": "How It Got Here",
+   "id": "UCpbHMiYmDLpVmBT1GFkj4Vg",
+   "created": "2026-07-15",
+   "subs": "399",
+   "videos": "172"
   },
   {
-   "title": "The Tech Solution ",
-   "id": "UCz4v6SS6BcQFThhg4uPw8ng",
-   "created": "2025-10-29",
-   "subs": "287",
-   "videos": "141"
+   "title": "2learn",
+   "id": "UC7ffVduhdnzyC9mxSLZvk2Q",
+   "created": "2022-08-22",
+   "subs": "336",
+   "videos": "38"
   },
   {
-   "title": "Swift Mechanic DIY",
-   "id": "UC6WePDo7OUfvgzFdBrXj5RA",
-   "created": "2026-05-24",
-   "subs": "1920",
-   "videos": "214"
+   "title": "Catastrophe Dynamics",
+   "id": "UC2IRIAfssdBDTbUrPPAegZg",
+   "created": "2021-03-09",
+   "subs": "145",
+   "videos": "72"
   },
   {
-   "title": "Success Master",
-   "id": "UCCBtIk-vCx7ERtGL0rR4znQ",
-   "created": "2022-07-21",
-   "subs": "947",
-   "videos": "225"
+   "title": "The Restless Planet",
+   "id": "UCGZ05SGJTbAlFz76WzQ_5Zg",
+   "created": "2026-10-10",
+   "subs": "741",
+   "videos": "43"
+  },
+  {
+   "title": "CBS News Sacramento",
+   "id": "UCxZMOY2RdtK6LQUbIYgec4A",
+   "created": "2009-04-14",
+   "subs": "212000",
+   "videos": "62705"
+  },
+  {
+   "title": "WWLTV",
+   "id": "UCJCreS7pODbA6XYRsI5fdLg",
+   "created": "2017-02-17",
+   "subs": "653000",
+   "videos": "57205"
+  },
+  {
+   "title": "Ingenuity Revealed",
+   "id": "UCAd-VwhFon-ECWaZoDYDHww",
+   "created": "2026-10-08",
+   "subs": "3700",
+   "videos": "60"
+  },
+  {
+   "title": "Jay Silverheals",
+   "id": "UCcq4VkR8btvUw-bgYUBN_yw",
+   "created": "2013-06-11",
+   "subs": "3360",
+   "videos": "1748"
+  },
+  {
+   "title": "Cam Like",
+   "id": "UC3T4B43Ub68Ro3abiKbZrgQ",
+   "created": "2017-02-19",
+   "subs": "6",
+   "videos": "597"
+  },
+  {
+   "title": "Current Facts Daily ",
+   "id": "UCrjGlEVp8pAwIGL1IoGPGaw",
+   "created": "2020-12-31",
+   "subs": "7760",
+   "videos": "122"
+  },
+  {
+   "title": "sistemasocultos",
+   "id": "UCThTLCM6awncRt-KLiX6UTQ",
+   "created": "2026-11-08",
+   "subs": "38",
+   "videos": "22"
+  },
+  {
+   "title": "KSDK News",
+   "id": "UCVHTypjbrXH-maZaIkwweJA",
+   "created": "2017-02-17",
+   "subs": "525000",
+   "videos": "72127"
+  },
+  {
+   "title": "Dig To Done",
+   "id": "UCiSM9EuT44qCwXlMlb-4h0g",
+   "created": "2026-09-17",
+   "subs": "53",
+   "videos": "5"
+  },
+  {
+   "title": "MG Best Deals- By louie",
+   "id": "UCTJ-VVT3UKkoVkZ1J8BP8ow",
+   "created": "2018-04-23",
+   "subs": "197",
+   "videos": "6"
+  },
+  {
+   "title": "Regnar",
+   "id": "UC_Ol4yVT1wpweJ9-c46L-pQ",
+   "created": "2010-04-01",
+   "subs": "2",
+   "videos": "3"
+  },
+  {
+   "title": "Cosmic Fault",
+   "id": "UCiudZ8b0Seh_-Bnnj1i6HoA",
+   "created": "2025-04-15",
+   "subs": "106",
+   "videos": "5"
+  },
+  {
+   "title": "Secrets of Earth",
+   "id": "UCQsqXo1HZO0CN2meaPxiszQ",
+   "created": "2026-09-01",
+   "subs": "121",
+   "videos": "35"
+  },
+  {
+   "title": "PTV Philippines",
+   "id": "UCJCUbMaY593_4SN1QPG7NFQ",
+   "created": "2011-02-07",
+   "subs": "2430000",
+   "videos": "387877"
+  },
+  {
+   "title": "뜻밖의 컷",
+   "id": "UCqgM7D1wWOHlP9wRi72fANA",
+   "created": "2026-10-20",
+   "subs": "59",
+   "videos": "121"
+  },
+  {
+   "title": "Fast Science",
+   "id": "UCCv7QtS3aCvrFo-Xzn-jWdA",
+   "created": "2026-01-25",
+   "subs": "621",
+   "videos": "549"
+  },
+  {
+   "title": "Enginyr2025",
+   "id": "UCUWmAZKdZJSc7mDXXdVGykg",
+   "created": "2025-11-27",
+   "subs": "2110",
+   "videos": "901"
+  },
+  {
+   "title": "Earth Facts",
+   "id": "UCH-wliFr28sFPEneeKQzu5w",
+   "created": "2026-06-18",
+   "subs": "105",
+   "videos": "200"
+  },
+  {
+   "title": "Civil Xplained",
+   "id": "UCRka-LAEbVEJnMoF-v_sniQ",
+   "created": "2026-04-24",
+   "subs": "15900",
+   "videos": "206"
+  },
+  {
+   "title": "CurioCrave",
+   "id": "UCoMhOHR11udk7J_-hODmDrQ",
+   "created": "2024-06-28",
+   "subs": "115",
+   "videos": "58"
+  },
+  {
+   "title": "CookyWee",
+   "id": "UC7z_gKd3mNIrjgyeY_NLbKg",
+   "created": "2026-06-04",
+   "subs": "144",
+   "videos": "407"
+  },
+  {
+   "title": "QuakeMate | Earthquakes & Tsunamis",
+   "id": "UCQxg6V8GXu6ejM2XpN1nCYw",
+   "created": "2026-09-28",
+   "subs": "20",
+   "videos": "20"
+  },
+  {
+   "title": "Facts Unlocked",
+   "id": "UCPITI-EBLQGhQlqZq-GMEnQ",
+   "created": "2026-08-16",
+   "subs": "295",
+   "videos": "1044"
+  },
+  {
+   "title": "DOORBELL NEWS",
+   "id": "UCoAfOthCw3NVjyUrr2KW7UA",
+   "created": "2017-04-06",
+   "subs": "1230000",
+   "videos": "2136"
+  },
+  {
+   "title": "2023 Turkey-Syria Earthquakes Archive",
+   "id": "UCHdmq3WdZMxra0yxTX-3mCQ",
+   "created": "2023-12-02",
+   "subs": "428",
+   "videos": "769"
+  },
+  {
+   "title": "One PH",
+   "id": "UCi-D5IxBR2HahDyfJfqy7jA",
+   "created": "2019-05-23",
+   "subs": "2000000",
+   "videos": "67258"
+  },
+  {
+   "title": "FactVault",
+   "id": "UChtfi_zRbndDf9qyo_sJCcg",
+   "created": "2014-04-27",
+   "subs": "316",
+   "videos": "337"
+  },
+  {
+   "title": "The Thinking Horse",
+   "id": "UCuiIklC14oDrwWg0DnEYiVw",
+   "created": "2026-01-30",
+   "subs": "119",
+   "videos": "424"
+  },
+  {
+   "title": "DUNIA NGGAK MASUK AKAL",
+   "id": "UCc3gvRO5bDQTIXa0LRIFqZg",
+   "created": "2026-08-28",
+   "subs": "367",
+   "videos": "151"
+  },
+  {
+   "title": "Nature Disasters",
+   "id": "UC2W1JwfGHkazjWbN1IvSXkQ",
+   "created": "2025-05-08",
+   "subs": "46",
+   "videos": "168"
+  },
+  {
+   "title": "Tribun Flores",
+   "id": "UCVlBbKdVLBo77VEfNHlOcOA",
+   "created": "2021-08-06",
+   "subs": "171000",
+   "videos": "34406"
+  },
+  {
+   "title": "Free Education TV India",
+   "id": "UCVzCvxJAjVo6q0e8wFjzHDQ",
+   "created": "2025-09-13",
+   "subs": "1030",
+   "videos": "635"
+  },
+  {
+   "title": "Seismic Kiwi",
+   "id": "UC0qK0wo2iXGmSU-ofRmycMA",
+   "created": "2023-03-18",
+   "subs": "29400",
+   "videos": "242"
+  },
+  {
+   "title": "Flash Catastrophe",
+   "id": "UC_GGkv6J1dNyyXlOi66r2bg",
+   "created": "2025-12-14",
+   "subs": "635",
+   "videos": "212"
+  },
+  {
+   "title": "FactNova 7",
+   "id": "UClKSaT_z5KdLsII8HAe9keA",
+   "created": "2026-08-08",
+   "subs": "294",
+   "videos": "69"
+  },
+  {
+   "title": "헌터로그(HUNTERLOG)",
+   "id": "UCOTqZ7jKmcbtf8pdL4olwCw",
+   "created": "2026-07-05",
+   "subs": "713",
+   "videos": "196"
+  },
+  {
+   "title": "Felipe Ochoa",
+   "id": "UCQrUqMJf7QsTOVJOxSXyd0Q",
+   "created": "2008-02-20",
+   "subs": "4000",
+   "videos": "413"
+  },
+  {
+   "title": "Proof of Wonders",
+   "id": "UC4qNLXOlYSJBEd186FCobyA",
+   "created": "2026-06-29",
+   "subs": "47",
+   "videos": "69"
+  },
+  {
+   "title": "Book of Mormon Evidence",
+   "id": "UCHp1EBgpKytZt_-j72EZ83Q",
+   "created": "2012-02-17",
+   "subs": "14600",
+   "videos": "389"
+  },
+  {
+   "title": " Impossiblefieldnotes",
+   "id": "UCAM0hKd3m88DszWHwQeuq_A",
+   "created": "2026-01-22",
+   "subs": "30",
+   "videos": "41"
+  },
+  {
+   "title": "서울기술사학원",
+   "id": "UClEm71UgLZyI1AXAoZ8Gwfg",
+   "created": "2018-09-09",
+   "subs": "5770",
+   "videos": "643"
+  },
+  {
+   "title": "Zone R1",
+   "id": "UCmYjkYYigRhG-SpUzSnCyUg",
+   "created": "2025-11-08",
+   "subs": "71",
+   "videos": "24"
+  },
+  {
+   "title": "shohid87",
+   "id": "UCJ4tfNrR2N5OWcHI8ZKvT_Q",
+   "created": "2011-02-13",
+   "subs": "21",
+   "videos": "13"
+  },
+  {
+   "title": "IN Narration",
+   "id": "UCrkBq1ArKJ8QkYgYqFzjGWg",
+   "created": "2026-08-16",
+   "subs": "78",
+   "videos": "87"
+  },
+  {
+   "title": "One News PH",
+   "id": "UCzEAC4xGrhpShopTYgBhGJA",
+   "created": "2018-05-02",
+   "subs": "443000",
+   "videos": "65515"
+  },
+  {
+   "title": "rob mahon",
+   "id": "UC01Z2W7vdcUDrx07mv8Kdcg",
+   "created": "2013-10-17",
+   "subs": "270",
+   "videos": "31"
+  },
+  {
+   "title": "Construct Masterz",
+   "id": "UCduu0jv7139NvoksatDKsXA",
+   "created": "2020-12-16",
+   "subs": "162",
+   "videos": "104"
+  },
+  {
+   "title": "Donna's Wellness World",
+   "id": "UCWLMYdm_v9gW9rEunaaSDsg",
+   "created": "2024-07-08",
+   "subs": "1400",
+   "videos": "534"
+  },
+  {
+   "title": "Goran miniatur",
+   "id": "UCwXyOHasIRl82iLuUypzD3w",
+   "created": "2025-08-08",
+   "subs": "1170",
+   "videos": "143"
+  },
+  {
+   "title": "Curio Files",
+   "id": "UCuxBjyTPgf2v2K72BC_dx8A",
+   "created": "2026-07-22",
+   "subs": "27",
+   "videos": "49"
+  },
+  {
+   "title": "雑学の扉",
+   "id": "UCw97l2Np3Kcp553PCR6R-xA",
+   "created": "2024-10-05",
+   "subs": "5660",
+   "videos": "1680"
+  },
+  {
+   "title": "Planet Mechanics",
+   "id": "UClQjCDSdwPfIpBOE3-62Hog",
+   "created": "2026-10-04",
+   "subs": "15",
+   "videos": "16"
+  },
+  {
+   "title": "The Build Explained",
+   "id": "UC40eTbUp22x8wxRgmXDqy8Q",
+   "created": "2026-03-03",
+   "subs": "4630",
+   "videos": "460"
+  },
+  {
+   "title": "The Civil Side",
+   "id": "UCDmS4kGWOk_vjfvibYaiw5g",
+   "created": "2026-11-08",
+   "subs": "5",
+   "videos": "8"
+  },
+  {
+   "title": "Earth Unleashed",
+   "id": "UCDhhu1oe-TY6ZLpklhc4T0A",
+   "created": "2026-03-13",
+   "subs": "45",
+   "videos": "93"
+  },
+  {
+   "title": "Fieldnote Science",
+   "id": "UCXXRglc-QG6kUvzXIkrzNyQ",
+   "created": "2009-12-24",
+   "subs": "172",
+   "videos": "242"
+  },
+  {
+   "title": "RKK NEWS DIG",
+   "id": "UCG1ApxYbWaC9xUxgHCWyR5Q",
+   "created": "2011-07-21",
+   "subs": "41300",
+   "videos": "8481"
+  },
+  {
+   "title": "CIVIL VISION",
+   "id": "UCBtuiUjTfVT15wEucGXvmWw",
+   "created": "2025-01-25",
+   "subs": "28",
+   "videos": "204"
+  },
+  {
+   "title": "TechHub - In a Nutshell",
+   "id": "UC31RU03llZBuDt0A6R3p4MQ",
+   "created": "2018-02-10",
+   "subs": "530",
+   "videos": "368"
+  },
+  {
+   "title": "Gulf Coast Fishing Homes Realty Greg Klesius",
+   "id": "UCbOR4qEnyzwX9l6WEDLW7ew",
+   "created": "2014-08-09",
+   "subs": "814",
+   "videos": "1833"
+  },
+  {
+   "title": "Still Figuring It Out",
+   "id": "UCRNbcrjGfiFYSc6lHi2eD_A",
+   "created": "2026-06-12",
+   "subs": "52",
+   "videos": "89"
+  },
+  {
+   "title": "Proverbs 31 Girl",
+   "id": "UCcL3WLPbXGUsuOmVTLvkXpA",
+   "created": "2012-11-12",
+   "subs": "1270",
+   "videos": "36"
+  },
+  {
+   "title": "Mia Erickson Stevens",
+   "id": "UC2tQ_Da6KtcG_xPyydsz0YQ",
+   "created": "2026-05-09",
+   "subs": "78",
+   "videos": "110"
+  },
+  {
+   "title": "How the Earth Was Sculpted",
+   "id": "UC-_-AhEamtI_aCD8n5XLS_g",
+   "created": "2026-08-05",
+   "subs": "7130",
+   "videos": "89"
+  },
+  {
+   "title": "natural science teacher",
+   "id": "UC1mSZKdclwWqHaBkrSYMZpw",
+   "created": "2023-04-02",
+   "subs": "548",
+   "videos": "73"
+  },
+  {
+   "title": "Generations Below",
+   "id": "UCM20Er1MYVWK0VLcYiO6uFg",
+   "created": "2022-06-04",
+   "subs": "7550",
+   "videos": "230"
+  },
+  {
+   "title": "Quantum Discoveries",
+   "id": "UC7l6P6aLaKjOH_Ueom2Q-NA",
+   "created": "2024-09-13",
+   "subs": "12",
+   "videos": "19"
+  },
+  {
+   "title": "tuxamation",
+   "id": "UCRbqKyfYxp0xaazWhuduhpw",
+   "created": "2008-05-10",
+   "subs": "87",
+   "videos": "57"
+  },
+  {
+   "title": "IslandGuyVAN",
+   "id": "UC2HNQSrVwYdv5lQnoXkVrTg",
+   "created": "2013-03-09",
+   "subs": "411",
+   "videos": "556"
+  },
+  {
+   "title": "Planet Enigmas",
+   "id": "UCGlcwC5TZW1l4gMTUSf3VKA",
+   "created": "2026-08-24",
+   "subs": "77",
+   "videos": "70"
+  },
+  {
+   "title": "Outside Tripp's",
+   "id": "UCTtmMh-it-T5nrsZYtA6-wQ",
+   "created": "2020-08-21",
+   "subs": "150",
+   "videos": "130"
+  },
+  {
+   "title": "WhyThisPlace",
+   "id": "UCYQSVWBAd8izNHpEYCChotQ",
+   "created": "2026-09-01",
+   "subs": "398",
+   "videos": "109"
+  },
+  {
+   "title": "Earth Central",
+   "id": "UC1Paaw2C3u-n2e6jQtIvnjA",
+   "created": "2014-03-27",
+   "subs": "11400",
+   "videos": "43617"
+  },
+  {
+   "title": "Cambridge Volcano Seismology",
+   "id": "UCkku2ejeDWRFTbhgTz7o84g",
+   "created": "2015-08-17",
+   "subs": "2150",
+   "videos": "41"
+  },
+  {
+   "title": "거침없이",
+   "id": "UCP97cebRM4b0q2P9N-knwJg",
+   "created": "2026-03-19",
+   "subs": "304",
+   "videos": "64"
+  },
+  {
+   "title": "Disaster Mechanics",
+   "id": "UClbSNiGJ36j6egxntsN4vBQ",
+   "created": "2026-08-31",
+   "subs": "2170",
+   "videos": "370"
+  },
+  {
+   "title": "Dr. Wendy Rocks",
+   "id": "UCattuUO9_ytbURJslOJahlg",
+   "created": "2019-10-28",
+   "subs": "3740",
+   "videos": "286"
+  },
+  {
+   "title": "Jarred Guidelli",
+   "id": "UCZNni3bk5725q8qOUIU9lbA",
+   "created": "2026-05-28",
+   "subs": "45",
+   "videos": "45"
+  },
+  {
+   "title": "Shrinidhi",
+   "id": "UCS0eDdJu8nB4WsfZtdyGSrQ",
+   "created": "2007-04-23",
+   "subs": "71",
+   "videos": "455"
+  },
+  {
+   "title": "Voyager's Diary - Through My Lenses",
+   "id": "UCHlKTFd9BLhjLEX66nfJbSg",
+   "created": "2021-01-27",
+   "subs": "19700",
+   "videos": "1942"
+  },
+  {
+   "title": "PhenomenalFeed",
+   "id": "UCrnmw1vHHbc3M9tLY7ZcOWQ",
+   "created": "2025-04-14",
+   "subs": "599000",
+   "videos": "229"
+  },
+  {
+   "title": "YuriOutdoors",
+   "id": "UCrjzc-1UzP6q1bKzRU5TGRA",
+   "created": "2020-01-02",
+   "subs": "304",
+   "videos": "525"
+  },
+  {
+   "title": "Brasil Inexplicado",
+   "id": "UCNHRZy62vY_HeV-C1-ZZ1vw",
+   "created": "2026-07-02",
+   "subs": "8710",
+   "videos": "65"
+  },
+  {
+   "title": "Lucky Sairus",
+   "id": "UCGxuw1JTzjZbkS5WPgRwaVg",
+   "created": "2022-04-20",
+   "subs": "44",
+   "videos": "35"
+  },
+  {
+   "title": "Scuba Chrysss",
+   "id": "UCjhf09yRnHC0OFlCzAYNThA",
+   "created": "2023-10-08",
+   "subs": "63",
+   "videos": "56"
+  },
+  {
+   "title": "The Florida Explorer",
+   "id": "UCSZ-geJw0l9bJau2q27bl3w",
+   "created": "2013-09-06",
+   "subs": "2080",
+   "videos": "1386"
+  },
+  {
+   "title": "Coralia Dives",
+   "id": "UCI5VU7P9YU_xBPDisWOrlaA",
+   "created": "2014-02-08",
+   "subs": "721000",
+   "videos": "2683"
+  },
+  {
+   "title": "Loop Detection",
+   "id": "UCqreip2N73G6mCpQCu2DF_w",
+   "created": "2017-02-05",
+   "subs": "40300",
+   "videos": "374"
+  },
+  {
+   "title": "Scott Rose",
+   "id": "UCtKcpmWxpiiLwCuRRQQxlJA",
+   "created": "2012-01-31",
+   "subs": "43",
+   "videos": "46"
+  },
+  {
+   "title": "Adam's Travels Places",
+   "id": "UCWRAxHGGezXqMeafiETtbPQ",
+   "created": "2012-02-23",
+   "subs": "2390",
+   "videos": "12288"
+  },
+  {
+   "title": "Fritz Leip",
+   "id": "UCrCd1DU4Dct5lc7BkJeASOw",
+   "created": "2009-07-11",
+   "subs": "1300",
+   "videos": "2543"
+  },
+  {
+   "title": "こにろぐ",
+   "id": "UCoCQi6qpPbPfGlFfFgE2Y1Q",
+   "created": "2026-10-19",
+   "subs": "43",
+   "videos": "66"
+  },
+  {
+   "title": "Atilla AtaAlp",
+   "id": "UCznRVtPJLjHjGK5ZwHqsvSw",
+   "created": "2016-10-10",
+   "subs": "31600",
+   "videos": "852"
+  },
+  {
+   "title": "WhatIf Studio",
+   "id": "UCUc3VxEBuUsbt2bMx2aKaQw",
+   "created": "2026-10-05",
+   "subs": "5",
+   "videos": "23"
+  },
+  {
+   "title": "Ibrahim Madera",
+   "id": "UCJmzOvoAAjmg6YP2Z4AKBPg",
+   "created": "2007-07-30",
+   "subs": "79",
+   "videos": "59"
+  },
+  {
+   "title": "UNTV News and Rescue",
+   "id": "UC3XaG-7UVi2vD8ZZEMNnnpw",
+   "created": "2014-05-30",
+   "subs": "5520000",
+   "videos": "147374"
+  },
+  {
+   "title": "지오테크 랩 - Geotech Lab",
+   "id": "UCkNgTQjU-DCyE2P6is05ukw",
+   "created": "2026-10-07",
+   "subs": "17",
+   "videos": "24"
+  },
+  {
+   "title": "구조의 시선(건축,토목,문화재)",
+   "id": "UCwDwOTdKMfh312xLwfBa54g",
+   "created": "2026-09-26",
+   "subs": "414",
+   "videos": "198"
   }
  ],
  "search_hits": [
   {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "cDHawpgov9E",
-   "ch": "Canal do Cabeçoteiro",
-   "cid": "UCC39wTy8q-ADpFdZjo3IV3A",
-   "date": "2025-09-24",
-   "title": "Rosca espanada na vela",
-   "views": 5992725,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "9YUR8W_-sMI",
-   "ch": "Mundo da Curiosidade ",
-   "cid": "UCSRBHf6-EDcXK9K63YmkUGA",
-   "date": "2026-02-24",
-   "title": "Como recuperar rosca espanada do motor sem trocar a peça.",
-   "views": 4471020,
-   "desc": "Créditos: @umamfaqihul\nComo recuperar rosca espanada do motor sem trocar a peça. #mecanica #manutenção #dicademecanico #reparoautomotivo"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "JTegfVS4WDw",
-   "ch": "Vibran Tutoriais",
-   "cid": "UCAW7MLAGccG6Yz1toOLXyIA",
-   "date": "2024-02-25",
-   "title": "Trocando bucha do Registro do chuveiro fácil e correto. #ban",
-   "views": 1529858,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "Z13YEPngrsI",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-05-21",
-   "title": "Veja Como Restaurar Rosca Espanada O passo A passo. #usinage",
-   "views": 431401,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "4182bdup6tU",
-   "ch": "Aprendendo Fatos",
-   "cid": "UCELLXcSJSnmu525tWmqhyPQ",
-   "date": "2025-08-15",
-   "title": "Se o problema é ROSCA ESPANADA aqui está a SOLUÇÃO 👏👏",
-   "views": 488694,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "UHUkwNhjoM4",
-   "ch": "bruno cb",
-   "cid": "UCadXj6yNFlbJ0V-Kd0EoatQ",
-   "date": "2024-02-17",
-   "title": "Rosca espanada ❌ #short #youtubeshorts #moto #mecanica #moto",
-   "views": 219530,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "pH-6EUPtfk8",
-   "ch": "Ideia que Funciona",
-   "cid": "UCq-OCkK9DTOhtLs4owZd5XQ",
-   "date": "2025-03-31",
-   "title": "Como consertar sua torneira pingando #dicas #torneira #reels",
-   "views": 349701,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "mWBkCl2enpI",
-   "ch": "Matheus Rezende Usinagem",
-   "cid": "UCwvNYGzmxBkHA4EBOUxjJeg",
-   "date": "2023-05-04",
-   "title": "Como Recuperar Rosca: Aprenda Passo a Passo!",
-   "views": 138179,
-   "desc": "Neste vídeo, você aprenderá passo a passo como recuperar rosca. Quando chegou uma peça com a rosca toda danificada, tive que repassar para uma rosca menor recuperando as 2 roscas da peça. Aprenda como fazer isso de forma simples e eficaz. Aprenda como recuperar rosca e faça você mesmo!!\n\nClique no l"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "ZAzLAuT0I-Q",
-   "ch": "Neco Serviços automotivos",
-   "cid": "UCs8ntd1KW59Q5RztKgS9-XQ",
-   "date": "2023-07-01",
-   "title": "Recuperação de rosca espanada.",
-   "views": 199326,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "it4Q9MUMoBM",
-   "ch": "Criando em 3 minutos",
-   "cid": "UCRTusoA-0dhJdpWFdHt7wkg",
-   "date": "2024-12-19",
-   "title": "O segredo para usar veda-rosca ! 😉 #VedaRosca #Segredo #Dica",
-   "views": 182418,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "eKZBOc8Lk5k",
-   "ch": "Gleidson Motos ",
-   "cid": "UCsOCtUWqTYzuiswS3ONHQYw",
-   "date": "2023-10-08",
-   "title": "rosca do bujão do óleo recuperada",
-   "views": 240873,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "tprSz-o1MIE",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-28",
-   "title": "Olha como fiz essa rosca muito rápido. #usinagem #metalúrgic",
-   "views": 113337,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "-WTX3BTB69E",
-   "ch": "Gambiarras e Soluções ",
-   "cid": "UCiNxFnhgRLtJ6-slwWVDJqQ",
-   "date": "2024-09-08",
-   "title": "Vazamento de torneira !!! Resolva sem veda rosca #encanador ",
-   "views": 143614,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "2yI6Qw6zTEI",
-   "ch": "Casal Gambiarra11",
-   "cid": "UCKxX3kdF7uEyjIUBhxSajYg",
-   "date": "2023-12-14",
-   "title": "Aprenda a maneira correta de passar veda rosca #dicas #torne",
-   "views": 165577,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "NFj9pfzG3cI",
-   "ch": "Top10 curso",
-   "cid": "UCu0KdF_BnXCnvJlv7-cYEfA",
-   "date": "2023-08-16",
-   "title": "Como eliminar pinga pinga da torneira pingando vazando conse",
-   "views": 136456,
-   "desc": "Vedante De Torneira Reparo Registro Carrapeta\nInscreva-se no CANAL Deixe seu LIKE Compartilhe o VÍDEO Obrigado por ASSISTIR \nhttps://www.youtube.com/c/ESCOTECV%C3%8DDEOAULA\nGrupo do facebook: \nhttps://www.facebook.com/groups/2750280925237313\nInstagram:\n@eugenio_escotec\n\nO nosso objetivo e que você a"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "4i5zJbZabRg",
-   "ch": " Ponto Duas Rodas ",
-   "cid": "UC14yZTBHnL5ORDwqCMb2hwg",
-   "date": "2023-08-06",
-   "title": "Rosca espanada no motor da Moto",
-   "views": 107106,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "YhZb_zWXX6U",
-   "ch": "SRN Retífica ",
-   "cid": "UC9NOhwRCYcF9QQldnG4BsIw",
-   "date": "2023-09-21",
-   "title": "Colocando Bucha na Rosca do Bujão Carter do Motor",
-   "views": 106144,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "6pMM7l9xAX0",
-   "ch": "Gambiarras e Soluções ",
-   "cid": "UCiNxFnhgRLtJ6-slwWVDJqQ",
-   "date": "2024-11-21",
-   "title": "Como consertar torneira quebrada sem quebrar parede #encanad",
-   "views": 81068,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "Ouiyzj7Y5_c",
-   "ch": "Criative Ideias",
-   "cid": "UCQPaK9rLuiTKc_68L1IpHLA",
-   "date": "2025-04-09",
-   "title": "Quebrou a torneira, um jeito fácil de resolver essa situação",
-   "views": 108585,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "iXC9Oz9cPAc",
-   "ch": "Cunha & Filho manutenções",
-   "cid": "UCUpPxB3QO1m9kau-CrKM_sg",
-   "date": "2025-08-04",
-   "title": "Vazamento no joelho da torneira da cozinha e olha no que deu",
-   "views": 89350,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "VaSkbu0HQeQ",
-   "ch": "MANIFACO",
-   "cid": "UCdbUdwrSzWbofkJKEu7TiEA",
-   "date": "2024-11-21",
-   "title": "Como consertar torneira vazando em 1 minuto!",
-   "views": 54620,
-   "desc": "Redes sociais oficiais:\n- Instagram: https://www.instagram.com/manifaco/?hl=pt-br\n- Facebook: https://www.facebook.com/manifaco\n- Tiktok: https://www.tiktok.com/@manifaco\n- Manifaco Testou: https://www.youtube.com/c/MANIFACO20\n- Kwai: https://www.kwai.com/@cutelariamanif\n\n- Seja um apoiador: https:/"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "yBrl0oV9uqY",
-   "ch": "Dicas de Casa",
-   "cid": "UCPiFpCiUL2y9-sWWfI-mvqg",
-   "date": "2025-07-05",
-   "title": "Dona de depósito ensina encanador consertar torneira vazando",
-   "views": 87139,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "Sulv23Mx6jw",
-   "ch": "Sanderson Feliciano",
-   "cid": "UC4m1nzP7eKw4sFSXhnJtpKQ",
-   "date": "2023-03-21",
-   "title": "Rosca do cano funda , como consertar by Sanderson",
-   "views": 42994,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "GxSPYb_INw8",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-18",
-   "title": "Forma certa de embuchamento de rosca. #usinagem #metalúrgica",
-   "views": 31323,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "MfnZ2-nrPJ8",
-   "ch": "TO Motos",
-   "cid": "UCVIZGRRU8HmUaP2Vj3pqxWA",
-   "date": "2025-04-21",
-   "title": "Como Recuperar a Rosca do ViraBrequim de Forma Profissional",
-   "views": 53395,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "jOvaIkpqipA",
-   "ch": "Encanamentos na Prática",
-   "cid": "UCdLgsftq4RGvwF2fL8PYXTA",
-   "date": "2025-01-11",
-   "title": "Torneira Espanada?Veja Como Resolver Rápido! #dica #ReparosD",
-   "views": 33252,
-   "desc": "Está lidando com uma torneira espanada? Não se preocupe! Neste vídeo rápido, mostramos uma solução prática e eficiente para resolver esse problema em minutos. Ideal para quem busca um reparo fácil e sem complicações. Assista agora e dê adeus à torneira solta!"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "VTzs67g_hE8",
-   "ch": "Moabe Torneiro (MSM)",
-   "cid": "UChGMPvNf7uQwU8ejmYJOThg",
-   "date": "2023-07-02",
-   "title": "Embuchamento da rosca do bloco do Corsa gm #bike #meme #car ",
-   "views": 32284,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "c3bLNV6aBuY",
-   "ch": "Pox Serralheria Tutoriais",
-   "cid": "UCqXbjA9arOBXgoucrvG9fCQ",
-   "date": "2024-01-23",
-   "title": "Como recuperar bujão de moto com rosca espanada",
-   "views": 23071,
-   "desc": "* Para acessar o(s) link(s) do(s) produto(s) mencionado(s) no vídeo \nclique em: 🔎 https://linktr.ee/Produtos_mencionados ou no final da descrição.\n\nNossos Parceiros:\n.............................................................\n🔎 Boxer Soldas\n✔ https://utapy.link/boxersoldas\n........................"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "2u3K3L5Grp4",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-20",
-   "title": "VEJA COMO FIZ PARA RECUPERAR UMA ROSCA NO TRATOR. #solda #us",
-   "views": 15930,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "GFcgghh3yAU",
-   "ch": "Canal do Azeitona (Dicas e Experiências)",
-   "cid": "UCEiTSzzEqehfw8tbAlaf1lQ",
-   "date": "2025-08-26",
-   "title": "Torneira do chuveiro espanou, o que fazer? #chuveiro #banhei",
-   "views": 24059,
-   "desc": "Torneira do chuveiro espanada.\nChuveiro não abre.\nTorneira do chuveiro não gira .\nTorneira do banheiro não abre."
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "9gg9bnE26AI",
-   "ch": "Carriel Produções",
-   "cid": "UC-ip5HKslGEJPa1U3U6NbQQ",
-   "date": "2023-12-18",
-   "title": "Dica Rápida para consertar uma Torneira Espanada #shorts",
-   "views": 19962,
-   "desc": "Assista ao vídeo e deixe o seu comentário, o seu like e compartilhe essa dica para todos os seus amigos e familiares. E não se esqueça de se inscrever em nosso canal para receber mais dicas e vídeos diversos. Obrigado por assistir e até a próxima!\nDeus te abençoe!\n.\n.\n.\n.\n#carrielproduções #torneira"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "DGEIO3YoWiE",
-   "ch": "Moabe Torneiro (MSM)",
-   "cid": "UChGMPvNf7uQwU8ejmYJOThg",
-   "date": "2024-06-07",
-   "title": "Rosca do pedivela Shimano recuperada, lado esquerdo #jesus #",
-   "views": 11154,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "OJErxwSS-rE",
-   "ch": "Júnior ferreira ",
-   "cid": "UCncO3HtRRvsHvpV3Eeen56g",
-   "date": "2025-09-06",
-   "title": "Como recuperar rosca espanada #dica #mecanico #carro",
-   "views": 13481,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "yJArbslrI8A",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-04",
-   "title": "FORMA CERTA DE FAZER EMBUCHAMENTO DE ROSCA. #solda #usinagem",
-   "views": 7195,
-   "desc": "Ganhe uma renda extra de sua PRÓPRIA CASA  DOLAR. \nComesse hoje mesmo e melhore a vida de sua FAMILIA. \nVer no link abaixo.\n.\nhttps://app.monetizze.com.br/r/AKH21963849/?u=GF55972\n\nRESTAURANDO UM  SEMI EIXO. #solda #usinagem #metalúrgica #torneiro #torno #tornomecanico #mecanica \n\nPessoal esse canal"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "U8vF8umJ4Ts",
-   "ch": "Scila Alex Dicas",
-   "cid": "UCwbm-xSlSmzpHOSRKa1drUw",
-   "date": "2025-10-13",
-   "title": "TORNEIRA ESPANADA, VAZANDO? #torneira #torneiravazando #troc",
-   "views": 8810,
-   "desc": "a minha torneira quebrou e eu precisei trocar o reparo, veja como está é fácil. Caso sua torneira esteja pingando trocar o reparo ou a borrachinha poderá ajudar"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "1ByQ9D43UPQ",
-   "ch": "Escola de Nerd",
-   "cid": "UC39TPbWI3g__bXUg--gX1qA",
-   "date": "2023-03-13",
-   "title": "ROSCA DA BENGALA ESPANADA TORNADO250/TWISTER250 #twister250 ",
-   "views": 7167,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "uFQDeMfEQDE",
-   "ch": "Europa Ferramentas",
-   "cid": "UCl7GXEAAg4ETi2aPIDoBHng",
-   "date": "2025-05-08",
-   "title": "NOVO!! Kit Reparo de roscas da Vela - Conserte Rosca Espanad",
-   "views": 9371,
-   "desc": "Este é um kit de roscas postiças com macho de rosqueamento, indicado para recuperar as roscas da velas, que espanam ao longo do tempo e conforme o mecânico remove e instala novamente é comum que as roscas apresentem problema. Utilizando este kit você consegue recuperar as roscas sem a necessidade de"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "gLY8xkdSwL8",
-   "ch": "Astemac Usinagem - José Antônio ",
-   "cid": "UC9NGWDkqXfhRixj0ngpa6lA",
-   "date": "2025-09-08",
-   "title": "Recuperar rosca M14 X 1,5 , caixa de direção . #torneiromeca",
-   "views": 2681,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "jnJEA1DP65M",
-   "ch": "Emerson torneiro ",
-   "cid": "UCVSFA1z4w1Mlhp8_N5RBYFQ",
-   "date": "2026-05-10",
-   "title": "Recuperando rosca espanada em molde de garrafa PET",
-   "views": 1246,
-   "desc": "Hoje vamos recuperar a rosca de um molde de garrafa PET que está espanada. Refaremos a rosca e criaremos uma nova bucha no torno.\n\nObrigado por assistir esse vídeo. Lembre de deixar o like e se inscrever no canal para continuar me acompanhando!\nQualquer dúvida, podem deixar nos comentários e eu resp"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "ytxd0vZa3tA",
-   "ch": "Canal 2 Tempos",
-   "cid": "UCGdAaWh1UbBFSoD-vztgYBA",
-   "date": "2024-12-18",
-   "title": "Como recuperar rosca espanada de qualquer máquina, moto ou c",
-   "views": 809,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "3qPXszCdUUI",
-   "ch": "GMF",
-   "cid": "UC7oz7SHjyySTjerDR6HebUg",
-   "date": "2024-09-22",
-   "title": "Thread Repair like Pro $180",
-   "views": 4702772,
-   "desc": "How to repair stripped threads\nThread repair techniques\nHeli-coil installation tutorial\nThread repair with tap and dye\nUsing thread inserts for repairs\nLoctite thread repair guide\nHow to use a thread repair kit\nRe-tapping threaded holes\nMetal thread repair solutions\nDIY thread repair methods"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "XWN-B17Qbzo",
-   "ch": "opelservice kyiv",
-   "cid": "UCJgRRMcnoGLLZnh8oXY2Ijg",
-   "date": "2023-03-21",
-   "title": "Repair of a stripped thread on an aluminum cylinder block #s",
-   "views": 2234747,
-   "desc": "Repair of a stripped thread on an aluminum cylinder block block\n\n#shorts #tools #carrepair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "j0HHj0xgQtg",
-   "ch": "Dave's Auto Center",
-   "cid": "UCRMiFgN0EEIPrhJP58kRMyw",
-   "date": "2023-12-11",
-   "title": "The best way to repair damaged threads - why we use Time Ser",
-   "views": 2426604,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "1F5QtbgN9JI",
-   "ch": "Classic Cars Mechanic",
-   "cid": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "date": "2023-07-16",
-   "title": "how to repair stripped threads? #classic #old #vintage #best",
-   "views": 323085,
-   "desc": "Dear friends, a simple and very useful method to solve the problem of failure of cylinder block threads and other parts. \n\n#amazing #american #art #attitude #auto #automobile #block #benz #benefits #car #cylinder #cadillac #chevrolet #chrysler #chevy #camaro #cool #diy #diesel #dodge #dailyvlog #eng"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "AphgNqK8LCI",
-   "ch": "Daily hacks 360",
-   "cid": "UChbowfozU--Fipm2RywoT5A",
-   "date": "2026-01-03",
-   "title": "ইঞ্জিনের নষ্ট হয়ে যাওয়া প্যাঁচ মেরামতের নিখুঁত পদ্ধতি | Engi",
-   "views": 161144,
-   "desc": "This video demonstrates the incredible engineering process of repairing damaged or stripped threads inside an engine block. The journey begins by filling the damaged hole with molten metal to create a solid foundation. Once hardened, a precise drilling technique is used to carve out brand-new thread"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "g4jqQKi5lXs",
-   "ch": "Maker Garage 101",
-   "cid": "UCgwysjiRiGjaueWY5GJABcQ",
-   "date": "2025-08-22",
-   "title": "SHOP PROVEN | DIY Fix Threads in Seconds with a Helicoil",
-   "views": 173276,
-   "desc": "Stripped bolt hole? No problem. DIY Fix Threads in Seconds with a Helicoil\nIn this quick #MG101Fasteners short, Sparky shows you how to rescue damaged internal threads using a helicoil insert — drill, tap, install, snap the tang, done! Perfect for aluminum, castings, and other soft metals that need "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "cTsFc-vMSBQ",
-   "ch": "Classic Cars Mechanic",
-   "cid": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "date": "2023-06-13",
-   "title": "How to repair stripped aluminum threads ? #howto #shorts #am",
-   "views": 71419,
-   "desc": "In this video, I repair the\nStripped threads of the\naluminum part of the\nRochester carburetor, which\nis used in most of the eight-\ncylinder engines of General\nMotors, with the lowest cost\nand the need for special\ntools.\n\n#vintage #classic #old #type #engine #transmission #body #all #part #car #cars "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "iUXEC8erWBM",
-   "ch": "Yudi Cekodt Short",
-   "cid": "UC9OEGeFON0MN4d3-wZ23ADw",
-   "date": "2026-10-15",
-   "title": "Repair a Completely Stripped Bolt Hole #MechanicTips #Thread",
-   "views": 85915,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "uaZ5eYunIhc",
-   "ch": "TechLuck",
-   "cid": "UCB_FBd6m15njo6X0q5fPfiA",
-   "date": "2026-07-02",
-   "title": "How to Repair Stripped Threads Perfectly Using Solid Thread ",
-   "views": 58938,
-   "desc": "🎥 *Title:*\nHow to Repair Stripped Threads Perfectly Using Solid Thread Inserts\n\n🛠️ *Tools Name:*\n - Power Drill\n - Twist Drill Bit (for enlarging the hole)\n - Thread Tap & Tap Handle/Adapter (for cutting new external threads)\n - Thread Insert Installation Tool\n - Angle Grinder (with sanding/grinding"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "cPU1GQUUX2w",
-   "ch": "HGTV [생활의 발견]",
-   "cid": "UCq88DcgGj7J9JmEF1H1bEtQ",
-   "date": "2026-11-09",
-   "title": "나사구멍 복구기술 #기계정비 #금속가공 #정비꿀팁",
-   "views": 53774,
-   "desc": "🔧 망가진 나사 구멍을 새것처럼 완벽하게 살려내는 미친 정비 기술!\n나사산이 뭉개져서 버려야 하는 기계 부품에 액체 금속을 채운 뒤, \n드릴과 탭으로 완벽하게 재생해 내는 속이 뻥 뚫리는 금속 가공 과정입니다.\n영상이 유익하고 신기하셨다면 구독과 좋아요 부탁드립니다!\n\n\n#기계정비 #나사산복구 #금속가공 #엔진수리 #정비꿀팁 #공구활용 #기술자 #수공예 #신기한공정 #DIY정비"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "39CJVyFH9uI",
-   "ch": "AutoDIY Express",
-   "cid": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "date": "2026-10-14",
-   "title": "Genius Thread Repair Insert Hack for Stripped Bolts! 🚗⚙️",
-   "views": 37545,
-   "desc": "Genius Thread Repair Insert Hack for Stripped Bolts! 🚗⚙️\n\nStruggling with a stripped, oversized, or damaged threaded hole in a heavy engine component like a flywheel, cylinder head, or engine block? Watch this genius brass thread insert repair hack to restore factory holding power in seconds!\nOver-t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "TVYzA4TyME8",
-   "ch": "Wonder Wise",
-   "cid": "UCqdoRgVMMQyBh_ETyyUCXEQ",
-   "date": "2026-08-06",
-   "title": "Precision Restoration of Worn Bolt Holes with Molten Metal #",
-   "views": 35888,
-   "desc": "1. Work Overview\nThe video demonstrates a specialized industrial maintenance procedure used to repair and restore heavily worn or stripped threaded bolt holes in heavy machinery components using a molten metal pour followed by precision drilling and tapping.\n\n2. Materials and Equipment Used\n- High-t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "nHuYWVx1aWA",
-   "ch": "That SUBARU Guy",
-   "cid": "UCWS1R4G_cAjA7MV_sDcl_ag",
-   "date": "2023-02-18",
-   "title": "Stripped plastic tread repair",
-   "views": 21432,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "injIx2v0brs",
-   "ch": "HEAVY KINETICS",
-   "cid": "UCkHxvZYFEowBuxpOLSqZYlw",
-   "date": "2026-08-15",
-   "title": "Most Satisfying Metal Thread Repair Ever! 2 🔩✨ #shorts",
-   "views": 30149,
-   "desc": "Don't throw away metal parts with stripped threads! Pouring molten metal, flush sanding, and retapping creates a brand new thread. Would you trust this repair? Let us know in the comments! 👇\n\n#shorts #metalworking #machining #diy #restoration #satisfying #lifehacks #tools #repair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "kcL8mff5oE0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-15",
-   "title": "How to Repair Damaged Thread Holes#shorts #mechanic #satisfy",
-   "views": 30316,
-   "desc": "How to Repair Damaged Thread Holes\n\nFirst, pour molten metal into the damaged threaded hole and let it solidify completely. Once hardened, drill precisely through the center of the metal fill. Finally, re-tap the hole to create new threads so the bolt fits securely again.#shorts #satisfying #repairs"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "e8Kib7Jfg-k",
-   "ch": "HEAVY KINETICS",
-   "cid": "UCkHxvZYFEowBuxpOLSqZYlw",
-   "date": "2026-08-12",
-   "title": "Most Satisfying Metal Thread Repair Ever! 🔩✨ #shorts",
-   "views": 28642,
-   "desc": "Don't throw away metal parts with stripped threads! Pouring molten metal, flush sanding, and retapping creates a brand new thread. Would you trust this repair? Let us know in the comments! 👇\n\n#shorts #metalworking #machining #diy #restoration #satisfying #lifehacks #tools #repair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "BgrY-Wop2VU",
-   "ch": "DIY Auto Doctor",
-   "cid": "UCR5vBugFsOmye9NyCagTvpw",
-   "date": "2026-06-06",
-   "title": "How To Easily Fix Stripped Threads With Metal",
-   "views": 40529,
-   "desc": "Don't throw away that stripped part just yet! Watch this satisfying and genius way to repair damaged bolt threads using molten metal. We filled the hole, leveled it flat, and re-drilled it back to perfection. Perfect DIY hack for machinists and automotive enthusiasts! What do you think of this techn"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "OeVEyHbjRiY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-25",
-   "title": "How to Repair Damaged Screw Thread Hole#shorts #satisfying #",
-   "views": 26674,
-   "desc": "How to Repair Damaged Screw Thread Hole\n\nThe process begins by pouring molten metal to fill the damaged hole. Once solidified, grind the surface smooth and flat. Next, drill a new hole precisely in the center. Finally, use a thread tap tool to create fresh internal threads, making it usable again.#s"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "iQEjB1bOdDs",
-   "ch": "Vinicinn_torneiro",
-   "cid": "UC4O_F_Xt1Z2ZKV3v9icmhCA",
-   "date": "2026-09-10",
-   "title": "Thread restored with melted tin! 🔥#Machining #Lathe #Metalwo",
-   "views": 25256,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "_PD8uN-fB1A",
-   "ch": "獵影山谷",
-   "cid": "UCuOm-OqqgI6QAmTnn7Ehc8w",
-   "date": "2026-09-08",
-   "title": "絕了！金屬液直接灌絲錐，硬核修復報廢螺紋孔 #金属液，攻丝，修孔，硬核工艺，手工",
-   "views": 23413,
-   "desc": "絕了！金屬液直接灌絲錐，硬核修復報廢螺紋孔\r\n液态攻丝 金属液直接灌丝锥，硬核攻丝过程\r\nPouring liquid metal into a tap to fix threads. Insane craftsmanship\r\n\r\n\r\n\r\n\r\n金属液，攻丝，修孔，硬核工艺，手工\r\nliquid metal, tapping, thread repair, welding, diy, craftsmanship\r\n野人,猎人,山谷,警察,冒险,生存,荒野求生,动作,惊悚,绑架,反击,复仇,搏斗,追捕,陷阱,救援,冲突,人与自然,野外生存,原始部落,逃亡,埋伏,遭遇战,警匪,对峙,困境,反转,悬"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "zCjUYelyzB0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-08",
-   "title": "How to Repair Damaged Screw Threads Properly#shorts #satisfy",
-   "views": 14311,
-   "desc": "How to Repair Damaged Screw Threads Properly\n\nhow to repair a damaged threaded hole using molten metal. First, pour liquid metal into the stripped hole and let it cool down. Next, hammer the surface flat and grind it smooth. Drill a new center hole, sand it, and use a tap tool to create precise thre"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "6EUp41Liv18",
-   "ch": "POV Man",
-   "cid": "UCWciG0daLD0mMhgMO7s3i_A",
-   "date": "2026-09-25",
-   "title": "Smart Mechanical Fix: Pouring Molten Metal &amp; Drilling Ne",
-   "views": 15732,
-   "desc": "Title\nSmart Mechanical Fix: Pouring Molten Metal & Drilling New Threads 🛠️🔥\n\nDescription:\n​Watch this satisfying restoration and repair process! Molten metal is poured into a damaged hole, drilled out with precision, and custom-threaded to secure a new bolt perfectly. A brilliant technique for metal"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "pFu1ZxaeTm4",
-   "ch": "Clank Theory",
-   "cid": "UCml9SY7-OPZcFw6tO1X3eLw",
-   "date": "2026-10-25",
-   "title": "Fixing a stripped bolt hole with molten metal 😱 #satisfying ",
-   "views": 10112,
-   "desc": "A stripped bolt hole is filled with molten metal. Once it hardens, it is drilled out, a new thread is cut, and a bolt screws in like new.\n\n## 1. Overview\nA damaged threaded hole in a metal part is repaired by filling it, drilling it out again and cutting a fresh thread.\n\n## 2. Materials & Equipment\n"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "YGdwe5FoBcY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-10",
-   "title": "How to Repair Damaged Thread Holes with Liquid Metal#shorts ",
-   "views": 8168,
-   "desc": "How to Repair Damaged Thread Holes with Liquid Metal\n\nPour molten metal into the damaged hole, then flatten the surface with a hammer after cooling. Next, drill a new pilot hole, tap accurate threads into the solidified metal, and thread in a new bolt until securely fitted, restored, and completely "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "X7p-7My8Oks",
-   "ch": "Swift Mechanic DIY",
-   "cid": "UC6WePDo7OUfvgzFdBrXj5RA",
-   "date": "2026-09-09",
-   "title": "Easy DIY Repair for Stripped Mirror Mount Threads 🔧",
-   "views": 7677,
-   "desc": "Learn how to repair a stripped motorcycle mirror mount thread quickly and easily! This step-by-step DIY guide shows you how to fix damaged threads so your mirror stays securely mounted.\n\n​Steps Included:\n\n​Pouring molten metal/filler into the damaged mount.\n​Drilling a clean pilot hole.\n​Smoothing t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "B4NPCLwacws",
-   "ch": "AMAZING WORK TOOLS",
-   "cid": "UCGCj3cdnIlZPpr1SycmuBSw",
+   "q": "sand boil levee flood",
+   "vid": "WDtm6AtMx0I",
+   "ch": "WWLTV",
+   "cid": "UCJCreS7pODbA6XYRsI5fdLg",
+   "date": "2019-03-19",
+   "title": "What is a sand boil?",
+   "views": 25197,
+   "desc": "A sand boil occurs when the weight from the high river water pushes down (pressure) on the soil layers under the levee."
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "D6PyptoD8S8",
+   "ch": "Dari Pondasi ke Atap",
+   "cid": "UC1yTHLbWUCcFRnSbvN93IrQ",
    "date": "2026-09-02",
-   "title": "Watch how this clever trick fixes stripped screw threads in ",
-   "views": 6539,
-   "desc": "This video showcases an ingenious metal-repair technique used when a threaded hole in a heavy casting becomes stripped or damaged. Instead of completely welding or throwing away the expensive part, the mechanic fills the stripped hole with molten metal. Once the poured metal cools and solidifies, a "
+   "title": "Fixing a levee sand boil with a sandbag ring #engineering #f",
+   "views": 39465,
+   "desc": "How to safely control a sand boil under a leaking levee using a sandbag ring. Discover why civil engineers never plug a muddy leak, but instead use water pressure to balance it out.\n\nSubscribe for more infrastructure and engineering content!\n\n0:00 — Levee leaking from below\n0:07 — Building the sandb"
   },
   {
-   "q": "stripped thread molten metal repair",
-   "vid": "4-QNFIJfELI",
-   "ch": "Garage15",
-   "cid": "UCvX23gr4XXKiOrjAlhNkneg",
-   "date": "2026-10-11",
-   "title": "How to Fix a Stripped Thread Like a Pro!  #automobile #autom",
-   "views": 4109,
-   "desc": "​Watch this brilliant engineering and metalworking restoration technique! In this video, liquid metal is poured into a stripped and damaged threaded hole. Once cooled and solidified, the area is hammered, ground flat, precisely center-punched, drilled, and re-tapped to create brand new, heavy-duty t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "oZZCt-ARfn4",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-05-26",
-   "title": "Smart Solution Repairing Damaged Bolt Holes with Molten Meta",
-   "views": 2898,
-   "desc": "Deskripsi: Got a stripped or damaged bolt hole? Don't scrap it yet! This quick tutorial demonstrates a precise machining technique to restore a bolt hole. Watch the step-by-step process from pouring molten metal, grinding it flush, re-drilling, to tapping new threads. The result is strong, clean, an"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "K2UpsyjJj0g",
-   "ch": "Imperial Sky",
-   "cid": "UC1gGi2YnL7_QWhEtxez2M7Q",
-   "date": "2026-08-30",
-   "title": "How Heated Copper Wire Coils Repair Stripped Screw Holes in ",
-   "views": 3315,
-   "desc": "How do you repair a stripped screw hole in plastic housing when the threads are completely worn out and won't bite? 🔩🔥\n​In this video, discover the simple thermal repair hack behind custom copper wire thread inserts! Watch how wrapping bare copper wire around a screw creates a coiled spring shape. B"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "61tb8lwIwVM",
-   "ch": "The Tech Solution ",
-   "cid": "UCz4v6SS6BcQFThhg4uPw8ng",
-   "date": "2026-10-30",
-   "title": "How to Repair Damaged Screw Holes With Molten Metal | Worksh",
-   "views": 1954,
-   "desc": "Discover an incredible workshop trick for restoring damaged, stripped screw holes using molten metal! In this quick demonstration, watch how liquid metal is cast directly into the worn hole, cooled, hammered, and precision-ground smooth. From there, a pilot hole is drilled and retapped to create bra"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "2eB5cJaQ1N0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-09",
-   "title": "How to Repair Stripped Threaded Holes#shorts #repairs #mecha",
-   "views": 1927,
-   "desc": "How to Repair Stripped Threaded Holes\n\nFirst, insert a bolt into the worn-out hole to test the fit. Next, pour molten metal into the hole until it overflows. Hammer and grind the surface smooth, center-punch the middle, drill a fresh pilot hole, and tap new threads to securely refit the bolt.#shorts"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "hlC9N3IBtmw",
-   "ch": "HEAVY KINETICS",
-   "cid": "UCkHxvZYFEowBuxpOLSqZYlw",
-   "date": "2026-08-16",
-   "title": "Most Satisfying Metal Thread Repair Ever! 3 🔩✨ #shorts",
-   "views": 855,
-   "desc": "Don't throw away metal parts with stripped threads! Pouring molten metal, flush sanding, and retapping creates a brand new thread. Would you trust this repair? Let us know in the comments! 👇\n\n#shorts #metalworking #machining #diy #restoration #satisfying #lifehacks #tools #repair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "v2rfWIgmxco",
-   "ch": "天气微凉淡淡月光",
-   "cid": "UCPP2wdaQxDGGC73YUGd6ibA",
-   "date": "2026-09-08",
-   "title": "修螺纹孔全过程揭秘，金属液灌注到丝锥攻丝，手艺真是绝了！#工业#手工",
-   "views": 568,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "RSEGlJQQeN4",
-   "ch": "BARA BUDAYA",
-   "cid": "UC-_HcA0kHIvUMpU3Ca61ZmA",
-   "date": "2026-10-22",
-   "title": "Stripped Thread Fix: How Thread Inserts Repair Broken Screw ",
-   "views": 464,
-   "desc": "In an era increasingly dominated by throwing away damaged parts and purchasing expensive replacement machinery, there is a mesmerizing display of mechanical ingenuity when a vibrant red liquid threadlocker and a threaded metal insert restore a completely stripped bolt hole back to factory-strength p"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "g1CzrWmLfC0",
-   "ch": "MUNNA LEATH ",
-   "cid": "UCx1bQM-zKsuElZIMEOD1DTA",
-   "date": "2026-10-01",
-   "title": "Damaged Bolt Thread Repairing With Hot Molten Metal 🛠️ | Gun",
-   "views": 48,
-   "desc": "Welcome back to the channel! In this video, we are fixing a completely stripped and damaged internal bolt thread by pouring hot molten metal into the hole to recreate a brand-new thread.\n\nIf you love mechanical engineering, metal casting, lathe work, and satisfying restoration projects, make sure to"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "eo5INL9AZxw",
-   "ch": "Fixora",
-   "cid": "UCnmsK4n___Fj9p2K4cu0Mng",
-   "date": "2026-09-28",
-   "title": "How to Repair a Damaged Threaded Hole - Genius Metal Hack 🔩🛠",
-   "views": 23,
-   "desc": "Watch this incredible metal repair hack to see how a completely damaged threaded hole is restored to perfection! In this short video, the process begins by pouring molten metal to completely fill the stripped hole. Once cooled, the excess metal is scraped off to create a perfectly smooth, flush surf"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "iUXEC8erWBM",
-   "ch": "Yudi Cekodt Short",
-   "cid": "UC9OEGeFON0MN4d3-wZ23ADw",
-   "date": "2026-10-15",
-   "title": "Repair a Completely Stripped Bolt Hole #MechanicTips #Thread",
-   "views": 85915,
-   "desc": ""
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "FWbNu59SdAs",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-08",
-   "title": "Easy Trick to Remove a Broken Bolt#shorts #repairs #satisfyi",
-   "views": 41207,
-   "desc": "Easy Trick to Remove a Broken Bolt\n\nPlace a threading die over the broken stud. Pour molten metal into the die cavity to cast a new head around the broken tip. Once solidified, attach the die stock wrench and turn counterclockwise to smoothly extract the broken bolt from the threaded hole.#shorts #s"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "TVYzA4TyME8",
-   "ch": "Wonder Wise",
-   "cid": "UCqdoRgVMMQyBh_ETyyUCXEQ",
-   "date": "2026-08-06",
-   "title": "Precision Restoration of Worn Bolt Holes with Molten Metal #",
-   "views": 35888,
-   "desc": "1. Work Overview\nThe video demonstrates a specialized industrial maintenance procedure used to repair and restore heavily worn or stripped threaded bolt holes in heavy machinery components using a molten metal pour followed by precision drilling and tapping.\n\n2. Materials and Equipment Used\n- High-t"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "8PAzpNv4wO8",
-   "ch": "GHOSTFACE WORKSHOP",
-   "cid": "UCZn_lgUk9cCB6n0uB6zlqGQ",
-   "date": "2026-05-25",
-   "title": "MOLTEN METAL BEATS A BOLT",
-   "views": 36567,
-   "desc": "He's pouring molten metal straight into a threaded engine port, then tapping the cooled plug flat as a field repair or a very aggressive way to delete a hole. Search terms and topics covered: molten metal engine repair, pouring metal into threaded port, threaded engine port plug repair, improvised m"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "OeVEyHbjRiY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-25",
-   "title": "How to Repair Damaged Screw Thread Hole#shorts #satisfying #",
-   "views": 26674,
-   "desc": "How to Repair Damaged Screw Thread Hole\n\nThe process begins by pouring molten metal to fill the damaged hole. Once solidified, grind the surface smooth and flat. Next, drill a new hole precisely in the center. Finally, use a thread tap tool to create fresh internal threads, making it usable again.#s"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "6EUp41Liv18",
-   "ch": "POV Man",
-   "cid": "UCWciG0daLD0mMhgMO7s3i_A",
-   "date": "2026-09-25",
-   "title": "Smart Mechanical Fix: Pouring Molten Metal &amp; Drilling Ne",
-   "views": 15732,
-   "desc": "Title\nSmart Mechanical Fix: Pouring Molten Metal & Drilling New Threads 🛠️🔥\n\nDescription:\n​Watch this satisfying restoration and repair process! Molten metal is poured into a damaged hole, drilled out with precision, and custom-threaded to secure a new bolt perfectly. A brilliant technique for metal"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "sUzt8957P4U",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-10-07",
-   "title": "Genius Trick to Extract a Broken Bolt with Liquid Metal#shor",
-   "views": 7802,
-   "desc": "Description:\nThis video demonstrates a creative and effective workshop hack for removing a broken bolt stuck in a threaded hole. By placing a socket wrench head over the broken stud and pouring liquid metal inside, the metal solidifies and fuses the bolt to the socket. After cooling down and applyin"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "z3bEhFhXmcU",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-07-06",
-   "title": "Genius Hack Repairing a Damaged Bolt Hole with Molten Metal#",
-   "views": 7033,
-   "desc": "Learn how to effectively repair stripped or damaged bolt holes using metal casting techniques. This step-by-step restoration is detailed and provides incredibly satisfying results. Perfect for automotive and engineering enthusiasts!\nmechanical engineering, DIY tutorial, cara membuat ulir baut, baut "
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "YGdwe5FoBcY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-10",
-   "title": "How to Repair Damaged Thread Holes with Liquid Metal#shorts ",
-   "views": 8168,
-   "desc": "How to Repair Damaged Thread Holes with Liquid Metal\n\nPour molten metal into the damaged hole, then flatten the surface with a hammer after cooling. Next, drill a new pilot hole, tap accurate threads into the solidified metal, and thread in a new bolt until securely fitted, restored, and completely "
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "oZZCt-ARfn4",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-05-26",
-   "title": "Smart Solution Repairing Damaged Bolt Holes with Molten Meta",
-   "views": 2898,
-   "desc": "Deskripsi: Got a stripped or damaged bolt hole? Don't scrap it yet! This quick tutorial demonstrates a precise machining technique to restore a bolt hole. Watch the step-by-step process from pouring molten metal, grinding it flush, re-drilling, to tapping new threads. The result is strong, clean, an"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "_7u4M8S5hHo",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-12",
-   "title": "Trick for Removing Broken Bolts Using Molten Metal#shorts #r",
-   "views": 3773,
-   "desc": "Trick for Removing Broken Bolts Using Molten Metal\n\nClean the corrosion inside the bolt hole using a wire brush. Position the socket wrench over the hole, pour in liquid metal, then apply lubricating oil. Insert the hex key into the center until the metal solidifies, then turn it to extract the brok"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "2eB5cJaQ1N0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-09",
-   "title": "How to Repair Stripped Threaded Holes#shorts #repairs #mecha",
-   "views": 1927,
-   "desc": "How to Repair Stripped Threaded Holes\n\nFirst, insert a bolt into the worn-out hole to test the fit. Next, pour molten metal into the hole until it overflows. Hammer and grind the surface smooth, center-punch the middle, drill a fresh pilot hole, and tap new threads to securely refit the bolt.#shorts"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "v2rfWIgmxco",
-   "ch": "天气微凉淡淡月光",
-   "cid": "UCPP2wdaQxDGGC73YUGd6ibA",
-   "date": "2026-09-08",
-   "title": "修螺纹孔全过程揭秘，金属液灌注到丝锥攻丝，手艺真是绝了！#工业#手工",
-   "views": 568,
-   "desc": ""
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "5TJ2rAoqAPE",
-   "ch": "LNG Films ",
-   "cid": "UCCqMBj0nfA7TKv-8gqs92gA",
-   "date": "2025-10-17",
-   "title": "I POURED LIQUID METAL Into a Broken Bolt... And it worked! (",
-   "views": 186,
-   "desc": "Have you ever snapped a bolt head off deep inside a tool or a hole? Bolt extractors, vice grips, and heat can all fail, leaving you with an impossible repair.\n\nIn this short update, we use an amazing mechanic's trick involving a low-melting-point alloy (like a bismuth or tin-based fusible alloy) to "
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "g1CzrWmLfC0",
-   "ch": "MUNNA LEATH ",
-   "cid": "UCx1bQM-zKsuElZIMEOD1DTA",
-   "date": "2026-10-01",
-   "title": "Damaged Bolt Thread Repairing With Hot Molten Metal 🛠️ | Gun",
-   "views": 48,
-   "desc": "Welcome back to the channel! In this video, we are fixing a completely stripped and damaged internal bolt thread by pouring hot molten metal into the hole to recreate a brand-new thread.\n\nIf you love mechanical engineering, metal casting, lathe work, and satisfying restoration projects, make sure to"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "i-QUvgax3jE",
-   "ch": "Doktech HD",
-   "cid": "UConp5I3L0_FrgsOF5OQ145w",
-   "date": "2023-08-08",
-   "title": "How to thread a bolt hole- Satisfying jobs and machinery in ",
-   "views": 4201411,
-   "desc": "How to thread a bolt hole- Satisfying jobs and machinery in the world\n\nDon't forget to like this video and subscribe to this channel for support us.\nhttps://www.youtube.com/@doktech  \n\nRegards\nDoktech HD 🙏🏻\n\n===================================="
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "cTsFc-vMSBQ",
-   "ch": "Classic Cars Mechanic",
-   "cid": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "date": "2023-06-13",
-   "title": "How to repair stripped aluminum threads ? #howto #shorts #am",
-   "views": 71419,
-   "desc": "In this video, I repair the\nStripped threads of the\naluminum part of the\nRochester carburetor, which\nis used in most of the eight-\ncylinder engines of General\nMotors, with the lowest cost\nand the need for special\ntools.\n\n#vintage #classic #old #type #engine #transmission #body #all #part #car #cars "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "HviHGeC8HXY",
-   "ch": "Body Equilibrium",
-   "cid": "UCcpKz8tvKwqaXJplnJ2Ts4w",
-   "date": "2024-10-18",
-   "title": "Genius Hack to Fix Stripped Screw Holes in Seconds!",
-   "views": 52185,
-   "desc": "Use this easy toothpick trick to fix stripped screws fast!"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "Its1O4BL1TA",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-05",
-   "title": "How to Repair Damaged Screw Threads Using Thread Insert#shor",
-   "views": 41783,
-   "desc": "How to Repair Damaged Screw Threads Using Thread Insert\n\nApply thread locker liquid inside the damaged bolt hole. Insert a threaded insert sleeve and press it firmly into place. Drill through the center to secure and form clean threads. Finally, grind the surface flat until perfectly smooth.#shorts "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "SvnqPN96cz8",
-   "ch": "AutoDIY Express",
-   "cid": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "date": "2026-10-16",
-   "title": "How to Drill, Tap, and Repair Engine Block Threads! 🚗⚙️",
-   "views": 39426,
-   "desc": "How to Drill, Tap, and Repair Engine Block Threads! 🚗⚙️\n\nStruggling with a completely stripped bolt hole or needing to cut new threads into an engine block or transmission housing? Watch this professional step-by-step tutorial on how to drill, tap, and install thread inserts like a master machinist!"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "qw7j30IC9NU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-10",
-   "title": "Easy Way to Fix a Stripped Bolt Thread#shorts #satisfying #m",
-   "views": 29784,
-   "desc": "Easy Way to Fix a Stripped Bolt Thread\n\nDrill out the damaged hole to clear the old threads. Next, create new threads with a tap. Then, insert the threaded insert by hand. Finally, push the insert in with a drill so that the hole once again has strong threads of the original size.#shorts #satisfying"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "isFvKdCWpAk",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-11",
-   "title": "Thread Repairing with Helicoil Insert#shorts #satisfying #re",
-   "views": 31390,
-   "desc": "Thread Repairing with Helicoil Insert\n\nFirst, drill out the damaged hole to clean the old threads. Tap new threads into the enlarged hole, then apply threadlocker fluid. Insert a metal helicoil coil to restore the original size, and press it firmly into position.#shorts #satisfying #repairs #restora"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "gJQzvbarxtI",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-05-09",
-   "title": "How to Fix a Loose Bolt Hole with an Insert#shorts #satisfyi",
-   "views": 29370,
-   "desc": "How to Fix a Loose Bolt Hole with an Insert\n\nFirst, drill out the damaged hole. Next, tap new threads into it. Apply strong red threadlocker to the threaded insert, then screw it firmly into the hole using a bolt and wrench. Finally, grind the surface flush. Your bolt hole is now completely restored"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "OeVEyHbjRiY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-25",
-   "title": "How to Repair Damaged Screw Thread Hole#shorts #satisfying #",
-   "views": 26674,
-   "desc": "How to Repair Damaged Screw Thread Hole\n\nThe process begins by pouring molten metal to fill the damaged hole. Once solidified, grind the surface smooth and flat. Next, drill a new hole precisely in the center. Finally, use a thread tap tool to create fresh internal threads, making it usable again.#s"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "XXGXJy211tU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-15",
-   "title": "How to Repair Damaged Spark Plug Threads#shorts #satisfying ",
-   "views": 22078,
-   "desc": "How to Repair Damaged Spark Plug Threads\n\nhow to repair stripped spark plug threads using a threaded insert repair tool. Thread the insert onto the installation tool, apply thread locker, screw it firmly into the cylinder head with a wrench, and unscrew the tool to leave a restored thread.#shorts #s"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "713oV26xi2E",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-04-04",
-   "title": "How to deal with Damaged Threads in bolt holes#shorts #satis",
-   "views": 19372,
-   "desc": "How to deal with Damaged Threads in bolt holes\n\nDo you want to get rid of the bugs? Don't worry, this video shows you how to deal with it. The process starts from drilling an old hole, then making a new thread using a tap, and installing a 'recoil' as a stronger replacement thread. Practical and eff"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "8IBiDsaJvWE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-11-09",
-   "title": "Fixing Stripped Thread Without Replacing Engine Blocks#short",
-   "views": 14986,
-   "desc": "Fixing Stripped Thread Without Replacing Engine Blocks\n\nEvery mechanic who has ever dealt with a broken bolt or stripped engine block thread definitely knows this pain. When bolt holes get completely stripped out, replacing the entire housing component is never budget-friendly. To make a permanent r"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "kg7dxD_uK74",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-05",
-   "title": "Repairing Damaged Spark Plug Threads#shorts #satisfying #mec",
-   "views": 14456,
-   "desc": "Repairing Damaged Spark Plug Thread\n\nThis clip demonstrates how to repair stripped spark plug threads. First, clean the area and fill it with a repair compound. Once hardened, drill the center and tap new threads. Finally, install a thread insert to restore original functionality and strength.#short"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "aUR7Ol4IPeY",
-   "ch": "Monis Turner Mechanical.🛠️",
-   "cid": "UCxFPht5kmKwm04c425ifVGw",
-   "date": "2026-04-27",
-   "title": "How to Fix Damaged Threads in Tight Spaces! 🔩🛠️ #MonisTurner",
-   "views": 10493,
-   "desc": "Working on a difficult spot! ⚙️ Watch how we drill, tap, and restore damaged threads to factory perfection using professional mechanical tools. Precision work in Saudi Arabia! 🛠️🇸🇦\n​Was this helpful? Rate the repair 1 to 10 in the comments! 👇\n​📍 Hafar Al Batin, Saudi Arabia 🇸🇦\n🛠️ Monis Turner Mechan"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "OxLyarvbdQw",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-01",
-   "title": "Repairing Damaged Bolt Threads#shorts #repairs #mechanic #sa",
-   "views": 12527,
-   "desc": "Repairing Damaged Bolt Threads\n\ndrill out the stripped bolt hole using a drill bit to clear old thread debris. Tap the enlarged hole to cut fresh threads. Apply red threadlocker fluid onto the solid brass insert. Finally, drive the insert tightly into the hole for a perfect repair.#shorts #satisfyin"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "69Dxh1ZmFBE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-26",
-   "title": "How to Repair Damaged Thread Holes#shorts #satisfying #repai",
-   "views": 12756,
-   "desc": "How to Repair Damaged Thread Holes\n\ndrill a precise hole over the damaged area to clean it up. Smooth the edges, then use a tap tool to create new threads. Apply threadlocker to a threaded insert, screw it in using a bolt, grind off the excess, and re-drill for perfection.#shorts #satisfying #repair"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "mV899-L5xPE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-23",
-   "title": "How to Fix Broken Threaded Holes Like a Pro#shorts #satisfyi",
-   "views": 10941,
-   "desc": "How to Fix Broken Threaded Holes Like a Pro\n\nPuzzled by a stripped or broken threaded hole that ruins your metal project? Do not panic! Simply melt and pour liquid metal into the damaged socket to fill it. Once cooled and solidified, use an angle grinder to flatten the surface smoothly. Next, drill "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "6EUp41Liv18",
-   "ch": "POV Man",
-   "cid": "UCWciG0daLD0mMhgMO7s3i_A",
-   "date": "2026-09-25",
-   "title": "Smart Mechanical Fix: Pouring Molten Metal &amp; Drilling Ne",
-   "views": 15732,
-   "desc": "Title\nSmart Mechanical Fix: Pouring Molten Metal & Drilling New Threads 🛠️🔥\n\nDescription:\n​Watch this satisfying restoration and repair process! Molten metal is poured into a damaged hole, drilled out with precision, and custom-threaded to secure a new bolt perfectly. A brilliant technique for metal"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "pFu1ZxaeTm4",
-   "ch": "Clank Theory",
-   "cid": "UCml9SY7-OPZcFw6tO1X3eLw",
-   "date": "2026-10-25",
-   "title": "Fixing a stripped bolt hole with molten metal 😱 #satisfying ",
-   "views": 10112,
-   "desc": "A stripped bolt hole is filled with molten metal. Once it hardens, it is drilled out, a new thread is cut, and a bolt screws in like new.\n\n## 1. Overview\nA damaged threaded hole in a metal part is repaired by filling it, drilling it out again and cutting a fresh thread.\n\n## 2. Materials & Equipment\n"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "YGdwe5FoBcY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-10",
-   "title": "How to Repair Damaged Thread Holes with Liquid Metal#shorts ",
-   "views": 8168,
-   "desc": "How to Repair Damaged Thread Holes with Liquid Metal\n\nPour molten metal into the damaged hole, then flatten the surface with a hammer after cooling. Next, drill a new pilot hole, tap accurate threads into the solidified metal, and thread in a new bolt until securely fitted, restored, and completely "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "W2zqLbYMnpA",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-03-02",
-   "title": "Re-drilling process, creating new threads with a hand tap.#s",
-   "views": 11521,
-   "desc": "Re-drilling process, creating new threads with a hand tap.\n\nDescription:\nThis video provides a step-by-step technical guide for repairing damaged M6 threads using the recoil method. This technique is much stronger than simply enlarging the bolt size because it maintains the originality of your engin"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "np21VtkLNmI",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-31",
-   "title": "Easy way to repair a loose bolt thread hole#shorts #satisfyi",
-   "views": 7325,
-   "desc": "Easy way to repair a loose bolt thread hole\n\nHave stripped bolt holes ever frustrated you? Don't panic! Here is an easy thread hole restoration technique. The process starts by drilling the hole, cutting new threads using a tap, applying threadlocker, inserting a threaded bushing, and then smoothing"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "ApxUYjkkEZU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-03",
-   "title": "Repairing Stripped Engine Bolt Threads#shorts #satisfying #m",
-   "views": 6702,
-   "desc": "Repairing Stripped Engine Bolt Threads\n\nFirst, drill the damaged hole smoothly. Next, use a larger bit to prepare for tapping. Create new internal threads using a tap tool. Apply threadlocker to a threaded insert and screw it inside. Grind the surface completely flush, and finally, test the new thre"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "wyiPXMScYPM",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-14",
-   "title": "Easy Way to Fix a Stripped Bolt Thread#shorts #repairs #sati",
-   "views": 7707,
-   "desc": "Easy Way to Fix a Stripped Bolt Thread\n\ndrill out the damaged bolt hole to enlarge it. Create new internal threads using a tap tool. Apply threadlocker to the brass insert, then drive it in flush. Smooth the surface, and your bolt hole is good as new!#shorts #satisfying #repairs #restoration #mechan"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "oO2pSBG8-vE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-12",
-   "title": "How to Repair Damaged Engine Threads#shorts #repairs #mechan",
-   "views": 6992,
-   "desc": "How to Repair Damaged Engine Threads\n\nhow to repair stripped bolt threads in an engine block. First, drill out the damaged hole and tap new internal threads using a specialized tap bit. Apply threadlocker adhesive to a brass insert, screw it firmly into place, and remove the installation tool cleanl"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "3Eh11IBMTrg",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-01",
-   "title": "How to Repair a Stripped Thread with a Thread Insert#shorts ",
-   "views": 5713,
-   "desc": "How to Repair a Stripped Thread with a Thread Insert\n\nFirst, drill out the damaged thread to create a clean hole. Next, use a tap to cut new threads inside the hole. Apply liquid adhesive to the thread insert, then screw it into place. Trim any excess material and smooth the surface. Finally, test t"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "prLAM1NIUzU",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-09-06",
-   "title": "Clever Hack for Repairing Stripped Motorcycle Mirror Threads",
-   "views": 4800,
-   "desc": "Description: Don't panic if your motorcycle mirror mount threads are stripped. This video provides a step-by-step tutorial on fixing it by creating a custom threaded insert from a brass bolt. Watch the satisfying process of drilling out the damaged hole, tapping new threads, securing the brass plug,"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "srioOCHAQDc",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-20",
-   "title": "Repairing Damaged Bolt Threads with Thread Inserts#shorts #s",
-   "views": 4799,
-   "desc": "Repairing Damaged Bolt Threads with Thread Inserts\n\nDrill out the damaged hole to enlarge its size. After that, create new threads using a tap bit. Apply threadlocker adhesive to the threaded insert, then firmly install the insert into the hole. Finally, remove the helper bolt and the sturdy new thr"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "Q7OxPF-HwdY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-08",
-   "title": "How to Repair Stripped Oil Drain Plug Threads#shorts #repair",
-   "views": 5205,
-   "desc": "How to Repair Stripped Oil Drain Plug Threads\n\napply grease generously to the tap tool. Insert the tap into the oil drain hole and rotate carefully using a wrench to create new threads. Once finished, clean off any residue, then install the new drain plug and tighten it securely.#shorts #satisfying "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "0U7-rX5bWrU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-06-28",
-   "title": "How to Repair Stripped Engine Threads#shorts #satisfying #me",
-   "views": 3728,
-   "desc": "How to Repair Stripped Engine Threads\n\nhow to fix damaged engine threads efficiently. Start by drilling out the old, stripped threads to clear the hole. Next, tap the new threads carefully using a thread tap tool. Insert a high-quality thread repair insert, and finally, grind the surface smooth for "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "DITSMPECHgs",
-   "ch": "Success Master",
-   "cid": "UCCBtIk-vCx7ERtGL0rR4znQ",
-   "date": "2023-12-25",
-   "title": "Threads restoration || Mechanical skills #satisfying #shorts",
-   "views": 1615,
-   "desc": "Cylinder head core plug threads restoration #satisfying #shorts #youtubeshorts #best #skills\n\n\nHow do you restore a thread ?   \nUsing a Tap  Set:\n A tap is used to create new threads in a hole,   By carefully using the appropriate tap,    you can often restore the stripped threads.\n\nTravers Tool Res"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "iovTyAwi-K8",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
+   "q": "sand boil levee flood",
+   "vid": "xLCF62N6cpg",
+   "ch": "You Made It Bro",
+   "cid": "UCntuCtHTYlTUHww8IJEsRsg",
    "date": "2026-11-08",
-   "title": "Fixing Stripped Threads Permanently#shorts #satisfying #repa",
-   "views": 3090,
-   "desc": "Fixing Stripped Threads Permanently\n\nEvery machinist who has dealt with a stripped bolt hole knows this frustration. Normal taps or bigger bolts never hold the heavy torque. To make a permanent fix, you can drill out the damaged hole, tap new threads, and lock a solid steel insert in place to save h"
+   "title": "How a Row of Sandbags Becomes a Levee",
+   "views": 26909,
+   "desc": "A single row of sandbags along a river turns into a real flood levee, one fix at a time.\n\n🧱 Sandbags stacked like a pyramid, until your back gives up\n🚚 Truckloads of dirt dumped over them: the embankment\n🟫 A wall of sticky clay in the middle: the clay core\n💧 Water sneaking under it and bubbling up i"
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "3P2NoJGsgjU",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-10-23",
-   "title": "How to Repair Damaged Threads with a Threaded Insert#shorts ",
-   "views": 3242,
-   "desc": "Description:\nA quick tutorial on an effective way to repair stripped or worn bolt holes in metal components. Using a threaded insert restores the thread's original strength and prevents further damage to the engine block. Highly useful for mechanical repairs and automotive restoration.  \n​Keywords:\n"
+   "q": "sand boil levee flood",
+   "vid": "FWkaIzGI0tA",
+   "ch": "2learn",
+   "cid": "UC7ffVduhdnzyC9mxSLZvk2Q",
+   "date": "2026-10-22",
+   "title": "How a Pile of Mud Becomes a Flood Embankment",
+   "views": 24802,
+   "desc": "How does a flood embankment (levee) actually stop a river? Start with a pile of mud on a riverbank and fix every way it fails: clay layers, gentle slopes, riprap, sand boils, a cutoff wall, a flap gate, grass… and freeboard.\n\nIf you pile mud along a riverbank, the first flood washes it away. So you "
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "dayCdTTcJPs",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-07",
-   "title": "Thread Repair Tutorial#shorts #satisfying #mechanic #repair ",
-   "views": 2723,
-   "desc": "Thread Repair Tutorial\n\nFirst, drill out the damaged hole to clean it. Next, use a tap tool to create new threads. Apply thread locker fluid to a thread insert, then install it using a bolt and nut. Tighten with a wrench to secure the insert firmly into place, and finally, remove the bolt.#shorts #s"
+   "q": "sand boil levee flood",
+   "vid": "KBvsxVXJsuk",
+   "ch": "California Conservation Corps",
+   "cid": "UCvc5inRZNRG8yCOVoBTA_qA",
+   "date": "2023-04-07",
+   "title": "Protecting Levees from Seepage and Sand Boils",
+   "views": 4650,
+   "desc": "It’s a funny term and an unusual thing to see. A boil, aka a sand boil. These unusual occurrences happen along and on levees during times of high water, but also when seepage occurs. If left untreated, well, it’s not going to be a good thing. That’s why #CCCDelta Corpsmembers are helping protect lev"
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "LFjiiXxm5Dw",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
+   "q": "sand boil levee flood",
+   "vid": "S6GHKKgLNPQ",
+   "ch": "Failsafe Engineering",
+   "cid": "UCq20ySzd3CjWVlnHMa-ZNKg",
+   "date": "2026-10-25",
+   "title": "How a Sandbag Becomes a $14.5B Levee",
+   "views": 3811,
+   "desc": ""
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "wP_1ogFuuoM",
+   "ch": "Built Uncovered",
+   "cid": "UCiEDQzSy2J4xS4O2VoLQ4fw",
+   "date": "2026-10-22",
+   "title": "Why the US Army Packed 265 Tons of Explosives in a Levee—to ",
+   "views": 3716,
+   "desc": "At 10:03 PM on May 2, 2011, right where the Ohio and Mississippi Rivers collide across from Cairo, Illinois, the US Army Corps of Engineers triggered 265 tons of liquid explosives packed inside 11,000 feet of buried steel pipes—intentionally blowing a 2-mile gap in the Birds Point levee.\n\nLocation: "
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "HOTzNl-QkoE",
+   "ch": "California DWR",
+   "cid": "UCTTvFfFatgWr6jv1jVgei1w",
+   "date": "2017-07-29",
+   "title": "The Boil Sack Ring",
+   "views": 1485,
+   "desc": "Audio Description Version: https://youtu.be/0ivlyBEQMWE"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "9zIqtPr5uWg",
+   "ch": "Dingo Visuals",
+   "cid": "UCy71g3rABcQHIg5NBfn89bg",
+   "date": "2026-10-31",
+   "title": "How a Ditch in Your Yard Becomes a Flood-Proof Levee #shorts",
+   "views": 2252,
+   "desc": "What actually happens when you build a flood-proof levee around your house? #engineering #howitworks #3danimation #flood #science #shorts\n\nSources & Engineering Breakdown:\n1. Compacted Earth Levee: Loose soil contains air voids that saturate and liquefy; compacting thin lifts with a sheepsfoot/drum "
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "t-lFnGh-Slc",
+   "ch": "Ingenuity Revealed",
+   "cid": "UCAd-VwhFon-ECWaZoDYDHww",
+   "date": "2026-10-31",
+   "title": "Why Leave the Hole Behind a Levee Open?",
+   "views": 2040,
+   "desc": "On days of heavy rain, sandy, muddy water can sometimes burst up from the fields behind a levee. One way to protect the levee is to leave the hole open, stack sandbags in a ring around it, and deliberately let water pool inside. So how does holding water there protect the levee? This 3D animation st"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "KLRW0v7AbkU",
+   "ch": "CBS News Sacramento",
+   "cid": "UCxZMOY2RdtK6LQUbIYgec4A",
+   "date": "2017-01-10",
+   "title": "Levee Boils Raising Concerns Along Cosumnes River",
+   "views": 1160,
+   "desc": "Dozens of property owners spent the day sandbagging boils caused by pressure on either side of the levee, forcing water up through the ground. The force of the water causes it to bubble up like a small geyser."
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "4NB0hYPusJo",
+   "ch": "139thAirliftWing",
+   "cid": "UCoXmtpWb3GnS7FPvjQTofHA",
+   "date": "2019-03-23",
+   "title": "Airmen treat sand boil on Missouri River levee",
+   "views": 1011,
+   "desc": "Airmen treated a sand boil at the base of the levee that protects Rosecrans Memorial Airport and surrounding communities on March 22, 2019 in Elwood, Kan. Sand boils are caused when pressure from the river pushes  water under the levee. Airmen from the 139th Airlift Wing, Missouri Air National Guard"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "NeXWra1Rv7k",
+   "ch": "Yard Slice",
+   "cid": "UCgB9gjBJ8kmn0eCYR0rIBhQ",
+   "date": "2026-11-05",
+   "title": "How a Hole in Your Yard Becomes a Levee 🤔",
+   "views": 1455,
+   "desc": "If you dig a hole in your yard and pile the dirt along the river, you have a levee. Then the flood soaks right through it, the waves eat the slope, and the river sneaks under it and bubbles up in your yard.\n\nHere's how a real levee solves each problem, step by step:\n🧱 Thin layers packed down hard ar"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "PKd3j6WZFyA",
+   "ch": "How It Got Here",
+   "cid": "UCpbHMiYmDLpVmBT1GFkj4Vg",
+   "date": "2026-11-05",
+   "title": "A Levee Is Not Just Dirt. Every Layer Has a Job. #shorts",
+   "views": 1306,
+   "desc": "Per the USACE levee manual, loose fill is spread in layers of about six to nine inches and compacted. Depending on the site, a levee can also get a cutoff trench, slope protection and drainage.\n\nLevees are the backbone of the Mississippi River and Tributaries flood plan (USACE). The USACE manual EM "
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "4BewDWM7BOM",
+   "ch": "Huh Files",
+   "cid": "UCsWT4HjJx1N9Z6R03Hup7Uw",
+   "date": "2026-10-06",
+   "title": "The Ohio River Gets Under This Floodwall. You Can&#39;t Plug",
+   "views": 1242,
+   "desc": "In late April 2011, the Ohio River rose so high at Cairo, Illinois, that water pushed through old river sand under the town's concrete floodwall and burst up on the other side as sand boils. A city clerk compared the biggest one to Old Faithful. A boil that carries sand is hollowing out the ground u"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "8jz9C3CgTxo",
+   "ch": "세상짚기",
+   "cid": "UCrWyV0juMIhtZvnniTrQItw",
+   "date": "2026-11-17",
+   "title": "솟는 물을 왜 막지 않을까?",
+   "views": 1306,
+   "desc": "홍수 때 제방 뒤에서 솟는 물. 현장 대원들은 구멍을 무조건 막는 대신 주변에 모래주머니를 둥글게 쌓았습니다. 물길을 남기면서 흙이 더 쓸려 나가는 것을 줄이려는 대응 원리를 짚습니다.\n2011년 6월 30일과 2019년 3월 22일 미국 캔자스주 엘우드의 미주리강 제방 대응 기록을 함께 사용했습니다. 서로 다른 날·다른 지점의 기록이며 한 구멍의 연속 전후 장면이 아닙니다. 지하 침투 과정은 실제 지하 촬영이 아닌 공식 자료를 바탕으로 한 해설입니다. 특정 제방의 붕괴나 이 조치 뒤 완전 구조를 보여준다고 주장하지 않습니다.\n맑은"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "u6bqqGZENX4",
+   "ch": "Montgomery Co EMA",
+   "cid": "UCeIvZT3w_mpsKxEK3IteReA",
+   "date": "2019-03-18",
+   "title": "Mills Co, IA Flooding 3-16-19 Sand Boil",
+   "views": 539,
+   "desc": "Sand boil along the levee system near Highway 34 2MM"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "9nKyPhoKq34",
+   "ch": "sistemasocultos",
+   "cid": "UCThTLCM6awncRt-KLiX6UTQ",
+   "date": "2026-11-12",
+   "title": "¿Cómo falla un dique sin que el agua pase por encima?",
+   "views": 882,
+   "desc": "¿Cómo falla un dique sin que el agua pase por encima?\nEn una crecida, el río empuja agua por la arena que hay bajo el dique. Si sale del otro lado con fuerza, arrastra arena y forma un borbotón, y cada grano que sale deja un hueco que avanza hacia el río. Es la tubificación: cuando ese tubo bajo tie"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "R_WY7c55nfk",
+   "ch": "KSDK News",
+   "cid": "UCVHTypjbrXH-maZaIkwweJA",
+   "date": "2019-06-06",
+   "title": "Sandbagging mission goes underground in Valmeyer, Illinois",
+   "views": 385,
+   "desc": "A voluntary evacuation order is still in effect in Valmeyer, Illinois. The Army Corps of Engineers no longer thinks the Mississippi River will overtop levees in Monroe County, but a new threat is emerging. 5 On Your Side’s Chris Davis reports."
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "MwhmET3WaW8",
+   "ch": "tulsaworld",
+   "cid": "UCYNkLAftqsda2W3KKE6tvYg",
+   "date": "2019-05-28",
+   "title": "Tulsa flooding: Emergency response director explains why hel",
+   "views": 191,
+   "desc": "\"We are trying to block off the drainage channel to raise the water level some so we can equalize the pressure between this side of the levee and the other side of the levee in order to keep those sand boils from boiling up,\" said Joe Kralicek, Tulsa Area Emergency Management Agency executive direct"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "ACI5SAX3vG0",
+   "ch": "Oscillate Archive",
+   "cid": "UCiRJmhEoUrHwAGUfCocv8mA",
+   "date": "2026-09-18",
+   "title": "The Dyke Was Moved. The Danger Wasn&#39;t. | Forensic Case F",
+   "views": 965,
+   "desc": "A dyke rebuilt further inland after the 1953 North Sea flood has developed active piping —\nsand boils appearing in calm, dry conditions that should make this impossible — tracing a\nline that matches, almost exactly, the footprint of the original 1953 breach the section\nwas rebuilt to escape.\n\nThis r"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "MaP0ayiMghI",
+   "ch": "Against the Glitch Stories",
+   "cid": "UCP73GccQEmBMW_NevJLNxPA",
+   "date": "2026-11-12",
+   "title": "Why These Crews Let Water Rise Beside a Levee",
+   "views": 45,
+   "desc": "A sand boil can carry soil away from beneath a levee. A ring of sandbags lets water collect and push back against that flow, reducing erosion.\n\nSources and footage credits: Missouri Air National Guard.\nhttps://www.dvidshub.net/video/134382/guardsmen-quickly-respond-sand-boil\nhttps://www.usace.army.m"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "c9yKf5g1ah8",
+   "ch": "US Military Moments 5",
+   "cid": "UCaEBLGDWOFFWBnpvRQDQeTw",
+   "date": "2020-06-04",
+   "title": "Airmen treat sand boil on Missouri River levee (2019) 🇺🇸",
+   "views": 7,
+   "desc": "Support our troops. 🇺🇸 Like, subscribe and comment below! 🎖 Thank you for watching US Military Moments.\n\nContact information: traditionnelmusette@gmail.com\n\n🔴 [Author]:\nVideo by Airman 1st Class Audrey Chappell\n\n🔴 [Unit]:\n139th Airlift Wing\n\n🔴 [Location]:\nElwood, Ks, United States\n\n🔴 [Date]:\nMarch 2"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "w9drKTFD1q8",
+   "ch": "Slab to Roof",
+   "cid": "UCvBxSPPpdieX1XV-9GDn6Rg",
+   "date": "2026-09-25",
+   "title": "Fixing a leaking levee with a 4ft sandbag ring #engineering ",
+   "views": 11,
+   "desc": "The rest is on Shortly: https://shortly.onelink.me/NEHa?pid=youtube&c=slab_to_roof&deep_link_value=series-309.web_to_app_type-slab_to_roof\n\nHow crews fix a leaking levee by building a sandbag ring to equalize hydrostatic pressure instead of plugging the sand boil. Subscribe for more civil engineerin"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "7VkRR27yvqg",
+   "ch": "Dig To Done",
+   "cid": "UCiSM9EuT44qCwXlMlb-4h0g",
+   "date": "2026-11-17",
+   "title": "The Scariest Flood Water Comes From Under the Levee 🌊",
+   "views": 228,
+   "desc": "Levees hold back floods — until water sneaks underneath, the ground gives way, or the river decides to flood your neighbor instead.\n\n#engineering #flood #howitworks"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "TeF6lJgJluw",
+   "ch": "What Changes First?",
+   "cid": "UCa37ED0hO9aapBKrZk7m8yQ",
+   "date": "2026-08-22",
+   "title": "How a Flood Wall Warns You First | What Changes First?",
+   "views": 6,
+   "desc": "A flood wall can look solid seconds before trouble. The earliest warning is rarely a dramatic wave.\n\nAs water rises, pressure pushes into every pore, and even compacted soil and stacked bags are not waterproof. The first visible clue is often a damp patch on the protected side. If that seepage start"
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "MW44cI2ZudM",
+   "ch": "Keeng New",
+   "cid": "UC4QkST7pr21Wg0nfLJj_Yqg",
+   "date": "2017-03-04",
+   "title": "Detecting Flood Risks in Levees - p",
+   "views": 3,
+   "desc": "Two University of Mississippi professors have discovered that chemical differentiations in waters from the sand boils, formed from seepage along levees, may help identify which levee locations are at higher risk of failure. Video produced by Mary Stanton. Additional video provided by Gregg Davidson."
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "rVjlxqK1UVM",
+   "ch": "Xdan Cao",
+   "cid": "UCWs155emuNlSkekuUaZ3n3g",
+   "date": "2017-03-07",
+   "title": "Detecting Flood Risks in Levees - Like",
+   "views": 2,
+   "desc": "Two University of Mississippi professors have discovered that chemical differentiations in waters from the sand boils, formed from seepage along levees, may help identify which levee locations are at higher risk of failure. Video produced by Mary Stanton. Additional video provided by Gregg Davidson."
+  },
+  {
+   "q": "sand boil levee flood",
+   "vid": "Cz7LHIYvmSE",
+   "ch": "Cam Like",
+   "cid": "UC3T4B43Ub68Ro3abiKbZrgQ",
+   "date": "2017-03-08",
+   "title": "Detecting Flood Risks in Levees - Like - A",
+   "views": 1,
+   "desc": "Two University of Mississippi professors have discovered that chemical differentiations in waters from the sand boils, formed from seepage along levees, may help identify which levee locations are at higher risk of failure. Video produced by Mary Stanton. Additional video provided by Gregg Davidson."
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "HeqJq-WZQfE",
+   "ch": "ANC 24/7",
+   "cid": "UCvi6hEzLM-Z_unKPSuuzKvg",
+   "date": "2022-08-01",
+   "title": "More fissures, sand boils discovered in Ilocos Sur following",
+   "views": 47509,
+   "desc": "Dateline Philippines: More fissures and sand boils were discovered in Ilocos Sur following last week's earthquake.\n\nFor more ANC Interviews, click the link below:\nhttps://www.youtube.com/playlist?list=PLm34qRgqWBU6EiybzpykE5ZorRpI69ZkU\n\nFor more COVID-19 videos, click the link below:\nhttps://www.you"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "-mUpdBvIKoE",
+   "ch": "Current Facts Daily ",
+   "cid": "UCrjGlEVp8pAwIGL1IoGPGaw",
+   "date": "2021-02-13",
+   "title": "Liquefaction",
+   "views": 57994,
+   "desc": ""
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "WDtm6AtMx0I",
+   "ch": "WWLTV",
+   "cid": "UCJCreS7pODbA6XYRsI5fdLg",
+   "date": "2019-03-19",
+   "title": "What is a sand boil?",
+   "views": 25197,
+   "desc": "A sand boil occurs when the weight from the high river water pushes down (pressure) on the soil layers under the levee."
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "2QF9dZ5XZ-U",
+   "ch": "Thomas Fay",
+   "cid": "UCatA890grIYQoEe2aR83Ugw",
+   "date": "2016-10-30",
+   "title": "Liquefaction of Sand in an Earthquake",
+   "views": 17288,
+   "desc": "A classroom demonstration of liquefaction of sand due to cyclic seismic loading. A container of sand is mounted on a shake table and subjected to periodic motion. A foundation on the soil surface serves to illustrate the effects of liquefaction."
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "euR9TZp4WvM",
+   "ch": "Arini Fousty Badri",
+   "cid": "UCgqlr3U6LePf0Z_syA0vQfQ",
+   "date": "2026-09-15",
+   "title": "Waspada! BMKG Temukan Jejak Likuefaksi Usai Gempa Flores",
+   "views": 27251,
+   "desc": "Waspada! BMKG Temukan Jejak Likuefaksi Usai Gempa Flores\n\nBMKG mengungkap hasil survei pascagempa di Pulau Flores, NTT, yang menemukan indikasi likuefaksi berupa sand boil di Nagekeo, serta jejak tsunami di pantai utara Flores. Simak informasi lengkapnya untuk tingkatkan kewaspadaan kita terhadap be"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "lsSV-6qUUfQ",
+   "ch": "Don't Be Steve",
+   "cid": "UCG-t3RjMzWrqrGH3FMD3OFw",
+   "date": "2026-10-21",
+   "title": "Which Ground Survives the Earthquake? 😳 (wait for the wet sa",
+   "views": 20059,
+   "desc": "Four identical apartment blocks stand on one shake table. Only the ground under them is different: solid rock, stiff clay, dry sand, and loose sand full of water. The shaking gets stronger in three steps: 0.1 g, 0.2 g, then 0.4 g. Which ground survives? 😳\n\nWhat you're seeing:\n1) 0.1 g: everything ju"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "M5ivB3P2BsY",
+   "ch": "DOST- PHIVOLCS",
+   "cid": "UC2wloNmamASN3LtJhOVze2g",
+   "date": "2022-07-30",
+   "title": "Impacts of the 27 July 2022 M7.0 Northwestern Luzon Earthqua",
+   "views": 8200,
+   "desc": "DOST-PHIVOLCS Quick Response Team (QRT) investigated and documented the liquefaction impacts manifested as  lateral spreading and sand boils in Brgy. Rancho, Santa, Ilocos Sur.\n\nFor more information, visit: www.phivolcs.dost.gov.ph\n\n#EarthquakePH #EarthquakeAbra"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "mXZw8uFIRh8",
+   "ch": "Sachin 46",
+   "cid": "UC5-HjqwIf4PUbHGPQ9WhZjw",
+   "date": "2025-05-19",
+   "title": "sand boiling #shorts",
+   "views": 16843,
+   "desc": "sand boiling #shorts\n\n\nSand Boiling is a fascinating natural phenomenon that occurs during earthquakes or under extreme pressure in saturated soil. In this short video, watch how sand starts to bubble and flow like a liquid\n\nPerfect for civil engineering students, science lovers, and curious minds\n\n"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "LwLKWv3huRs",
+   "ch": "College of Engineering - Oregon State University",
+   "cid": "UCkEX1IFsyGHm-nxbL8K7Y7w",
+   "date": "2025-02-03",
+   "title": "What is liquefaction and what causes it? #earthquakes #engin",
+   "views": 11012,
+   "desc": "Kearney Dean of Engineering at Oregon State, Scott Ashford, answers the public's most common questions about earthquakes. This time, addressing one common after effect from an earthquake — liquefaction."
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "V_Q9t1Bfk8o",
+   "ch": "DOST- PHIVOLCS",
+   "cid": "UC2wloNmamASN3LtJhOVze2g",
+   "date": "2022-08-02",
+   "title": "Liquefaction Impacts of the 27 July 2022 Northwestern Luzon ",
+   "views": 5485,
+   "desc": "DOST-PHIVOLCS Quick Response Team (QRT) visited the coastal barangay of Pudoc, San Vicente, Ilocos Sur to assess the lateral spreads and sand boils caused by the 27 July 2022 M7.0 Northwestern Luzon earthquake."
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "XRSG0f0aZWU",
+   "ch": "Be the Perfect",
+   "cid": "UCUaXsYoHlJvKdeLTfmFAWrA",
+   "date": "2026-07-08",
+   "title": "Bhookamp Mein Zameen Paani Kyun Ban Jaati Hai?! 😱🌍 #Shorts",
+   "views": 8165,
+   "desc": "Kya aapko pata hai? 😳\n\nBhookamp ke dauraan kuch jagahon par zameen sach mein liquid jaisi ban sakti hai!\n\nIs GEOLOGY + CIVIL ENGINEERING science SONG mein jaaniye:\n\n🌍 Liquefaction\n→ Geeli retili mitti apni mazbooti kho deti hai\n\n🌊 Pore Water Pressure\n→ Mitti ke beech paani ka pressure badh jaata hai"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "MS_GvqJlY6E",
+   "ch": "건축지식60초",
+   "cid": "UCeb34VJ1Q_tzb5V48IfvaMA",
+   "date": "2026-10-02",
+   "title": "땅을 다지려고, 땅속에 폭약을 묻어 터뜨리는 이유, 발파 다짐 #건축 #쇼츠 #건축상식",
+   "views": 8011,
+   "desc": "땅을 단단하게 다지려고, 땅속 깊이 폭약을 묻어 터뜨립니다.\n바위를 깨려는 걸까요, 땅을 파내려는 걸까요.\n둘 다 아닙니다. 이 땅은 터뜨리고 나면, 오히려 더 단단해집니다.\n\n이런 일을 하는 곳은 물에 잠긴 느슨한 모래 땅입니다.\n모래알은 서로 기대어 버티는데, 느슨한 땅은 알갱이 사이 빈틈이 크고 그 틈을 물이 채우고 있습니다.\n평소엔 멀쩡히 서 있지만, 큰 지진으로 땅이 세게 흔들리면 문제가 생깁니다.\n흔들림에 알갱이 사이 물의 압력이 치솟고, 알갱이끼리 맞대고 버티던 힘이 사라집니다.\n땅이 잠깐 물처럼 됩니다. 이것을 액상화"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "X2bkcOMVcLI",
+   "ch": "AvatarBoy_132",
+   "cid": "UCPWiqBrq0WlnVDgBMxvIXlA",
+   "date": "2021-12-03",
+   "title": "Sand boils",
+   "views": 1308,
+   "desc": ""
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "h5Ng6rYNmK8",
+   "ch": "The Restless Planet",
+   "cid": "UCGZ05SGJTbAlFz76WzQ_5Zg",
+   "date": "2026-10-29",
+   "title": "Why the ground moved like a liquid #science #geology #shorts",
+   "views": 1626,
+   "desc": "On 28 September 2018 a magnitude 7.5 earthquake struck Sulawesi, Indonesia. Palu is remembered for its tsunami, but most of the roughly 4,340 deaths were caused by something else: liquefaction flowslides. In Petobo, Balaroa, Jono Oge and Sibalaya, ground sloping only about 2-3 degrees turned to mud "
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "ScLwPc8UuOU",
+   "ch": "Hüttinger Interactive Exhibitions",
+   "cid": "UCuH08dlec5Bd_EL6FiHuzpQ",
+   "date": "2018-10-18",
+   "title": "Liquefaction exhibit - Quake City Experience, Canterbury Mus",
+   "views": 851,
+   "desc": "Quake City charts the aftermaths of the devestating Canterbury earthquakes in 2010 and 2011 and the extraordinary response of the emergency services, international rescue teams, the thousands of volunteers who pitched in to help – construction workers, the Student Volunteer Army, the Farmy Army – an"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "wfAWlgmoZJw",
+   "ch": "Express Stories",
+   "cid": "UCg5agvAeAB0JRetkdkwfzfg",
+   "date": "2026-08-15",
+   "title": "What Is LIQUEFACTION and How Can It Sink Buildings? 😱🏢 #Eart",
+   "views": 1431,
+   "desc": "During an earthquake, the ground beneath buildings can behave in a surprising way. In certain water-saturated soils, powerful shaking can cause the ground to temporarily lose much of its strength and behave almost like a liquid. This can cause buildings to sink, tilt, or even shift across the ground"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "0UBDYLr8J7U",
+   "ch": "GeologyFacts",
+   "cid": "UCUpqqj4XAzxCisRWCtBCJiA",
+   "date": "2024-07-27",
+   "title": "Sand Boils: Nature&#39;s Earthquake Fountains",
+   "views": 886,
+   "desc": "Did you know that sand boils occur during earthquakes when water-saturated sand is forced upward, creating fountains of sand and water on the surface? These fascinating phenomena highlight the dynamic power of earthquakes. Discover the science behind sand boils! 🌋🌊🌍 #SandBoils #Earthquakes #GeologyF"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "Xk-jbm1y604",
+   "ch": "Simulated What ifs",
+   "cid": "UCd-XnF9QdUYmC8gSGmkqV6g",
+   "date": "2026-10-17",
+   "title": "What if a magnitude 9 quake turned the ground to liquid?",
+   "views": 1389,
+   "desc": "It isn't one shake. It's minutes of it. In a riverside downtown the towers sway as designed, but the surprise comes from the soil: wet sand turns to liquid, sand boils flood the road with silt, a parked car sinks, a buried manhole floats up, and an undamaged apartment block tilts into the ground, th"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "MkxvHmDGyiw",
+   "ch": "Catastrophe Dynamics",
+   "cid": "UC2IRIAfssdBDTbUrPPAegZg",
    "date": "2026-11-07",
-   "title": "Smart Engine Block Thread Repair Solution#shorts #repairs #m",
-   "views": 2183,
-   "desc": "Smart Engine Block Thread Repair Solution\n\nEvery mechanic who has dealt with stripped engine block threads knows the absolute frustration. When the threads fail and the bolt spins freely, replacing the entire housing costs a fortune. For a permanent repair that withstands intense pressure, simply dr"
+   "title": "The Liquefaction Trap: How Saturated Sand Turned a City Into",
+   "views": 1080,
+   "desc": "In 1964, the Niigata earthquake revealed a terrifying geological phenomenon: soil liquefaction. Buildings didn't collapse from shaking—they simply sank into the ground as if it were a pool of water. We analyze the physics of pore water pressure and why saturated sandy soil behaves like a liquid unde"
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "2eB5cJaQ1N0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-09",
-   "title": "How to Repair Stripped Threaded Holes#shorts #repairs #mecha",
-   "views": 1927,
-   "desc": "How to Repair Stripped Threaded Holes\n\nFirst, insert a bolt into the worn-out hole to test the fit. Next, pour molten metal into the hole until it overflows. Hammer and grind the surface smooth, center-punch the middle, drill a fresh pilot hole, and tap new threads to securely refit the bolt.#shorts"
+   "q": "sand boil liquefaction earthquake",
+   "vid": "Kgg_ejkZQaI",
+   "ch": "STRANGE BUT TRUE Official",
+   "cid": "UCjxVHnIF8caEfboFMZ3FqAQ",
+   "date": "2026-04-06",
+   "title": "The Ground Started Erupting Sand… Here’s Why #SandBoils #Ear",
+   "views": 1010,
+   "desc": "When the Earth Starts Boiling\nThe ground isn’t supposed to erupt.\n\nBut during powerful earthquakes, pressure can build beneath the surface — forcing water and sand upward until the soil behaves like a liquid.\n\nThese eruptions are known as sand boils.\n\nThey can appear suddenly, turning solid ground i"
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "__auNs1zotU",
-   "ch": "AutoDIY Express",
-   "cid": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "date": "2026-11-13",
-   "title": "Stripped Thread Repair and Threaded Insert Installation Tech",
-   "views": 2068,
-   "desc": "Stripped Thread Repair and Threaded Insert Installation Technique! 🚗⚙️\n\nStruggling with stripped bolt holes, broken fasteners, or wondering how to permanently restore damaged threads in metal castings using drilling, tapping, and threaded inserts? Watch this step-by-step tutorial on professional thr"
+   "q": "sand boil liquefaction earthquake",
+   "vid": "243E5iWxlho",
+   "ch": "Sudal Rai",
+   "cid": "UC5noVwZoFsGcv2hwa3rYTxA",
+   "date": "2026-03-14",
+   "title": "Liquefaction in Jhapa Bazar, Eastern Nepal #viralvideo",
+   "views": 1144,
+   "desc": "This video explains the risk of soil liquefaction in Jhapa Bazar area of eastern Nepal based on geological research. Liquefaction occurs when loose, water-saturated sediments lose strength during strong earthquakes and begin to behave like liquid.\nThe Terai region of Nepal is mainly composed of youn"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "xa7GTT5QKCM",
+   "ch": "Jay Silverheals",
+   "cid": "UCcq4VkR8btvUw-bgYUBN_yw",
+   "date": "2019-02-19",
+   "title": "SAND BLOWS..earthquake liquifies material below the surface ",
+   "views": 579,
+   "desc": "This video is of a fossilized sand blow about 8 feet across. During an earthquake water logged soil trapped below the surface blasts up a conduit to the surface. They are common but not this big. In Zion they have documented over 800. Some shoot out the surface but some dont make it all the way and "
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "C-Fwk06rwMk",
+   "ch": "STRANGE BUT TRUE Official",
+   "cid": "UCjxVHnIF8caEfboFMZ3FqAQ",
+   "date": "2026-04-03",
+   "title": "Why Did the Ground Suddenly Turn Into Liquid? When the Earth",
+   "views": 937,
+   "desc": "ground liquefaction\nearthquake liquefaction\nsand boils earthquake\nearthquake phenomena\nstrange but true science\nearth behaving like liquid"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "80AgYy_yxQc",
+   "ch": "Quark to Coast",
+   "cid": "UCEwqOZkQDJqXTwWFzcK32bw",
+   "date": "2026-11-09",
+   "title": "What a Sand Boil Can Reveal After an Earthquake #earthquake ",
+   "views": 1090,
+   "desc": "A house can tilt while an empty buried tank rises. Both can happen when saturated soil loses strength during an earthquake. A little mound of sand at the surface can be a clue.\nShaking can rearrange loose, waterlogged sand faster than the water between its grains can drain. As water pressure rises, "
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "77cn5DqLfZk",
+   "ch": "One News PH",
+   "cid": "UCzEAC4xGrhpShopTYgBhGJA",
+   "date": "2022-08-03",
+   "title": "Ground fissures, sand boils seen in Abra after magnitude 7 q",
+   "views": 251,
+   "desc": "Ground fissures, sand boils in Abra\n\nGround fissures and sand boils were found in some barangays in Abra, following the magnitude 7.0 earthquake. PHIVOLCS, however, clarifies there is nothing to worry about as these normally occur after a major tremor.\n\nThe agency has also set up eight temporary sei"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "MPn3W4mYBSg",
+   "ch": "FactVault",
+   "cid": "UChtfi_zRbndDf9qyo_sJCcg",
+   "date": "2026-07-29",
+   "title": "The Strange Phenomenon of Earthquake Sand Boils",
+   "views": 888,
+   "desc": "When an earthquake hits, the ground can suddenly liquefy, forcing sand and water to erupt upwards in strange, temporary \"sand volcanoes.\" It's a terrifying consequence of seismic activity that reshapes landscapes. Geologists now study these formations for critical future warnings. #EarthquakeFacts #"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "SXoGCinoLWI",
+   "ch": "Felipe Ochoa",
+   "cid": "UCQrUqMJf7QsTOVJOxSXyd0Q",
+   "date": "2023-03-18",
+   "title": "Sand volcanoes and earthquake induced liquefaction",
+   "views": 522,
+   "desc": ""
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "cd7mA3RFdzI",
+   "ch": "Book of Mormon Evidence",
+   "cid": "UCHp1EBgpKytZt_-j72EZ83Q",
+   "date": "2025-06-02",
+   "title": "Sand Blows, a Unique Phenomena | Book of Mormon Evidence",
+   "views": 436,
+   "desc": "During the 1811-1812 earthquake series, the earth belched out immense quantities of sand from unusual gaping fissures in the ground.  These 'sand blows' blasted a mixture of sand and water as much as 100 feet into the air and buried some areas under 20 feet of sand in just hours.  The Book of Mormon"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "JYUZ4tJtSgw",
+   "ch": "Flash Catastrophe",
+   "cid": "UC_GGkv6J1dNyyXlOi66r2bg",
+   "date": "2026-03-23",
+   "title": "🚗 Ground Turned to Liquid Beneath This Parking Lot [Dashcam ",
+   "views": 811,
+   "desc": "The pavement just... disappeared. That's the only way to describe it. This dashcam captured the terrifying moment liquefaction struck a parking lot during an earthquake. Sand boils erupted through the asphalt like geysers, and within seconds, solid ground became something closer to quicksand. You ca"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "ehqrOhzrI-s",
+   "ch": "CIVIL VISION",
+   "cid": "UCBtuiUjTfVT15wEucGXvmWw",
+   "date": "2025-03-05",
+   "title": "Building collapse due to soil liquefaction and sand boiling",
+   "views": 507,
+   "desc": "#Building #collapse #due to #soil #liquefaction and #sand #boiling \n\norientation in #civil #engineering\n@buildingsupervision"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "XTsoF2YzFLM",
+   "ch": "shohid87",
+   "cid": "UCJ4tfNrR2N5OWcHI8ZKvT_Q",
+   "date": "2017-01-04",
+   "title": "Why earthquake, soil and water burst out of sand in Banglade",
+   "views": 332,
+   "desc": "Why earthquake, soil and water burst out of sand in Bangladesh 3 January 2017 at 3:15 PM"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "9mXzC70E74M",
+   "ch": "DUNIA NGGAK MASUK AKAL",
+   "cid": "UCc3gvRO5bDQTIXa0LRIFqZg",
+   "date": "2026-09-21",
+   "title": "Tanah Ini Bisa Berubah Seperti Cairan Saat Gempa! Inilah Liq",
+   "views": 515,
+   "desc": "Bagaimana jika tanah yang kita pijak tiba-tiba kehilangan kekuatannya dan bergerak seperti cairan?\n\nFenomena ini disebut liquefaction atau likuefaksi. Saat gempa kuat mengguncang tanah yang longgar dan jenuh air, tekanan air di antara butiran tanah dapat meningkat. Akibatnya, butiran tanah kehilanga"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "AzIryfh6_uw",
+   "ch": "CookyWee",
+   "cid": "UC7z_gKd3mNIrjgyeY_NLbKg",
+   "date": "2026-09-29",
+   "title": "Bodenverflüssigung während Erdbeeben #fakten",
+   "views": 729,
+   "desc": "Bodenverflüssigung (Bodenliquefaktion) ist ein geotechnisches Phänomen, bei dem sich ein fester, wassergesättigter Boden während eines starken Erdbebens schlagartig wie eine viskose Flüssigkeit verhält.\n\nVoraussetzung dafür sind lockere, feinkörnige Sedimente (wie Sand oder Schluff) unterhalb des Gr"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "gd3pNFjLNEc",
+   "ch": "뜻밖의 컷",
+   "cid": "UCqgM7D1wWOHlP9wRi72fANA",
+   "date": "2026-10-30",
+   "title": "땅은 녹지 않았는데 건물은 왜 기울었을까? #과학 #관찰 #신기한영상",
+   "views": 945,
+   "desc": "건물이 옆으로 누운 이 사진, 땅이 뜨거워져 녹은 장면은 아닙니다. 1964년 니가타 지진 뒤 남은, 액상화 피해 기록이죠. 모래알 사이가 물로 찬 느슨한 땅은, 흔들릴 때 버티는 힘을 잃을 수 있습니다. 물이 빨리 빠지지 못하면 그 사이 수압이 높아져, 알갱이끼리 누르는 힘이 줄어듭니다. 이때 모래 섞인 물이 지표로 솟아, 이런 분출구를 남기기도 하죠. 사진은 결과를, 모형은 땅속에서 지지력이 사라지는 원리를 보여줍니다. 바뀐 것은 모래의 재료보다, 물과 알갱이가 무게를 버티던 방식입니다.\n\n실제 관측사진·영상과 자체 제작 원리 "
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "vpte1fDl8HM",
+   "ch": "2023 Turkey-Syria Earthquakes Archive",
+   "cid": "UCHdmq3WdZMxra0yxTX-3mCQ",
+   "date": "2024-06-28",
+   "title": "Sand Boils in Northern Syria after M7.8 Earthquake",
+   "views": 231,
+   "desc": "Cameraman captures sand boils in the aftermath of the 7.8 quake.\n\n#deprem \n#زلزال"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "P0OckT1Vzf0",
+   "ch": "FactNova 7",
+   "cid": "UClKSaT_z5KdLsII8HAe9keA",
+   "date": "2026-09-14",
+   "title": "Earthquake Turns Solid Ground Into a Liquid?! The Science of",
+   "views": 520,
+   "desc": "Earthquake Turns Solid Ground Into a Liquid?! The Science of Soil Liquefaction\n\n🌎 What happens when an earthquake makes solid ground behave like a liquid? Soil liquefaction can cause buildings to sink, roads to deform, underground tanks to rise, and sand to erupt from the ground! 🌊🏗️ This 3D cinemat"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "Jv3RAnzVrQQ",
+   "ch": "Planet Mechanics",
+   "cid": "UClQjCDSdwPfIpBOE3-62Hog",
+   "date": "2026-10-18",
+   "title": "Liquefaction: Why Did These Apartment Blocks Tilt Over Almos",
+   "views": 839,
+   "desc": "In 1964, apartment blocks in Niigata, Japan, tilted over almost unbroken, as if the ground were liquid. Liquefaction happens in loose sand soaked with water: shaking raises the water pressure until it pushes the grains apart, and with no grip between grains the ground behaves like a liquid. Building"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "SgH2co19qJ8",
+   "ch": "서울기술사학원",
+   "cid": "UClEm71UgLZyI1AXAoZ8Gwfg",
+   "date": "2026-11-15",
+   "title": "[서울기술사학원] 토목시공 합격 승부수! 액상화(Liquefaction) 발생 범위 곡선",
+   "views": 1010,
+   "desc": "[채점관의 시선으로 해부하는 액상화 발생 범위 차별화_서울기술사학원]\n\n안녕하세요, 합격의 메카 서울기술사학원입니다.\n토목시공기술사 시험에서 '액상화(Liquefaction)' 문제가 출제되었을 때, 단순히 '지진 시 모래 분사(Sand Boil)가 일어나는 현상'이라는 밋밋한 줄글만 나열하고 계시진 않나요?\n\n모든 흙에서 액상화가 일어나는 것은 아닙니다. 고득점을 위한 가장 확실한 승부수는 지반의 '역학적 취약 조건'을 증명하는 것입니다. \n지진이나 발파 같은 동적 하중이 작용할 때, 과잉간극수압 상승으로 유효응력이 '0'이 되는"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "ZpJYXRL1Coc",
+   "ch": "Free Education TV India",
+   "cid": "UCVzCvxJAjVo6q0e8wFjzHDQ",
+   "date": "2026-11-09",
+   "title": "भूकंप में जमीन तरल जैसी क्यों हो जाती है? 😱 | Soil Liquefact",
+   "views": 298,
+   "desc": "क्या भूकंप के दौरान ठोस जमीन अचानक तरल जैसी व्यवहार कर सकती है? 😱🌍\n\nइस Episode में जानिए Earthquake Liquefaction क्या है और कैसे भूकंप के तेज झटकों से Water-Saturated Loose Sandy Soil अपनी Strength खो सकती है।\n\nइस वीडियो में समझेंगे:\n\n🌍 Soil Liquefaction कैसे होता है?\n💧 Pore Water Pressure क्यों बढ़"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "P7q4fugNpKo",
+   "ch": "PTV Philippines",
+   "cid": "UCJCUbMaY593_4SN1QPG7NFQ",
+   "date": "2025-10-06",
+   "title": "Liquefaction, nakita sa mga lugar na naapektuhan ng magnitud",
+   "views": 178,
+   "desc": "Liquefaction, nakita sa mga lugar na naapektuhan ng magnitude 6.9 na lindol ayon sa Phivolcs \n\nFor more news, visit: \n►https://www.ptvnews.ph/\n\nSubscribe to our DailyMotion Channel:\n►http://www.dailymotion.com/peoples-television-incorporated\n\nSubscribe to our YouTube channel:\n►http://www.youtube.com"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "FzkZkNcpGZQ",
+   "ch": "Enginyr2025",
+   "cid": "UCUWmAZKdZJSc7mDXXdVGykg",
+   "date": "2026-09-14",
+   "title": "Liquefaction: Explained | When Earthquakes Turn Solid Ground",
+   "views": 389,
+   "desc": "It may look like just an innocent puddle, but this is LIQUEFACTION! 🌊🏚️\n\nWhen powerful earthquakes strike saturated, loose granular soil, the solid ground can literally turn into quicksand within seconds. Here is the geotechnical science behind soil liquefaction:\n#liquefaction #earthquake #soilmecha"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "i-Tfb-AMQDw",
+   "ch": "IN Narration",
+   "cid": "UCrkBq1ArKJ8QkYgYqFzjGWg",
+   "date": "2026-10-23",
+   "title": "#shorts 14,000 Chimneys Fell - 60 Dead - Charleston 1886 #hi",
+   "views": 510,
+   "desc": "14,000 Chimneys Fell - 60 Dead - Charleston 1886\nOn August 31, 1886, at 9:50 PM, Charleston, South Carolina was asleep. No one expects an earthquake in South Carolina.\n\nThen the largest earthquake in eastern North America - magnitude 7.0 - rocks Charleston.\n\nIt topples buildings, buckles railroad tr"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "1LEY9blDAok",
+   "ch": "Proof of Wonders",
+   "cid": "UC4qNLXOlYSJBEd186FCobyA",
+   "date": "2026-08-05",
+   "title": "When Charleston&#39;s Ground Turned Into Liquid",
+   "views": 314,
+   "desc": "On August 31, 1886, the Charleston earthquake became one of the strongest ever recorded in the eastern United States. As the shaking intensified, underground water and loose sand were forced to the surface, producing dramatic sand blows and one of the earliest well-documented examples of soil liquef"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "OvI9VY4HVUs",
+   "ch": "CIVIL VISION",
+   "cid": "UCBtuiUjTfVT15wEucGXvmWw",
+   "date": "2025-04-04",
+   "title": "The occurrence of liquefaction after the Myanmar earthquake,",
+   "views": 167,
+   "desc": "The #occurrence of #liquefaction after the #Myanmar #earthquake, which was #accompanied by the #boiling of #sand."
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "A9SlofY0RYo",
+   "ch": "rob mahon",
+   "cid": "UC01Z2W7vdcUDrx07mv8Kdcg",
+   "date": "2019-02-19",
+   "title": "Soil liquefaction prac review",
+   "views": 114,
+   "desc": "Soil liquefaction, seismic impacts, earthquake prac, soil liquefaction prac, sand boils, earthquake impacts"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "AthtKyGUBw0",
+   "ch": "QuakeMate | Earthquakes & Tsunamis",
+   "cid": "UCQxg6V8GXu6ejM2XpN1nCYw",
+   "date": "2026-11-14",
+   "title": "How Earthquakes Turn Solid Ground to Liquid (Liquefaction, E",
+   "views": 385,
+   "desc": "In loose, water-saturated sand, earthquake shaking raises the water pressure between the grains until they barely press on each other. The soil loses much of its strength and can behave like a fluid: liquefaction. Effects include settlement, tilting, sand boils and floating buried structures.\n\n3D il"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "rMg8CYqMYfI",
+   "ch": "One PH",
+   "cid": "UCi-D5IxBR2HahDyfJfqy7jA",
+   "date": "2022-08-03",
+   "title": "Sand boils sa Abra",
+   "views": 82,
+   "desc": "#OneBalitaPilipinas | Lumitaw ang sand boils sa ilang katubigan sa Tayum, Abra matapos ang magnitude 7.0 na lindol. | via Mon Gualvez\n\nFULL: https://youtu.be/QiZV8qRE2tE"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "EZI5iKbwDy4",
+   "ch": "Zone R1",
+   "cid": "UCmYjkYYigRhG-SpUzSnCyUg",
+   "date": "2025-12-05",
+   "title": "The Ground Under Your Home Can Turn to Liquid. Here&#39;s Wh",
+   "views": 77,
+   "desc": "Ever wondered why buildings sometimes sink into the ground? 😱 Discover the terrifying truth behind liquefaction, a geological phenomenon that turns solid ground into quicksand! Learn how earthquakes can cause the earth to melt and swallow entire structures.\n\nThis video dives deep into the science of"
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "egMxXZ4s2x0",
+   "ch": "Fast Science",
+   "cid": "UCCv7QtS3aCvrFo-Xzn-jWdA",
+   "date": "2026-10-16",
+   "title": "Soil Liquefaction: The Science Behind Sinking Buildings",
+   "views": 184,
+   "desc": "During a powerful earthquake, seemingly solid ground can suddenly behave like liquid. This phenomenon is called soil liquefaction. It typically occurs in loose, water saturated sandy or silty soil. As earthquake waves shake the ground, soil particles attempt to rearrange, increasing pressure in the "
+  },
+  {
+   "q": "sand boil liquefaction earthquake",
+   "vid": "fpuRrfPkOYk",
+   "ch": "TechHub - In a Nutshell",
+   "cid": "UC31RU03llZBuDt0A6R3p4MQ",
+   "date": "2026-08-19",
+   "title": "How Earthquakes Turn Solid Ground Into Liquid Soil",
+   "views": 136,
+   "desc": "TITLE: How Can Solid Ground Suddenly Behave Like Liquid? DESCRIPTION: Liquefaction happens when earthquake shaking raises pore-water pressure and waterlogged soil temporarily loses strength. HASHTAGS: #Science #Physics #Nature #Engineering #Shorts KEYWORDS/TAGS: science shorts, how it works, physics"
+  },
+  {
+   "q": "ground breathing rocks water",
+   "vid": "2zwuTSEPjNs",
+   "ch": "MG Best Deals- By louie",
+   "cid": "UCTJ-VVT3UKkoVkZ1J8BP8ow",
+   "date": "2020-09-04",
+   "title": "One Last Breath - Creed [Lyrics]",
+   "views": 115334,
+   "desc": ""
+  },
+  {
+   "q": "ground breathing rocks water",
+   "vid": "rSHtreenyLg",
+   "ch": "Regnar",
+   "cid": "UC_Ol4yVT1wpweJ9-c46L-pQ",
+   "date": "2025-01-06",
+   "title": "A lagoon created by volcanic rocks. As if the ground is brea",
+   "views": 534,
+   "desc": ""
+  },
+  {
+   "q": "ground breathing rocks water",
+   "vid": "V-KYZ3ZVGYc",
+   "ch": "Donna's Wellness World",
+   "cid": "UCWLMYdm_v9gW9rEunaaSDsg",
+   "date": "2026-07-13",
+   "title": "The Breathing Volcano",
+   "views": 0,
+   "desc": "The ground under Yellowstone looks solid, yet some days it rises like a slow, giant breath, and that tiny motion hints at one of the weirdest supervolcano facts ever. But it isn’t rising because magma is racing upward, which means the real culprit is even stranger. The ground swells and sinks mostly"
+  },
+  {
+   "q": "rocks moving by themselves riverbed",
+   "vid": "GrmjdUk7o6s",
+   "ch": "헌터로그(HUNTERLOG)",
+   "cid": "UCOTqZ7jKmcbtf8pdL4olwCw",
+   "date": "2026-09-03",
+   "title": "돌멩이가 갑자기 걸어 다닌다고?!​ (Wait, did that rock just move?!)",
+   "views": 4776,
+   "desc": "계곡 바닥의 평범한 돌멩이가 스스로 기어 다닙니다. 그 정체는 물속의 천재 건축가 '날도래 애벌레'입니다. 몸에서 나오는 끈끈한 실크 분비물로 주변의 모래와 자갈, 나뭇가지 조각을 정교하게 엮어 자신만의 '이동식 갑옷 겸 집'을 완성합니다. 포식자의 눈을 완벽히 속이는 경이로운 자연의 생존 기술을 초근접 매크로 카메라로 담아냈습니다.\n​\nA seemingly ordinary pebble crawls along the riverbed. Meet the caddisfly larva—nature’s underwater architect."
+  },
+  {
+   "q": "rocks moving by themselves riverbed",
+   "vid": "M7wbgvWXkEM",
+   "ch": "Goran miniatur",
+   "cid": "UCwXyOHasIRl82iLuUypzD3w",
+   "date": "2026-11-15",
+   "title": "Impressive Heavy Machinery in Action#Excavator #HeavyEquipme",
+   "views": 1267,
+   "desc": "Impressive Heavy Machinery in Action\n\nAn extraordinary feat by an excavator as it lifts a massive rock from a riverbed. Through the operator’s skill and precision, the giant stone is successfully hoisted using the excavator’s bucket—a challenging operation that is truly fascinating to watch\n\n#Excava"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "gxfMdvD-kbA",
+   "ch": "DOORBELL NEWS",
+   "cid": "UCoAfOthCw3NVjyUrr2KW7UA",
+   "date": "2024-01-02",
+   "title": "Japan Earthquake Footage",
+   "views": 50075854,
+   "desc": "A neighbor in Japan shared this footage of the pavement moving after an earthquake which is now known as the \"2024 Sea of Japan earthquake\". This took place northwest of Suzu, located on the Noto Peninsula of Ishikawa Prefecture, Japan.\n\nSUBSCRIBE: https://www.youtube.com/channel/UCoAfOthCw3NVjyUrr2"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "A3a_aMn4N98",
+   "ch": "Seismic Kiwi",
+   "cid": "UC0qK0wo2iXGmSU-ofRmycMA",
+   "date": "2026-06-08",
+   "title": "Liquefaction Erupts During M7.8 Mindanao Earthquake 🇵🇭",
+   "views": 62425,
+   "desc": "Liquefaction footage captured during the M7.8 Mindanao earthquake in the Philippines on June 8, 2026. Powerful shaking caused the ground to behave like a liquid, producing dramatic surface effects.\n\n#earthquake #terremoto #philippines #mindanao #liquefaction #naturaldisaster #lindol #linog"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "ayVy_q31_So",
+   "ch": "Cosmic Fault",
+   "cid": "UCiudZ8b0Seh_-Bnnj1i6HoA",
+   "date": "2025-04-17",
+   "title": "Ground Turns to Liquid After Earthquake | Liquefaction Like ",
+   "views": 34493,
+   "desc": "At first glance, it looks like just a puddle. But this is no ordinary water — it's liquefaction, a rare and shocking effect of powerful earthquakes. When the ground shakes hard enough, saturated soil can lose its strength and behave like a liquid — displacing cars, trees, and even threatening buildi"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "CJDagInnk7U",
+   "ch": "RKK NEWS DIG",
+   "cid": "UCG1ApxYbWaC9xUxgHCWyR5Q",
+   "date": "2026-08-26",
+   "title": "「液状化」判定の壁　水の噴出・家屋傾斜も認められず　住民に募る不安　熊本・八代市",
+   "views": 19446,
+   "desc": "今回の熊本地震の影響で、震度6強を観測した八代市の一部地域では、地面から水が噴き出す被害も出ました。\nhttps://newsdig.tbs.co.jp/articles/-/2898697\n【RKK NEWS DIG】\nニュースや話題など熊本を深堀りし、全世界へ発信しています。\nhttps://newsdig.tbs.co.jp/list/news/rkk\n\n#news #ニュース #熊本地震 #液状化"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "XRSG0f0aZWU",
+   "ch": "Be the Perfect",
+   "cid": "UCUaXsYoHlJvKdeLTfmFAWrA",
+   "date": "2026-07-08",
+   "title": "Bhookamp Mein Zameen Paani Kyun Ban Jaati Hai?! 😱🌍 #Shorts",
+   "views": 8165,
+   "desc": "Kya aapko pata hai? 😳\n\nBhookamp ke dauraan kuch jagahon par zameen sach mein liquid jaisi ban sakti hai!\n\nIs GEOLOGY + CIVIL ENGINEERING science SONG mein jaaniye:\n\n🌍 Liquefaction\n→ Geeli retili mitti apni mazbooti kho deti hai\n\n🌊 Pore Water Pressure\n→ Mitti ke beech paani ka pressure badh jaata hai"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "FpQm2syy4PI",
+   "ch": "Tribun Flores",
+   "cid": "UCVlBbKdVLBo77VEfNHlOcOA",
+   "date": "2026-08-18",
+   "title": "Warga Nagekeo Panik, Air Panas Menyembur dari Retakan Tanah ",
+   "views": 5073,
+   "desc": "Download aplikasi berita TribunX di Play Store atau App Store untuk dapatkan pengalaman baru.\n\nTRIBUNFLORES.COM, MBAY - Gempa bumi berkekuatan magnitudo 7,7 mengguncang Pulau Flores pada Sabtu (15/8/2026) pagi.\n\nGempa yang berpusat di koordinat 8,33° Lintang Selatan (LS) dan 121,32° Bujur Timur (BT)"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "CTgdmOt5UGs",
+   "ch": "Civil Xplained",
+   "cid": "UCRka-LAEbVEJnMoF-v_sniQ",
+   "date": "2026-09-19",
+   "title": "Why Can Earthquake Soil Suddenly Behave Like a Liquid?  | Ci",
+   "views": 8073,
+   "desc": "What happens when strong earthquake shaking hits saturated loose soil?\n\nDuring cyclic shaking, the soil skeleton tries to rearrange while excess pore-water pressure builds. As pore pressure increases, effective stress decreases, reducing the soil's stiffness and shear resistance. In severe cases, th"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "JGoMD6tx5aw",
+   "ch": "Civil Xplained",
+   "cid": "UCRka-LAEbVEJnMoF-v_sniQ",
+   "date": "2026-09-29",
+   "title": "When the Ground Acts Like a Liquid During an Earthquake  #co",
+   "views": 5249,
+   "desc": "What happens when earthquake shaking hits loose, water-saturated soil?\n\nDuring strong shaking, pore-water pressure can rise and reduce the effective stress between soil particles. When the soil loses much of its grain-to-grain support, foundations may settle or tilt, and sand-water can even erupt at"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "1LFr9SdUPKM",
+   "ch": " Impossiblefieldnotes",
+   "cid": "UCAM0hKd3m88DszWHwQeuq_A",
+   "date": "2026-03-19",
+   "title": "12 He Was Filming… Then the Ground Exploded",
+   "views": 3668,
+   "desc": "During earthquakes, pressure can build beneath the surface, forcing sand and water upward through cracks — a process known as soil liquefaction.\n\nBut in this moment…\n\nit happens fast.\n\nMultiple points erupt almost at once, blasting muddy water and debris into the air.\n\nThe camera steps back instinct"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "h5Ng6rYNmK8",
+   "ch": "The Restless Planet",
+   "cid": "UCGZ05SGJTbAlFz76WzQ_5Zg",
+   "date": "2026-10-29",
+   "title": "Why the ground moved like a liquid #science #geology #shorts",
+   "views": 1626,
+   "desc": "On 28 September 2018 a magnitude 7.5 earthquake struck Sulawesi, Indonesia. Palu is remembered for its tsunami, but most of the roughly 4,340 deaths were caused by something else: liquefaction flowslides. In Petobo, Balaroa, Jono Oge and Sibalaya, ground sloping only about 2-3 degrees turned to mud "
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "Kgg_ejkZQaI",
+   "ch": "STRANGE BUT TRUE Official",
+   "cid": "UCjxVHnIF8caEfboFMZ3FqAQ",
+   "date": "2026-04-06",
+   "title": "The Ground Started Erupting Sand… Here’s Why #SandBoils #Ear",
+   "views": 1010,
+   "desc": "When the Earth Starts Boiling\nThe ground isn’t supposed to erupt.\n\nBut during powerful earthquakes, pressure can build beneath the surface — forcing water and sand upward until the soil behaves like a liquid.\n\nThese eruptions are known as sand boils.\n\nThey can appear suddenly, turning solid ground i"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "jSocV2U7e90",
+   "ch": "Construct Masterz",
+   "cid": "UCduu0jv7139NvoksatDKsXA",
+   "date": "2026-09-22",
+   "title": "When Earthquakes Turn Solid Ground Into Soup 🥣 #Shorts #Civi",
+   "views": 1682,
+   "desc": "A terrifying 3D engineering breakdown of Soil Liquefaction!\n\n​Before you build, you must test the soil! In areas with loose, sandy soil and high groundwater, an earthquake can be disastrous. The intense seismic vibrations cause pore water pressure to increase rapidly. The sand particles lose contact"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "5BGbOvZDYQg",
+   "ch": " Impossiblefieldnotes",
+   "cid": "UCAM0hKd3m88DszWHwQeuq_A",
+   "date": "2026-03-18",
+   "title": "The Ground Started Erupting Like Geysers",
+   "views": 1182,
+   "desc": "It looks like a normal field.\n\nUntil the ground begins to erupt.\n\nDuring earthquakes, pressure builds beneath the surface, forcing water and sand upward through cracks — a process known as soil liquefaction.\n\nBut in rare moments like this…\n\nit doesn’t just seep out.\n\nIt explodes.\n\nMultiple نقاط erup"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "y1TqX4pXg-A",
+   "ch": " Impossiblefieldnotes",
+   "cid": "UCAM0hKd3m88DszWHwQeuq_A",
+   "date": "2026-03-18",
+   "title": "This Came Out of the Earth During an Earthquake",
+   "views": 1336,
+   "desc": "At first, it looks like a normal field.\n\nThen the ground begins to break apart.\n\nDuring earthquakes, soil liquefaction can force sand and water upward, creating sudden eruptions across the surface.\n\nBut in this moment…\n\nsomething else is revealed.\n\nFor just a fraction of a second, a pale, worm-like "
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "MPn3W4mYBSg",
+   "ch": "FactVault",
+   "cid": "UChtfi_zRbndDf9qyo_sJCcg",
+   "date": "2026-07-29",
+   "title": "The Strange Phenomenon of Earthquake Sand Boils",
+   "views": 888,
+   "desc": "When an earthquake hits, the ground can suddenly liquefy, forcing sand and water to erupt upwards in strange, temporary \"sand volcanoes.\" It's a terrifying consequence of seismic activity that reshapes landscapes. Geologists now study these formations for critical future warnings. #EarthquakeFacts #"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "JlSPv4oiGlM",
+   "ch": "CurioCrave",
+   "cid": "UCoMhOHR11udk7J_-hODmDrQ",
+   "date": "2024-08-14",
+   "title": "Watch the Ground SHAKE Like Water! #shorts #facts #earthquak",
+   "views": 559,
+   "desc": "#shorts #facts #earthquake\n\nWitness the ground ripple like water during an earthquake! 🌍 This mind-blowing phenomenon, known as soil liquefaction, happens when intense shaking causes water-saturated soil to lose its strength, making solid ground behave like a liquid. It’s a rare and unsettling event"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "bUZvnJpYykA",
+   "ch": "The Build Explained",
+   "cid": "UC40eTbUp22x8wxRgmXDqy8Q",
+   "date": "2026-06-02",
+   "title": "This soil turned to liquid during an earthquake. Buildings s",
+   "views": 822,
+   "desc": "Wiggle your feet in wet sand at the beach. It turns to liquid. Now imagine an earthquake doing that beneath a city. Loose soil saturated with water loses all strength when the ground shakes — water pressure rises until it carries the full weight of the soil grains. Buildings tilt. Roads sink. Sand e"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "xXZ_QOQYUNY",
+   "ch": "The Thinking Horse",
+   "cid": "UCuiIklC14oDrwWg0DnEYiVw",
+   "date": "2026-04-15",
+   "title": "The Ground Suddenly Produced A Fountain Of Mud",
+   "views": 1069,
+   "desc": "Liquefaction happens when shaking pushes water through soil.\n\nMud fountains can suddenly erupt from the ground.\n\n#earthquake #science #nature #shorts"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "P0OckT1Vzf0",
+   "ch": "FactNova 7",
+   "cid": "UClKSaT_z5KdLsII8HAe9keA",
+   "date": "2026-09-14",
+   "title": "Earthquake Turns Solid Ground Into a Liquid?! The Science of",
+   "views": 520,
+   "desc": "Earthquake Turns Solid Ground Into a Liquid?! The Science of Soil Liquefaction\n\n🌎 What happens when an earthquake makes solid ground behave like a liquid? Soil liquefaction can cause buildings to sink, roads to deform, underground tanks to rise, and sand to erupt from the ground! 🌊🏗️ This 3D cinemat"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "FzkZkNcpGZQ",
+   "ch": "Enginyr2025",
+   "cid": "UCUWmAZKdZJSc7mDXXdVGykg",
+   "date": "2026-09-14",
+   "title": "Liquefaction: Explained | When Earthquakes Turn Solid Ground",
+   "views": 389,
+   "desc": "It may look like just an innocent puddle, but this is LIQUEFACTION! 🌊🏚️\n\nWhen powerful earthquakes strike saturated, loose granular soil, the solid ground can literally turn into quicksand within seconds. Here is the geotechnical science behind soil liquefaction:\n#liquefaction #earthquake #soilmecha"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "834d1sn5bo8",
+   "ch": "Facts Unlocked",
+   "cid": "UCPITI-EBLQGhQlqZq-GMEnQ",
+   "date": "2026-09-05",
+   "title": "🌎 When an Earthquake Turns Solid Ground Into LIQUID! 😱 | Soi",
+   "views": 230,
+   "desc": "What if the ground beneath your feet suddenly behaved like a liquid? 😳🌎\n\nDuring a powerful earthquake, loose, water-saturated soil can lose its strength as water pressure rises between soil grains. The ground can temporarily behave like a liquid—a phenomenon called soil liquefaction.\n\nThis can cause"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "egMxXZ4s2x0",
+   "ch": "Fast Science",
+   "cid": "UCCv7QtS3aCvrFo-Xzn-jWdA",
+   "date": "2026-10-16",
+   "title": "Soil Liquefaction: The Science Behind Sinking Buildings",
+   "views": 184,
+   "desc": "During a powerful earthquake, seemingly solid ground can suddenly behave like liquid. This phenomenon is called soil liquefaction. It typically occurs in loose, water saturated sandy or silty soil. As earthquake waves shake the ground, soil particles attempt to rearrange, increasing pressure in the "
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "shP7flwugbM",
+   "ch": "Nature Disasters",
+   "cid": "UC2W1JwfGHkazjWbN1IvSXkQ",
+   "date": "2026-07-24",
+   "title": "Earthquake Liquefaction: The 2025 Ground-Liquid Trap",
+   "views": 152,
+   "desc": "Earthquake liquefaction made saturated soil act like fluid during the 2025 magnitude 7.7 Mandalay quake.\nLoose sand and silt can lose strength when earthquake shaking raises underground water pressure. The result can include sinking buildings, floating pipes, cracked roads, and erupting sand boils.\n"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "Nwo3si9oiYo",
+   "ch": "Earth Facts",
+   "cid": "UCH-wliFr28sFPEneeKQzu5w",
+   "date": "2026-08-25",
+   "title": "How Can Solid Ground Turn Into Liquid? 🌍",
+   "views": 214,
+   "desc": "During an earthquake, loose water-saturated soil can temporarily lose strength and behave like a fluid. Roads buckle, buildings tilt and wet sand may erupt through cracks.\n\nWould you trust the ground beneath this city?\n\nSubscribe for daily Earth and physics explanations.\n#EarthFacts #Earthquakes #Ph"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "ATnNqjyecP0",
+   "ch": "Curio Files",
+   "cid": "UCuxBjyTPgf2v2K72BC_dx8A",
+   "date": "2026-09-14",
+   "title": "How Earthquakes Turn Solid Ground Into Liquid 😳",
+   "views": 121,
+   "desc": "Can an earthquake really turn solid ground into liquid? 😳 It can certainly make the ground behave like a liquid—and the terrifying process is called soil liquefaction.\n\nEarthquake liquefaction can happen when strong seismic shaking affects loose, water-saturated soil. Before the earthquake, the sand"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "8QKIMv2ZkX4",
+   "ch": "Secrets of Earth",
+   "cid": "UCQsqXo1HZO0CN2meaPxiszQ",
+   "date": "2026-09-05",
+   "title": "The Earthquake That Turned Solid Ground Into Liquid",
+   "views": 50,
+   "desc": "What if an earthquake could make solid ground behave like a liquid?\n\nIt sounds impossible—but under the right conditions, it can happen.\n\nThis phenomenon is called **soil liquefaction**. When strong earthquake shaking affects loose, water-saturated soil, the ground can temporarily lose much of its s"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "7XMqRFtLcZI",
+   "ch": "The Civil Side",
+   "cid": "UCDmS4kGWOk_vjfvibYaiw5g",
+   "date": "2026-11-15",
+   "title": "When the Ground Turns to Liquid #shorts #civilengineering #g",
+   "views": 210,
+   "desc": "Solid ground, then an earthquake hits and it starts behaving like a liquid. This is liquefaction.\n\nIt happens in loose, sandy soil below the water table. Shaking makes the grains try to pack closer, the water can't escape fast enough, pressure shoots up and the grains are pushed apart. With no conta"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "jHY9N9os468",
+   "ch": "STRANGE BUT TRUE Official",
+   "cid": "UCjxVHnIF8caEfboFMZ3FqAQ",
+   "date": "2026-04-08",
+   "title": "The Ground Suddenly Started Erupting — This Is Why",
+   "views": 21,
+   "desc": "The ground isn’t supposed to erupt.\n\nBut during powerful earthquakes, something strange can happen beneath the surface.\n\nWater trapped in the soil is forced upward under intense pressure, causing the ground to lose its structure and behave like a liquid.\n\nThis phenomenon is known as liquefaction.\n\nI"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "G0qtLixvtS4",
+   "ch": "Earth Unleashed",
+   "cid": "UCDhhu1oe-TY6ZLpklhc4T0A",
+   "date": "2026-11-06",
+   "title": "The Earthquake That Turns Solid Ground Into Liquid 😳",
+   "views": 33,
+   "desc": "An earthquake can do more than shake buildings. Under the right conditions, it can make water-saturated soil temporarily lose its strength and behave like a liquid.\n\nThis phenomenon is called soil liquefaction. It can cause buildings to tilt, roads to crack, underground structures to rise, and muddy"
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "OHqO0d8_cD4",
+   "ch": "Fieldnote Science",
+   "cid": "UCXXRglc-QG6kUvzXIkrzNyQ",
+   "date": "2026-09-30",
+   "title": "Why Solid Ground Can Behave Like a Liquid",
+   "views": 21,
+   "desc": "During strong shaking, loose, water-logged sand can stop behaving like a solid: the grains lose contact, the pore water takes the load, and for a short while the ground flows. Sand boils erupt, buildings settle and tip, and crusts of ground slide sideways. Then the pressure drains away and the sand "
+  },
+  {
+   "q": "liquefaction earthquake ground water erupting",
+   "vid": "pH_nUu2XhWc",
+   "ch": "雑学の扉",
+   "cid": "UCw97l2Np3Kcp553PCR6R-xA",
+   "date": "2026-09-18",
+   "title": "液状化現象とは？地面が液体のようになる理由【地学】",
+   "views": 7,
+   "desc": "液状化現象とは、地震のゆれによって、水を多く含んだ砂の地盤が液体のようにふるまう現象のこと。なぜ固いはずの地面が、突然どろどろになってしまうのか。\n\n砂の地盤は、砂粒どうしが互いにかみ合うことで上の重さを支えている。ところが強いゆれが加わると、このかみ合いが外れ、粒と粒のすきまにあった水の圧力が急に高まる。すると砂粒は水に浮いたような状態になり、地盤は重さを支える力を失ってしまう。その結果、重い建物は傾いて沈み、下水管やマンホールのような軽い地中の構造物はかえって浮き上がる。すきまの水は砂を巻き込んで地表へあふれ、泥水が噴き出すこともある。起きやすいのは、埋め立て地、昔の川筋を埋めた土地、砂丘"
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "rhwsxa1rSaU",
+   "ch": "Coralia Dives",
+   "cid": "UCI5VU7P9YU_xBPDisWOrlaA",
+   "date": "2026-05-10",
+   "title": "Sand boils 😍💙 #underwater #freediver #freediving #springs #s",
+   "views": 75444,
+   "desc": ""
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "k_mZKnB6Ltg",
+   "ch": "Coralia Dives",
+   "cid": "UCI5VU7P9YU_xBPDisWOrlaA",
+   "date": "2025-10-24",
+   "title": "Sand boils in Hawaii 😍🖤💨 #sandboil #underwater #spring #free",
+   "views": 23059,
+   "desc": ""
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "K4WUIBUhZxw",
+   "ch": "Coralia Dives",
+   "cid": "UCI5VU7P9YU_xBPDisWOrlaA",
+   "date": "2024-10-15",
+   "title": "Sand boil city ‼️ #sandboil #underwater #cool #nature #flori",
+   "views": 11881,
+   "desc": ""
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "a2nR_ybi0gU",
+   "ch": "Coralia Dives",
+   "cid": "UCI5VU7P9YU_xBPDisWOrlaA",
+   "date": "2026-09-16",
+   "title": "More Utah sand boils at the cow spring 😍🐄 #sandboils #spring",
+   "views": 3625,
+   "desc": ""
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "FqDQKI7lmXQ",
+   "ch": "Proverbs 31 Girl",
+   "cid": "UCcL3WLPbXGUsuOmVTLvkXpA",
+   "date": "2023-02-13",
+   "title": "Going on an adventure in the sand boils at Silver Glen Sprin",
+   "views": 1815,
+   "desc": ""
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "l-sMwAjJzEI",
+   "ch": "Generations Below",
+   "cid": "UCM20Er1MYVWK0VLcYiO6uFg",
+   "date": "2025-07-28",
+   "title": "How Scuba Divers Warm Up in Boiling Sand #scubadiving #scuba",
+   "views": 1386,
+   "desc": "This is Balmorhea a Texas spring that holds at 72 degrees year-round.\nBut on the bottom, boiling sand vents from geothermal heat.\nThat’s what Gunner found and used to warm up after our dive.\nGunner's Dive Gear\n💨 Dive Rite XT2 – https://amzn.to/3FQXw4S\n🎒 Zeagle Scout BCD – https://amzn.to/43yH8za\n🧤 N"
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "PSiM20zWXgI",
+   "ch": "Gulf Coast Fishing Homes Realty Greg Klesius",
+   "cid": "UCbOR4qEnyzwX9l6WEDLW7ew",
+   "date": "2024-07-09",
+   "title": "Sand boils.  In spring run off rainbow river",
+   "views": 508,
+   "desc": "Spring boils occur when you have water coming out of the rock that’s covered by a thin layer of sand and it looks like the sand is boiling. The reality is it’s the water moving to the sand that creates the illusion.  The water is 74°."
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "9jndTkL-F04",
+   "ch": "The Florida Explorer",
+   "cid": "UCSZ-geJw0l9bJau2q27bl3w",
+   "date": "2015-10-05",
+   "title": "Sliver Glen Springs, Sand Boil",
+   "views": 397,
+   "desc": ""
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "SybLnudEKjI",
+   "ch": "Mia Erickson Stevens",
+   "cid": "UC2tQ_Da6KtcG_xPyydsz0YQ",
+   "date": "2026-11-01",
+   "title": "Two Fascinating Sand Boils at Gainer Springs! #shorts  #flor",
+   "views": 1008,
+   "desc": "Have you ever seen a sand boil?\n\nAt Gainer Springs, I captured two sand boils in the same underwater view. One is bubbling normally, while the other moves much more slowly, carrying bits of detritus along with it.\n\nIt’s amazing to see the water moving beneath the surface!\n\nGo outside and explore!\n\n#"
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "JNSzJhdqe28",
+   "ch": "Fritz Leip",
+   "cid": "UCrCd1DU4Dct5lc7BkJeASOw",
+   "date": "2018-01-26",
+   "title": "Winter 18 Sand Boil Springs",
+   "views": 276,
+   "desc": ""
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "1xRbL6scu4Y",
+   "ch": "tuxamation",
+   "cid": "UCRbqKyfYxp0xaazWhuduhpw",
+   "date": "2017-01-22",
+   "title": "Alexander Springs Florida &#39;&#39;Boiling&#39;&#39; Sand",
+   "views": 248,
+   "desc": "Spring water coming through sand about 20 feet below the surface."
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "NT-5tYdb-5A",
+   "ch": "Outside Tripp's",
+   "cid": "UCTtmMh-it-T5nrsZYtA6-wQ",
+   "date": "2021-10-17",
+   "title": "Amazing boiling sand at Florida Spring!",
+   "views": 362,
+   "desc": ""
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "_pylgf27Enc",
+   "ch": "Scuba Chrysss",
+   "cid": "UCjhf09yRnHC0OFlCzAYNThA",
+   "date": "2023-10-08",
+   "title": "Fresh water Sand Boils in Florida Springs",
+   "views": 196,
+   "desc": "Rainbow River. A Magnitude 1 spring located in a quaint town of Dunnellon, Florida. One of my fave spots to dive and dig in the sand boils for fossils."
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "DyPa-G503Vo",
+   "ch": "Ibrahim Madera",
+   "cid": "UCJmzOvoAAjmg6YP2Z4AKBPg",
+   "date": "2026-11-16",
+   "title": "What an Underwater Spring Actually Looks Like",
+   "views": 1256,
+   "desc": "Watch crystal-clear water emerge straight from the Edwards Aquifer at the bottom of Spring Lake in San Marcos, Texas! Known as \"boiling\" sand springs, these natural artesian vents push millions of gallons of fresh, 72°F water to the surface every single day, forming the headwaters of the San Marcos "
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "1NE3GPfyaOs",
+   "ch": "YuriOutdoors",
+   "cid": "UCrjzc-1UzP6q1bKzRU5TGRA",
+   "date": "2022-10-31",
+   "title": "2022-08 Fanning Spring. &quot;Boiling&quot; sand. Top view. ",
+   "views": 84,
+   "desc": "GPS: 29.58765104652909, -82.93541327797939"
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "4f6OYfCWO40",
+   "ch": "YuriOutdoors",
+   "cid": "UCrjzc-1UzP6q1bKzRU5TGRA",
+   "date": "2022-10-31",
+   "title": "2022-08 Fanning Springs. &quot;Boiling&quot; sand at the bot",
+   "views": 44,
+   "desc": "GPS: 29.58765104652909, -82.93541327797939"
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "iyvT3IVrO98",
+   "ch": "Voyager's Diary - Through My Lenses",
+   "cid": "UCHlKTFd9BLhjLEX66nfJbSg",
+   "date": "2024-11-26",
+   "title": "Boiling HOT SPRING | Black Sand Basin | Yellowstone National",
+   "views": 35,
+   "desc": "Black Sand Basin is one of a grouping of geothermal hot springs and geysers located in the Upper Geyser Basin of Yellowstone National Park, Wyoming. The spring is too hot to use as a mineral bath as its scalding 200 °F or hotter water has proven to be fatal."
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "Uu7JHDrYpdI",
+   "ch": "Still Figuring It Out",
+   "cid": "UCRNbcrjGfiFYSc6lHi2eD_A",
+   "date": "2026-10-26",
+   "title": "Boiling Desert Sand? #Nature #DesertSpring #EarthScience #Ci",
+   "views": 34,
+   "desc": "Hydrogeological field archive documenting an artesian quicksand spring bubbling through an arid wadi sandbed following flash flood saturation. Highlights subsurface hydrostatic pressure, fluidized sand mechanics, and groundwater aquifer upwelling in desert river plains. This broadcast functions as a"
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "UOO-LjZYRu0",
+   "ch": "Adam's Travels Places",
+   "cid": "UCWRAxHGGezXqMeafiETtbPQ",
+   "date": "2025-09-21",
+   "title": "The boiling thermal waters from the Black Sand Geyser Basin ",
+   "views": 25,
+   "desc": ""
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "FvmA-4daXrk",
+   "ch": "Scott Rose",
+   "cid": "UCtKcpmWxpiiLwCuRRQQxlJA",
+   "date": "2026-08-13",
+   "title": "&quot;Sand Boiling Spring&quot; - Rainbow River, FL",
+   "views": 5,
+   "desc": ""
+  },
+  {
+   "q": "boiling sand spring",
+   "vid": "GGBYE63irCw",
+   "ch": "Brasil Inexplicado",
+   "cid": "UCNHRZy62vY_HeV-C1-ZZ1vw",
+   "date": "2026-11-16",
+   "title": "Por Que a Areia do Fervedouro Alecrim Parece Ferver? #Shorts",
+   "views": 785,
+   "desc": "No Fervedouro Alecrim, a água brota pelo fundo de areia e produz o aspecto borbulhante descrito pela Prefeitura de São Félix do Tocantins. O plano de manejo de 2013 relaciona a força dessa água à flutuação nos fervedouros.\n\nVocê imaginava uma nascente ali?\n\n#FervedouroAlecrim #Jalapao #Tocantins #Sh"
+  },
+  {
+   "q": "ground pulsing water underneath",
+   "vid": "s1Kwts4vHWU",
+   "ch": "Loop Detection",
+   "cid": "UCqreip2N73G6mCpQCu2DF_w",
+   "date": "2018-04-17",
+   "title": "Loop Pulse Chaser Under Ground Gold Metal Detector",
+   "views": 18186,
+   "desc": "Hello Friends,\n \nWe are the largest supplier of metal detectors and water detector machines in India.\n ----------------------------------------------------------------------------------------------------------\nYou can contact us at the number below to buy a metal detector and water detector machine."
+  },
+  {
+   "q": "ground pulsing water underneath",
+   "vid": "zfp87Btu498",
+   "ch": "IslandGuyVAN",
+   "cid": "UC2HNQSrVwYdv5lQnoXkVrTg",
+   "date": "2026-05-27",
+   "title": "Pacific Pulse...🌊⚡️",
+   "views": 1225,
+   "desc": "Crystal-clear waves rolling onto the rocky shoreline of Vancouver Island. 🌊\nA moment of stillness, rhythm, and ocean energy under the west coast sun.\nNature’s heartbeat… Pacific Pulse.\n#PacificPulse #VancouverIsland #OceanVibes #WestCoast #NatureShorts #IslandGuyVAN #WaveTherapy #BeachVibes #Mindful"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "hM-rsh_BZ6k",
+   "ch": "Atilla AtaAlp",
+   "cid": "UCznRVtPJLjHjGK5ZwHqsvSw",
+   "date": "2023-03-12",
+   "title": "Volcan y Tsunami #volcano #tsunami #shorts #animation #catas",
+   "views": 11311733,
+   "desc": "#viralreels #viralshort #viralvideo #shorts #show #shortvideo #shortsvideo #show #youtube #youtuber #youtubeshort #youtubeshorts #youtubevideo #youtubechannel #gaming #india #china #ocean #news #like #likeandsubscribe #likeforlikes #likes #follow #followforfollowback #followme #good #goodvibes #goog"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "c9SjuTpfFt8",
+   "ch": "natural science teacher",
+   "cid": "UC1mSZKdclwWqHaBkrSYMZpw",
+   "date": "2023-04-11",
+   "title": "🌋 EPIC Homemade Volcano Eruption! | Easy Science Experiment ",
+   "views": 604412,
+   "desc": "Description:\nWant to create a real volcanic eruption in your own home? 🔥 This super easy DIY volcano experiment is perfect for kids, students, teachers, or anyone who loves a good explosion! It's safe, fun, and 100% science-approved! 👨‍🔬👩‍🔬\n\n🧪 What You’ll Need:\n• Baking soda (sodium bicarbonate)\n• V"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "mwQ6NpqZ1Uc",
+   "ch": "How the Earth Was Sculpted",
+   "cid": "UC-_-AhEamtI_aCD8n5XLS_g",
+   "date": "2026-10-27",
+   "title": "Zalzala Koh: The Island Born from an Earthquake",
+   "views": 603364,
+   "desc": "In 2013, a brand-new island appeared off the coast of Pakistan right after a powerful earthquake. \n\nIts name: Zalzala Koh, which means “Mountain of the Earthquake.” 🌋🌊\n\nThis was no ordinary island. \n\nIt was a giant pile of mud, rock, and gas pushed up from the seabed, and it later washed away.\n\nFAQ\n"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "MjBN-YgT6kA",
+   "ch": "PhenomenalFeed",
+   "cid": "UCrnmw1vHHbc3M9tLY7ZcOWQ",
+   "date": "2025-05-22",
+   "title": "Top 5 Natural Disasters That Look Like the End of the World ",
+   "views": 195116,
+   "desc": "These are the top 5 natural disasters that look straight out of an apocalypse. \n\nFrom skies turning red to storms that seem unreal—watch until the end to witness nature’s terrifying power.\n\nDisclaimer:\nAll content used in this video is believed to fall under Fair Use guidelines. However, I fully res"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "HeqJq-WZQfE",
+   "ch": "ANC 24/7",
+   "cid": "UCvi6hEzLM-Z_unKPSuuzKvg",
+   "date": "2022-08-01",
+   "title": "More fissures, sand boils discovered in Ilocos Sur following",
+   "views": 47509,
+   "desc": "Dateline Philippines: More fissures and sand boils were discovered in Ilocos Sur following last week's earthquake.\n\nFor more ANC Interviews, click the link below:\nhttps://www.youtube.com/playlist?list=PLm34qRgqWBU6EiybzpykE5ZorRpI69ZkU\n\nFor more COVID-19 videos, click the link below:\nhttps://www.you"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "bZzmcUcPUYs",
+   "ch": "Lucky Sairus",
+   "cid": "UCGxuw1JTzjZbkS5WPgRwaVg",
+   "date": "2022-07-11",
+   "title": "Liquefaction due to Earthquake, experiment",
+   "views": 36249,
+   "desc": ""
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "2k-Vay-t2U0",
+   "ch": "UNTV News and Rescue",
+   "cid": "UC3XaG-7UVi2vD8ZZEMNnnpw",
+   "date": "2022-08-01",
+   "title": "Sand boils at lateral spread, nakita sa San Vicente, Ilocos ",
+   "views": 15742,
+   "desc": "Subscribe to our official YouTube channel, https://bit.ly/2ImmXOi\n\nBe the first to know about the latest updates on COVID-19 pandemic, lockdowns, community quarantine, new normal, and Serbisyong Bayanihan. \n\nWe Serve the People. We Give Glory To God!\n#UNTV #NewsandRescue #SerbisyongBayanihan\n\nFor up"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "HA-Qurq3yKs",
+   "ch": "거침없이",
+   "cid": "UCP97cebRM4b0q2P9N-knwJg",
+   "date": "2026-10-26",
+   "title": "포항 논바닥에서 모래가 솟구친 이유 #포항지진 #액상화 #모래화산 #지진 #지반공학 #건축 #토목 #공학",
+   "views": 15304,
+   "desc": "2017년 11월 15일 포항 지진(규모 5.4) 직후, 흥해읍 논바닥 곳곳에서 모래와 물이 솟아올랐습니다. 1978년 지진 계기관측을 시작한 이래 국내에서 처음 확인된 액상화입니다. 논에서 찾은 모래 분출 자국만 약 600개였습니다.\n\n논 밑 모래층은 모래알 사이 빈틈마다 지하수가 꽉 차 있습니다. 평소엔 모래알끼리 서로 맞물려 무게를 버티지만, 지진이 땅을 흔들면 모래알은 더 촘촘하게 내려앉으려 합니다. 이때 빈틈의 지하수가 빠져나갈 시간이 없어 물의 압력이 치솟고, 모래알이 서로 떨어지면서 땅이 걸쭉한 흙탕물처럼 변합니다. 갈"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "XN79riYMerk",
+   "ch": "Dr. Wendy Rocks",
+   "cid": "UCattuUO9_ytbURJslOJahlg",
+   "date": "2023-06-16",
+   "title": "New Madrid Seismic Zone, Evidence of past earthquakes",
+   "views": 6420,
+   "desc": "While the New Madrid earthquake sequence of 1811-1812 are the most well known earthquakes, there is evidence of previous earthquakes preserved in landscape."
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "_uTsfv6Q_xk",
+   "ch": "Cambridge Volcano Seismology",
+   "cid": "UCkku2ejeDWRFTbhgTz7o84g",
+   "date": "2016-06-29",
+   "title": "Wonderfully Waxy Volcano in a Cup - Experiments on Earthquak",
+   "views": 1046,
+   "desc": "Try the WONDERFULLY WAXY VOLCANO IN A CUP experiment for yourself - Visit www.esc.cam.ac.uk/ExplosiveEarth to download the \"Experiments on Earthquakes and Volcanoes\" instruction booklet!\n\nINTRODUCTION:\nHot magma beneath a volcano always wants to move up towards the \nsurface. This is because it is a "
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "4Xrz4GQ05_k",
+   "ch": "Disaster Mechanics",
+   "cid": "UClbSNiGJ36j6egxntsN4vBQ",
+   "date": "2026-09-18",
+   "title": "New Madrid Earthquake: The River Ran Backward",
+   "views": 1740,
+   "desc": "Between 16 December 1811 and 7 February 1812 three earthquakes of about magnitude 7.5 struck the New Madrid seismic zone in Missouri, with thousands of aftershocks. The town of New Madrid sank and flooded, the Mississippi River briefly flowed upstream and formed waterfalls, sand blows erupted across"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "VKPq5Y7YzBg",
+   "ch": "Jarred Guidelli",
+   "cid": "UCZNni3bk5725q8qOUIU9lbA",
+   "date": "2026-10-01",
+   "title": "In 1886 the Ground Near Charleston Started Shooting Water",
+   "views": 1446,
+   "desc": "On August 31, 1886, the biggest earthquake on record in the U.S. east of the Appalachians hit the Charleston area, centered around Middleton Place on the Ashley River. Summerville felt warning shocks days before. That night, residents fled into the streets, carried the sick out on mattresses, and sl"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "0UBDYLr8J7U",
+   "ch": "GeologyFacts",
+   "cid": "UCUpqqj4XAzxCisRWCtBCJiA",
+   "date": "2024-07-27",
+   "title": "Sand Boils: Nature&#39;s Earthquake Fountains",
+   "views": 886,
+   "desc": "Did you know that sand boils occur during earthquakes when water-saturated sand is forced upward, creating fountains of sand and water on the surface? These fascinating phenomena highlight the dynamic power of earthquakes. Discover the science behind sand boils! 🌋🌊🌍 #SandBoils #Earthquakes #GeologyF"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "MPy8x6WmEbk",
+   "ch": "こにろぐ",
+   "cid": "UCoCQi6qpPbPfGlFfFgE2Y1Q",
+   "date": "2026-11-15",
+   "title": "液状化が起きる理由｜砂が、地面の中で水に浮く",
+   "views": 1271,
+   "desc": "地震のあと、マンホールが突き出し、地面から砂が噴き出す「液状化」。地面の中では、砂の粒どうしの支え合いが外れ、粒が地下水に浮いた状態になっています。1964年の新潟地震から、砂の杭で地面を締め固める対策まで、液状化の仕組みを3DCGで解説します。\n\n※3DCGはイメージです（粒の動き・家やマンホールの動きは誇張しています）\n※映像の一部はGoogle Geminiで生成、3DCGはBlenderで制作しました\n\n■出典\n・千葉県「液状化現象」（液状化の仕組み：粒の支え合いが外れて水に浮いた状態になる／マンホールの浮き上がり・再液状化・噴砂の健康被害）\nhttps://www.pref.chib"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "MkxvHmDGyiw",
+   "ch": "Catastrophe Dynamics",
+   "cid": "UC2IRIAfssdBDTbUrPPAegZg",
+   "date": "2026-11-07",
+   "title": "The Liquefaction Trap: How Saturated Sand Turned a City Into",
+   "views": 1080,
+   "desc": "In 1964, the Niigata earthquake revealed a terrifying geological phenomenon: soil liquefaction. Buildings didn't collapse from shaking—they simply sank into the ground as if it were a pool of water. We analyze the physics of pore water pressure and why saturated sandy soil behaves like a liquid unde"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "Kgg_ejkZQaI",
+   "ch": "STRANGE BUT TRUE Official",
+   "cid": "UCjxVHnIF8caEfboFMZ3FqAQ",
+   "date": "2026-04-06",
+   "title": "The Ground Started Erupting Sand… Here’s Why #SandBoils #Ear",
+   "views": 1010,
+   "desc": "When the Earth Starts Boiling\nThe ground isn’t supposed to erupt.\n\nBut during powerful earthquakes, pressure can build beneath the surface — forcing water and sand upward until the soil behaves like a liquid.\n\nThese eruptions are known as sand boils.\n\nThey can appear suddenly, turning solid ground i"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "YQkW08sNyKQ",
+   "ch": "Shrinidhi",
+   "cid": "UCS0eDdJu8nB4WsfZtdyGSrQ",
+   "date": "2025-09-13",
+   "title": "Volcano #lava #geology #experiment #earthscience #nationalge",
+   "views": 1910,
+   "desc": "Volcano experiment (#nationalgeographic kit) #science #sciencefacts #geography"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "SdW4wjuDsVg",
+   "ch": "구조의 시선(건축,토목,문화재)",
+   "cid": "UCwDwOTdKMfh312xLwfBa54g",
+   "date": "2026-10-26",
+   "title": "포항 지진 때 논바닥에서 모래물이 솟았다?",
+   "views": 1011,
+   "desc": "구조의 시선 (Structure Vision)\n전통 문화재에 숨겨진 선조들의 놀라운 건축 기법과 현대 공학, \nAI 기술을 결합해 구조의 비밀을 새롭게 해석합니다.\n\n구독과 좋아요는 다음 건축물을 분석하는 데 큰 힘이 됩니다.\n\n📩 건설현장에서 쓰면 좋은 토목어플(안드로이드 ver) 무료 체험하러가기\n        https://play.google.com/store/apps/details?id=com.civil.fieldhelper\n📩 세상 귀여운 강아지 이모티콘 구매하러가기 https://naver.me/xzHY70ev\n📩 토목"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "xa7GTT5QKCM",
+   "ch": "Jay Silverheals",
+   "cid": "UCcq4VkR8btvUw-bgYUBN_yw",
+   "date": "2019-02-19",
+   "title": "SAND BLOWS..earthquake liquifies material below the surface ",
+   "views": 579,
+   "desc": "This video is of a fossilized sand blow about 8 feet across. During an earthquake water logged soil trapped below the surface blasts up a conduit to the surface. They are common but not this big. In Zion they have documented over 800. Some shoot out the surface but some dont make it all the way and "
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "SXoGCinoLWI",
+   "ch": "Felipe Ochoa",
+   "cid": "UCQrUqMJf7QsTOVJOxSXyd0Q",
+   "date": "2023-03-18",
+   "title": "Sand volcanoes and earthquake induced liquefaction",
+   "views": 522,
+   "desc": ""
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "XTsoF2YzFLM",
+   "ch": "shohid87",
+   "cid": "UCJ4tfNrR2N5OWcHI8ZKvT_Q",
+   "date": "2017-01-04",
+   "title": "Why earthquake, soil and water burst out of sand in Banglade",
+   "views": 332,
+   "desc": "Why earthquake, soil and water burst out of sand in Bangladesh 3 January 2017 at 3:15 PM"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "77cn5DqLfZk",
+   "ch": "One News PH",
+   "cid": "UCzEAC4xGrhpShopTYgBhGJA",
+   "date": "2022-08-03",
+   "title": "Ground fissures, sand boils seen in Abra after magnitude 7 q",
+   "views": 251,
+   "desc": "Ground fissures, sand boils in Abra\n\nGround fissures and sand boils were found in some barangays in Abra, following the magnitude 7.0 earthquake. PHIVOLCS, however, clarifies there is nothing to worry about as these normally occur after a major tremor.\n\nThe agency has also set up eight temporary sei"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "vpte1fDl8HM",
+   "ch": "2023 Turkey-Syria Earthquakes Archive",
+   "cid": "UCHdmq3WdZMxra0yxTX-3mCQ",
+   "date": "2024-06-28",
+   "title": "Sand Boils in Northern Syria after M7.8 Earthquake",
+   "views": 231,
+   "desc": "Cameraman captures sand boils in the aftermath of the 7.8 quake.\n\n#deprem \n#زلزال"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "fQwjl4P9rzs",
+   "ch": "WhyThisPlace",
+   "cid": "UCYQSVWBAd8izNHpEYCChotQ",
+   "date": "2026-10-22",
+   "title": "Why One San Francisco Neighborhood Turned to Liquid in the 1",
+   "views": 273,
+   "desc": "In 1989, San Francisco's Marina District sank, cracked and burned, though the quake was centered about 60 miles away. Much of it sits on loose, soaked sand pumped from the bay in 1912 for the 1915 world's fair, and in the shaking that sand acted like a liquid. #engineering #sanfrancisco #earthquake"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "FzkZkNcpGZQ",
+   "ch": "Enginyr2025",
+   "cid": "UCUWmAZKdZJSc7mDXXdVGykg",
+   "date": "2026-09-14",
+   "title": "Liquefaction: Explained | When Earthquakes Turn Solid Ground",
+   "views": 389,
+   "desc": "It may look like just an innocent puddle, but this is LIQUEFACTION! 🌊🏚️\n\nWhen powerful earthquakes strike saturated, loose granular soil, the solid ground can literally turn into quicksand within seconds. Here is the geotechnical science behind soil liquefaction:\n#liquefaction #earthquake #soilmecha"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "OvI9VY4HVUs",
+   "ch": "CIVIL VISION",
+   "cid": "UCBtuiUjTfVT15wEucGXvmWw",
+   "date": "2025-04-04",
+   "title": "The occurrence of liquefaction after the Myanmar earthquake,",
+   "views": 167,
+   "desc": "The #occurrence of #liquefaction after the #Myanmar #earthquake, which was #accompanied by the #boiling of #sand."
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "VzIuWdQChNY",
+   "ch": "Quantum Discoveries",
+   "cid": "UC7l6P6aLaKjOH_Ueom2Q-NA",
+   "date": "2025-03-17",
+   "title": "Santorini Volcano Magma Movement: Greece Seismic Crisis &amp",
+   "views": 69,
+   "desc": "Santorini Volcano Magma Movement: Greece Seismic Crisis & Expert Insights\n\nIn this video, we provide an in-depth update on the seismic crisis in Greece, focusing on the magma movement at Santorini Volcano. Expert geologists share their analysis and insights into what’s driving the activity and what "
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "C0kny3cSffI",
+   "ch": "WhatIf Studio",
+   "cid": "UCUc3VxEBuUsbt2bMx2aKaQw",
+   "date": "2026-11-07",
+   "title": "What If the Ground Under Your House Turned to Liquid?",
+   "views": 35,
+   "desc": "It really happens: in an earthquake, loose waterlogged sand can turn to liquid in seconds. Your house sinks and leans, manholes float up out of the street, the lawn erupts in sand volcanoes, and a tilt you can barely see makes you dizzy. But it can't suck you under.\n\nSources:\n- Liquefaction basics: "
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "WuJpTvS38tI",
+   "ch": "Earth Central",
+   "cid": "UC1Paaw2C3u-n2e6jQtIvnjA",
+   "date": "2020-12-10",
+   "title": "4.9 Earthquake Sand Point, Alaska 12-9-20",
+   "views": 25,
+   "desc": "#Shorts #Shorts #Shorts #Shorts #Shorts #Shorts #Vlogmas #Shorts #Shorts #SandPoint #Alaska #Earthquake on December 9th, 2020. Don't forget to subscribe for future updates. Don't forget to subscribe for future updates. Don't forget to subscribe for future updates. .\nAlso don't forget to hit the bell"
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "YSOPHOLVc6s",
+   "ch": "지오테크 랩 - Geotech Lab",
+   "cid": "UCkNgTQjU-DCyE2P6is05ukw",
+   "date": "2026-11-18",
+   "title": "포항지진 뒤 솟은 모래 화산, 자갈까지 밀어 올린 힘",
+   "views": 516,
+   "desc": "포항지진 뒤 솟은 모래 화산 자갈까지 밀어 올린 힘\n\n「포항지진 뒤 논바닥에 솟은 모래 화산｜땅이 액체처럼 움직인 이유, 액상화」의 '1:52~3:20 흥해 논밭의 액상화 흔적·단서 2(자갈)' 부분을 줄인 숏츠입니다. 수치의 조건과 전체 근거는 원본 영상과 설명란에서 확인하세요.\n\n▶ 전체 영상: https://youtu.be/gL4z3mfV8IQ\n\n📷 이 숏츠 화면의 자료 표기\n- 실제 사진·영상 포함 — 출처·라이선스는 아래 원본 출처 목록(①~⑥)\n\n— 아래는 원본 영상 설명란의 출처·안내를 그대로 옮긴 것입니다(원본 영상 "
+  },
+  {
+   "q": "sand volcano earthquake",
+   "vid": "n0O70dnyKz8",
+   "ch": "Planet Enigmas",
+   "cid": "UCGlcwC5TZW1l4gMTUSf3VKA",
+   "date": "2026-11-10",
+   "title": "Missouri: An Earthquake Turned the Ground Into Liquid #short",
+   "views": 20,
+   "desc": "On December 16, 1811, the first great New Madrid earthquake shook the middle of America. Under the farmland, wet sand lost its grip and the ground behaved like water: fountains of sand and water burst out of the earth, and the pale circles they left, called sand blows, can still be seen from the air"
   }
  ]
 }
