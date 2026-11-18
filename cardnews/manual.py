@@ -185,7 +185,12 @@ def build(d, base, send):
         if d.get("approved"):
             post.update(status="approved", decided_at=now().isoformat())
     post["files"] = files
-    post["tg_msg"] = tg.send_preview(post)
+    try:
+        post["tg_msg"] = tg.send_preview(post)
+    except Exception as e:  # 2026-11-18: 바로 게시(속보)는 텔레그램 미리보기가 실패해도 멈추지 않는다
+        if post.get("status") != "approved":
+            raise
+        print("텔레그램 미리보기 실패(바로 게시라 계속):", e)
     post["files"] = [os.path.relpath(f, ROOT) for f in files]
     save_post(post)
 
