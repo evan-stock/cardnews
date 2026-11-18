@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 D='media/20261118-leetcam-reel'; V='media/20261118-leetcam2/video'; R=f'{D}/work'; os.makedirs(R,exist_ok=True); os.makedirs(f'{D}/cand',exist_ok=True)
 FB='assets/fonts/Pretendard-Black.otf'; FM='assets/fonts/Pretendard-Medium.otf'; FX='assets/fonts/Pretendard-ExtraBold.otf'
 Y=(255,216,77); BY0,BH=660,720
-TAG='수능 D-1 · 17일 밤 자택 앞'; L=['리트 만점자 인터뷰','카메라에 잡힌','불안한 손']
+TAG='수능 D-1 · 17일 밤 자택 앞'; L=['내일 생중계','앞둔 리트 만점자','불안한 손']
 def top():
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
     lg=Image.open('brand/logo_typo_A.png').convert('RGBA'); h=46; lg=lg.resize((int(lg.width*h/lg.height),h)); im.alpha_composite(lg,(70,238))
@@ -57,5 +57,5 @@ subprocess.run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i',f'{R}/
 # 커버: 검정 바탕 + 위 띠(손가락 줌인 장면) + 아래 격자 통일형 큰 제목
 subprocess.run(['ffmpeg','-v','error','-y','-ss','501.0','-i',f'{V}/y1.mp4','-frames:v','1','-vf',f'crop={CW},scale=1080:{BH}',f'{R}/cov_band.jpg'],check=True)
 bg=Image.new('RGB',(1080,1920),(0,0,0)); bg.paste(Image.open(f'{R}/cov_band.jpg'),(0,330)); bg.save(f'{R}/cov_bg.jpg',quality=95)
-subprocess.run(['python3','scripts/reel_overlay.py',f'{D}/cand/overlay.png','리트 만점자\n카메라에 잡힌\n불안한 손','',f'{R}/cov_bg.jpg',f'{D}/reel_cover.jpg'],check=True)
+subprocess.run(['python3','scripts/reel_overlay.py',f'{D}/cand/overlay.png',"내일 생중계\n앞둔 리트 만점자\n불안한 손",'',f'{R}/cov_bg.jpg',f'{D}/reel_cover.jpg'],check=True)
 print('done')
