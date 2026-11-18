@@ -17,6 +17,8 @@ jobs:
       TZ: Asia/Seoul
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}  # 2026-11-18 속보 빠른 경로: 렌더 직후 같은 실행에서 바로 게시
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -39,7 +41,18 @@ jobs:
           git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
           git add -A media state
           git diff --cached --quiet || { git commit -m "manual: render"; for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*7)); done; }
+      - name: 속보 바로 게시(publish_now, 감시 실행 줄 서지 않음)
+        id: now
+        run: |
+          ids=$(python -c "import json;d=json.load(open('drafts/current.json'));d=d if isinstance(d,list) else [d];print(' '.join(x['id'] for x in d if x.get('publish_now') and x.get('mode')=='send' and x.get('format')!='reel'))")
+          echo "ids=$ids" >> $GITHUB_OUTPUT
+          for id in $ids; do python -m cardnews.main publish --id "$id" || true; done
+          if [ -n "$ids" ]; then
+            git add -A media state
+            git diff --cached --quiet || { git commit -m "cardnews: 속보 바로 게시 $ids"; for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*7)); done; }
+          fi
       - name: 게시 대기 감시 시작
+        if: steps.now.outputs.ids == ''
         run: |
           if grep -q '"mode": *"send"' drafts/current.json; then
             gh workflow run pipeline.yml -f cmd=watch

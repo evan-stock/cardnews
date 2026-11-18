@@ -2,9 +2,9 @@
  "id": "20261118-leetsue",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "rejected",
+ "status": "published",
  "created_at": "2026-11-18T13:47:46.016884+09:00",
- "publish_at": "2026-11-18T18:00:00+09:00",
+ "publish_at": "2026-11-18T13:53:57+09:00",
  "topic": "리트 만점자 현직 변호사 형사고발(관악경찰서, 공무집행방해·업무방해 등), 시대인재 브레인코치 계약 해지",
  "category": "국내 사회",
  "core": "",
@@ -60,5 +60,8 @@
   "media/20261118-leetsue/05.jpg"
  ],
  "tg_msg": 2909,
- "decided_at": "2026-11-18T13:53:32+09:00"
+ "decided_at": "2026-11-18T13:53:57+09:00",
+ "ig_media_id": "18004316064011101",
+ "permalink": "https://www.instagram.com/p/Df3tvYjDayD/",
+ "published_at": "2026-11-18T14:06:07.543794+09:00"
 }
