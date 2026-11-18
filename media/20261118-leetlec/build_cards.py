@@ -17,14 +17,21 @@ im = base(); d = ImageDraw.Draw(im); y = head(d, "리트 국어 강사도 직접
 # 사용자: 노형석 강사 유튜브 화면 넣기 — 유튜브 '흑우스토리' 라이브(노형석 강사 출연, 리트 시험지 분석) 화면, 네이트 뉴스 기사 사진
 ph = ImageOps.fit(Image.open(O / "nohs.jpg").convert("RGB"), (W - 2 * P, 520), Image.LANCZOS, centering=(.5, .5))
 m = Image.new("L", ph.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, ph.width - 1, ph.height - 1), 20, fill=255); im.paste(ph, (P, y), m)
-d.text((P, y + 520 + 30), "유튜브 '흑우스토리' 라이브 화면(노형석 강사 출연)", font=F("Medium", 24), fill=MU); y += 520 + 56
-rows = [("노형석 리트 국어 강사", "의혹 전 메가로스쿨 설명회에 '호기심에' 참석"), ("들은 것", "텍스트를 '이미지'로, '계'를 '강아지'로 연상"),
-        ("그래서", "평소 푸는 방식과 달라 '끝까지 안 듣고' 나왔다")]
-for lab, txt in rows:
-    d.rounded_rectangle((P, y, W - P, y + 104), 20, fill=BOX, outline=LN, width=2)
-    d.text((P + 28, y + 12), lab, font=F("SemiBold", 25), fill=MU); rich(d, P + 28, y + 46, txt, F("Black", 33))
-    y += 116
-d.text((P, y + 10), "나무위키 인용", font=F("Medium", 24), fill=MU)
+y += 520 + 18
+d.text((W - P, y), "유튜브 '흑우스토리' 라이브 화면", font=F("Medium", 22), fill=MU, anchor="ra")
+y += 52
+# 하단: 한 판 안에 3줄, 왼쪽 라벨 열 + 오른쪽 내용, 얇은 구분선
+rows = [("누가", "노형석 리트 국어 강사"), ("어디서", "의혹 전 메가로스쿨 설명회, '호기심에' 참석"), ("들은 것", "'계'를 '강아지'로 이미지 연상"),
+        ("그래서", "방식이 달라 '끝까지 안 듣고' 나왔다")]
+rh = 76; top = y
+d.rounded_rectangle((P, top, W - P, top + rh * len(rows)), 22, fill=BOX, outline=LN, width=2)
+for k, (lab, txt) in enumerate(rows):
+    cy = top + rh * k + rh // 2
+    if k: d.line((P + 28, top + rh * k, W - P - 28, top + rh * k), fill=LN, width=2)
+    d.text((P + 32, cy), lab, font=F("SemiBold", 26), fill=MU, anchor="lm")
+    rich(d, P + 180, cy - 20, txt, F("ExtraBold", 31))
+y = top + rh * len(rows) + 18
+d.text((W - P, y), "출처: 나무위키", font=F("Medium", 22), fill=MU, anchor="ra")
 logo(im); im.save(O / "c03.jpg", quality=93)
 from PIL import ImageFilter
 # 표지(사용자: '강연하는 느낌'): 손짓하며 설명하는 보도사진(네이트 뉴스 기사 사진)
