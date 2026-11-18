@@ -1,0 +1,66 @@
+{
+ "id": "20261118-t18",
+ "created": "2026-11-18T18:47:22.281707+09:00",
+ "items": [
+  {
+   "key": "a6392d30fb39",
+   "text": "아빠가 발톱을 깎아 주다 하나를 너무 짧게 잘랐거든요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "그 뒤로 벽에 코 박고 시위 중입니다."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "e96771ff5368",
+   "text": "그 뒤로 벽에 코 박고 시위 중입니다.",
+   "ctx": {
+    "previous_text": "아빠가 발톱을 깎아 주다 하나를 너무 짧게 잘랐거든요.",
+    "next_text": "엄마가 달래 주자 슬쩍 보는데요."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "f3a83c39de56",
+   "text": "엄마가 달래 주자 슬쩍 보는데요.",
+   "ctx": {
+    "previous_text": "그 뒤로 벽에 코 박고 시위 중입니다.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "043ee94f8424",
+   "text": "발톱 속엔 혈관이 있어서 끝만 조금씩 깎아야 한대요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
