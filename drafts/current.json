@@ -1,18 +1,21 @@
 [
  {
-  "id": "20261118-feed-choigj",
+  "id": "20261118-leetjh",
   "mode": "collect",
-  "slot": "evening",
-  "topic": "최교진 교육부 장관 AI 커닝 못 잡을 것 같다 국회 발언",
+  "slot": "lunch",
+  "topic": "리트 만점자 중앙일보 자택 앞 인터뷰: 차라리 수사 받겠다, 스토킹은 오히려 내가 당했다",
   "image_pages": [
-   "https://www.segye.com/newsView/20261117509508",
-   "https://www.dt.co.kr/article/12095580",
-   "https://seoul.co.kr/news/society/accident/2026/11/17/20261117500092",
-   "https://www.dailian.co.kr/news/view/1715870",
-   "https://www.sisajournal.com/news/articleView.html?idxno=394232",
-   "https://www.fntoday.co.kr/news/articleView.html?idxno=398661"
+   "https://m.news.nate.com/view/20261117n37559"
+  ],
+  "read_pages": [
+   "https://m.news.nate.com/view/20261117n37559",
+   "https://www.hankookilbo.com/news/article/A2026111721060003303",
+   "https://view.asiae.co.kr/article/2026111717151169844",
+   "https://www.fnnews.com/news/202611171338356349",
+   "https://www.ajunews.com/view/20261117110042607",
+   "https://www.koreadaily.com/article/20261117053111163"
   ],
   "sources": [],
-  "limit": 24
+  "limit": 12
  }
 ]
