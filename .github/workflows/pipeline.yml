@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       cmd:
-        description: "ping(연결 테스트) | tick | watch | publish  (prepare는 2026.10.18 중지)"
+        description: "ping(연결 테스트) | tick | watch | publish | comment(id 게시물에 댓글)  (prepare는 2026.10.18 중지)"
         default: tick
       slot:
         description: "lunch | evening (prepare일 때)"
@@ -83,6 +83,7 @@ jobs:
             watch) python -m cardnews.main watch ;;
             publish) python -m cardnews.main publish --id "${{ steps.pick.outputs.id }}" ;;
             ping) python -m cardnews.main ping ;;
+            comment) python -m cardnews.main comment --id "${{ steps.pick.outputs.id }}" ;;
             *) python -m cardnews.main tick ;;
           esac
 

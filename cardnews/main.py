@@ -428,7 +428,7 @@ def chat_id_helper():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["prepare", "tick", "watch", "publish", "chat-id", "refresh-token", "prune", "ping"])
+    ap.add_argument("cmd", choices=["prepare", "tick", "watch", "publish", "chat-id", "refresh-token", "prune", "ping", "comment"])
     ap.add_argument("--slot", choices=list(CFG["slots"]))
     ap.add_argument("--id")
     ap.add_argument("--force", action="store_true")
@@ -448,6 +448,12 @@ def main():
         print(instagram.refresh_token(a.id))  # --id furball 이면 털뭉치 계정
     elif a.cmd == "prune":
         prune()
+    elif a.cmd == "comment":  # 2026-11-18: 게시된 글에 state/posts/<id>.json 의 "comment" 문구를 댓글로 단다(고정은 API에 없어 앱에서)
+        post = load_post(a.id)
+        if post.get("comment_id"):
+            print("이미 단 댓글:", post["comment_id"]); return
+        j = instagram._req("POST", f"{post['ig_media_id']}/comments", message=post["comment"])
+        post["comment_id"] = j.get("id"); save_post(post); print("댓글 완료:", j)
     elif a.cmd == "ping":
         tg.send_text("✅ 오늘의쓸모 자동화 연결 테스트 성공!\nGitHub Actions → 텔레그램 연결이 잘 됐어요.")
 
