@@ -1,17 +1,17 @@
 [
  {
-  "id": "20261118-leetlec2",
+  "id": "20261118-khan3d",
   "mode": "collect",
   "slot": "evening",
-  "topic": "리트 만점자 특강 강연 사진",
+  "topic": "경향 11.18 기사 + X @deoksu_kr (3D 시뮬레이션 릴스 자료)",
   "image_pages": [
-   "https://www.fmkorea.com/best/10568022531",
-   "https://www.metroseoul.co.kr/article/20261117500101",
-   "https://www.koreadaily.com/article/20261114185030772",
-   "https://www.wikitree.co.kr/articles/1175039",
-   "https://m.news.nate.com/view/20261116n14757"
+   "https://www.khan.co.kr/article/202611181537001/"
+  ],
+  "read_pages": [
+   "https://www.khan.co.kr/article/202611181537001/",
+   "https://r.jina.ai/https://www.khan.co.kr/article/202611181537001/"
   ],
   "sources": [],
-  "limit": 24
+  "limit": 10
  }
 ]
