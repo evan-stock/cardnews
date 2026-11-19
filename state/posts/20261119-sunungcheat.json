@@ -2,7 +2,7 @@
  "id": "20261119-sunungcheat",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-19T17:45:20+09:00",
  "publish_at": "2026-11-19T17:45:20+09:00",
  "topic": "2027 수능 부정행위 총정리: 재난문자 35명·용인 초소형 카메라·서초 깔창폰",
@@ -87,5 +87,8 @@
   "media/20261119-sunungcheat/08.jpg",
   "media/20261119-sunungcheat/09.jpg"
  ],
- "decided_at": "2026-11-19T17:45:20+09:00"
+ "decided_at": "2026-11-19T17:45:20+09:00",
+ "ig_media_id": "17994168759077571",
+ "permalink": "https://www.instagram.com/p/Df6r7ggG4yZ/",
+ "published_at": "2026-11-19T17:48:32.468610+09:00"
 }
