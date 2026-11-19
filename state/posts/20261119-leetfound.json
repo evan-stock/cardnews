@@ -2,7 +2,7 @@
  "id": "20261119-leetfound",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-19T13:35:59+09:00",
  "publish_at": "2026-11-19T13:35:59+09:00",
  "topic": "속보: 리트 만점자 천호역 인근 숙박업소서 심정지 상태로 발견(오후 1시쯤, 조선일보 인용 보도)",
@@ -42,5 +42,8 @@
   "media/20261119-leetfound/01.jpg",
   "media/20261119-leetfound/02.jpg"
  ],
- "decided_at": "2026-11-19T13:35:59+09:00"
+ "decided_at": "2026-11-19T13:35:59+09:00",
+ "ig_media_id": "18063369308572754",
+ "permalink": "https://www.instagram.com/p/Df6PYjcETYH/",
+ "published_at": "2026-11-19T13:39:06.636658+09:00"
 }
