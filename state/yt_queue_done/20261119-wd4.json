@@ -1,0 +1,61 @@
+{
+ "id": "20261119-wd4",
+ "finished_at": "2026-11-19T21:17:52+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/gV5X079svLU",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261119-wd4/video/y1.mp4",
+   "mb": 7.2,
+   "view_count": 1123260,
+   "title": "승객들 시선이 날개 끝에 고정된 이유"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/pwriPPYJlYw",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261119-wd4/video/y2.mp4",
+   "mb": 14.3,
+   "view_count": 4874867,
+   "title": "투명화가 목적이 아닌 투명화 기술"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/BFVova5NHlM",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261119-wd4/video/y3.mp4",
+   "mb": 24.5,
+   "view_count": 6395115,
+   "title": "끓는 표면 위에 생긴 막, 이걸 왜 걷을까요?"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/lN117KbT-Ps",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261119-wd4/video/y4.mp4",
+   "mb": 14.3,
+   "view_count": 4261192,
+   "title": "식물판 심장 이식"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/_R5hIfqk2lM",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261119-wd4/video/y5.mp4",
+   "mb": 14.4,
+   "view_count": 1309359,
+   "title": "12년째 서서 지내는 고행자"
+  }
+ ]
+}
