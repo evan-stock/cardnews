@@ -1,0 +1,13 @@
+WARNING: No video formats found!
+WARNING: Requested format is not available
+ERROR: [Instagram] Df6YbX5I2Rq: No video formats found!
+WARNING: No video formats found!
+WARNING: Requested format is not available
+ERROR: [Instagram] Df6YbLFIZ4V: No video formats found!
+실패: https://www.instagram.com/p/Df6YeF2GWXx/
+total 124
+drwxr-xr-x 2 runner runner   4096 Nov 19 14:33 .
+drwxr-xr-x 3 runner runner   4096 Nov 19 14:33 ..
+-rw-r--r-- 1 runner runner 109163 Nov 19 14:33 img1.jpg
+-rw-r--r-- 1 runner runner    313 Nov 19 14:33 log.txt
+-rw-r--r-- 1 runner runner    747 Nov 19 14:33 v2.info.json
