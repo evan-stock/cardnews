@@ -2,7 +2,7 @@
  "id": "20261119-leetjail",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-19T10:38:00.056456+09:00",
  "publish_at": "2026-11-19T11:00:10+09:00",
  "topic": "리트 만점자 구치소 수감 증언·공갈 판결문(JTBC) + 공개 검증 노쇼 + 신변 우려 신고·주거지에 없어(연합뉴스 속보)",
@@ -70,5 +70,8 @@
   "media/20261119-leetjail/06.jpg"
  ],
  "tg_msg": 2966,
- "decided_at": "2026-11-19T11:00:10+09:00"
+ "decided_at": "2026-11-19T11:00:10+09:00",
+ "ig_media_id": "17945272518378122",
+ "permalink": "https://www.instagram.com/p/Df59iaJDYp8/",
+ "published_at": "2026-11-19T11:03:10.976940+09:00"
 }
