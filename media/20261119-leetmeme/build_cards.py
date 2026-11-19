@@ -50,11 +50,25 @@ def panel(rows, h=640, gap=None):
     return p
 
 
-# 2장: 실제 캡처 카드
-specs = [{"out": str(O / "c02.jpg"), "sub": "건국대 에브리타임에 올라온 익명 글", "title": "이런 결말은 '아무도' 몰랐다",
-          "cap": str(O / "cap_hist.jpg"), "cap_max_h": 700, "box_bg": [255, 255, 255],
-          "caption": "건국대 에브리타임 익명 게시글 캡처", "label": "그를 '드립의 소스'로 봤던 일주일",
-          "lines": ["끝은 너무 '현실적'이었다"]}]
+# 캡처 카드: 대학 에브리타임 익명 글(원글 캡처 그대로)
+W_=dict(box_bg=[255, 255, 255])
+specs = [
+ {"out": str(O / "c02.jpg"), "sub": "건국대 에브리타임 익명 글 (11/19 15:36)", "title": "\"애초에 불쌍해서 '먹먹한 게 아님'\"",
+  "cap": str(O / "kk1.jpg"), "cap_max_h": 740, **W_, "caption": "건국대 에브리타임 익명 게시글 캡처 (1/3)",
+  "label": "부정행위도, 거짓말도 그가 한 일", "lines": ["그런데 사람들이 기대한 결말은 '이게 아니었다'"]},
+ {"out": str(O / "c03.jpg"), "sub": "건국대 에브리타임 익명 글 (이어서)", "title": "\"이런 건 '아니었음'\"",
+  "cap": str(O / "kk2.jpg"), "cap_max_h": 740, **W_, "caption": "건국대 에브리타임 익명 게시글 캡처 (2/3)",
+  "label": "만점자 등장 → 의혹 → 변명 → 노쇼", "lines": ["그 모든 일의 마지막이 '찢어진 수험표 한 장'"]},
+ {"out": str(O / "c04.jpg"), "sub": "건국대 에브리타임 익명 글 (이어서)", "title": "\"온갖 '밈이랑 드립의 소스'였음\"",
+  "cap": str(O / "kk3.jpg"), "cap_max_h": 740, **W_, "caption": "건국대 에브리타임 익명 게시글 캡처 (3/3)",
+  "label": "웃고 즐겼던 일주일", "lines": ["끝은 너무 '현실적'이었다"]},
+ {"out": str(O / "c05.jpg"), "sub": "서강대 에브리타임 익명 글 (11/19 19:50)", "title": "\"며칠 전까지 '보이던 사람'이\"",
+  "cap": str(O / "sg.jpg"), "cap_max_h": 760, **W_, "caption": "서강대 에브리타임 익명 게시글 캡처",
+  "label": "같은 시간을 살았던 사람", "lines": ["몇 시간 전에 죽었다는 게 '거짓말 같다'"]},
+ {"out": str(O / "c06.jpg"), "sub": "성균관대 에브리타임 익명 글 (11/19 19:37)", "title": "\"18수능 27수능 '수미상관'\"",
+  "cap": str(O / "skku.jpg"), "cap_max_h": 740, **W_, "caption": "성균관대 에브리타임 익명 게시글 캡처",
+  "label": "그가 끝까지 들고 다닌 건", "lines": ["혼자 힘으로 받은 '18수능 수험표'"]},
+]
 sp = O / "specs.json"; sp.write_text(json.dumps(specs, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], check=True)
 
@@ -62,11 +76,11 @@ subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], c
 emp = Image.open(O / "empty.jpg").convert("RGB").crop((620, 240, 1452, 860))
 emp = ImageOps.fit(emp, (940, 700), Image.LANCZOS).filter(ImageFilter.UnsharpMask(2, 50, 2))
 frame(("리트 만점 → 부정행위 의혹 → 생중계 검증", "일주일 내내 '구경거리'였다"), emp,
-      "오늘 아침, 이 자리는 '비어' 있었습니다", "IDA입시연구소 공개 검증 생중계 화면(11.19)").save(O / "c03.jpg", quality=93)
+      "오늘 아침, 이 자리는 '비어' 있었습니다", "IDA입시연구소 공개 검증 생중계 화면(11.19)").save(O / "c07.jpg", quality=93)
 
-# 4장: 우리 입장
+# 마지막 장: 우리 입장
 frame(("감싸자는 게 아닙니다", "의혹은 '의혹대로' 가려져야 했습니다"),
       panel([("그런데 우리는", "그를 사람보다 '밈'으로 봤습니다"), ("오늘의쓸모도", "그 흐름 '안'에 있었습니다"),
              ("남는 질문", "의혹을 다루는 '선'은 어디였을까")], h=560),
-      "고인의 명복을 빕니다", "자살예방 상담전화 109 · SNS상담 마들랜(24시간)").save(O / "c04.jpg", quality=93)
+      "고인의 명복을 빕니다", "자살예방 상담전화 109 · SNS상담 마들랜(24시간)").save(O / "c08.jpg", quality=93)
 print("ok")
