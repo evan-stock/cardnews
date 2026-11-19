@@ -1,0 +1,25 @@
+ERROR: [twitter] 2123246730422763845: No video could be found in this tweet
+사진 받음 p1_1.jpg
+사진 받음 p1_2.jpg
+사진 받음 p1_3.jpg
+사진 받음 q1_1.jpg
+사진 받음 q1_2.jpg
+사진 받음 q1_3.jpg
+사진 받음 q1_4.jpg
+사진 받음 q1_5.jpg
+사진 받음 q1_6.jpg
+영상 없는 글(사진만): https://x.com/chipchap2230/status/2123246730422763845
+total 1520
+drwxr-xr-x 2 runner runner   4096 Nov 19 04:36 .
+drwxr-xr-x 3 runner runner   4096 Nov 19 04:36 ..
+-rw-r--r-- 1 runner runner    367 Nov 19 04:36 log.txt
+-rw-r--r-- 1 runner runner 341008 Nov 19 04:36 p1_1.jpg
+-rw-r--r-- 1 runner runner 294586 Nov 19 04:36 p1_2.jpg
+-rw-r--r-- 1 runner runner 152772 Nov 19 04:36 p1_3.jpg
+-rw-r--r-- 1 runner runner 167731 Nov 19 04:36 q1_1.jpg
+-rw-r--r-- 1 runner runner 118044 Nov 19 04:36 q1_2.jpg
+-rw-r--r-- 1 runner runner 128813 Nov 19 04:36 q1_3.jpg
+-rw-r--r-- 1 runner runner  95044 Nov 19 04:36 q1_4.jpg
+-rw-r--r-- 1 runner runner 114582 Nov 19 04:36 q1_5.jpg
+-rw-r--r-- 1 runner runner 111304 Nov 19 04:36 q1_6.jpg
+-rw-r--r-- 1 runner runner    967 Nov 19 04:36 x1.json
