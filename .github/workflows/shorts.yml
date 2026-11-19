@@ -37,7 +37,13 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12", cache: pip}
-      - run: pip install -r requirements.txt edge-tts && sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk fonts-noto-cjk-extra ffmpeg
+      # 2026.11.19: 'apt-get update'가 20~35분 걸려 40분 제한에 걸림 → ffmpeg 는 정적 빌드(scripts/ffmpeg_fast.sh),
+      #             글꼴은 update 없이 먼저 설치하고 실패할 때만 update(시간 제한)
+      - run: |
+          pip install -r requirements.txt edge-tts
+          bash scripts/ffmpeg_fast.sh
+          APT="-y -qq -o Acquire::Retries=3 -o Acquire::http::Timeout=20 -o DPkg::Lock::Timeout=60"
+          sudo timeout 300 apt-get install $APT fonts-noto-cjk fonts-noto-cjk-extra || { sudo timeout 300 apt-get update -qq || true; sudo timeout 400 apt-get install $APT --fix-missing fonts-noto-cjk fonts-noto-cjk-extra; }
       - name: 실행
         run: |
           mkdir -p state
