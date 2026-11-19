@@ -1,17 +1,16 @@
 [
  {
-  "id": "20261118-khan3d",
+  "id": "20261119-leetjail",
   "mode": "collect",
-  "slot": "evening",
-  "topic": "경향 11.18 기사 + X @deoksu_kr (3D 시뮬레이션 릴스 자료)",
-  "image_pages": [
-   "https://www.khan.co.kr/article/202611181537001/"
-  ],
+  "slot": "lunch",
+  "topic": "JTBC 단독: 리트 만점자 구치소 수감 재소자 증언, 공갈 판결문",
+  "image_pages": [],
   "read_pages": [
-   "https://www.khan.co.kr/article/202611181537001/",
-   "https://r.jina.ai/https://www.khan.co.kr/article/202611181537001/"
+   "https://bbs.ruliweb.com/community/board/300148/read/38820079",
+   "https://m.news.nate.com/search?q=%EB%A6%AC%ED%8A%B8%EB%A7%8C%EC%A0%90%20%EA%B5%AC%EC%B9%98%EC%86%8C%20%EC%88%98%EA%B0%90%20%EC%9E%AC%EC%86%8C%EC%9E%90",
+   "https://news.jtbc.co.kr/search?term=%EB%A6%AC%ED%8A%B8%EB%A7%8C%EC%A0%90%20%EA%B5%AC%EC%B9%98%EC%86%8C%20%EC%88%98%EA%B0%90%20%EC%9E%AC%EC%86%8C%EC%9E%90"
   ],
   "sources": [],
-  "limit": 10
+  "limit": 6
  }
 ]
