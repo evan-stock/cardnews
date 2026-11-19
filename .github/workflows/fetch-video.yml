@@ -7,10 +7,11 @@ permissions:
   contents: write
 jobs:
   fetch:
+    timeout-minutes: 20  # 2026.11.19: 설치가 멈춰도 20분 안에 끝냄
     runs-on: ubuntu-24.04  # 2026.10.24: ubuntu-latest가 우분투 26으로 넘어가며 apt 설치 실패 → 고정
     steps:
       - uses: actions/checkout@v4
-      - run: (sudo apt-get update -qq || true) && sudo apt-get install -y -qq --fix-missing ffmpeg && pip install -q -U "yt-dlp[default,curl-cffi]" && (curl -fsSL https://deno.land/install.sh | sh -s -- -y >/dev/null 2>&1 && echo "$HOME/.deno/bin" >> $GITHUB_PATH || true)
+      - run: bash scripts/ffmpeg_fast.sh && pip install -q -U "yt-dlp[default,curl-cffi]" && (curl -fsSL https://deno.land/install.sh | sh -s -- -y >/dev/null 2>&1 && echo "$HOME/.deno/bin" >> $GITHUB_PATH || true)
       - name: download
         continue-on-error: true
         run: |
@@ -58,6 +59,7 @@ jobs:
           for f in $(find media/$id/video -size +${mm}M); do echo "${mm}MB 넘어 삭제: $f $(du -h $f | cut -f1)" >> media/$id/video/log.txt; rm -f "$f"; done
       - if: always()
         run: |
+          # 2026.11.19: pull이 브랜치 전부를 받느라 7분 걸려서 현재 브랜치만 받는다
           git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
           git add -A media
-          git diff --cached --quiet || { git commit -m "video: fetch"; for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*7)); done; }
+          git diff --cached --quiet || { git commit -m "video: fetch"; for i in 1 2 3 4 5; do git pull --rebase --no-tags origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && break; sleep $((i*7)); done; }
