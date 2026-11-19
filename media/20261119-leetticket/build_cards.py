@@ -14,15 +14,52 @@ specs = [
  {"out": str(O / "c04.jpg"), "sub": "디시인사이드 게시글 (이어서)", "title": "\"나는 '도망갈 사람'이 아니다\"",
   "cap": str(O / "dc3.jpg"), "cap_max_h": 700, **W_, "caption": "디시인사이드 시대인재 N 재수종합 갤러리 게시글 캡처 (3/3)",
   "label": "그리고 수능 당일", "lines": ["그가 들고 간 건 '2018 수능 수험표'"]},
- {"out": str(O / "c05.jpg"), "sub": "수원대 에브리타임 익명 글 (11/19 14:38)", "title": "\"동정표 그딴 거 '아니고'\"",
+ {"out": str(O / "c06.jpg"), "sub": "수원대 에브리타임 익명 글 (11/19 14:38)", "title": "\"동정표 그딴 거 '아니고'\"",
   "cap": str(O / "suwon.jpg"), "cap_max_h": 760, **W_, "caption": "수원대 에브리타임 익명 게시글 캡처",
   "label": "왜 하필 18수능 수험표였을까", "lines": ["\"유일하게 '진실'이었던 것이라 그런 거냐\""]},
- {"out": str(O / "c06.jpg"), "sub": "연세대 에브리타임 익명 글과 댓글 (11/19 14:23)", "title": "\"모든 게 가짜였던 자의 '유일한 진짜'\"",
+ {"out": str(O / "c07.jpg"), "sub": "연세대 에브리타임 익명 글과 댓글 (11/19 14:23)", "title": "\"모든 게 가짜였던 자의 '유일한 진짜'\"",
   "cap": str(O / "yonsei.jpg"), "cap_max_h": 760, **W_, "caption": "연세대 에브리타임 익명 게시글 캡처 (전남대·연세대·서울대 댓글)",
   "label": "학생들이 본 그 수험표", "lines": ["\"자기 인생에 '유일한 진실'이었음\""]},
- {"out": str(O / "c07.jpg"), "sub": "같은 글 댓글 (고려대·성균관대·서강대·건국대)", "title": "\"딱 '한 장밖에' 없는 수험표\"",
+ {"out": str(O / "c08.jpg"), "sub": "같은 글 댓글 (고려대·성균관대·서강대·건국대)", "title": "\"딱 '한 장밖에' 없는 수험표\"",
   "cap": str(O / "cmts.jpg"), "cap_max_h": 780, **W_, "caption": "연세대 에브리타임 게시글 댓글 캡처",
   "label": "수학 나형, 유일하게 받은 1등급", "lines": ["\"스스로 노력해서 얻은 '유일한 자부심'\""]},
 ]
 sp = O / "specs.json"; sp.write_text(json.dumps(specs, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], check=True)
+
+
+# 5장: 수험표의 의미(X 칩찹ChipChap 글 참고, 우리 문장으로 재구성. 사망 장소·전과 연도 안 씀)
+import re
+from PIL import Image, ImageDraw, ImageFont
+W, H = 1080, 1350; YE = (255, 216, 77); FG = (255, 255, 255)
+F = lambda w, s: ImageFont.truetype(str(R / f"assets/fonts/Pretendard-{w}.otf"), s)
+def rich_center(d, y, text, font, base):
+    parts = re.split(r"('[^']*')", text); tw = sum(d.textlength(p.strip("'"), font=font) for p in parts if p); x = (W - tw) / 2
+    for p in parts:
+        if not p: continue
+        hl = p.startswith("'"); p = p.strip("'"); d.text((x, y), p, font=font, fill=YE if hl else base, anchor="ls"); x += d.textlength(p, font=font)
+def rich(d, x, y, text, font, base=FG):
+    for p in re.split(r"('[^']*')", text):
+        if not p: continue
+        hl = p.startswith("'"); p = p.strip("'"); d.text((x, y), p, font=font, fill=YE if hl else base); x += d.textlength(p, font=font)
+def logo(im):
+    lg = Image.open(R / "brand/logo_typo_A.png").convert("RGBA"); lh = 40; lw = int(lg.width * lh / lg.height)
+    lg = lg.resize((lw, lh), Image.LANCZOS); im.paste(lg, ((W - lw) // 2, H - 62 - lh), lg)
+def frame(top, photo, bottom, sub=None):
+    im = Image.new("RGB", (W, H), (10, 10, 12)); d = ImageDraw.Draw(im)
+    rich_center(d, 168, top[0], F("Medium", 46), FG); rich_center(d, 236, top[1], F("Black", 54), FG)
+    p = photo; m = Image.new("L", p.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, p.width - 1, p.height - 1), 18, fill=255)
+    im.paste(p, ((W - p.width) // 2, 300), m); d = ImageDraw.Draw(im); y = 300 + p.height + 92
+    rich_center(d, y, bottom, F("Black", 46), YE)
+    if sub: rich_center(d, y + 62, sub, F("Medium", 32), (190, 190, 198))
+    logo(im); return im
+def panel(rows, h=640, gap=None):
+    p = Image.new("RGB", (940, h), (24, 24, 28)); d = ImageDraw.Draw(p); gap = gap or (h - 60) // len(rows)
+    for i, (k, v) in enumerate(rows):
+        y = 40 + i * gap; d.text((56, y), k, font=F("Medium", 32), fill=(190, 190, 198)); rich(d, 56, y + 42, v, F("Black", 42))
+    return p
+frame(("전국 3등 성적표도, 리트 만점도, 서울대 치대도 아닌", "그가 끝까지 지닌 건 '18수능 수험표'"),
+      panel([("성적표는", "언제든 '다시 뽑을 수' 있다"), ("수험표는", "한 번 잃어버리면 '그걸로 끝'이다"),
+             ("그런데 그는", "그 한 장을 '8년 넘게' 버리지 않았다"), ("18수능은", "전과가 생기기 전, '자기 힘으로' 치른 시험")], h=640),
+      "투박해도 혼자 힘으로 받은 '마지막 진짜'", "참고: X 칩찹ChipChap 글").save(O / "c05.jpg", quality=93)
+print("c05 ok")

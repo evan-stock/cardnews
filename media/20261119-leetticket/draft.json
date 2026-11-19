@@ -12,12 +12,16 @@
    "c04.jpg",
    "c05.jpg",
    "c06.jpg",
-   "c07.jpg"
+   "c07.jpg",
+   "c08.jpg"
   ],
   "slides": [
    {
     "lay": "one",
     "t": "리트 만점자 사망 후\n모든 게 가짜였던 자의 '유일한 진짜'"
+   },
+   {
+    "raw": true
    },
    {
     "raw": true
