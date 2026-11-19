@@ -68,7 +68,7 @@ def stack(a, b, gap=16):
 
 
 # 2장
-frame(("세무사 AI 커닝이 터진 직후", "'6개월 합격' 수기에 쏟아진 의심"),
+frame(("세무사 AI 커닝이 터진 직후", "'감평냥이'로 불리며 쏟아진 의심"),
       cap("p1_1.jpg", (0, 200, 943, 1000), blur=[(595, 410, 720, 470)]),
       "결국 해명문을 '두 번' 썼다", "온라인 커뮤니티 캡처 · 11.19").save(O / "c02.jpg", quality=93)
 # 3장
@@ -88,5 +88,5 @@ frame(("해명문의 마지막 말", "\"정당한 노고가 '무시당하지' �
       stack(cap("p1_9.jpg", (40, 690, 920, 1000), mark=[(0, 196, 880, 292)]), cap("p1_8.jpg", (69, 900, 872, 1460), maxh=420)),
       "성적은 189명 중 150등, 부정행위 증거는 '없다'", "2차 해명문 캡처 / 한국경제(11.18)").save(O / "c06.jpg", quality=93)
 cap("p1_5.jpg", (0, 700, 943, 1880), mark=[(40, 356, 920, 526)], w=1080, maxh=1350).save(O / "cover_src.jpg", quality=95)
-fit("cover_src.jpg", W, H, (.5, .3)).save(O / "cover_bg.jpg", quality=95)
+import shutil; shutil.copy(O / "cvA.jpg", O / "cover_bg.jpg")
 print("ok")
