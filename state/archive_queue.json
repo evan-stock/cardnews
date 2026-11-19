@@ -1,91 +1,5 @@
 [
  {
-  "id": "20261111-indo-reel",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261111-indo-reel/reel.mp4"
-  ]
- },
- {
-  "id": "20261111-jensenchina-reel",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261111-jensenchina-reel/reel.mp4"
-  ]
- },
- {
-  "id": "20261111-jensenchip",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261111-jensenchip/01.jpg",
-   "media/20261111-jensenchip/02.jpg",
-   "media/20261111-jensenchip/03.jpg",
-   "media/20261111-jensenchip/04.jpg",
-   "media/20261111-jensenchip/05.jpg",
-   "media/20261111-jensenchip/06.jpg"
-  ]
- },
- {
-  "id": "20261111-jensennext",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261111-jensennext/01.jpg",
-   "media/20261111-jensennext/02.jpg",
-   "media/20261111-jensennext/03.jpg",
-   "media/20261111-jensennext/04.jpg",
-   "media/20261111-jensennext/05.jpg",
-   "media/20261111-jensennext/06.jpg",
-   "media/20261111-jensennext/07.jpg"
-  ]
- },
- {
-  "id": "20261111-jensenresign",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261111-jensenresign/01.jpg",
-   "media/20261111-jensenresign/02.jpg",
-   "media/20261111-jensenresign/03.jpg",
-   "media/20261111-jensenresign/04.jpg",
-   "media/20261111-jensenresign/05.jpg",
-   "media/20261111-jensenresign/06.jpg",
-   "media/20261111-jensenresign/07.jpg"
-  ]
- },
- {
-  "id": "20261111-mounjaro",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261111-mounjaro/01.jpg",
-   "media/20261111-mounjaro/02.jpg",
-   "media/20261111-mounjaro/03.jpg",
-   "media/20261111-mounjaro/04.jpg",
-   "media/20261111-mounjaro/05.jpg",
-   "media/20261111-mounjaro/06.jpg",
-   "media/20261111-mounjaro/07.jpg"
-  ]
- },
- {
-  "id": "20261111-t08",
-  "channel": "털뭉치",
-  "files": [
-   "media/20261111-t08/short.mp4"
-  ]
- },
- {
-  "id": "20261111-t13",
-  "channel": "털뭉치",
-  "files": [
-   "media/20261111-t13/short.mp4"
-  ]
- },
- {
-  "id": "20261111-t18",
-  "channel": "털뭉치",
-  "files": [
-   "media/20261111-t18/short.mp4"
-  ]
- },
- {
   "id": "20261111-touch",
   "channel": "오늘의쓸모_유튜브",
   "files": [
@@ -753,6 +667,97 @@
   "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261117-yoondy-reel/reel.mp4"
+  ]
+ },
+ {
+  "id": "20261118-clay",
+  "channel": "오늘의쓸모_유튜브",
+  "files": [
+   "media/20261118-clay/short_card.mp4"
+  ]
+ },
+ {
+  "id": "20261118-leetcam-reel",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261118-leetcam-reel/reel.mp4"
+  ]
+ },
+ {
+  "id": "20261118-leetlec",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261118-leetlec/01.jpg",
+   "media/20261118-leetlec/02.jpg",
+   "media/20261118-leetlec/03.jpg",
+   "media/20261118-leetlec/04.jpg"
+  ]
+ },
+ {
+  "id": "20261118-leetsue",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261118-leetsue/01.jpg",
+   "media/20261118-leetsue/02.jpg",
+   "media/20261118-leetsue/03.jpg",
+   "media/20261118-leetsue/04.jpg",
+   "media/20261118-leetsue/05.jpg"
+  ]
+ },
+ {
+  "id": "20261118-leetver",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261118-leetver/01.jpg",
+   "media/20261118-leetver/02.jpg",
+   "media/20261118-leetver/03.jpg",
+   "media/20261118-leetver/04.jpg",
+   "media/20261118-leetver/05.jpg",
+   "media/20261118-leetver/06.jpg",
+   "media/20261118-leetver/07.jpg"
+  ]
+ },
+ {
+  "id": "20261118-sidae",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261118-sidae/01.jpg",
+   "media/20261118-sidae/02.jpg",
+   "media/20261118-sidae/03.jpg"
+  ]
+ },
+ {
+  "id": "20261118-t18",
+  "channel": "털뭉치",
+  "files": [
+   "media/20261118-t18/short.mp4"
+  ]
+ },
+ {
+  "id": "20261118-todai",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261118-todai/01.jpg",
+   "media/20261118-todai/02.jpg",
+   "media/20261118-todai/03.jpg",
+   "media/20261118-todai/04.jpg",
+   "media/20261118-todai/05.jpg",
+   "media/20261118-todai/06.jpg",
+   "media/20261118-todai/07.jpg",
+   "media/20261118-todai/08.jpg"
+  ]
+ },
+ {
+  "id": "20261119-leetfail",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261119-leetfail/01.jpg",
+   "media/20261119-leetfail/02.jpg",
+   "media/20261119-leetfail/03.jpg",
+   "media/20261119-leetfail/04.jpg",
+   "media/20261119-leetfail/05.jpg",
+   "media/20261119-leetfail/06.jpg",
+   "media/20261119-leetfail/07.jpg"
   ]
  }
 ]
