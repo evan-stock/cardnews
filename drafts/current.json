@@ -1,16 +1,50 @@
 [
  {
   "id": "20261119-leetjail",
-  "mode": "collect",
   "slot": "lunch",
-  "topic": "JTBC 단독: 리트 만점자 구치소 수감 재소자 증언, 공갈 판결문",
-  "image_pages": [],
-  "read_pages": [
-   "https://bbs.ruliweb.com/community/board/300148/read/38820079",
-   "https://m.news.nate.com/search?q=%EB%A6%AC%ED%8A%B8%EB%A7%8C%EC%A0%90%20%EA%B5%AC%EC%B9%98%EC%86%8C%20%EC%88%98%EA%B0%90%20%EC%9E%AC%EC%86%8C%EC%9E%90",
-   "https://news.jtbc.co.kr/search?term=%EB%A6%AC%ED%8A%B8%EB%A7%8C%EC%A0%90%20%EA%B5%AC%EC%B9%98%EC%86%8C%20%EC%88%98%EA%B0%90%20%EC%9E%AC%EC%86%8C%EC%9E%90"
+  "mode": "send",
+  "topic": "[속보] JTBC 단독: 리트 만점자 구치소 수감 재소자 증언, 개명 전 이름·생년월일 일치 공갈 판결문",
+  "category": "국내 사회",
+  "risk": "JTBC 단독 보도 인용(캡처 근거). 실명·개명 전 이름 안 씀(캡처 속 실명 흐림). 본인 입장 미확인 명시. 따옴표는 기사 속 증언만.",
+  "images": [
+   "cover_bg.jpg",
+   "c02.jpg",
+   "c03.jpg",
+   "cover_bg.jpg"
   ],
-  "sources": [],
-  "limit": 6
+  "slides": [
+   {
+    "lay": "one",
+    "t": "[단독] 리트 만점자\n과거 '구치소 수감' 증언"
+   },
+   {
+    "raw": true
+   },
+   {
+    "raw": true
+   },
+   {
+    "t": "오늘 공개 풀이,\n'예정대로' 할까",
+    "b": "팔로우하면 매일 화제 소식"
+   }
+  ],
+  "caption": "[단독] 리트 만점자, 과거 '구치소 수감' 증언 나왔다\n\nJTBC 단독 보도에 따르면, 올해 리트 만점자로 이름을 알린 A씨가 과거 공갈 범죄로 구치소에 복역했다는 증언이 나왔습니다.\n\n함께 수감됐다는 재소자는 그가 \"사기로 돈 모아 학습교재 만든다고 했다\"고 증언했습니다. JTBC는 A씨의 개명 전 이름·생년월일과 일치하는 공갈 판결문들도 확인했다고 보도했습니다. 판결문에는 집행유예 판결 두 달 뒤 동종 범죄로 징역형을 받은 내용이 담긴 것으로 전해졌습니다.\n\n자세한 내용은 오늘 저녁 6시 30분 JTBC 뉴스룸에서 보도될 예정입니다. 본인 측 입장은 아직 확인되지 않았습니다.\n\n그는 오늘 수능 국어 문제를 공개적으로 풀겠다고 예고한 상태입니다.\n\n오늘 공개 풀이, 예정대로 할까요?",
+  "hashtags": [
+   "리트만점자",
+   "리트냥이",
+   "JTBC",
+   "단독",
+   "속보"
+  ],
+  "sources": [
+   {
+    "publisher": "JTBC(단독)",
+    "date": "2026.11.19"
+   }
+  ],
+  "photo_credits": [
+   "나무위키",
+   "JTBC 기사 화면"
+  ]
  }
 ]
