@@ -81,9 +81,5 @@ frame(("오늘 예고했던 수능 국어 공개 검증", "결국 '노쇼'"), fi
       "시험지 배부 때까지 '불참', 검증 무효", "전날부터 휴대전화 꺼져, 주최 측은 경찰에 신변 확인 요청").save(O / "c04.jpg", quality=93)
 frame(("오전 8시 42분 '신변 우려' 신고", "경찰·소방 출동, 주거지에 '없어'"), fit(op("yna.jpg").crop((28, 248, 686, 686)), 940, 625, (.5, .5)),
       "CCTV엔 17일 집 나간 뒤 '안 돌아와'", "경찰, 행방 확인 중 · 사진: 공개 검증 장소 앞 취재진(연합뉴스)").save(O / "c05.jpg", quality=93)
-# 표지: 본인 사진 | 구치소(수용자) 사진 나란히, 꽉 채움
-cv = Image.new("RGB", (W, H))
-cv.paste(fit(op("lee_photo.jpg"), W // 2, H, (.5, .2)), (0, 0)); cv.paste(fit(op("prison.jpg"), W // 2, H, (.5, .5)), (W // 2, 0))
-ImageDraw.Draw(cv).rectangle((W // 2 - 3, 0, W // 2 + 2, H), fill=(10, 10, 12))
-cv.save(O / "cover_bg.jpg", quality=95)
+fit(op("lee_photo.jpg"), W, H, (.5, .2)).save(O / "cover_bg.jpg", quality=95)  # 표지: 독사진
 print("ok")
