@@ -2,7 +2,7 @@
  "id": "20261119-leetsearch",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-19T12:17:03+09:00",
  "publish_at": "2026-11-19T12:17:03+09:00",
  "topic": "리트 만점자 소재 수색: 광진구 모텔→아차산 방향(08:02 CCTV)→택시로 송파구 방향, 수색 확대 + 광역수사단 수사 착수·2026학년도 수능 시험지 증거보전",
@@ -58,5 +58,8 @@
   "media/20261119-leetsearch/04.jpg",
   "media/20261119-leetsearch/05.jpg"
  ],
- "decided_at": "2026-11-19T12:17:03+09:00"
+ "decided_at": "2026-11-19T12:17:03+09:00",
+ "ig_media_id": "18107371937197953",
+ "permalink": "https://www.instagram.com/p/Df6GUZ-DY8s/",
+ "published_at": "2026-11-19T12:19:53.091039+09:00"
 }
