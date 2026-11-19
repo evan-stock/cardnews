@@ -1,3 +1,17 @@
-[{"id":"20261119-leetfound-photo","slot":"lunch","mode":"collect","topic":"리트 만점자 천호역 인근 숙박업소 심정지 발견 현장 사진",
-"image_pages":["https://www.sidae.com/article/2026111913232954793","https://www.twig24.com/news/world/event/2026/11/19/20261119500128","https://www.gukjenews.com/news/articleView.html?idxno=3757047","https://sports.khan.co.kr/article/202611191324003/","https://www.topstarnews.net/news/articleView.html?idxno=16280663","https://nwww.newsis.com/view/NISX20261119_0003874636"],
-"sources":[]}]
+[
+ {
+  "id": "20261119-seungri",
+  "mode": "collect",
+  "image_pages": [
+   "https://starnewskorea.com/music/2026/11/18/2026111823031654054",
+   "https://starnewskorea.com/music/2026/11/18/2026111822580053461",
+   "https://tvreport.co.kr/entertainment/article/1092054/",
+   "https://www.mt.co.kr/entertainment/2026/11/19/2026111823451756876",
+   "https://www.nocutnews.co.kr/news/6609213",
+   "https://www.imaeil.com/page/view/2026111909575196855",
+   "https://www.sidae.com/article/2026111907324762795",
+   "https://m.news.nate.com/view/20261119n01414"
+  ],
+  "limit": 30
+ }
+]
