@@ -3,7 +3,7 @@
  "slot": "lunch",
  "slot_label": "점심",
  "status": "pending",
- "created_at": "2026-11-19T10:05:23.351850+09:00",
+ "created_at": "2026-11-19T10:17:52.620395+09:00",
  "publish_at": "2026-11-19T13:00:00+09:00",
  "topic": "리트 만점자 구치소 수감 재소자 증언·공갈 판결문(JTBC) + 오늘 수능 국어 공개 검증 노쇼",
  "category": "국내 사회",
@@ -60,5 +60,5 @@
   "media/20261119-leetjail/04.jpg",
   "media/20261119-leetjail/05.jpg"
  ],
- "tg_msg": 2946
+ "tg_msg": 2952
 }
