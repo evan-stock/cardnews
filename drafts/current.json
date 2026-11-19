@@ -1,22 +1,64 @@
 [
  {
-  "id": "20261119-leetjail2",
-  "mode": "collect",
+  "id": "20261119-leetjail",
   "slot": "lunch",
-  "topic": "구치소 사진 + 노쇼 기사 사진",
-  "image_pages": [
-   "https://m.news.nate.com/view/20260125n04937",
-   "https://m.news.nate.com/view/20260125n04076",
-   "https://www.tenasia.co.kr/article/2026111963794",
-   "https://www.fnnews.com/news/202611190848428321",
-   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286396"
+  "mode": "send",
+  "topic": "리트 만점자 구치소 수감 재소자 증언·공갈 판결문(JTBC) + 오늘 수능 국어 공개 검증 노쇼",
+  "category": "국내 사회",
+  "risk": "JTBC 보도 인용(사용자 제공 캡처 근거), 노쇼는 파이낸셜뉴스·텐아시아·오마이뉴스(11.19). 실명·개명 전 이름 안 씀(캡처·현장 화면 속 실명 흐림). 본인 입장 미확인 명시. 따옴표는 기사 속 증언만. 사용자 지시: 승인 전 게시 금지.",
+  "images": [
+   "cover_bg.jpg",
+   "c02.jpg",
+   "c03.jpg",
+   "c04.jpg",
+   "cover_bg.jpg"
   ],
-  "read_pages": [
-   "https://www.tenasia.co.kr/article/2026111963794",
-   "https://www.fnnews.com/news/202611190848428321",
-   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286396"
+  "slides": [
+   {
+    "lay": "one",
+    "t": "리트 만점자 과거\n'구치소 수감' 증언"
+   },
+   {
+    "raw": true
+   },
+   {
+    "raw": true
+   },
+   {
+    "raw": true
+   },
+   {
+    "t": "공개 검증은 '노쇼',\n의혹은 더 커졌다",
+    "b": "팔로우하면 매일 화제 소식"
+   }
   ],
-  "sources": [],
-  "limit": 20
+  "caption": "[리트 만점자, 과거 '구치소 수감' 증언… 오늘 공개 검증은 '노쇼']\n\nJTBC 보도에 따르면, 올해 리트 만점자로 이름을 알린 A씨가 과거 공갈 범죄로 구치소에 복역했다는 증언이 나왔습니다.\n\n함께 수감됐다는 재소자는 그가 \"사기로 돈 모아 학습교재 만든다고 했다\"고 증언했습니다. JTBC는 A씨의 개명 전 이름·생년월일과 일치하는 공갈 판결문들도 확인했다고 보도했습니다. 판결문에는 집행유예 판결 두 달 뒤 동종 범죄로 징역형을 받은 내용이 담긴 것으로 전해졌습니다. 자세한 내용은 오늘 저녁 6시 30분 JTBC 뉴스룸에서 보도될 예정입니다.\n\n그리고 오늘 아침, 그는 스스로 예고했던 수능 국어 공개 검증에 나타나지 않았습니다. 주최 측은 시험지 배부 시점까지 오지 않자 검증 무효를 선언했고, 전날부터 휴대전화가 꺼져 있어 경찰에 신변 확인을 요청했습니다.\n\n본인 측 입장은 아직 확인되지 않았습니다.\n\n공개 검증 노쇼, 어떻게 보시나요?",
+  "hashtags": [
+   "리트만점자",
+   "리트냥이",
+   "공개검증",
+   "노쇼",
+   "수능"
+  ],
+  "sources": [
+   {
+    "publisher": "JTBC",
+    "date": "2026.11.19"
+   },
+   {
+    "publisher": "파이낸셜뉴스",
+    "date": "2026.11.19"
+   },
+   {
+    "publisher": "텐아시아",
+    "date": "2026.11.19"
+   }
+  ],
+  "photo_credits": [
+   "나무위키",
+   "JTBC 기사 화면",
+   "IDA입시연구소 유튜브 화면",
+   "연합뉴스"
+  ]
  }
 ]
