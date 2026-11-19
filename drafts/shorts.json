@@ -1,180 +1,167 @@
 {
- "id": "20261118-t18",
- "mode": "send",
+ "id": "20261119-t18",
+ "mode": "render",
  "format": "meme",
- "topic": "복귀 방식 1편(11.18 18:07): 아빠가 발톱을 깎아 주다 하나를 실수로 너무 짧게 잘랐더니, 벽에 코 박고 등 돌려 앉아 단단히 삐진 강아지 거너. 엄마가 쓰다듬자 옆눈으로 흘깃 보고는 다시 벽을 봄(TikTok @xxodestina, Destiny Rayne Bonner, 2,000만 회·좋아요 400만, TAG24 2024.7.24 보도). 펫스파이 '~했다가 제대로 삐진 ○○' 틀 + '삐진' 시리즈(11.01 골든 6.4만). 발톱·휴지 나오는 구간(1.5~3, 7.5~11.5초)은 건너뜀. 원본 소리는 음악 아닌 방 소리·말소리(-40dB 안팎)라 살림. 원본 영어 캡션(화면 64~77% 높이)은 zoom 1.5 + y 0.2으로 화면 밖으로. 사실: AKC — 발톱 속 퀵에 혈관·신경, 끝만 조금씩.",
+ "topic": "복귀 방식 2편(11.19 18:07): 밤 10시만 되면 집사를 재우러 오는 고양이 와플(크림색 고양이, Instagram @thegoldenbreakfastclub, 1,300만 회·좋아요 190만, CatTime/AOL·GreaterGood 2026.4.14 보도). 하악 하품 → 자는 집사 얼굴 툭툭·깨물기 → 손목시계 가리키기 → 옷 물고 끌기 → 인내심 바닥 야옹 → 결국 품에 안겨 골골. '~하면 단속 나오는 ○○' 틀(11.01 임신 집사 고양이 8.9천 계열). 원본 소리는 음악 아닌 야옹·하품·골골 소리라 살림. 원본 영어 캡션 있는 구간은 빼고 글자 없는 구간(15~19, 30.5~36, 41.5~44, 54~56, 59~60, 68~75초)만 사용, 59초 장면은 zoom 1.25 y 0 으로 아래 캡션 밀어냄. 사실: Hill's Pet — 고양이는 하루 12~16시간 잔다.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.9,
+ "bgm_volume": 0.85,
  "sfx_max": 4,
  "hook": {
-  "t": "발톱 깎았을 뿐인데\n'제대로 삐진 강아지ㅋㅋ'"
+  "t": "밤 10시 넘게 안 자면\n'단속 나오는 고양이ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @xxodestina"
+  "Instagram @thegoldenbreakfastclub"
  ],
- "credit": "영상: TikTok @xxodestina",
+ "credit": "영상: Instagram @thegoldenbreakfastclub",
  "scenes": [
   {
-   "dur": 2.0,
+   "dur": 2.6,
    "video": {
-    "src": "video/v2.mp4",
-    "start": 0.0,
-    "zoom": 1.5,
-    "x": 0.75,
-    "y": 0.2,
+    "src": "video/v1.mp4",
+    "start": 16.0,
+    "zoom": 1.15,
+    "x": 0.5,
+    "y": 0.0,
     "audio": 2
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(벽만 봄)",
-     "x": 0.3,
+     "t": "(하아악)",
+     "x": 0.72,
      "y": 0.12,
      "at": 0.0,
-     "to": 2.0,
+     "to": 2.6,
      "s": "dundun",
      "sv": 0.7
     },
     {
      "k": "talk",
-     "t": "말 시키지 마.",
-     "x": 0.35,
-     "y": 0.4,
+     "t": "10시 넘었다고!!",
+     "x": 0.3,
+     "y": 0.42,
      "at": 0.4,
-     "to": 2.0
+     "to": 2.6
     }
    ]
   },
   {
-   "say": "아빠가 발톱을 깎아 주다 하나를 너무 짧게 잘랐거든요.",
+   "say": "밤 10시만 넘으면 집사를 재우러 오는 와플인데요.",
    "video": {
-    "src": "video/v2.mp4",
-    "start": 12.0,
-    "zoom": 1.5,
-    "x": 0.75,
-    "y": 0.2,
+    "src": "video/v1.mp4",
+    "start": 30.6,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.5,
     "audio": 0.4
    },
    "caps": [
     {
      "k": "talk",
-     "t": "아팠거든?",
-     "x": 0.3,
+     "t": "소파에서 자지 마",
+     "x": 0.6,
      "y": 0.25,
      "at": 0.8
     }
    ]
   },
   {
-   "say": "그 뒤로 벽에 코 박고 시위 중입니다.",
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 3.0,
-    "zoom": 1.5,
-    "x": 0.75,
-    "y": 0.2,
-    "audio": 0.4
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "나 지금 화났어",
-     "x": 0.35,
-     "y": 0.25,
-     "at": 0.6
-    }
-   ]
-  },
-  {
-   "say": "엄마가 달래 주자 슬쩍 보는데요.",
-   "video": {
-    "src": "video/v2.mp4",
-    "start": 19.6,
-    "zoom": 1.5,
-    "x": 0.6,
-    "y": 0.2,
-    "audio": 0.4
-   },
-   "caps": []
-  },
-  {
    "dur": 2.4,
    "video": {
-    "src": "video/v2.mp4",
-    "start": 24.4,
-    "zoom": 1.5,
-    "x": 0.45,
-    "y": 0.2,
+    "src": "video/v1.mp4",
+    "start": 41.6,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.5,
     "audio": 2
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(흘깃)",
-     "x": 0.75,
+     "t": "(시계 톡톡)",
+     "x": 0.3,
      "y": 0.12,
-     "at": 0.2,
+     "at": 0.0,
      "to": 2.4,
-     "s": "question",
-     "sv": 0.6
+     "s": "pop",
+     "sv": 0.7
     },
     {
      "k": "talk",
-     "t": "...사과하는 거야?",
-     "x": 0.5,
+     "t": "몇 시야, 지금?",
+     "x": 0.68,
      "y": 0.3,
-     "at": 0.6,
+     "at": 0.4,
      "to": 2.4
+    }
+   ]
+  },
+  {
+   "say": "그래도 안 일어나면 옷을 물고 끌고 갑니다.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 54.1,
+    "zoom": 1.35,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0.4
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "침대 가자고",
+     "x": 0.65,
+     "y": 0.25,
+     "at": 0.8
     }
    ]
   },
   {
    "dur": 1.8,
    "video": {
-    "src": "video/v2.mp4",
-    "start": 27.2,
-    "zoom": 1.5,
-    "x": 0.9,
-    "y": 0.2,
-    "audio": 2
+    "src": "video/v1.mp4",
+    "start": 59.0,
+    "zoom": 1.35,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 1.5
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(다시 벽)",
-     "x": 0.3,
+     "t": "(인내심 바닥)",
+     "x": 0.7,
      "y": 0.12,
      "at": 0.0,
      "to": 1.8,
-     "s": "pop",
-     "sv": 0.7
+     "s": "boing",
+     "sv": 0.6
     },
     {
      "k": "talk",
-     "t": "아직 안 풀렸어",
-     "x": 0.4,
-     "y": 0.3,
+     "t": "마지막 경고다",
+     "x": 0.3,
+     "y": 0.35,
      "at": 0.3,
      "to": 1.8
     }
    ]
   },
   {
-   "say": "발톱 속엔 혈관이 있어서 끝만 조금씩 깎아야 한대요.",
+   "say": "고양이는 하루 열두 시간에서 열여섯 시간을 잔대요.",
    "video": {
-    "src": "video/v2.mp4",
-    "start": 29.0,
-    "zoom": 1.5,
-    "x": 0.8,
-    "y": 0.2,
-    "audio": 0.4,
-    "boomerang": true
+    "src": "video/v1.mp4",
+    "start": 68.2,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0.8
    },
    "caps": [
     {
      "k": "desc",
-     "t": "발톱 속 '퀵'엔 혈관과 신경이 있어\n끝만 조금씩 깎아야 해요\n(미국켄넬클럽 AKC)",
+     "t": "고양이는 하루 12~16시간 잠을 자요\n(힐스펫 수의사 감수 자료)",
      "x": 0.5,
      "y": 0.12,
      "at": 0.2,
@@ -182,10 +169,10 @@
     },
     {
      "k": "talk",
-     "t": "간식 3개면 용서함",
-     "x": 0.4,
-     "y": 0.4,
-     "at": 1.2,
+     "t": "그러니까 너도 자",
+     "x": 0.65,
+     "y": 0.5,
+     "at": 1.4,
      "s": "fail",
      "sv": 0.6
     }
@@ -194,30 +181,35 @@
  ],
  "sources": [
   {
-   "publisher": "TikTok @xxodestina (Destiny Rayne Bonner)",
-   "url": "https://www.tiktok.com/@xxodestina/video/7391120187421936938",
-   "date": "2024-07"
-  },
-  {
-   "publisher": "TAG24 - Dog upset about his manicure gets TikTok giggling: \"He won't even look at us\"",
-   "url": "https://tag24.com/animals/dogs/dog-upset-about-his-manicure-gets-tiktok-giggling-he-wont-even-look-at-us-3302039",
-   "date": "2024-07-24"
-  },
-  {
-   "publisher": "American Kennel Club - How to Trim Dog Nails Safely",
-   "url": "https://www.akc.org/expert-advice/health/trim-dog-nails/",
+   "publisher": "Instagram @thegoldenbreakfastclub (Waffles)",
+   "url": "https://www.instagram.com/reel/DSlUIwniQL0/",
    "date": "2025"
+  },
+  {
+   "publisher": "CatTime(AOL) - Video: Owner Shows How Cat Enforces 10 PM Bedtime",
+   "url": "https://www.aol.com/articles/video-owner-shows-cat-enforces-131744724.html",
+   "date": "2026"
+  },
+  {
+   "publisher": "GreaterGood - Determined Cat Refuses To Let His Humans Miss Their 10 P.M. Bedtime",
+   "url": "https://greatergood.com/blogs/news/cw-viral-cat-enforces-10-pm-bedtime-with-adorable-routine",
+   "date": "2026-04-14"
+  },
+  {
+   "publisher": "Hill's Pet Nutrition - Why Do Cats Sleep So Much?",
+   "url": "https://www.hillspet.com/cat-care/behavior-appearance/why-cats-sleep-so-much",
+   "date": "2018"
   }
  ],
  "yt": {
-  "title": "아빠가 발톱 깎아줬다가 제대로 삐진 강아지ㅋㅋ #shorts",
-  "description": "아빠가 발톱을 깎아 주다 하나를 그만 너무 짧게 잘라 버렸어요ㅋㅋ 그 뒤로 거너는 벽에 코 박고 등 돌린 채 시위 중. 엄마가 달래 주자 슬쩍 쳐다보는데...\n\n미국켄넬클럽(AKC)에 따르면 발톱 속 '퀵'에는 혈관과 신경이 있어서, 끝만 조금씩 깎아야 한대요.\n\n여러분 댕댕이도 삐지면 벽 보고 앉나요?\n\n영상: TikTok @xxodestina\n참고: TAG24, American Kennel Club\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#강아지 #삐짐 #발톱깎기 #댕댕이 #강아지발톱 #귀여운동물 #동물쇼츠 #오늘의털뭉치",
+  "title": "밤 10시 넘게 안 자면 단속 나오는 고양이ㅋㅋ #shorts",
+  "description": "밤 10시만 넘으면 집사를 재우러 오는 고양이 와플ㅋㅋ 하악 하품부터 얼굴 툭툭, 손목시계 가리키기, 옷 물고 끌고 가기까지...\n결국 집사 품에 안겨서야 골골.\n\n힐스펫(Hill's Pet) 자료에 따르면 고양이는 하루 12~16시간을 잔대요.\n\n여러분 냥이도 잘 시간 되면 단속 나오나요?\n\n영상: Instagram @thegoldenbreakfastclub\n참고: CatTime, GreaterGood, Hill's Pet\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#고양이 #냥이 #집사 #고양이잠 #치즈냥 #귀여운동물 #동물쇼츠 #오늘의털뭉치",
   "tags": [
-   "강아지",
-   "삐짐",
-   "발톱깎기",
-   "강아지발톱",
-   "댕댕이",
+   "고양이",
+   "냥이",
+   "집사",
+   "고양이잠",
+   "치즈냥",
    "귀여운동물",
    "동물쇼츠",
    "오늘의털뭉치"
