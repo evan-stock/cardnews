@@ -1,0 +1,51 @@
+{
+ "id": "20261119-t18",
+ "created": "2026-11-19T19:55:57.917101+09:00",
+ "items": [
+  {
+   "key": "13ae1ce5d032",
+   "text": "밤 10시만 넘으면 집사를 재우러 오는 와플인데요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "898c750162bb",
+   "text": "그래도 안 일어나면 옷을 물고 끌고 갑니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "b29565a17d67",
+   "text": "고양이는 하루 열두 시간에서 열여섯 시간을 잔대요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
