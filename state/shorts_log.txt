@@ -1,4 +1,4 @@
-맥북 목소리 안 옴 → Gemini TTS: 사용 (새로 만듦)
+Gemini TTS: 사용 (저장본)
 장면 1/6 silent 누적 2.6초
 장면 2/6 gemini 누적 5.8초
 장면 3/6 silent 누적 8.2초
