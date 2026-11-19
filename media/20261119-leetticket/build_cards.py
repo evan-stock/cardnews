@@ -58,8 +58,24 @@ def panel(rows, h=640, gap=None):
     for i, (k, v) in enumerate(rows):
         y = 40 + i * gap; d.text((56, y), k, font=F("Medium", 32), fill=(190, 190, 198)); rich(d, 56, y + 42, v, F("Black", 42))
     return p
-frame(("전국 3등 성적표도, 리트 만점도, 서울대 치대도 아닌", "그가 끝까지 지닌 건 '18수능 수험표'"),
-      panel([("성적표는", "언제든 '다시 뽑을 수' 있다"), ("수험표는", "한 번 잃어버리면 '그걸로 끝'이다"),
-             ("그런데 그는", "그 한 장을 '8년 넘게' 버리지 않았다"), ("18수능은", "전과가 생기기 전, '자기 힘으로' 치른 시험")], h=640),
-      "투박해도 혼자 힘으로 받은 '마지막 진짜'", "참고: X 칩찹ChipChap 글").save(O / "c05.jpg", quality=93)
+# 게시판 글 느낌의 '우리 정리 글'(디시 로고·갤러리명·조회/추천 등 실제 사이트 요소 없음, 작성자 = 오늘의쓸모)
+post = Image.new("RGB", (1440, 1720), (255, 255, 255)); d = ImageDraw.Draw(post)
+d.ellipse((60, 50, 170, 160), fill=(205, 212, 216)); d.ellipse((92, 72, 138, 118), fill=(255, 255, 255)); d.pieslice((78, 112, 152, 186), 180, 360, fill=(255, 255, 255))
+d.text((200, 62), "오늘의쓸모 정리", font=F("ExtraBold", 46), fill=(20, 20, 20)); d.text((200, 120), "11/20 · 참고: X 칩찹ChipChap 글", font=F("Medium", 34), fill=(150, 150, 155))
+d.text((60, 215), "발견된 건 성적표가 아니라 수험표였다", font=F("ExtraBold", 54), fill=(20, 20, 20))
+body = ["그가 한 일을 감싸려는 글이 아니다.", "안타깝다고 말하려는 것도 아니다.", "",
+        "다만 한 사람이 마지막까지 쥐고 있던 게", "무엇이었는지가 자꾸 생각난다.", "",
+        "18수능은 2017년 11월에 치른 시험이다.", "전과가 생기기 전, 혼자 힘으로 본 시험.", "",
+        "성적표는 언제든 다시 뽑을 수 있다.", "수험표는 한 번 잃어버리면 끝이다.", "그 한 장을 8년 넘게 갖고 있었다.", "",
+        "전국 3등 성적표도, 리트 만점도, 서울대 치대도 아니었다.", "투박하고 서툴렀지만 자기 힘으로 받은 18수능이었다."]
+y = 330
+for ln in body:
+    if ln: d.text((60, y), ln, font=F("Medium", 44), fill=(40, 40, 44))
+    y += 62 if ln else 38
+post = post.crop((0, 0, 1440, y + 40)); post.save(O / "post_ours.jpg", quality=94)
+spec = [{"out": str(O / "c05.jpg"), "sub": "오늘의쓸모 정리 (참고: X 칩찹ChipChap 글)", "title": "발견된 건 성적표가 아닌 '수험표'",
+         "cap": str(O / "post_ours.jpg"), "cap_max_h": 780, "box_bg": [255, 255, 255], "caption": "X 칩찹ChipChap 글을 참고해 오늘의쓸모가 정리한 글",
+         "label": "성적표는 다시 뽑을 수 있지만", "lines": ["수험표는 '한 장뿐'이다"]}]
+(O / "spec5.json").write_text(json.dumps(spec, ensure_ascii=False))
+subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(O / "spec5.json")], check=True)
 print("c05 ok")
