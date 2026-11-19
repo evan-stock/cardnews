@@ -58,14 +58,10 @@ def panel(rows, h=640, gap=None):
     for i, (k, v) in enumerate(rows):
         y = 40 + i * gap; d.text((56, y), k, font=F("Medium", 32), fill=(190, 190, 198)); rich(d, 56, y + 42, v, F("Black", 42))
     return p
-# 마지막 2장: X 칩찹ChipChap 트윗 원본 캡처(사용자 제공 스크린샷에서 본문만 잘라냄)
+# 마지막 장: X 트윗 본문 캡처 한 장(이름·아이디 모자이크, 흰 바탕으로 반전, 카드에 출처 표기 없음 — 캡션 출처에만)
 spec = [
- {"out": str(O / "c09.jpg"), "sub": "X 칩찹ChipChap (11/19)", "title": "\"마지막까지 '의미 있었던' 건 무엇이었나\"",
-  "cap": str(O / "tw1.jpg"), "cap_max_h": 760, "box_bg": [0, 0, 0], "caption": "X 칩찹ChipChap 게시물 캡처 (1/2)",
-  "label": "18수능은 2017년에 치른 시험", "lines": ["범죄 이전, '청년 이진우'의 시절"]},
- {"out": str(O / "c10.jpg"), "sub": "X 칩찹ChipChap (이어서)", "title": "\"성적표가 아닌 '수험표'\"",
-  "cap": str(O / "tw2.jpg"), "cap_max_h": 700, "box_bg": [0, 0, 0], "caption": "X 칩찹ChipChap 게시물 캡처 (2/2)",
-  "label": "성적표는 다시 뽑을 수 있지만", "lines": ["수험표는 '한 번 잃어버리면 끝'"]},
+ {"out": str(O / "c09.jpg"), "sub": "온라인에 올라온 글", "title": "\"마지막까지 '의미 있었던' 건 무엇이었나\"",
+  "cap": str(O / "tw_all.jpg"), "cap_max_h": 920, "box_bg": [255, 255, 255], "caption": ""},
 ]
 (O / "spec_tw.json").write_text(json.dumps(spec, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(O / "spec_tw.json")], check=True)
