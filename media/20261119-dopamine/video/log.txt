@@ -1,0 +1,25 @@
+ERROR: [twitter] 2123346779840315431: No video could be found in this tweet
+사진 받음 p1_1.jpg
+사진 받음 p1_2.jpg
+사진 받음 p1_3.jpg
+사진 받음 p1_4.jpg
+사진 받음 p1_5.jpg
+사진 받음 p1_6.jpg
+사진 받음 p1_7.jpg
+사진 받음 p1_8.jpg
+사진 받음 p1_9.jpg
+영상 없는 글(사진만): https://x.com/dopamine_crypto/status/2123346779840315431
+total 1788
+drwxr-xr-x 2 runner runner   4096 Nov 19 10:35 .
+drwxr-xr-x 3 runner runner   4096 Nov 19 10:35 ..
+-rw-r--r-- 1 runner runner    370 Nov 19 10:35 log.txt
+-rw-r--r-- 1 runner runner 175066 Nov 19 10:35 p1_1.jpg
+-rw-r--r-- 1 runner runner 181031 Nov 19 10:35 p1_2.jpg
+-rw-r--r-- 1 runner runner 170441 Nov 19 10:35 p1_3.jpg
+-rw-r--r-- 1 runner runner 156969 Nov 19 10:35 p1_4.jpg
+-rw-r--r-- 1 runner runner 249372 Nov 19 10:35 p1_5.jpg
+-rw-r--r-- 1 runner runner 241114 Nov 19 10:35 p1_6.jpg
+-rw-r--r-- 1 runner runner 257352 Nov 19 10:35 p1_7.jpg
+-rw-r--r-- 1 runner runner 184638 Nov 19 10:35 p1_8.jpg
+-rw-r--r-- 1 runner runner 183693 Nov 19 10:35 p1_9.jpg
+-rw-r--r-- 1 runner runner    568 Nov 19 10:35 x1.json
