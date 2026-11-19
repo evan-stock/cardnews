@@ -1,0 +1,28 @@
+{
+ "id": "20261118-choigj",
+ "finished_at": "2026-11-18T18:32:43+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "ytsearch1:최교진 교육부 장관 나이가 있어서 못 잡아 국회 AI 커닝",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261118-choigj/video/y1.mp4",
+   "mb": 16.7,
+   "view_count": null,
+   "title": "최교진 교육부 장관 나이가 있어서 못 잡아 국회 AI 커닝"
+  },
+  {
+   "n": 2,
+   "url": "ytsearch1:최교진 장관 답변 정정 김민석 AI 커닝",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261118-choigj/video/y2.mp4",
+   "mb": 6.8,
+   "view_count": null,
+   "title": "최교진 장관 답변 정정 김민석 AI 커닝"
+  }
+ ]
+}

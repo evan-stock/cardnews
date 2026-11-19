@@ -1,0 +1,38 @@
+ERROR: [twitter] 2122978391678935278: No video could be found in this tweet
+사진 받음 p1_1.jpg
+사진 받음 p1_2.jpg
+사진 받음 p1_3.jpg
+사진 받음 p1_4.jpg
+사진 받음 p1_5.jpg
+사진 받음 p1_6.jpg
+영상 없는 글(사진만): https://x.com/poongkawaii/status/2122978391678935278
+ERROR: [twitter] 2123036057596047459: No video could be found in this tweet
+사진 받음 p2_1.jpg
+사진 받음 p2_2.jpg
+사진 받음 q2_1.jpg
+사진 받음 q2_2.jpg
+사진 받음 q2_3.jpg
+사진 받음 q2_4.jpg
+사진 받음 q2_5.jpg
+사진 받음 q2_6.jpg
+영상 없는 글(사진만): https://x.com/yena_jang_/status/2123036057596047459
+total 2092
+drwxr-xr-x 2 runner runner   4096 Nov 18 13:16 .
+drwxr-xr-x 3 runner runner   4096 Nov 18 13:16 ..
+-rw-r--r-- 1 runner runner    639 Nov 18 13:16 log.txt
+-rw-r--r-- 1 runner runner  71575 Nov 18 13:16 p1_1.jpg
+-rw-r--r-- 1 runner runner 141655 Nov 18 13:16 p1_2.jpg
+-rw-r--r-- 1 runner runner 194097 Nov 18 13:16 p1_3.jpg
+-rw-r--r-- 1 runner runner 221437 Nov 18 13:16 p1_4.jpg
+-rw-r--r-- 1 runner runner 194715 Nov 18 13:16 p1_5.jpg
+-rw-r--r-- 1 runner runner 126711 Nov 18 13:16 p1_6.jpg
+-rw-r--r-- 1 runner runner  92564 Nov 18 13:16 p2_1.jpg
+-rw-r--r-- 1 runner runner 102024 Nov 18 13:16 p2_2.jpg
+-rw-r--r-- 1 runner runner  71575 Nov 18 13:16 q2_1.jpg
+-rw-r--r-- 1 runner runner 141655 Nov 18 13:16 q2_2.jpg
+-rw-r--r-- 1 runner runner 194097 Nov 18 13:16 q2_3.jpg
+-rw-r--r-- 1 runner runner 221437 Nov 18 13:16 q2_4.jpg
+-rw-r--r-- 1 runner runner 194715 Nov 18 13:16 q2_5.jpg
+-rw-r--r-- 1 runner runner 126711 Nov 18 13:16 q2_6.jpg
+-rw-r--r-- 1 runner runner    674 Nov 18 13:16 x1.json
+-rw-r--r-- 1 runner runner   1244 Nov 18 13:16 x2.json

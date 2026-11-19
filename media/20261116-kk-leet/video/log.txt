@@ -1,9 +1,0 @@
-ERROR: [Instagram] Dfy1L9Zzkbe: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-ERROR: [Instagram] Dfy1L9-TAi8: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-ERROR: [Instagram] Dfy1L_0TwfH: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-실패: https://www.instagram.com/p/Dfy1ObSk82b/
-total 5068
-drwxr-xr-x 2 runner runner    4096 Nov 16 09:59 .
-drwxr-xr-x 3 runner runner    4096 Nov 16 09:58 ..
--rw-r--r-- 1 runner runner     739 Nov 16 09:59 log.txt
--rw-r--r-- 1 runner runner 5174961 Nov 16 09:59 v1.mp4

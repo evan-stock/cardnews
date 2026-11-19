@@ -1,1771 +1,1406 @@
 {
- "since": "2023-01-01",
+ "since": "2015-01-01",
  "fixed": [],
  "found": [
   {
-   "title": "Moabe Torneiro (MSM)",
-   "id": "UChGMPvNf7uQwU8ejmYJOThg",
-   "created": "2020-02-28",
-   "subs": "7450",
-   "videos": "830"
+   "title": "Zero Cervello",
+   "id": "UC67IY-cVY6EmGrzNRqWk-Dg",
+   "created": "2026-05-22",
+   "subs": "14900",
+   "videos": "357"
   },
   {
-   "title": "Matheus Rezende Usinagem",
-   "id": "UCwvNYGzmxBkHA4EBOUxjJeg",
-   "created": "2020-01-31",
-   "subs": "53600",
-   "videos": "758"
+   "title": "Vizon Voice",
+   "id": "UCEPiuqQa48bvCjwyp95E6Uw",
+   "created": "2024-03-27",
+   "subs": "144000",
+   "videos": "436"
   },
   {
-   "title": "opelservice kyiv",
-   "id": "UCJgRRMcnoGLLZnh8oXY2Ijg",
-   "created": "2020-10-09",
-   "subs": "780000",
-   "videos": "832"
-  },
-  {
-   "title": "Scila Alex Dicas",
-   "id": "UCwbm-xSlSmzpHOSRKa1drUw",
-   "created": "2025-09-30",
-   "subs": "70",
-   "videos": "27"
-  },
-  {
-   "title": "Neco Serviços automotivos",
-   "id": "UCs8ntd1KW59Q5RztKgS9-XQ",
-   "created": "2020-01-15",
-   "subs": "2650",
-   "videos": "540"
-  },
-  {
-   "title": "DIY Auto Doctor",
-   "id": "UCR5vBugFsOmye9NyCagTvpw",
-   "created": "2024-11-23",
-   "subs": "11200",
-   "videos": "582"
-  },
-  {
-   "title": "Dicas de Casa",
-   "id": "UCPiFpCiUL2y9-sWWfI-mvqg",
-   "created": "2023-01-18",
-   "subs": "367000",
-   "videos": "4379"
-  },
-  {
-   "title": "Criative Ideias",
-   "id": "UCQPaK9rLuiTKc_68L1IpHLA",
-   "created": "2024-06-01",
-   "subs": "297000",
-   "videos": "2697"
-  },
-  {
-   "title": "Vibran Tutoriais",
-   "id": "UCAW7MLAGccG6Yz1toOLXyIA",
-   "created": "2011-05-30",
-   "subs": "9440",
-   "videos": "240"
-  },
-  {
-   "title": "Carriel Produções",
-   "id": "UC-ip5HKslGEJPa1U3U6NbQQ",
-   "created": "2012-01-01",
-   "subs": "2830",
-   "videos": "303"
-  },
-  {
-   "title": "Wonder Wise",
-   "id": "UCqdoRgVMMQyBh_ETyyUCXEQ",
-   "created": "2025-11-22",
-   "subs": "440",
-   "videos": "261"
-  },
-  {
-   "title": "That SUBARU Guy",
-   "id": "UCWS1R4G_cAjA7MV_sDcl_ag",
-   "created": "2022-01-23",
-   "subs": "73900",
-   "videos": "846"
-  },
-  {
-   "title": "Canal 2 Tempos",
-   "id": "UCGdAaWh1UbBFSoD-vztgYBA",
-   "created": "2020-09-07",
-   "subs": "23600",
-   "videos": "910"
-  },
-  {
-   "title": "Joilton torneiro",
-   "id": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "created": "2019-10-13",
-   "subs": "160000",
-   "videos": "1395"
-  },
-  {
-   "title": "bruno cb",
-   "id": "UCadXj6yNFlbJ0V-Kd0EoatQ",
-   "created": "2020-06-01",
-   "subs": "643000",
-   "videos": "575"
-  },
-  {
-   "title": "Encanamentos na Prática",
-   "id": "UCdLgsftq4RGvwF2fL8PYXTA",
-   "created": "2021-03-16",
-   "subs": "3790",
-   "videos": "145"
-  },
-  {
-   "title": "SRN Retífica ",
-   "id": "UC9NOhwRCYcF9QQldnG4BsIw",
-   "created": "2016-08-21",
-   "subs": "4020",
-   "videos": "410"
-  },
-  {
-   "title": "Gambiarras e Soluções ",
-   "id": "UCiNxFnhgRLtJ6-slwWVDJqQ",
-   "created": "2024-05-13",
-   "subs": "542000",
-   "videos": "2791"
-  },
-  {
-   "title": "Júnior ferreira ",
-   "id": "UCncO3HtRRvsHvpV3Eeen56g",
-   "created": "2020-05-05",
-   "subs": "26400",
-   "videos": "333"
-  },
-  {
-   "title": "Astemac Usinagem - José Antônio ",
-   "id": "UC9NGWDkqXfhRixj0ngpa6lA",
-   "created": "2025-09-03",
-   "subs": "115",
-   "videos": "10"
-  },
-  {
-   "title": "Top10 curso",
-   "id": "UCu0KdF_BnXCnvJlv7-cYEfA",
-   "created": "2019-12-12",
-   "subs": "119000",
-   "videos": "5099"
-  },
-  {
-   "title": "HEAVY KINETICS",
-   "id": "UCkHxvZYFEowBuxpOLSqZYlw",
-   "created": "2026-07-06",
-   "subs": "29",
-   "videos": "37"
-  },
-  {
-   "title": "Daily hacks 360",
-   "id": "UChbowfozU--Fipm2RywoT5A",
-   "created": "2024-01-30",
-   "subs": "27900",
-   "videos": "119"
-  },
-  {
-   "title": "Sanderson Feliciano",
-   "id": "UC4m1nzP7eKw4sFSXhnJtpKQ",
-   "created": "2015-02-25",
-   "subs": "4100",
-   "videos": "534"
-  },
-  {
-   "title": "Vinicinn_torneiro",
-   "id": "UC4O_F_Xt1Z2ZKV3v9icmhCA",
-   "created": "2016-07-17",
-   "subs": "129000",
-   "videos": "1503"
-  },
-  {
-   "title": "Cunha & Filho manutenções",
-   "id": "UCUpPxB3QO1m9kau-CrKM_sg",
-   "created": "2022-04-27",
-   "subs": "94800",
-   "videos": "763"
-  },
-  {
-   "title": "Canal do Azeitona (Dicas e Experiências)",
-   "id": "UCEiTSzzEqehfw8tbAlaf1lQ",
-   "created": "2011-10-06",
-   "subs": "12300",
-   "videos": "416"
-  },
-  {
-   "title": "MANIFACO",
-   "id": "UCdbUdwrSzWbofkJKEu7TiEA",
-   "created": "2014-11-26",
-   "subs": "1740000",
-   "videos": "8138"
-  },
-  {
-   "title": "GMF",
-   "id": "UC7oz7SHjyySTjerDR6HebUg",
-   "created": "2021-07-18",
-   "subs": "181000",
-   "videos": "888"
-  },
-  {
-   "title": "AutoDIY Express",
-   "id": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "created": "2023-12-07",
-   "subs": "15300",
-   "videos": "187"
-  },
-  {
-   "title": "Ideia que Funciona",
-   "id": "UCq-OCkK9DTOhtLs4owZd5XQ",
-   "created": "2024-06-05",
-   "subs": "438000",
-   "videos": "2594"
-  },
-  {
-   "title": "Mundo da Curiosidade ",
-   "id": "UCSRBHf6-EDcXK9K63YmkUGA",
-   "created": "2023-12-18",
-   "subs": "235000",
-   "videos": "781"
-  },
-  {
-   "title": "Criando em 3 minutos",
-   "id": "UCRTusoA-0dhJdpWFdHt7wkg",
-   "created": "2022-12-31",
-   "subs": "14500",
-   "videos": "391"
-  },
-  {
-   "title": "Emerson torneiro ",
-   "id": "UCVSFA1z4w1Mlhp8_N5RBYFQ",
-   "created": "2025-04-25",
-   "subs": "1090",
-   "videos": "55"
-  },
-  {
-   "title": "Dave's Auto Center",
-   "id": "UCRMiFgN0EEIPrhJP58kRMyw",
-   "created": "2015-04-24",
-   "subs": "1680000",
-   "videos": "1154"
-  },
-  {
-   "title": "Europa Ferramentas",
-   "id": "UCl7GXEAAg4ETi2aPIDoBHng",
-   "created": "2016-07-07",
-   "subs": "2500",
-   "videos": "22"
-  },
-  {
-   "title": "Maker Garage 101",
-   "id": "UCgwysjiRiGjaueWY5GJABcQ",
-   "created": "2012-08-22",
-   "subs": "2790",
-   "videos": "467"
-  },
-  {
-   "title": "KNR channel13",
-   "id": "UCWo4QprZYR0t8hpRLPTpyug",
-   "created": "2015-05-31",
-   "subs": "24900",
-   "videos": "2087"
-  },
-  {
-   "title": "Canal do Cabeçoteiro",
-   "id": "UCC39wTy8q-ADpFdZjo3IV3A",
-   "created": "2020-06-06",
-   "subs": "1040000",
-   "videos": "5280"
-  },
-  {
-   "title": " Ponto Duas Rodas ",
-   "id": "UC14yZTBHnL5ORDwqCMb2hwg",
-   "created": "2016-04-30",
-   "subs": "44100",
-   "videos": "1790"
-  },
-  {
-   "title": "Classic Cars Mechanic",
-   "id": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "created": "2013-11-21",
-   "subs": "214000",
-   "videos": "515"
-  },
-  {
-   "title": "Escola de Nerd",
-   "id": "UC39TPbWI3g__bXUg--gX1qA",
-   "created": "2016-06-15",
-   "subs": "153",
-   "videos": "11"
-  },
-  {
-   "title": "Pox Serralheria Tutoriais",
-   "id": "UCqXbjA9arOBXgoucrvG9fCQ",
-   "created": "2013-07-07",
-   "subs": "579000",
-   "videos": "1099"
-  },
-  {
-   "title": "TO Motos",
-   "id": "UCVIZGRRU8HmUaP2Vj3pqxWA",
-   "created": "2013-03-12",
-   "subs": "3720",
-   "videos": "461"
-  },
-  {
-   "title": "Aprendendo Fatos",
-   "id": "UCELLXcSJSnmu525tWmqhyPQ",
-   "created": "2012-12-25",
-   "subs": "338000",
-   "videos": "1587"
-  },
-  {
-   "title": "TechLuck",
-   "id": "UCB_FBd6m15njo6X0q5fPfiA",
-   "created": "2025-06-10",
-   "subs": "152000",
-   "videos": "1012"
-  },
-  {
-   "title": "Gleidson Motos ",
-   "id": "UCsOCtUWqTYzuiswS3ONHQYw",
-   "created": "2010-07-23",
-   "subs": "237",
-   "videos": "150"
-  },
-  {
-   "title": "Casal Gambiarra11",
-   "id": "UCKxX3kdF7uEyjIUBhxSajYg",
-   "created": "2022-12-26",
-   "subs": "235000",
-   "videos": "2037"
-  },
-  {
-   "title": "HGTV [생활의 발견]",
-   "id": "UCq88DcgGj7J9JmEF1H1bEtQ",
-   "created": "2024-04-07",
-   "subs": "26500",
-   "videos": "449"
-  },
-  {
-   "title": "Yudi Cekodt Short",
-   "id": "UC9OEGeFON0MN4d3-wZ23ADw",
-   "created": "2014-10-06",
-   "subs": "395000",
-   "videos": "3533"
-  },
-  {
-   "title": "獵影山谷",
-   "id": "UCuOm-OqqgI6QAmTnn7Ehc8w",
-   "created": "2025-06-01",
-   "subs": "2600",
-   "videos": "3935"
-  },
-  {
-   "title": "GHOSTFACE WORKSHOP",
-   "id": "UCZn_lgUk9cCB6n0uB6zlqGQ",
-   "created": "2018-06-16",
-   "subs": "26300",
-   "videos": "666"
-  },
-  {
-   "title": "Clank Theory",
-   "id": "UCml9SY7-OPZcFw6tO1X3eLw",
-   "created": "2026-10-15",
-   "subs": "53",
-   "videos": "59"
-  },
-  {
-   "title": "BARA BUDAYA",
-   "id": "UC-_HcA0kHIvUMpU3Ca61ZmA",
-   "created": "2015-05-06",
-   "subs": "13800",
-   "videos": "6552"
-  },
-  {
-   "title": "MUNNA LEATH ",
-   "id": "UCx1bQM-zKsuElZIMEOD1DTA",
-   "created": "2023-01-23",
-   "subs": "38",
-   "videos": "18"
-  },
-  {
-   "title": "Garage15",
-   "id": "UCvX23gr4XXKiOrjAlhNkneg",
-   "created": "2026-06-03",
-   "subs": "348",
-   "videos": "149"
-  },
-  {
-   "title": "Imperial Sky",
-   "id": "UC1gGi2YnL7_QWhEtxez2M7Q",
-   "created": "2019-02-03",
-   "subs": "16500",
-   "videos": "5596"
-  },
-  {
-   "title": "Monis Turner Mechanical.🛠️",
-   "id": "UCxFPht5kmKwm04c425ifVGw",
-   "created": "2023-10-11",
-   "subs": "1790",
-   "videos": "893"
-  },
-  {
-   "title": "Fixora",
-   "id": "UCnmsK4n___Fj9p2K4cu0Mng",
-   "created": "2025-12-08",
-   "subs": "1",
+   "title": "Mr UNO",
+   "id": "UCgxxGE69Nx7hsaJP09tN50Q",
+   "created": "2025-02-25",
+   "subs": "36",
    "videos": "14"
   },
   {
-   "title": "POV Man",
-   "id": "UCWciG0daLD0mMhgMO7s3i_A",
-   "created": "2025-10-20",
-   "subs": "1890",
-   "videos": "697"
+   "title": "Kha Bercerita",
+   "id": "UCEdvepDHmJIBhee10-UldfQ",
+   "created": "2024-09-27",
+   "subs": "8120",
+   "videos": "63"
   },
   {
-   "title": "LNG Films ",
-   "id": "UCCqMBj0nfA7TKv-8gqs92gA",
-   "created": "2021-09-27",
-   "subs": "508",
-   "videos": "284"
+   "title": "Hyper Machine",
+   "id": "UC4Xd_YQEKFG1KRnLx0xmNYw",
+   "created": "2026-06-30",
+   "subs": "8610",
+   "videos": "421"
   },
   {
-   "title": "Body Equilibrium",
-   "id": "UCcpKz8tvKwqaXJplnJ2Ts4w",
-   "created": "2023-12-31",
-   "subs": "99",
-   "videos": "865"
+   "title": "HSIM",
+   "id": "UCTwCgYBLFydoGwzDebnHY2A",
+   "created": "2025-11-15",
+   "subs": "4890",
+   "videos": "73"
   },
   {
-   "title": "Doktech HD",
-   "id": "UConp5I3L0_FrgsOF5OQ145w",
-   "created": "2018-03-02",
-   "subs": "1570000",
-   "videos": "249"
+   "title": "2biji",
+   "id": "UCne418K9soZ2dAd-k6mR4fg",
+   "created": "2021-01-28",
+   "subs": "126000",
+   "videos": "115"
   },
   {
-   "title": "AMAZING WORK TOOLS",
-   "id": "UCGCj3cdnIlZPpr1SycmuBSw",
-   "created": "2016-06-13",
-   "subs": "4260",
-   "videos": "477"
+   "title": "ALTERNATIVA",
+   "id": "UCtpxoEjlPY5td6nNLnKpaAQ",
+   "created": "2020-04-05",
+   "subs": "162000",
+   "videos": "1194"
   },
   {
-   "title": "天气微凉淡淡月光",
-   "id": "UCPP2wdaQxDGGC73YUGd6ibA",
-   "created": "2022-12-08",
-   "subs": "19500",
-   "videos": "884"
+   "title": "삘쏘굿",
+   "id": "UCzA0iU47inu-qt3T5HpaO2A",
+   "created": "2026-05-18",
+   "subs": "8440",
+   "videos": "68"
   },
   {
-   "title": "Mas Kliwon",
-   "id": "UC920cFglBUzqa8Vx_dxW9yA",
-   "created": "2024-03-27",
-   "subs": "11300",
-   "videos": "2573"
+   "title": "Drain Loops",
+   "id": "UCAYMnRVur8UDJgggtklblSQ",
+   "created": "2024-11-24",
+   "subs": "89500",
+   "videos": "209"
   },
   {
-   "title": "The Tech Solution ",
-   "id": "UCz4v6SS6BcQFThhg4uPw8ng",
-   "created": "2025-10-29",
-   "subs": "287",
-   "videos": "141"
+   "title": "Great work day",
+   "id": "UCr4XX2Uc0xDl3ON_SiBXhWw",
+   "created": "2019-12-03",
+   "subs": "1450",
+   "videos": "424"
   },
   {
-   "title": "Swift Mechanic DIY",
-   "id": "UC6WePDo7OUfvgzFdBrXj5RA",
-   "created": "2026-05-24",
-   "subs": "1920",
-   "videos": "214"
+   "title": "StrainWorks",
+   "id": "UC-qzw6Y3-M5xrmPH9U7jHhA",
+   "created": "2026-01-09",
+   "subs": "2750",
+   "videos": "185"
   },
   {
-   "title": "Success Master",
-   "id": "UCCBtIk-vCx7ERtGL0rR4znQ",
-   "created": "2022-07-21",
-   "subs": "947",
-   "videos": "225"
+   "title": "HerpTime",
+   "id": "UC0dXZzPukzT0zQLR-uLw-9g",
+   "created": "2012-05-18",
+   "subs": "140000",
+   "videos": "175"
+  },
+  {
+   "title": "Stern Facts",
+   "id": "UC4yR5QD64G0oYGvd4iV5OqA",
+   "created": "2024-06-21",
+   "subs": "65100",
+   "videos": "2867"
+  },
+  {
+   "title": "optezx",
+   "id": "UC73cZo1a9qxHZAD5cRP7fiA",
+   "created": "2019-09-27",
+   "subs": "92400",
+   "videos": "390"
+  },
+  {
+   "title": "Short Vizuals",
+   "id": "UC9a8tHO8nybFSZZjU-mLx1g",
+   "created": "2014-12-29",
+   "subs": "3140",
+   "videos": "48"
+  },
+  {
+   "title": "By Alan S",
+   "id": "UCSmg4PgB6jwumu0T7TwaKmg",
+   "created": "2023-12-21",
+   "subs": "3510000",
+   "videos": "524"
+  },
+  {
+   "title": "SnackClip",
+   "id": "UCIAYz2kvrwetuQu7pjMYiVw",
+   "created": "2021-10-13",
+   "subs": "114000",
+   "videos": "538"
+  },
+  {
+   "title": "Ever Evolving Exotics",
+   "id": "UCWrlUoch6LT9o6dvrlhGjlQ",
+   "created": "2013-10-13",
+   "subs": "58300",
+   "videos": "1008"
+  },
+  {
+   "title": "奇想科普",
+   "id": "UCb_qb-ql07JmS0yz3ou-Z5Q",
+   "created": "2023-05-14",
+   "subs": "90600",
+   "videos": "3322"
+  },
+  {
+   "title": "AsikInFO",
+   "id": "UCX5AcpMmBAIJStvkeF0Mvtg",
+   "created": "2021-07-30",
+   "subs": "264000",
+   "videos": "1183"
+  },
+  {
+   "title": "Mechamon Steel",
+   "id": "UCP_eAACq-JS0IMJ6wbDa23Q",
+   "created": "2024-02-18",
+   "subs": "15000",
+   "videos": "304"
+  },
+  {
+   "title": "Heavy Machinery Zone",
+   "id": "UCGWSpujHKbnJVtDPUhFiiLQ",
+   "created": "2026-05-10",
+   "subs": "5720",
+   "videos": "548"
+  },
+  {
+   "title": "RR Buildings",
+   "id": "UCWXEQsK3UiHszjwgGN5HUeQ",
+   "created": "2012-01-26",
+   "subs": "1860000",
+   "videos": "1101"
+  },
+  {
+   "title": "SIGOCENG",
+   "id": "UCrJnvdZOG6yCUK0gx37jjoQ",
+   "created": "2025-02-01",
+   "subs": "15200",
+   "videos": "909"
+  },
+  {
+   "title": "Dirty Diggers",
+   "id": "UCehu8XZ6e1cgD4ERBk_5fTA",
+   "created": "2014-05-04",
+   "subs": "3160",
+   "videos": "250"
+  },
+  {
+   "title": "RBChannel ",
+   "id": "UCzRBgpam9-mKdi3Wu_DfgJw",
+   "created": "2026-04-10",
+   "subs": "2070",
+   "videos": "123"
+  },
+  {
+   "title": "Tehnics",
+   "id": "UC-IIxDYpAfCuvOiyUqSRp8Q",
+   "created": "2018-08-12",
+   "subs": "225000",
+   "videos": "711"
+  },
+  {
+   "title": "SHORT CREATOR ",
+   "id": "UCV5tybQ2SZBm3jVsBSAqybg",
+   "created": "2025-12-05",
+   "subs": "73000",
+   "videos": "590"
+  },
+  {
+   "title": "GHOSTFACE COUNTRY",
+   "id": "UCCFkGmtZym2SbDZWSsxPlYQ",
+   "created": "2006-11-07",
+   "subs": "26800",
+   "videos": "647"
+  },
+  {
+   "title": "世界の物語",
+   "id": "UCAjdlo8OzgUOvZoRjgBdZUg",
+   "created": "2023-11-29",
+   "subs": "297000",
+   "videos": "808"
+  },
+  {
+   "title": "Евгений Колодцев Карелия",
+   "id": "UCPk9WFCDTZM7Jknym767KYg",
+   "created": "2015-05-19",
+   "subs": "249000",
+   "videos": "949"
+  },
+  {
+   "title": "알유 시사?",
+   "id": "UC5OcZoIg3FTsQ-k-gjDmlbQ",
+   "created": "2026-02-03",
+   "subs": "37700",
+   "videos": "743"
+  },
+  {
+   "title": "Adam Hall #DozerKing",
+   "id": "UCYSOXaNdx65pnjGMBhvvwcw",
+   "created": "2014-06-23",
+   "subs": "5130",
+   "videos": "3248"
+  },
+  {
+   "title": "FROM ADAM LALA",
+   "id": "UC5Nv3A4VSxlQun0fa4Wh7-A",
+   "created": "2022-10-23",
+   "subs": "6560",
+   "videos": "61"
+  },
+  {
+   "title": "Indrcx",
+   "id": "UCLSH8pavO_wdFTnWcNIdQGA",
+   "created": "2025-12-13",
+   "subs": "14900",
+   "videos": "641"
+  },
+  {
+   "title": "Machine Hercules",
+   "id": "UCOVjgIy2gq7mvccw9WK7UTA",
+   "created": "2026-07-17",
+   "subs": "12900",
+   "videos": "393"
+  },
+  {
+   "title": "Enséñame de Ciencia",
+   "id": "UCiG6oUxDqbMmWy0khpISX-w",
+   "created": "2023-06-07",
+   "subs": "34600",
+   "videos": "2006"
+  },
+  {
+   "title": "KELUARGA UPING IPING",
+   "id": "UC4aKRKCFIPzZPNxngeeVZvA",
+   "created": "2022-11-22",
+   "subs": "18400",
+   "videos": "7451"
+  },
+  {
+   "title": "북마크",
+   "id": "UCHtVkZJyMMM0lds7L6-CcVg",
+   "created": "2021-03-23",
+   "subs": "130000",
+   "videos": "595"
+  },
+  {
+   "title": "Shahbazaliturk ",
+   "id": "UCRujKylMyb0o9f8DbkCOSUw",
+   "created": "2021-03-01",
+   "subs": "71600",
+   "videos": "843"
+  },
+  {
+   "title": "Sir Dinoo",
+   "id": "UCzV6Mb8xyR-hUV5aYZsBi_Q",
+   "created": "2018-07-10",
+   "subs": "1660000",
+   "videos": "1756"
+  },
+  {
+   "title": "Excavator Works",
+   "id": "UCrHvslSoP5cdHgKWD-KEc0Q",
+   "created": "2026-01-03",
+   "subs": "36",
+   "videos": "38"
+  },
+  {
+   "title": "FRENCH DRAIN MAN",
+   "id": "UCs09Xm81fnqfuilUKJvKyPw",
+   "created": "2017-03-07",
+   "subs": "157000",
+   "videos": "3305"
+  },
+  {
+   "title": "Yan Setianur",
+   "id": "UCMjWdB3j0nvBMT4XyH319qw",
+   "created": "2014-12-03",
+   "subs": "1420",
+   "videos": "54"
+  },
+  {
+   "title": "Shorts Zone 1M",
+   "id": "UCZNL8dL3Zijrec4oMUzGoyg",
+   "created": "2021-02-02",
+   "subs": "38400",
+   "videos": "715"
+  },
+  {
+   "title": "Ridwan Sayyid",
+   "id": "UCBEf_eP-PghttgO3ucBs2Ww",
+   "created": "2023-09-29",
+   "subs": "30500",
+   "videos": "531"
+  },
+  {
+   "title": "Apbus Gallery",
+   "id": "UC0xSKWEh_rXyUArnxY4fKPA",
+   "created": "2017-08-11",
+   "subs": "24200",
+   "videos": "972"
+  },
+  {
+   "title": "Mighty Diggers & Trucks for Kids",
+   "id": "UCeOdV2l_5MbE3qIabCi5Wog",
+   "created": "2022-08-24",
+   "subs": "916",
+   "videos": "743"
+  },
+  {
+   "title": "Drainiac",
+   "id": "UCH0BA6tVe1DX1YO15S02-Kw",
+   "created": "2025-09-21",
+   "subs": "193",
+   "videos": "62"
+  },
+  {
+   "title": "Chris the Handyman",
+   "id": "UCF8BSPsQWehjqxkDzEkVRIg",
+   "created": "2025-11-22",
+   "subs": "6340",
+   "videos": "318"
+  },
+  {
+   "title": "CMP Attachments",
+   "id": "UCtdjk9SvQ4QKgBJRa7Yu9KA",
+   "created": "2011-12-31",
+   "subs": "3500",
+   "videos": "280"
+  },
+  {
+   "title": "Dig Shorts",
+   "id": "UCc-M72BEnqZ8mNZp90UuuMA",
+   "created": "2025-06-24",
+   "subs": "133",
+   "videos": "224"
+  },
+  {
+   "title": "ФОП Омеляненко- JCB-UA",
+   "id": "UCj054K7d09KQwCdDXJAdubg",
+   "created": "2024-05-03",
+   "subs": "1340",
+   "videos": "1168"
+  },
+  {
+   "title": "Eyuel",
+   "id": "UCsmhs66onzJG4RDnh5-pJoQ",
+   "created": "2024-07-26",
+   "subs": "32100",
+   "videos": "263"
+  },
+  {
+   "title": "hands.on.hardware",
+   "id": "UCtbjfBtR_w6rLfKAy7UXQOQ",
+   "created": "2026-07-08",
+   "subs": "3020",
+   "videos": "278"
+  },
+  {
+   "title": "필름넘버1",
+   "id": "UCq8-8UrfdCIk12iHw9Lry7Q",
+   "created": "2026-07-07",
+   "subs": "37500",
+   "videos": "567"
+  },
+  {
+   "title": "Bionic Life",
+   "id": "UCPSiIRbkJGKSp4ESBFcZrPg",
+   "created": "2021-06-03",
+   "subs": "1450",
+   "videos": "322"
+  },
+  {
+   "title": "MNTechCrafts",
+   "id": "UCCUGNDUJcn7guo3KYDiAtpg",
+   "created": "2025-09-09",
+   "subs": "81700",
+   "videos": "2910"
+  },
+  {
+   "title": "vermonterman",
+   "id": "UCsXLygh_hX8Z78m5HUeBMHQ",
+   "created": "2006-12-14",
+   "subs": "12",
+   "videos": "37"
+  },
+  {
+   "title": "Martin The Worker",
+   "id": "UC4wMFgm9TID1AE_KD7w4pdQ",
+   "created": "2009-03-07",
+   "subs": "34000",
+   "videos": "1150"
+  },
+  {
+   "title": "SnapShot : Amazing Moments, Explained",
+   "id": "UCveR2WTRLK9ddHqi5kzRCbA",
+   "created": "2026-10-24",
+   "subs": "23",
+   "videos": "50"
+  },
+  {
+   "title": "Abstract Property Maintenance",
+   "id": "UCG6mgFZBJPuVc4U8VJNal2g",
+   "created": "2025-08-16",
+   "subs": "780",
+   "videos": "109"
+  },
+  {
+   "title": "Edu Sphere",
+   "id": "UCxF_nVXuZTYPz4nl9BA5y6w",
+   "created": "2020-04-04",
+   "subs": "3180",
+   "videos": "115"
+  },
+  {
+   "title": "Lilac",
+   "id": "UCliXRzeCgDWoiT5xLsZ9c5w",
+   "created": "2023-12-02",
+   "subs": "8",
+   "videos": "8"
+  },
+  {
+   "title": "Set Apart Farm & Gardens Homestead",
+   "id": "UCFL4_vM3rOXTAX_t3ii5XUQ",
+   "created": "2020-06-01",
+   "subs": "5150",
+   "videos": "309"
+  },
+  {
+   "title": "Midwest Excavator",
+   "id": "UCX67H_ahLSZ3vmMBzCI5T2A",
+   "created": "2012-12-25",
+   "subs": "84",
+   "videos": "24"
+  },
+  {
+   "title": "ミニまなび",
+   "id": "UCw0L03eCuB12BSt_FCWUbFQ",
+   "created": "2025-05-11",
+   "subs": "88700",
+   "videos": "483"
+  },
+  {
+   "title": "FuFu Squishy",
+   "id": "UCtgNbEk4vWJoH0GMghF3tPQ",
+   "created": "2023-12-30",
+   "subs": "12000000",
+   "videos": "4892"
+  },
+  {
+   "title": "VENIKA TV",
+   "id": "UCre8uBKzrXISmzp0pxClPLA",
+   "created": "2020-02-25",
+   "subs": "217",
+   "videos": "67"
+  },
+  {
+   "title": "Payal  Chouhan",
+   "id": "UCYvUxQxhE298ZbrsdSiGRBA",
+   "created": "2023-09-09",
+   "subs": "2650",
+   "videos": "1328"
+  },
+  {
+   "title": "Adda247 Telugu",
+   "id": "UCqqDD-1K6WTjS16Y8pdY1_Q",
+   "created": "2015-11-25",
+   "subs": "1220000",
+   "videos": "28718"
+  },
+  {
+   "title": "Science Snack",
+   "id": "UCNMajAUibk4D1HF1uiAcTsA",
+   "created": "2010-07-03",
+   "subs": "36500",
+   "videos": "1121"
+  },
+  {
+   "title": "최지우",
+   "id": "UCze6Dh3DghIBkWsHk5yC1Iw",
+   "created": "2026-03-19",
+   "subs": "2910",
+   "videos": "189"
   }
  ],
  "search_hits": [
   {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "cDHawpgov9E",
-   "ch": "Canal do Cabeçoteiro",
-   "cid": "UCC39wTy8q-ADpFdZjo3IV3A",
-   "date": "2025-09-24",
-   "title": "Rosca espanada na vela",
-   "views": 5992725,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "9YUR8W_-sMI",
-   "ch": "Mundo da Curiosidade ",
-   "cid": "UCSRBHf6-EDcXK9K63YmkUGA",
-   "date": "2026-02-24",
-   "title": "Como recuperar rosca espanada do motor sem trocar a peça.",
-   "views": 4471020,
-   "desc": "Créditos: @umamfaqihul\nComo recuperar rosca espanada do motor sem trocar a peça. #mecanica #manutenção #dicademecanico #reparoautomotivo"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "JTegfVS4WDw",
-   "ch": "Vibran Tutoriais",
-   "cid": "UCAW7MLAGccG6Yz1toOLXyIA",
-   "date": "2024-02-25",
-   "title": "Trocando bucha do Registro do chuveiro fácil e correto. #ban",
-   "views": 1529858,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "Z13YEPngrsI",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-05-21",
-   "title": "Veja Como Restaurar Rosca Espanada O passo A passo. #usinage",
-   "views": 431401,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "4182bdup6tU",
-   "ch": "Aprendendo Fatos",
-   "cid": "UCELLXcSJSnmu525tWmqhyPQ",
-   "date": "2025-08-15",
-   "title": "Se o problema é ROSCA ESPANADA aqui está a SOLUÇÃO 👏👏",
-   "views": 488694,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "UHUkwNhjoM4",
-   "ch": "bruno cb",
-   "cid": "UCadXj6yNFlbJ0V-Kd0EoatQ",
-   "date": "2024-02-17",
-   "title": "Rosca espanada ❌ #short #youtubeshorts #moto #mecanica #moto",
-   "views": 219530,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "pH-6EUPtfk8",
-   "ch": "Ideia que Funciona",
-   "cid": "UCq-OCkK9DTOhtLs4owZd5XQ",
-   "date": "2025-03-31",
-   "title": "Como consertar sua torneira pingando #dicas #torneira #reels",
-   "views": 349701,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "mWBkCl2enpI",
-   "ch": "Matheus Rezende Usinagem",
-   "cid": "UCwvNYGzmxBkHA4EBOUxjJeg",
-   "date": "2023-05-04",
-   "title": "Como Recuperar Rosca: Aprenda Passo a Passo!",
-   "views": 138179,
-   "desc": "Neste vídeo, você aprenderá passo a passo como recuperar rosca. Quando chegou uma peça com a rosca toda danificada, tive que repassar para uma rosca menor recuperando as 2 roscas da peça. Aprenda como fazer isso de forma simples e eficaz. Aprenda como recuperar rosca e faça você mesmo!!\n\nClique no l"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "ZAzLAuT0I-Q",
-   "ch": "Neco Serviços automotivos",
-   "cid": "UCs8ntd1KW59Q5RztKgS9-XQ",
-   "date": "2023-07-01",
-   "title": "Recuperação de rosca espanada.",
-   "views": 199326,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "it4Q9MUMoBM",
-   "ch": "Criando em 3 minutos",
-   "cid": "UCRTusoA-0dhJdpWFdHt7wkg",
-   "date": "2024-12-19",
-   "title": "O segredo para usar veda-rosca ! 😉 #VedaRosca #Segredo #Dica",
-   "views": 182418,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "eKZBOc8Lk5k",
-   "ch": "Gleidson Motos ",
-   "cid": "UCsOCtUWqTYzuiswS3ONHQYw",
-   "date": "2023-10-08",
-   "title": "rosca do bujão do óleo recuperada",
-   "views": 240873,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "tprSz-o1MIE",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-28",
-   "title": "Olha como fiz essa rosca muito rápido. #usinagem #metalúrgic",
-   "views": 113337,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "-WTX3BTB69E",
-   "ch": "Gambiarras e Soluções ",
-   "cid": "UCiNxFnhgRLtJ6-slwWVDJqQ",
-   "date": "2024-09-08",
-   "title": "Vazamento de torneira !!! Resolva sem veda rosca #encanador ",
-   "views": 143614,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "2yI6Qw6zTEI",
-   "ch": "Casal Gambiarra11",
-   "cid": "UCKxX3kdF7uEyjIUBhxSajYg",
-   "date": "2023-12-14",
-   "title": "Aprenda a maneira correta de passar veda rosca #dicas #torne",
-   "views": 165577,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "NFj9pfzG3cI",
-   "ch": "Top10 curso",
-   "cid": "UCu0KdF_BnXCnvJlv7-cYEfA",
-   "date": "2023-08-16",
-   "title": "Como eliminar pinga pinga da torneira pingando vazando conse",
-   "views": 136456,
-   "desc": "Vedante De Torneira Reparo Registro Carrapeta\nInscreva-se no CANAL Deixe seu LIKE Compartilhe o VÍDEO Obrigado por ASSISTIR \nhttps://www.youtube.com/c/ESCOTECV%C3%8DDEOAULA\nGrupo do facebook: \nhttps://www.facebook.com/groups/2750280925237313\nInstagram:\n@eugenio_escotec\n\nO nosso objetivo e que você a"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "4i5zJbZabRg",
-   "ch": " Ponto Duas Rodas ",
-   "cid": "UC14yZTBHnL5ORDwqCMb2hwg",
-   "date": "2023-08-06",
-   "title": "Rosca espanada no motor da Moto",
-   "views": 107106,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "YhZb_zWXX6U",
-   "ch": "SRN Retífica ",
-   "cid": "UC9NOhwRCYcF9QQldnG4BsIw",
-   "date": "2023-09-21",
-   "title": "Colocando Bucha na Rosca do Bujão Carter do Motor",
-   "views": 106144,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "6pMM7l9xAX0",
-   "ch": "Gambiarras e Soluções ",
-   "cid": "UCiNxFnhgRLtJ6-slwWVDJqQ",
-   "date": "2024-11-21",
-   "title": "Como consertar torneira quebrada sem quebrar parede #encanad",
-   "views": 81068,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "Ouiyzj7Y5_c",
-   "ch": "Criative Ideias",
-   "cid": "UCQPaK9rLuiTKc_68L1IpHLA",
-   "date": "2025-04-09",
-   "title": "Quebrou a torneira, um jeito fácil de resolver essa situação",
-   "views": 108585,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "iXC9Oz9cPAc",
-   "ch": "Cunha & Filho manutenções",
-   "cid": "UCUpPxB3QO1m9kau-CrKM_sg",
-   "date": "2025-08-04",
-   "title": "Vazamento no joelho da torneira da cozinha e olha no que deu",
-   "views": 89350,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "VaSkbu0HQeQ",
-   "ch": "MANIFACO",
-   "cid": "UCdbUdwrSzWbofkJKEu7TiEA",
-   "date": "2024-11-21",
-   "title": "Como consertar torneira vazando em 1 minuto!",
-   "views": 54620,
-   "desc": "Redes sociais oficiais:\n- Instagram: https://www.instagram.com/manifaco/?hl=pt-br\n- Facebook: https://www.facebook.com/manifaco\n- Tiktok: https://www.tiktok.com/@manifaco\n- Manifaco Testou: https://www.youtube.com/c/MANIFACO20\n- Kwai: https://www.kwai.com/@cutelariamanif\n\n- Seja um apoiador: https:/"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "yBrl0oV9uqY",
-   "ch": "Dicas de Casa",
-   "cid": "UCPiFpCiUL2y9-sWWfI-mvqg",
-   "date": "2025-07-05",
-   "title": "Dona de depósito ensina encanador consertar torneira vazando",
-   "views": 87139,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "Sulv23Mx6jw",
-   "ch": "Sanderson Feliciano",
-   "cid": "UC4m1nzP7eKw4sFSXhnJtpKQ",
-   "date": "2023-03-21",
-   "title": "Rosca do cano funda , como consertar by Sanderson",
-   "views": 42994,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "GxSPYb_INw8",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-18",
-   "title": "Forma certa de embuchamento de rosca. #usinagem #metalúrgica",
-   "views": 31323,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "MfnZ2-nrPJ8",
-   "ch": "TO Motos",
-   "cid": "UCVIZGRRU8HmUaP2Vj3pqxWA",
-   "date": "2025-04-21",
-   "title": "Como Recuperar a Rosca do ViraBrequim de Forma Profissional",
-   "views": 53395,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "jOvaIkpqipA",
-   "ch": "Encanamentos na Prática",
-   "cid": "UCdLgsftq4RGvwF2fL8PYXTA",
-   "date": "2025-01-11",
-   "title": "Torneira Espanada?Veja Como Resolver Rápido! #dica #ReparosD",
-   "views": 33252,
-   "desc": "Está lidando com uma torneira espanada? Não se preocupe! Neste vídeo rápido, mostramos uma solução prática e eficiente para resolver esse problema em minutos. Ideal para quem busca um reparo fácil e sem complicações. Assista agora e dê adeus à torneira solta!"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "VTzs67g_hE8",
-   "ch": "Moabe Torneiro (MSM)",
-   "cid": "UChGMPvNf7uQwU8ejmYJOThg",
-   "date": "2023-07-02",
-   "title": "Embuchamento da rosca do bloco do Corsa gm #bike #meme #car ",
-   "views": 32284,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "c3bLNV6aBuY",
-   "ch": "Pox Serralheria Tutoriais",
-   "cid": "UCqXbjA9arOBXgoucrvG9fCQ",
-   "date": "2024-01-23",
-   "title": "Como recuperar bujão de moto com rosca espanada",
-   "views": 23071,
-   "desc": "* Para acessar o(s) link(s) do(s) produto(s) mencionado(s) no vídeo \nclique em: 🔎 https://linktr.ee/Produtos_mencionados ou no final da descrição.\n\nNossos Parceiros:\n.............................................................\n🔎 Boxer Soldas\n✔ https://utapy.link/boxersoldas\n........................"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "2u3K3L5Grp4",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-20",
-   "title": "VEJA COMO FIZ PARA RECUPERAR UMA ROSCA NO TRATOR. #solda #us",
-   "views": 15930,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "GFcgghh3yAU",
-   "ch": "Canal do Azeitona (Dicas e Experiências)",
-   "cid": "UCEiTSzzEqehfw8tbAlaf1lQ",
-   "date": "2025-08-26",
-   "title": "Torneira do chuveiro espanou, o que fazer? #chuveiro #banhei",
-   "views": 24059,
-   "desc": "Torneira do chuveiro espanada.\nChuveiro não abre.\nTorneira do chuveiro não gira .\nTorneira do banheiro não abre."
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "9gg9bnE26AI",
-   "ch": "Carriel Produções",
-   "cid": "UC-ip5HKslGEJPa1U3U6NbQQ",
-   "date": "2023-12-18",
-   "title": "Dica Rápida para consertar uma Torneira Espanada #shorts",
-   "views": 19962,
-   "desc": "Assista ao vídeo e deixe o seu comentário, o seu like e compartilhe essa dica para todos os seus amigos e familiares. E não se esqueça de se inscrever em nosso canal para receber mais dicas e vídeos diversos. Obrigado por assistir e até a próxima!\nDeus te abençoe!\n.\n.\n.\n.\n#carrielproduções #torneira"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "DGEIO3YoWiE",
-   "ch": "Moabe Torneiro (MSM)",
-   "cid": "UChGMPvNf7uQwU8ejmYJOThg",
-   "date": "2024-06-07",
-   "title": "Rosca do pedivela Shimano recuperada, lado esquerdo #jesus #",
-   "views": 11154,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "OJErxwSS-rE",
-   "ch": "Júnior ferreira ",
-   "cid": "UCncO3HtRRvsHvpV3Eeen56g",
-   "date": "2025-09-06",
-   "title": "Como recuperar rosca espanada #dica #mecanico #carro",
-   "views": 13481,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "yJArbslrI8A",
-   "ch": "Joilton torneiro",
-   "cid": "UCL7-_D4XBrZBL-_lx-c8MMg",
-   "date": "2023-08-04",
-   "title": "FORMA CERTA DE FAZER EMBUCHAMENTO DE ROSCA. #solda #usinagem",
-   "views": 7195,
-   "desc": "Ganhe uma renda extra de sua PRÓPRIA CASA  DOLAR. \nComesse hoje mesmo e melhore a vida de sua FAMILIA. \nVer no link abaixo.\n.\nhttps://app.monetizze.com.br/r/AKH21963849/?u=GF55972\n\nRESTAURANDO UM  SEMI EIXO. #solda #usinagem #metalúrgica #torneiro #torno #tornomecanico #mecanica \n\nPessoal esse canal"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "U8vF8umJ4Ts",
-   "ch": "Scila Alex Dicas",
-   "cid": "UCwbm-xSlSmzpHOSRKa1drUw",
-   "date": "2025-10-13",
-   "title": "TORNEIRA ESPANADA, VAZANDO? #torneira #torneiravazando #troc",
-   "views": 8810,
-   "desc": "a minha torneira quebrou e eu precisei trocar o reparo, veja como está é fácil. Caso sua torneira esteja pingando trocar o reparo ou a borrachinha poderá ajudar"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "1ByQ9D43UPQ",
-   "ch": "Escola de Nerd",
-   "cid": "UC39TPbWI3g__bXUg--gX1qA",
-   "date": "2023-03-13",
-   "title": "ROSCA DA BENGALA ESPANADA TORNADO250/TWISTER250 #twister250 ",
-   "views": 7167,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "uFQDeMfEQDE",
-   "ch": "Europa Ferramentas",
-   "cid": "UCl7GXEAAg4ETi2aPIDoBHng",
-   "date": "2025-05-08",
-   "title": "NOVO!! Kit Reparo de roscas da Vela - Conserte Rosca Espanad",
-   "views": 9371,
-   "desc": "Este é um kit de roscas postiças com macho de rosqueamento, indicado para recuperar as roscas da velas, que espanam ao longo do tempo e conforme o mecânico remove e instala novamente é comum que as roscas apresentem problema. Utilizando este kit você consegue recuperar as roscas sem a necessidade de"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "gLY8xkdSwL8",
-   "ch": "Astemac Usinagem - José Antônio ",
-   "cid": "UC9NGWDkqXfhRixj0ngpa6lA",
-   "date": "2025-09-08",
-   "title": "Recuperar rosca M14 X 1,5 , caixa de direção . #torneiromeca",
-   "views": 2681,
-   "desc": ""
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "jnJEA1DP65M",
-   "ch": "Emerson torneiro ",
-   "cid": "UCVSFA1z4w1Mlhp8_N5RBYFQ",
-   "date": "2026-05-10",
-   "title": "Recuperando rosca espanada em molde de garrafa PET",
-   "views": 1246,
-   "desc": "Hoje vamos recuperar a rosca de um molde de garrafa PET que está espanada. Refaremos a rosca e criaremos uma nova bucha no torno.\n\nObrigado por assistir esse vídeo. Lembre de deixar o like e se inscrever no canal para continuar me acompanhando!\nQualquer dúvida, podem deixar nos comentários e eu resp"
-  },
-  {
-   "q": "recuperar rosca espanada torneiro",
-   "vid": "ytxd0vZa3tA",
-   "ch": "Canal 2 Tempos",
-   "cid": "UCGdAaWh1UbBFSoD-vztgYBA",
-   "date": "2024-12-18",
-   "title": "Como recuperar rosca espanada de qualquer máquina, moto ou c",
-   "views": 809,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "3qPXszCdUUI",
-   "ch": "GMF",
-   "cid": "UC7oz7SHjyySTjerDR6HebUg",
-   "date": "2024-09-22",
-   "title": "Thread Repair like Pro $180",
-   "views": 4702772,
-   "desc": "How to repair stripped threads\nThread repair techniques\nHeli-coil installation tutorial\nThread repair with tap and dye\nUsing thread inserts for repairs\nLoctite thread repair guide\nHow to use a thread repair kit\nRe-tapping threaded holes\nMetal thread repair solutions\nDIY thread repair methods"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "XWN-B17Qbzo",
-   "ch": "opelservice kyiv",
-   "cid": "UCJgRRMcnoGLLZnh8oXY2Ijg",
-   "date": "2023-03-21",
-   "title": "Repair of a stripped thread on an aluminum cylinder block #s",
-   "views": 2234747,
-   "desc": "Repair of a stripped thread on an aluminum cylinder block block\n\n#shorts #tools #carrepair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "j0HHj0xgQtg",
-   "ch": "Dave's Auto Center",
-   "cid": "UCRMiFgN0EEIPrhJP58kRMyw",
-   "date": "2023-12-11",
-   "title": "The best way to repair damaged threads - why we use Time Ser",
-   "views": 2426604,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "1F5QtbgN9JI",
-   "ch": "Classic Cars Mechanic",
-   "cid": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "date": "2023-07-16",
-   "title": "how to repair stripped threads? #classic #old #vintage #best",
-   "views": 323085,
-   "desc": "Dear friends, a simple and very useful method to solve the problem of failure of cylinder block threads and other parts. \n\n#amazing #american #art #attitude #auto #automobile #block #benz #benefits #car #cylinder #cadillac #chevrolet #chrysler #chevy #camaro #cool #diy #diesel #dodge #dailyvlog #eng"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "AphgNqK8LCI",
-   "ch": "Daily hacks 360",
-   "cid": "UChbowfozU--Fipm2RywoT5A",
-   "date": "2026-01-03",
-   "title": "ইঞ্জিনের নষ্ট হয়ে যাওয়া প্যাঁচ মেরামতের নিখুঁত পদ্ধতি | Engi",
-   "views": 161144,
-   "desc": "This video demonstrates the incredible engineering process of repairing damaged or stripped threads inside an engine block. The journey begins by filling the damaged hole with molten metal to create a solid foundation. Once hardened, a precise drilling technique is used to carve out brand-new thread"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "g4jqQKi5lXs",
-   "ch": "Maker Garage 101",
-   "cid": "UCgwysjiRiGjaueWY5GJABcQ",
-   "date": "2025-08-22",
-   "title": "SHOP PROVEN | DIY Fix Threads in Seconds with a Helicoil",
-   "views": 173276,
-   "desc": "Stripped bolt hole? No problem. DIY Fix Threads in Seconds with a Helicoil\nIn this quick #MG101Fasteners short, Sparky shows you how to rescue damaged internal threads using a helicoil insert — drill, tap, install, snap the tang, done! Perfect for aluminum, castings, and other soft metals that need "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "cTsFc-vMSBQ",
-   "ch": "Classic Cars Mechanic",
-   "cid": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "date": "2023-06-13",
-   "title": "How to repair stripped aluminum threads ? #howto #shorts #am",
-   "views": 71419,
-   "desc": "In this video, I repair the\nStripped threads of the\naluminum part of the\nRochester carburetor, which\nis used in most of the eight-\ncylinder engines of General\nMotors, with the lowest cost\nand the need for special\ntools.\n\n#vintage #classic #old #type #engine #transmission #body #all #part #car #cars "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "iUXEC8erWBM",
-   "ch": "Yudi Cekodt Short",
-   "cid": "UC9OEGeFON0MN4d3-wZ23ADw",
-   "date": "2026-10-15",
-   "title": "Repair a Completely Stripped Bolt Hole #MechanicTips #Thread",
-   "views": 85915,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "uaZ5eYunIhc",
-   "ch": "TechLuck",
-   "cid": "UCB_FBd6m15njo6X0q5fPfiA",
-   "date": "2026-07-02",
-   "title": "How to Repair Stripped Threads Perfectly Using Solid Thread ",
-   "views": 58938,
-   "desc": "🎥 *Title:*\nHow to Repair Stripped Threads Perfectly Using Solid Thread Inserts\n\n🛠️ *Tools Name:*\n - Power Drill\n - Twist Drill Bit (for enlarging the hole)\n - Thread Tap & Tap Handle/Adapter (for cutting new external threads)\n - Thread Insert Installation Tool\n - Angle Grinder (with sanding/grinding"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "cPU1GQUUX2w",
-   "ch": "HGTV [생활의 발견]",
-   "cid": "UCq88DcgGj7J9JmEF1H1bEtQ",
-   "date": "2026-11-09",
-   "title": "나사구멍 복구기술 #기계정비 #금속가공 #정비꿀팁",
-   "views": 53774,
-   "desc": "🔧 망가진 나사 구멍을 새것처럼 완벽하게 살려내는 미친 정비 기술!\n나사산이 뭉개져서 버려야 하는 기계 부품에 액체 금속을 채운 뒤, \n드릴과 탭으로 완벽하게 재생해 내는 속이 뻥 뚫리는 금속 가공 과정입니다.\n영상이 유익하고 신기하셨다면 구독과 좋아요 부탁드립니다!\n\n\n#기계정비 #나사산복구 #금속가공 #엔진수리 #정비꿀팁 #공구활용 #기술자 #수공예 #신기한공정 #DIY정비"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "39CJVyFH9uI",
-   "ch": "AutoDIY Express",
-   "cid": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "date": "2026-10-14",
-   "title": "Genius Thread Repair Insert Hack for Stripped Bolts! 🚗⚙️",
-   "views": 37545,
-   "desc": "Genius Thread Repair Insert Hack for Stripped Bolts! 🚗⚙️\n\nStruggling with a stripped, oversized, or damaged threaded hole in a heavy engine component like a flywheel, cylinder head, or engine block? Watch this genius brass thread insert repair hack to restore factory holding power in seconds!\nOver-t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "TVYzA4TyME8",
-   "ch": "Wonder Wise",
-   "cid": "UCqdoRgVMMQyBh_ETyyUCXEQ",
-   "date": "2026-08-06",
-   "title": "Precision Restoration of Worn Bolt Holes with Molten Metal #",
-   "views": 35888,
-   "desc": "1. Work Overview\nThe video demonstrates a specialized industrial maintenance procedure used to repair and restore heavily worn or stripped threaded bolt holes in heavy machinery components using a molten metal pour followed by precision drilling and tapping.\n\n2. Materials and Equipment Used\n- High-t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "nHuYWVx1aWA",
-   "ch": "That SUBARU Guy",
-   "cid": "UCWS1R4G_cAjA7MV_sDcl_ag",
-   "date": "2023-02-18",
-   "title": "Stripped plastic tread repair",
-   "views": 21432,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "injIx2v0brs",
-   "ch": "HEAVY KINETICS",
-   "cid": "UCkHxvZYFEowBuxpOLSqZYlw",
+   "q": "excavator clay like butter",
+   "vid": "PScFqJfFUn4",
+   "ch": "Hyper Machine",
+   "cid": "UC4Xd_YQEKFG1KRnLx0xmNYw",
    "date": "2026-08-15",
-   "title": "Most Satisfying Metal Thread Repair Ever! 2 🔩✨ #shorts",
-   "views": 30149,
-   "desc": "Don't throw away metal parts with stripped threads! Pouring molten metal, flush sanding, and retapping creates a brand new thread. Would you trust this repair? Let us know in the comments! 👇\n\n#shorts #metalworking #machining #diy #restoration #satisfying #lifehacks #tools #repair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "kcL8mff5oE0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-15",
-   "title": "How to Repair Damaged Thread Holes#shorts #mechanic #satisfy",
-   "views": 30316,
-   "desc": "How to Repair Damaged Thread Holes\n\nFirst, pour molten metal into the damaged threaded hole and let it solidify completely. Once hardened, drill precisely through the center of the metal fill. Finally, re-tap the hole to create new threads so the bolt fits securely again.#shorts #satisfying #repairs"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "e8Kib7Jfg-k",
-   "ch": "HEAVY KINETICS",
-   "cid": "UCkHxvZYFEowBuxpOLSqZYlw",
-   "date": "2026-08-12",
-   "title": "Most Satisfying Metal Thread Repair Ever! 🔩✨ #shorts",
-   "views": 28642,
-   "desc": "Don't throw away metal parts with stripped threads! Pouring molten metal, flush sanding, and retapping creates a brand new thread. Would you trust this repair? Let us know in the comments! 👇\n\n#shorts #metalworking #machining #diy #restoration #satisfying #lifehacks #tools #repair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "BgrY-Wop2VU",
-   "ch": "DIY Auto Doctor",
-   "cid": "UCR5vBugFsOmye9NyCagTvpw",
-   "date": "2026-06-06",
-   "title": "How To Easily Fix Stripped Threads With Metal",
-   "views": 40529,
-   "desc": "Don't throw away that stripped part just yet! Watch this satisfying and genius way to repair damaged bolt threads using molten metal. We filled the hole, leveled it flat, and re-drilled it back to perfection. Perfect DIY hack for machinists and automotive enthusiasts! What do you think of this techn"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "OeVEyHbjRiY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-25",
-   "title": "How to Repair Damaged Screw Thread Hole#shorts #satisfying #",
-   "views": 26674,
-   "desc": "How to Repair Damaged Screw Thread Hole\n\nThe process begins by pouring molten metal to fill the damaged hole. Once solidified, grind the surface smooth and flat. Next, drill a new hole precisely in the center. Finally, use a thread tap tool to create fresh internal threads, making it usable again.#s"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "iQEjB1bOdDs",
-   "ch": "Vinicinn_torneiro",
-   "cid": "UC4O_F_Xt1Z2ZKV3v9icmhCA",
-   "date": "2026-09-10",
-   "title": "Thread restored with melted tin! 🔥#Machining #Lathe #Metalwo",
-   "views": 25256,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "_PD8uN-fB1A",
-   "ch": "獵影山谷",
-   "cid": "UCuOm-OqqgI6QAmTnn7Ehc8w",
-   "date": "2026-09-08",
-   "title": "絕了！金屬液直接灌絲錐，硬核修復報廢螺紋孔 #金属液，攻丝，修孔，硬核工艺，手工",
-   "views": 23413,
-   "desc": "絕了！金屬液直接灌絲錐，硬核修復報廢螺紋孔\r\n液态攻丝 金属液直接灌丝锥，硬核攻丝过程\r\nPouring liquid metal into a tap to fix threads. Insane craftsmanship\r\n\r\n\r\n\r\n\r\n金属液，攻丝，修孔，硬核工艺，手工\r\nliquid metal, tapping, thread repair, welding, diy, craftsmanship\r\n野人,猎人,山谷,警察,冒险,生存,荒野求生,动作,惊悚,绑架,反击,复仇,搏斗,追捕,陷阱,救援,冲突,人与自然,野外生存,原始部落,逃亡,埋伏,遭遇战,警匪,对峙,困境,反转,悬"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "zCjUYelyzB0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-08",
-   "title": "How to Repair Damaged Screw Threads Properly#shorts #satisfy",
-   "views": 14311,
-   "desc": "How to Repair Damaged Screw Threads Properly\n\nhow to repair a damaged threaded hole using molten metal. First, pour liquid metal into the stripped hole and let it cool down. Next, hammer the surface flat and grind it smooth. Drill a new center hole, sand it, and use a tap tool to create precise thre"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "6EUp41Liv18",
-   "ch": "POV Man",
-   "cid": "UCWciG0daLD0mMhgMO7s3i_A",
-   "date": "2026-09-25",
-   "title": "Smart Mechanical Fix: Pouring Molten Metal &amp; Drilling Ne",
-   "views": 15732,
-   "desc": "Title\nSmart Mechanical Fix: Pouring Molten Metal & Drilling New Threads 🛠️🔥\n\nDescription:\n​Watch this satisfying restoration and repair process! Molten metal is poured into a damaged hole, drilled out with precision, and custom-threaded to secure a new bolt perfectly. A brilliant technique for metal"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "pFu1ZxaeTm4",
-   "ch": "Clank Theory",
-   "cid": "UCml9SY7-OPZcFw6tO1X3eLw",
-   "date": "2026-10-25",
-   "title": "Fixing a stripped bolt hole with molten metal 😱 #satisfying ",
-   "views": 10112,
-   "desc": "A stripped bolt hole is filled with molten metal. Once it hardens, it is drilled out, a new thread is cut, and a bolt screws in like new.\n\n## 1. Overview\nA damaged threaded hole in a metal part is repaired by filling it, drilling it out again and cutting a fresh thread.\n\n## 2. Materials & Equipment\n"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "YGdwe5FoBcY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-10",
-   "title": "How to Repair Damaged Thread Holes with Liquid Metal#shorts ",
-   "views": 8168,
-   "desc": "How to Repair Damaged Thread Holes with Liquid Metal\n\nPour molten metal into the damaged hole, then flatten the surface with a hammer after cooling. Next, drill a new pilot hole, tap accurate threads into the solidified metal, and thread in a new bolt until securely fitted, restored, and completely "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "X7p-7My8Oks",
-   "ch": "Swift Mechanic DIY",
-   "cid": "UC6WePDo7OUfvgzFdBrXj5RA",
-   "date": "2026-09-09",
-   "title": "Easy DIY Repair for Stripped Mirror Mount Threads 🔧",
-   "views": 7677,
-   "desc": "Learn how to repair a stripped motorcycle mirror mount thread quickly and easily! This step-by-step DIY guide shows you how to fix damaged threads so your mirror stays securely mounted.\n\n​Steps Included:\n\n​Pouring molten metal/filler into the damaged mount.\n​Drilling a clean pilot hole.\n​Smoothing t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "B4NPCLwacws",
-   "ch": "AMAZING WORK TOOLS",
-   "cid": "UCGCj3cdnIlZPpr1SycmuBSw",
-   "date": "2026-09-02",
-   "title": "Watch how this clever trick fixes stripped screw threads in ",
-   "views": 6539,
-   "desc": "This video showcases an ingenious metal-repair technique used when a threaded hole in a heavy casting becomes stripped or damaged. Instead of completely welding or throwing away the expensive part, the mechanic fills the stripped hole with molten metal. Once the poured metal cools and solidifies, a "
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "4-QNFIJfELI",
-   "ch": "Garage15",
-   "cid": "UCvX23gr4XXKiOrjAlhNkneg",
-   "date": "2026-10-11",
-   "title": "How to Fix a Stripped Thread Like a Pro!  #automobile #autom",
-   "views": 4109,
-   "desc": "​Watch this brilliant engineering and metalworking restoration technique! In this video, liquid metal is poured into a stripped and damaged threaded hole. Once cooled and solidified, the area is hammered, ground flat, precisely center-punched, drilled, and re-tapped to create brand new, heavy-duty t"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "oZZCt-ARfn4",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-05-26",
-   "title": "Smart Solution Repairing Damaged Bolt Holes with Molten Meta",
-   "views": 2898,
-   "desc": "Deskripsi: Got a stripped or damaged bolt hole? Don't scrap it yet! This quick tutorial demonstrates a precise machining technique to restore a bolt hole. Watch the step-by-step process from pouring molten metal, grinding it flush, re-drilling, to tapping new threads. The result is strong, clean, an"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "K2UpsyjJj0g",
-   "ch": "Imperial Sky",
-   "cid": "UC1gGi2YnL7_QWhEtxez2M7Q",
-   "date": "2026-08-30",
-   "title": "How Heated Copper Wire Coils Repair Stripped Screw Holes in ",
-   "views": 3315,
-   "desc": "How do you repair a stripped screw hole in plastic housing when the threads are completely worn out and won't bite? 🔩🔥\n​In this video, discover the simple thermal repair hack behind custom copper wire thread inserts! Watch how wrapping bare copper wire around a screw creates a coiled spring shape. B"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "61tb8lwIwVM",
-   "ch": "The Tech Solution ",
-   "cid": "UCz4v6SS6BcQFThhg4uPw8ng",
-   "date": "2026-10-30",
-   "title": "How to Repair Damaged Screw Holes With Molten Metal | Worksh",
-   "views": 1954,
-   "desc": "Discover an incredible workshop trick for restoring damaged, stripped screw holes using molten metal! In this quick demonstration, watch how liquid metal is cast directly into the worn hole, cooled, hammered, and precision-ground smooth. From there, a pilot hole is drilled and retapped to create bra"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "2eB5cJaQ1N0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-09",
-   "title": "How to Repair Stripped Threaded Holes#shorts #repairs #mecha",
-   "views": 1927,
-   "desc": "How to Repair Stripped Threaded Holes\n\nFirst, insert a bolt into the worn-out hole to test the fit. Next, pour molten metal into the hole until it overflows. Hammer and grind the surface smooth, center-punch the middle, drill a fresh pilot hole, and tap new threads to securely refit the bolt.#shorts"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "hlC9N3IBtmw",
-   "ch": "HEAVY KINETICS",
-   "cid": "UCkHxvZYFEowBuxpOLSqZYlw",
-   "date": "2026-08-16",
-   "title": "Most Satisfying Metal Thread Repair Ever! 3 🔩✨ #shorts",
-   "views": 855,
-   "desc": "Don't throw away metal parts with stripped threads! Pouring molten metal, flush sanding, and retapping creates a brand new thread. Would you trust this repair? Let us know in the comments! 👇\n\n#shorts #metalworking #machining #diy #restoration #satisfying #lifehacks #tools #repair"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "v2rfWIgmxco",
-   "ch": "天气微凉淡淡月光",
-   "cid": "UCPP2wdaQxDGGC73YUGd6ibA",
-   "date": "2026-09-08",
-   "title": "修螺纹孔全过程揭秘，金属液灌注到丝锥攻丝，手艺真是绝了！#工业#手工",
-   "views": 568,
-   "desc": ""
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "RSEGlJQQeN4",
-   "ch": "BARA BUDAYA",
-   "cid": "UC-_HcA0kHIvUMpU3Ca61ZmA",
-   "date": "2026-10-22",
-   "title": "Stripped Thread Fix: How Thread Inserts Repair Broken Screw ",
-   "views": 464,
-   "desc": "In an era increasingly dominated by throwing away damaged parts and purchasing expensive replacement machinery, there is a mesmerizing display of mechanical ingenuity when a vibrant red liquid threadlocker and a threaded metal insert restore a completely stripped bolt hole back to factory-strength p"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "g1CzrWmLfC0",
-   "ch": "MUNNA LEATH ",
-   "cid": "UCx1bQM-zKsuElZIMEOD1DTA",
-   "date": "2026-10-01",
-   "title": "Damaged Bolt Thread Repairing With Hot Molten Metal 🛠️ | Gun",
-   "views": 48,
-   "desc": "Welcome back to the channel! In this video, we are fixing a completely stripped and damaged internal bolt thread by pouring hot molten metal into the hole to recreate a brand-new thread.\n\nIf you love mechanical engineering, metal casting, lathe work, and satisfying restoration projects, make sure to"
-  },
-  {
-   "q": "stripped thread molten metal repair",
-   "vid": "eo5INL9AZxw",
-   "ch": "Fixora",
-   "cid": "UCnmsK4n___Fj9p2K4cu0Mng",
-   "date": "2026-09-28",
-   "title": "How to Repair a Damaged Threaded Hole - Genius Metal Hack 🔩🛠",
-   "views": 23,
-   "desc": "Watch this incredible metal repair hack to see how a completely damaged threaded hole is restored to perfection! In this short video, the process begins by pouring molten metal to completely fill the stripped hole. Once cooled, the excess metal is scraped off to create a perfectly smooth, flush surf"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "iUXEC8erWBM",
-   "ch": "Yudi Cekodt Short",
-   "cid": "UC9OEGeFON0MN4d3-wZ23ADw",
-   "date": "2026-10-15",
-   "title": "Repair a Completely Stripped Bolt Hole #MechanicTips #Thread",
-   "views": 85915,
-   "desc": ""
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "FWbNu59SdAs",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-08",
-   "title": "Easy Trick to Remove a Broken Bolt#shorts #repairs #satisfyi",
-   "views": 41207,
-   "desc": "Easy Trick to Remove a Broken Bolt\n\nPlace a threading die over the broken stud. Pour molten metal into the die cavity to cast a new head around the broken tip. Once solidified, attach the die stock wrench and turn counterclockwise to smoothly extract the broken bolt from the threaded hole.#shorts #s"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "TVYzA4TyME8",
-   "ch": "Wonder Wise",
-   "cid": "UCqdoRgVMMQyBh_ETyyUCXEQ",
-   "date": "2026-08-06",
-   "title": "Precision Restoration of Worn Bolt Holes with Molten Metal #",
-   "views": 35888,
-   "desc": "1. Work Overview\nThe video demonstrates a specialized industrial maintenance procedure used to repair and restore heavily worn or stripped threaded bolt holes in heavy machinery components using a molten metal pour followed by precision drilling and tapping.\n\n2. Materials and Equipment Used\n- High-t"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "8PAzpNv4wO8",
-   "ch": "GHOSTFACE WORKSHOP",
-   "cid": "UCZn_lgUk9cCB6n0uB6zlqGQ",
-   "date": "2026-05-25",
-   "title": "MOLTEN METAL BEATS A BOLT",
-   "views": 36567,
-   "desc": "He's pouring molten metal straight into a threaded engine port, then tapping the cooled plug flat as a field repair or a very aggressive way to delete a hole. Search terms and topics covered: molten metal engine repair, pouring metal into threaded port, threaded engine port plug repair, improvised m"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "OeVEyHbjRiY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-25",
-   "title": "How to Repair Damaged Screw Thread Hole#shorts #satisfying #",
-   "views": 26674,
-   "desc": "How to Repair Damaged Screw Thread Hole\n\nThe process begins by pouring molten metal to fill the damaged hole. Once solidified, grind the surface smooth and flat. Next, drill a new hole precisely in the center. Finally, use a thread tap tool to create fresh internal threads, making it usable again.#s"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "6EUp41Liv18",
-   "ch": "POV Man",
-   "cid": "UCWciG0daLD0mMhgMO7s3i_A",
-   "date": "2026-09-25",
-   "title": "Smart Mechanical Fix: Pouring Molten Metal &amp; Drilling Ne",
-   "views": 15732,
-   "desc": "Title\nSmart Mechanical Fix: Pouring Molten Metal & Drilling New Threads 🛠️🔥\n\nDescription:\n​Watch this satisfying restoration and repair process! Molten metal is poured into a damaged hole, drilled out with precision, and custom-threaded to secure a new bolt perfectly. A brilliant technique for metal"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "sUzt8957P4U",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-10-07",
-   "title": "Genius Trick to Extract a Broken Bolt with Liquid Metal#shor",
-   "views": 7802,
-   "desc": "Description:\nThis video demonstrates a creative and effective workshop hack for removing a broken bolt stuck in a threaded hole. By placing a socket wrench head over the broken stud and pouring liquid metal inside, the metal solidifies and fuses the bolt to the socket. After cooling down and applyin"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "z3bEhFhXmcU",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-07-06",
-   "title": "Genius Hack Repairing a Damaged Bolt Hole with Molten Metal#",
-   "views": 7033,
-   "desc": "Learn how to effectively repair stripped or damaged bolt holes using metal casting techniques. This step-by-step restoration is detailed and provides incredibly satisfying results. Perfect for automotive and engineering enthusiasts!\nmechanical engineering, DIY tutorial, cara membuat ulir baut, baut "
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "YGdwe5FoBcY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-10",
-   "title": "How to Repair Damaged Thread Holes with Liquid Metal#shorts ",
-   "views": 8168,
-   "desc": "How to Repair Damaged Thread Holes with Liquid Metal\n\nPour molten metal into the damaged hole, then flatten the surface with a hammer after cooling. Next, drill a new pilot hole, tap accurate threads into the solidified metal, and thread in a new bolt until securely fitted, restored, and completely "
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "oZZCt-ARfn4",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-05-26",
-   "title": "Smart Solution Repairing Damaged Bolt Holes with Molten Meta",
-   "views": 2898,
-   "desc": "Deskripsi: Got a stripped or damaged bolt hole? Don't scrap it yet! This quick tutorial demonstrates a precise machining technique to restore a bolt hole. Watch the step-by-step process from pouring molten metal, grinding it flush, re-drilling, to tapping new threads. The result is strong, clean, an"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "_7u4M8S5hHo",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-12",
-   "title": "Trick for Removing Broken Bolts Using Molten Metal#shorts #r",
-   "views": 3773,
-   "desc": "Trick for Removing Broken Bolts Using Molten Metal\n\nClean the corrosion inside the bolt hole using a wire brush. Position the socket wrench over the hole, pour in liquid metal, then apply lubricating oil. Insert the hex key into the center until the metal solidifies, then turn it to extract the brok"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "2eB5cJaQ1N0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-09",
-   "title": "How to Repair Stripped Threaded Holes#shorts #repairs #mecha",
-   "views": 1927,
-   "desc": "How to Repair Stripped Threaded Holes\n\nFirst, insert a bolt into the worn-out hole to test the fit. Next, pour molten metal into the hole until it overflows. Hammer and grind the surface smooth, center-punch the middle, drill a fresh pilot hole, and tap new threads to securely refit the bolt.#shorts"
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "v2rfWIgmxco",
-   "ch": "天气微凉淡淡月光",
-   "cid": "UCPP2wdaQxDGGC73YUGd6ibA",
-   "date": "2026-09-08",
-   "title": "修螺纹孔全过程揭秘，金属液灌注到丝锥攻丝，手艺真是绝了！#工业#手工",
-   "views": 568,
-   "desc": ""
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "5TJ2rAoqAPE",
-   "ch": "LNG Films ",
-   "cid": "UCCqMBj0nfA7TKv-8gqs92gA",
-   "date": "2025-10-17",
-   "title": "I POURED LIQUID METAL Into a Broken Bolt... And it worked! (",
-   "views": 186,
-   "desc": "Have you ever snapped a bolt head off deep inside a tool or a hole? Bolt extractors, vice grips, and heat can all fail, leaving you with an impossible repair.\n\nIn this short update, we use an amazing mechanic's trick involving a low-melting-point alloy (like a bismuth or tin-based fusible alloy) to "
-  },
-  {
-   "q": "pouring molten metal stripped bolt hole",
-   "vid": "g1CzrWmLfC0",
-   "ch": "MUNNA LEATH ",
-   "cid": "UCx1bQM-zKsuElZIMEOD1DTA",
-   "date": "2026-10-01",
-   "title": "Damaged Bolt Thread Repairing With Hot Molten Metal 🛠️ | Gun",
-   "views": 48,
-   "desc": "Welcome back to the channel! In this video, we are fixing a completely stripped and damaged internal bolt thread by pouring hot molten metal into the hole to recreate a brand-new thread.\n\nIf you love mechanical engineering, metal casting, lathe work, and satisfying restoration projects, make sure to"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "i-QUvgax3jE",
-   "ch": "Doktech HD",
-   "cid": "UConp5I3L0_FrgsOF5OQ145w",
-   "date": "2023-08-08",
-   "title": "How to thread a bolt hole- Satisfying jobs and machinery in ",
-   "views": 4201411,
-   "desc": "How to thread a bolt hole- Satisfying jobs and machinery in the world\n\nDon't forget to like this video and subscribe to this channel for support us.\nhttps://www.youtube.com/@doktech  \n\nRegards\nDoktech HD 🙏🏻\n\n===================================="
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "cTsFc-vMSBQ",
-   "ch": "Classic Cars Mechanic",
-   "cid": "UCYqWACuX71P3M-4BwEt5u4Q",
-   "date": "2023-06-13",
-   "title": "How to repair stripped aluminum threads ? #howto #shorts #am",
-   "views": 71419,
-   "desc": "In this video, I repair the\nStripped threads of the\naluminum part of the\nRochester carburetor, which\nis used in most of the eight-\ncylinder engines of General\nMotors, with the lowest cost\nand the need for special\ntools.\n\n#vintage #classic #old #type #engine #transmission #body #all #part #car #cars "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "HviHGeC8HXY",
-   "ch": "Body Equilibrium",
-   "cid": "UCcpKz8tvKwqaXJplnJ2Ts4w",
-   "date": "2024-10-18",
-   "title": "Genius Hack to Fix Stripped Screw Holes in Seconds!",
-   "views": 52185,
-   "desc": "Use this easy toothpick trick to fix stripped screws fast!"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "Its1O4BL1TA",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-05",
-   "title": "How to Repair Damaged Screw Threads Using Thread Insert#shor",
-   "views": 41783,
-   "desc": "How to Repair Damaged Screw Threads Using Thread Insert\n\nApply thread locker liquid inside the damaged bolt hole. Insert a threaded insert sleeve and press it firmly into place. Drill through the center to secure and form clean threads. Finally, grind the surface flat until perfectly smooth.#shorts "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "SvnqPN96cz8",
-   "ch": "AutoDIY Express",
-   "cid": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "date": "2026-10-16",
-   "title": "How to Drill, Tap, and Repair Engine Block Threads! 🚗⚙️",
-   "views": 39426,
-   "desc": "How to Drill, Tap, and Repair Engine Block Threads! 🚗⚙️\n\nStruggling with a completely stripped bolt hole or needing to cut new threads into an engine block or transmission housing? Watch this professional step-by-step tutorial on how to drill, tap, and install thread inserts like a master machinist!"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "qw7j30IC9NU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-10",
-   "title": "Easy Way to Fix a Stripped Bolt Thread#shorts #satisfying #m",
-   "views": 29784,
-   "desc": "Easy Way to Fix a Stripped Bolt Thread\n\nDrill out the damaged hole to clear the old threads. Next, create new threads with a tap. Then, insert the threaded insert by hand. Finally, push the insert in with a drill so that the hole once again has strong threads of the original size.#shorts #satisfying"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "isFvKdCWpAk",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-11",
-   "title": "Thread Repairing with Helicoil Insert#shorts #satisfying #re",
-   "views": 31390,
-   "desc": "Thread Repairing with Helicoil Insert\n\nFirst, drill out the damaged hole to clean the old threads. Tap new threads into the enlarged hole, then apply threadlocker fluid. Insert a metal helicoil coil to restore the original size, and press it firmly into position.#shorts #satisfying #repairs #restora"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "gJQzvbarxtI",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-05-09",
-   "title": "How to Fix a Loose Bolt Hole with an Insert#shorts #satisfyi",
-   "views": 29370,
-   "desc": "How to Fix a Loose Bolt Hole with an Insert\n\nFirst, drill out the damaged hole. Next, tap new threads into it. Apply strong red threadlocker to the threaded insert, then screw it firmly into the hole using a bolt and wrench. Finally, grind the surface flush. Your bolt hole is now completely restored"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "OeVEyHbjRiY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-25",
-   "title": "How to Repair Damaged Screw Thread Hole#shorts #satisfying #",
-   "views": 26674,
-   "desc": "How to Repair Damaged Screw Thread Hole\n\nThe process begins by pouring molten metal to fill the damaged hole. Once solidified, grind the surface smooth and flat. Next, drill a new hole precisely in the center. Finally, use a thread tap tool to create fresh internal threads, making it usable again.#s"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "XXGXJy211tU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-15",
-   "title": "How to Repair Damaged Spark Plug Threads#shorts #satisfying ",
-   "views": 22078,
-   "desc": "How to Repair Damaged Spark Plug Threads\n\nhow to repair stripped spark plug threads using a threaded insert repair tool. Thread the insert onto the installation tool, apply thread locker, screw it firmly into the cylinder head with a wrench, and unscrew the tool to leave a restored thread.#shorts #s"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "713oV26xi2E",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-04-04",
-   "title": "How to deal with Damaged Threads in bolt holes#shorts #satis",
-   "views": 19372,
-   "desc": "How to deal with Damaged Threads in bolt holes\n\nDo you want to get rid of the bugs? Don't worry, this video shows you how to deal with it. The process starts from drilling an old hole, then making a new thread using a tap, and installing a 'recoil' as a stronger replacement thread. Practical and eff"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "8IBiDsaJvWE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-11-09",
-   "title": "Fixing Stripped Thread Without Replacing Engine Blocks#short",
-   "views": 14986,
-   "desc": "Fixing Stripped Thread Without Replacing Engine Blocks\n\nEvery mechanic who has ever dealt with a broken bolt or stripped engine block thread definitely knows this pain. When bolt holes get completely stripped out, replacing the entire housing component is never budget-friendly. To make a permanent r"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "kg7dxD_uK74",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-08-05",
-   "title": "Repairing Damaged Spark Plug Threads#shorts #satisfying #mec",
-   "views": 14456,
-   "desc": "Repairing Damaged Spark Plug Thread\n\nThis clip demonstrates how to repair stripped spark plug threads. First, clean the area and fill it with a repair compound. Once hardened, drill the center and tap new threads. Finally, install a thread insert to restore original functionality and strength.#short"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "aUR7Ol4IPeY",
-   "ch": "Monis Turner Mechanical.🛠️",
-   "cid": "UCxFPht5kmKwm04c425ifVGw",
-   "date": "2026-04-27",
-   "title": "How to Fix Damaged Threads in Tight Spaces! 🔩🛠️ #MonisTurner",
-   "views": 10493,
-   "desc": "Working on a difficult spot! ⚙️ Watch how we drill, tap, and restore damaged threads to factory perfection using professional mechanical tools. Precision work in Saudi Arabia! 🛠️🇸🇦\n​Was this helpful? Rate the repair 1 to 10 in the comments! 👇\n​📍 Hafar Al Batin, Saudi Arabia 🇸🇦\n🛠️ Monis Turner Mechan"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "OxLyarvbdQw",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-01",
-   "title": "Repairing Damaged Bolt Threads#shorts #repairs #mechanic #sa",
-   "views": 12527,
-   "desc": "Repairing Damaged Bolt Threads\n\ndrill out the stripped bolt hole using a drill bit to clear old thread debris. Tap the enlarged hole to cut fresh threads. Apply red threadlocker fluid onto the solid brass insert. Finally, drive the insert tightly into the hole for a perfect repair.#shorts #satisfyin"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "69Dxh1ZmFBE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-26",
-   "title": "How to Repair Damaged Thread Holes#shorts #satisfying #repai",
-   "views": 12756,
-   "desc": "How to Repair Damaged Thread Holes\n\ndrill a precise hole over the damaged area to clean it up. Smooth the edges, then use a tap tool to create new threads. Apply threadlocker to a threaded insert, screw it in using a bolt, grind off the excess, and re-drill for perfection.#shorts #satisfying #repair"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "mV899-L5xPE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-23",
-   "title": "How to Fix Broken Threaded Holes Like a Pro#shorts #satisfyi",
-   "views": 10941,
-   "desc": "How to Fix Broken Threaded Holes Like a Pro\n\nPuzzled by a stripped or broken threaded hole that ruins your metal project? Do not panic! Simply melt and pour liquid metal into the damaged socket to fill it. Once cooled and solidified, use an angle grinder to flatten the surface smoothly. Next, drill "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "6EUp41Liv18",
-   "ch": "POV Man",
-   "cid": "UCWciG0daLD0mMhgMO7s3i_A",
-   "date": "2026-09-25",
-   "title": "Smart Mechanical Fix: Pouring Molten Metal &amp; Drilling Ne",
-   "views": 15732,
-   "desc": "Title\nSmart Mechanical Fix: Pouring Molten Metal & Drilling New Threads 🛠️🔥\n\nDescription:\n​Watch this satisfying restoration and repair process! Molten metal is poured into a damaged hole, drilled out with precision, and custom-threaded to secure a new bolt perfectly. A brilliant technique for metal"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "pFu1ZxaeTm4",
-   "ch": "Clank Theory",
-   "cid": "UCml9SY7-OPZcFw6tO1X3eLw",
-   "date": "2026-10-25",
-   "title": "Fixing a stripped bolt hole with molten metal 😱 #satisfying ",
-   "views": 10112,
-   "desc": "A stripped bolt hole is filled with molten metal. Once it hardens, it is drilled out, a new thread is cut, and a bolt screws in like new.\n\n## 1. Overview\nA damaged threaded hole in a metal part is repaired by filling it, drilling it out again and cutting a fresh thread.\n\n## 2. Materials & Equipment\n"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "YGdwe5FoBcY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-10",
-   "title": "How to Repair Damaged Thread Holes with Liquid Metal#shorts ",
-   "views": 8168,
-   "desc": "How to Repair Damaged Thread Holes with Liquid Metal\n\nPour molten metal into the damaged hole, then flatten the surface with a hammer after cooling. Next, drill a new pilot hole, tap accurate threads into the solidified metal, and thread in a new bolt until securely fitted, restored, and completely "
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "W2zqLbYMnpA",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-03-02",
-   "title": "Re-drilling process, creating new threads with a hand tap.#s",
-   "views": 11521,
-   "desc": "Re-drilling process, creating new threads with a hand tap.\n\nDescription:\nThis video provides a step-by-step technical guide for repairing damaged M6 threads using the recoil method. This technique is much stronger than simply enlarging the bolt size because it maintains the originality of your engin"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "np21VtkLNmI",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-31",
-   "title": "Easy way to repair a loose bolt thread hole#shorts #satisfyi",
-   "views": 7325,
-   "desc": "Easy way to repair a loose bolt thread hole\n\nHave stripped bolt holes ever frustrated you? Don't panic! Here is an easy thread hole restoration technique. The process starts by drilling the hole, cutting new threads using a tap, applying threadlocker, inserting a threaded bushing, and then smoothing"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "ApxUYjkkEZU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-03",
-   "title": "Repairing Stripped Engine Bolt Threads#shorts #satisfying #m",
-   "views": 6702,
-   "desc": "Repairing Stripped Engine Bolt Threads\n\nFirst, drill the damaged hole smoothly. Next, use a larger bit to prepare for tapping. Create new internal threads using a tap tool. Apply threadlocker to a threaded insert and screw it inside. Grind the surface completely flush, and finally, test the new thre"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "wyiPXMScYPM",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-14",
-   "title": "Easy Way to Fix a Stripped Bolt Thread#shorts #repairs #sati",
-   "views": 7707,
-   "desc": "Easy Way to Fix a Stripped Bolt Thread\n\ndrill out the damaged bolt hole to enlarge it. Create new internal threads using a tap tool. Apply threadlocker to the brass insert, then drive it in flush. Smooth the surface, and your bolt hole is good as new!#shorts #satisfying #repairs #restoration #mechan"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "oO2pSBG8-vE",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-12",
-   "title": "How to Repair Damaged Engine Threads#shorts #repairs #mechan",
-   "views": 6992,
-   "desc": "How to Repair Damaged Engine Threads\n\nhow to repair stripped bolt threads in an engine block. First, drill out the damaged hole and tap new internal threads using a specialized tap bit. Apply threadlocker adhesive to a brass insert, screw it firmly into place, and remove the installation tool cleanl"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "3Eh11IBMTrg",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-07-01",
-   "title": "How to Repair a Stripped Thread with a Thread Insert#shorts ",
-   "views": 5713,
-   "desc": "How to Repair a Stripped Thread with a Thread Insert\n\nFirst, drill out the damaged thread to create a clean hole. Next, use a tap to cut new threads inside the hole. Apply liquid adhesive to the thread insert, then screw it into place. Trim any excess material and smooth the surface. Finally, test t"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "prLAM1NIUzU",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-09-06",
-   "title": "Clever Hack for Repairing Stripped Motorcycle Mirror Threads",
-   "views": 4800,
-   "desc": "Description: Don't panic if your motorcycle mirror mount threads are stripped. This video provides a step-by-step tutorial on fixing it by creating a custom threaded insert from a brass bolt. Watch the satisfying process of drilling out the damaged hole, tapping new threads, securing the brass plug,"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "srioOCHAQDc",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
+   "title": "Liebherr 964 Is Cutting This Clay Pit Like Butter!",
+   "views": 27325,
+   "desc": "Yo this yellow Liebherr 964 is a savage! Look at that bucket scraping those trench walls so clean, then ripping out a HUGE chunk of solid clay like it's nothing. That machine is sitting deep in the pit and still reaching up and dumping that red truck with ease. Smooth operator, full bucket every tim"
+  },
+  {
+   "q": "excavator clay like butter",
+   "vid": "q3rLK04qqmU",
+   "ch": "Machine Hercules",
+   "cid": "UCOVjgIy2gq7mvccw9WK7UTA",
    "date": "2026-08-20",
-   "title": "Repairing Damaged Bolt Threads with Thread Inserts#shorts #s",
-   "views": 4799,
-   "desc": "Repairing Damaged Bolt Threads with Thread Inserts\n\nDrill out the damaged hole to enlarge its size. After that, create new threads using a tap bit. Apply threadlocker adhesive to the threaded insert, then firmly install the insert into the hole. Finally, remove the helper bolt and the sturdy new thr"
+   "title": "Absolute BEAST MODE! This giant LIEBHERR excavator rips thro",
+   "views": 15749,
+   "desc": "Absolute BEAST MODE! This giant LIEBHERR excavator rips through solid clay and rock like butter and loads the dump truck in one perfect, massive scoop. CAT working behind, LIEBHERR dominating in front. No wasted moves, just pure raw power and elite operator skills. How satisfying is this?\n\n#HeavyEqu"
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "Q7OxPF-HwdY",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-10-08",
-   "title": "How to Repair Stripped Oil Drain Plug Threads#shorts #repair",
-   "views": 5205,
-   "desc": "How to Repair Stripped Oil Drain Plug Threads\n\napply grease generously to the tap tool. Insert the tap into the oil drain hole and rotate carefully using a wrench to create new threads. Once finished, clean off any residue, then install the new drain plug and tighten it securely.#shorts #satisfying "
+   "q": "excavator clay like butter",
+   "vid": "5_njjZBqhw0",
+   "ch": "Heavy Machinery Zone",
+   "cid": "UCGWSpujHKbnJVtDPUhFiiLQ",
+   "date": "2026-07-04",
+   "title": "Loading Mud Like Butter! 🧈 #shorts #satisfying",
+   "views": 4507,
+   "desc": "Watch this massive Caterpillar excavator load red clay into a dump truck with perfect precision. Oddly satisfying heavy machinery action!\n\n#shorts #excavator #caterpillar #heavymachinery #heavyequipment #construction"
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "0U7-rX5bWrU",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-06-28",
-   "title": "How to Repair Stripped Engine Threads#shorts #satisfying #me",
-   "views": 3728,
-   "desc": "How to Repair Stripped Engine Threads\n\nhow to fix damaged engine threads efficiently. Start by drilling out the old, stripped threads to clear the hole. Next, tap the new threads carefully using a thread tap tool. Insert a high-quality thread repair insert, and finally, grind the surface smooth for "
+   "q": "excavator digging perfect clay",
+   "vid": "8yong0047HM",
+   "ch": "RR Buildings",
+   "cid": "UCWXEQsK3UiHszjwgGN5HUeQ",
+   "date": "2021-12-21",
+   "title": "BEST Way to Dig a Clean Hole #shorts",
+   "views": 25962912,
+   "desc": "The best way to dig a clean hole is as you auger, pull out as much material and move it to a pile away from the hole.  Any excess dirt should be pushed back in the hole and repeat!  This keeps the working area around you free of dirt you don’t want to track around the jobsite! \n\nPost frame building "
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "DITSMPECHgs",
-   "ch": "Success Master",
-   "cid": "UCCBtIk-vCx7ERtGL0rR4znQ",
-   "date": "2023-12-25",
-   "title": "Threads restoration || Mechanical skills #satisfying #shorts",
-   "views": 1615,
-   "desc": "Cylinder head core plug threads restoration #satisfying #shorts #youtubeshorts #best #skills\n\n\nHow do you restore a thread ?   \nUsing a Tap  Set:\n A tap is used to create new threads in a hole,   By carefully using the appropriate tap,    you can often restore the stripped threads.\n\nTravers Tool Res"
+   "q": "excavator digging perfect clay",
+   "vid": "qfPsDODR0oA",
+   "ch": "Hyper Machine",
+   "cid": "UC4Xd_YQEKFG1KRnLx0xmNYw",
+   "date": "2026-08-18",
+   "title": "CAT 365C Carving Perfect Walls In This Deep Brown Mud Pit!",
+   "views": 386673,
+   "desc": "That CAT 365C is putting in work! Look at that insane vertical wall with perfect bucket lines - that 365C is trenching straight down into thick heavy brown clay. Mud caked all over the stick, bucket heaped and dripping. Two 365Cs deep in the pit, digging non-stop, carving that pit like butter. That "
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "iovTyAwi-K8",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-11-08",
-   "title": "Fixing Stripped Threads Permanently#shorts #satisfying #repa",
-   "views": 3090,
-   "desc": "Fixing Stripped Threads Permanently\n\nEvery machinist who has dealt with a stripped bolt hole knows this frustration. Normal taps or bigger bolts never hold the heavy torque. To make a permanent fix, you can drill out the damaged hole, tap new threads, and lock a solid steel insert in place to save h"
+   "q": "excavator digging perfect clay",
+   "vid": "Q72Xdfp3wGo",
+   "ch": "SHORT CREATOR ",
+   "cid": "UCV5tybQ2SZBm3jVsBSAqybg",
+   "date": "2026-04-14",
+   "title": "Dangerous Mud Pit Excavation | Excavator Digging Wet Clay Fu",
+   "views": 407403,
+   "desc": "Dangerous Mud Pit Excavation | Excavator Digging Wet Clay Full Power 😱 #shorts #jcbexcavator\n\nWatch this powerful excavator working in a deep muddy pit, digging heavy wet clay with extreme effort. The machine struggles in thick mud, showing real operator skills and dangerous excavation conditions.\nI"
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "3P2NoJGsgjU",
-   "ch": "Mas Kliwon",
-   "cid": "UC920cFglBUzqa8Vx_dxW9yA",
-   "date": "2026-10-23",
-   "title": "How to Repair Damaged Threads with a Threaded Insert#shorts ",
-   "views": 3242,
-   "desc": "Description:\nA quick tutorial on an effective way to repair stripped or worn bolt holes in metal components. Using a threaded insert restores the thread's original strength and prevents further damage to the engine block. Highly useful for mechanical repairs and automotive restoration.  \n​Keywords:\n"
+   "q": "excavator digging perfect clay",
+   "vid": "qdsJBp_4lgk",
+   "ch": "Great work day",
+   "cid": "UCr4XX2Uc0xDl3ON_SiBXhWw",
+   "date": "2024-08-06",
+   "title": "Square hole excavator operator graduation exam",
+   "views": 92310,
+   "desc": ""
   },
   {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "dayCdTTcJPs",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
+   "q": "excavator digging perfect clay",
+   "vid": "1-WyLNXx0O8",
+   "ch": "Vizon Voice",
+   "cid": "UCEPiuqQa48bvCjwyp95E6Uw",
+   "date": "2025-02-21",
+   "title": "What Happens When You Build on Clay Soil! 🤯#vizonvoice #shor",
+   "views": 101399,
+   "desc": "Welcome to Vizon Voice \n\nIn this channel, I provide Knowledge full and voice-over content that falls under fair use guidelines.\n\n\n\nCopyright Notice:\nThe content featured in my videos, including viral clips complemented by my voiceovers and messages, is intended for educational and review purposes. I"
+  },
+  {
+   "q": "excavator digging perfect clay",
+   "vid": "s50l95W2k3c",
+   "ch": "SHORT CREATOR ",
+   "cid": "UCV5tybQ2SZBm3jVsBSAqybg",
+   "date": "2026-07-06",
+   "title": "JCB Excavator Lifting Heavy Wet Clay Block | Satisfying Mud ",
+   "views": 134632,
+   "desc": "JCB Excavator Lifting Heavy Wet Clay Block | Satisfying Mud Digging 🚜 😱 #shorts #jcbdigging\n\nWatch this powerful JCB excavator lift a giant wet clay block from deep mud. This satisfying heavy excavation and mud digging video is perfect for construction machine lovers.\n\nIf you enjoy JCB, excavators, "
+  },
+  {
+   "q": "excavator digging perfect clay",
+   "vid": "_IhmCmjuBi0",
+   "ch": "Mechamon Steel",
+   "cid": "UCP_eAACq-JS0IMJ6wbDa23Q",
+   "date": "2026-07-17",
+   "title": "Soil Digging Excavator : How Deep Trench Carves With Perfect",
+   "views": 141882,
+   "desc": "Witness the soil digging excavator soil digger in action as it demonstrates how deep trench carves with perfect efficiency in compacted red earth soil.\n\nToday's Job Specifications:\n- Machine Type: Heavy-duty tracked construction excavator\n- Attachment System: High-capacity digging bucket with teeth\n"
+  },
+  {
+   "q": "excavator digging perfect clay",
+   "vid": "FG7ogfXWQ2Y",
+   "ch": "FRENCH DRAIN MAN",
+   "cid": "UCs09Xm81fnqfuilUKJvKyPw",
+   "date": "2024-06-14",
+   "title": "Digging the Perfect Trench Depth and Slope Secret",
+   "views": 51512,
+   "desc": "Digging the Perfect Trench  Depth and Slope Secret\n\nFDM's Online Yard Drain Supplies:  https://www.frenchdrainman.com/store\n=======\n\nFrench Drain Man – Michigan’s Yard Water Drainage Experts. Masters in the art of constructing contained French drain systems & curtain drain systems that and fix your "
+  },
+  {
+   "q": "excavator digging perfect clay",
+   "vid": "uzeX_FJgukQ",
+   "ch": "Dirty Diggers",
+   "cid": "UCehu8XZ6e1cgD4ERBk_5fTA",
+   "date": "2022-07-06",
+   "title": "Digging a Square! - For a Concrete slab on grade",
+   "views": 52073,
+   "desc": ""
+  },
+  {
+   "q": "excavator digging perfect clay",
+   "vid": "OSoKlEQlb-s",
+   "ch": "SHORT CREATOR ",
+   "cid": "UCV5tybQ2SZBm3jVsBSAqybg",
+   "date": "2026-07-13",
+   "title": "Kobelco Excavator Heavy Mud Digging | Satisfying Clay Loadin",
+   "views": 82527,
+   "desc": "Kobelco Excavator Heavy Mud Digging | Satisfying Clay Loading Machine 🚜 😱#shorts #shortsfeed\n\nWatch the Kobelco excavator dig and load heavy wet mud with powerful hydraulic action. This satisfying mud excavation and clay loading video is perfect for heavy equipment and construction machine lovers.\n\n"
+  },
+  {
+   "q": "excavator digging perfect clay",
+   "vid": "mMy9G4n0hU4",
+   "ch": "SHORT CREATOR ",
+   "cid": "UCV5tybQ2SZBm3jVsBSAqybg",
+   "date": "2026-04-08",
+   "title": "JCB Excavator Deep Mud Digging | Heavy Bucket Load in Wet Cl",
+   "views": 36823,
+   "desc": "JCB Excavator Deep Mud Digging | Heavy Bucket Load in Wet Clay | Truck Loading Work 💥 #shorts \n\nWatch this powerful JCB excavator digging deep into wet mud and lifting a heavy bucket load. Satisfying clay excavation and real construction site action with dump trucks in the background. Perfect for he"
+  },
+  {
+   "q": "excavator digging perfect clay",
+   "vid": "qNfympWA2LI",
+   "ch": "Mechamon Steel",
+   "cid": "UCP_eAACq-JS0IMJ6wbDa23Q",
+   "date": "2026-08-20",
+   "title": "Precision Foundation Digging Excavator : Perfect Wall Finish",
+   "views": 31325,
+   "desc": "Watch a black crawler excavator dig a deep foundation trench in wet soil near residential houses to form a smooth earth wall.\n\nToday's Job Specs:\n- Equipment Type: Urban construction excavator\n- Implement: Hydraulic tilt-rotator bucket\n- Target Material: Compacted wet clay\n- Operation Mode: Precisio"
+  },
+  {
+   "q": "excavator digging perfect clay",
+   "vid": "UW5zbbQ6dfY",
+   "ch": "Excavator Works",
+   "cid": "UCrHvslSoP5cdHgKWD-KEc0Q",
+   "date": "2026-01-23",
+   "title": "Excavator vs Hard Clay | Perfect Digging",
+   "views": 6729,
+   "desc": "Excavator digging hard clay with precision.\nPowerful machine, clean control, satisfying work.\nHeavy equipment in action."
+  },
+  {
+   "q": "excavator digging perfect clay",
+   "vid": "dRu0mDDbvoU",
+   "ch": "KELUARGA UPING IPING",
+   "cid": "UC4aKRKCFIPzZPNxngeeVZvA",
+   "date": "2026-10-01",
+   "title": "Monster Excavator: How Precision Digging Yields Perfect Quar",
+   "views": 2646,
+   "desc": "In a world driven by small-scale machinery and slow manual labor, there is a quiet brilliance in moving massive earth volumes using this heavy-duty Caterpillar excavator setup. This satisfying quarry excavation process turns raw terrain and dense clay into an extraordinary display of mechanical powe"
+  },
+  {
+   "q": "excavator digging perfect clay",
+   "vid": "o9cl1Q2ZuFM",
+   "ch": "Mighty Diggers & Trucks for Kids",
+   "cid": "UCeOdV2l_5MbE3qIabCi5Wog",
+   "date": "2025-11-20",
+   "title": "Oddly Satisfying: Excavator Scooping Sticky Clay",
+   "views": 2451,
+   "desc": "Put your headphones on and relax with the incredibly satisfying sounds of heavy machinery meeting dense, sticky clay. 😌✨ Watch as the excavator bucket glides through the earth, peeling back smooth, buttery layers with zero resistance.\n\nThere is something hypnotic about the way the thick clay slices "
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "sgD5zhDpqYk",
+   "ch": "Kha Bercerita",
+   "cid": "UCEdvepDHmJIBhee10-UldfQ",
+   "date": "2025-11-30",
+   "title": "Kamu akan Kaya jika menemukan ini 🤯‼️",
+   "views": 15042180,
+   "desc": "jika kamu menemukan tanah liat seperti ini sudah jelas kamu akan kaya. yang dikeruk ekskavator ini adalah blue clay atau bisa disebut tanah liat versi premium. tanah ini banyak mengandung besi, magnesium dan mineral di dalamnya, harganya kisaran 200 ribu per kilogramnya, biasanya dipakai untuk kecan"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "7C5u2IirQZY",
+   "ch": "By Alan S",
+   "cid": "UCSmg4PgB6jwumu0T7TwaKmg",
+   "date": "2025-02-22",
+   "title": "Tanah Terburuk untuk Dibangun❗😮 #shorts #shortvideo",
+   "views": 7479569,
+   "desc": "Ketika mereka mencari tanah yang stabil untuk menopang rumah tiga lantai mereka, mereka menemukan tanah liat yang merupakan jenis tanah terburuk untuk membangun.\nKarena beban yang akan ditempatkan di atasnya dapat dengan mudah berubah bentuk dan kehilangan kestabilannya.\nNamun tanah liat biru itu te"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "m8PUQ2AuxeM",
+   "ch": "optezx",
+   "cid": "UC73cZo1a9qxHZAD5cRP7fiA",
+   "date": "2025-12-03",
+   "title": "Mendadak kaya kalau dapet ini di belakang rumah kamu??!",
+   "views": 11662145,
+   "desc": "\"⚠️ Credit and copyright to all respective owners\" → Semua hak cipta dan kredit tetap milik pemilik aslinya. Jadi kalau ada gambar, musik, atau potongan video orang lain yang dipakai, pembuat channel tidak mengklaim sebagai miliknya."
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "H0KZLE6OxYM",
+   "ch": "Евгений Колодцев Карелия",
+   "cid": "UCPk9WFCDTZM7Jknym767KYg",
+   "date": "2025-01-17",
+   "title": "Blu clay",
+   "views": 7329337,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "ehtNXiqpiEk",
+   "ch": "Tehnics",
+   "cid": "UC-IIxDYpAfCuvOiyUqSRp8Q",
+   "date": "2021-10-29",
+   "title": "Голубая глина Так нереально её много 👍 #shorts #exkavator #t",
+   "views": 5109689,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "K3IT3Cnu7O0",
+   "ch": "Shahbazaliturk ",
+   "cid": "UCRujKylMyb0o9f8DbkCOSUw",
+   "date": "2024-09-02",
+   "title": "#jcb #dumper #excavator #bulldozer #tractor #youtubeshorts #",
+   "views": 9008233,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "gKTLPkXwWCo",
+   "ch": "Enséñame de Ciencia",
+   "cid": "UCiG6oUxDqbMmWy0khpISX-w",
+   "date": "2025-12-26",
+   "title": "Arcilla azul, la pesadilla de los constructores.",
+   "views": 1143848,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "GSV7Tfds-2s",
+   "ch": "Stern Facts",
+   "cid": "UC4yR5QD64G0oYGvd4iV5OqA",
+   "date": "2025-06-26",
+   "title": "Farmer Digs a Pond… And Discovers a $10,000 Clay Jackpot",
+   "views": 625561,
+   "desc": "While digging a simple fish pond, this farmer stumbled upon something that could change his life forever! 🏺💰 Buried beneath his land was a rare clay deposit — the kind that's highly sought after for making premium ceramics and pottery due to its incredible durability. Just one cubic yard of this cla"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "SiS4K5YMBdY",
+   "ch": "HerpTime",
+   "cid": "UC0dXZzPukzT0zQLR-uLw-9g",
+   "date": "2024-07-31",
+   "title": "ZooMed excavator clay as a background in a terrarium? Let’s ",
+   "views": 487870,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "l636AzaTYu8",
+   "ch": "StrainWorks",
+   "cid": "UC-qzw6Y3-M5xrmPH9U7jHhA",
+   "date": "2026-02-13",
+   "title": "clay surface extraction",
+   "views": 264616,
+   "desc": "The excavator’s bucket slowly lifts a solid layer of blue clay, showing the steady resistance of the dense material as it bends and breaks apart. All scenes on this channel are AI-generated simulations. Made for viewers who enjoy process-driven industrial visuals."
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "P3qBKlY1rCo",
+   "ch": "삘쏘굿",
+   "cid": "UCzA0iU47inu-qt3T5HpaO2A",
+   "date": "2026-09-02",
+   "title": "진득한 청찰흙을 단번에 퍼올리는 중장비의 위력 #worker #process #mud #satisfying ",
+   "views": 143317,
+   "desc": "## 1. 작업 개요\n본 작업은 러시아 카렐리야 지역의 영하권 추위 및 눈이 깔린 동결 지반 조건에서 진행된 굴착 공사입니다. 지하 깊은 곳에 분포한 고점성 청찰흙(Blue Clay)층을 굴삭기(Excavator)를 활용하여 정교하게 퍼올리고 배토하는 토공 작업을 수행합니다.\n\n## 2. 사용 재료 및 장비\n- 장비: 볼보(Volvo) BL71 백호 로더 / 굴삭기 (유압식 버킷 포함)\n- 대상 재료: 고점성 청찰흙(Blue Clay), 동결 토사 및 자갈층\n\n## 3. 시공 절차\n1. 굴착 지점 표면의 동결 토사 및 잔설 정리\n2"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "vSjVHwWkxD8",
+   "ch": "Zero Cervello",
+   "cid": "UC67IY-cVY6EmGrzNRqWk-Dg",
+   "date": "2026-06-04",
+   "title": "Perché i cercatori d’oro amano l’argilla blu",
+   "views": 111797,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "aUzNLuEvAo8",
+   "ch": "북마크",
+   "cid": "UCHtVkZJyMMM0lds7L6-CcVg",
+   "date": "2026-02-09",
+   "title": "땅속의 파란 금고",
+   "views": 121997,
+   "desc": "건설 현장에서 굴착기 기사가 가장 만나기 싫어하면서도, 동시에 광부들이 환호하는 '이 흙'의 정체는 무엇일까요?\n\n1. 공포의 연약 지반 (Blue Clay)\n영상 속에 등장하는 푸른빛을 띠는 회색 점토층은 입자가 매우 치밀하여 물이 잘 빠지지 않는 불투수층의 성질을 가집니다. 이로 인해 지반이 물렁해지는 연약 지반이 형성되어, 무리하게 공사를 진행할 경우 건물이 통째로 가라앉거나 붕괴될 위험이 있어 굴착 기사에게는 '공사 중단'을 알리는 위험 신호가 됩니다.\n\n2. 자연이 만든 금고\n반면, 사금을 찾는 광부들에게 이 층은 '잭팟'"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "1-WyLNXx0O8",
+   "ch": "Vizon Voice",
+   "cid": "UCEPiuqQa48bvCjwyp95E6Uw",
+   "date": "2025-02-21",
+   "title": "What Happens When You Build on Clay Soil! 🤯#vizonvoice #shor",
+   "views": 101399,
+   "desc": "Welcome to Vizon Voice \n\nIn this channel, I provide Knowledge full and voice-over content that falls under fair use guidelines.\n\n\n\nCopyright Notice:\nThe content featured in my videos, including viral clips complemented by my voiceovers and messages, is intended for educational and review purposes. I"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "vKy96mXGZX0",
+   "ch": "Drainiac",
+   "cid": "UCH0BA6tVe1DX1YO15S02-Kw",
+   "date": "2025-11-04",
+   "title": "They Found Natural Blue Clay Soil #satisfying #buildingconst",
+   "views": 86038,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "lELoex_UVUA",
+   "ch": "알유 시사?",
+   "cid": "UC5OcZoIg3FTsQ-k-gjDmlbQ",
+   "date": "2026-05-30",
+   "title": "굴착기로 깊은 땅속 청동 점토(Blue Clay) 파내기 #worker #process #blueclay #",
+   "views": 79715,
+   "desc": "## 1. 작업 개요\n- 농작물/공정: 지반 깊숙이 매설되어 있는 고점성의 청동 점토(Blue Clay) 층을 대형 유압 굴착기를 활용해 안전하게 굴착 및 채취하는 공정입니다.\n- 장소 및 목적: 토목 건설 현장 또는 원자재 채취 구역에서 진행되며, 구조물의 기초를 다지기 위한 지반 정리 및 도자기, 벽돌, 건축 자재의 원료가 되는 고품질 점토를 확보하는 것이 목적입니다.\n\n## 2. 사용 재료 및 장비\n- 사용 도구: 단단하고 끈적이는 점토질 토사를 효과적으로 파고들 수 있도록 특수 설계된 버킷(바가지) 어태치먼트가 장착된 대형 "
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "WKdVTgPP--o",
+   "ch": "ALTERNATIVA",
+   "cid": "UCtpxoEjlPY5td6nNLnKpaAQ",
+   "date": "2025-12-01",
+   "title": "Así Encuentran La Arcilla Azul Bajo La Tierra",
+   "views": 56160,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "oqPFWOsRF1k",
+   "ch": "2biji",
+   "cid": "UCne418K9soZ2dAd-k6mR4fg",
+   "date": "2025-12-06",
+   "title": "Tanah Liat yang Bikin Auto Kaya‼️😱",
+   "views": 43650,
+   "desc": "Tanah liat yang dikeruk ini bukan tanah biasa—ini Blue Clay, tanah premium bernilai tinggi yang dipakai untuk kecantikan. Harganya bisa mencapai 200 ribu per kilo. Kalau sudah lihat ekskavator ngangkat begitu banyak… kebayang kan berapa cuan yang didapat bosnya? 💰✨\n#faktaunik #clay #ekskavator #tamb"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "LJ11xMFijOw",
+   "ch": "Ever Evolving Exotics",
+   "cid": "UCWrlUoch6LT9o6dvrlhGjlQ",
+   "date": "2025-08-29",
+   "title": "How to use ZooMed Excavator Clay #reptileshop #tucson #arizo",
+   "views": 43966,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "Z_mbXABiXZw",
+   "ch": "AsikInFO",
+   "cid": "UCX5AcpMmBAIJStvkeF0Mvtg",
+   "date": "2025-09-20",
+   "title": "DIKIRA LUMPUR BIASA, GAK TAHUNYA HARTA KARUN‼️ #shorts",
+   "views": 36957,
+   "desc": "Lihat deh bongkahan emas yang baru aja ditemukan orang ini. Tapi tunggu dulu, bukannya itu cuma lumpur? Tentu aja bukan! Yang dia ambil sebenarnya adalah tanah liat biru langka yang bisa dipakai istri kamu buat masker wajah. Beda sama tanah liat biasa yang biasanya dipakai bikin batu bata, tanah lia"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "1Mx7OtRXS6M",
+   "ch": "Indrcx",
+   "cid": "UCLSH8pavO_wdFTnWcNIdQGA",
+   "date": "2026-01-26",
+   "title": "blue clay. tanah lunak yang sering ditemui di proyek besar",
+   "views": 36084,
+   "desc": "Tanah berwarna biru yang terlihat di video ini dikenal sebagai blue clay atau tanah liat lunak. Jenis tanah ini memiliki kadar air tinggi, plastis, dan mudah berubah bentuk saat ditekan alat berat.\nDalam dunia konstruksi dan pertambangan, blue clay sering menjadi tantangan karena daya dukungnya rend"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "u2LniUP6c0U",
+   "ch": "SnackClip",
+   "cid": "UCIAYz2kvrwetuQu7pjMYiVw",
+   "date": "2025-04-29",
+   "title": "Why Blue Clay is a Jackpot",
+   "views": 30232,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "LfeKr-L1BrA",
+   "ch": "Ridwan Sayyid",
+   "cid": "UCBEf_eP-PghttgO3ucBs2Ww",
+   "date": "2025-07-17",
+   "title": "The Worst Soil to Build On❗😮 #shorts #shortvideo",
+   "views": 32240,
+   "desc": "🎥 SC: \n@worldlyevent on TikTok\n@mrtypan on TikTok\n\nThese construction workers were having bad luck while trying to build a three-story house. When they started digging to find solid ground, they ended up discovering clay instead—the type of soil most avoided in construction.\nThat’s because clay easi"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "b51LqTfUljw",
+   "ch": "Shorts Zone 1M",
+   "cid": "UCZNL8dL3Zijrec4oMUzGoyg",
+   "date": "2025-07-28",
+   "title": "Blue Clay, A Muddy Clue to Hidden Gold 🪙 #Shorts",
+   "views": 28150,
+   "desc": "Blue Clay, A Muddy Clue to Hidden Gold 🪙 #Shorts\n\n\n\n#shorts\n#shortvideo\n#youtubeshorts\n#ytshorts\n#shortszone1m\n#blueclay\n#clay \n#gold \n#goldmining \n#gold \n#goldenretriever"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "-fArL0P1IE0",
+   "ch": "SIGOCENG",
+   "cid": "UCrJnvdZOG6yCUK0gx37jjoQ",
+   "date": "2026-02-02",
+   "title": "Jenis Tanah Blue Clay ini bisa membuat kalian Kaya ⁉️😬",
+   "views": 27899,
+   "desc": "#shorts #shortvideo #feedshorts #viral #viralvideo #videoviral #blueclay\n\nJenis Tanah Blue Clay ini bisa membuat kalian Kaya ⁉️😬\n\nNote: \nThe video is just a sweetener, the main discussion is the narration that was made.\n\nContact me via Email : ramlinu02@gmail.com\nfor any requests for removal of vide"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "ZCscQU96DvM",
+   "ch": "RBChannel ",
+   "cid": "UCzRBgpam9-mKdi3Wu_DfgJw",
+   "date": "2026-04-16",
+   "title": "Pernahkah kamu lihat? tanah blue clay",
+   "views": 25829,
+   "desc": "“Blue clay (tanah liat biru) adalah jenis tanah liat alami berwarna kebiruan atau abu-abu kebiruan yang terbentuk dari endapan mineral halus di lingkungan rendah oksigen seperti dasar danau atau laut purba; tanah ini memiliki tekstur sangat halus dan plastis saat basah sehingga mudah dibentuk, menga"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "JE_Te5-6ILY",
+   "ch": "Short Vizuals",
+   "cid": "UC9a8tHO8nybFSZZjU-mLx1g",
+   "date": "2025-03-31",
+   "title": "They Hit THIS While Digging… (@worldlyevent)",
+   "views": 28880,
+   "desc": "#shorts #excavator #interesting\n\nThey were told never to dig here… but they didn’t listen. These guys were digging a hole—until something caught their eye. A soft shimmer. A new texture. Turns out, they had hit this rare clay. Proof that even the most ordinary digs can uncover something extraordinar"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "p_y1DI-DSic",
+   "ch": "世界の物語",
+   "cid": "UCAjdlo8OzgUOvZoRjgBdZUg",
+   "date": "2025-04-13",
+   "title": "工事現場で嫌われる“青い粘土”が実はラッキーな理由",
+   "views": 31185,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "B1mBkQg1Dqg",
+   "ch": "GHOSTFACE COUNTRY",
+   "cid": "UCCFkGmtZym2SbDZWSsxPlYQ",
+   "date": "2026-05-15",
+   "title": "THIS CLAY PEELS LIKE BUTTER",
+   "views": 34543,
+   "desc": "An excavator bucket is shaving gray-blue clay out of a narrow trench, leaving clean tooth marks and peeling the material up in thick sheets beside the hole. Search terms and topics covered: excavator bucket cutting blue clay, excavator digging narrow trench in clay, gray blue clay peeling in sheets,"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "BDLmxbt-ikk",
+   "ch": "StrainWorks",
+   "cid": "UC-qzw6Y3-M5xrmPH9U7jHhA",
+   "date": "2026-02-26",
+   "title": "confined clay compression",
+   "views": 29249,
+   "desc": "The excavator carefully presses into dense blue clay in close quarters, revealing textures as the material slowly folds and breaks apart. All scenes on this channel are AI-generated simulations. Made for viewers who enjoy process-driven industrial visuals."
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "xcgt586Tyoc",
+   "ch": "Mr UNO",
+   "cid": "UCgxxGE69Nx7hsaJP09tN50Q",
+   "date": "2025-02-27",
+   "title": "Tanah Liat Biru: Cantik Tapi Mematikan untuk Fondasi Banguna",
+   "views": 30199,
+   "desc": "credit: @worldlyevent on TikTok\n            @mrtypan on TikTok\n\nPara pekerja bangunan ini menghadapi kesialan saat membangun rumah tiga lantai. Ketika mencari tanah yang kokoh untuk fondasi, mereka malah menemukan tanah liat — jenis tanah paling tidak ideal karena rentan berubah bentuk dan kehilanga"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "PLIk2AR6OHE",
+   "ch": "HSIM",
+   "cid": "UCTwCgYBLFydoGwzDebnHY2A",
+   "date": "2026-04-13",
+   "title": "Blue clay | tanah berharga tapi dibenci kontraktor",
+   "views": 26430,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "YyL_TlwnH7o",
+   "ch": "Adam Hall #DozerKing",
+   "cid": "UCYSOXaNdx65pnjGMBhvvwcw",
+   "date": "2024-03-11",
+   "title": "all stuck up in blue clay",
+   "views": 10767,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "HVJcMqxBfLk",
+   "ch": "Drain Loops",
+   "cid": "UCAYMnRVur8UDJgggtklblSQ",
+   "date": "2026-01-09",
+   "title": "Blue clay is the WORST! 😨👀",
+   "views": 20996,
+   "desc": "#shorts    \n#unclogging \n#drain"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "L1jpYMhGXzk",
+   "ch": "Yan Setianur",
+   "cid": "UCMjWdB3j0nvBMT4XyH319qw",
+   "date": "2024-06-08",
+   "title": "Tanah Blue Clay",
+   "views": 13229,
+   "desc": "Coba editor video CapCut gratis untuk membuat video! https://www.capcut.com/t/Zs8McufNr/"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "RoeE0IpSYwg",
+   "ch": "Sir Dinoo",
+   "cid": "UCzV6Mb8xyR-hUV5aYZsBi_Q",
+   "date": "2026-01-29",
+   "title": "Tambang Tanah Liat Biru yang Menakjubkan!",
+   "views": 13422,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "0uUdUnowocQ",
+   "ch": "Apbus Gallery",
+   "cid": "UC0xSKWEh_rXyUArnxY4fKPA",
+   "date": "2025-12-28",
+   "title": "blue clay",
+   "views": 12342,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "VZm6kIAuXYU",
+   "ch": "奇想科普",
+   "cid": "UCb_qb-ql07JmS0yz3ou-Z5Q",
+   "date": "2025-11-24",
+   "title": "为什么施工的时候挖到蓝色黏土就要停止 #科普 #知识 #冷知识",
+   "views": 6925,
+   "desc": "#科普 #知识 #冷知识\n🌾我 是 讲 解 员 小 欣🌾\n🍁万 物 皆 科 普🍁\n🌿每天都更新🌿\n🌻感 谢 您 的 订阅"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "Y4vWBroAzTk",
+   "ch": "FROM ADAM LALA",
+   "cid": "UC5Nv3A4VSxlQun0fa4Wh7-A",
+   "date": "2025-03-02",
+   "title": "Fungsi dan Manfaat Blue Clay 😱 #shorts #shortvideo #viralvid",
+   "views": 4028,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "UsuHiZGXCJc",
+   "ch": "Bionic Life",
+   "cid": "UCPSiIRbkJGKSp4ESBFcZrPg",
+   "date": "2025-07-13",
+   "title": "Blue Clay, Will it leak?",
+   "views": 4070,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "QNZd4lZkOAY",
+   "ch": "Eyuel",
+   "cid": "UCsmhs66onzJG4RDnh5-pJoQ",
+   "date": "2025-04-10",
+   "title": "blue clay soil🙉 #ethiopia #facts #shorts #habeshatiktok #hab",
+   "views": 2734,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "5QM_lf69CRc",
+   "ch": "hands.on.hardware",
+   "cid": "UCtbjfBtR_w6rLfKAy7UXQOQ",
+   "date": "2026-09-21",
+   "title": "Heavy Excavator Slices Sticky Blue Clay #worker #process #ex",
+   "views": 4146,
+   "desc": "## 1. Task Introduction: Excavation and deep foundation trenching through dense, high-cohesion blue clay layers to prepare stable subgrade for building structures.\n## 2. Equipment and Materials: Hydraulic crawler excavator equipped with heavy-duty toothed bucket, grade lasers, and trench stability s"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "g4TOTpOjuAM",
+   "ch": "CMP Attachments",
+   "cid": "UCtdjk9SvQ4QKgBJRa7Yu9KA",
+   "date": "2026-08-05",
+   "title": "Running Blue Clay through a Top Dresser #hydraspreader",
+   "views": 2877,
+   "desc": "Today we tested the most Gumbo-y, Play Doh-y, Blue Clay you could run through the Hydra Spreader with Pathfinder Trail Builders who were so cool letting us crash their MTB trail project in Eden Prairie, MN.\n\nWe love posting our wins, but this was not one of them! It broke the material up really well"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "nniR7QG-uvw",
+   "ch": "VENIKA TV",
+   "cid": "UCre8uBKzrXISmzp0pxClPLA",
+   "date": "2025-12-06",
+   "title": "#shorts",
+   "views": 2602,
+   "desc": "Ever seen clay that’s actually blue like this?\nThis is blue clay — one of the most expensive types of clay in the world.\nIts unique color comes from high levels of iron, magnesium, and other valuable minerals.\nThat’s why its price can reach hundreds of thousands of rupiah per kilogram.\nThat’s why it"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "wPYxI4zQdOY",
+   "ch": "필름넘버1",
+   "cid": "UCq8-8UrfdCIk12iHw9Lry7Q",
+   "date": "2026-09-15",
+   "title": "Unearthing Tons Of Massive Blue Clay With Heavy Excavator #w",
+   "views": 3607,
+   "desc": "## 1. Task Introduction: Excavating and extracting massive deposits of dense blue clay from deep underground layers using heavy excavation equipment.\n## 2. Equipment and Materials: Heavy-duty hydraulic excavator with a specialized bucket attachment capable of cutting through dense soil and clay laye"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "S0bkjXqhFV8",
+   "ch": "Midwest Excavator",
+   "cid": "UCX67H_ahLSZ3vmMBzCI5T2A",
+   "date": "2023-04-12",
+   "title": "Blue clay pond digging",
+   "views": 1945,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "pXVur29w54Q",
+   "ch": "SnapShot : Amazing Moments, Explained",
+   "cid": "UCveR2WTRLK9ddHqi5kzRCbA",
+   "date": "2026-11-12",
+   "title": "The Blue Clay Builders Hate",
+   "views": 1018,
+   "desc": "Sometimes an excavator digs up smooth blue clay. The clay is blue because, deep underground with almost no oxygen, the iron in it changes form, and once exposed to air it can turn reddish brown within hours. It drains poorly and turns soft when wet, so it makes poor ground for buildings, and heavy e"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "SyHq-PsBSIU",
+   "ch": "최지우",
+   "cid": "UCze6Dh3DghIBkWsHk5yC1Iw",
+   "date": "2026-06-17",
+   "title": "러시아 카렐리아 지하에서 발견된 푸른 진흙 대량 굴착 과정 #worker #process #heavyequi",
+   "views": 1436,
+   "desc": "1. 작업개요\n본 영상은 러시아 카렐리아(Karelian) 지역의 토목 및 광물 채취 현장에서 백호(굴착기) 중장비를 활용하여 지하에 매장된 천연 푸른 진흙(Blue clay)을 대량으로 굴착 및 수집하는 작업 과정을 담고 있습니다.\n\n2. 사용재료 및 장비\n- 장비: 볼보(VOLVO) BL71 백호 로더 (굴착용 버킷 장착)\n- 재료: 카렐리아 지역 특유의 점성이 높고 밀도가 높은 천연 푸른 진흙(Blue Clay) 및 주변 토사\n\n3. 시공절차\n- 대형 굴착기를 활용해 수 미터 아래의 지반을 안전하게 굴착합니다.\n- 버킷의 날을"
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "UTN6pSHpp78",
+   "ch": "Adam Hall #DozerKing",
+   "cid": "UCYSOXaNdx65pnjGMBhvvwcw",
+   "date": "2024-03-11",
+   "title": "Playing in blue clay with an excavator",
+   "views": 387,
+   "desc": ""
+  },
+  {
+   "q": "blue clay excavator",
+   "vid": "kjzW5a1lF68",
+   "ch": "Lilac",
+   "cid": "UCliXRzeCgDWoiT5xLsZ9c5w",
+   "date": "2026-03-08",
+   "title": "arid bioactive build for blue death feigning beetles pt 1 - ",
+   "views": 664,
+   "desc": ""
+  },
+  {
+   "q": "glacial clay excavator",
+   "vid": "VXdl6540OqA",
+   "ch": "ミニまなび",
+   "cid": "UCw0L03eCuB12BSt_FCWUbFQ",
+   "date": "2026-10-06",
+   "title": "氷河が残した軟弱な粘土",
+   "views": 29427,
+   "desc": "1. 作業概要\n本作業は、古代の氷河後退期に形成された氷河湖の底にシルトや微細粘土粒子が緩やかに堆積してできた「湖沼性粘土層（Lacustrine Clay）」が広がる軟弱地盤において、住宅や構造物の不同沈下・傾斜を防ぐため、油圧ショベル（バックホウ）を用いて高含水・高圧縮性の超軟弱粘土を慎重に掘削・排土する土工・地盤改良準備工程です。湖沼性粘土は微小粒子が緩く配列し内部結合力が極めて弱いため、砂利や砂、密実な氷河堆積土（ティル）とは異なり、飽和や荷重によって容易に変形・沈下を起こします。本工程では、綿密な地盤調査と土質試験に基づき、将来的な構造物の不同沈下リスクを根本から排除するための基礎杭"
+  },
+  {
+   "q": "excavator grey clay satisfying",
+   "vid": "wlouZJl6Aqc",
+   "ch": "Science Snack",
+   "cid": "UCNMajAUibk4D1HF1uiAcTsA",
+   "date": "2026-03-22",
+   "title": "EXCAVATOR DIGS THICK GREY CLAY",
+   "views": 69514,
+   "desc": "This oddly satisfying excavator digging video shows heavy machinery slicing through smooth clay like absolute butter! Watch this flawless mud scoop deliver the ultimate visual therapy and ASMR dirt moving. 🚜💦\n\nThere is just something so insanely soothing about watching those massive steel bucket tee"
+  },
+  {
+   "q": "excavator grey clay satisfying",
+   "vid": "TSYF5yd_ons",
+   "ch": "MNTechCrafts",
+   "cid": "UCCUGNDUJcn7guo3KYDiAtpg",
+   "date": "2025-12-22",
+   "title": "The Most Satisfying Clay You’ve Ever Seen! 🚜 #shortsfeed #co",
+   "views": 50543,
+   "desc": "The Most Satisfying Clay You’ve Ever Seen! \n\nWatch this excavator slice through thick, smooth clay like it’s butter! There’s something so relaxing about the way this earth moves. Is it clay or giant gray chocolate? Let me know what you think in the comments!\n\nOperating the excavator today and ran in"
+  },
+  {
+   "q": "excavator grey clay satisfying",
+   "vid": "CtEhQUBCLmM",
+   "ch": "Hyper Machine",
+   "cid": "UC4Xd_YQEKFG1KRnLx0xmNYw",
+   "date": "2026-08-10",
+   "title": "This CAT 385C Is DELETING This Entire Clay Pit!",
+   "views": 34071,
+   "desc": "You’re watching the most satisfying muddy dig ever. This CAT 385C is caked in mud but still EATING! 💀 Scooping sticky grey clay and straight up DELETING it into the dump truck. That bucket shake at the end? PERFECT. No wasted time. This is why CAT runs the quarry game in America.\n\nCAT 385C / Muddy C"
+  },
+  {
+   "q": "excavator grey clay satisfying",
+   "vid": "B1mBkQg1Dqg",
+   "ch": "GHOSTFACE COUNTRY",
+   "cid": "UCCFkGmtZym2SbDZWSsxPlYQ",
+   "date": "2026-05-15",
+   "title": "THIS CLAY PEELS LIKE BUTTER",
+   "views": 34543,
+   "desc": "An excavator bucket is shaving gray-blue clay out of a narrow trench, leaving clean tooth marks and peeling the material up in thick sheets beside the hole. Search terms and topics covered: excavator bucket cutting blue clay, excavator digging narrow trench in clay, gray blue clay peeling in sheets,"
+  },
+  {
+   "q": "excavator grey clay satisfying",
+   "vid": "QH4JxQwCfy8",
+   "ch": "Payal  Chouhan",
+   "cid": "UCYvUxQxhE298ZbrsdSiGRBA",
+   "date": "2026-07-18",
+   "title": "mitti grey #youtubeshort #satisfying #crushingtime #oddlysat",
+   "views": 1592,
+   "desc": ""
+  },
+  {
+   "q": "clay like butter digging",
+   "vid": "HIFUgI_57zo",
+   "ch": "FuFu Squishy",
+   "cid": "UCtgNbEk4vWJoH0GMghF3tPQ",
+   "date": "2025-10-26",
+   "title": "ASMR DIG A MYSTERY FUFUSQUISHY Noob KIT!!",
+   "views": 48572247,
+   "desc": "My shop link :fufusquishy.com   (we ship worldwide）\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCtgNbEk4vWJoH0GMghF3tPQ/join\n\nWelcome to our fufu channel, where every visit is a journey into cuteness overload! 🌸 Take a break from the hustle and bustle of life and let "
+  },
+  {
+   "q": "clay like butter digging",
+   "vid": "TTNr_ZYZu2w",
+   "ch": "Martin The Worker",
+   "cid": "UC4wMFgm9TID1AE_KD7w4pdQ",
+   "date": "2026-08-21",
+   "title": "CUTTING CLAY LIKE COLD BUTTER",
+   "views": 245836,
+   "desc": "Traditional manual excavation in South Asia extracting dense pliable grey clay beneath parched earth using a hand spade. Manual laborers carve wet soil slabs and stack them into woven baskets for brick making and pottery production. Deep trenching techniques highlight raw soil texture, moisture rete"
+  },
+  {
+   "q": "clay like butter digging",
+   "vid": "wlouZJl6Aqc",
+   "ch": "Science Snack",
+   "cid": "UCNMajAUibk4D1HF1uiAcTsA",
+   "date": "2026-03-22",
+   "title": "EXCAVATOR DIGS THICK GREY CLAY",
+   "views": 69514,
+   "desc": "This oddly satisfying excavator digging video shows heavy machinery slicing through smooth clay like absolute butter! Watch this flawless mud scoop deliver the ultimate visual therapy and ASMR dirt moving. 🚜💦\n\nThere is just something so insanely soothing about watching those massive steel bucket tee"
+  },
+  {
+   "q": "clay like butter digging",
+   "vid": "TSYF5yd_ons",
+   "ch": "MNTechCrafts",
+   "cid": "UCCUGNDUJcn7guo3KYDiAtpg",
+   "date": "2025-12-22",
+   "title": "The Most Satisfying Clay You’ve Ever Seen! 🚜 #shortsfeed #co",
+   "views": 50543,
+   "desc": "The Most Satisfying Clay You’ve Ever Seen! \n\nWatch this excavator slice through thick, smooth clay like it’s butter! There’s something so relaxing about the way this earth moves. Is it clay or giant gray chocolate? Let me know what you think in the comments!\n\nOperating the excavator today and ran in"
+  },
+  {
+   "q": "clay like butter digging",
+   "vid": "B1mBkQg1Dqg",
+   "ch": "GHOSTFACE COUNTRY",
+   "cid": "UCCFkGmtZym2SbDZWSsxPlYQ",
+   "date": "2026-05-15",
+   "title": "THIS CLAY PEELS LIKE BUTTER",
+   "views": 34543,
+   "desc": "An excavator bucket is shaving gray-blue clay out of a narrow trench, leaving clean tooth marks and peeling the material up in thick sheets beside the hole. Search terms and topics covered: excavator bucket cutting blue clay, excavator digging narrow trench in clay, gray blue clay peeling in sheets,"
+  },
+  {
+   "q": "clay like butter digging",
+   "vid": "Kq2PBW9Dj7A",
+   "ch": "Hyper Machine",
+   "cid": "UC4Xd_YQEKFG1KRnLx0xmNYw",
+   "date": "2026-07-20",
+   "title": "CAT 385C L LABRIANIDIS Crushing Hard Clay and Loading Dump T",
+   "views": 10982,
+   "desc": "CAT 385C L LABRIANIDIS Crushing Hard Clay and Loading Dump Trucks\n\nClose-up raw power of the CAT 385C L from LABRIANIDIS. Watch the heavy-duty bucket with sharp teeth rip through hard, rocky clay like butter and dump full loads into the truck. The digging force, the sound of rocks cracking, the effi"
+  },
+  {
+   "q": "clay like butter digging",
+   "vid": "gWVhozlUtW8",
+   "ch": "Chris the Handyman",
+   "cid": "UCF8BSPsQWehjqxkDzEkVRIg",
+   "date": "2026-07-21",
+   "title": "Ryobi Auger: Digging Through Clay Like Butter! #shorts",
+   "views": 924,
+   "desc": "Stranded by a dead van battery at the worst possible moment. Then, a surprising tool discovery that tackles tough terrain better than expected. This works with the 18-volt ONE+ battery system. #VanLife #DIY #Tools #Ryobi #HomeImprovement"
+  },
+  {
+   "q": "clay like butter digging",
+   "vid": "F5ZB8pXudTg",
+   "ch": "Set Apart Farm & Gardens Homestead",
+   "cid": "UCFL4_vM3rOXTAX_t3ii5XUQ",
+   "date": "2023-06-27",
+   "title": "This Power Planter Augers goes through heavy clay soil like ",
+   "views": 2521,
+   "desc": "This Power Planter goes through our clay soil like its butter!"
+  },
+  {
+   "q": "clay like butter digging",
+   "vid": "zc9ODz931A8",
+   "ch": "Abstract Property Maintenance",
+   "cid": "UCG6mgFZBJPuVc4U8VJNal2g",
+   "date": "2025-09-10",
+   "title": "Cutting through tough clay with rocks and roots like butter!",
+   "views": 1603,
+   "desc": ""
+  },
+  {
+   "q": "clay like butter digging",
+   "vid": "IYd5HCdSE9c",
+   "ch": "Dig Shorts",
+   "cid": "UCc-M72BEnqZ8mNZp90UuuMA",
+   "date": "2025-07-29",
+   "title": "Never-Before-Seen Red Clay Excavation#jcb #short #constructi",
+   "views": 1142,
+   "desc": "You’ve seen soil being dug before –\nBut have you ever seen red clay being excavated from the top view like this?\n\nThis is no ordinary digging footage –\nWatch how the excavator slices through the dense red earth like butter, shot from an epic top-down angle!\n\n🔥 Don’t blink – this is oddly satisfying "
+  },
+  {
+   "q": "экскаватор глина как масло",
+   "vid": "U6F8krIgJXE",
+   "ch": "ФОП Омеляненко- JCB-UA",
+   "cid": "UCj054K7d09KQwCdDXJAdubg",
+   "date": "2026-03-31",
+   "title": "масло в мосту (передньому) JCB глина #farming #друзі #jcb #m",
+   "views": 3985,
+   "desc": ""
+  },
+  {
+   "q": "varved clay",
+   "vid": "_eCVZFrpMIE",
+   "ch": "Edu Sphere",
+   "cid": "UCxF_nVXuZTYPz4nl9BA5y6w",
+   "date": "2024-01-27",
+   "title": "What are Glacial Varves - Unlocking Earth&#39;s Hidden Histo",
+   "views": 3046,
+   "desc": "Uncover Earth's Secrets with Glacial Varves! ⛏️\nDive into the fascinating world of Glacial Varves - nature's own time capsules! This YouTube video unlocks the hidden history of our planet, layer by layer.\n\nExplore:\n\n❄️ What are Glacial Varves and how do they form?\n️ Decoding Earth's past through the"
+  },
+  {
+   "q": "varved clay",
+   "vid": "nEe6lvDWsOY",
+   "ch": "vermonterman",
+   "cid": "UCsXLygh_hX8Z78m5HUeBMHQ",
+   "date": "2021-02-13",
+   "title": "Vermont Clay Concretions",
+   "views": 272,
+   "desc": "Vermont clay concretions are 10,000 -15,000 years old, mineral segregations formed in sedimentary deposits ( varved clay) left by glacial lakes.\nhttps://www.facebook.com/ClayConcretions/"
+  },
+  {
+   "q": "varved clay",
+   "vid": "jYcrsxyFCoc",
+   "ch": "Adda247 Telugu",
+   "cid": "UCqqDD-1K6WTjS16Y8pdY1_Q",
    "date": "2026-07-07",
-   "title": "Thread Repair Tutorial#shorts #satisfying #mechanic #repair ",
-   "views": 2723,
-   "desc": "Thread Repair Tutorial\n\nFirst, drill out the damaged hole to clean it. Next, use a tap tool to create new threads. Apply thread locker fluid to a thread insert, then install it using a bolt and nut. Tighten with a wrench to secure the insert firmly into place, and finally, remove the bolt.#shorts #s"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "LFjiiXxm5Dw",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-11-07",
-   "title": "Smart Engine Block Thread Repair Solution#shorts #repairs #m",
-   "views": 2183,
-   "desc": "Smart Engine Block Thread Repair Solution\n\nEvery mechanic who has dealt with stripped engine block threads knows the absolute frustration. When the threads fail and the bolt spins freely, replacing the entire housing costs a fortune. For a permanent repair that withstands intense pressure, simply dr"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "2eB5cJaQ1N0",
-   "ch": "KNR channel13",
-   "cid": "UCWo4QprZYR0t8hpRLPTpyug",
-   "date": "2026-09-09",
-   "title": "How to Repair Stripped Threaded Holes#shorts #repairs #mecha",
-   "views": 1927,
-   "desc": "How to Repair Stripped Threaded Holes\n\nFirst, insert a bolt into the worn-out hole to test the fit. Next, pour molten metal into the hole until it overflows. Hammer and grind the surface smooth, center-punch the middle, drill a fresh pilot hole, and tap new threads to securely refit the bolt.#shorts"
-  },
-  {
-   "q": "stripped thread hole repair tap drill satisfying",
-   "vid": "__auNs1zotU",
-   "ch": "AutoDIY Express",
-   "cid": "UCoRaEeCFQ_sOzP3wnk4rIGA",
-   "date": "2026-11-13",
-   "title": "Stripped Thread Repair and Threaded Insert Installation Tech",
-   "views": 2068,
-   "desc": "Stripped Thread Repair and Threaded Insert Installation Technique! 🚗⚙️\n\nStruggling with stripped bolt holes, broken fasteners, or wondering how to permanently restore damaged threads in metal castings using drilling, tapping, and threaded inserts? Watch this step-by-step tutorial on professional thr"
+   "title": "🔥 Varved soil is..? #aee2026 #geotech #aeemcqs #civil #adda2",
+   "views": 1031,
+   "desc": ""
   }
  ]
 }
