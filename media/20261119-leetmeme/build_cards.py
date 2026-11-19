@@ -51,7 +51,7 @@ def panel(rows, h=640, gap=None):
 
 
 # 2장: 실제 캡처 카드
-specs = [{"out": str(O / "c02.jpg"), "sub": "건국대 에브리타임에 올라온 익명 글", "title": "\"이런 결말을 '바란 건 아니야'\"",
+specs = [{"out": str(O / "c02.jpg"), "sub": "건국대 에브리타임에 올라온 익명 글", "title": "이런 결말은 '아무도' 몰랐다",
           "cap": str(O / "cap_hist.jpg"), "cap_max_h": 700, "box_bg": [255, 255, 255],
           "caption": "건국대 에브리타임 익명 게시글 캡처", "label": "그를 '드립의 소스'로 봤던 일주일",
           "lines": ["끝은 너무 '현실적'이었다"]}]
