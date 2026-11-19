@@ -51,9 +51,9 @@ def panel(rows, h=640, gap=None):
 
 
 # 2장: 실제 캡처 카드
-specs = [{"out": str(O / "c02.jpg"), "sub": "리트 만점자 사망 뒤 온라인에 퍼진 글", "title": "\"이런 결말을 '바란 건 아니야'\"",
+specs = [{"out": str(O / "c02.jpg"), "sub": "건국대 에브리타임에 올라온 익명 글", "title": "\"이런 결말을 '바란 건 아니야'\"",
           "cap": str(O / "cap_hist.jpg"), "cap_max_h": 700, "box_bg": [255, 255, 255],
-          "caption": "온라인 커뮤니티 글 캡처", "label": "그를 '드립의 소스'로 봤던 일주일",
+          "caption": "건국대 에브리타임 익명 게시글 캡처", "label": "그를 '드립의 소스'로 봤던 일주일",
           "lines": ["끝은 너무 '현실적'이었다"]}]
 sp = O / "specs.json"; sp.write_text(json.dumps(specs, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], check=True)
