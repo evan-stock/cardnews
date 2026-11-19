@@ -1,2 +1,3 @@
 키 있음, 글자 수 53
-Fenrir: 성공 51.5초
+  Fenrir HTTP 503: {"error":{"message":"gemini-3.8-flash-tts is currently experiencing high demand, spikes in demand are usually temporary. Please try again later.","code":"service_unavailable"}}
+Fenrir: 성공 50.2초
