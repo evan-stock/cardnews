@@ -58,24 +58,15 @@ def panel(rows, h=640, gap=None):
     for i, (k, v) in enumerate(rows):
         y = 40 + i * gap; d.text((56, y), k, font=F("Medium", 32), fill=(190, 190, 198)); rich(d, 56, y + 42, v, F("Black", 42))
     return p
-# 게시판 글 느낌의 '우리 정리 글'(디시 로고·갤러리명·조회/추천 등 실제 사이트 요소 없음, 작성자 = 오늘의쓸모)
-post = Image.new("RGB", (1440, 1720), (255, 255, 255)); d = ImageDraw.Draw(post)
-pf = Image.open(R / "brand/profile_today_worthy.png").convert("RGB").resize((110, 110), Image.LANCZOS); mk = Image.new("L", (110, 110), 0); ImageDraw.Draw(mk).ellipse((0, 0, 109, 109), fill=255); post.paste(pf, (60, 50), mk)
-d.text((200, 62), "today.worthy", font=F("ExtraBold", 46), fill=(20, 20, 20)); d.text((200, 120), "11/20", font=F("Medium", 34), fill=(150, 150, 155))
-d.text((60, 215), "발견된 건 성적표가 아니라 수험표였다", font=F("ExtraBold", 54), fill=(20, 20, 20))
-body = ["그가 한 일을 감싸려는 글이 아니다.", "안타깝다고 말하려는 것도 아니다.", "",
-        "다만 한 사람이 마지막까지 쥐고 있던 게", "무엇이었는지가 자꾸 생각난다.", "",
-        "18수능은 2017년 11월에 치른 시험이다.", "전과가 생기기 전, 혼자 힘으로 본 시험.", "",
-        "성적표는 언제든 다시 뽑을 수 있다.", "수험표는 한 번 잃어버리면 끝이다.", "그 한 장을 8년 넘게 갖고 있었다.", "",
-        "전국 3등 성적표도, 리트 만점도, 서울대 치대도 아니었다.", "투박하고 서툴렀지만 자기 힘으로 받은 18수능이었다."]
-y = 330
-for ln in body:
-    if ln: d.text((60, y), ln, font=F("Medium", 44), fill=(40, 40, 44))
-    y += 62 if ln else 38
-post = post.crop((0, 0, 1440, y + 40)); post.save(O / "post_ours.jpg", quality=94)
-spec = [{"out": str(O / "c05.jpg"), "sub": "18수능 수험표가 남긴 것", "title": "발견된 건 성적표가 아닌 '수험표'",
-         "cap": str(O / "post_ours.jpg"), "cap_max_h": 780, "box_bg": [255, 255, 255], "caption": "",
-         "label": "성적표는 다시 뽑을 수 있지만", "lines": ["수험표는 '한 장뿐'이다"]}]
-(O / "spec5.json").write_text(json.dumps(spec, ensure_ascii=False))
-subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(O / "spec5.json")], check=True)
-print("c05 ok")
+# 마지막 2장: X 칩찹ChipChap 트윗 원본 캡처(사용자 제공 스크린샷에서 본문만 잘라냄)
+spec = [
+ {"out": str(O / "c09.jpg"), "sub": "X 칩찹ChipChap (11/19)", "title": "\"마지막까지 '의미 있었던' 건 무엇이었나\"",
+  "cap": str(O / "tw1.jpg"), "cap_max_h": 760, "box_bg": [0, 0, 0], "caption": "X 칩찹ChipChap 게시물 캡처 (1/2)",
+  "label": "18수능은 2017년에 치른 시험", "lines": ["범죄 이전, '청년 이진우'의 시절"]},
+ {"out": str(O / "c10.jpg"), "sub": "X 칩찹ChipChap (이어서)", "title": "\"성적표가 아닌 '수험표'\"",
+  "cap": str(O / "tw2.jpg"), "cap_max_h": 700, "box_bg": [0, 0, 0], "caption": "X 칩찹ChipChap 게시물 캡처 (2/2)",
+  "label": "성적표는 다시 뽑을 수 있지만", "lines": ["수험표는 '한 번 잃어버리면 끝'"]},
+]
+(O / "spec_tw.json").write_text(json.dumps(spec, ensure_ascii=False))
+subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(O / "spec_tw.json")], check=True)
+print("tw ok")

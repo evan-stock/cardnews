@@ -10,15 +10,19 @@
    "c02.jpg",
    "c03.jpg",
    "c04.jpg",
-   "c05.jpg",
    "c06.jpg",
    "c07.jpg",
-   "c08.jpg"
+   "c08.jpg",
+   "c09.jpg",
+   "c10.jpg"
   ],
   "slides": [
    {
     "lay": "one",
     "t": "리트 만점자 사망 후\n모든 게 가짜였던 자의 '유일한 진짜'"
+   },
+   {
+    "raw": true
    },
    {
     "raw": true
@@ -60,13 +64,14 @@
     "date": "2026.11.19"
    },
    {
-    "publisher": "참고: X 칩찹ChipChap 글",
+    "publisher": "X 칩찹ChipChap 게시물",
     "date": "2026.11.19"
    }
   ],
   "photo_credits": [
    "디시인사이드 시대인재 N 재수종합 갤러리(표지 이미지)",
-   "수원대·연세대 에브리타임 익명 게시글"
+   "수원대·연세대 에브리타임 익명 게시글",
+   "X 칩찹ChipChap"
   ]
  }
 ]
