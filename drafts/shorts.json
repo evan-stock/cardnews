@@ -23,7 +23,7 @@
     "zoom": 1.15,
     "x": 0.5,
     "y": 0.0,
-    "audio": 2
+    "audio": 1.0
    },
    "caps": [
     {
@@ -125,7 +125,7 @@
     "zoom": 1.35,
     "x": 0.5,
     "y": 0.0,
-    "audio": 1.5
+    "audio": 0.6
    },
    "caps": [
     {
@@ -220,5 +220,8 @@
  "publish_now": true,
  "style": {
   "sub_y": 0.84
+ },
+ "voice": {
+  "engine": "gemini"
  }
 }
