@@ -60,8 +60,8 @@ def panel(rows, h=640, gap=None):
     return p
 # 게시판 글 느낌의 '우리 정리 글'(디시 로고·갤러리명·조회/추천 등 실제 사이트 요소 없음, 작성자 = 오늘의쓸모)
 post = Image.new("RGB", (1440, 1720), (255, 255, 255)); d = ImageDraw.Draw(post)
-d.ellipse((60, 50, 170, 160), fill=(205, 212, 216)); d.ellipse((92, 72, 138, 118), fill=(255, 255, 255)); d.pieslice((78, 112, 152, 186), 180, 360, fill=(255, 255, 255))
-d.text((200, 62), "오늘의쓸모 정리", font=F("ExtraBold", 46), fill=(20, 20, 20)); d.text((200, 120), "11/20 · 참고: X 칩찹ChipChap 글", font=F("Medium", 34), fill=(150, 150, 155))
+pf = Image.open(R / "brand/profile_today_worthy.png").convert("RGB").resize((110, 110), Image.LANCZOS); mk = Image.new("L", (110, 110), 0); ImageDraw.Draw(mk).ellipse((0, 0, 109, 109), fill=255); post.paste(pf, (60, 50), mk)
+d.text((200, 62), "today.worthy", font=F("ExtraBold", 46), fill=(20, 20, 20)); d.text((200, 120), "11/20", font=F("Medium", 34), fill=(150, 150, 155))
 d.text((60, 215), "발견된 건 성적표가 아니라 수험표였다", font=F("ExtraBold", 54), fill=(20, 20, 20))
 body = ["그가 한 일을 감싸려는 글이 아니다.", "안타깝다고 말하려는 것도 아니다.", "",
         "다만 한 사람이 마지막까지 쥐고 있던 게", "무엇이었는지가 자꾸 생각난다.", "",
@@ -73,8 +73,8 @@ for ln in body:
     if ln: d.text((60, y), ln, font=F("Medium", 44), fill=(40, 40, 44))
     y += 62 if ln else 38
 post = post.crop((0, 0, 1440, y + 40)); post.save(O / "post_ours.jpg", quality=94)
-spec = [{"out": str(O / "c05.jpg"), "sub": "오늘의쓸모 정리 (참고: X 칩찹ChipChap 글)", "title": "발견된 건 성적표가 아닌 '수험표'",
-         "cap": str(O / "post_ours.jpg"), "cap_max_h": 780, "box_bg": [255, 255, 255], "caption": "X 칩찹ChipChap 글을 참고해 오늘의쓸모가 정리한 글",
+spec = [{"out": str(O / "c05.jpg"), "sub": "18수능 수험표가 남긴 것", "title": "발견된 건 성적표가 아닌 '수험표'",
+         "cap": str(O / "post_ours.jpg"), "cap_max_h": 780, "box_bg": [255, 255, 255], "caption": "",
          "label": "성적표는 다시 뽑을 수 있지만", "lines": ["수험표는 '한 장뿐'이다"]}]
 (O / "spec5.json").write_text(json.dumps(spec, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(O / "spec5.json")], check=True)
