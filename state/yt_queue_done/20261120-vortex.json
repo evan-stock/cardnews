@@ -1,0 +1,50 @@
+{
+ "id": "20261120-vortex",
+ "finished_at": "2026-11-20T10:51:00+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/gSLHPgI3xeY",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261120-vortex/video/y1.mp4",
+   "mb": 17.6,
+   "view_count": 5880928,
+   "title": "Amazing landing An-225 in Rzeszow EPRZ 09.01.2022"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/0HIddtgGzDE",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261120-vortex/video/y2.mp4",
+   "mb": 35.3,
+   "view_count": 463773,
+   "title": "ADB Antonov An-225 Mriya UR-82060 Amazing landing in the fog / 9.01.2022 RWY27 EPRZ Rzeszów Jasionka"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/ZP8R_tzl0fM",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261120-vortex/video/y3.mp4",
+   "mb": 23.9,
+   "view_count": 379361,
+   "title": "Airbus A380 Emerge from thick fog above the houses"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/tZLXMKMgnS8",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261120-vortex/video/y4.mp4",
+   "mb": 2.1,
+   "view_count": 4317829,
+   "title": "Cessna 120 caught in helicopter wake turbulence"
+  }
+ ]
+}
