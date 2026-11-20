@@ -1,0 +1,66 @@
+{
+ "id": "20261120-t18",
+ "created": "2026-11-20T18:23:36.725948+09:00",
+ "items": [
+  {
+   "key": "cc7b890699e5",
+   "text": "케이지 앞문을 열어 주면 이 햄스터는요,",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "4bfe881d2841",
+   "text": "탈출 대신 집사한테 전력 질주.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "08ded065dcce",
+   "text": "다시 집에 넣으려 해도 안 내려온대요.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "햄스터는 눈이 나빠 냄새와 목소리로 집사를 알아본대요."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "196790f9de1b",
+   "text": "햄스터는 눈이 나빠 냄새와 목소리로 집사를 알아본대요.",
+   "ctx": {
+    "previous_text": "다시 집에 넣으려 해도 안 내려온대요.",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
