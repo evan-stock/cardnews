@@ -1,0 +1,56 @@
+{
+ "id": "20261120-t18",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-20T18:31:34.567878+09:00",
+ "publish_at": "2026-11-20T18:31:34.567898+09:00",
+ "publish_now": true,
+ "topic": "복귀 방식 3편(11.20 18:07): 케이지 앞문이 열린 걸 깨닫자 탈출 대신 집사 손으로 직진하는 시리안 햄스터 밀크셰이크(TikTok @milkshake.ham, 66만+ 24시간 만, Newsweek 2026.1.28 보도). 서서 집사 기다림 → 문 열림 깨달음·처리 중 → 손으로 직진 → 침대 위 전력 질주 → 소매 꽉 → 다시 넣으려 해도 안 놔줌 → 팔 위에서 꼼짝 안 함. '~한 ○○의 반응' 틀. 원본 소리는 전 구간 -18~-25dB로 끊김 없이 이어지는 덧입힌 음악이라 끔(audio 0). 원본 영어 캡션은 zoom·y 크롭으로 밀거나 작은 글자만 blur. 사실: PetMD(수의사 Melissa Witherell, 2026.3.26) — 햄스터는 근시라 얼굴보다 냄새·목소리로 사람을 알아본다.",
+ "sources": [
+  {
+   "publisher": "TikTok @milkshake.ham (Milkshake)",
+   "url": "https://www.tiktok.com/@milkshake.ham/video/7600031464930970902",
+   "date": "2026-01"
+  },
+  {
+   "publisher": "Newsweek - Hamster Realizes Owner Is Home, Viewers Not Prepared for His Reaction",
+   "url": "https://www.newsweek.com/hamster-realizes-owners-home-reaction-11429190",
+   "date": "2026-01-28"
+  },
+  {
+   "publisher": "PetMD - Are Hamsters Blind? (Melissa Witherell, DVM)",
+   "url": "https://www.petmd.com/exotic/are-hamsters-blind",
+   "date": "2026-03-26"
+  }
+ ],
+ "seconds": 19.18,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261120-t18/short.mp4"
+ ],
+ "app_file": "media/20261120-t18/short_nobgm.mp4",
+ "yt": {
+  "title": "케이지 문 열린 걸 깨달은 햄스터의 반응ㅋㅋ #shorts",
+  "description": "케이지 앞문이 열린 걸 알아챈 햄스터 밀크셰이크ㅋㅋ 탈출할 줄 알았는데 곧장 집사 손으로 직진.\n다시 집에 넣으려 해도 소매를 꽉 잡고 안 놔준대요.\n\n수의사 칼럼(PetMD)에 따르면 햄스터는 근시라 얼굴보다 냄새와 목소리로 사람을 알아본대요.\n\n여러분 햄찌도 집사 보면 달려오나요?\n\n영상: TikTok @milkshake.ham\n참고: Newsweek, PetMD\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#햄스터 #햄찌 #골든햄스터 #집사 #귀여운동물 #동물쇼츠 #반려동물 #오늘의털뭉치\n\n출처: TikTok @milkshake.ham (Milkshake) 2026-01, Newsweek - Hamster Realizes Owner Is Home, Viewers Not Prepared for His Reaction 2026-01-28, PetMD - Are Hamsters Blind? (Melissa Witherell, DVM) 2026-03-26\n사진·영상: TikTok @milkshake.ham\n음성: Typecast\n\n#shorts #햄스터 #햄찌 #골든햄스터 #시리안햄스터",
+  "tags": [
+   "햄스터",
+   "햄찌",
+   "골든햄스터",
+   "시리안햄스터",
+   "집사",
+   "귀여운동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "97860fddc14e",
+ "tg_video": 3038,
+ "tg_msg": 3039
+}
