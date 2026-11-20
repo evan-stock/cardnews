@@ -52,8 +52,12 @@ for n, p in enumerate(frames):
         im = Image.fromarray(np.clip(np.asarray(im, dtype="int16")
                                      + np.asarray(bright, dtype="int16") * args.glow, 0, 255).astype("uint8"))
     im = im.convert("RGBA")
-    for text, sz, x, y, col, st in labels:
-        im = pill(im, text, font(sz), x, y, hexrgb(col), min(max((fr - st) / 6, 0), 1))
+    for lb in labels:   # [글자, 크기, x, y, 색, 시작프레임(, 사라지는 프레임 — 생략 가능)]
+        text, sz, x, y, col, st = lb[:6]
+        a = min(max((fr - st) / 6, 0), 1)
+        if len(lb) > 6:
+            a *= min(max((lb[6] - fr) / 6, 0), 1)
+        im = pill(im, text, font(sz), x, y, hexrgb(col), a)
     im.convert("RGB").save(os.path.join(tmp, f"f{n:03d}.png"))
 
 os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)

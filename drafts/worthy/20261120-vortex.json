@@ -1,0 +1,39 @@
+{
+ "id": "20261120-vortex",
+ "media": "media/20261120-vortex",
+ "topic": "짙은 안개 속 하늘이 비행기가 지나간 자리만 길게 반으로 갈라짐 → 세계에서 가장 무거운 비행기 An-225 므리야(2022.01.09 폴란드 제슈프 착륙)의 날개 끝 소용돌이(후류)가 얇은 안개층을 휘저어 흩어 놓은 것, 뒤따르는 비행기가 휘청할 만큼 강해 착륙 간격을 둔다. 이 비행기는 7주 뒤(2022.02.27) 전쟁 중 호스토멜에서 파괴됨. 11.19 20:17 회차 1번(숏파일럿 '승객들 시선이 날개 끝에 고정된 이유' 112만 소재 재활용, 같은 현상 다른 원본) — 사용자 선택('그걸로해바', 3D 그래픽 만들기 좋은 소재).",
+ "hook": {
+  "t": "가장 무거운 비행기가\n'안개' 속을 지나가자"
+ },
+ "credit": "영상: YouTube Maciej Skop · Marcin Bober(EPML) · 그래픽: 오늘의쓸모",
+ "bgm": {"file": "assets/bgm/worthy/killers.mp3", "start": 185.5, "vol": 0.38},
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "실사(하늘 클로즈업·비행기 등장·군중): YouTube 'Maciej Skop' 'Amazing landing An-225 in Rzeszow EPRZ 09.01.2022' https://www.youtube.com/shorts/gSLHPgI3xeY — 촬영자 본인 게시물(588만). 원본 소리 끔.",
+  "실사(넓은 안개 벽·소용돌이 치는 안개): YouTube 'EPML Flight & Spotting' 'ADB Antonov An-225 Mriya UR-82060 Amazing landing in the fog' https://www.youtube.com/shorts/0HIddtgGzDE — 화면 표기 'Copyright Marcin Bober'(표기 구간은 잘라냄). 원본 소리 끔.",
+  "3D 그래픽: scripts/story_shorts/anim3d_vortex.py + gfx3d_post.py (오늘의쓸모 제작, Blender 로우폴리)."
+ ],
+ "sources": [
+  {"publisher": "The Aviationist 2022.01.11 'Here's What the Massive An-225's Wake Turbulence Does To Fog'", "url": "https://theaviationist.com/2022/01/11/an-225-wake-turbulence-fog"},
+  {"publisher": "AirlineRatings 'Dramatic video of the giant AN225 landing in fog'", "url": "https://www.airlineratings.com/news/dramatic-video-giant-an225-landing-fog"},
+  {"publisher": "Wikipedia 'Wingtip vortices' — 날개 아래 높은 압력 공기가 끝을 돌아 위로 말려 올라가며 생기는 소용돌이", "url": "https://en.wikipedia.org/wiki/Wingtip_vortices"},
+  {"publisher": "SKYbrary 'Mitigation of Wake Turbulence Hazard' — 뒤따르는 항공기 후류 분리 간격", "url": "https://skybrary.aero/articles/mitigation-wake-turbulence-hazard"},
+  {"publisher": "Wikipedia 'Antonov An-225 Mriya' — 최대이륙중량 640톤, 2022.02.27 호스토멜 공항에서 파괴", "url": "https://en.wikipedia.org/wiki/Antonov_An-225_Mriya"},
+  {"publisher": "Smithsonian Magazine 2022 'World's Largest Aircraft, Antonov AN-225, Has Been Destroyed'", "url": "https://www.smithsonianmag.com/smart-news/worlds-largest-aircraft-antonov-an-225-destroyed-in-ukraine-180979654/"}
+ ],
+ "_note": "실사 0~9.0초(5장면: 군중 위 갈라진 안개 벽 → 안개 벽 클로즈업 → 안개 속 비행기 그림자 → 머리 위 An-225 → 지나간 자리만 뚫림) → 3D 그래픽 9.0~15.0초(3장면, 답 공개 9.0초) → 실사 15.0~22.0초(휘몰아치는 안개 → 안개 벽+유도등 → 넓은 안개 벽 + 구독). 효과음 없음, 원본 소리 끔.",
+ "scenes": [
+  {"text": "하늘이 왜 반으로 갈라졌을까요?", "video": {"src": "clip/B.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 1.4},
+  {"text": "하늘이 왜 반으로 갈라졌을까요?", "video": {"src": "clip/A.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 1.4},
+  {"text": "몇 초 전, 짙은 안개 속에서", "video": {"src": "clip/C.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 1.8},
+  {"text": "세상에서 가장 무거운 비행기가 나타났는데", "video": {"src": "clip/D.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.2},
+  {"text": "지나간 자리만 길게 뚫려 버렸어요", "video": {"src": "clip/E.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.2},
+  {"text": "알고 보니 날개 아래 공기가 끝을 돌아 말려 올라가요", "video": {"src": "gfx/vortex_a.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 1.7},
+  {"text": "이 소용돌이 두 줄기가 뒤로 길게 끌려가며 안개를 휘저은 것", "video": {"src": "gfx/vortex_a.mp4", "start": 1.7, "x": 0.5, "y": 0.5}, "dur": 1.8},
+  {"text": "뒤따르는 작은 비행기는 휘청할 만큼 강해서 착륙 간격을 띄워요", "video": {"src": "gfx/vortex_b.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.5},
+  {"text": "640톤 비행기가 남긴 소용돌이가 안개를 흩어 놓은 거예요", "video": {"src": "clip/F.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "이 비행기는 7주 뒤 전쟁 중 파괴돼 다시 볼 수 없어요", "video": {"src": "clip/H.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4},
+  {"text": "하늘의 신기한 장면, 구독하면 계속 보여 드려요", "video": {"src": "clip/I.mp4", "start": 0, "x": 0.5, "y": 0.5}, "dur": 2.4}
+ ]
+}
