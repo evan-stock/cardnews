@@ -1,15 +1,14 @@
 [
  {
-  "id": "20261120-zeus",
+  "id": "20261120-zeusig2",
   "mode": "collect",
-  "image_pages": [],
-  "read_pages": [
-   "https://gall.dcinside.com/board/view/?id=dcbest&no=478366",
-   "https://www.fmkorea.com/best/10557568941",
-   "https://www.fmkorea.com/best/10554612608",
-   "https://www.metroseoul.co.kr/article/20260902500437",
-   "https://namu.wiki/w/%EB%83%A5%EC%9D%B4(%EC%9D%80%EC%96%B4)"
+  "image_pages": [
+   "https://www.instagram.com/p/Df4PP8BmhK7/embed/captioned/"
   ],
-  "limit": 1
+  "read_pages": [
+   "https://www.instagram.com/p/Df4PP8BmhK7/embed/captioned/",
+   "https://www.instagram.com/p/Df4PP8BmhK7/"
+  ],
+  "limit": 30
  }
 ]
