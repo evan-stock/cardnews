@@ -2,7 +2,7 @@
  "id": "20261120-leetsheet",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-20T12:56:13+09:00",
  "publish_at": "2026-11-20T12:56:13+09:00",
  "topic": "MBC 단독: 정부가 확보한 이진우(리트 만점자) 2026학년도 수능 시험지에서 정답 번호 몰아 적기·풀이 수식 없음 등 비정상 풀이 정황",
@@ -58,5 +58,8 @@
   "media/20261120-leetsheet/05.jpg",
   "media/20261120-leetsheet/06.jpg"
  ],
- "decided_at": "2026-11-20T12:56:13+09:00"
+ "decided_at": "2026-11-20T12:56:13+09:00",
+ "ig_media_id": "18136617358805775",
+ "permalink": "https://www.instagram.com/p/Df8vnVNlHm9/",
+ "published_at": "2026-11-20T12:59:12.370374+09:00"
 }
