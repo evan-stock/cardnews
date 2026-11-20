@@ -155,28 +155,6 @@ def floatcard(base, img, x, y, w, ang, pad=14, rad=22):
     base.alpha_composite(sh, (x - 40, y - 40))
 
 
-# 배경: 미트냥이 사진(모자이크 없이) + 시험지 카드가 얼굴을 덮음
-person = op("m1.jpg").crop((734, 70, 910, 482))
-ph = H; pw = round(person.width * ph / person.height)
-pimg = person.resize((pw, ph), Image.LANCZOS).filter(ImageFilter.UnsharpMask(2, 80, 2)).convert("RGBA")
-gm = Image.new("L", (pw, ph), 255); gd = ImageDraw.Draw(gm)
-for x in range(220):
-    gd.line((pw - 220 + x, 0, pw - 220 + x, ph), fill=int(255 * (1 - x / 220)))
-pimg.putalpha(gm)
-_bb = ImageOps.fit(op("m1.jpg").crop((300, 0, 910, 512)), (W, H), Image.LANCZOS, centering=(.3, .5)).filter(ImageFilter.GaussianBlur(22))
-cv = ImageEnhance.Brightness(_bb).enhance(.95).convert("RGBA"); cv.alpha_composite(pimg, (-20, 0))
-q1 = op("m9.jpg").crop((20, 281, 1000, 318))
-q2 = op("g5.jpg").crop((40, 1030, 920, 1220))
-ov = Image.new("RGBA", q2.size, (0, 0, 0, 0)); ImageDraw.Draw(ov).rectangle((0, 26, 880, 190), fill=(255, 216, 77, 110))
-q2 = Image.alpha_composite(q2.convert("RGBA"), ov).convert("RGB")
-q3 = op("m7.jpg").crop((27, 215, 663, 520))
-floatcard(cv, q3, 40, 215, 500, -5)   # 얼굴(약 x110~370, y250~580)을 덮는 위치
-floatcard(cv, q1, 430, 140, 610, 3)
-floatcard(cv, q2, 480, 330, 560, -2)
-_t = op("m6.jpg"); _t.paste(_t.crop((25, 400, 450, 436)).filter(ImageFilter.GaussianBlur(14)), (25, 400))
-q4 = _t.crop((15, 280, 630, 560))
-ov4 = Image.new("RGBA", q4.size, (0, 0, 0, 0)); ImageDraw.Draw(ov4).rectangle((268, 230, 612, 278), fill=(255, 216, 77, 120))
-q4 = Image.alpha_composite(q4.convert("RGBA"), ov4).convert("RGB")
-floatcard(cv, q4, 560, 560, 470, 4)
-cv.convert("RGB").save(O / "cover_bg.jpg", quality=95)
+# 표지: 미트냥이가 실제로 푼 시험지를 화면 가득
+fit("m7.jpg", W, H, (.5, .45), crop=(27, 215, 663, 845)).save(O / "cover_bg.jpg", quality=95)
 print("cover ok")
