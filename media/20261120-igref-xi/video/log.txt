@@ -1,0 +1,15 @@
+ERROR: [Instagram] Df9AH9nTJlx: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] Df9AICJTo3W: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] Df9AICjzRVq: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] Df9AIFmTzEz: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] Df9AIJmzowq: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] Df9AIMKzSLb: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] Df9AIQCzTTz: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] Df9AISbTRL7: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] Df9AIU2zwg8: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] Df9AIY0T4tC: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://www.instagram.com/p/Df9AJ4QEw0m/
+total 12
+drwxr-xr-x 2 runner runner 4096 Nov 20 06:42 .
+drwxr-xr-x 3 runner runner 4096 Nov 20 06:42 ..
+-rw-r--r-- 1 runner runner 2349 Nov 20 06:42 log.txt
