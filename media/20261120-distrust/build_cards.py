@@ -68,6 +68,14 @@ def stack(a, b, gap=16):
     im = Image.new("RGB", (940, a.height + gap + b.height), (10, 10, 12)); im.paste(a, (0, 0)); im.paste(b, (0, a.height + gap)); return im
 
 
+# 냥이 리스트(리트냥이 줄 가림)
+frame(("세무냥이 자수 뒤 온라인에 돈", "'고양이 목록'"),
+      cap("press30.jpg", (0, 0, 689, 395), blur=[(0, 120, 689, 162)], mark=[(0, 162, 689, 200), (0, 238, 689, 276)]),
+      "고득점·단기 합격만으로 '냥이' 딱지", "온라인 커뮤니티 게시물(더팩트 보도 갈무리)").save(O / "c02.jpg", quality=93)
+# 세무사 최연소
+frame(("세무사 최연소 합격자(21)는", "\"AI 안경 썼지?\" '악플'"),
+      stack(cap("press02.jpg", (0, 0, 1276, 715)), cap("press04.jpg", (0, 200, 1282, 560), maxh=200)),
+      "공부한 교재 수십 권 들고 직접 '반박'", "\"518등, 과락 겨우 면했다\" · MBC 뉴스데스크 화면").save(O / "c03.jpg", quality=93)
 # 미트냥이 1: 6년 준비 + 성적표
 frame(("MDEET 전국 1등 '미트냥이'", "\"1년 아니라 '6년' 준비했다\""),
       stack(cap("m6.jpg", (0, 0, 1080, 245)), cap("m6.jpg", (15, 280, 630, 560), blur=[(115, 400, 450, 436), (25, 400, 112, 436)], maxh=420)),
@@ -81,3 +89,12 @@ frame(("'6개월 합격' 감평냥이도", "학력·성적·공부 사진까지 
       stack(cap("g5.jpg", (40, 1030, 920, 1200), mark=[(0, 0, 880, 170)]), cap("g8.jpg", (69, 900, 872, 1460), maxh=440)),
       "\"서울대 석사, '6개월' 표현은 부적절했다\"", "본인 2차 해명문 캡처 · 11.19").save(O / "c06.jpg", quality=93)
 print("ok")
+
+# 표지 후보: X=MBC 화면 / Z=해명 자료 4분할
+_b = op("press30.jpg"); _b.paste(_b.crop((0, 120, 689, 162)).filter(ImageFilter.GaussianBlur(14)), (0, 120)); _b.save(O / "press30b.jpg", quality=95)
+fit("press02.jpg", W, H, (.6, .5), crop=(380, 70, 1100, 545)).save(O / "cvX.jpg", quality=95)
+q = [ImageOps.fit(op(n).crop(b), (540, 675), Image.LANCZOS) for n, b in
+     [("press02.jpg", (640, 60, 1276, 560)), ("m6.jpg", (15, 440, 630, 560)), ("g8.jpg", (69, 900, 872, 1460)), ("press30b.jpg", (0, 0, 689, 300))]]
+Z = Image.new("RGB", (W, H))
+for i, t in enumerate(q): Z.paste(t, ((i % 2) * 540, (i // 2) * 675))
+Z.save(O / "cvZ.jpg", quality=95)
