@@ -1,215 +1,45 @@
 {
- "id": "20261119-t18",
- "mode": "send",
+ "id": "20261120-t18",
+ "mode": "render",
  "format": "meme",
- "topic": "복귀 방식 2편(11.19 18:07): 밤 10시만 되면 집사를 재우러 오는 고양이 와플(크림색 고양이, Instagram @thegoldenbreakfastclub, 1,300만 회·좋아요 190만, CatTime/AOL·GreaterGood 2026.4.14 보도). 하악 하품 → 자는 집사 얼굴 툭툭·깨물기 → 손목시계 가리키기 → 옷 물고 끌기 → 인내심 바닥 야옹 → 결국 품에 안겨 골골. '~하면 단속 나오는 ○○' 틀(11.01 임신 집사 고양이 8.9천 계열). 원본 소리는 음악 아닌 야옹·하품·골골 소리라 살림. 원본 영어 캡션 있는 구간은 빼고 글자 없는 구간(15~19, 30.5~36, 41.5~44, 54~56, 59~60, 68~75초)만 사용, 59초 장면은 zoom 1.25 y 0 으로 아래 캡션 밀어냄. 사실: Hill's Pet — 고양이는 하루 12~16시간 잔다.",
+ "topic": "복귀 방식 3편(11.20 18:07): 케이지 앞문이 열린 걸 깨닫자 탈출 대신 집사 손으로 직진하는 시리안 햄스터 밀크셰이크(TikTok @milkshake.ham, 66만+ 24시간 만, Newsweek 2026.1.28 보도). 서서 집사 기다림 → 문 열림 깨달음·처리 중 → 손으로 직진 → 침대 위 전력 질주 → 소매 꽉 → 다시 넣으려 해도 안 놔줌 → 팔 위에서 꼼짝 안 함. '~한 ○○의 반응' 틀. 원본 소리는 전 구간 -18~-25dB로 끊김 없이 이어지는 덧입힌 음악이라 끔(audio 0). 원본 영어 캡션은 zoom·y 크롭으로 밀거나 작은 글자만 blur. 사실: PetMD(수의사 Melissa Witherell, 2026.3.26) — 햄스터는 근시라 얼굴보다 냄새·목소리로 사람을 알아본다.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 0.85,
+ "bgm_volume": 2.3,
  "sfx_max": 4,
  "hook": {
-  "t": "밤 10시 넘게 안 자면\n'단속 나오는 고양이ㅋㅋ'"
+  "t": "케이지 문 열린 걸 깨달은\n'햄스터의 반응ㅋㅋ'"
  },
  "photo_credits": [
-  "Instagram @thegoldenbreakfastclub"
+  "TikTok @milkshake.ham"
  ],
- "credit": "영상: Instagram @thegoldenbreakfastclub",
- "scenes": [
-  {
-   "dur": 2.6,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 16.0,
-    "zoom": 1.15,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(하아악)",
-     "x": 0.72,
-     "y": 0.12,
-     "at": 0.0,
-     "to": 2.6,
-     "s": "dundun",
-     "sv": 0.7
-    },
-    {
-     "k": "talk",
-     "t": "10시 넘었다고!!",
-     "x": 0.3,
-     "y": 0.42,
-     "at": 0.4,
-     "to": 2.6
-    }
-   ]
-  },
-  {
-   "say": "밤 10시만 넘으면 집사를 재우러 오는 와플인데요.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 30.6,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.4
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "소파에서 자지 마",
-     "x": 0.6,
-     "y": 0.25,
-     "at": 0.8
-    }
-   ]
-  },
-  {
-   "dur": 2.4,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 41.6,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 2
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(시계 톡톡)",
-     "x": 0.3,
-     "y": 0.12,
-     "at": 0.0,
-     "to": 2.4,
-     "s": "pop",
-     "sv": 0.7
-    },
-    {
-     "k": "talk",
-     "t": "몇 시야, 지금?",
-     "x": 0.68,
-     "y": 0.3,
-     "at": 0.4,
-     "to": 2.4
-    }
-   ]
-  },
-  {
-   "say": "그래도 안 일어나면 옷을 물고 끌고 갑니다.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 54.1,
-    "zoom": 1.35,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0.4
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "침대 가자고",
-     "x": 0.65,
-     "y": 0.25,
-     "at": 0.8
-    }
-   ]
-  },
-  {
-   "dur": 1.8,
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 59.0,
-    "zoom": 1.35,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0.6
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(인내심 바닥)",
-     "x": 0.7,
-     "y": 0.12,
-     "at": 0.0,
-     "to": 1.8,
-     "s": "boing",
-     "sv": 0.6
-    },
-    {
-     "k": "talk",
-     "t": "마지막 경고다",
-     "x": 0.3,
-     "y": 0.35,
-     "at": 0.3,
-     "to": 1.8
-    }
-   ]
-  },
-  {
-   "say": "고양이는 하루 열두 시간에서 열여섯 시간을 잔대요.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 68.2,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.8
-   },
-   "caps": [
-    {
-     "k": "desc",
-     "t": "고양이는 하루 12~16시간 잠을 자요\n(힐스펫 수의사 감수 자료)",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.2,
-     "size": 48
-    },
-    {
-     "k": "talk",
-     "t": "그러니까 너도 자",
-     "x": 0.65,
-     "y": 0.5,
-     "at": 1.4,
-     "s": "fail",
-     "sv": 0.6
-    }
-   ]
-  }
- ],
+ "credit": "영상: TikTok @milkshake.ham",
  "sources": [
   {
-   "publisher": "Instagram @thegoldenbreakfastclub (Waffles)",
-   "url": "https://www.instagram.com/reel/DSlUIwniQL0/",
-   "date": "2025"
+   "publisher": "TikTok @milkshake.ham (Milkshake)",
+   "url": "https://www.tiktok.com/@milkshake.ham/video/7600031464930970902",
+   "date": "2026-01"
   },
   {
-   "publisher": "CatTime(AOL) - Video: Owner Shows How Cat Enforces 10 PM Bedtime",
-   "url": "https://www.aol.com/articles/video-owner-shows-cat-enforces-131744724.html",
-   "date": "2026"
+   "publisher": "Newsweek - Hamster Realizes Owner Is Home, Viewers Not Prepared for His Reaction",
+   "url": "https://www.newsweek.com/hamster-realizes-owners-home-reaction-11429190",
+   "date": "2026-01-28"
   },
   {
-   "publisher": "GreaterGood - Determined Cat Refuses To Let His Humans Miss Their 10 P.M. Bedtime",
-   "url": "https://greatergood.com/blogs/news/cw-viral-cat-enforces-10-pm-bedtime-with-adorable-routine",
-   "date": "2026-04-14"
-  },
-  {
-   "publisher": "Hill's Pet Nutrition - Why Do Cats Sleep So Much?",
-   "url": "https://www.hillspet.com/cat-care/behavior-appearance/why-cats-sleep-so-much",
-   "date": "2018"
+   "publisher": "PetMD - Are Hamsters Blind? (Melissa Witherell, DVM)",
+   "url": "https://www.petmd.com/exotic/are-hamsters-blind",
+   "date": "2026-03-26"
   }
  ],
  "yt": {
-  "title": "밤 10시 넘게 안 자면 단속 나오는 고양이ㅋㅋ #shorts",
-  "description": "밤 10시만 넘으면 집사를 재우러 오는 고양이 와플ㅋㅋ 하악 하품부터 얼굴 툭툭, 손목시계 가리키기, 옷 물고 끌고 가기까지...\n결국 집사 품에 안겨서야 골골.\n\n힐스펫(Hill's Pet) 자료에 따르면 고양이는 하루 12~16시간을 잔대요.\n\n여러분 냥이도 잘 시간 되면 단속 나오나요?\n\n영상: Instagram @thegoldenbreakfastclub\n참고: CatTime, GreaterGood, Hill's Pet\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#고양이 #냥이 #집사 #고양이잠 #치즈냥 #귀여운동물 #동물쇼츠 #오늘의털뭉치",
+  "title": "케이지 문 열린 걸 깨달은 햄스터의 반응ㅋㅋ #shorts",
+  "description": "케이지 앞문이 열린 걸 알아챈 햄스터 밀크셰이크ㅋㅋ 탈출할 줄 알았는데 곧장 집사 손으로 직진.\n다시 집에 넣으려 해도 소매를 꽉 잡고 안 놔준대요.\n\n수의사 칼럼(PetMD)에 따르면 햄스터는 근시라 얼굴보다 냄새와 목소리로 사람을 알아본대요.\n\n여러분 햄찌도 집사 보면 달려오나요?\n\n영상: TikTok @milkshake.ham\n참고: Newsweek, PetMD\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#햄스터 #햄찌 #골든햄스터 #집사 #귀여운동물 #동물쇼츠 #반려동물 #오늘의털뭉치",
   "tags": [
-   "고양이",
-   "냥이",
+   "햄스터",
+   "햄찌",
+   "골든햄스터",
+   "시리안햄스터",
    "집사",
-   "고양이잠",
-   "치즈냥",
    "귀여운동물",
    "동물쇼츠",
    "오늘의털뭉치"
@@ -221,7 +51,219 @@
  "style": {
   "sub_y": 0.84
  },
- "voice": {
-  "engine": "gemini"
- }
+ "scenes": [
+  {
+   "dur": 1.8,
+   "video": {
+    "src": "video/h1.mp4",
+    "start": 3.0,
+    "zoom": 1.15,
+    "x": 0.5,
+    "y": 1.0,
+    "audio": 0,
+    "blur": [
+     [
+      165,
+      718,
+      250,
+      46
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(집사 기다리는 중)",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.0,
+     "to": 1.8,
+     "s": "dundun",
+     "sv": 0.7
+    },
+    {
+     "k": "talk",
+     "t": "엄마 언제 와?",
+     "x": 0.72,
+     "y": 0.42,
+     "at": 0.3,
+     "to": 1.8
+    }
+   ]
+  },
+  {
+   "say": "케이지 앞문을 열어 주면 이 햄스터는요,",
+   "video": {
+    "src": "video/h1.mp4",
+    "start": 16.5,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
+    "blur": [
+     [
+      165,
+      266,
+      180,
+      44
+     ],
+     [
+      235,
+      632,
+      245,
+      60
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "...문 열렸다?",
+     "x": 0.3,
+     "y": 0.3,
+     "at": 1.0
+    }
+   ]
+  },
+  {
+   "dur": 3.0,
+   "video": {
+    "src": "video/h1.mp4",
+    "start": 20.5,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(상황 파악 끝)",
+     "x": 0.5,
+     "y": 0.1,
+     "at": 0.0,
+     "to": 3.0,
+     "s": "whoosh",
+     "sv": 0.6
+    },
+    {
+     "k": "talk",
+     "t": "엄마한테 직진!!",
+     "x": 0.3,
+     "y": 0.32,
+     "at": 0.4,
+     "to": 3.0
+    }
+   ]
+  },
+  {
+   "say": "탈출 대신 집사한테 전력 질주.",
+   "video": {
+    "src": "video/h1.mp4",
+    "start": 30.1,
+    "zoom": 1.15,
+    "x": 0.5,
+    "y": 0.5,
+    "audio": 0,
+    "blur": [
+     [
+      110,
+      368,
+      255,
+      44
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "엄마아아!!",
+     "x": 0.68,
+     "y": 0.2,
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "dur": 2.0,
+   "video": {
+    "src": "video/h1.mp4",
+    "start": 34.2,
+    "zoom": 1.3,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(꽉)",
+     "x": 0.25,
+     "y": 0.12,
+     "at": 0.0,
+     "to": 2.0,
+     "s": "pop",
+     "sv": 0.7
+    },
+    {
+     "k": "talk",
+     "t": "이제 안 놔줘",
+     "x": 0.68,
+     "y": 0.5,
+     "at": 0.3,
+     "to": 2.0
+    }
+   ]
+  },
+  {
+   "say": "다시 집에 넣으려 해도 안 내려온대요.",
+   "video": {
+    "src": "video/h1.mp4",
+    "start": 39.3,
+    "zoom": 1.3,
+    "x": 0.5,
+    "y": 0.75,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "여기가 내 집이야",
+     "x": 0.35,
+     "y": 0.3,
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "say": "햄스터는 눈이 나빠 냄새와 목소리로 집사를 알아본대요.",
+   "video": {
+    "src": "video/h1.mp4",
+    "start": 55.0,
+    "zoom": 1.3,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "desc",
+     "t": "햄스터는 근시라 얼굴보다\n냄새와 목소리로 사람을 알아봐요\n(PetMD 수의사 칼럼, 2026)",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.2,
+     "size": 48
+    },
+    {
+     "k": "talk",
+     "t": "눈은 나빠도 엄마는 알아",
+     "x": 0.5,
+     "y": 0.66,
+     "at": 1.4,
+     "s": "sparkle",
+     "sv": 0.6
+    }
+   ]
+  }
+ ]
 }
