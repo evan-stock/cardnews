@@ -72,7 +72,7 @@ def mosaic(name, out, boxes, k=14):
     im.save(O / out, quality=95)
 
 
-mosaic("press02.jpg", "press02m.jpg", [(855, 80, 975, 220)])  # 세무사 최연소 얼굴
+mosaic("press02.jpg", "press02m.jpg", [(855, 80, 975, 220), (36, 540, 132, 578)])  # 세무사 최연소 얼굴
 mosaic("m1.jpg", "m1m.jpg", [(745, 140, 850, 270)])  # 미트냥이 얼굴
 
 
