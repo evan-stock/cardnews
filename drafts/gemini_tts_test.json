@@ -11,5 +11,6 @@
  "tag": "_xisnub",
  "gap": 0.1,
  "ref_mp3s": [],
- "try": 3
+ "try": 3,
+ "retry": 1
 }
