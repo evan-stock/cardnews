@@ -21,3 +21,7 @@ specs = [
 sp = O / "specs.json"; sp.write_text(json.dumps(specs, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], check=True)
 print("ok")
+
+# 표지: 흰 배경 손짓 인터뷰 사진(11/18 특강 게시물 표지에 한 번만 쓴 사진) 흑백. 증명사진은 표지에 8번 써서 바꿈(11/20 사용자 지시)
+from PIL import Image, ImageOps
+ImageOps.grayscale(Image.open(O / "cover_src.jpg")).convert("RGB").save(O / "cover_bg.jpg", quality=94)
