@@ -161,3 +161,15 @@ _bg = ImageEnhance.Brightness(ImageOps.fit(_pp, (W, H), Image.LANCZOS).filter(Im
 floatcard(_bg, _pp, 90, 60, 860, -2, pad=10, rad=18)  # 확대를 1.35배로 줄여 선명하게
 _bg.convert("RGB").save(O / "cover_bg.jpg", quality=95)
 print("cover ok")
+
+
+# 장마다 누구 해명인지 딱지(2026.11.20 사용자 지시: 미트냥이/감평냥이 구분)
+def tag(name, label, color):
+    im = Image.open(O / name).convert("RGB"); d = ImageDraw.Draw(im); f = F("Black", 34)
+    tw = d.textlength(label, font=f); x0 = (W - tw) / 2 - 28; y0 = 48
+    d.rounded_rectangle((x0, y0, x0 + tw + 56, y0 + 58), 29, fill=color)
+    d.text((W / 2, y0 + 29), label, font=f, fill=(10, 10, 12), anchor="mm"); im.save(O / name, quality=93)
+
+
+for n in ("c04.jpg", "c05.jpg", "c06.jpg", "c07.jpg"): tag(n, "미트냥이 해명", (255, 216, 77))
+for n in ("c08.jpg", "c09.jpg", "c10.jpg", "c11.jpg"): tag(n, "감평냥이 해명", (120, 200, 255))
