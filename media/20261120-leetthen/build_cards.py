@@ -5,7 +5,7 @@ from pathlib import Path
 from PIL import Image, ImageOps
 D = Path(__file__).parent; R = D.parents[1]; O = D / "cand"
 # 표지: 백지연 채널 인터뷰 장면(이전 게시물 표지에 안 쓴 사진). 채널 로고 없는 영역으로 자른 cover_b.jpg 사용
-Image.open(O / "cover_b.jpg").convert("RGB").save(O / "cover_bg.jpg", quality=94)
+Image.open(O / "cover_b.jpg").convert("RGB").crop((40, 0, 1000, 1200)).resize((1080, 1350), Image.LANCZOS).save(O / "cover_bg.jpg", quality=94)  # 아래 자막 잘라냄
 W_ = dict(box_bg=[255, 255, 255])
 specs = [
  {"out": str(O / "c02.jpg"), "sub": "디시 싱글벙글 지구촌 갤러리 (7월 22일)", "title": "\"20년 만에 LEET '만점자 탄생'\"",
