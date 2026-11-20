@@ -155,17 +155,22 @@ def floatcard(base, img, x, y, w, ang, pad=14, rad=22):
     base.alpha_composite(sh, (x - 40, y - 40))
 
 
-# 배경: 치전원 상징(치아 모형, 뉴시스 자료사진) + 해명문·시험지 캡처 카드
-bgp = ImageOps.fit(op("press20.jpg"), (W, H), Image.LANCZOS, centering=(.55, .5))
-bgp = ImageEnhance.Brightness(bgp).enhance(.55)
-cv = bgp.convert("RGBA")
+# 배경: 미트냥이 사진(모자이크 없이) + 시험지 카드가 얼굴을 덮음
+person = op("m1.jpg").crop((734, 70, 910, 482))
+ph = H; pw = round(person.width * ph / person.height)
+pimg = person.resize((pw, ph), Image.LANCZOS).filter(ImageFilter.UnsharpMask(2, 80, 2)).convert("RGBA")
+gm = Image.new("L", (pw, ph), 255); gd = ImageDraw.Draw(gm)
+for x in range(220):
+    gd.line((pw - 220 + x, 0, pw - 220 + x, ph), fill=int(255 * (1 - x / 220)))
+pimg.putalpha(gm)
+cv = Image.new("RGBA", (W, H), (18, 18, 22, 255)); cv.alpha_composite(pimg, (-20, 0))
 q1 = op("m9.jpg").crop((20, 281, 1000, 318))
 q2 = op("g5.jpg").crop((40, 1030, 920, 1220))
 ov = Image.new("RGBA", q2.size, (0, 0, 0, 0)); ImageDraw.Draw(ov).rectangle((0, 26, 880, 190), fill=(255, 216, 77, 110))
 q2 = Image.alpha_composite(q2.convert("RGBA"), ov).convert("RGB")
-q3 = op("m7.jpg").crop((27, 215, 663, 845))
-floatcard(cv, q3, 70, 120, 430, -4)
-floatcard(cv, q1, 420, 150, 610, 3)
-floatcard(cv, q2, 470, 330, 560, -2)
+q3 = op("m7.jpg").crop((27, 215, 663, 520))
+floatcard(cv, q3, 40, 215, 500, -5)   # 얼굴(약 x110~370, y250~580)을 덮는 위치
+floatcard(cv, q1, 430, 140, 610, 3)
+floatcard(cv, q2, 480, 330, 560, -2)
 cv.convert("RGB").save(O / "cover_bg.jpg", quality=95)
 print("cover ok")
