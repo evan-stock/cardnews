@@ -136,4 +136,15 @@ for k, (n, c, cr) in {"P": ("press06.jpg", (.5, .5), None), "Q": ("press22.jpg",
                        "R": ("press24.jpg", (.5, .5), None), "T": ("press18.jpg", (.5, .5), None)}.items():
     fit(n, W, H, c, crop=cr).save(O / f"cv{k}.jpg", quality=95)
 
-import shutil; shutil.copy(O / "cvQ.jpg", O / "cover_bg.jpg")  # 표지 Q(얼굴 없는 사진)
+
+# 표지: 왼쪽 미트냥이(모자이크) / 오른쪽 감평냥이 해명문(서울대 석사 강조)
+L = ImageOps.fit(op("m1m.jpg").crop((700, 90, 910, 470)), (540, 1350), Image.LANCZOS, centering=(.5, .3))
+Rr = Image.new("RGB", (540, 1350), (24, 24, 28))
+hd = op("g1.jpg").crop((0, 195, 943, 385)); hd = hd.resize((520, round(hd.height * 520 / hd.width)), Image.LANCZOS)
+pg = op("g5.jpg").crop((40, 1030, 920, 1590))
+ov = Image.new("RGBA", pg.size, (0, 0, 0, 0)); ImageDraw.Draw(ov).rectangle((0, 26, 880, 196), fill=(255, 216, 77, 110))
+pg = Image.alpha_composite(pg.convert("RGBA"), ov).convert("RGB"); pg = pg.resize((520, round(pg.height * 520 / pg.width)), Image.LANCZOS)
+Rr.paste(hd, (10, 150)); Rr.paste(pg, (10, 150 + hd.height + 14))
+cv = Image.new("RGB", (W, H)); cv.paste(L, (0, 0)); cv.paste(Rr, (540, 0))
+ImageDraw.Draw(cv).rectangle((537, 0, 542, H), fill=(10, 10, 12))
+cv.save(O / "cover_bg.jpg", quality=95)
