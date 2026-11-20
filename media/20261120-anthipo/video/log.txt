@@ -1,0 +1,7 @@
+total 78492
+drwxr-xr-x 2 runner runner     4096 Nov 20 09:29 .
+drwxr-xr-x 3 runner runner     4096 Nov 20 09:29 ..
+-rw-r--r-- 1 runner runner        0 Nov 20 09:29 log.txt
+-rw-r--r-- 1 runner runner 80363412 Nov 20 09:29 v1.mp4
+-rw-r--r-- 1 runner runner      492 Nov 20 09:29 x1.json
+재압축: media/20261120-anthipo/video/v1.mp4 72.042667초 → 5525k
