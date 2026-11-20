@@ -1,0 +1,25 @@
+ERROR: [twitter] 2123643643672272975: No video could be found in this tweet
+사진 받음 p1_1.jpg
+사진 받음 p1_2.jpg
+사진 받음 p1_3.jpg
+사진 받음 p1_4.jpg
+사진 받음 p1_5.jpg
+사진 받음 p1_6.jpg
+사진 받음 p1_7.jpg
+사진 받음 p1_8.jpg
+사진 받음 p1_9.jpg
+영상 없는 글(사진만): https://x.com/hmgod111652/status/2123643643672272975
+total 1152
+drwxr-xr-x 2 runner runner   4096 Nov 20 05:28 .
+drwxr-xr-x 3 runner runner   4096 Nov 20 05:28 ..
+-rw-r--r-- 1 runner runner    366 Nov 20 05:28 log.txt
+-rw-r--r-- 1 runner runner  77225 Nov 20 05:28 p1_1.jpg
+-rw-r--r-- 1 runner runner 165598 Nov 20 05:28 p1_2.jpg
+-rw-r--r-- 1 runner runner 116577 Nov 20 05:28 p1_3.jpg
+-rw-r--r-- 1 runner runner 129040 Nov 20 05:28 p1_4.jpg
+-rw-r--r-- 1 runner runner 104764 Nov 20 05:28 p1_5.jpg
+-rw-r--r-- 1 runner runner 117512 Nov 20 05:28 p1_6.jpg
+-rw-r--r-- 1 runner runner 145711 Nov 20 05:28 p1_7.jpg
+-rw-r--r-- 1 runner runner 143465 Nov 20 05:28 p1_8.jpg
+-rw-r--r-- 1 runner runner 144577 Nov 20 05:28 p1_9.jpg
+-rw-r--r-- 1 runner runner   1406 Nov 20 05:28 x1.json
