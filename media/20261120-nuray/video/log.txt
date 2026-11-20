@@ -1,0 +1,12 @@
+ERROR: [twitter] 2123515996921065599: No video could be found in this tweet
+사진 받음 p2_1.jpg
+사진 받음 p2_2.jpg
+영상 없는 글(사진만): https://x.com/tirajnews/status/2123515996921065599
+total 84
+drwxr-xr-x 2 runner runner  4096 Nov 20 08:53 .
+drwxr-xr-x 4 runner runner  4096 Nov 20 08:52 ..
+-rw-r--r-- 1 runner runner   203 Nov 20 08:52 log.txt
+-rw-r--r-- 1 runner runner 44185 Nov 20 08:52 p2_1.jpg
+-rw-r--r-- 1 runner runner 17879 Nov 20 08:52 p2_2.jpg
+-rw-r--r-- 1 runner runner  1570 Nov 20 08:52 x1.json
+-rw-r--r-- 1 runner runner  1043 Nov 20 08:52 x2.json
