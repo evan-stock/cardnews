@@ -1,19 +1,15 @@
 [
  {
-  "id": "20261120-distrust",
+  "id": "20261120-zeus",
   "mode": "collect",
-  "image_pages": [
-   "https://www.wikitree.co.kr/articles/1175636",
-   "https://www.wikitree.co.kr/articles/1176300",
-   "https://www.wikitree.co.kr/articles/1176061",
-   "https://www.newsis.com/view/NISX20261116_0003869117",
-   "https://news.tf.co.kr/read/life/2390054.htm",
-   "https://www.newspim.com/news/view/20261120000563",
-   "https://www.seoul.co.kr/news/society/education-news/2026/11/18/20261118500277",
-   "https://www.gukjenews.com/news/articleView.html?idxno=3757876",
-   "https://www.hankyung.com/article/202611184503i",
-   "https://www.huffingtonpost.kr/article/262187"
+  "image_pages": [],
+  "read_pages": [
+   "https://gall.dcinside.com/board/view/?id=dcbest&no=478366",
+   "https://www.fmkorea.com/best/10557568941",
+   "https://www.fmkorea.com/best/10554612608",
+   "https://www.metroseoul.co.kr/article/20260902500437",
+   "https://namu.wiki/w/%EB%83%A5%EC%9D%B4(%EC%9D%80%EC%96%B4)"
   ],
-  "limit": 40
+  "limit": 1
  }
 ]
