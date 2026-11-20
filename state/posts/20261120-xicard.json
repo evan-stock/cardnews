@@ -2,7 +2,7 @@
  "id": "20261120-xicard",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-20T15:53:00.207841+09:00",
  "publish_at": "2026-11-20T18:00:00+09:00",
  "topic": "같은 날 시진핑, 트럼프 환대 vs 다카이치 냉대(선전 APEC) 장면 비교 캐러셀",
@@ -58,5 +58,6 @@
   "media/20261120-xicard/04.jpg",
   "media/20261120-xicard/05.jpg"
  ],
- "tg_msg": 3013
+ "tg_msg": 3013,
+ "decided_at": "2026-11-20T16:57:30+09:00"
 }
