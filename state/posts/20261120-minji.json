@@ -2,7 +2,7 @@
  "id": "20261120-minji",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-20T11:56:20+09:00",
  "publish_at": "2026-11-20T11:56:20+09:00",
  "topic": "리트 만점자 이진우 사망 뒤 재조명된 '하버드 박사' 김민지 학력·추천사 허위 사건(2025.6)",
@@ -78,5 +78,8 @@
   "media/20261120-minji/08.jpg",
   "media/20261120-minji/09.jpg"
  ],
- "decided_at": "2026-11-20T11:56:20+09:00"
+ "decided_at": "2026-11-20T11:56:20+09:00",
+ "ig_media_id": "18160973179510478",
+ "permalink": "https://www.instagram.com/p/Df8oyQ9FODk/",
+ "published_at": "2026-11-20T11:59:33.044723+09:00"
 }
