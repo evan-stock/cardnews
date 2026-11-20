@@ -66,7 +66,7 @@ def panel(rows, h=640, gap=None):
 
 
 def sbs(n):  # SBS 1280x720: 위 로고·아래 박힌 자막 잘라냄
-    return op(n).crop((40, 70, 1180, 612))
+    return op(n).crop((40, 95, 1130, 612))
 def pair(a, b, h=372):
     im = Image.new("RGB", (940, h * 2 + 14), (10, 10, 12))
     im.paste(fit(a, 940, h, (.5, .5)), (0, 0)); im.paste(fit(b, 940, h, (.5, .5)), (0, h + 14))
