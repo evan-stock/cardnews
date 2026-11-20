@@ -26,7 +26,20 @@ specs = [
  {"out": str(O / "c07.jpg"), "sub": "다시 7월 22일, 같은 글 댓글", "title": "그때도 '이런 댓글'은 있었다",
   "cap": str(O / "sb_cmt_ai.jpg"), "cap_max_h": 600, **W_, "caption": "",
   "label": "\"공부법 하나 바꾼다고 만점이 돼?\"", "lines": ["넉 달 뒤, 이 질문이 '모든 것'이 됐다"]},
+ {"out": str(O / "f1.jpg"), "sub": "에펨코리아 포텐 (7월 25일)", "title": "\"19년 역사상 최초 '리트 만점'\"",
+  "cap": str(O / "fm1_post.jpg"), "cap_max_h": 760, **W_, "caption": "조회 31만, 추천 696, 댓글 594개가 달린 인기글",
+  "label": "에타에 올라온 '인생 요약'이 퍼졌다", "lines": ["\"11~12월 '공부관 책' 출판 예정\""]},
+ {"out": str(O / "f2.jpg"), "sub": "같은 글 베스트 댓글 (7월 25일)", "title": "\"'본인이 올린 거' 아니냐 ㅋㅋ\"",
+  "cap": str(O / "fm1_cmt.jpg"), "cap_max_h": 600, **W_, "caption": "",
+  "label": "추천 188개를 받은 댓글", "lines": ["넉 달 뒤 '오르비 부계정' 의혹이 나왔다"]},
+ {"out": str(O / "f3.jpg"), "sub": "에펨코리아 포텐 (8월 20일)", "title": "\"수능 7등급 출신 '사상 첫 리트 만점'\"",
+  "cap": str(O / "fm2_post.jpg"), "cap_max_h": 640, **W_, "caption": "조회 38만, 댓글 641개 · 법률저널 인터뷰 공유 글",
+  "label": "단독 인터뷰가 나오자", "lines": ["\"재능이 아니라 '뇌의 컨디션'\""]},
+ {"out": str(O / "f4.jpg"), "sub": "같은 글 베스트 댓글 (8월 20일)", "title": "\"공부법 푼다며 '책 낸다는' 거지?\"",
+  "cap": str(O / "fm2_cmt.jpg"), "cap_max_h": 680, **W_, "caption": "",
+  "label": "추천 256개를 받은 댓글", "lines": ["\"딱 저 한 명만 되면 대부분 '안 된다는' 얘기\""]},
 ]
 sp = O / "specs.json"; sp.write_text(json.dumps(specs, ensure_ascii=False))
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(sp)], check=True)
 print("ok")
+# 렌더 후 01.jpg 는 사용자 화질개선본(cand/cover_hq_user.png)으로 덮어쓴다
