@@ -1,0 +1,18 @@
+{
+ "id": "20261120-feed-xisnub2",
+ "finished_at": "2026-11-20T12:55:12+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=SCnQP0TORko",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261120-feed-xisnub2/video/y1.mp4",
+   "mb": 41.9,
+   "error": "재시도 실패",
+   "view_count": 42159,
+   "title": "중, 다카이치 대놓고 냉대..'무례하다' 부글부글 / SBS / #D리포트"
+  }
+ ]
+}
