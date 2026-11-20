@@ -156,5 +156,8 @@ def floatcard(base, img, x, y, w, ang, pad=14, rad=22):
 
 
 # 표지: 미트냥이가 실제로 푼 시험지를 화면 가득
-fit("m7.jpg", W, H, (.5, .45), crop=(27, 215, 663, 845)).save(O / "cover_bg.jpg", quality=95)
+_pp = op("m7.jpg").crop((27, 215, 663, 845))
+_bg = ImageEnhance.Brightness(ImageOps.fit(_pp, (W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(30))).enhance(.6).convert("RGBA")
+floatcard(_bg, _pp, 90, 60, 860, -2, pad=10, rad=18)  # 확대를 1.35배로 줄여 선명하게
+_bg.convert("RGB").save(O / "cover_bg.jpg", quality=95)
 print("cover ok")
