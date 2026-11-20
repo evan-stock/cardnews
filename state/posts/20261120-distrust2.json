@@ -2,7 +2,7 @@
  "id": "20261120-distrust2",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-20T15:31:13+09:00",
  "publish_at": "2026-11-20T15:31:13+09:00",
  "topic": "세무냥이가 남긴 불신: 세무사 최연소·미트냥이·감평냥이 해명",
@@ -70,5 +70,8 @@
   "media/20261120-distrust2/09.jpg",
   "media/20261120-distrust2/10.jpg"
  ],
- "decided_at": "2026-11-20T15:31:13+09:00"
+ "decided_at": "2026-11-20T15:31:13+09:00",
+ "ig_media_id": "18023665283731510",
+ "permalink": "https://www.instagram.com/p/Df9BZKCm2O9/",
+ "published_at": "2026-11-20T15:34:33.694313+09:00"
 }
