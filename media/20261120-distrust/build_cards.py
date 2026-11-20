@@ -64,6 +64,18 @@ def cap(name, box, blur=(), mark=(), w=940, maxh=760):
     return im.resize((w, h), Image.LANCZOS)
 
 
+def mosaic(name, out, boxes, k=14):
+    im = op(name)
+    for b in boxes:
+        r = im.crop(b); w, h = r.size
+        im.paste(r.resize((max(1, w // k), max(1, h // k)), Image.NEAREST).resize((w, h), Image.NEAREST), b[:2])
+    im.save(O / out, quality=95)
+
+
+mosaic("press02.jpg", "press02m.jpg", [(855, 80, 975, 220)])  # 세무사 최연소 얼굴
+mosaic("m1.jpg", "m1m.jpg", [(745, 140, 850, 270)])  # 미트냥이 얼굴
+
+
 def stack(a, b, gap=16):
     im = Image.new("RGB", (940, a.height + gap + b.height), (10, 10, 12)); im.paste(a, (0, 0)); im.paste(b, (0, a.height + gap)); return im
 
@@ -74,7 +86,7 @@ frame(("세무냥이 자수 뒤 온라인에 돈", "'고양이 목록'"),
       "고득점·단기 합격만으로 '냥이' 딱지", "온라인 커뮤니티 게시물(더팩트 보도 갈무리)").save(O / "c02.jpg", quality=93)
 # 세무사 최연소
 frame(("세무사 최연소 합격자(21)는", "\"AI 안경 썼지?\" '악플'"),
-      stack(cap("press02.jpg", (0, 0, 1276, 715)), cap("press04.jpg", (0, 200, 1282, 560), maxh=200)),
+      stack(cap("press02m.jpg", (0, 0, 1276, 715)), cap("press04.jpg", (0, 200, 1282, 560), maxh=200)),
       "공부한 교재 수십 권 들고 직접 '반박'", "518등·과락 겨우 면한 성적 · MBC 뉴스데스크 화면").save(O / "c03.jpg", quality=93)
 # 미트냥이 1: 6년 성적 변화(이름·생년월일·수험번호 가림)
 frame(("MDEET 전국 1등 '미트냥이'", "\"1년이 아니라 '6년' 준비했다\""),
@@ -83,7 +95,7 @@ frame(("MDEET 전국 1등 '미트냥이'", "\"1년이 아니라 '6년' 준비했
       "2020년 첫 시험(위) → 2025년 전국 1등(아래)", "본인 공개 MDEET 성적통지표 · 위키트리 보도(11.20)").save(O / "c04.jpg", quality=93)
 # 미트냥이 2: '1년' 오해
 frame(("'1년 만에 수석'은 어디서 나왔나", "\"강의 들은 기간이 '1년'\""),
-      stack(cap("m9.jpg", (15, 40, 1075, 200), mark=[(0, 60, 1060, 160)]), cap("m1.jpg", (0, 0, 910, 512), maxh=470)),
+      stack(cap("m9.jpg", (15, 40, 1075, 200), mark=[(0, 60, 1060, 160)]), cap("m1m.jpg", (0, 0, 910, 512), maxh=470)),
       "유튜브 촬영 때 강사와 의사소통 '오해'", "본인 공개 해명문 / 아래: 문제의 강의 영상").save(O / "c05.jpg", quality=93)
 # 미트냥이 3: TEPS 때문에 두 번 탈락
 frame(("MDEET 합격권 넘고도", "영어 410점에 1차 '두 번' 탈락"),
@@ -119,3 +131,7 @@ q = [ImageOps.fit(op(n).crop(b), (540, 675), Image.LANCZOS) for n, b in
 Z = Image.new("RGB", (W, H))
 for i, t in enumerate(q): Z.paste(t, ((i % 2) * 540, (i // 2) * 675))
 Z.save(O / "cvZ.jpg", quality=95)
+
+for k, (n, c, cr) in {"P": ("press06.jpg", (.5, .5), None), "Q": ("press22.jpg", (.5, .5), (0, 0, 640, 380)),
+                       "R": ("press24.jpg", (.5, .5), None), "T": ("press18.jpg", (.5, .5), None)}.items():
+    fit(n, W, H, c, crop=cr).save(O / f"cv{k}.jpg", quality=95)
