@@ -1,7 +1,1 @@
-{
- "id": "20261120-igref-xi",
- "urls": [
-  "https://www.instagram.com/p/Df9AJ4QEw0m/"
- ],
- "frames": 0
-}
+{"id": "20261120-igref-xi", "urls": ["https://www.instagram.com/p/Df9AJ4QEw0m/"], "frames": 0, "args": "--ignore-no-formats-error --write-thumbnail --write-info-json --ignore-errors"}
