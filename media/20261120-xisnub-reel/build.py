@@ -33,14 +33,15 @@ def cap(i, small, b1, b2):
 
 
 top()
-CV = 'crop=1530:1020:150:60'      # Viory 1920x1080: 오른쪽 위 로고 밖으로
-CY = 'crop=840:560:220:0'        # SBS 1280x720: 아래 박힌 자막·오른쪽 위 로고 잘라냄
+CV = 'scale=1080:608,pad=1080:720:0:56:black'  # 원본 비율 그대로(확대 안 함)      # Viory 1920x1080: 오른쪽 위 로고 밖으로
+CY = ('scale=1080:608,split[y1][y2];[y2]crop=1080:68:0:494,boxblur=14:2[yb];[y1][yb]overlay=0:494,'
+      'delogo=x=34:y=22:w=124:h=42,delogo=x=962:y=22:w=88:h=64,pad=1080:720:0:56:black')  # SBS: 원본 비율 그대로, 박힌 자막 줄만 흐림·로고 지움
 SV, SS = '영상: Viory', '영상: SBS D리포트'
 S = [  # 환대 vs 냉대, 자료화면을 길게 (src, ss, dur, crop, 소리 살림, [(t0, t1, small, b1, b2)])
     (Y, 21.0, 6.0, CY, False, [(0, 6.0, f'환대 · 트럼프 공항 도착 · {SS}', '시진핑이', '직접 마중')]),
     (Y, 0.5, 12.0, CY, False, [(0, 5.0, f'냉대 · 같은 날 다카이치 공항 도착 · {SS}', '시진핑 없이', '의전 대사만'),
                                (5.0, 12.0, f'냉대 · 일본 언론 보도 · {SS}', '의장대 10명 남짓', '꽃도 음악도 없이')]),
-    (f'{V}/v2.mp4', 0.0, 7.3, 'crop=1380:920:200:150', True, [(0, 7.3, f'환대 · 트럼프 · {SV}', '손 내밀자', '바로 잡았다')]),
+    (f'{V}/v2.mp4', 0.0, 7.3, 'scale=1080:608,delogo=x=62:y=46:w=232:h=42,delogo=x=918:y=48:w=114:h=40,pad=1080:720:0:56:black', True, [(0, 7.3, f'환대 · 트럼프 · {SV}', '손 내밀자', '바로 잡았다')]),
     (Y, 15.0, 6.0, CY, False, [(0, 6.0, f'냉대 · 다카이치 · {SS}', '영접은', '외교부 의전 대사')]),
     (f'{V}/v3.mp4', 0.0, 9.0, CV, True, [(0, 9.0, f'환대 · 트럼프 · {SV}', '웃으며', '오래 악수')]),
     (Y, 75.5, 7.5, CY, False, [(0, 7.5, f'냉대 · 다카이치 · 중화권 매체 보도 · {SS}', '악수만 하고', '대화 없이')]),
@@ -49,7 +50,7 @@ S = [  # 환대 vs 냉대, 자료화면을 길게 (src, ss, dur, crop, 소리 �
 segs = []; ci = 0
 for k, (src, ss, dur, crop, snd, caps) in enumerate(S):
     inputs = ['-ss', str(ss), '-t', str(dur), '-i', src, '-i', f'{R}/top.png', '-f', 'lavfi', '-t', str(dur), '-i', 'anullsrc=r=44100:cl=stereo']
-    fc = f"[0:v]{crop},scale=1080:{BH}:flags=lanczos,setsar=1,pad=1080:1920:0:{BY0}:black,fps=30[b0];[b0][1:v]overlay[b1]"; last = 'b1'; n = 3
+    fc = f"[0:v]{crop},setsar=1,pad=1080:1920:0:{BY0}:black,fps=30[b0];[b0][1:v]overlay[b1]"; last = 'b1'; n = 3
     for (t0, t1, sm, b1, b2) in caps:
         cap(ci, sm, b1, b2); inputs += ['-i', f'{R}/cap{ci}.png']
         fc += f";[{last}][{n}:v]overlay=enable='between(t,{t0},{t1})'[c{n}]"; last = f'c{n}'; ci += 1; n += 1
@@ -64,7 +65,7 @@ subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i
                 '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', f'{D}/reel.mp4'], check=True)  # 배경음악 없음(사용자 11.20), Viory 현장음만
 TOT = sum(x[2] for x in S)
 # 커버: 트럼프·시진핑 악수 띠 + 격자 통일형 큰 제목
-subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', '1.5', '-i', f'{V}/v3.mp4', '-frames:v', '1', '-vf', f'{CV},scale=1080:{BH}', f'{R}/cov_band.jpg'], check=True)
+subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', '1.5', '-i', f'{V}/v3.mp4', '-frames:v', '1', '-vf', CV, f'{R}/cov_band.jpg'], check=True)
 bg = Image.new('RGB', (1080, 1920), (0, 0, 0)); bg.paste(Image.open(f'{R}/cov_band.jpg'), (0, 330)); bg.save(f'{R}/cov_bg.jpg', quality=95)
 subprocess.run(['python3', 'scripts/reel_overlay.py', f'{D}/cand/overlay.png', '트럼프는 환대\n다카이치는 냉대', '', f'{R}/cov_bg.jpg', f'{D}/reel_cover.jpg'], check=True)
 print('done', round(TOT, 1))
