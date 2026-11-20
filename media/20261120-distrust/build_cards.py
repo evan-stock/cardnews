@@ -138,7 +138,13 @@ for k, (n, c, cr) in {"P": ("press06.jpg", (.5, .5), None), "Q": ("press22.jpg",
 
 
 # 표지: 왼쪽 미트냥이(모자이크) / 오른쪽 감평냥이 해명문(서울대 석사 강조)
-L = ImageOps.fit(op("m1m.jpg").crop((700, 90, 910, 470)), (540, 1350), Image.LANCZOS, centering=(.5, .3))
+L = Image.new("RGB", (540, 1350), (24, 24, 28))
+_t = op("m6.jpg"); _t.paste(_t.crop((25, 400, 450, 436)).filter(ImageFilter.GaussianBlur(14)), (25, 400))
+_a = _t.crop((15, 0, 1075, 240)); _a = _a.resize((520, round(_a.height * 520 / _a.width)), Image.LANCZOS)
+_b = _t.crop((15, 320, 630, 560))
+ov2 = Image.new("RGBA", _b.size, (0, 0, 0, 0)); ImageDraw.Draw(ov2).rectangle((268, 190, 612, 238), fill=(255, 216, 77, 120))
+_b = Image.alpha_composite(_b.convert("RGBA"), ov2).convert("RGB"); _b = _b.resize((520, round(_b.height * 520 / _b.width)), Image.LANCZOS)
+L.paste(_a, (10, 150)); L.paste(_b, (10, 150 + _a.height + 14))
 Rr = Image.new("RGB", (540, 1350), (24, 24, 28))
 hd = op("g1.jpg").crop((0, 195, 943, 385)); hd = hd.resize((520, round(hd.height * 520 / hd.width)), Image.LANCZOS)
 pg = op("g5.jpg").crop((40, 1030, 920, 1590))
