@@ -1,0 +1,38 @@
+{
+ "id": "20261120-vortex",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-20T11:06:45.829633+09:00",
+ "publish_at": "2026-11-20T11:06:45.829646+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] 안개 속 An-225가 지나간 자리만 하늘이 갈라짐 = 날개 끝 소용돌이가 안개층을 휘저음, 뒤 비행기 착륙 간격의 이유, 7주 뒤 전쟁 중 파괴",
+ "sources": [],
+ "seconds": 22.2,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261120-vortex/short_card.mp4"
+ ],
+ "yt": {
+  "title": "가장 무거운 비행기가 안개 속을 지나가자 #shorts",
+  "description": "짙은 안개 속에 세계에서 가장 무거운 비행기 An-225 므리야가 내려오자, 지나간 자리만 하늘이 길게 반으로 갈라졌습니다(2022.01.09 폴란드 제슈프 공항).\n날개 아래 높은 압력의 공기가 날개 끝을 돌아 위로 말려 올라가며 생기는 '날개 끝 소용돌이' 두 줄기가 뒤로 길게 끌려가면서 얇은 안개층을 휘저어 흩어 놓은 것으로 알려졌어요. 이 소용돌이는 뒤따르는 작은 비행기가 휘청할 만큼 강해서, 공항은 큰 비행기 뒤에 착륙 간격을 더 띄웁니다.\n최대이륙중량 640톤의 므리야는 이 착륙 7주 뒤인 2022.02.27 우크라이나 호스토멜 공항에서 전쟁 중 파괴됐습니다.\n\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: The Aviationist(2022.01.11), AirlineRatings, Wikipedia 'Wingtip vortices'·'Antonov An-225 Mriya', SKYbrary 'Mitigation of Wake Turbulence Hazard', Smithsonian Magazine(2022)\n영상: YouTube Maciej Skop 'Amazing landing An-225 in Rzeszow EPRZ 09.01.2022' https://www.youtube.com/shorts/gSLHPgI3xeY\n영상: YouTube EPML Flight & Spotting (Copyright Marcin Bober) https://www.youtube.com/shorts/0HIddtgGzDE\n그래픽: 오늘의쓸모\nMusic: \"Killers\" Kevin MacLeod (incompetech.com) / Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/\n\n#비행기 #안개 #므리야 #An225 #날개끝소용돌이 #항공 #shorts",
+  "tags": [
+   "비행기",
+   "안개",
+   "므리야",
+   "An225",
+   "날개끝소용돌이",
+   "후류",
+   "항공",
+   "shorts"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "app_file": "media/20261120-vortex/short_card_nomusic.mp4",
+ "tg_video": 2988,
+ "tg_msg": 2989
+}
