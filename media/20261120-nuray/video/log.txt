@@ -10,3 +10,12 @@ drwxr-xr-x 4 runner runner  4096 Nov 20 08:52 ..
 -rw-r--r-- 1 runner runner 17879 Nov 20 08:52 p2_2.jpg
 -rw-r--r-- 1 runner runner  1570 Nov 20 08:52 x1.json
 -rw-r--r-- 1 runner runner  1043 Nov 20 08:52 x2.json
+total 37612
+drwxr-xr-x 2 runner runner     4096 Nov 20 09:00 .
+drwxr-xr-x 5 runner runner     4096 Nov 20 09:00 ..
+-rw-r--r-- 1 runner runner      581 Nov 20 09:00 log.txt
+-rw-r--r-- 1 runner runner    44185 Nov 20 09:00 p2_1.jpg
+-rw-r--r-- 1 runner runner    17879 Nov 20 09:00 p2_2.jpg
+-rw-r--r-- 1 runner runner 38424931 Nov 20 09:00 v1.mp4
+-rw-r--r-- 1 runner runner     1570 Nov 20 09:00 x1.json
+-rw-r--r-- 1 runner runner     1043 Nov 20 09:00 x2.json
