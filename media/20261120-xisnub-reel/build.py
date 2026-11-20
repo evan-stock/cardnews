@@ -8,7 +8,7 @@ D = 'media/20261120-xisnub-reel'; V = 'media/20261120-feed-xisnub/video'; Y = 'm
 R = f'{D}/work'; os.makedirs(R, exist_ok=True); os.makedirs(f'{D}/cand', exist_ok=True)
 FB = 'assets/fonts/Pretendard-Black.otf'; FM = 'assets/fonts/Pretendard-Medium.otf'; FX = 'assets/fonts/Pretendard-ExtraBold.otf'
 YE = (255, 216, 77); BY0, BH = 660, 720
-TAG = '선전 APEC'; L = ['같은 날, 같은 시진핑', '트럼프 vs 다카이치', '대접이 달랐다']
+TAG = '선전 APEC'; L = ['같은 날 시진핑의', '트럼프는 환대', '다카이치는 냉대']
 
 
 def top():
@@ -36,17 +36,14 @@ top()
 CV = 'crop=1530:1020:150:60'      # Viory 1920x1080: 오른쪽 위 로고 밖으로
 CY = 'crop=840:560:220:0'        # SBS 1280x720: 아래 박힌 자막·오른쪽 위 로고 잘라냄
 SV, SS = '영상: Viory', '영상: SBS D리포트'
-S = [  # (src, ss, dur, crop, 소리 살림, (small, b1, b2))
-    (f'{V}/v3.mp4', 0.3, 4.2, CV, True, (f'18일 선전 APEC · {SV}', '트럼프와는', '웃으며 악수')),
-    (Y, 21.0, 3.0, CY, False, (f'트럼프 공항 도착 · {SS}', '시진핑이', '직접 마중 나갔고')),
-    (f'{V}/v2.mp4', 1.2, 4.6, 'crop=1380:920:200:150', True, (f'회의장 에스컬레이터 · {SV}', '트럼프가 손 내밀자', '바로 잡았다')),
-    (Y, 0.5, 3.4, CY, False, (f'같은 날 다카이치 일본 총리 도착 · {SS}', '그런데 일본 총리는', '분위기가 달랐다')),
-    (Y, 6.2, 3.6, CY, False, (f'NHK·TBS 등 일본 언론 보도 · {SS}', '의장대 10명 남짓', '꽃도 음악도 없었다')),
-    (Y, 15.2, 3.4, CY, False, (f'영접은 외교부 의전 담당 대사 · {SS}', '시진핑은', '마중 나오지 않았다')),
-    (Y, 50.5, 3.6, 'crop=780:520:420:70,delogo=x=690:y=1:w=88:h=44', False, (f'만찬 전 기념촬영 · {SS}', '다카이치 자리는', '뒷줄 오른쪽')),
-    (Y, 76.0, 4.2, CY, False, (f'중화권 매체 보도 · {SS}', '먼저 말 건넸지만', '미소만 지었다')),
-    (Y, 84.5, 3.6, CY, False, (f'정상회담은 끝내 무산 · {SS}', '배경엔', '1년 전 대만 발언')),
-    (f'{V}/v3.mp4', 11.0, 4.0, CV, True, (f'중국 외교부는 모두에게 적절히 환대했다는 입장 · {SV}', '손잡은 미국, 외면한 일본', '한국은 어디에 서야 할까')),
+S = [  # 환대 vs 냉대만 번갈아 대비 (src, ss, dur, crop, 소리 살림, (small, b1, b2))
+    (Y, 21.0, 3.0, CY, False, (f'환대 · 트럼프 공항 도착 · {SS}', '시진핑이', '직접 마중')),
+    (Y, 0.5, 3.4, CY, False, (f'냉대 · 다카이치 공항 도착 · {SS}', '시진핑 없이', '의전 대사만')),
+    (f'{V}/v2.mp4', 1.2, 4.6, 'crop=1380:920:200:150', True, (f'환대 · 트럼프 · {SV}', '손 내밀자', '바로 잡았다')),
+    (Y, 6.2, 3.6, CY, False, (f'냉대 · 다카이치 · {SS}', '의장대 10명 남짓', '꽃도 음악도 없이')),
+    (f'{V}/v3.mp4', 0.3, 4.2, CV, True, (f'환대 · 트럼프 · {SV}', '웃으며', '오래 악수')),
+    (Y, 77.4, 3.6, CY, False, (f'냉대 · 다카이치 · 중화권 매체 보도 · {SS}', '악수만 하고', '대화 없이')),
+    (f'{V}/v3.mp4', 11.0, 4.0, CV, True, ('18일 선전 APEC', '같은 날, 같은 시진핑', '환대 vs 냉대')),
 ]
 segs = []
 for k, (src, ss, dur, crop, snd, (sm, b1, b2)) in enumerate(S):
@@ -67,5 +64,5 @@ subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', f'{R}/body.mp4', '-ss', '8'
 # 커버: 트럼프·시진핑 악수 띠 + 격자 통일형 큰 제목
 subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', '1.5', '-i', f'{V}/v3.mp4', '-frames:v', '1', '-vf', f'{CV},scale=1080:{BH}', f'{R}/cov_band.jpg'], check=True)
 bg = Image.new('RGB', (1080, 1920), (0, 0, 0)); bg.paste(Image.open(f'{R}/cov_band.jpg'), (0, 330)); bg.save(f'{R}/cov_bg.jpg', quality=95)
-subprocess.run(['python3', 'scripts/reel_overlay.py', f'{D}/cand/overlay.png', '같은 날 시진핑\n트럼프 vs 다카이치\n대접이 달랐다', '', f'{R}/cov_bg.jpg', f'{D}/reel_cover.jpg'], check=True)
+subprocess.run(['python3', 'scripts/reel_overlay.py', f'{D}/cand/overlay.png', '트럼프는 환대\n다카이치는 냉대', '', f'{R}/cov_bg.jpg', f'{D}/reel_cover.jpg'], check=True)
 print('done', round(TOT, 1))
