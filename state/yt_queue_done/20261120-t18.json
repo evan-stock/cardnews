@@ -1,0 +1,22 @@
+{
+ "id": "20261120-t18",
+ "finished_at": "2026-11-20T18:15:14+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/ZNsMd8MVBRg",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/e-2AIK6t1uM",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+  }
+ ]
+}
