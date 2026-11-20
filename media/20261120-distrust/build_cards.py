@@ -132,6 +132,8 @@ Z = Image.new("RGB", (W, H))
 for i, t in enumerate(q): Z.paste(t, ((i % 2) * 540, (i // 2) * 675))
 Z.save(O / "cvZ.jpg", quality=95)
 
-for k, (n, c, cr) in {"P": ("press06.jpg", (.5, .5), None), "Q": ("press22.jpg", (.5, .5), (0, 0, 640, 380)),
+for k, (n, c, cr) in {"P": ("press06.jpg", (.5, .5), None), "Q": ("press22.jpg", (.45, .5), (0, 0, 600, 370)),
                        "R": ("press24.jpg", (.5, .5), None), "T": ("press18.jpg", (.5, .5), None)}.items():
     fit(n, W, H, c, crop=cr).save(O / f"cv{k}.jpg", quality=95)
+
+import shutil; shutil.copy(O / "cvQ.jpg", O / "cover_bg.jpg")  # 표지 Q(얼굴 없는 사진)
