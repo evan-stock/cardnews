@@ -137,20 +137,38 @@ for k, (n, c, cr) in {"P": ("press06.jpg", (.5, .5), None), "Q": ("press22.jpg",
     fit(n, W, H, c, crop=cr).save(O / f"cv{k}.jpg", quality=95)
 
 
-# 표지: 왼쪽 미트냥이(모자이크) / 오른쪽 감평냥이 해명문(서울대 석사 강조)
-L = Image.new("RGB", (540, 1350), (24, 24, 28))
-_t = op("m6.jpg"); _t.paste(_t.crop((25, 400, 450, 436)).filter(ImageFilter.GaussianBlur(14)), (25, 400))
-_a = _t.crop((15, 0, 1075, 240)); _a = _a.resize((520, round(_a.height * 520 / _a.width)), Image.LANCZOS)
-_b = _t.crop((15, 320, 630, 560))
-ov2 = Image.new("RGBA", _b.size, (0, 0, 0, 0)); ImageDraw.Draw(ov2).rectangle((268, 190, 612, 238), fill=(255, 216, 77, 120))
-_b = Image.alpha_composite(_b.convert("RGBA"), ov2).convert("RGB"); _b = _b.resize((520, round(_b.height * 520 / _b.width)), Image.LANCZOS)
-L.paste(_a, (10, 150)); L.paste(_b, (10, 150 + _a.height + 14))
-Rr = Image.new("RGB", (540, 1350), (24, 24, 28))
-hd = op("g1.jpg").crop((0, 195, 943, 385)); hd = hd.resize((520, round(hd.height * 520 / hd.width)), Image.LANCZOS)
-pg = op("g5.jpg").crop((40, 1030, 920, 1590))
-ov = Image.new("RGBA", pg.size, (0, 0, 0, 0)); ImageDraw.Draw(ov).rectangle((0, 26, 880, 196), fill=(255, 216, 77, 110))
-pg = Image.alpha_composite(pg.convert("RGBA"), ov).convert("RGB"); pg = pg.resize((520, round(pg.height * 520 / pg.width)), Image.LANCZOS)
-Rr.paste(hd, (10, 150)); Rr.paste(pg, (10, 150 + hd.height + 14))
-cv = Image.new("RGB", (W, H)); cv.paste(L, (0, 0)); cv.paste(Rr, (540, 0))
-ImageDraw.Draw(cv).rectangle((537, 0, 542, H), fill=(10, 10, 12))
-cv.save(O / "cover_bg.jpg", quality=95)
+# 표지(2026.11.17 스토킹 표지 양식): 미트냥이 사진 크게 + 눈만 가림 + 해명문 캡처 카드 띄우기
+def eyes(im, box, k=10):
+    r = im.crop(box); w, h = r.size
+    im.paste(r.resize((max(1, w // k), max(1, h // k)), Image.NEAREST).resize((w, h), Image.NEAREST), box[:2]); return im
+
+
+def floatcard(base, img, x, y, w, ang, pad=14, rad=22):
+    img = img.resize((w, round(img.height * w / img.width)), Image.LANCZOS)
+    c = Image.new("RGBA", (w + pad * 2, img.height + pad * 2), (0, 0, 0, 0))
+    m = Image.new("L", c.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, c.width - 1, c.height - 1), rad, fill=255)
+    bg = Image.new("RGBA", c.size, (255, 255, 255, 255)); bg.paste(img, (pad, pad)); c.paste(bg, (0, 0), m)
+    sh = Image.new("RGBA", (c.width + 80, c.height + 80), (0, 0, 0, 0))
+    sm = Image.new("L", c.size, 0); ImageDraw.Draw(sm).rounded_rectangle((0, 0, c.width - 1, c.height - 1), rad, fill=150)
+    sh.paste((0, 0, 0, 255), (40, 52), sm); sh = sh.filter(ImageFilter.GaussianBlur(18))
+    sh.alpha_composite(c, (40, 40)); sh = sh.rotate(ang, Image.BICUBIC, expand=True)
+    base.alpha_composite(sh, (x - 40, y - 40))
+
+
+src = eyes(op("m1.jpg"), (754, 189, 846, 216), k=6)
+person = src.crop((712, 70, 910, 512))
+ph = H; pw = round(person.width * ph / person.height)
+pimg = person.resize((pw, ph), Image.LANCZOS).filter(ImageFilter.UnsharpMask(2, 80, 2)).convert("RGBA")
+gm = Image.new("L", (pw, ph), 255); gd = ImageDraw.Draw(gm)
+for x in range(220):  # 오른쪽 끝 220px 부드럽게 사라짐
+    gd.line((pw - 220 + x, 0, pw - 220 + x, ph), fill=int(255 * (1 - x / 220)))
+pimg.putalpha(gm)
+cv = Image.new("RGBA", (W, H), (18, 18, 22, 255)); cv.alpha_composite(pimg, (-20, 0))
+q1 = op("m9.jpg").crop((20, 281, 1000, 318))
+q2 = op("g5.jpg").crop((40, 1030, 920, 1220))
+ov = Image.new("RGBA", q2.size, (0, 0, 0, 0)); ImageDraw.Draw(ov).rectangle((0, 26, 880, 190), fill=(255, 216, 77, 110))
+q2 = Image.alpha_composite(q2.convert("RGBA"), ov).convert("RGB")
+floatcard(cv, q1, 400, 170, 640, 2)
+floatcard(cv, q2, 440, 330, 590, -3)
+cv.convert("RGB").save(O / "cover_bg.jpg", quality=95)
+print("cover ok")
