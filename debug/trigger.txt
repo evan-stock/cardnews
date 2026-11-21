@@ -1,4 +1,2 @@
 shot 20261121-leetnews https://www.joongang.co.kr/article/25480691 jaj
 shot 20261121-leetnews https://www.hankyung.com/article/2026112111177 hk
-shot 20261121-leetnews https://m.search.daum.net/search?w=news&q=%ED%83%88%EC%B6%9C%ED%95%98%EA%B2%8C+%EB%8F%84%EC%99%80%EB%8B%AC%EB%9D%BC+%EB%A6%AC%ED%8A%B8 daum
-# retry
