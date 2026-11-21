@@ -1,0 +1,18 @@
+ERROR: [youtube] m41mGeDFZA8: Video unavailable. This content isn’t available.
+ERROR: [youtube] 3_QEtuUqi6k: Video unavailable. This content isn’t available.
+ERROR: [youtube] MJVLOUpSTM0: Video unavailable. This content isn’t available.
+ERROR: [youtube] A4qXlC_ZSrM: Video unavailable. This content isn’t available.
+실패: ytsearch4:지금
+ERROR: [generic] '백지연' is not a valid URL
+실패: 백지연
+ERROR: [generic] '이진우' is not a valid URL
+실패: 이진우
+ERROR: [generic] '인터뷰' is not a valid URL
+실패: 인터뷰
+total 24
+drwxr-xr-x 2 runner runner 4096 Nov 21 04:01 .
+drwxr-xr-x 3 runner runner 4096 Nov 21 04:01 ..
+-rw-r--r-- 1 runner runner   20 Nov 21 04:01 api5.json
+-rw-r--r-- 1 runner runner 2977 Nov 21 04:01 api6.json
+-rw-r--r-- 1 runner runner  547 Nov 21 04:01 log.txt
+-rw-r--r-- 1 runner runner  366 Nov 21 04:01 v1.info.json
