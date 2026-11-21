@@ -453,7 +453,11 @@ def main():
         tick()
         prune()
     elif a.cmd == "publish":
-        do_publish(load_post(a.id))
+        p = load_post(a.id)
+        if p.get("status") in ("published", "publishing"):  # 2026-11-21: 감시 실행이 이미 올린 글을 수동 publish가 또 올리지 않게
+            print("이미 게시(중)이라 건너뜀:", a.id, p.get("status"), p.get("permalink"))
+        else:
+            do_publish(p)
     elif a.cmd == "chat-id":
         chat_id_helper()
     elif a.cmd == "refresh-token":
