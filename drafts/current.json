@@ -1,17 +1,14 @@
 [
  {
-  "id": "20261121-riemann",
+  "id": "20261121-riemanndc",
   "mode": "collect",
   "image_pages": [
-   "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-   "https://officechai.com/ai/claimed-riemann-hypothesis-proof-made-with-claude-appears-on-anthropic-mathematician-levent-alpoges-website/",
-   "https://mlq.ai/news/anthropic-mathematician-levent-alpoge-posts-a-claimed-proof-of-the-riemann-hypothesis-made-with-claude/",
-   "https://kityates.substack.com/p/ai-may-have-helped-solve-the-most",
-   "https://fourweekmba.com/ai-anthropic-researcher-says-claude-helped-prove-1859-riemann/",
-   "https://wisevoter.com/world/2026/11/20/alpoge-claims-riemann-hypothesis-proof-claude",
-   "https://en.wikipedia.org/wiki/Bernhard_Riemann",
-   "https://en.wikipedia.org/wiki/Riemann_hypothesis"
+   "https://gall.dcinside.com/board/view/?id=dcbest&no=480523",
+   "https://m.ruliweb.com/community/board/300143/read/77465689",
+   "https://bbs.ruliweb.com/family/4526/board/300143/read/77466353",
+   "https://gall.dcinside.com/mgallery/board/view/?id=metaphysics42&no=34",
+   "https://gall.dcinside.com/board/view/?id=dcbest&no=10889"
   ],
-  "limit": 30
+  "limit": 40
  }
 ]
