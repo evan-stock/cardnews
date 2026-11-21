@@ -1,0 +1,8 @@
+WARNING: [generic] Falling back on generic information extractor
+WARNING: [generic] URL could be a direct video link, returning it as such.
+total 256
+drwxr-xr-x 2 runner runner   4096 Nov 21 00:29 .
+drwxr-xr-x 3 runner runner   4096 Nov 21 00:29 ..
+-rw-r--r-- 1 runner runner    140 Nov 21 00:29 log.txt
+-rw-r--r-- 1 runner runner 245114 Nov 21 00:29 v1.unknown_video
+-rw-r--r-- 1 runner runner    472 Nov 21 00:29 x1.json
