@@ -71,6 +71,25 @@ def collect(d, base):
                 print("본문 읽기 실패:", src, e)
     if texts:
         json.dump(texts, open(base / "pages.json", "w"), ensure_ascii=False, indent=1)
+    # 2026.11.21: 웹페이지 화면 캡처(위키 등 작업공간에서 막힌 사이트). "shot_pages": [주소, ...] → cand/shot01.png
+    shots = d.get("shot_pages", [])
+    if shots:
+        try:
+            from playwright.sync_api import sync_playwright
+            with sync_playwright() as p:
+                b = p.chromium.launch()
+                pg = b.new_page(viewport={"width": 900, "height": 1400}, device_scale_factor=2, locale="ko-KR")
+                for k, u in enumerate(shots, 1):
+                    try:
+                        pg.goto(u, timeout=45000, wait_until="networkidle")
+                        pg.wait_for_timeout(1500)
+                        pg.screenshot(path=str(base / "cand" / f"shot{k:02d}.png"))
+                        print("캡처:", u)
+                    except Exception as e:
+                        print("캡처 실패:", u, e)
+                b.close()
+        except Exception as e:
+            print("캡처 준비 실패:", e)
 
 
 def get_image(ref, base, k):

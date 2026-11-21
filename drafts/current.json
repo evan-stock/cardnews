@@ -1,14 +1,28 @@
 [
  {
-  "id": "20261120-zeusig2",
+  "id": "20261121-riemann",
   "mode": "collect",
   "image_pages": [
-   "https://www.instagram.com/p/Df4PP8BmhK7/embed/captioned/"
+   "https://fnnews.com/news/202611210414035344",
+   "https://www.ytn.co.kr/_ln/0104_202611210725108348",
+   "https://www.etnews.com/20261121000021",
+   "https://www.hidomin.com/news/articleView.html?idxno=730317",
+   "https://scimonitors.com/anthropic-levent-alpoge-claude-riemann-hypothesis-proof-claim/",
+   "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+   "https://futurism.com/artificial-intelligence/anthropic-riemann-hypothesis",
+   "https://interestingengineering.com/ai-robotics/anthropic-167-year-old-riemann-hypothesis-claude",
+   "https://www.economytribune.co.kr/news/articleView.html?idxno=3904496"
   ],
   "read_pages": [
-   "https://www.instagram.com/p/Df4PP8BmhK7/embed/captioned/",
-   "https://www.instagram.com/p/Df4PP8BmhK7/"
+   "https://scimonitors.com/anthropic-levent-alpoge-claude-riemann-hypothesis-proof-claim/",
+   "https://fnnews.com/news/202611210414035344"
   ],
-  "limit": 30
+  "shot_pages": [
+   "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%A7%8C_%EA%B0%80%EC%84%A4",
+   "https://ko.m.wikipedia.org/wiki/%EB%A6%AC%EB%A7%8C_%EA%B0%80%EC%84%A4",
+   "https://namu.wiki/w/%EB%A6%AC%EB%A7%8C%20%EA%B0%80%EC%84%A4",
+   "https://www.claymath.org/millennium/riemann-hypothesis/"
+  ],
+  "limit": 40
  }
 ]
