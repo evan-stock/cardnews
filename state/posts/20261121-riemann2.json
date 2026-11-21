@@ -2,7 +2,7 @@
  "id": "20261121-riemann2",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-21T11:28:09+09:00",
  "publish_at": "2026-11-21T11:28:09+09:00",
  "topic": "클로드 리만 가설 증명 주장(알푀게 메모 11.20) — 캡처판",
@@ -84,5 +84,8 @@
   "media/20261121-riemann2/09.jpg",
   "media/20261121-riemann2/10.jpg"
  ],
- "decided_at": "2026-11-21T11:28:09+09:00"
+ "decided_at": "2026-11-21T11:28:09+09:00",
+ "ig_media_id": "17934389316423320",
+ "permalink": "https://www.instagram.com/p/Df_KUj8DFTJ/",
+ "published_at": "2026-11-21T11:30:32.624693+09:00"
 }
