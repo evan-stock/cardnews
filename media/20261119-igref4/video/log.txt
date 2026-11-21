@@ -1,9 +1,0 @@
-total 420
-drwxr-xr-x 2 runner runner  4096 Nov 19 12:41 .
-drwxr-xr-x 3 runner runner  4096 Nov 19 12:41 ..
--rw-r--r-- 1 runner runner 86981 Nov 19 12:41 img1.jpg
--rw-r--r-- 1 runner runner 77895 Nov 19 12:41 img2.jpg
--rw-r--r-- 1 runner runner 85563 Nov 19 12:41 img3.jpg
--rw-r--r-- 1 runner runner 96270 Nov 19 12:41 img4.jpg
--rw-r--r-- 1 runner runner 62295 Nov 19 12:41 img5.jpg
--rw-r--r-- 1 runner runner     0 Nov 19 12:41 log.txt
