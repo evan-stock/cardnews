@@ -1,0 +1,36 @@
+{
+  "id": "20261121173404-dtsh",
+  "type": "yt",
+  "repo": "cardnews",
+  "account": "",
+  "channel": "life",
+  "label": "유튜브 · 도트극장 (쇼츠)",
+  "media": [
+    "mystudio/media/20261121173404-dtsh/01.mp4"
+  ],
+  "caption": "",
+  "share_to_feed": false,
+  "yt": {
+    "title": "출근했더니 \"다음 달부터 당신 일은 AI가 합니다\" #shorts",
+    "description": "2030년 월요일 아침, 출근하자마자 받은 인사팀 공지.\n\n※ 이 영상은 가까운 미래를 상상한 가상 이야기입니다. 등장하는 사람·회사 이름은 지어낸 것입니다.\n\n다음 편: AI가 된 나를 만나러 갑니다.\n\n#도트극장 #AI #직장인 #가상이야기 #shorts",
+    "tags": [
+      "도트극장",
+      "AI",
+      "직장인",
+      "가상 이야기",
+      "픽셀아트"
+    ],
+    "privacy": "public",
+    "synthetic": true,
+    "category": 24,
+    "shorts": true
+  },
+  "thumb": null,
+  "cover": null,
+  "publish_at": null,
+  "status": "queued",
+  "attempts": 0,
+  "created_at": "2026-11-21T08:34:04.000Z",
+  "error": null,
+  "updated_at": "2026-11-21T08:34:04.000Z"
+}
