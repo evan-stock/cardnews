@@ -1,7 +1,7 @@
 이미지 모델: ['gemini-2.5-flash-image', 'gemini-3-pro-image-preview', 'gemini-3-pro-image', 'gemini-3.1-flash-image-preview', 'gemini-3.1-flash-image', 'gemini-3.1-flash-lite-image']
 후보 모델: ['gemini-2.5-flash-image', 'gemini-3.1-flash-image-preview', 'gemini-3.1-flash-image', 'gemini-3-pro-image-preview', 'gemini-3-pro-image', 'gemini-3.1-flash-lite-image']
-kk_06_omakase: 성공 (gemini-2.5-flash-image)
-kk_07_readignore: 성공 (gemini-2.5-flash-image)
-kk_08_toilet: 성공 (gemini-2.5-flash-image)
-kk_09_janya: 성공 (gemini-2.5-flash-image)
-kk_10_bill: 성공 (gemini-2.5-flash-image)
+kk_s01_selfie: 성공 (gemini-2.5-flash-image)
+kk_s02_payday: 성공 (gemini-2.5-flash-image)
+kk_s03_mandu: 성공 (gemini-2.5-flash-image)
+kk_s04_groupchat: 성공 (gemini-2.5-flash-image)
+kk_s05_penguin: 성공 (gemini-2.5-flash-image)
