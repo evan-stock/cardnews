@@ -1,11 +1,11 @@
 {
- "_for": "ㅋㅋ상회 주식 폭락 짤 1장 (2026-11-22 01:43 사용자 승인). 글씨는 humor-cards에서 직접 얹는다.",
- "style": "Photorealistic smartphone photo, natural indoor lighting, candid and slightly grainy like a real Instagram photo. Absolutely no text, letters, numbers, logos or readable screens anywhere in the image. The person is an ordinary original person, not resembling any celebrity.",
+ "_for": "ㅋㅋ상회 카톡 짤 바탕: 손에 든 폰(화면 초록) 1장 (2026-11-22 02:21 사용자 승인). 화면 자리에 카톡을 끼워 재사용.",
+ "style": "Photorealistic casual smartphone photo, natural indoor lighting, slightly imperfect handheld amateur shot. No text, no logos, no brand marks anywhere.",
  "prompts": [
   {
-   "name": "kk_stock_sweat",
+   "name": "kk_hand_phone_green",
    "aspect": "4:5",
-   "prompt": "A Korean man in his late 20s sitting on a living room sofa at night, wearing a grey hoodie, holding his smartphone with both hands close to his face, staring at it in frozen shock. Cold sweat on his forehead, pale face, eyes wide, lips pressed, as if he just saw his stock account crash. The phone screen glows with a vague red and blue light, no readable content. Messy coffee table with an energy drink can. Realistic, slightly funny despair."
+   "prompt": "A person's hand holding a modern black smartphone upright in portrait orientation, photographed from slightly above by another phone. The phone fills most of the frame, tilted slightly to the left, with thumb resting on the left edge of the bezel and fingers wrapped behind. The entire phone screen is a perfectly flat, uniform, solid bright chroma-key green (#00FF00) with no icons, no reflections on it, and clearly visible straight screen edges and rounded corners. Background is a blurry cozy room with a sofa and warm lamp light. The whole phone including all four screen corners is visible inside the frame."
   }
  ],
  "model": "gemini-2.5-flash-image"
