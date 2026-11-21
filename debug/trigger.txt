@@ -1,2 +1,4 @@
-shot 20261121-leetnews https://www.joongang.co.kr/article/25480691 jaj
-shot 20261121-leetnews https://www.hankyung.com/article/2026112111177 hk
+shot 20261121-profiler https://platform.twitter.com/embed/Tweet.html?id=2124033048568295489&lang=ko xsage
+shot 20261121-profiler https://www.newsis.com/view/NISX20261119_0003874887 newsis
+shot 20261121-profiler https://www.fnnews.com/news/202611200758501701 fn
+shot 20261121-profiler https://www.munhwa.com/article/11632578 munhwa
