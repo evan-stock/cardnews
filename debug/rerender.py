@@ -19,10 +19,10 @@ if _a and _a[0] in ("shot", "get"):
                 if a[0] == "get":
                     r = requests.get(a[2], headers={"User-Agent": "cardnews-bot/1.0 (https://github.com/evan-stock/cardnews)"}, timeout=60)
                     print("get", r.status_code, a[2]); (out / name).write_bytes(r.content); continue
-                pg = b.new_page(viewport={"width": 430, "height": 932}, device_scale_factor=3, locale="ko-KR", user_agent=UA)
+                pg = b.new_page(viewport={"width": 430, "height": 932}, device_scale_factor=2, locale="ko-KR", user_agent=UA)
                 r = pg.goto(a[2], wait_until="domcontentloaded", timeout=60000); pg.wait_for_timeout(5000)
                 print("shot", r.status if r else None, pg.title(), a[2])
-                pg.screenshot(path=str(out / f"{name}.png"), full_page=True)
+                pg.screenshot(path=str(out / f"{name}.jpg"), full_page=True, type="jpeg", quality=82)
                 open(out / f"{name}.txt", "w").write(pg.inner_text("body") + "\n\n[링크]\n" + "\n".join(pg.eval_on_selector_all("a[href]", "els => els.map(e => e.href + ' ' + e.innerText.slice(0,60).replace(/\\n/g,' '))"))); pg.close()
             except Exception as e:
                 print("실패", a[2], e)

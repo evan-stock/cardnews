@@ -5,3 +5,4 @@ shot 20261121-ljmmin https://www.khan.co.kr/article/202611211551001/ khan
 get 20261121-ljmmin https://wimg.heraldcorp.com/news/cms/2026/11/21/rcv.YNA.20261120.PYH2026112011060001300_P1.jpg p1.jpg
 get 20261121-ljmmin https://wimg.heraldcorp.com/news/cms/2026/11/19/rcv.YNA.20261118.PYH2026111820060001301_P1.jpg p2.jpg
 get 20261121-ljmmin https://wimg.heraldcorp.com/svc/user/4f2b2477-f381-42a8-93a7-64b596556845.JPG p3.jpg
+# jpg
