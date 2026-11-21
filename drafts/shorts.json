@@ -1,45 +1,45 @@
 {
- "id": "20261120-t18",
- "mode": "send",
+ "id": "20261121-t18",
+ "mode": "render",
  "format": "meme",
- "topic": "복귀 방식 3편(11.20 18:07): 케이지 앞문이 열린 걸 깨닫자 탈출 대신 집사 손으로 직진하는 시리안 햄스터 밀크셰이크(TikTok @milkshake.ham, 66만+ 24시간 만, Newsweek 2026.1.28 보도). 서서 집사 기다림 → 문 열림 깨달음·처리 중 → 손으로 직진 → 침대 위 전력 질주 → 소매 꽉 → 다시 넣으려 해도 안 놔줌 → 팔 위에서 꼼짝 안 함. '~한 ○○의 반응' 틀. 원본 소리는 전 구간 -18~-25dB로 끊김 없이 이어지는 덧입힌 음악이라 끔(audio 0). 원본 영어 캡션은 zoom·y 크롭으로 밀거나 작은 글자만 blur. 사실: PetMD(수의사 Melissa Witherell, 2026.3.26) — 햄스터는 근시라 얼굴보다 냄새·목소리로 사람을 알아본다.",
+ "topic": "첫 장면 정점형 1편(11.21 18:07): 산책 끝나고 하네스를 벗기고 발을 닦아 주자 으르렁대며 이빨까지 보이지만 발은 하나씩 꼬박꼬박 내주는 작은 흰 구조견(TikTok @fineboymiki, 310만+, Newsweek 2026.4.12 보도). 0초 = 원본 25.2초 찡그린 얼굴(이빨·혀) 클로즈업, 그다음 시간순: 하네스 벗기기 → 으르렁 + 발 내밀기 → 발 닦기 중 이빨 → 얼굴 닦기 → 꾹 참음 → 다 끝나자 폴짝폴짝. '~하면 안 되는 이유' 틀. 사실: AKC(2026.9) 으르렁은 놀이·만족·불편·스트레스를 알리는 개의 의사소통.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 11.0,
- "bgm_volume": 2.3,
+ "bgm_volume": 0.85,
  "sfx_max": 4,
  "hook": {
-  "t": "케이지 문 열린 걸 깨달은\n'햄스터의 반응ㅋㅋ'"
+  "t": "산책 끝나고 발 닦아 줬을 뿐인데\n'표정 실화냐ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @milkshake.ham"
+  "TikTok @fineboymiki"
  ],
- "credit": "영상: TikTok @milkshake.ham",
+ "credit": "영상: TikTok @fineboymiki",
  "sources": [
   {
-   "publisher": "TikTok @milkshake.ham (Milkshake)",
-   "url": "https://www.tiktok.com/@milkshake.ham/video/7600031464930970902",
-   "date": "2026-01"
+   "publisher": "TikTok @fineboymiki",
+   "url": "https://www.tiktok.com/@fineboymiki/video/7624282978985938199",
+   "date": "2026-04"
   },
   {
-   "publisher": "Newsweek - Hamster Realizes Owner Is Home, Viewers Not Prepared for His Reaction",
-   "url": "https://www.newsweek.com/hamster-realizes-owners-home-reaction-11429190",
-   "date": "2026-01-28"
+   "publisher": "Newsweek - Rescue Dog's 'Spicy' Reaction After Walk Has Internet Losing It",
+   "url": "https://www.newsweek.com/rescue-dogs-spicy-reaction-after-walk-has-internet-losing-it-11812201",
+   "date": "2026-04-12"
   },
   {
-   "publisher": "PetMD - Are Hamsters Blind? (Melissa Witherell, DVM)",
-   "url": "https://www.petmd.com/exotic/are-hamsters-blind",
-   "date": "2026-03-26"
+   "publisher": "AKC - Why Dogs Growl and What Their Growls Really Mean (Stephanie Gibeault)",
+   "url": "https://www.akc.org/expert-advice/training/why-dogs-growl-and-how-to-handle-it/",
+   "date": "2026-09-15"
   }
  ],
  "yt": {
-  "title": "케이지 문 열린 걸 깨달은 햄스터의 반응ㅋㅋ #shorts",
-  "description": "케이지 앞문이 열린 걸 알아챈 햄스터 밀크셰이크ㅋㅋ 탈출할 줄 알았는데 곧장 집사 손으로 직진.\n다시 집에 넣으려 해도 소매를 꽉 잡고 안 놔준대요.\n\n수의사 칼럼(PetMD)에 따르면 햄스터는 근시라 얼굴보다 냄새와 목소리로 사람을 알아본대요.\n\n여러분 햄찌도 집사 보면 달려오나요?\n\n영상: TikTok @milkshake.ham\n참고: Newsweek, PetMD\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#햄스터 #햄찌 #골든햄스터 #집사 #귀여운동물 #동물쇼츠 #반려동물 #오늘의털뭉치",
+  "title": "산책 끝난 강아지 발 닦아 주면 안 되는 이유ㅋㅋ #shorts",
+  "description": "산책 끝나고 발 좀 닦아 주려 했을 뿐인데ㅋㅋ 으르렁대고 이빨까지 보이면서\n정작 발은 하나씩 꼬박꼬박 다 내주는 강아지.\n\n미국애견협회(AKC)에 따르면 으르렁거림은 놀이·만족·불편·스트레스를 알리는 개의 의사소통 방법이래요.\n\n여러분 댕댕이도 발 닦을 때 투덜대나요?\n\n영상: TikTok @fineboymiki\n참고: Newsweek, AKC\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#강아지 #댕댕이 #산책 #발닦기 #귀여운동물 #동물쇼츠 #반려견 #오늘의털뭉치",
   "tags": [
-   "햄스터",
-   "햄찌",
-   "골든햄스터",
-   "시리안햄스터",
-   "집사",
+   "강아지",
+   "댕댕이",
+   "산책",
+   "발닦기",
+   "으르렁",
    "귀여운동물",
    "동물쇼츠",
    "오늘의털뭉치"
@@ -53,213 +53,207 @@
  },
  "scenes": [
   {
-   "dur": 1.8,
+   "dur": 2.2,
    "video": {
-    "src": "video/h1.mp4",
-    "start": 3.0,
-    "zoom": 1.15,
+    "src": "video/m1.mp4",
+    "start": 25.2,
+    "zoom": 1.0,
     "x": 0.5,
-    "y": 1.0,
-    "audio": 0,
-    "blur": [
-     [
-      165,
-      718,
-      250,
-      46
-     ]
-    ]
+    "y": 0.5,
+    "audio": 1.2
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(집사 기다리는 중)",
+     "t": "(으르르르...)",
      "x": 0.5,
      "y": 0.1,
      "at": 0.0,
-     "to": 1.8,
+     "to": 2.2,
      "s": "dundun",
      "sv": 0.7
     },
     {
      "k": "talk",
-     "t": "엄마 언제 와?",
-     "x": 0.72,
-     "y": 0.42,
-     "at": 0.3,
-     "to": 1.8
+     "t": "말 시키지 마.",
+     "x": 0.3,
+     "y": 0.3,
+     "at": 0.2,
+     "to": 2.2
     }
    ]
   },
   {
-   "say": "케이지 앞문을 열어 주면 이 햄스터는요,",
+   "say": "산책 끝나고 발만 닦아 주려 했을 뿐인데요,",
    "video": {
-    "src": "video/h1.mp4",
-    "start": 16.5,
-    "zoom": 1.0,
+    "src": "video/m1.mp4",
+    "start": 1.0,
+    "zoom": 1.15,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0,
+    "y": 0.3,
+    "audio": 0.3,
     "blur": [
      [
-      165,
-      266,
-      180,
-      44
-     ],
-     [
-      235,
-      632,
-      245,
-      60
+      70,
+      705,
+      440,
+      45
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...문 열렸다?",
-     "x": 0.3,
-     "y": 0.3,
+     "t": "...또 그거야?",
+     "x": 0.7,
+     "y": 0.2,
      "at": 1.0
     }
    ]
   },
   {
-   "dur": 3.0,
+   "dur": 2.5,
    "video": {
-    "src": "video/h1.mp4",
-    "start": 20.75,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0
+    "src": "video/m1.mp4",
+    "start": 8.4,
+    "zoom": 1.2,
+    "x": 0.4,
+    "y": 0.7,
+    "audio": 1.5,
+    "blur": [
+     [
+      70,
+      705,
+      440,
+      45
+     ]
+    ]
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(상황 파악 끝)",
+     "t": "(으르렁)",
      "x": 0.5,
      "y": 0.1,
      "at": 0.0,
-     "to": 3.0,
-     "s": "whoosh",
+     "to": 2.5,
+     "s": "boing",
      "sv": 0.6
     },
     {
      "k": "talk",
-     "t": "엄마한테 직진!!",
-     "x": 0.3,
-     "y": 0.32,
-     "at": 0.4,
-     "to": 3.0
+     "t": "발? 줄게. 근데 기분 나빠.",
+     "x": 0.5,
+     "y": 0.3,
+     "at": 0.3,
+     "to": 2.5
     }
    ]
   },
   {
-   "say": "탈출 대신 집사한테 전력 질주.",
+   "say": "으르렁대면서도 발은 꼬박꼬박 내줍니다.",
    "video": {
-    "src": "video/h1.mp4",
-    "start": 30.1,
-    "zoom": 1.15,
+    "src": "video/m1.mp4",
+    "start": 13.0,
+    "zoom": 1.0,
     "x": 0.5,
     "y": 0.5,
-    "audio": 0,
+    "audio": 0.3,
     "blur": [
      [
-      110,
-      368,
-      255,
-      44
+      70,
+      705,
+      440,
+      45
      ]
     ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "엄마아아!!",
-     "x": 0.68,
-     "y": 0.2,
-     "at": 0.3
+     "t": "자, 다음 발.",
+     "x": 0.7,
+     "y": 0.25,
+     "at": 1.0
     }
    ]
   },
   {
-   "dur": 2.0,
+   "dur": 2.3,
    "video": {
-    "src": "video/h1.mp4",
-    "start": 34.2,
-    "zoom": 1.3,
+    "src": "video/m1.mp4",
+    "start": 28.0,
+    "zoom": 1.0,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 0
+    "y": 0.5,
+    "audio": 1.0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(꽉)",
-     "x": 0.25,
-     "y": 0.12,
+     "t": "(얼굴까지 닦임)",
+     "x": 0.5,
+     "y": 0.1,
      "at": 0.0,
-     "to": 2.0,
+     "to": 2.3,
      "s": "pop",
-     "sv": 0.7
+     "sv": 0.6
     },
     {
      "k": "talk",
-     "t": "이제 안 놔줘",
-     "x": 0.68,
-     "y": 0.5,
+     "t": "이건 계약에 없었잖아",
+     "x": 0.5,
+     "y": 0.28,
      "at": 0.3,
-     "to": 2.0
+     "to": 2.3
     }
    ]
   },
   {
-   "say": "다시 집에 넣으려 해도 안 내려온대요.",
+   "say": "얼굴까지 닦이는 동안에도 꾹 참는데요,",
    "video": {
-    "src": "video/h1.mp4",
-    "start": 39.3,
-    "zoom": 1.3,
+    "src": "video/m1.mp4",
+    "start": 30.5,
+    "zoom": 1.0,
     "x": 0.5,
-    "y": 0.75,
-    "audio": 0
+    "y": 0.5,
+    "audio": 0.3
    },
    "caps": [
     {
      "k": "talk",
-     "t": "여기가 내 집이야",
-     "x": 0.35,
-     "y": 0.3,
-     "at": 0.6
+     "t": "참는 중이다...",
+     "x": 0.3,
+     "y": 0.25,
+     "at": 0.8
     }
    ]
   },
   {
-   "say": "햄스터는 눈이 나빠 냄새와 목소리로 집사를 알아본대요.",
+   "say": "으르렁거림도 강아지가 기분을 말하는 방법이래요.",
    "video": {
-    "src": "video/h1.mp4",
-    "start": 55.0,
-    "zoom": 1.3,
+    "src": "video/m1.mp4",
+    "start": 38.6,
+    "zoom": 1.0,
     "x": 0.5,
-    "y": 0.0,
-    "audio": 0
+    "y": 0.5,
+    "audio": 0.4
    },
    "caps": [
     {
      "k": "desc",
-     "t": "햄스터는 근시라 얼굴보다\n냄새와 목소리로 사람을 알아봐요\n(PetMD 수의사 칼럼, 2026)",
+     "t": "으르렁 = 놀이, 불편, 스트레스를 알리는 개의 말\n(미국애견협회 AKC, 2026)",
      "x": 0.5,
      "y": 0.12,
-     "at": 0.2,
+     "at": 0.3,
      "size": 48
     },
     {
      "k": "talk",
-     "t": "눈은 나빠도 엄마는 알아",
+     "t": "다 했으니까 간식 내놔",
      "x": 0.5,
-     "y": 0.66,
-     "at": 1.4,
+     "y": 0.4,
+     "at": 2.6,
      "s": "sparkle",
      "sv": 0.6
     }
