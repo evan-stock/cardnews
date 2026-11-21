@@ -79,12 +79,14 @@ frame(("함께 퍼진 처분 이력", "2022년 9월 '징역 6개월 실형'"),
 b3 = op("baek3.jpg"); b3 = b3.resize((940, round(b3.height * 940 / b3.width)), Image.LANCZOS)
 frame(("인터뷰에서 직접 말한 각성 순간", "\"이 글에만 '집중할 힘'이 생겼다\""), b3,
       "패러글라이딩 원리 글이 \"'너무 잘' 읽혔다\"", "사진: 유튜브 '지금 백지연' 인터뷰(11.19 공개)").save(O / "c01.jpg", quality=93)
-# 표지: 위 백지연 인터뷰 장면, 아래 패러글라이딩, 사이 페이드
-iv = op("baek1.jpg"); iv = iv.resize((W, round(iv.height * W / iv.width)), Image.LANCZOS)  # 1080x608
-pg = op("para2.jpg").crop((0, 0, 1700, 1000)); PH = 990; pg = pg.resize((round(pg.width * PH / pg.height), PH), Image.LANCZOS)
-x0 = (pg.width - W) // 2 + 120; pg = pg.crop((x0, 0, x0 + W, PH))
-cv = Image.new("RGB", (W, H)); cv.paste(pg, (0, H - PH)); fade = 230
-m = Image.new("L", (W, iv.height), 255); md = ImageDraw.Draw(m)
-for y in range(iv.height - fade, iv.height): md.line([(0, y), (W, y)], fill=round(255 * (iv.height - y) / fade))
-cv.paste(iv, (0, 0), m); cv.save(O / "cover_bg.jpg", quality=95)
+# 표지: 왼쪽 백지연 인터뷰 장면, 오른쪽 패러글라이딩, 세로 경계 페이드(2026.11.21 사용자 요청)
+HW, fade = 620, 160
+iv = op("baek1.jpg"); iv = iv.resize((round(iv.width * H / iv.height), H), Image.LANCZOS)
+cx = round(iv.width * 0.47); L = iv.crop((cx - HW // 2, 0, cx + HW // 2, H)).filter(ImageFilter.UnsharpMask(2, 60, 2))
+pg = op("para2.jpg"); pg = pg.resize((round(pg.width * H / pg.height), H), Image.LANCZOS)
+cx = round(pg.width * 0.36); Rt = pg.crop((cx - HW // 2, 0, cx + HW // 2, H))
+cv = Image.new("RGB", (W, H)); cv.paste(Rt, (W - HW, 0))
+m = Image.new("L", (HW, H), 255); md = ImageDraw.Draw(m)
+for x in range(HW - fade, HW): md.line([(x, 0), (x, H)], fill=round(255 * (HW - x) / fade))
+cv.paste(L, (0, 0), m); cv.save(O / "cover_bg.jpg", quality=95)
 print("ok")
