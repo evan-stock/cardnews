@@ -1,0 +1,6 @@
+meeting_a: 성공 (gemini-2.5-flash-image)
+meeting_b: 성공 (gemini-2.5-flash-image)
+pantry_a: 성공 (gemini-2.5-flash-image)
+pantry_b: 성공 (gemini-2.5-flash-image)
+lobby_a: 성공 (gemini-2.5-flash-image)
+lobby_b: 성공 (gemini-2.5-flash-image)
