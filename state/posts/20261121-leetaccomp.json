@@ -2,7 +2,7 @@
  "id": "20261121-leetaccomp",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-21T12:14:50.105912+09:00",
  "publish_at": "2026-11-21T13:00:00+09:00",
  "topic": "리트 만점자 사망 후 남은 의혹: 패러글라이딩 일화 거짓 주장(커뮤니티) + 공범·외부 조력자 수사(경찰·고발인)",
@@ -67,5 +67,6 @@
   "media/20261121-leetaccomp/05.jpg",
   "media/20261121-leetaccomp/06.jpg"
  ],
- "tg_msg": 3051
+ "tg_msg": 3051,
+ "decided_at": "2026-11-21T12:17:27.971252+09:00"
 }
