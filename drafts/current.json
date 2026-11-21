@@ -1,17 +1,59 @@
 [
  {
-  "id": "20261121-leetbaek",
-  "mode": "collect",
-  "image_pages": [
-   "https://www.xportsnews.com/article/2220912",
-   "https://www.topstarnews.net/news/articleView.html?idxno=16279120",
-   "https://www.topstarnews.net/news/articleView.html?idxno=16279449",
-   "https://isplus.com/article/view/isp202611160152",
-   "https://kormedi.com/2906867/",
-   "https://supple.kr/news/cmwmocr5to29etevdf8pcmwn3",
-   "https://www.koreadaily.com/article/20261114185030772",
-   "https://m.news.nate.com/view/20261119n18542"
+  "id": "20261121-leetpara",
+  "slot": "lunch",
+  "mode": "render",
+  "topic": "리트 만점자 '단양 패러글라이딩 각성' 일화 거짓 의혹(커뮤니티 주장)",
+  "category": "국내 사회",
+  "risk": "커뮤니티 주장은 주장으로 표기, 처분은 언론 보도 기준. 일화 시기 엇갈림·출소 시점 미확인 명시. 사용자 확인 전 승인 대기 보내지 않음.",
+  "images": [
+   "cover_bg.jpg",
+   "c01.jpg",
+   "c02.jpg",
+   "c03.jpg",
+   "cover_bg.jpg"
   ],
-  "limit": 40
+  "slides": [
+   {
+    "lay": "one",
+    "t": "리트 만점자 '패러글라이딩 각성'\n이 일화도 거짓이었나"
+   },
+   {
+    "raw": true
+   },
+   {
+    "raw": true
+   },
+   {
+    "raw": true
+   },
+   {
+    "t": "각성 일화의 진위,\n이제 본인에게 물을 수 없게 됐다",
+    "b": "팔로우하면 매일 화제 소식"
+   }
+  ],
+  "caption": "",
+  "hashtags": [
+   "리트만점자",
+   "리트냥이",
+   "패러글라이딩",
+   "단양",
+   "전국일주"
+  ],
+  "sources": [
+   {
+    "publisher": "온라인 커뮤니티",
+    "date": "2026.11.20"
+   },
+   {
+    "publisher": "주간경향",
+    "date": "2026.11.18"
+   }
+  ],
+  "photo_credits": [
+   "유튜브 '지금 백지연' 화면",
+   "위키미디어 공용(CC BY-SA 4.0)",
+   "온라인 커뮤니티 캡처"
+  ]
  }
 ]
