@@ -1,6 +1,6 @@
 [
  {
-  "id": "20261121-leetaccomp",
+  "id": "20261121-leetpara",
   "slot": "lunch",
   "mode": "send",
   "topic": "리트 만점자 '단양 패러글라이딩 각성' 일화 거짓 의혹(커뮤니티 주장)",
@@ -10,16 +10,12 @@
    "cover_bg.jpg",
    "c02.jpg",
    "c03.jpg",
-   "c04.jpg",
    "cover_bg.jpg"
   ],
   "slides": [
    {
     "lay": "one",
     "t": "리트 만점자 '패러글라이딩 각성'\n이 일화도 거짓이었나"
-   },
-   {
-    "raw": true
    },
    {
     "raw": true
@@ -42,16 +38,18 @@
   ],
   "sources": [
    {
-    "publisher": "주간경향",
-    "date": "2026.11.18"
+    "publisher": "온라인 커뮤니티",
+    "date": "2026.11.20"
    },
    {
-    "publisher": "온라인 커뮤니티(에펨코리아)",
-    "date": "2026.11.20"
+    "publisher": "주간경향",
+    "date": "2026.11.18"
    }
   ],
   "photo_credits": [
-   "나무위키"
+   "나무위키",
+   "위키미디어 공용 'Paragliders in Danyang'(CC BY 4.0)",
+   "온라인 커뮤니티 캡처"
   ]
  }
 ]
