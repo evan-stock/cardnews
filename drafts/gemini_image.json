@@ -1,61 +1,11 @@
 {
- "_for": "ㅋㅋ상회 AI 릴스 4개(보내기용) 그림 11장 (2026-11-22 01시). 글씨는 humor-cards에서 직접 얹는다.",
- "style": "Absolutely no text, letters, numbers, speech bubbles, captions, signs with writing, or logos anywhere in the image. Original characters only, not resembling any real person or existing franchise.",
+ "_for": "ㅋㅋ상회 주식 폭락 짤 1장 (2026-11-22 01:43 사용자 승인). 글씨는 humor-cards에서 직접 얹는다.",
+ "style": "Photorealistic smartphone photo, natural indoor lighting, candid and slightly grainy like a real Instagram photo. Absolutely no text, letters, numbers, logos or readable screens anywhere in the image. The person is an ordinary original person, not resembling any celebrity.",
  "prompts": [
   {
-   "name": "r1_readignore",
-   "aspect": "1:1",
-   "prompt": "Cute chubby round animal character in a soft pastel Korean emoticon illustration style, thick soft outlines, big expressive face, plain light cream background, centered, full body. A fluffy cat lies lazily on its back on a small sofa, holding a smartphone above its face with a completely bored, dead-eyed expression, while many little red notification dots float around the phone. It clearly sees the messages and ignores them."
-  },
-  {
-   "name": "r1_kkk",
-   "aspect": "1:1",
-   "prompt": "Cute chubby round animal character in a soft pastel Korean emoticon illustration style, thick soft outlines, big expressive face, plain light cream background, centered, full body. A hamster rolls on the floor laughing hysterically, tears of laughter flying, tiny feet kicking in the air, clutching a smartphone. Pure uncontrollable laughter."
-  },
-  {
-   "name": "r1_dawn",
-   "aspect": "1:1",
-   "prompt": "Cute chubby round animal character in a soft pastel Korean emoticon illustration style, thick soft outlines, big expressive face, plain light cream background, centered, full body. An owl wrapped in a blanket sits by a window under a big moon at 3am, typing on a smartphone with a very serious, emotional, teary-eyed face, a cup of tea beside it. Deep late-night sentimental mood, slightly dark blue tones."
-  },
-  {
-   "name": "r1_promise",
-   "aspect": "1:1",
-   "prompt": "Cute chubby round animal character in a soft pastel Korean emoticon illustration style, thick soft outlines, big expressive face, plain light cream background, centered, full body. A puppy jumps up excitedly waving a smartphone in the air with a huge happy grin, full of enthusiasm. Behind it hangs a completely empty blank calendar."
-  },
-  {
-   "name": "r1_bill",
-   "aspect": "1:1",
-   "prompt": "Cute chubby round animal character in a soft pastel Korean emoticon illustration style, thick soft outlines, big expressive face, plain light cream background, centered, full body. A raccoon wearing tiny sunglasses tiptoes away sneakily from a restaurant table covered with empty plates and a long receipt, looking back over its shoulder with a guilty sly face."
-  },
-  {
-   "name": "r2_before",
+   "name": "kk_stock_sweat",
    "aspect": "4:5",
-   "prompt": "Soft colored Korean webtoon illustration, clean lineart, expressive exaggerated faces, warm lighting. A young Korean woman in her bedroom, two hours before meeting friends, holding up a cute outfit in front of a mirror, beaming with excitement, sparkles around her, makeup kit open, very energetic and happy."
-  },
-  {
-   "name": "r2_after",
-   "aspect": "4:5",
-   "prompt": "Soft colored Korean webtoon illustration, clean lineart, expressive exaggerated faces, warm lighting. The same young Korean woman, now lying in bed fully under a blanket with only her face and hands out, makeup only half done, hair messy, typing on her phone with a guilty, sly, slightly fake-sick expression. The outfit is thrown on the chair. Evening light."
-  },
-  {
-   "name": "r3_compliment",
-   "aspect": "4:5",
-   "prompt": "Soft colored Korean webtoon illustration, clean lineart, expressive exaggerated faces, warm lighting. A young Korean man sitting at a cafe table, smiling a bit too nervously and sweetly at his girlfriend across the table, small sweat drop on his temple, hands clasped, obviously hiding something. Only he is in focus, upper body shot."
-  },
-  {
-   "name": "r3_suspect",
-   "aspect": "4:5",
-   "prompt": "Soft colored Korean webtoon illustration, clean lineart, expressive exaggerated faces, warm lighting. A young Korean woman at a cafe table narrowing her eyes in deep suspicion, one eyebrow raised, arms crossed, leaning forward like a detective interrogating someone. Dramatic shadow over her eyes, comedic intensity. Upper body shot."
-  },
-  {
-   "name": "r4_call",
-   "aspect": "4:5",
-   "prompt": "Soft colored Korean webtoon illustration, clean lineart, expressive exaggerated faces, warm lighting. A young Korean man in his 20s lying on a sofa in a small apartment, casually talking on the phone with a relaxed lazy smile, waving his hand dismissively as if saying 'no thanks, I'm fine'. Simple cozy room."
-  },
-  {
-   "name": "r4_table",
-   "aspect": "4:5",
-   "prompt": "Soft colored Korean webtoon illustration, clean lineart, expressive exaggerated faces, warm lighting. A Korean home dining table absolutely overflowing with food: a huge pot of stew, piles of side dishes, grilled fish, a mountain of rice, fried chicken, fruit, dishes stacked on dishes. A smiling Korean mother in an apron proudly presents it with both hands. The same young man stands frozen in shock with his mouth open. Warm kitchen light, comedic exaggeration."
+   "prompt": "A Korean man in his late 20s sitting on a living room sofa at night, wearing a grey hoodie, holding his smartphone with both hands close to his face, staring at it in frozen shock. Cold sweat on his forehead, pale face, eyes wide, lips pressed, as if he just saw his stock account crash. The phone screen glows with a vague red and blue light, no readable content. Messy coffee table with an energy drink can. Realistic, slightly funny despair."
   }
  ],
  "model": "gemini-2.5-flash-image"
