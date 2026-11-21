@@ -38,14 +38,22 @@ def cover():
     d.rounded_rectangle((64 + w1 - 6, y - 4, 64 + w1 + w2 + 6, y + 52), 8, fill=(214, 230, 255))
     d.text((64, y), t1, font=f, fill=(30, 30, 34)); d.text((64 + w1, y), t2, font=f, fill=(30, 30, 34)); d.text((64 + w1 + w2, y), t3, font=f, fill=(30, 30, 34))
     # 4) 제타 함수 0점 그래프(위키미디어) 원형
-    g = ImageOps.fit(op("press13.jpg"), (380, 380), Image.LANCZOS, centering=(.55, .5))
+    g = Image.new("RGB", (380, 380), (217, 119, 87))
+    _src = op("r_press09.jpg").crop((225, 45, 440, 250))
+    _m = Image.new("L", _src.size, 0); _px = _src.load(); _mp = _m.load()
+    for _x in range(_src.width):
+        for _y in range(_src.height):
+            r_, g_, b_ = _px[_x, _y]
+            if r_ > 180 and g_ < 150 and b_ < 140: _mp[_x, _y] = 255
+    _m = _m.filter(ImageFilter.MaxFilter(3)).resize((260, 248), Image.LANCZOS)
+    g.paste((255, 250, 245), (60, 66), _m)
     ring = Image.new("RGBA", (400, 400), (0, 0, 0, 0)); ImageDraw.Draw(ring).ellipse((0, 0, 399, 399), fill=(255, 255, 255, 255))
     m = Image.new("L", (380, 380), 0); ImageDraw.Draw(m).ellipse((0, 0, 379, 379), fill=255)
     ring.paste(g.convert("RGBA"), (10, 10), m)
     shadow_paste(cv, Image.new("RGB", (1, 1)), -100, -100)  # no-op 안전
     sh = Image.new("RGBA", (480, 480), (0, 0, 0, 0)); sm = Image.new("L", (400, 400), 0); ImageDraw.Draw(sm).ellipse((0, 0, 399, 399), fill=120)
-    sh.paste((0, 0, 0, 255), (40, 52), sm); sh = sh.filter(ImageFilter.GaussianBlur(18)); cv.alpha_composite(sh, (640, 560))
-    cv.alpha_composite(ring, (680, 600))
+    sh.paste((0, 0, 0, 255), (40, 52), sm); sh = sh.filter(ImageFilter.GaussianBlur(18)); cv.alpha_composite(sh, (620, 580))
+    cv.alpha_composite(ring, (660, 620))
     cv.convert("RGB").save(O / "cover_bg.jpg", quality=95)
 
 
@@ -126,4 +134,35 @@ frame(("풀면 상금 '100만 달러'", "클레이연구소엔 아직 '미해결
 frame(("증명했다는 건 이것", "0은 전부 '한 줄' 위에 있다"),
       boxed(op("press13.jpg").crop((0, 80, 1000, 920)), w=620, bg=(255, 255, 255), pad=10),
       "가운데 세로선(실수부 1/2) = '임계선'", "리만 제타 함수 그래프 · 위키미디어 공용", body=("리만 가설은 '의미 있는 0은 모두 이 선 위에 있다'는 것", "지금까지 수조 개를 확인했지만 증명은 없었습니다")).save(O / "c05.jpg", quality=93)
+
+# 6장: 엑스 속보 재구성(원 글 사진 첨부) — 조회수 반응
+xj = json.load(open(O / "x1.json"))
+xc = Image.new("RGB", (940, 380), (255, 255, 255)); xd = ImageDraw.Draw(xc)
+xd.text((40, 30), "Mehmet Mars Seven  @MehmetMars7 · 11월 20일", font=F("SemiBold", 28), fill=(20, 20, 24))
+yy = 90
+for ln in ["[속보] JUST IN: 터키계 미국인 수학자 레벤트 알푀게가", "클로드와 함께 수학에서 가장 어려운 문제 중 하나인", "'일반화 리만 가설'을 증명했다고 주장!", "영어로 풀면 25만 쪽이 넘는 Lean 코드 공개"]:
+    xd.text((40, yy), ln.replace("'", ""), font=F("Medium", 32), fill=(30, 30, 34)); yy += 50
+xd.text((40, yy + 20), "(원문 영어 → 번역)", font=F("Medium", 24), fill=(140, 140, 146))
+frame(("발표 직후 해외 SNS는", "'JUST IN' 속보로 들끓었다"),
+      stack(xc, ImageOps.fit(op("r_press06.jpg"), (940, 200), Image.LANCZOS)),
+      "\"AI로 이룬 가장 큰 수학적 돌파구일 수도\"", "X 게시물(원문 영어·번역) / 아래: YTN 화면",
+      body=("국내에서도 YTN·전자신문 등이 아침 뉴스로 전했고", "수학계에서는 \"검증이 먼저\"라는 반응이 이어졌습니다")).save(O / "c06.jpg", quality=93)
+
+# 7장: 타이밍 — 나스닥 상장 하루 뒤
+frame(("발표 시점도 화제", "앤트로픽 '나스닥 상장' 바로 다음 날"),
+      ImageOps.fit(op("r_press12.jpg"), (940, 600), Image.LANCZOS, centering=(.5, .45)),
+      "\"타이밍 의심, '사실이 아니다'\" (알푀게)", "앤트로픽 나스닥 상장 행사 · 이코노미트리뷴",
+      body=("상장 하루 만에 나온 발표라 \"홍보용 아니냐\"는 말이 돌자", "알푀게는 메모에서 직접 \"냉소적 시각은 사실이 아니다\"라고 적었습니다")).save(O / "c07.jpg", quality=93)
+
+# 8장: 같은 날 반전 — 사람이 만든 증명
+frame(("그런데 같은 날 '반전'", "\"100% 사람이 만든 증명\"도 공개"),
+      ImageOps.fit(op("r_press11.jpg"), (940, 420), Image.LANCZOS),
+      "미국수학회 회장 바킬 \"AI는 '안 썼다'\"", "사이언티픽 아메리칸 이미지",
+      body=("수학자 알레산드로 마술로의 일반화 리만 가설 증명 초안(940쪽)을", "미국수학회 회장 라비 바킬이 서둘러 공개했습니다", "스탠퍼드 브라이언 콘래드가 수개월 검토 중이라고 합니다")).save(O / "c08.jpg", quality=93)
+
+# 9장: 하루 지난 검증 현황 — 클로드 로고 사진
+frame(("하루 지난 지금", "어디까지 '확인'됐나"),
+      ImageOps.fit(op("r_press10.jpg"), (940, 420), Image.LANCZOS),
+      "코드는 돌아갔지만 '숨은 가정' 검토 중", "사진: 경북도민일보",
+      body=("MIT 서덜랜드 등이 Lean 코드를 따로 돌려 실행에 성공했고", "코드 속 정리가 일반화 리만 가설이 맞다는 확인도 나왔습니다", "알푀게 본인도 \"전체 논증을 다 이해하진 못했다\"고 인정했습니다")).save(O / "c09.jpg", quality=93)
 print("inner ok")
