@@ -1,16 +1,19 @@
 [
  {
-  "id": "20261121-mdeet",
+  "id": "20261121-leetaccomp",
   "mode": "collect",
+  "read_pages": [
+   "https://www.fmkorea.com/best/10579525120",
+   "https://weekly.khan.co.kr/article/202611181639001",
+   "https://www.ytn.co.kr/_ln/0134_202611201405515782_001",
+   "https://www.fnnews.com/news/202611201515328129",
+   "https://news.nate.com/view/20261119n35868"
+  ],
   "image_pages": [
-   "https://biz.heraldcorp.com/article/10944446",
-   "https://www.etoday.co.kr/news/view/2651142",
-   "https://www.seoul.co.kr/news/society/2026/11/20/20261120500332",
-   "https://m.sedaily.com/article/20117129",
-   "https://www.imaeil.com/page/view/2026112019252042393",
-   "https://www.wikitree.co.kr/articles/1176386",
-   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020941",
-   "https://m.inews24.com/v/2028788"
+   "https://www.fmkorea.com/best/10579525120",
+   "https://www.ytn.co.kr/_ln/0134_202611201405515782_001",
+   "https://www.fnnews.com/news/202611201515328129",
+   "https://www.hankyung.com/article/202611196733H"
   ],
   "limit": 30
  }
