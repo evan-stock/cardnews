@@ -1,0 +1,24 @@
+name: story3d-image
+# drafts/story3d_image.json → scripts/gemini_image/gen.py → state/story3d_image/ (2026-11-21, 원리·1인칭 쇼츠 배경 그림. 참고 그림 refs 지원)
+on:
+  push:
+    paths: ["drafts/story3d_image.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-24.04
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {sparse-checkout: "scripts/gemini_image\ndrafts\nstate/story3d_image", fetch-depth: 1}
+      - run: pip install -q requests
+      - run: python3 scripts/gemini_image/gen.py drafts/story3d_image.json state/story3d_image 2>&1 | tee state/story3d_image/log.txt
+      - if: always()
+        run: |
+          git config user.name cardnews-bot; git config user.email cardnews-bot@users.noreply.github.com
+          git add -A state/story3d_image
+          git diff --cached --quiet || git commit -m "story3d-image: 배경 그림"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done

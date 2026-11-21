@@ -1,8 +1,15 @@
 """Gemini 이미지 생성: drafts/gemini_image.json 의 prompts 를 그려 state/gemini_image/ 에 저장.
-키는 GEMINI_API_KEY 에서만 읽고 출력하지 않는다. 모델은 cfg.model 이 없으면 목록에서 이미지 모델을 고른다."""
+키는 GEMINI_API_KEY 에서만 읽고 출력하지 않는다. 모델은 cfg.model 이 없으면 목록에서 이미지 모델을 고른다.
+(2026-11-21) 인자: gen.py [원고 json] [결과 폴더] — 없으면 예전 그대로. 원고에 "refs"(저장소 안 그림 경로 목록)를 주면
+참고 그림으로 함께 보낸다(그림체 맞추기). 항목별 "refs"도 가능."""
 import base64, json, os, sys, time, requests
-cfg = json.load(open("drafts/gemini_image.json")); key = os.environ.get("GEMINI_API_KEY", "").strip()
-out = "state/gemini_image"; os.makedirs(out, exist_ok=True)
+cfg = json.load(open(sys.argv[1] if len(sys.argv) > 1 else "drafts/gemini_image.json")); key = os.environ.get("GEMINI_API_KEY", "").strip()
+out = sys.argv[2] if len(sys.argv) > 2 else "state/gemini_image"; os.makedirs(out, exist_ok=True)
+
+
+def ref_part(path):
+    mime = "image/png" if path.lower().endswith(".png") else "image/jpeg"
+    return {"inline_data": {"mime_type": mime, "data": base64.b64encode(open(path, "rb").read()).decode()}}
 if not key: print("GEMINI_API_KEY 없음"); sys.exit(1)
 H = {"x-goog-api-key": key}
 models = requests.get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", headers=H, timeout=60).json().get("models", [])
@@ -19,7 +26,8 @@ style = cfg.get("style", "")
 report = []
 bad = set()
 for it in cfg["prompts"]:
-    body = {"contents": [{"parts": [{"text": (style + "\n\n" + it["prompt"]).strip()}]}],
+    parts = [ref_part(x) for x in it.get("refs", cfg.get("refs", []))] + [{"text": (style + "\n\n" + it["prompt"]).strip()}]
+    body = {"contents": [{"parts": parts}],
             "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": it.get("aspect", "9:16")}}}
     ok = False
     for model in [m for m in cands if m not in bad]:
