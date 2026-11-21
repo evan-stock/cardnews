@@ -72,14 +72,16 @@ def logo(im):
     lg = lg.resize((lw, lh), Image.LANCZOS); im.paste(lg, ((W - lw) // 2, H - 62 - lh), lg)
 
 
-def frame(top, photo, bottom, sub=None):
+def frame(top, photo, bottom, sub=None, body=()):
     im = Image.new("RGB", (W, H), (10, 10, 12)); d = ImageDraw.Draw(im)
     rich_center(d, 168, top[0], F("Medium", 46), FG); rich_center(d, 236, top[1], F("Black", 54), FG)
     p = photo; m = Image.new("L", p.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, p.width - 1, p.height - 1), 18, fill=255)
     im.paste(p, ((W - p.width) // 2, 300), m)
     d = ImageDraw.Draw(im); y = 300 + p.height + 92
-    rich_center(d, y, bottom, F("Black", 46), YE)
-    if sub: rich_center(d, y + 62, sub, F("Medium", 32), (190, 190, 198))
+    rich_center(d, y, bottom, F("Black", 44), YE); y += 64
+    for ln in body:
+        rich_center(d, y, ln, F("Medium", 36), (235, 235, 240)); y += 52
+    if sub: rich_center(d, y + (14 if body else 0), sub, F("Medium", 28), (150, 150, 158))
     logo(im); return im
 
 
@@ -108,20 +110,20 @@ memo_full = op("memo.png").crop((130, 20, 1110, 300))
 ov = memo_full.copy(); dd = ImageDraw.Draw(ov); dd.rectangle((250, 8, 520, 50), outline=(226, 30, 30), width=5)
 p_al = ImageOps.fit(op("alpoge.jpg"), (940, 300), Image.LANCZOS, centering=(.62, .3))
 frame(("11월 20일, 앤트로픽 수학자 알푀게", "\"클로드와 함께 '증명' 찾았다\""),
-      stack(boxed(ov), p_al), "\"결승선 앞에서 클로드가 '날아다녔다'\"", "알푀게 개인 웹사이트 메모 원문 · 사진: 본인 사이트").save(O / "c02.jpg", quality=93)
+      stack(boxed(ov), ImageOps.fit(op("alpoge.jpg"), (940, 220), Image.LANCZOS, centering=(.62, .3))), "\"결승선 앞에서 클로드가 '날아다녔다'\"", "알푀게 개인 웹사이트 메모 원문 · 사진: 본인 사이트", body=("같은 방법으로 '일반화 리만 가설'까지 풀었다고 주장했고,", "증명은 컴퓨터가 검사하는 언어(Lean) 코드로 공개했습니다")).save(O / "c02.jpg", quality=93)
 
 # 3장: 위키백과 리만 가설(밀레니엄 문제 상자)
 frame(("167년 동안 아무도 못 푼", "'밀레니엄 7대 난제'"),
-      stack(cap("shot01.png", (30, 580, 1100, 822)), cap("shot01.png", (1130, 1130, 1760, 1530), w=940, maxh=330)),
-      "소수가 흩어진 방식에 숨은 '규칙'", "위키백과 '리만 가설' 화면").save(O / "c03.jpg", quality=93)
+      stack(cap("shot01.png", (30, 580, 1100, 822)), cap("shot01.png", (1130, 1130, 1760, 1530), w=940, maxh=230)),
+      "소수가 흩어진 방식에 숨은 '규칙'", "위키백과 '리만 가설' 화면", body=("1859년 독일 수학자 리만이 내놓은 가설로,", "2, 3, 5, 7처럼 불규칙해 보이는 소수에도", "정해진 패턴이 있다는 주장입니다")).save(O / "c03.jpg", quality=93)
 
 # 4장: 클레이수학연구소 'Unsolved'
 frame(("풀면 상금 '100만 달러'", "클레이연구소엔 아직 '미해결'"),
-      cap("shot04.png", (0, 120, 1800, 1100), mark=[(60, 440, 400, 520)]),
-      "학술지 게재 뒤 '2년' 검증해야 인정", "클레이수학연구소 홈페이지 화면").save(O / "c04.jpg", quality=93)
+      cap("shot04.png", (0, 120, 1800, 1000), mark=[(60, 440, 400, 520)]),
+      "학술지 게재 뒤 '2년' 검증해야 인정", "클레이수학연구소 홈페이지 화면", body=("지금도 공식 페이지엔 'Unsolved'(미해결)로 나옵니다", "주장이 맞는지 수학자들이 검증을 막 시작했습니다")).save(O / "c04.jpg", quality=93)
 
 # 5장: 제타 함수 그래프
 frame(("증명했다는 건 이것", "0은 전부 '한 줄' 위에 있다"),
-      boxed(op("press13.jpg").crop((0, 80, 1000, 920)), w=760, bg=(255, 255, 255), pad=10),
-      "가운데 세로선(실수부 1/2) = '임계선'", "리만 제타 함수 그래프 · 위키미디어 공용").save(O / "c05.jpg", quality=93)
+      boxed(op("press13.jpg").crop((0, 80, 1000, 920)), w=620, bg=(255, 255, 255), pad=10),
+      "가운데 세로선(실수부 1/2) = '임계선'", "리만 제타 함수 그래프 · 위키미디어 공용", body=("리만 가설은 '의미 있는 0은 모두 이 선 위에 있다'는 것", "지금까지 수조 개를 확인했지만 증명은 없었습니다")).save(O / "c05.jpg", quality=93)
 print("inner ok")
