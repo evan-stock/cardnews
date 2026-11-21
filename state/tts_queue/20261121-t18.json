@@ -1,0 +1,66 @@
+{
+ "id": "20261121-t18",
+ "created": "2026-11-21T18:29:14.296690+09:00",
+ "items": [
+  {
+   "key": "99daf03931f6",
+   "text": "산책 끝나고 발만 닦아 주려 했을 뿐인데요,",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "66fa98d072b1",
+   "text": "으르렁대면서도 발은 꼬박꼬박 내줍니다.",
+   "ctx": {
+    "previous_text": "",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "8609e862518b",
+   "text": "얼굴까지 닦이는 동안에도 꾹 참는데요,",
+   "ctx": {
+    "previous_text": "",
+    "next_text": "으르렁거림도 강아지가 기분을 말하는 방법이래요."
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  },
+  {
+   "key": "755d40da1ba0",
+   "text": "으르렁거림도 강아지가 기분을 말하는 방법이래요.",
+   "ctx": {
+    "previous_text": "얼굴까지 닦이는 동안에도 꾹 참는데요,",
+    "next_text": ""
+   },
+   "voice": {
+    "voice_id": "tc_68257f68bc6e3c161ab5078d",
+    "model": "ssfm-v30",
+    "emotion": "smart",
+    "intensity": 1.0,
+    "tempo": 1.1
+   }
+  }
+ ]
+}
