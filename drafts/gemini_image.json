@@ -1,31 +1,32 @@
 {
- "_for": "ㅋㅋ상회 AI 공감짤 매운맛 시안 5개 (2026-11-21 15:55). 글씨는 humor-cards render_photo_reel.py로 얹는다.",
- "style": "Soft hand-drawn Korean webtoon illustration, warm pastel colors, clean thin lineart, gentle cozy lighting, cute expressive original characters with big readable facial expressions, simple uncluttered background so the subject reads instantly on a phone. Original characters only, do not imitate any existing franchise or real person. Absolutely no text, letters, numbers, speech bubbles, signs with writing, or logos anywhere in the image.",
+ "_for": "ㅋㅋ상회 soominiverse 양식 사진 게시물 5개 (2026-11-22 00시). 글씨는 humor-cards에서 직접 얹는다.",
+ "style": "Absolutely no text, letters, numbers, speech bubbles, captions, signs with writing, or logos anywhere in the image. Original characters only, not resembling any real person or existing franchise.",
  "prompts": [
   {
-   "name": "kk_06_omakase",
-   "aspect": "3:4",
-   "prompt": "Split comedic scene. In front, a smug young Korean man in a nice jacket sits at a fancy omakase sushi counter, happily taking a photo of an expensive nigiri with his phone, chef serving behind him. In the back corner, his friend peeks through the restaurant door, eyes full of tears and rage, clutching an empty open wallet with moths flying out. Exaggerated webtoon expressions."
+   "name": "kk_s01_selfie",
+   "aspect": "4:3",
+   "prompt": "Black and white pen-and-ink manga illustration with fine hatching, like a Korean exam textbook illustration. A cafe table: on the left, a young Korean man slumps, staring at his phone screen full of selfie thumbnails (blank squares), looking defeated. On the right, his friend sits with arms crossed, looking at him with a deadpan, unimpressed face. Leave empty space in the upper left area above the slumped man's head."
   },
   {
-   "name": "kk_07_readignore",
-   "aspect": "3:4",
-   "prompt": "Split-screen comedy. Left half: a young woman lounging on a sofa, grinning while posting a selfie on her phone, ignoring a pile of unread message notifications shown only as red dots with no numbers. Right half: her friend sitting on the floor staring at her own phone with a furious twitching face, veins popping, holding the phone so hard it cracks. Exaggerated webtoon expressions."
+   "name": "kk_s02_payday",
+   "aspect": "4:3",
+   "prompt": "Black and white pen-and-ink manga illustration with fine hatching, like a Korean exam textbook illustration. A small studio apartment: a young Korean woman sits on the floor surrounded by many opened delivery boxes and shopping bags, holding a phone and staring at it in shock. Her friend stands behind her holding a coffee, looking down at the boxes with a flat expression. Leave empty space in the upper left area."
   },
   {
-   "name": "kk_08_toilet",
-   "aspect": "3:4",
-   "prompt": "A young Korean office worker in a shirt and tie sits fully clothed on a closed toilet lid inside a clean company restroom stall, legs crossed like a CEO, sipping iced coffee and scrolling his phone with a smug satisfied grin, sunglasses pushed up on his head. A wall clock without numbers above the stall. Comedic, relaxed, cozy lighting."
+   "name": "kk_s03_mandu",
+   "aspect": "4:5",
+   "prompt": "Simple cute minimal illustration on a plain white background, soft pastel colors, thick soft outlines. Two chubby steamed dumplings (mandu) with tiny arms and simple dot-eye faces stand side by side in the lower half of the frame. The left dumpling looks up hopefully with sparkly eyes, leaning in for a hug. The right dumpling looks away with a calm, slightly cold expression, one tiny hand raised like stop. The whole upper 40 percent of the image is empty white space."
   },
   {
-   "name": "kk_09_janya",
-   "aspect": "3:4",
-   "prompt": "2am bedroom, dark blue night lighting. A young woman lies in bed, face lit by her phone screen, making an extremely disgusted yet smug expression, one eyebrow raised, lip curled, as if she just received a message from her ex. Her other hand hovers over the phone. A small ghost-like silhouette of an ex-boyfriend with puppy eyes floats faintly above the phone. Comedic webtoon style."
+   "name": "kk_s04_groupchat",
+   "aspect": "4:5",
+   "prompt": "Soft colored Korean webtoon illustration, warm night lighting. A young Korean woman lies in bed under a blanket at night, holding her phone close to her face, eyes wide with dramatic anxiety, sweat drops, mouth slightly open in panic, as if overthinking a tiny message. Cozy bedroom, dark window. Leave large empty space in the upper third of the image above her."
   },
   {
-   "name": "kk_10_bill",
-   "aspect": "3:4",
-   "prompt": "A Korean barbecue restaurant table after a big group dinner, empty plates and bottles everywhere. One young man sits alone holding a very long receipt that drapes to the floor, face pale and frozen in shock. All the other chairs are empty, and through the window his friends are sprinting away down the street laughing, one waving goodbye. Exaggerated comedic webtoon expressions."
+   "name": "kk_s05_penguin",
+   "aspect": "4:5",
+   "prompt": "Soft painterly storybook illustration, gentle pastel blue and white tones. On a snowy ice field during light snowfall, two penguins stand close together. The smaller penguin looks up at the bigger one with a shy, curious face. The bigger penguin leans its body slightly to shield the smaller one from the wind, looking ahead calmly. Emotional, quiet, heartwarming mood. Leave large empty space in the upper half of the image (soft snowy sky)."
   }
- ]
+ ],
+ "model": "gemini-2.5-flash-image"
 }
