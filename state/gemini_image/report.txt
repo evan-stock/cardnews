@@ -1,4 +1,5 @@
-man_sheet: 실패
-brain_boss: 실패
-kidney_foreman: 실패
-ramen_room: 실패
+kk_01_buttons: 실패
+kk_02_haircut: 실패
+kk_03_friday: 실패
+kk_04_hamster: 실패
+kk_05_lunch: 실패
