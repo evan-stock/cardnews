@@ -1,0 +1,37 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>html,body{margin:0;background:#000}canvas{image-rendering:pixelated}</style></head><body>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js"}}</script>
+<script type="module">
+import * as THREE from 'three';
+// 2.5D: 제미나이 도트 배경을 '방 모양 상자'에 투영해서 카메라가 실제로 움직이게
+const IW = 768, IH = 1376, CX = 405, CY = 575, F = 1192;      // 소실점·초점거리(그림 원근에 맞춤)
+const D = 10, CEIL = (CY - 330) / F * D, FLOOR = -(700 - CY) / F * D, LEFT = (215 - CX) / F * D;
+const LW = 192 * 2, LH = 344 * 2;                               // 저해상도로 렌더 → 점 크기 유지
+const r = new THREE.WebGLRenderer({ antialias: false, preserveDrawingBuffer: true }); r.setPixelRatio(1); r.setSize(LW, LH);
+r.domElement.style.width = '720px'; r.domElement.style.height = '1290px'; r.outputColorSpace = THREE.SRGBColorSpace; document.body.appendChild(r.domElement);
+const s = new THREE.Scene();
+const tex = new THREE.TextureLoader().load('bg.png', () => { window.ready = true; }); tex.magFilter = THREE.NearestFilter; tex.minFilter = THREE.NearestFilter; tex.colorSpace = THREE.SRGBColorSpace;
+// 그림의 각 점 → 방 벽/바닥/천장과 만나는 3D 위치
+const NX = 192, NY = 344, pos = [], uv = [], idx = [];
+for (let j = 0; j <= NY; j++) for (let i = 0; i <= NX; i++) {
+  const u = i / NX * IW, v = j / NY * IH; const dx = (u - CX) / F, dy = -(v - CY) / F;
+  let t = D;                                                  // 뒷벽
+  if (dy > 1e-6) t = Math.min(t, CEIL / dy); if (dy < -1e-6) t = Math.min(t, FLOOR / dy); if (dx < -1e-6) t = Math.min(t, LEFT / dx);
+  // 앞쪽 내 책상(그림 아래쪽)은 바닥보다 높은 판으로
+  const DESK = FLOOR + 0.55; if (v > 1040 && dy < 0) t = Math.min(t, DESK / dy);
+  pos.push(dx * t, dy * t, -t); uv.push(i / NX, 1 - j / NY);
+}
+for (let j = 0; j < NY; j++) for (let i = 0; i < NX; i++) { const a = j * (NX + 1) + i, b = a + 1, c = a + NX + 1, d = c + 1; idx.push(a, c, b, b, c, d); }
+const g = new THREE.BufferGeometry(); g.setAttribute('position', new THREE.Float32BufferAttribute(pos, 3)); g.setAttribute('uv', new THREE.Float32BufferAttribute(uv, 2)); g.setIndex(idx);
+s.add(new THREE.Mesh(g, new THREE.MeshBasicMaterial({ map: tex, side: THREE.DoubleSide })));
+const cam = new THREE.PerspectiveCamera(2 * Math.atan(IH / 2 / F) * 180 / Math.PI, IW / IH, 0.05, 100);
+cam.updateProjectionMatrix(); cam.projectionMatrix.elements[8] = -(CX - IW / 2) / (IW / 2); cam.projectionMatrix.elements[9] = (CY - IH / 2) / (IH / 2); cam.projectionMatrixInverse.copy(cam.projectionMatrix).invert();
+const ease = x => x < 0 ? 0 : x > 1 ? 1 : x * x * (3 - 2 * x);
+window.renderFrame = t => {
+  const push = ease(t / 3) * 0.9;                             // 0~3초: 천천히 앞으로
+  const turn = ease((t - 3.2) / 0.45) * 0.07;                  // 3.2초: 노크 소리에 문 쪽으로 고개
+  const shake = t > 3.2 && t < 3.6 ? Math.sin(t * 90) * 0.004 : 0;
+  cam.position.set(ease((t - 3.2) / 1.5) * 0.2, Math.sin(t * 2.2) * 0.012, -push - ease((t - 3.2) / 1.5) * 0.4);
+  cam.rotation.set(shake - turn * 0.15, -turn, 0);
+  r.render(s, cam);
+};
+</script></body></html>
