@@ -1,7 +1,7 @@
 {
  "id": "20261121-t18-lifetest",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-21T18:41:40.064292+09:00",
  "publish_at": "2026-11-21T18:41:40.064313+09:00",
  "publish_now": true,
@@ -51,5 +51,6 @@
  },
  "draft_hash": "0e01c9fc42cc",
  "tg_video": 3088,
- "tg_msg": 3089
+ "tg_msg": 3089,
+ "decided_at": "2026-11-21T18:43:36.504915+09:00"
 }
