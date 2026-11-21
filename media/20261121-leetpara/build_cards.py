@@ -70,16 +70,21 @@ ref = op("ref_full.jpg")  # 참고 게시물(커뮤니티에 돈 캡처)
 namu = ref.crop((100, 0, 1340, 380)).resize((940, round(380 * 940 / 1240)), Image.LANCZOS)
 frame(("커뮤니티에 퍼진 캡처", "본인이 밝혀온 '각성' 일화"), namu,
       "\"단양에서 '패러글라이딩' 설명 읽고 각성\"", "온라인 커뮤니티 게시글 속 나무위키 캡처").save(O / "c02.jpg", quality=93)
-tl = ref.crop((100, 880, 1340, 1712)); tl = tl.resize((940, round(tl.height * 940 / tl.width)), Image.LANCZOS)
-frame(("함께 퍼진 처분 정리", "2022년 9월 '징역 6개월 실형'"), tl,
-      "\"그 시기엔 '수감 중' 아니었나\"", "누리꾼 주장 · 일화 시기 2022년 말/2023년 보도 엇갈려").save(O / "c03.jpg", quality=93)
-# 표지: 왼쪽 인터뷰 사진, 오른쪽 단양 패러글라이딩, 사이 페이드
-pt = op("lee_photo.jpg"); pt = pt.resize((round(pt.width * H / pt.height), H), Image.LANCZOS)
-L = pt.crop((pt.width // 2 - 40 - 330, 0, pt.width // 2 - 40 + 330, H))
-dy = op("danyang.jpg"); dy = dy.resize((round(dy.width * H / dy.height), H), Image.LANCZOS)
-Rt = dy.crop((260, 0, 260 + 660, H))
-cv = Image.new("RGB", (W, H)); cv.paste(Rt, (W - 660, 0)); fade = 240
-m = Image.new("L", (660, H), 255); md = ImageDraw.Draw(m)
-for x in range(660 - fade, 660): md.line([(x, 0), (x, H)], fill=round(255 * (660 - x) / fade))
-cv.paste(L, (0, 0), m); cv.save(O / "cover_bg.jpg", quality=95)
+frame(("함께 퍼진 처분 이력", "2022년 9월 '징역 6개월 실형'"),
+      panel([("2022년 9월 선고(보도)", "공갈·공갈미수 '징역 6개월 실형'"),
+             ("본인이 말한 일화 시기", "2022년 말 '3주 전국일주'"),
+             ("다른 보도 속 일화 시기", "2023년 '도보 전국일주'(주간경향)"),
+             ("누리꾼 주장", "\"그때는 '수감 중' 아니었나\"")], h=640),
+      "2022년 말이면 '수감 기간'과 겹칠 수 있다", "처분 이력은 언론 보도 기준 · 출소 시점 미확인").save(O / "c03.jpg", quality=93)
+b3 = op("baek3.jpg"); b3 = b3.resize((940, round(b3.height * 940 / b3.width)), Image.LANCZOS)
+frame(("인터뷰에서 직접 말한 각성 순간", "\"이 글에만 '집중할 힘'이 생겼다\""), b3,
+      "패러글라이딩 원리 글이 \"'너무 잘' 읽혔다\"", "사진: 유튜브 '지금 백지연' 인터뷰(11.19 공개)").save(O / "c01.jpg", quality=93)
+# 표지: 위 백지연 인터뷰 장면, 아래 패러글라이딩, 사이 페이드
+iv = op("baek1.jpg"); iv = iv.resize((W, round(iv.height * W / iv.width)), Image.LANCZOS)  # 1080x608
+pg = op("para2.jpg").crop((0, 0, 1700, 1000)); PH = 990; pg = pg.resize((round(pg.width * PH / pg.height), PH), Image.LANCZOS)
+x0 = (pg.width - W) // 2 + 120; pg = pg.crop((x0, 0, x0 + W, PH))
+cv = Image.new("RGB", (W, H)); cv.paste(pg, (0, H - PH)); fade = 230
+m = Image.new("L", (W, iv.height), 255); md = ImageDraw.Draw(m)
+for y in range(iv.height - fade, iv.height): md.line([(0, y), (W, y)], fill=round(255 * (iv.height - y) / fade))
+cv.paste(iv, (0, 0), m); cv.save(O / "cover_bg.jpg", quality=95)
 print("ok")
