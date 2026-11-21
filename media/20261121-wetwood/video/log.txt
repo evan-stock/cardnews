@@ -1,0 +1,8 @@
+ERROR: [Instagram] Del_D4bE0FS: This content isn't available to everyone: It can't be seen by certain audiences.
+실패: https://www.instagram.com/reel/Del_D4bE0FS/
+total 12504
+drwxr-xr-x 2 runner runner     4096 Nov 21 05:51 .
+drwxr-xr-x 3 runner runner     4096 Nov 21 05:50 ..
+-rw-r--r-- 1 runner runner      165 Nov 21 05:51 log.txt
+-rw-r--r-- 1 runner runner     1026 Nov 21 05:50 y1.info.json
+-rw-r--r-- 1 runner runner 12786862 Nov 21 05:50 y1.mp4
