@@ -1,0 +1,19 @@
+WARNING: No video formats found!
+WARNING: Requested format is not available
+ERROR: [Instagram] Df-828lzrqc: No video formats found!
+WARNING: No video formats found!
+WARNING: Requested format is not available
+ERROR: [Instagram] Df-829CzVLI: No video formats found!
+WARNING: No video formats found!
+WARNING: Requested format is not available
+ERROR: [Instagram] Df-829MTfh7: No video formats found!
+WARNING: No video formats found!
+WARNING: Requested format is not available
+ERROR: [Instagram] Df-8287T_Az: No video formats found!
+실패: https://www.instagram.com/p/Df-84vYk11o/
+total 136
+drwxr-xr-x 2 runner runner   4096 Nov 21 01:57 .
+drwxr-xr-x 3 runner runner   4096 Nov 21 01:57 ..
+-rw-r--r-- 1 runner runner    577 Nov 21 01:57 log.txt
+-rw-r--r-- 1 runner runner   2123 Nov 21 01:57 v1.info.json
+-rw-r--r-- 1 runner runner 120764 Nov 21 01:57 v1.jpg
