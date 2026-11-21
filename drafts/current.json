@@ -1,55 +1,17 @@
 [
  {
-  "id": "20261121-leetpara",
-  "slot": "lunch",
-  "mode": "send",
-  "topic": "리트 만점자 '단양 패러글라이딩 각성' 일화 거짓 의혹(커뮤니티 주장)",
-  "category": "국내 사회",
-  "risk": "커뮤니티 주장은 '주장'으로 표기, 판결은 기존 보도. 일화 시기 2022년 말/2023년 엇갈림·출소 시점 미확인 명시. 실명 안 씀. 승인 전 게시 금지.",
-  "images": [
-   "cover_bg.jpg",
-   "c02.jpg",
-   "c03.jpg",
-   "cover_bg.jpg"
+  "id": "20261121-leetbaek",
+  "mode": "collect",
+  "image_pages": [
+   "https://www.xportsnews.com/article/2220912",
+   "https://www.topstarnews.net/news/articleView.html?idxno=16279120",
+   "https://www.topstarnews.net/news/articleView.html?idxno=16279449",
+   "https://isplus.com/article/view/isp202611160152",
+   "https://kormedi.com/2906867/",
+   "https://supple.kr/news/cmwmocr5to29etevdf8pcmwn3",
+   "https://www.koreadaily.com/article/20261114185030772",
+   "https://m.news.nate.com/view/20261119n18542"
   ],
-  "slides": [
-   {
-    "lay": "one",
-    "t": "리트 만점자 '패러글라이딩 각성'\n이 일화도 거짓이었나"
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "t": "각성 일화의 진위,\n이제 본인에게 물을 수 없게 됐다",
-    "b": "팔로우하면 매일 화제 소식"
-   }
-  ],
-  "caption": "[리트 만점자 '단양 패러글라이딩 각성' 일화도 거짓이었나]\n\n리트 만점자로 알려진 A씨는 생전 성적이 급상승한 계기로 '전국일주 일화'를 꼽아 왔습니다. 친구들과 3주 전국일주를 떠난 첫날 휴대전화를 잃어버려 디지털 디톡스를 했고, 충북 단양에서 패러글라이딩 안내문을 읽다가 \"글이 선명하게 머릿속에 들어왔다\"는 것입니다.\n\n그런데 최근 온라인 커뮤니티에서는 이 일화가 사실이 아니라는 주장이 퍼지고 있습니다. 3주 여행인데 인증 사진이 한 장도 없고, 휴대전화 분실이라는 설정도 증거가 남지 않게 만든 것 아니냐는 의문입니다.\n\n누리꾼들은 그가 2022년 9월 공갈 등 혐의로 징역 6개월 실형을 선고받았다는 보도를 근거로, 일화 속 시기인 2022년 말에는 수감 중이었을 가능성이 크다고 주장합니다. 다만 일화 시기는 2022년 말이라는 전언과 2023년이라는 보도(주간경향)가 엇갈리고, 실제 출소 시점은 확인되지 않았습니다.\n\n본인의 해명은 이제 들을 수 없게 됐습니다.",
-  "hashtags": [
-   "리트만점자",
-   "리트냥이",
-   "패러글라이딩",
-   "단양",
-   "전국일주"
-  ],
-  "sources": [
-   {
-    "publisher": "온라인 커뮤니티",
-    "date": "2026.11.20"
-   },
-   {
-    "publisher": "주간경향",
-    "date": "2026.11.18"
-   }
-  ],
-  "photo_credits": [
-   "나무위키",
-   "위키미디어 공용 'Paragliders in Danyang'(CC BY 4.0)",
-   "온라인 커뮤니티 캡처"
-  ]
+  "limit": 40
  }
 ]
