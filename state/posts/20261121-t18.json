@@ -1,0 +1,56 @@
+{
+ "id": "20261121-t18",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-21T18:38:52.614737+09:00",
+ "publish_at": "2026-11-21T18:38:52.614759+09:00",
+ "publish_now": true,
+ "topic": "첫 장면 정점형 1편(11.21 18:07): 산책 끝나고 하네스를 벗기고 발을 닦아 주자 으르렁대며 이빨까지 보이지만 발은 하나씩 꼬박꼬박 내주는 작은 흰 구조견(TikTok @fineboymiki, 310만+, Newsweek 2026.4.12 보도). 0초 = 원본 25.2초 찡그린 얼굴(이빨·혀) 클로즈업, 그다음 시간순: 하네스 벗기기 → 으르렁 + 발 내밀기 → 발 닦기 중 이빨 → 얼굴 닦기 → 꾹 참음 → 다 끝나자 폴짝폴짝. '~하면 안 되는 이유' 틀. 사실: AKC(2026.9) 으르렁은 놀이·만족·불편·스트레스를 알리는 개의 의사소통.",
+ "sources": [
+  {
+   "publisher": "TikTok @fineboymiki",
+   "url": "https://www.tiktok.com/@fineboymiki/video/7624282978985938199",
+   "date": "2026-04"
+  },
+  {
+   "publisher": "Newsweek - Rescue Dog's 'Spicy' Reaction After Walk Has Internet Losing It",
+   "url": "https://www.newsweek.com/rescue-dogs-spicy-reaction-after-walk-has-internet-losing-it-11812201",
+   "date": "2026-04-12"
+  },
+  {
+   "publisher": "AKC - Why Dogs Growl and What Their Growls Really Mean (Stephanie Gibeault)",
+   "url": "https://www.akc.org/expert-advice/training/why-dogs-growl-and-how-to-handle-it/",
+   "date": "2026-09-15"
+  }
+ ],
+ "seconds": 18.349999999999998,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261121-t18/short.mp4"
+ ],
+ "app_file": "media/20261121-t18/short_nobgm.mp4",
+ "yt": {
+  "title": "산책 끝난 강아지 발 닦아 주면 안 되는 이유ㅋㅋ #shorts",
+  "description": "산책 끝나고 발 좀 닦아 주려 했을 뿐인데ㅋㅋ 으르렁대고 이빨까지 보이면서\n정작 발은 하나씩 꼬박꼬박 다 내주는 강아지.\n\n미국애견협회(AKC)에 따르면 으르렁거림은 놀이·만족·불편·스트레스를 알리는 개의 의사소통 방법이래요.\n\n여러분 댕댕이도 발 닦을 때 투덜대나요?\n\n영상: TikTok @fineboymiki\n참고: Newsweek, AKC\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#강아지 #댕댕이 #산책 #발닦기 #귀여운동물 #동물쇼츠 #반려견 #오늘의털뭉치\n\n출처: TikTok @fineboymiki 2026-04, Newsweek - Rescue Dog's 'Spicy' Reaction After Walk Has Internet Losing It 2026-04-12, AKC - Why Dogs Growl and What Their Growls Really Mean (Stephanie Gibeault) 2026-09-15\n사진·영상: TikTok @fineboymiki\n음성: Typecast\n\n#shorts #강아지 #댕댕이 #산책 #발닦기",
+  "tags": [
+   "강아지",
+   "댕댕이",
+   "산책",
+   "발닦기",
+   "으르렁",
+   "귀여운동물",
+   "동물쇼츠",
+   "오늘의털뭉치"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "ad814dfdee67",
+ "tg_video": 3084,
+ "tg_msg": 3085
+}
