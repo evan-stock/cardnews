@@ -2,7 +2,7 @@
  "id": "20261121-leetaccomp",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-21T12:29:51.629204+09:00",
  "publish_at": "2026-11-21T13:00:00+09:00",
  "topic": "리트 만점자 '단양 패러글라이딩 각성' 일화 거짓 의혹(커뮤니티 주장)",
@@ -53,5 +53,6 @@
   "media/20261121-leetaccomp/04.jpg",
   "media/20261121-leetaccomp/05.jpg"
  ],
- "tg_msg": 3065
+ "tg_msg": 3065,
+ "decided_at": "2026-11-21T12:31:31.509500+09:00"
 }
