@@ -16,3 +16,14 @@ drwxr-xr-x 3 runner runner 4096 Nov 21 04:01 ..
 -rw-r--r-- 1 runner runner 2977 Nov 21 04:01 api6.json
 -rw-r--r-- 1 runner runner  547 Nov 21 04:01 log.txt
 -rw-r--r-- 1 runner runner  366 Nov 21 04:01 v1.info.json
+total 1120
+drwxr-xr-x 2 runner runner   4096 Nov 21 04:05 .
+drwxr-xr-x 3 runner runner   4096 Nov 21 04:04 ..
+-rw-r--r-- 1 runner runner     20 Nov 21 04:04 api5.json
+-rw-r--r-- 1 runner runner   2977 Nov 21 04:04 api6.json
+-rw-r--r-- 1 runner runner 451613 Nov 21 04:05 img2.jpg
+-rw-r--r-- 1 runner runner 322284 Nov 21 04:05 img3.jpg
+-rw-r--r-- 1 runner runner  86115 Nov 21 04:05 img4.jpg
+-rw-r--r-- 1 runner runner 250178 Nov 21 04:05 img5.jpg
+-rw-r--r-- 1 runner runner    872 Nov 21 04:04 log.txt
+-rw-r--r-- 1 runner runner    533 Nov 21 04:05 v1.info.json
