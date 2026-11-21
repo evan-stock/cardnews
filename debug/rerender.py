@@ -17,7 +17,7 @@ if _a and _a[0] in ("shot", "get"):
             name = a[3] if len(a) > 3 else f"shot{n}"
             try:
                 if a[0] == "get":
-                    r = requests.get(a[2], headers={"User-Agent": "cardnews-bot/1.0"}, timeout=60)
+                    r = requests.get(a[2], headers={"User-Agent": "cardnews-bot/1.0 (https://github.com/evan-stock/cardnews)"}, timeout=60)
                     print("get", r.status_code, a[2]); (out / name).write_bytes(r.content); continue
                 pg = b.new_page(viewport={"width": 430, "height": 932}, device_scale_factor=3, locale="ko-KR", user_agent=UA)
                 r = pg.goto(a[2], wait_until="domcontentloaded", timeout=60000); pg.wait_for_timeout(5000)

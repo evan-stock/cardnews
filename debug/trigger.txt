@@ -1,3 +1,3 @@
-shot 20261121-leetpara https://www.hankyung.com/article/202611196417H hk
-get 20261121-leetpara https://upload.wikimedia.org/wikipedia/commons/5/58/Paragliders_in_Danyang.jpg danyang.jpg
-shot 20261121-leetpara https://namu.wiki/w/%EC%9D%B4%EC%A7%84%EC%9A%B0(1994) namu
+get 20261121-leetpara https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Paragliders_in_Danyang.jpg/1920px-Paragliders_in_Danyang.jpg danyang.jpg
+shot 20261121-leetpara https://www.sportsseoul.com/news/read/1650891 ss
+shot 20261121-leetpara https://news.nate.com/view/20261117n06049 nate
