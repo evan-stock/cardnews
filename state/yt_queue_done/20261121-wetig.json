@@ -1,0 +1,22 @@
+{
+ "id": "20261121-wetig",
+ "finished_at": "2026-11-21T14:31:11+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.instagram.com/countrylife405/reels/",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "ERROR: Unsupported URL: https://www.instagram.com/countrylife405/reels/"
+  },
+  {
+   "n": 2,
+   "url": "https://www.instagram.com/countrylife405/",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "ERROR: [instagram:user] countrylife405: Unable to extract data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  }
+ ]
+}
