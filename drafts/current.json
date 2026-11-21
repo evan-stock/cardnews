@@ -1,6 +1,6 @@
 [
  {
-  "id": "20261121-riemann",
+  "id": "20261121-riemann2",
   "mode": "collect",
   "image_pages": [
    "https://fnnews.com/news/202611210414035344",
@@ -24,5 +24,18 @@
    "https://www.claymath.org/millennium/riemann-hypothesis/"
   ],
   "limit": 40
+ },
+ {
+  "id": "20261121-claudelogo",
+  "mode": "collect",
+  "image_pages": [
+   "https://commons.wikimedia.org/wiki/File:Claude_AI_symbol.svg",
+   "https://commons.wikimedia.org/wiki/File:Claude_AI_logo.svg",
+   "https://en.wikipedia.org/wiki/Claude_(language_model)"
+  ],
+  "shot_pages": [
+   "https://commons.wikimedia.org/wiki/File:Claude_AI_symbol.svg"
+  ],
+  "limit": 20
  }
 ]
