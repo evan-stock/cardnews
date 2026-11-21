@@ -2,18 +2,30 @@
 trigger.txt 가 'shot <id> <url>' 이면 그 페이지를 실제 브라우저(모바일 화면)로 캡처해 media/<id>/cand/ 에 저장한다(2026.11.21)."""
 import json, os, shutil, sys
 _a = sys.argv[1].strip().split()
-if _a and _a[0] == "shot":
+if _a and _a[0] in ("shot", "get"):
+    # 한 줄에 하나: 'shot <id> <url> [이름]' = 브라우저 캡처, 'get <id> <url> <이름>' = 파일 받기
     from pathlib import Path
+    import requests
     from playwright.sync_api import sync_playwright
-    out = Path("media") / _a[1] / "cand"; out.mkdir(parents=True, exist_ok=True)
+    UA = "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     with sync_playwright() as pw:
         b = pw.chromium.launch()
-        pg = b.new_page(viewport={"width": 430, "height": 932}, device_scale_factor=3, locale="ko-KR",
-                        user_agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1")
-        r = pg.goto(_a[2], wait_until="domcontentloaded", timeout=60000); pg.wait_for_timeout(5000)
-        print("status", r.status if r else None, pg.title())
-        pg.screenshot(path=str(out / "shot_full.png"), full_page=True)
-        open(out / "shot_text.txt", "w").write(pg.inner_text("body"))
+        for n, line in enumerate(sys.argv[1].strip().splitlines()):
+            a = line.split()
+            if len(a) < 3: continue
+            out = Path("media") / a[1] / "cand"; out.mkdir(parents=True, exist_ok=True)
+            name = a[3] if len(a) > 3 else f"shot{n}"
+            try:
+                if a[0] == "get":
+                    r = requests.get(a[2], headers={"User-Agent": "cardnews-bot/1.0"}, timeout=60)
+                    print("get", r.status_code, a[2]); (out / name).write_bytes(r.content); continue
+                pg = b.new_page(viewport={"width": 430, "height": 932}, device_scale_factor=3, locale="ko-KR", user_agent=UA)
+                r = pg.goto(a[2], wait_until="domcontentloaded", timeout=60000); pg.wait_for_timeout(5000)
+                print("shot", r.status if r else None, pg.title(), a[2])
+                pg.screenshot(path=str(out / f"{name}.png"), full_page=True)
+                open(out / f"{name}.txt", "w").write(pg.inner_text("body")); pg.close()
+            except Exception as e:
+                print("실패", a[2], e)
         b.close()
     sys.exit(0)
 sys.path.insert(0, os.getcwd())

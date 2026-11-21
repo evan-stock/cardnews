@@ -1,1 +1,5 @@
-shot 20261121-leetaccomp https://m.fmkorea.com/best/10579525120
+shot 20261121-leetpara https://search.dcinside.com/post/q/%EC%9D%B4%EC%A7%84%EC%9A%B0%20%ED%8C%A8%EB%9F%AC%EA%B8%80%EB%9D%BC%EC%9D%B4%EB%94%A9 dc
+shot 20261121-leetpara https://theqoo.net/total?filter_mode=normal&search_target=title_content&search_keyword=%EC%9D%B4%EC%A7%84%EC%9A%B0+%ED%8C%A8%EB%9F%AC%EA%B8%80%EB%9D%BC%EC%9D%B4%EB%94%A9 theqoo
+shot 20261121-leetpara https://pann.nate.com/search/talk?q=%EC%9D%B4%EC%A7%84%EC%9A%B0+%ED%8C%A8%EB%9F%AC%EA%B8%80%EB%9D%BC%EC%9D%B4%EB%94%A9 pann
+get 20261121-leetpara https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=paragliding+Danyang&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=1600&format=json commons_danyang.json
+get 20261121-leetpara https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=paragliding+Korea&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=1600&format=json commons_korea.json
