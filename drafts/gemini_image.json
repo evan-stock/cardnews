@@ -1,32 +1,31 @@
 {
- "_for": "ㅋㅋ상회 AI 공감짤 시안 5개 (2026-11-21). 글씨는 humor-cards render_photo_reel.py로 얹는다.",
+ "_for": "ㅋㅋ상회 AI 공감짤 매운맛 시안 5개 (2026-11-21 15:55). 글씨는 humor-cards render_photo_reel.py로 얹는다.",
  "style": "Soft hand-drawn Korean webtoon illustration, warm pastel colors, clean thin lineart, gentle cozy lighting, cute expressive original characters with big readable facial expressions, simple uncluttered background so the subject reads instantly on a phone. Original characters only, do not imitate any existing franchise or real person. Absolutely no text, letters, numbers, speech bubbles, signs with writing, or logos anywhere in the image.",
  "prompts": [
   {
-   "name": "kk_01_buttons",
-   "aspect": "4:5",
-   "prompt": "A tired young Korean office worker in a white shirt and loose tie sits at his desk at 5:55pm, sweating nervously, staring down at two big arcade-style push buttons on the desk in front of him, one bright red and one bright blue. His hand hovers between them. Behind him, slightly blurred, a stern middle-aged manager peeks out of a glass office door and beckons with one finger. Warm late-afternoon light through the window, office clock on the wall with no numbers."
+   "name": "kk_06_omakase",
+   "aspect": "3:4",
+   "prompt": "Split comedic scene. In front, a smug young Korean man in a nice jacket sits at a fancy omakase sushi counter, happily taking a photo of an expensive nigiri with his phone, chef serving behind him. In the back corner, his friend peeks through the restaurant door, eyes full of tears and rage, clutching an empty open wallet with moths flying out. Exaggerated webtoon expressions."
   },
   {
-   "name": "kk_02_haircut",
-   "aspect": "4:5",
-   "prompt": "Cafe scene. A young woman with a fresh short bob haircut sits across a small table, chin on her hands, smiling expectantly with sparkly eyes, clearly waiting for a compliment. Across from her, her boyfriend freezes mid-sip of iced coffee, eyes wide, sweat drop on his temple, panicking because he cannot tell what changed. Comedic tension, soft afternoon light."
+   "name": "kk_07_readignore",
+   "aspect": "3:4",
+   "prompt": "Split-screen comedy. Left half: a young woman lounging on a sofa, grinning while posting a selfie on her phone, ignoring a pile of unread message notifications shown only as red dots with no numbers. Right half: her friend sitting on the floor staring at her own phone with a furious twitching face, veins popping, holding the phone so hard it cracks. Exaggerated webtoon expressions."
   },
   {
-   "name": "kk_03_friday",
-   "aspect": "4:5",
-   "prompt": "Friday night, 11pm. A young woman lies on her stomach in bed under a fluffy blanket, legs kicking happily in the air, smiling blissfully at her phone screen glowing on her face. Snacks and a can of soda on the bed, a warm bedside lamp, a dark window with city lights. A phone alarm clock on the nightstand is lying face down. Pure carefree weekend mood."
+   "name": "kk_08_toilet",
+   "aspect": "3:4",
+   "prompt": "A young Korean office worker in a shirt and tie sits fully clothed on a closed toilet lid inside a clean company restroom stall, legs crossed like a CEO, sipping iced coffee and scrolling his phone with a smug satisfied grin, sunglasses pushed up on his head. A wall clock without numbers above the stall. Comedic, relaxed, cozy lighting."
   },
   {
-   "name": "kk_04_hamster",
-   "aspect": "4:5",
-   "prompt": "A very cute chubby golden hamster sitting upright, holding out one single small round cookie toward the viewer with both tiny paws, big shiny pleading eyes, but with obvious cookie crumbs all around its mouth and stuffed puffy cheeks. Behind it, an empty torn snack box lies on its side. Soft pastel background, close-up, adorable and guilty expression."
+   "name": "kk_09_janya",
+   "aspect": "3:4",
+   "prompt": "2am bedroom, dark blue night lighting. A young woman lies in bed, face lit by her phone screen, making an extremely disgusted yet smug expression, one eyebrow raised, lip curled, as if she just received a message from her ex. Her other hand hovers over the phone. A small ghost-like silhouette of an ex-boyfriend with puppy eyes floats faintly above the phone. Comedic webtoon style."
   },
   {
-   "name": "kk_05_lunch",
-   "aspect": "4:5",
-   "prompt": "Office lunchtime on a busy street with restaurant fronts (signs left blank). Three young Korean coworkers stand in a group; two of them look exhausted and annoyed at the third coworker, who shrugs with a carefree smile and both palms up as if saying anything is fine, while a thought cloud above his head shows only a frowning face crossing out a bowl of noodles. Bright midday light, comedic expressions."
+   "name": "kk_10_bill",
+   "aspect": "3:4",
+   "prompt": "A Korean barbecue restaurant table after a big group dinner, empty plates and bottles everywhere. One young man sits alone holding a very long receipt that drapes to the floor, face pale and frozen in shock. All the other chairs are empty, and through the window his friends are sprinting away down the street laughing, one waving goodbye. Exaggerated comedic webtoon expressions."
   }
- ],
- "_retry": "2026-11-21 15:28 결제 후"
+ ]
 }
