@@ -1,9 +1,0 @@
-ERROR: [twitter] 2122949120310833335: No video could be found in this tweet
-사진 받음 p1_1.jpg
-영상 없는 글(사진만): https://x.com/deoksu_kr/status/2122949120310833335
-total 364
-drwxr-xr-x 2 runner runner   4096 Nov 18 13:06 .
-drwxr-xr-x 3 runner runner   4096 Nov 18 13:06 ..
--rw-r--r-- 1 runner runner    180 Nov 18 13:06 log.txt
--rw-r--r-- 1 runner runner 353086 Nov 18 13:06 p1_1.jpg
--rw-r--r-- 1 runner runner   2905 Nov 18 13:06 x1.json
