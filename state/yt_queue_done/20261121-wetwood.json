@@ -1,0 +1,25 @@
+{
+ "id": "20261121-wetwood",
+ "finished_at": "2026-11-21T14:26:50+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/pMLBv7lGlfQ",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261121-wetwood/video/y1.mp4",
+   "mb": 12.2,
+   "view_count": 3068138,
+   "title": "벌목할 때 이런 나무를 조심해야 하는 이유"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=V-G_XtOQ4MI",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "ERROR: [youtube] V-G_XtOQ4MI: This video is unavailable"
+  }
+ ]
+}
