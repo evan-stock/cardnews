@@ -1,5 +1,21 @@
-"""기존 게시물을 Claude 재호출 없이 사진 수집·렌더링만 다시 해본다 (비용 0)."""
+"""기존 게시물을 Claude 재호출 없이 사진 수집·렌더링만 다시 해본다 (비용 0).
+trigger.txt 가 'shot <id> <url>' 이면 그 페이지를 실제 브라우저(모바일 화면)로 캡처해 media/<id>/cand/ 에 저장한다(2026.11.21)."""
 import json, os, shutil, sys
+_a = sys.argv[1].strip().split()
+if _a and _a[0] == "shot":
+    from pathlib import Path
+    from playwright.sync_api import sync_playwright
+    out = Path("media") / _a[1] / "cand"; out.mkdir(parents=True, exist_ok=True)
+    with sync_playwright() as pw:
+        b = pw.chromium.launch()
+        pg = b.new_page(viewport={"width": 430, "height": 932}, device_scale_factor=3, locale="ko-KR",
+                        user_agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1")
+        r = pg.goto(_a[2], wait_until="domcontentloaded", timeout=60000); pg.wait_for_timeout(5000)
+        print("status", r.status if r else None, pg.title())
+        pg.screenshot(path=str(out / "shot_full.png"), full_page=True)
+        open(out / "shot_text.txt", "w").write(pg.inner_text("body"))
+        b.close()
+    sys.exit(0)
 sys.path.insert(0, os.getcwd())
 from cardnews.common import load_post, MEDIA
 from cardnews.images import pick_images
