@@ -1,5 +1,5 @@
-kk_01_buttons: 실패
-kk_02_haircut: 실패
-kk_03_friday: 실패
-kk_04_hamster: 실패
-kk_05_lunch: 실패
+kk_01_buttons: 성공 (gemini-2.5-flash-image)
+kk_02_haircut: 성공 (gemini-2.5-flash-image)
+kk_03_friday: 성공 (gemini-2.5-flash-image)
+kk_04_hamster: 성공 (gemini-2.5-flash-image)
+kk_05_lunch: 성공 (gemini-2.5-flash-image)

@@ -1,13 +1,7 @@
 이미지 모델: ['gemini-2.5-flash-image', 'gemini-3-pro-image-preview', 'gemini-3-pro-image', 'gemini-3.1-flash-image-preview', 'gemini-3.1-flash-image', 'gemini-3.1-flash-lite-image']
 후보 모델: ['gemini-2.5-flash-image', 'gemini-3.1-flash-image-preview', 'gemini-3.1-flash-image', 'gemini-3-pro-image-preview', 'gemini-3-pro-image', 'gemini-3.1-flash-lite-image']
-kk_01_buttons gemini-2.5-flash-image HTTP 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error,
-kk_01_buttons gemini-3.1-flash-image-preview HTTP 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error,
-kk_01_buttons gemini-3.1-flash-image HTTP 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error,
-kk_01_buttons gemini-3-pro-image-preview HTTP 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error,
-kk_01_buttons gemini-3-pro-image HTTP 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error,
-kk_01_buttons gemini-3.1-flash-lite-image HTTP 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error,
-kk_01_buttons: 실패
-kk_02_haircut: 실패
-kk_03_friday: 실패
-kk_04_hamster: 실패
-kk_05_lunch: 실패
+kk_01_buttons: 성공 (gemini-2.5-flash-image)
+kk_02_haircut: 성공 (gemini-2.5-flash-image)
+kk_03_friday: 성공 (gemini-2.5-flash-image)
+kk_04_hamster: 성공 (gemini-2.5-flash-image)
+kk_05_lunch: 성공 (gemini-2.5-flash-image)
