@@ -1,0 +1,16 @@
+ERROR: [twitter] 2123987423239848308: No video could be found in this tweet
+사진 받음 p1_1.jpg
+영상 없는 글(사진만): https://x.com/nowyeosi/status/2123987423239848308
+ERROR: [twitter] 2124101945212445166: No video could be found in this tweet
+사진 받음 p3_1.jpg
+영상 없는 글(사진만): https://x.com/nowyeosi/status/2124101945212445166
+total 1500
+drwxr-xr-x 2 runner runner    4096 Nov 21 14:43 .
+drwxr-xr-x 3 runner runner    4096 Nov 21 14:43 ..
+-rw-r--r-- 1 runner runner     358 Nov 21 14:43 log.txt
+-rw-r--r-- 1 runner runner   73827 Nov 21 14:43 p1_1.jpg
+-rw-r--r-- 1 runner runner   85366 Nov 21 14:43 p3_1.jpg
+-rw-r--r-- 1 runner runner 1344446 Nov 21 14:43 v2.mp4
+-rw-r--r-- 1 runner runner     481 Nov 21 14:43 x1.json
+-rw-r--r-- 1 runner runner     639 Nov 21 14:43 x2.json
+-rw-r--r-- 1 runner runner     526 Nov 21 14:43 x3.json
