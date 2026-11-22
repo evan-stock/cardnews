@@ -66,5 +66,5 @@ subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i
                 '-c:a', 'aac', '-b:a', '160k', '-t', f'{TOT:.2f}', '-movflags', '+faststart', f'{D}/reel.mp4'], check=True)
 subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', '4.0', '-i', f'{VD}/v3.mp4', '-frames:v', '1', '-vf', WIDE, f'{R}/cov_band.jpg'], check=True)
 bg = Image.new('RGB', (1080, 1920), (0, 0, 0)); bg.paste(Image.open(f'{R}/cov_band.jpg'), (0, 330)); bg.save(f'{R}/cov_bg.jpg', quality=95)
-subprocess.run(['python3', 'scripts/reel_overlay.py', f'{D}/cand/overlay.png', 'GTA 아닙니다\n테슬라 실제 화면', '', f'{R}/cov_bg.jpg', f'{D}/reel_cover.jpg'], check=True)
+subprocess.run(['python3', 'scripts/reel_overlay.py', f'{D}/cand/overlay.png', 'GTA 아닙니다\n테슬라 자율주행\n실제 화면', '', f'{R}/cov_bg.jpg', f'{D}/reel_cover.jpg'], check=True)
 print('done', round(TOT, 1))
