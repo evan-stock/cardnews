@@ -1,13 +1,13 @@
 {
- "_for": "ㅋㅋ상회 멘헤라 DM: 실제 화면을 폰으로 찍은 느낌 1장 (2026-11-22 10:21 사용자 요청). 글씨는 받은 뒤 원문으로 고침.",
+ "_for": "ㅋㅋ상회 멘헤라 DM 실사본 줌아웃 1장 (2026-11-22 10:27 사용자 승인 '엉다시뽑아', 55원 안팎).",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "kk_menhera_real",
+   "name": "kk_menhera_real_zoomout",
    "aspect": "4:5",
-   "refs": ["drafts/refs/kk_menhera_src.png", "drafts/refs/style_cracked_dark.jpg", "drafts/refs/style_photo_kakao.jpg"],
-   "prompt": "Image 1 is a screenshot of a chat. Create a REAL photograph of a smartphone screen displaying exactly image 1, taken very close with another phone, in the same photographic style as images 2 and 3 (amateur photo of a real phone screen). Requirements: the phone screen fills almost the entire frame, slightly tilted and in perspective, edges of the screen partly cut off by the frame, a thin dark phone bezel visible on one side. The screen content must be identical to image 1: same dark purple background with blurred hearts, same rounded purple-gray bubbles, same Korean text and line breaks, same gray avatars, same two red heart emojis, same small mosaic on one word. Add real-photo artifacts: subtle moire pattern from the screen pixels, a faint diagonal crack line across the glass, small dust specks and a fingerprint smudge on the glass, a soft reflection of a room light, slight blur and phone camera noise. Dark room. Do not copy any app icons, like counts, usernames or overlay buttons from images 2 and 3. No extra text, no watermark."
+   "refs": ["drafts/refs/kk_menhera_real_fixed.jpg", "drafts/refs/style_photo_kakao.jpg"],
+   "prompt": "Image 1 is a close-up photo of a phone screen. Zoom out: make a new photo of the same scene with the camera pulled back, so the whole smartphone is visible, held in a person's hand in a dark room, slightly tilted, photographed by another phone like image 2. The phone screen must show exactly the content of image 1, unchanged: same purple heart background, same bubbles, same Korean text and line breaks, same avatars, same emojis, same number of bubbles (five bubbles, the last one ends with 보여줄게; do not add or repeat any bubble). Above the bubbles show only a plain dark purple area; below the last bubble show only dark purple background. Keep the real-photo feel: faint crack line on the glass, dust, slight moire, soft light reflection, phone camera noise. Dark phone bezel visible around the screen. No other text, no app icons, no watermark."
   }
  ]
 }
