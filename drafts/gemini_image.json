@@ -1,13 +1,13 @@
 {
- "_for": "ㅋㅋ상회 트레이너 문자: 손폰 사진 1장 (2026-11-22 14:54 사용자 '2', 55원 안팎). 깨진 글씨는 받은 뒤 원문으로 고침.",
+ "_for": "ㅋㅋ상회 트레이너 문자 손폰 재시도 1장 (2026-11-22 15:47 사용자 'ㄱ', 55원 안팎). 참고 이미지는 문자 화면 하나만.",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "kk_trainer_sms_phone",
+   "name": "kk_trainer_sms_phone2",
    "aspect": "4:5",
-   "refs": ["drafts/refs/kk_trainer_sms.jpg", "drafts/refs/style_photo_kakao.jpg"],
-   "prompt": "Image 1 is an iPhone Messages (SMS) screenshot in dark mode. Create a realistic amateur photo, taken with a second phone, of a person's left hand holding a black iPhone upright that displays exactly image 1 on its screen, in the casual style of image 2. Show the phone from the top of the screen down to just below the last gray message bubble; the bottom of the phone may be cut off by the frame. Slightly tilted, slightly from above. Background: dim bedroom, blurry, warm lamp light. The screen content must be identical to image 1: black background, green bubbles on the right, dark gray bubbles on the left, the gym door photo, the same Korean text and line breaks, the same header with the contact name. Do not add, remove or repeat any message. Add subtle real-photo artifacts: slight moire on the screen, faint glare, a few fingerprint smudges, phone camera noise. No other text, no watermark."
+   "refs": ["drafts/refs/kk_trainer_sms.jpg"],
+   "prompt": "The attached image is an iPhone Messages (SMS) screenshot in dark mode. Create a realistic amateur photo, taken with a second phone, of a person's left hand holding a black iPhone upright whose screen displays exactly the attached screenshot. The phone is large in the frame (about 80% of the frame height), slightly tilted, seen slightly from above; the bottom of the phone may be cut off. Background: dim bedroom, blurry, warm lamp light. The screen content must be identical to the attached screenshot: black background, green bubbles on the right, dark gray bubbles on the left, the gym door photo, the same Korean text and line breaks, the same header. Do not add, remove or repeat any message, do not invent any other content. Subtle real-photo artifacts: slight moire, faint glare, a few fingerprint smudges, phone camera noise. No other text, no watermark."
   }
  ]
 }
