@@ -1,7 +1,0 @@
-WARNING: [youtube] kI0KhPX_vbk: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
-ERROR: [youtube] kI0KhPX_vbk: This content isn’t available.
-실패: https://www.youtube.com/watch?v=kI0KhPX_vbk
-total 12
-drwxr-xr-x 2 runner runner 4096 Nov 20 10:09 .
-drwxr-xr-x 3 runner runner 4096 Nov 20 10:09 ..
--rw-r--r-- 1 runner runner  255 Nov 20 10:09 log.txt

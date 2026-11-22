@@ -14,143 +14,10 @@
   ]
  },
  {
-  "id": "20261115-aicase",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-aicase/01.jpg",
-   "media/20261115-aicase/02.jpg",
-   "media/20261115-aicase/03.jpg",
-   "media/20261115-aicase/04.jpg",
-   "media/20261115-aicase/05.jpg",
-   "media/20261115-aicase/06.jpg",
-   "media/20261115-aicase/07.jpg"
-  ]
- },
- {
-  "id": "20261115-brk",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-brk/01.jpg",
-   "media/20261115-brk/02.jpg",
-   "media/20261115-brk/02.mp4",
-   "media/20261115-brk/03.jpg",
-   "media/20261115-brk/04.jpg",
-   "media/20261115-brk/05.jpg",
-   "media/20261115-brk/06.jpg",
-   "media/20261115-brk/07.jpg"
-  ]
- },
- {
-  "id": "20261115-chinachip-reel",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-chinachip-reel/reel.mp4"
-  ]
- },
- {
-  "id": "20261115-gap",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-gap/01.jpg",
-   "media/20261115-gap/02.jpg",
-   "media/20261115-gap/03.jpg",
-   "media/20261115-gap/04.jpg",
-   "media/20261115-gap/05.jpg",
-   "media/20261115-gap/05.mp4",
-   "media/20261115-gap/06.jpg"
-  ]
- },
- {
-  "id": "20261115-gap2",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-gap2/01.jpg",
-   "media/20261115-gap2/02.jpg",
-   "media/20261115-gap2/03.jpg",
-   "media/20261115-gap2/04.jpg",
-   "media/20261115-gap2/05.jpg",
-   "media/20261115-gap2/05.mp4",
-   "media/20261115-gap2/06.jpg"
-  ]
- },
- {
   "id": "20261115-jbt",
   "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261115-jbt/short_card.mp4"
-  ]
- },
- {
-  "id": "20261115-nohleet",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-nohleet/01.jpg",
-   "media/20261115-nohleet/02.jpg",
-   "media/20261115-nohleet/03.jpg",
-   "media/20261115-nohleet/04.jpg",
-   "media/20261115-nohleet/05.jpg",
-   "media/20261115-nohleet/06.jpg",
-   "media/20261115-nohleet/07.jpg"
-  ]
- },
- {
-  "id": "20261115-nola-reel",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-nola-reel/reel.mp4"
-  ]
- },
- {
-  "id": "20261115-nola-reel2",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-nola-reel2/reel.mp4"
-  ]
- },
- {
-  "id": "20261115-nowyeosi",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-nowyeosi/01.jpg",
-   "media/20261115-nowyeosi/02.jpg",
-   "media/20261115-nowyeosi/03.jpg",
-   "media/20261115-nowyeosi/04.jpg",
-   "media/20261115-nowyeosi/05.jpg"
-  ]
- },
- {
-  "id": "20261115-shipcatch-reel",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-shipcatch-reel/reel.mp4"
-  ]
- },
- {
-  "id": "20261115-t08",
-  "channel": "털뭉치",
-  "files": [
-   "media/20261115-t08/short.mp4"
-  ]
- },
- {
-  "id": "20261115-t13",
-  "channel": "털뭉치",
-  "files": [
-   "media/20261115-t13/short.mp4"
-  ]
- },
- {
-  "id": "20261115-t18",
-  "channel": "털뭉치",
-  "files": [
-   "media/20261115-t18/short.mp4"
-  ]
- },
- {
-  "id": "20261115-xthay-reel",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261115-xthay-reel/reel.mp4"
   ]
  },
  {
@@ -760,6 +627,13 @@
   ]
  },
  {
+  "id": "20261121-nlgta-reel",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261121-nlgta-reel/reel.mp4"
+  ]
+ },
+ {
   "id": "20261121-profiler",
   "channel": "오늘의쓸모_인스타",
   "files": [
@@ -831,6 +705,76 @@
   "channel": "오늘의쓸모_인스타",
   "files": [
    "media/20261121-trumpcity-reel/reel.mp4"
+  ]
+ },
+ {
+  "id": "20261122-choiresign",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261122-choiresign/01.jpg",
+   "media/20261122-choiresign/02.jpg",
+   "media/20261122-choiresign/03.jpg",
+   "media/20261122-choiresign/03.mp4",
+   "media/20261122-choiresign/03_overlay.png",
+   "media/20261122-choiresign/04.jpg",
+   "media/20261122-choiresign/05.jpg",
+   "media/20261122-choiresign/06.jpg"
+  ]
+ },
+ {
+  "id": "20261122-dannycho",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261122-dannycho/01.jpg",
+   "media/20261122-dannycho/02.jpg",
+   "media/20261122-dannycho/02.mp4",
+   "media/20261122-dannycho/03.jpg",
+   "media/20261122-dannycho/04.jpg",
+   "media/20261122-dannycho/05.jpg",
+   "media/20261122-dannycho/06.jpg"
+  ]
+ },
+ {
+  "id": "20261122-fsd15-reel",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261122-fsd15-reel/reel.mp4"
+  ]
+ },
+ {
+  "id": "20261122-jensennyt",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261122-jensennyt/01.jpg",
+   "media/20261122-jensennyt/02.jpg",
+   "media/20261122-jensennyt/03.jpg",
+   "media/20261122-jensennyt/04.jpg",
+   "media/20261122-jensennyt/05.jpg",
+   "media/20261122-jensennyt/06.jpg",
+   "media/20261122-jensennyt/07.jpg"
+  ]
+ },
+ {
+  "id": "20261122-t18",
+  "channel": "털뭉치",
+  "files": [
+   "media/20261122-t18/short.mp4"
+  ]
+ },
+ {
+  "id": "20261122-t18-lifetest",
+  "channel": "인생댓글로정함",
+  "files": [
+   "media/20261122-t18-lifetest/short.mp4"
+  ]
+ },
+ {
+  "id": "20261123-skijump",
+  "channel": "오늘의쓸모_유튜브",
+  "files": [
+   "media/20261123-skijump/short_card.mp4",
+   "media/20261123-skijump/short_card_b.mp4",
+   "media/20261123-skijump/short_card_c.mp4"
   ]
  }
 ]
