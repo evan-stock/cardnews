@@ -1,18 +1,15 @@
 [
  {
-  "id": "20261122-choiresign2",
+  "id": "20261122-pigeye",
   "mode": "collect",
   "image_pages": [
-   "https://www.moe.go.kr/mnstrInfo.do",
-   "https://www.newsis.com/view/NISX20251212_0003439612",
-   "https://www.etoday.co.kr/news/view/2514478",
-   "https://www.koreadaily.com/article/20260520221848470",
-   "https://www.nocutnews.co.kr/news/6384995",
-   "https://m.korea.kr/briefing/speechView.do?newsId=132038322",
-   "https://www.seoul.co.kr/news/society/2026/11/22/20261122500033",
-   "https://www.hankyung.com/article/2026112114287",
-   "https://news1.kr/politics/assembly/6361860"
+   "https://khan.co.kr/article/202611221525001",
+   "https://www.fnnews.com/news/202611221157470797",
+   "https://www.hidomin.com/news/articleView.html?idxno=730507",
+   "https://m.news.nate.com/view/20261122n06596",
+   "https://www.m-i.kr/news/articleView.html?idxno=2021737",
+   "https://m.news.nate.com/view/20261122n06842"
   ],
-  "limit": 40
+  "limit": 30
  }
 ]
