@@ -1,1 +1,1 @@
-kk_menhera_phone: 성공 (gemini-2.5-flash-image)
+kk_menhera_real: 성공 (gemini-2.5-flash-image)
