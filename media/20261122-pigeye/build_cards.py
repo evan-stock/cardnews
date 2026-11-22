@@ -63,11 +63,11 @@ frame(("22일 이재명 대통령 엑스", "\"불안견불 '돈안견돈'\""),
              ("덧붙임", "\"표현이 거칠다는 '비방은 자제' 바란다\"")], h=640),
       "\"임기 초 순방은 꼭 해야 할 '국정과제'\"", "이재명 대통령 X 게시글(11.22)").save(O / "c02.jpg", quality=93)
 
-op(O / "news1.jpg").crop((0, 280, 860, 1210)).save(O / "cap_news1.jpg", quality=95)
+op(O / "xtoday.jpg").crop((0, 0, 860, 700)).save(O / "cap_xtoday.jpg", quality=95)
 op(O / "xoct.jpg").crop((0, 0, 860, 1250)).save(O / "cap_xoct.jpg", quality=95)
 spec = [
-    {"out": str(O / "c01x.jpg"), "sub": "11월 22일 · 이재명 대통령 엑스", "title": "\"돼지 눈엔 돼지만…\n순방을 '음주가무' 기회로\"",
-     "cap": str(O / "cap_news1.jpg"), "caption": "뉴스1 기사 캡처(11.22)", "cap_max_h": 640,
+    {"out": str(O / "c01x.jpg"), "sub": "11월 22일 · 이재명 대통령 엑스", "title": "순방 비판에\n\"돼지 눈에는 '돼지만'\"",
+     "cap": str(O / "cap_xtoday.jpg"), "caption": "이재명 대통령 X 게시물 캡처(11.22)", "cap_max_h": 640,
      "label": "\"치아 흔들리고 '코피' 터지는 힘든 일\"",
      "lines": ["잦은 순방 비판한 야당 겨냥", "성기홍 홍보소통수석 글 공유하며 반박"]},
     {"out": str(O / "c03.jpg"), "sub": "처음이 아니다 · 10월 31일 엑스", "title": "한 달 전에도\n'같은 말'",
