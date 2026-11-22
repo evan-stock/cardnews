@@ -1,0 +1,173 @@
+{
+ "id": "20261123-skijumpc",
+ "media": "media/20261123-skijump",
+ "topic": "[재제작2 — 여러 자료화면] 올림픽 스키점프 출발 트랙(인런) 옆에 송풍기를 멘 요원 수십 명이 줄지어 바람을 쏘다가 빨간 깃발 신호에 일제히 멈추고, 그 순간 선수가 출발함 → 겨울 인런은 물을 얼려 만든 얼음 트랙이라 그 위의 눈 부스러기·물기를 날려 보내는 안전 작업(시속 약 90km). 2026.02.19 밀라노 코르티나 올림픽(프레다초)에서 미국 선수 벤 루미스가 늦게 치운 송풍기에 어깨가 부딪힘(다치지 않음). 11.22 20:17 회차 '다른 거' 뒤 11.23 새 후보 2번(숏파일럿 '올림픽에 송풍기 부대가 등장한 이유' 119.5만 소재 재활용, 원본은 올림픽 공식 7,948만) — 사용자 선택. — 11.23 사용자 분석 반영: 초반 자막을 중계형(장면을 대단하게 → 왜?가 저절로) → 3D 설명 루트로 다시 씀.",
+ "hook": {
+  "t": "스키점프대에 늘어선\n'송풍기 부대'"
+ },
+ "credit": "영상: Olympic Games(공식) · 중계 화면(Planica 2022·밀라노 2026) · 그래픽: 오늘의쓸모",
+ "bgm": {
+  "file": "assets/bgm/worthy/danger_snow.mp3",
+  "start": 24.0,
+  "vol": 0.25
+ },
+ "orig_vol": 0,
+ "products": [],
+ "photo_credits": [
+  "실사(송풍기 줄·깃발): YouTube 'Olympic Games'(올림픽 공식) https://www.youtube.com/shorts/d6l5-6_gsTk (7,948만)",
+  "실사(출발대·인런·도약·착지, 2022.03.24 플라니차 월드컵 중계 화면): YouTube 'Barti' 'Jan Hoerl - 97.5m - Planica 24.03.2022' https://www.youtube.com/shorts/jlGW8COHX70 (131만) — 상표 로고 구간 뺌",
+  "실사(눈보라 속 송풍기·루미스, 2026.02.19 밀라노 코르티나 중계 화면): YouTube 'Top News 1' https://www.youtube.com/shorts/Zyb-DidvG_M — 게시자가 그린 빨간 원 구간 뺌",
+  "3D 그래픽: scripts/story_shorts/anim3d_skijump.py + gfx3d_post.py (오늘의쓸모 제작)."
+ ],
+ "sources": [
+  {
+   "publisher": "Olympic Games 공식 YouTube 설명란(2026.02.07) — 송풍기로 인런의 물기·얼음을 없앰, 속도 최대 시속 90km",
+   "url": "https://www.youtube.com/shorts/d6l5-6_gsTk"
+  },
+  {
+   "publisher": "FIS 'Nordic Combined 101: how ski jumping changes with the season'(2025.08) — 겨울 인런은 물을 얼려 만든 얼음 트랙",
+   "url": "https://www.fis-ski.com/nordic-combined/news/2025-26/nordic-combined-101-how-ski-jumping-changes-with-the-season"
+  },
+  {
+   "publisher": "Reuters(The Star 2026.02.19) 'American jumper Loomis hit by leaf blower' — 인런의 눈을 송풍기로 치움, 루미스 어깨에 부딪힘·통증 없음",
+   "url": "https://www.thestar.com.my/sport/others/2026/02/19/olympics-nordic-combined-american-jumper-loomis-hit-by-leaf-blower/"
+  },
+  {
+   "publisher": "Fox News 2026.02 'US ski jumper Ben Loomis ... struck by leaf blower'",
+   "url": "https://www.foxnews.com/sports/us-ski-jumper-ben-loomis-avoids-olympic-mishap-after-being-struck-leaf-blower-mountain"
+  }
+ ],
+ "_note": "11.23 재제작2: 같은 원본 되감기 대신 자료화면 3곳(올림픽 공식·플라니차 중계·밀라노 루미스 중계). 실사 0~11.9초 중계형 자막 → 3D 11.9~17.9초 → 실사(치우기·루미스·착지).",
+ "scenes": [
+  {
+   "text": "올림픽 스키점프 출발대 옆,",
+   "video": {
+    "src": "clip/A.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.5
+  },
+  {
+   "text": "송풍기를 멘 요원 수십 명이",
+   "video": {
+    "src": "clip/F.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.4
+  },
+  {
+   "text": "눈보라 속에서도 트랙에 바람을 퍼붓습니다",
+   "video": {
+    "src": "clip/L1.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.7
+  },
+  {
+   "text": "빨간 깃발 신호에 일제히 '뚝'",
+   "video": {
+    "src": "clip/C.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.2
+  },
+  {
+   "text": "그 순간 출발대 꼭대기에서",
+   "video": {
+    "src": "clip/P0.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.6
+  },
+  {
+   "text": "선수가 얼음 트랙을 타고 내려오는데",
+   "video": {
+    "src": "clip/P1.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.9
+  },
+  {
+   "text": "바람으로 대체 뭘 치운 걸까?",
+   "video": {
+    "src": "clip/P2.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.6
+  },
+  {
+   "text": "스키가 달리는 길은 물을 얼려 만든 얼음 홈",
+   "video": {
+    "src": "gfx/skijump_a.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.6
+  },
+  {
+   "text": "여기 떨어진 눈가루 한 줌이",
+   "video": {
+    "src": "gfx/skijump_a.mp4",
+    "start": 1.6,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.4
+  },
+  {
+   "text": "시속 90km 선수의 속도를 깎고 몸을 흔듭니다",
+   "video": {
+    "src": "gfx/skijump_b.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 3.0
+  },
+  {
+   "text": "그래서 출발 직전까지 치우는데",
+   "video": {
+    "src": "clip/L2.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 1.4
+  },
+  {
+   "text": "지난 2월엔 미처 못 치운 송풍기에 선수 어깨가 부딪히기도",
+   "video": {
+    "src": "clip/L3.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.8
+  },
+  {
+   "text": "트랙 위 변수를 '0'으로 만드는 사람들이죠",
+   "video": {
+    "src": "clip/P3.mp4",
+    "start": 0,
+    "x": 0.5,
+    "y": 0.5
+   },
+   "dur": 2.5
+  }
+ ]
+}
