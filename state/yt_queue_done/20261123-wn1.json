@@ -1,0 +1,61 @@
+{
+ "id": "20261123-wn1",
+ "finished_at": "2026-11-23T00:27:19+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/3RN4yeZWnqw",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-wn1/video/y1.mp4",
+   "mb": 11.9,
+   "view_count": 1194807,
+   "title": "올림픽에 송풍기 부대가 등장한 이유"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/1CRjFklT9aw",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-wn1/video/y2.mp4",
+   "mb": 23.9,
+   "view_count": 4330190,
+   "title": "타이타닉 침몰 당시를 재현한 박물관"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/4077A_BvyLc",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-wn1/video/y3.mp4",
+   "mb": 16.3,
+   "view_count": 2249058,
+   "title": "나무에 페트병을 끼우면 생기는 일"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/By9mM0gOw1s",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-wn1/video/y4.mp4",
+   "mb": 16.5,
+   "view_count": 3865457,
+   "title": "도요타가 고객 차를 뺏어간 이유"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/fEuqIOODeQ4",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-wn1/video/y5.mp4",
+   "mb": 5.6,
+   "view_count": 8155275,
+   "title": "한국인 맞춤형 장바구니"
+  }
+ ]
+}
