@@ -1,140 +1,2356 @@
 {
- "since": "2026-11-15",
- "fixed": [
+ "since": "2023-01-01",
+ "fixed": [],
+ "found": [
   {
-   "handle": "UCfMNny--gglnXUIHZSIFdFw",
-   "title": "오늘의 털뭉치",
-   "id": "UCfMNny--gglnXUIHZSIFdFw",
-   "created": "2026-10-11",
-   "subs": "206",
-   "videos": "94",
-   "before": {
-    "n": 84,
-    "median": 3863,
-    "max": 64524,
-    "over10k": 19
-   },
-   "after": {
-    "n": 8,
-    "median": 1222,
-    "max": 1312,
-    "over10k": 0
-   },
-   "last3d": {
-    "n": 4,
-    "median": 1208,
-    "max": 1339,
-    "over10k": 0
-   },
-   "recent": [
-    {
-     "id": "TR5riKzuw2M",
-     "date": "2026-11-22",
-     "title": "할머니 집에서 살쪄 와서 다이어트 시켰다가 제대로 삐진 고양이ㅋㅋ #shorts",
-     "views": 831,
-     "dur": "PT16S"
-    },
-    {
-     "id": "0D-VY9kOFV8",
-     "date": "2026-11-21",
-     "title": "산책 끝난 강아지 발 닦아 주면 안 되는 이유ㅋㅋ #shorts",
-     "views": 1243,
-     "dur": "PT19S"
-    },
-    {
-     "id": "8GSVUE3EwVs",
-     "date": "2026-11-20",
-     "title": "케이지 문 열린 걸 깨달은 햄스터의 반응ㅋㅋ #shorts",
-     "views": 1174,
-     "dur": "PT20S"
-    },
-    {
-     "id": "a-bgnCo0mnQ",
-     "date": "2026-11-19",
-     "title": "밤 10시 넘게 안 자면 단속 나오는 고양이ㅋㅋ #shorts",
-     "views": 1339,
-     "dur": "PT17S"
-    },
-    {
-     "id": "cYw_h9LBopU",
-     "date": "2026-11-18",
-     "title": "아빠가 발톱 깎아줬다가 제대로 삐진 강아지ㅋㅋ #shorts",
-     "views": 1312,
-     "dur": "PT19S"
-    },
-    {
-     "id": "sN_ftb-1WoU",
-     "date": "2026-11-17",
-     "title": "잠든 골든리트리버 코앞에 치즈를 내밀자 한 행동ㅋㅋ #shorts",
-     "views": 1166,
-     "dur": "PT17S"
-    },
-    {
-     "id": "XeZvHDAdMw8",
-     "date": "2026-11-16",
-     "title": "고양이한테 뽀뽀하면 안 되는 이유ㅋㅋ #shorts",
-     "views": 1173,
-     "dur": "PT12S"
-    },
-    {
-     "id": "Kq69xDZ64UI",
-     "date": "2026-11-16",
-     "title": "골든리트리버 앞에서 쓰러진 척하면 일어나는 일ㅋㅋ #shorts",
-     "views": 1180,
-     "dur": "PT20S"
-    },
-    {
-     "id": "g5vK62CL1rI",
-     "date": "2026-11-15",
-     "title": "발톱 깎은 날 단단히 삐진 셰퍼드가 엄마한테 보인 반응ㅋㅋ #shorts",
-     "views": 1265,
-     "dur": "PT21S"
-    },
-    {
-     "id": "DHzlHrxRTRM",
-     "date": "2026-11-15",
-     "title": "아빠 혼자 간식 먹었다고 단단히 삐진 말티즈가 한 행동ㅋㅋ #shorts",
-     "views": 1280,
-     "dur": "PT16S"
-    },
-    {
-     "id": "PRPOVx7K0Og",
-     "date": "2026-11-15",
-     "title": "말랑하다는 말에 삐진 골든리트리버 바로 풀어 주는 한마디ㅋㅋ #shorts",
-     "views": 1266,
-     "dur": "PT24S"
-    },
-    {
-     "id": "caCzfha5aXk",
-     "date": "2026-11-15",
-     "title": "아기가 강아지 인형에 뽀뽀했더니 로트와일러가 보인 반응ㅋㅋ #shorts",
-     "views": 16,
-     "dur": "PT15S"
-    },
-    {
-     "id": "xyHSaqsBAHM",
-     "date": "2026-11-14",
-     "title": "수상한 흰 차에 태워지던 강아지가 갑자기 몸부림친 이유ㅋㅋ #shorts",
-     "views": 1690,
-     "dur": "PT21S"
-    },
-    {
-     "id": "hHjgxht_cSA",
-     "date": "2026-11-14",
-     "title": "자는 고양이 동생에게 공 굴리던 골댕이의 최후ㅋㅋ #shorts",
-     "views": 1280,
-     "dur": "PT13S"
-    },
-    {
-     "id": "lARiMtD3sk4",
-     "date": "2026-11-13",
-     "title": "허스키에게 눈사람을 만들어 줬더니 보인 반응ㅋㅋ #shorts",
-     "views": 1378,
-     "dur": "PT12S"
-    }
-   ]
+   "title": "Annie the Cherie",
+   "id": "UCqMfDwCUBBdgCAvsojTjLag",
+   "created": "2021-12-19",
+   "subs": "1630",
+   "videos": "69"
+  },
+  {
+   "title": "Grip It Sleek LLC",
+   "id": "UC3Qo9LLeGVL1hp_v8DO1qdw",
+   "created": "2014-10-22",
+   "subs": "210",
+   "videos": "713"
+  },
+  {
+   "title": "YASH MANERIKAR",
+   "id": "UCNVA9554dGfjfdDuOHY8_Zg",
+   "created": "2020-01-04",
+   "subs": "173",
+   "videos": "41"
+  },
+  {
+   "title": "EAT WITH PATRICK BLACKWOOD",
+   "id": "UC9yQgZoXsYzcC-AEasY-1FA",
+   "created": "2021-03-23",
+   "subs": "218000",
+   "videos": "603"
+  },
+  {
+   "title": "WOOLWORTHS SA",
+   "id": "UC61fRBx8yHY3yBUnTyDXQ_A",
+   "created": "2010-05-13",
+   "subs": "49800",
+   "videos": "865"
+  },
+  {
+   "title": "A.lilsisterinChrist",
+   "id": "UCPN-s0K527Evj1BRdGB3FsA",
+   "created": "2011-08-26",
+   "subs": "2920",
+   "videos": "739"
+  },
+  {
+   "title": "Weird oceans colourful life",
+   "id": "UCoaBIsqfFZPNWW7yz4s7R6w",
+   "created": "2026-09-03",
+   "subs": "36",
+   "videos": "102"
+  },
+  {
+   "title": "MARK STEVENS",
+   "id": "UCf2A8CvtmHpP81fppV-TJsg",
+   "created": "2014-11-12",
+   "subs": "142",
+   "videos": "48"
+  },
+  {
+   "title": "Lili",
+   "id": "UCT6NJr0AAwZWRvpXzYCZqzw",
+   "created": "2025-12-12",
+   "subs": "94",
+   "videos": "23"
+  },
+  {
+   "title": "Lisseth Larabou06",
+   "id": "UCIrzT6U1Oua1qHWFpROXNSA",
+   "created": "2025-03-08",
+   "subs": "153",
+   "videos": "273"
+  },
+  {
+   "title": "Bennipot",
+   "id": "UClRqA1PiW1xfsaUj5owcm_w",
+   "created": "2026-01-20",
+   "subs": "432",
+   "videos": "111"
+  },
+  {
+   "title": "The Cinnamon Collection",
+   "id": "UCvr8M4O_uoUcdBp2PrVFH1A",
+   "created": "2011-04-07",
+   "subs": "303",
+   "videos": "123"
+  },
+  {
+   "title": "asturnatura - Naturaleza y Turismo",
+   "id": "UC2GS0KOteCut4Ba2t3w1DnA",
+   "created": "2018-08-04",
+   "subs": "2700",
+   "videos": "613"
+  },
+  {
+   "title": "GR BRAIN DUDE🧠",
+   "id": "UCYq44XkSCGBxcxlAzMlmXmg",
+   "created": "2020-12-07",
+   "subs": "565000",
+   "videos": "2695"
+  },
+  {
+   "title": "beerye ",
+   "id": "UCulOY3PzjIa6DAb0h6lvYtw",
+   "created": "2025-02-21",
+   "subs": "30",
+   "videos": "30"
+  },
+  {
+   "title": "BeautyWithAlena",
+   "id": "UCYNyugcIE0C8EmNJZpFkQfw",
+   "created": "2022-05-02",
+   "subs": "120",
+   "videos": "46"
+  },
+  {
+   "title": "GOOD EATS WITH CHE",
+   "id": "UCyYQi-FEpvD2KDUXn_ilSEA",
+   "created": "2018-04-03",
+   "subs": "1100",
+   "videos": "446"
+  },
+  {
+   "title": "HRHGeorgiana",
+   "id": "UCPC5eYaAxe5Q9Vm-8nwsOwg",
+   "created": "2022-10-05",
+   "subs": "104000",
+   "videos": "421"
+  },
+  {
+   "title": "Vio Metal Fishing",
+   "id": "UCgbp-SY72uKZiqzAA8nM5xg",
+   "created": "2024-09-03",
+   "subs": "50",
+   "videos": "68"
+  },
+  {
+   "title": "திறல்",
+   "id": "UCVePv1xmaHmjBuceCm-NscA",
+   "created": "2026-08-15",
+   "subs": "1390",
+   "videos": "93"
+  },
+  {
+   "title": "Nicholas Pettas | Blue Eyed Samurai ",
+   "id": "UCN7k1Thyw6WEg8lxHyR1xlg",
+   "created": "2021-10-12",
+   "subs": "217000",
+   "videos": "684"
+  },
+  {
+   "title": "gyani bharat🇮🇳",
+   "id": "UC5X89cezEXAXaogC_ddoT1A",
+   "created": "2018-03-16",
+   "subs": "168",
+   "videos": "74"
+  },
+  {
+   "title": "Cedrik Lorenzen",
+   "id": "UClkgXjdin4-lpc6NKM5-jbg",
+   "created": "2021-03-22",
+   "subs": "3110000",
+   "videos": "941"
+  },
+  {
+   "title": "Guide Della Riserva Borsacchio",
+   "id": "UCNRk9iEMfcSorssabX_VIKQ",
+   "created": "2017-05-04",
+   "subs": "158",
+   "videos": "531"
+  },
+  {
+   "title": "Botticelli Foods",
+   "id": "UCOpewlFC4ZZ7e7muqRnDIJg",
+   "created": "2013-11-11",
+   "subs": "152",
+   "videos": "98"
+  },
+  {
+   "title": "Kickin' Inn",
+   "id": "UCP5_d89dHHJ3qt2KfDOkDaA",
+   "created": "2018-09-04",
+   "subs": "1080",
+   "videos": "2526"
+  },
+  {
+   "title": "Aliona Divissen",
+   "id": "UC7RnEaw6WH-IPnI1qdDOLQA",
+   "created": "2020-12-21",
+   "subs": "1",
+   "videos": "2"
+  },
+  {
+   "title": "Date Night Cooking",
+   "id": "UCziiG7hrcL-k33ZWJmAZKXw",
+   "created": "2021-11-15",
+   "subs": "1480",
+   "videos": "97"
+  },
+  {
+   "title": "Chris Roberts ",
+   "id": "UCdD_o3VQjeX0P1t6QBaC3mw",
+   "created": "2023-11-22",
+   "subs": "198",
+   "videos": "102"
+  },
+  {
+   "title": "Swift Eats 7",
+   "id": "UCHAKshuf9ktzcDxtRk2ti2Q",
+   "created": "2023-08-08",
+   "subs": "42",
+   "videos": "292"
+  },
+  {
+   "title": "xiao ya",
+   "id": "UCQtKBRfe_noKXZjR5BEEhEg",
+   "created": "2023-02-23",
+   "subs": "4680000",
+   "videos": "3612"
+  },
+  {
+   "title": "Michele Vitolazzo - La perla del mare ",
+   "id": "UCd3ZtCGFIayWRpxDS2Rxztw",
+   "created": "2020-11-14",
+   "subs": "88400",
+   "videos": "991"
+  },
+  {
+   "title": "SheBuysTravel",
+   "id": "UC168Kx7cy-K_OkEXLPB9JfA",
+   "created": "2023-12-14",
+   "subs": "1920",
+   "videos": "998"
+  },
+  {
+   "title": "Truthxide ",
+   "id": "UCJnEOeQucsvZYEiBZklckSQ",
+   "created": "2020-10-29",
+   "subs": "8990",
+   "videos": "301"
+  },
+  {
+   "title": "Sherry Pong",
+   "id": "UCnKydZxx7OlpBzj3tzlcGMw",
+   "created": "2025-09-19",
+   "subs": "302",
+   "videos": "236"
+  },
+  {
+   "title": "It's me Honey",
+   "id": "UCmMKmqOYT-SeayTJ6LUdnpQ",
+   "created": "2023-10-01",
+   "subs": "46",
+   "videos": "21"
+  },
+  {
+   "title": "Village flower",
+   "id": "UCvdzbsr_KQM9A1SlPpObxwg",
+   "created": "2023-05-28",
+   "subs": "3940000",
+   "videos": "2380"
+  },
+  {
+   "title": "Zoe Laurent",
+   "id": "UCI3jueZdqgP18jeClsR8MlQ",
+   "created": "2023-04-16",
+   "subs": "4",
+   "videos": "5"
+  },
+  {
+   "title": "Olivia Gwyan",
+   "id": "UCucPpt6tZDmFyxcZFQMmmaw",
+   "created": "2012-12-30",
+   "subs": "4400",
+   "videos": "558"
+  },
+  {
+   "title": "Crumbs_n_joy",
+   "id": "UCe--bnZiWwTmui-WaGm3Fbg",
+   "created": "2013-12-03",
+   "subs": "79",
+   "videos": "104"
+  },
+  {
+   "title": "Artificial Scientist",
+   "id": "UCre3UXRaSWlYDqsVOKWXdLQ",
+   "created": "2026-11-16",
+   "subs": "26",
+   "videos": "33"
+  },
+  {
+   "title": "Julius Villanueva",
+   "id": "UCIFsk8yR_Z2it7SZPm5muXg",
+   "created": "2018-05-25",
+   "subs": "1660",
+   "videos": "96"
+  },
+  {
+   "title": "Life Of The Glassdoll",
+   "id": "UCmOA7MFaHKQ5GNWlloIxo5g",
+   "created": "2020-04-19",
+   "subs": "388",
+   "videos": "110"
+  },
+  {
+   "title": "shu ting",
+   "id": "UCjXuk4NNc4m1ssaRhkOFJ5Q",
+   "created": "2023-08-04",
+   "subs": "2120000",
+   "videos": "3572"
+  },
+  {
+   "title": "Jacob Colvin",
+   "id": "UCUw4K8hh4No3ks8wxfqj-uQ",
+   "created": "2018-06-05",
+   "subs": "8000000",
+   "videos": "1600"
+  },
+  {
+   "title": "Beyondtheshot",
+   "id": "UCOIEoGXI6Gs5cl7ozPMhcew",
+   "created": "2023-02-03",
+   "subs": "1060",
+   "videos": "233"
+  },
+  {
+   "title": "NothingButRest",
+   "id": "UCt_VF4cRItqtNVGZJY-LJ2w",
+   "created": "2018-08-08",
+   "subs": "10200",
+   "videos": "33"
+  },
+  {
+   "title": "Properly Wild",
+   "id": "UCvvDkSLSLHXR8Bft24dCkIA",
+   "created": "2026-10-16",
+   "subs": "5",
+   "videos": "109"
+  },
+  {
+   "title": "Stone and Grill Victoria",
+   "id": "UCQslNRssyLb0yKfT9RbSOlw",
+   "created": "2026-04-03",
+   "subs": "4",
+   "videos": "30"
+  },
+  {
+   "title": "International Belly",
+   "id": "UClByMSrkhZUpmtl5Ka-U0nw",
+   "created": "2024-01-15",
+   "subs": "1280",
+   "videos": "427"
+  },
+  {
+   "title": "Maximus_California Adventures ",
+   "id": "UCAjypB30J75NFRZWWqRdLyw",
+   "created": "2020-01-23",
+   "subs": "301",
+   "videos": "266"
+  },
+  {
+   "title": "Brian Stone",
+   "id": "UCiZg316ZN3cXHL5nUlDC4CA",
+   "created": "2006-12-25",
+   "subs": "23600",
+   "videos": "724"
+  },
+  {
+   "title": "Angoli d’Italia",
+   "id": "UC26coKRyDvv2aVx1QrMZaVA",
+   "created": "2026-10-23",
+   "subs": "347",
+   "videos": "54"
+  },
+  {
+   "title": "Green Gourmet Italia",
+   "id": "UCSiuksc7zj8KTB05OeUsPCA",
+   "created": "2024-01-23",
+   "subs": "10900",
+   "videos": "615"
+  },
+  {
+   "title": "Gorodonnet",
+   "id": "UCRZtxihBVJNlGe-oVAh-eEA",
+   "created": "2025-04-07",
+   "subs": "59800",
+   "videos": "4327"
+  },
+  {
+   "title": "Living Life In The World",
+   "id": "UCkGmAWqYXiTUszH-nRR8AJA",
+   "created": "2026-09-27",
+   "subs": "28",
+   "videos": "112"
+  },
+  {
+   "title": "Chef Sebastian Fitarau",
+   "id": "UC15bWeeXQHq13NQK-s7DHjQ",
+   "created": "2018-02-01",
+   "subs": "113000",
+   "videos": "1239"
+  },
+  {
+   "title": "Wild & Kind",
+   "id": "UC5_o3VK9CfkgBCwEpU6W_sg",
+   "created": "2026-08-13",
+   "subs": "806",
+   "videos": "106"
+  },
+  {
+   "title": "RB Fossils",
+   "id": "UCs4ASmDGYkATR9JtBd97c8Q",
+   "created": "2021-11-30",
+   "subs": "1170",
+   "videos": "387"
+  },
+  {
+   "title": "I love Ostrica",
+   "id": "UCrQGvFCQ6LBwMpMI5qmLEMw",
+   "created": "2011-03-07",
+   "subs": "6990",
+   "videos": "393"
+  },
+  {
+   "title": "UNILAD",
+   "id": "UCnQWRzqPuCpOw0aJ4HwQjIQ",
+   "created": "2013-02-01",
+   "subs": "2190000",
+   "videos": "4354"
+  },
+  {
+   "title": "Reef Craft",
+   "id": "UCwtdG7YXYnTGWbtwl2D-BAg",
+   "created": "2020-05-19",
+   "subs": "15300",
+   "videos": "619"
+  },
+  {
+   "title": "Giulia Casagrande cook",
+   "id": "UCzbpaHogwpcCpkIvks7-D-w",
+   "created": "2013-01-15",
+   "subs": "51",
+   "videos": "22"
+  },
+  {
+   "title": "Dân Biển Vlog",
+   "id": "UCfLdN4SyWud1z7sGXR8m9Fg",
+   "created": "2021-11-27",
+   "subs": "120000",
+   "videos": "3801"
+  },
+  {
+   "title": "Queen Pearls ",
+   "id": "UCvPzLwZbHGlaKEXr6M36F-Q",
+   "created": "2022-11-16",
+   "subs": "4430",
+   "videos": "466"
+  },
+  {
+   "title": "Diritto Ambientale – Avv. Stefano Palmisano ",
+   "id": "UCW4GR1Z12RL01vpFgK9FChg",
+   "created": "2013-08-05",
+   "subs": "6480",
+   "videos": "432"
+  },
+  {
+   "title": "GeoSwell",
+   "id": "UCO1tLGdPiExrGLQ2BeHNp2A",
+   "created": "2026-11-03",
+   "subs": "81",
+   "videos": "12"
+  },
+  {
+   "title": "SEAFOOD CATCHER",
+   "id": "UCwOb4Viz7Ksi0npqlH1XYbg",
+   "created": "2026-11-02",
+   "subs": "195",
+   "videos": "49"
+  },
+  {
+   "title": "Xiaoer Pearl",
+   "id": "UCo-v8SkwCDs_lWWg18lcP7A",
+   "created": "2023-08-26",
+   "subs": "16600",
+   "videos": "277"
+  },
+  {
+   "title": "Sub H2O",
+   "id": "UCQT7goRzCbQzM5NDf7-b4HA",
+   "created": "2018-11-10",
+   "subs": "4930",
+   "videos": "448"
+  },
+  {
+   "title": "Da shuang",
+   "id": "UCIfP7QwlZgFm_RxnV3YZKbQ",
+   "created": "2022-11-09",
+   "subs": "533000",
+   "videos": "1924"
+  },
+  {
+   "title": "xiaolanya",
+   "id": "UCGQZNMdIaI5sv24DlWzy7lw",
+   "created": "2023-04-26",
+   "subs": "82200",
+   "videos": "2493"
+  },
+  {
+   "title": "Your World Explorer",
+   "id": "UCBaxlhXlMtEeFArBcz3az8A",
+   "created": "2015-01-13",
+   "subs": "3940",
+   "videos": "1808"
+  },
+  {
+   "title": "CoralGeodes",
+   "id": "UCfuul1NUeuYRkKNnDb1CZSw",
+   "created": "2022-06-11",
+   "subs": "24600",
+   "videos": "277"
+  },
+  {
+   "title": "Rocky Pearl",
+   "id": "UC44s9qVJlF5RKTO9MztxGtg",
+   "created": "2024-10-01",
+   "subs": "749",
+   "videos": "33"
+  },
+  {
+   "title": "MAR-TE mare e territorio",
+   "id": "UCVaN-gGN0WBOXA7gM1reqPw",
+   "created": "2012-09-09",
+   "subs": "27500",
+   "videos": "1344"
+  },
+  {
+   "title": "Food TV Italia",
+   "id": "UCwv9gsDjxFDkb72k9d2vqDA",
+   "created": "2023-06-23",
+   "subs": "1930",
+   "videos": "227"
+  },
+  {
+   "title": "FIfPaCH",
+   "id": "UCTDeqH_LoHs8uB43GQoJ0_Q",
+   "created": "2023-03-04",
+   "subs": "33",
+   "videos": "35"
+  },
+  {
+   "title": "Béla Ponyi",
+   "id": "UCWP-qJBiX3DHo_1G0DOgXjw",
+   "created": "2007-05-18",
+   "subs": "3950",
+   "videos": "511"
+  },
+  {
+   "title": "Jennifer Garcia",
+   "id": "UCUWfoZhE379nJtLE4uoYy6w",
+   "created": "2026-08-19",
+   "subs": "350",
+   "videos": "294"
+  },
+  {
+   "title": "英 Ying",
+   "id": "UCyfp-2UHAfCxzHodmcTk0Lw",
+   "created": "2018-10-27",
+   "subs": "2770000",
+   "videos": "2141"
+  },
+  {
+   "title": "Amica9tv",
+   "id": "UClNHmlTW9rZHdU5kLrcEg2A",
+   "created": "2007-12-12",
+   "subs": "30500",
+   "videos": "53953"
+  },
+  {
+   "title": "Budi Oceans",
+   "id": "UC1aomoW8AN6bFR3XjoMC6Jg",
+   "created": "2022-05-04",
+   "subs": "6220",
+   "videos": "367"
+  },
+  {
+   "title": "Earth Mystic Adventures",
+   "id": "UCpfCLETXOS5K8RJfmXimPHg",
+   "created": "2022-02-20",
+   "subs": "1940",
+   "videos": "135"
+  },
+  {
+   "title": "Daisy D4rk",
+   "id": "UCR4E4Lh3vqlB0eZqoezb2mg",
+   "created": "2014-02-27",
+   "subs": "15700",
+   "videos": "495"
+  },
+  {
+   "title": "Northern FossilHunting ",
+   "id": "UCJULZTpqyU1UPCZzW_XORyQ",
+   "created": "2022-11-23",
+   "subs": "1670",
+   "videos": "217"
+  },
+  {
+   "title": "PeculiarPost",
+   "id": "UCLjJtn2svcpqnXJNtzSbQnA",
+   "created": "2026-01-02",
+   "subs": "991",
+   "videos": "10"
+  },
+  {
+   "title": "Derek Outdoors",
+   "id": "UCzvi8fz3PxqnCBQEKzsE3EQ",
+   "created": "2022-10-26",
+   "subs": "3080",
+   "videos": "2615"
+  },
+  {
+   "title": "ITALIAN FOOD - La mia collezione di ricette",
+   "id": "UCB7B6bI2uMQnZB5AnPEdBDw",
+   "created": "2011-11-27",
+   "subs": "124",
+   "videos": "210"
+  },
+  {
+   "title": "Daniele Rossi Chef",
+   "id": "UCrYmqTnjLsr9J1pJPdrmGVw",
+   "created": "2021-12-01",
+   "subs": "71600",
+   "videos": "314"
+  },
+  {
+   "title": "moyating",
+   "id": "UCLblWJ7ykSHCCZ7RURbgLtw",
+   "created": "2023-12-24",
+   "subs": "270000",
+   "videos": "2066"
+  },
+  {
+   "title": "Star Bene",
+   "id": "UCfvJMNS1Aq8tepdTO4Bwcdg",
+   "created": "2023-04-06",
+   "subs": "15300",
+   "videos": "1437"
+  },
+  {
+   "title": "Tele Sveva",
+   "id": "UCP1N_p4LC05nPmoyxZYs1oQ",
+   "created": "2012-09-27",
+   "subs": "39600",
+   "videos": "80679"
+  },
+  {
+   "title": "Lillian & Emma ",
+   "id": "UCq_6AVGoHUaS5T3gmAa-QNA",
+   "created": "2015-01-10",
+   "subs": "316",
+   "videos": "898"
+  },
+  {
+   "title": "Nature’s Companions",
+   "id": "UCk5k-77S9dxc0nnPLZ_kJjA",
+   "created": "2024-11-13",
+   "subs": "1050",
+   "videos": "1470"
+  },
+  {
+   "title": "Daniele Testa",
+   "id": "UC-OIZbcAL2h6C5txQ-zXcJw",
+   "created": "2015-06-17",
+   "subs": "146",
+   "videos": "39"
+  },
+  {
+   "title": "TelebariWeb",
+   "id": "UC3e_wXVOLhkxenVqxQ8MBtA",
+   "created": "2015-04-10",
+   "subs": "32700",
+   "videos": "24443"
+  },
+  {
+   "title": "FossilsCurated",
+   "id": "UCoR7LQkXv4rJZC4kAtOaR7A",
+   "created": "2026-06-08",
+   "subs": "35",
+   "videos": "23"
+  },
+  {
+   "title": "Real Vintage ",
+   "id": "UCsQOnbA4omuz4PPOOO8lJww",
+   "created": "2024-03-22",
+   "subs": "13200",
+   "videos": "139"
+  },
+  {
+   "title": "Fish for Dish",
+   "id": "UCcE9buK5H9yvGPbXKpNxvJA",
+   "created": "2024-06-16",
+   "subs": "317000",
+   "videos": "2258"
+  },
+  {
+   "title": "☆ Mari Melody ☆",
+   "id": "UCRhndCygf1iPww4Ixz2Opow",
+   "created": "2013-09-22",
+   "subs": "390000",
+   "videos": "545"
+  },
+  {
+   "title": "Nico Cordola",
+   "id": "UCqCUDMIyFibxTzH6yoOQRKQ",
+   "created": "2013-09-25",
+   "subs": "7440",
+   "videos": "1334"
+  },
+  {
+   "title": "ALESSANDRO SPORTIELLO",
+   "id": "UChDTvAf1fEulTcQy1R0_nNg",
+   "created": "2012-10-14",
+   "subs": "85",
+   "videos": "861"
+  },
+  {
+   "title": "Dr Weird AI",
+   "id": "UCiS7yUuxcmJzAxKUc6cvH9A",
+   "created": "2025-02-04",
+   "subs": "449",
+   "videos": "411"
+  },
+  {
+   "title": "TeleAmbiente",
+   "id": "UCf9ONyZWZ9NfdKDvJ6T2QZQ",
+   "created": "2012-10-17",
+   "subs": "27300",
+   "videos": "8687"
+  },
+  {
+   "title": "INFINITEPEBBLES",
+   "id": "UCsEet3iornNPSPZ8io2IyOQ",
+   "created": "2026-01-17",
+   "subs": "536",
+   "videos": "144"
+  },
+  {
+   "title": "Rocio's Salty Log",
+   "id": "UCgtE2e0tmgw4QlQ_9DZmbLQ",
+   "created": "2011-07-26",
+   "subs": "516",
+   "videos": "185"
+  },
+  {
+   "title": "PAPA AMADOU NDAO",
+   "id": "UC7hVUVLnuGZae98OemRxRww",
+   "created": "2012-10-30",
+   "subs": "1800",
+   "videos": "17699"
+  },
+  {
+   "title": "Redazione News24City Official",
+   "id": "UCYwDNmLuwLJPev5kIj7gpvA",
+   "created": "2020-12-01",
+   "subs": "737",
+   "videos": "12713"
+  },
+  {
+   "title": "امودو على الدراجات",
+   "id": "UC0u2P_n8tDTh1pb3SSUsC_Q",
+   "created": "2016-11-05",
+   "subs": "155000",
+   "videos": "4094"
+  },
+  {
+   "title": "SÀI GÒN LENS",
+   "id": "UCG-RUGSyhXCFLtVJFH-RSKg",
+   "created": "2014-03-31",
+   "subs": "213",
+   "videos": "15"
+  },
+  {
+   "title": "WNews Web 24 Puglia Channel ",
+   "id": "UC1KcA5u6Ql-yGLP7fM7SrJw",
+   "created": "2016-02-22",
+   "subs": "796",
+   "videos": "23033"
+  },
+  {
+   "title": "Mari Melody",
+   "id": "UCQphyJB0Mzb6GzJSZzFuyFQ",
+   "created": "2024-11-09",
+   "subs": "0",
+   "videos": "115"
+  },
+  {
+   "title": "KOI",
+   "id": "UCE91a7T2yWjeZsRDo0pm-wg",
+   "created": "2014-02-07",
+   "subs": "3360",
+   "videos": "120"
+  },
+  {
+   "title": "In my Kitchen",
+   "id": "UCf16t7YzMjHSzbaUfL2w1_g",
+   "created": "2013-11-28",
+   "subs": "918",
+   "videos": "291"
+  },
+  {
+   "title": "TinglishMila&Mali",
+   "id": "UCrmt9I0Scsdu1x6MQnlxgvw",
+   "created": "2022-08-20",
+   "subs": "6380",
+   "videos": "2285"
+  },
+  {
+   "title": "Meteorwrong HQ",
+   "id": "UCpt6lsJnLooyx6znDCEZ_ng",
+   "created": "2026-06-30",
+   "subs": "61",
+   "videos": "70"
+  },
+  {
+   "title": "RTM Manduria",
+   "id": "UCMKZ7KOpKvsgjlO1EZhUPKQ",
+   "created": "2013-07-13",
+   "subs": "3260",
+   "videos": "3312"
+  },
+  {
+   "title": "Anthony Thorn",
+   "id": "UCbAJ2J1y_PLaXu87KTlL0Kw",
+   "created": "2024-12-07",
+   "subs": "52",
+   "videos": "123"
+  },
+  {
+   "title": "Uno Tv “UnoTv” redazione",
+   "id": "UCO2Puh9JlOlPiASZgwBlSzw",
+   "created": "2013-03-15",
+   "subs": "1150",
+   "videos": "18074"
+  },
+  {
+   "title": "TuttoBariNews",
+   "id": "UClVbzFsTNKQF6GmugqOoLkA",
+   "created": "2024-12-31",
+   "subs": "627",
+   "videos": "668"
+  },
+  {
+   "title": "TeleRamaNews",
+   "id": "UCJNl3c6hR1oqJ3et7RJlNQA",
+   "created": "2023-01-11",
+   "subs": "18300",
+   "videos": "36508"
+  },
+  {
+   "title": "Nature's Hidden Engineering",
+   "id": "UCajbFWpK4HYR8MMcqqw9BZA",
+   "created": "2026-11-06",
+   "subs": "1",
+   "videos": "58"
+  },
+  {
+   "title": "cormac's coast",
+   "id": "UCTJoXPU3lIbCu5LR50JPPPA",
+   "created": "2018-02-03",
+   "subs": "3430",
+   "videos": "1483"
   }
  ],
- "found": [],
- "search_hits": []
+ "search_hits": [
+  {
+   "q": "date mussel",
+   "vid": "Kpz6vxv21ao",
+   "ch": "Cedrik Lorenzen",
+   "cid": "UClkgXjdin4-lpc6NKM5-jbg",
+   "date": "2023-11-05",
+   "title": "How to keep her coming for more #cedriklorenzen #food #pasta",
+   "views": 26581186,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "XqN2UCGI_28",
+   "ch": "HRHGeorgiana",
+   "cid": "UCPC5eYaAxe5Q9Vm-8nwsOwg",
+   "date": "2025-03-30",
+   "title": "Eating 80 oysters for lunch #london #seafood #oysterlover #o",
+   "views": 7949290,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "vztc0wZd72c",
+   "ch": "EAT WITH PATRICK BLACKWOOD",
+   "cid": "UC9yQgZoXsYzcC-AEasY-1FA",
+   "date": "2026-09-16",
+   "title": "He SLURPED the mussel. He couldn’t believe it. 🦪",
+   "views": 35977,
+   "desc": "He slurped the mussel. Couldn’t believe it 🦪\n\nSeafood date: black mussel, lobster tail, shrimp, fried rice.\n\nMussel or lobster first?\n\n#blackmussel #lobster #seafoodmukbang #couplemukbang\nhttps://www.iampatrickblackwood.com"
+  },
+  {
+   "q": "date mussel",
+   "vid": "348138nTIUk",
+   "ch": "Michele Vitolazzo - La perla del mare ",
+   "cid": "UCd3ZtCGFIayWRpxDS2Rxztw",
+   "date": "2026-06-16",
+   "title": "✅ Lo faresti? #datteri #etica #rispetto #natura #pescheria",
+   "views": 16134,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "m57t-MtM64w",
+   "ch": "Date Night Cooking",
+   "cid": "UCziiG7hrcL-k33ZWJmAZKXw",
+   "date": "2024-09-12",
+   "title": "Date night EASY: Mussels with Burgundy butter #shorts",
+   "views": 6329,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "UZGsHcnhe8k",
+   "ch": "Chris Roberts ",
+   "cid": "UCdD_o3VQjeX0P1t6QBaC3mw",
+   "date": "2024-04-23",
+   "title": "Date night mussels and pasta #mussels #pasta #datenight #val",
+   "views": 6002,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "ZsgGa6QfExY",
+   "ch": "Life Of The Glassdoll",
+   "cid": "UCmOA7MFaHKQ5GNWlloIxo5g",
+   "date": "2024-09-28",
+   "title": "Trying Mussels with my bff👯 #glassdoll #vlog #seafoodboil #m",
+   "views": 4167,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "Y2-4xEIYg5M",
+   "ch": "GR BRAIN DUDE🧠",
+   "cid": "UCYq44XkSCGBxcxlAzMlmXmg",
+   "date": "2024-01-27",
+   "title": "killed by mussel : impossible date | android X ios #オリジナル曲 #",
+   "views": 3037,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "WFAyvN_xEGg",
+   "ch": "Crumbs_n_joy",
+   "cid": "UCe--bnZiWwTmui-WaGm3Fbg",
+   "date": "2025-08-16",
+   "title": "Garlic White Wine Mussels🥂Easy &amp; Fancy Date Night Dinner",
+   "views": 7791,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "lB9V42JmzVc",
+   "ch": "YASH MANERIKAR",
+   "cid": "UCNVA9554dGfjfdDuOHY8_Zg",
+   "date": "2024-01-21",
+   "title": "Date night 👅- clams spaghetti with butter lemon white wine s",
+   "views": 1736,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "WgInHTQrT_c",
+   "ch": "SheBuysTravel",
+   "cid": "UC168Kx7cy-K_OkEXLPB9JfA",
+   "date": "2025-09-14",
+   "title": "Is This the Most Fun Date Night in NYC?",
+   "views": 2235,
+   "desc": "I went into our date night with no expectations, but @pearl and the beast completely blew me away! It was so much fun, and the perfect spot for a memorable evening. A true gem for anyone looking for a great NYC date night!\n\n#NYCDates #NYCNightlife #PearlAndTheBeast #NYCGoesOut #TravelNYC #ny #explor"
+  },
+  {
+   "q": "date mussel",
+   "vid": "0HZLaG5J1Uw",
+   "ch": "A.lilsisterinChrist",
+   "cid": "UCPN-s0K527Evj1BRdGB3FsA",
+   "date": "2023-05-01",
+   "title": "EATING MUSSELS BY THE BAY today for my birthday date",
+   "views": 1303,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "Vemcgu5lNYI",
+   "ch": "BeautyWithAlena",
+   "cid": "UCYNyugcIE0C8EmNJZpFkQfw",
+   "date": "2025-07-31",
+   "title": "If you like mussels? #mussels #holiday #boyfriendgirlfriend ",
+   "views": 1940,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "q_exCVXlKxw",
+   "ch": "International Belly",
+   "cid": "UClByMSrkhZUpmtl5Ka-U0nw",
+   "date": "2024-03-05",
+   "title": "Dipping Bread in Mussels &amp; Drinking Red Wine - A Dinner ",
+   "views": 1123,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "RBYl3PYovAQ",
+   "ch": "Annie the Cherie",
+   "cid": "UCqMfDwCUBBdgCAvsojTjLag",
+   "date": "2023-03-16",
+   "title": "Date Night Dinner: Moules Mariniere",
+   "views": 755,
+   "desc": "Tags: recipes, recipes for dinner, recipe, food, food insider, foodie, cooking, cooking videos, cooking recipes, mussels, seafood, mussels recipe, seafood recipes for dinner, seafood dinner, seafood dinner ideas, moules mariniere recipe, mussels recipe, seafood dish, mussels recipes, dinner recipes,"
+  },
+  {
+   "q": "date mussel",
+   "vid": "hPpCtviyP9A",
+   "ch": "Olivia Gwyan",
+   "cid": "UCucPpt6tZDmFyxcZFQMmmaw",
+   "date": "2024-01-06",
+   "title": "DATE NIGHT | SEAFOOD BOIL | CAPTAIN CRAB VLOG | SHRIMP, LOBS",
+   "views": 696,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "ZFItkhsOZDo",
+   "ch": "beerye ",
+   "cid": "UCulOY3PzjIa6DAb0h6lvYtw",
+   "date": "2025-04-15",
+   "title": "My BEST steamed egg with clam dish to date! Definitely top 5",
+   "views": 1075,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "ffw-5sBQBtc",
+   "ch": "Bennipot",
+   "cid": "UClRqA1PiW1xfsaUj5owcm_w",
+   "date": "2026-08-29",
+   "title": "The Perfect French Date Night Dinner: Moules Marinière",
+   "views": 1838,
+   "desc": "Sometimes a classic French dish like moules marinière is all you need for a cute romantic dinner date... with me, myself and I 😘🦪🍷\n\nThese French-style mussels are cooked in a rich white wine sauce with shallots, garlic, butter, bay leaves, cream and fresh parsley. Serve with plenty of crusty bread t"
+  },
+  {
+   "q": "date mussel",
+   "vid": "sgiUd5bE1cc",
+   "ch": "The Cinnamon Collection",
+   "cid": "UCvr8M4O_uoUcdBp2PrVFH1A",
+   "date": "2026-09-25",
+   "title": "How to cook Malabar-style mussel and date pickle👌 #cookingvi",
+   "views": 1662,
+   "desc": "Innovation meets tradition in the kitchen today. \n\nGet a first look at Chef Rakesh preparing a signature dish from the highly anticipated new cookbook Spirit & Spice. Feast your eyes on Malabar-style mussel and date pickle, perfectly paired with a rich, buttery saffron brioche. This recipe beautiful"
+  },
+  {
+   "q": "date mussel",
+   "vid": "iJaMFl_pr1w",
+   "ch": "WOOLWORTHS SA",
+   "cid": "UC61fRBx8yHY3yBUnTyDXQ_A",
+   "date": "2025-09-29",
+   "title": "Three course seafood inspired date night | Food | Woolworths",
+   "views": 1433,
+   "desc": "Romance on a plate looks like this - a three-course seafood dinner that turns any evening into date night. 🍴🥂 \n\nShop the ingredients online or in-store.\n\n⏲️40 minutes cooking time\n\n📌 INGREDIENTS\n\n1 x Frozen Mussels with Garlic & Herb Butter\n1 x full baguette\n1 x Woolworths Frozen Trout Gratin\n1 x Wo"
+  },
+  {
+   "q": "date mussel",
+   "vid": "YeeGyLdXz10",
+   "ch": "Artificial Scientist",
+   "cid": "UCre3UXRaSWlYDqsVOKWXdLQ",
+   "date": "2026-11-21",
+   "title": "How Mussels Glue Themselves Underwater",
+   "views": 962,
+   "desc": "A green mussel lays down threads tipped with sticky pads and glues itself down underwater, filmed live. Chemists have copied the chemistry: under a microscope their glue spreads over glass in water, and one drop bonds two steel plates underwater. Full story in Biomimicry Part 2: https://youtu.be/mUq"
+  },
+  {
+   "q": "date mussel",
+   "vid": "PjAmbBOpeMs",
+   "ch": "Kickin' Inn",
+   "cid": "UCP5_d89dHHJ3qt2KfDOkDaA",
+   "date": "2026-05-12",
+   "title": "Kickin&#39;Inn Seafood Boil Date Night Goals — Book a Table ",
+   "views": 1199,
+   "desc": "#uber #ubereats #shortsfeeds #youtubeshortsviral #viralshorts   #trending2026 #shortsvideo #easyrecipes #foodie #mealprep #asmrfood  #streetfood #reelsaustralia #seafoodboil  #shortsfood  #seafood #mukbang#trending2026 #trending2026"
+  },
+  {
+   "q": "date mussel",
+   "vid": "wp10o1Gqeco",
+   "ch": "Nicholas Pettas | Blue Eyed Samurai ",
+   "cid": "UCN7k1Thyw6WEg8lxHyR1xlg",
+   "date": "2026-10-04",
+   "title": "Mussels @TYHARBOR Date Night #whatsnicdoing #nicholaspettas ",
+   "views": 1440,
+   "desc": "Hi Tomodachi!\n\nTY Harbor \nhttps://maps.app.goo.gl/MaR9PkiWUQmCajFH8\n\nIt's ITADAKIMASU TIME \n\nAlso, you can join the Digital Dojo for early access & behind-the-scenes:\n👉 Hit JOIN on the channel!\n\n🥋 ABOUT NICHOLAS PETTAS | BLUE EYED SAMURAI \n• Former K-1 fighter & Kyokushin black belt 6th Dan\n• Fluent"
+  },
+  {
+   "q": "date mussel",
+   "vid": "0u3hA4xSiI4",
+   "ch": "Beyondtheshot",
+   "cid": "UCOIEoGXI6Gs5cl7ozPMhcew",
+   "date": "2023-07-03",
+   "title": "These mussels marinara are the perfect dinner date night rec",
+   "views": 471,
+   "desc": "I fall in love all over again every time I make this dish. Who loves Mussels? This Mussels Arrabiata with Chorizo and Garlic Parm Sourdough will have you coming back on repeat \n\n📌 save to make later\nFollow @beyondtheshot for weekly recipes \n\nIngredients:\n\n1 bag of mussels\n1 cup of cavateli\n4 tbsp ch"
+  },
+  {
+   "q": "date mussel",
+   "vid": "U0UL-0on-aU",
+   "ch": "Sherry Pong",
+   "cid": "UCnKydZxx7OlpBzj3tzlcGMw",
+   "date": "2026-09-12",
+   "title": "The ultimate cozy solo date night board at home!",
+   "views": 1145,
+   "desc": "The coziest solo evening at home! 🥂✨ Pouring a glass of bubbly and putting together a fresh charcuterie board with warm garlic mussels. A quiet and comforting way to unwind.\n\n🧀 What’s on the board:\n• Smoked salmon & cream cheese crackers with fresh basil\n• Fresh wild rocket (arugula) salad with slic"
+  },
+  {
+   "q": "date mussel",
+   "vid": "eQtomD12yDE",
+   "ch": "GOOD EATS WITH CHE",
+   "cid": "UCyYQi-FEpvD2KDUXn_ilSEA",
+   "date": "2026-01-11",
+   "title": "CHRISTMAS DAY SEAFOOD DATE 🥰✨‼️ shrimp corn mussels clams po",
+   "views": 975,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "r-pIcK4BcAE",
+   "ch": "MARK STEVENS",
+   "cid": "UCf2A8CvtmHpP81fppV-TJsg",
+   "date": "2026-09-03",
+   "title": "❤️🍷 Dinner Date With My Wife | Italian Food, Mussels &amp; T",
+   "views": 1146,
+   "desc": "headed out for some Italian food and had ourselves a pretty good evening. 🇮🇹🍝\nI went with the mussels in a white wine sauce, my wife had the chicken Parmesan, and of course we couldn't leave without sharing some tiramisu for dessert! 🤤🍰\nGood food, good conversation, and quality time together. Someti"
+  },
+  {
+   "q": "date mussel",
+   "vid": "B3bEjru1RUE",
+   "ch": "Julius Villanueva",
+   "cid": "UCIFsk8yR_Z2it7SZPm5muXg",
+   "date": "2024-02-09",
+   "title": "Japanese mussel #japanesefood #tastyfood #tasty #cheflife #f",
+   "views": 150,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "y5VA_PAA_Kw",
+   "ch": "Lili",
+   "cid": "UCT6NJr0AAwZWRvpXzYCZqzw",
+   "date": "2026-06-07",
+   "title": "Going for a solo date to a seafood restaurant in Bristol",
+   "views": 228,
+   "desc": "trying to go on solo dates because if you don’t treat yourself, who will? \n\nIt was quiet when I visited, which is actually just how I wanted it to be. I wanted peace, and oysters. HOWEVER! This place should be so much more busy with the quality of their seafood!\n\nThe oysters were soft and had a nice"
+  },
+  {
+   "q": "date mussel",
+   "vid": "dVSEIkc03ss",
+   "ch": "Swift Eats 7",
+   "cid": "UCHAKshuf9ktzcDxtRk2ti2Q",
+   "date": "2023-08-17",
+   "title": "Crispy+Blissful Viral Pleasures✓Mussel Pancakes #shorts #mus",
+   "views": 127,
+   "desc": "_____________________________________________\n🙏🤞PLEASE TAP THE LIKE ⬆️.\n🙏🤞PLEASE COMMENT 💬.\n🙏🤞PLEASE SUBSCRIBE NOW 🔻👇:\n➡️ https://www.youtube.com/@SwiftEats7\n❣️THANK YOU FOR YOUR SUPPORT!💓\n_____________________________________________\nCrispy & Blissful Viral Pleasures✓Mussel Pancakes:\n\nIngredients:\n"
+  },
+  {
+   "q": "date mussel",
+   "vid": "-6lE1BgK9bI",
+   "ch": "Weird oceans colourful life",
+   "cid": "UCoaBIsqfFZPNWW7yz4s7R6w",
+   "date": "2026-09-16",
+   "title": "Can a Mussel Dissolve Limestone? #ocean",
+   "views": 298,
+   "desc": "Nature’s secret acid! 🪨 Can a date mussel actually dissolve solid limestone rock? Watch this mind-blowing reaction to find out how these tiny creatures bore into stone.#shorts #science #nature #mussel #oceanlife #experiment #amazingfacts"
+  },
+  {
+   "q": "date mussel",
+   "vid": "LMg2pnsGrHI",
+   "ch": "Guide Della Riserva Borsacchio",
+   "cid": "UCNRk9iEMfcSorssabX_VIKQ",
+   "date": "2026-10-25",
+   "title": "Dattero di Mare nella Riserva Borsacchio . la conchiglia esp",
+   "views": 182,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "8AWu3ftbBqs",
+   "ch": "Aliona Divissen",
+   "cid": "UC7RnEaw6WH-IPnI1qdDOLQA",
+   "date": "2023-01-21",
+   "title": "My favourite date night pasta 😍 #pasta #datenight #recipe #m",
+   "views": 84,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "FbSWDdM0L4g",
+   "ch": "Properly Wild",
+   "cid": "UCvvDkSLSLHXR8Bft24dCkIA",
+   "date": "2026-10-18",
+   "title": "A crab inside a mussel | Pea crab mussel",
+   "views": 273,
+   "desc": "Some pea crabs live inside bivalve shells, taking food their host collects. In one date-mussel-associated species, females remain inside for life. A shell can contain considerably more tenants than you might expect.\n\nThe mussel has an uninvited lodger.\n\nProperly Wild: weird animal facts. Properly ex"
+  },
+  {
+   "q": "date mussel",
+   "vid": "gh6mnakNyTQ",
+   "ch": "Vio Metal Fishing",
+   "cid": "UCgbp-SY72uKZiqzAA8nM5xg",
+   "date": "2024-12-06",
+   "title": "To the green mussel FAD spot #shortsviral #fishing #shortsyo",
+   "views": 19,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "eawhppWxN90",
+   "ch": "Lisseth Larabou06",
+   "cid": "UCIrzT6U1Oua1qHWFpROXNSA",
+   "date": "2025-05-08",
+   "title": "The green mussel blossoms into priceless pearls.#Window orde",
+   "views": 26,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "WbFIYsZpFyo",
+   "ch": "Zoe Laurent",
+   "cid": "UCI3jueZdqgP18jeClsR8MlQ",
+   "date": "2023-04-17",
+   "title": "Mussel foraging date 🦀💚",
+   "views": 20,
+   "desc": ""
+  },
+  {
+   "q": "date mussel",
+   "vid": "wg7Hw3NHYPM",
+   "ch": "It's me Honey",
+   "cid": "UCmMKmqOYT-SeayTJ6LUdnpQ",
+   "date": "2025-01-07",
+   "title": "Let’s harvest mussels from the green mussel farm #shorts #sh",
+   "views": 24,
+   "desc": "credit : @lepetitmoulier Via TT\n\nCopyright Disclaimer: This material is used under the \"fair use\" guidelines in Section 107 of the Copyright Act of 1976, which allows copyrighted material to be used for things like education, research, scholarship, criticism, news reporting, commentary, and teaching"
+  },
+  {
+   "q": "date mussel",
+   "vid": "zP6Oo4w5y7Y",
+   "ch": "Stone and Grill Victoria",
+   "cid": "UCQslNRssyLb0yKfT9RbSOlw",
+   "date": "2026-09-20",
+   "title": "The Perfect London Date Night Vibe | Mussels &amp; Wine at S",
+   "views": 45,
+   "desc": "Step into the moody, sophisticated atmosphere of Stone & Grill in Victoria, London. While we are known for our sizzling steaks, our Mediterranean seafood dishes—like these beautiful, glossy mussels—are crafted to steal the show. Paired with a crisp glass of white wine and ambient lounge beats, this "
+  },
+  {
+   "q": "date mussel",
+   "vid": "AlqxCPXkVwQ",
+   "ch": "Botticelli Foods",
+   "cid": "UCOpewlFC4ZZ7e7muqRnDIJg",
+   "date": "2026-07-06",
+   "title": "Date Night Recipe Inspo #seafoodrecipe #funrecipe #recipe #d",
+   "views": 3,
+   "desc": "Date night is always better when it's homemade ❤️🍝\n\nThis Seafood Fra Diavolo is made with Botticelli Passata for a rich, smooth tomato sauce that's perfectly balanced with fresh seafood and a touch of heat. \n\nIngredients\n• 2 tbsp Botticelli Cooking Extra Virgin Olive Oil\n• 5 cloves garlic, sliced\n• "
+  },
+  {
+   "q": "date mussel",
+   "vid": "gTQgnGYH3oU",
+   "ch": "Grip It Sleek LLC",
+   "cid": "UC3Qo9LLeGVL1hp_v8DO1qdw",
+   "date": "2026-11-20",
+   "title": "Bacon, Mussels &amp; Jazz: The Ultimate Baltimore Dinner Dat",
+   "views": 949,
+   "desc": "Enjoying a night out at Keystone in Baltimore with live music and an amazing tribute to the legendary Marvin Gaye 🎷🎶 Just showing my Sleekzsters some of the nightlife and good vibes around the city 🌃🔥\n\n#Baltimore #Keystone #MarvinGaye #JazzNight #LiveMusic #BaltimoreNightlife #Sleekzsters #GoodVibes"
+  },
+  {
+   "q": "lithophaga",
+   "vid": "BnJK-e6F9T0",
+   "ch": "திறல்",
+   "cid": "UCVePv1xmaHmjBuceCm-NscA",
+   "date": "2026-11-08",
+   "title": "கல்லுக்குள் உயிரா?அதுவும் கல்லையே துளைத்து வீட்டை உருவாக்கும",
+   "views": 17537,
+   "desc": ""
+  },
+  {
+   "q": "lithophaga",
+   "vid": "tHCt4TcYJjM",
+   "ch": "Truthxide ",
+   "cid": "UCJnEOeQucsvZYEiBZklckSQ",
+   "date": "2026-07-02",
+   "title": "पत्थर खाने वाला जीव || #shorts",
+   "views": 1182,
+   "desc": "पत्थर खाता है यह जीव — और Roman Empire को भी नहीं छोड़ा! 😱🪨\nसमंदर की गहराइयों का सबसे खतरनाक राज़ — Lithophaga की कहानी!\n#StoneEater #Lithophaga #OceanFacts #HindiFacts #MindBlowing #ViralReel #FactsInHindi #Shorts #AmazingFacts #NatureFacts #DeepOcean"
+  },
+  {
+   "q": "lithophaga",
+   "vid": "o7V358hZTRI",
+   "ch": "gyani bharat🇮🇳",
+   "cid": "UC5X89cezEXAXaogC_ddoT1A",
+   "date": "2025-11-20",
+   "title": "&quot;पत्थरों में ये छेद कैसे बने? 65 लाख साल पुराने जीव के ",
+   "views": 665,
+   "desc": "📝 DESCRIPTION (Hindi – SEO + Engaging)\n\nभारत के कई प्राचीन मंदिरों, समुद्री चट्टानों और गुफाओं में पाए जाने वाले गोल-गोल छेद अक्सर लोगों को हैरान करते हैं।\nकई लोग इन्हें युद्ध, गोलियों, या रहस्यमयी रीतियों का निशान मानते हैं…\nलेकिन वैज्ञानिक शोध बताते हैं कि ये छेद Lithophaga नामक समुद्री जीवों द्वा"
+  },
+  {
+   "q": "lithophaga",
+   "vid": "vXJiOpnDh44",
+   "ch": "asturnatura - Naturaleza y Turismo",
+   "cid": "UC2GS0KOteCut4Ba2t3w1DnA",
+   "date": "2025-07-03",
+   "title": "Petricola lithophaga",
+   "views": 64,
+   "desc": "Petricola lithophaga (Mollusca, Veneridae) es un molusco bivalvo que vive asociado a las rocas, donde crea desde su fase larvaria unos agujeros en los que pasa su vida.\n\nPontevedra. Isla de la Toja, 30/05/2019\n\nInformación de la especie: \nhttps://www.asturnatura.com/especie/petricola-lithophaga\n\nDet"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "wo41xuzW-Ug",
+   "ch": "xiao ya",
+   "cid": "UCQtKBRfe_noKXZjR5BEEhEg",
+   "date": "2023-07-01",
+   "title": "🔥🔥 Clams spit out red and green gemstones 💎",
+   "views": 60529850,
+   "desc": "#Pearlhunter #Pearl #TreasurehuntI\nI am a girl who likes collecting pearls. If you also like pearls, you can subscribe to me"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "6IY1hBFzTBw",
+   "ch": "NothingButRest",
+   "cid": "UCt_VF4cRItqtNVGZJY-LJ2w",
+   "date": "2024-08-10",
+   "title": "A new pearl found in an old sand beach #pearl #clam",
+   "views": 7355345,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "5whryD6Rqx0",
+   "ch": "shu ting",
+   "cid": "UCjXuk4NNc4m1ssaRhkOFJ5Q",
+   "date": "2023-12-01",
+   "title": "😱🔮 The Pearl Emperor in Clams and Oysters 👑",
+   "views": 6728514,
+   "desc": "#Pearlhunter #Pearl #TreasurehuntI\nI am a girl who likes collecting pearls. If you also like pearls, you can subscribe to me"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "cEKqbSHqQA8",
+   "ch": "Jacob Colvin",
+   "cid": "UCUw4K8hh4No3ks8wxfqj-uQ",
+   "date": "2025-10-08",
+   "title": "You Won’t Believe What’s Inside This Rock! 😱 #nature #animal",
+   "views": 6644952,
+   "desc": "If you’re walking on the beach and you see one of these flat rocks with a wavy pattern, pick it up and take a closer look! This could be a 20 million-year-old sea animal fossil #Animals #Nature #Shorts"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "ZFEz0he6mQk",
+   "ch": "Village flower",
+   "cid": "UCvdzbsr_KQM9A1SlPpObxwg",
+   "date": "2023-11-08",
+   "title": "Freshwater clams pressed down by massive rocks with sparklin",
+   "views": 3080061,
+   "desc": "#Pearlhunter #Pearl #treasurehunting \nFreshwater clams pressed down by massive rocks with sparkling colored pearls inside"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "_GLLQdZY57w",
+   "ch": "xiao ya",
+   "cid": "UCQtKBRfe_noKXZjR5BEEhEg",
+   "date": "2023-09-05",
+   "title": "Diamonds, big diamonds in clams #pearl",
+   "views": 2116792,
+   "desc": "#Pearlhunter #Pearl #TreasurehuntI\nI am a girl who likes collecting pearls. If you also like pearls, you can subscribe to me"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "HWnHRrqgkrY",
+   "ch": "shu ting",
+   "cid": "UCjXuk4NNc4m1ssaRhkOFJ5Q",
+   "date": "2023-08-05",
+   "title": "🔥🔥 Treasure in Clams # Blue Pearl # Gem",
+   "views": 1133517,
+   "desc": "#Pearlhunter #Pearl #TreasurehuntI\nI am a girl who likes collecting pearls. If you also like pearls, you can subscribe to me"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "mSDO9DCCydg",
+   "ch": "NothingButRest",
+   "cid": "UCt_VF4cRItqtNVGZJY-LJ2w",
+   "date": "2024-08-24",
+   "title": "A new pearl found in a new clam shell #clam #pearl #snail",
+   "views": 884121,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "pzjMcnGgQgo",
+   "ch": "xiao ya",
+   "cid": "UCQtKBRfe_noKXZjR5BEEhEg",
+   "date": "2024-02-02",
+   "title": "Surprise inside giant clams # pearls # gemstones # jewelry",
+   "views": 170017,
+   "desc": "#Pearlhunter #Pearl #TreasurehuntI\nI am a girl who likes collecting pearls. If you also like pearls, you can subscribe to me"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "R7Ydx5xgitI",
+   "ch": "UNILAD",
+   "cid": "UCnQWRzqPuCpOw0aJ4HwQjIQ",
+   "date": "2025-07-27",
+   "title": "Live clam opens in front of me 😳🐚                           ",
+   "views": 292782,
+   "desc": "#UNILAD"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "S5NSI9h1d-o",
+   "ch": "Queen Pearls ",
+   "cid": "UCvPzLwZbHGlaKEXr6M36F-Q",
+   "date": "2026-03-30",
+   "title": "🐚🐚wow.. big pearl inside small clam #outdoors #pearlhunter #",
+   "views": 315140,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "empnC7kmT9w",
+   "ch": "moyating",
+   "cid": "UCLblWJ7ykSHCCZ7RURbgLtw",
+   "date": "2024-10-24",
+   "title": "😱😱Freshwater giant clams, enchanting pearls and gemstones",
+   "views": 64011,
+   "desc": "#Pearlhunter #Pearl #treasurehuntingequipments \nFreshwater giant clams, enchanting pearls and gemstones"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "oEBu3F9NyXU",
+   "ch": "Budi Oceans",
+   "cid": "UC1aomoW8AN6bFR3XjoMC6Jg",
+   "date": "2026-09-17",
+   "title": "The Clam That Drills Into Rock #marinelife #facts #oceanlife",
+   "views": 81851,
+   "desc": "Did you know some clams can actually live inside solid rock?\n\nKnown as boring clams, these remarkable shellfish can create burrows in hard substrates such as limestone. They use their shells to gradually wear away the rock, with chemical processes also helping in some species.\n\nOnce inside, the burr"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "ZHOJcgpZ-2I",
+   "ch": "Da shuang",
+   "cid": "UCIfP7QwlZgFm_RxnV3YZKbQ",
+   "date": "2023-12-21",
+   "title": "The girl found many clams by the water&#39;s edge, containin",
+   "views": 22636,
+   "desc": "#Pearlhunter #Pearl #TreasurehuntI\nI'm collecting pearls from mussels in the river"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "HjZiBbqhTgI",
+   "ch": "Xiaoer Pearl",
+   "cid": "UCo-v8SkwCDs_lWWg18lcP7A",
+   "date": "2023-12-29",
+   "title": "The big clam has gemstone like pearls inside",
+   "views": 21002,
+   "desc": "#pearl #pearls #mussels #Pearls in clams#Fish for pearls#Collect pearls#treasure#collection"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "BNEFYb9hVVI",
+   "ch": "PeculiarPost",
+   "cid": "UCLjJtn2svcpqnXJNtzSbQnA",
+   "date": "2026-09-12",
+   "title": "Diver Opens A Clam, An Octopus Explodes Out — And Then The F",
+   "views": 35972,
+   "desc": "You think you’re just opening a clam? Nope. You’re waking up an entire underwater ambush. A diver pries open a shell on the seabed, and an octopus blasts straight out in a cloud of black ink, immediately tangling with every fish in the area. One second it’s a calm shell, the next it’s a full-on ocea"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "YxqeFnfAUh4",
+   "ch": "Queen Pearls ",
+   "cid": "UCvPzLwZbHGlaKEXr6M36F-Q",
+   "date": "2025-04-18",
+   "title": "Biggest and pretty pearls inside rocky clams #clam #oceanpea",
+   "views": 32343,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "mVbpKC5X4hs",
+   "ch": "Rocky Pearl",
+   "cid": "UC44s9qVJlF5RKTO9MztxGtg",
+   "date": "2024-10-21",
+   "title": "Boy found pearls inside rocky clam #pearl #clam",
+   "views": 14726,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "mq6jMeNFotU",
+   "ch": "SEAFOOD CATCHER",
+   "cid": "UCwOb4Viz7Ksi0npqlH1XYbg",
+   "date": "2026-11-16",
+   "title": "This is how to catch clam shell living in the sea rock #clam",
+   "views": 27823,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "rVLbjygJAAo",
+   "ch": "Rocky Pearl",
+   "cid": "UC44s9qVJlF5RKTO9MztxGtg",
+   "date": "2024-10-07",
+   "title": "Ever found! Rocky crab inside clam #pearl #clam",
+   "views": 13261,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "1YU87GUO6Cg",
+   "ch": "Reef Craft",
+   "cid": "UCwtdG7YXYnTGWbtwl2D-BAg",
+   "date": "2024-07-19",
+   "title": "Clams use Acid to dissolve coral/rock to create homes ! #sho",
+   "views": 9709,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "HHHFTCISl0Q",
+   "ch": "moyating",
+   "cid": "UCLblWJ7ykSHCCZ7RURbgLtw",
+   "date": "2026-06-25",
+   "title": "Giant clams, enchanting red pearl gemstones",
+   "views": 12311,
+   "desc": "#Pearlhunter #Pearl #treasurehunting \nGiant clams, enchanting red pearl gemstones"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "HzC5kWsWoZQ",
+   "ch": "xiaolanya",
+   "cid": "UCGQZNMdIaI5sv24DlWzy7lw",
+   "date": "2023-11-01",
+   "title": "The pearls inside the clams sparkle like gemstones #pearl #p",
+   "views": 5736,
+   "desc": "#Pearlhunter #Pearl #TreasurehuntI  The pearls inside the clams sparkle like gemstones"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "EY1NyghbytY",
+   "ch": "Real Vintage ",
+   "cid": "UCsQOnbA4omuz4PPOOO8lJww",
+   "date": "2024-04-22",
+   "title": "The clam was pressed down by a giant rock with sparkling pea",
+   "views": 5183,
+   "desc": "The clam was pressed down by a giant rock with sparkling pearls inside"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "xWYvhp-ItwY",
+   "ch": "CoralGeodes",
+   "cid": "UCfuul1NUeuYRkKNnDb1CZSw",
+   "date": "2024-12-26",
+   "title": "Something’s inside the Clam 👀🐚 #crystals",
+   "views": 4153,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "AaZZ6WDkva8",
+   "ch": "Dân Biển Vlog",
+   "cid": "UCfLdN4SyWud1z7sGXR8m9Fg",
+   "date": "2026-01-12",
+   "title": "A clam inside the rock. #lặnbiển #seafood",
+   "views": 9106,
+   "desc": "🔥 Chào mừng bạn đến với kênh [Dân Biển Vlog]! 🔥\nKênh chuyên về lặn biển, săn bắt hải sản và khám phá thế giới đại dương!\n\n🌊 Trải nghiệm lặn biển & săn bắt hải sản tươi sống ngay tại đáy biển\n🦑 Khám phá các loài hải sản quý hiếm & độc lạ dưới đại dương\n🦞 Bắt tôm hùm, cua, ghẹ, sò, ốc và nhiều loại hả"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "QbPjlCFDpnI",
+   "ch": "Brian Stone",
+   "cid": "UCiZg316ZN3cXHL5nUlDC4CA",
+   "date": "2026-05-16",
+   "title": "I found a clam that literally DRILLED through solid rock 🤯💥 ",
+   "views": 6135,
+   "desc": "Most clams just chill in the sand... but this one had a power drill for a shell. 💀🪨\n​Meet the Piddock Clam. Millions of years ago, these crazy creatures literally bored their way into solid sandstone, leaving behind these incredible, perfectly preserved time capsules. Finding one of these fossils on"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "7HjpNk9J4Z0",
+   "ch": "Queen Pearls ",
+   "cid": "UCvPzLwZbHGlaKEXr6M36F-Q",
+   "date": "2026-01-23",
+   "title": "Fully ancient pearls inside ancient clams #outdoors #pearl #",
+   "views": 6175,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "CVB9Lt_Pn_c",
+   "ch": "Dân Biển Vlog",
+   "cid": "UCfLdN4SyWud1z7sGXR8m9Fg",
+   "date": "2026-01-17",
+   "title": "There are clams inside the rocks.",
+   "views": 4683,
+   "desc": "🔥 Chào mừng bạn đến với kênh [Dân Biển Vlog]! 🔥\nKênh chuyên về lặn biển, săn bắt hải sản và khám phá thế giới đại dương!\n\n🌊 Trải nghiệm lặn biển & săn bắt hải sản tươi sống ngay tại đáy biển\n🦑 Khám phá các loài hải sản quý hiếm & độc lạ dưới đại dương\n🦞 Bắt tôm hùm, cua, ghẹ, sò, ốc và nhiều loại hả"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "uwl0uOQF-aY",
+   "ch": "Your World Explorer",
+   "cid": "UCBaxlhXlMtEeFArBcz3az8A",
+   "date": "2025-11-21",
+   "title": "Calcite Inside Fossil Clams",
+   "views": 2448,
+   "desc": "Rockhounding Florida. Chert, Coquina, Calcite, Shells, Sellard Stone and so much more.\n\nOur Ebay Store here: https://www.ebay.com/str/yourworldexplorer"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "BQFgYCfL2x8",
+   "ch": "Northern FossilHunting ",
+   "cid": "UCJULZTpqyU1UPCZzW_XORyQ",
+   "date": "2023-01-03",
+   "title": "Splitting A Rock To Find Fossilized A Jurassic Clam!  #fossi",
+   "views": 1422,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "VrLOxnXHKlc",
+   "ch": "Rocky Pearl",
+   "cid": "UC44s9qVJlF5RKTO9MztxGtg",
+   "date": "2024-10-03",
+   "title": "Beautiful pearl found inside the rock’s clam #clam #pearl",
+   "views": 1296,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "Wr4b_mdFb78",
+   "ch": "xiaolanya",
+   "cid": "UCGQZNMdIaI5sv24DlWzy7lw",
+   "date": "2026-04-04",
+   "title": "The beautiful woman dug up a big river clam, and inside it w",
+   "views": 2167,
+   "desc": "#Pearlhunter #Pearl #TreasurehuntI The beautiful woman dug up a big river clam, and inside it were all big gold pearls"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "h6ZjCQGmJdo",
+   "ch": "Béla Ponyi",
+   "cid": "UCWP-qJBiX3DHo_1G0DOgXjw",
+   "date": "2023-02-16",
+   "title": "Clam calcite LOCALITIES in Florida. #thecrystalcollector #ro",
+   "views": 1106,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "shJmjgHPfNU",
+   "ch": "Derek Outdoors",
+   "cid": "UCzvi8fz3PxqnCBQEKzsE3EQ",
+   "date": "2023-01-10",
+   "title": "Petrified clam remains",
+   "views": 967,
+   "desc": "When the clam dies, it fills with silt and sediment. This hardens into rock and the shell deteriorates over leaving a preserved cast of the inside of the clam."
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "FL3dFtPaoOQ",
+   "ch": "Maximus_California Adventures ",
+   "cid": "UCAjypB30J75NFRZWWqRdLyw",
+   "date": "2025-04-21",
+   "title": "Inside clam fossil #shorts #fossildiscovery #fossil #nature ",
+   "views": 1367,
+   "desc": "￼ Inside amazing fossil, found this while hiking in California ￼"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "a_GgJTpi1Tc",
+   "ch": "Jennifer Garcia",
+   "cid": "UCUWfoZhE379nJtLE4uoYy6w",
+   "date": "2026-09-28",
+   "title": "This Clam Lives Inside Solid Rock 😳🪨🦪 #PiddockClam #UnusualS",
+   "views": 1646,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "7fcIbHit_4w",
+   "ch": "FossilsCurated",
+   "cid": "UCoR7LQkXv4rJZC4kAtOaR7A",
+   "date": "2026-06-11",
+   "title": "These Crystals grew inside a CLAM #crystals #paleontology #g",
+   "views": 1576,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "EkkrJC0v5OA",
+   "ch": "Gorodonnet",
+   "cid": "UCRZtxihBVJNlGe-oVAh-eEA",
+   "date": "2026-04-02",
+   "title": "open the clams to take the inside of the clams and then dip ",
+   "views": 2398,
+   "desc": ""
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "14wO1cE9uBw",
+   "ch": "moyating",
+   "cid": "UCLblWJ7ykSHCCZ7RURbgLtw",
+   "date": "2026-09-24",
+   "title": "Giant clams, perfect pearls and gemstones",
+   "views": 1116,
+   "desc": "#Pearlhunter #Pearl #treasurehuntingequipments \nGiant clams, perfect pearls and gemstones"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "zYRCFdq0EAs",
+   "ch": "Earth Mystic Adventures",
+   "cid": "UCpfCLETXOS5K8RJfmXimPHg",
+   "date": "2026-02-23",
+   "title": "Checkout the Calcite Crystal on this Clam fossil I found at ",
+   "views": 1127,
+   "desc": "This stunning complete fossil clam has been naturally filled with sparkling honey calcite crystals, forming a glowing crystal core inside the shell. Collected from the famous Fort Drum Crystal Mine in Florida, this piece beautifully showcases the meeting of fossil history and mineral growth — a rare"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "vMbmSlobXoM",
+   "ch": "Nature’s Companions",
+   "cid": "UCk5k-77S9dxc0nnPLZ_kJjA",
+   "date": "2026-08-16",
+   "title": "Meet the Master Excavators Piddock Clams! 🐚🌊",
+   "views": 1410,
+   "desc": "What if I told you there's life living inside solid rock—deep beneath the surface, never seeing sunlight, and surviving on nothing but traces of minerals? It's not science fiction. These are **endoliths**, organisms that live inside rock, coral, or animal shells .\n\nEndoliths include bacteria, archae"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "EiuiX4kzT6Q",
+   "ch": "RB Fossils",
+   "cid": "UCs4ASmDGYkATR9JtBd97c8Q",
+   "date": "2024-07-02",
+   "title": "Purty Damned Nice for just a Clam!!! #fossilcollecting #foss",
+   "views": 513,
+   "desc": "A most beautiful open splayed clam inside a rock!"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "LmkMwAXfieo",
+   "ch": "Living Life In The World",
+   "cid": "UCkGmAWqYXiTUszH-nRR8AJA",
+   "date": "2026-10-16",
+   "title": "Fish hid inside giant Kansas clams #Shorts",
+   "views": 996,
+   "desc": "Small fish once hid inside giant clams on the Kansas seafloor. GeoKansas says fish fossils turn up between the shells — a safe feeding place, like a cave under the sea.\n\nHave you ever found a fossil that looked like it had a story inside?\n\nSubscribe for one Kansas fact a kid can retell.\n\nNarrated wi"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "wXFyGQwjkc8",
+   "ch": "Nature’s Companions",
+   "cid": "UCk5k-77S9dxc0nnPLZ_kJjA",
+   "date": "2026-08-11",
+   "title": "Uncovering Bioluminescence The Secret of Piddock Clams ✨🦪",
+   "views": 1000,
+   "desc": "What if I told you there's life living inside solid rock—deep beneath the surface, never seeing sunlight, and surviving on nothing but traces of minerals? It's not science fiction. These are **endoliths**, organisms that live inside rock, coral, or animal shells .\n\nEndoliths include bacteria, archae"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "oOMDQsoyeZ8",
+   "ch": "Wild & Kind",
+   "cid": "UC5_o3VK9CfkgBCwEpU6W_sg",
+   "date": "2026-09-23",
+   "title": "This clam lives inside solid rock 🤯",
+   "views": 95,
+   "desc": "Some clams don't hide in the sand. They dig into solid rock and live there.\nRock-boring clams, called piddocks, use the rough edges of their shells. They twist back and forth again and again, slowly grinding out a hole in soft rock like limestone, clay and coral. Once inside, they stay there for lif"
+  },
+  {
+   "q": "clams inside rock",
+   "vid": "b6FblhJCnGQ",
+   "ch": "Lillian & Emma ",
+   "cid": "UCq_6AVGoHUaS5T3gmAa-QNA",
+   "date": "2025-03-16",
+   "title": "The oyster/clam had a pearl inside",
+   "views": 15,
+   "desc": ""
+  },
+  {
+   "q": "shellfish living inside stone",
+   "vid": "PnSTGBUSi3Y",
+   "ch": "英 Ying",
+   "cid": "UCyfp-2UHAfCxzHodmcTk0Lw",
+   "date": "2025-02-23",
+   "title": "#pearl #seafood #hunting pearls #picking pearls #fishing #fo",
+   "views": 5469573,
+   "desc": "Hidden Treasures: Pearls in Unexpected Places\nPearls are typically associated with oysters, but they can be found in surprising places. This video explores the unique environments where these precious gems are hidden, from the depths of the ocean to the shores of beaches. Get ready to be amazed by t"
+  },
+  {
+   "q": "shellfish living inside stone",
+   "vid": "rHaR_HgncP0",
+   "ch": "Fish for Dish",
+   "cid": "UCcE9buK5H9yvGPbXKpNxvJA",
+   "date": "2025-05-27",
+   "title": "Gutting a Squid and Discovering a Porcupine Fish Inside! | C",
+   "views": 2880334,
+   "desc": "Watch this incredible catch and cook reel as I gut a freshly caught squid and uncover a surprise—a live porcupine fish inside its stomach! If you love fishing, seafood preparation, and unique ocean finds like sea cucumbers, crabs, and more, this video is a must-watch. Don’t miss this rare and fascin"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "3VrcllnOItA",
+   "ch": "Star Bene",
+   "cid": "UCfvJMNS1Aq8tepdTO4Bwcdg",
+   "date": "2024-11-29",
+   "title": "Il SEGRETO dei DATTERI❗❗#benessere #alimentazione",
+   "views": 352633,
+   "desc": "Il SEGRETO dei DATTERI❗❗#benessere #alimentazione\n\nBenvenuti nel nostro video dedicato ai datteri, piccoli frutti dolci e nutrienti che hanno una lunga tradizione culinaria e sono ricchi di proprietà benefiche per il nostro organismo. I datteri sono noti per la loro dolcezza naturale e sono una deli"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "2uDOLjrk7Qw",
+   "ch": "Chef Sebastian Fitarau",
+   "cid": "UC15bWeeXQHq13NQK-s7DHjQ",
+   "date": "2025-06-16",
+   "title": "Spaghetti ai frutti di mare🌊🍴❤️ #sebastianfitarau",
+   "views": 147656,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "47lvvuetCkI",
+   "ch": "Daisy D4rk",
+   "cid": "UCR4E4Lh3vqlB0eZqoezb2mg",
+   "date": "2025-01-22",
+   "title": "Buttate il Nocciolo?? NON FATELO!🌿#datteri #nocciolididatter",
+   "views": 119378,
+   "desc": "I noccioli dei datteri sono ricchi di principi nutritivi, quali: vitamine, proteine, fibre, minerali. \nRisultano utili per ridurre l'infiammazione a danno muscolare.\nContengono vitamine del gruppo B, con proprietà anti-infiammatorie, antiossidanti e prevengono l'invecchiamento della pelle. \nAiutano "
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "czk3pv5S7Cc",
+   "ch": "Daniele Rossi Chef",
+   "cid": "UCrYmqTnjLsr9J1pJPdrmGVw",
+   "date": "2025-05-07",
+   "title": "Spaghetti alla gallinella di mare!🐟😍La ricetta in descrizion",
+   "views": 107266,
+   "desc": "Un primo avvolgente, semplice e ricco di sapore: sagghettone risottato in un fumetto ricavato dagli scarti della gallinella, con pomodorini freschi e finocchietto. Facile da preparare a casa, è perfetto per una cena che lascia il segno.🍝🌊\n\nIngredienti per 4 persone:\n• 320g di spaghettoni\n• 3 galline"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "tXBB8UM3YAY",
+   "ch": "Food TV Italia",
+   "cid": "UCwv9gsDjxFDkb72k9d2vqDA",
+   "date": "2023-11-13",
+   "title": "COME FARE i CANNOLICCHI DI MARE in 1 minuto (ricetta semplic",
+   "views": 46190,
+   "desc": "Conoscete i Cannolicchi di mare?\n\nNoi li abbiamo presi qua nella località di mare dove stavamo e ci siamo fatti un aperitivo veloce con un bicchiere di vino bianco bello ghiacciato.\n\nCome saranno usciti?\n\nRicorda che tutte le nostre ricette sono fatte con una spesa a costi limitati, perché ci piace "
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "g0Jbv2c5hCQ",
+   "ch": "I love Ostrica",
+   "cid": "UCrQGvFCQ6LBwMpMI5qmLEMw",
+   "date": "2024-01-19",
+   "title": "Tartufo o noce di mare? Come lo mangi cotto o crudo? #tartuf",
+   "views": 17145,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "PbZI6eI0HSA",
+   "ch": "Green Gourmet Italia",
+   "cid": "UCSiuksc7zj8KTB05OeUsPCA",
+   "date": "2024-10-28",
+   "title": "Crema spalmabile di datteri, cacao e nocciole",
+   "views": 10854,
+   "desc": "Crema spalmabile di datteri, cacao e nocciole\nUn’esplosione di dolcezza naturale: crema di datteri, cacao e nocciole, senza zuccheri aggiunti! Con pochi ingredienti e un tocco di cacao, è la scelta perfetta per una merenda sana e golosa. Spalmabile, versatile e pronta in pochi minuti, sarà difficile"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "348138nTIUk",
+   "ch": "Michele Vitolazzo - La perla del mare ",
+   "cid": "UCd3ZtCGFIayWRpxDS2Rxztw",
+   "date": "2026-06-16",
+   "title": "✅ Lo faresti? #datteri #etica #rispetto #natura #pescheria",
+   "views": 16134,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "-yqYmwHVBQY",
+   "ch": "MAR-TE mare e territorio",
+   "cid": "UCVaN-gGN0WBOXA7gM1reqPw",
+   "date": "2023-12-10",
+   "title": "ECCO PERCHE&#39; I DATTERI DI MARE SONO PROTETTI.",
+   "views": 7517,
+   "desc": "I datteri di mare sono famosi per la loro prelibatezza il che li ha resi un prodotto della pesca molto ambito ed apprezzato, ma anche protetto in parecchie zone del pianeta. In italia e in altri Paesi, il dattero di mare è infatti considerato una specie protetta.\nPrendono il nome dai loro omonomi te"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "QSZyK9zrYdY",
+   "ch": "Giulia Casagrande cook",
+   "cid": "UCzbpaHogwpcCpkIvks7-D-w",
+   "date": "2023-10-12",
+   "title": "Limoni di mare come si aprono",
+   "views": 4746,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "iyJLbX_wl-M",
+   "ch": "FIfPaCH",
+   "cid": "UCTDeqH_LoHs8uB43GQoJ0_Q",
+   "date": "2024-07-17",
+   "title": "I datteri di mare!!!",
+   "views": 2589,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "46JBIXNAXp0",
+   "ch": "Tele Sveva",
+   "cid": "UCP1N_p4LC05nPmoyxZYs1oQ",
+   "date": "2025-10-21",
+   "title": "Operazione contro la pesca abusiva di datteri da Molfetta a ",
+   "views": 1334,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "dTGXXn3-RB8",
+   "ch": "ITALIAN FOOD - La mia collezione di ricette",
+   "cid": "UCB7B6bI2uMQnZB5AnPEdBDw",
+   "date": "2023-05-01",
+   "title": "Zuppa di datteri di mare",
+   "views": 1165,
+   "desc": "ZUPPA  DI  DATTERI  DI  MARE\n\nRegione LIGURIA\nRicetta tradizionale di La Spezia\n\nINGREDIENTI per 4 porzioni:\n\n600 g datteri di mare\n200 g passata di pomodoro\n4 fette di pane casereccio\n\n50 ml olio extravergine di oliva\n60 ml vino bianco secco\nSale e pepe\n\nPREPARAZIONE:\n1.Raschiate i gusci dei datter"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "SpmfZIQnU-k",
+   "ch": "Diritto Ambientale – Avv. Stefano Palmisano ",
+   "cid": "UCW4GR1Z12RL01vpFgK9FChg",
+   "date": "2024-12-20",
+   "title": "PESCA DATTERI e DISASTRO AMBIENTALE",
+   "views": 1322,
+   "desc": "PESCA di FRODO di DATTERI e DISASTRO AMBIENTALE - Quanto può costare una mangiata di datteri, al mare ma anche a chi li pesca?\n\nLa risposta l'ha data la Cassazione in una sua sentenza.\n\nLo racconto in questo video. \n\nSono Stefano Palmisano, sono avvocato e mi occupo di diritto ambientale e dell'econ"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "qJ4Bp1cHhuY",
+   "ch": "GeoSwell",
+   "cid": "UCO1tLGdPiExrGLQ2BeHNp2A",
+   "date": "2026-11-07",
+   "title": "Campi Flegrei: perché il suolo di Pozzuoli si alza? #shorts",
+   "views": 1425,
+   "desc": "Le colonne romane di Pozzuoli sono state sott'acqua: lo dicono i buchi dei datteri di mare, fino a 7 metri d'altezza.\nSotto i Campi Flegrei gas e fluidi caldi spingono il suolo su e giù: è il bradisismo.\nTra il 1982 e il 1984 il porto si è alzato di 1,80 m e il molo è finito fuori dall'acqua. Dal 20"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "7zHPDgeXJbg",
+   "ch": "Amica9tv",
+   "cid": "UClNHmlTW9rZHdU5kLrcEg2A",
+   "date": "2025-10-21",
+   "title": "Molfetta - Pesca abusiva di datteri di mare e disastro ambie",
+   "views": 562,
+   "desc": "#Molfetta - Pesca abusiva di datteri di mare e disastro ambientale, 35 arresti\n\nSostieni l'informazione locale, abbonati ad Amica9 Tv:\nhttps://www.youtube.com/channel/UClNHmlTW9rZHdU5kLrcEg2A/join\n\nSeguici sulla nostra pagina Facebook! https://www.facebook.com/Amica9tv\n\nGuarda le videonews e gli app"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "9s9MwjtEpoA",
+   "ch": "Daniele Testa",
+   "cid": "UC-OIZbcAL2h6C5txQ-zXcJw",
+   "date": "2026-01-12",
+   "title": "Perché la pesca del dattero di mare è illegale.",
+   "views": 763,
+   "desc": "Il dattero di mare non è illegale per moda.\n\nPer raccoglierlo si distrugge la roccia,\nsi danneggia l’ambiente\ne si compromette il mare per decenni.\n\nConoscere il perché è parte del mestiere.\nLavoro vero. Senza filtri.\n\n#shorts #mare #pescaresponsabile #ambiente #lavorovero"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "WgdYj6nVF-0",
+   "ch": "Angoli d’Italia",
+   "cid": "UC26coKRyDvv2aVx1QrMZaVA",
+   "date": "2026-11-03",
+   "title": "Le colonne bucate dal mare: il Serapeo di Pozzuoli #shorts",
+   "views": 1057,
+   "desc": "Nel centro di Pozzuoli tre colonne di marmo sono piene di piccoli fori scavati dai datteri di mare, molluschi che vivono solo sott’acqua. Per secoli il mercato romano è stato sommerso, poi è tornato all’asciutto. Gli scienziati leggono queste colonne come un orologio di pietra del bradisismo. Il vid"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "6b00fM_6leE",
+   "ch": "Diritto Ambientale – Avv. Stefano Palmisano ",
+   "cid": "UCW4GR1Z12RL01vpFgK9FChg",
+   "date": "2024-02-18",
+   "title": "PESCA DI DATTERI E DISASTRO AMBIENTALE: da sapere",
+   "views": 399,
+   "desc": "PESCA DI FRODO DI DATTERI E DISASTRO AMBIENTALE - Quanto può costare una mangiata di datteri, al mare ma anche a chi li pesca?\n\nLa risposta l'ha data la Cassazione in una sua sentenza.\n\nLo racconto in questo video. \n\nSono Stefano Palmisano, sono avvocato e mi occupo di diritto ambientale e dell'econ"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "nT9N6PRK1pU",
+   "ch": "Sub H2O",
+   "cid": "UCQT7goRzCbQzM5NDf7-b4HA",
+   "date": "2024-06-17",
+   "title": "DOVE VIVE IL DATTERO DI MARE? - SUB H2O",
+   "views": 576,
+   "desc": "- VUOI DIVENTARE UN SUBACQUEO? GUARDA QUESTA PLAYLIST\n👇👇👇\nhttps://www.youtube.com/watch?v=KOZpoqdPloA&list=PLNE0-seW8fxYp4xfsUAweRAudRU9JgH3n\n- LA SUBACQUEA è COSTOSA?  \n👇👇👇\nhttps://youtu.be/QJFpodg5nFo\n- VUOI PROVARE A REALIZZARE NUOVE RICETTE?  TROVI LA PLAYLIST DE \"IL MARE IN CUCINA\"     👇👇👇\nhttp"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "VoufUYW2j2w",
+   "ch": "TelebariWeb",
+   "cid": "UC3e_wXVOLhkxenVqxQ8MBtA",
+   "date": "2025-10-21",
+   "title": "Pesca abusiva di datteri di mare, fondale devastato: 25 pers",
+   "views": 303,
+   "desc": "Il canale youtube di Telebari: notizie sulla città di Bari, telegiornale, servizi, sport e ssc Bari, filmati, programmi e tanto altro..."
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "EGfhNNVPvw4",
+   "ch": "TeleRamaNews",
+   "cid": "UCJNl3c6hR1oqJ3et7RJlNQA",
+   "date": "2023-09-06",
+   "title": "TARANTO, GUARDIA COSTIERA  TUTELA DELLA COSTA, SEQUESTRATI 5",
+   "views": 199,
+   "desc": "TARANTO, GUARDIA COSTIERA  TUTELA DELLA COSTA, SEQUESTRATI 5 KG DI DATTERI di NICLA PASTORE"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "9ICjCK_T_ic",
+   "ch": "TeleAmbiente",
+   "cid": "UCf9ONyZWZ9NfdKDvJ6T2QZQ",
+   "date": "2025-03-13",
+   "title": "Marevivo, 40 anni dalla parte del mare. Successi e sfide per",
+   "views": 167,
+   "desc": "Dallo stop all’uso dei cotton fioc alla battaglia per fermare lo scempio ambientale della pesca illegale dei datteri di mare; dalla lotta alle spadare all’istituzione della prima Area Marina Protetta d’Italia, quella di Ustica: sono solo alcune delle battaglie vinte da Marevivo, la storica associazi"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "dNlnjnV3XsA",
+   "ch": "RTM Manduria",
+   "cid": "UCMKZ7KOpKvsgjlO1EZhUPKQ",
+   "date": "2026-02-24",
+   "title": "Datteri di mare e pesca illegale: sul litorale brindisino. S",
+   "views": 144,
+   "desc": "I militari della Sezione Operativa Navale di Brindisi, coordinati dal Reparto Operativo Aeronavale di Bari, hanno sequestrato sul litorale brindisino 13,5 chilogrammi di datteri di mare, 3 chilogrammi di novellame e 45 chilogrammi di ricci di mare. Tra tutti i reati contestati, la cattura del datter"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "bFTidYUzYRY",
+   "ch": "Nico Cordola",
+   "cid": "UCqCUDMIyFibxTzH6yoOQRKQ",
+   "date": "2025-07-17",
+   "title": "la pesca dei datteri...",
+   "views": 1261,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "zGoAoNHtLr0",
+   "ch": "In my Kitchen",
+   "cid": "UCf16t7YzMjHSzbaUfL2w1_g",
+   "date": "2024-09-29",
+   "title": "spaghetti con datteri gialli,strepitosi ! #inmykitchen",
+   "views": 183,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "X9b-KftRptQ",
+   "ch": "ALESSANDRO SPORTIELLO",
+   "cid": "UChDTvAf1fEulTcQy1R0_nNg",
+   "date": "2026-07-30",
+   "title": "Buonasera Mondo 2026 penso a quanti datteri di mare ho mangi",
+   "views": 251,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "LMg2pnsGrHI",
+   "ch": "Guide Della Riserva Borsacchio",
+   "cid": "UCNRk9iEMfcSorssabX_VIKQ",
+   "date": "2026-10-25",
+   "title": "Dattero di Mare nella Riserva Borsacchio . la conchiglia esp",
+   "views": 182,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "HTKQvzKk7nw",
+   "ch": "Uno Tv “UnoTv” redazione",
+   "cid": "UCO2Puh9JlOlPiASZgwBlSzw",
+   "date": "2023-11-16",
+   "title": "SRV  GUARDIA COSTIERA  SEQUESTRA I DATTERI DI MARE",
+   "views": 78,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "GM3gsWWRtVk",
+   "ch": "TuttoBariNews",
+   "cid": "UClVbzFsTNKQF6GmugqOoLkA",
+   "date": "2025-10-22",
+   "title": "Datteri di mare a 150 euro/kg: smantellata rete illegale in ",
+   "views": 56,
+   "desc": "Un’operazione della Guardia Costiera ha scoperto una rete criminale attiva nella pesca e distribuzione illegale di datteri di mare, con base a Molfetta. Gli ordini avvenivano via WhatsApp, i prodotti venivano nascosti nei retrobottega o consegnati a domicilio, e i ristoranti arrivavano a pagare fino"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "FvSi0K0G0Kg",
+   "ch": "PAPA AMADOU NDAO",
+   "cid": "UC7hVUVLnuGZae98OemRxRww",
+   "date": "2025-10-05",
+   "title": "Datteri Per Mare Di Libertà",
+   "views": 277,
+   "desc": ""
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "EIBPQHl-XQA",
+   "ch": "Redazione News24City Official",
+   "cid": "UCYwDNmLuwLJPev5kIj7gpvA",
+   "date": "2025-10-21",
+   "title": "TRANI | Operazione contro la pesca abusiva di datteri",
+   "views": 22,
+   "desc": "le dichiarazioni di Renato Nitti e di Raffaele Muscariello"
+  },
+  {
+   "q": "datteri di mare",
+   "vid": "Nwnspy81Qs0",
+   "ch": "WNews Web 24 Puglia Channel ",
+   "cid": "UC1KcA5u6Ql-yGLP7fM7SrJw",
+   "date": "2025-10-22",
+   "title": "Sequestro Di Datteri Illegali a Molfetta 22.10.2025",
+   "views": 21,
+   "desc": "WNews Web 24 Puglia \r\nCanale Di Informazione e Sport \r\nDirettore Mimmo Siena"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "0cQbkZdL0Aw",
+   "ch": "☆ Mari Melody ☆",
+   "cid": "UCRhndCygf1iPww4Ixz2Opow",
+   "date": "2026-09-28",
+   "title": "I present to you… the ROCK GAUNTLET #rockhounding #adventure",
+   "views": 23210,
+   "desc": "Piddock clams or boring clams are all over the place! However the pacific coast just so happens to have 16 of 18 existing varieties! Pretty remarkable plus there’s an abundance of soft stone for then to dig in so it’s not uncommon for them to be associated with the pacific coast\nLike Monterey is a m"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "Qf6nGMHO0fs",
+   "ch": "امودو على الدراجات",
+   "cid": "UC0u2P_n8tDTh1pb3SSUsC_Q",
+   "date": "2026-07-28",
+   "title": "Dark intertidal stone sculpted with circular piddock clam bi",
+   "views": 17925,
+   "desc": "Non-magnetic shore rock with deep bioerosion pits sculpted by tide and marine life. Southwest coast of Morocco. 🇲🇦 \n\n#omarthemoroccanrockhound \n#omarsstones\n#concretion"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "5ZXf59730m8",
+   "ch": "SÀI GÒN LENS",
+   "cid": "UCG-RUGSyhXCFLtVJFH-RSKg",
+   "date": "2023-07-19",
+   "title": "The piddock clams look amazing. 🤩🤩",
+   "views": 4136,
+   "desc": "#PiddockClam #Clam #OceanMystery #SeaCreatures #AmazingNature #NatureIsAmazing #UnderwaterWorld #MarineLife #StrangeAnimals #DidYouKnow #NatureFacts #ViralShorts #Shorts"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "QbPjlCFDpnI",
+   "ch": "Brian Stone",
+   "cid": "UCiZg316ZN3cXHL5nUlDC4CA",
+   "date": "2026-05-16",
+   "title": "I found a clam that literally DRILLED through solid rock 🤯💥 ",
+   "views": 6135,
+   "desc": "Most clams just chill in the sand... but this one had a power drill for a shell. 💀🪨\n​Meet the Piddock Clam. Millions of years ago, these crazy creatures literally bored their way into solid sandstone, leaving behind these incredible, perfectly preserved time capsules. Finding one of these fossils on"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "LTwVwbCyXqU",
+   "ch": "TinglishMila&Mali",
+   "cid": "UCrmt9I0Scsdu1x6MQnlxgvw",
+   "date": "2023-12-18",
+   "title": "Piddock Clams Made Holes on This Rock! | โดนเจ้าหอย Piddock ",
+   "views": 3032,
+   "desc": ""
+  },
+  {
+   "q": "piddock rock",
+   "vid": "z3P5ZMztfpo",
+   "ch": "TinglishMila&Mali",
+   "cid": "UCrmt9I0Scsdu1x6MQnlxgvw",
+   "date": "2023-12-18",
+   "title": "Are These Piddock Clams OR Boring Clams? | นี่คือหอย Piddock",
+   "views": 2733,
+   "desc": ""
+  },
+  {
+   "q": "piddock rock",
+   "vid": "QJdJybp181Q",
+   "ch": "INFINITEPEBBLES",
+   "cid": "UCsEet3iornNPSPZ8io2IyOQ",
+   "date": "2026-04-17",
+   "title": "Piddock-Bored Conglomerate Stone.. #geology #beachcombing #f",
+   "views": 2957,
+   "desc": "sedimentary rock (likely a conglomerate or breccia) with some very cool \"pitting.\" Those circular holes are often caused by piddock clams or other boring organisms if you found it near the ocean, or they could be weathered-out amygdules (mineral pockets) if the rock has volcanic origins."
+  },
+  {
+   "q": "piddock rock",
+   "vid": "8U7IbslRnys",
+   "ch": "cormac's coast",
+   "cid": "UCTJoXPU3lIbCu5LR50JPPPA",
+   "date": "2023-06-04",
+   "title": "The spikes on the surface of this Piddock shell are used to ",
+   "views": 1675,
+   "desc": ""
+  },
+  {
+   "q": "piddock rock",
+   "vid": "LynH3ergcSs",
+   "ch": "KOI",
+   "cid": "UCE91a7T2yWjeZsRDo0pm-wg",
+   "date": "2024-12-01",
+   "title": "Piddock - rock-boring bivalve mollusk",
+   "views": 1661,
+   "desc": "These creatures find their safety in holes they made by boring soft rock at the bottom of the ocean. They eventually encapsulate themselves into the rock without a possibility to escape because they become larger than the opening of the borehole. Piddocks get their energy by processing organic mater"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "LRBo2oq_FjI",
+   "ch": "Rocio's Salty Log",
+   "cid": "UCgtE2e0tmgw4QlQ_9DZmbLQ",
+   "date": "2023-03-13",
+   "title": "Piddock Clams",
+   "views": 1306,
+   "desc": "Fun fact! \nI went hiking today after the rain and I was laughing so much at how I kept sliding on the mud after a weeks rain, \nAnd then my mind immediately went to the canyon of La Jolla which is just clay and mud, yeah, I know! (Not Sand)\nThe piddock clams (generous clam in Spanish) burry themselve"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "KZij-zqgnf0",
+   "ch": "INFINITEPEBBLES",
+   "cid": "UCsEet3iornNPSPZ8io2IyOQ",
+   "date": "2026-03-15",
+   "title": "Nature’s Drill: The Piddock Stone",
+   "views": 2481,
+   "desc": "Piddock Stone is a fascinating intersection of marine biology and geology. While it looks like someone took a drill to a rock, the \"tool\" responsible is actually a living creature: the Piddock clam."
+  },
+  {
+   "q": "piddock rock",
+   "vid": "R2_vTzlylX4",
+   "ch": "cormac's coast",
+   "cid": "UCTJoXPU3lIbCu5LR50JPPPA",
+   "date": "2023-04-29",
+   "title": "A Common Piddock (Pholas dactylus) shell. These bivalves liv",
+   "views": 1230,
+   "desc": ""
+  },
+  {
+   "q": "piddock rock",
+   "vid": "jq-RnvQQTZ4",
+   "ch": "Meteorwrong HQ",
+   "cid": "UCpt6lsJnLooyx6znDCEZ_ng",
+   "date": "2026-11-01",
+   "title": "HOLE IN YOUR BEACH ROCK? #Shorts",
+   "views": 1471,
+   "desc": "If you found a rock on the beach with a neat round hole in it, you are probably wondering what drilled it. This video shows the one physical check that separates a piddock clam borehole from a man-made drill hole, and what the inside of the hole tells you. By the end you will know whether your find "
+  },
+  {
+   "q": "piddock rock",
+   "vid": "Btfc-fLUDQU",
+   "ch": "cormac's coast",
+   "cid": "UCTJoXPU3lIbCu5LR50JPPPA",
+   "date": "2024-03-05",
+   "title": "A Common Piddock lives in holes in soft rock that it burrows",
+   "views": 601,
+   "desc": ""
+  },
+  {
+   "q": "piddock rock",
+   "vid": "vMbmSlobXoM",
+   "ch": "Nature’s Companions",
+   "cid": "UCk5k-77S9dxc0nnPLZ_kJjA",
+   "date": "2026-08-16",
+   "title": "Meet the Master Excavators Piddock Clams! 🐚🌊",
+   "views": 1410,
+   "desc": "What if I told you there's life living inside solid rock—deep beneath the surface, never seeing sunlight, and surviving on nothing but traces of minerals? It's not science fiction. These are **endoliths**, organisms that live inside rock, coral, or animal shells .\n\nEndoliths include bacteria, archae"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "LaNVk8ek8lA",
+   "ch": "Dr Weird AI",
+   "cid": "UCiS7yUuxcmJzAxKUc6cvH9A",
+   "date": "2025-03-31",
+   "title": "🐚 The Shellfish That Drills Through Rock #NatureFacts #Marin",
+   "views": 935,
+   "desc": "The piddock clam is a rock-drilling shellfish that bores into stone for protection! 🐚 It secretes acid to weaken the rock and uses its ridged shell to carve out a safe home. A fascinating marine marvel! 🌊\n#PiddockClam #MarineLife #RockDriller #OceanCreatures #Shellfish #NatureFacts #SeaMysteries #An"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "RZiWrThEMik",
+   "ch": "TinglishMila&Mali",
+   "cid": "UCrmt9I0Scsdu1x6MQnlxgvw",
+   "date": "2023-11-25",
+   "title": "Nature&#39;s Enigma: Black Rock with Holes | Did Piddock Cla",
+   "views": 332,
+   "desc": ""
+  },
+  {
+   "q": "piddock rock",
+   "vid": "wXFyGQwjkc8",
+   "ch": "Nature’s Companions",
+   "cid": "UCk5k-77S9dxc0nnPLZ_kJjA",
+   "date": "2026-08-11",
+   "title": "Uncovering Bioluminescence The Secret of Piddock Clams ✨🦪",
+   "views": 1000,
+   "desc": "What if I told you there's life living inside solid rock—deep beneath the surface, never seeing sunlight, and surviving on nothing but traces of minerals? It's not science fiction. These are **endoliths**, organisms that live inside rock, coral, or animal shells .\n\nEndoliths include bacteria, archae"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "TXHp1zgLqyM",
+   "ch": "Nature's Hidden Engineering",
+   "cid": "UCajbFWpK4HYR8MMcqqw9BZA",
+   "date": "2026-11-11",
+   "title": "This Clam Uses Its Shell to Scrape a Home in Rock",
+   "views": 80,
+   "desc": "The shell looks delicate, but it helps excavate soft stone. This original common-piddock cutaway follows abrasion and burrow growth, without turning the animal into a spinning drill. Sources: Marine Biological Association MarLIN; Conchological Society.\n\nSources:\nhttps://www.marlin.ac.uk/species/deta"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "DE9fwJNfrME",
+   "ch": "Anthony Thorn",
+   "cid": "UCbAJ2J1y_PLaXu87KTlL0Kw",
+   "date": "2026-08-30",
+   "title": "Piddock clams spitting water",
+   "views": 23,
+   "desc": "A group of rough piddock clams (Zirfaea pilsbryi) expelling seawater from their siphons. Clams are filter feeders, meaning they draw in water to filter out algae and debris for food. These clams are expelling the water from their shells after filtering it.\nhttps://www.inaturalist.org/observations/39"
+  },
+  {
+   "q": "piddock rock",
+   "vid": "pL2javdoVQo",
+   "ch": "Mari Melody",
+   "cid": "UCQphyJB0Mzb6GzJSZzFuyFQ",
+   "date": "2026-10-13",
+   "title": "Piddock clams or boring clams are all over the place! Howeve",
+   "views": 1,
+   "desc": "Piddock clams or boring clams are all over the place! However the pacific coast just so happens to have 16 of 18 existing varieties! Pretty remarkable plus there’s an abundance of soft stone for then to dig in so it’s not uncommon for them to be associated with the pacific coast Like Monterey is a m"
+  }
+ ]
 }
