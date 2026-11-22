@@ -1,12 +1,13 @@
 {
- "_for": "ㅋㅋ상회 AI짤 패딩: 사진 1장 (2026-11-22 10:36 사용자 '패딩', 55원 안팎). 위 카톡은 직접 그림.",
+ "_for": "ㅋㅋ상회 레전드 카톡 1번 헬스장 트레이너: 손에 든 폰 사진 1장 (2026-11-22 14:44 사용자 '1번으로', 55원 안팎). 깨진 글씨는 받은 뒤 원문으로 고침.",
  "model": "gemini-2.5-flash-image",
- "style": "Photorealistic casual smartphone photo, natural indoor lighting, slightly imperfect amateur shot. No text, no logos, no brand marks anywhere.",
+ "style": "",
  "prompts": [
   {
-   "name": "kk_padding_closet",
-   "aspect": "4:3",
-   "prompt": "Inside a Korean studio apartment, an open wardrobe photographed straight on: the hanging rail is packed with about eight almost identical black long puffer coats (knee-length down parkas) squeezed side by side. On the floor in front of the wardrobe sits a freshly opened brown delivery box with yet another brand-new black long puffer coat spilling out of its plastic wrap, and a box cutter next to it. Warm evening room light, a bit cluttered, realistic amateur phone photo. Plain coats and box with no visible text or logos."
+   "name": "kk_trainer_phone",
+   "aspect": "4:5",
+   "refs": ["drafts/refs/kk_trainer_src.jpg", "drafts/refs/style_photo_kakao.jpg"],
+   "prompt": "Image 1 is a KakaoTalk chat screenshot. Create a realistic amateur photo, taken with a second phone, of a person's hand holding a modern iPhone upright that displays exactly the chat in image 1, in the same casual photographic style as image 2. The whole phone is visible except the bottom edge may be cut off; the phone fills about 85% of the frame; slightly tilted; blurry room background with a desk and warm indoor light. The screen shows the light blue-gray KakaoTalk background with the same yellow bubbles on the right, white bubbles on the left, the same gym door photo, the same timestamps and the same Korean text and line breaks as image 1, nothing added, no bubble repeated. Add subtle real-photo artifacts: slight moire on the screen, faint glare, fingerprint smudges, phone camera noise. No other text, no watermark."
   }
  ]
 }
