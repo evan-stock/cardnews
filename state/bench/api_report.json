@@ -1,402 +1,676 @@
 {
- "since": "2026-11-05",
- "fixed": [
-  {
-   "handle": "UCw5W1VrlzG7bjHEBxpupBlg",
-   "title": "펫스파이",
-   "id": "UCw5W1VrlzG7bjHEBxpupBlg",
-   "created": "2026-06-28",
-   "subs": "4000",
-   "videos": "194",
-   "before": {
-    "n": 63,
-    "median": 23529,
-    "max": 1320205,
-    "over10k": 52
-   },
-   "after": {
-    "n": 28,
-    "median": 25925,
-    "max": 184020,
-    "over10k": 24
-   },
-   "last3d": {
-    "n": 9,
-    "median": 16439,
-    "max": 71629,
-    "over10k": 7
-   },
-   "recent": [
-    {
-     "id": "xtW8UKukjBA",
-     "date": "2026-11-22",
-     "title": "얼굴은 숨기고 코만 내미는 코끼리의 수상한 속셈ㅋㅋ",
-     "views": 4369,
-     "dur": "PT18S"
-    },
-    {
-     "id": "iA-IdId4CfU",
-     "date": "2026-11-22",
-     "title": "밀짚모자를 쓰고 간식 먹는 원숭이의 남다른 포스ㅋㅋ",
-     "views": 16439,
-     "dur": "PT15S"
-    },
-    {
-     "id": "lwBFk5MeA-U",
-     "date": "2026-11-21",
-     "title": "지네 장난감 하나에 혼비백산한 치타들의 반전 반응ㅋㅋ",
-     "views": 20615,
-     "dur": "PT14S"
-    },
-    {
-     "id": "UdB8kJBk4X4",
-     "date": "2026-11-21",
-     "title": "집사 손가락에 도전한 아기 냥이의 예상 못 한 공격ㅋㅋ",
-     "views": 71629,
-     "dur": "PT14S"
-    },
-    {
-     "id": "tAsPYRGhQXM",
-     "date": "2026-11-20",
-     "title": "집사가 이름을 부르자 아장아장 다가오는 아기 냥이의 귀여운 밀당ㅋㅋ",
-     "views": 11104,
-     "dur": "PT12S"
-    },
-    {
-     "id": "4NS8h2Uksew",
-     "date": "2026-11-20",
-     "title": "레몬을 처음 맛본 골든 댕댕이가 갑자기 난리가 난 이유ㅋㅋ",
-     "views": 12559,
-     "dur": "PT18S"
-    },
-    {
-     "id": "Z4QdhaJPn8c",
-     "date": "2026-11-19",
-     "title": "접시 하나로 호캉스를 즐기는 앵무새의 기막힌 목욕법ㅋㅋ",
-     "views": 3519,
-     "dur": "PT17S"
-    },
-    {
-     "id": "PDCQrZRZKaY",
-     "date": "2026-11-19",
-     "title": "늑대 무리에 새롭게 등장한 대장의 정체ㅋㅋ",
-     "views": 27151,
-     "dur": "PT11S"
-    },
-    {
-     "id": "EYkKIBMwJpk",
-     "date": "2026-11-19",
-     "title": "사람과 두뇌 싸움을 벌이는 천재 까마귀의 실력ㅋㅋ",
-     "views": 21858,
-     "dur": "PT14S"
-    },
-    {
-     "id": "BifJtyjwijk",
-     "date": "2026-11-18",
-     "title": "백구에게 흙 폭탄을 날리던 황구의 뻔뻔한 행동ㅋㅋ",
-     "views": 24231,
-     "dur": "PT15S"
-    },
-    {
-     "id": "WVcfAh7lZtI",
-     "date": "2026-11-18",
-     "title": "요즘 운동에 진심이라는 치즈 뚱냥이의 운동법ㅋㅋ",
-     "views": 9690,
-     "dur": "PT8S"
-    },
-    {
-     "id": "M_7CcCfyw4s",
-     "date": "2026-11-18",
-     "title": "무시무시한 치악력을 가진 하마도 싫어하는 게 있다ㅋㅋ",
-     "views": 26867,
-     "dur": "PT21S"
-    },
-    {
-     "id": "tsR_X6OJEZE",
-     "date": "2026-11-17",
-     "title": "머리에 노란 띠를 얹고 난리 치던 뚱냥이의 반전ㅋㅋ",
-     "views": 10376,
-     "dur": "PT11S"
-    },
-    {
-     "id": "HuyVPiu_enE",
-     "date": "2026-11-17",
-     "title": "아기 댕댕이의 꼬리를 태엽처럼 감아줬더니ㅋㅋ",
-     "views": 18887,
-     "dur": "PT8S"
-    },
-    {
-     "id": "kzq_U0zqiy0",
-     "date": "2026-11-17",
-     "title": "집사 손가락을 사냥하던 아기 흑표범의 반전ㅋㅋ",
-     "views": 24983,
-     "dur": "PT18S"
-    }
-   ]
-  },
-  {
-   "handle": "UCxy96xXUrl-OeDxpsnoavbA",
-   "title": "펫덕",
-   "id": "UCxy96xXUrl-OeDxpsnoavbA",
-   "created": "2024-11-12",
-   "subs": "14600",
-   "videos": "261",
-   "before": {
-    "n": 86,
-    "median": 55815,
-    "max": 2927812,
-    "over10k": 82
-   },
-   "after": {
-    "n": 11,
-    "median": 101104,
-    "max": 3884737,
-    "over10k": 11
-   },
-   "last3d": {
-    "n": 3,
-    "median": 37211,
-    "max": 145774,
-    "over10k": 3
-   },
-   "recent": [
-    {
-     "id": "hj2pugAdSPQ",
-     "date": "2026-11-22",
-     "title": "홈캠에서 들리는 아빠 목소리와 댕댕이들4탄",
-     "views": 145774,
-     "dur": "PT1M"
-    },
-    {
-     "id": "rnU0vZ6flhk",
-     "date": "2026-11-21",
-     "title": "댕댕이에게 동생이 생긴다면",
-     "views": 36759,
-     "dur": "PT27S"
-    },
-    {
-     "id": "CQa5oZo0f88",
-     "date": "2026-11-19",
-     "title": "진돗개는 싫다던 캐나다 할머니의 반전 근황",
-     "views": 37211,
-     "dur": "PT25S"
-    },
-    {
-     "id": "CL3wwVGd7Ss",
-     "date": "2026-11-18",
-     "title": "댕청한 줄만 알았던 리트리버의 반전 매력",
-     "views": 30844,
-     "dur": "PT22S"
-    },
-    {
-     "id": "w7Imd5OFSdM",
-     "date": "2026-11-17",
-     "title": "홈캠에서 들리는 아빠목소리3탄",
-     "views": 809664,
-     "dur": "PT47S"
-    },
-    {
-     "id": "Ee1WyaO3BM0",
-     "date": "2026-11-16",
-     "title": "미국인 주인이 진돗개를 최고의 개라고 극찬한 이유",
-     "views": 1241427,
-     "dur": "PT35S"
-    },
-    {
-     "id": "bUO5oO08dUM",
-     "date": "2026-11-14",
-     "title": "황당한 골댕이 동생의 정체",
-     "views": 99466,
-     "dur": "PT23S"
-    },
-    {
-     "id": "88_O6gGJBzE",
-     "date": "2026-11-14",
-     "title": "새끼들을 빼앗긴 냥이의 황당한 상황",
-     "views": 73331,
-     "dur": "PT14S"
-    },
-    {
-     "id": "2cDjfZnVz4U",
-     "date": "2026-11-12",
-     "title": "강아지가 사람보다 먼저 떠나는 가슴 아픈 이유",
-     "views": 146131,
-     "dur": "PT27S"
-    },
-    {
-     "id": "TKNO1j_IUpA",
-     "date": "2026-11-11",
-     "title": "산책만 나가면 주인이 천하장사가 되는 이유",
-     "views": 101104,
-     "dur": "PT21S"
-    },
-    {
-     "id": "XgVPcaBl20k",
-     "date": "2026-11-09",
-     "title": "허스키와 래브라도의 새끼는?",
-     "views": 3884737,
-     "dur": "PT26S"
-    },
-    {
-     "id": "R-eQbBXhqAg",
-     "date": "2026-11-09",
-     "title": "홈캠에서 들리는 아빠 목소리에 반응하는 댕댕이들",
-     "views": 669634,
-     "dur": "PT45S"
-    },
-    {
-     "id": "qo7He6mGDMI",
-     "date": "2026-11-06",
-     "title": "외로운 큰냥이에게 강아지를 소개해 줬더니 생긴 일",
-     "views": 41758,
-     "dur": "PT21S"
-    },
-    {
-     "id": "OhpToacD1B8",
-     "date": "2026-11-05",
-     "title": "미국인 주인이 진돗개 키우면서 걱정에 빠진 이유",
-     "views": 43873,
-     "dur": "PT21S"
-    },
-    {
-     "id": "4woLeKq5KTw",
-     "date": "2026-11-03",
-     "title": "같이 사는 댕댕이들이 이상하게 보는 골댕이",
-     "views": 43600,
-     "dur": "PT20S"
-    }
-   ]
-  }
- ],
+ "since": "2018-01-01",
+ "fixed": [],
  "found": [
   {
-   "title": "펫파라치",
-   "id": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "created": "2025-10-18",
-   "subs": "85500",
-   "videos": "811"
+   "title": "anthony robert",
+   "id": "UCAmnkKOKOaXfp95SiNEzJGw",
+   "created": "2013-03-29",
+   "subs": "33500",
+   "videos": "165"
+  },
+  {
+   "title": "New News Network",
+   "id": "UCIiYdWeQQabin5vf5f8LqWA",
+   "created": "2021-01-11",
+   "subs": "605",
+   "videos": "764"
+  },
+  {
+   "title": "nikita khasanov",
+   "id": "UC_pUQoheOOkKTaXiwM4Kurg",
+   "created": "2017-07-22",
+   "subs": "600",
+   "videos": "17"
+  },
+  {
+   "title": "DJI",
+   "id": "UCsNGtpqGsyw0U6qEG-WHadA",
+   "created": "2010-06-06",
+   "subs": "6730000",
+   "videos": "3910"
+  },
+  {
+   "title": "Daviiskijumper",
+   "id": "UCC6lbFAW7AzbwE6WqTYcZVA",
+   "created": "2013-10-12",
+   "subs": "617",
+   "videos": "30"
+  },
+  {
+   "title": "ALLPLAY USA",
+   "id": "UCY3luyNuzLi0hgQ-7U-qMdQ",
+   "created": "2024-07-01",
+   "subs": "3140",
+   "videos": "2292"
+  },
+  {
+   "title": "Jonathan Belzil",
+   "id": "UCdnNw-1u7h7X798RW17bJCQ",
+   "created": "2011-11-08",
+   "subs": "34",
+   "videos": "6"
+  },
+  {
+   "title": "DJI OSMO",
+   "id": "UCdslRqC1bNDiL2x6ThAIxPg",
+   "created": "2024-06-28",
+   "subs": "855000",
+   "videos": "2152"
+  },
+  {
+   "title": "AndroCarSim",
+   "id": "UCkQ-BtI4zUl670gsOdr9DYQ",
+   "created": "2026-04-19",
+   "subs": "3",
+   "videos": "8"
+  },
+  {
+   "title": "mystery Tamil",
+   "id": "UCKaZZOhYZsDGu6ICv1FKhPw",
+   "created": "2022-01-04",
+   "subs": "957000",
+   "videos": "1242"
+  },
+  {
+   "title": "Golf Handicapp: Track, Play, Improve",
+   "id": "UC4gFaS63bjtHNPDr_nXvitw",
+   "created": "2026-06-22",
+   "subs": "22",
+   "videos": "155"
+  },
+  {
+   "title": "ake",
+   "id": "UCJXyqz11pWS92LCau-UpBqw",
+   "created": "2022-12-09",
+   "subs": "1020",
+   "videos": "53"
+  },
+  {
+   "title": "Games für Jung und jung gebliebene",
+   "id": "UCfAP7ZeqRsXUI9HevwRWhrg",
+   "created": "2018-07-13",
+   "subs": "488",
+   "videos": "152"
+  },
+  {
+   "title": "TODAY",
+   "id": "UChDKyKQ59fYz3JO2fl0Z6sg",
+   "created": "2013-08-21",
+   "subs": "5130000",
+   "videos": "57239"
+  },
+  {
+   "title": "Alex Sonnleithner",
+   "id": "UCANi3o6X_VmfhK4YJc5gqmA",
+   "created": "2013-07-18",
+   "subs": "814",
+   "videos": "27"
+  },
+  {
+   "title": "Strachoczanka",
+   "id": "UC4cHQyPorWzANx20cVOjDMw",
+   "created": "2018-01-16",
+   "subs": "11100",
+   "videos": "144"
+  },
+  {
+   "title": "Aquabike Tricks",
+   "id": "UCR97cRhYEGZFQ4dHFx1NOMQ",
+   "created": "2008-10-28",
+   "subs": "272",
+   "videos": "366"
+  },
+  {
+   "title": "team taku Channel",
+   "id": "UCjW0oXdzvYuNd0ZlqyAJtcg",
+   "created": "2015-11-19",
+   "subs": "530",
+   "videos": "21"
+  },
+  {
+   "title": "Olympic Games",
+   "id": "UCTl3QQTvqHFjurroKxexy2Q",
+   "created": "2006-01-10",
+   "subs": "16700000",
+   "videos": "22395"
+  },
+  {
+   "title": "USAsn News",
+   "id": "UC0nRtO-757r2zAjHUX7Ibbg",
+   "created": "2021-09-17",
+   "subs": "4740",
+   "videos": "2697"
+  },
+  {
+   "title": "Red Bull Snow",
+   "id": "UCTtEhdlWz5erVK734-Gn0VQ",
+   "created": "2019-07-31",
+   "subs": "1120000",
+   "videos": "1503"
+  },
+  {
+   "title": "audun nybøen",
+   "id": "UCCzvnZZgC0UEl6bVJod8jWA",
+   "created": "2012-10-28",
+   "subs": "138",
+   "videos": "8"
+  },
+  {
+   "title": "Tech Today",
+   "id": "UCYWDgUIB5HSb_GcdXxc_THw",
+   "created": "2023-10-22",
+   "subs": "857000",
+   "videos": "567"
+  },
+  {
+   "title": "KARE 11",
+   "id": "UC1JAwKeDUjN2orv5t7LWODQ",
+   "created": "2006-11-16",
+   "subs": "470000",
+   "videos": "75957"
+  },
+  {
+   "title": "A&E",
+   "id": "UCNIFiHaLZkYASaWDdkC1njg",
+   "created": "2006-09-20",
+   "subs": "11900000",
+   "videos": "14133"
+  },
+  {
+   "title": "V4VIRAL ",
+   "id": "UCkgQaOaQP5REbbkx2v_ymQg",
+   "created": "2022-12-29",
+   "subs": "1420",
+   "videos": "514"
+  },
+  {
+   "title": "TNG",
+   "id": "UCTVUXBEj9D8ubtDMVrrAnCw",
+   "created": "2016-05-01",
+   "subs": "885",
+   "videos": "279"
+  },
+  {
+   "title": "zorrobacsi1",
+   "id": "UC03HcR-_MdGFdEeSfaUbELQ",
+   "created": "2010-07-22",
+   "subs": "442",
+   "videos": "16"
+  },
+  {
+   "title": "Barti",
+   "id": "UCxTLQLJZsPnrHjBN4Qpivbw",
+   "created": "2009-11-06",
+   "subs": "3490",
+   "videos": "127"
+  },
+  {
+   "title": "Red Bull",
+   "id": "UCblfuW_4rakIf2h6aqANefA",
+   "created": "2006-09-23",
+   "subs": "30500000",
+   "videos": "7147"
+  },
+  {
+   "title": "Jakub_Fuller6",
+   "id": "UCU6QA_U7vkqXJD8eIwk_IPA",
+   "created": "2015-05-25",
+   "subs": "3620",
+   "videos": "86"
+  },
+  {
+   "title": "Detective Eyes",
+   "id": "UCD6qTrieiuAmPaqQtS-SCog",
+   "created": "2016-09-27",
+   "subs": "24200",
+   "videos": "1179"
+  },
+  {
+   "title": "Ski Jumping Bogdanówka",
+   "id": "UCNONQ7u6owavjq5L_xADDKA",
+   "created": "2023-12-31",
+   "subs": "11900",
+   "videos": "256"
+  },
+  {
+   "title": "Top News 1",
+   "id": "UC-eHIoDpZx51DenAv_TUk3A",
+   "created": "2016-11-03",
+   "subs": "41700",
+   "videos": "2157"
   }
  ],
  "search_hits": [
   {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "FdFvwEe-e5Y",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-17",
-   "title": "엄마냥이가 아빠냥이를 포기한 이유ㅋㅋ #동물 #사자",
-   "views": 2033677,
-   "desc": "배를 드러내고 세상 편하게 낮잠 자는 수사자🦁\n그런데 옆에 누운 암사자에게 뜻밖의 오줌 세례가 쏟아지는데요.\n깜짝 놀라 쳐다봐도 정작 본인은 아무것도 모르고 자죠.\n결국 자리 뜨는 암사자와 뒤늦게 눈 뜬 수사자ㅋㅋ  \n\n#사자 #수사자 #암사자 #사자영상 #사자일상 #사자커플 #맹수 #대형고양이 #고양이과 #동물낮잠 #동물반응 #동물실수 #웃긴동물 #귀여운동물 #동물영상 #동물쇼츠 #펫파라치 #쇼츠 #유튜브쇼츠 #shorts \n\n🎵Music provided by 브금대통령\n🎵Track : 백수의 하루 - https://youtu.b"
+   "q": "ski jump inrun POV",
+   "vid": "jlGW8COHX70",
+   "ch": "Barti",
+   "cid": "UCxTLQLJZsPnrHjBN4Qpivbw",
+   "date": "2022-03-24",
+   "title": "Jan Hoerl - 97.5m - Planica 24.03.2022 - Dangerous Situation",
+   "views": 1309416,
+   "desc": "2nd Training, fortunately he saved himself from falling in this horrible situation. If he fell, the FIS would be to blame for not forcing the organizers to create an inrun freezing system"
   },
   {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "AB-CKt2YKO0",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-06",
-   "title": "400kg짜리 아기냥이가 할머니를 만나면 벌어지는 일ㅋㅋ #동물 #라이거",
-   "views": 426046,
-   "desc": "400kg이나 되는 거대한 라이거가 할머니만 보면 애교쟁이로 변신 🦁\n덩치도 잊은 채 할머니 품에 파고들며 응석을 부리는데요.\n타이어에 기대었다가 찌그러지자 안 나오겠다고 떼까지 쓰죠 😂\n하지만 할머니 말씀 한마디에는 영락없는 순둥이 아기네요 ❤️\n\n#shorts #동물 #라이거 #라이거영상 #사자 #호랑이 #사자호랑이 #대형고양잇과 #맹수 #야생동물 #귀여운맹수 #애교쟁이 #동물애교 #동물쇼츠 #동물영상 #귀여운동물 #웃긴동물 #동물행동 #동물반응 #동물사랑\n\n🎵Music provided by 브금대통령\n🎵Track : 개껌 발견"
+   "q": "ski jump inrun POV",
+   "vid": "n9sGRvMhacM",
+   "ch": "Ski Jumping Bogdanówka",
+   "cid": "UCNONQ7u6owavjq5L_xADDKA",
+   "date": "2026-11-18",
+   "title": "PONAD 80 KM/H NA PROGU! | Kulisy i pełny skok w Szczyrku HS7",
+   "views": 992,
+   "desc": "Cały skok w Szczyrku na hs70 kończący sezon letni skoków narciarskich w 2026\n\nA jeśli chcecie zakupić nasz merch to właśnie wystartował nasz sklep, a z okazji zblizajcego black friday do pierwszych 10 zamówień dorzucamy losowy gadżet, wbijajcie i kupujcie zanim znikną:  https://sjbogdanowka.1ct.eu\n\n"
   },
   {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "sujuKQOZICo",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
+   "q": "ski jumping helmet camera",
+   "vid": "vrQZom91OWY",
+   "ch": "Red Bull",
+   "cid": "UCblfuW_4rakIf2h6aqANefA",
+   "date": "2024-04-02",
+   "title": "Motorbike Ski Jump 😮‍💨",
+   "views": 40208633,
+   "desc": "Professional Red Bull athlete Robbie Maddison jumps his motorbike 374 feet from a ski jump"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "Fp3iStx5lu4",
+   "ch": "anthony robert",
+   "cid": "UCAmnkKOKOaXfp95SiNEzJGw",
+   "date": "2025-05-14",
+   "title": "#Skijumping Season is on 😈⛷️ #ski #skiing #extreme",
+   "views": 19864290,
+   "desc": ""
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "t1P0SeYt2TA",
+   "ch": "Red Bull Snow",
+   "cid": "UCTtEhdlWz5erVK734-Gn0VQ",
+   "date": "2023-11-09",
+   "title": "Skiers Jump OVER A Chairlift! Best Party Lap Ever?",
+   "views": 8112483,
+   "desc": "Spring, slush, sun, and skiing with the whole gang. It almost doesn't get any better than that. Jump on the bandwagon for some of the most exciting and fun ski trains you'll be seeing in a while.\n\nSkiers: @LoganPehota  (+snowmobiler), @jespertjader, @NicoVuignier, Kirsty Muir, Paddy Graham, @nico.po"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "Nrq8zwQR7rQ",
+   "ch": "Strachoczanka",
+   "cid": "UC4cHQyPorWzANx20cVOjDMw",
+   "date": "2019-02-11",
+   "title": "Helmet Camera Jump | Strachoczanka K-25 | GoPro Hero 7",
+   "views": 1327017,
+   "desc": "Skok oczami skoczka na skoczni K-25 \"Strachoczanka\" w Strachocinie.\n\nNasz projekt, skocznia \"Strachoczanka\" o rozmiarze HS-33, realizowany jest w ramach działania stowarzyszenia pod nazwą Towarzystwo Gimnastyczne \"SOKÓŁ\" w Strachocinie, do którego należymy. Zachęcamy do wsparcia naszego działania po"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "ItqcVcqitpE",
+   "ch": "Strachoczanka",
+   "cid": "UC4cHQyPorWzANx20cVOjDMw",
+   "date": "2025-11-26",
+   "title": "Zima Uderza! Pierwsze Skoki na Strachoczance - Helmet Cam !",
+   "views": 1065790,
+   "desc": "Pierwsze zimowe skoki na Strachoczance! ❄️⛷️\nRekordowe opady śniegu w listopadzie sprawiły, że możemy cieszyć się prawdziwie zimową aurą — zima przyszła na całego! ☃️✨ Mamy nadzieję, że zostanie z nami jak najdłużej.❤️\n#Skokinarciarskie #Skijumping #Skoki #Skijumpingfamily #Strachoczanka #Zima #Śnie"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "skSNgKGDIfc",
+   "ch": "zorrobacsi1",
+   "cid": "UC03HcR-_MdGFdEeSfaUbELQ",
+   "date": "2023-01-20",
+   "title": "Kitzbühel Downhill helmet camera",
+   "views": 735035,
+   "desc": ""
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "-SyOUE2uVqo",
+   "ch": "Strachoczanka",
+   "cid": "UC4cHQyPorWzANx20cVOjDMw",
+   "date": "2021-02-04",
+   "title": "Helmet Camera Jump 2 | Strachoczanka K-30 | GoPro Hero 7 | N",
+   "views": 604865,
+   "desc": "Kolejna odsłona skoku oczami skoczka na nowo zmodernizowanej skoczni K-30 w Strachocinie.\n\nNasz projekt, skocznia \"Strachoczanka\" o rozmiarze HS-33, realizowany jest w ramach działania stowarzyszenia pod nazwą Towarzystwo Gimnastyczne \"SOKÓŁ\" w Strachocinie, do którego należymy. Zachęcamy do wsparci"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "kcl8DmWzPZM",
+   "ch": "ake",
+   "cid": "UCJXyqz11pWS92LCau-UpBqw",
+   "date": "2022-12-24",
+   "title": "Crazy Ski Jumping Crashes!",
+   "views": 542082,
+   "desc": "Here are some of my favourite ski jumping crashes!\n\n\nMitchell Penning\n\n\n#skijumping #fail #fails #fyp #far #flying #jump #ski #skiing #crash #fall ski jump crash"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "7ezFs7U2sm0",
+   "ch": "DJI",
+   "cid": "UCsNGtpqGsyw0U6qEG-WHadA",
+   "date": "2025-01-11",
+   "title": "How high do you think that ski jump was ⛷️Shot on DJI Osmo A",
+   "views": 637970,
+   "desc": "Capture every thrilling moment with the DJI Osmo Action 5 Pro. From epic ski jumps to breathtaking stunts, this action camera delivers stunning clarity and smooth footage."
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "af-dl4FKX00",
+   "ch": "Games für Jung und jung gebliebene",
+   "cid": "UCfAP7ZeqRsXUI9HevwRWhrg",
+   "date": "2022-12-30",
+   "title": "Skispringen Helmkamera Ego-Perspektive Oberstdorf",
+   "views": 157108,
+   "desc": "Genießt den Sprung aus der Ego-Perspektive der Helmkamera\n\n☑️ ABONNIEREN: https://bit.ly/315vBXd \n🔔 BENACHRICHTIGUNG\n\n#games #Skispringen #skijumping"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "bod4FGcltmQ",
+   "ch": "A&E",
+   "cid": "UCNIFiHaLZkYASaWDdkC1njg",
+   "date": "2021-04-15",
+   "title": "Rescue Cam: Skydiver Has Seizure During Jump, Saved by Instr",
+   "views": 137169,
+   "desc": "A skydiver suffers a seizure in this clip from Season 1, Episode 7.\n\n#RescueCam\n\nSubscribe for more from Rescue Cam and other great A&E shows:\nhttp://aetv.us/subscribe_ae\n\nFind out more about Rescue Cam and watch full episodes on our site:\nhttps://www.aetv.com/shows/live-rescue\n\nCheck out exclusive "
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "4jkrimCn9Pk",
+   "ch": "audun nybøen",
+   "cid": "UCCzvnZZgC0UEl6bVJod8jWA",
+   "date": "2018-10-03",
+   "title": "Ski Jump K72 Planica (GoPro Hero 3 Helmet Cam)",
+   "views": 97016,
+   "desc": "Ski jump in Planica k72 (Slovenia)\n\n\nThanks for watching!\nRemember to like and hit the subscribe button//\n\nIf we manage to reach 200 likes I will make another video. \n\n\n\nInstagram: Audun_malmer \nSecond YoutubeChannel: Prog 97 \n\n\n\n\nLike and Subscribe for more ski jumping videos!"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "Xnq-M_Hy3xU",
+   "ch": "DJI OSMO",
+   "cid": "UCdslRqC1bNDiL2x6ThAIxPg",
+   "date": "2026-02-03",
+   "title": "Feel the Speed! Osmo 360 POV of Ski Jumping🎿🔥",
+   "views": 36992,
+   "desc": "The thrill of speed captured like never before—Osmo 360’s panoramic first-person view puts you right in the heart of the ski jump.\n\nHold tight to the rails and get ready for an adrenaline-packed ride with smooth, immersive 360° footage that makes your heart race.\n\n📹 Shot by @ficekooo\n\n#djiosmo #osmo"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "0le-NA6L9Xk",
+   "ch": "Strachoczanka",
+   "cid": "UC4cHQyPorWzANx20cVOjDMw",
+   "date": "2025-10-12",
+   "title": "Helmet Camera Jump 3 | Historyczny skok na IGELICIE | Histor",
+   "views": 10845,
+   "desc": "Historyczny moment na  naszej skoczni Strachoczanka K30! 🏔️\nTo pierwszy skok na igelicie, zarejestrowany kamerą GoPro z kasku – kontynuacja serii Helmet Camera Jump 🎥\nNowa era skoków narciarskich zaczyna się właśnie teraz –  na igelicie! ☀️\n\n💬 Napisz w komentarzu, jak Ci się podoba nowa wersja !\n👍 Z"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "LvlL40ou104",
+   "ch": "Ski Jumping Bogdanówka",
+   "cid": "UCNONQ7u6owavjq5L_xADDKA",
+   "date": "2024-07-25",
+   "title": "Helmet Camera Jump | Bogdanówka K-10 | GoPro Hero 10 | FAIL",
+   "views": 10014,
+   "desc": "Jump from the perspective of a ski jumper on the summer hill in Bogdanówka \n\n\n\n\n\n\nFACEBOOK: Ski Jumping Bogdanówka\nEMAIL: skijumpingbogdanowka@gmail.com\n\n\n\n\n\n\n\nTAGI: \n\n#skokinarciarskie #PeterPrevc #TimiZajc  #skijump  #skokinarciarskie #skoki #skokoholicy#AnzeLanisek #RomanKoudelka  #DawidKubacki #"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "TX0rV8em0Qw",
+   "ch": "Jonathan Belzil",
+   "cid": "UCdnNw-1u7h7X798RW17bJCQ",
+   "date": "2021-04-28",
+   "title": "Sea-Doo Spark Creek Jump (Helmet Cam)",
+   "views": 7668,
+   "desc": "Sea-Doo Spark Creek Jump (Helmet Cam)."
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "JFL88bNg_hM",
+   "ch": "zorrobacsi1",
+   "cid": "UC03HcR-_MdGFdEeSfaUbELQ",
+   "date": "2023-01-20",
+   "title": "Cortina d’Ampezzo Downhill helmet camera",
+   "views": 7540,
+   "desc": ""
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "F-lvoDZp2aw",
+   "ch": "Daviiskijumper",
+   "cid": "UCC6lbFAW7AzbwE6WqTYcZVA",
+   "date": "2021-02-19",
+   "title": "Dawid Kaszuba | zima 2021r. | Zagórz k40 | Helmet Camera GoP",
+   "views": 5005,
+   "desc": "skok okolice 43m"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "elzbro50Sq0",
+   "ch": "Daviiskijumper",
+   "cid": "UCC6lbFAW7AzbwE6WqTYcZVA",
+   "date": "2021-09-21",
+   "title": "Velenje 🇸🇮 HS75|| GoPro hero 5 || Helmet camera || Trening p",
+   "views": 4204,
+   "desc": "Trening na skoczni w słoweńskim 🇸🇮 Velenje przed IMC2021"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "YtkLyM1rI5Y",
+   "ch": "Alex Sonnleithner",
+   "cid": "UCANi3o6X_VmfhK4YJc5gqmA",
+   "date": "2019-06-12",
+   "title": "GoPro helmet camera jump in Bischofshofen - Alex Hayböck",
+   "views": 2948,
+   "desc": "I took my GoPro out of my pocket and made this video shot. \n\nSometimes I dare myself on this hill trying to collect some adrenaline. ;) \nLeave a like if you enjoyed this video.\n\nhttps://www.instagram.com/alex.hayboeck/"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "Z5UUaYgmhIM",
+   "ch": "audun nybøen",
+   "cid": "UCCzvnZZgC0UEl6bVJod8jWA",
+   "date": "2018-06-28",
+   "title": "Ski jump Midstulia k60 (With Helmet cam)",
+   "views": 2227,
+   "desc": "Ski jumping in Midtstulia, Oslo Norway.\n\nThis jump was 60 meters filmed with my GoPro hero 3\n\nSubscribe for more ski jumping videos from the most recognized hills in the world"
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "eKc3oX8927U",
+   "ch": "Daviiskijumper",
+   "cid": "UCC6lbFAW7AzbwE6WqTYcZVA",
+   "date": "2021-12-28",
+   "title": "Średnie Krokiwe Zakopane🇵🇱 || Trening K95 || Helmet camera |",
+   "views": 2032,
+   "desc": ""
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "uKFxEnNyyxQ",
+   "ch": "nikita khasanov",
+   "cid": "UC_pUQoheOOkKTaXiwM4Kurg",
+   "date": "2021-03-26",
+   "title": "Ski jumping BLUE BIRD helmet camera",
+   "views": 1563,
+   "desc": ""
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "l8XrYOQFhNs",
+   "ch": "team taku Channel",
+   "cid": "UCjW0oXdzvYuNd0ZlqyAJtcg",
+   "date": "2020-01-28",
+   "title": "【360°VR Helmet camera】-Taku Takeuchi 竹内択with GoPro MAX- Ski ",
+   "views": 1579,
+   "desc": "-team taku official YouTube-\n\n\n\nクラウドファンディング　無事皆さまのおかげで大成功しました。ありがとうございました🙇‍♂️\n\nCampfire→ https://camp-fire.jp/projects/view/209425\n\nHP: https://taku-takeuchi.com/\n\nLINE: http://nav.cx/fE1uKJX\n\nInstagram: https://www.instagram.com/teamtakuofficial/\n\nAthlete info\n\nTaku Takeuchi\ninstagram: https://www."
+  },
+  {
+   "q": "ski jumping helmet camera",
+   "vid": "_j6aoW90jgo",
+   "ch": "team taku Channel",
+   "cid": "UCjW0oXdzvYuNd0ZlqyAJtcg",
+   "date": "2020-01-27",
+   "title": "【Helmet camera】-Taku Takeuchi with GoPro MAX- Ski jumping in",
+   "views": 1477,
+   "desc": "-team taku official YouTube-\n\n\n\nクラウドファンディング　無事皆さまのおかげで大成功しました。ありがとうございました🙇‍♂️\n\nCampfire→ https://camp-fire.jp/projects/view/209425\n\nHP: https://taku-takeuchi.com/\n\nLINE: http://nav.cx/fE1uKJX\n\nInstagram: https://www.instagram.com/teamtakuofficial/\n\nAthlete info\n\nTaku Takeuchi\ninstagram: https://www."
+  },
+  {
+   "q": "ski jump inrun ice track",
+   "vid": "d6l5-6_gsTk",
+   "ch": "Olympic Games",
+   "cid": "UCTl3QQTvqHFjurroKxexy2Q",
+   "date": "2026-02-07",
+   "title": "Why are they blow-drying a ski jump?! 💨",
+   "views": 79481606,
+   "desc": "Re-live the #MilanoCortina2026 action: https://go.olympics.com/watch\n\nThis isn't just satisfying to watch—it's critical safety work.\nSki jump crews use industrial leaf blowers to remove moisture and ice from the in-run. At speeds reaching 90km/h, even small amounts of water can affect an athlete's r"
+  },
+  {
+   "q": "ski jump inrun ice track",
+   "vid": "J_miQt7ojWc",
+   "ch": "Tech Today",
+   "cid": "UCYWDgUIB5HSb_GcdXxc_THw",
+   "date": "2026-02-08",
+   "title": "Why Are Leaf Blowers Used at the Olympics?",
+   "views": 20640,
+   "desc": "Did you know that in Italy They blow-dry ski jumps to remove moisture and prevent ice from forming on the inrun/track. \n\nCredits: olympics"
+  },
+  {
+   "q": "ski jump inrun ice track",
+   "vid": "A08SbVCqts0",
+   "ch": "TODAY",
+   "cid": "UChDKyKQ59fYz3JO2fl0Z6sg",
+   "date": "2026-02-10",
+   "title": "See How the Ski Jump Track is Kept Safe — Using Blow Dryers!",
+   "views": 2791,
+   "desc": "The crew responsible for drying the ski jump between competitors at the Milan Cortina Winter Olympics use industrial leaf blowers to remove moisture and ice from the in-run because at nearly 60 mph, even a tiny patch of moisture can be dangerous.\n\n» Subscribe to TODAY: https://www.youtube.com/@TODAY"
+  },
+  {
+   "q": "Loomis leaf blower ski jump",
+   "vid": "Zyb-DidvG_M",
+   "ch": "Top News 1",
+   "cid": "UC-eHIoDpZx51DenAv_TUk3A",
+   "date": "2026-02-19",
+   "title": "team USA Ben Loomis hits leaf blower scary Olympic moment ❄️",
+   "views": 5658,
+   "desc": ""
+  },
+  {
+   "q": "Loomis leaf blower ski jump",
+   "vid": "ERnwdmIKTzM",
+   "ch": "V4VIRAL ",
+   "cid": "UCkgQaOaQP5REbbkx2v_ymQg",
+   "date": "2026-02-19",
+   "title": "Team USA Olympics star narrowly avoids &#39;horror&#39; acci",
+   "views": 2114,
+   "desc": "Team USA Olympics star narrowly avoids horror accident after colliding with leaf blower on high-speed ski jump\nTeam USA Olympics star narrowly avoids 'horror' accident after colliding with leafblower on high-speed ski jump.\n\nShare this video: Video: Team USA Olympics star narrowly avoids 'horror' ac"
+  },
+  {
+   "q": "Loomis leaf blower ski jump",
+   "vid": "glole4CxU1w",
+   "ch": "USAsn News",
+   "cid": "UC0nRtO-757r2zAjHUX7Ibbg",
+   "date": "2026-02-20",
+   "title": "US ski jumper Ben Loomis avoids Olympic mishap after being s",
+   "views": 1118,
+   "desc": "Ben Loomis narrowly avoids mishap after leaf blower collision at Milan-Cortina Games.\n\nUS ski jumper Ben Loomis avoids Olympic mishap after being struck by leaf blower on mountain.\n\n\nBen Loomis, US ski jumper, 2026 Winter Olympics, Milan-Cortina, Nordic combined, Olympic mishap, ski jumping accident"
+  },
+  {
+   "q": "Loomis leaf blower ski jump",
+   "vid": "gCWDicRsIIU",
+   "ch": "ALLPLAY USA",
+   "cid": "UCY3luyNuzLi0hgQ-7U-qMdQ",
+   "date": "2026-02-20",
+   "title": "US ski jumper Ben Loomis avoids Olympic mishap after being s",
+   "views": 1047,
+   "desc": "US ski jumper Ben Loomis avoids Olympic mishap after being struck by leaf blower on mountain.\n\n\n\n#WinterOlympics2026\n#BenLoomis\n#OlympicDrama\n#SkiJumping\n#SportsNews\n#OlympicMoment\n#NordicCombined\n#WinterSports\n#OlympicSafety\n#ViralSports"
+  },
+  {
+   "q": "Loomis leaf blower ski jump",
+   "vid": "ZbEsy47lfo4",
+   "ch": "New News Network",
+   "cid": "UCIiYdWeQQabin5vf5f8LqWA",
+   "date": "2026-02-20",
+   "title": "Ben Loomis Survives Shocking Ski Jump Accident at Winter Oly",
+   "views": 189,
+   "desc": "Team USA’s Ben Loomis narrowly avoided a serious accident during the 2026 Milan-Cortina Winter Olympics. While racing down a 120-meter ski jump in the Nordic Combined Team Sprint, Loomis collided with a leaf blower left on the slope—but remarkably, he walked away uninjured. Watch how this Olympic sk"
+  },
+  {
+   "q": "Loomis leaf blower ski jump",
+   "vid": "Z2MLew_fJjA",
+   "ch": "TNG",
+   "cid": "UCTVUXBEj9D8ubtDMVrrAnCw",
+   "date": "2026-02-20",
+   "title": "American Athlete Ben Loomis Narrowly Avoids Accident During ",
+   "views": 87,
+   "desc": "During the Nordic Combined ski jumping round, organizers were clearing fresh snow from the landing area using equipment — including a leaf blower."
+  },
+  {
+   "q": "ski jump track preparation crew",
+   "vid": "5JPas0O4evk",
+   "ch": "mystery Tamil",
+   "cid": "UCKaZZOhYZsDGu6ICv1FKhPw",
+   "date": "2026-06-09",
+   "title": "⛷️ Ski Jump Track Prep! 😲 Why They Blow Air On Snow! #shorts",
+   "views": 1536133,
+   "desc": "In this video I explained why crew members use air blowers along ski jumping tracks to keep the snow clear of debris and moisture for a smooth, high-speed launch.\n#tamil #facts #factsintamil #tamilshorts \n\nThis video is made for educational purposes under fair use, and all video rights belong to the"
+  },
+  {
+   "q": "ski jump track preparation crew",
+   "vid": "Qmu2EIUoFuc",
+   "ch": "KARE 11",
+   "cid": "UC1JAwKeDUjN2orv5t7LWODQ",
+   "date": "2026-01-30",
+   "title": "U.S. Ski Jumping Team Set for 2026 Olympics | How the Sport ",
+   "views": 8394,
+   "desc": "The U.S. Olympic ski jumping team is expected to be finalized by Jan. 20 as athletes prepare for the 2026 Winter Olympics in Milan-Cortina. Ski jumping is one of the most daring events at the Games, combining speed, physics and precision as athletes launch off steep ramps and soar more than 300 feet"
+  },
+  {
+   "q": "ski jumping slow motion takeoff",
+   "vid": "E8rkww7PB2o",
+   "ch": "Detective Eyes",
+   "cid": "UCD6qTrieiuAmPaqQtS-SCog",
+   "date": "2026-06-28",
+   "title": "스키 점프 순간포착! 슬로모션 명장면",
+   "views": 1527,
+   "desc": "스키 선수가 점프대에서 힘차게 도약하는 순간!\n\n공중을 가르는 멋진 비행 장면부터 눈 위에 안정적으로 착지하는 순간까지 슬로모션으로 담았습니다.\n겨울 스포츠의 속도감, 긴장감, 그리고 완벽한 착지의 짜릿함을 끝까지 감상해보세요.\n\n#Shorts #스키점프 #스키 #슬로모션 #겨울스포츠 #익스트림스포츠 #스포츠쇼츠 #SkiJump #Skiing #SlowMotion #WinterSports"
+  },
+  {
+   "q": "ski jumping slow motion takeoff",
+   "vid": "uDwASAVQKOs",
+   "ch": "Aquabike Tricks",
+   "cid": "UCR97cRhYEGZFQ4dHFx1NOMQ",
    "date": "2026-11-15",
-   "title": "냥이들은 다한다는 챌린지를 우리냥이도 도전했더니ㅋㅋ #동물 #호랑이",
-   "views": 172447,
-   "desc": "냥이들이 한다는 휴지 찢기 챌린지에 도전했는데요🐯\n그런데 이번에 도전하는 냥이는 덩치부터 남다르죠.\n앞발 대신 꼬리로 도전하는데 표정은 세상 태연하네요.\n이 정도는 아무것도 아니라는 듯 여유까지 부리네요ㅋㅋ  \n\n#호랑이 #호랑이영상 #호랑이꼬리 #대형고양이 #고양이과 #맹수 #귀여운호랑이 #고양이챌린지 #동물챌린지 #휴지챌린지 #휴지찢기 #동물반응 #귀여운동물 #웃긴동물 #신기한동물 #동물영상 #동물쇼츠 #펫파라치 #유튜브쇼츠 #shorts"
+   "title": "Splash and Flip! Jet Ski Freestyle | Aquabike Takeoff, Flip ",
+   "views": 1230,
+   "desc": "Splash and flip! 🌊🔥 Watch this jet ski freestyle trick at full speed, then stay to the end for the slow-motion replay. You’ll see the aquabike leave the water, rotate in the air, and come back down through the spray.\n\nThe first pass gives you the whole move in one shot. The replay gives you time to "
   },
   {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "buNnKG0z6nU",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-14",
-   "title": "아기냥이가 절대 손을 잡지 않으려고 하는 이유ㅋㅋ #동물 #호랑이",
-   "views": 185791,
-   "desc": "아기 호랑이의 앞발을 살며시 잡아봤는데요🐯\n손이 닿을 때마다 쏙 빼면서 거절하죠.\n한 번만 잡자고 부탁해도 눈길조차 안 주는데요.\n작고 귀여워도 의사 표현만큼은 확실하네요ㅋㅋ  \n\n#아기호랑이 #새끼호랑이 #호랑이 #호랑이영상 #귀여운호랑이 #아기맹수 #맹수 #아기동물 #귀여운동물 #웃긴동물 #동물반응 #동물행동 #동물영상 #동물일상 #동물의세계 #힐링영상 #동물쇼츠 #펫파라치 #유튜브쇼츠 #shorts\n\n🎵Music provided by 브금대통령\n🎵Track : 뀨 - https://youtu.be/tdxT6sukHyo"
+   "q": "ski jumping slow motion takeoff",
+   "vid": "LocmDYgztXM",
+   "ch": "AndroCarSim",
+   "cid": "UCkQ-BtI4zUl670gsOdr9DYQ",
+   "date": "2026-04-20",
+   "title": "New Indian Car Simulator 3D - Driving Super Jeep in village ",
+   "views": 153,
+   "desc": "Jump into an adrenaline-packed session of New Indian Car Simulator 3D as I take the Super Jeep for a full-throttle tour of a lively village — and attempt insane ski-jump stunts along the way. In this video you'll see aggressive off-road driving, turbo-powered launches, and precise landings as I test"
   },
   {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "jIhCZ_juZpg",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-12",
-   "title": "야생호랑이가 산다길래 구경하러 갔다가 생긴 일ㅋㅋ #동물 #호랑이",
-   "views": 147863,
-   "desc": "야생 호랑이가 산다길래 구경하러 갔는데요🐯\n숲에서 진짜 호랑이가 나타나자 비명이 터져 나오죠.\n도로 바로 옆까지 다가오는 모습에 긴장감이 확 달라지는데요.\n화면으로 볼 때와는 차원이 다른 야생 호랑이의 존재감ㄷㄷ  \n\n#호랑이 #야생호랑이 #호랑이영상 #호랑이실물 #맹수 #야생동물 #야생 #동물 #동물영상 #동물의세계 #맹수의세계 #최상위포식자 #호랑이출몰 #야생동물관찰 #놀라운동물 #동물쇼츠 #펫파라치 #쇼츠 #유튜브쇼츠 #shorts"
+   "q": "ski jump inrun snow fall",
+   "vid": "4edRxeCc92U",
+   "ch": "Jakub_Fuller6",
+   "cid": "UCU6QA_U7vkqXJD8eIwk_IPA",
+   "date": "2020-09-21",
+   "title": "Gopro Ski Jumping - Norge k70 New Inrun",
+   "views": 2291,
+   "desc": "Oh Yeahhhhh, new inrun"
   },
   {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "EVBSEzbpWYE",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-07",
-   "title": "휴일에 늦잠 자는 줄냥이를 깨웠더니 벌어진 일ㅋㅋ #동물 #호랑이",
-   "views": 115769,
-   "desc": "달콤한 휴일에 늦잠을 즐기던 호랑이 🐯\n아무리 깨워도 일어날 생각이 없어 보이는데요.\n겨우 몸을 일으키더니 한참 멍하니 고민하기 시작하죠 😂\n밖에 나와서도 하품만 하는 모습이 꼭 우리 같네요 ❤️\n\n#shorts #동물 #호랑이 #호랑이영상 #귀여운호랑이 #웃긴호랑이 #호랑이일상 #호랑이하품 #호랑이낮잠 #맹수 #야생동물 #고양잇과 #동물쇼츠 #동물영상 #귀여운동물 #웃긴동물 #동물행동 #동물반응 #힐링영상 #동물사랑\n\n🎵Music provided by 브금대통령\n🎵Track : 개억울 - https://youtu.be/zpI1I1"
-  },
-  {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "kKt1YsNoBXc",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-14",
-   "title": "우연히 만난 길냥이와 같이 산책하면서 하는 걸스토크ㅋㅋ #동물 #고양이",
-   "views": 74963,
-   "desc": "길에서 만난 냥이가 아이들 산책에 합류했는데요🐱\n꼬리를 세우고 나란히 걷는 모습이 꼭 친구 같죠.\n수다 떠는 사이에 자기도 자연스럽게 끼어드는데요.\n셋이 무슨 얘기 하는지 뒷모습만 봐도 즐거워 보이네요ㅋㅋ  \n\n#고양이 #길고양이 #길냥이 #산책냥이 #고양이산책 #고양이영상 #고양이일상 #귀여운고양이 #애교냥이 #개냥이 #고양이와아이 #동물과아이 #귀여운동물 #동물영상 #힐링영상 #힐링동물 #동물쇼츠 #펫파라치 #유튜브쇼츠 #shorts \n\n🎵Music provided by 브금대통령\n🎵Track : 날아라 슈퍼코기 - https:"
-  },
-  {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "HAghmYDwWm4",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-16",
-   "title": "단잠을 깨운 막내냥이에게 다가가 첫째냥이가 한 행동ㅋㅋ #동물 #사자",
-   "views": 57708,
-   "desc": "다 같이 단잠에 빠져 있던 사자들🦁\n막내가 재채기를 하자 옆에서 자던 첫째가 일어나는데요.\n잠 깨웠다고 혼내려나 싶더니 얼굴부터 살펴보죠.\n덩치는 커도 동생 챙기는 모습은 다정한 냥이네요ㅋㅋ  \n\n#사자 #백사자 #사자영상 #사자가족 #대형고양이 #고양이과 #맹수 #귀여운맹수 #동물가족 #동물교감 #동물반응 #동물일상 #귀여운동물 #웃긴동물 #힐링동물 #힐링영상 #동물쇼츠 #펫파라치 #유튜브쇼츠 #shortstory \n\n🎵Music provided by 브금대통령\n🎵Track : 개억울 - https://youtu.be/zpI1I1"
-  },
-  {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "5Ntp9Ah_doA",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-15",
-   "title": "아무리 둘이 친하다고 해도 같이 목줄을 하면 안되는 이유ㅋㅋ #동물 #강아지",
-   "views": 36988,
-   "desc": "같이 산책하라고 두 댕댕이의 목줄을 연결했는데요🐶\n나란히 볼일을 보다가 한 녀석이 먼저 출발해버리죠.\n아직 한창인 친구는 엉거주춤한 자세로 따라가는데요.\n아무리 친해도 화장실 타이밍까지 맞출 순 없네요ㅋㅋ  \n\n#강아지 #댕댕이 #반려견 #강아지산책 #댕댕이산책 #산책영상 #강아지목줄 #강아지친구 #강아지일상 #강아지영상 #웃긴강아지 #귀여운강아지 #강아지반응 #웃긴동물 #귀여운동물 #동물영상 #동물쇼츠 #펫파라치 #유튜브쇼츠 #shortsfunny \n\n🎵Music provided by 브금대통령\n🎵Track : 개억울 - http"
-  },
-  {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "Lq1ZjLGn17Q",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-09",
-   "title": "무례한 골댕이를 참교육한 허스키의 진짜 모습ㅋㅋ #동물 #허스키",
-   "views": 45275,
-   "desc": "무례하게 다가오는 골든리트리버에게 당당히 맞선 허스키 🐺\n용기 내서 화를 내며 골댕이를 물러나게 하는데요.\n그런데 골댕이가 떠나자마자 엄마 품에 안겨 덜덜 떨기 시작하죠 🥺\n사실은 자기도 무서웠지만 끝까지 용기를 냈던 거네요 ❤️\n\n#shorts #동물 #허스키 #시베리안허스키 #골든리트리버 #골댕이 #강아지 #댕댕이 #반려견 #허스키영상 #허스키반응 #강아지행동 #강아지반응 #강아지우정 #용감한강아지 #귀여운강아지 #감동동물 #동물쇼츠 #동물영상 #강아지쇼츠\n\n🎵Music provided by 브금대통령\n🎵Track : 꾸러기 표"
-  },
-  {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "ehiREHTjKmg",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-05",
-   "title": "오늘 처음 만난 길냥이에게 지갑 털릴 뻔했다니깐?!ㅋㅋ #동물 #고양이",
-   "views": 33153,
-   "desc": "오늘 처음 만난 길냥이에게 제대로 마음을 빼앗겼는데요 🐱\n처음 보는 사이인데도 묘하게 사람을 홀리는 녀석!\n이러다 정말 지갑까지 열어줄 뻔했네요 😂\n길에서 이런 냥이를 만난다면 그냥 지나칠 수 있을까요? ❤️\n\n#shorts #동물 #길냥이 #길고양이 #고양이 #냥이 #고양이영상 #고양이쇼츠 #귀여운고양이 #웃긴고양이 #길냥이일상 #길고양이영상 #고양이애교 #고양이반응 #고양이행동 #고양이집사 #동물쇼츠 #귀여운동물 #동물이야기 #고양이사랑\n\n🎵Music provided by 브금대통령\n🎵Track : 백수의 하루 - https:/"
-  },
-  {
-   "q": "펫파라치 ㅋㅋ",
-   "vid": "wmh6kdxokV0",
-   "ch": "펫파라치",
-   "cid": "UCnIREvUPsyF_JJ0xiG8CLOg",
-   "date": "2026-11-17",
-   "title": "퇴근길 도로 한복판에서 사랑 싸움하는 냥커플ㅋㅋ #동물 #고양이",
-   "views": 23885,
-   "desc": "퇴근길 도로 한복판에서 마주한 두 냥이🐱\n앞발을 맞댄 모습이 꼭 붙잡는 쪽과 떠나려는 쪽 같죠.\n한바탕 티격태격하더니 다시 마주 보고 앉는데요.\n둘만의 사랑싸움에 지나가던 인간만 눈치 보게 되네요ㅋㅋ  \n\n#고양이 #길고양이 #길냥이 #냥이 #고양이영상 #고양이일상 #고양이싸움 #고양이반응 #고양이행동 #냥커플 #사랑싸움 #티격태격 #웃긴고양이 #웃긴동물 #동물영상 #동물쇼츠 #펫파라치 #쇼츠 #유튜브쇼츠 #shorts"
+   "q": "ski jump inrun snow fall",
+   "vid": "Dhgg-6CQisU",
+   "ch": "Golf Handicapp: Track, Play, Improve",
+   "cid": "UC4gFaS63bjtHNPDr_nXvitw",
+   "date": "2026-09-15",
+   "title": "The Inrun: a 162 Yard Par 3 Played From the Top of a Ski Jum",
+   "views": 533,
+   "desc": "The 16th is a 162 yard par 3 played from the top of a ski jump. The tee sits on the start gate platform at the very top of the inrun tower, and the shot goes straight down the line of the jump to a green on the flat outrun, ringed by the empty spectator terraces. The first snow of the year is settli"
   }
  ]
 }
