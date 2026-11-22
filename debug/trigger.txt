@@ -1,2 +1,1 @@
-get 20261122-dannycho https://img.segye.com/content/image/2024/09/01/20240901509518.png bh1.png
-get 20261122-dannycho https://img.segye.com/content/image/2024/09/01/20240901509515.jpg bh2.jpg
+shot 20261122-pigeye https://syndication.twitter.com/srv/timeline-profile/screen-name/Jaemyung_Lee?lang=ko timeline
