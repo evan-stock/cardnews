@@ -1,0 +1,8 @@
+ERROR: [twitter] 2116370971066302619: No video could be found in this tweet
+영상 없는 글(인용글(영상 없음)): https://x.com/Jaemyung_Lee/status/2116370971066302619
+실패: https://x.com/Jaemyung_Lee/status/2116370971066302619
+total 16
+drwxr-xr-x 2 runner runner 4096 Nov 22 12:26 .
+drwxr-xr-x 3 runner runner 4096 Nov 22 12:26 ..
+-rw-r--r-- 1 runner runner  237 Nov 22 12:26 log.txt
+-rw-r--r-- 1 runner runner 1817 Nov 22 12:26 x1.json
