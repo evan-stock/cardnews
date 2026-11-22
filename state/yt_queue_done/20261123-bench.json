@@ -1,0 +1,72 @@
+{
+ "id": "20261123-bench",
+ "finished_at": "2026-11-23T01:46:46+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/49GtyUdeWe8",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench/video/y1.mp4",
+   "mb": 9.2,
+   "view_count": 2713793,
+   "title": "욕 마려운데 참는 고양이ㅋㅋ"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/HQfPaO4YZjQ",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench/video/y2.mp4",
+   "mb": 4.7,
+   "view_count": 398348,
+   "title": "귀여운 얼굴로 험한 욕(?)하는 고양이"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/SQxppQ4iUXM",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench/video/y3.mp4",
+   "mb": 4.3,
+   "view_count": 226189,
+   "title": "라우럴 욕하는 고양이 훈계하면 생기는 일 #고양이 #고양이쇼츠"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/FKph1lLkCy8",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench/video/y4.mp4",
+   "mb": 10.0,
+   "view_count": 2754845,
+   "title": "'롸우 니거'함부로 따라하면 큰일나는 이유"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/UQ3fSJHGWgU",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench/video/y5.mp4",
+   "mb": 6.6,
+   "view_count": 2074035,
+   "title": "집사에게 욕(?)하다 참교육 당한 고양이 ㅋㅋ"
+  },
+  {
+   "n": 6,
+   "url": "https://www.youtube.com/shorts/eQ7KYCdCi1I",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench/video/y6.mp4",
+   "mb": 3.6,
+   "view_count": 1698457,
+   "title": "길고양이에게 함부로 인사하면 안되는 이유(?)"
+  }
+ ]
+}
