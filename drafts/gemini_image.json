@@ -1,12 +1,12 @@
 {
- "_for": "ㅋㅋ상회 AI짤 4번 블프 택배: 사진 1장 (2026-11-22 10:32 사용자 선택 '4', 55원 안팎). 위 알림 화면은 직접 그림.",
+ "_for": "ㅋㅋ상회 AI짤 패딩: 사진 1장 (2026-11-22 10:36 사용자 '패딩', 55원 안팎). 위 카톡은 직접 그림.",
  "model": "gemini-2.5-flash-image",
  "style": "Photorealistic casual smartphone photo, natural indoor lighting, slightly imperfect amateur shot. No text, no logos, no brand marks anywhere.",
  "prompts": [
   {
-   "name": "kk_bf_parcels",
+   "name": "kk_padding_closet",
    "aspect": "4:3",
-   "prompt": "Inside a Korean apartment entrance (hyeongwan) seen from the living room side: the front door area is completely blocked by a tall messy tower of about ten plain brown cardboard delivery boxes and white plastic poly mailer bags of different sizes, piled up to chest height. A Korean middle-aged mom in a cozy home cardigan and house slippers stands next to the pile with her arms crossed, seen from behind and slightly to the side, staring at the boxes. Shoes scattered on the entrance floor, warm ceiling light, slightly cluttered real home. Plain boxes with no printed text or logos."
+   "prompt": "Inside a Korean studio apartment, an open wardrobe photographed straight on: the hanging rail is packed with about eight almost identical black long puffer coats (knee-length down parkas) squeezed side by side. On the floor in front of the wardrobe sits a freshly opened brown delivery box with yet another brand-new black long puffer coat spilling out of its plastic wrap, and a box cutter next to it. Warm evening room light, a bit cluttered, realistic amateur phone photo. Plain coats and box with no visible text or logos."
   }
  ]
 }
