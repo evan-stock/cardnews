@@ -25,8 +25,8 @@ if _a and _a[0] in ("shot", "get"):
                 except Exception: pass
                 if len(a) > 4 and a[4] == "font":  # 'shot <id> <url> <이름> font' = 앱처럼 보이게 Pretendard 글꼴로 바꿔 찍기(2026.11.22)
                     import base64
-                    fr = base64.b64encode(open("assets/fonts/Pretendard-Regular.otf", "rb").read()).decode()
-                    fb = base64.b64encode(open("assets/fonts/Pretendard-Bold.otf", "rb").read()).decode()
+                    fr = base64.b64encode(open("assets/fonts/Pretendard-Medium.otf", "rb").read()).decode()
+                    fb = base64.b64encode(open("assets/fonts/Pretendard-ExtraBold.otf", "rb").read()).decode()
                     pg.add_style_tag(content=f"@font-face{{font-family:PJ;src:url(data:font/otf;base64,{fr});font-weight:400}}"
                                              f"@font-face{{font-family:PJ;src:url(data:font/otf;base64,{fb});font-weight:700}}"
                                              "*{font-family:PJ,-apple-system,sans-serif !important}")
