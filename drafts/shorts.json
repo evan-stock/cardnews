@@ -1,51 +1,51 @@
 {
- "id": "20261121-t18-lifetest",
- "mode": "send",
+ "id": "20261122-t18",
+ "mode": "render",
  "format": "meme",
- "topic": "[채널 비교 실험 — 인생 댓글로 정함 채널] 첫 장면 정점형 1편(11.21 18:07): 산책 끝나고 하네스를 벗기고 발을 닦아 주자 으르렁대며 이빨까지 보이지만 발은 하나씩 꼬박꼬박 내주는 작은 흰 구조견(TikTok @fineboymiki, 310만+, Newsweek 2026.4.12 보도). 0초 = 원본 25.2초 찡그린 얼굴(이빨·혀) 클로즈업, 그다음 시간순: 하네스 벗기기 → 으르렁 + 발 내밀기 → 발 닦기 중 이빨 → 얼굴 닦기 → 꾹 참음 → 다 끝나자 폴짝폴짝. '~하면 안 되는 이유' 틀. 사실: AKC(2026.9) 으르렁은 놀이·만족·불편·스트레스를 알리는 개의 의사소통.",
+ "topic": "첫 장면 정점형 2편(11.22 18:07): 할머니 집에서 4주 지내고 1.5kg 쪄서 온 턱시도 고양이를 다이어트 시키자, 침대·러그·바닥·서랍장 어디서든 집사를 째려보고 마지막엔 고개를 휙 돌려 곁눈질(Instagram @sophiexxzgl, CatTime 2026.11.19 보도). 0초 = 원본 9.3초 가까이 다가온 정면 째려보기 클로즈업, 그다음 시간순. '~했다가 제대로 삐진 ○○' 틀(11.01 '살쪘다는 말 듣고 삐진 골든' 시리즈를 고양이로). 사실: APOP 2022 미국 고양이 61% 과체중·비만.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
- "bgm_start": 11.0,
- "bgm_volume": 0.85,
+ "bgm_start": 0.0,
+ "bgm_volume": 2.3,
  "sfx_max": 4,
  "hook": {
-  "t": "산책 끝나고 발 닦아 줬을 뿐인데\n'표정 실화냐ㅋㅋ'"
+  "t": "할머니 집 4주 다녀와서 1.5kg 찐 고양이\n'다이어트 시작하자 표정ㅋㅋ'"
  },
  "photo_credits": [
-  "TikTok @fineboymiki"
+  "Instagram @sophiexxzgl"
  ],
- "credit": "영상: TikTok @fineboymiki",
+ "credit": "영상: Instagram @sophiexxzgl",
  "sources": [
   {
-   "publisher": "TikTok @fineboymiki",
-   "url": "https://www.tiktok.com/@fineboymiki/video/7624282978985938199",
-   "date": "2026-04"
+   "publisher": "Instagram @sophiexxzgl",
+   "url": "https://www.instagram.com/reel/DfznQB6At2V/",
+   "date": "2026-11"
   },
   {
-   "publisher": "Newsweek - Rescue Dog's 'Spicy' Reaction After Walk Has Internet Losing It",
-   "url": "https://www.newsweek.com/rescue-dogs-spicy-reaction-after-walk-has-internet-losing-it-11812201",
-   "date": "2026-04-12"
+   "publisher": "CatTime - Cat Gives His Human the Side-Eye — Life After Grandma's Comes With Far Too Many Food Rules",
+   "url": "https://cattime.com/news/66505-cat-side-eye-grandma-food",
+   "date": "2026-11-19"
   },
   {
-   "publisher": "AKC - Why Dogs Growl and What Their Growls Really Mean (Stephanie Gibeault)",
-   "url": "https://www.akc.org/expert-advice/training/why-dogs-growl-and-how-to-handle-it/",
-   "date": "2026-09-15"
+   "publisher": "Association for Pet Obesity Prevention(APOP) - 2022 Survey Reveals Alarming Rates of Pet Obesity in the US",
+   "url": "https://www.petobesityprevention.org/articlesandnews/new-survey-reveals-alarming-rates-of-pet-obesity-in-the-us",
+   "date": "2022"
   }
  ],
  "yt": {
-  "title": "산책 끝난 강아지 발 닦아 주면 안 되는 이유ㅋㅋ #shorts",
-  "description": "산책 끝나고 발 좀 닦아 주려 했을 뿐인데ㅋㅋ 으르렁대고 이빨까지 보이면서\n정작 발은 하나씩 꼬박꼬박 다 내주는 강아지.\n\n미국애견협회(AKC)에 따르면 으르렁거림은 놀이·만족·불편·스트레스를 알리는 개의 의사소통 방법이래요.\n\n여러분 댕댕이도 발 닦을 때 투덜대나요?\n\n영상: TikTok @fineboymiki\n참고: Newsweek, AKC\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#강아지 #댕댕이 #산책 #발닦기 #귀여운동물 #동물쇼츠 #반려견",
+  "title": "할머니 집에서 살쪄 와서 다이어트 시켰다가 제대로 삐진 고양이ㅋㅋ #shorts",
+  "description": "할머니 집에서 4주 지내고 1.5kg 쪄서 돌아온 고양이ㅋㅋ\n다이어트를 시작하자 집 안 어디서든 집사를 이렇게 째려본대요.\n\n미국 반려동물비만예방협회(APOP) 2022년 조사에선 미국 고양이의 61%가 과체중이나 비만이었대요.\n\n여러분 냥이도 사료 줄이면 이렇게 쳐다보나요?\n\n영상: Instagram @sophiexxzgl\n참고: CatTime, APOP\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#고양이 #냥이 #다이어트 #삐진고양이 #귀여운동물 #동물쇼츠 #오늘의털뭉치",
   "tags": [
-   "강아지",
-   "댕댕이",
-   "산책",
-   "발닦기",
-   "으르렁",
+   "고양이",
+   "냥이",
+   "고양이다이어트",
+   "삐진고양이",
+   "턱시도고양이",
    "귀여운동물",
-   "동물쇼츠"
+   "동물쇼츠",
+   "오늘의털뭉치"
   ],
   "category": 15,
-  "privacy": "public",
-  "channel": "life"
+  "privacy": "public"
  },
  "publish_now": true,
  "style": {
@@ -53,209 +53,153 @@
  },
  "scenes": [
   {
-   "dur": 2.2,
+   "dur": 2.0,
    "video": {
-    "src": "video/m1.mp4",
-    "start": 25.2,
-    "zoom": 1.0,
+    "src": "video/v1.mp4",
+    "start": 9.3,
+    "zoom": 1.45,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 1.2
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(으르르르...)",
+     "t": "(째릿...)",
      "x": 0.5,
-     "y": 0.1,
+     "y": 0.08,
      "at": 0.0,
-     "to": 2.2,
+     "to": 2.0,
      "s": "dundun",
      "sv": 0.7
     },
     {
      "k": "talk",
-     "t": "말 시키지 마.",
-     "x": 0.3,
-     "y": 0.3,
-     "at": 0.2,
-     "to": 2.2
-    }
-   ]
-  },
-  {
-   "say": "산책 끝나고 발만 닦아 주려 했을 뿐인데요,",
-   "video": {
-    "src": "video/m1.mp4",
-    "start": 1.0,
-    "zoom": 1.15,
-    "x": 0.5,
-    "y": 0.3,
-    "audio": 0.3,
-    "blur": [
-     [
-      70,
-      705,
-      440,
-      45
-     ]
-    ]
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "...또 그거야?",
-     "x": 0.7,
+     "t": "사료 반 그릇 실화냐?",
+     "x": 0.5,
      "y": 0.2,
-     "at": 1.0
+     "at": 0.2,
+     "to": 2.0
     }
    ]
   },
   {
-   "dur": 2.5,
+   "say": "할머니 집에서 4주 지내고 1.5kg 쪄서 왔대요,",
    "video": {
-    "src": "video/m1.mp4",
-    "start": 8.4,
-    "zoom": 1.2,
-    "x": 0.4,
-    "y": 0.7,
-    "audio": 3.0,
-    "blur": [
-     [
-      70,
-      705,
-      440,
-      45
-     ]
-    ]
+    "src": "video/v1.mp4",
+    "start": 0.0,
+    "zoom": 1.45,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "할머니는 다 줬는데...",
+     "x": 0.6,
+     "y": 0.15,
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "say": "그래서 다이어트를 시작했을 뿐인데요.",
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 4.5,
+    "zoom": 1.45,
+    "x": 0.5,
+    "y": 0.1,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "...너 누구 편이야",
+     "x": 0.5,
+     "y": 0.12,
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "dur": 2.0,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 7.0,
+    "zoom": 1.45,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(으르렁)",
+     "t": "(조용히 노려보는 중)",
      "x": 0.5,
-     "y": 0.1,
+     "y": 0.08,
      "at": 0.0,
-     "to": 2.5,
-     "s": "boing",
+     "to": 2.0,
+     "s": "question",
      "sv": 0.6
     },
     {
      "k": "talk",
-     "t": "발? 줄게. 근데 기분 나빠.",
+     "t": "간식 줄 때까지 본다",
      "x": 0.5,
-     "y": 0.3,
+     "y": 0.2,
      "at": 0.3,
-     "to": 2.5
+     "to": 2.0
     }
    ]
   },
   {
-   "say": "으르렁대면서도 발은 꼬박꼬박 내줍니다.",
+   "say": "집 안 어디서든 이렇게 쳐다본대요.",
    "video": {
-    "src": "video/m1.mp4",
-    "start": 13.0,
-    "zoom": 1.0,
+    "src": "video/v1.mp4",
+    "start": 11.4,
+    "zoom": 1.45,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 0.3,
-    "blur": [
-     [
-      70,
-      705,
-      440,
-      45
-     ]
-    ]
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "자, 다음 발.",
-     "x": 0.7,
-     "y": 0.25,
-     "at": 1.0
+     "t": "감시 중이다",
+     "x": 0.65,
+     "y": 0.12,
+     "at": 0.4
     }
    ]
   },
   {
-   "dur": 2.3,
+   "say": "미국 고양이 61%가 과체중이래요.",
    "video": {
-    "src": "video/m1.mp4",
-    "start": 28.0,
-    "zoom": 1.0,
+    "src": "video/v1.mp4",
+    "start": 13.5,
+    "zoom": 1.45,
     "x": 0.5,
-    "y": 0.5,
-    "audio": 1.0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(얼굴까지 닦임)",
-     "x": 0.5,
-     "y": 0.1,
-     "at": 0.0,
-     "to": 2.3,
-     "s": "pop",
-     "sv": 0.6
-    },
-    {
-     "k": "talk",
-     "t": "이건 계약에 없었잖아",
-     "x": 0.5,
-     "y": 0.28,
-     "at": 0.3,
-     "to": 2.3
-    }
-   ]
-  },
-  {
-   "say": "얼굴까지 닦이는 동안에도 꾹 참는데요,",
-   "video": {
-    "src": "video/m1.mp4",
-    "start": 30.5,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.3
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "참는 중이다...",
-     "x": 0.3,
-     "y": 0.25,
-     "at": 0.8
-    }
-   ]
-  },
-  {
-   "say": "으르렁거림도 강아지가 기분을 말하는 방법이래요.",
-   "video": {
-    "src": "video/m1.mp4",
-    "start": 38.6,
-    "zoom": 1.0,
-    "x": 0.5,
-    "y": 0.5,
-    "audio": 0.4
+    "y": 0.0,
+    "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "으르렁 = 놀이, 불편, 스트레스를 알리는 개의 말\n(미국애견협회 AKC, 2026)",
+     "t": "미국 고양이 61%가 과체중 또는 비만\n(미국 반려동물비만예방협회 APOP, 2022)",
      "x": 0.5,
-     "y": 0.12,
-     "at": 0.3,
+     "y": 0.06,
      "size": 48
     },
     {
      "k": "talk",
-     "t": "다 했으니까 간식 내놔",
+     "t": "흥. 난 뼈가 굵은 거야",
      "x": 0.5,
-     "y": 0.4,
-     "at": 2.6,
-     "s": "sparkle",
-     "sv": 0.6
+     "y": 0.28,
+     "at": 1.0,
+     "s": "boing",
+     "sv": 0.65
     }
    ]
   }
