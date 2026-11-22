@@ -2,7 +2,7 @@
  "id": "20261122-choiresign",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "manual": true,
  "created_at": "2026-11-22T12:32:11+09:00",
  "publish_at": "2026-11-22T12:32:11+09:00",
@@ -46,5 +46,8 @@
   "media/20261122-choiresign/04.jpg",
   "media/20261122-choiresign/05.jpg",
   "media/20261122-choiresign/06.jpg"
- ]
+ ],
+ "ig_media_id": "18090450029309405",
+ "permalink": "https://www.instagram.com/p/DgB2h04kboW/",
+ "published_at": "2026-11-22T12:35:47.234429+09:00"
 }
