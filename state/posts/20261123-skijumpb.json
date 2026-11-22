@@ -1,0 +1,38 @@
+{
+ "id": "20261123-skijumpb",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-23T01:39:04.283990+09:00",
+ "publish_at": "2026-11-23T01:39:04.284004+09:00",
+ "publish_now": true,
+ "topic": "[오늘의쓸모] [재제작] 스키점프대 송풍기 부대 — 초반 중계형 자막 → 3D 설명",
+ "sources": [],
+ "seconds": 23.7,
+ "tts": [
+  "없음(자막+음악)"
+ ],
+ "files": [
+  "media/20261123-skijump/short_card_b.mp4"
+ ],
+ "yt": {
+  "title": "스키점프대에 송풍기 수십 대가 늘어선 이유 #shorts",
+  "description": "올림픽 스키점프 출발 트랙 옆에 송풍기를 멘 요원 수십 명이 줄지어 바람을 쏘다가, 빨간 깃발이 올라가면 일제히 멈추고 그 순간 선수가 출발합니다.\n겨울 스키점프의 출발 트랙(인런)은 물을 얼려 만든 얼음 트랙이에요. 선수는 이 얼음 홈을 따라 시속 약 90km로 내려오는데, 그 위에 떨어진 눈 부스러기나 물기가 조금만 있어도 속도와 균형이 흔들릴 수 있어서 선수 한 명이 뛸 때마다 바람으로 날려 보냅니다.\n2026년 2월 19일 밀라노 코르티나 올림픽(이탈리아 프레다초) 노르딕 복합 단체 스프린트에서는, 늦게 치운 송풍기에 미국 선수 벤 루미스의 어깨가 부딪히기도 했습니다(다치지 않았고, 다시 뛸 기회를 받았지만 그 점프로 경기를 마쳤다고 밝혔어요).\n\n알고 나면 \"쓸모\" 있는 신기한 이유, 매일 올려요.\n\n출처: Olympic Games 공식 YouTube(2026.02.07), FIS 'Nordic Combined 101'(2025.08), Reuters(The Star 2026.02.19), Fox News(2026.02)\n영상: YouTube Olympic Games 'Why are they blow-drying a ski jump?!' https://www.youtube.com/shorts/d6l5-6_gsTk\n그래픽: 오늘의쓸모\n\n#스키점프 #올림픽 #밀라노코르티나 #송풍기 #동계올림픽 #겨울스포츠 #shorts",
+  "tags": [
+   "스키점프",
+   "올림픽",
+   "밀라노코르티나",
+   "송풍기",
+   "동계올림픽",
+   "인런",
+   "겨울스포츠",
+   "shorts"
+  ],
+  "category": 27,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "shop"
+ },
+ "app_file": "media/20261123-skijump/short_card_nomusic.mp4",
+ "tg_video": 3107,
+ "tg_msg": 3108
+}
