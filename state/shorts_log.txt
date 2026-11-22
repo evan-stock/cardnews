@@ -4,4 +4,4 @@
 장면 4/6 silent 누적 9.9초
 장면 5/6 typecast 누적 12.7초
 장면 6/6 typecast 누적 15.7초
-완성: /home/runner/work/cardnews/cardnews/media/20261122-t18/short.mp4 (15.7초, TTS ['silent', 'typecast'])
+완성: /home/runner/work/cardnews/cardnews/media/20261122-t18-lifetest/short.mp4 (15.7초, TTS ['silent', 'typecast'])

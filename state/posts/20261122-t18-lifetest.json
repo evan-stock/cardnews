@@ -1,0 +1,55 @@
+{
+ "id": "20261122-t18-lifetest",
+ "kind": "short",
+ "status": "pending",
+ "created_at": "2026-11-23T00:31:07.808405+09:00",
+ "publish_at": "2026-11-23T00:31:07.808427+09:00",
+ "publish_now": true,
+ "topic": "[채널 비교 실험 — 인생 댓글로 정함 채널, 사용자 11.23 \"오늘 올렸던거 비교로 올려봐\"] 첫 장면 정점형 2편(11.22 18:07): 할머니 집에서 4주 지내고 1.5kg 쪄서 온 턱시도 고양이를 다이어트 시키자, 침대·러그·바닥·서랍장 어디서든 집사를 째려보고 마지막엔 고개를 휙 돌려 곁눈질(Instagram @sophiexxzgl, CatTime 2026.11.19 보도). 0초 = 원본 9.3초 가까이 다가온 정면 째려보기 클로즈업, 그다음 시간순. '~했다가 제대로 삐진 ○○' 틀(11.01 '살쪘다는 말 듣고 삐진 골든' 시리즈를 고양이로). 사실: APOP 2022 미국 고양이 61% 과체중·비만.",
+ "sources": [
+  {
+   "publisher": "Instagram @sophiexxzgl",
+   "url": "https://www.instagram.com/reel/DfznQB6At2V/",
+   "date": "2026-11"
+  },
+  {
+   "publisher": "CatTime - Cat Gives His Human the Side-Eye — Life After Grandma's Comes With Far Too Many Food Rules",
+   "url": "https://cattime.com/news/66505-cat-side-eye-grandma-food",
+   "date": "2026-11-19"
+  },
+  {
+   "publisher": "Association for Pet Obesity Prevention(APOP) - 2022 Survey Reveals Alarming Rates of Pet Obesity in the US",
+   "url": "https://www.petobesityprevention.org/articlesandnews/new-survey-reveals-alarming-rates-of-pet-obesity-in-the-us",
+   "date": "2022"
+  }
+ ],
+ "seconds": 15.7,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261122-t18-lifetest/short.mp4"
+ ],
+ "app_file": "media/20261122-t18-lifetest/short_nobgm.mp4",
+ "yt": {
+  "title": "할머니 집에서 살쪄 와서 다이어트 시켰다가 제대로 삐진 고양이ㅋㅋ #shorts",
+  "description": "할머니 집에서 4주 지내고 1.5kg 쪄서 돌아온 고양이ㅋㅋ\n다이어트를 시작하자 집 안 어디서든 집사를 이렇게 째려본대요.\n\n미국 반려동물비만예방협회(APOP) 2022년 조사에선 미국 고양이의 61%가 과체중이나 비만이었대요.\n\n여러분 냥이도 사료 줄이면 이렇게 쳐다보나요?\n\n영상: Instagram @sophiexxzgl\n참고: CatTime, APOP\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#고양이 #냥이 #다이어트 #삐진고양이 #귀여운동물 #동물쇼츠\n\n출처: Instagram @sophiexxzgl 2026-11, CatTime - Cat Gives His Human the Side-Eye — Life After Grandma's Comes With Far Too Many Food Rules 2026-11-19, Association for Pet Obesity Prevention(APOP) - 2022 Survey Reveals Alarming Rates of Pet Obesity in the US 2022\n사진·영상: Instagram @sophiexxzgl\n음성: Typecast\n\n#shorts #고양이 #냥이 #고양이다이어트 #삐진고양이",
+  "tags": [
+   "고양이",
+   "냥이",
+   "고양이다이어트",
+   "삐진고양이",
+   "턱시도고양이",
+   "귀여운동물",
+   "동물쇼츠"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": "life"
+ },
+ "draft_hash": "00d880dea113",
+ "tg_video": 3101,
+ "tg_msg": 3102
+}
