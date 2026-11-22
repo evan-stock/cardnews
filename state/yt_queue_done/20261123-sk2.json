@@ -1,0 +1,55 @@
+{
+ "id": "20261123-sk2",
+ "finished_at": "2026-11-23T01:48:57+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/jlGW8COHX70",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-sk2/video/y1.mp4",
+   "mb": 23.9,
+   "view_count": 1309415,
+   "title": "Jan Hoerl - 97.5m - Planica 24.03.2022 - Dangerous Situation on the Inrun"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/Nrq8zwQR7rQ",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-sk2/video/y2.mp4",
+   "mb": 29.8,
+   "view_count": 1327017,
+   "title": "Helmet Camera Jump | Strachoczanka K-25 | GoPro Hero 7"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/A08SbVCqts0",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "You might want to use a VPN or a proxy server (with --proxy) to workaround."
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/Zyb-DidvG_M",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-sk2/video/y4.mp4",
+   "mb": 11.0,
+   "view_count": 5658,
+   "title": "team USA Ben Loomis hits leaf blower scary Olympic moment ❄️"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/n9sGRvMhacM",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+  }
+ ]
+}
