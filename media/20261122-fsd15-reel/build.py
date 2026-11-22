@@ -7,7 +7,7 @@ D = 'media/20261122-fsd15-reel'; VD = 'media/20261122-fsd15/video'
 R = f'{D}/work'; os.makedirs(R, exist_ok=True); os.makedirs(f'{D}/cand', exist_ok=True)
 FB = 'assets/fonts/Pretendard-Black.otf'; FM = 'assets/fonts/Pretendard-Medium.otf'; FX = 'assets/fonts/Pretendard-ExtraBold.otf'
 YE = (255, 216, 77); BY0, BH = 660, 720
-TAG = '테슬라 FSD V15'; L = ['테슬라 자율주행 화면', '이제 진짜', 'GTA 같다']
+TAG = '테슬라 FSD V15'; L = ['GTA 아닙니다', '테슬라 자율주행', '실제 화면']
 T = '테슬라 공식 영상'; X = 'X @SawyerMerritt 주행 영상'
 
 
@@ -34,7 +34,7 @@ def cap(i, small, b1, b2):
 top()
 WIDE = 'scale=1080:608,pad=1080:720:0:56:black'
 S = [  # (영상, 시작, 끝, [(원본 시각 시작, 끝, 출처, 줄1, 줄2)])
-    ('v3', 2.0, 6.0, [(2.0, 6.0, X, 'GTA 아님 주의', '테슬라 자율주행 실제 화면')]),
+    ('v3', 2.0, 6.0, [(2.0, 6.0, X, '테슬라 FSD V15', '차 안 모니터 그대로')]),
     ('v7', 2.0, 5.5, [(2.0, 5.5, T, '테슬라 FSD V15', '드디어 배포 시작')]),
     ('v1', 2.0, 8.0, [(2.0, 8.0, X, "새 화면 '리얼리티 뷰'", '차 위에서 내려다보듯')]),
     ('v3', 12.0, 17.0, [(12.0, 17.0, X, '어디로 꺾을지', '화면에 화살표로')]),
@@ -66,5 +66,5 @@ subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i
                 '-c:a', 'aac', '-b:a', '160k', '-t', f'{TOT:.2f}', '-movflags', '+faststart', f'{D}/reel.mp4'], check=True)
 subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', '4.0', '-i', f'{VD}/v3.mp4', '-frames:v', '1', '-vf', WIDE, f'{R}/cov_band.jpg'], check=True)
 bg = Image.new('RGB', (1080, 1920), (0, 0, 0)); bg.paste(Image.open(f'{R}/cov_band.jpg'), (0, 330)); bg.save(f'{R}/cov_bg.jpg', quality=95)
-subprocess.run(['python3', 'scripts/reel_overlay.py', f'{D}/cand/overlay.png', '테슬라 자율주행 화면\n이제 GTA 같다', '', f'{R}/cov_bg.jpg', f'{D}/reel_cover.jpg'], check=True)
+subprocess.run(['python3', 'scripts/reel_overlay.py', f'{D}/cand/overlay.png', 'GTA 아닙니다\n테슬라 실제 화면', '', f'{R}/cov_bg.jpg', f'{D}/reel_cover.jpg'], check=True)
 print('done', round(TOT, 1))
