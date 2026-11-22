@@ -1,0 +1,22 @@
+{
+ "id": "20261123-cntest3",
+ "finished_at": "2026-11-23T02:23:24+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.douyin.com/video/7660723901228334001",
+   "ok": false,
+   "cookies": true,
+   "ffmpeg": true,
+   "error": "ERROR: could not find chrome cookies database in \"/Users/jongyeobkim/Library/Application Support/Google/Chrome\""
+  },
+  {
+   "n": 2,
+   "url": "https://www.bilibili.com/video/av115937659323547/",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Got error: HTTP Error 567: Unknown Status. Giving up after 10 retries"
+  }
+ ]
+}
