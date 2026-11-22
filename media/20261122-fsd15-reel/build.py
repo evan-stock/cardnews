@@ -7,7 +7,7 @@ D = 'media/20261122-fsd15-reel'; VD = 'media/20261122-fsd15/video'
 R = f'{D}/work'; os.makedirs(R, exist_ok=True); os.makedirs(f'{D}/cand', exist_ok=True)
 FB = 'assets/fonts/Pretendard-Black.otf'; FM = 'assets/fonts/Pretendard-Medium.otf'; FX = 'assets/fonts/Pretendard-ExtraBold.otf'
 YE = (255, 216, 77); BY0, BH = 660, 720
-TAG = '테슬라 FSD V15'; L = ['테슬라 자율주행', '화면이 이렇게', '바뀌었다']
+TAG = '테슬라 FSD V15'; L = ['테슬라 자율주행 화면', '이제 진짜', 'GTA 같다']
 T = '테슬라 공식 영상'; X = 'X @SawyerMerritt 주행 영상'
 
 
@@ -34,9 +34,10 @@ def cap(i, small, b1, b2):
 top()
 WIDE = 'scale=1080:608,pad=1080:720:0:56:black'
 S = [  # (영상, 시작, 끝, [(원본 시각 시작, 끝, 출처, 줄1, 줄2)])
-    ('v7', 2.0, 6.5, [(2.0, 6.5, T, '테슬라 FSD V15', '드디어 배포 시작')]),
+    ('v3', 2.0, 6.0, [(2.0, 6.0, X, 'GTA 아님 주의', '테슬라 자율주행 실제 화면')]),
+    ('v7', 2.0, 5.5, [(2.0, 5.5, T, '테슬라 FSD V15', '드디어 배포 시작')]),
     ('v1', 2.0, 8.0, [(2.0, 8.0, X, "새 화면 '리얼리티 뷰'", '차 위에서 내려다보듯')]),
-    ('v3', 6.0, 12.0, [(6.0, 12.0, X, '어디로 꺾을지', '화면에 화살표로')]),
+    ('v3', 12.0, 17.0, [(12.0, 17.0, X, '어디로 꺾을지', '화면에 화살표로')]),
     ('v3', 26.0, 32.0, [(26.0, 32.0, X, '회전교차로도', '알아서 통과')]),
     ('v6', 1.5, 6.5, [(1.5, 6.5, X, '차선·노면 표시까지', '실시간으로 그린다')]),
     ('v4', 2.0, 9.0, [(2.0, 9.0, X, '주차는', '빈자리 골라서 척')]),
@@ -63,7 +64,7 @@ open(f'{R}/list.txt', 'w').write(''.join(f"file '{s}'\n" for s in segs))
 subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', f'{R}/list.txt', '-stream_loop', '-1', '-i', f'{VD}/v7.mp4',
                 '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-af', f'atrim=0:{TOT:.2f},afade=t=out:st={TOT - 1.2:.2f}:d=1.2,loudnorm=I=-16:TP=-1.5',
                 '-c:a', 'aac', '-b:a', '160k', '-t', f'{TOT:.2f}', '-movflags', '+faststart', f'{D}/reel.mp4'], check=True)
-subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', '4.0', '-i', f'{VD}/v1.mp4', '-frames:v', '1', '-vf', WIDE, f'{R}/cov_band.jpg'], check=True)
+subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', '4.0', '-i', f'{VD}/v3.mp4', '-frames:v', '1', '-vf', WIDE, f'{R}/cov_band.jpg'], check=True)
 bg = Image.new('RGB', (1080, 1920), (0, 0, 0)); bg.paste(Image.open(f'{R}/cov_band.jpg'), (0, 330)); bg.save(f'{R}/cov_bg.jpg', quality=95)
-subprocess.run(['python3', 'scripts/reel_overlay.py', f'{D}/cand/overlay.png', '테슬라 자율주행\n화면이 이렇게 바뀜', '', f'{R}/cov_bg.jpg', f'{D}/reel_cover.jpg'], check=True)
+subprocess.run(['python3', 'scripts/reel_overlay.py', f'{D}/cand/overlay.png', '테슬라 자율주행 화면\n이제 GTA 같다', '', f'{R}/cov_bg.jpg', f'{D}/reel_cover.jpg'], check=True)
 print('done', round(TOT, 1))
