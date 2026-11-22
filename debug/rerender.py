@@ -23,6 +23,14 @@ if _a and _a[0] in ("shot", "get"):
                 r = pg.goto(a[2], wait_until="domcontentloaded", timeout=60000); pg.wait_for_timeout(5000)
                 try: pg.wait_for_load_state("networkidle", timeout=15000); pg.evaluate("document.fonts.ready")
                 except Exception: pass
+                if len(a) > 4 and a[4] == "font":  # 'shot <id> <url> <이름> font' = 앱처럼 보이게 Pretendard 글꼴로 바꿔 찍기(2026.11.22)
+                    import base64
+                    fr = base64.b64encode(open("assets/fonts/Pretendard-Regular.otf", "rb").read()).decode()
+                    fb = base64.b64encode(open("assets/fonts/Pretendard-Bold.otf", "rb").read()).decode()
+                    pg.add_style_tag(content=f"@font-face{{font-family:PJ;src:url(data:font/otf;base64,{fr});font-weight:400}}"
+                                             f"@font-face{{font-family:PJ;src:url(data:font/otf;base64,{fb});font-weight:700}}"
+                                             "*{font-family:PJ,-apple-system,sans-serif !important}")
+                    pg.wait_for_timeout(1500)
                 print("shot", r.status if r else None, pg.title(), a[2])
                 pg.screenshot(path=str(out / f"{name}.jpg"), full_page=True, type="jpeg", quality=82)
                 open(out / f"{name}.txt", "w").write(pg.inner_text("body") + "\n\n[링크]\n" + "\n".join(pg.eval_on_selector_all("a[href]", "els => els.map(e => e.href + ' ' + e.innerText.slice(0,60).replace(/\\n/g,' '))"))); pg.close()
