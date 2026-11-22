@@ -1,12 +1,13 @@
 {
- "_for": "ㅋㅋ상회 카톡 짤 바탕: 손에 든 폰(화면 초록) 1장 (2026-11-22 02:21 사용자 승인). 화면 자리에 카톡을 끼워 재사용.",
- "style": "Photorealistic casual smartphone photo, natural indoor lighting, slightly imperfect handheld amateur shot. No text, no logos, no brand marks anywhere.",
+ "_for": "ㅋㅋ상회 멘헤라 여친 카톡: 손에 든 폰 사진 1장 (2026-11-22 10:11 사용자 충전·요청). 글씨는 받은 뒤 원문으로 고쳐 넣음.",
+ "model": "gemini-2.5-flash-image",
+ "style": "Photorealistic casual smartphone photo taken by another phone, slightly imperfect handheld amateur shot, natural indoor lighting, visible screen moire and slight glare.",
+ "refs": ["drafts/refs/kk_menhera_src.jpg"],
  "prompts": [
   {
-   "name": "kk_hand_phone_green",
+   "name": "kk_menhera_phone",
    "aspect": "4:5",
-   "prompt": "A person's hand holding a modern black smartphone upright in portrait orientation, photographed from slightly above by another phone. The phone fills most of the frame, tilted slightly to the left, with thumb resting on the left edge of the bezel and fingers wrapped behind. The entire phone screen is a perfectly flat, uniform, solid bright chroma-key green (#00FF00) with no icons, no reflections on it, and clearly visible straight screen edges and rounded corners. Background is a blurry cozy room with a sofa and warm lamp light. The whole phone including all four screen corners is visible inside the frame."
+   "prompt": "A person's left hand holding a modern iPhone in a clear case upright in portrait orientation, photographed from slightly above by another phone in a dim bedroom at night. The phone screen fills most of the frame and shows a messaging app chat exactly like the attached reference image: dark purple background with soft blurred heart shapes, rounded semi-transparent purple-gray message bubbles on the left with white Korean text, a gray default profile avatar next to the last two bubbles, and two red heart emojis. Keep the same bubbles, same line breaks and same text as the reference, including the small blurred mosaic on one word in the last bubble. The top of the screen shows a chat header with a back arrow and a gray avatar. No other text, no logos, no watermarks."
   }
- ],
- "model": "gemini-2.5-flash-image"
+ ]
 }
