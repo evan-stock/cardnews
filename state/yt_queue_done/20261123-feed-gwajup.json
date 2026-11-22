@@ -1,0 +1,14 @@
+{
+ "id": "20261123-feed-gwajup",
+ "finished_at": "2026-11-23T01:30:32+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=CDHTSVHf1Us",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "[download] Download completed"
+  }
+ ]
+}
