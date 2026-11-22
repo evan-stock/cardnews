@@ -54,7 +54,7 @@ def panel(rows, h=640, gap=None):
 
 
 
-fit(op(O / "press05.jpg"), W, H, (.5, .15)).save(O / "cover_bg.jpg", quality=95)
+fit(op(O / "cover_src.jpg"), W, H, (.28, .2)).save(O / "cover_bg.jpg", quality=95)
 
 # 2장 사의 표명
 frame(("22일, 교육부 대변인실 입장문", "\"수능 '책임 통감'\""),
