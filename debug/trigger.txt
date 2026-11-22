@@ -1,4 +1,2 @@
-shot 20261122-dannycho https://platform.twitter.com/embed/Tweet.html?id=2124111688744214863&lang=ko xembed
-shot 20261122-dannycho https://m.fmkorea.com/10581787658 fmk
-shot 20261122-dannycho https://m.youtube.com/watch?v=CDHTSVHf1Us yt
-get 20261122-dannycho https://i.ytimg.com/vi/CDHTSVHf1Us/maxresdefault.jpg yt_thumb.jpg
+get 20261122-dannycho https://img.segye.com/content/image/2024/09/01/20240901509518.png bh1.png
+get 20261122-dannycho https://img.segye.com/content/image/2024/09/01/20240901509515.jpg bh2.jpg
