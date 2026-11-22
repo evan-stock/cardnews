@@ -1,7 +1,7 @@
 {
  "id": "20261123-skijumpb",
  "kind": "short",
- "status": "pending",
+ "status": "rejected",
  "created_at": "2026-11-23T01:39:04.283990+09:00",
  "publish_at": "2026-11-23T01:39:04.284004+09:00",
  "publish_now": true,
@@ -34,5 +34,6 @@
  },
  "app_file": "media/20261123-skijump/short_card_nomusic.mp4",
  "tg_video": 3107,
- "tg_msg": 3108
+ "tg_msg": 3108,
+ "note": "사용자: 같은 영상 되감기 말고 여러 자료화면을 쓰라 → 다시 제작"
 }
