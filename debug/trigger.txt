@@ -1,2 +1,2 @@
-shot 20261122-pigeye https://platform.twitter.com/embed/Tweet.html?id=2124335210745692339&lang=ko xtodayf font
-shot 20261122-pigeye https://platform.twitter.com/embed/Tweet.html?id=2116362978983616862&lang=ko xoctf font
+shot 20261122-pigeye https://platform.twitter.com/embed/Tweet.html?id=2124335210745692339&lang=ko&theme=dark&hideThread=true xtodayd font
+shot 20261122-pigeye https://platform.twitter.com/embed/Tweet.html?id=2116362978983616862&lang=ko&theme=dark&hideThread=true xoctd font
