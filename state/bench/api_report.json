@@ -1,136 +1,269 @@
 {
- "since": "2026-10-01",
+ "since": "2026-08-01",
  "fixed": [
   {
-   "handle": "@today.worthy",
-   "title": "오늘의쓸모",
-   "id": "UCYQNPA-oewWMoaFvL0HY2og",
-   "created": "2012-06-30",
-   "subs": "50",
-   "videos": "71",
+   "handle": "@nyangtsu",
+   "title": "냥츠",
+   "id": "UCwgO4i_RnbsumWsnAvh5Q5A",
+   "created": "2026-03-17",
+   "subs": "20800",
+   "videos": "282",
    "before": {
-    "n": 0,
-    "median": null,
-    "max": null,
-    "over10k": 0
+    "n": 63,
+    "median": 114051,
+    "max": 3079212,
+    "over10k": 63
    },
    "after": {
-    "n": 69,
-    "median": 1979,
-    "max": 23947,
-    "over10k": 6
+    "n": 133,
+    "median": 103165,
+    "max": 7231931,
+    "over10k": 133
    },
    "last3d": {
-    "n": 2,
-    "median": 903,
-    "max": 1807,
-    "over10k": 0
+    "n": 4,
+    "median": 101376,
+    "max": 226111,
+    "over10k": 4
    },
    "recent": [
     {
-     "id": "QDXyMq8bosc",
+     "id": "NHR9JURbqrE",
      "date": "2026-11-22",
-     "title": "올림픽 스키점프대에 나타난 송풍기 부대 #shorts",
-     "views": 0,
-     "dur": "PT24S"
+     "title": "얼마나 이기고 싶은지 감도 안 옴 #고양이 #고양이쇼츠",
+     "views": 16515,
+     "dur": "PT19S"
     },
     {
-     "id": "Iz3whhDjPwQ",
+     "id": "xRXB7UBOmxs",
+     "date": "2026-11-21",
+     "title": "싸우더라도 욕 하면 안 되는 이유 #고양이 #고양이쇼츠",
+     "views": 69326,
+     "dur": "PT15S"
+    },
+    {
+     "id": "SQxppQ4iUXM",
      "date": "2026-11-20",
-     "title": "가장 무거운 비행기가 안개 속을 지나가자 #shorts",
-     "views": 1807,
-     "dur": "PT23S"
+     "title": "라우럴 욕하는 고양이 훈계하면 생기는 일 #고양이 #고양이쇼츠",
+     "views": 226111,
+     "dur": "PT12S"
     },
     {
-     "id": "Ar4BgAzuBzs",
+     "id": "08F6od5Lzjc",
+     "date": "2026-11-19",
+     "title": "아침 인사가 늦어지면 생기는 일 #고양이 #고양이쇼츠",
+     "views": 133427,
+     "dur": "PT11S"
+    },
+    {
+     "id": "FstQXHWt634",
      "date": "2026-11-18",
-     "title": "땅속에서 나온 '버터'의 정체 #shorts",
-     "views": 5072,
-     "dur": "PT21S"
+     "title": "예상치 못한 집사 반격에 당황한 고양이 #고양이 #고양이쇼츠",
+     "views": 147253,
+     "dur": "PT17S"
     },
     {
-     "id": "jskIU5Qs6NM",
+     "id": "HQfPaO4YZjQ",
+     "date": "2026-11-17",
+     "title": "귀여운 얼굴로 험한 욕(?)하는 고양이",
+     "views": 398305,
+     "dur": "PT12S"
+    },
+    {
+     "id": "DwKoUIHVy6w",
+     "date": "2026-11-16",
+     "title": "얼마나 고마운지 감도 안 옴 ㅋㅋ #고양이 #고양이쇼츠",
+     "views": 57256,
+     "dur": "PT12S"
+    },
+    {
+     "id": "Av0N5IRh7eQ",
+     "date": "2026-11-15",
+     "title": "큰 고양이를 처음 본 아깽이의 반응 ㅋㅋ #고양이 #고양이쇼츠",
+     "views": 50078,
+     "dur": "PT14S"
+    },
+    {
+     "id": "qIDdIiJJG98",
      "date": "2026-11-14",
-     "title": "숫자가 '낙서'로 보이기 시작한 날 #shorts",
-     "views": 2057,
-     "dur": "PT26S"
+     "title": "고양이 훈련시켰더니 능력치가 심상치 않음 #고양이 #고양이쇼츠",
+     "views": 126926,
+     "dur": "PT16S"
     },
     {
-     "id": "GiNgFlAzhdQ",
-     "date": "2026-11-14",
-     "title": "불어난 강물에 소나무를 넣었더니 #shorts",
-     "views": 20472,
-     "dur": "PT25S"
+     "id": "X-Dk96hmVhY",
+     "date": "2026-11-13",
+     "title": "병문안 온 집사가 한눈팔면 생기는 일 #병문안 #고양이 #고양이쇼츠",
+     "views": 113828,
+     "dur": "PT24S"
     },
     {
-     "id": "EO5Sa_abvNI",
+     "id": "JY87r-SxfzA",
      "date": "2026-11-12",
-     "title": "이 고속도로는 무너진 게 아닙니다 #shorts",
-     "views": 84,
-     "dur": "PT26S"
-    },
-    {
-     "id": "xfRQ4Ludvj0",
-     "date": "2026-11-11",
-     "title": "손가락을 맞대면 진짜 닿은 걸까? #shorts",
-     "views": 3219,
-     "dur": "PT26S"
-    },
-    {
-     "id": "GlBlVCkDwUk",
-     "date": "2026-11-10",
-     "title": "한겨울 밖에서 비눗방울을 불자 #shorts",
-     "views": 1589,
-     "dur": "PT25S"
-    },
-    {
-     "id": "6Y8Wsb5cv9U",
-     "date": "2026-11-10",
-     "title": "이 노란 트럭은 공사 중이 아닙니다 #shorts",
-     "views": 1979,
-     "dur": "PT25S"
-    },
-    {
-     "id": "ttLfR-Qf3ZU",
-     "date": "2026-11-09",
-     "title": "조금 비싼 혀를 가진 남자 #shorts",
-     "views": 2087,
-     "dur": "PT24S"
-    },
-    {
-     "id": "adb9jLIgUkc",
-     "date": "2026-11-09",
-     "title": "828m 꼭대기에 선 승무원?ㄷㄷ #shorts",
-     "views": 1783,
-     "dur": "PT23S"
-    },
-    {
-     "id": "-406ky_LUHQ",
-     "date": "2026-11-08",
-     "title": "비행기 창밖 무지개 고리의 정체 #shorts",
-     "views": 1082,
-     "dur": "PT24S"
-    },
-    {
-     "id": "7QwsdB_9Cxc",
-     "date": "2026-11-08",
-     "title": "칠레에서 영국 집까지 걸어서 가 봤더니 #shorts",
-     "views": 10072,
-     "dur": "PT25S"
-    },
-    {
-     "id": "dyHEVcjlMEM",
-     "date": "2026-11-08",
-     "title": "76만 볼트 전선을 맨손으로 잡는 남자 #shorts",
-     "views": 1150,
-     "dur": "PT25S"
-    },
-    {
-     "id": "HtdvW-pvl-8",
-     "date": "2026-11-07",
-     "title": "산불 앞에서 소방관이 왜 불을 지를까? #shorts",
-     "views": 2592,
+     "title": "금쪽이 집냥이 맞춤형 솔루션 수준 #고양이 #고양이 쇼츠",
+     "views": 167006,
      "dur": "PT22S"
+    },
+    {
+     "id": "dnyKK-QjKL4",
+     "date": "2026-11-11",
+     "title": "고양이 표정이 순둥 해진 이유ㅋㅋ",
+     "views": 51826,
+     "dur": "PT13S"
+    },
+    {
+     "id": "lIy-fUWDgmc",
+     "date": "2026-11-10",
+     "title": "개 무시하는 고양이 ㅋㅋㅋ",
+     "views": 103165,
+     "dur": "PT13S"
+    },
+    {
+     "id": "nw4YiDVTuSM",
+     "date": "2026-11-09",
+     "title": "전기장판 몰래쓰다고양이한테 걸린 집사 #고양이 #cat",
+     "views": 1180206,
+     "dur": "PT12S"
+    },
+    {
+     "id": "S1Jei3LrO24",
+     "date": "2026-11-08",
+     "title": "길냥이 궁디팡팡하면 안 되는 이유",
+     "views": 203295,
+     "dur": "PT15S"
+    }
+   ]
+  },
+  {
+   "handle": "UCqGA2pYRNqpVCnaztHqO-jA",
+   "title": "동물쑛",
+   "id": "UCqGA2pYRNqpVCnaztHqO-jA",
+   "created": "2017-11-14",
+   "subs": "117000",
+   "videos": "1076",
+   "before": {
+    "n": 11,
+    "median": 37743,
+    "max": 51625,
+    "over10k": 10
+   },
+   "after": {
+    "n": 183,
+    "median": 199500,
+    "max": 15099965,
+    "over10k": 183
+   },
+   "last3d": {
+    "n": 6,
+    "median": 336640,
+    "max": 2751355,
+    "over10k": 6
+   },
+   "recent": [
+    {
+     "id": "2hpYBiF_NHA",
+     "date": "2026-11-21",
+     "title": "의외로 유용하다는 '롸우 니거'의 순기능 ㅋㅋ",
+     "views": 414104,
+     "dur": "PT22S"
+    },
+    {
+     "id": "TGOlg7HcYco",
+     "date": "2026-11-21",
+     "title": "아직은 모든게 서툰 사회초년생 고양이",
+     "views": 259177,
+     "dur": "PT33S"
+    },
+    {
+     "id": "QDRb_hnOnAA",
+     "date": "2026-11-20",
+     "title": "한 녀석만 이뻐하면 안되는 이유  ㅋㅋ",
+     "views": 84836,
+     "dur": "PT9S"
+    },
+    {
+     "id": "fOgVN01dOUE",
+     "date": "2026-11-20",
+     "title": "고양이 꼬리 함부로 만지면 안되는 이유",
+     "views": 583365,
+     "dur": "PT17S"
+    },
+    {
+     "id": "FKph1lLkCy8",
+     "date": "2026-11-19",
+     "title": "'롸우 니거'함부로 따라하면 큰일나는 이유",
+     "views": 2751355,
+     "dur": "PT33S"
+    },
+    {
+     "id": "Rrq1uleGvCQ",
+     "date": "2026-11-19",
+     "title": "심장에 해로운 고양이의 기합소리 ㅋㅋ",
+     "views": 37954,
+     "dur": "PT25S"
+    },
+    {
+     "id": "Ms6R_AOu0jU",
+     "date": "2026-11-18",
+     "title": "길고양이에게 병주고 약주는 방법(?)",
+     "views": 373953,
+     "dur": "PT24S"
+    },
+    {
+     "id": "43puNJMnlOA",
+     "date": "2026-11-18",
+     "title": "마음에 드는 고양이 꼬시는 방법 ㅋㅋ",
+     "views": 125517,
+     "dur": "PT22S"
+    },
+    {
+     "id": "ALG10kiUJfo",
+     "date": "2026-11-17",
+     "title": "효자손이 고양이에게 위험한 이유(?)",
+     "views": 376596,
+     "dur": "PT19S"
+    },
+    {
+     "id": "eQ7KYCdCi1I",
+     "date": "2026-11-17",
+     "title": "길고양이에게 함부로 인사하면 안되는 이유(?)",
+     "views": 1696276,
+     "dur": "PT15S"
+    },
+    {
+     "id": "UQ3fSJHGWgU",
+     "date": "2026-11-16",
+     "title": "집사에게 욕(?)하다 참교육 당한 고양이 ㅋㅋ",
+     "views": 2072268,
+     "dur": "PT27S"
+    },
+    {
+     "id": "ByEMU4ubElY",
+     "date": "2026-11-16",
+     "title": "집 나간 고양이가 돌아오지 않는 이유 ㅋㅋ",
+     "views": 161592,
+     "dur": "PT14S"
+    },
+    {
+     "id": "qdUcejwOCuw",
+     "date": "2026-11-14",
+     "title": "고양이 냥줍하는 기가막힌 방법 ㅋㅋ",
+     "views": 131467,
+     "dur": "PT15S"
+    },
+    {
+     "id": "x_mlAF-dQUM",
+     "date": "2026-11-14",
+     "title": "최애 고양이 서열 1위 만들어 주기 ㅋㅋ",
+     "views": 1072101,
+     "dur": "PT14S"
+    },
+    {
+     "id": "od_RTXZQWBg",
+     "date": "2026-11-13",
+     "title": "싸우는 고양이에게 '롸우 니거'를 해봤더니 ㅋㅋ",
+     "views": 380880,
+     "dur": "PT35S"
     }
    ]
   }
