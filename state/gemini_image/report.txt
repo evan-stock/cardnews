@@ -1,1 +1,1 @@
-kk_bf_parcels: 성공 (gemini-2.5-flash-image)
+kk_padding_closet: 성공 (gemini-2.5-flash-image)
