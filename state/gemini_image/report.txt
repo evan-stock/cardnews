@@ -1,1 +1,1 @@
-kk_menhera_real_zoomout: 성공 (gemini-2.5-flash-image)
+kk_bf_parcels: 성공 (gemini-2.5-flash-image)
