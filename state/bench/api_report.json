@@ -1,113 +1,3699 @@
 {
- "since": "2018-01-01",
+ "since": "2025-11-22",
  "fixed": [],
  "found": [
   {
-   "title": "Country Life",
-   "id": "UCsJXTHX-Perf9o7XZTOBY2g",
-   "created": "2021-07-16",
-   "subs": "111",
-   "videos": "1688"
+   "title": "Manaka Noa3705",
+   "id": "UC9fouFasKncdvW263i9-ysg",
+   "created": "2026-06-01",
+   "subs": "80500",
+   "videos": "152"
   },
   {
-   "title": "ThisisOklahoma405",
-   "id": "UCkIuwZ1i1xhs-0e_T4rrr6w",
-   "created": "2022-08-03",
-   "subs": "3070",
-   "videos": "3436"
+   "title": "Animal 245",
+   "id": "UC40jdMT--Fw4YPudUC-PWcg",
+   "created": "2025-05-02",
+   "subs": "33300",
+   "videos": "4077"
   },
   {
-   "title": "MP Fresh",
-   "id": "UCRGTC4zGSe6Ro5ntwPky6-g",
-   "created": "2019-01-30",
-   "subs": "3270000",
-   "videos": "1338"
+   "title": "WhyAnimalsDo",
+   "id": "UChcgisNSH0lLLTzQYGG1EYQ",
+   "created": "2021-04-29",
+   "subs": "252",
+   "videos": "196"
   },
   {
-   "title": "Yareli | Hablemos de Casas",
-   "id": "UCwLq1HSY8K9HXYFdKNYcAGw",
-   "created": "2026-06-29",
-   "subs": "34",
+   "title": "Jennifer Morales - Feline Films",
+   "id": "UCKKPhRnT3M1oeCx0zFqkC7w",
+   "created": "2014-08-25",
+   "subs": "21800",
+   "videos": "933"
+  },
+  {
+   "title": "Furry Little Gang",
+   "id": "UCNYB9uy91-MfDZVv_wt1wsw",
+   "created": "2020-06-14",
+   "subs": "4790",
+   "videos": "75"
+  },
+  {
+   "title": "Tech TaleShorts\n\n",
+   "id": "UCIKiyaXePpK6jNf7szHMhAg",
+   "created": "2024-05-01",
+   "subs": "6090",
+   "videos": "842"
+  },
+  {
+   "title": "TailBitPets",
+   "id": "UCb5EDn_LsSannteNmHBwl0w",
+   "created": "2013-03-20",
+   "subs": "149000",
+   "videos": "553"
+  },
+  {
+   "title": "Funny Animal 10",
+   "id": "UCMYb4gh9CMgvHXU93ma4bzA",
+   "created": "2025-01-31",
+   "subs": "59600",
+   "videos": "119"
+  },
+  {
+   "title": "Oops Every Day",
+   "id": "UCVJZw6zZW4eFt-dXMrVhb9Q",
+   "created": "2025-08-20",
+   "subs": "369",
+   "videos": "25"
+  },
+  {
+   "title": "Rebel O.",
+   "id": "UCe40BaPjgvAvlNe0_Hg26UA",
+   "created": "2026-02-03",
+   "subs": "21",
+   "videos": "32"
+  },
+  {
+   "title": "Henry Has Boundaries",
+   "id": "UCZ2h1jB0A1ywMoFUmL2OZ3g",
+   "created": "2026-09-13",
+   "subs": "241",
+   "videos": "50"
+  },
+  {
+   "title": "CatNip",
+   "id": "UCj6Ihr6OoR81fAAGzwf7GYQ",
+   "created": "2026-01-22",
+   "subs": "5950",
+   "videos": "153"
+  },
+  {
+   "title": "4K SHORT IT",
+   "id": "UC3glsiSne1ZYCMOO6i-TC0A",
+   "created": "2024-04-30",
+   "subs": "5830000",
+   "videos": "4368"
+  },
+  {
+   "title": "lenovo 009",
+   "id": "UCXte_JcqJqXJ1CAah03c9ow",
+   "created": "2021-12-18",
+   "subs": "26100",
+   "videos": "118"
+  },
+  {
+   "title": "CutePawHub",
+   "id": "UCj7EWXLlU-PXUpETUH3m1sg",
+   "created": "2026-03-27",
+   "subs": "889",
+   "videos": "124"
+  },
+  {
+   "title": "@cutie_shorts_@",
+   "id": "UCPDdtwWsnOav1dKUnnoGXxw",
+   "created": "2026-06-14",
+   "subs": "490",
+   "videos": "287"
+  },
+  {
+   "title": "Cat Judge",
+   "id": "UCQqauLfrCS8qLJZPM2l-vDQ",
+   "created": "2026-04-30",
+   "subs": "1060",
+   "videos": "49"
+  },
+  {
+   "title": "catsmeowlove",
+   "id": "UCRJ0LdsV0MhiIpxELWcUMEg",
+   "created": "2019-01-26",
+   "subs": "21900",
+   "videos": "145"
+  },
+  {
+   "title": "Sphynx Cat Owners and Fans",
+   "id": "UCmhKGlN1nz-cIvSMA4Roszw",
+   "created": "2026-02-25",
+   "subs": "51",
+   "videos": "41"
+  },
+  {
+   "title": "Cloud and Lola",
+   "id": "UCJcelFcB9fGKSd6S36P7s7g",
+   "created": "2022-04-28",
+   "subs": "35100",
+   "videos": "327"
+  },
+  {
+   "title": "LOVE ANIMALS ID",
+   "id": "UCHnMcsuPWn6ZU_iQZHIRYPg",
+   "created": "2020-03-04",
+   "subs": "40000",
+   "videos": "4877"
+  },
+  {
+   "title": "MewMew Housee",
+   "id": "UCnXKL0c70jPLz0BXaML4z1g",
+   "created": "2026-07-28",
+   "subs": "255",
+   "videos": "94"
+  },
+  {
+   "title": "Funny Cats Shorts Tv",
+   "id": "UC6R8nffFXafzFHg1IEuS4zA",
+   "created": "2025-12-29",
+   "subs": "30700",
+   "videos": "560"
+  },
+  {
+   "title": "Whyisit",
+   "id": "UC92vXPCXCwe4ls43o4iOY_A",
+   "created": "2025-11-15",
+   "subs": "3",
+   "videos": "10"
+  },
+  {
+   "title": "WildBaat",
+   "id": "UC3ey6uwwslZWmskn4e41KyQ",
+   "created": "2026-04-30",
+   "subs": "15800",
+   "videos": "81"
+  },
+  {
+   "title": "WildlyWise",
+   "id": "UCP6Pps4IXWTIt3Zewhg9Mfw",
+   "created": "2025-09-16",
+   "subs": "22200",
+   "videos": "268"
+  },
+  {
+   "title": "jim luph dya",
+   "id": "UCXXGsAjvI7TXjCl5XDwhHYA",
+   "created": "2012-03-21",
+   "subs": "109000",
+   "videos": "1176"
+  },
+  {
+   "title": "Yoshicutecats",
+   "id": "UCGTFk2DPMhyX6XFpn2-v2Zw",
+   "created": "2026-01-23",
+   "subs": "8510",
+   "videos": "276"
+  },
+  {
+   "title": "oreoandpumpkinspice",
+   "id": "UCcR29vouSvMzd8P7KtTrHIQ",
+   "created": "2023-02-08",
+   "subs": "52000",
+   "videos": "2179"
+  },
+  {
+   "title": "Tizzy",
+   "id": "UC0X8n4QTJ4bzwcRG_vLOqxw",
+   "created": "2025-08-23",
+   "subs": "239000",
+   "videos": "2021"
+  },
+  {
+   "title": "CutieDogRanks",
+   "id": "UCOYLy8gouJGu9Rec6Oqw3rA",
+   "created": "2021-10-04",
+   "subs": "364",
+   "videos": "18"
+  },
+  {
+   "title": "MindBite",
+   "id": "UCWW6OPGGwcCY9JIwZCx6wfg",
+   "created": "2024-01-23",
+   "subs": "3720",
+   "videos": "1899"
+  },
+  {
+   "title": "Tough guy cat",
+   "id": "UCMQB1OkmbFBalvanVwGQjag",
+   "created": "2023-11-27",
+   "subs": "253000",
+   "videos": "1218"
+  },
+  {
+   "title": "zaki kita",
+   "id": "UCWzkrDhZ5qwxKEJlxqGavGg",
+   "created": "2022-08-16",
+   "subs": "4310",
+   "videos": "185"
+  },
+  {
+   "title": "Purrfect Catastrophe",
+   "id": "UCoGRqVF2BFU9DTLmvea_ROA",
+   "created": "2026-05-26",
+   "subs": "114",
+   "videos": "53"
+  },
+  {
+   "title": "Funny Meow Club",
+   "id": "UCIf6pE5n-NUT89i1TYTAuHA",
+   "created": "2026-01-11",
+   "subs": "18700",
+   "videos": "180"
+  },
+  {
+   "title": "Aniwell",
+   "id": "UC0QxcYTUuUp3vdsjB1BoPRg",
+   "created": "2024-06-26",
+   "subs": "3460",
+   "videos": "317"
+  },
+  {
+   "title": "Animals' Funniest Moments",
+   "id": "UCWUAvmw7ptq8kBRVRp-UeoA",
+   "created": "2026-07-05",
+   "subs": "313",
+   "videos": "137"
+  },
+  {
+   "title": "Kaleksy",
+   "id": "UCzYzrCT0lBDLRtuF5kWyOPQ",
+   "created": "2026-09-06",
+   "subs": "303",
+   "videos": "193"
+  },
+  {
+   "title": "Leo Nardo - Cat Psychology ",
+   "id": "UC6JLsj22qkaYkMKWYZswmbQ",
+   "created": "2025-02-12",
+   "subs": "88",
+   "videos": "85"
+  },
+  {
+   "title": "Rahmat El Draga",
+   "id": "UCWksgwMJXn45ycJXxml573g",
+   "created": "2022-02-09",
+   "subs": "3470",
+   "videos": "62"
+  },
+  {
+   "title": "facina",
+   "id": "UCVyKoG2RZjIR33z_0ogX2oQ",
+   "created": "2021-09-11",
+   "subs": "1200",
+   "videos": "32"
+  },
+  {
+   "title": "PetSnapz",
+   "id": "UCdPe1Nko1OFw0FyEs_mDm1g",
+   "created": "2012-11-24",
+   "subs": "5600",
+   "videos": "226"
+  },
+  {
+   "title": "Arbasa",
+   "id": "UC1eIHfnWY5lNUmzw4ZPi0IA",
+   "created": "2024-09-27",
+   "subs": "68800",
+   "videos": "1084"
+  },
+  {
+   "title": "ZonixClips.",
+   "id": "UC2Nz2gOuoX3CUzIa3jC7Srg",
+   "created": "2025-12-29",
+   "subs": "169",
+   "videos": "16"
+  },
+  {
+   "title": "Catvision",
+   "id": "UCO9wMmj2GkDdsfgNbyS9Qyg",
+   "created": "2017-06-11",
+   "subs": "115000",
+   "videos": "55"
+  },
+  {
+   "title": "Christel Achane",
+   "id": "UCre5L0664JMiiM52hgMtyZQ",
+   "created": "2025-08-21",
+   "subs": "8600",
+   "videos": "163"
+  },
+  {
+   "title": "Dramecs",
+   "id": "UCOH-_8n7Mnhsd-NUn2vCGqw",
+   "created": "2024-04-12",
+   "subs": "669000",
+   "videos": "456"
+  },
+  {
+   "title": "Cat videos ",
+   "id": "UCB_a-4ZDGxOgE6jt2avo6-w",
+   "created": "2020-03-26",
+   "subs": "2340",
+   "videos": "837"
+  },
+  {
+   "title": "Doggo Glitch",
+   "id": "UCkJAMUQusul9Wjd0urOQxlw",
+   "created": "2018-11-21",
+   "subs": "32300",
+   "videos": "131"
+  },
+  {
+   "title": "Wild & Silly",
+   "id": "UCfWETeo6BJMfQreX6Gg3Jzg",
+   "created": "2017-03-08",
+   "subs": "53600",
+   "videos": "103"
+  },
+  {
+   "title": "YT_Pahmy👑",
+   "id": "UCTT9PRj6xWYUfErpmGRV_dw",
+   "created": "2024-10-02",
+   "subs": "680000",
+   "videos": "1104"
+  },
+  {
+   "title": "RumiRumiR",
+   "id": "UCbkOo8mLHCUcymfY3DWJntg",
+   "created": "2025-10-12",
+   "subs": "1850000",
+   "videos": "149"
+  },
+  {
+   "title": "MeowYen and Friends",
+   "id": "UCGn5na6b4sw2j4PIzo7yYHg",
+   "created": "2015-12-25",
+   "subs": "45200",
+   "videos": "608"
+  },
+  {
+   "title": "Utpal Comedy & Funny",
+   "id": "UCvUmvFqTphO5icB5LR3garA",
+   "created": "2025-12-27",
+   "subs": "25900",
+   "videos": "437"
+  },
+  {
+   "title": "Paws Guardian",
+   "id": "UCwg67TVaAYxZp-L1JrGWWrw",
+   "created": "2025-05-06",
+   "subs": "562000",
+   "videos": "538"
+  },
+  {
+   "title": "MuRaTFaTiH",
+   "id": "UC-VcAkPUE9gJOqEX4niSByw",
+   "created": "2025-09-03",
+   "subs": "165000",
+   "videos": "786"
+  },
+  {
+   "title": "Laugh Out Paws",
+   "id": "UCGeElcgT-7bwRv06y1IHVGg",
+   "created": "2013-11-06",
+   "subs": "33700",
+   "videos": "114"
+  },
+  {
+   "title": "The BAY Family",
+   "id": "UCT6o3Zx_eBqeQOAMhrXCccQ",
+   "created": "2018-05-03",
+   "subs": "1250000",
+   "videos": "1406"
+  },
+  {
+   "title": "Total funny video",
+   "id": "UCcPIM2EneYOn5a9KuqRcSsg",
+   "created": "2024-05-06",
+   "subs": "60400",
+   "videos": "451"
+  },
+  {
+   "title": "SAMIRUL OFFICIAL ",
+   "id": "UC4cjrxQS4t-5LxkneiD-8-Q",
+   "created": "2024-08-04",
+   "subs": "775000",
+   "videos": "6"
+  },
+  {
+   "title": "Triadgla.",
+   "id": "UCe49aZ5oUL63VbhxAs8YM5g",
+   "created": "2026-06-24",
+   "subs": "4780",
+   "videos": "86"
+  },
+  {
+   "title": "Jade",
+   "id": "UCMAEDGrOfqNhd5IntYnna1w",
+   "created": "2025-06-19",
+   "subs": "30900",
+   "videos": "776"
+  },
+  {
+   "title": "Pintu Comedy lover",
+   "id": "UC4rCLllAQSvd-nF9Tdp5vgw",
+   "created": "2024-09-12",
+   "subs": "1270000",
+   "videos": "2959"
+  },
+  {
+   "title": "DailyFlexx ",
+   "id": "UCvVT8Ny6EwUhtct3rUJwomg",
+   "created": "2025-11-14",
+   "subs": "44400",
+   "videos": "235"
+  },
+  {
+   "title": "cotti storyy",
+   "id": "UCHTRMW2IfyyyR7anqqJdkBQ",
+   "created": "2026-09-03",
+   "subs": "54900",
+   "videos": "88"
+  },
+  {
+   "title": "Animal Logic",
+   "id": "UC4hy7L4oXvY7QezjnO5DATw",
+   "created": "2026-06-08",
+   "subs": "79700",
+   "videos": "61"
+  },
+  {
+   "title": "Kittusie🩷",
+   "id": "UCewjPkxRf_jYfThSEO-P7kA",
+   "created": "2024-11-13",
+   "subs": "204000",
+   "videos": "825"
+  },
+  {
+   "title": "The Dodo",
+   "id": "UCINb0wqPz-A0dV9nARjJlOQ",
+   "created": "2014-03-21",
+   "subs": "18900000",
+   "videos": "15219"
+  },
+  {
+   "title": "Giggle Bot",
+   "id": "UCSRd137wv8w_EAa5oAa1WLg",
+   "created": "2026-03-08",
+   "subs": "1970",
+   "videos": "167"
+  },
+  {
+   "title": "Snugbarn",
+   "id": "UCTaoFdNdSSgyd1qYwF9z67g",
+   "created": "2025-11-06",
+   "subs": "346000",
+   "videos": "369"
+  },
+  {
+   "title": "Vfx Adarsh",
+   "id": "UCIOuQsiJrX-OBwFqmoP8LAQ",
+   "created": "2023-07-20",
+   "subs": "267000",
+   "videos": "1378"
+  },
+  {
+   "title": "Shorts Factoh Wali",
+   "id": "UCN7X--kONrJl_9jr2sSXdhw",
+   "created": "2024-07-08",
+   "subs": "15700",
+   "videos": "172"
+  },
+  {
+   "title": "Talking Parrot ",
+   "id": "UCpuyjWuLMdeQTGwOl2cAIaQ",
+   "created": "2025-06-14",
+   "subs": "94600",
+   "videos": "352"
+  },
+  {
+   "title": "FacPotato",
+   "id": "UC_LnAm4DW_BPUDkaNjhDBaQ",
+   "created": "2024-10-05",
+   "subs": "52700",
+   "videos": "379"
+  },
+  {
+   "title": "Spektrum Studios ",
+   "id": "UCxNNzsMKAKX4_QG8umF4E_w",
+   "created": "2017-09-10",
+   "subs": "20300",
+   "videos": "154"
+  },
+  {
+   "title": "Mama Jasmine Almaira",
+   "id": "UCS_ViH3YCzGf4e7kFK_8yoA",
+   "created": "2014-03-28",
+   "subs": "534000",
+   "videos": "3034"
+  },
+  {
+   "title": "VoidKaze",
+   "id": "UCQN0Cc5rm23fb_aec5_fExQ",
+   "created": "2026-10-23",
+   "subs": "41",
+   "videos": "10"
+  },
+  {
+   "title": "Triệu Que Củi",
+   "id": "UChpsOOWySQny641PlAW38oA",
+   "created": "2025-05-22",
+   "subs": "532000",
+   "videos": "356"
+  },
+  {
+   "title": "З.А.В.Е.С.А.",
+   "id": "UCvzyuapLE8E5-taepUzxtCw",
+   "created": "2026-08-04",
+   "subs": "3460",
+   "videos": "250"
+  },
+  {
+   "title": "Wunder der Erde Doku",
+   "id": "UCm0jOWFm83rNC81WTJw0SWA",
+   "created": "2026-03-09",
+   "subs": "60100",
+   "videos": "141"
+  },
+  {
+   "title": "Izizil Khan",
+   "id": "UCXRPfeXcS5Wdrzqqa-C31pw",
+   "created": "2025-10-18",
+   "subs": "213",
+   "videos": "217"
+  },
+  {
+   "title": "MenacePaws2393",
+   "id": "UCVQy3H3l0xsW0_EPXfe9x-w",
+   "created": "2026-07-15",
+   "subs": "43900",
+   "videos": "72"
+  },
+  {
+   "title": "Tanya the Rocket",
+   "id": "UCHSvv_MIpwscj4-XNrMXXTg",
+   "created": "2013-04-25",
+   "subs": "2640",
+   "videos": "150"
+  },
+  {
+   "title": "Jackson Huhniverses",
+   "id": "UC617BvMt2NDGDuAmg781sRg",
+   "created": "2023-04-08",
+   "subs": "170000",
+   "videos": "343"
+  },
+  {
+   "title": "Jacquie Hazard",
+   "id": "UCYPb2tergWPt0CRv428I-Ww",
+   "created": "2026-06-04",
+   "subs": "76400",
+   "videos": "114"
+  },
+  {
+   "title": "PawVerse TV",
+   "id": "UCnqFFnI-KpDhiD6500fT5lA",
+   "created": "2026-07-04",
+   "subs": "29300",
+   "videos": "222"
+  },
+  {
+   "title": "Hounds Coker",
+   "id": "UCNr7hMKOdQdBFRoMPAJ_-wA",
+   "created": "2026-08-04",
+   "subs": "43200",
+   "videos": "14"
+  },
+  {
+   "title": "FunnyBitesTV",
+   "id": "UCxtQ9B5RGwtJHsU4LVoZWqw",
+   "created": "2025-12-08",
+   "subs": "11800",
+   "videos": "114"
+  },
+  {
+   "title": "Changsha Animal Theme Park",
+   "id": "UC8QvHuX1csHkOwt1kYFQGdQ",
+   "created": "2019-12-05",
+   "subs": "153000",
+   "videos": "303"
+  },
+  {
+   "title": "Big Floppa Gosha",
+   "id": "UCU59o_VCEumE0FjK8HAALrA",
+   "created": "2023-08-18",
+   "subs": "11800",
+   "videos": "502"
+  },
+  {
+   "title": "Kaizoka Ranks",
+   "id": "UC5ZGpg-TCpzq2sxu_IfiFIg",
+   "created": "2026-07-02",
+   "subs": "20600",
+   "videos": "71"
+  },
+  {
+   "title": "Just Faris",
+   "id": "UCwmu1meEX014mbI2wTzuhDw",
+   "created": "2022-08-24",
+   "subs": "818",
+   "videos": "173"
+  },
+  {
+   "title": "R.M COMEDY #SHORTS",
+   "id": "UCU5KS-o2w5u0TS-Md5auxOg",
+   "created": "2023-10-21",
+   "subs": "17900",
+   "videos": "483"
+  },
+  {
+   "title": "Funny Cats Time",
+   "id": "UCFWN4K4K9X0doYjtcyUzYdg",
+   "created": "2014-09-16",
+   "subs": "875000",
+   "videos": "1053"
+  },
+  {
+   "title": "두쫀쿠 중독자",
+   "id": "UCLKuIxaESvLe0jY-4T3JvlA",
+   "created": "2025-11-06",
+   "subs": "30200",
+   "videos": "346"
+  },
+  {
+   "title": "링고다냥",
+   "id": "UCO-s9MFWm8ghwrcYIMAjDSw",
+   "created": "2012-05-05",
+   "subs": "1550000",
+   "videos": "3167"
+  },
+  {
+   "title": "Pawlio",
+   "id": "UCobElLjNV88H9373kBfeZbQ",
+   "created": "2026-07-22",
+   "subs": "1350",
+   "videos": "88"
+  },
+  {
+   "title": "Epic Replay",
+   "id": "UCzBo5WfQHMkRd89nkE7oUlQ",
+   "created": "2023-11-04",
+   "subs": "209000",
+   "videos": "776"
+  },
+  {
+   "title": "Curiosidade 67",
+   "id": "UCF-AcQ3Okb9RzVZ2m1ASfug",
+   "created": "2026-02-05",
+   "subs": "249000",
+   "videos": "268"
+  },
+  {
+   "title": "Bozo Tatliş",
+   "id": "UCnZbe0x0uM7JwuQhN1AE86Q",
+   "created": "2013-09-19",
+   "subs": "2670",
+   "videos": "416"
+  },
+  {
+   "title": "Alice Rebouças",
+   "id": "UC6P-e02MCbctDz9MJddueSw",
+   "created": "2016-07-26",
+   "subs": "107000",
+   "videos": "2647"
+  },
+  {
+   "title": "Birds parrot",
+   "id": "UC0Wy3MTuB6plWzpSZupvIQw",
+   "created": "2025-12-15",
+   "subs": "5040",
+   "videos": "42"
+  },
+  {
+   "title": "BMR Creations",
+   "id": "UC66Z0IUcb8Y1B2AX9HREPTw",
+   "created": "2025-09-03",
+   "subs": "687",
+   "videos": "340"
+  },
+  {
+   "title": "Global Weird Animals",
+   "id": "UCPZZWC22dV4s1irw3MIOm6g",
+   "created": "2025-08-25",
+   "subs": "83000",
+   "videos": "1408"
+  },
+  {
+   "title": "Nina Michelle",
+   "id": "UCSWlET9IlslLy5oRXJvx2lQ",
+   "created": "2006-10-22",
+   "subs": "1520",
+   "videos": "594"
+  },
+  {
+   "title": "Ayansaifi.77",
+   "id": "UCilpfdcox4tcBzx1bfzR9PA",
+   "created": "2021-10-02",
+   "subs": "42700",
+   "videos": "45"
+  },
+  {
+   "title": "Curious Byte",
+   "id": "UCDJ-az5ckmf2dIaZ21CislA",
+   "created": "2021-02-25",
+   "subs": "558",
+   "videos": "33"
+  },
+  {
+   "title": "Animal Fun World",
+   "id": "UCtbjwXdTU4qjnyOxWJxxJPQ",
+   "created": "2023-01-02",
+   "subs": "2300",
+   "videos": "115"
+  },
+  {
+   "title": "Kyrox",
+   "id": "UCUzYGfP4pZ8ANRb7Hfjw2Ew",
+   "created": "2026-02-01",
+   "subs": "232000",
+   "videos": "219"
+  },
+  {
+   "title": "Furrpect Paw",
+   "id": "UCUoe05uQW67WXXu0ZOoq9lA",
+   "created": "2025-04-17",
+   "subs": "599",
+   "videos": "47"
+  },
+  {
+   "title": "itz_PøPpy ツ",
+   "id": "UCe6jSrFkqBHBvP-WXvaVdfw",
+   "created": "2021-07-29",
+   "subs": "11600",
+   "videos": "67"
+  },
+  {
+   "title": "Deep Time ",
+   "id": "UCqyIptCS_CMgXoIXWfh2GFg",
+   "created": "2025-05-28",
+   "subs": "1840",
+   "videos": "27"
+  },
+  {
+   "title": "Beast Bracket",
+   "id": "UCH7LfB3tzvOfz-ixDAzJDVg",
+   "created": "2025-06-24",
+   "subs": "9540",
+   "videos": "199"
+  },
+  {
+   "title": "Henrygfu",
+   "id": "UCOJ_QIIJkH-xLMlfUUQisew",
+   "created": "2021-12-28",
+   "subs": "435",
+   "videos": "126"
+  },
+  {
+   "title": "eta papagaio",
+   "id": "UCMWejWwkWl7CGVTUdUPtUgw",
+   "created": "2013-07-11",
+   "subs": "121000",
+   "videos": "353"
+  },
+  {
+   "title": "PawZZZ",
+   "id": "UCIjuHR7snYWt9rskI-ud6jw",
+   "created": "2021-07-28",
+   "subs": "39700",
+   "videos": "49"
+  },
+  {
+   "title": "Birds_vibes",
+   "id": "UCqmxsDjxRVjmLepgZUJyvSA",
+   "created": "2026-01-08",
+   "subs": "51600",
+   "videos": "165"
+  },
+  {
+   "title": "historicalmirror_0811",
+   "id": "UC9Fjg-PzXi20UKzl9g3A7Qg",
+   "created": "2025-10-20",
+   "subs": "2860",
+   "videos": "91"
+  },
+  {
+   "title": "PawDaily 🐾",
+   "id": "UCBBrSav47FPYaKDRfoLvhrA",
+   "created": "2017-05-20",
+   "subs": "73800",
+   "videos": "104"
+  },
+  {
+   "title": "WildUps",
+   "id": "UCQtUL_NNOwtdOp_6xK8ritA",
+   "created": "2025-06-28",
+   "subs": "5080",
+   "videos": "88"
+  },
+  {
+   "title": "El baúl de ofertas",
+   "id": "UCwEmcGtHx8h90roghut9Biw",
+   "created": "2011-11-12",
+   "subs": "24400",
+   "videos": "637"
+  },
+  {
+   "title": "suraiya Khan ",
+   "id": "UCj-F7Wm9HfovFDtfAPzSZBA",
+   "created": "2026-04-17",
+   "subs": "34200",
+   "videos": "187"
+  },
+  {
+   "title": "Funnytaker",
+   "id": "UCLKA4Yg8LT0qec2K2LbvAfw",
+   "created": "2025-09-18",
+   "subs": "98200",
+   "videos": "187"
+  },
+  {
+   "title": "Coco’s Punchlines ",
+   "id": "UCfOvY45Z5byQkM4Yv5kqsuA",
+   "created": "2016-06-15",
+   "subs": "8990",
+   "videos": "848"
+  },
+  {
+   "title": "DuckDuDuGo",
+   "id": "UCzrIushRf8TzHgtB58E0vJQ",
+   "created": "2025-05-15",
+   "subs": "46000",
+   "videos": "142"
+  },
+  {
+   "title": "Acam’s Diary",
+   "id": "UCrPPM_ySOUG1SCnREagQtcg",
+   "created": "2024-05-04",
+   "subs": "479000",
+   "videos": "780"
+  },
+  {
+   "title": "Parrot Insight",
+   "id": "UCEsDmPEVBCOB48i9aWmJegg",
+   "created": "2026-08-25",
+   "subs": "4",
+   "videos": "9"
+  },
+  {
+   "title": "The Bird Flock",
+   "id": "UClkQVCGtGIvE4PButICbGZw",
+   "created": "2026-09-15",
+   "subs": "1180",
+   "videos": "129"
+  },
+  {
+   "title": "Feather Drama",
+   "id": "UCvTb9ePwQpvlNZsRnG82glA",
+   "created": "2026-09-22",
+   "subs": "1360",
+   "videos": "85"
+  },
+  {
+   "title": "PetBoss Parrots",
+   "id": "UCHZ6tkjhuBEcYvdut-m8vpA",
+   "created": "2017-05-10",
+   "subs": "7180",
+   "videos": "43"
+  },
+  {
+   "title": "MurrRanks",
+   "id": "UCmdyzePEDB5Jgbz9rJNjRJg",
+   "created": "2026-02-11",
+   "subs": "744",
    "videos": "38"
   },
   {
-   "title": "Crackling Flame",
-   "id": "UCu6dvNgoPsNqTN9I1xgiKrw",
-   "created": "2025-02-23",
-   "subs": "14000",
-   "videos": "289"
+   "title": "SpiderCat Ranks",
+   "id": "UCa4XAcFhmLBRfVFkpHPNOkQ",
+   "created": "2017-10-25",
+   "subs": "62600",
+   "videos": "250"
+  },
+  {
+   "title": "JCandSock ",
+   "id": "UCRBBb5QIVeZKO0EIBrXINog",
+   "created": "2016-06-26",
+   "subs": "1070",
+   "videos": "279"
+  },
+  {
+   "title": "batapum",
+   "id": "UClfp23LaiccMnQbkfUqc_eQ",
+   "created": "2025-08-26",
+   "subs": "110000",
+   "videos": "856"
+  },
+  {
+   "title": "Fluffy and Snowball",
+   "id": "UCDq7hCngh6J6c3n67WksvGQ",
+   "created": "2025-09-29",
+   "subs": "4350",
+   "videos": "2131"
+  },
+  {
+   "title": " Geethanjali Selvan Kavithaigal & Kathaigal",
+   "id": "UCLvkZBm5Vvgt3HjxKeeIAxA",
+   "created": "2024-03-29",
+   "subs": "37400",
+   "videos": "956"
+  },
+  {
+   "title": "Critzora",
+   "id": "UCJUqpAcjHaIzJYqmWT_rqPQ",
+   "created": "2026-04-09",
+   "subs": "1660",
+   "videos": "113"
+  },
+  {
+   "title": "Wild Earth",
+   "id": "UCaNV8jjTi-iJn0Lav3r4DjQ",
+   "created": "2023-06-12",
+   "subs": "63300",
+   "videos": "1030"
+  },
+  {
+   "title": "Khuzin Edits",
+   "id": "UCrsg5vKEI_q18qIk89Lk4qw",
+   "created": "2026-04-04",
+   "subs": "13500",
+   "videos": "43"
+  },
+  {
+   "title": "THE ANIMAL INCIDENT",
+   "id": "UCdxuCplC3KJ-NnV0uVTPP6w",
+   "created": "2026-09-07",
+   "subs": "8530",
+   "videos": "104"
+  },
+  {
+   "title": "Jessica2025",
+   "id": "UCZynNpC9c9p8p11oAhIX2Qw",
+   "created": "2014-11-01",
+   "subs": "16300",
+   "videos": "307"
+  },
+  {
+   "title": "Pillu Parrot",
+   "id": "UCUC0GHGd-WAmlzYFfA7rtEg",
+   "created": "2017-12-29",
+   "subs": "36300",
+   "videos": "313"
+  },
+  {
+   "title": "PetClub",
+   "id": "UCwuC1H39wio8j-1eiOjbMtA",
+   "created": "2020-12-20",
+   "subs": "73800",
+   "videos": "874"
+  },
+  {
+   "title": "Breadisyummy",
+   "id": "UCXVq53Z8VTixejx_Nz39ahg",
+   "created": "2025-05-05",
+   "subs": "77",
+   "videos": "26"
+  },
+  {
+   "title": "The Ranking Gods",
+   "id": "UCEPHGGXF1ILCHumlnoJZsdQ",
+   "created": "2026-09-24",
+   "subs": "297",
+   "videos": "10"
+  },
+  {
+   "title": "BeakerBeak",
+   "id": "UCKtkv5NWMKBrcbXZdBSE3gQ",
+   "created": "2023-03-19",
+   "subs": "504000",
+   "videos": "1362"
+  },
+  {
+   "title": "Purrfectly Rosie",
+   "id": "UCmZklpR7O9xMkR05i_7sVpg",
+   "created": "2026-05-07",
+   "subs": "403",
+   "videos": "175"
+  },
+  {
+   "title": "Beako",
+   "id": "UC07S3R5oeYyRV34NdSnO-nw",
+   "created": "2023-03-25",
+   "subs": "28600",
+   "videos": "369"
+  },
+  {
+   "title": "蹦跳啵妞",
+   "id": "UC6MGCE4COcGQmgxnPCPgTIg",
+   "created": "2023-03-03",
+   "subs": "24100",
+   "videos": "635"
+  },
+  {
+   "title": "XelitRanks",
+   "id": "UCvM1nLmSQCMElKoEhbVW3ng",
+   "created": "2021-10-11",
+   "subs": "384000",
+   "videos": "104"
+  },
+  {
+   "title": "Fame Feed ",
+   "id": "UCrcJeFqsQFCEHC0fKgVU-sQ",
+   "created": "2025-08-09",
+   "subs": "10800",
+   "videos": "443"
+  },
+  {
+   "title": "Urooj",
+   "id": "UCCLYLbj-66G_NxBnxXcz9Zg",
+   "created": "2024-12-10",
+   "subs": "117",
+   "videos": "18"
+  },
+  {
+   "title": "Bestie Tales ",
+   "id": "UCcUQ4UdrIpZh7k3bM10p09Q",
+   "created": "2026-09-29",
+   "subs": "179",
+   "videos": "15"
+  },
+  {
+   "title": "Humming Paws",
+   "id": "UCwO7f6f7IpQYKVnW7K8sqNA",
+   "created": "2025-12-24",
+   "subs": "32800",
+   "videos": "165"
+  },
+  {
+   "title": "Kitty FactZone",
+   "id": "UCNf1VL18EpE2WVSTGV-0JYw",
+   "created": "2026-02-27",
+   "subs": "3560",
+   "videos": "165"
+  },
+  {
+   "title": "Guess the Meow",
+   "id": "UCR7JAY-TLwJDxjnU26HuOMg",
+   "created": "2026-11-09",
+   "subs": "100",
+   "videos": "14"
+  },
+  {
+   "title": "Nyang Daily | Korean Cats",
+   "id": "UC21ZdB5FsUk7pJ9BkmmrurQ",
+   "created": "2026-05-13",
+   "subs": "326",
+   "videos": "76"
+  },
+  {
+   "title": "TOPVEXY",
+   "id": "UC6bl7L-6olAmMcrj6YqxJ2Q",
+   "created": "2026-04-14",
+   "subs": "6720",
+   "videos": "79"
+  },
+  {
+   "title": "amazingcatland ",
+   "id": "UCDy87POO7MOetGGdbK1BYZw",
+   "created": "2020-04-14",
+   "subs": "1180",
+   "videos": "488"
+  },
+  {
+   "title": "NAHID HASAN",
+   "id": "UCfGwQwhiPNnZ20lTKQyyheQ",
+   "created": "2020-01-21",
+   "subs": "1870000",
+   "videos": "1343"
+  },
+  {
+   "title": "rndomentertainment_",
+   "id": "UCFoBAsqeBahQHbrDJHNDIhQ",
+   "created": "2025-11-07",
+   "subs": "29",
+   "videos": "10"
+  },
+  {
+   "title": "Cats Life Facts",
+   "id": "UCaObsFPlY-cNL8k_27IzitQ",
+   "created": "2026-09-15",
+   "subs": "309",
+   "videos": "40"
+  },
+  {
+   "title": "KonneMøb",
+   "id": "UCjYEVBhNDyAvsb9X7nm6Ywg",
+   "created": "2026-03-15",
+   "subs": "536",
+   "videos": "78"
+  },
+  {
+   "title": "Laila Amaya",
+   "id": "UCmdLahDUjdVxVeOE6Zs3NKg",
+   "created": "2020-10-11",
+   "subs": "1150",
+   "videos": "219"
+  },
+  {
+   "title": "Catclipzz",
+   "id": "UCzMxxb9oNSdjs39GhnBLdww",
+   "created": "2025-07-16",
+   "subs": "10800",
+   "videos": "677"
+  },
+  {
+   "title": "nekokot",
+   "id": "UCF_iTZhpqA-rMj7WhCumyRA",
+   "created": "2025-07-03",
+   "subs": "596",
+   "videos": "38"
+  },
+  {
+   "title": "Funny couple moments",
+   "id": "UCVqcCrxJRXCelI5jL1LpmJw",
+   "created": "2021-03-03",
+   "subs": "39600",
+   "videos": "299"
+  },
+  {
+   "title": "Tutucat_li",
+   "id": "UCFdvEm5C2yEaI9B6EVyiTcw",
+   "created": "2025-11-26",
+   "subs": "1790",
+   "videos": "114"
+  },
+  {
+   "title": "Cute paws",
+   "id": "UC9cyCgOH02lEHNgmA9Hsycw",
+   "created": "2026-02-03",
+   "subs": "2120",
+   "videos": "102"
+  },
+  {
+   "title": "Wong Rida",
+   "id": "UCQeA1KOHn_lD62ziPWFkLQQ",
+   "created": "2012-09-29",
+   "subs": "1700",
+   "videos": "375"
+  },
+  {
+   "title": "Waqt ki baat hai",
+   "id": "UCjJiYr3ZKd81soqFy50H_4A",
+   "created": "2026-07-11",
+   "subs": "2420",
+   "videos": "166"
+  },
+  {
+   "title": "SnugglePaws",
+   "id": "UCStO_8Y4X0LXQKUh3kl4HxA",
+   "created": "2026-02-07",
+   "subs": "538",
+   "videos": "129"
+  },
+  {
+   "title": "Joli’s Cozy Corner",
+   "id": "UCDUK1mBC2G5NbQqOyPsjn4w",
+   "created": "2020-04-05",
+   "subs": "704",
+   "videos": "265"
+  },
+  {
+   "title": "SI OGGIE",
+   "id": "UC7xS0N4nd28eeW1bUCSqOMQ",
+   "created": "2018-09-16",
+   "subs": "1950",
+   "videos": "93"
+  },
+  {
+   "title": "Cat kingdom",
+   "id": "UCsBVRz3BhX6UbbztZDo5X1Q",
+   "created": "2020-09-16",
+   "subs": "42",
+   "videos": "28"
+  },
+  {
+   "title": "AniRank",
+   "id": "UCEgcjWr6i32DAt6_AZFeaLQ",
+   "created": "2020-10-24",
+   "subs": "1430000",
+   "videos": "300"
+  },
+  {
+   "title": "WILD NUTS🐾",
+   "id": "UCGBFPa2x6EKUMBAGMPP2c3g",
+   "created": "2026-10-19",
+   "subs": "204",
+   "videos": "17"
+  },
+  {
+   "title": "Mr Zyro",
+   "id": "UCl4-T7M6Hd2NXJ0amZYMI3Q",
+   "created": "2026-11-05",
+   "subs": "3540",
+   "videos": "128"
+  },
+  {
+   "title": "Cam2r",
+   "id": "UCaZHJQGKUiGPPJOO0nUW_aA",
+   "created": "2020-12-16",
+   "subs": "3490000",
+   "videos": "1072"
+  },
+  {
+   "title": "Slightly Used",
+   "id": "UCKHVq73oh8AyIATIz4zbTBQ",
+   "created": "2021-01-13",
+   "subs": "8",
+   "videos": "3"
+  },
+  {
+   "title": "Lucy",
+   "id": "UCfd_89uqRz_LGUllKGHii-w",
+   "created": "2025-11-02",
+   "subs": "847",
+   "videos": "413"
+  },
+  {
+   "title": "Dear Diary, It's Luna Cat.",
+   "id": "UCDISUgPuaetl7TM4XtJfJhQ",
+   "created": "2020-12-14",
+   "subs": "14",
+   "videos": "14"
+  },
+  {
+   "title": "Starting over, again!",
+   "id": "UCPSZ22mf0xBHEizutvuIS8Q",
+   "created": "2012-06-01",
+   "subs": "119",
+   "videos": "62"
+  },
+  {
+   "title": "Animeow",
+   "id": "UC53H29KgKK05nBWaReIW0sA",
+   "created": "2023-12-30",
+   "subs": "761",
+   "videos": "102"
+  },
+  {
+   "title": "Rise of Heroes",
+   "id": "UCFNrX65Nq_lcY9MbUwjx0qg",
+   "created": "2025-10-16",
+   "subs": "9430",
+   "videos": "198"
+  },
+  {
+   "title": "Lova & Akachan",
+   "id": "UCdAg1xWBbbJJjZ1KnNtOatw",
+   "created": "2012-12-13",
+   "subs": "635",
+   "videos": "133"
+  },
+  {
+   "title": "NastyRanks",
+   "id": "UCxb4Smcxsu__HIx5XDoyZPQ",
+   "created": "2026-08-23",
+   "subs": "326",
+   "videos": "98"
+  },
+  {
+   "title": "FunnyFurry Moments",
+   "id": "UC92pEZiFRIJg4bb3rGBua4w",
+   "created": "2021-01-14",
+   "subs": "14300",
+   "videos": "104"
+  },
+  {
+   "title": "LottoKitty",
+   "id": "UCzsOJQfg9gM1zz5OnQNpNOA",
+   "created": "2026-06-23",
+   "subs": "33",
+   "videos": "10"
+  },
+  {
+   "title": "Butter and Cola",
+   "id": "UCUbReW5FwehO8i377-SEUMQ",
+   "created": "2011-11-28",
+   "subs": "430",
+   "videos": "118"
+  },
+  {
+   "title": "Cheeky brits",
+   "id": "UCTR3aK8NZbletvTjTkJT-nQ",
+   "created": "2020-05-01",
+   "subs": "6030",
+   "videos": "359"
+  },
+  {
+   "title": "The Rank Files",
+   "id": "UC5D7nFTKCKNRrANDplEdWUQ",
+   "created": "2014-04-14",
+   "subs": "56",
+   "videos": "23"
+  },
+  {
+   "title": "ペチチ",
+   "id": "UC8FayJonyVLyCI1-wM5YgEg",
+   "created": "2025-10-10",
+   "subs": "2870",
+   "videos": "93"
+  },
+  {
+   "title": "PawVerseYT",
+   "id": "UCoNBDMu1axTOllriqfwX_5A",
+   "created": "2024-11-22",
+   "subs": "285",
+   "videos": "22"
+  },
+  {
+   "title": "Luna The Persian Explorer",
+   "id": "UCwOG11kspDg-WF1zWC0_g7A",
+   "created": "2020-09-17",
+   "subs": "3090",
+   "videos": "1166"
+  },
+  {
+   "title": "Goofy Gordon | Pet Stories & Facts",
+   "id": "UCL6Ms1d4d0dYIhcOA8COhJw",
+   "created": "2025-12-05",
+   "subs": "484",
+   "videos": "1101"
+  },
+  {
+   "title": "LastMinit",
+   "id": "UCcG6HCBufJHMGFXRM-V0wJw",
+   "created": "2015-08-07",
+   "subs": "6870000",
+   "videos": "1796"
+  },
+  {
+   "title": "So Adorable",
+   "id": "UCpTjYeN5RVJJ9ug6Y8j0bnw",
+   "created": "2024-07-24",
+   "subs": "439000",
+   "videos": "1969"
+  },
+  {
+   "title": "Minivaro artist",
+   "id": "UCjZbsMuJQUuekGpsyRsiX3Q",
+   "created": "2026-03-06",
+   "subs": "170",
+   "videos": "69"
+  },
+  {
+   "title": "comedyfunworld",
+   "id": "UCdA3OyVd9o70B5nIQvmGpCQ",
+   "created": "2026-08-22",
+   "subs": "405",
+   "videos": "162"
+  },
+  {
+   "title": "سيو بروفيسيونال",
+   "id": "UCIO1-63XBM1rvxHtiYZyw6A",
+   "created": "2025-03-31",
+   "subs": "1",
+   "videos": "1"
+  },
+  {
+   "title": "Irfankhan",
+   "id": "UC1TD0uRTkiM5eJWlFmyJa9Q",
+   "created": "2026-08-07",
+   "subs": "1",
+   "videos": "2"
   }
  ],
  "search_hits": [
   {
-   "q": "country life 405",
-   "vid": "uvqR18HaAK0",
-   "ch": "MP Fresh",
-   "cid": "UCRGTC4zGSe6Ro5ntwPky6-g",
-   "date": "2026-03-12",
-   "title": "Enjoy beautiful nature with rural life 405 # MP Fresh #fruit",
-   "views": 55705,
+   "q": "cat glares at owner",
+   "vid": "6tUJPVwoW6I",
+   "ch": "Manaka Noa3705",
+   "cid": "UC9fouFasKncdvW263i9-ysg",
+   "date": "2026-08-20",
+   "title": "Pranked cat by eating fake poop😂#pov #shorts #usa #relatable",
+   "views": 4075725,
    "desc": ""
   },
   {
-   "q": "country life 405",
-   "vid": "iY5oZxvr154",
-   "ch": "MP Fresh",
-   "cid": "UCRGTC4zGSe6Ro5ntwPky6-g",
+   "q": "cat glares at owner",
+   "vid": "C9yyARSVWjo",
+   "ch": "TailBitPets",
+   "cid": "UCb5EDn_LsSannteNmHBwl0w",
+   "date": "2026-04-30",
+   "title": "This is what an engineer cat dad looks like 🙏😭#funny #cute #",
+   "views": 3605296,
+   "desc": ""
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "Ey2GQCzWEkI",
+   "ch": "Yoshicutecats",
+   "cid": "UCGTFk2DPMhyX6XFpn2-v2Zw",
+   "date": "2026-11-06",
+   "title": "Cat Discovers What He Looks Like #cat #cats #cutecats",
+   "views": 1603262,
+   "desc": "The very best cats from all over the internet Day 16! 😹\n\n📌 Disclaimer:\nEvery clip in this video has been carefully edited, transformed, and enhanced with original commentary to offer a unique viewing experience.\n\nIf you enjoyed this video, make sure to explore the rest of the channel for even more h"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "Xg_MX9nKGSo",
+   "ch": "Dramecs",
+   "cid": "UCOH-_8n7Mnhsd-NUn2vCGqw",
+   "date": "2026-11-11",
+   "title": "This Cat Looks Like a Tough Guy 😂",
+   "views": 362932,
+   "desc": "The Best Cats on the Internet!\n\nIn this episode This Is Your Daily Dose of Cats Day 488 😂 This Cat Looks Like a Tough Guy\n\nWatch the funniest cat videos, unexpected fails, loud meows, and zoomies.\nFrom dramatic jumps to pure cat chaos, this is the kind of cat content people can’t stop watching.\n\n👉 F"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "iadYtwv05es",
+   "ch": "jim luph dya",
+   "cid": "UCXXGsAjvI7TXjCl5XDwhHYA",
+   "date": "2026-11-18",
+   "title": "My Orange Cat Looks So Sad After the Shot 😂",
+   "views": 536837,
+   "desc": ""
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "JGZonI8dQX0",
+   "ch": "Dramecs",
+   "cid": "UCOH-_8n7Mnhsd-NUn2vCGqw",
+   "date": "2026-11-08",
+   "title": "This Is What Peak Cat Form Looks Like 😂",
+   "views": 289311,
+   "desc": "The Best Cats on the Internet!\n\nIn this episode This Is Your Daily Dose of Cats Day 482 😂 This Is What Peak Cat Form Looks Like \n\nWatch the funniest cat videos, unexpected fails, loud meows, and zoomies.\nFrom dramatic jumps to pure cat chaos, this is the kind of cat content people can’t stop watchin"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "CUVQK_OXyH4",
+   "ch": "Aniwell",
+   "cid": "UC0QxcYTUuUp3vdsjB1BoPRg",
+   "date": "2026-11-14",
+   "title": "Life looks a little different when you have a cat. #CatParen",
+   "views": 200295,
+   "desc": "Life looks a little different when you have a cat. 🐱❤️\n\nYour home may have fur on every surface, your camera roll may be 90% cat pictures, and your daily schedule might revolve around meal times, nap times, and unexpected zoomies.\n\nBut honestly, would you have it any other way?\n\nBeing a cat parent m"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "n1rcT1eeqdY",
+   "ch": "Tough guy cat",
+   "cid": "UCMQB1OkmbFBalvanVwGQjag",
+   "date": "2026-09-24",
+   "title": "little cat looks so cute when sleeping. #cats #cat #cute #ki",
+   "views": 162584,
+   "desc": ""
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "a4_U3VBezpE",
+   "ch": "Oops Every Day",
+   "cid": "UCVJZw6zZW4eFt-dXMrVhb9Q",
+   "date": "2026-11-21",
+   "title": "When your cat looks you in the eye and… 🐱🥤",
+   "views": 37153,
+   "desc": "Your cat stares right at you while slowly pushing your juice off the desk… 😾🥤\n…and somehow it's still your fault in the end 🤦\n\nTag someone whose cat runs the house 👇\n\n#relatable #cat #cats #catlife #funnycats #catowner #juice #funny #animation #cartoon #shorts #relatablememes #fyp"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "Heg1RaA6Fso",
+   "ch": "Catvision",
+   "cid": "UCO9wMmj2GkDdsfgNbyS9Qyg",
+   "date": "2026-11-17",
+   "title": "This Tiny Kitten Looks Too Cute While Taking a Bath! #cat#ki",
+   "views": 35424,
+   "desc": ""
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "IjRKMLxsfQk",
+   "ch": "MewMew Housee",
+   "cid": "UCnXKL0c70jPLz0BXaML4z1g",
+   "date": "2026-11-20",
+   "title": "looks good on her tho #cat #kitten #funny #cute #ghost #root",
+   "views": 37180,
+   "desc": ""
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "J6cXl-nK770",
+   "ch": "Doggo Glitch",
+   "cid": "UCkJAMUQusul9Wjd0urOQxlw",
+   "date": "2026-11-21",
+   "title": "The gift that looks just like Cat Chloe has a secret #cat #p",
+   "views": 28469,
+   "desc": "A group of people are pairing up office supplies. A lady wanted to match her ruler with Chloe the cat. Chloe refused. She gave us a cute gift that looked just like Chloe. But Chloe warned us there was danger hidden inside!"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "a6kGwZGFwbc",
+   "ch": "Furry Little Gang",
+   "cid": "UCNYB9uy91-MfDZVv_wt1wsw",
+   "date": "2026-10-29",
+   "title": "Cat looks broken with white fluff inside!Tries to prank owne",
+   "views": 11126,
+   "desc": ""
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "m2CuAfV4eJY",
+   "ch": "oreoandpumpkinspice",
+   "cid": "UCcR29vouSvMzd8P7KtTrHIQ",
+   "date": "2026-11-03",
+   "title": "What does it mean when your cat stares at you? audio: animal",
+   "views": 5090,
+   "desc": "What does it mean when your cat stares at you."
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "2hiFTz-Mjpo",
+   "ch": "Tech TaleShorts\n\n",
+   "cid": "UCIKiyaXePpK6jNf7szHMhAg",
+   "date": "2026-11-21",
+   "title": "Why Your Cat Stares at You (4 Psychology Facts)#catpsycholog",
+   "views": 4967,
+   "desc": "Why Your Cat Stares at You (4 Psychology Facts)#catpsychology #catbehavior #catfacts #catlovers"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "B7V8aQnQAA8",
+   "ch": "WhyAnimalsDo",
+   "cid": "UChcgisNSH0lLLTzQYGG1EYQ",
+   "date": "2026-11-20",
+   "title": "Why Your Cat Stares at You Without Blinking 😳🐈  #catfacts #c",
+   "views": 924,
+   "desc": "Your cat isn't just staring at you for no reason… or is it? 👀🐈\n\nCats use eye contact, facial expressions, and body language to communicate. A relaxed slow blink may be a positive signal—but an intense stare can mean something completely different.\n\nTry slow-blinking at your cat and see what happens!"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "vDogc30JW1c",
+   "ch": "Kaleksy",
+   "cid": "UCzYzrCT0lBDLRtuF5kWyOPQ",
+   "date": "2026-11-20",
+   "title": "Your Cat Stares Before She Sleeps. She May Be Checking On Yo",
+   "views": 854,
+   "desc": "Right before she sleeps, your cat may knead, circle and then lock eyes with you. Each step likely has a job, and the last look may be a check on you. #Shorts #CatBehavior #CatFacts #CatSleep #CatLovers\n\n▶ Next part: https://youtu.be/Y-gANHDf6zo"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "WVCci5Z6I2s",
+   "ch": "Cat videos ",
+   "cid": "UCB_a-4ZDGxOgE6jt2avo6-w",
+   "date": "2026-11-21",
+   "title": "why Cat Looks At You Like That👇🤗🌹❤#cat # #pets #shorts #vira",
+   "views": 1218,
+   "desc": ""
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "gLceyWop1o0",
+   "ch": "Purrfect Catastrophe",
+   "cid": "UCoGRqVF2BFU9DTLmvea_ROA",
+   "date": "2026-11-22",
+   "title": "When Your Cat Isn&#39;t Sure, She Looks at You 🐱👀",
+   "views": 335,
+   "desc": "In one study, pet cats met a strange object (an electric fan with green ribbons on it) in a room with their owner. While the owner stood silent with a neutral face, 19 of the 24 cats analysed (79%) looked back and forth between the fan and their owner. Then the owners talked about the fan in a happy"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "RI31VTxLZFU",
+   "ch": "Whyisit",
+   "cid": "UC92vXPCXCwe4ls43o4iOY_A",
+   "date": "2026-11-22",
+   "title": "Your cat looks you dead in the eye and does it anyway. Here&",
+   "views": 178,
+   "desc": "Feline object-pushing behavior (often driven by predatory play instincts and operant conditioning) is the habit domestic cats have of deliberately batting or nudging small items off elevated surfaces.\nRooted in their natural hunting instincts, cats use the sensitive pads on their paws to poke and te"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "4IoQLsK3lgk",
+   "ch": "@cutie_shorts_@",
+   "cid": "UCPDdtwWsnOav1dKUnnoGXxw",
+   "date": "2026-11-21",
+   "title": "why cat 🐈 Looks at you like that 🤗😽❤️ viral #shorts cute ani",
+   "views": 894,
+   "desc": "why cat 🐈 Looks at you like that 🤗😽❤️ viral #shorts cute animal #cat lovers pet lovers #person cat pls like and subscribe 🥹"
+  },
+  {
+   "q": "cat glares at owner",
+   "vid": "GfKJJIQ7p8Y",
+   "ch": "Leo Nardo - Cat Psychology ",
+   "cid": "UC6JLsj22qkaYkMKWYZswmbQ",
+   "date": "2026-11-21",
+   "title": "Do You Know Why Your Cat Stares at Walls?",
+   "views": 1,
+   "desc": "Why does your cat stare at walls? Cats often notice sounds, motion, and drafts that you miss.\nCat staring at walls can be normal hunting behavior, boredom, or a sign to watch for changes.\n\nCHAPTERS\n0:00 Intro\n0:25 Super Senses\n1:03 Hunter Brain\n1:46 When To Check\n2:22 Wrap-up\n\nIn this video, you'll "
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "AidhkgN73OE",
+   "ch": "Tizzy",
+   "cid": "UC0X8n4QTJ4bzwcRG_vLOqxw",
+   "date": "2026-08-08",
+   "title": "Cat got offended",
+   "views": 4737911,
+   "desc": "This cat looked genuinely offended after hearing her human meow\n\nTizzyUS\nAura\nFunny memes\n\n\n#tizzyus #memes​ #aura​ #funny​​ #funnymemes​​\n\n\n\n\n\n\n#demonslayeredits​​ #demonslayeredit​​ #demonslayeredits​​ #wis​​ #1v1​​ #debate​​ #muichirotokito​​ #muichirou​​ #muichirouedit​​ #edit​​ #amv​​ #4k​​ #4k"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "lZ98yLAGepw",
+   "ch": "lenovo 009",
+   "cid": "UCXte_JcqJqXJ1CAah03c9ow",
+   "date": "2026-07-03",
+   "title": "POV: You accidentally offended a caracal 5 different times i",
+   "views": 1790777,
+   "desc": ""
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "_A40y9jR-Tg",
+   "ch": "catsmeowlove",
+   "cid": "UCRJ0LdsV0MhiIpxELWcUMEg",
+   "date": "2026-09-22",
+   "title": "The Ultimate OFFENDED CATS Core 🙀",
+   "views": 54514,
+   "desc": "These cats are feeling completely offended today! We had to put that hilarious reaction in spot 1 because bro absolutely rejected those kisses and demanded his personal space. Then the kitty in spot 2 felt completely mocked when his owner started parodying him. Spot 3 is pure comedy with bro getting"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "IasBoykvBIU",
+   "ch": "Funny Meow Club",
+   "cid": "UCIf6pE5n-NUT89i1TYTAuHA",
+   "date": "2026-06-02",
+   "title": "This Cat Gets Offended So Easily 😂 #cat #catlove #funny #sho",
+   "views": 35071,
+   "desc": "This cat gets offended so easily 😂🐱😼\n\nI swear this cat takes everything personally 😭 One second they're happy, and the next they're acting completely offended over the smallest thing 😂🐾\n\nFrom dramatic reactions and judgmental stares to walking away like they've been deeply betrayed, this cat is a pr"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "cqIgTQqXSVM",
+   "ch": "PetSnapz",
+   "cid": "UCdPe1Nko1OFw0FyEs_mDm1g",
+   "date": "2026-04-26",
+   "title": "Ranking Cats That Got Offended 😹😤 #shorts #viralshorts #cat ",
+   "views": 32318,
+   "desc": "Ranking cats that got offended in these hilarious and dramatic moments. From tiny inconveniences to full attitude reactions, these cats were not having it!\n\nfunny cats, \noffended cats, \ncat reactions, \ndramatic cats, \ncat attitude, \nfunny cat videos,\n\n#short #viralshorts #funnycats #catreactions #ca"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "fjHEFE5J444",
+   "ch": "CatNip",
+   "cid": "UCj6Ihr6OoR81fAAGzwf7GYQ",
+   "date": "2026-05-19",
+   "title": "Ranking Cats Offended by Vegetables 🐱🥦",
+   "views": 27517,
+   "desc": "Some cats act personally offended by vegetables 🐱🥦\nIn this video, we rank the Top 5 funniest cats reacting to vegetables moments!\n\nWatch until the end to see the most dramatic #1 😹🔥\n\nIf you enjoy funny, weird, and entertaining cat videos, subscribe for more ❤️\n\nLike 👍 Comment 💬 Subscribe 🔔\n\n#cats #C"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "A89Z5BIastU",
+   "ch": "catsmeowlove",
+   "cid": "UCRJ0LdsV0MhiIpxELWcUMEg",
+   "date": "2026-07-21",
+   "title": "Ranking FUNNIEST OFFENDED CATS Core 🚩 #cats #catshorts #catc",
+   "views": 23921,
+   "desc": "These cats are absolutely DONE with us! 😭 We went from a kitty experiencing the ultimate disrespect over a simple sneeze 🤧 straight into a literal biological threat with the kimchi sniff ☣️. I still can't believe bro started beefing with a hairspray bottle 💨, but nothing is worse than getting comple"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "AW29fGVQsIY",
+   "ch": "Cloud and Lola",
+   "cid": "UCJcelFcB9fGKSd6S36P7s7g",
+   "date": "2026-08-21",
+   "title": "Cloud was so offended that we dared to laugh while he was tr",
+   "views": 23131,
+   "desc": ""
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "X6CBwIiNExs",
+   "ch": "Cat Judge",
+   "cid": "UCQqauLfrCS8qLJZPM2l-vDQ",
+   "date": "2026-06-03",
+   "title": "Ranking the Most Offended Cats Ever #shorts #catpranks #cute",
+   "views": 13883,
+   "desc": "Today we rank the funniest cat prank videos on the internet 😹🎭\n\nFrom surprise scares and disappearing tricks to unexpected reactions, these cats were completely caught off guard.\n\n Some were confused, some were offended, and some were already planning their revenge.\n\nWhich cat prank reaction deserve"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "681rYO9spg0",
+   "ch": "Christel Achane",
+   "cid": "UCre5L0664JMiiM52hgMtyZQ",
+   "date": "2026-07-01",
+   "title": "POV: You accidentally offended a caracal 8 different times i",
+   "views": 9693,
+   "desc": ""
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "Cs5do-cLiaI",
+   "ch": "Animal 245",
+   "cid": "UC40jdMT--Fw4YPudUC-PWcg",
+   "date": "2025-12-29",
+   "title": "Why Cats Act Offended by Simple Movements",
+   "views": 7141,
+   "desc": "cute animals, dog shorts, cat shorts, funny pets. puppy videos, kitten video\npet shorts, animal lovers, dog videos, daily pet content, animal compilation, pet reaction"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "8VpVSDrFET0",
+   "ch": "CutieDogRanks",
+   "cid": "UCOYLy8gouJGu9Rec6Oqw3rA",
+   "date": "2026-11-19",
+   "title": "Ranking The Funniest Dramatic Cat Reaction moments 😂",
+   "views": 8692,
+   "desc": "Watch 9 hilarious moments of dramatic cats overreacting, getting offended, and throwing fits over the smallest things. Which dramatic cat moment made you laugh the hardest? Like and subscribe for more funny cat rankings and viral pet shorts!\n\n#shorts #funnycats #dramaticcats #catmemes #catreactions "
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "1WV9a4RxOVk",
+   "ch": "ZonixClips.",
+   "cid": "UC2Nz2gOuoX3CUzIa3jC7Srg",
+   "date": "2026-06-13",
+   "title": "I&#39;ve NEVER seen a DOG this OFFENDED before.",
+   "views": 3482,
+   "desc": "This dog reacts to his owner petting the cat like a lawyer just handed him divorce papers. 😂\n\nEvery scratch, every pet, every second of attention sent the dog into full complaint mode while the cat sat back and enjoyed the VIP treatment.\n\nSo what's your verdict: is this dog jealous, or is he trying "
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "fq-YHz0zOwU",
+   "ch": "Rahmat El Draga",
+   "cid": "UCWksgwMJXn45ycJXxml573g",
+   "date": "2026-07-21",
+   "title": "Cat Gets OFFENDED by the Middle Finger! 😂🐱",
+   "views": 3601,
+   "desc": "The owner jokingly raises their middle finger in front of the cat. At first, the cat looks confused... but just a second later, it seems completely offended! With an angry stare and an instant paw swipe, the furry little boss makes it clear that this joke has gone too far. This hilarious reaction is"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "SBldDiBUWps",
+   "ch": "facina",
+   "cid": "UCVyKoG2RZjIR33z_0ogX2oQ",
+   "date": "2026-08-20",
+   "title": "Cats Getting Offended By Smells 🍋😾 #shorts",
+   "views": 2440,
+   "desc": "These cats sniffed something weird and had the most dramatic reactions ever! 🤢 From gagging at citrus to freezing completely over coffee, these funny cat reactions prove their noses are way too sensitive. 🙀\n\nWhich rank had the worst reaction? Drop a comment below! 👇\n\nSubscribe to Facina for daily fu"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "6aC1G2OwrKM",
+   "ch": "LOVE ANIMALS ID",
+   "cid": "UCHnMcsuPWn6ZU_iQZHIRYPg",
+   "date": "2025-12-21",
+   "title": "Why Cats Look Offended After Vet Visits",
+   "views": 2552,
+   "desc": "cute animals, dog shorts, cat shorts, funny pets. puppy videos, kitten video\npet shorts, animal lovers, dog videos, daily pet content, animal compilation, pet reaction, love animals id"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "KWlpA65GdoI",
+   "ch": "Jennifer Morales - Feline Films",
+   "cid": "UCKKPhRnT3M1oeCx0zFqkC7w",
+   "date": "2026-05-26",
+   "title": "I Coughed Once And Offended My Cat",
+   "views": 3580,
+   "desc": "Cleo was peacefully resting until I had the nerve to cough\n#cat #shortsfeed #shortsvideo #shorts"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "0GLBzwDaNbM",
+   "ch": "Animals' Funniest Moments",
+   "cid": "UCWUAvmw7ptq8kBRVRp-UeoA",
+   "date": "2026-11-17",
+   "title": "Who Is The Most Offended Cat? Ranking The Best Clips 🐱💢 #fun",
+   "views": 1223,
+   "desc": "We are ranking the most offended cats on the internet! 😾\n\nThese clips capture every hilarious moment, from felines annoyed by touched toe beans to grumpy reactions over being late for work. If you love a good funny animal compilation, you need to see which pet took the top spot for their spicy attit"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "KMBd0207-mo",
+   "ch": "CutePawHub",
+   "cid": "UCj7EWXLlU-PXUpETUH3m1sg",
+   "date": "2026-06-21",
+   "title": "The Cute Kitten Actually Knows The Middle Finger Is An Insul",
+   "views": 1208,
+   "desc": "The Best Cats on the Internet! 🐱\nIn this episode: This Is Your Daily Virtual Cat Therapy(Day27)\nThe Cute Kitten Actually Knows The Middle Finger Is An Insult 😂\nWatch the funniest cat videos and unexpected glitches: a cat making a bizarre sound that sounds exactly like a rusty iron gate opening, and "
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "62klm68mRJo",
+   "ch": "MindBite",
+   "cid": "UCWW6OPGGwcCY9JIwZCx6wfg",
+   "date": "2025-12-17",
+   "title": "😾😂 Why Do Cats Act Offended After You Laugh at Them?",
+   "views": 784,
+   "desc": "Ever laugh when your cat slips, misses a jump, or does something silly — only for them to glare at you? That reaction is very real. #catfacts #mindbyte #petbehavior #didyouknow"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "eHyUxVFNz8I",
+   "ch": "Sphynx Cat Owners and Fans",
+   "cid": "UCmhKGlN1nz-cIvSMA4Roszw",
+   "date": "2026-02-25",
+   "title": "My Sphynx Cat is offended! 😹 &quot;Oh, so we&#39;re fake now",
+   "views": 1746,
+   "desc": "#SphynxCat #FunnyCats #HairlessCat #Sphynxcof #CatLover #PetReels #ViralCat #SphynxLife #SphynxFans #CatReactions\n\nEver wondered how a Sphynx cat reacts to being called 'fake'? 🐾 \n\nWatch this hilarious moment where our Sphynx cat gets totally offended! Whether you're a Sphynx cat owner or just a fan"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "chL19rQiu1k",
+   "ch": "Henry Has Boundaries",
+   "cid": "UCZ2h1jB0A1ywMoFUmL2OZ3g",
+   "date": "2026-09-18",
+   "title": "When You Offend Your Cat in 3 Seconds",
+   "views": 1437,
+   "desc": "The question was simple. The response was pure judgment. 😂😾\n\nWhat do you think Henry was actually thinking? Drop your translation in the comments! 👇\n\n#shorts #cats #funnycats #catreaction #cattok #henryhasboundaries"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "Pw_ztHdR63Y",
+   "ch": "LOVE ANIMALS ID",
+   "cid": "UCHnMcsuPWn6ZU_iQZHIRYPg",
+   "date": "2025-12-31",
+   "title": "Why Cats Act Offended When You Exist",
+   "views": 471,
+   "desc": "cute animals, dog shorts, cat shorts, funny pets. puppy videos, kitten video\npet shorts, animal lovers, dog videos, daily pet content, animal compilation, pet reaction, love animals id"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "isEq26wSkCg",
+   "ch": "zaki kita",
+   "cid": "UCWzkrDhZ5qwxKEJlxqGavGg",
+   "date": "2026-05-06",
+   "title": "This Cat Was OFFENDED by Her Singing 😭",
+   "views": 546,
+   "desc": "This cat’s reaction to her singing is absolutely priceless 😂🐱\nCreated for entertainment purposes.\n\n#cat #funnycat #cats #viral #shorts #funny #cutecat #catreaction #fyp #comedy"
+  },
+  {
+   "q": "cat offended owner reaction",
+   "vid": "faGEjywRLmA",
+   "ch": "Rebel O.",
+   "cid": "UCe40BaPjgvAvlNe0_Hg26UA",
+   "date": "2026-06-05",
+   "title": "Tabasco steals the clean laundry and gets offended #cat #fun",
+   "views": 6,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "hvGKLidFBog",
+   "ch": "Arbasa",
+   "cid": "UC1eIHfnWY5lNUmzw4ZPi0IA",
+   "date": "2026-11-09",
+   "title": "Stop Your Cat From Wrecking the Christmas Tree 🐱🎄 #shorts  #",
+   "views": 54178967,
+   "desc": "Christmas Cat Tunnel Bed, $74.99 at arbasa.com. Flat $4.99 US shipping 🇺🇸 20% off with code YOUTUBE20.\n🛒 Tap the product on this Short, or go to arbasa.com/products/red-snowflake-foldable-tunnel-cat-bed\nA soft, foldable donut bed with a play tunnel and a red snowflake design 🐱🎄 It gives your cat a c"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "zSClxTQD4sg",
+   "ch": "4K SHORT IT",
+   "cid": "UC3glsiSne1ZYCMOO6i-TC0A",
+   "date": "2026-03-15",
+   "title": "Cat Stops Dogs Fight 😲🐱#shorts #amazingfacts",
+   "views": 2481991,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "ltnjjs28xSA",
+   "ch": "Funny Animal 10",
+   "cid": "UCMYb4gh9CMgvHXU93ma4bzA",
+   "date": "2026-01-30",
+   "title": "animals can&#39;t stop being hilarious #cat #ytshorts #short",
+   "views": 1619092,
+   "desc": "These funny animals will make your day 😂🐶🐱  \nCute pets, funny moments, and viral animal clips you’ll love to watch again and again!\n\nDiese lustigen Tiere bringen dich garantiert zum Lachen 😂  \nSüße Haustiere, witzige Momente und virale Tier-Videos!\n\nWatch till the end ❤️  \nLike 👍 Comment 💬 Share 🔁\n\n"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "5jKXctIzLQw",
+   "ch": "WildBaat",
+   "cid": "UC3ey6uwwslZWmskn4e41KyQ",
+   "date": "2026-07-31",
+   "title": "Stop Doing THIS To Your Cat Right Now! 🚫🐱",
+   "views": 1706340,
+   "desc": "You might be hurting your cat without even realizing it! 🐱💔 From shouting at them to forcing them to be held, small mistakes can break your cat's trust. Watch till the end to learn 5 crucial things you should NEVER do to keep your feline friend happy and healthy!\n\nWhich of these mistakes surprised y"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "XnDSTw-Yh0E",
+   "ch": "WildlyWise",
+   "cid": "UCP6Pps4IXWTIt3Zewhg9Mfw",
+   "date": "2026-11-09",
+   "title": "Stop Bathing Your Cat Like This! 🛑 #shorts",
+   "views": 789520,
+   "desc": "Did you know your cat isn't actually naturally afraid of water? If you've been struggling with how to bathe a cat without getting scratched, your setup might be the problem! Try these simple cat bath tips like using a rubber grip mat in the sink or a gentle shower nozzle to keep your feline calm.\n\n🐾"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "4r37PvxJ51k",
+   "ch": "Funny Cats Shorts Tv",
+   "cid": "UC6R8nffFXafzFHg1IEuS4zA",
+   "date": "2026-08-14",
+   "title": "Cat Meowing 😹🐱 Won’t Stop Meowing! #catmeowing #meow #shorts",
+   "views": 1131179,
+   "desc": "cat meowing, nonstop cat meowing, funny cat sounds, cats meowing, cute cat sounds, meow sound\n\nThis cat meowing just won’t stop! 😹🐱\nThe nonstop meows make this cat impossible to ignore.\nListen until the end for the funniest meowing moment! 🐾\n\nLike 👍 if you could listen to these meows all day!\nCommen"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "ZcTJ5Qv3uhg",
+   "ch": "MuRaTFaTiH",
+   "cid": "UC-VcAkPUE9gJOqEX4niSByw",
+   "date": "2026-08-06",
+   "title": "Kedice bilen anne Samanı durdurdu 🤣",
+   "views": 670906,
+   "desc": "Video sahibi İG 📽️ dugmetheking✨\nTeşekkürler 🙏🏻 \n\nannenin koltuk hassasiyeti sarmani şoka uğrattı 🤣\n\n#kedi #shorts"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "b6uFL9GXucA",
+   "ch": "MeowYen and Friends",
+   "cid": "UCGn5na6b4sw2j4PIzo7yYHg",
+   "date": "2026-08-07",
+   "title": "Cat, stop being naughty 😩#cat #shorts",
+   "views": 406757,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "PhsOjXtx8dA",
+   "ch": "Vfx Adarsh",
+   "cid": "UCIOuQsiJrX-OBwFqmoP8LAQ",
+   "date": "2026-07-24",
+   "title": "Cute dog beby stop train by dance #trending #cute #cat #tren",
+   "views": 527421,
+   "desc": "Thank you guys😊😊 for keeping this channel active. I am very happy to entertain you by making funny videos on my channel.\n\n\n#thanks\n\n#thankyou\n\n#youtube\n\n#ayman\n\n#ayma_official_1\n\n#trending\n\n#trendingshorts\n\n#viralshorts\n\n#shorts\n\n#short\n\n#viral\n\n#dance\n\n#funny\n\n#cute\n\n#vfx\n\n#video \n\n\nCute dog beby s"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "ujZ17sot9tE",
+   "ch": "WildlyWise",
+   "cid": "UCP6Pps4IXWTIt3Zewhg9Mfw",
+   "date": "2026-10-24",
+   "title": "Stop Playing With Your Cat Like This! 🛑🐱 #shorts",
+   "views": 277797,
+   "desc": "Are you making these common cat play mistakes? Learn the right way to play with your cat to keep them happy, healthy, and mentally stimulated! From laser pointer rules to hand-play warnings, these essential cat care tips will improve your bond instantly. 🐾✨\n\nright way to play with your cat, cat play"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "-FXrPBzecUw",
+   "ch": "Funny Cats Shorts Tv",
+   "cid": "UC6R8nffFXafzFHg1IEuS4zA",
+   "date": "2026-10-10",
+   "title": "Cat Meowing 😹📢 Can’t Stop Meowing! #catmeowing #meow #shorts",
+   "views": 459881,
+   "desc": "cat meowing, can’t stop meowing, nonstop cat meows, funny cat voice, chatty kitty, adorable meowing cat\n\nThis cat has so much to say and isn’t stopping anytime soon! 😹📢\nEvery meow makes this little moment even more entertaining.\nTurn up the cuteness and enjoy this nonstop meowing! 🐾\n\nLike 👍 if you l"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "drdRxPDjWrE",
+   "ch": "Funny Cats Shorts Tv",
+   "cid": "UC6R8nffFXafzFHg1IEuS4zA",
+   "date": "2026-09-29",
+   "title": "Baby Cat Meowing 😻🔊 Can’t Stop Meowing! #babycat #catmeowing",
+   "views": 458164,
+   "desc": "baby cat meowing, can’t stop meowing, tiny cat voice, nonstop baby meows, adorable little cat, sweet meowing moment\n\nThis baby cat simply can’t stop meowing! 😻🔊\nThose tiny little sounds make this adorable moment even sweeter.\nListen closely—another precious meow is coming! 🐾\n\nLike 👍 if this baby cat"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "61VPeYrgCDs",
+   "ch": "Arbasa",
+   "cid": "UC1eIHfnWY5lNUmzw4ZPi0IA",
+   "date": "2026-11-16",
+   "title": "My Cat’s New Sleeping Bag 🥹🐱 Coziest Cat Bed Ever #shorts #c",
+   "views": 264513,
+   "desc": "My cat stopped stealing my pillow the day she got her own sleeping bag 🥹 This plush tunnel cat bed is soft, warm and enclosed, so cats can burrow in and feel safe all winter ❄️ Fits cats up to 8 kg (about 17 lb). A perfect Christmas gift for any cat mom 🎁\n\n🔗 Link in bio → search “cat bed” on Arbasa\n"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "gCQJHjPPsIM",
+   "ch": "Kittusie🩷",
+   "cid": "UCewjPkxRf_jYfThSEO-P7kA",
+   "date": "2026-09-28",
+   "title": "Stop Scrolling… This Kitten Wants You! 🐱👀💕 #shorts #cat #kit",
+   "views": 320710,
+   "desc": "Stop Scrolling… This Kitten Wants You! 🐱👀💕 #shorts #cat #kitten #cute"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "OC6jHuSJlxA",
+   "ch": "Utpal Comedy & Funny",
+   "cid": "UCvUmvFqTphO5icB5LR3garA",
+   "date": "2026-11-18",
+   "title": "Stop It, Kitty! 😺🫢#funny #cat #shorts",
+   "views": 254965,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "xnyGhhOOJYA",
+   "ch": "Vfx Adarsh",
+   "cid": "UCIOuQsiJrX-OBwFqmoP8LAQ",
+   "date": "2026-07-23",
+   "title": "Cute dog beby stop train by dance #trending #cute #cat #tren",
+   "views": 268210,
+   "desc": "Thank you guys😊😊 for keeping this channel active. I am very happy to entertain you by making funny videos on my channel.\n\n\n#thanks\n\n#thankyou\n\n#youtube\n\n#ayman\n\n#ayma_official_1\n\n#trending\n\n#trendingshorts\n\n#viralshorts\n\n#shorts\n\n#short\n\n#viral\n\n#dance\n\n#funny\n\n#cute\n\n#vfx\n\n#video \n\n\nCute dog beby s"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "3zH2t3e0NGU",
+   "ch": "Pintu Comedy lover",
+   "cid": "UC4rCLllAQSvd-nF9Tdp5vgw",
+   "date": "2026-09-20",
+   "title": "Cat, stop singing🫢#cat #shorts",
+   "views": 200207,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "gztB55gVVCI",
+   "ch": "Spektrum Studios ",
+   "cid": "UCxNNzsMKAKX4_QG8umF4E_w",
+   "date": "2026-08-01",
+   "title": "Cartoon Cat | Stop Motion Short Film",
+   "views": 98725,
+   "desc": "Hello there. I'm João Gama, the animator behind all the animations on my channel. I decided to create this special little animation to celebrate the news of the upcoming Cartoon Cat movie. Both animation and the cartoon cat stop motion puppet were made by me.\n\nNOTE: This audio (Cartoon Cat Voice Imp"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "6ix49W-CDxY",
+   "ch": "Laugh Out Paws",
+   "cid": "UCGeElcgT-7bwRv06y1IHVGg",
+   "date": "2026-10-23",
+   "title": "I grabbed insecticide, but my cat stopped me #cat #cats #pet",
+   "views": 198684,
+   "desc": "I freaked out when I spotted little bugs and thought they were cockroaches. I was about to use insecticide, but Luna stopped me. After checking, we found out they are harmless pill bugs instead of cockroaches!"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "i7toTu5W4ok",
+   "ch": "The BAY Family",
+   "cid": "UCT6o3Zx_eBqeQOAMhrXCccQ",
+   "date": "2026-10-15",
+   "title": "Mom can’t stop sneezing at cat in the hat #shorts",
+   "views": 184400,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "5I2NsTD32XU",
+   "ch": "Funny Cats Shorts Tv",
+   "cid": "UC6R8nffFXafzFHg1IEuS4zA",
+   "date": "2026-09-29",
+   "title": "Cat Meowing 😹📣 Can’t Stop Meowing! #catmeowing #meow #shorts",
+   "views": 239406,
+   "desc": "cat meowing, can’t stop meowing, nonstop cat sounds, funny meow moment, playful cat voice, hilarious cat video\n\nThis cat seriously can’t stop meowing! 😹📣\nOne little meow turns into another, making this playful moment impossible to ignore.\nKeep watching and enjoy this nonstop cat conversation! 🐾\n\nLik"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "GkzT3Uho400",
+   "ch": "링고다냥",
+   "cid": "UCO-s9MFWm8ghwrcYIMAjDSw",
+   "date": "2026-09-02",
+   "title": "Stop doing this to your cat! ✋😿 #shorts #cat #funny",
+   "views": 173579,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "hyRRq2wYL84",
+   "ch": "YT_Pahmy👑",
+   "cid": "UCTT9PRj6xWYUfErpmGRV_dw",
+   "date": "2026-08-18",
+   "title": "stop bullying🙃#kucing #sad #cerita #sedih #vidio #viral #sho",
+   "views": 180227,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "YIBEoHBSKLo",
+   "ch": "Shorts Factoh Wali",
+   "cid": "UCN7X--kONrJl_9jr2sSXdhw",
+   "date": "2026-06-29",
+   "title": "Stop Cat Scratching? Try Nail Caps! 🐾",
+   "views": 121704,
+   "desc": "Stop Cat Scratching? Try Nail Caps! 🐾\n\n\nVoice Credit Respective Owner:- Factsdastan \n\nRadhe Radhe ❤️\n\nWelcome to my channel FactohWali ❤️\n📚 For Educational Purposes Only\n\n⚠️ DISCLAIMER:\nAll rights belong to their respective owners. This video is made for educational and informational purposes only. "
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "xp7Qmn9rXC8",
+   "ch": "Funny Cats Shorts Tv",
+   "cid": "UC6R8nffFXafzFHg1IEuS4zA",
+   "date": "2026-09-04",
+   "title": "Cute Cat Meowing 😻🎶 Can’t Stop Meowing! #cutecat #catmeowing",
+   "views": 222675,
+   "desc": "cute cat meowing, nonstop cat meows, adorable cat sounds, funny kitty voice, sweet little meows, playful cat\n\nThis cute cat meowing just can’t stop! 😻🎶\nThose nonstop little meows and adorable expressions make this cat impossible to ignore.\nListen until the end for another incredibly cute meow! 🐾\n\nLi"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "xYPCWTRA0y4",
+   "ch": "Wunder der Erde Doku",
+   "cid": "UCm0jOWFm83rNC81WTJw0SWA",
+   "date": "2026-11-12",
+   "title": "🪮🐱 Genius hack to stop cat hair from flying everywhere!! #sh",
+   "views": 129699,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "LMCGqbM94kI",
+   "ch": "WildlyWise",
+   "cid": "UCP6Pps4IXWTIt3Zewhg9Mfw",
+   "date": "2026-10-28",
+   "title": "Stop Holding Your Cat Like This! 🛑🐱 #shorts",
+   "views": 102513,
+   "desc": "Are you holding your cat the wrong way? 🛑 Never pick up your cat by the belly, scruff, or armpits—it can cause serious discomfort, restricted breathing, and joint strain. Learn the correct, safe way to hold and pick up your feline friend so they feel secure and loved!\n\nhow to hold a cat,cat care tip"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "ftd8-r1358w",
+   "ch": "RumiRumiR",
+   "cid": "UCbkOo8mLHCUcymfY3DWJntg",
+   "date": "2026-11-20",
+   "title": "My Cat Kept Climbing the Christmas Tree. So I Got Him His Ow",
+   "views": 82542,
+   "desc": "Every day Biscuit climbs the Christmas tree to grab the gold star. Foil around the base doesn't stop him, and neither does Rumi sleeping next to the tree. She brings in a cat tree shaped like a Christmas tree. He ignores it, until she flicks the red pom-pom.\n\nFeatured product: Allewie 63 Inch Christ"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "s3CFg_uconw",
+   "ch": "Pawlio",
+   "cid": "UCobElLjNV88H9373kBfeZbQ",
+   "date": "2026-11-16",
+   "title": "My Cat Finally Stopped Knocking Down Our Christmas Tree 🎄😹 #",
+   "views": 87853,
+   "desc": "No more fallen trees this Christmas 🎄😹 Comment “TREE” and I’ll send you the link! 👇 #catmom #cat #christmastree #cattunnel#catlover"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "IjSAUGA0KgY",
+   "ch": "Total funny video",
+   "cid": "UCcPIM2EneYOn5a9KuqRcSsg",
+   "date": "2026-10-16",
+   "title": "Cat, stop your singing #cat #shorts",
+   "views": 85451,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "6qNds_2Q0c8",
+   "ch": "Manaka Noa3705",
+   "cid": "UC9fouFasKncdvW263i9-ysg",
+   "date": "2026-09-10",
+   "title": "How to stop a cat from knocking stuff off?😂#pov #shorts #usa",
+   "views": 63179,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "dkVvIag97FM",
+   "ch": "Wild & Silly",
+   "cid": "UCfWETeo6BJMfQreX6Gg3Jzg",
+   "date": "2026-11-16",
+   "title": "My Cat Stopped Me From Eating Strange Homemade Tangyuan #cat",
+   "views": 66450,
+   "desc": "My aunt sent me homemade tangyuan. I was looking forward to tasting them. But my cat noticed a strange smell. After boiling, the tangyuan looked odd. One sesame tangyuan had no filling at all. I still wanted to take a bite, yet my cat kept stopping me, saying these tangyuan were not right."
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "ftr3prC_8N4",
+   "ch": "Izizil Khan",
+   "cid": "UCXRPfeXcS5Wdrzqqa-C31pw",
+   "date": "2026-03-19",
+   "title": "This Cat Belly Dancing Will Make You Laugh Non-Stop 😂🐱 #bell",
+   "views": 64525,
+   "desc": "Watch this hilarious cat belly dancing like a pro! 😂🐱\nThis funny moment will definitely make your day better.\nDon’t miss the cutest and funniest dance ever caught on camera!"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "DxQCCvtU9CI",
+   "ch": "Jacquie Hazard",
+   "cid": "UCYPb2tergWPt0CRv428I-Ww",
+   "date": "2026-10-12",
+   "title": "Donut shaped cat bed, cats stop scratching sofas#shorts #fun",
+   "views": 56092,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "MIWGe1a9HPg",
+   "ch": "링고다냥",
+   "cid": "UCO-s9MFWm8ghwrcYIMAjDSw",
+   "date": "2026-09-24",
+   "title": "&quot;Stop buying stupid stuff&quot; ... No😁 #shorts #cat #f",
+   "views": 65413,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "RVQeIZvS9to",
+   "ch": "WildlyWise",
+   "cid": "UCP6Pps4IXWTIt3Zewhg9Mfw",
+   "date": "2026-09-16",
+   "title": "Stop Apologizing To Your Cat Like THIS! 🙀 #shorts",
+   "views": 43981,
+   "desc": "Stop making this common mistake! 🙀 Learn the proper way to apologize to your cat after accidentally stepping on or bumping into them. High-pitched apologies can actually scare your cat, but this simple trick works every time! 🐾✨\n\ncat behavior explained,\nhow to apologize to a cat,\ncat body language,\n"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "Ed82wqLyTdQ",
+   "ch": "PawVerse TV",
+   "cid": "UCnqFFnI-KpDhiD6500fT5lA",
+   "date": "2026-11-20",
+   "title": "CAT! DON&#39;T STOP MY EMERGENCY! 😂🐱 #shorts #cat #funny #co",
+   "views": 43305,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "sQ-ZCesHNFk",
+   "ch": "Mama Jasmine Almaira",
+   "cid": "UCS_ViH3YCzGf4e7kFK_8yoA",
+   "date": "2026-11-16",
+   "title": "kucing jangan main hp #shorts #funny #comedy #trending",
+   "views": 43421,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "gJkzQmTCdp8",
+   "ch": "Hounds Coker",
+   "cid": "UCNr7hMKOdQdBFRoMPAJ_-wA",
+   "date": "2026-09-13",
+   "title": "Owner Stopped Her Cat From Eating Coffee Beans… But Found A ",
+   "views": 31033,
+   "desc": "This greedy cat thought coffee beans were cat food. After seeing his owner drink coffee, he secretly mixed his own kibble into the coffee beans! He actually thought his owner loved cat food just as much as he did and wanted to share his favorite feast... How adorable is that? Has your cat ever share"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "uADBRaauIeQ",
+   "ch": "Vfx Adarsh",
+   "cid": "UCIOuQsiJrX-OBwFqmoP8LAQ",
+   "date": "2026-08-31",
+   "title": "Cute dog beby stop train by dance #trending #cute #cat #tren",
+   "views": 49817,
+   "desc": "Thank you guys😊😊 for keeping this channel active. I am very happy to entertain you by making funny videos on my channel.\n\n#thanks\n#thankyou\n#youtube\n#ayman\n#ayma_official_1\n#trending\n#trendingshorts\n#viralshorts\n#shorts\n#short\n#viral\n#dance\n#funny\n#cute\n#vfx\n#video \n\nCute dog beby stop train by danc"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "FzG63CYmvmA",
+   "ch": "Paws Guardian",
+   "cid": "UCwg67TVaAYxZp-L1JrGWWrw",
+   "date": "2025-11-27",
+   "title": "How to train a cat to stop bad behavior #shorts",
+   "views": 28538,
+   "desc": "This owner had a genius idea\nTo correct his cat’s bad behavior\nLook\nEvery time he tried to pet the cat\nThe cat would bite him\nSo the owner came up with a plan\nHe bought a crocodile toy\nTo show the cat what happens when it bites\nThe cat was very scared\nAnd never bit again\n\nBut soon\nThe owner noticed "
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "VOLxtFL3svw",
+   "ch": "SAMIRUL OFFICIAL ",
+   "cid": "UC4cjrxQS4t-5LxkneiD-8-Q",
+   "date": "2026-10-25",
+   "title": "The Owner Couldn&#39;t Stop Smiling After Seeing His Cats Do",
+   "views": 31036,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "QKFxAkfg6aM",
+   "ch": "Kaizoka Ranks",
+   "cid": "UC5ZGpg-TCpzq2sxu_IfiFIg",
+   "date": "2026-08-22",
+   "title": "You Won’t Stop Watching These Cats 😂🐱 #shorts #cat #funny",
+   "views": 30200,
+   "desc": "Get ready for the ultimate dose of feline fun! 🐾 In this video, we’re ranking the most hilarious cat moments that will definitely make your day. From unexpected jumps to the sweetest purrs, see where your favorite kitty lands on our list!\n\nWhich moment was your absolute favorite? Let us know in the "
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "AZYDnIvFN_s",
+   "ch": "VoidKaze",
+   "cid": "UCQN0Cc5rm23fb_aec5_fExQ",
+   "date": "2026-10-31",
+   "title": "Me Trying to Stop Buying Things for My Cat 😂🐱 #shorts",
+   "views": 34027,
+   "desc": "When someone tells you to stop buying unnecessary things for your cat... but you already have your next purchase planned. 😂🐱\n\nEvery cat owner knows the struggle. You walk into a store for one thing and somehow leave with another gift for your furry best friend.\n\nAre you guilty of spoiling your cat t"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "DagJaLVgE6U",
+   "ch": "R.M COMEDY #SHORTS",
+   "cid": "UCU5KS-o2w5u0TS-Md5auxOg",
+   "date": "2026-11-06",
+   "title": "Cat, stop snoring #cat #shorts",
+   "views": 29928,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "dMD-IP0gwTA",
+   "ch": "З.А.В.Е.С.А.",
+   "cid": "UCvzyuapLE8E5-taepUzxtCw",
+   "date": "2026-11-18",
+   "title": "Что делать, если ваш кот перестал отбрасывать тень… #shorts ",
+   "views": 29146,
+   "desc": "Что делать, если ваш кот перестал отбрасывать тень… #shorts #horror #creepypasta #хоррор #крипипаста"
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "GLgQEi-1SeM",
+   "ch": "Animal Logic",
+   "cid": "UC4hy7L4oXvY7QezjnO5DATw",
+   "date": "2026-09-30",
+   "title": "Owner Fattens Kitten to Stop Fence Escapes! Hilarious Ending",
+   "views": 23874,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "5VzMoxlox9o",
+   "ch": "FacPotato",
+   "cid": "UC_LnAm4DW_BPUDkaNjhDBaQ",
+   "date": "2026-10-01",
+   "title": "His Cat Couldn’t Stop Eating! 😹",
+   "views": 25823,
+   "desc": "His Cat Couldn’t Stop Eating! 😹\n#facts #viral #new #trending #hearttouching #cats #catlover #shorts ."
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "vNVAheAtFvI",
+   "ch": "Triadgla.",
+   "cid": "UCe49aZ5oUL63VbhxAs8YM5g",
+   "date": "2026-10-31",
+   "title": "Stop Playing With Your Cat Like This! 🛑🐱 #shorts",
+   "views": 26294,
+   "desc": ""
+  },
+  {
+   "q": "cat stops owner shorts",
+   "vid": "bj9mu4EzbHU",
+   "ch": "cotti storyy",
+   "cid": "UCHTRMW2IfyyyR7anqqJdkBQ",
+   "date": "2026-10-29",
+   "title": "This Cat Never Stops Protecting Its Owner!#shorts #cat #funn",
+   "views": 22144,
+   "desc": ""
+  },
+  {
+   "q": "kitten hissing first time reaction",
+   "vid": "0ZMuxyFTGlY",
+   "ch": "Epic Replay",
+   "cid": "UCzBo5WfQHMkRd89nkE7oUlQ",
+   "date": "2026-09-19",
+   "title": "Cats First Time Being a Mum 😹❤️",
+   "views": 46382873,
+   "desc": "Did you know: Even first-time mother cats rely heavily on natural instincts to care for their kittens. They usually know to clean them, keep them warm, nurse them, and stay close to protect them — all without ever being taught how. 🐱🥹❤️"
+  },
+  {
+   "q": "kitten hissing first time reaction",
+   "vid": "RMlndxOOz_U",
+   "ch": "Funny Cats Time",
+   "cid": "UCFWN4K4K9X0doYjtcyUzYdg",
+   "date": "2026-01-25",
+   "title": "Cats vs Mirrors 🐈",
+   "views": 6492350,
+   "desc": ""
+  },
+  {
+   "q": "kitten hissing first time reaction",
+   "vid": "OckLPK-_9jE",
+   "ch": "Big Floppa Gosha",
+   "cid": "UCU59o_VCEumE0FjK8HAALrA",
+   "date": "2026-10-11",
+   "title": "First time he hisses at Mom 🤣",
+   "views": 1719359,
+   "desc": "First time he hisses at mom.\n\n#catshorts #petshorts #hissing #catowner #caracal #floppa"
+  },
+  {
+   "q": "kitten hissing first time reaction",
+   "vid": "s-zewKFjp-Q",
+   "ch": "Giggle Bot",
+   "cid": "UCSRd137wv8w_EAa5oAa1WLg",
+   "date": "2026-04-01",
+   "title": "Cat’s reaction when baby kicks for the first time! 🐈👶#cat #b",
+   "views": 4252,
+   "desc": "My cat was just cuddling with my baby bump when the baby decided to say hello! Look at his confused but sweet reaction. The bond between them is already starting. 🐾❤️\nDon't forget to Subscribe for more heartwarming moments!\n#cat #babykick #pregnantlife #catreaction #heartwarming #cuteanimals #babyan"
+  },
+  {
+   "q": "kitten hissing first time reaction",
+   "vid": "DuLWyUdLUCU",
+   "ch": "Tanya the Rocket",
+   "cid": "UCHSvv_MIpwscj4-XNrMXXTg",
+   "date": "2025-12-19",
+   "title": "This Look Says Everything 👀🐱",
+   "views": 1407,
+   "desc": "After arriving in Moscow, we came home — and this was the moment.\nTwo resident cats were already living in the apartment… and this is how one of them reacted to meeting the new kitten for the first time.\n\nQuiet watching. No hissing. Just curiosity.\nThe adaptation had just begun 🐾"
+  },
+  {
+   "q": "kitten hissing first time reaction",
+   "vid": "Cmwb0eBNU3Q",
+   "ch": "Just Faris",
+   "cid": "UCwmu1meEX014mbI2wTzuhDw",
+   "date": "2026-02-27",
+   "title": "😳POV: You Bring Home a Kitten &amp; This Happens | Funny mom",
+   "views": 881,
+   "desc": "My Persian cat Faris meets a new female calico kitten for the first time and his reaction is priceless 😹\nFrom confusion to panic, hissing to funny angry looks, this adorable cat vs kitten moment is full of emotions 😂\nCute, funny, surprised, and dramatic reactions all in one video 🐾\n\nIf you love funn"
+  },
+  {
+   "q": "kitten hissing first time reaction",
+   "vid": "eoJkh8WxyjE",
+   "ch": "Jade",
+   "cid": "UCMAEDGrOfqNhd5IntYnna1w",
+   "date": "2025-12-22",
+   "title": "Kitten Meets His New Family for the First Time 😳🥰 #shorts #c",
+   "views": 495,
+   "desc": "This tiny kitten meets his new cat family for the first time—and the reactions are WILD 😳 From hissing moms to gentle brothers, every moment is pure chaos and love. You can feel the tension, curiosity, and sweetness all in one short clip.\n\nWhich cat reaction was your favorite—the angry mom or the sl"
+  },
+  {
+   "q": "otter angry zookeeper",
+   "vid": "HsZ9J9WFFNA",
+   "ch": "두쫀쿠 중독자",
+   "cid": "UCLKuIxaESvLe0jY-4T3JvlA",
+   "date": "2026-10-14",
+   "title": "수달을 화나게한 사육사의 최후",
+   "views": 42560,
+   "desc": ""
+  },
+  {
+   "q": "otter angry zookeeper",
+   "vid": "iClJiBxd5ys",
+   "ch": "Changsha Animal Theme Park",
+   "cid": "UC8QvHuX1csHkOwt1kYFQGdQ",
+   "date": "2026-10-14",
+   "title": "Otters are not picky eaters at Changsha Zoolung indoor zoo",
+   "views": 30205,
+   "desc": "Otters are not picky eaters at Changsha Zoolung indoor zoo"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "g_FSa6cpA_Q",
+   "ch": "Talking Parrot ",
+   "cid": "UCpuyjWuLMdeQTGwOl2cAIaQ",
    "date": "2026-03-17",
-   "title": "Enjoy beautiful nature with rural life 405# MP Fresh #fruit ",
-   "views": 12533,
+   "title": " Do parrots get jealous too?#jealous #parrotlover #parrots #",
+   "views": 2273721,
    "desc": ""
   },
   {
-   "q": "country life 405",
-   "vid": "4JNhyI0EaqI",
-   "ch": "Yareli | Hablemos de Casas",
-   "cid": "UCwLq1HSY8K9HXYFdKNYcAGw",
+   "q": "parrot jealous owner",
+   "vid": "erGMUi-IHcI",
+   "ch": "FunnyBitesTV",
+   "cid": "UCxtQ9B5RGwtJHsU4LVoZWqw",
+   "date": "2026-03-27",
+   "title": "This is a jealous parrot #parrot #parrots #funny #cute #bird",
+   "views": 1083714,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "4UpTA5Ck0J4",
+   "ch": "Triệu Que Củi",
+   "cid": "UChpsOOWySQny641PlAW38oA",
+   "date": "2026-11-16",
+   "title": "Chú Vẹt So Sánh Ghen Ăn Tức Ở #shorts",
+   "views": 906293,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "dj1CRTjqf2o",
+   "ch": "The Dodo",
+   "cid": "UCINb0wqPz-A0dV9nARjJlOQ",
+   "date": "2026-01-01",
+   "title": "28-Year-Old Macaw Is Jealous Of Mom&#39;s Boyfriend | The Do",
+   "views": 406485,
+   "desc": "This macaw said, “I was here first.” And he definitely meant it 😂❤️\n\nWe spoke to Kelsey and Alec about how Louie (@NoPlucksGiven) went from a shy rescue to Kelsey’s velcro bird — and how Alec’s been third-wheeling their relationship!"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "jGNJJmlp_AE",
+   "ch": "Jackson Huhniverses",
+   "cid": "UC617BvMt2NDGDuAmg781sRg",
+   "date": "2025-11-27",
+   "title": "I’m jealous of Alexa now #cockatoo #jackson",
+   "views": 486600,
+   "desc": "If Jackson made you smile today, you can support him here\nhttps://ko-fi.com/huhniverses"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "i_9cM0LzJ-M",
+   "ch": "The Dodo",
+   "cid": "UCINb0wqPz-A0dV9nARjJlOQ",
+   "date": "2025-12-25",
+   "title": "28-Year-Old Macaw Is Jealous Of Mom&#39;s Boyfriend | The Do",
+   "views": 215719,
+   "desc": "This macaw said, “I was here first.” And he definitely meant it 😂❤️\n\nWe spoke to Kelsey and Alec about how Louie went from a shy rescue to Kelsey’s velcro bird — and how Alec’s been third-wheeling their relationship!\n\nFollow along with @NoPlucksGiven on Instagram: https://thedo.do/noplucksgiven & Ti"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "5LtFm_wtub8",
+   "ch": "Snugbarn",
+   "cid": "UCTaoFdNdSSgyd1qYwF9z67g",
+   "date": "2026-07-11",
+   "title": "Gets jealous #parrot #birds #animals",
+   "views": 345492,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "qi9gvIYwVOg",
+   "ch": "DailyFlexx ",
+   "cid": "UCvVT8Ny6EwUhtct3rUJwomg",
+   "date": "2026-09-29",
+   "title": "Coco ist eifersüchtig 😂 #papagei #witzig #funny #comedy #deu",
+   "views": 432305,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "v8oaZlPfkfM",
+   "ch": "MenacePaws2393",
+   "cid": "UCVQy3H3l0xsW0_EPXfe9x-w",
+   "date": "2026-11-01",
+   "title": "My bird gets really jealous😂#pov #shorts #usa #relatable",
+   "views": 316023,
+   "desc": "#shorts #comedy #funny #humor #memes #funnyvideos #petcomedy #viral"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "4YukcbCUKMc",
+   "ch": "Curiosidade 67",
+   "cid": "UCF-AcQ3Okb9RzVZ2m1ASfug",
+   "date": "2026-10-30",
+   "title": "ELA TEM CIUMES DA MAMÃE! 🦜❤️",
+   "views": 293573,
+   "desc": "#animaisfofos #cachorros #gatos \n.\n.\n.\n.\nCaso você seja o detentor dos direitos de algum conteúdo utilizado neste vídeo e deseje solicitar sua remoção, entre em contato conosco pelo e-mail: meuchannel111@gmail.com.\n\n\nDisclaimer: Nenhum animal foi ferido durante a produção deste vídeo."
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "kW0z57sM3IE",
+   "ch": "Birds_vibes",
+   "cid": "UCqmxsDjxRVjmLepgZUJyvSA",
+   "date": "2026-10-08",
+   "title": "Did This Parrot Just Get Jealous? 😂🦜",
+   "views": 153887,
+   "desc": "Everyone got fruit… and he got absolutely nothing! 😂\n\n#GreenParrot #FunnyParrot #ParrotShorts #FunnyAnimals #ViralShorts #BirdsVibe"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "pdmfsP4U4Vc",
+   "ch": "batapum",
+   "cid": "UClfp23LaiccMnQbkfUqc_eQ",
+   "date": "2025-12-08",
+   "title": "Loro CELOSO le dice a Policía: &quot;Soy CASADO&quot; 😂 #Yea",
+   "views": 406997,
+   "desc": "¡No podrás creer lo que este loro le responde a la policía! 🤣\n\nUna oficial intenta darle un beso a un loro, pero él le da una lección de fidelidad y la regaña de la forma más divertida. \"¡Aléjate, loca, soy casado!\" dice el loro. Es la broma más épica que verás hoy.\n\n👉 ¿Qué le hubieras respondido tú"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "ITmBhqIAG5E",
+   "ch": "Beako",
+   "cid": "UC07S3R5oeYyRV34NdSnO-nw",
+   "date": "2025-11-22",
+   "title": "Jealous Parrot DEMANDS Officer Remove Her Lipstick 😂💄 | TheR",
+   "views": 272282,
+   "desc": "TheRealBeako RETURNS with peak toxic parrot energy 😭💄\nThis jealous Amazon parrot spots his police girl’s BRIGHT lipstick…\nand immediately loses his mind.\n\n“WHY IS IT THAT RED?!”\nBro is fighting for his life 😭🦜\n\n💛 Follow for more jealous parrot chaos from TheRealBeako!\n🔥 Daily UGC-style 8K funny parr"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "UcV0TCfK5Jc",
+   "ch": "eta papagaio",
+   "cid": "UCMWejWwkWl7CGVTUdUPtUgw",
+   "date": "2026-01-24",
+   "title": "papagaio com ciumes da comida kkk  #papagaiofalante #petsfof",
+   "views": 214003,
+   "desc": "\"Esse papagaio é a estrela da internet! 🦜😂 Ele fala, canta e ainda solta umas pérolas que vão te fazer chorar de rir. Se você também se divertiu, já deixa o like, se inscreve no canal e comenta qual foi a parte mais engraçada 🤣.\nNão esquece de compartilhar com seus amigos — vamos juntos colocar esse"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "9_up2OxN99s",
+   "ch": "itz_PøPpy ツ",
+   "cid": "UCe6jSrFkqBHBvP-WXvaVdfw",
+   "date": "2026-01-24",
+   "title": "Parrot is just Jealous☝🏻#pierrot #harlequin #tfc #thefreakci",
+   "views": 145195,
+   "desc": "[CREDIT GOES TO ORIGINAL RESPECTED OWNER!!! ]"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "lrpTurLCVvk",
+   "ch": "Funnytaker",
+   "cid": "UCLKA4Yg8LT0qec2K2LbvAfw",
+   "date": "2026-02-19",
+   "title": "This is a jealous parrot#foryou#funny#typ#cute",
+   "views": 101843,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "FXxDhuq76OA",
+   "ch": "Beako",
+   "cid": "UC07S3R5oeYyRV34NdSnO-nw",
+   "date": "2025-11-24",
+   "title": "Parrot Gets JEALOUS of a WATER BOTTLE 😭🦜 | TheRealBeako",
+   "views": 93849,
+   "desc": "Only TheRealBeako could watch his human drink WATER…\nand immediately decide she’s “sipping him too happy.” 😂💀🚓\n\nIn this police paperwork desk meltdown, Beako taps the bottle like he’s interrogating a suspect while accusing the officer of cheating with hydration.\n\n🎬 Inside this episode of psycho parr"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "ws6uRZzyWws",
+   "ch": "蹦跳啵妞",
+   "cid": "UC6MGCE4COcGQmgxnPCPgTIg",
+   "date": "2026-11-07",
+   "title": "啵啵吃醋了嗎 #鸚鵡 #搞笑",
+   "views": 101284,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "Q8uywKzNsMc",
+   "ch": "PetBoss Parrots",
+   "cid": "UCHZ6tkjhuBEcYvdut-m8vpA",
+   "date": "2026-10-23",
+   "title": "Jealous Parrot Covers Friend&#39;s Almond Pile With Bowl: &q",
+   "views": 90541,
+   "desc": "PetBoss Parrots is made for pet lovers, for fun and entertainment only.\n\nMost videos on this channel are original creations by PetBoss Parrots, made with our own ideas, scripts and editing. We do not re-upload videos from other creators.\n\nAll videos on PetBoss Parrots are created by us, with our own"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "OoVRNF9MxTA",
+   "ch": "El baúl de ofertas",
+   "cid": "UCwEmcGtHx8h90roghut9Biw",
+   "date": "2026-10-14",
+   "title": "El 🦜🦜 celoso",
+   "views": 97404,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "z9dII8G_v9g",
+   "ch": "Coco’s Punchlines ",
+   "cid": "UCfOvY45Z5byQkM4Yv5kqsuA",
+   "date": "2025-12-22",
+   "title": "Coco is jealous on new boyfriend lol 😝 #funny",
+   "views": 69607,
+   "desc": "Coco is jealous on new boyfriend lol 😝 #funny #talkingparot #heartbeating"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "7N8JkjijjPA",
+   "ch": "BeakerBeak",
+   "cid": "UCKtkv5NWMKBrcbXZdBSE3gQ",
+   "date": "2026-10-02",
+   "title": "Beaker is a jealous boy! #talkingbird #talkingparrot #cutepe",
+   "views": 72824,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "TerNrROtCv4",
+   "ch": "Beako",
+   "cid": "UC07S3R5oeYyRV34NdSnO-nw",
+   "date": "2025-11-25",
+   "title": "Psycho Parrot Gets Jealous Over a “Thank You” 😂 | TheRealBea",
+   "views": 72308,
+   "desc": "An unhinged jealous parrot confronts his police officer owner in the hallway after she says “thank you” too softly to a coworker. This psycho parrot meltdown is peak petty jealousy — and one of the funniest parrot attitude moments ever captured.\n\nIn this 8K UGC-style vertical clip, TheRealBeako deli"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "hHmrVhCl7YU",
+   "ch": "Alice Rebouças",
+   "cid": "UC6P-e02MCbctDz9MJddueSw",
+   "date": "2026-11-15",
+   "title": "Papagaio ciumento!",
+   "views": 74743,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "QMVs1b444Oc",
+   "ch": "Parrot Insight",
+   "cid": "UCEsDmPEVBCOB48i9aWmJegg",
+   "date": "2026-09-10",
+   "title": "Is Your Parrot Jealous? Here&#39;s What It&#39;s Really Feel",
+   "views": 133,
+   "desc": "Does your parrot suddenly scream or lunge the moment you pet another pet? You've probably wondered — is my parrot actually jealous?\n\nIn this video, we break down what's really happening in your parrot's mind during these moments. You'll learn the difference between true jealousy and resource guardin"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "jtZjRmrjpok",
+   "ch": "DuckDuDuGo",
+   "cid": "UCzrIushRf8TzHgtB58E0vJQ",
+   "date": "2026-05-25",
+   "title": "&quot;Don&#39;t underestimate the jealousy of parrots&quot; ",
+   "views": 59078,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "fD8-u-D8nk4",
+   "ch": "Animal Fun World",
+   "cid": "UCtbjwXdTU4qjnyOxWJxxJPQ",
+   "date": "2026-09-05",
+   "title": "😂 My Parrot Answered a Phone Call… Then Got JEALOUS! 🦜📱🤣 #Sh",
+   "views": 74136,
+   "desc": "😂 My Parrot Answered a Phone Call… Then Got JEALOUS! 🦜📱🤣 #Shorts\n📝 Description\nThe phone started ringing… and my four parrots immediately wanted to know who was calling! 😂🦜📱\nBut the little Green Parrot's reaction is absolutely priceless! 🤣 He looked at the phone like someone was stealing his attenti"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "258F9Z-UVPY",
+   "ch": "Birds parrot",
+   "cid": "UC0Wy3MTuB6plWzpSZupvIQw",
+   "date": "2026-01-01",
+   "title": "Do parrots get jealous too？#parrot #parrotsoftiktok #birdsof",
+   "views": 57032,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "aL3pAD6px38",
+   "ch": "Pillu Parrot",
+   "cid": "UCUC0GHGd-WAmlzYFfA7rtEg",
+   "date": "2026-01-07",
+   "title": "“Duck ke saath mummy ka pyar dekh kar tota jealous ho gaya 😂",
+   "views": 65857,
+   "desc": "#DuckVsParrot #FunnyParrot #ParrotReaction #DesiPets #FunnyBirds #TalkingParrot #ViralShorts #CuteAnimals #ComedyVideo #IndianPets #BirdLovers\n#ParrotLover #FunnyReels"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "4JJNfYGBtG0",
+   "ch": "Feather Drama",
+   "cid": "UCvTb9ePwQpvlNZsRnG82glA",
+   "date": "2026-10-23",
+   "title": "Extreme Watermelon Jealousy 💀",
+   "views": 68398,
+   "desc": "Recreating the exact viral table line-up with maximum parrot jealousy... wait until you see how the naughty African Grey reacts when someone else gets the juiciest bite 💀\n🔗 Follow our social channels:\n• Instagram: @featherdrama (https://www.instagram.com/featherdramaofficial)\n• Facebook: Feather Dra"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "zGQop8cHg3c",
+   "ch": "PetClub",
+   "cid": "UCwuC1H39wio8j-1eiOjbMtA",
+   "date": "2026-01-01",
+   "title": "Cockatiel gets jealous",
+   "views": 68032,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "v1_UQ1GgHKw",
+   "ch": "PawDaily 🐾",
+   "cid": "UCBBrSav47FPYaKDRfoLvhrA",
+   "date": "2026-11-15",
+   "title": "Ranking Best Parrot Jealous Moments🤭",
+   "views": 45941,
+   "desc": "Ranking Best Parrot Jealous Moments🤭 #usa"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "e9sBYGKOUJA",
+   "ch": " Geethanjali Selvan Kavithaigal & Kathaigal",
+   "cid": "UCLvkZBm5Vvgt3HjxKeeIAxA",
+   "date": "2026-07-26",
+   "title": "The Parrot Was Jealous Too..🦜A Powerful Life Lesson by Vaali",
+   "views": 120256,
+   "desc": "The Parrot Was Jealous Too... 🦜 A Powerful Life Lesson by Vaali | Tamil Motivation #Shorts | Geethanjali Selvan\n\nWhat if every creature wished it had someone else's life?\n\nIn this beautiful poem by legendary Tamil lyricist Vaali, the crow, cuckoo, owl, and parrot all envy each other. But the shockin"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "UBxjm555KyU",
+   "ch": "BeakerBeak",
+   "cid": "UCKtkv5NWMKBrcbXZdBSE3gQ",
+   "date": "2026-09-15",
+   "title": "Beaker is green with envy! #jealous #talkingbird #talkingpar",
+   "views": 50741,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "7h954nCq-xw",
+   "ch": "Feather Drama",
+   "cid": "UCvTb9ePwQpvlNZsRnG82glA",
    "date": "2026-10-26",
-   "title": "Llama hoy al (405)637-9822   #okc #losangeles #orangecounty ",
-   "views": 1040,
+   "title": "Super Cute Pancake Jealousy 💀",
+   "views": 47697,
+   "desc": "Recreating the exact viral table line-up with maximum cute parrot comedy... wait until you see how the naughty African Grey steals the show at the end 💀\n🔗 Follow our social channels:\n• Instagram: @featherdrama (https://www.instagram.com/featherdramaofficial)\n• Facebook: Feather Drama Official (https"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "eLYgP9q9Ca4",
+   "ch": "Deep Time ",
+   "cid": "UCqyIptCS_CMgXoIXWfh2GFg",
+   "date": "2025-11-26",
+   "title": "Jealous Parrot vs Baby Bump — The Funniest Pregnancy Moment ",
+   "views": 32625,
    "desc": ""
   },
   {
-   "q": "country life 405",
-   "vid": "OE9EMDOgafQ",
-   "ch": "Country Life",
-   "cid": "UCsJXTHX-Perf9o7XZTOBY2g",
-   "date": "2021-07-29",
-   "title": "Country Life # 405 Vega and Jessie 1st snow  1",
-   "views": 0,
-   "desc": "Trying to reach 2000 videos \nPlease subscribe to help. Please View my channel. There is nothing like it.\nWholesome family friendly.\nPet Lovers and funny.\nThanks ya'll."
+   "q": "parrot jealous owner",
+   "vid": "YtsKnFcTfrc",
+   "ch": "Global Weird Animals",
+   "cid": "UCPZZWC22dV4s1irw3MIOm6g",
+   "date": "2026-02-19",
+   "title": "Parrot Gets Jealous of Officer&#39;s Sandwich 🦜 #FunnyParrot",
+   "views": 46595,
+   "desc": "Our favorite talking parrot is back, this time having a hilarious conversation about the meaning of \"true love\"! 😂 This \"funny animal videos\" moment captures our feathered \"pet\" as he discusses the importance of a good \"sandwich recipe\" with Officer Kim. It's a must-see for anyone who loves a \"talki"
   },
   {
-   "q": "country life 405 tree",
-   "vid": "U1W0XwEjLiA",
-   "ch": "Crackling Flame",
-   "cid": "UCu6dvNgoPsNqTN9I1xgiKrw",
+   "q": "parrot jealous owner",
+   "vid": "6Pps5AkuHeQ",
+   "ch": "suraiya Khan ",
+   "cid": "UCj-F7Wm9HfovFDtfAPzSZBA",
+   "date": "2026-09-06",
+   "title": "(cute + wholesome)😂 Bird Got Jealous ❤️‍🔥! The Funniest Parr",
+   "views": 34520,
+   "desc": "cute + wholesome)😂 Bird Got Jealous ❤️‍🔥! The Funniest Parrot Reaction Ever! 🦜🤣 #Shorts #fannybird \n\n\nThis adorable bird couldn't handle the attention and got super jealous! 😂🦜 Watch this hilarious parrot reaction till the end—you won't stop laughing! 🤣\n👍 Like | 💬 Comment | 🔔 Subscribe for more funn"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "XQ10wdg_BCg",
+   "ch": "Wild Earth",
+   "cid": "UCaNV8jjTi-iJn0Lav3r4DjQ",
+   "date": "2026-08-04",
+   "title": "Un pappagallo geloso 🦜",
+   "views": 37094,
+   "desc": "I pappagalli non sono solo bravissimi a imitare i suoni: possono creare legami profondi con le persone di cui si fidano. Alcuni seguono il loro umano ovunque, lo chiamano quando si allontana e cercano continuamente la sua attenzione. Un comportamento che affonda le radici nella loro vita in natura."
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "BsaVmn0BCUo",
+   "ch": "Jessica2025",
+   "cid": "UCZynNpC9c9p8p11oAhIX2Qw",
+   "date": "2026-11-20",
+   "title": "Papagei vs. Sofa: Wer gewinnt? 😂🦜 #funny #parrot #streit",
+   "views": 36767,
+   "desc": "🦜 **Welcome to the crazy life of our parrot!**\n\nHe’s cheeky, curious, jealous, sometimes easily offended—and he always has something to say about everything. 😂\n\nFollow our Amazon parrot through his typical, yet rather chaotic, daily life: breakfast with his owner, little squabbles at home, shopping "
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "prwUxa79w9I",
+   "ch": "Beako",
+   "cid": "UC07S3R5oeYyRV34NdSnO-nw",
+   "date": "2025-11-24",
+   "title": "🦜 Parrot Gets JEALOUS Because Officer LAUGHED at a Meme 😂💀 |",
+   "views": 40851,
+   "desc": "Peaceful day at the police office…\nUntil the officer lets out ONE soft laugh at her phone—\nand Beako goes full psycho boyfriend mode 😭🦜📱\n👮‍♀️ Officer: “It’s just a meme!”\n🦜 Beako: “Show me. I need to judge the threat.”\nThen the ultimate jealous punchline drops:\n🦜 “If it’s funnier than ME… delete it."
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "skYJyk443Pw",
+   "ch": "THE ANIMAL INCIDENT",
+   "cid": "UCdxuCplC3KJ-NnV0uVTPP6w",
+   "date": "2026-10-28",
+   "title": "Parrot Asks Alexa for Bird Sounds… Then Gets JEALOUS! #talki",
+   "views": 39123,
+   "desc": "This cockatoo asked Alexa for bird sounds… then got furious when another bird answered!  Apparently, there's only room for ONE bird in this house.\n\n#FunnyParrots #Cockatoo #FunnyAnimals #Shorts"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "ZxJ_ZBcRjzg",
+   "ch": "BMR Creations",
+   "cid": "UC66Z0IUcb8Y1B2AX9HREPTw",
+   "date": "2026-09-01",
+   "title": "😂 Comedy — “Jealous Parrot” 😆 #shortsfeed #viral #funny  #sh",
+   "views": 43661,
+   "desc": "😂 Comedy — “Jealous Parrot” 😆\n\nSame exact couple parrots. Female parrot is happily eating berries while a tiny butterfly lands near her. She looks at the butterfly curiously. Male parrot notices and becomes comically jealous. He slowly moves between the female and butterfly, blocking her view. Femal"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "Kptw4u04jWc",
+   "ch": "Talking Parrot ",
+   "cid": "UCpuyjWuLMdeQTGwOl2cAIaQ",
+   "date": "2026-06-09",
+   "title": "Top 5 Most JEALOUS Parrots Caught on Camera! 😡🦜 #funny #bird",
+   "views": 27445,
+   "desc": "This video is made for commentary and educational purposes only. All content is transformed and edited with original voice-over and analysis.\n\nDisclaimer: \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "P-d_UYeFrIk",
+   "ch": "Bozo Tatliş",
+   "cid": "UCnZbe0x0uM7JwuQhN1AE86Q",
+   "date": "2026-04-11",
+   "title": "Kıskanç bozo🤭😅",
+   "views": 38805,
+   "desc": "#bozo #birds #birdshorts #pets #parrot #petshorts #petsviral #sultanpapağnı #shortvideo #sweet #shorts #shortvideo #shortsviral #kuşum #keşfet #keşfetbeniöneçıkar #keşfetteyiz #kuşvideoları #viralvideo #viral #viralreels #video #viralshorts #funnyvideo #funny #funnyshorts #youtube #youtubevideo #you"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "McRcJSQ-9do",
+   "ch": "Henrygfu",
+   "cid": "UCOJ_QIIJkH-xLMlfUUQisew",
+   "date": "2026-08-26",
+   "title": "The parrot is jealous #lion #animallife #trending",
+   "views": 35918,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "HV_RQRQB5mI",
+   "ch": "historicalmirror_0811",
+   "cid": "UC9Fjg-PzXi20UKzl9g3A7Qg",
+   "date": "2026-04-13",
+   "title": "This is a jealous parrot #doctor #funny #facts #pets #liposu",
+   "views": 27040,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "HRz-__Pk2Dc",
+   "ch": "Acam’s Diary",
+   "cid": "UCrPPM_ySOUG1SCnREagQtcg",
+   "date": "2026-07-04",
+   "title": "The Jealous Parrot Couldn’t Take It 😭🦜",
+   "views": 26409,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "FHWUS2KKCGQ",
+   "ch": "The Bird Flock",
+   "cid": "UClkQVCGtGIvE4PButICbGZw",
+   "date": "2026-11-06",
+   "title": "My Parrot Is JEALOUS of My Phone! 📱😂 #Shorts",
+   "views": 31413,
+   "desc": "I made the mistake of looking at my phone instead of giving my parrot attention. 😂📱\n\n He had absolutely no intention of being ignored and made sure I knew exactly how he felt! 🦜🤣\n\nWho else has a pet that demands attention at the worst possible time?\n\nSubscribe for more funny bird moments!\n\n#FunnyBir"
+  },
+  {
+   "q": "parrot jealous owner",
+   "vid": "0WSHtEZQW4E",
+   "ch": "Kyrox",
+   "cid": "UCUzYGfP4pZ8ANRb7Hfjw2Ew",
+   "date": "2026-07-17",
+   "title": "These Lovebirds Had The Most Jealous Reaction Ever 🥺💚#viral",
+   "views": 27588,
+   "desc": "These Lovebirds Had The Most Jealous Reaction Ever 🥺💚#viral \n\nDisclaimer: This video is shared for educational, commentary, and entertainment purposes. All rights belong to their respective owner(s).\n\nCredit: Full credit goes to the original creator. Instagram: @justryal11. Please support the origin"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "Zs2t_LduE5A",
+   "ch": "Tizzy",
+   "cid": "UC0X8n4QTJ4bzwcRG_vLOqxw",
+   "date": "2026-08-14",
+   "title": "Cat side Eye",
+   "views": 202437,
+   "desc": "The cat is sitting on the person's arm, and the person makes a strange sound that causes the cat to give them side-eye and a blank stare.\n\nTizzyUS\nAura\nFunny memes\n\n\n#tizzyus #memes​ #aura​ #funny​​ #funnymemes​​\n\n\n\n\n\n\n#demonslayeredits​​ #demonslayeredit​​ #demonslayeredits​​ #wis​​ #1v1​​ #debate​"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "DxXYR6RL8Jw",
+   "ch": "The Ranking Gods",
+   "cid": "UCEPHGGXF1ILCHumlnoJZsdQ",
+   "date": "2026-10-28",
+   "title": "Why this cat&#39;s side-eye is my favorite thing ever #cats ",
+   "views": 20312,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "Hkts6axvvEo",
+   "ch": "Curious Byte",
+   "cid": "UCDJ-az5ckmf2dIaZ21CislA",
+   "date": "2026-07-15",
+   "title": "The side eye got me 🤣🤣 #pets #animals #cat #shorts #viral",
+   "views": 21728,
+   "desc": "😹 Funny Cats That Will Make You Laugh! 🐱\nGet ready for a dose of laughter with the funniest cat moments on the internet! From silly zoomies to unexpected fails and adorable reactions, these cats prove they're the kings and queens of comedy.\n👍 Like, 💬 comment your favorite moment, and 🔔 subscribe for"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "okdjjkkKgSQ",
+   "ch": "PawZZZ",
+   "cid": "UCIjuHR7snYWt9rskI-ud6jw",
+   "date": "2026-10-09",
+   "title": "Cat’s Side Eye Hits Different... 🔥🙀😱",
+   "views": 25006,
+   "desc": "When a cat gives you that side eye, you know something is up! 🐱👀 From suspicious stares to savage expressions, these cats can judge without saying a single word. 😂 Their attitude and perfectly timed reactions make every moment hilarious. Watch till the end to enjoy these iconic cat side-eye moments!"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "Vu9bjUrLcLc",
+   "ch": "Furrpect Paw",
+   "cid": "UCUoe05uQW67WXXu0ZOoq9lA",
+   "date": "2026-06-25",
+   "title": "Ranking Judgemental Cat Side Eyes 😼 #ranking #funnycats #cat",
+   "views": 16671,
+   "desc": "These cats mastered the art of the side eye 😼. Watch this Cat Side Eye Ranking and see which judgmental feline delivers the most legendary stare. From pure disappointment to total disrespect, these cats say everything without making a sound. Which side eye deserves the #1 spot?\n\n#CatSideEye #FunnyCa"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "5dmirTUhbc0",
+   "ch": "SpiderCat Ranks",
+   "cid": "UCa4XAcFhmLBRfVFkpHPNOkQ",
+   "date": "2026-05-18",
+   "title": "Cats With The Most Iconic Side-Eye 1 👀 😼",
+   "views": 11252,
+   "desc": "Cats With The Most Iconic Side-Eye 1 👀 😼\nThe most legendary side-eyes ever caught on camera by judgmental cats.\nPure sass, ultimate attitude, savage stares, and looks that say everything without a single meow.\nEvery glare hits harder than the last... and that's what makes them unforgettable.\nPerfect"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "0g0d84fkEn8",
+   "ch": "Beast Bracket",
+   "cid": "UCH7LfB3tzvOfz-ixDAzJDVg",
+   "date": "2026-07-27",
+   "title": "Ranking Best Funniest Cat Side Eyes Moments #usa",
+   "views": 8920,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "x5jfGCNYY14",
+   "ch": "Khuzin Edits",
+   "cid": "UCrsg5vKEI_q18qIk89Lk4qw",
+   "date": "2026-10-31",
+   "title": "Cats Bombastic Side Eye Has No Mercy 💀",
+   "views": 6532,
+   "desc": "Cats Bombastic Side Eye Has No Mercy #shorts #cat #aura #skulledit #edit #trollface"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "RKiV9EPFLSU",
+   "ch": "Critzora",
+   "cid": "UCJUqpAcjHaIzJYqmWT_rqPQ",
+   "date": "2026-07-23",
+   "title": "That Cat Side Eye Isn’t What You Think",
+   "views": 6759,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "Ymwx7qiG7TQ",
+   "ch": "JCandSock ",
+   "cid": "UCRBBb5QIVeZKO0EIBrXINog",
+   "date": "2026-06-12",
+   "title": "Side-Eye Supreme🐱 #cat #cats #pet #pets #petshub #funnycats ",
+   "views": 4920,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "VOJvBshByhk",
+   "ch": "WildUps",
+   "cid": "UCQtUL_NNOwtdOp_6xK8ritA",
    "date": "2026-10-19",
-   "title": "I’ve never seen a tree do THIS when cut 😳",
-   "views": 3763,
-   "desc": "Cut this tree and the pressure inside blew out like nothing I've ever seen. 😳\n\nWhat do you think this is?\n\nCamera : countrylife.405\n\n#tree #nature #satisfying #forest #countrylife #wow #shorts #fyp"
-  },
-  {
-   "q": "country life 405 oklahoma",
-   "vid": "4JNhyI0EaqI",
-   "ch": "Yareli | Hablemos de Casas",
-   "cid": "UCwLq1HSY8K9HXYFdKNYcAGw",
-   "date": "2026-10-26",
-   "title": "Llama hoy al (405)637-9822   #okc #losangeles #orangecounty ",
-   "views": 1040,
+   "title": "Cats Bombastic Side Eye 💀",
+   "views": 3849,
    "desc": ""
   },
   {
-   "q": "country life 405 oklahoma",
-   "vid": "3__08-rqFA0",
-   "ch": "ThisisOklahoma405",
-   "cid": "UCkIuwZ1i1xhs-0e_T4rrr6w",
-   "date": "2022-08-10",
-   "title": "ROUTE 6️⃣6️⃣ #route66 #oklahoma #country #love #countrylife ",
-   "views": 4,
+   "q": "cat side eye owner",
+   "vid": "Ah7kIsMxV3w",
+   "ch": "Nina Michelle",
+   "cid": "UCSWlET9IlslLy5oRXJvx2lQ",
+   "date": "2026-09-29",
+   "title": "Sneaky side eye #cat",
+   "views": 4282,
    "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "mN7z07eHKyQ",
+   "ch": "MurrRanks",
+   "cid": "UCmdyzePEDB5Jgbz9rJNjRJg",
+   "date": "2026-07-07",
+   "title": "Ranking Cat Side Eye Moments!",
+   "views": 2705,
+   "desc": "#fyp #shorts #ranking #cats #funny #bombasticsideye #cute #kitten #cat"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "mBIzXcoCZs8",
+   "ch": "Ayansaifi.77",
+   "cid": "UCilpfdcox4tcBzx1bfzR9PA",
+   "date": "2026-11-02",
+   "title": "when cat Bombastic side eye cats 😱😱 #cat #funny #trending",
+   "views": 2631,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "8rZfBL_16z8",
+   "ch": "Fluffy and Snowball",
+   "cid": "UCDq7hCngh6J6c3n67WksvGQ",
+   "date": "2026-08-18",
+   "title": "The side eye stare from my cat",
+   "views": 2573,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "Mk11G7q6avs",
+   "ch": "Purrfectly Rosie",
+   "cid": "UCmZklpR7O9xMkR05i_7sVpg",
+   "date": "2026-09-05",
+   "title": "Happy cat = less stress, more purrs, and way fewer judgmenta",
+   "views": 2876,
+   "desc": "#catsoftiktok #ad #catmom #viral #catmom"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "wzh81bUA0n4",
+   "ch": "Breadisyummy",
+   "cid": "UCXVq53Z8VTixejx_Nz39ahg",
+   "date": "2026-01-21",
+   "title": "I think the owners name is sawasdee. #sideeye #purrr #cats #",
+   "views": 2807,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "nb6qJxA2Zws",
+   "ch": "Butter and Cola",
+   "cid": "UCUbReW5FwehO8i377-SEUMQ",
+   "date": "2026-07-29",
+   "title": "He is this emoji 😒 #cat #funny #bombastic #sideeye #cute #ca",
+   "views": 2124,
+   "desc": "Yes he is the master I’m the servant 😒"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "dn2S0EwJzZ0",
+   "ch": "Cute paws",
+   "cid": "UC9cyCgOH02lEHNgmA9Hsycw",
+   "date": "2026-06-07",
+   "title": "Cat Side Eye Core  #cat #funny #shortfeed #trendingshorts",
+   "views": 1871,
+   "desc": "Which Cat Has the Best Side Eye? 😂🐱👇\nWatch these hilarious cat side eye moments on YouTube Shorts short feed! 😭🐾 Trending funny cat reactions you can't miss!\n\nComment your favorite side eye cat below 👇\n\nSubscribe to Cute Paws for more funny cat shorts, viral clips, and trending animal videos!\n\n#Cute"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "rAoeDT47l9w",
+   "ch": "rndomentertainment_",
+   "cid": "UCFoBAsqeBahQHbrDJHNDIhQ",
+   "date": "2026-11-12",
+   "title": "side eye😾 #absurdmemes #catlove #funnyshorts #funnycat #fypシ",
+   "views": 1642,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "mkmhb2zGGgQ",
+   "ch": "The Rank Files",
+   "cid": "UC5D7nFTKCKNRrANDplEdWUQ",
+   "date": "2026-08-13",
+   "title": "Ranking The Most Judgemental Cat Side Eyes 😼 #cat #shorts",
+   "views": 1324,
+   "desc": "I ranked every video so you don't have to\n\nRanking the most hilarious cat side eye moments caught on camera. \n\nFrom judgmental glares to pure betrayal, see which feline facial expression takes the crown. Whether you are a cat lover or just need a good laugh, these clips capture the funniest pet reac"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "FIOqm0-d42s",
+   "ch": "PawVerseYT",
+   "cid": "UCoNBDMu1axTOllriqfwX_5A",
+   "date": "2026-04-28",
+   "title": "Cat Gives Deadly Side-Eye😾😂",
+   "views": 2049,
+   "desc": "This cat looks at its owner with a serious side-eye like it’s judging every snack choice… then suddenly switches into full chaotic mode with a surprising “attack”\n\n#cat #funnycat #catbehavior #cats #catshorts #cuteanimals #petmemes #catlover #funnyanimals #viralshorts"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "ROcvYuGfCKs",
+   "ch": "NastyRanks",
+   "cid": "UCxb4Smcxsu__HIx5XDoyZPQ",
+   "date": "2026-11-21",
+   "title": "Pet Side-Eye😂👀 #trending #funny #explore #animals #shorts #e",
+   "views": 1027,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "LDRPYB-ylMc",
+   "ch": "WILD NUTS🐾",
+   "cid": "UCGBFPa2x6EKUMBAGMPP2c3g",
+   "date": "2026-10-30",
+   "title": "CATS BOMBASTIC SIDE EYE",
+   "views": 1398,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "LOhQHR_q2R0",
+   "ch": "Laila Amaya",
+   "cid": "UCmdLahDUjdVxVeOE6Zs3NKg",
+   "date": "2026-09-17",
+   "title": "That side eye though 😭😂😼 are your cats like this too? #short",
+   "views": 1279,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "n8TXNPda2BA",
+   "ch": "Catclipzz",
+   "cid": "UCzMxxb9oNSdjs39GhnBLdww",
+   "date": "2026-11-15",
+   "title": "Top 5 Cat moment Pt.103 That side eye #cat #shorts",
+   "views": 1180,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "uGfuRksHW0w",
+   "ch": "Cats Life Facts",
+   "cid": "UCaObsFPlY-cNL8k_27IzitQ",
+   "date": "2026-11-09",
+   "title": "Your Cat’s Side Eye Is a Secret Message",
+   "views": 1354,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "zGUUpr814fw",
+   "ch": "Urooj",
+   "cid": "UCCLYLbj-66G_NxBnxXcz9Zg",
+   "date": "2026-10-22",
+   "title": "Nobody gives a side eye harder than a cat #cat #catsoftiktok",
+   "views": 1956,
+   "desc": "Nobody gives a side eye harder than a cat #cat #catsoftiktok"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "p3ZmNDj95RI",
+   "ch": "Animeow",
+   "cid": "UC53H29KgKK05nBWaReIW0sA",
+   "date": "2026-06-05",
+   "title": "Side eye level SUPREME #cat #pets #meme #funny",
+   "views": 2124,
+   "desc": "My cat delivered the most legendary bombastic side eye and I couldn't stop laughing. This hilarious cat moment perfectly matched the viral bombastic side eye sound and instantly became one of my favorite funny pet videos. If you love funny cats, cat memes, kitten videos, pet shorts, viral animal con"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "cdTKpCWRtcQ",
+   "ch": "Minivaro artist",
+   "cid": "UCjZbsMuJQUuekGpsyRsiX3Q",
+   "date": "2026-07-21",
+   "title": "POV: Your cat gives you the criminal offensive side-eye 😍 #c",
+   "views": 1597,
+   "desc": "POV: Your cat gives you the criminal offensive side-eye 😍 #cat #catfight #catlife #funnycats"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "noZ3ljxwecg",
+   "ch": "Starting over, again!",
+   "cid": "UCPSZ22mf0xBHEizutvuIS8Q",
+   "date": "2026-05-12",
+   "title": "Barnaby Jones Brown, former barn cat 🙀 Side-Eye Level: Exper",
+   "views": 1593,
+   "desc": "😂 Watch the tiny drama unfold!\n#CatReels #FunnyCats #CatContent #PetHumor #SideEye #POV #CatsOfYouTube #TinyDrama #CatMoments #PetComedy"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "SeBeWGzQpFc",
+   "ch": "Cheeky brits",
+   "cid": "UCTR3aK8NZbletvTjTkJT-nQ",
+   "date": "2026-06-13",
+   "title": "That side eye was bombastic 🤣🤭 #cat #catshorts #catvideos #c",
+   "views": 1536,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "WDvyL-FmCqE",
+   "ch": "amazingcatland ",
+   "cid": "UCDy87POO7MOetGGdbK1BYZw",
+   "date": "2026-10-20",
+   "title": "the side eye #cats #pets #animals #cute",
+   "views": 1226,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "yKUj8MfEBoQ",
+   "ch": "Joli’s Cozy Corner",
+   "cid": "UCDUK1mBC2G5NbQqOyPsjn4w",
+   "date": "2026-10-18",
+   "title": "Joli the cat’s side eye🤣🤣 #cat #catshorts",
+   "views": 1253,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "TwopAnaPtd0",
+   "ch": "nekokot",
+   "cid": "UCF_iTZhpqA-rMj7WhCumyRA",
+   "date": "2026-07-06",
+   "title": "Side eye cat 😹 👀                          #cat #cats #cute #",
+   "views": 1201,
+   "desc": "Get ready to laugh out loud with the funniest side eye cat moments that will brighten up your day. This adorable cat gives the best side eye, and its expressions are guaranteed to make you smile. With its cute and sassy personality, this cat is sure to steal your heart. Watch as it gives side eye to"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "QkodcIenhCQ",
+   "ch": "Lova & Akachan",
+   "cid": "UCdAg1xWBbbJJjZ1KnNtOatw",
+   "date": "2026-06-26",
+   "title": "Bombastic side eyes , yojo #cat #imut #original #shortvideo",
+   "views": 1138,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "KhYYOKMFlnI",
+   "ch": "Nyang Daily | Korean Cats",
+   "cid": "UC21ZdB5FsUk7pJ9BkmmrurQ",
+   "date": "2026-10-21",
+   "title": "That Side Eye Scolded Cat #shorts",
+   "views": 1141,
+   "desc": "📌 One-Line Summary\nAn orange tabby cat hilariously transitions from giving an innocent side-eye to hanging its head in deep remorse and begging for forgiveness with irresistible puppy-dog eyes.\n\n📖 The Story\nAn orange and white tabby cat sits indoors beside a dark wooden door, suddenly finding itself"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "v6epgBZawMY",
+   "ch": "Dear Diary, It's Luna Cat.",
+   "cid": "UCDISUgPuaetl7TM4XtJfJhQ",
+   "date": "2026-09-29",
+   "title": "Bombastik side eye..Best cat reaction I have ever seen🤣",
+   "views": 1346,
+   "desc": "Bro.. it's not even something she can eat 🥲\n\nShe heard the cake box open and pulled up like she pays rent here. The side eye🤣\n\nWait for it 🥲\n\n#funnycats #catreaction #catshorts"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "_zJ6wSX3Lv8",
+   "ch": "Tutucat_li",
+   "cid": "UCFdvEm5C2yEaI9B6EVyiTcw",
+   "date": "2026-01-09",
+   "title": "Cat side eyes if you do not feed them😂 Open Purrrr and give ",
+   "views": 1094,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "6LE4b3kSRmU",
+   "ch": "Wong Rida",
+   "cid": "UCQeA1KOHn_lD62ziPWFkLQQ",
+   "date": "2026-09-07",
+   "title": "side eyes 🤣 #cat #cutecat",
+   "views": 1436,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "mxsK89s6G1o",
+   "ch": "Lucy",
+   "cid": "UCfd_89uqRz_LGUllKGHii-w",
+   "date": "2025-12-11",
+   "title": "Bulldog Barfs Up Mom&#39;s Secret! Cat Judge Side-Eyes the O",
+   "views": 781,
+   "desc": "It was supposed to be a regular afternoon play session... until the bulldog got sick! \nThe owner (Mom) is instantly horrified when the vomit reveals an unexpected item—a bizarre secret she definitely didn't want anyone to see!\nWatch the cat's strange reaction: it takes a moment to observe the scene,"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "0Ydh5B9iV8s",
+   "ch": "Goofy Gordon | Pet Stories & Facts",
+   "cid": "UCL6Ms1d4d0dYIhcOA8COhJw",
+   "date": "2026-08-03",
+   "title": "5 Cat Eye Expressions Every Cat Owner Should Know 👀🐾 #Cats #",
+   "views": 763,
+   "desc": "Your cat’s eyes can reveal relaxation, trust, curiosity, sleep—and a sudden burst of playful energy. 👀🐱\n\nIn this Short, learn five common cat-eye expressions: softly narrowed eyes, the friendly slow blink, dramatic side-eye, the third eyelid during sleep, and suddenly enlarged pupils.\n\nLarge pupils "
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "vbTCr2sagtA",
+   "ch": "Luna The Persian Explorer",
+   "cid": "UCwOG11kspDg-WF1zWC0_g7A",
+   "date": "2025-12-24",
+   "title": "When Your Cat Activates SIDE-EYE MODE #cat #catvideos #short",
+   "views": 985,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "pDZKqzTswLA",
+   "ch": "TOPVEXY",
+   "cid": "UC6bl7L-6olAmMcrj6YqxJ2Q",
+   "date": "2026-10-22",
+   "title": "Ranking BEST CAT SIDE-EYE Core Moments!! 👀🐱",
+   "views": 764,
+   "desc": "These cats are judging HARD 👀🐱\nFrom suspicious looks to the ultimate bombastic side-eye, here are 5 hilarious cat side-eye moments ranked from #5 to #1.\n\nWhich cat deserves the #1 spot? 👑\nComment your favorite and subscribe for more daily rankings from Topvexy!\n\n#CatSideEye #funnycats  #catmemes  #r"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "2HN4zJP608w",
+   "ch": "Cat kingdom",
+   "cid": "UCsBVRz3BhX6UbbztZDo5X1Q",
+   "date": "2026-08-14",
+   "title": "My Cat giving me side eye 😒 😂 #shortvideo #pets",
+   "views": 1082,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "k6tCsE_1kJw",
+   "ch": "KonneMøb",
+   "cid": "UCjYEVBhNDyAvsb9X7nm6Ywg",
+   "date": "2026-04-10",
+   "title": "Bombastic Side Eye! #cat #sideeye #cute #funny #cutecat #cat",
+   "views": 1573,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "_nDegnQbGXs",
+   "ch": "Slightly Used",
+   "cid": "UCKHVq73oh8AyIATIz4zbTBQ",
+   "date": "2026-03-11",
+   "title": "Baby has zero chill #cat #sideeye #cattitude",
+   "views": 1152,
+   "desc": "Baby was my dads cat and she doesn’t really like anyone. After he passed, she came to live with us. She secretly loves pets but on her terms. We just exist to serve her. She tolerates the dog and doesn’t understand why we had to get another cat. \n\nShe is my dad in cat form and I’m so lucky to still "
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "G4cOhhTgID0",
+   "ch": "SnugglePaws",
+   "cid": "UCStO_8Y4X0LXQKUh3kl4HxA",
+   "date": "2026-07-11",
+   "title": "The Truth Behind Your Cat&#39;s Side Eye #cat",
+   "views": 492,
+   "desc": "POV: your cat just gave you\nthe side eye.\nAnd it meant something.\n\nEvery cat mom and cat dad\nneeds to see this.\n\nYou have watched funny cat 2025\nand funny cats videos\nfor hours without realising\nyour cat has been\ncommunicating this whole time.\n\nYou have laughed at\nfunny meow moments\nand cute cats do"
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "W3S4AIvuxHM",
+   "ch": "LottoKitty",
+   "cid": "UCzsOJQfg9gM1zz5OnQNpNOA",
+   "date": "2026-09-20",
+   "title": "He Gave Me His FIRST Side-Eye… I Lost It 😭 #cat #sideeye",
+   "views": 626,
+   "desc": ""
+  },
+  {
+   "q": "cat side eye owner",
+   "vid": "pFQGdjky62g",
+   "ch": "Kitty FactZone",
+   "cid": "UCNf1VL18EpE2WVSTGV-0JYw",
+   "date": "2026-11-19",
+   "title": "Cats Side Eyeing You Actually Means Something",
+   "views": 2064,
+   "desc": ""
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "--Q_jTsvfCU",
+   "ch": "AniRank",
+   "cid": "UCEgcjWr6i32DAt6_AZFeaLQ",
+   "date": "2026-06-22",
+   "title": "Ranking BEST OVER POSSESSIVE CAT Core Moments!! 🐱😤",
+   "views": 26434518,
+   "desc": "Cats are either just deeply bonded loyal companions or just absolutely convinced that you are their personal property and everything else in your life is a threat. Time to rank the best over possessive cat moments on the internet! From a cat physically inserting itself between their owner and anyone"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "y0ru-C1GYFA",
+   "ch": "Cam2r",
+   "cid": "UCaZHJQGKUiGPPJOO0nUW_aA",
+   "date": "2025-12-06",
+   "title": "Cats react to cat mask 🤣",
+   "views": 13076125,
+   "desc": ""
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "Z6hjS2bOrFk",
+   "ch": "XelitRanks",
+   "cid": "UCvM1nLmSQCMElKoEhbVW3ng",
+   "date": "2026-10-05",
+   "title": "This Is What Happens When You Cheat On Your Cat😹❤ #cat",
+   "views": 4241020,
+   "desc": "Ranking the most hilarious cats reacting to their owners caught on camera! 😹\n\nI put together a chaotic compilation featuring our feline friends catching us interacting with other cats or glued to our phones. These funny cat videos capture the dramatic side of our pets when they think we are paying a"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "4crDnfX7yoM",
+   "ch": "So Adorable",
+   "cid": "UCpTjYeN5RVJJ9ug6Y8j0bnw",
+   "date": "2026-08-24",
+   "title": "Orange cat heard his owner voice from camera for the first t",
+   "views": 4462941,
+   "desc": ""
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "xZfciP1Pk-Q",
+   "ch": "NAHID HASAN",
+   "cid": "UCfGwQwhiPNnZ20lTKQyyheQ",
+   "date": "2026-11-20",
+   "title": "Cat Catches Owner Drinking From Its Bowl—His Reaction Is Pri",
+   "views": 1806700,
+   "desc": "Cat Catches Owner Drinking From Its Bowl—His Reaction Is Priceless 🐱🥣😹"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "os9AtxtOXtE",
+   "ch": "Rise of Heroes",
+   "cid": "UCFNrX65Nq_lcY9MbUwjx0qg",
+   "date": "2026-09-09",
+   "title": "Natalie Reynolds Caught Cat in the hat costume moving!",
+   "views": 997397,
+   "desc": "Nobody Believed Natalie Reynolds… Until She Showed THIS 😳 #NatalieReynolds #CatInTheHat #costume #catinthehatcostume #creepy #creepycostume #drsues #drsuesscostume #costumeowner  #Viral #TrendingNow #hauntedcostume #shortnews #viralnews #viralupdates #shortupdates #toptrending #trendingnews #rules #"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "2rPCrrga2Ac",
+   "ch": "FunnyFurry Moments",
+   "cid": "UC92pEZiFRIJg4bb3rGBua4w",
+   "date": "2025-12-02",
+   "title": "Top 13 Dramatic Cat Reactions To A Fake Knife!",
+   "views": 293859,
+   "desc": "Did I Just Get Pranked?! 🔪🙀 Watch the Top 13 Dramatic Cat Reactions to a FAKE Knife scare! You won't believe the hilarious, theatrical meltdowns these felines have when they are surprised by this trick. See why these funny cat reactions are peak comedy! Tap 'Subscribe' for more shocking cat pranks!\n"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "M0LNm2iXxdc",
+   "ch": "LastMinit",
+   "cid": "UCcG6HCBufJHMGFXRM-V0wJw",
+   "date": "2026-09-16",
+   "title": "Cat in the hat costume caught moving?",
+   "views": 351632,
+   "desc": ""
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "LuyVSo8hVVc",
+   "ch": "Fame Feed ",
+   "cid": "UCrcJeFqsQFCEHC0fKgVU-sQ",
+   "date": "2026-05-11",
+   "title": "Cat&#39;s Eye Lara Is Going Viral For All The Wrong Reasons",
+   "views": 261686,
+   "desc": "Cat's Eye Lara Is Going Viral For All The Wrong Reasons\n\nIs Lara from Cat's Eye really a mean girl or is the internet reaching?\nThis VMA clip has everyone talking...\nSubscribe — Fame Feed drops daily celebrity tea ☕\n\n #CatsEye #Lara #DojaCat #VMAs #KPop #MeanGirl #FameFeed #Viral #Trending #PopCultu"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "0UH2TYdNqtw",
+   "ch": "LastMinit",
+   "cid": "UCcG6HCBufJHMGFXRM-V0wJw",
+   "date": "2026-09-15",
+   "title": "Cat in the hat costume caught moving?",
+   "views": 182829,
+   "desc": ""
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "eJ5dI4NIKhw",
+   "ch": "Funny couple moments",
+   "cid": "UCVqcCrxJRXCelI5jL1LpmJw",
+   "date": "2026-05-31",
+   "title": "Caught cheating…by my cat 🐱🤣#cat #cats #catslovers #catsofti",
+   "views": 107313,
+   "desc": ""
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "M3GvIJxOhUA",
+   "ch": "Humming Paws",
+   "cid": "UCwO7f6f7IpQYKVnW7K8sqNA",
+   "date": "2026-08-24",
+   "title": "Ranking GOT CAUGHT CHEATING BY MY CAT Core Moments!! 😂🐈",
+   "views": 36396,
+   "desc": "Ranking GOT CAUGHT CHEATING BY MY CAT Core Moments!! 😂🐈\n\nCats are either the most secure, unbothered roomies who couldn't care less about what you do in your free time, or just absolutely possessive, dramatic little detectives who will treat a single molecule of another animal's scent on you like a "
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "sbr7MScMbaM",
+   "ch": "ペチチ",
+   "cid": "UC8FayJonyVLyCI1-wM5YgEg",
+   "date": "2026-11-16",
+   "title": "イチャイチャ現場を見られちゃった猫たち",
+   "views": 28780,
+   "desc": "飼い主にイチャイチャを見られちゃった猫たち！🐱💕 バレた瞬間のリアクションが可愛すぎる😂 まさかの反応に思わず笑っちゃう！\n\n#猫 #猫動画 #猫好き #可愛い猫 #面白い猫 #猫のいる暮らし #猫カップル #癒し #ねこ #cat #shorts"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "K9i2GtabGYA",
+   "ch": "SI OGGIE",
+   "cid": "UC7xS0N4nd28eeW1bUCSqOMQ",
+   "date": "2026-11-22",
+   "title": "Funniest Cats Caught Being Silly! 😭 #shorts #ytshorts #fypp ",
+   "views": 5717,
+   "desc": "These cats are caught being their silly little selves! 😭🐱 From funny movements to crazy reactions and unexpected behavior, these adorable cats never fail to make us laugh. You never know what these goofy cats will do next! 😂😹\n\nWatch until the end and enjoy these hilarious cat moments!\n\nDon't forget "
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "fvpNwytbyhI",
+   "ch": "Guess the Meow",
+   "cid": "UCR7JAY-TLwJDxjnU26HuOMg",
+   "date": "2026-11-20",
+   "title": "RANKING CATS WITH THE MOST UNEXPECTED REACTIONS! 😂🐱 #shorts ",
+   "views": 3798,
+   "desc": "Ranking Cats With the Most Unexpected Reactions! 😂🐱 Watch these hilarious funny cats react in the most unexpected ways!\n\nFrom a cat giving the ultimate death stare and another spinning across the floor to a cat caught in a group hug, funny toy reactions and an absolutely shocked cat, these unpredict"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "hfCyaFbkk5I",
+   "ch": "Waqt ki baat hai",
+   "cid": "UCjJiYr3ZKd81soqFy50H_4A",
+   "date": "2026-11-21",
+   "title": "Cat Caught Drinking Milk! 😂🐱 Owner Mom’s Reaction Is PRICELE",
+   "views": 75,
+   "desc": "Cat Caught Drinking Milk! 😂🐱 Owner Mom’s Reaction Is PRICELESS! 🥛🤣\n\nA naughty cat secretly drinks the milk, but gets caught red-handed! Watch the owner’s hilarious shocked reaction. Don’t miss the funny ending! 😂\n\n#funnycat #catshorts #catvideos #cutecat #funnyanimals #youtubeshorts #shorts #viralsh"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "dcIT1816Qu8",
+   "ch": "Bestie Tales ",
+   "cid": "UCcUQ4UdrIpZh7k3bM10p09Q",
+   "date": "2026-11-21",
+   "title": "Cat Reactions 😹 Wait for #1!  #ranking #funnyvideo #cat #fun",
+   "views": 1589,
+   "desc": "Cats caught in 4K: judging stares, sudden freakouts and the funniest reactions 😹\n\nHere are the Top 8 funniest cat reactions, ranked from #8 to #1. Don't skip the last one!\n\nWhich cat gets your vote? Comment your favorite rank number 👇\n\n👍 Like if you laughed\n🔔 Subscribe for more funny cat videos\n\nCli"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "MgvRohnks8s",
+   "ch": "Mr Zyro",
+   "cid": "UCl4-T7M6Hd2NXJ0amZYMI3Q",
+   "date": "2026-11-21",
+   "title": "Cat Catches Owner Drinking From Its Bowl—His Reaction Is Pri",
+   "views": 1162,
+   "desc": "Cat Catches Owner Drinking From Its Bowl—His Reaction Is Priceless 🐱🥣😹"
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "e57bYrMLhMk",
+   "ch": "سيو بروفيسيونال",
+   "cid": "UCIO1-63XBM1rvxHtiYZyw6A",
+   "date": "2026-11-21",
+   "title": "Ranking The Funniest Pet Moments You Can&#39;t Miss 😂 #funny",
+   "views": 543,
+   "desc": "Cats and dogs doing something unexpected. Peak: an animal falls or gets scared by something tiny.#cat #rankingfunnymoments\n\nWatch these funniest pet moments featuring cats caught in the most amusing situations. See why these viral clips are guaranteed to make you laugh.\n\nThis compilation focuses on "
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "zBBC64AD_YY",
+   "ch": "Irfankhan",
+   "cid": "UC1TD0uRTkiM5eJWlFmyJa9Q",
+   "date": "2026-11-19",
+   "title": "🐱 Sneaky Cat Caught Stealing Dinner #FunnyReaction #Comedy #",
+   "views": 0,
+   "desc": "Watch this adorable yet mischievous white cat attempt the perfect kitchen heist. With a steaming fish left unguarded on the table, our fluffy protagonist decides to take a chance at the ultimate snack, only to be caught in the act by a sharp-eyed chef.\n\nThe tension builds as the cat tiptoes through "
+  },
+  {
+   "q": "cat caught owner reaction",
+   "vid": "FaW8phkdDQA",
+   "ch": "comedyfunworld",
+   "cid": "UCdA3OyVd9o70B5nIQvmGpCQ",
+   "date": "2026-11-20",
+   "title": "​When You Catch Your Cats in 4K 😭🐈",
+   "views": 13,
+   "desc": "When You Catch Your Cats in 4K 😭🐈\n\n#shorts #funny #cats #catvideos #reaction #caughtlacking #funnycats #comedy #memes #trending #viral #reels #youtubeshorts #catlovers #relatable\n\nBro really interrupted their romantic moment in the hallway 💀😂 The way they both froze and ran away when they got caught"
   }
  ]
 }
