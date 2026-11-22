@@ -63,8 +63,8 @@ frame(("22일 이재명 대통령 엑스", "\"불안견불 '돈안견돈'\""),
              ("덧붙임", "\"표현이 거칠다는 '비방은 자제' 바란다\"")], h=640),
       "\"임기 초 순방은 꼭 해야 할 '국정과제'\"", "이재명 대통령 X 게시글(11.22)").save(O / "c02.jpg", quality=93)
 
-op(O / "xtodayf.jpg").crop((0, 0, 860, 640)).save(O / "cap_xtoday.jpg", quality=95)
-op(O / "xoctf.jpg").crop((0, 0, 860, 640)).save(O / "cap_xoct.jpg", quality=95)
+op(O / "xtodayd.jpg").crop((0, 0, 860, 630)).save(O / "cap_xtoday.jpg", quality=95)
+op(O / "xoctd.jpg").crop((0, 0, 860, 560)).save(O / "cap_xoct.jpg", quality=95)
 spec = [
     {"out": str(O / "c01x.jpg"), "sub": "11월 22일 · 이재명 대통령 엑스", "title": "순방 비판에\n\"돼지 눈에는 '돼지만'\"",
      "cap": str(O / "cap_xtoday.jpg"), "caption": "이재명 대통령 X 게시물 캡처(11.22)", "cap_max_h": 640,
