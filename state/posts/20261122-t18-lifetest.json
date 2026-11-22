@@ -1,7 +1,7 @@
 {
  "id": "20261122-t18-lifetest",
  "kind": "short",
- "status": "pending",
+ "status": "published",
  "created_at": "2026-11-23T00:31:07.808405+09:00",
  "publish_at": "2026-11-23T00:31:07.808427+09:00",
  "publish_now": true,
@@ -51,5 +51,9 @@
  },
  "draft_hash": "00d880dea113",
  "tg_video": 3101,
- "tg_msg": 3102
+ "tg_msg": 3102,
+ "decided_at": "2026-11-23T00:33:12.894402+09:00",
+ "yt_id": "5BgYPna9mCI",
+ "permalink": "https://youtube.com/shorts/5BgYPna9mCI",
+ "published_at": "2026-11-23T00:33:15.780012+09:00"
 }
