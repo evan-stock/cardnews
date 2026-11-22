@@ -1,13 +1,12 @@
 {
- "_for": "ㅋㅋ상회 멘헤라 DM 실사본 줌아웃 1장 (2026-11-22 10:27 사용자 승인 '엉다시뽑아', 55원 안팎).",
+ "_for": "ㅋㅋ상회 AI짤 4번 블프 택배: 사진 1장 (2026-11-22 10:32 사용자 선택 '4', 55원 안팎). 위 알림 화면은 직접 그림.",
  "model": "gemini-2.5-flash-image",
- "style": "",
+ "style": "Photorealistic casual smartphone photo, natural indoor lighting, slightly imperfect amateur shot. No text, no logos, no brand marks anywhere.",
  "prompts": [
   {
-   "name": "kk_menhera_real_zoomout",
-   "aspect": "4:5",
-   "refs": ["drafts/refs/kk_menhera_real_fixed.jpg", "drafts/refs/style_photo_kakao.jpg"],
-   "prompt": "Image 1 is a close-up photo of a phone screen. Zoom out: make a new photo of the same scene with the camera pulled back, so the whole smartphone is visible, held in a person's hand in a dark room, slightly tilted, photographed by another phone like image 2. The phone screen must show exactly the content of image 1, unchanged: same purple heart background, same bubbles, same Korean text and line breaks, same avatars, same emojis, same number of bubbles (five bubbles, the last one ends with 보여줄게; do not add or repeat any bubble). Above the bubbles show only a plain dark purple area; below the last bubble show only dark purple background. Keep the real-photo feel: faint crack line on the glass, dust, slight moire, soft light reflection, phone camera noise. Dark phone bezel visible around the screen. No other text, no app icons, no watermark."
+   "name": "kk_bf_parcels",
+   "aspect": "4:3",
+   "prompt": "Inside a Korean apartment entrance (hyeongwan) seen from the living room side: the front door area is completely blocked by a tall messy tower of about ten plain brown cardboard delivery boxes and white plastic poly mailer bags of different sizes, piled up to chest height. A Korean middle-aged mom in a cozy home cardigan and house slippers stands next to the pile with her arms crossed, seen from behind and slightly to the side, staring at the boxes. Shoes scattered on the entrance floor, warm ceiling light, slightly cluttered real home. Plain boxes with no printed text or logos."
   }
  ]
 }
