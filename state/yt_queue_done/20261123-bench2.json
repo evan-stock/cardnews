@@ -1,0 +1,61 @@
+{
+ "id": "20261123-bench2",
+ "finished_at": "2026-11-23T01:56:43+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/marvnucD43g",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench2/video/y1.mp4",
+   "mb": 2.3,
+   "view_count": 184020,
+   "title": "아기 냥이에게 애정표현하던 집사가 당황한 이유ㅋㅋ"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/Qc0f9vzBIKc",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench2/video/y2.mp4",
+   "mb": 4.4,
+   "view_count": 117729,
+   "title": "어젯밤 야근이라도 했나? 꾸벅꾸벅 졸던 아기 냥이의 황당한 광경 ㅋㅋ"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/shorts/UdB8kJBk4X4",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench2/video/y3.mp4",
+   "mb": 3.3,
+   "view_count": 71245,
+   "title": "집사 손가락에 도전한 아기 냥이의 예상 못 한 공격ㅋㅋ"
+  },
+  {
+   "n": 4,
+   "url": "https://www.youtube.com/shorts/XgVPcaBl20k",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench2/video/y4.mp4",
+   "mb": 13.8,
+   "view_count": 3885460,
+   "title": "허스키와 래브라도의 새끼는?"
+  },
+  {
+   "n": 5,
+   "url": "https://www.youtube.com/shorts/w7Imd5OFSdM",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261123-bench2/video/y5.mp4",
+   "mb": 11.3,
+   "view_count": 809939,
+   "title": "홈캠에서 들리는 아빠목소리3탄"
+  }
+ ]
+}
