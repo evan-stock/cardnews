@@ -1,1 +1,2 @@
+오늘의쓸모 생성 2012-06-30 구독 50 | 전 {'n': 0, 'median': None, 'max': None, 'over10k': 0} | 후 {'n': 69, 'median': 1979, 'max': 23947, 'over10k': 6} | 3일 {'n': 2, 'median': 903, 'max': 1807, 'over10k': 0}
 
