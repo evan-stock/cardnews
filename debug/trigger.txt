@@ -1,13 +1,5 @@
-shot 20261122-jensennyt https://www.etoday.co.kr/news/view/2651356 cap_etoday
-shot 20261122-jensennyt https://m.sedaily.com/article/20117232 cap_sedaily
-shot 20261122-jensennyt https://m.sedaily.com/article/20117376 cap_sedaily2
-shot 20261122-jensennyt https://fortune.com/2024/09/05/nvidia-ceo-jensen-huang-torture-employees-to-greatness-culture cap_fortune
-shot 20261122-jensennyt https://www.sentv.co.kr/article/view/sentv202611210010 cap_sentv
-get 20261122-jensennyt https://img.etoday.co.kr/pto_db/2026/11/20261116145613_2418401_1200_815.jpg p_etoday.jpg
-get 20261122-jensennyt https://commons.wikimedia.org/wiki/Special:FilePath/Jensen_huang_stanford_2026-04-30_007.jpg?width=1500 p_w007.jpg
-get 20261122-jensennyt https://commons.wikimedia.org/wiki/Special:FilePath/Jensen_huang_stanford_2026-04-30_008.jpg?width=1500 p_w008.jpg
-get 20261122-jensennyt https://commons.wikimedia.org/wiki/Special:FilePath/Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg?width=1500 p_w010.jpg
-get 20261122-jensennyt https://commons.wikimedia.org/wiki/Special:FilePath/Jensen_huang_stanford_2026-04-30_005.jpg?width=1500 p_w005.jpg
-get 20261122-jensennyt https://commons.wikimedia.org/wiki/Special:FilePath/Jensen_huang_stanford_2026-04-30_006.jpg?width=1500 p_w006.jpg
-get 20261122-jensennyt https://commons.wikimedia.org/wiki/Special:FilePath/Jensen_huang_stanford_2026-04-30_011.jpg?width=1500 p_w011.jpg
-get 20261122-jensennyt https://commons.wikimedia.org/wiki/Special:FilePath/Jensen_huang_stanford_2026-04-09_033.jpg?width=1500 p_w033.jpg
+shot 20261122-jensennyt https://www.etoday.co.kr/news/view/2651356 cl_etoday clean noimg
+shot 20261122-jensennyt https://www.seoul.co.kr/news/international/2026/11/22/20261122500003 cl_seoul clean noimg
+shot 20261122-jensennyt https://m.sedaily.com/article/20117232 cl_sedaily clean noimg
+shot 20261122-jensennyt https://m.sedaily.com/article/20117376 cl_sedaily2 clean noimg
+shot 20261122-jensennyt https://fortune.com/2024/09/05/nvidia-ceo-jensen-huang-torture-employees-to-greatness-culture cl_fortune clean noimg

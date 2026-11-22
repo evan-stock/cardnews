@@ -23,7 +23,16 @@ if _a and _a[0] in ("shot", "get"):
                 r = pg.goto(a[2], wait_until="domcontentloaded", timeout=60000); pg.wait_for_timeout(5000)
                 try: pg.wait_for_load_state("networkidle", timeout=15000); pg.evaluate("document.fonts.ready")
                 except Exception: pass
-                if len(a) > 4 and a[4] == "font":  # 'shot <id> <url> <이름> font' = 앱처럼 보이게 Pretendard 글꼴로 바꿔 찍기(2026.11.22)
+                if "clean" in a[4:]:  # 'shot ... clean [noimg]' = 광고·고정 배너를 페이지에서 지우고 찍기(로고·제목·문단이 한 화면에 이어지게, 2026.11.22). noimg = 기사 본문 사진·빈 광고 자리도 지움
+                    pg.evaluate("""(noimg) => {
+                      const kill = e => e && e.remove();
+                      document.querySelectorAll('iframe,ins,[id*=google_ads],[class*=adsbygoogle],[id^=div-gpt],[class*=banner],[id*=banner],[class*=ad-],[class*=_ad],[class^=ad],[id^=ad],[class*=advert],[class*=sponsor]').forEach(kill);
+                      document.querySelectorAll('body *').forEach(e => { const s = getComputedStyle(e); if ((s.position === 'fixed' || s.position === 'sticky') && !e.querySelector('h1') && e.getBoundingClientRect().top > 80) kill(e); });
+                      if (noimg) document.querySelectorAll('figure,picture,.photo,[class*=img],[class*=photo],[class*=image]').forEach(e => { if (!e.querySelector('h1,h2,p')) kill(e); });
+                      document.querySelectorAll('div,section,aside').forEach(e => { if (!e.innerText.trim() && !e.querySelector('img,svg,video') && e.getBoundingClientRect().height > 40) kill(e); });
+                    }""", "noimg" in a[4:])
+                    pg.wait_for_timeout(800)
+                if "font" in a[4:]:  # 'shot <id> <url> <이름> font' = 앱처럼 보이게 Pretendard 글꼴로 바꿔 찍기(2026.11.22)
                     import base64
                     fr = base64.b64encode(open("assets/fonts/Pretendard-Medium.otf", "rb").read()).decode()
                     fb = base64.b64encode(open("assets/fonts/Pretendard-ExtraBold.otf", "rb").read()).decode()
