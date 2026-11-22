@@ -1,3 +1,4 @@
-get 20261121-profiler https://i.ytimg.com/vi/cSsO99RYFl0/maxresdefault.jpg yt_thumb.jpg
-shot 20261121-profiler https://m.youtube.com/watch?v=cSsO99RYFl0 yt
-shot 20261121-profiler https://www.wikitree.co.kr/articles/1175930 wikitree
+shot 20261122-dannycho https://platform.twitter.com/embed/Tweet.html?id=2124111688744214863&lang=ko xembed
+shot 20261122-dannycho https://m.fmkorea.com/10581787658 fmk
+shot 20261122-dannycho https://m.youtube.com/watch?v=CDHTSVHf1Us yt
+get 20261122-dannycho https://i.ytimg.com/vi/CDHTSVHf1Us/maxresdefault.jpg yt_thumb.jpg
