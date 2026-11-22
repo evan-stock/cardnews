@@ -1,1 +1,1 @@
-kk_hand_phone_green: 실패
+kk_menhera_phone: 성공 (gemini-2.5-flash-image)
