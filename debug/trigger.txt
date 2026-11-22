@@ -1,2 +1,1 @@
-get 20261122-pigeye https://cdn.syndication.twimg.com/tweet-result?id=2124335210745692339&lang=ko&token=4 t_today.json
-get 20261122-pigeye https://cdn.syndication.twimg.com/tweet-result?id=2116362978983616862&lang=ko&token=4 t_oct.json
+get 20261122-pigeye https://pbs.twimg.com/profile_images/1916425597586448384/O2OTY-Yj_400x400.jpg avatar.jpg
