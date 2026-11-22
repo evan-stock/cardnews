@@ -72,8 +72,8 @@ spec = [
      "lines": ["잦은 순방 비판한 야당 겨냥", "성기홍 홍보소통수석 글 공유하며 반박"]},
     {"out": str(O / "c03.jpg"), "sub": "처음이 아니다 · 10월 31일 엑스", "title": "한 달 전에도\n'같은 말'",
      "cap": str(O / "cap_xoct.jpg"), "caption": "이재명 대통령 X 게시물 캡처(2026.10.31)", "cap_max_h": 600,
-     "label": "\"수시로 '링거주사' 맞으며 코피…\"",
-     "lines": ["순방을 '음주·쇼핑·관광'으로 아는 사람 입장에선", "같은 비판에 같은 반박, 이번엔 '돼지 눈'까지"]},
+     "label": "\"돼지눈에는 '돼지만' 보인다고\"",
+     "lines": ["이때 처음 꺼낸 '돼지 눈' 표현", "이번에 같은 고사를 '또' 인용"]},
 ]
 json.dump(spec, open(O / "cap_spec.json", "w"), ensure_ascii=False)
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(O / "cap_spec.json")], check=True)
