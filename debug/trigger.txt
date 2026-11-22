@@ -1,4 +1,1 @@
-shot 20261122-pigeye https://www.news1.kr/politics/president/6361930 news1
-shot 20261122-pigeye https://www.wikitree.co.kr/articles/1176731 wikitree
-shot 20261122-pigeye https://www.etoday.co.kr/news/view/2651340 etoday
-shot 20261122-pigeye https://platform.twitter.com/embed/Tweet.html?id=2116362978983616862&lang=ko xoct
+shot 20261122-pigeye https://platform.twitter.com/embed/Tweet.html?id=2124335210745692339&lang=ko xtoday
