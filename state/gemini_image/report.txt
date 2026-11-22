@@ -1,1 +1,1 @@
-kk_trainer_phone: 성공 (gemini-2.5-flash-image)
+kk_trainer_sms_phone: 성공 (gemini-2.5-flash-image)
