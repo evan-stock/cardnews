@@ -1,0 +1,10 @@
+WARNING: [Douyin] 7660723901228334001: Failed to download web detail JSON: HTTP Error 403: Forbidden
+ERROR: [Douyin] 7660723901228334001: Fresh cookies (not necessarily logged in) are needed
+실패: https://www.douyin.com/video/7660723901228334001
+ERROR: [download] Got error: HTTP Error 567: Unknown Status. Giving up after 10 retries
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+실패: https://www.bilibili.com/video/av115937659323547/
+total 12
+drwxr-xr-x 2 runner runner 4096 Nov 22 17:04 .
+drwxr-xr-x 3 runner runner 4096 Nov 22 17:04 ..
+-rw-r--r-- 1 runner runner  459 Nov 22 17:04 log.txt
