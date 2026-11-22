@@ -19,7 +19,8 @@ if _a and _a[0] in ("shot", "get"):
                 if a[0] == "get":
                     r = requests.get(a[2], headers={"User-Agent": "cardnews-bot/1.0 (https://github.com/evan-stock/cardnews)"}, timeout=60)
                     print("get", r.status_code, a[2]); (out / name).write_bytes(r.content); continue
-                pg = b.new_page(viewport={"width": 430, "height": 932}, device_scale_factor=2, locale="ko-KR", user_agent=UA)
+                pg = (b.new_page(viewport={"width": 1100, "height": 1000}, device_scale_factor=2, locale="ko-KR") if "desk" in a[4:]  # 'desk' = PC 화면(가로로 긴 기사 캡처, 예전 캡처 카드 양식 20261116-knew, 2026.11.22)
+                      else b.new_page(viewport={"width": 430, "height": 932}, device_scale_factor=2, locale="ko-KR", user_agent=UA))
                 r = pg.goto(a[2], wait_until="domcontentloaded", timeout=60000); pg.wait_for_timeout(5000)
                 try: pg.wait_for_load_state("networkidle", timeout=15000); pg.evaluate("document.fonts.ready")
                 except Exception: pass

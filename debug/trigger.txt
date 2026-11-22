@@ -1,5 +1,5 @@
-shot 20261122-jensennyt https://www.etoday.co.kr/news/view/2651356 cl_etoday clean noimg
-shot 20261122-jensennyt https://www.seoul.co.kr/news/international/2026/11/22/20261122500003 cl_seoul clean noimg
-shot 20261122-jensennyt https://m.sedaily.com/article/20117232 cl_sedaily clean noimg
-shot 20261122-jensennyt https://m.sedaily.com/article/20117376 cl_sedaily2 clean noimg
-shot 20261122-jensennyt https://fortune.com/2024/09/05/nvidia-ceo-jensen-huang-torture-employees-to-greatness-culture cl_fortune clean noimg
+shot 20261122-jensennyt https://www.sedaily.com/article/20117376 dk_sedaily2 desk clean noimg
+shot 20261122-jensennyt https://www.sedaily.com/article/20117232 dk_sedaily desk clean noimg
+shot 20261122-jensennyt https://www.seoul.co.kr/news/international/2026/11/22/20261122500003 dk_seoul desk clean noimg
+shot 20261122-jensennyt https://www.etoday.co.kr/news/view/2651356 dk_etoday desk clean noimg
+shot 20261122-jensennyt https://fortune.com/2024/09/05/nvidia-ceo-jensen-huang-torture-employees-to-greatness-culture dk_fortune desk clean noimg
