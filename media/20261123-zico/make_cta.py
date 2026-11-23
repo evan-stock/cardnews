@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageEnhance, ImageOps
 D = Path(__file__).parent; R = D.parents[1]; O = D / "cand"
 W, H = 1080, 1350; YE = (255, 216, 77)
 F = lambda w, s: ImageFont.truetype(str(R / f"assets/fonts/Pretendard-{w}.otf"), s)
-COMMENTS = ["남 인생 무시하더니 기분 좋은 하루다", "쇼 아닌가", "돈 달라는 거지 뭐", "어쩌라는 건지 ㅋㅋ 누칼협"]
+COMMENTS = ["출근하는 사람 비웃더니 ㅋㅋ", "이것도 방송용 아님?", "결국 별풍선 달라는 거잖아", "누가 칼 들고 협박했냐고"]
 
 bg = ImageOps.fit(Image.open(O / "cover_bg.jpg").convert("RGB"), (W, H), Image.LANCZOS)
 bg = ImageEnhance.Brightness(bg.filter(ImageFilter.GaussianBlur(26))).enhance(.35).convert("RGBA")
