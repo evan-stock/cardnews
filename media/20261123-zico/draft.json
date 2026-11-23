@@ -8,6 +8,7 @@
   "images": [
    "cover_bg.jpg",
    "cover_bg.jpg",
+   "c03.jpg",
    "cta.jpg"
   ],
   "slides": [
@@ -24,6 +25,9 @@
      "y": 0.5,
      "audio": true
     }
+   },
+   {
+    "raw": true
    },
    {
     "raw": true
@@ -44,10 +48,16 @@
    {
     "publisher": "SOOP 라이브 방송",
     "date": "2026.11.22"
+   },
+   {
+    "publisher": "YTN·시대일보",
+    "date": "2019.06"
    }
   ],
   "photo_credits": [
-   "SOOP 방송 화면"
+   "SOOP 방송 화면",
+   "YTN 화면(2019)",
+   "인사이트(2019)"
   ]
  }
 ]
