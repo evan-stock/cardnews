@@ -1,13 +1,17 @@
 [
  {
-  "id": "20261123-ddakref",
+  "id": "20261123-zico2019",
   "mode": "collect",
   "image_pages": [
-   "https://www.instagram.com/p/DgEI5fMD0Bv/embed/captioned/"
+   "https://www.sidae.com/article/2019061916578032959",
+   "https://www.ytn.co.kr/_ln/0103_201906201050070499",
+   "https://www.insight.co.kr/news/244986",
+   "https://www.wikitree.co.kr/articles/444000"
   ],
-  "read_pages": [
-   "https://www.instagram.com/p/DgEI5fMD0Bv/embed/captioned/"
+  "shot_pages": [
+   "https://www.sidae.com/article/2019061916578032959",
+   "https://www.ytn.co.kr/_ln/0103_201906201050070499"
   ],
-  "limit": 20
+  "limit": 30
  }
 ]
