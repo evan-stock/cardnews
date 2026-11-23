@@ -1,2 +1,3 @@
-get 20261123-eren https://attackontitan.fandom.com/api.php?action=query&titles=Founding_Titan|Eren_Yeager|Rumbling&prop=images&imlimit=200&format=json imgs.json
-get 20261123-eren https://attackontitan.fandom.com/api.php?action=query&generator=images&titles=Founding_Titan&gimlimit=100&prop=imageinfo&iiprop=url|size&format=json founding.json
+shot 20261123-yeoui https://www.newspim.com/news/view/20261123000607 np desk clean noimg
+shot 20261123-yeoui https://www.kdfnews.com/news/articleView.html?idxno=191207 kd desk clean noimg
+shot 20261123-yeoui https://view.asiae.co.kr/article/2026112014574365103 ae desk clean noimg
