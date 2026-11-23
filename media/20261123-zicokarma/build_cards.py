@@ -70,13 +70,20 @@ def cap(src, box, h):
     im = op(src).crop(box); return im.resize((round(im.width * h / im.height), h), Image.LANCZOS) if im.width * h / im.height <= 940 else im.resize((940, round(im.height * 940 / im.width)), Image.LANCZOS)
 def pic(src, w=940):
     im = op(src); return im.resize((w, round(im.height * w / im.width)), Image.LANCZOS)
-frame(("2019년, 출근하는 시민에게", "\"부럽네요\" 하고 돌아서서 '조롱'"), pic("old.jpg"),
-      "\"야이 ㅋㅋㅋ 내가 '부럽겠냐'\"", "당시 아프리카TV 방송 화면").save(O / "c02.jpg", quality=93)
-frame(("결국 '7일 방송 정지'", "장애인 비하 이어 '두 번째'"), cap("ytn.jpg", (0, 0, 860, 520), 520),
-      "\"고작 7일? '솜방망이' 징계\" 비판", "YTN(2019.6.20)").save(O / "c03.jpg", quality=93)
-frame(("연매출 364억 '엑셀방송 대부'", "\"아이가 학교에서 '놀림'받아\""), pic("iv.jpg", 720),
-      "\"학부모들은 날 '범죄 단체 수장'처럼\"", "본인 유튜브 인터뷰 화면").save(O / "c04.jpg", quality=93)
-frame(("그리고 2026년 11월", "200억 주식 '-90%'에 생방송 오열"), cap("ss.jpg", (0, 0, 860, 600), 600),
-      "\"직원들 급여 밀린 건 '내 잘못'\"", "스포츠서울(11.23) · 주택담보대출 50억도").save(O / "c05.jpg", quality=93)
-ImageOps.fit(op("ss.jpg").crop((478, 770, 860, 1440)), (W, H), Image.LANCZOS, centering=(.5, .5)).save(O / "cover_bg.jpg", quality=95)
+# 2026.11.23 사용자 지시로 방향 바꿈: '엑셀 접고 주식 올인한 이유'(돈 많아도 무시받은 이야기)
+def ivp(n, box=None, w=720):
+    im = op(n)
+    if box: im = im.crop(box)
+    return im.resize((w, round(im.height * w / im.width)), Image.LANCZOS)
+frame(("엑셀방송 그만두는 이유를 묻자", "\"가장 '상처'받게 된 게…\""), ivp("iv1.jpg", (0, 260, 803, 968), 640),
+      "연매출 364억 '엑셀방송 대부'의 고백", "본인 유튜브 인터뷰 화면").save(O / "c02.jpg", quality=93)
+frame(("학교 다니는 첫째 아이에게", "\"너네 아빠 '지코'ㅋㅋㅋ\""), ivp("iv4.jpg"),
+      "\"그걸 또 애가 알아서 '상처' 받아\"", "본인 유튜브 인터뷰 화면").save(O / "c03.jpg", quality=93)
+frame(("돈은 벌었지만", "학부모들 시선은 '범죄 단체 수장'"), ivp("iv12.jpg"),
+      "\"애들은 죄가 없잖아, 근데 학부모들은…\"", "본인 유튜브 인터뷰 화면").save(O / "c04.jpg", quality=93)
+frame(("결국 엑셀방송 '중단' 선언", "\"이제 엑셀은 '이만했으면' 됐다\""), cap("insight.jpg", (0, 0, 868, 500), 480),
+      "\"옛 열혈 후원자 절반은 '감옥'에\"", "인사이트(2025.10.17)").save(O / "c05.jpg", quality=93)
+frame(("그리고 택한 건 '주식'", "아이온큐에 200억 → '-90%'"), cap("ss.jpg", (0, 0, 860, 600), 600),
+      "\"직원들 급여 밀린 건 '내 잘못'\" 생방송 오열", "스포츠서울(11.23) · 주택담보대출 50억도").save(O / "c06.jpg", quality=93)
+ImageOps.fit(op("iv6.jpg").crop((0, 0, 927, 680)), (W, H), Image.LANCZOS, centering=(.5, .5)).save(O / "cover_bg.jpg", quality=95)
 print("ok")
