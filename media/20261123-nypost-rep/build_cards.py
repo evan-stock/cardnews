@@ -90,6 +90,6 @@ x0, y0 = W - D0 - 60, 90
 # 동그라미 프로필은 2026.11.23 사용자 지시로 뺌
 if bgsrc == "eye_up.png":  # 사용자가 준 AI 합성 이미지(눈만 파충류 눈으로 바꿈) → 실제 사진으로 오해 없게 표시
     d = ImageDraw.Draw(bg); f = F("SemiBold", 34); t = "AI 합성 이미지"; tw = d.textlength(t, font=f)
-    d.rounded_rectangle((60, 100, 60 + tw + 40, 160), 12, fill=(0, 0, 0)); d.text((80, 130), t, font=f, fill=(255, 255, 255), anchor="lm")
+    d.text((62, 132), t, font=f, fill=(0, 0, 0), anchor="lm"); d.text((60, 130), t, font=f, fill=(255, 255, 255), anchor="lm")  # 검은 상자 없이(2026.11.23 사용자 지시), 옅은 그림자만
 bg.save(O / "cover_bg.jpg", quality=95)
 print("ok")
