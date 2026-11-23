@@ -1,0 +1,59 @@
+[
+ {
+  "out": "/home/user/cardnews/media/20261123-gamkang/cand/c02.jpg",
+  "sub": "에펨코리아 · 11월 23일",
+  "title": "\"그분 시험지,\n별표 위치가 '이상하다'\"",
+  "cap": "/home/user/cardnews/media/20261123-gamkang/cand/k02.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 680,
+  "caption": "에펨코리아 게시글 캡처(조회 11만)",
+  "label": "\"1타 강사의 증언\"이라며 올라온 글",
+  "lines": [
+   "\"내 기본강의 풀이 방식이 '하나도' 안 보인다\""
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-gamkang/cand/c03.jpg",
+  "sub": "감평냥이 2차 해명문 · 11월 19일",
+  "title": "감평냥이 쪽은\n\"배경지식이 '이미' 있었다\"",
+  "cap": "/home/user/cardnews/media/20261123-gamkang/cand/k03.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 680,
+  "caption": "본인 2차 해명문 캡처",
+  "label": "서울대 학사·도시계획학 석사",
+  "lines": [
+   "\"6개월로 설명한 건 '부적절'했다\" 사과"
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-gamkang/cand/c04.jpg",
+  "sub": "감평냥이 2차 해명문 · 11월 19일",
+  "title": "증거로 내놓은 건\n수강 확인서·'연습 답안'",
+  "cap": "/home/user/cardnews/media/20261123-gamkang/cand/g4.jpg",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 680,
+  "cap_crop": [
+   90,
+   250,
+   840,
+   1000
+  ],
+  "caption": "본인이 공개한 연습 답안",
+  "label": "부정행위는 \"없었다\" 부인",
+  "lines": [
+   "성적은 189명 중 '150등'(한국경제)"
+  ]
+ }
+]
