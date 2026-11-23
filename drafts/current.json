@@ -1,45 +1,26 @@
 [
  {
-  "id": "20261121-riemann2",
+  "id": "20261123-alicechip",
   "mode": "collect",
   "image_pages": [
-   "https://fnnews.com/news/202611210414035344",
-   "https://www.ytn.co.kr/_ln/0104_202611210725108348",
-   "https://www.etnews.com/20261121000021",
-   "https://www.hidomin.com/news/articleView.html?idxno=730317",
-   "https://scimonitors.com/anthropic-levent-alpoge-claude-riemann-hypothesis-proof-claim/",
-   "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-   "https://futurism.com/artificial-intelligence/anthropic-riemann-hypothesis",
-   "https://interestingengineering.com/ai-robotics/anthropic-167-year-old-riemann-hypothesis-claude",
-   "https://www.economytribune.co.kr/news/articleView.html?idxno=3904496"
+   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01380886645648344",
+   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858032",
+   "https://www.segye.com/newsView/20261122510781",
+   "https://www.hankyung.com/article/2026112224531",
+   "https://www.sidae.com/article/2026112307152798327",
+   "https://m.news.nate.com/view/20261122n12003",
+   "https://www.koreatimes.net/economy/180767"
   ],
   "read_pages": [
-   "https://scimonitors.com/anthropic-levent-alpoge-claude-riemann-hypothesis-proof-claim/",
-   "https://fnnews.com/news/202611210414035344"
+   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01380886645648344",
+   "https://www.hankyung.com/article/2026112224531",
+   "https://m.news.nate.com/view/20261122n12003"
   ],
   "shot_pages": [
-   "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%A7%8C_%EA%B0%80%EC%84%A4",
-   "https://www.claymath.org/millennium/riemann-hypothesis/",
-   "https://www.ytn.co.kr/_ln/0104_202611210725108348",
-   "https://www.etnews.com/20261121000021",
-   "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-   "https://fnnews.com/news/202611210414035344",
-   "https://alpo.ge/",
-   "https://namu.wiki/w/%EB%A6%AC%EB%A7%8C%20%EA%B0%80%EC%84%A4"
+   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01380886645648344",
+   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858032",
+   "https://www.hankyung.com/article/2026112224531"
   ],
   "limit": 40
- },
- {
-  "id": "20261121-claudelogo",
-  "mode": "collect",
-  "image_pages": [
-   "https://commons.wikimedia.org/wiki/File:Claude_AI_symbol.svg",
-   "https://commons.wikimedia.org/wiki/File:Claude_AI_logo.svg",
-   "https://en.wikipedia.org/wiki/Claude_(language_model)"
-  ],
-  "shot_pages": [
-   "https://commons.wikimedia.org/wiki/File:Claude_AI_symbol.svg"
-  ],
-  "limit": 20
  }
 ]
