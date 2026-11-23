@@ -1,0 +1,1 @@
+Lucie Woos 생성 2017-01-30 구독 6740 | 전 {'n': 2, 'median': 45685, 'max': 62989, 'over10k': 2} | 후 {'n': 30, 'median': 26902, 'max': 7257381, 'over10k': 28} | 3일 {'n': 0, 'median': None, 'max': None, 'over10k': 0}
