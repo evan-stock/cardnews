@@ -2,7 +2,7 @@
  "id": "20261123-nypost-rep",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-23T11:36:30.206504+09:00",
  "publish_at": "2026-11-23T11:36:30.206603+09:00",
  "topic": "뉴욕시장 기자회견 '랩틸리언' 눈 영상 당사자(조던 라이트 뉴욕주 하원의원) 해명 — 뉴욕포스트",
@@ -60,5 +60,8 @@
   "media/20261123-nypost-rep/04.jpg",
   "media/20261123-nypost-rep/05.jpg"
  ],
- "tg_msg": 3118
+ "tg_msg": 3118,
+ "ig_media_id": "17958040488328966",
+ "permalink": "https://www.instagram.com/p/DgEUuqwjfnA/",
+ "published_at": "2026-11-23T11:38:08.966147+09:00"
 }
