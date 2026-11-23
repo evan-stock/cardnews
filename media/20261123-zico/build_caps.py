@@ -34,7 +34,7 @@ spec = [
 ]
 json.dump(spec, open(O / "cap_spec.json", "w"), ensure_ascii=False, indent=1)
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(O / "cap_spec.json")], check=True)
-f = Image.open(O / "f4.5.jpg").convert("RGB").crop((400, 0, 914, 642))
-f = ImageEnhance.Sharpness(f.resize((1080, 1349), Image.LANCZOS)).enhance(1.4)
-f.save(O / "cover_bg.jpg", quality=95)
+# (화질 낮아 교체) f = Image.open(O / "f4.5.jpg").convert("RGB").crop((400, 0, 914, 642))
+# f = ImageEnhance.Sharpness(f.resize((1080, 1349), Image.LANCZOS)).enhance(1.4)
+# f.save(O / "cover_bg.jpg", quality=95)
 print("ok")
