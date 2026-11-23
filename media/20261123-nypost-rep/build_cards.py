@@ -69,8 +69,13 @@ def panel(rows, h=640, gap=None):
 nyp = op("nyp.jpg")
 def shot(box, w=940):
     im = nyp.crop(box); return im.resize((w, round(im.height * w / im.width)), Image.LANCZOS)
-frame(("11월 20일 뉴욕시장 기자회견", "뒤에 선 남성 눈이 '하얗게'"), shot((0, 5600, 860, 6205), 820),
-      "엑스에선 \"이게 '도마뱀'이 눈 깜박이는 방식\"", "뉴욕포스트 기사 화면(사진: ABC·스레드)").save(O / "c02.jpg", quality=93)
+# 2장(2026.11.23 사용자 지시): 자료화면 캡처 대신 '눈 바뀌는 영상'. 틀(png)을 만들고 영상은 ffmpeg로 사진 자리에 얹음
+VW, VH = 448, 560
+frame(("11월 20일 뉴욕시장 기자회견", "뒤에 선 남성 눈이 '하얗게'"), Image.new("RGB", (VW, VH), (0, 0, 0)),
+      "엑스에선 \"이게 '도마뱀'이 눈 깜박이는 방식\"", "영상: 뉴욕시장실 행사(엑스 재편집본)").save(O / "c02.jpg", quality=93)
+subprocess.run(["ffmpeg", "-v", "error", "-y", "-loop", "1", "-i", str(O / "c02.jpg"), "-stream_loop", "2", "-i", str(O / "eye_clip.mp4"),
+                "-filter_complex", f"[1:v]scale={VW}:{VH},setsar=1[v];[0:v][v]overlay={(W - VW) // 2}:300:shortest=1,format=yuv420p",
+                "-r", "30", "-c:v", "libx264", "-crf", "18", "-an", str(O / "eye_slide.mp4")], check=True)
 frame(("뉴욕포스트 취재에", "당사자는 '뉴욕주 하원의원'"), shot((0, 0, 860, 760), 760),
       "할렘 지역구 조던 라이트(32) 의원", "뉴욕포스트(11.22) 기사 화면").save(O / "c03.jpg", quality=93)
 frame(("본인 해명", "\"분명히 저는 '인간'입니다\""), shot((0, 7205, 860, 7745), 940),
