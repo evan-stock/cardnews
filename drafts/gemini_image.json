@@ -1,13 +1,13 @@
 {
- "_for": "ㅋㅋ상회 트레이너 문자 손폰 재시도 1장 (2026-11-22 15:47 사용자 'ㄱ', 55원 안팎). 참고 이미지는 문자 화면 하나만.",
+ "_for": "ㅋㅋ상회 수민버스형 연애 6번 세대 비교 데이트 2단 1장 (2026-11-23 19:53 사용자 '그림체도 따라해서 이미지 생성해 6번', 55원 안팎). 글씨는 직접 얹음.",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "kk_trainer_sms_phone2",
+   "name": "kk_soomi_date_gen",
    "aspect": "4:5",
-   "refs": ["drafts/refs/kk_trainer_sms.jpg"],
-   "prompt": "The attached image is an iPhone Messages (SMS) screenshot in dark mode. Create a realistic amateur photo, taken with a second phone, of a person's left hand holding a black iPhone upright whose screen displays exactly the attached screenshot. The phone is large in the frame (about 80% of the frame height), slightly tilted, seen slightly from above; the bottom of the phone may be cut off. Background: dim bedroom, blurry, warm lamp light. The screen content must be identical to the attached screenshot: black background, green bubbles on the right, dark gray bubbles on the left, the gym door photo, the same Korean text and line breaks, the same header. Do not add, remove or repeat any message, do not invent any other content. Subtle real-photo artifacts: slight moire, faint glare, a few fingerprint smudges, phone camera noise. No other text, no watermark."
+   "refs": ["drafts/refs/style_soomi_2panel.jpg"],
+   "prompt": "Draw a NEW illustration in exactly the same art style as the attached image: soft Korean webtoon style, clean thin dark outlines, flat muted pastel colors, plain off-white background, two horizontal panels stacked vertically separated by a thin gray line. IMPORTANT: draw NO text, NO letters, NO speech bubbles anywhere. Leave an empty off-white strip at the top of each panel (about 20% of the panel height) for a title to be added later, and leave empty space above the characters' heads. TOP PANEL (1990s): a young woman in 90s fashion (curly permed hair, denim jacket) stands next to an old red public telephone booth on a street corner, checking her wristwatch with an annoyed face, while a young man in a 90s windbreaker runs toward her holding a small bouquet, sweating. BOTTOM PANEL (today): a young Korean couple sit face to face at a small cafe table with two iced coffees, both looking down at their own smartphones, ignoring each other, with neutral faces. Same character proportions and line quality as the reference."
   }
  ]
 }
