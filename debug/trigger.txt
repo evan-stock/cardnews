@@ -1,2 +1,1 @@
-get 20261123-eren https://static.wikia.nocookie.net/shingekinokyojin/images/b/bc/Founding_Titan_character_image_%28Eren_Yeager%29.png/revision/latest eren_founding.png
-get 20261123-eren https://static.wikia.nocookie.net/shingekinokyojin/images/0/00/Eren_leads_the_Colossus_Titans.png/revision/latest eren_colossus.png
+shot 20261123-eren https://platform.twitter.com/embed/Tweet.html?id=2124716664080273769&lang=ko xembed
