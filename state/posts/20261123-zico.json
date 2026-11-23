@@ -2,7 +2,7 @@
  "id": "20261123-zico",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-23T13:05:32+09:00",
  "publish_at": "2026-11-23T13:05:32+09:00",
  "topic": "커맨더지코, 200억 투자 주식 폭락에 방송 중 오열(스포츠서울)",
@@ -54,5 +54,8 @@
   "media/20261123-zico/03.jpg",
   "media/20261123-zico/04.jpg"
  ],
- "decided_at": "2026-11-23T13:05:32+09:00"
+ "decided_at": "2026-11-23T13:05:32+09:00",
+ "ig_media_id": "18142245901777964",
+ "permalink": "https://www.instagram.com/p/DgEe85fggKD/",
+ "published_at": "2026-11-23T13:07:26.057211+09:00"
 }
