@@ -1,26 +1,5 @@
 [
  {
-  "id": "20261123-alicechip2",
-  "mode": "collect",
-  "image_pages": [
-   "https://m.seoul.co.kr/news/2025/10/16/20251016800003",
-   "https://www.heraldk.com/article/2025101603040827648",
-   "https://www.nocutnews.co.kr/news/6414845",
-   "https://news.tf.co.kr/read/world/2252448.htm",
-   "https://www.newsis.com/view/NISX20251015_0003362795",
-   "https://www.segye.com/newsView/20251018504884",
-   "https://v.daum.net/v/20251016100446089",
-   "https://en.wikipedia.org/wiki/Prince_Group"
-  ],
-  "shot_pages": [
-   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01380886645648344",
-   "https://m.news.nate.com/view/20261122n12003",
-   "https://en.wikipedia.org/wiki/Prince_Group",
-   "https://www.hankyung.com/article/2026112224531"
-  ],
-  "limit": 30
- },
- {
   "id": "20261123-bujin",
   "mode": "collect",
   "image_pages": [
@@ -28,10 +7,9 @@
    "https://www.kgnews.co.kr/news/article.html?no=920729",
    "https://www.insight.co.kr/news/583162",
    "https://www.seoultimes.news/news/article.html?no=2000102555",
-   "https://news.jkn.co.kr/post/1115701",
-   "https://kr.investing.com/news/stock-market-news/article-2186502"
+   "https://news.jkn.co.kr/post/1115701"
   ],
-  "read_pages": [
+  "shot_pages": [
    "https://www.fnnews.com/news/202611231014237306",
    "https://www.insight.co.kr/news/583162"
   ],
