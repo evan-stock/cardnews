@@ -73,10 +73,13 @@ frame(("11월 12일 젠슨 황 '퇴진'", "\"GTA6도 안 나왔는데 가버리�
       "엔비디아 공지에 달린 '게이머'들 댓글", "세계일보(11.13)").save(O / "c02.jpg", quality=93)
 frame(("그리고 11일 만에", "CEO '복귀'·주가 31% 폭등"), cap("genews.jpg", (0, 760, 860, 1300), 540),
       "하루 만에 시총 '1264조원' 늘어", "글로벌이코노믹(11.24)").save(O / "c03.jpg", quality=93)
-frame(("엑스는 이미 축제", "링크드인 경력 'GTA6 완료·안식년'"), cap("linkedin.jpg", (0, 40, 2013, 1620), 640),
-      "\"젠슨이 링크드인까지 업데이트했네\" '118만' 조회", "엑스 @TrungTPhan (합성 밈)").save(O / "c04.jpg", quality=93)
-bg = ImageOps.fit(op("gmail.jpg"), (W, H), Image.LANCZOS, centering=(.5, .2))
-d = ImageDraw.Draw(bg); f = F("SemiBold", 34); t = "엑스에서 퍼진 밈 이미지"
-d.text((W - 50, 1010), t, font=f, fill=(120, 120, 120), anchor="rm")  # 제목 위 오른쪽, 밈 표시
+# 2026.11.24: 반응 좋았던 같은 소재 게시물처럼 표지를 링크드인 밈으로, 지메일 밈은 4장으로
+frame(("이사회에 보냈다는 메일까지", "\"GTA6 다 깼어, 이제 '복귀'할게\""), cap("gmail.jpg", (0, 0, 982, 1228), 640),
+      "물론 진짜 메일 아니고 '밈'입니다", "엑스에서 퍼진 합성 이미지").save(O / "c04.jpg", quality=93)
+li = op("linkedin.jpg").crop((0, 40, 2013, 1620))
+bg = Image.new("RGB", (W, H), (10, 10, 12)); lw = W - 80; li = li.resize((lw, round(li.height * lw / li.width)), Image.LANCZOS)
+m = Image.new("L", li.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, li.width - 1, li.height - 1), 28, fill=255)
+bg.paste(li, (40, 110), m)
+d = ImageDraw.Draw(bg); f = F("SemiBold", 30); d.text((W - 50, 70), "엑스에서 퍼진 합성 밈", font=f, fill=(140, 140, 140), anchor="rm")
 bg.save(O / "cover_bg.jpg", quality=95)
 print("ok")
