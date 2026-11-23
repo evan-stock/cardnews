@@ -75,6 +75,12 @@ frame(("뉴욕포스트 취재에", "당사자는 '뉴욕주 하원의원'"), sh
       "할렘 지역구 조던 라이트(32) 의원", "뉴욕포스트(11.22) 기사 화면").save(O / "c03.jpg", quality=93)
 frame(("본인 해명", "\"분명히 저는 '인간'입니다\""), shot((0, 7205, 860, 7745), 940),
       "\"파충류나 외계인에 대해선 '할 말 없다'\"", "\"영상 속에서 무슨 일이 있었는지 나도 모르겠다\"").save(O / "c04.jpg", quality=93)
-f0 = op("f0.png"); cx = 920
-f0.crop((cx - 432, 0, cx + 432, 1080)).resize((W, H), Image.LANCZOS).save(O / "cover_bg.jpg", quality=95)
+# 표지: RT 영상 화면(왼쪽 눈 굴린 순간 / 오른쪽 의원 공식 사진) 좌우 합성, 세로 경계 페이드. RT 로고 자리는 잘라냄
+rt = op("rt1.png"); HW, fade = 590, 100; cw = round(HW * 720 / H)
+L = rt.crop((360 - cw // 2, 0, 360 + cw // 2, 720)).resize((HW, H), Image.LANCZOS)
+Rr = rt.crop((1090 - cw // 2, 0, 1090 + cw // 2, 720)).resize((HW, H), Image.LANCZOS)
+cv = Image.new("RGB", (W, H)); cv.paste(Rr, (W - HW, 0))
+m = Image.new("L", (HW, H), 255); md = ImageDraw.Draw(m)
+for x in range(HW - fade, HW): md.line([(x, 0), (x, H)], fill=round(255 * (HW - x) / fade))
+cv.paste(L, (0, 0), m); cv.filter(ImageFilter.UnsharpMask(2, 50, 2)).save(O / "cover_bg.jpg", quality=95)
 print("ok")
