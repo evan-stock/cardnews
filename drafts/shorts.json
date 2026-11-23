@@ -1,51 +1,51 @@
 {
- "id": "20261122-t18-lifetest",
- "mode": "send",
+ "id": "20261123-t18",
+ "mode": "render",
  "format": "meme",
- "topic": "[채널 비교 실험 — 인생 댓글로 정함 채널, 사용자 11.23 \"오늘 올렸던거 비교로 올려봐\"] 첫 장면 정점형 2편(11.22 18:07): 할머니 집에서 4주 지내고 1.5kg 쪄서 온 턱시도 고양이를 다이어트 시키자, 침대·러그·바닥·서랍장 어디서든 집사를 째려보고 마지막엔 고개를 휙 돌려 곁눈질(Instagram @sophiexxzgl, CatTime 2026.11.19 보도). 0초 = 원본 9.3초 가까이 다가온 정면 째려보기 클로즈업, 그다음 시간순. '~했다가 제대로 삐진 ○○' 틀(11.01 '살쪘다는 말 듣고 삐진 골든' 시리즈를 고양이로). 사실: APOP 2022 미국 고양이 61% 과체중·비만.",
+ "topic": "첫 장면 정점형 3편(11.23 18:07): 엄마가 소파에서 강아지 흉내(헥헥)를 내자 로트와일러 다이스가 앞발로 막고, 엄마가 웃음을 못 참자 곁눈질로 째려봄(YouTube 'Dyce de rottweiler' 공식 채널 FsiujB0YJAA, 2,240만 회, 2025.06.13). 0초 = 원본 13.5초 째려보기 클로즈업, 그다음 시간순. '~하는 걸 본 ○○의 반응' 틀. 사실: AKC 로트와일러 = '로트바일의 정육점 개', 가축 판 돈주머니를 목에 걸고 지킴.",
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 0.0,
  "bgm_volume": 2.3,
  "sfx_max": 4,
  "hook": {
-  "t": "할머니 집 4주 다녀와서 1.5kg 찐 고양이\n'다이어트 시작하자 표정ㅋㅋ'"
+  "t": "엄마가 강아지 흉내 냈을 뿐인데\n'로트와일러 표정 실화냐ㅋㅋ'"
  },
  "photo_credits": [
-  "Instagram @sophiexxzgl"
+  "YouTube Dyce de rottweiler (@dycederottweiler)"
  ],
- "credit": "영상: Instagram @sophiexxzgl",
+ "credit": "영상: YouTube Dyce de rottweiler",
  "sources": [
   {
-   "publisher": "Instagram @sophiexxzgl",
-   "url": "https://www.instagram.com/reel/DfznQB6At2V/",
-   "date": "2026-11"
+   "publisher": "YouTube Dyce de rottweiler - His reaction",
+   "url": "https://www.youtube.com/shorts/FsiujB0YJAA",
+   "date": "2025-06-13"
   },
   {
-   "publisher": "CatTime - Cat Gives His Human the Side-Eye — Life After Grandma's Comes With Far Too Many Food Rules",
-   "url": "https://cattime.com/news/66505-cat-side-eye-grandma-food",
-   "date": "2026-11-19"
+   "publisher": "PetHelpful(AOL) - Rottweiler's Facial Reaction to Wig Reveal Is Too Good",
+   "url": "https://www.aol.com/articles/rottweiler-facial-reaction-wig-reveal-024000058.html",
+   "date": "2026-01-17"
   },
   {
-   "publisher": "Association for Pet Obesity Prevention(APOP) - 2022 Survey Reveals Alarming Rates of Pet Obesity in the US",
-   "url": "https://www.petobesityprevention.org/articlesandnews/new-survey-reveals-alarming-rates-of-pet-obesity-in-the-us",
-   "date": "2022"
+   "publisher": "American Kennel Club(AKC) - Rottweiler History",
+   "url": "https://www.akc.org/expert-advice/dog-breeds/rottweiler-history/",
+   "date": "2024-06-27"
   }
  ],
  "yt": {
-  "title": "할머니 집에서 살쪄 와서 다이어트 시켰다가 제대로 삐진 고양이ㅋㅋ #shorts",
-  "description": "할머니 집에서 4주 지내고 1.5kg 쪄서 돌아온 고양이ㅋㅋ\n다이어트를 시작하자 집 안 어디서든 집사를 이렇게 째려본대요.\n\n미국 반려동물비만예방협회(APOP) 2022년 조사에선 미국 고양이의 61%가 과체중이나 비만이었대요.\n\n여러분 냥이도 사료 줄이면 이렇게 쳐다보나요?\n\n영상: Instagram @sophiexxzgl\n참고: CatTime, APOP\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#고양이 #냥이 #다이어트 #삐진고양이 #귀여운동물 #동물쇼츠",
+  "title": "엄마가 자기 흉내 내는 걸 본 로트와일러의 반응ㅋㅋ #shorts",
+  "description": "엄마가 장난으로 강아지 흉내를 냈을 뿐인데ㅋㅋ\n앞발로 막더니, 엄마가 웃음을 못 참자 이렇게 째려봅니다.\n\n미국켄넬클럽(AKC)에 따르면 로트와일러는 옛날 독일 로트바일에서 가축을 판 돈주머니를 목에 걸고 지키던 '정육점 개'였대요.\n\n여러분 댕댕이도 흉내 내면 이런 표정 짓나요?\n\n영상: YouTube Dyce de rottweiler (@dycederottweiler)\n참고: PetHelpful, AKC\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#로트와일러 #강아지 #댕댕이 #강아지반응 #오늘의털뭉치 #귀여운동물 #동물쇼츠",
   "tags": [
-   "고양이",
-   "냥이",
-   "고양이다이어트",
-   "삐진고양이",
-   "턱시도고양이",
+   "로트와일러",
+   "강아지",
+   "댕댕이",
+   "강아지반응",
+   "대형견",
+   "째려보는강아지",
    "귀여운동물",
    "동물쇼츠"
   ],
   "category": 15,
-  "privacy": "public",
-  "channel": "life"
+  "privacy": "public"
  },
  "publish_now": true,
  "style": {
@@ -55,11 +55,11 @@
   {
    "dur": 2.0,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 9.3,
-    "zoom": 1.45,
-    "x": 0.5,
-    "y": 0.0,
+    "src": "video/r1.mp4",
+    "start": 13.5,
+    "zoom": 1.1,
+    "x": 0.3,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
@@ -75,7 +75,7 @@
     },
     {
      "k": "talk",
-     "t": "사료 반 그릇 실화냐?",
+     "t": "방금 그거 나야?",
      "x": 0.5,
      "y": 0.2,
      "at": 0.2,
@@ -84,122 +84,170 @@
    ]
   },
   {
-   "say": "할머니 집에서 4주 지내고 1.5kg 쪄서 왔대요,",
+   "say": "엄마가 장난으로 강아지 흉내를 냈을 뿐인데요,",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 0.0,
-    "zoom": 1.45,
-    "x": 0.5,
+    "src": "video/r1.mp4",
+    "start": 0.3,
+    "zoom": 1.06,
+    "x": 0.7,
     "y": 0.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "할머니는 다 줬는데...",
-     "x": 0.6,
-     "y": 0.15,
+     "t": "헥헥... 이게 나라고?",
+     "x": 0.62,
+     "y": 0.14,
      "at": 0.6
     }
    ]
   },
   {
-   "say": "그래서 다이어트를 시작했을 뿐인데요.",
+   "dur": 1.6,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 4.5,
-    "zoom": 1.45,
-    "x": 0.5,
+    "src": "video/r1.mp4",
+    "start": 3.1,
+    "zoom": 1.06,
+    "x": 0.7,
+    "y": 0.0,
+    "audio": 0,
+    "blur": [
+     [
+      530,
+      480,
+      310,
+      135
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(앞발 턱)",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 0.0,
+     "to": 1.6,
+     "s": "pop",
+     "sv": 0.6
+    },
+    {
+     "k": "talk",
+     "t": "그만해. 진짜로.",
+     "x": 0.55,
+     "y": 0.2,
+     "at": 0.15,
+     "to": 1.6
+    }
+   ]
+  },
+  {
+   "say": "엄마가 웃음을 못 참자 표정이 이렇게 변합니다.",
+   "video": {
+    "src": "video/r1.mp4",
+    "start": 4.8,
+    "zoom": 1.06,
+    "x": 0.6,
     "y": 0.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...너 누구 편이야",
-     "x": 0.5,
-     "y": 0.12,
-     "at": 0.5
+     "t": "...웃겨?",
+     "x": 0.72,
+     "y": 0.16,
+     "at": 1.0
     }
    ]
   },
   {
-   "dur": 2.0,
+   "dur": 2.2,
    "video": {
-    "src": "video/v1.mp4",
-    "start": 7.0,
-    "zoom": 1.45,
-    "x": 0.5,
+    "src": "video/r1.mp4",
+    "start": 8.0,
+    "zoom": 1.06,
+    "x": 0.6,
     "y": 0.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "sfx",
-     "t": "(조용히 노려보는 중)",
+     "t": "(엄마 웃참 실패)",
      "x": 0.5,
      "y": 0.08,
      "at": 0.0,
-     "to": 2.0,
+     "to": 2.2,
      "s": "question",
      "sv": 0.6
     },
     {
      "k": "talk",
-     "t": "간식 줄 때까지 본다",
-     "x": 0.5,
+     "t": "하나도 안 웃기거든",
+     "x": 0.68,
      "y": 0.2,
      "at": 0.3,
-     "to": 2.0
+     "to": 2.2
     }
    ]
   },
   {
-   "say": "집 안 어디서든 이렇게 쳐다본대요.",
+   "say": "로트와일러는 원래 정육점 돈주머니 지킴이였대요.",
    "video": {
-    "src": "video/v1.mp4",
-    "start": 11.4,
-    "zoom": 1.45,
-    "x": 0.5,
-    "y": 0.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "감시 중이다",
-     "x": 0.65,
-     "y": 0.12,
-     "at": 0.4
-    }
-   ]
-  },
-  {
-   "say": "미국 고양이 61%가 과체중이래요.",
-   "video": {
-    "src": "video/v1.mp4",
-    "start": 13.25,
-    "zoom": 1.45,
-    "x": 0.5,
-    "y": 0.0,
+    "src": "video/r1.mp4",
+    "start": 10.8,
+    "zoom": 1.1,
+    "x": 0.3,
+    "y": 1.0,
     "audio": 0
    },
    "caps": [
     {
      "k": "desc",
-     "t": "미국 고양이 61%가 과체중 또는 비만\n(미국 반려동물비만예방협회 APOP, 2022)",
+     "t": "로트와일러 = '정육점 개'\n가축 판 돈주머니를 목에 걸고 지킴\n(미국켄넬클럽 AKC)",
      "x": 0.5,
-     "y": 0.06,
+     "y": 0.07,
      "size": 48
     },
     {
      "k": "talk",
-     "t": "흥. 난 뼈가 굵은 거야",
+     "t": "그런 나를 놀려?",
      "x": 0.5,
-     "y": 0.28,
-     "at": 1.0,
-     "s": "boing",
+     "y": 0.32,
+     "at": 1.2
+    }
+   ]
+  },
+  {
+   "dur": 1.9,
+   "video": {
+    "src": "video/r1.mp4",
+    "start": 14.0,
+    "zoom": 1.1,
+    "x": 0.3,
+    "y": 1.0,
+    "audio": 0
+   },
+   "caps": [
+    {
+     "k": "sfx",
+     "t": "(삐짐 확정)",
+     "x": 0.5,
+     "y": 0.08,
+     "at": 0.0,
+     "to": 1.9,
+     "s": "fail",
      "sv": 0.65
+    },
+    {
+     "k": "talk",
+     "t": "오늘부터 엄마 지갑 안 지켜줌",
+     "x": 0.5,
+     "y": 0.2,
+     "at": 0.2,
+     "to": 1.9
     }
    ]
   }
