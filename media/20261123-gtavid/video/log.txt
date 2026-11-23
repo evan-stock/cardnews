@@ -1,0 +1,24 @@
+ERROR: [youtube] oSLCBTSaaiU: Video unavailable. This content isn’t available.
+실패: ytsearch1:GTA
+ERROR: [generic] '6' is not a valid URL
+실패: 6
+ERROR: [generic] 'self' is not a valid URL
+실패: self
+ERROR: [generic] 'aware' is not a valid URL
+실패: aware
+ERROR: [generic] 'NPC' is not a valid URL
+실패: NPC
+ERROR: [generic] 'conspiracy' is not a valid URL
+실패: conspiracy
+ERROR: [generic] 'board' is not a valid URL
+실패: board
+ERROR: [generic] 'house' is not a valid URL
+실패: house
+total 24720
+drwxr-xr-x 2 runner runner     4096 Nov 23 08:37 .
+drwxr-xr-x 3 runner runner     4096 Nov 23 08:37 ..
+-rw-r--r-- 1 runner runner      505 Nov 23 08:37 log.txt
+-rw-r--r-- 1 runner runner 15381197 Nov 23 08:37 v1.mp4
+-rw-r--r-- 1 runner runner  9908131 Nov 23 08:37 v2.mp4
+-rw-r--r-- 1 runner runner      669 Nov 23 08:37 x1.json
+-rw-r--r-- 1 runner runner      636 Nov 23 08:37 x2.json
