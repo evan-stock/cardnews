@@ -6,29 +6,27 @@ from PIL import Image, ImageDraw, ImageFont
 D = Path(__file__).parent; R = D.parents[1]
 W, H = 1080, 1350; YE = (255, 216, 77)
 F = ImageFont.truetype(str(R / "assets/fonts/Pretendard-Black.otf"), 64)
-SUBS = [  # (시작, 끝, 두 줄)
-    (0.0, 3.0, "엑셀방송 대부 커맨더지코\n방송 중 결국 '오열'"),
-    (3.0, 6.2, "아이온큐에 넣은 '200억'\n마이너스 90%"),
-    (6.2, 9.4, "'50억' 대출에\n직원 월급까지 밀렸다"),
-    (9.4, 12.4, "\"진짜 이번엔\n내가 너무 힘들다\""),
+SUBS = [  # 릴스 양식(왼쪽 정렬·Pretendard Black·마지막 줄 노랑·위에 로고), 4:5에 맞춰 축소
+    (0.0, 3.0, "엑셀방송 대부\n커맨더지코 오열"),
+    (3.0, 6.2, "아이온큐에 200억\n마이너스 90%"),
+    (6.2, 9.4, "50억 대출에\n직원 월급도 밀려"),
+    (9.4, 12.4, "\"이번엔 진짜\n너무 힘들다\""),
 ]
+FS, LG, X, BASE = 92, 110, 60, 1250
+LOGO = Image.open(R / "brand/logo_typo_A.png").convert("RGBA"); _lh = 36
+LOGO = LOGO.resize((int(LOGO.width * _lh / LOGO.height), _lh), Image.LANCZOS)
 
 
 def sub_png(text, out):
     im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
-    # 아래쪽 은은한 그라데이션
-    for y in range(900, H):
-        a = int(200 * (y - 900) / (H - 900)); d.line((0, y, W, y), fill=(0, 0, 0, a))
-    lines = text.split("\n"); y = H - 120 - 84 * (len(lines) - 1)
-    for ln in lines:
-        parts = re.split(r"('[^']*')", ln); tw = sum(d.textlength(p.strip("'"), font=F) for p in parts if p)
-        x = (W - tw) / 2
-        for p in parts:
-            if not p: continue
-            hl = p.startswith("'"); p = p.strip("'")
-            d.text((x, y), p, font=F, fill=YE if hl else (255, 255, 255), anchor="ls", stroke_width=6, stroke_fill=(0, 0, 0))
-            x += d.textlength(p, font=F)
-        y += 84
+    g0, g1 = 760, 1100
+    for y in range(g0, H):
+        d.line((0, y, W, y), fill=(0, 0, 0, int(215 * min(1, (y - g0) / (g1 - g0)))))
+    f = ImageFont.truetype(str(R / "assets/fonts/Pretendard-Black.otf"), FS)
+    lines = text.split("\n"); y = BASE - (len(lines) - 1) * LG
+    im.alpha_composite(LOGO, (X, y - FS - 26 - _lh))
+    for k, ln in enumerate(lines):
+        d.text((X, y + k * LG), ln, font=f, fill=YE if k == len(lines) - 1 else (255, 255, 255), anchor="ls")
     im.save(out)
 
 
