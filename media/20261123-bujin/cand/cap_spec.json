@@ -1,0 +1,70 @@
+[
+ {
+  "out": "/home/user/cardnews/media/20261123-bujin/cand/c02.jpg",
+  "sub": "파이낸셜뉴스 · 11월 23일",
+  "title": "성인이 되자\n아버지 성 '임'→'이'",
+  "cap": "/home/user/cardnews/media/20261123-bujin/cand/k02.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "파이낸셜뉴스 기사 캡처",
+  "label": "이부진 호텔신라 사장 아들",
+  "lines": [
+   "어머니 성 '경주 이씨'로 바꿨습니다"
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-bujin/cand/c03.jpg",
+  "sub": "파이낸셜뉴스 · 11월 23일",
+  "title": "8월 성인, 직접 신청\n10월 말 법원 '허가'",
+  "cap": "/home/user/cardnews/media/20261123-bujin/cand/k03.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "파이낸셜뉴스 기사 캡처",
+  "label": "서울가정법원이 신청 받아들여",
+  "lines": [
+   "작년 성본 변경 허가율은 '88.9%'"
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-bujin/cand/c04.jpg",
+  "sub": "파이낸셜뉴스 · 11월 23일",
+  "title": "성은 바뀌어도\n부자 관계는 '그대로'",
+  "cap": "/home/user/cardnews/media/20261123-bujin/cand/k04.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "파이낸셜뉴스 기사 캡처",
+  "label": "민법 781조 6항 '자녀의 복리'",
+  "lines": [
+   "법률상 친자관계에는 '변동 없음'"
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-bujin/cand/c05.jpg",
+  "sub": "파이낸셜뉴스 · 11월 23일",
+  "title": "1999년 결혼\n2020년 '이혼 확정'",
+  "cap": "/home/user/cardnews/media/20261123-bujin/cand/k05.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "파이낸셜뉴스 기사 캡처",
+  "label": "친권·양육권은 이 사장에게",
+  "lines": [
+   "올해 2월 서울대 경제학부에 '입학'"
+  ]
+ }
+]
