@@ -1,676 +1,4268 @@
 {
- "since": "2018-01-01",
+ "since": "2025-11-23",
  "fixed": [],
  "found": [
   {
-   "title": "anthony robert",
-   "id": "UCAmnkKOKOaXfp95SiNEzJGw",
-   "created": "2013-03-29",
-   "subs": "33500",
-   "videos": "165"
+   "title": "Jackson Huhniverses",
+   "id": "UC617BvMt2NDGDuAmg781sRg",
+   "created": "2023-04-08",
+   "subs": "171000",
+   "videos": "344"
   },
   {
-   "title": "New News Network",
-   "id": "UCIiYdWeQQabin5vf5f8LqWA",
-   "created": "2021-01-11",
-   "subs": "605",
-   "videos": "764"
+   "title": "Shock Lens",
+   "id": "UCZ7evVk8Jzs6_j3A7ZusHzw",
+   "created": "2025-10-12",
+   "subs": "74000",
+   "videos": "693"
   },
   {
-   "title": "nikita khasanov",
-   "id": "UC_pUQoheOOkKTaXiwM4Kurg",
-   "created": "2017-07-22",
-   "subs": "600",
-   "videos": "17"
+   "title": "Talking Amazon Parrot",
+   "id": "UCeSAGI7F58sAUbWH4LjW-3A",
+   "created": "2026-06-28",
+   "subs": "32700",
+   "videos": "327"
   },
   {
-   "title": "DJI",
-   "id": "UCsNGtpqGsyw0U6qEG-WHadA",
-   "created": "2010-06-06",
-   "subs": "6730000",
-   "videos": "3910"
+   "title": "Mackenz",
+   "id": "UCZt1Et83fOc5xPJzkazn63w",
+   "created": "2026-03-09",
+   "subs": "389",
+   "videos": "4"
   },
   {
-   "title": "Daviiskijumper",
-   "id": "UCC6lbFAW7AzbwE6WqTYcZVA",
-   "created": "2013-10-12",
-   "subs": "617",
+   "title": "Park Bench on Venus",
+   "id": "UCULrH1Y-JmJGfV1uGpNyamA",
+   "created": "2022-12-12",
+   "subs": "12800",
+   "videos": "193"
+  },
+  {
+   "title": "Mubp",
+   "id": "UCtMPq7Rin93nwdPlD-87-BA",
+   "created": "2025-06-28",
+   "subs": "3440",
+   "videos": "1459"
+  },
+  {
+   "title": "WHy ?",
+   "id": "UCef-c6t2jFENvaXJOdd3L_A",
+   "created": "2018-07-06",
+   "subs": "344000",
+   "videos": "1759"
+  },
+  {
+   "title": "탈탈강냉이",
+   "id": "UCMHQqM0tyaTZr160M0UzpkA",
+   "created": "2025-07-06",
+   "subs": "5630",
+   "videos": "150"
+  },
+  {
+   "title": "Pet Madness",
+   "id": "UC16L6FgSR0rj0P0NT_dzOTA",
+   "created": "2026-08-28",
+   "subs": "451",
+   "videos": "97"
+  },
+  {
+   "title": "The Bird Flock",
+   "id": "UClkQVCGtGIvE4PButICbGZw",
+   "created": "2026-09-15",
+   "subs": "1200",
+   "videos": "132"
+  },
+  {
+   "title": "BMR Creations",
+   "id": "UC66Z0IUcb8Y1B2AX9HREPTw",
+   "created": "2025-09-03",
+   "subs": "687",
+   "videos": "340"
+  },
+  {
+   "title": "KIA Parrot 🦜🦜",
+   "id": "UC79zp--XzJWESly7QXWW_kQ",
+   "created": "2025-12-06",
+   "subs": "696",
+   "videos": "818"
+  },
+  {
+   "title": "RANKFRENZY",
+   "id": "UCaPZiI90iW_9RcMY046h8lQ",
+   "created": "2023-06-17",
+   "subs": "6480",
+   "videos": "112"
+  },
+  {
+   "title": "Mr POOPE",
+   "id": "UC3004NuocbANSIJ4ZmqVc0Q",
+   "created": "2025-11-18",
+   "subs": "2520",
+   "videos": "275"
+  },
+  {
+   "title": "인프피티몬",
+   "id": "UCzzVXZiH0_Tr0AIN1c1uofg",
+   "created": "2025-08-30",
+   "subs": "18500",
+   "videos": "659"
+  },
+  {
+   "title": "토끼쑛",
+   "id": "UCAa9l6_kPdaMWbvZts9LbQw",
+   "created": "2025-12-22",
+   "subs": "7770",
+   "videos": "307"
+  },
+  {
+   "title": "Lucy Speaks",
+   "id": "UCti8jOIMqa5qK0lUpv6kkqA",
+   "created": "2026-05-09",
+   "subs": "5160",
+   "videos": "146"
+  },
+  {
+   "title": "Parrottina",
+   "id": "UCkYxogMsESu9V_Pk8qnH8vw",
+   "created": "2026-01-06",
+   "subs": "2660",
+   "videos": "360"
+  },
+  {
+   "title": "@Wilferns",
+   "id": "UCa8YrIS6aZE2bTJrlYR_RMw",
+   "created": "2020-09-27",
+   "subs": "11500",
+   "videos": "623"
+  },
+  {
+   "title": "Triệu Que Củi",
+   "id": "UChpsOOWySQny641PlAW38oA",
+   "created": "2025-05-22",
+   "subs": "532000",
+   "videos": "354"
+  },
+  {
+   "title": "톡톡 힐링자판기",
+   "id": "UCpJXGk72s-Zm1BakmlgMt6g",
+   "created": "2026-04-02",
+   "subs": "17100",
+   "videos": "217"
+  },
+  {
+   "title": "LaughVibe",
+   "id": "UCJg2yY4lmnUN3BQbEf01IKw",
+   "created": "2025-10-29",
+   "subs": "3420",
+   "videos": "141"
+  },
+  {
+   "title": "TALKING BIRDS",
+   "id": "UCDZgjAzJ-2Gx4kvouhjUNQA",
+   "created": "2026-09-12",
+   "subs": "10300",
+   "videos": "518"
+  },
+  {
+   "title": "Parrot Planet",
+   "id": "UCeIBCDevwEBQ_aM-93m2Kaw",
+   "created": "2025-12-01",
+   "subs": "23800",
+   "videos": "349"
+  },
+  {
+   "title": "DuckDuDuGo",
+   "id": "UCzrIushRf8TzHgtB58E0vJQ",
+   "created": "2025-05-15",
+   "subs": "46000",
+   "videos": "142"
+  },
+  {
+   "title": "Parrot Talks",
+   "id": "UCLPBVmnzaHlRVadOuGZTSLQ",
+   "created": "2025-10-16",
+   "subs": "1490",
+   "videos": "211"
+  },
+  {
+   "title": "Global Weird Animals",
+   "id": "UCPZZWC22dV4s1irw3MIOm6g",
+   "created": "2025-08-25",
+   "subs": "83000",
+   "videos": "1408"
+  },
+  {
+   "title": "Expat Lokal",
+   "id": "UCOy2WvS7YqOCxNnAs53S19g",
+   "created": "2024-08-01",
+   "subs": "2010",
+   "videos": "635"
+  },
+  {
+   "title": "Animal Frequency",
+   "id": "UC_i1uWWxJS1wbkV_SrBdyww",
+   "created": "2026-05-14",
+   "subs": "29200",
+   "videos": "175"
+  },
+  {
+   "title": "RiooooJoD",
+   "id": "UC1rp3hho2f3EEKH88GimD-w",
+   "created": "2025-06-27",
+   "subs": "467000",
+   "videos": "214"
+  },
+  {
+   "title": "Talking Parrot World",
+   "id": "UCGw-415rcLGMKkoRNonRIJA",
+   "created": "2025-11-22",
+   "subs": "168",
+   "videos": "81"
+  },
+  {
+   "title": "Sweet Parrot USA",
+   "id": "UCxNMhLaDynd5GhZfTWERVIA",
+   "created": "2025-11-29",
+   "subs": "2820",
+   "videos": "67"
+  },
+  {
+   "title": "Anita Story",
+   "id": "UCg_tnXdpH_vZJw1nG8CKhsQ",
+   "created": "2026-03-07",
+   "subs": "2440",
+   "videos": "34"
+  },
+  {
+   "title": "Happy parrots",
+   "id": "UCBz7jTdAPfjRlIb1Jy2cFLg",
+   "created": "2024-11-07",
+   "subs": "328000",
+   "videos": "6300"
+  },
+  {
+   "title": "동물사전",
+   "id": "UC4FZ2MFfxiGVTNRHWUcmG-w",
+   "created": "2024-12-31",
+   "subs": "45200",
+   "videos": "270"
+  },
+  {
+   "title": "Animal Fun World",
+   "id": "UCtbjwXdTU4qjnyOxWJxxJPQ",
+   "created": "2023-01-02",
+   "subs": "2300",
+   "videos": "116"
+  },
+  {
+   "title": "Heart For Animals",
+   "id": "UCLNtFysKVK1WZMiic0BX3vw",
+   "created": "2024-06-05",
+   "subs": "6520",
+   "videos": "130"
+  },
+  {
+   "title": "Talking Parrot ",
+   "id": "UCpuyjWuLMdeQTGwOl2cAIaQ",
+   "created": "2025-06-14",
+   "subs": "94900",
+   "videos": "352"
+  },
+  {
+   "title": "WildDubVerse",
+   "id": "UCPT_yZXNtT5fbDr_ithqoDA",
+   "created": "2025-10-11",
+   "subs": "7310",
+   "videos": "229"
+  },
+  {
+   "title": "MARIA BILMOTE",
+   "id": "UCR_sUnjU7ovoVTbn36DZc6A",
+   "created": "2026-07-20",
+   "subs": "2050",
+   "videos": "47"
+  },
+  {
+   "title": "Bilal Nizami08",
+   "id": "UCD4U1L7Dyav3jk1QctS4-GA",
+   "created": "2020-07-10",
+   "subs": "2120",
+   "videos": "400"
+  },
+  {
+   "title": "Not An Aviary ",
+   "id": "UCeCbgCHg7w0a2qbcCFJXNbw",
+   "created": "2012-05-19",
+   "subs": "553",
+   "videos": "304"
+  },
+  {
+   "title": "Parrots & Pistols",
+   "id": "UCVfF22Jwoihh9jRY9Vm1Hyg",
+   "created": "2026-08-24",
+   "subs": "876",
+   "videos": "159"
+  },
+  {
+   "title": "Bozo Tatliş",
+   "id": "UCnZbe0x0uM7JwuQhN1AE86Q",
+   "created": "2013-09-19",
+   "subs": "2670",
+   "videos": "413"
+  },
+  {
+   "title": "Família Renato Garcia Oficial 2.0",
+   "id": "UCqUVelZNWOJlgoQaKPD5aqA",
+   "created": "2024-03-05",
+   "subs": "775000",
+   "videos": "8867"
+  },
+  {
+   "title": "THE ANIMAL INCIDENT",
+   "id": "UCdxuCplC3KJ-NnV0uVTPP6w",
+   "created": "2026-09-07",
+   "subs": "8710",
+   "videos": "101"
+  },
+  {
+   "title": "Pawchaos_OooO",
+   "id": "UC-eJWl7l9pwBybbPz-yTZ9w",
+   "created": "2025-10-29",
+   "subs": "1310",
+   "videos": "237"
+  },
+  {
+   "title": " Nishad sherni ",
+   "id": "UCOwGas4n5Vos3WQb2IoBusw",
+   "created": "2026-01-28",
+   "subs": "1720",
+   "videos": "484"
+  },
+  {
+   "title": "MenacePaws2393",
+   "id": "UCVQy3H3l0xsW0_EPXfe9x-w",
+   "created": "2026-07-15",
+   "subs": "44900",
+   "videos": "73"
+  },
+  {
+   "title": "어느새",
+   "id": "UC4WGmn5S7OZZjyRbg3pSiPw",
+   "created": "2020-11-09",
+   "subs": "9550",
+   "videos": "2690"
+  },
+  {
+   "title": "Cat Kingdom",
+   "id": "UCOB499jMKtW-QRs9nPOB3eQ",
+   "created": "2025-10-13",
+   "subs": "2260",
+   "videos": "496"
+  },
+  {
+   "title": "TuneUpNow",
+   "id": "UCFPUpfSTH-jH0x25OfUL6Gw",
+   "created": "2012-07-10",
+   "subs": "139",
+   "videos": "75"
+  },
+  {
+   "title": "The Planet of Paws",
+   "id": "UCFzhVF4XoZ3w17nGKQ0Rsgw",
+   "created": "2026-06-26",
+   "subs": "7",
+   "videos": "80"
+  },
+  {
+   "title": "Sassy Yorkie Fia",
+   "id": "UCzkXuv8fJgdoGfnxW-EzPXg",
+   "created": "2022-09-02",
+   "subs": "170",
+   "videos": "45"
+  },
+  {
+   "title": "ryu",
+   "id": "UCUCigJPtB1HVtjeJvIWQKjw",
+   "created": "2025-11-20",
+   "subs": "271",
+   "videos": "230"
+  },
+  {
+   "title": "Rare Football Moments ",
+   "id": "UCiEfGIv0gRbEQfDvopSa5bQ",
+   "created": "2025-10-15",
+   "subs": "2660",
+   "videos": "243"
+  },
+  {
+   "title": "MidfailReaction ",
+   "id": "UCNKSTz7Y7-8EeGxM541e2jA",
+   "created": "2019-05-02",
+   "subs": "559000",
+   "videos": "1572"
+  },
+  {
+   "title": "Pawsome Fails",
+   "id": "UC8CIxJAHGu3BLczN0SjD9-w",
+   "created": "2026-07-11",
+   "subs": "165",
+   "videos": "117"
+  },
+  {
+   "title": "JuicyLemonSatisfying",
+   "id": "UCthl3XRPnGNzXENAh9-XmJQ",
+   "created": "2025-11-18",
+   "subs": "239",
+   "videos": "110"
+  },
+  {
+   "title": "JUSTDOGS",
+   "id": "UCoFePc92G0XHStbfjnc7nYg",
+   "created": "2017-05-01",
+   "subs": "13000",
+   "videos": "418"
+  },
+  {
+   "title": "black brown cat",
+   "id": "UCoEJbwvQ1y6pETWhdFqzzjQ",
+   "created": "2026-06-17",
+   "subs": "324",
+   "videos": "107"
+  },
+  {
+   "title": "NovaPaws Studio",
+   "id": "UCZ94JHkzSuQh9SlUt84j5Xg",
+   "created": "2025-11-23",
+   "subs": "212",
+   "videos": "162"
+  },
+  {
+   "title": "Prince Milo Dog",
+   "id": "UCfGayMIAYaYlT-vgcuq6VAw",
+   "created": "2026-10-03",
+   "subs": "67",
+   "videos": "51"
+  },
+  {
+   "title": "kittycat_odoc",
+   "id": "UCtD1tgCQY7vw4SnZDw3JsYw",
+   "created": "2025-12-06",
+   "subs": "287",
+   "videos": "358"
+  },
+  {
+   "title": "Tualek 👑",
+   "id": "UCYYr19-vuP_jpu-0puScvTA",
+   "created": "2026-01-17",
+   "subs": "41",
+   "videos": "26"
+  },
+  {
+   "title": "CodeClawsCATAI",
+   "id": "UCngfLrBXZyrjjTTkcb9uT5g",
+   "created": "2025-11-10",
+   "subs": "537",
+   "videos": "426"
+  },
+  {
+   "title": "Cute Animal Universe",
+   "id": "UCCoRFI7CXzoqT_CMJ5zucAA",
+   "created": "2020-03-03",
+   "subs": "363",
+   "videos": "102"
+  },
+  {
+   "title": "The Chatty Feather",
+   "id": "UCOH0lMw4IF6W6y7eKDH_QBg",
+   "created": "2026-09-12",
+   "subs": "63",
+   "videos": "35"
+  },
+  {
+   "title": "WildernessAnimals",
+   "id": "UCeIRKvxL5PBygRaFoE7N0sQ",
+   "created": "2025-11-19",
+   "subs": "956",
+   "videos": "535"
+  },
+  {
+   "title": "High five🖐",
+   "id": "UCozsjnicyNxaCWQN1rgJsow",
+   "created": "2018-02-11",
+   "subs": "2790",
+   "videos": "111"
+  },
+  {
+   "title": "ChaoticCat",
+   "id": "UCmLQApeShQpzGsGiky-tQAQ",
+   "created": "2025-12-21",
+   "subs": "83",
+   "videos": "54"
+  },
+  {
+   "title": "Rankstar",
+   "id": "UCm0ICBeu78q4e9iTSAzUsBQ",
+   "created": "2026-02-11",
+   "subs": "78",
+   "videos": "18"
+  },
+  {
+   "title": "eqvfba",
+   "id": "UCHEOZvFMn3-V9_l5kJ984VQ",
+   "created": "2007-07-12",
+   "subs": "477",
+   "videos": "135"
+  },
+  {
+   "title": "Tales of Tails",
+   "id": "UCZyOu3Cfm7OYfWiDRkmCZ8w",
+   "created": "2025-11-17",
+   "subs": "28",
+   "videos": "65"
+  },
+  {
+   "title": "Kitty Mini Theater",
+   "id": "UCIIatKLDYmxLM3YSrQGfANg",
+   "created": "2025-12-04",
+   "subs": "130",
+   "videos": "211"
+  },
+  {
+   "title": "The Daily Pet Show USA \n\n",
+   "id": "UCjeRF0bKKJXcivtmEfvY61A",
+   "created": "2026-10-20",
+   "subs": "4",
+   "videos": "37"
+  },
+  {
+   "title": "Happy Animal World_JoJo123",
+   "id": "UC7KgqoKkgfzOVlNPIyxBulg",
+   "created": "2010-05-14",
+   "subs": "153",
+   "videos": "101"
+  },
+  {
+   "title": "pillow&pets",
+   "id": "UCzcxKKBrjKphC6jBf1jhK8w",
+   "created": "2025-12-22",
+   "subs": "222",
+   "videos": "46"
+  },
+  {
+   "title": "Animal Friendships",
+   "id": "UCKwFJr1_D814TItqh1RDE_A",
+   "created": "2025-11-04",
+   "subs": "129",
+   "videos": "42"
+  },
+  {
+   "title": "爆笑流放映室",
+   "id": "UCsMV9unEVtlLo_MRW3pJLEg",
+   "created": "2025-10-07",
+   "subs": "1070",
+   "videos": "358"
+  },
+  {
+   "title": "Mochi_video ",
+   "id": "UCZVyxqsOsAryp834gm55CeA",
+   "created": "2006-06-10",
+   "subs": "24800",
+   "videos": "217"
+  },
+  {
+   "title": "AMomWithDogs",
+   "id": "UCWi4b3ZRpBFw1Qq0jvntQNg",
+   "created": "2023-01-30",
+   "subs": "76600",
+   "videos": "1114"
+  },
+  {
+   "title": "Ultra_gokus_Studios",
+   "id": "UCIwIMWCNW2svUfbw7_8vlYg",
+   "created": "2025-11-28",
+   "subs": "599",
+   "videos": "132"
+  },
+  {
+   "title": "LeleSong",
+   "id": "UC0ZmglhktU4h--cygOUSZJQ",
+   "created": "2011-10-19",
+   "subs": "174",
+   "videos": "133"
+  },
+  {
+   "title": "Peaceful Paw Paradise",
+   "id": "UCHoAv_sGH9JgDnixhbcukmw",
+   "created": "2021-05-31",
+   "subs": "11",
+   "videos": "45"
+  },
+  {
+   "title": "Cutefamily",
+   "id": "UC8dvJ11GaAcAOg2g2XMXqew",
+   "created": "2025-11-08",
+   "subs": "1350",
+   "videos": "242"
+  },
+  {
+   "title": "Williy's Animal World",
+   "id": "UCeZiYJ3eDbVGOxIsrBTYmGw",
+   "created": "2025-12-22",
+   "subs": "120",
+   "videos": "36"
+  },
+  {
+   "title": "Maryse-Caroline Diallo",
+   "id": "UCmDEoixQjLmvSAW26ullD4A",
+   "created": "2025-10-13",
+   "subs": "7440",
+   "videos": "617"
+  },
+  {
+   "title": "Pawlaughter TV",
+   "id": "UCzGOc0WgeLluX7epmf3GsXA",
+   "created": "2023-06-23",
+   "subs": "1540",
+   "videos": "125"
+  },
+  {
+   "title": "Pamthepigeon ",
+   "id": "UC-VT0IJ4eisIWs8-BOD6Dgw",
+   "created": "2026-03-14",
+   "subs": "1290",
+   "videos": "82"
+  },
+  {
+   "title": "Anju Prasher",
+   "id": "UCSNk1yA9HP3LIdWnqVwl6Cg",
+   "created": "2020-07-14",
+   "subs": "153",
+   "videos": "259"
+  },
+  {
+   "title": "Just Fun - Your Daily Dose of Laughter!",
+   "id": "UCWNQA0XSSnsCnYwla0HQahA",
+   "created": "2025-11-01",
+   "subs": "421",
+   "videos": "282"
+  },
+  {
+   "title": "Williy's Animal Channel",
+   "id": "UC8mpqOwkgWZuDfDgKDGEnVA",
+   "created": "2025-12-22",
+   "subs": "224",
+   "videos": "36"
+  },
+  {
+   "title": "Paws of Zeus",
+   "id": "UCj3txYqHT2c06O6E_Zd_pAA",
+   "created": "2011-09-14",
+   "subs": "76",
    "videos": "30"
   },
   {
-   "title": "ALLPLAY USA",
-   "id": "UCY3luyNuzLi0hgQ-7U-qMdQ",
-   "created": "2024-07-01",
-   "subs": "3140",
-   "videos": "2292"
+   "title": "zoo",
+   "id": "UC2ZPboXk1OK_PlCjtIP3A8Q",
+   "created": "2025-11-28",
+   "subs": "226",
+   "videos": "116"
   },
   {
-   "title": "Jonathan Belzil",
-   "id": "UCdnNw-1u7h7X798RW17bJCQ",
-   "created": "2011-11-08",
-   "subs": "34",
-   "videos": "6"
+   "title": "samechill",
+   "id": "UCUIwmnr8b_lhXXBDr-lktpA",
+   "created": "2025-11-08",
+   "subs": "196",
+   "videos": "147"
   },
   {
-   "title": "DJI OSMO",
-   "id": "UCdslRqC1bNDiL2x6ThAIxPg",
-   "created": "2024-06-28",
-   "subs": "855000",
-   "videos": "2152"
+   "title": "오늘의 털뭉치",
+   "id": "UCfMNny--gglnXUIHZSIFdFw",
+   "created": "2026-10-11",
+   "subs": "206",
+   "videos": "94"
   },
   {
-   "title": "AndroCarSim",
-   "id": "UCkQ-BtI4zUl670gsOdr9DYQ",
-   "created": "2026-04-19",
-   "subs": "3",
-   "videos": "8"
+   "title": "PK Diaries",
+   "id": "UCkrjTJOp2D88FiULa9pacrQ",
+   "created": "2016-05-31",
+   "subs": "685",
+   "videos": "423"
   },
   {
-   "title": "mystery Tamil",
-   "id": "UCKaZZOhYZsDGu6ICv1FKhPw",
-   "created": "2022-01-04",
-   "subs": "957000",
-   "videos": "1242"
+   "title": "Golden Retriever Buddy",
+   "id": "UCD_YSVXUySzh-kYF6DpVcTg",
+   "created": "2020-03-29",
+   "subs": "710000",
+   "videos": "622"
   },
   {
-   "title": "Golf Handicapp: Track, Play, Improve",
-   "id": "UC4gFaS63bjtHNPDr_nXvitw",
-   "created": "2026-06-22",
-   "subs": "22",
-   "videos": "155"
+   "title": "Asher Koh Jing Wei",
+   "id": "UC_3K_6dvFxih_vS7XT_08pA",
+   "created": "2021-03-16",
+   "subs": "532",
+   "videos": "716"
   },
   {
-   "title": "ake",
-   "id": "UCJXyqz11pWS92LCau-UpBqw",
-   "created": "2022-12-09",
-   "subs": "1020",
-   "videos": "53"
+   "title": "ICONICAL",
+   "id": "UC3vrbR_4v9wglqK9oFPqntQ",
+   "created": "2024-12-05",
+   "subs": "28300",
+   "videos": "2993"
   },
   {
-   "title": "Games für Jung und jung gebliebene",
-   "id": "UCfAP7ZeqRsXUI9HevwRWhrg",
-   "created": "2018-07-13",
-   "subs": "488",
-   "videos": "152"
+   "title": "Coco's Days",
+   "id": "UCi3YVOIoOWN485RPlJzxOHQ",
+   "created": "2026-08-24",
+   "subs": "35",
+   "videos": "51"
   },
   {
-   "title": "TODAY",
-   "id": "UChDKyKQ59fYz3JO2fl0Z6sg",
-   "created": "2013-08-21",
-   "subs": "5130000",
-   "videos": "57239"
+   "title": "Pop Flick Shorts",
+   "id": "UCsN6SMnoOhRDR8zBOQOKPMw",
+   "created": "2025-07-18",
+   "subs": "2930",
+   "videos": "513"
   },
   {
-   "title": "Alex Sonnleithner",
-   "id": "UCANi3o6X_VmfhK4YJc5gqmA",
-   "created": "2013-07-18",
-   "subs": "814",
-   "videos": "27"
+   "title": "Pomeranian Paradise",
+   "id": "UCYvekynfGBu4Vl6NEdpNpuw",
+   "created": "2026-01-17",
+   "subs": "331",
+   "videos": "13"
   },
   {
-   "title": "Strachoczanka",
-   "id": "UC4cHQyPorWzANx20cVOjDMw",
-   "created": "2018-01-16",
-   "subs": "11100",
-   "videos": "144"
+   "title": "The cat behaviorist",
+   "id": "UCQ8IMQFi9W5ci1QqqUqOJqA",
+   "created": "2025-05-15",
+   "subs": "476",
+   "videos": "314"
   },
   {
-   "title": "Aquabike Tricks",
-   "id": "UCR97cRhYEGZFQ4dHFx1NOMQ",
-   "created": "2008-10-28",
-   "subs": "272",
-   "videos": "366"
+   "title": "Nala&Coco",
+   "id": "UCX-RjC0NEhi6C_RGD_wkzzQ",
+   "created": "2026-04-11",
+   "subs": "361",
+   "videos": "151"
   },
   {
-   "title": "team taku Channel",
-   "id": "UCjW0oXdzvYuNd0ZlqyAJtcg",
-   "created": "2015-11-19",
-   "subs": "530",
-   "videos": "21"
+   "title": "Aaronbryle Funny Tv",
+   "id": "UCVyX7WjALSYcXyGvahTHw-w",
+   "created": "2015-02-05",
+   "subs": "148",
+   "videos": "105"
   },
   {
-   "title": "Olympic Games",
-   "id": "UCTl3QQTvqHFjurroKxexy2Q",
-   "created": "2006-01-10",
-   "subs": "16700000",
-   "videos": "22395"
+   "title": "RankzenTV",
+   "id": "UCXHznC0sCt3KUO9wfMs5UXg",
+   "created": "2024-12-26",
+   "subs": "3020",
+   "videos": "48"
   },
   {
-   "title": "USAsn News",
-   "id": "UC0nRtO-757r2zAjHUX7Ibbg",
-   "created": "2021-09-17",
-   "subs": "4740",
-   "videos": "2697"
+   "title": "Gary and Chico",
+   "id": "UCTeQueza48-rTYGtCB1JnDg",
+   "created": "2011-08-02",
+   "subs": "168",
+   "videos": "93"
   },
   {
-   "title": "Red Bull Snow",
-   "id": "UCTtEhdlWz5erVK734-Gn0VQ",
-   "created": "2019-07-31",
-   "subs": "1120000",
-   "videos": "1503"
+   "title": "RealitySpark",
+   "id": "UCNwIJTUj028dnriqD0r6JrA",
+   "created": "2025-04-14",
+   "subs": "1380",
+   "videos": "832"
   },
   {
-   "title": "audun nybøen",
-   "id": "UCCzvnZZgC0UEl6bVJod8jWA",
-   "created": "2012-10-28",
-   "subs": "138",
-   "videos": "8"
+   "title": "Cooper & Nacho",
+   "id": "UCbdSCtg39upyLk0fEvYn90A",
+   "created": "2007-04-01",
+   "subs": "65",
+   "videos": "62"
   },
   {
-   "title": "Tech Today",
-   "id": "UCYWDgUIB5HSb_GcdXxc_THw",
-   "created": "2023-10-22",
-   "subs": "857000",
-   "videos": "567"
+   "title": "Kulit and Friends",
+   "id": "UCnhnpnTgDhwbN6dgWUtQ27g",
+   "created": "2009-09-27",
+   "subs": "1550",
+   "videos": "91"
   },
   {
-   "title": "KARE 11",
-   "id": "UC1JAwKeDUjN2orv5t7LWODQ",
-   "created": "2006-11-16",
-   "subs": "470000",
-   "videos": "75957"
+   "title": "suger",
+   "id": "UCTVCAi4SAz44ClLR78OTrmg",
+   "created": "2025-12-01",
+   "subs": "601",
+   "videos": "84"
   },
   {
-   "title": "A&E",
-   "id": "UCNIFiHaLZkYASaWDdkC1njg",
-   "created": "2006-09-20",
-   "subs": "11900000",
-   "videos": "14133"
+   "title": "The Dog Stuff",
+   "id": "UCr-3gcnFtd09HLWuMSEjitQ",
+   "created": "2026-05-10",
+   "subs": "53",
+   "videos": "154"
   },
   {
-   "title": "V4VIRAL ",
-   "id": "UCkgQaOaQP5REbbkx2v_ymQg",
-   "created": "2022-12-29",
-   "subs": "1420",
-   "videos": "514"
+   "title": "Canna Hub",
+   "id": "UCKn7FFXQQU9jeWiB8cKVvNQ",
+   "created": "2022-10-12",
+   "subs": "364000",
+   "videos": "105"
   },
   {
-   "title": "TNG",
-   "id": "UCTVUXBEj9D8ubtDMVrrAnCw",
-   "created": "2016-05-01",
-   "subs": "885",
-   "videos": "279"
-  },
-  {
-   "title": "zorrobacsi1",
-   "id": "UC03HcR-_MdGFdEeSfaUbELQ",
-   "created": "2010-07-22",
-   "subs": "442",
+   "title": "WagLifeDaily",
+   "id": "UCPIwzzgvruj4vnmSpd_-DrQ",
+   "created": "2026-01-08",
+   "subs": "262",
    "videos": "16"
   },
   {
-   "title": "Barti",
-   "id": "UCxTLQLJZsPnrHjBN4Qpivbw",
-   "created": "2009-11-06",
-   "subs": "3490",
-   "videos": "127"
+   "title": "Whoa-Why",
+   "id": "UC02mDctLhdZy_6CuE6Xe6rQ",
+   "created": "2023-05-09",
+   "subs": "1330",
+   "videos": "344"
   },
   {
-   "title": "Red Bull",
-   "id": "UCblfuW_4rakIf2h6aqANefA",
-   "created": "2006-09-23",
-   "subs": "30500000",
-   "videos": "7147"
+   "title": "Mosski",
+   "id": "UCM2wIPU-uvLMNWNnLEjZ5wQ",
+   "created": "2022-02-17",
+   "subs": "148000",
+   "videos": "602"
   },
   {
-   "title": "Jakub_Fuller6",
-   "id": "UCU6QA_U7vkqXJD8eIwk_IPA",
-   "created": "2015-05-25",
-   "subs": "3620",
+   "title": "Skyrowe Travels & Animal Adventures ",
+   "id": "UChXiZ3leLqPBJpFUPi0H0Ww",
+   "created": "2022-10-26",
+   "subs": "20600",
+   "videos": "4256"
+  },
+  {
+   "title": "The Kanine Krew",
+   "id": "UC7M3PfkSfl_CiDun4Ptx5rQ",
+   "created": "2023-05-19",
+   "subs": "1130",
+   "videos": "671"
+  },
+  {
+   "title": "White Oaks Farm, LLC",
+   "id": "UCZDjDxvwRgdDDsK8OicmvNQ",
+   "created": "2023-07-01",
+   "subs": "1320",
+   "videos": "496"
+  },
+  {
+   "title": "chilldogph",
+   "id": "UCd4bSoZV9TLFepAnEKyNUPA",
+   "created": "2025-11-26",
+   "subs": "65",
+   "videos": "46"
+  },
+  {
+   "title": "Ismailkhan Khan",
+   "id": "UCCZJeTE_JFadbnF73NPVSOQ",
+   "created": "2025-09-11",
+   "subs": "6",
+   "videos": "11"
+  },
+  {
+   "title": "ClipRiot",
+   "id": "UC2q5IZdhNhMmQrBbshkwD5Q",
+   "created": "2026-11-12",
+   "subs": "22",
+   "videos": "20"
+  },
+  {
+   "title": "Truong Getepo",
+   "id": "UCwsprxkSOIrTevoN7KxUVXw",
+   "created": "2025-10-10",
+   "subs": "22400",
+   "videos": "200"
+  },
+  {
+   "title": "DailyPets",
+   "id": "UCBT008Bxr8R27HEvCYQPiUA",
+   "created": "2026-06-14",
+   "subs": "1150",
+   "videos": "490"
+  },
+  {
+   "title": "Tyson Golden Tales",
+   "id": "UC8luRuOsqnMc0fU8PhEK_jQ",
+   "created": "2026-01-26",
+   "subs": "655",
+   "videos": "134"
+  },
+  {
+   "title": "White Moon",
+   "id": "UC8migqD5Y7TjqSVzYdqPnjA",
+   "created": "2010-03-14",
+   "subs": "5460",
+   "videos": "1898"
+  },
+  {
+   "title": "Charlie Creates Mabel & Co",
+   "id": "UC6uak4lOEZ52ArrkP9TWQrQ",
+   "created": "2026-05-01",
+   "subs": "192",
+   "videos": "44"
+  },
+  {
+   "title": "Sammy",
+   "id": "UCLmDDziptMRaJueHNs5vJcg",
+   "created": "2015-04-17",
+   "subs": "14500",
+   "videos": "12484"
+  },
+  {
+   "title": "Whisky The Golden Retriever ",
+   "id": "UC1h2CxvMykguzwgkwj8JCoQ",
+   "created": "2017-06-13",
+   "subs": "95",
+   "videos": "51"
+  },
+  {
+   "title": "Hana’s Happy Life",
+   "id": "UCtQhGFQMpUdHzua6I4SE18Q",
+   "created": "2025-12-07",
+   "subs": "53300",
+   "videos": "426"
+  },
+  {
+   "title": "ChewieDeMonkey",
+   "id": "UC9zDXceHuWTkaczkoZhkuBw",
+   "created": "2018-01-14",
+   "subs": "6300",
+   "videos": "97"
+  },
+  {
+   "title": "ABWOLF",
+   "id": "UCIcjwBsAVIkv7d2JFf8yjug",
+   "created": "2012-08-11",
+   "subs": "80",
+   "videos": "60"
+  },
+  {
+   "title": "Steven Hille",
+   "id": "UCKYVp3naDqd-DbjUZZs3Cyw",
+   "created": "2025-09-30",
+   "subs": "20800",
+   "videos": "130"
+  },
+  {
+   "title": "TheLokeShow",
+   "id": "UCD6OO3IkYdxghzYr4aIdSCg",
+   "created": "2026-03-27",
+   "subs": "422",
+   "videos": "302"
+  },
+  {
+   "title": "Carli Lopresto ",
+   "id": "UCqlqFUS1qZPFp2SmWRUpeJw",
+   "created": "2013-09-01",
+   "subs": "1070",
+   "videos": "183"
+  },
+  {
+   "title": "Dog Lover Hub",
+   "id": "UC5jyvniWPuDVYAIACe9vfyw",
+   "created": "2026-02-17",
+   "subs": "29900",
+   "videos": "124"
+  },
+  {
+   "title": "RIO and His Friends.... ",
+   "id": "UCoz5Jrej26341FqZPozEknA",
+   "created": "2017-11-26",
+   "subs": "629",
+   "videos": "551"
+  },
+  {
+   "title": "Suplex Saga",
+   "id": "UCkpIirO44C4G1aSBCTP0IIg",
+   "created": "2024-07-13",
+   "subs": "35100",
+   "videos": "475"
+  },
+  {
+   "title": "Golden Buddy ",
+   "id": "UCGIntJ1g4RzgOAmJBh-vONQ",
+   "created": "2025-11-15",
+   "subs": "109",
+   "videos": "44"
+  },
+  {
+   "title": "CuteVerse TV",
+   "id": "UCrvrCfoKm-AYY3oDigev6Ng",
+   "created": "2025-11-02",
+   "subs": "6050",
+   "videos": "380"
+  },
+  {
+   "title": "Haha Short Videos",
+   "id": "UCbQfdcbvKCctF1Hh3CRMnZg",
+   "created": "2026-08-18",
+   "subs": "67",
+   "videos": "35"
+  },
+  {
+   "title": "A Shot Of Whiskey",
+   "id": "UC433ZESjaQ9evoTiz6q11Ew",
+   "created": "2026-01-27",
+   "subs": "62",
+   "videos": "63"
+  },
+  {
+   "title": "GoldenPaws Daily ",
+   "id": "UCDVn04Mc2bSWDFWfILZGXZA",
+   "created": "2012-06-09",
+   "subs": "67",
+   "videos": "25"
+  },
+  {
+   "title": "Thor the German Shepherd",
+   "id": "UCWZAxrbbqHVs0_sqfhepTPg",
+   "created": "2017-01-18",
+   "subs": "11100",
+   "videos": "510"
+  },
+  {
+   "title": "furrytalesoz",
+   "id": "UCUU20fskRslvVqlb3NoB9jg",
+   "created": "2025-12-25",
+   "subs": "12800",
+   "videos": "41"
+  },
+  {
+   "title": "Paws of Wonder",
+   "id": "UCR4yVw0mR-HnhFGYWovuZeg",
+   "created": "2025-10-16",
+   "subs": "775",
+   "videos": "243"
+  },
+  {
+   "title": "Mythological and general fantasy ",
+   "id": "UCjGtqCFIuwq-Qbsa_mGN4BA",
+   "created": "2021-12-21",
+   "subs": "344",
+   "videos": "676"
+  },
+  {
+   "title": "Chase the Yorkie",
+   "id": "UCYYhvrieP443XglnGIe2hvA",
+   "created": "2025-08-14",
+   "subs": "3720",
+   "videos": "310"
+  },
+  {
+   "title": "FXM Animation",
+   "id": "UCfpnTaNnTpoubG_nj3czxlQ",
+   "created": "2014-06-30",
+   "subs": "2530",
+   "videos": "7245"
+  },
+  {
+   "title": "Pandora The Husky",
+   "id": "UCeZUsrCdqOXjgD2hwtpeE6Q",
+   "created": "2025-10-03",
+   "subs": "2430",
+   "videos": "147"
+  },
+  {
+   "title": "Dogz",
+   "id": "UCUtF539vz1x7u5HH-4svAsQ",
+   "created": "2025-11-10",
+   "subs": "1500",
+   "videos": "232"
+  },
+  {
+   "title": "Green Motion",
+   "id": "UCvBuebE_X7QvYKhI-Ri4b_w",
+   "created": "2025-10-14",
+   "subs": "38",
+   "videos": "5805"
+  },
+  {
+   "title": "Aurora Husky Girl",
+   "id": "UCOjRbaTUWnuPsqh6aIwiiiA",
+   "created": "2026-04-04",
+   "subs": "1160",
+   "videos": "233"
+  },
+  {
+   "title": "Lavangam Garu",
+   "id": "UC9CvGwVaVpoW9wVmcn6xZlQ",
+   "created": "2026-06-01",
+   "subs": "583",
+   "videos": "147"
+  },
+  {
+   "title": "MistyMapleHuskies",
+   "id": "UCWtw5WvE74RntIJW0MzVomg",
+   "created": "2026-08-27",
+   "subs": "65",
+   "videos": "30"
+  },
+  {
+   "title": "FlipToon",
+   "id": "UCzz3rrLSyP8cTbGLv6hhsXQ",
+   "created": "2020-10-26",
+   "subs": "27",
+   "videos": "15"
+  },
+  {
+   "title": "Pluto The Husky",
+   "id": "UCnUIEEy0cfOOa00iJq_NjPQ",
+   "created": "2014-10-14",
+   "subs": "66000",
+   "videos": "984"
+  },
+  {
+   "title": "Miss Cute",
+   "id": "UCWA3_AGHATscQFjCxC01Opg",
+   "created": "2024-12-10",
+   "subs": "55",
+   "videos": "93"
+  },
+  {
+   "title": "Namastethemind",
+   "id": "UCrOf6BLDgIff0lbajmnRlpA",
+   "created": "2023-02-05",
+   "subs": "4",
+   "videos": "20"
+  },
+  {
+   "title": "Detective Toby",
+   "id": "UCcrNNyNLq-OHa3xrIwtTCKQ",
+   "created": "2025-11-22",
+   "subs": "841",
+   "videos": "134"
+  },
+  {
+   "title": "Faizan Kadri 99",
+   "id": "UCvBwZpxigrJQ0paF-vDHxAg",
+   "created": "2025-12-20",
+   "subs": "21",
+   "videos": "9"
+  },
+  {
+   "title": "@enjoyablechanel",
+   "id": "UCkJ87lXQsoPm_bk6K4D8XUw",
+   "created": "2021-03-26",
+   "subs": "1260",
+   "videos": "112"
+  },
+  {
+   "title": "Maya Husky",
+   "id": "UComxirWZgXemamKVQfSdDLw",
+   "created": "2020-06-27",
+   "subs": "632000",
+   "videos": "315"
+  },
+  {
+   "title": "Ecotailzpets",
+   "id": "UCgXcL2PSVNVlN2DdrbmWYZw",
+   "created": "2025-11-17",
+   "subs": "96",
+   "videos": "133"
+  },
+  {
+   "title": "PawNova Plus",
+   "id": "UC2NlXiYr4luHz18d_XZYkqw",
+   "created": "2026-08-29",
+   "subs": "143",
+   "videos": "48"
+  },
+  {
+   "title": "Helal and Kitty",
+   "id": "UCXmFKFhARC_vbXHSJZsTsIw",
+   "created": "2022-07-26",
+   "subs": "7460",
+   "videos": "1623"
+  },
+  {
+   "title": "Youmotion",
+   "id": "UCLa926Q2dkgU0VmZRNNEndQ",
+   "created": "2026-04-17",
+   "subs": "6",
+   "videos": "2600"
+  },
+  {
+   "title": "Hammy's Family",
+   "id": "UCDYg2qpUjFdyOsTuDUi5Xzg",
+   "created": "2026-01-26",
+   "subs": "500",
+   "videos": "289"
+  },
+  {
+   "title": "CapymancerRanks",
+   "id": "UCrAfs4Bu-z3lLCnUDtdTwIA",
+   "created": "2026-03-31",
+   "subs": "742",
+   "videos": "11"
+  },
+  {
+   "title": "Touching TOP5",
+   "id": "UCQnexiZesVKb4f3csmhrUEQ",
+   "created": "2026-10-09",
+   "subs": "117",
+   "videos": "87"
+  },
+  {
+   "title": "Bezier Motion Design",
+   "id": "UCpsBS7GR3-_WmJzZxLidnGw",
+   "created": "2026-10-09",
+   "subs": "1",
+   "videos": "1160"
+  },
+  {
+   "title": "Momentary Zen ASMR",
+   "id": "UC-dz31EJr1q2rse5LJ-wiEw",
+   "created": "2021-11-05",
+   "subs": "3",
+   "videos": "19"
+  },
+  {
+   "title": "shree & vyom",
+   "id": "UCGBgWwslpIn6Ye6RcpgRHPg",
+   "created": "2013-06-13",
+   "subs": "3",
+   "videos": "7"
+  },
+  {
+   "title": "ShortRanksYT",
+   "id": "UCKRXy5_z9wS97AwfLm23Tmg",
+   "created": "2024-07-09",
+   "subs": "15600",
+   "videos": "187"
+  },
+  {
+   "title": "Afg Animation 24",
+   "id": "UC0Vu5gVKowmnVyrpzV35vjQ",
+   "created": "2015-06-14",
+   "subs": "2260",
+   "videos": "551"
+  },
+  {
+   "title": "StorySync ",
+   "id": "UCZA7X2dJMxtT_rDemVWFqwg",
+   "created": "2025-12-26",
+   "subs": "3020",
+   "videos": "75"
+  },
+  {
+   "title": "Cute Pet Moments",
+   "id": "UCnuHnu0sZhRnvl_-zcvChrQ",
+   "created": "2025-10-12",
+   "subs": "97800",
+   "videos": "133"
+  },
+  {
+   "title": "gusluv",
+   "id": "UCeKamiWz_rap2aKLUbKiD9w",
+   "created": "2019-03-01",
+   "subs": "5400",
+   "videos": "181"
+  },
+  {
+   "title": "Side-eye & Spooked ",
+   "id": "UCIFNMTWqqjOs6nzFBCcaFVg",
+   "created": "2026-07-01",
+   "subs": "1",
+   "videos": "48"
+  },
+  {
+   "title": "Endless Love",
+   "id": "UCH8x9zAJbpfipmHosNuwu_A",
+   "created": "2022-12-01",
+   "subs": "11800000",
+   "videos": "6471"
+  },
+  {
+   "title": "The Tail & The Toddler",
+   "id": "UC6UO-kdEgNokSWeZvISkp3w",
+   "created": "2026-05-19",
+   "subs": "115",
+   "videos": "42"
+  },
+  {
+   "title": "AspirantWay",
+   "id": "UC_FmbGr3MuWlKmnnpEefJYw",
+   "created": "2025-01-11",
+   "subs": "121000",
+   "videos": "700"
+  },
+  {
+   "title": "PawParadise",
+   "id": "UC43BY68Ui0UXu9EwD6cSvvA",
+   "created": "2025-03-21",
+   "subs": "3660",
+   "videos": "160"
+  },
+  {
+   "title": "Sanjeev Bajaj",
+   "id": "UCkMvSjzvElZWOOOjyGHB-gg",
+   "created": "2017-07-05",
+   "subs": "20",
+   "videos": "60"
+  },
+  {
+   "title": "Husky Drama King",
+   "id": "UCvnRfnv8Vz_A-QSu9OwB10Q",
+   "created": "2026-07-25",
+   "subs": "47",
+   "videos": "64"
+  },
+  {
+   "title": "Haku & Nala",
+   "id": "UCNV-1O4GlP0UO3rgI-w1jIQ",
+   "created": "2026-03-15",
+   "subs": "1310",
+   "videos": "208"
+  },
+  {
+   "title": "Mithu Cartoon World 🦜",
+   "id": "UC7wiC-3m8eRR6lVjn5Nfh9w",
+   "created": "2026-05-14",
+   "subs": "4",
+   "videos": "30"
+  },
+  {
+   "title": "Paws & Tails",
+   "id": "UCP0rDpGGrMltEeF1Wi3HYkw",
+   "created": "2026-01-20",
+   "subs": "1630",
+   "videos": "280"
+  },
+  {
+   "title": "Tiny Hamster POV",
+   "id": "UCImdeasaGCMFOYbwAXW7O9Q",
+   "created": "2026-01-17",
+   "subs": "207",
+   "videos": "82"
+  },
+  {
+   "title": "Silly Little Family ",
+   "id": "UCyjHg_Zjj4FI1m70wYyMRgQ",
+   "created": "2025-10-22",
+   "subs": "1890",
+   "videos": "231"
+  },
+  {
+   "title": "dhvl48",
+   "id": "UCI17L0COBuR5isR7lqe8QMQ",
+   "created": "2026-09-06",
+   "subs": "0",
+   "videos": "103"
+  },
+  {
+   "title": " Masti Magahiya Vines ",
+   "id": "UCXdXJn_uZlN7ivtQ4FFt67A",
+   "created": "2023-09-10",
+   "subs": "135000",
+   "videos": "143"
+  },
+  {
+   "title": "CineNovaVision",
+   "id": "UC9MEs82q9v39ZBlTf1is24g",
+   "created": "2026-01-13",
+   "subs": "0",
+   "videos": "5"
+  },
+  {
+   "title": "Gulo Gulo Pup",
+   "id": "UChedT9S5q7pqm9CTxWCZaSA",
+   "created": "2026-08-20",
+   "subs": "1950",
+   "videos": "94"
+  },
+  {
+   "title": "Midnight Mind",
+   "id": "UCwKIG5fbdtma5y1D5Isb_pg",
+   "created": "2020-05-04",
+   "subs": "76",
+   "videos": "69"
+  },
+  {
+   "title": "Saucy Huskies ",
+   "id": "UCHhfqe_SwQPXTXAZMhhHWlw",
+   "created": "2026-04-07",
+   "subs": "3460",
+   "videos": "94"
+  },
+  {
+   "title": "LEEBO",
+   "id": "UCKugwpfV_qwJ2OCYqyYk5Sg",
+   "created": "2024-09-30",
+   "subs": "4060",
+   "videos": "80"
+  },
+  {
+   "title": "Comedy Animal Shorts TV",
+   "id": "UCvO8mQ89-CXI6ai1_866U3Q",
+   "created": "2021-03-21",
+   "subs": "5",
+   "videos": "380"
+  },
+  {
+   "title": "The Cats & Dogs Show",
+   "id": "UC9BJJA6b5hcLEVaWQN5O0xQ",
+   "created": "2025-09-02",
+   "subs": "839",
    "videos": "86"
   },
   {
-   "title": "Detective Eyes",
-   "id": "UCD6qTrieiuAmPaqQtS-SCog",
-   "created": "2016-09-27",
-   "subs": "24200",
-   "videos": "1179"
+   "title": "Sierra Rose",
+   "id": "UCFeQdlWLyeZoBHbRxoo2a5A",
+   "created": "2013-01-26",
+   "subs": "1470000",
+   "videos": "554"
   },
   {
-   "title": "Ski Jumping Bogdanówka",
-   "id": "UCNONQ7u6owavjq5L_xADDKA",
-   "created": "2023-12-31",
-   "subs": "11900",
-   "videos": "256"
+   "title": "Mushroom Corgi",
+   "id": "UC-5OYu3501kSe9Y5Ww51xKg",
+   "created": "2026-06-27",
+   "subs": "4430",
+   "videos": "76"
   },
   {
-   "title": "Top News 1",
-   "id": "UC-eHIoDpZx51DenAv_TUk3A",
-   "created": "2016-11-03",
-   "subs": "41700",
-   "videos": "2157"
+   "title": "Paws & Meows",
+   "id": "UC7gUncr4hra5jc8YhigjgVw",
+   "created": "2026-05-08",
+   "subs": "1390",
+   "videos": "33"
+  },
+  {
+   "title": "YT YAMIN ",
+   "id": "UCfuirum2CnWMjtjbnnfCQ7g",
+   "created": "2026-08-16",
+   "subs": "2760",
+   "videos": "72"
+  },
+  {
+   "title": "Dog Cat Family",
+   "id": "UCr-oHehp4etDiBmMogiME_g",
+   "created": "2026-09-11",
+   "subs": "9480",
+   "videos": "72"
+  },
+  {
+   "title": "GBC Cats",
+   "id": "UCf4G8ZcRQPKglmdfRFBZ3Ew",
+   "created": "2011-11-04",
+   "subs": "304000",
+   "videos": "455"
+  },
+  {
+   "title": "Golden Bibi TV",
+   "id": "UCL_05wb7wxJd5Q7SISrHtRw",
+   "created": "2025-10-24",
+   "subs": "1360",
+   "videos": "89"
+  },
+  {
+   "title": "FashionForager",
+   "id": "UCCrdxU7P5DAkFdPyr7OUsVw",
+   "created": "2025-11-04",
+   "subs": "108000",
+   "videos": "291"
+  },
+  {
+   "title": "North The Husky",
+   "id": "UCLtF4Z4mxVuIj6Pa-88DpQQ",
+   "created": "2025-01-20",
+   "subs": "32300",
+   "videos": "336"
+  },
+  {
+   "title": "Golden Buddy Diary",
+   "id": "UCowsSDsTe0bp2PxgD55SZDQ",
+   "created": "2025-01-22",
+   "subs": "8740",
+   "videos": "172"
+  },
+  {
+   "title": "The Fluffiest",
+   "id": "UCIqXzQ2-SLOkD6-aMGYd8KA",
+   "created": "2021-02-20",
+   "subs": "228000",
+   "videos": "397"
+  },
+  {
+   "title": "PET MOMENTS HUB",
+   "id": "UCB5M-GNaP6G0ODDAXJZeM0w",
+   "created": "2026-02-22",
+   "subs": "1280",
+   "videos": "192"
+  },
+  {
+   "title": "Fantastic Leah",
+   "id": "UCmFr1LqyaYBjRxIBay3kViw",
+   "created": "2025-07-18",
+   "subs": "1510",
+   "videos": "460"
+  },
+  {
+   "title": "ZooloG Ai",
+   "id": "UCwzqHGkja1Y3zJeGESt9MLw",
+   "created": "2026-08-25",
+   "subs": "120",
+   "videos": "17"
+  },
+  {
+   "title": "DreamyMeows",
+   "id": "UCQS7NN7sSn2eDdRxR9eC61g",
+   "created": "2025-09-10",
+   "subs": "3670",
+   "videos": "233"
+  },
+  {
+   "title": "꿍칫",
+   "id": "UCFEjSFJ1RN3fZZVZhXAbyjw",
+   "created": "2026-02-02",
+   "subs": "48500",
+   "videos": "285"
+  },
+  {
+   "title": "Stranger Than You",
+   "id": "UCwM8BuZ9mrSRKfphdQDNvLA",
+   "created": "2021-01-13",
+   "subs": "1510",
+   "videos": "35"
+  },
+  {
+   "title": "TINY KITTEN",
+   "id": "UCib-jEqHVM-Cx9Khd1-U1QQ",
+   "created": "2022-11-06",
+   "subs": "46200",
+   "videos": "177"
+  },
+  {
+   "title": "Funny Dog Bailey",
+   "id": "UCfOc-5FcQLJeoFZ5wyjWYmg",
+   "created": "2015-03-23",
+   "subs": "803000",
+   "videos": "779"
+  },
+  {
+   "title": "Cat Dog Story",
+   "id": "UCiltgNsENOcWJTeywcQmi2Q",
+   "created": "2026-10-05",
+   "subs": "346",
+   "videos": "36"
+  },
+  {
+   "title": "Cuty Kitty",
+   "id": "UCJtavRkPinVJtthG0XkIw_Q",
+   "created": "2022-12-21",
+   "subs": "665000",
+   "videos": "108"
+  },
+  {
+   "title": "Buddy",
+   "id": "UCkn69N_9CoPYIMArbQw6t-Q",
+   "created": "2021-01-24",
+   "subs": "61700",
+   "videos": "795"
+  },
+  {
+   "title": "Rocky",
+   "id": "UC6_p5c3EBY0x5kO3cR_VXug",
+   "created": "2020-07-18",
+   "subs": "444000",
+   "videos": "461"
+  },
+  {
+   "title": "Amosed Jack",
+   "id": "UCjZggOpVAocehpmQMoNiqFQ",
+   "created": "2026-04-28",
+   "subs": "2050",
+   "videos": "77"
+  },
+  {
+   "title": "animal media",
+   "id": "UC-UnOOzIMlqO7TweY5JbeJA",
+   "created": "2026-01-14",
+   "subs": "363",
+   "videos": "73"
+  },
+  {
+   "title": "Funny interesting clips 🤣",
+   "id": "UC5Tuiyd-WM9JQ66mfIXyuZg",
+   "created": "2025-07-29",
+   "subs": "116000",
+   "videos": "12"
+  },
+  {
+   "title": "Kids A2Z Videos ",
+   "id": "UCw0hMTq9wTYJYPTmw_Q7PbA",
+   "created": "2026-09-01",
+   "subs": "24300",
+   "videos": "123"
+  },
+  {
+   "title": "Mritunjay",
+   "id": "UCdVUjabyo9KuqNR4Gz0K30w",
+   "created": "2019-09-10",
+   "subs": "3660",
+   "videos": "173"
+  },
+  {
+   "title": "Cat Dog Diary",
+   "id": "UCmzO97ypyUKqA1pGEAzmmGA",
+   "created": "2025-03-18",
+   "subs": "56100",
+   "videos": "474"
   }
  ],
  "search_hits": [
   {
-   "q": "ski jump inrun POV",
-   "vid": "jlGW8COHX70",
-   "ch": "Barti",
-   "cid": "UCxTLQLJZsPnrHjBN4Qpivbw",
-   "date": "2022-03-24",
-   "title": "Jan Hoerl - 97.5m - Planica 24.03.2022 - Dangerous Situation",
-   "views": 1309416,
-   "desc": "2nd Training, fortunately he saved himself from falling in this horrible situation. If he fell, the FIS would be to blame for not forcing the organizers to create an inrun freezing system"
+   "q": "otter zookeeper reaction",
+   "vid": "uXI79qVg8hU",
+   "ch": "토끼쑛",
+   "cid": "UCAa9l6_kPdaMWbvZts9LbQw",
+   "date": "2026-10-28",
+   "title": "끝까지 간식 포기 못 하는 해달의 귀여운 집착 #동물영상 #해달 #shorts",
+   "views": 80624,
+   "desc": "사육사의 실수에 해달이 보인 귀여운 반응을 확인해보세요.\n\n간식을 높게 던진 사육사와 이를 먹기 위해 고군분투하는 해달의 모습을 담았습니다. 해달이 점프까지 하며 간식을 찾으려 애쓰는 사랑스러운 순간을 놓치지 마세요.\n\n재미있게 보셨다면 구독과 좋아요 부탁드려요!"
   },
   {
-   "q": "ski jump inrun POV",
-   "vid": "n9sGRvMhacM",
-   "ch": "Ski Jumping Bogdanówka",
-   "cid": "UCNONQ7u6owavjq5L_xADDKA",
-   "date": "2026-11-18",
-   "title": "PONAD 80 KM/H NA PROGU! | Kulisy i pełny skok w Szczyrku HS7",
-   "views": 992,
-   "desc": "Cały skok w Szczyrku na hs70 kończący sezon letni skoków narciarskich w 2026\n\nA jeśli chcecie zakupić nasz merch to właśnie wystartował nasz sklep, a z okazji zblizajcego black friday do pierwszych 10 zamówień dorzucamy losowy gadżet, wbijajcie i kupujcie zanim znikną:  https://sjbogdanowka.1ct.eu\n\n"
+   "q": "otter zookeeper reaction",
+   "vid": "HPK0aAO-8y0",
+   "ch": "Mackenz",
+   "cid": "UCZt1Et83fOc5xPJzkazn63w",
+   "date": "2026-03-10",
+   "title": "Depressed Otter Reunites With His Keeper… His Reaction Is He",
+   "views": 24507,
+   "desc": "CTTO: The_austin_aquarium"
   },
   {
-   "q": "ski jumping helmet camera",
-   "vid": "vrQZom91OWY",
-   "ch": "Red Bull",
-   "cid": "UCblfuW_4rakIf2h6aqANefA",
-   "date": "2024-04-02",
-   "title": "Motorbike Ski Jump 😮‍💨",
-   "views": 40208633,
-   "desc": "Professional Red Bull athlete Robbie Maddison jumps his motorbike 374 feet from a ski jump"
+   "q": "otter zookeeper reaction",
+   "vid": "ki6dvL0t7Ik",
+   "ch": "톡톡 힐링자판기",
+   "cid": "UCpJXGk72s-Zm1BakmlgMt6g",
+   "date": "2026-04-06",
+   "title": "&quot;내가 진짜 미안해&quot; 사육사가 해달에게 석고대죄한 이유",
+   "views": 33272,
+   "desc": "이건 진짜 사육사 실수였는데요\n\n해달은 끝까지 도전하지만\n결국 실패하고 돌아옵니다\n\n괜히 미안해진 사육사… 바로 사과 엔딩\n\n #shorts  #shortsvideo   #해외반응 #귀여운 #동물 #브이로그 #행복  #지능  #장난  #인기 #레전드 #반응 #사육사 #힐링 #유머 #재밌는동영상"
   },
   {
-   "q": "ski jumping helmet camera",
-   "vid": "Fp3iStx5lu4",
-   "ch": "anthony robert",
-   "cid": "UCAmnkKOKOaXfp95SiNEzJGw",
-   "date": "2025-05-14",
-   "title": "#Skijumping Season is on 😈⛷️ #ski #skiing #extreme",
-   "views": 19864290,
+   "q": "otter zookeeper reaction",
+   "vid": "AG9FoYt4C-I",
+   "ch": "탈탈강냉이",
+   "cid": "UCMHQqM0tyaTZr160M0UzpkA",
+   "date": "2026-11-12",
+   "title": "사육사가 쓰러지자 수달들 반응ㅋㅋ#수달#웃긴동물#동물반응",
+   "views": 31905,
+   "desc": "뭔데뭔데?! 거긴 왜?!\n아 간지러ㅋㅋㅋ\n\nMusic: \"Monkeys Spinning Monkeys\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0\nhttp://creativecommons.org/licenses/by/4.0/\n\n#수달 #동물반응 #웃긴동물 #동물원 #귀여운동물"
+  },
+  {
+   "q": "otter zookeeper reaction",
+   "vid": "Nfb5f3DQFQk",
+   "ch": "인프피티몬",
+   "cid": "UCzzVXZiH0_Tr0AIN1c1uofg",
+   "date": "2026-09-28",
+   "title": "쓰러진 척하자 달려온 수달 #수달",
+   "views": 18670,
+   "desc": "사육사가 쓰러지자 수달들이 보인 뜻밖의 반응 🦦❤️\n\n사육사 아저씨가 수달 방에 들어서자마자 픽 쓰러지는 장난을 치자, 수달 여러 마리가 우르르 달려와 코를 박고 숨을 쉬는지 확인합니다.\n평소엔 얼음 장난감 앞에 옹기종기 모여 앉아 조각을 핥고, 누나가 물에 들어오면 다리에 매달려 떨어질 줄 모르는 애교쟁이들이에요.\n사람 걱정까지 해 주는 이 동물원 구조대의 따뜻한 순간을 담았습니다 😭\n\n동물도 사람을 걱정한다는 걸 느낀 순간이 있었나요?\n여러분의 감동 에피소드를 댓글로 나눠 주세요!\n귀엽고 웃긴 동물들의 진짜 속마음이 궁금하다면 "
+  },
+  {
+   "q": "otter zookeeper reaction",
+   "vid": "ixogT1C1JVs",
+   "ch": "RiooooJoD",
+   "cid": "UC1rp3hho2f3EEKH88GimD-w",
+   "date": "2026-01-02",
+   "title": "An Otter’s Heartbreaking Reaction When His Keeper Left💔🦦#sho",
+   "views": 10497,
+   "desc": "This emotional story shows the deep bond between a zookeeper and an otter he raised from a young age. When the keeper had to leave for a few days due to a family emergency, the otter became heartbroken. It stopped eating, cried every day, and waited endlessly for the man it saw as its own mother.\nBu"
+  },
+  {
+   "q": "otter zookeeper reaction",
+   "vid": "FpL-uuh8Uww",
+   "ch": "Park Bench on Venus",
+   "cid": "UCULrH1Y-JmJGfV1uGpNyamA",
+   "date": "2025-12-21",
+   "title": "The Moment This Baby Gorilla Discovered Otters Exist",
+   "views": 7081,
+   "desc": "Zoo gorilla exhibit. Through the glass. A zookeeper sets down a blue water tub right in front of the barrier.\n\nGorillas are watching. CURIOUS.\n\nThen she places a tiny fluffy otter pup in the water. The baby gorilla PERKS UP. Moves closer. Can't look away.\n\nShe places a SECOND otter pup in. The baby "
+  },
+  {
+   "q": "otter zookeeper reaction",
+   "vid": "5OIxxhzX7lE",
+   "ch": "Mubp",
+   "cid": "UCtMPq7Rin93nwdPlD-87-BA",
+   "date": "2026-04-19",
+   "title": "Zookeeper mauled by otters???",
+   "views": 2771,
    "desc": ""
   },
   {
-   "q": "ski jumping helmet camera",
-   "vid": "t1P0SeYt2TA",
-   "ch": "Red Bull Snow",
-   "cid": "UCTtEhdlWz5erVK734-Gn0VQ",
-   "date": "2023-11-09",
-   "title": "Skiers Jump OVER A Chairlift! Best Party Lap Ever?",
-   "views": 8112483,
-   "desc": "Spring, slush, sun, and skiing with the whole gang. It almost doesn't get any better than that. Jump on the bandwagon for some of the most exciting and fun ski trains you'll be seeing in a while.\n\nSkiers: @LoganPehota  (+snowmobiler), @jespertjader, @NicoVuignier, Kirsty Muir, Paddy Graham, @nico.po"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "Nrq8zwQR7rQ",
-   "ch": "Strachoczanka",
-   "cid": "UC4cHQyPorWzANx20cVOjDMw",
-   "date": "2019-02-11",
-   "title": "Helmet Camera Jump | Strachoczanka K-25 | GoPro Hero 7",
-   "views": 1327017,
-   "desc": "Skok oczami skoczka na skoczni K-25 \"Strachoczanka\" w Strachocinie.\n\nNasz projekt, skocznia \"Strachoczanka\" o rozmiarze HS-33, realizowany jest w ramach działania stowarzyszenia pod nazwą Towarzystwo Gimnastyczne \"SOKÓŁ\" w Strachocinie, do którego należymy. Zachęcamy do wsparcia naszego działania po"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "ItqcVcqitpE",
-   "ch": "Strachoczanka",
-   "cid": "UC4cHQyPorWzANx20cVOjDMw",
-   "date": "2025-11-26",
-   "title": "Zima Uderza! Pierwsze Skoki na Strachoczance - Helmet Cam !",
-   "views": 1065790,
-   "desc": "Pierwsze zimowe skoki na Strachoczance! ❄️⛷️\nRekordowe opady śniegu w listopadzie sprawiły, że możemy cieszyć się prawdziwie zimową aurą — zima przyszła na całego! ☃️✨ Mamy nadzieję, że zostanie z nami jak najdłużej.❤️\n#Skokinarciarskie #Skijumping #Skoki #Skijumpingfamily #Strachoczanka #Zima #Śnie"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "skSNgKGDIfc",
-   "ch": "zorrobacsi1",
-   "cid": "UC03HcR-_MdGFdEeSfaUbELQ",
-   "date": "2023-01-20",
-   "title": "Kitzbühel Downhill helmet camera",
-   "views": 735035,
+   "q": "parrot jealous owner shorts",
+   "vid": "g_FSa6cpA_Q",
+   "ch": "Talking Parrot ",
+   "cid": "UCpuyjWuLMdeQTGwOl2cAIaQ",
+   "date": "2026-03-17",
+   "title": " Do parrots get jealous too?#jealous #parrotlover #parrots #",
+   "views": 2273777,
    "desc": ""
   },
   {
-   "q": "ski jumping helmet camera",
-   "vid": "-SyOUE2uVqo",
-   "ch": "Strachoczanka",
-   "cid": "UC4cHQyPorWzANx20cVOjDMw",
-   "date": "2021-02-04",
-   "title": "Helmet Camera Jump 2 | Strachoczanka K-30 | GoPro Hero 7 | N",
-   "views": 604865,
-   "desc": "Kolejna odsłona skoku oczami skoczka na nowo zmodernizowanej skoczni K-30 w Strachocinie.\n\nNasz projekt, skocznia \"Strachoczanka\" o rozmiarze HS-33, realizowany jest w ramach działania stowarzyszenia pod nazwą Towarzystwo Gimnastyczne \"SOKÓŁ\" w Strachocinie, do którego należymy. Zachęcamy do wsparci"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "kcl8DmWzPZM",
-   "ch": "ake",
-   "cid": "UCJXyqz11pWS92LCau-UpBqw",
-   "date": "2022-12-24",
-   "title": "Crazy Ski Jumping Crashes!",
-   "views": 542082,
-   "desc": "Here are some of my favourite ski jumping crashes!\n\n\nMitchell Penning\n\n\n#skijumping #fail #fails #fyp #far #flying #jump #ski #skiing #crash #fall ski jump crash"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "7ezFs7U2sm0",
-   "ch": "DJI",
-   "cid": "UCsNGtpqGsyw0U6qEG-WHadA",
-   "date": "2025-01-11",
-   "title": "How high do you think that ski jump was ⛷️Shot on DJI Osmo A",
-   "views": 637970,
-   "desc": "Capture every thrilling moment with the DJI Osmo Action 5 Pro. From epic ski jumps to breathtaking stunts, this action camera delivers stunning clarity and smooth footage."
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "af-dl4FKX00",
-   "ch": "Games für Jung und jung gebliebene",
-   "cid": "UCfAP7ZeqRsXUI9HevwRWhrg",
-   "date": "2022-12-30",
-   "title": "Skispringen Helmkamera Ego-Perspektive Oberstdorf",
-   "views": 157108,
-   "desc": "Genießt den Sprung aus der Ego-Perspektive der Helmkamera\n\n☑️ ABONNIEREN: https://bit.ly/315vBXd \n🔔 BENACHRICHTIGUNG\n\n#games #Skispringen #skijumping"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "bod4FGcltmQ",
-   "ch": "A&E",
-   "cid": "UCNIFiHaLZkYASaWDdkC1njg",
-   "date": "2021-04-15",
-   "title": "Rescue Cam: Skydiver Has Seizure During Jump, Saved by Instr",
-   "views": 137169,
-   "desc": "A skydiver suffers a seizure in this clip from Season 1, Episode 7.\n\n#RescueCam\n\nSubscribe for more from Rescue Cam and other great A&E shows:\nhttp://aetv.us/subscribe_ae\n\nFind out more about Rescue Cam and watch full episodes on our site:\nhttps://www.aetv.com/shows/live-rescue\n\nCheck out exclusive "
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "4jkrimCn9Pk",
-   "ch": "audun nybøen",
-   "cid": "UCCzvnZZgC0UEl6bVJod8jWA",
-   "date": "2018-10-03",
-   "title": "Ski Jump K72 Planica (GoPro Hero 3 Helmet Cam)",
-   "views": 97016,
-   "desc": "Ski jump in Planica k72 (Slovenia)\n\n\nThanks for watching!\nRemember to like and hit the subscribe button//\n\nIf we manage to reach 200 likes I will make another video. \n\n\n\nInstagram: Audun_malmer \nSecond YoutubeChannel: Prog 97 \n\n\n\n\nLike and Subscribe for more ski jumping videos!"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "Xnq-M_Hy3xU",
-   "ch": "DJI OSMO",
-   "cid": "UCdslRqC1bNDiL2x6ThAIxPg",
-   "date": "2026-02-03",
-   "title": "Feel the Speed! Osmo 360 POV of Ski Jumping🎿🔥",
-   "views": 36992,
-   "desc": "The thrill of speed captured like never before—Osmo 360’s panoramic first-person view puts you right in the heart of the ski jump.\n\nHold tight to the rails and get ready for an adrenaline-packed ride with smooth, immersive 360° footage that makes your heart race.\n\n📹 Shot by @ficekooo\n\n#djiosmo #osmo"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "0le-NA6L9Xk",
-   "ch": "Strachoczanka",
-   "cid": "UC4cHQyPorWzANx20cVOjDMw",
-   "date": "2025-10-12",
-   "title": "Helmet Camera Jump 3 | Historyczny skok na IGELICIE | Histor",
-   "views": 10845,
-   "desc": "Historyczny moment na  naszej skoczni Strachoczanka K30! 🏔️\nTo pierwszy skok na igelicie, zarejestrowany kamerą GoPro z kasku – kontynuacja serii Helmet Camera Jump 🎥\nNowa era skoków narciarskich zaczyna się właśnie teraz –  na igelicie! ☀️\n\n💬 Napisz w komentarzu, jak Ci się podoba nowa wersja !\n👍 Z"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "LvlL40ou104",
-   "ch": "Ski Jumping Bogdanówka",
-   "cid": "UCNONQ7u6owavjq5L_xADDKA",
-   "date": "2024-07-25",
-   "title": "Helmet Camera Jump | Bogdanówka K-10 | GoPro Hero 10 | FAIL",
-   "views": 10014,
-   "desc": "Jump from the perspective of a ski jumper on the summer hill in Bogdanówka \n\n\n\n\n\n\nFACEBOOK: Ski Jumping Bogdanówka\nEMAIL: skijumpingbogdanowka@gmail.com\n\n\n\n\n\n\n\nTAGI: \n\n#skokinarciarskie #PeterPrevc #TimiZajc  #skijump  #skokinarciarskie #skoki #skokoholicy#AnzeLanisek #RomanKoudelka  #DawidKubacki #"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "TX0rV8em0Qw",
-   "ch": "Jonathan Belzil",
-   "cid": "UCdnNw-1u7h7X798RW17bJCQ",
-   "date": "2021-04-28",
-   "title": "Sea-Doo Spark Creek Jump (Helmet Cam)",
-   "views": 7668,
-   "desc": "Sea-Doo Spark Creek Jump (Helmet Cam)."
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "JFL88bNg_hM",
-   "ch": "zorrobacsi1",
-   "cid": "UC03HcR-_MdGFdEeSfaUbELQ",
-   "date": "2023-01-20",
-   "title": "Cortina d’Ampezzo Downhill helmet camera",
-   "views": 7540,
+   "q": "parrot jealous owner shorts",
+   "vid": "4UpTA5Ck0J4",
+   "ch": "Triệu Que Củi",
+   "cid": "UChpsOOWySQny641PlAW38oA",
+   "date": "2026-11-16",
+   "title": "Chú Vẹt So Sánh Ghen Ăn Tức Ở #shorts",
+   "views": 988514,
    "desc": ""
   },
   {
-   "q": "ski jumping helmet camera",
-   "vid": "F-lvoDZp2aw",
-   "ch": "Daviiskijumper",
-   "cid": "UCC6lbFAW7AzbwE6WqTYcZVA",
-   "date": "2021-02-19",
-   "title": "Dawid Kaszuba | zima 2021r. | Zagórz k40 | Helmet Camera GoP",
-   "views": 5005,
-   "desc": "skok okolice 43m"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "elzbro50Sq0",
-   "ch": "Daviiskijumper",
-   "cid": "UCC6lbFAW7AzbwE6WqTYcZVA",
-   "date": "2021-09-21",
-   "title": "Velenje 🇸🇮 HS75|| GoPro hero 5 || Helmet camera || Trening p",
-   "views": 4204,
-   "desc": "Trening na skoczni w słoweńskim 🇸🇮 Velenje przed IMC2021"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "YtkLyM1rI5Y",
-   "ch": "Alex Sonnleithner",
-   "cid": "UCANi3o6X_VmfhK4YJc5gqmA",
-   "date": "2019-06-12",
-   "title": "GoPro helmet camera jump in Bischofshofen - Alex Hayböck",
-   "views": 2948,
-   "desc": "I took my GoPro out of my pocket and made this video shot. \n\nSometimes I dare myself on this hill trying to collect some adrenaline. ;) \nLeave a like if you enjoyed this video.\n\nhttps://www.instagram.com/alex.hayboeck/"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "Z5UUaYgmhIM",
-   "ch": "audun nybøen",
-   "cid": "UCCzvnZZgC0UEl6bVJod8jWA",
-   "date": "2018-06-28",
-   "title": "Ski jump Midstulia k60 (With Helmet cam)",
-   "views": 2227,
-   "desc": "Ski jumping in Midtstulia, Oslo Norway.\n\nThis jump was 60 meters filmed with my GoPro hero 3\n\nSubscribe for more ski jumping videos from the most recognized hills in the world"
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "eKc3oX8927U",
-   "ch": "Daviiskijumper",
-   "cid": "UCC6lbFAW7AzbwE6WqTYcZVA",
-   "date": "2021-12-28",
-   "title": "Średnie Krokiwe Zakopane🇵🇱 || Trening K95 || Helmet camera |",
-   "views": 2032,
-   "desc": ""
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "uKFxEnNyyxQ",
-   "ch": "nikita khasanov",
-   "cid": "UC_pUQoheOOkKTaXiwM4Kurg",
-   "date": "2021-03-26",
-   "title": "Ski jumping BLUE BIRD helmet camera",
-   "views": 1563,
-   "desc": ""
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "l8XrYOQFhNs",
-   "ch": "team taku Channel",
-   "cid": "UCjW0oXdzvYuNd0ZlqyAJtcg",
-   "date": "2020-01-28",
-   "title": "【360°VR Helmet camera】-Taku Takeuchi 竹内択with GoPro MAX- Ski ",
-   "views": 1579,
-   "desc": "-team taku official YouTube-\n\n\n\nクラウドファンディング　無事皆さまのおかげで大成功しました。ありがとうございました🙇‍♂️\n\nCampfire→ https://camp-fire.jp/projects/view/209425\n\nHP: https://taku-takeuchi.com/\n\nLINE: http://nav.cx/fE1uKJX\n\nInstagram: https://www.instagram.com/teamtakuofficial/\n\nAthlete info\n\nTaku Takeuchi\ninstagram: https://www."
-  },
-  {
-   "q": "ski jumping helmet camera",
-   "vid": "_j6aoW90jgo",
-   "ch": "team taku Channel",
-   "cid": "UCjW0oXdzvYuNd0ZlqyAJtcg",
-   "date": "2020-01-27",
-   "title": "【Helmet camera】-Taku Takeuchi with GoPro MAX- Ski jumping in",
-   "views": 1477,
-   "desc": "-team taku official YouTube-\n\n\n\nクラウドファンディング　無事皆さまのおかげで大成功しました。ありがとうございました🙇‍♂️\n\nCampfire→ https://camp-fire.jp/projects/view/209425\n\nHP: https://taku-takeuchi.com/\n\nLINE: http://nav.cx/fE1uKJX\n\nInstagram: https://www.instagram.com/teamtakuofficial/\n\nAthlete info\n\nTaku Takeuchi\ninstagram: https://www."
-  },
-  {
-   "q": "ski jump inrun ice track",
-   "vid": "d6l5-6_gsTk",
-   "ch": "Olympic Games",
-   "cid": "UCTl3QQTvqHFjurroKxexy2Q",
-   "date": "2026-02-07",
-   "title": "Why are they blow-drying a ski jump?! 💨",
-   "views": 79481606,
-   "desc": "Re-live the #MilanoCortina2026 action: https://go.olympics.com/watch\n\nThis isn't just satisfying to watch—it's critical safety work.\nSki jump crews use industrial leaf blowers to remove moisture and ice from the in-run. At speeds reaching 90km/h, even small amounts of water can affect an athlete's r"
-  },
-  {
-   "q": "ski jump inrun ice track",
-   "vid": "J_miQt7ojWc",
-   "ch": "Tech Today",
-   "cid": "UCYWDgUIB5HSb_GcdXxc_THw",
+   "q": "parrot jealous owner shorts",
+   "vid": "GlsV4Z2Un4A",
+   "ch": "동물사전",
+   "cid": "UC4FZ2MFfxiGVTNRHWUcmG-w",
    "date": "2026-02-08",
-   "title": "Why Are Leaf Blowers Used at the Olympics?",
-   "views": 20640,
-   "desc": "Did you know that in Italy They blow-dry ski jumps to remove moisture and prevent ice from forming on the inrun/track. \n\nCredits: olympics"
-  },
-  {
-   "q": "ski jump inrun ice track",
-   "vid": "A08SbVCqts0",
-   "ch": "TODAY",
-   "cid": "UChDKyKQ59fYz3JO2fl0Z6sg",
-   "date": "2026-02-10",
-   "title": "See How the Ski Jump Track is Kept Safe — Using Blow Dryers!",
-   "views": 2791,
-   "desc": "The crew responsible for drying the ski jump between competitors at the Milan Cortina Winter Olympics use industrial leaf blowers to remove moisture and ice from the in-run because at nearly 60 mph, even a tiny patch of moisture can be dangerous.\n\n» Subscribe to TODAY: https://www.youtube.com/@TODAY"
-  },
-  {
-   "q": "Loomis leaf blower ski jump",
-   "vid": "Zyb-DidvG_M",
-   "ch": "Top News 1",
-   "cid": "UC-eHIoDpZx51DenAv_TUk3A",
-   "date": "2026-02-19",
-   "title": "team USA Ben Loomis hits leaf blower scary Olympic moment ❄️",
-   "views": 5658,
+   "title": "질투심많은 앵무새Top6#랭킹쇼츠",
+   "views": 944406,
    "desc": ""
   },
   {
-   "q": "Loomis leaf blower ski jump",
-   "vid": "ERnwdmIKTzM",
-   "ch": "V4VIRAL ",
-   "cid": "UCkgQaOaQP5REbbkx2v_ymQg",
+   "q": "parrot jealous owner shorts",
+   "vid": "-Y3TVULFmNY",
+   "ch": "Expat Lokal",
+   "cid": "UCOy2WvS7YqOCxNnAs53S19g",
+   "date": "2026-04-11",
+   "title": "funny jealous Parrots #shorts #funny #viral #parrots #animal",
+   "views": 546891,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "jGNJJmlp_AE",
+   "ch": "Jackson Huhniverses",
+   "cid": "UC617BvMt2NDGDuAmg781sRg",
+   "date": "2025-11-27",
+   "title": "I’m jealous of Alexa now #cockatoo #jackson",
+   "views": 486652,
+   "desc": "If Jackson made you smile today, you can support him here\nhttps://ko-fi.com/huhniverses"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "v8oaZlPfkfM",
+   "ch": "MenacePaws2393",
+   "cid": "UCVQy3H3l0xsW0_EPXfe9x-w",
+   "date": "2026-11-01",
+   "title": "My bird gets really jealous😂#pov #shorts #usa #relatable",
+   "views": 322699,
+   "desc": "#shorts #comedy #funny #humor #memes #funnyvideos #petcomedy #viral"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "jtZjRmrjpok",
+   "ch": "DuckDuDuGo",
+   "cid": "UCzrIushRf8TzHgtB58E0vJQ",
+   "date": "2026-05-25",
+   "title": "&quot;Don&#39;t underestimate the jealousy of parrots&quot; ",
+   "views": 59078,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "fD8-u-D8nk4",
+   "ch": "Animal Fun World",
+   "cid": "UCtbjwXdTU4qjnyOxWJxxJPQ",
+   "date": "2026-09-05",
+   "title": "😂 My Parrot Answered a Phone Call… Then Got JEALOUS! 🦜📱🤣 #Sh",
+   "views": 74141,
+   "desc": "😂 My Parrot Answered a Phone Call… Then Got JEALOUS! 🦜📱🤣 #Shorts\n📝 Description\nThe phone started ringing… and my four parrots immediately wanted to know who was calling! 😂🦜📱\nBut the little Green Parrot's reaction is absolutely priceless! 🤣 He looked at the phone like someone was stealing his attenti"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "42EptdyJfkY",
+   "ch": "Lucy Speaks",
+   "cid": "UCti8jOIMqa5qK0lUpv6kkqA",
+   "date": "2026-11-06",
+   "title": "Poor Dog Got Jealous 😂 #shorts",
+   "views": 49968,
+   "desc": "Poor Dog Got Jealous 😂 #shorts"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "erAqM7tsURE",
+   "ch": "Parrottina",
+   "cid": "UCkYxogMsESu9V_Pk8qnH8vw",
+   "date": "2026-01-07",
+   "title": "Top 10 Jealous Parrots 2 #shorts  #parrots #funnyparrots",
+   "views": 43624,
+   "desc": "#Parrottina5\n#Parrottina\n#Parrots \n#ParrotsOfInstagram\n#CuteParrots \n#FunnyParrots \n#Parrots Lovers\n#PetLife\n#Parrots Video\n#Parrots World"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "l9Mkq-16Q4g",
+   "ch": "Animal Frequency",
+   "cid": "UC_i1uWWxJS1wbkV_SrBdyww",
+   "date": "2026-09-24",
+   "title": "🥰My jealous queen 👑#shorts #funny #comedy",
+   "views": 56758,
+   "desc": "https://youtube.com/shorts/NpbKTkbwf7U?si=pJ5pfaqk34KTm5i-\n\nhttps://youtube.com/shorts/Zu_UHEc_CQ0?si=ms1Ya2cZm7_4Zz9A\n\n\nhttps://youtube.com/shorts/zZunvFDcreY?si=1FLklSZMQqijuqXl\n\n#shorts \n#funny \n#comedy \n#cockatiel"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "YtsKnFcTfrc",
+   "ch": "Global Weird Animals",
+   "cid": "UCPZZWC22dV4s1irw3MIOm6g",
    "date": "2026-02-19",
-   "title": "Team USA Olympics star narrowly avoids &#39;horror&#39; acci",
-   "views": 2114,
-   "desc": "Team USA Olympics star narrowly avoids horror accident after colliding with leaf blower on high-speed ski jump\nTeam USA Olympics star narrowly avoids 'horror' accident after colliding with leafblower on high-speed ski jump.\n\nShare this video: Video: Team USA Olympics star narrowly avoids 'horror' ac"
+   "title": "Parrot Gets Jealous of Officer&#39;s Sandwich 🦜 #FunnyParrot",
+   "views": 46595,
+   "desc": "Our favorite talking parrot is back, this time having a hilarious conversation about the meaning of \"true love\"! 😂 This \"funny animal videos\" moment captures our feathered \"pet\" as he discusses the importance of a good \"sandwich recipe\" with Officer Kim. It's a must-see for anyone who loves a \"talki"
   },
   {
-   "q": "Loomis leaf blower ski jump",
-   "vid": "glole4CxU1w",
-   "ch": "USAsn News",
-   "cid": "UC0nRtO-757r2zAjHUX7Ibbg",
-   "date": "2026-02-20",
-   "title": "US ski jumper Ben Loomis avoids Olympic mishap after being s",
-   "views": 1118,
-   "desc": "Ben Loomis narrowly avoids mishap after leaf blower collision at Milan-Cortina Games.\n\nUS ski jumper Ben Loomis avoids Olympic mishap after being struck by leaf blower on mountain.\n\n\nBen Loomis, US ski jumper, 2026 Winter Olympics, Milan-Cortina, Nordic combined, Olympic mishap, ski jumping accident"
+   "q": "parrot jealous owner shorts",
+   "vid": "skYJyk443Pw",
+   "ch": "THE ANIMAL INCIDENT",
+   "cid": "UCdxuCplC3KJ-NnV0uVTPP6w",
+   "date": "2026-10-28",
+   "title": "Parrot Asks Alexa for Bird Sounds… Then Gets JEALOUS! #talki",
+   "views": 39166,
+   "desc": "This cockatoo asked Alexa for bird sounds… then got furious when another bird answered!  Apparently, there's only room for ONE bird in this house.\n\n#FunnyParrots #Cockatoo #FunnyAnimals #Shorts"
   },
   {
-   "q": "Loomis leaf blower ski jump",
-   "vid": "gCWDicRsIIU",
-   "ch": "ALLPLAY USA",
-   "cid": "UCY3luyNuzLi0hgQ-7U-qMdQ",
-   "date": "2026-02-20",
-   "title": "US ski jumper Ben Loomis avoids Olympic mishap after being s",
-   "views": 1047,
-   "desc": "US ski jumper Ben Loomis avoids Olympic mishap after being struck by leaf blower on mountain.\n\n\n\n#WinterOlympics2026\n#BenLoomis\n#OlympicDrama\n#SkiJumping\n#SportsNews\n#OlympicMoment\n#NordicCombined\n#WinterSports\n#OlympicSafety\n#ViralSports"
+   "q": "parrot jealous owner shorts",
+   "vid": "ZxJ_ZBcRjzg",
+   "ch": "BMR Creations",
+   "cid": "UC66Z0IUcb8Y1B2AX9HREPTw",
+   "date": "2026-09-01",
+   "title": "😂 Comedy — “Jealous Parrot” 😆 #shortsfeed #viral #funny  #sh",
+   "views": 43661,
+   "desc": "😂 Comedy — “Jealous Parrot” 😆\n\nSame exact couple parrots. Female parrot is happily eating berries while a tiny butterfly lands near her. She looks at the butterfly curiously. Male parrot notices and becomes comically jealous. He slowly moves between the female and butterfly, blocking her view. Femal"
   },
   {
-   "q": "Loomis leaf blower ski jump",
-   "vid": "ZbEsy47lfo4",
-   "ch": "New News Network",
-   "cid": "UCIiYdWeQQabin5vf5f8LqWA",
-   "date": "2026-02-20",
-   "title": "Ben Loomis Survives Shocking Ski Jump Accident at Winter Oly",
-   "views": 189,
-   "desc": "Team USA’s Ben Loomis narrowly avoided a serious accident during the 2026 Milan-Cortina Winter Olympics. While racing down a 120-meter ski jump in the Nordic Combined Team Sprint, Loomis collided with a leaf blower left on the slope—but remarkably, he walked away uninjured. Watch how this Olympic sk"
-  },
-  {
-   "q": "Loomis leaf blower ski jump",
-   "vid": "Z2MLew_fJjA",
-   "ch": "TNG",
-   "cid": "UCTVUXBEj9D8ubtDMVrrAnCw",
-   "date": "2026-02-20",
-   "title": "American Athlete Ben Loomis Narrowly Avoids Accident During ",
-   "views": 87,
-   "desc": "During the Nordic Combined ski jumping round, organizers were clearing fresh snow from the landing area using equipment — including a leaf blower."
-  },
-  {
-   "q": "ski jump track preparation crew",
-   "vid": "5JPas0O4evk",
-   "ch": "mystery Tamil",
-   "cid": "UCKaZZOhYZsDGu6ICv1FKhPw",
+   "q": "parrot jealous owner shorts",
+   "vid": "Kptw4u04jWc",
+   "ch": "Talking Parrot ",
+   "cid": "UCpuyjWuLMdeQTGwOl2cAIaQ",
    "date": "2026-06-09",
-   "title": "⛷️ Ski Jump Track Prep! 😲 Why They Blow Air On Snow! #shorts",
-   "views": 1536133,
-   "desc": "In this video I explained why crew members use air blowers along ski jumping tracks to keep the snow clear of debris and moisture for a smooth, high-speed launch.\n#tamil #facts #factsintamil #tamilshorts \n\nThis video is made for educational purposes under fair use, and all video rights belong to the"
+   "title": "Top 5 Most JEALOUS Parrots Caught on Camera! 😡🦜 #funny #bird",
+   "views": 27472,
+   "desc": "This video is made for commentary and educational purposes only. All content is transformed and edited with original voice-over and analysis.\n\nDisclaimer: \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news"
   },
   {
-   "q": "ski jump track preparation crew",
-   "vid": "Qmu2EIUoFuc",
-   "ch": "KARE 11",
-   "cid": "UC1JAwKeDUjN2orv5t7LWODQ",
-   "date": "2026-01-30",
-   "title": "U.S. Ski Jumping Team Set for 2026 Olympics | How the Sport ",
-   "views": 8394,
-   "desc": "The U.S. Olympic ski jumping team is expected to be finalized by Jan. 20 as athletes prepare for the 2026 Winter Olympics in Milan-Cortina. Ski jumping is one of the most daring events at the Games, combining speed, physics and precision as athletes launch off steep ramps and soar more than 300 feet"
+   "q": "parrot jealous owner shorts",
+   "vid": "P-d_UYeFrIk",
+   "ch": "Bozo Tatliş",
+   "cid": "UCnZbe0x0uM7JwuQhN1AE86Q",
+   "date": "2026-04-11",
+   "title": "Kıskanç bozo🤭😅",
+   "views": 38805,
+   "desc": "#bozo #birds #birdshorts #pets #parrot #petshorts #petsviral #sultanpapağnı #shortvideo #sweet #shorts #shortvideo #shortsviral #kuşum #keşfet #keşfetbeniöneçıkar #keşfetteyiz #kuşvideoları #viralvideo #viral #viralreels #video #viralshorts #funnyvideo #funny #funnyshorts #youtube #youtubevideo #you"
   },
   {
-   "q": "ski jumping slow motion takeoff",
-   "vid": "E8rkww7PB2o",
-   "ch": "Detective Eyes",
-   "cid": "UCD6qTrieiuAmPaqQtS-SCog",
-   "date": "2026-06-28",
-   "title": "스키 점프 순간포착! 슬로모션 명장면",
-   "views": 1527,
-   "desc": "스키 선수가 점프대에서 힘차게 도약하는 순간!\n\n공중을 가르는 멋진 비행 장면부터 눈 위에 안정적으로 착지하는 순간까지 슬로모션으로 담았습니다.\n겨울 스포츠의 속도감, 긴장감, 그리고 완벽한 착지의 짜릿함을 끝까지 감상해보세요.\n\n#Shorts #스키점프 #스키 #슬로모션 #겨울스포츠 #익스트림스포츠 #스포츠쇼츠 #SkiJump #Skiing #SlowMotion #WinterSports"
+   "q": "parrot jealous owner shorts",
+   "vid": "FHWUS2KKCGQ",
+   "ch": "The Bird Flock",
+   "cid": "UClkQVCGtGIvE4PButICbGZw",
+   "date": "2026-11-06",
+   "title": "My Parrot Is JEALOUS of My Phone! 📱😂 #Shorts",
+   "views": 31421,
+   "desc": "I made the mistake of looking at my phone instead of giving my parrot attention. 😂📱\n\n He had absolutely no intention of being ignored and made sure I knew exactly how he felt! 🦜🤣\n\nWho else has a pet that demands attention at the worst possible time?\n\nSubscribe for more funny bird moments!\n\n#FunnyBir"
   },
   {
-   "q": "ski jumping slow motion takeoff",
-   "vid": "uDwASAVQKOs",
-   "ch": "Aquabike Tricks",
-   "cid": "UCR97cRhYEGZFQ4dHFx1NOMQ",
+   "q": "parrot jealous owner shorts",
+   "vid": "7VQCP8t-HNY",
+   "ch": "RANKFRENZY",
+   "cid": "UCaPZiI90iW_9RcMY046h8lQ",
+   "date": "2026-08-12",
+   "title": "Ranking Funniest Jealous Parrot Moments #shorts #funnyparrot",
+   "views": 24253,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "ul8XJXdeNg0",
+   "ch": "@Wilferns",
+   "cid": "UCa8YrIS6aZE2bTJrlYR_RMw",
+   "date": "2026-04-06",
+   "title": "FUNNY JEALOUS PARROTS 🦜 #SHORTS #TRENDING #VIRAL #WATCH TILL",
+   "views": 24567,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "d0t3dAv6204",
+   "ch": "MARIA BILMOTE",
+   "cid": "UCR_sUnjU7ovoVTbn36DZc6A",
+   "date": "2026-11-05",
+   "title": "ببغاء مغيار 😂#شورت #قصص #اكسبلور #المغرب #الجزائر #كوميديا #",
+   "views": 28632,
+   "desc": "ببغاء لي مكيتاح حتى يجبد صداع 😂#شورت #قصص #المغرب #الجزائر #فكاهة #ضحك #كوميديا #اكسبلور"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "X9NpBbuGyx0",
+   "ch": "WildDubVerse",
+   "cid": "UCPT_yZXNtT5fbDr_ithqoDA",
+   "date": "2026-03-15",
+   "title": "“Jealous Parrot’s Revenge on Its Owner! #shorts",
+   "views": 22342,
+   "desc": "“Jealous Parrot’s Revenge on Its Owner! #shorts\n#animals #feedshorts #pets"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "sqNG_ludROc",
+   "ch": "Família Renato Garcia Oficial 2.0",
+   "cid": "UCqUVelZNWOJlgoQaKPD5aqA",
+   "date": "2026-05-12",
+   "title": "Papagaio ciumento Gui Nobre #shorts #guinobre #irenenobrega",
+   "views": 18263,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "5nktbrtgatw",
+   "ch": "Pet Madness",
+   "cid": "UC16L6FgSR0rj0P0NT_dzOTA",
+   "date": "2026-10-20",
+   "title": "When The Parrot Gets Jealous Over The Dog 😂🦜 #Shorts",
+   "views": 20716,
+   "desc": "When the parrot realizes the dog might get all the love and treats first! Watch this hilarious African Grey parrot demand attention and refuse to be second best. 🦜😂\n\n#Shorts #Parrot #FunnyPets #AfricanGrey #TalkingParrot #PetLovers"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "rp8mdVi8qc0",
+   "ch": "Shock Lens",
+   "cid": "UCZ7evVk8Jzs6_j3A7ZusHzw",
+   "date": "2025-12-12",
+   "title": "Jealous Parrot Snaps When Cat Touches Her 😂🦜🐱",
+   "views": 20527,
+   "desc": "This parrot was NOT having it 🦜😤\n\nThe cat starts touching the owner…\nThe parrot gets jealous…\nAnd suddenly it’s a full relationship argument 😭🐱\n\n“She’s a human, not your girlfriend.”\nI LOST IT 😂\n\n👇 COMMENT\nTeam Parrot 🦜 or Team Cat 🐱?\n\n👍 Like & Subscribe for more USA viral pet comedy\n\n\njealous parro"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "jlKkmuAVtxw",
+   "ch": "Parrot Planet",
+   "cid": "UCeIBCDevwEBQ_aM-93m2Kaw",
+   "date": "2026-03-14",
+   "title": "Parrot &amp; Cops - The Jealous Interrogation #parrot #polic",
+   "views": 18176,
+   "desc": "🦜 Subscribe Now to Parrot Planet!\nEvery short you see here is 100% original, fully scripted, animated, and edited by me using advanced AI tools like Sora 2.\n\n•       🐦 Meet the parrot who roasts cops, cracks jokes, and turns everyday moments into pure comedy gold!\n• 🎬 100% original shorts, scripted,"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "YmP455Ctjw4",
+   "ch": "Talking Amazon Parrot",
+   "cid": "UCeSAGI7F58sAUbWH4LjW-3A",
+   "date": "2026-08-04",
+   "title": "&quot;Rocky Got Jealous&quot; 😂❤️🦜 #parrot #talkingparrot #j",
+   "views": 14126,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "9j2BhEIcOVE",
+   "ch": " Nishad sherni ",
+   "cid": "UCOwGas4n5Vos3WQb2IoBusw",
+   "date": "2026-08-26",
+   "title": "जलन 🦜😄🦜😄#shorts #comedy #viral #funny #video",
+   "views": 9999,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "nZYHUjroYH4",
+   "ch": "Happy parrots",
+   "cid": "UCBz7jTdAPfjRlIb1Jy2cFLg",
+   "date": "2026-08-19",
+   "title": "The owner dotes on this cockatiel, and the conure is jealous",
+   "views": 14533,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "FeHTLwGU13k",
+   "ch": "Parrots & Pistols",
+   "cid": "UCVfF22Jwoihh9jRY9Vm1Hyg",
+   "date": "2026-10-14",
+   "title": "Cute Cockatoo Gets Jealous of Two Parrots! 😂🦜❤️.",
+   "views": 11625,
+   "desc": "🦜🔫 **Welcome to Parrot & Pistols!**\n\nA unique channel where **parrots, adventure, action, and entertainment** come together! 🦜🔥\n\nEnjoy amazing parrot moments, fun videos, exciting adventures, and entertaining content made for viewers who love something a little different.\n\n🎥 New videos & shorts\n🦜 Pa"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "d6PB00kqG40",
+   "ch": "Bilal Nizami08",
+   "cid": "UCD4U1L7Dyav3jk1QctS4-GA",
+   "date": "2026-11-02",
+   "title": "mithtu ki jalan #shortts #parrot #funny #",
+   "views": 10964,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "xYGT_7OT9Ew",
+   "ch": "Anita Story",
+   "cid": "UCg_tnXdpH_vZJw1nG8CKhsQ",
+   "date": "2026-07-09",
+   "title": "The parrot&#39;s jealousy is real. #parrot #talkingparot #fu",
+   "views": 8422,
+   "desc": "Does your parrot get jealous? Here are some funny moments of parrots being jealous. I hope my sharing can bring you joy. (These funny and emotional parrot short films have been given a fresh look with original narration, subtitles, editing, and story structure.)#parrot #parrotlover"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "BH2oYZ8AxRk",
+   "ch": "Parrot Talks",
+   "cid": "UCLPBVmnzaHlRVadOuGZTSLQ",
+   "date": "2025-12-13",
+   "title": "“Parrot’s Jealous Moment”Patrol car parking area",
+   "views": 7957,
+   "desc": "“Parrot’s Jealous Moment”Patrol car parking area\n\n\n#shorts #parrot #funnyparrot #parrottalk #policehumor #animalcomedy #comedy #funny #fun #viralshorts #trending #funnyanimals #cops #parrottalks #Talkinparrotcomedy"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "Pmvxlbv32pM",
+   "ch": "Parrot Talks",
+   "cid": "UCLPBVmnzaHlRVadOuGZTSLQ",
+   "date": "2025-12-13",
+   "title": "“Parrot’s Jealous Moment” 😆",
+   "views": 7525,
+   "desc": "“Parrot’s Jealous Moment” 😆\n\n\n#shorts #parrot #funnyparrot #parrottalk #policehumor #animalcomedy #comedy #funny #fun #viralshorts #trending #funnyanimals #cops #parrottalks #Talkinparrotcomedy"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "hWeZE_UzGBA",
+   "ch": "Sweet Parrot USA",
+   "cid": "UCxNMhLaDynd5GhZfTWERVIA",
+   "date": "2025-12-09",
+   "title": "🤣 Lady Police Officer vs Jealous Parrot | Funniest Short Sce",
+   "views": 7749,
+   "desc": "A funny short scene where a female American police officer is sitting in her office with her pet parrot. \nThe parrot asks if she really loves him, then tells her to divorce her husband because he doesn't want a third person between them! \nThe male officers behind her start laughing. \nClean comedy, s"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "CSEnIlSDx50",
+   "ch": "Not An Aviary ",
+   "cid": "UCeCbgCHg7w0a2qbcCFJXNbw",
+   "date": "2026-08-07",
+   "title": "Jealousy at its peak ft. The cockatiel brothers🦜👀",
+   "views": 7447,
+   "desc": "TunTun was completely fine… until his brother started getting his scritches. 😭😂\n\n\n\n\n\n\n\n\n\n\n\n\n#shorts\n#notanaviary\n#parrot\n#petbirds\n#funnyanimals\n#birds\n#cockatiel"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "u7LFG6GZCrY",
+   "ch": "LaughVibe",
+   "cid": "UCJg2yY4lmnUN3BQbEf01IKw",
+   "date": "2025-12-03",
+   "title": "Parrot Gets Jealous When Lady Cop is on the Phone 😂🦜📞Hashtag",
+   "views": 8018,
+   "desc": "When a lady cop is chatting on the phone, this parrot can't help but get a little jealous! Watch as the sassy bird causes some hilarious chaos! 😆 #Parrot #Comedy #LaughVibe #FunnyParrot #LadyCop #PoliceStation #JealousParrot"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "CfN9xzum_aw",
+   "ch": "KIA Parrot 🦜🦜",
+   "cid": "UC79zp--XzJWESly7QXWW_kQ",
+   "date": "2026-04-15",
+   "title": "My Parrot is Jealous of a Tiny Sparrow! 🐦🦜 #shorts #youtubes",
+   "views": 4360,
+   "desc": "آج میں نے اپنے گرین پیرٹ (میٹھو) کو ایک چھوٹی سی چڑیا کا بچہ دکھایا، لیکن اسے دیکھ کر میٹھو کا دل چھوٹا ہو گیا! اسے شاید یہ لگا کہ اب گھر میں اس کی جگہ یہ چڑیا لے لے گی، اس لیے وہ زور زور سے بول کر اپنا احتجاج ریکارڈ کروانے لگا۔ پرندوں کا یہ معصومانہ حسد دیکھ کر بہت ہنسی آئی۔\nاگر آپ کو ویڈیو پسند آئ"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "Oah6aGG7EM4",
+   "ch": "The Bird Flock",
+   "cid": "UClkQVCGtGIvE4PButICbGZw",
+   "date": "2026-10-22",
+   "title": "My Parrot Gets JEALOUS When I&#39;m on the Phone! 😂📱🦜 #short",
+   "views": 4653,
+   "desc": "He said, \"HELLO! I'M HERE!\" 😂📱🦜\n\nI was trying to have ONE peaceful phone conversation, but somebody wasn't having it! 🤣\n\n\"Buddy, I'm on the phone!\"\n\n\"TALK TO ME!\" 💀😂\n\nForget privacy. This bird demands 100% of the attention, 100% of the time! 😭🦜\n\n👇 COMMENT: Does YOUR pet interrupt you when you're bus"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "F_6qBWYjI2g",
+   "ch": "WHy ?",
+   "cid": "UCef-c6t2jFENvaXJOdd3L_A",
+   "date": "2026-05-13",
+   "title": "Bird jealousy🤣 #fyp #viral #animals #bird #birds #funny #pet",
+   "views": 5625,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "QPb5VIs5mQQ",
+   "ch": "Mr POOPE",
+   "cid": "UC3004NuocbANSIJ4ZmqVc0Q",
+   "date": "2026-03-13",
+   "title": "Jealous Parrot Attacks During a Kiss 😂🦜",
+   "views": 4143,
+   "desc": "A couple shares a romantic moment—until their parrot suddenly flies in and causes total chaos.\n\n👉 What question would YOU ask this parrot?\n\n#funnyparrot #jealousparrot #amazonparrot #funnyanimals #animalshorts #parrotvideo #petbirds #funnyvideo #viralanimals #viralshorts #shorts"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "kEo_gVRO3P0",
+   "ch": "어느새",
+   "cid": "UC4WGmn5S7OZZjyRbg3pSiPw",
    "date": "2026-11-15",
-   "title": "Splash and Flip! Jet Ski Freestyle | Aquabike Takeoff, Flip ",
-   "views": 1230,
-   "desc": "Splash and flip! 🌊🔥 Watch this jet ski freestyle trick at full speed, then stay to the end for the slow-motion replay. You’ll see the aquabike leave the water, rotate in the air, and come back down through the spray.\n\nThe first pass gives you the whole move in one shot. The replay gives you time to "
+   "title": "다정한 남매 뒤에서 부러워 죽는 앵무새 👀 회색앵무 잠바 | Jealous Parrot Dying of En",
+   "views": 4211,
+   "desc": "@somebird.parrot 다정한 남매 뒤에서 부러워 죽는 앵무새 👀 회색앵무 잠바 | Jealous Parrot Dying of Envy Behind Siblings 👀 African Grey Jamba\n\n#africangreyparrots #parrotlover #parrotlife #앵무새키우기 #퀘이커앵무새  #회색앵무 #모란앵무 #shorts"
   },
   {
-   "q": "ski jumping slow motion takeoff",
-   "vid": "LocmDYgztXM",
-   "ch": "AndroCarSim",
-   "cid": "UCkQ-BtI4zUl670gsOdr9DYQ",
-   "date": "2026-04-20",
-   "title": "New Indian Car Simulator 3D - Driving Super Jeep in village ",
+   "q": "parrot jealous owner shorts",
+   "vid": "UEIXZQ_AUkQ",
+   "ch": "TALKING BIRDS",
+   "cid": "UCDZgjAzJ-2Gx4kvouhjUNQA",
+   "date": "2026-10-31",
+   "title": "My Parrot Is Jealous of a Flower! 😂🌸",
+   "views": 4944,
+   "desc": "TITLE 🦜\nMy Parrot Is Jealous of a Flower! 😂🌸\n\nDESCRIPTION\nA cute girl is watering her plants when her talking parrot demands attention! 😂🦜 Watch this funny conversation till the end!\n\nSEARCHING KEYWORDS (50+)\nfunny talking parrot, African Grey parrot, talking parrot video, funny parrot conversation,"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "X-lmmSn30d4",
+   "ch": "Talking Parrot World",
+   "cid": "UCGw-415rcLGMKkoRNonRIJA",
+   "date": "2025-11-27",
+   "title": "Girl Got a NEW Pet… Parrot Gets SUPER Jealous 😂🦜🔥",
+   "views": 2922,
+   "desc": "The girl jokingly tells the parrot about her new pet.\nParrot’s jealous reaction is hilarious!\n\n#shorts #funny #parrotjealous #viral"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "Pmcn2GUv9uc",
+   "ch": "Heart For Animals",
+   "cid": "UCLNtFysKVK1WZMiic0BX3vw",
+   "date": "2025-12-30",
+   "title": "Jealous cockateil coco #cockatiel #parrot #funny #cockapoo #",
+   "views": 2942,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "xCW03GP1GGU",
+   "ch": "Pawchaos_OooO",
+   "cid": "UC-eJWl7l9pwBybbPz-yTZ9w",
+   "date": "2025-11-26",
+   "title": "When the Mother Cat’s Kiss Makes the Parrot Jealous…🤭 The Ki",
+   "views": 4394,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "UXPgkko3VAE",
+   "ch": "Anju Prasher",
+   "cid": "UCSNk1yA9HP3LIdWnqVwl6Cg",
+   "date": "2026-07-14",
+   "title": "Jealous h#shorts #shortvideo #trendingshorts #ytshorts #parr",
+   "views": 2224,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "NPbv0OhlaA4",
+   "ch": "BMR Creations",
+   "cid": "UC66Z0IUcb8Y1B2AX9HREPTw",
+   "date": "2026-09-11",
+   "title": "Wife Gets Jealous! 😂❤️#shortsfeed #viral #shorts",
+   "views": 3088,
+   "desc": "Wife Gets Jealous! 😂❤️\n\nA husband and wife are walking on the road happily. 🚶‍♂️❤️🚶‍♀️ Suddenly, the husband looks at another lady passing by. 👀😅 The wife notices it immediately and gets angry! 😡😂 What happens next? Watch this funny comedy video till the end and enjoy the laughter!\n\n#shorts \n#shorts"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "HTsevNvlQZA",
+   "ch": "The Chatty Feather",
+   "cid": "UCOH0lMw4IF6W6y7eKDH_QBg",
+   "date": "2026-11-12",
+   "title": "He&#39;s so jealous of the parrot on my screen 😹",
+   "views": 2074,
+   "desc": "He saw another ringneck on my phone and started arguing with it 😂\nWho do you think won? Tell me in the comments 👇\n\nMeet more talking ringnecks on The Chatty Feather! Subscribe for new videos every week 🦜\n\n#shorts #parrot #ringneck #funnyparrot #parrotvsphone"
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "t-KbhwiSrYo",
+   "ch": "Pamthepigeon ",
+   "cid": "UC-VT0IJ4eisIWs8-BOD6Dgw",
+   "date": "2026-08-20",
+   "title": "When you are a little excessive in jealousy 🤣🥰 #shorts #pige",
+   "views": 2125,
+   "desc": ""
+  },
+  {
+   "q": "parrot jealous owner shorts",
+   "vid": "CvNUJudKjwE",
+   "ch": "Rare Football Moments ",
+   "cid": "UCiEfGIv0gRbEQfDvopSa5bQ",
+   "date": "2025-12-14",
+   "title": "Jealous Parrot Roasts Alexa in Front of Owner 😂🦜 #flirtyparr",
+   "views": 2381,
+   "desc": "This African Grey Parrot gets extremely jealous when the owner talks to Alexa.\nFrom sarcastic comments to flirty confidence, this bird proves he wants all the attention.\nFunny, relatable, and perfect for short-form comedy lovers 🦜😂\n#JealousParrot #ParrotVsAlexa #FunnyParrot #PetComedy #TalkingParrot"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "TfA27O8cxD0",
+   "ch": "kittycat_odoc",
+   "cid": "UCtD1tgCQY7vw4SnZDw3JsYw",
+   "date": "2026-01-01",
+   "title": "When Two Puppies Meet a Frog for the First Time It Gets Hila",
+   "views": 12366,
+   "desc": "Watch two adorable puppies meet a frog for the first time in this heartwarming Shorts video! See their cute and curious reactions that will brighten your day. Perfect for animal lovers and fans of funny pet moments. Enjoy the playful surprise and innocence captured in this delightful encounter. Don'"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "AfuzCxmXQws",
+   "ch": "Sassy Yorkie Fia",
+   "cid": "UCzkXuv8fJgdoGfnxW-EzPXg",
+   "date": "2026-06-25",
+   "title": "My Yorkie just saw a frog for the first time 😂🐸",
+   "views": 1340,
+   "desc": "Fia had never seen a frog before... and let's just say she did not handle it well. 😂🐸\n\nThe frog was just sitting there minding its own business while Fia had a complete emotional breakdown.\n\nHave your pets ever reacted to something this dramatically?\n\n#yorkie #dogshorts #funnydog #frog #pets"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "zmZWkzzM3ag",
+   "ch": "High five🖐",
+   "cid": "UCozsjnicyNxaCWQN1rgJsow",
+   "date": "2026-08-11",
+   "title": "🐶🐸 “Dog sees a frog and suddenly forgets how to dog! 😂💀”",
+   "views": 1289,
+   "desc": "🐶🐸 When a dog meets a frog for the first time! 😂\nOur little dog was just having a normal day… until a tiny frog appeared! 🐸👀 The reaction was absolutely priceless—confusion, surprise, and a whole lot of comedy! 🤣🐕 Watch till the end to see who wins this hilarious dog vs. frog encounter! 😂\n#FunnyDog "
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "H5HZOA3vkxs",
+   "ch": "pillow&pets",
+   "cid": "UCzcxKKBrjKphC6jBf1jhK8w",
+   "date": "2025-12-22",
+   "title": "When Two Puppies Meet a Frog for the First Time They Go Craz",
+   "views": 1649,
+   "desc": "Watch two adorable puppies meet a frog for the first time in this heartwarming Shorts video! Experience their cute and curious reactions that will brighten your day. Perfect for animal lovers and fans of funny pet moments. See their playful surprise and innocence in every second. Enjoy this delightf"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "XVJQRdVBAVQ",
+   "ch": "Williy's Animal World",
+   "cid": "UCeZiYJ3eDbVGOxIsrBTYmGw",
+   "date": "2025-12-25",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch Their ",
+   "views": 1684,
+   "desc": "Watch two fluffy puppies meet a frog for the first time and see their adorable reaction! This cute animal moment captures pure curiosity and innocence. Perfect for fans of puppies, frogs, and heartwarming pet videos. Enjoy their playful discovery and smile along with these lovable pets. Don't miss t"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "F8MkBeSfsIM",
+   "ch": "Cat Kingdom",
+   "cid": "UCOB499jMKtW-QRs9nPOB3eQ",
+   "date": "2025-12-16",
+   "title": "When Two Puppies Meet a Frog for the First Time Hilarious Re",
+   "views": 1522,
+   "desc": "Watch two fluffy puppies meet a frog for the first time with hilarious and adorable reactions! Their curious eyes and playful behavior make this a must-see animal moment. Perfect for fans of cute animals and puppy love. Enjoy a heartwarming clip that will brighten your day and bring a smile to your "
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "mfkY8WQXKnk",
+   "ch": "PK Diaries",
+   "cid": "UCkrjTJOp2D88FiULa9pacrQ",
+   "date": "2026-06-26",
+   "title": "First Time Seeing a Frog Poop! Asher’s Priceless Reaction 🐸🤣",
+   "views": 1187,
+   "desc": "One of those hilarious little moments we’ll never forget! 😂🐸\n\nIt was Asher’s very first time seeing one of our frogs poop, and his reaction was absolutely priceless! 🤣 He burst into laughter and couldn’t stop giggling. It’s funny how the simplest little moments can become the most memorable ones.\n\nW"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "d-FIt6eIZk0",
+   "ch": "Tualek 👑",
+   "cid": "UCYYr19-vuP_jpu-0puScvTA",
+   "date": "2026-09-04",
+   "title": "My Cat Sees a Frog for the First Time 🐸😂 #shorts",
+   "views": 1329,
+   "desc": "She was curious. I was terrified. 😭🐸\nDefinitely two very different reactions to the same frog.\n\n#Shorts #FunnyCat #CatShorts #CatReaction #CuriousCat #CatMom #Cats #frog"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "ShTvgOW8Apg",
+   "ch": "Asher Koh Jing Wei",
+   "cid": "UC_3K_6dvFxih_vS7XT_08pA",
+   "date": "2026-06-26",
+   "title": "First Time Seeing a Frog Poop! Asher’s Priceless Reaction 🐸🤣",
+   "views": 1081,
+   "desc": "One of those hilarious little moments we’ll never forget! 😂🐸\n\nIt was Asher’s very first time seeing one of our frogs poop, and his reaction was absolutely priceless! 🤣 He burst into laughter and couldn’t stop giggling. It’s funny how the simplest little moments can become the most memorable ones.\n\nW"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "cUqplx-ZNKg",
+   "ch": "samechill",
+   "cid": "UCUIwmnr8b_lhXXBDr-lktpA",
+   "date": "2025-12-14",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch Their ",
+   "views": 1413,
+   "desc": "Watch two fluffy puppies meet a frog for the first time and see their hilarious, adorable reaction! This cute animal moment captures pure curiosity and innocence. Perfect for puppy lovers and fans of funny pet encounters. Enjoy their playful interaction and heartwarming expressions. Don't miss this "
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "HdCNncVYu8I",
+   "ch": "LeleSong",
+   "cid": "UC0ZmglhktU4h--cygOUSZJQ",
+   "date": "2025-12-16",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch Their ",
+   "views": 1015,
+   "desc": "Watch two fluffy puppies meet a frog for the first time and see their hilarious, adorable reaction! This cute puppy and frog encounter is full of innocence and fun. Perfect for animal lovers and fans of funny pet moments. Enjoy their curious eyes and playful spirit in this heartwarming clip. Smile g"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "eJYHvsP8sz4",
+   "ch": "zoo",
+   "cid": "UC2ZPboXk1OK_PlCjtIP3A8Q",
+   "date": "2025-12-17",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch Their ",
+   "views": 1282,
+   "desc": "Watch two adorable puppies meet a frog for the first time and see their priceless reactions! This cute animal encounter is full of playful curiosity and heartwarming moments. Perfect for fans of puppies, frogs, and funny pet reactions. Enjoy the innocence and joy as these fluffy pups discover someth"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "NLZNoInQSq4",
+   "ch": "Cute Animal Universe",
+   "cid": "UCCoRFI7CXzoqT_CMJ5zucAA",
+   "date": "2025-12-07",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch Their ",
+   "views": 1450,
+   "desc": "Watch two fluffy puppies meet a frog for the first time in this hilarious and heartwarming moment. Their curious and adorable reactions make this a must-see for animal lovers and puppy fans. Experience pure cuteness and laughter in just seconds! See how these puppies explore and react to a new littl"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "bYMiOnmMge8",
+   "ch": "Ultra_gokus_Studios",
+   "cid": "UCIwIMWCNW2svUfbw7_8vlYg",
+   "date": "2025-12-08",
+   "title": "When Two Puppies Meet a Frog for the First Time Its Hilariou",
+   "views": 1331,
+   "desc": "Watch two fluffy puppies meet a frog for the first time in this hilarious and heartwarming moment! Their curious and adorable reactions make this a must-see for animal lovers and fans of funny pet encounters. Experience pure joy and innocence in just seconds. Smile guaranteed! Perfect for puppy love"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "7LxJBb5HDXA",
+   "ch": "Just Fun - Your Daily Dose of Laughter!",
+   "cid": "UCWNQA0XSSnsCnYwla0HQahA",
+   "date": "2025-12-05",
+   "title": "two cute puppies meets a frog for the first time funny react",
+   "views": 1211,
+   "desc": "Watch two cute puppies meet a frog for the first time in this funny and heartwarming Shorts video! See their playful barks and curious reactions that will brighten your day. Perfect for fans of adorable puppy moments and animal encounters. Enjoy a quick dose of cuteness and laughter! Don’t miss the "
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "O6Q2CfJ7Doo",
+   "ch": "NovaPaws Studio",
+   "cid": "UCZ94JHkzSuQh9SlUt84j5Xg",
+   "date": "2025-12-12",
+   "title": "two cute puppies meets a frog for the first time funny react",
+   "views": 1472,
+   "desc": "Watch two adorable puppies meet a frog for the first time in this funny and heartwarming Shorts video! See their curious barks and playful reactions that will brighten your day. Perfect for fans of cute puppy moments and animal encounters. Enjoy this unforgettable and charming interaction! Melt your"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "hjVor4WUnWM",
+   "ch": "eqvfba",
+   "cid": "UCHEOZvFMn3-V9_l5kJ984VQ",
+   "date": "2025-11-26",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch Their ",
+   "views": 1347,
+   "desc": "Watch two fluffy puppies meet a frog for the first time and see their adorable reaction! This heartwarming moment captures pure curiosity and cuteness in every glance. Perfect for animal lovers and fans of funny pet encounters. Enjoy the innocence and joy of these playful pups discovering something "
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "UEZbKwjkOOg",
+   "ch": "JuicyLemonSatisfying",
+   "cid": "UCthl3XRPnGNzXENAh9-XmJQ",
+   "date": "2025-12-08",
+   "title": "When Two Puppies Meet a Frog for the First Time Magic Happen",
+   "views": 1099,
+   "desc": "Watch the magical moment when two puppies meet a frog for the first time! This adorable encounter captures their curious and playful reactions perfectly. Experience heartwarming puppy and frog interactions that will brighten your day. See their innocence and surprise in this cute pet video! Enjoy th"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "pWSnHW3NM2Q",
+   "ch": "WildernessAnimals",
+   "cid": "UCeIRKvxL5PBygRaFoE7N0sQ",
+   "date": "2025-11-29",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch Their ",
+   "views": 1108,
+   "desc": "Watch the hilarious moment when two puppies meet a frog for the first time! Their funny and cute reactions will brighten your day. See how these curious pups interact with a surprising new friend in this adorable encounter. Perfect for animal lovers and fans of heartwarming pet videos. Enjoy the pla"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "ovRhdlw-QNM",
+   "ch": "TuneUpNow",
+   "cid": "UCFPUpfSTH-jH0x25OfUL6Gw",
+   "date": "2025-12-03",
+   "title": "When Two Puppies Meet a Frog for the First Time Its Adorable",
+   "views": 1112,
+   "desc": "Watch the adorable chaos when two fluffy puppies meet a frog for the first time! This cute encounter captures their curious and playful reactions perfectly. Experience heartwarming moments filled with innocence and fun. See how these puppies react to a frog in this unforgettable short clip. Enjoy th"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "Nu4v1nivmNY",
+   "ch": "Kitty Mini Theater",
+   "cid": "UCIIatKLDYmxLM3YSrQGfANg",
+   "date": "2025-12-16",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch the Ad",
+   "views": 1263,
+   "desc": "Watch two fluffy puppies meet a frog for the first time in this adorable reaction video! See their curious eyes and playful innocence as they explore this new friend. Perfect for animal lovers and fans of cute puppy moments. Enjoy a heartwarming encounter that will brighten your day. Don't miss the "
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "ziJwl7oqrvQ",
+   "ch": "Animal Friendships",
+   "cid": "UCKwFJr1_D814TItqh1RDE_A",
+   "date": "2025-12-04",
+   "title": "These Puppies Found a Frog… and What Happened Is Adorable🐶🐸💛",
+   "views": 1073,
+   "desc": "Two tiny puppies discovered a frog for the very first time —\nand their reaction is one of the cutest things you’ll see today. 🐶🐸💛\n\nThey sniff, tilt their heads, jump back, and slowly build the courage to say hello.\nThe frog? Calm. Patient. Almost amused.\n\nIf this made you smile, share it — someone e"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "U9xWR1nhfck",
+   "ch": "kittycat_odoc",
+   "cid": "UCtD1tgCQY7vw4SnZDw3JsYw",
+   "date": "2025-12-30",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch the Cu",
+   "views": 725,
+   "desc": "Watch two adorable puppies meet a frog for the first time in this heartwarming Shorts video! See their cute and curious reactions that will brighten your day. Perfect for animal lovers and fans of funny pet moments. Enjoy the playful surprise and innocence captured in this delightful encounter. Don'"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "76d_qvcqAlo",
+   "ch": "ryu",
+   "cid": "UCUCigJPtB1HVtjeJvIWQKjw",
+   "date": "2025-12-17",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch Their ",
+   "views": 675,
+   "desc": "Watch two fluffy puppies meet a frog for the first time in this adorable reaction video! Their curious and playful behavior makes this a must-see moment for animal lovers. Experience pure cuteness and heartwarming innocence in just seconds. Perfect for fans of puppies, frogs, and cute animal encount"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "ucQG2E7Rn_w",
+   "ch": "The Daily Pet Show USA \n\n",
+   "cid": "UCjeRF0bKKJXcivtmEfvY61A",
+   "date": "2026-11-04",
+   "title": "When a Cat Meets a Frog for the First Time... You Won’t Beli",
+   "views": 196,
+   "desc": "When a Cat Meets a Frog for the First Time... You Won’t Believe Its Reaction! 😂\n\nYou won't be able to stop laughing at this hilarious cat reaction! 😹 Watch how this brave cat instantly freezes like a statue just by seeing a tiny little frog. You have to see it to believe it!\n​Let us know in the comm"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "4q8fCIdJWeo",
+   "ch": "Prince Milo Dog",
+   "cid": "UCfGayMIAYaYlT-vgcuq6VAw",
+   "date": "2026-11-06",
+   "title": "My French Bulldog Saw A Toy Frog For The First Time... His R",
+   "views": 75,
+   "desc": "My white French Bulldog Milo met a toy frog for the first time on my wooden floor! 🐸🐶\n\nAt first he was so brave, slowly walking towards it like a lion! Then he touched it with his paw... and JUMPED SO HIGH! 💥😂\n\nHe rolled over, did a backflip, and started barking with the biggest smile! He was so sca"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "GLp9Ec1hCWI",
+   "ch": "Cat Kingdom",
+   "cid": "UCOB499jMKtW-QRs9nPOB3eQ",
+   "date": "2025-12-03",
+   "title": "When Two Puppies Meet a Frog for the First Time Funny Reacti",
+   "views": 136,
+   "desc": "Watch two fluffy puppies meet a frog for the first time in this hilarious and heartwarming reaction! Their curious eyes and playful antics make this a must-see moment for pet lovers and animal fans. Enjoy pure cuteness and funny animal interactions that will brighten your day. Perfect for anyone who"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "DMDpZuhUELs",
+   "ch": "black brown cat",
+   "cid": "UCoEJbwvQ1y6pETWhdFqzzjQ",
+   "date": "2026-09-17",
+   "title": "Puppy Meets a Frog for the First Time! 🐸🐶 | Hilarious Reacti",
+   "views": 23,
+   "desc": "Welcome to my channel! ❤️\n​In this video, our cute little puppy meets a frog for the very first time! Watch until the end to see his super adorable and hilarious reaction to this tiny new friend. 🐸🐶 If you enjoyed this video, don't forget to Like, Share, and Subscribe for more cute pet moments! ✨#Cu"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "i0s_8Y-M0zY",
+   "ch": "Happy Animal World_JoJo123",
+   "cid": "UC7KgqoKkgfzOVlNPIyxBulg",
+   "date": "2026-01-20",
+   "title": "When Two Puppies Meet a Frog for the First Time Hilarious Re",
+   "views": 14,
+   "desc": "Watch two fluffy puppies meet a frog for the first time in this hilarious and heartwarming moment! Their curious and adorable reactions make this a must-see for animal lovers and puppy fans. Enjoy pure cuteness and innocence captured in seconds. Smile guaranteed! See how these puppies explore new fr"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "tDd_aUU_YL8",
+   "ch": "kittycat_odoc",
+   "cid": "UCtD1tgCQY7vw4SnZDw3JsYw",
+   "date": "2025-12-26",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch Their ",
+   "views": 7,
+   "desc": "Watch two adorable puppies meet a frog for the first time in this heartwarming Shorts video! See their cute and curious reactions that will brighten your day. Perfect for animal lovers and fans of funny pet moments. Enjoy the playful surprise and innocence captured in this delightful encounter. Don'"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "bCHXFu6pzLI",
+   "ch": "The Planet of Paws",
+   "cid": "UCFzhVF4XoZ3w17nGKQ0Rsgw",
+   "date": "2026-08-17",
+   "title": "Kitten&#39;s First Time Seeing a Frog! 🐸😂",
+   "views": 4,
+   "desc": "A curious kitten discovers a tiny frog hiding among the roses. 🐱🌹🐸\n\nEverything seems peaceful... until the kitten gives the frog one tiny boop.\n\nThe frog's reaction? Absolutely ridiculous. 😂\n\n🐸💨 One second it's a tiny frog...\n🎈 The next second it's puffed up like a balloon!\n\nAnd then it casually goe"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "HSvgaHK2P10",
+   "ch": "Williy's Animal Channel",
+   "cid": "UC8mpqOwkgWZuDfDgKDGEnVA",
+   "date": "2025-12-28",
+   "title": "When Two Puppies Meet a Frog for the First Time Crazy Reacti",
+   "views": 4,
+   "desc": "Watch two adorable puppies meet a frog for the first time and see their hilarious, curious reactions! This cute animal moment captures pure innocence and joy. Perfect for puppy lovers and fans of funny pet encounters. Enjoy the warmth and smiles this short video brings! Don't miss their playful curi"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "qtacZ_A9Pr0",
+   "ch": "爆笑流放映室",
+   "cid": "UCsMV9unEVtlLo_MRW3pJLEg",
+   "date": "2025-12-21",
+   "title": "two cute puppies meets a frog for the first time hilarious r",
+   "views": 3,
+   "desc": "Watch two cute puppies meet a frog for the first time in this hilarious and heartwarming moment! Their playful barks and curious expressions make this encounter unforgettable. Perfect for fans of funny puppy videos and adorable animal shorts. Enjoy the laughter and cuteness in just seconds!\nSee how "
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "ucPA8-cQAfs",
+   "ch": "Cutefamily",
+   "cid": "UC8dvJ11GaAcAOg2g2XMXqew",
+   "date": "2025-12-19",
+   "title": "When Two Puppies Meet a Frog for the First Time Watch Their ",
+   "views": 6,
+   "desc": "Watch two fluffy puppies meet a frog for the first time and see their adorable reaction! This cute animal moment captures pure curiosity and innocence. Perfect for fans of puppies, frogs, and heartwarming pet encounters. Enjoy a smile-worthy clip filled with puppy love and unexpected friendship. Don"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "hitUdWkkXYw",
+   "ch": "Tales of Tails",
+   "cid": "UCZyOu3Cfm7OYfWiDRkmCZ8w",
+   "date": "2026-01-10",
+   "title": "When Two Puppies Meet a Frog for the First Time Hilarious Re",
+   "views": 1,
+   "desc": "Watch two adorable puppies meet a frog for the first time in this hilarious and heartwarming moment! Their curious and playful reactions make this a must-see for animal lovers and fans of cute pet encounters. Enjoy the genuine surprise and joy as these fluffy pups discover a new friend. Perfect for "
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "lbJA9Uj2RSw",
+   "ch": "ChaoticCat",
+   "cid": "UCmLQApeShQpzGsGiky-tQAQ",
+   "date": "2026-01-04",
+   "title": "When Two Puppies Meet a Frog for the First Time Hilarious Re",
+   "views": 0,
+   "desc": "Watch two fluffy puppies meet a frog for the first time in this hilarious and heartwarming moment! Their curious and adorable reactions make this a must-see for animal lovers and puppy fans. Experience pure cuteness and innocence in just seconds. Smile guaranteed! Enjoy the funniest puppy vs frog en"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "xFjKoTuAO2w",
+   "ch": "Kitty Mini Theater",
+   "cid": "UCIIatKLDYmxLM3YSrQGfANg",
+   "date": "2026-01-07",
+   "title": "When Two Puppies Meet a Frog for the First Time Hilarious Re",
+   "views": 0,
+   "desc": "Watch two fluffy puppies meet a frog for the first time in this adorable reaction video! See their curious eyes and playful innocence as they explore this new friend. Perfect for animal lovers and fans of cute puppy moments. Enjoy a heartwarming encounter that will brighten your day. Don't miss the "
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "lq6uSvqErGU",
+   "ch": "Peaceful Paw Paradise",
+   "cid": "UCHoAv_sGH9JgDnixhbcukmw",
+   "date": "2026-01-03",
+   "title": "Puppies vs. Frog: The Cutest Reaction You&#39;ll See Today! ",
+   "views": 0,
+   "desc": "Watch what happens when these two adorable fluffy puppies encounter a frog for the very first time! Curiosity turns into a hilarious surprise when the little visitor decides to make a move. The cream puppy's reaction is absolutely priceless! 😍\n\nIf this made you smile, don't forget to LIKE and SUBSCR"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "hXTcbgTQkYc",
+   "ch": "Just Fun - Your Daily Dose of Laughter!",
+   "cid": "UCWNQA0XSSnsCnYwla0HQahA",
+   "date": "2025-12-19",
+   "title": "two cute puppies meets a frog for the first time and their f",
+   "views": 0,
+   "desc": "Watch two cute puppies meet a frog for the first time in this hilarious and heartwarming Shorts video! See their funny reactions, playful barks, and curious expressions that will brighten your day. Perfect for fans of adorable puppy and animal videos. Enjoy this unforgettable moment of puppy curiosi"
+  },
+  {
+   "q": "puppy first time sees frog reaction",
+   "vid": "sd95qJJduv8",
+   "ch": "CodeClawsCATAI",
+   "cid": "UCngfLrBXZyrjjTTkcb9uT5g",
+   "date": "2026-01-24",
+   "title": "When Two Puppies Meet a Frog for the First Time Hilarious Re",
+   "views": 0,
+   "desc": "Watch two fluffy puppies meet a frog for the first time in this hilarious and heartwarming moment! Their curious and adorable reactions will brighten your day. Perfect for fans of cute animals and funny pet encounters. Enjoy pure puppy innocence and unexpected frog fun! See their playful curiosity u"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "jxaNMfmzl50",
+   "ch": "JUSTDOGS",
+   "cid": "UCoFePc92G0XHStbfjnc7nYg",
+   "date": "2026-08-12",
+   "title": "Golden Retriever Reaction When Owner Stops Cuddling 😂 | Cute",
+   "views": 230898,
+   "desc": "POV: You moved during cuddle session.\nYour dog is now personally offended. 🐾😒\n\n#relatable #goldenretriever #doglife #fyp #justdogs"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "NZFWgLK5F6c",
+   "ch": "MidfailReaction ",
+   "cid": "UCNKSTz7Y7-8EeGxM541e2jA",
+   "date": "2026-01-24",
+   "title": "சிரிச்சு Enjoy பண்ணுங்க | Reaction video.#shorts",
+   "views": 229046,
+   "desc": "Thanks for visiting my channel -LIKE SHARE SUBSCRIBE\n\nInstagram -https://www.instagram.com/midfail.yt/\n\nDisclaimer:\nThis video is created for entertainment and educational purposes only. All content in this video falls under Fair Use as described in Section 107 of the Copyright Act 1976. This includ"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "pNzOCP9r5Ec",
+   "ch": "오늘의 털뭉치",
+   "cid": "UCfMNny--gglnXUIHZSIFdFw",
+   "date": "2026-11-01",
+   "title": "수의사한테 살쪘다는 말 듣고 제대로 삐진 골든리트리버ㅋㅋ #shorts",
+   "views": 64526,
+   "desc": "병원에서 '살짝 통통하네요' 한마디 듣고 온 골든 매버릭ㅋㅋ 집에 오자마자 구석에서 벽만 보고 시위합니다. 아빠가 달래 주자 결국 슬쩍 돌아보는데...\n\n미국 반려동물비만예방협회(APOP) 2022년 조사에선 진료받은 개의 59%가 과체중·비만이었대요.\n\n여러분 댕댕이도 삐지면 구석 가나요?\n\n영상: TikTok @imbluethesiberiann (The Moriarty Family)\n참고: PetHelpful, Yahoo, APOP\n영상 속 반려용품은 프로필 링크에서 확인하세요.\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "T9Z-7rV7yGc",
+   "ch": "Maryse-Caroline Diallo",
+   "cid": "UCmDEoixQjLmvSAW26ullD4A",
+   "date": "2026-01-24",
+   "title": "🎂👀 “Why Is My Birthday Cake Staring Back At Me?” 🐶😨#dog  #pe",
+   "views": 35514,
+   "desc": "A dog freezes mid-stare when it realizes the birthday cake looks exactly like him. Confused, offended… and a little proud 😂🐕\nThis reaction is priceless."
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "R4cLFBoQKuI",
+   "ch": "AMomWithDogs",
+   "cid": "UCWi4b3ZRpBFw1Qq0jvntQNg",
+   "date": "2026-08-12",
+   "title": "POV: You Sneeze in Front of an Overdramatic Golden Retriever",
+   "views": 11680,
+   "desc": "Apparently sneezing is NOT allowed around my overdramatic Golden Retriever. 😂\n\nThe second I sneezed, Fitz went straight into full Golden Retriever tantrum mode — barking, protesting and acting personally offended that I would dare make such a noise in his presence.\n\nThen it was Brady's turn… and my "
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "nP9K0edmDIM",
+   "ch": "Golden Retriever Buddy",
+   "cid": "UCD_YSVXUySzh-kYF6DpVcTg",
+   "date": "2026-09-30",
+   "title": "Tiny Kitten Finds a Golden Retriever in His Bed… His Reactio",
+   "views": 12861,
+   "desc": "A tiny kitten comes back to his bed… only to discover that a BIG Golden Retriever has completely taken over! 😂🐱🐶\n\nThe kitten’s reaction is absolutely priceless — confused, offended, and totally determined to get his cozy bed back! But this fluffy Golden Retriever seems very comfortable and has NO pl"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "K6mcYiXDig8",
+   "ch": "Mochi_video ",
+   "cid": "UCZVyxqsOsAryp834gm55CeA",
+   "date": "2025-12-11",
+   "title": "He Is So Offended 😒 #funny #animals #puppy #dog",
+   "views": 7982,
+   "desc": "Get ready for a symphony of the strangest and most hilarious sounds the animal kingdom has to offer! This video is a tribute to the weird and wonderful noises our canine companions make. From dramatic howls and sleepy snores that wake them up in a panic, to indignant grumbles and sneezes that make t"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "RZGMu34zwqc",
+   "ch": "AMomWithDogs",
+   "cid": "UCWi4b3ZRpBFw1Qq0jvntQNg",
+   "date": "2026-05-28",
+   "title": "My Overdramatic Golden Retriever vs Egg Challenge",
+   "views": 2222,
+   "desc": "I thought Golden Retrievers were supposed to LOVE eggs… apparently nobody told Fitz 😂\n\nMy overdramatic Golden Retriever completely refuses to go near the egg, look at it, or even acknowledge its existence. Instead, Fitz throws one of his classic dramatic tantrums while bouncing around it like it per"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "M9oUZCWzwuc",
+   "ch": "Pawlaughter TV",
+   "cid": "UCzGOc0WgeLluX7epmf3GsXA",
+   "date": "2025-11-26",
+   "title": "Golden Retriever LOSES IT When Mom Steals His Bed 😂🐶",
+   "views": 3619,
+   "desc": "When a Golden Retriever catches his human stealing HIS bed… the drama begins.\nWatch Gus go from confused… to offended… to FULL takeover mode.\nIf you’re a dog parent, this will feel way too real. 😂\n\nFunny Golden Retriever moments • dog mom life • dog bed swap • pet comedy • dog personality • cute dog"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "7ayGe7SF8cE",
+   "ch": "Paws of Zeus",
+   "cid": "UCj3txYqHT2c06O6E_Zd_pAA",
+   "date": "2026-11-07",
+   "title": "I Offended My Golden Retriever… So I Had to Apologize 😂 #gol",
+   "views": 3484,
+   "desc": "I made one tiny mistake… I moved my Golden Retriever's head off my laptop. 😂\n\nHe got offended, demanded an apology, accepted some belly rubs… and then put his head right back where it belonged. Apparently, this is HIS laptop now! 🐶💻\n\nLife with a Golden Retriever is never boring!\n\nKeywords: Golden Re"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "QS-YnJivbtk",
+   "ch": "Rankstar",
+   "cid": "UCm0ICBeu78q4e9iTSAzUsBQ",
+   "date": "2026-02-26",
+   "title": "THESE DOGS WERE OFFENDED 😭🐶 #shorts",
+   "views": 4127,
+   "desc": "Dogs take it personally every time 😭🐶\n\nWhich reaction was the funniest? 👇\n\nHere you’ll find edited ranking videos with added captions, sound effects, and music to make every clip more entertaining to watch.\n\nAppreciate you being here ❤️\nSubscribe for more daily rankings!\n\n#shorts\n#funnydogs\n#dogreac"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "weoyzU6jBsg",
+   "ch": "Pawsome Fails",
+   "cid": "UC8CIxJAHGu3BLczN0SjD9-w",
+   "date": "2026-07-29",
+   "title": "She Felt INSULTED 😂🐶 | Funniest Dog Reaction Ever! ⭐",
+   "views": 2905,
+   "desc": "Ever seen a dog get completely offended? 😂 This hilarious pup's reaction is pure comedy and is guaranteed to make you laugh! From dramatic facial expressions to priceless body language, this funny dog proves that our furry friends have the biggest personalities.\nIf you love funny dog videos, cute pu"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "Orwxmqz4iUM",
+   "ch": "AMomWithDogs",
+   "cid": "UCWi4b3ZRpBFw1Qq0jvntQNg",
+   "date": "2026-02-04",
+   "title": "This was NOT a normal dog reaction! #dog #dogs #goldenretrie",
+   "views": 1340,
+   "desc": "Every month, my dogs wait by the door for their BarkBox like it’s a holiday. 🐾📦\n\nThis time… I changed ONE thing.\n\nNo treats — just extra toys.\n\nMy lab was thrilled.\nMy 2-year-old golden retriever?\nGenuinely offended.\n\nHe waited patiently… nudged the bag… stared at me…\nand when he finally realized th"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "zojObdrFC_E",
+   "ch": "suger",
+   "cid": "UCTVCAi4SAz44ClLR78OTrmg",
+   "date": "2025-12-16",
+   "title": "“Cat Throws 5 Slaps at Golden Retriever… Dog’s Reaction Is P",
+   "views": 2865,
+   "desc": "A cat casually sits right in front of a golden retriever and starts throwing 5–6 tiny slaps to the dog’s face.\nThe retriever looks confused, slightly offended… then gently pushes the cat away with a paw.\nThe cat stares back like, “I’m not done yet.” 😾\nPure comedy, zero aggression — just funny animal"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "kserKKDcHMk",
+   "ch": "Tyson Golden Tales",
+   "cid": "UC8luRuOsqnMc0fU8PhEK_jQ",
+   "date": "2026-08-13",
+   "title": "POV: Your dog is offended you’re not talking to him…👀🐶 i🐾✨ #",
+   "views": 1859,
+   "desc": "Aap mujhse baat kyun nahi karte? Aakhir kya kami hai AAP mein?😂🐶\n\nTyson has officially had enough of being ignored! That look says “Excuse me… I deserve attention!” 😂❤️\n\nIf your dog gives you this look too, you KNOW the feeling! 🐾\n\n💬 What do you think Tyson is thinking?\n👇 Tell me in the comments!\n\n\n"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "EWJzG6LeREs",
+   "ch": "RankzenTV",
+   "cid": "UCXHznC0sCt3KUO9wfMs5UXg",
+   "date": "2026-05-27",
+   "title": "Top 5 Dogs Getting Barked At for No Reason 😂🐶 (The Last One ",
+   "views": 1504,
+   "desc": "These are the top 5 funniest dogs getting barked at for no reason by their owners 😂🐶\n\nThe last dog looks completely offended 😭\n\nComment down below which dog was the funniest 👇\n\nLike and subscribe for more funny dog videos 😂\n\n#shorts #dogs #funnydogs #dogreaction"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "mT5_iArTFW4",
+   "ch": "Charlie Creates Mabel & Co",
+   "cid": "UC6uak4lOEZ52ArrkP9TWQrQ",
+   "date": "2026-05-13",
+   "title": "One toy… two VERY different reactions 😂🐶",
+   "views": 1601,
+   "desc": "Same toy. Same noise. Completely different reactions 😭\nMabel thought it was the best thing ever… Coco looked personally offended 😂"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "S0My2MHv1sw",
+   "ch": "WagLifeDaily",
+   "cid": "UCPIwzzgvruj4vnmSpd_-DrQ",
+   "date": "2026-02-24",
+   "title": "Golden Retriever Puppy Tries His First Treat (Unexpected Rea",
+   "views": 526,
+   "desc": "Ozzy just had his first treat ever… and his reaction was not what I expected 😂\nHe starts by playing with it, then suddenly acts like it offended him, and the mood swings are hilarious.\n\nIf you love funny, wholesome Golden Retriever puppy moments — welcome 🐾"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "XaUySBw30ps",
+   "ch": "Pomeranian Paradise",
+   "cid": "UCYvekynfGBu4Vl6NEdpNpuw",
+   "date": "2026-01-26",
+   "title": "When you realize the tail has a mind of its own 😳 #shorts #p",
+   "views": 1934,
+   "desc": "This puppy was just minding its business… until the tail started moving 👀\nConfused. Shocked. Slightly offended.\nPuppy logic: if it moves, it must be investigated 🐕💭\nWait for the reaction at the end 😂\n\n\n#shorts #youtubeshorts #puppy #puppies #cute #viral #cutepomeranian #cutedog #cuteanimal #pets #fu"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "yLsUdN4rIq0",
+   "ch": "chilldogph",
+   "cid": "UCd4bSoZV9TLFepAnEKyNUPA",
+   "date": "2026-01-03",
+   "title": "Charlie Is OFFENDED! - He is MAD online 😤🐾😂",
+   "views": 1432,
+   "desc": "🐶 Charlie just found out he’s NOT one of the most searched dog breeds… and he took it personally 😤🐾\n\nCharlie is an Australian Shepherd—smart, loyal, athletic, and full of attitude. But when the internet keeps searching for Cane Corso, Golden Retrievers, French Bulldogs, Charlie isn’t impressed. This"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "pQKhoykkpu4",
+   "ch": "Paws of Wonder",
+   "cid": "UCR4yVw0mR-HnhFGYWovuZeg",
+   "date": "2025-11-27",
+   "title": "The Dog Who Hates His Portrait… Look at His Face! 🐶😂 #funnyd",
+   "views": 942,
+   "desc": "Have you ever seen a dog react to his “artwork” like this? 🐾\nDo you think he’s offended or just dramatic?\nComment below if your pet has ever judged your drawings!\nDon’t forget to subscribe for more hilarious and heartwarming pet shorts. ❤️\n\n\n\n#dogreaction #funnydog #petshorts #doglovers #cutedog #ba"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "kgeUnyKEjnc",
+   "ch": "Golden Buddy ",
+   "cid": "UCGIntJ1g4RzgOAmJBh-vONQ",
+   "date": "2026-09-23",
+   "title": "Mere Bina Bazaar Chale Gaye😂🐶Golden Retriever Funny Reaction",
+   "views": 1190,
+   "desc": "Mere bina bazaar chale gaye! 😭😂🐶\n\nBuddy ko bilkul pasand nahi aaya ki ghar wale uske bina bahar chale gaye. 🐾😂\nGolden Retriever ka ye cute sa reaction is too relatable!\n\nIf you love funny dogs, Golden Retrievers, cute pet reactions and relatable dog videos, this Short is for you. ❤️🐶\n\nWho else gets "
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "KrFdPoZ8WBc",
+   "ch": "ChewieDeMonkey",
+   "cid": "UC9zDXceHuWTkaczkoZhkuBw",
+   "date": "2026-04-05",
+   "title": "Ranking Funniest Dogs vs Farts 💀💨 #shorts",
+   "views": 566,
+   "desc": "The dog at #1 literally saw the afterlife! 💀💨 Wait for the 'Chemical Attack' at #3... I’ve never seen a Golden Retriever look so offended. 🤢🐕\n\nWe are ranking the most 'Broken' Dog vs. Fart reactions of the week! From tactical retreats to full existential crises, these dogs have absolutely 0% chill w"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "nAxo5tE3F9U",
+   "ch": "Whisky The Golden Retriever ",
+   "cid": "UC1h2CxvMykguzwgkwj8JCoQ",
+   "date": "2026-07-22",
+   "title": "My Golden Retriever’s Angry Mood 😤🐶 | Don’t Say “Phiss”!",
+   "views": 641,
+   "desc": "Meet Whisky in his grumpy mood! 😤🐶\nThe moment I said “Phiss”, he gave me the ultimate angry look. Who knew one word could offend a Golden Retriever? 😂❤️\n\nWould your dog react like this too? Let me know in the comments!\n\n🐾 Like • Share • Subscribe for more funny Whisky moments!\n\n\n#viral #viralshorts "
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "8_mnfWPh7M0",
+   "ch": "ClipRiot",
+   "cid": "UC2q5IZdhNhMmQrBbshkwD5Q",
+   "date": "2026-11-22",
+   "title": "Ranking Funniest Dog Reactions 😂 #Shorts",
+   "views": 1192,
+   "desc": "Five golden retriever reactions: favourite words, an offended look, toy chaos, a familiar song and one very surprised puppy. Our picks ranked for entertainment. Which reaction is your dog?\n\nClip credits / original sources:\n@goldenbearollie — https://www.tiktok.com/@goldenbearollie/video/728105799320"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "QrRZKW9BVpE",
+   "ch": "Coco's Days",
+   "cid": "UCi3YVOIoOWN485RPlJzxOHQ",
+   "date": "2026-08-25",
+   "title": "My Dog Farted and the Parrot&#39;s Reaction is HILARIOUS! 🦜💨",
    "views": 153,
-   "desc": "Jump into an adrenaline-packed session of New Indian Car Simulator 3D as I take the Super Jeep for a full-throttle tour of a lively village — and attempt insane ski-jump stunts along the way. In this video you'll see aggressive off-road driving, turbo-powered launches, and precise landings as I test"
+   "desc": "Oliver thought he could get away with a silent one, but Coco will absolutely call you out! 🤢😂\nHave you ever seen a bird so offended? 🦜🐶 \n\n#CocosDays #FunnyParrot #DogVsParrot #PetComedy #GoldenRetriever"
   },
   {
-   "q": "ski jump inrun snow fall",
-   "vid": "4edRxeCc92U",
-   "ch": "Jakub_Fuller6",
-   "cid": "UCU6QA_U7vkqXJD8eIwk_IPA",
-   "date": "2020-09-21",
-   "title": "Gopro Ski Jumping - Norge k70 New Inrun",
-   "views": 2291,
-   "desc": "Oh Yeahhhhh, new inrun"
+   "q": "golden retriever offended reaction",
+   "vid": "8Jtiq7N3aIw",
+   "ch": "Haha Short Videos",
+   "cid": "UCbQfdcbvKCctF1Hh3CRMnZg",
+   "date": "2026-08-20",
+   "title": "This Dog Deserves an Oscar for That Reaction 🏆😂 #goldenretri",
+   "views": 210,
+   "desc": "Wait for the dog's reaction! 😂 When this cute baby lets out a loud fart, their Golden Retriever best friend is absolutely NOT having it. The way the dog covers its nose and gets offended is hilarious, but the baby's adorable laugh at the end makes it all worth it!\n\nIf this made you laugh, don't forg"
   },
   {
-   "q": "ski jump inrun snow fall",
-   "vid": "Dhgg-6CQisU",
-   "ch": "Golf Handicapp: Track, Play, Improve",
-   "cid": "UC4gFaS63bjtHNPDr_nXvitw",
-   "date": "2026-09-15",
-   "title": "The Inrun: a 162 Yard Par 3 Played From the Top of a Ski Jum",
-   "views": 533,
-   "desc": "The 16th is a 162 yard par 3 played from the top of a ski jump. The tee sits on the start gate platform at the very top of the inrun tower, and the shot goes straight down the line of the jump to a green on the flat outrun, ringed by the empty spectator terraces. The first snow of the year is settli"
+   "q": "golden retriever offended reaction",
+   "vid": "jETuh0YcCOs",
+   "ch": "RealitySpark",
+   "cid": "UCNwIJTUj028dnriqD0r6JrA",
+   "date": "2026-01-12",
+   "title": "Dog Brings Shoe for Praise… Gets a Lemon 😳🐶",
+   "views": 119,
+   "desc": "He proudly brought the shoe for praise…\nThen the lemon appeared 😳🍋\nThe reaction? Pure offended dog energy.\n\nSingle take. Raw audio. No harm—just a surprising smell.\n\n⸻\n\n🔖 Hashtags (in Description)\n\n#SavageParrot #DogPrank #FunnyDogs #ViralShorts #PetReactions\n\n⸻\n\n🔑 High-Viral Keywords (Comma-Separat"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "pSPVUp6veBA",
+   "ch": "Whoa-Why",
+   "cid": "UC02mDctLhdZy_6CuE6Xe6rQ",
+   "date": "2026-04-27",
+   "title": "They Never Saw Coming! Top 4 Fart Ranked #dogs #pugs #corgi ",
+   "views": 114,
+   "desc": "Trust broken. Nose violated. Loyalty questioned. 😂💨 I ranked the Top 4 most hilarious, dramatic, and utterly offended reactions from dogs who experienced the ultimate betrayal... an unexpected toot from their favorite human. From confused stares to fleeing the scene, these pups made their disgust VE"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "z2wsyxuk0dM",
+   "ch": "GoldenPaws Daily ",
+   "cid": "UCDVn04Mc2bSWDFWfILZGXZA",
+   "date": "2026-02-03",
+   "title": "Dog Farts, Cat Attacks 💨😾 (Instant Regret) #shorts",
+   "views": 40,
+   "desc": "Wait for the sound... 🔊\nIt was a peaceful cuddle session until the Golden Retriever made a silent but deadly mistake. The cat's reaction is absolutely PRICELESS! 😂\nOffended cat vs. Confused dog... who wins?Moments:0:00 - The Cuddle ❤️0:04 - The \"Toot\" 💨0:07 - The Attack 😼Subscribe for more pet chaos"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "VQHXtl_oANE",
+   "ch": "Cooper & Nacho",
+   "cid": "UCbdSCtg39upyLk0fEvYn90A",
+   "date": "2026-10-27",
+   "title": "Owner Calls Golden Retriever a HOTDOG 🌭🐶 His Reaction Is Hil",
+   "views": 29,
+   "desc": "Every time his owner says “hotdog,” Cooper barks back like he's arguing! The head tilts, the offended stare, and those hilarious little protests are just too cute! ❤️\n\nWho knew calling a Golden Retriever a hotdog could start such a heated argument? 😂\n\n👉 Does your dog talk back when you tease them? T"
+  },
+  {
+   "q": "golden retriever offended reaction",
+   "vid": "khHDDmTO6Cc",
+   "ch": "Aaronbryle Funny Tv",
+   "cid": "UCVyX7WjALSYcXyGvahTHw-w",
+   "date": "2026-10-21",
+   "title": "Dog’s Hilarious Reaction to Being Pranked",
+   "views": 2,
+   "desc": "Think your dog can't show emotion? Watch this golden retriever deliver the ultimate side-eye after being pulled into a mid-air prank.\n\nIn this funny backyard clip, a pup takes a leap of faith through a plastic ring—only to have it snatched away at the last second. The dog's reaction when landing is "
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "D7MVYvMkg0M",
+   "ch": "Dog Lover Hub",
+   "cid": "UC5jyvniWPuDVYAIACe9vfyw",
+   "date": "2026-04-27",
+   "title": "This is the face of betrayal 😂#dog#funny #funnypets  #funnys",
+   "views": 520900,
+   "desc": "This is the face of betrayal 😂#dog#funny #funnypets  #funnyshorts#viralshort #shortsfeed"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "pPrxd3BM0U0",
+   "ch": "Steven Hille",
+   "cid": "UCKYVp3naDqd-DbjUZZs3Cyw",
+   "date": "2026-01-24",
+   "title": "This is the face of betrayal 😂#dog #dogsoftiktok #funny #fun",
+   "views": 34443,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "t1lEgDiqtZU",
+   "ch": "Truong Getepo",
+   "cid": "UCwsprxkSOIrTevoN7KxUVXw",
+   "date": "2026-03-12",
+   "title": "This is the face of betrayal 😂#dog #dogs #funny #funnypets #",
+   "views": 28277,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "5eZI3CeH0Yw",
+   "ch": "Pop Flick Shorts",
+   "cid": "UCsN6SMnoOhRDR8zBOQOKPMw",
+   "date": "2026-08-19",
+   "title": "He Tried to Prank His Girlfriend… The Dog Betrayed Him!",
+   "views": 35690,
+   "desc": "Watch this hilarious relationship prank fail when a loyal family pet decides to intervene. Most people don't know that Golden Retrievers are actually the worst accomplices for mischief. This pup clearly chose his favorite human, and the look on his owner's face is pure comedy. 🐶\n\n\nRate this dog's lo"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "AUVVsUsjveA",
+   "ch": "Canna Hub",
+   "cid": "UCKn7FFXQQU9jeWiB8cKVvNQ",
+   "date": "2026-07-23",
+   "title": "This Corgi’s &quot;betrayed&quot; face is pure gold! #shorts",
+   "views": 27991,
+   "desc": "This poor Corgi thought he was just going for a fun walk... until the splash zone happened! 🌊🐶 Watch the exact moment he gets completely soaked on this water ride. That look of pure betrayal at the end says it all! 😂\n\nIs your dog a fan of water or would they have the same reaction? Let us know in th"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "42XuntCUHM4",
+   "ch": "Mosski",
+   "cid": "UCM2wIPU-uvLMNWNnLEjZ5wQ",
+   "date": "2026-03-09",
+   "title": "The Ultimate Betrayal Face 🥺💔",
+   "views": 29256,
+   "desc": "Sad, short meme about a cat looking heartbroken after its owner hugs a dog x Hotel Transylvania - Dracula sees Mavis and Johnny hugging Meme\n\nSong used: David Kushner - Daylight\n\n#memes #meme #mosski #shorts #cat #dog #sad #funny #funnymemes #fyp\n\nFollow me here:\nInstagram ► https://www.instagram.co"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "z5ZAfdWdxCw",
+   "ch": "Thor the German Shepherd",
+   "cid": "UCWZAxrbbqHVs0_sqfhepTPg",
+   "date": "2026-07-13",
+   "title": "German Shepherd&#39;s Betrayed Face During Temperature Check",
+   "views": 8328,
+   "desc": "Thor's reaction to his temperature being taken is the most offended face you'll see all week.\n\n#GermanShepherd #FunnyDogs #VetVisit"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "_n7iQxhzJmE",
+   "ch": "ABWOLF",
+   "cid": "UCIcjwBsAVIkv7d2JFf8yjug",
+   "date": "2026-10-24",
+   "title": "Bath of Betrayal #funny #funnyai #comedy #dog",
+   "views": 804,
+   "desc": "Get ready to laugh out loud with the Bath of Betrayal, a hilarious comedy sketch featuring a dog. This funny video showcases the unexpected twist when a dog is given a bath, leading to a series of comedic events. With the use of funny AI elements, this clip is sure to entertain and bring a smile to "
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "h81-i-F1sQI",
+   "ch": "Hana’s Happy Life",
+   "cid": "UCtQhGFQMpUdHzua6I4SE18Q",
+   "date": "2026-05-17",
+   "title": "the face of pure betrayal😭🥲😂 #puppy #cute #dogshorts #funny ",
+   "views": 22124,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "jp9CL64TJ-Y",
+   "ch": "ICONICAL",
+   "cid": "UC3vrbR_4v9wglqK9oFPqntQ",
+   "date": "2026-05-16",
+   "title": "This dog’s face says betrayal on every level 😭 #dogs",
+   "views": 18445,
+   "desc": "After returning home, a dad found his son giving the family dog a wild new makeover.\n\n“He’s waiting for apology snacks” — viewers say the dog looks absolutely defeated.\n\n#dogs #viral #funny #pets #reaction #trending #omg #family #cute\n\nFair Use Disclaimer:\n\nThis content is provided for educational, "
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "jVdzGZjKrwA",
+   "ch": "furrytalesoz",
+   "cid": "UCUU20fskRslvVqlb3NoB9jg",
+   "date": "2026-01-25",
+   "title": "This is the face of betrayal 😂#dog #dogsofyoutube  #funny #f",
+   "views": 10088,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "pRApiQiCsco",
+   "ch": "White Oaks Farm, LLC",
+   "cid": "UCZDjDxvwRgdDDsK8OicmvNQ",
+   "date": "2026-11-13",
+   "title": "Face of betrayal #bernesemountaindog",
+   "views": 5549,
+   "desc": "Daycare and training day for the boys! Eiger and Winston could hardly wait to jump in the car, practically marched themselves through the door... and then turned round with those big Berner eyes like we'd abandoned them forever. Don't worry, they had a brilliant day and came home happily shattered. "
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "8d-wnXVhHMk",
+   "ch": "Suplex Saga",
+   "cid": "UCkpIirO44C4G1aSBCTP0IIg",
+   "date": "2026-10-22",
+   "title": "Jon Moxley BETRAYED by the War Dogs &amp; Bang Bang Gang at ",
+   "views": 1532,
+   "desc": "*Jon Moxley BETRAYED by the War Dogs & Bang Bang Gang at AEW Dynamite!*\n\nAEW Dynamite delivered a seismic shift as Jon Moxley, fresh off an emotionally brutal month following the passing of PAC, was betrayed by the War Dogs and watched the Bang Bang Gang turn heel in the same night. In this breakdow"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "BJQSQTjJcWg",
+   "ch": "Nala&Coco",
+   "cid": "UCX-RjC0NEhi6C_RGD_wkzzQ",
+   "date": "2026-04-12",
+   "title": "betrayal face😤#cockerspaniel #cutedog #dogshorts #puppies #c",
+   "views": 3304,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "hcp9wxSv_Mo",
+   "ch": "Thor the German Shepherd",
+   "cid": "UCWZAxrbbqHVs0_sqfhepTPg",
+   "date": "2026-07-09",
+   "title": "German Shepherd&#39;s &quot;Betrayed&quot; Face When I Don&#",
+   "views": 1601,
+   "desc": "Thor's tragic betrayed expression when I eat without sharing is the most dramatic thing you'll see today.😀\n\n#GermanShepherd #DramaKing #FunnyDogs"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "j5WhqMbzSDw",
+   "ch": "Skyrowe Travels & Animal Adventures ",
+   "cid": "UChXiZ3leLqPBJpFUPi0H0Ww",
+   "date": "2026-06-19",
+   "title": "Is This the Face of Treat Betrayal? #trending #shortvideo #n",
+   "views": 1379,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "N7LObILUfog",
+   "ch": "TheLokeShow",
+   "cid": "UCD6OO3IkYdxghzYr4aIdSCg",
+   "date": "2026-09-30",
+   "title": "the face of betrayal 😢 #Shorts",
+   "views": 1428,
+   "desc": "I did nothing wrong. Essi being absolutely iconic as always.\n\n#essi #dogsofyoutube #shorts #funnydogs #doglife"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "QM7awe0pPWE",
+   "ch": "Ismailkhan Khan",
+   "cid": "UCCZJeTE_JFadbnF73NPVSOQ",
+   "date": "2026-11-21",
+   "title": "🦢 My Pet Goose Totally Betrayed Me",
+   "views": 1177,
+   "desc": "What starts as a peaceful and affectionate morning on the bed with a pet goose takes a sudden and painful turn. In this home video, a moment of gentle bonding quickly escalates when the goose decides to test its boundaries with an unexpected bite to the face. The video captures the genuine surprise "
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "ZtTXgNH0f2U",
+   "ch": "The cat behaviorist",
+   "cid": "UCQ8IMQFi9W5ci1QqqUqOJqA",
+   "date": "2026-09-07",
+   "title": "I betrayed my cats with dog love. Now to face the consequenc",
+   "views": 1240,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "ZF-y_T1oTzo",
+   "ch": "The Kanine Krew",
+   "cid": "UC7M3PfkSfl_CiDun4Ptx5rQ",
+   "date": "2026-07-19",
+   "title": "The face of a dog who&#39;s been betrayed exactly 0 times bu",
+   "views": 1135,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "LasUrTEs9a0",
+   "ch": "Sammy",
+   "cid": "UCLmDDziptMRaJueHNs5vJcg",
+   "date": "2026-04-06",
+   "title": "The ultimate betrayal! 😂 Chico saw a familiar face and forgo",
+   "views": 1472,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "FBfwsVwn8qI",
+   "ch": "DailyPets",
+   "cid": "UCBT008Bxr8R27HEvCYQPiUA",
+   "date": "2026-08-27",
+   "title": "The betrayal is real. Look at that face! #Shorts #DramaticCa",
+   "views": 1044,
+   "desc": "🐱❤️ CATS, PETS, ANIMALS & FUNNY MOMENTS ❤️🐶\n\nWelcome to the ultimate pet lover community! If you enjoy adorable cats, funny kittens, playful puppies, loyal dogs, smart parrots, cute rabbits, hamsters, birds, and all kinds of amazing animals, you've found the perfect place.\n\nEvery day brings new adve"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "xkRhVk4cm5I",
+   "ch": "Carli Lopresto ",
+   "cid": "UCqlqFUS1qZPFp2SmWRUpeJw",
+   "date": "2026-03-22",
+   "title": "this dog&#39;s betrayal face in every outfit 😭 #dogtok #rela",
+   "views": 1390,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "1EZI7l_4Ve0",
+   "ch": "RIO and His Friends.... ",
+   "cid": "UCoz5Jrej26341FqZPozEknA",
+   "date": "2026-04-15",
+   "title": "RIO&#39;s face when I eat without sharing 🥺 😭 #betrayed #dog",
+   "views": 718,
+   "desc": "RIO's face when I eat without sharing 🥺 😭 #betrayed #dogreaction #funnydogs"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "7ExQjPIou6E",
+   "ch": "Gary and Chico",
+   "cid": "UCTeQueza48-rTYGtCB1JnDg",
+   "date": "2025-12-12",
+   "title": "Orange Cat Eats Chips &amp; Offers Chihuahua Lettuce Instead",
+   "views": 1241,
+   "desc": "橘貓吃薯片不給吉娃娃！還掏出生菜騙他0.2秒發怒　橘吉互相害Ep.4\n\nGary crunching chips like a boss\nChico thinking it's his turn\nGary pulls out lettuce from the same bag\nChico's face = instant heartbreak\nHow many times did you die laughing? Comment 1-10\nDog owners who’ve been tricked: 555\nTeam Gary ❤️❤️❤️\nTeam Chico 🔥🔥🔥\nDouble ta"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "B_1o0VSLGCQ",
+   "ch": "Chase the Yorkie",
+   "cid": "UCYYhvrieP443XglnGIe2hvA",
+   "date": "2026-07-16",
+   "title": "This Yorkie&#39;s betrayal face says it all 😂 #chasetheyorki",
+   "views": 225,
+   "desc": "Watch Chase the Yorkie's hilarious reaction to bath time, showcasing the ultimate betrayal face that will leave you laughing out loud."
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "4wcsSS9iE4s",
+   "ch": "A Shot Of Whiskey",
+   "cid": "UC433ZESjaQ9evoTiz6q11Ew",
+   "date": "2026-04-17",
+   "title": "Whiskey’s post-bath betrayal face 🥃🚿",
+   "views": 587,
+   "desc": "You can see the regret in his eyes. Whiskey had a little incident (read: mud puddle) and well... the towel happened. Again. Subscribe to AShotOfWhiskeyDog for more messy adventures and fluffy recoveries! 🐾🛁\n\n#Shorts #AShotOfWhiskeyDog #WhiskeyDog #DogBath #FunnyDogs #MuddyDog #GoldenRetrieverMix #To"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "QxwZYf2ApMM",
+   "ch": "The Dog Stuff",
+   "cid": "UCr-3gcnFtd09HLWuMSEjitQ",
+   "date": "2026-07-18",
+   "title": "The face of pure betrayal 🤣   #dog #viral #viraldog #funnydo",
+   "views": 120,
+   "desc": ""
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "lBv5gVOZEus",
+   "ch": "Kulit and Friends",
+   "cid": "UCnhnpnTgDhwbN6dgWUtQ27g",
+   "date": "2026-08-14",
+   "title": "Kulit&#39;s Face After a FAKE Treat Throw 💀 | Funniest Betra",
+   "views": 105,
+   "desc": "He trusted us. We fake-threw the treat. 💀 Watch Kulit's confused sniff search — the betrayal in his eyes is comedy gold! 😭\n\nWhat should Kulit react to next? Comment below! 👇\n\n#kulit #funnydogs #dogsoftiktok #puppy #pets #adorabledogs #cutedogs #kulitandfriends #barkada #pilipinas #dogreaction #faket"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "au5xeKZVySc",
+   "ch": "CuteVerse TV",
+   "cid": "UCrvrCfoKm-AYY3oDigev6Ng",
+   "date": "2026-01-16",
+   "title": "This cat&#39;s face says it all #betrayed #catlife #pov",
+   "views": 125,
+   "desc": "Watch this hilarious `cat` as it experiences the ultimate FOMO, peering through a window at a dog playing outside! This `funny animal videos` moment captures the comical perspective of being left out, making for some truly `funny cat videos`. It's a `cat tv` worthy clip that will have you laughing a"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "ioeZ5UIjBQ0",
+   "ch": "Mythological and general fantasy ",
+   "cid": "UCjGtqCFIuwq-Qbsa_mGN4BA",
+   "date": "2026-07-31",
+   "title": "He Cursed Them Into Dogs For His Betrayal… Now He Faces The ",
+   "views": 35,
+   "desc": "A fiery demon demands retribution for betrayal in this dark folklore retribution story. See how a curse turns enemies into dogs in a cautionary tale.\n\nThis video explores a classic demon cautionary tale, focusing on the heavy price of deceit and the supernatural consequences of betrayal. If you enjo"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "K4aD-2vkmr8",
+   "ch": "White Moon",
+   "cid": "UC8migqD5Y7TjqSVzYdqPnjA",
+   "date": "2026-07-13",
+   "title": "This Dog&#39;s Face When You Don&#39;t Share Your Food | GSD",
+   "views": 28,
+   "desc": "Watch this relatable German Shepherd reaction when their owner eats without sharing. See exactly how a hungry GSD pleads for a bite.Every dog owner knows the feeling of being watched while eating a meal. This short video captures the classic German Shepherd stare down, perfectly summarizing the betr"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "Q1vnkfu8_mw",
+   "ch": "Comedy Animal Shorts TV",
+   "cid": "UCvO8mQ89-CXI6ai1_866U3Q",
+   "date": "2026-10-17",
+   "title": "Funny Dog Realizes He&#39;s at the Vet: The Betrayal Face 🐶 ",
+   "views": 20,
+   "desc": "Funny dog realizes he's at the vet and the betrayal is written all over his face.\nMom promised a walk, but this bulldog just spotted the clinic. Dog going to the vet funny moments like this are why we love funny dog videos.\nSubscribe for daily funny animal moments!\n\nOriginal video by @loki_and_nova "
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "6BQtnFgiIeQ",
+   "ch": "Afg Animation 24",
+   "cid": "UC0Vu5gVKowmnVyrpzV35vjQ",
+   "date": "2026-11-15",
+   "title": "When Your Dog Takes Betrayal Personally وقتی سگی در حالت شست",
+   "views": 21,
+   "desc": "Ever wonder what your dog is really thinking during bath time? Watch this hilarious and dramatic take on a pup’s perspective as he faces the ultimate 'betrayal' in the tub.\n\nFrom the deep questioning of our friendship to the absolute defeat of being scrubbed, this little scruffy friend has plenty to"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "agRa8W6CLdw",
+   "ch": "dhvl48",
+   "cid": "UCI17L0COBuR5isR7lqe8QMQ",
+   "date": "2026-10-23",
+   "title": "This Dog&#39;s Betrayed Face Over an Empty Leash Hook",
+   "views": 6,
+   "desc": "This dog's reaction to an empty leash hook is pure betrayal and it's hilarious. 🐕😤\n\n#viral #dogs #dogshorts #cutedogs"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "4S9UB9-ldIg",
+   "ch": "CineNovaVision",
+   "cid": "UC9MEs82q9v39ZBlTf1is24g",
+   "date": "2026-01-13",
+   "title": "The Face of Betrayal When You Won’t Share Your Chocolate 😩🐕",
+   "views": 0,
+   "desc": "The Face of Betrayal When You Won’t Share Your Chocolate 😩🐕 #ViralVideo\n#TrendingNow\n#ForYou\n#FYP\n#MustWatch #DogLife\n#DogLover\n#Dogs / #DogsOfInstagram\n#FunnyDog\n#DogHumor\n#DogsoftheDay #husky\n15s"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "06ZuGtuhhM4",
+   "ch": "Side-eye & Spooked ",
+   "cid": "UCIFNMTWqqjOs6nzFBCcaFVg",
+   "date": "2026-07-14",
+   "title": "The ultimate dog betrayal 💔😂 Wait for their faces!",
+   "views": 0,
+   "desc": "Watch this epic race between a Pitbull and a Chihuahua end in a hilarious (but harmless!) crash. 💥🐶 The worst part? Their human laughing at them from the car! Wait for their heartbreakingly cute reaction at the end. 🥺\n\nIf this broke your heart just a little, hit that like button and subscribe for mo"
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "mQQjx-FvZEY",
+   "ch": "Gulo Gulo Pup",
+   "cid": "UChedT9S5q7pqm9CTxWCZaSA",
+   "date": "2026-11-23",
+   "title": "Husky hug face: fully betrayed, fully fluffy 😭 #PetRanking #",
+   "views": 646,
+   "desc": "A cliff-edge drop into green quarry water opens the clip, then a golden taking head pets from a tattooed hand, a blue-eyed husky squeezed into a hug with a betrayed face, and a poodle cup-toyed on the bed. Ranked."
+  },
+  {
+   "q": "dog betrayed face owner",
+   "vid": "An3u24rri9I",
+   "ch": "Ecotailzpets",
+   "cid": "UCgXcL2PSVNVlN2DdrbmWYZw",
+   "date": "2025-12-24",
+   "title": "Dog when you say “bath”Happy → instant betrayal face",
+   "views": 1,
+   "desc": ""
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "Amn_0SDoR_w",
+   "ch": "Endless Love",
+   "cid": "UCH8x9zAJbpfipmHosNuwu_A",
+   "date": "2025-12-29",
+   "title": "The reaction of an angry hedgehog to the smell of an Apple 🥹",
+   "views": 5348785,
+   "desc": ""
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "Q28nA03HXso",
+   "ch": "CapymancerRanks",
+   "cid": "UCrAfs4Bu-z3lLCnUDtdTwIA",
+   "date": "2026-04-10",
+   "title": "Ranking Most Angry Hamsters  - Ranking Pets",
+   "views": 33180,
+   "desc": "Which one scared you the most? 😂 \n\n#shorts #youtubeshorts #shortvideo #short #viralshorts #funny #ranking #hamster #hamsters #petshorts #adorablepets #animallovers #animals"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "9ZzIPQGafkY",
+   "ch": "Lavangam Garu",
+   "cid": "UC9CvGwVaVpoW9wVmcn6xZlQ",
+   "date": "2026-10-24",
+   "title": "Cute Hamster Moments 🔥 #shorts #hamster",
+   "views": 23109,
+   "desc": "hamster, hamster shorts, cute hamster, funny hamster, hamster video, hamster videos, hamster reels, hamster shorts viral, funny hamster moments, cute hamster moments, hamster reaction, hamster reaction video, hamster rage, angry hamster, hamster ragebait, hamster funny reaction, Syrian hamster, Syri"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "Z6UI8R35yoQ",
+   "ch": "Lavangam Garu",
+   "cid": "UC9CvGwVaVpoW9wVmcn6xZlQ",
+   "date": "2026-10-23",
+   "title": "Hamster Cute Dresses 🔥 #shorts #hamster",
+   "views": 10506,
+   "desc": "hamster, hamster shorts, cute hamster, funny hamster, hamster video, hamster videos, hamster reels, hamster shorts viral, funny hamster moments, cute hamster moments, hamster reaction, hamster reaction video, hamster rage, angry hamster, hamster ragebait, hamster funny reaction, Syrian hamster, Syri"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "pO3N6zodW9E",
+   "ch": "Lavangam Garu",
+   "cid": "UC9CvGwVaVpoW9wVmcn6xZlQ",
+   "date": "2026-10-22",
+   "title": "Cute Hamster Videos ❤️ #shorts #hamster",
+   "views": 4777,
+   "desc": "hamster, hamster shorts, cute hamster, funny hamster, hamster video, hamster videos, hamster reels, hamster shorts viral, funny hamster moments, cute hamster moments, hamster reaction, hamster reaction video, hamster rage, angry hamster, hamster ragebait, hamster funny reaction, Syrian hamster, Syri"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "a18anaZCPB4",
+   "ch": "PawParadise",
+   "cid": "UC43BY68Ui0UXu9EwD6cSvvA",
+   "date": "2026-07-22",
+   "title": "Hamster Angry Moment😠🐹 #hamster #cute",
+   "views": 3425,
+   "desc": "From silly reactions to heart-melting moments — our furry friends never fail to entertain!\nWatch this adorable clip and see what unexpected things pets do when the camera's rolling.\nGot a pet at home? Let us know how they’d react in the comments! 🐾\n📌 Footage Credits:\n@hamster.hi.nch\n@hamster.hi.nch\n"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "FgST1XVLH-s",
+   "ch": "LEEBO",
+   "cid": "UCKugwpfV_qwJ2OCYqyYk5Sg",
+   "date": "2026-09-01",
+   "title": "I Called ChatGPT My Pet Hamster... He Got Angry 😂🐹",
+   "views": 1140,
+   "desc": "called ChatGPT my pet hamster 🐹😂… and it got REALLY angry! 🤖😡\nWatch ChatGPT enter hamster mode with funny reactions, crazy arguments, and a hilarious AI meltdown! 😂🔥\nThis video is made for entertainment and comedy purposes only. 😄\n#ChatGPT #FunnyAI #AIComedy #ChatGPTFunny\nTags"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "5krtqtHIInw",
+   "ch": "Faizan Kadri 99",
+   "cid": "UCvBwZpxigrJQ0paF-vDHxAg",
+   "date": "2026-01-15",
+   "title": "जब चूहे को गुस्सा आ जाए 😂 | #Funny Hamster #Angry Reaction #",
+   "views": 1716,
+   "desc": "जब चूहे को गुस्सा आ जाए 😂 | #Funny Hamster #Angry Reaction #comedy #trending #funny"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "KLSvK7YEols",
+   "ch": "Hammy's Family",
+   "cid": "UCDYg2qpUjFdyOsTuDUi5Xzg",
+   "date": "2026-09-16",
+   "title": "Don&#39;t wake a sleeping hamster... 🐹 angry reaction!😏😡",
+   "views": 1526,
+   "desc": "#hamster \n#cuteanimals \n#hamsterreacts \n#funnyvideo \n#fypシ゚viral\n#viralvideo \n#10kviews"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "N1XTkvj-etY",
+   "ch": "Helal and Kitty",
+   "cid": "UCXmFKFhARC_vbXHSJZsTsIw",
+   "date": "2026-11-15",
+   "title": "I Teased My Baby Hamster While Eating &amp; His Reaction Mel",
+   "views": 1038,
+   "desc": "Look at my little baby hamster eating so cutely from his plate!\nI was just teasing him a little for fun, and look at his adorable angry reaction! 😂\nSo tiny, so cute, so full of attitude!\nDo you have a hamster too? Tell me in the comments!\n#Hamster #BabyHamster #CuteHamster #FunnyHamster #PetLover #C"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "KPwZ_jusXjM",
+   "ch": "Tiny Hamster POV",
+   "cid": "UCImdeasaGCMFOYbwAXW7O9Q",
+   "date": "2026-01-22",
+   "title": "My hamster when I clean his cage 😤 #hamster #cute #funny #ha",
+   "views": 901,
+   "desc": "I just wanted to clean.\nHe took it very personally.\n\nhamster cage cleaning, angry hamster, funny hamster short, hamster reaction, pet shorts"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "KCtFgVQwtqI",
+   "ch": "@enjoyablechanel",
+   "cid": "UCkJ87lXQsoPm_bk6K4D8XUw",
+   "date": "2026-07-13",
+   "title": "This Hamster&#39;s Reaction to a Sponge is Hilarious! 🐹🧽 #fu",
+   "views": 135,
+   "desc": "This cute little hamster thought they were getting a brand new iPhone, but inside the box was just another dishwashing sponge! Watch the hilarious angry reaction when the prank goes wrong. 😂🧽                                                                               If you love funny pet videos a"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "G8yR0NRsi7E",
+   "ch": "PawNova Plus",
+   "cid": "UC2NlXiYr4luHz18d_XZYkqw",
+   "date": "2026-09-14",
+   "title": "ANGRY TIGER CATCHES THE CAT STEALING THE HAMSTER’S FOOD! 😱🐯🐱",
+   "views": 72,
+   "desc": "An angry tiger catches a sneaky cat stealing the hamster’s food! 😱🐯🐱🐹 What happens next is absolutely hilarious! 😂\n\nWatch until the end to see the tiger’s shocking reaction when he catches the cat red-handed! 🍔🤣\n\nIf you love funny cats, cute hamsters, angry tiger moments, animal comedy, funny pet vi"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "tuRI6HimG1M",
+   "ch": "Mithu Cartoon World 🦜",
+   "cid": "UC7wiC-3m8eRR6lVjn5Nfh9w",
+   "date": "2026-10-29",
+   "title": "😂 Baby Gets Angry at a Tiny Hamster! 🐹👶❤️ | Cutest Reaction ",
+   "views": 33,
+   "desc": "😂👶 Look at this baby's hilarious reaction to a tiny hamster! 🐹❤️\nThis cute little baby looks so angry while pointing at the adorable hamster! 😍🐹 What do you think the baby is trying to say?\nWatch till the end for this adorable moment! 🥰✨\n❤️ Like, Share & Subscribe for more cute baby moments and funn"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "3UDGrXaoLm8",
+   "ch": "FlipToon",
+   "cid": "UCzz3rrLSyP8cTbGLv6hhsXQ",
+   "date": "2026-07-30",
+   "title": "Angery Hamster Reaction After Game Over",
+   "views": 44,
+   "desc": "Hamster playing video game after game over he get angry #fliptoon"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "EOgVnF3igdE",
+   "ch": "Miss Cute",
+   "cid": "UCWA3_AGHATscQFjCxC01Opg",
+   "date": "2026-04-02",
+   "title": "Angry Hamster After Bath 😂🐹 | Bath Time Gone Wrong! #shorts ",
+   "views": 26,
+   "desc": "This cute little hamster HATES bath time 😤🐹\nAfter getting wet, he gets cold and super angry while being dried with a towel 😂\nHis expressions are just too funny and adorable to miss! ❤️\n\nWatch till the end for the cutest angry reaction 🥺✨\nLike, Share & Subscribe for more cute and funny animal shorts!"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "dfg1yik0f9o",
+   "ch": "Sanjeev Bajaj",
+   "cid": "UCkMvSjzvElZWOOOjyGHB-gg",
+   "date": "2026-10-20",
+   "title": "Angry Hamster Cute reaction #Cute #hamster",
+   "views": 28,
+   "desc": ""
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "05TB5c8mAdo",
+   "ch": "shree & vyom",
+   "cid": "UCGBgWwslpIn6Ye6RcpgRHPg",
+   "date": "2026-05-14",
+   "title": "Angry Hamster vs Lobster 😂 | Funny Cartoon Reaction 🤯 | Kids",
+   "views": 14,
+   "desc": "इस वीडियो में एक funny cartoon hamster और lobster की मजेदार fight दिखाई गई है 😂\nसाथ में cute kid reaction इसे और भी entertaining बना देता है 🤯\nअगर आपको funny cartoon, kids reaction और entertaining shorts पसंद हैं तो वीडियो को पूरा देखें ❤️\n👉 ऐसे ही मजेदार videos के लिए चैनल को subscribe करें#funnyca"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "ACl3ueNY2DY",
+   "ch": "Momentary Zen ASMR",
+   "cid": "UC-dz31EJr1q2rse5LJ-wiEw",
+   "date": "2026-05-29",
+   "title": "Angry hamster wants his sunflower seed back! 😤 #Shorts #hams",
+   "views": 5,
+   "desc": "Give me back my sunflower seed! I'm REALLY angry! 😤🐹\n\nThe cutest angry moment ever!\n\n#Shorts #hamster #angry #cute #funny #animals #pets #hamstermeme #adorable #viral #reaction"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "hBBuO94o7-g",
+   "ch": "Green Motion",
+   "cid": "UCvBuebE_X7QvYKhI-Ri4b_w",
+   "date": "2026-09-21",
+   "title": "Meme Sticker Emoji Animations (Ae) - Free Reaction Pack (Ham",
+   "views": 2,
+   "desc": "https://youmotion.com/motion-graphics/memes-stickers-emoji-animations-599212?ref=00\n\nA hand-drawn 2D lineup of internet favorites - the hamster, a beaver, the angry cat, the surprised cat - ready to react on cue. It's the kind of thing you throw on for humor and expression, and it lands perfectly on"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "Ms1hA6g-8Zg",
+   "ch": "Youmotion",
+   "cid": "UCLa926Q2dkgU0VmZRNNEndQ",
+   "date": "2026-10-17",
+   "title": "Meme Sticker Emoji Animations (Ae) — Free Reaction Pack (Ham",
+   "views": 0,
+   "desc": "https://youmotion.com/motion-graphics/memes-stickers-emoji-animations-599212?ref=50902\n\nA hand-drawn 2D lineup of internet favorites - the hamster, a beaver, the angry cat, the surprised cat - ready to react on cue. It's the kind of thing you throw on for humor and expression, and it lands perfectly"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "Ccx9EirNKoE",
+   "ch": "Bezier Motion Design",
+   "cid": "UCpsBS7GR3-_WmJzZxLidnGw",
+   "date": "2026-11-17",
+   "title": "Reaction Bundle (Hamster, Cats &amp; More) - Meme Sticker Em",
+   "views": 0,
+   "desc": "https://youmotion.com/motion-graphics/memes-stickers-emoji-animations-599212?ref=yaro\n\nHere is what you get. A hand-drawn 2D lineup of internet favorites - the hamster, a beaver, the angry cat, the surprised cat - ready to react on cue. It's the kind of thing you throw on for humor and expression, a"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "mACK5cqXyHg",
+   "ch": "FXM Animation",
+   "cid": "UCfpnTaNnTpoubG_nj3czxlQ",
+   "date": "2026-11-22",
+   "title": "Free Reaction Kit (Hamster, Cats &amp; More) | Meme Sticker ",
+   "views": 0,
+   "desc": "https://youmotion.com/motion-graphics/memes-stickers-emoji-animations-599212?ref=tars.effects\n\nA hand-drawn 2D lineup of internet favorites - the hamster, a beaver, the angry cat, the surprised cat - ready to react on cue. It is the kind of thing you throw on for humor and expression, and it lands n"
+  },
+  {
+   "q": "hamster angry reaction",
+   "vid": "pvrOdqqRySQ",
+   "ch": "Youmotion",
+   "cid": "UCLa926Q2dkgU0VmZRNNEndQ",
+   "date": "2026-10-06",
+   "title": "Meme Sticker Emoji Animations (Ae) — Free Reaction Pack (Ham",
+   "views": 2,
+   "desc": "https://youmotion.com/motion-graphics/memes-stickers-emoji-animations-599212?ref=50902\n\nA hand-drawn 2D lineup of internet favorites - the hamster, a beaver, the angry cat, the surprised cat - ready to react on cue. It's the kind of thing you throw on for humor and expression, and it lands perfectly"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "euGuQqOtYZ8",
+   "ch": "AspirantWay",
+   "cid": "UC_FmbGr3MuWlKmnnpEefJYw",
+   "date": "2026-03-31",
+   "title": "He really said &quot;Say it to my face!&quot; 💀🗣️ #shorts #h",
+   "views": 42714272,
+   "desc": "I'm convinced Huskies are actually humans in fur coats. 😂 She told him to 'say it to her face' and he took that personally! 🐾\n\nHuge thank you for the support on our recent videos! We are so close to 50,000 subscribers—hit that SUBSCRIBE button to join the most dramatic pet family on YouTube! ✨"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "Oy_YIou7NJ8",
+   "ch": "ShortRanksYT",
+   "cid": "UCKRXy5_z9wS97AwfLm23Tmg",
+   "date": "2026-01-02",
+   "title": "Ranking the FUNNIEST HUSKY Moments!",
+   "views": 3474581,
+   "desc": "The best and loudest husky moments caught on camera, ranked. Try not to laugh!\n\n#shorts #funny #viral #dogs #pets #animals #husky #loud\n\nCredit to the original creators of their respective content."
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "e-2AIK6t1uM",
+   "ch": "Saucy Huskies ",
+   "cid": "UCHhfqe_SwQPXTXAZMhhHWlw",
+   "date": "2026-10-22",
+   "title": "My Huskies Threw Massive Tantrum When I Said No Breakfast Tr",
+   "views": 842607,
+   "desc": "I made the huge mistake of telling my dramatic huskies that they don't need treats every single morning with their breakfast because they are on a diet! They immediately threw a massive howling tantrum, screaming and arguing with me to prove that they are absolutely starving.\n#HuskyDrama #FunnyDogs "
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "J6nDS7StyiA",
+   "ch": "Maya Husky",
+   "cid": "UComxirWZgXemamKVQfSdDLw",
+   "date": "2026-05-15",
+   "title": "What NOT to say to a HUSKY!😅 #shorts #husky #dogs",
+   "views": 454576,
+   "desc": ""
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "UA8sv9D0-MY",
+   "ch": "Cute Pet Moments",
+   "cid": "UCnuHnu0sZhRnvl_-zcvChrQ",
+   "date": "2026-01-07",
+   "title": "They Said a Husky Would Make Life More Fun… They Were RIGHT!",
+   "views": 194937,
+   "desc": "They say getting a Husky will make your life so much more fun… and they weren’t lying 😂🐺\n\nFrom endless energy and dramatic talking to pure chaos and cuteness, living with a Husky is an adventure every single day! In this video, you’ll see why Huskies are one of the funniest, loudest, and most entert"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "3tGPuJTAgE8",
+   "ch": "StorySync ",
+   "cid": "UCZA7X2dJMxtT_rDemVWFqwg",
+   "date": "2026-04-08",
+   "title": "Husky throws a massive tantrum over a toy lobster! 😂🐺 #short",
+   "views": 48258,
+   "desc": "Husky throws a massive tantrum over a toy lobster!"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "wlb_H3HInS8",
+   "ch": "Paws & Tails",
+   "cid": "UCP0rDpGGrMltEeF1Wi3HYkw",
+   "date": "2026-04-08",
+   "title": "Tried Taking the Toy… Husky Throws a Tantrum 😂🐶🛒 #ytshorts",
+   "views": 52527,
+   "desc": "I said “we’re not buying it”… she said ABSOLUTELY NOT 😭💀\nFull meltdown in the middle of the store 😂\nHusky drama is on another level!\n\nWatch till the end 🤣\nFollow for more funny dog moments\n\n#shorts #husky #dogtantrum #funnydogs #viral #animals #dogdrama #trending"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "s5J-uwwGtcM",
+   "ch": "gusluv",
+   "cid": "UCeKamiWz_rap2aKLUbKiD9w",
+   "date": "2026-09-19",
+   "title": "Huskies Always Have Something to Say 😂🐺 #husky #dogs #shorts",
+   "views": 52937,
+   "desc": "Huskies somehow turn everyday life into a full-blown drama 😂\nGrooming, deliveries, bedtime… everything becomes a serious argument. 🐺💀\n#husky #huskies #funnydogs #dogvideos #shorts"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "h7rOI016l28",
+   "ch": "Pluto The Husky",
+   "cid": "UCnUIEEy0cfOOa00iJq_NjPQ",
+   "date": "2026-08-26",
+   "title": "When your pup hears “no” and catches an attitude 😭 #funnydog",
+   "views": 36959,
+   "desc": ""
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "igIh7QB2xgE",
+   "ch": "Detective Toby",
+   "cid": "UCcrNNyNLq-OHa3xrIwtTCKQ",
+   "date": "2026-04-16",
+   "title": "He Literally Said NO! 🛁 Husky Refuses Bath Time (Dramatic Ho",
+   "views": 23572,
+   "desc": "Every Husky owner knows the struggle! 🐺 Watch as this dramatic boy sees the bathtub filling up and gives the clearest \"NOOOOO\" you've ever heard. He's not just howling; he's stating his legal rights to stay dry and fluffy.\n\nIs your dog a fan of bath time or a dramatic protestor? Let us know in the c"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "aug-FNg9sHs",
+   "ch": "Pandora The Husky",
+   "cid": "UCeZUsrCdqOXjgD2hwtpeE6Q",
+   "date": "2026-05-12",
+   "title": "This Is What Happens When You Say No To A Husky",
+   "views": 21532,
+   "desc": "Pandora heard one simple \"no\" and decided that was completely unacceptable.\nThe stomping, the talking back, the full breakdown. Classic husky behaviour and we wouldn't have it any other way.\n\nHas your dog ever reacted like this? Drop it in the comments 👇\n\nSubscribe to join Pandora's pack 💜\n\n#huskyli"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "VkbxBIol7LQ",
+   "ch": "The Tail & The Toddler",
+   "cid": "UC6UO-kdEgNokSWeZvISkp3w",
+   "date": "2026-10-08",
+   "title": "My Dramatic Husky Lost It Over Pizza… I Said No",
+   "views": 14372,
+   "desc": "My Dramatic Husky Lost It Over Pizza... I Said No 🍕🐾\n\nBlue smelled pizza and completely lost it. Pillow biting, zoomies, play bites, and full husky arguing when I put my finger up to stop him.\n\nThen he tried his ultimate trick - the cute face - to manipulate me into giving him food before dinner. I "
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "0PVX4oumgr4",
+   "ch": "Haku & Nala",
+   "cid": "UCNV-1O4GlP0UO3rgI-w1jIQ",
+   "date": "2026-03-21",
+   "title": "My Husky Threw A Tantrum When I Said No 😂",
+   "views": 11242,
+   "desc": "Haku the Husky wanted Princess Nala’s leftovers… but we said no 😂🐺\n\nHe did NOT take that well and immediately started talking, huffing, and throwing a full tantrum 😭\n\nHuskies have way too much personality.\n\nMeet the pack:\n🐺 Haku the Husky\n👑 Princess Nala\n\nFollow for more funny husky moments, talking"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "BCdjRSSwcvA",
+   "ch": "Aurora Husky Girl",
+   "cid": "UCOjRbaTUWnuPsqh6aIwiiiA",
+   "date": "2026-09-26",
+   "title": "I told my husky “NO”… and she was NOT having it. 😂🐺 #dog #hu",
+   "views": 5731,
+   "desc": "Over the years I have learned, “no” is a personal attack when you’re a husky. The drama. The attitude. The full-blown tantrum. 😂😂\n\nBe honest: what does your dog do when they don’t get their way? 😂 Tell me their most dramatic reaction in the comments! I need a good laugh! 👇🐾"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "oUHj4XAC9WE",
+   "ch": "Husky Drama King",
+   "cid": "UCvnRfnv8Vz_A-QSu9OwB10Q",
+   "date": "2026-10-12",
+   "title": "Husky Says NO to Bath Time 😤 | Dramatic Husky Refuses Bath! ",
+   "views": 2004,
+   "desc": "Husky says NO to bath time! 😤 Dramatic husky refuses bath! 😂\n\n👑 New Husky Drama King videos every day — SUBSCRIBE for daily husky + baby comedy!\n#huskydramaking #funnyhusky #siberianhusky #dogshorts #petcomedy #talkingdog #dramaticdog #cutedogs #puppy #funnydogs #husky #babyanddog"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "M6syA7k3pU8",
+   "ch": "MistyMapleHuskies",
+   "cid": "UCWtw5WvE74RntIJW0MzVomg",
+   "date": "2026-10-17",
+   "title": "My husky says NO 😤 #husky #maple #shortsviral",
+   "views": 1624,
+   "desc": "Trying to get my Huskies to sit, but someone has a lot of attitude today! 🐾😂 Watch till the end to see the ultimate dramatic temper tantrum. Huskies are definitely the most vocal dogs ever!\nDon't forget to like, comment, and subscribe for more funny dog moments! 🐶❤️\n\nfunny husky, dramatic husky, tal"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "rQ1jAXPPq4A",
+   "ch": "Silly Little Family ",
+   "cid": "UCyjHg_Zjj4FI1m70wYyMRgQ",
+   "date": "2026-09-11",
+   "title": "Dramatic Husky Says NO NO Don’t Do That! 😂🐾",
+   "views": 2116,
+   "desc": "POV: When your dramatic husky says dont do that! 🤭\nIt is a funny dog video, humorous take on existential dread that any pet lover this hilarious, funny dog lounging on the couch while yelling NO NO NO dont do that. If you love relatable and funny dog video, this quick short clip is for you. 🤭 If you"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "o5LmaQpHSz0",
+   "ch": "Husky Drama King",
+   "cid": "UCvnRfnv8Vz_A-QSu9OwB10Q",
+   "date": "2026-10-13",
+   "title": "Husky Says NO to Morning Walk 😴 | Lazy Husky Won&#39;t Move!",
+   "views": 1944,
+   "desc": "Husky says NO to morning walk! 😴 Lazy husky won't move! 😂\n\n👑 New Husky Drama King videos every day — SUBSCRIBE for daily husky + baby comedy!\n#huskydramaking #funnyhusky #siberianhusky #dogshorts #petcomedy #talkingdog #dramaticdog #cutedogs #puppy #funnydogs #husky #babyanddog"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "nTKgdW8FHOc",
+   "ch": "Touching TOP5",
+   "cid": "UCQnexiZesVKb4f3csmhrUEQ",
+   "date": "2026-11-10",
+   "title": "Try Not To Laugh: Top 5 Husky Moments 🐺 …Then He Crashed The",
+   "views": 1237,
+   "desc": "Ranking the 5 most dramatic husky moments 🐺 A birthday diva singing for her cake, a husky who said NO to the hat, a snack howler who will NOT calm down, a drama queen who deserves an Oscar... and the husky who crashed a wedding #1! If you laugh, you lose!\n\nWhich one made you laugh? Comment below! 👇\n"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "e8MIykGnGeU",
+   "ch": "Dogz",
+   "cid": "UCUtF539vz1x7u5HH-4svAsQ",
+   "date": "2026-04-20",
+   "title": "This Dog Deserves an Oscar! (The Husky Drama Queen 😭🐶)",
+   "views": 996,
+   "desc": "And the Oscar goes to... the Husky! 😭🐶 Today on DOGZ, we’re breaking down the \"Dramatic Husky\" phenomenon.\n\nWhy do these dogs scream, argue, and throw tantrums like toddlers? It’s all in the genetics! From pack communication to Arctic survival, find out why your Husky won't just be quiet.\n\nInside th"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "gX-AIpILsn0",
+   "ch": "Midnight Mind",
+   "cid": "UCwKIG5fbdtma5y1D5Isb_pg",
+   "date": "2026-10-29",
+   "title": "Husky Said NO at the Vet… Out Loud 😭",
+   "views": 1302,
+   "desc": "🎥 Original by @TheHuskyMoon on YouTube\nOriginal video: https://youtube.com/shorts/M-uINAmshZw\nTheir channel: https://www.youtube.com/@TheHuskyMoon\n\nShadow yelled at the vet's door the whole visit, and when Mom asked nicely he answered back 😭 Is YOUR dog this dramatic?\nReaction & commentary by Midnig"
+  },
+  {
+   "q": "husky dramatic owner said no",
+   "vid": "I7bCr6pGKXo",
+   "ch": "Namastethemind",
+   "cid": "UCrOf6BLDgIff0lbajmnRlpA",
+   "date": "2026-11-18",
+   "title": "He Said NO to Bath Time 😂 #shorts #husky #funnydogs",
+   "views": 12,
+   "desc": "The drama is unreal 😂 #shorts #husky #dogdrama"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "PA0IKEp-B7o",
+   "ch": " Masti Magahiya Vines ",
+   "cid": "UCXdXJn_uZlN7ivtQ4FFt67A",
+   "date": "2026-06-14",
+   "title": "Baby Meets Tiny Kitten for the First Time… Cutest Reaction E",
+   "views": 5806029,
+   "desc": "Baby Meets Tiny Kitten for the First Time… Cutest Reaction Ever! 🐱👶❤️ #usa #baby #shortsfeed \n\n\nbaby and kitten, cute baby video, funny baby shorts, adorable kitten video, baby reaction, cute animals, viral shorts, wholesome video, pet lovers, funny cat moments, baby meets cat, trending shorts, cute"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "T0PE_SDkpCE",
+   "ch": "Sierra Rose",
+   "cid": "UCFeQdlWLyeZoBHbRxoo2a5A",
+   "date": "2026-06-06",
+   "title": "Introducing our NEW KITTEN 🐈‍⬛",
+   "views": 3437094,
+   "desc": ""
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "VgPjw-PSVFc",
+   "ch": "Funny interesting clips 🤣",
+   "cid": "UC5Tuiyd-WM9JQ66mfIXyuZg",
+   "date": "2026-09-29",
+   "title": "Dog meets cat for the first time 🤣 #imao #funny #cat #petlov",
+   "views": 4063983,
+   "desc": "The moment of dog meeting cat fir the very first time 🤣\n#animals #pet #funnydogvideos #dogs #cat"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "n5dHdHXfJ5M",
+   "ch": "Kids A2Z Videos ",
+   "cid": "UCw0hMTq9wTYJYPTmw_Q7PbA",
+   "date": "2026-10-17",
+   "title": "🥹 Baby Meets a Puppy &amp; Cat for the First Time! 🐶🐱 Cutest",
+   "views": 4018615,
+   "desc": "🥰🐶🐱 The Cutest Baby, Puppy & Cat Moments Ever! ❤️ | Kids A2Z Videos\n\nGet ready for a heart-melting moment! 💕 Watch this adorable little baby interact with a fluffy golden puppy and a cute grey cat. Their sweet reactions, curious looks, and playful moments will bring a smile to your face! 🐶🐱👶\n\nIf you"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "pTrXMpgveqI",
+   "ch": "Dog Cat Family",
+   "cid": "UCr-oHehp4etDiBmMogiME_g",
+   "date": "2026-10-09",
+   "title": "Mother Cat Sees Strange Lost Kittens for the First Time—Will",
+   "views": 4072982,
+   "desc": "🐱❤️ MOTHER CAT SEES STRANGE LOST KITTENS FOR THE FIRST TIME—WILL SHE ACCEPT THEM?\n\nA mother cat encounters strange, lost kittens for the very first time, and her reaction is truly unexpected! 🐱🐾\n\nAt first, she seems cautious and unsure about these unfamiliar little kittens. Will she accept them, sho"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "aNGMfWYVkqc",
+   "ch": "Dog Cat Family",
+   "cid": "UCr-oHehp4etDiBmMogiME_g",
+   "date": "2026-10-05",
+   "title": "Mother Cat’s First Meeting with a Lost Newborn Puppy—Did She",
+   "views": 1972930,
+   "desc": "🐱🐶❤️ MOTHER CAT’S FIRST MEETING WITH A LOST NEWBORN PUPPY—DID SHE ADOPT IT?\n\nA mother cat meets a lost newborn puppy for the very first time, and her reaction is incredibly touching! 🐱🐶\n\nThe tiny puppy is alone and vulnerable, but the mother cat seems to sense that it needs help. Watch their emotion"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "7h2ImYgKSKw",
+   "ch": "Cat Dog Diary",
+   "cid": "UCmzO97ypyUKqA1pGEAzmmGA",
+   "date": "2026-08-03",
+   "title": "My Rescue Puppy&#39;s First Meeting With a Terrified Rescue ",
+   "views": 718810,
+   "desc": "I had no idea what would happen when my rescue puppy met a terrified rescue kitten for the very first time. 🥹🐾 The tiny kitten had been through so much and was frightened of everything, while the puppy simply wanted a friend.\n\nAt first, every step was filled with hesitation. The kitten kept her dist"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "XKbU6vQnXuk",
+   "ch": "The Fluffiest",
+   "cid": "UCIqXzQ2-SLOkD6-aMGYd8KA",
+   "date": "2026-05-31",
+   "title": "Baby Learns How to Pet Tiny Kittens for the First Time",
+   "views": 454322,
+   "desc": "This baby just discovered the tiniest kittens… and her reaction is absolutely precious 🥹\n\nWhile being gently held by mom, the baby carefully reaches out to touch the tiny newborn kittens for the very first time. Dad softly shows her how to pet them gently, teaching her how to be sweet and careful wi"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "VsntWxjAfNk",
+   "ch": "The Fluffiest",
+   "cid": "UCIqXzQ2-SLOkD6-aMGYd8KA",
+   "date": "2026-05-16",
+   "title": "Baby Meets Tiny Kittens — Their Reactions Are Adorable",
+   "views": 457011,
+   "desc": "A baby meets tiny kittens for the first time, and their reactions are absolutely adorable. From curious looks to gentle movements, this heartwarming moment captures the natural bond between babies and animals.\n\nAs the baby watches closely, the tiny kittens explore their new little friend, creating a"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "lJrc5ruXx5k",
+   "ch": "YT YAMIN ",
+   "cid": "UCfuirum2CnWMjtjbnnfCQ7g",
+   "date": "2026-08-21",
+   "title": "Baby Meets a Tiny Kitten for the First Time 😍🐱 | Cutest Reac",
+   "views": 1146407,
+   "desc": "This adorable baby gets the sweetest surprise when a tiny kitten pops out of a little box! 🥹🐱❤️ Her reaction is absolutely priceless!\n\nWatch until the end for the cutest kitten and baby moment! 😍\n\nHashtags:\n#CuteBaby #Kitten #CuteKitten #BabyReaction #BabyAndKitten #FunnyBaby #CuteAnimals #Adorable "
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "KR6oWSJoDu0",
+   "ch": "Funny Dog Bailey",
+   "cid": "UCfOc-5FcQLJeoFZ5wyjWYmg",
+   "date": "2025-12-13",
+   "title": "Golden Retriever’s Hilarious Reaction to a Tiny Kitten!",
+   "views": 307995,
+   "desc": "Today is a very special moment — our Golden Retriever Bailey meets our rescued kitten Luna for the very first time. 🥹🐶🐱💛\nLittle Luna was abandoned on the street, and we brought her home to give her warmth, love, and a forever family. Now it’s time to introduce her to Bailey!\n\nAt first, Bailey was ve"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "xLnTSsRm484",
+   "ch": "The Fluffiest",
+   "cid": "UCIqXzQ2-SLOkD6-aMGYd8KA",
+   "date": "2026-04-21",
+   "title": "Baby Meets Newborn Kittens for the First Time",
+   "views": 241624,
+   "desc": "Some first moments are simply unforgettable ❤️\n\nThis baby girl meets newborn kittens for the very first time — and you can see pure curiosity in her eyes. She watches them closely, completely fascinated by these tiny little creatures.\n\nThe gentle presence of the mama cat and her kittens creates such"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "90RBY7l_0LE",
+   "ch": "North The Husky",
+   "cid": "UCLtF4Z4mxVuIj6Pa-88DpQQ",
+   "date": "2026-06-07",
+   "title": "Husky Meets Mom Cat with Newborn Kittens for the First Time ",
+   "views": 211500,
+   "desc": "Watch this heartwarming moment as our Husky meets a mom cat and her newborn kittens for the very first time! 🐶🐱❤️\n\nThe gentle Husky’s reaction to these tiny kittens is absolutely priceless. From curiosity to pure affection, this adorable first encounter will melt your heart. Mom Cat carefully watche"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "i0L9vE_RR6E",
+   "ch": "꿍칫",
+   "cid": "UCFEjSFJ1RN3fZZVZhXAbyjw",
+   "date": "2026-07-03",
+   "title": "500g 아깽이가 55kg 대형견을 만났을 때",
+   "views": 260865,
+   "desc": "500g 아깽이 나비의 파란만장한 새집 적응기! 🏠🐾\n미묘 형아인 줄 알았는데... 거대 댕댕이가 왜 여기서 나와?! 😱\n역대급 덩치 차이에 제대로 멘붕 온 아기 고양이의 운명은?\n끝까지 보고 나비의 반응을 확인해 보세요! 👇\n\n※ 본 영상에 등장하는 스토리는 시청자분들께 즐거움을 드리기 위해 제작된 창작 애니메이션(픽션)입니다. 영상에 포함된 모든 이미지, 자막 및 오디오 자산은 채널 자체 제작 콘텐츠이므로 무단 복제, 재배포 및 불법 다운로드를 금지합니다. 저작권 침해 시 유튜브 커뮤니티 가이드 및 관련 법률에 따라 예고 없이 "
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "QLN8CwdVMHA",
+   "ch": "Cat Dog Story",
+   "cid": "UCiltgNsENOcWJTeywcQmi2Q",
+   "date": "2026-10-23",
+   "title": "My Golden Retriever Meets a Tiny Abandoned Kitten! His React",
+   "views": 139521,
+   "desc": "\"My Golden Retriever meets an abandoned newborn kitten for the very first time! 🐶🐱❤️ The tiny kitten is so small and helpless, but how will my gentle Golden Retriever react when he sees this little newcomer? Will he be curious, protective, or something completely unexpected?\n\nWatch until the end to "
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "d6vdMjTUyz0",
+   "ch": "Cat Dog Diary",
+   "cid": "UCmzO97ypyUKqA1pGEAzmmGA",
+   "date": "2026-01-30",
+   "title": "Abandoned Puppy Meets a Gentle Kitten for the First Time | H",
+   "views": 53893,
+   "desc": "Alone and unsure of the world, this abandoned puppy is about to have a moment that changes everything. 💔\nWhen he meets a gentle kitten for the very first time, something truly heart-melting happens. From cautious little steps and curious sniffs to soft tail wags and quiet cuddles, their first encoun"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "BDej-96FRZM",
+   "ch": "Cat Dog Diary",
+   "cid": "UCmzO97ypyUKqA1pGEAzmmGA",
+   "date": "2026-03-03",
+   "title": "From Fear to Love: A Kitten Meets a Puppy for the First Time",
+   "views": 78576,
+   "desc": "At first, she was scared. 🐱\nThe tiny kitten had never seen a puppy before, and everything about him felt big, loud, and unfamiliar.\n\nWhen they met for the very first time, she froze, unsure whether to run or stay. The puppy, on the other hand, was gentle and curious — moving slowly, trying not to fr"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "arvckS7ubEo",
+   "ch": "Golden Retriever Buddy",
+   "cid": "UCD_YSVXUySzh-kYF6DpVcTg",
+   "date": "2026-04-07",
+   "title": "Golden Retriever Meets Tiny Rescued Kitten for the First Tim",
+   "views": 41489,
+   "desc": "Watch this heartwarming moment as a gentle Golden Retriever meets a tiny rescued kitten for the very first time! 🐶🐱\nTheir adorable interaction is full of curiosity, kindness, and pure love.\n\nThis rescued kitten is small, fragile, and experiencing a safe home for the first time — and the Golden Retri"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "Mf1xNNK0j_Q",
+   "ch": "Golden Bibi TV",
+   "cid": "UCL_05wb7wxJd5Q7SISrHtRw",
+   "date": "2026-10-26",
+   "title": "A Mother Dog Meets a Tiny Rescue Kitten for the First Time… ",
+   "views": 62687,
+   "desc": "What happens when a mother dog meets a tiny rescue kitten for the very first time? 🐶🐱❤️\n\nSurrounded by her own adorable puppies, this gentle mama dog comes face to face with a little kitten who needs a safe place and a loving family. Will she be curious, protective, or unsure about this tiny newcome"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "k9QFqp6jFvE",
+   "ch": "The Fluffiest",
+   "cid": "UCIqXzQ2-SLOkD6-aMGYd8KA",
+   "date": "2026-01-06",
+   "title": "A Kitten Meets a Baby for the First Time",
+   "views": 27542,
+   "desc": "This heartwarming video captures the precious moment when our kitten Luna meets our baby Sofia for the very first time. As Sofia gently looks at Luna and the curious kitten slowly approaches, a beautiful and emotional first meeting unfolds. This sweet interaction shows how naturally trust, curiosity"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "kJqPwxp4Uso",
+   "ch": "Rocky",
+   "cid": "UC6_p5c3EBY0x5kO3cR_VXug",
+   "date": "2026-04-25",
+   "title": "German Shepherd Meets Kittens for the First Time - You Won&#",
+   "views": 32298,
+   "desc": "You won’t believe how this German Shepherd treats these tiny newborn kittens. As the little kittens are introduced one by one, the dog’s reaction is incredibly gentle, calm, and full of care.\n\nInstead of being curious or rough, the German Shepherd shows patience and kindness, carefully observing the"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "wIxyPOLful4",
+   "ch": "TINY KITTEN",
+   "cid": "UCib-jEqHVM-Cx9Khd1-U1QQ",
+   "date": "2026-07-16",
+   "title": "Adopted Kitten Meets the Big Cat for the First Time. Cute an",
+   "views": 23754,
+   "desc": "#kitty\nAdopted Kitten Meets the Big Cat for the First Time. Cute and Heartwarming Reaction ❤️❤️❤️\nJoin this channel as a member to enjoy privileges: https://www.youtube.com/channel/UCib-jEqHVM-Cx9Khd1-U1QQ/join"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "pw1ZTdaKDNQ",
+   "ch": "Cuty Kitty",
+   "cid": "UCJtavRkPinVJtthG0XkIw_Q",
+   "date": "2026-09-23",
+   "title": "Tiny Kitten VS Giant Dog! 😱🐶🐱",
+   "views": 70811,
+   "desc": "Tiny Kitten VS Giant Dog! 😱🐶🐱\n\nBig Dog Meets Tiny Kitten For The First Time! ❤️\n Tiny Kitten Bullying A 100lb Dog! 😂🐱\n \nBig Dog Is Scared Of A Tiny Kitten?! 🤣\n\nCute Kitten VS Big Dog (Unexpected Ending!) 😱\n\n#cutekitten #bigdog #kittenvsdog #catsanddogs #cutepets #tinykitten #giantdog #dogandcat #fun"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "gohu09EU3PU",
+   "ch": "ZooloG Ai",
+   "cid": "UCwzqHGkja1Y3zJeGESt9MLw",
+   "date": "2026-08-29",
+   "title": "Golden Retriever Puppy Meets Tiny Kitten For First Time",
+   "views": 57868,
+   "desc": "First meeting! 🥹\n\nWatch this Golden Retriever puppy's priceless reaction when he meets a tiny orange kitten for the first time.\n\nWill they become best friends? Watch till the\n end!\n\nMore first-time meetings on ZooloG AI - Where Animals Lives.\n\n\n#puppymeetskitten #firsttime #goldenretrieverpuppy #kit"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "ZPvqSY7Pl6w",
+   "ch": "The Cats & Dogs Show",
+   "cid": "UC9BJJA6b5hcLEVaWQN5O0xQ",
+   "date": "2026-05-12",
+   "title": "Two Giant Dogs Meet a Tiny Kitten for the First Time… This R",
+   "views": 74,
+   "desc": "What happens when a tiny kitten meets two giant dogs for the very first time?\nWe weren't sure either… but what unfolded on this couch left us completely speechless. 💛\n\nThis little gray-and-white kitten walked into a home with a Golden Retriever and a Husky —\ntwo of the biggest, most lovable dogs you"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "NE4e_FMwhiE",
+   "ch": "PET MOMENTS HUB",
+   "cid": "UCB5M-GNaP6G0ODDAXJZeM0w",
+   "date": "2026-03-28",
+   "title": "Kitten Meets Newborn Puppy for the First Time 🐱🐶 | Cutest  &",
+   "views": 39,
+   "desc": "#petmoments #funnypets #pets #CuteAnimals #Kitten #Puppy #AnimalMoments #FunnyPets #PetLovers #ViralVideo #cat \n\nA curious brown kitten meets a tiny 20-day-old newborn puppy for the very first time — and the reaction is absolutely priceless 🐱🐶\nWatch this heartwarming and funny animal moment as their"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "cn3GWvzl-U0",
+   "ch": "North The Husky",
+   "cid": "UCLtF4Z4mxVuIj6Pa-88DpQQ",
+   "date": "2026-08-30",
+   "title": "Tiny Kitten Acts Like It’s Seeing This Giant Husky for the F",
+   "views": 34169,
+   "desc": "What happens when a tiny kitten meets a giant Husky as if they’ve never seen each other before? 🐱🐶❤️\n\nThis adorable little kitten can’t take its eyes off the huge Husky! Their first-look reaction is absolutely priceless, and the size difference makes this moment even more adorable. 🥹\n\nWatch until th"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "DAIwitwPBbw",
+   "ch": "Paws & Meows",
+   "cid": "UC7gUncr4hra5jc8YhigjgVw",
+   "date": "2026-10-07",
+   "title": "A Scared Kitten Meets a Puppy",
+   "views": 39507,
+   "desc": ""
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "ofxc4BfdkQM",
+   "ch": "Stranger Than You",
+   "cid": "UCwM8BuZ9mrSRKfphdQDNvLA",
+   "date": "2026-03-30",
+   "title": "Ranking Kittens Meeting a Dog for the First Time 🐱🐶",
+   "views": 26452,
+   "desc": "Which reaction was your favorite? 👇\nWatch these adorable kittens meet a dog for the very first time — some are brave, some are not so sure! 🐱🐶\n#kittens #cats #catranking #cute #cuteanimals #funnyanimals #dogsandcats #catsoftiktok #animals #ranking"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "E1o2OcvjmsM",
+   "ch": "Mritunjay",
+   "cid": "UCdVUjabyo9KuqNR4Gz0K30w",
+   "date": "2026-01-14",
+   "title": "Rescue Kitten Meets Other Cats for the First Time 😻 Emotiona",
+   "views": 33446,
+   "desc": "A rescued kitten meets other cats for the very first time 🥹🐱\nTheir cute, curious, and heart-melting reaction will make your day ❤️\nIf you love rescue stories and cats, this video is for you!\n👉 Like, Share & Follow for more cute rescue cat videos 🐾\n\n#rescuekitten\n#kittenrescue\n#catreaction\n#catsmeeti"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "dIEWAxDeWWo",
+   "ch": "Fantastic Leah",
+   "cid": "UCmFr1LqyaYBjRxIBay3kViw",
+   "date": "2025-12-04",
+   "title": "Kitten Meets Leopard Cub for the First Time — Their Reaction",
+   "views": 36083,
+   "desc": "A tiny American Shorthair kitten faces a baby leopard for the very first time. Their confused stares, funny retreating steps, and adorable nose boops make this one of the cutest wild-meets-domestic moments ever. Perfect for fans of funny pet reactions and animal friendships.\n\n#Kitten #LeopardCub #Fu"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "Av95qhQLSZE",
+   "ch": "Dog Cat Family",
+   "cid": "UCr-oHehp4etDiBmMogiME_g",
+   "date": "2026-10-10",
+   "title": "Puppy Meets Mother Cat and Her Kittens for the First Time—Ca",
+   "views": 18355,
+   "desc": "🐶🐱❤️ PUPPY MEETS MOTHER CAT AND HER KITTENS FOR THE FIRST TIME—CAN THEY GET ALONG?\n\nA curious little puppy meets a mother cat and her adorable kittens for the very first time! 🐶🐱 What will happen when the playful puppy approaches the protective mother cat and her tiny babies?\n\nWill the mother cat we"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "SSXza0LfduY",
+   "ch": "Buddy",
+   "cid": "UCkn69N_9CoPYIMArbQw6t-Q",
+   "date": "2026-09-19",
+   "title": "Golden Retriever Meets a Tiny Kitten… He Has NO Idea What to",
+   "views": 22850,
+   "desc": "🐶🐱 Golden Retriever Meets a Tiny Kitten… and He Has NO Idea What to Do! 😂\n\nWhat happens when a gentle Golden Retriever meets a tiny kitten for the very first time? 🐾 This adorable little newcomer has completely confused him! 😂\n\nThe Golden Retriever tries to figure out what this tiny furry creature w"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "YlguzvWi75s",
+   "ch": "Amosed Jack",
+   "cid": "UCjZggOpVAocehpmQMoNiqFQ",
+   "date": "2026-06-29",
+   "title": "🐶🐱 Puppies and Kittens Meeting for the First Time 💞",
+   "views": 25620,
+   "desc": "Two tiny hearts meet for the very first time! 🥹 Watch these adorable puppies and kittens discover friendship in the cutest way possible. ❤️\n\nIf this made you smile, Like 👍, Comment 💬, and Subscribe 🔔 for more heartwarming animal stories.\n\n#puppy #kitten #dogs #cats #cuteanimals #animalfriends #petlo"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "FBxJqadV540",
+   "ch": "Cat Dog Story",
+   "cid": "UCiltgNsENOcWJTeywcQmi2Q",
+   "date": "2026-10-05",
+   "title": "My Dachshund Meets Two Kittens for the First Time… Their Rea",
+   "views": 26940,
+   "desc": "\"What happens when my Dachshund meets two kittens for the very first time? 🐶🐱🐱❤️ Watch their adorable first meeting as they slowly get to know each other. From curiosity to sweet little moments, you won’t want to miss what happens next!\n\nIf you love cute dogs, kittens, and heartwarming animal moment"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "PXA_iK1GjVo",
+   "ch": "FashionForager",
+   "cid": "UCCrdxU7P5DAkFdPyr7OUsVw",
+   "date": "2026-08-19",
+   "title": "When a Kitten Meets a Giant Dog for the First Time",
+   "views": 26755,
+   "desc": ""
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "yFouxO2Hkbc",
+   "ch": "Cat Dog Story",
+   "cid": "UCiltgNsENOcWJTeywcQmi2Q",
+   "date": "2026-10-19",
+   "title": "My Golden Retriever Meets Newborn Kittens for the First Time",
+   "views": 23007,
+   "desc": "My Golden Retriever meets newborn kittens for the very first time, and Mom Cat’s reaction is truly unbelievable! 🐶🐱❤️ How will she react when this gentle dog gets close to her tiny babies? Watch this heartwarming moment to find out!\n\nIf you love Golden Retrievers, cute kittens, and adorable dog-and-"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "eQ4E7-zZwGg",
+   "ch": "North The Husky",
+   "cid": "UCLtF4Z4mxVuIj6Pa-88DpQQ",
+   "date": "2026-04-16",
+   "title": "Tiny Kitten Meets Another Kitten — Husky’s Reaction Says It ",
+   "views": 13681,
+   "desc": "A tiny kitten meets another kitten for the very first time… and the giant husky’s reaction says it all! 🐶🐱🐱\n\nWatch this adorable and funny moment as a curious little kitten comes face to face with a new furry friend, while a gentle husky observes everything in the cutest way possible. The expression"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "yRk3KkHFI1Q",
+   "ch": "North The Husky",
+   "cid": "UCLtF4Z4mxVuIj6Pa-88DpQQ",
+   "date": "2026-04-08",
+   "title": "Giant Husky Meets Tiny Rescued Kitten for the First Time… So",
+   "views": 12592,
+   "desc": "Watch this incredibly heartwarming moment as a giant Husky meets a tiny rescued kitten for the very first time! 🐶🐱\n\nThe size difference is unbelievable, but the Husky’s gentle and caring reaction will melt your heart. This tiny kitten, recently rescued, is experiencing safety and love — and this big"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "wjkfV4ZOjOs",
+   "ch": "Golden Retriever Buddy",
+   "cid": "UCD_YSVXUySzh-kYF6DpVcTg",
+   "date": "2026-06-06",
+   "title": "Golden Retriever Meets Mom Cat with Newborn Kittens for the ",
+   "views": 13116,
+   "desc": "🐶❤️ Golden Retriever Meets Mom Cat with Newborn Kittens for the First Time!\n\nThis heartwarming moment captured everyone’s hearts as a gentle golden retriever met a mother cat and her newborn kittens for the very first time. The sweet interaction between these adorable animals shows the incredible bo"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "A9iGOOmugQI",
+   "ch": "Paws & Meows",
+   "cid": "UC7gUncr4hra5jc8YhigjgVw",
+   "date": "2026-05-08",
+   "title": "Corgi Puppy Meets Kittens for the First Time! 🐶🐱 Cutest Reac",
+   "views": 11690,
+   "desc": "🐾 Watch this adorable baby Corgi meet a group of tiny kittens — and the result is TOO CUTE to handle! \n\nThese fluffy little ones played together like they've been best friends forever. \nPure joy, zero drama. 🥹\n\n✅ Subscribe for daily doses of cute pets: [频道链接]\n🔔 Hit the bell so you never miss a video"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "V_njeuBwH8c",
+   "ch": "Dog Cat Family",
+   "cid": "UCr-oHehp4etDiBmMogiME_g",
+   "date": "2026-10-14",
+   "title": "Mother Cat and Her Kittens Meet a Litter of Puppies for Sale",
+   "views": 17630,
+   "desc": "🐱🐶❤️ MOTHER CAT AND HER KITTENS MEET A LITTER OF PUPPIES FOR SALE FOR THE FIRST TIME—WILL SHE ADOPT THEM?\n\nA mother cat and her adorable kittens meet a litter of puppies for sale for the very first time! 🐱🐶 The little puppies are looking for a loving home, but what will happen when they meet this pr"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "yT17_qBjdzk",
+   "ch": "Buddy",
+   "cid": "UCkn69N_9CoPYIMArbQw6t-Q",
+   "date": "2026-04-08",
+   "title": "Golden Retriever Meets Abandoned Kitten For The First Time… ",
+   "views": 10274,
+   "desc": "A heartwarming moment you won’t forget ❤️\nWatch this gentle Golden Retriever meet an abandoned kitten for the very first time… and his reaction is pure love. From curiosity to instant friendship, this touching encounter shows how animals can connect in the most beautiful ways.\n\nGet ready to smile, l"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "vk9oZXojuQ4",
+   "ch": "Golden Retriever Buddy",
+   "cid": "UCD_YSVXUySzh-kYF6DpVcTg",
+   "date": "2026-06-28",
+   "title": "Golden Retriever’s Heartwarming First Meeting with a Tiny Ki",
+   "views": 9064,
+   "desc": "Watch the most heartwarming first meeting between a gentle Golden Retriever and a tiny kitten! 🐶🐱 Their adorable reactions, gentle cuddles, and instant friendship will melt your heart. This wholesome animal moment proves that love knows no boundaries. If you enjoy cute pets, funny animal videos, and"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "gRu9MunYKvo",
+   "ch": "DreamyMeows",
+   "cid": "UCQS7NN7sSn2eDdRxR9eC61g",
+   "date": "2025-11-24",
+   "title": "Cute Kitty Meets a puppy… Her Reaction Is Priceless! 😹🐶 #cat",
+   "views": 20212,
+   "desc": "A brave little kitten meets a puppy for the first time… 🐱\nWhat happens next? Let’s just say, it’s not what you expect — her reaction will make your day! 😹✨"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "5wLUVSKxw-0",
+   "ch": "Mushroom Corgi",
+   "cid": "UC-5OYu3501kSe9Y5Ww51xKg",
+   "date": "2026-11-18",
+   "title": "A Tiny Puppy&#39;s First Meeting With a Tiny Kitten… Their R",
+   "views": 16720,
+   "desc": "A Tiny Puppy's First Meeting With a Tiny Kitten… Their Reaction Will Melt Your Heart!\n#goldenretriever #funnyanimals #kitten #puppy \n\nA tiny puppy meets a tiny kitten for the very first time. How will these two little strangers react to each other? Their adorable first encounter will melt your heart"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "HlfTeuhRGHI",
+   "ch": "Golden Buddy Diary",
+   "cid": "UCowsSDsTe0bp2PxgD55SZDQ",
+   "date": "2026-09-19",
+   "title": "Golden Retriever&#39;s Heartwarming Reaction When First Meet",
+   "views": 15549,
+   "desc": "Golden Retriever's Heartwarming Reaction When First Meeting Rescue Kitten! #goldenretriever #dog #kitten"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "BjpNJy3hRZI",
+   "ch": "Buddy",
+   "cid": "UCkn69N_9CoPYIMArbQw6t-Q",
+   "date": "2026-07-31",
+   "title": "⁠Cat Meets a Tiny Kitten for the First Time — Golden Retriev",
+   "views": 7094,
+   "desc": "What happens when a curious cat meets a tiny kitten for the very first time? 🐱❤️ Watch this adorable first encounter as emotions, curiosity, and unexpected reactions unfold. But that’s not all—our Golden Retriever has the funniest and most heartwarming reaction to the new little family member!\n\nThis"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "rjzR4TPSuvA",
+   "ch": "GBC Cats",
+   "cid": "UCf4G8ZcRQPKglmdfRFBZ3Ew",
+   "date": "2026-09-25",
+   "title": "Rescued Kitten Meets Outdoor Cat for the First Time and Thei",
+   "views": 15227,
+   "desc": "Reaction of the outdoor cat when it saw the new rescued kitten for the first time. Their first meeting was not that good. They later became good friends.\n\n#CatMeetsKitten #FirstMeeting #RescuedKitten #TalkingCats #FunnyCats #CatShorts #Shorts #YouAreNotWelcomeHere #CalicoCat #KittenMeetingCat #CatRe"
+  },
+  {
+   "q": "kitten meets puppy first time reaction",
+   "vid": "6MwqsTJ1Rx0",
+   "ch": "animal media",
+   "cid": "UC-UnOOzIMlqO7TweY5JbeJA",
+   "date": "2026-01-29",
+   "title": "Big Dog Meets Tiny Kitten 🐶🐱Cute &amp; Funny Animal Moment😂",
+   "views": 14262,
+   "desc": "In this video, a big dog gently interacts with a tiny kitten for the first time.\nTheir adorable reaction and cute expressions make this moment truly heart-warming.\nIf you love dog and cat videos, you will definitely enjoy this sweet interaction.\n\nMake sure to like, comment, and subscribe for more cu"
   }
  ]
 }
