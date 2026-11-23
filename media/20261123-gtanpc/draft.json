@@ -7,6 +7,7 @@
   "category": "게임·화제",
   "images": [
    "cover_bg.jpg",
+   "cover_bg.jpg",
    "c02.jpg",
    "c03.jpg",
    "c04.jpg",
@@ -20,6 +21,14 @@
    {
     "lay": "one",
     "t": "GTA6 속 NPC가 눈치챘다\n\"여긴 '게임'이다\""
+   },
+   {
+    "video": {
+     "src": "video/ign.mp4",
+     "start": 19,
+     "dur": 33,
+     "audio": true
+    }
    },
    {
     "raw": true
@@ -70,6 +79,7 @@
   ],
   "photo_credits": [
    "GTA6 게임 화면(Rockstar Games)",
+   "IGN 영상",
    "영화 '트루먼 쇼'(1998) 장면"
   ]
  }
