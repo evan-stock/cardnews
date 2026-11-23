@@ -37,5 +37,7 @@ frame(("세 번째 의심", "\"차들이 '사라진다'\""), op(5), "돌아보�
 frame(("그리고 깨달았다", "\"왜 나는 '못 떠나지'?\""), op(6), "게임 무대 '레오니다'를 벗어날 수 없다", "\"로스산토스 가는 표를 사려 했는데\"", "c06.jpg")
 frame(("마지막 가설", "\"J와 L만 '자유의지'가 있다\""), op(7), "J·L = 주인공 '제이슨·루시아'", S, "c07.jpg")
 frame(("이 집, 5년 전에 이미 나왔다", "2021년 'GTA 산안드레아스' 리메이크"), op(8), "UFO 사진 속 그 집이 GTA6 '첫 단서'였다", "Dexerto·Complex 보도", "c08.jpg")
-ImageOps.fit(op(2), (W, H), Image.LANCZOS, centering=(.3, .5)).save(O / "cover_bg.jpg", quality=95)
+L = ImageOps.fit(op(2), (538, H), Image.LANCZOS, centering=(.22, .5))
+Rt = ImageOps.fit(Image.open(O / "p1_1.jpg").convert("RGB").crop((556, 444, 1072, 1130)), (538, H), Image.LANCZOS, centering=(.5, .3))
+cv = Image.new("RGB", (W, H), (10, 10, 12)); cv.paste(L, (0, 0)); cv.paste(Rt, (542, 0)); cv.save(O / "cover_bg.jpg", quality=95)
 print("ok")
