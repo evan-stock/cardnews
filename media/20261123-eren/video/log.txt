@@ -1,0 +1,9 @@
+ERROR: [twitter] 2124716664080273769: No video could be found in this tweet
+사진 받음 p1_1.jpg
+영상 없는 글(사진만): https://x.com/juhyeon6749/status/2124716664080273769
+total 244
+drwxr-xr-x 2 runner runner   4096 Nov 23 05:59 .
+drwxr-xr-x 3 runner runner   4096 Nov 23 05:59 ..
+-rw-r--r-- 1 runner runner    182 Nov 23 05:59 log.txt
+-rw-r--r-- 1 runner runner 230359 Nov 23 05:59 p1_1.jpg
+-rw-r--r-- 1 runner runner    485 Nov 23 05:59 x1.json
