@@ -82,8 +82,7 @@ bg = ImageOps.fit(op(bgsrc), (W, H), Image.LANCZOS, centering=(.5, .5))
 rt = op("rt1.png"); face = rt.crop((1090 - 200, 40, 1090 + 200, 440)).resize((300, 300), Image.LANCZOS)
 D0 = 300; mk = Image.new("L", (D0, D0), 0); ImageDraw.Draw(mk).ellipse((0, 0, D0 - 1, D0 - 1), fill=255)
 x0, y0 = W - D0 - 60, 90
-ImageDraw.Draw(bg).ellipse((x0 - 8, y0 - 8, x0 + D0 + 7, y0 + D0 + 7), fill=(255, 255, 255))
-bg.paste(face, (x0, y0), mk)
+# 동그라미 프로필은 2026.11.23 사용자 지시로 뺌
 if bgsrc == "eye_up.png":  # 사용자가 준 AI 합성 이미지(눈만 파충류 눈으로 바꿈) → 실제 사진으로 오해 없게 표시
     d = ImageDraw.Draw(bg); f = F("SemiBold", 34); t = "AI 합성 이미지"; tw = d.textlength(t, font=f)
     d.rounded_rectangle((60, 100, 60 + tw + 40, 160), 12, fill=(0, 0, 0)); d.text((80, 130), t, font=f, fill=(255, 255, 255), anchor="lm")
