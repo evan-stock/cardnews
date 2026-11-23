@@ -1,0 +1,9 @@
+ERROR: [twitter] 2124675678914400751: No video could be found in this tweet
+사진 받음 p1_1.jpg
+영상 없는 글(사진만): https://x.com/itwillbe_sage/status/2124675678914400751
+total 256
+drwxr-xr-x 2 runner runner   4096 Nov 23 02:47 .
+drwxr-xr-x 3 runner runner   4096 Nov 23 02:47 ..
+-rw-r--r-- 1 runner runner    184 Nov 23 02:47 log.txt
+-rw-r--r-- 1 runner runner 243793 Nov 23 02:47 p1_1.jpg
+-rw-r--r-- 1 runner runner    495 Nov 23 02:47 x1.json
