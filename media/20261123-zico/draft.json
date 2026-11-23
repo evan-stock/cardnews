@@ -7,6 +7,7 @@
   "category": "국내 이슈",
   "images": [
    "cover_bg.jpg",
+   "cover_bg.jpg",
    "c02.jpg",
    "c03.jpg",
    "c04.jpg",
@@ -18,6 +19,16 @@
    {
     "lay": "one",
     "t": "엑셀방송 대부 커맨더지코\n'200억' 날리고 오열"
+   },
+   {
+    "video": {
+     "src": "video/src.mp4",
+     "start": 0,
+     "dur": 12.4,
+     "x": 0.55,
+     "y": 0.5,
+     "audio": true
+    }
    },
    {
     "raw": true
