@@ -1,30 +1,17 @@
 [
  {
-  "id": "20261123-yeouiref",
-  "mode": "collect",
-  "image_pages": [
-   "https://www.instagram.com/p/DgEWoodk3Jc/embed/captioned/",
-   "https://www.instagram.com/p/DgEWoodk3Jc/"
-  ],
-  "read_pages": [
-   "https://www.instagram.com/p/DgEWoodk3Jc/embed/captioned/"
-  ],
-  "limit": 20
- },
- {
   "id": "20261123-yeoui",
   "mode": "collect",
   "image_pages": [
-   "https://www.fmkorea.com/best/10524464929",
-   "https://bbs.ruliweb.com/community/board/300143/read/77297187",
    "https://view.asiae.co.kr/article/2026112014574365103",
    "https://theonetv.kr/news/articleView.html?idxno=255719",
    "https://www.topstarnews.net/news/articleView.html?idxno=16283296",
-   "https://www.ekn.kr/web/view.php?key=20261123028273159"
+   "https://www.ekn.kr/web/view.php?key=20261123028273159",
+   "https://m.ruliweb.com/community/board/300143/read/77297187"
   ],
-  "read_pages": [
-   "https://bbs.ruliweb.com/community/board/300143/read/77297187",
-   "https://view.asiae.co.kr/article/2026112014574365103"
+  "shot_pages": [
+   "https://m.ruliweb.com/community/board/300143/read/77297187",
+   "https://www.fmkorea.com/best/10524464929"
   ],
   "limit": 40
  }
