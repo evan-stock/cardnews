@@ -8,11 +8,6 @@
   "images": [
    "cover_bg.jpg",
    "cover_bg.jpg",
-   "c02.jpg",
-   "c03.jpg",
-   "c04.jpg",
-   "c05.jpg",
-   "c06.jpg",
    "cover_bg.jpg"
   ],
   "slides": [
@@ -29,21 +24,6 @@
      "y": 0.5,
      "audio": true
     }
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
    },
    {
     "t": "저렇게 울어도\n'또' 벌겠지?",
@@ -68,8 +48,7 @@
    }
   ],
   "photo_credits": [
-   "SOOP 방송 화면",
-   "스포츠서울 기사 화면"
+   "SOOP 방송 화면"
   ]
  }
 ]
