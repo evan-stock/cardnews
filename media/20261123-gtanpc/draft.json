@@ -8,13 +8,6 @@
   "images": [
    "cover_bg.jpg",
    "cover_bg.jpg",
-   "c02.jpg",
-   "c03.jpg",
-   "c04.jpg",
-   "c05.jpg",
-   "c06.jpg",
-   "c07.jpg",
-   "c08.jpg",
    "cover_bg.jpg"
   ],
   "slides": [
@@ -29,27 +22,6 @@
      "dur": 33,
      "audio": true
     }
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
-   },
-   {
-    "raw": true
    },
    {
     "t": "NPC도 눈치챘는데\n'우리'는 괜찮을까?",
