@@ -1,5 +1,2 @@
-shot 20261123-zico https://www.sportsseoul.com/news/read/1651513 ss desk clean noimg
-shot 20261123-zico https://m.news.nate.com/view/20261123n02902 nt desk clean noimg
-shot 20261123-zico https://www.newsquest.co.kr/news/articleView.html?idxno=240949 nq desk clean noimg
-shot 20261123-zico https://www.inews24.com/view/1744236 in desk clean noimg
-shot 20261123-zico https://www.job-post.co.kr/news/articleView.html?idxno=133204 jp desk clean noimg
+get 20261123-eren https://attackontitan.fandom.com/api.php?action=query&titles=Founding_Titan|Eren_Yeager|Rumbling&prop=images&imlimit=200&format=json imgs.json
+get 20261123-eren https://attackontitan.fandom.com/api.php?action=query&generator=images&titles=Founding_Titan&gimlimit=100&prop=imageinfo&iiprop=url|size&format=json founding.json
