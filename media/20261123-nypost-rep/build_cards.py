@@ -77,8 +77,8 @@ frame(("본인 해명", "\"분명히 저는 '인간'입니다\""), shot((0, 7205
       "\"파충류나 외계인에 대해선 '할 말 없다'\"", "\"영상 속에서 무슨 일이 있었는지 나도 모르겠다\"").save(O / "c04.jpg", quality=93)
 # 표지(2026.11.23 사용자 지시): 기자회견 장면(눈 하얗게 바뀌는 순간) 꽉 채우고, 의원 공식 사진은 동그라미 안에 작게. 겹쳐 합성하지 않음
 import os
-bgsrc = "eye_up.png" if os.path.exists(O / "eye_up.png") else "eye_white.png"  # eye_up.png = 사용자가 화질 올린 사진
-bg = ImageOps.fit(op(bgsrc), (W, H), Image.LANCZOS, centering=(.5, .3)).filter(ImageFilter.UnsharpMask(2, 50, 2))
+bgsrc = "eye_up.png" if os.path.exists(O / "eye_up.png") else "eye_center.png"  # eye_up.png = 사용자가 화질 올린 사진
+bg = ImageOps.fit(op(bgsrc), (W, H), Image.LANCZOS, centering=(.5, .5)).filter(ImageFilter.UnsharpMask(2, 50, 2))
 rt = op("rt1.png"); face = rt.crop((1090 - 200, 40, 1090 + 200, 440)).resize((300, 300), Image.LANCZOS)
 D0 = 300; mk = Image.new("L", (D0, D0), 0); ImageDraw.Draw(mk).ellipse((0, 0, D0 - 1, D0 - 1), fill=255)
 x0, y0 = W - D0 - 60, 90
