@@ -1,0 +1,121 @@
+[
+ {
+  "out": "/home/user/cardnews/media/20261123-alicechip/cand/c02.jpg",
+  "sub": "이데일리 · 11월 22일",
+  "title": "\"한국인 감금\" 조직과도\n칩 밀수 '연결고리'",
+  "cap": "/home/user/cardnews/media/20261123-alicechip/cand/k02.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "이데일리 기사 캡처",
+  "label": "파이낸셜타임스 11월 21일(현지) 보도",
+  "lines": [
+   "소식통 '10여 명'·기업 공시 수백 건 분석"
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-alicechip/cand/c03.jpg",
+  "sub": "이데일리 · 11월 22일",
+  "title": "프린스그룹 2인자가\n칩 운반 '일부' 맡았다",
+  "cap": "/home/user/cardnews/media/20261123-alicechip/cand/k03.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "이데일리 기사 캡처",
+  "label": "후샤오웨이, 올여름 일본에서 체포",
+  "lines": [
+   "게임 거물·페이퍼컴퍼니 '수백 개'가 맞물려"
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-alicechip/cand/c04.jpg",
+  "sub": "이데일리 · 11월 22일",
+  "title": "그가 돈 번 곳은\n한국 게임 '미르의 전설'",
+  "cap": "/home/user/cardnews/media/20261123-alicechip/cand/k04.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "이데일리 기사 캡처",
+  "label": "위메이드 게임 '사설 서버'로 큰돈",
+  "lines": [
+   "앨리스 황 남편이 투자한 게임사가 '연결고리'"
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-alicechip/cand/c05.jpg",
+  "sub": "이데일리 · 11월 22일",
+  "title": "칩 빼돌린 '세 축'\n끝은 중국 암시장",
+  "cap": "/home/user/cardnews/media/20261123-alicechip/cand/k05.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "이데일리 기사 캡처",
+  "label": "칩 받을 업체 · '깨끗한' 고객 · 지하 조직",
+  "lines": [
+   "\"칩 밀수는 '마약·무기'와 다르지 않다\""
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-alicechip/cand/c06.jpg",
+  "sub": "이데일리 · 11월 22일",
+  "title": "중국 업계에선\n'젠슨의 개인비서'",
+  "cap": "/home/user/cardnews/media/20261123-alicechip/cand/k06.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "이데일리 기사 캡처",
+  "label": "메가스피드의 '믿을 만한' 대외 임원",
+  "lines": [
+   "엔비디아 심사 통과, 동남아 '최대' 고객사로"
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-alicechip/cand/c07.jpg",
+  "sub": "이데일리 · 11월 22일",
+  "title": "1년 신고액 '6조 원'\n급습하니 '빈 서버랙'",
+  "cap": "/home/user/cardnews/media/20261123-alicechip/cand/k07.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "이데일리 기사 캡처",
+  "label": "칩은 동남아 거쳐 중국 암시장으로",
+  "lines": [
+   "엔비디아 \"작년 메가스피드 '판매 차단'\""
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-alicechip/cand/c08.jpg",
+  "sub": "한국경제 · 11월 22일",
+  "title": "다른 말도 있다\n\"실제 운영자는 '따로'\"",
+  "cap": "/home/user/cardnews/media/20261123-alicechip/cand/k08.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "한국경제 기사 캡처",
+  "label": "WSJ \"앨리스 황은 대외 '얼굴' 역할\"",
+  "lines": [
+   "프린스그룹도 \"후샤오웨이 일한 적 '없다'\""
+  ]
+ }
+]
