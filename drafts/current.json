@@ -1,18 +1,13 @@
 [
  {
-  "id": "20261123-bujin",
+  "id": "20261123-ddakref",
   "mode": "collect",
   "image_pages": [
-   "https://www.fnnews.com/news/202611231014237306",
-   "https://www.kgnews.co.kr/news/article.html?no=920729",
-   "https://www.insight.co.kr/news/583162",
-   "https://www.seoultimes.news/news/article.html?no=2000102555",
-   "https://news.jkn.co.kr/post/1115701"
+   "https://www.instagram.com/p/DgEI5fMD0Bv/embed/captioned/"
   ],
-  "shot_pages": [
-   "https://www.fnnews.com/news/202611231014237306",
-   "https://www.insight.co.kr/news/583162"
+  "read_pages": [
+   "https://www.instagram.com/p/DgEI5fMD0Bv/embed/captioned/"
   ],
-  "limit": 30
+  "limit": 20
  }
 ]
