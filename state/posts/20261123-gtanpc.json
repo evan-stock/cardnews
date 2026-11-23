@@ -2,7 +2,7 @@
  "id": "20261123-gtanpc",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-23T18:09:04+09:00",
  "publish_at": "2026-11-23T18:09:04+09:00",
  "topic": "GTA6 '자기가 게임 속에 있다고 믿는 NPC' 이스터에그",
@@ -49,5 +49,8 @@
   "media/20261123-gtanpc/02.mp4",
   "media/20261123-gtanpc/03.jpg"
  ],
- "decided_at": "2026-11-23T18:09:04+09:00"
+ "decided_at": "2026-11-23T18:09:04+09:00",
+ "ig_media_id": "18110993915265700",
+ "permalink": "https://www.instagram.com/p/DgFCK2InAM5/",
+ "published_at": "2026-11-23T18:15:11.786666+09:00"
 }
