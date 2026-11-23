@@ -1,0 +1,36 @@
+[
+ {
+  "out": "/home/user/cardnews/media/20261123-yeoui/cand/c03.jpg",
+  "sub": "뉴스핌 · 11월 23일",
+  "title": "그리고 오늘\n코스피 '매도 사이드카'",
+  "cap": "/home/user/cardnews/media/20261123-yeoui/cand/k03.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "뉴스핌 기사 캡처",
+  "label": "코스피 장중 5.61% 급락, 4600선 붕괴",
+  "lines": [
+   "미국 반도체주 '폭락' 여파"
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261123-yeoui/cand/c04.jpg",
+  "sub": "뉴스핌 · 11월 23일",
+  "title": "삼전 17만·닉스 105만\n팻말 '1차' 숫자 깨졌다",
+  "cap": "/home/user/cardnews/media/20261123-yeoui/cand/k04.png",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 660,
+  "caption": "뉴스핌 기사 캡처(오전 11시 45분 기준)",
+  "label": "삼성전자 -5.90% · SK하이닉스 -5.66%",
+  "lines": [
+   "남은 건 '2차' 삼전 14만·닉스 75만"
+  ]
+ }
+]
