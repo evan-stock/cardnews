@@ -1,0 +1,7 @@
+WARNING: [generic] Falling back on generic information extractor
+total 6912
+drwxr-xr-x 2 runner runner    4096 Nov 23 00:11 .
+drwxr-xr-x 3 runner runner    4096 Nov 23 00:11 ..
+-rw-r--r-- 1 runner runner      65 Nov 23 00:11 log.txt
+-rw-r--r-- 1 runner runner 7059588 Nov 23 00:11 v1.mp4
+-rw-r--r-- 1 runner runner     481 Nov 23 00:11 x1.json
