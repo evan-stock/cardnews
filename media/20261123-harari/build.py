@@ -15,7 +15,7 @@ def top():
     lg=Image.open('brand/logo_typo_A.png').convert('RGBA'); h=46; lg=lg.resize((int(lg.width*h/lg.height),h)); im.alpha_composite(lg,(70,238))
     f=ImageFont.truetype(FX,34); tag='『사피엔스』 유발 하라리'; tw=d.textlength(tag,font=f)
     d.rounded_rectangle((70,310,70+tw+36,362),radius=8,fill=Y); d.text((88,336),tag,font=f,fill=(0,0,0),anchor='lm')
-    L=['AI가 진짜 무서운 건','살인 로봇이 아니라','"현실이 무너지는 것"']
+    L=['AI 시대 인간은','결국 소·닭 신세','이해도 못 한 채 지배당한다']
     for i,l in enumerate(L): d.text((70,433+i*88),l,font=fit(d,l,FB,78,940),fill=Y if i==2 else (255,255,255),anchor='ls')
     im.save(f'{R}/top.png')
 def cap(i,small,b1,b2):
