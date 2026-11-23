@@ -2,7 +2,7 @@
  "id": "20261123-bujin",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-23T13:32:00+09:00",
  "publish_at": "2026-11-23T13:32:00+09:00",
  "topic": "이부진 아들, 성인 되자 어머니 성 '이씨'로 성본 변경(법원 허가)",
@@ -63,5 +63,8 @@
   "media/20261123-bujin/05.jpg",
   "media/20261123-bujin/06.jpg"
  ],
- "decided_at": "2026-11-23T13:32:00+09:00"
+ "decided_at": "2026-11-23T13:32:00+09:00",
+ "ig_media_id": "18116331196870967",
+ "permalink": "https://www.instagram.com/p/DgEh_EEkeK2/",
+ "published_at": "2026-11-23T13:34:02.807352+09:00"
 }
