@@ -81,7 +81,7 @@ def collect(d, base):
                 pg = b.new_page(viewport={"width": 900, "height": 1400}, device_scale_factor=2, locale="ko-KR")
                 for k, u in enumerate(shots, 1):
                     try:
-                        pg.goto(u, timeout=45000, wait_until="networkidle")
+                        pg.goto(u, timeout=45000, wait_until="domcontentloaded"); pg.wait_for_timeout(3000)
                         pg.wait_for_timeout(1500)
                         pg.screenshot(path=str(base / "cand" / f"shot{k:02d}.png"))
                         print("캡처:", u)
