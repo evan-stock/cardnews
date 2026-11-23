@@ -19,5 +19,22 @@
    "https://www.hankyung.com/article/2026112224531"
   ],
   "limit": 30
+ },
+ {
+  "id": "20261123-bujin",
+  "mode": "collect",
+  "image_pages": [
+   "https://www.fnnews.com/news/202611231014237306",
+   "https://www.kgnews.co.kr/news/article.html?no=920729",
+   "https://www.insight.co.kr/news/583162",
+   "https://www.seoultimes.news/news/article.html?no=2000102555",
+   "https://news.jkn.co.kr/post/1115701",
+   "https://kr.investing.com/news/stock-market-news/article-2186502"
+  ],
+  "read_pages": [
+   "https://www.fnnews.com/news/202611231014237306",
+   "https://www.insight.co.kr/news/583162"
+  ],
+  "limit": 30
  }
 ]
