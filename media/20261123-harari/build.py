@@ -55,6 +55,6 @@ subprocess.run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i',f'{R}/
 fr=f'{R}/cover_frame.jpg'; subprocess.run(['ffmpeg','-v','error','-y','-ss','12','-i',SRC,'-frames:v','1',fr],check=True)
 im=Image.open(fr).convert('RGB'); im=im.crop((100,0,1180,720)).resize((1080,720))
 cv=Image.new('RGB',(1080,1920),(0,0,0)); cv.paste(im,(0,330)); cv.save(f'{R}/cover_bg.jpg',quality=95)
-subprocess.run(['python3','scripts/reel_overlay.py',f'{R}/overlay.png','하라리 경고\nAI의 공포는\n살인 로봇이 아니다'],check=True)
+subprocess.run(['python3','scripts/reel_overlay.py',f'{R}/overlay.png','하라리 경고\n인간은 결국\n소·닭 신세 된다'],check=True)
 ov=Image.open(f'{R}/overlay.png'); c=cv.convert('RGBA'); c.alpha_composite(ov); c.convert('RGB').save('media/20261123-harari/reel_cover.jpg',quality=94)
 print('done')
