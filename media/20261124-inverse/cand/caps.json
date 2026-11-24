@@ -1,0 +1,87 @@
+[
+ {
+  "out": "/home/claude/wt/media/20261124-inverse/cand/c_ark.jpg",
+  "sub": "① '돈나무 언니' 캐시 우드",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "복귀 직전 한 주\n엔비디아 '1억 달러' 넘게 팔았다",
+  "cap": "/home/claude/wt/media/20261124-inverse/cand/cap_ark.png",
+  "caption": "야후파이낸스(구루포커스) 기사 캡처",
+  "label": "그 전주엔 1,600만 달러어치 샀다가 뒤집어",
+  "lines": [
+   "팔고 난 다음 주 월요일",
+   "엔비디아는 하루 31% 급등"
+  ],
+  "cap_max_h": 330
+ },
+ {
+  "out": "/home/claude/wt/media/20261124-inverse/cand/c_cramer.jpg",
+  "sub": "② '인버스 크레이머' 짐 크레이머",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "금요일 '약세'로 돌아서자\n월요일 '폭등'",
+  "cap": "/home/claude/wt/media/20261124-inverse/cand/cap_cramer.png",
+  "caption": "미디에이트 기사 캡처",
+  "label": "\"인버스 크레이머는 자연법칙\" 밈 폭발",
+  "lines": [
+   "사임 직후엔 \"차익 실현해 비중 줄여라\"(CNBC)",
+   "복귀 날엔 \"이건 엄청난 일\"이라며 환호"
+  ],
+  "cap_max_h": 470
+ },
+ {
+  "out": "/home/claude/wt/media/20261124-inverse/cand/c_jig.jpg",
+  "sub": "③ 전인구경제연구소",
+  "title": "\"AI 버블이 터지고 있다\"\n직후 엔비디아 '31%' 급등",
+  "cap": "/home/claude/wt/media/20261124-inverse/cand/cap_jig.png",
+  "caption": "유튜브 영상 화면",
+  "label": "\"검은 월요일이 온다\" 영상, 조회 60만 넘어",
+  "lines": [
+   "월요일 코스피는 실제로 -3.31%였지만",
+   "다음 날 장중 6%대 급등하며 5,000 회복"
+  ],
+  "cap_max_h": 560
+ },
+ {
+  "out": "/home/claude/wt/media/20261124-inverse/cand/c_kospi.jpg",
+  "sub": "그리고 하루 뒤",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "코스피 장중 '5,000' 회복\n6%대 급등",
+  "cap": "/home/claude/wt/media/20261124-inverse/cand/cap_kospi.png",
+  "caption": "매일신문 기사 캡처",
+  "label": "전날 '매도' 사이드카 → 오늘 '매수' 사이드카",
+  "lines": [
+   "삼성전자 9%대 · SK하이닉스 8%대 급등(서울신문)",
+   "※ 장 초반 기준"
+  ],
+  "cap_max_h": 400
+ },
+ {
+  "out": "/home/claude/wt/media/20261124-inverse/cand/c_sk.jpg",
+  "sub": "진짜 귀재는 따로 있었다?",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "SK하이닉스 전략 담당 사장\n급락한 날 자사주 '16억' 매수",
+  "cap": "/home/claude/wt/media/20261124-inverse/cand/cap_sk.png",
+  "caption": "서울신문 기사 캡처",
+  "label": "주당 107만 7,263원에 1,500주",
+  "lines": [
+   "코스피가 3% 넘게 빠진 23일 장중 매수",
+   "다음 날 하이닉스는 장 초반 8%대 급등"
+  ],
+  "cap_max_h": 400
+ }
+]
