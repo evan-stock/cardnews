@@ -15,6 +15,7 @@ shot("1795505487729-ow2nr4-0dd0eae3", (508, 130, 745, 478), "cap_story.png")
 shot("1795506430036-8wiqqo-edc70d13", (380, 180, 903, 620), "cap_story_big.png")
 shot("1795506420064-hmls0k-3da1ba7a", (30, 30, 840, 405), "cap_y1.png")
 shot("1795506420064-3rimrs-e03f1ee2", (30, 30, 840, 345), "cap_y2.png")
+shot("1795507932375-pyf0i3-adb09a8b", (20, 160, 850, 505), "cap_why.png")
 
 # 표지: 캡처 카드 콜라주
 W_, H_ = 1080, 1350
@@ -59,6 +60,10 @@ spec = [
   "title": "소속사 \"애정 행위 없었다\"\n폭로자도 \"직접 못 봤다\"", "cap": str(O / "cap_newsis.png"),
   "caption": "뉴시스 기사 캡처", "label": "모텔 동행 사실 자체는 인정",
   "lines": ["소속사는 폭로자를 공갈·명예훼손 등으로 고소", "폭로자 A씨는 이후 입장을 바꿨다"], "cap_max_h": 330},
+ {"out": str(O / "c_why.jpg"), "sub": "\"이혼 잘했다\" 반응이 나온 이유", "box_bg": Wc,
+  "title": "한 사람은 '폭주'\n한 사람은 '침묵'", "cap": str(O / "cap_why.png"),
+  "caption": "톱스타뉴스 기사 캡처(11.19)", "label": "의혹 해명 없이 자극적 게시물만 이어졌다",
+  "lines": ["양홍원: \"가족 잃은 기분\" 신곡, 욕설·운전 중 흡연 영상", "원현주: 남편·딸 사진만 지우고 침묵 → 짧은 입장문"], "cap_max_h": 360},
 ]
 json.dump(spec, open(O / "caps.json", "w"), ensure_ascii=False, indent=1)
 subprocess.run([sys.executable, str(R / "scripts/post_cap_card.py"), str(O / "caps.json")], check=True, cwd=R)
@@ -73,6 +78,8 @@ cap = """[결혼식 37일 만에 이혼한 양홍원·원현주, 두 사람이 S
 
 당시 소속사는 모텔 동행 사실은 인정하면서도 만취 상태에서 잠을 자기 위한 것이었고 객실 내 애정 행위는 없었다고 해명했으며, 폭로자를 공갈·명예훼손 등의 혐의로 고소했습니다. A씨는 이후 불륜 장면을 직접 목격하지 못했다고 입장을 바꿨습니다(뉴시스).
 
+의혹 이후 양홍원은 해명 없이 신곡과 함께 "가족 잃은 기분 아무도 모를 거야"라는 글을 올렸고, 욕설 문구와 운전 중 흡연 장면이 담긴 영상도 공개했습니다(톱스타뉴스). 반면 원현주는 말을 아낀 채 SNS에서 양홍원과 딸의 사진을 정리했고, 이혼 발표도 짧은 입장문으로 마무리했습니다. 이혼 발표 뒤 두 사람의 대조적인 대응이 다시 주목받고 있습니다.
+
 의혹 이후 두 사람은 서로의 SNS를 언팔로우했고, 원현주는 게시물을 비공개로 돌렸다가 양홍원과 결혼 생활 관련 게시물을 삭제한 뒤 계정을 다시 열었습니다. 양홍원은 이혼 발표 하루 전 SNS에 가족과 자신의 삶에 관한 장문의 글을 올렸지만 두 사람의 관계는 언급하지 않았습니다.
 
 ※ 이혼 사유는 당사자가 밝히지 않았으며, 불륜 의혹은 소속사가 부인한 상태입니다."""
@@ -80,18 +87,19 @@ d = [{
  "id": "20261124-yhwdivorce", "slot": "dinner", "mode": "render",
  "topic": "양홍원·원현주 결혼식 37일 만에 이혼 발표(원현주 SNS 11.24). 10.23 모텔 동행 폭로·소속사 부인·폭로자 입장 번복, 언팔·게시물 삭제. 10.24 불륜설 게시물 후속",
  "category": "연예",
- "images": ["cover_people.jpg", "c_won.jpg", "c_y1.jpg", "c_y2.jpg", "c_issue.jpg", "c_newsis.jpg"],
+ "images": ["cover_people.jpg", "c_won.jpg", "c_y1.jpg", "c_y2.jpg", "c_why.jpg", "c_issue.jpg", "c_newsis.jpg"],
  "slides": [
   {"lay": "one", "t": "\"원현주 이혼 잘했다\"\n반응 쏟아진 '진짜 이유'"},
-  {"raw": True}, {"raw": True}, {"raw": True}, {"raw": True}, {"raw": True}
+  {"raw": True}, {"raw": True}, {"raw": True}, {"raw": True}, {"raw": True}, {"raw": True}
  ],
  "caption": cap,
  "hashtags": ["양홍원", "원현주", "이혼", "연예뉴스", "래퍼"],
  "sources": [
   {"publisher": "원현주 인스타그램", "date": "2026.11.24"},
   {"publisher": "스포티비뉴스", "date": "2026.11.24"},
-  {"publisher": "뉴시스", "date": "2026.11.24"}
+  {"publisher": "뉴시스", "date": "2026.11.24"},
+  {"publisher": "톱스타뉴스", "date": "2026.11.19"}
  ],
- "photo_credits": ["원현주 인스타그램 스토리, 스포티비뉴스·뉴시스 화면"]
+ "photo_credits": ["원현주 인스타그램 스토리, 스포티비뉴스·뉴시스·톱스타뉴스 화면"]
 }]
 json.dump(d, open(D / "draft.json", "w"), ensure_ascii=False, indent=1)
