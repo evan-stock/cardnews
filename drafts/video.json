@@ -1,1 +1,1 @@
-{"id": "20261124-jensenback", "urls": ["https://x.com/SawyerMerritt/status/2124941746534568446", "https://x.com/SawyerMerritt/status/2124944530579288070"], "frames": 0, "args": "--write-info-json --ignore-errors"}
+{"id": "20261124-dailyshow", "urls": ["https://www.youtube.com/watch?v=HA0ulwcacFI"], "frames": 0, "args": "--write-info-json --write-subs --write-auto-subs --sub-langs en.* --sub-format vtt --ignore-errors"}
