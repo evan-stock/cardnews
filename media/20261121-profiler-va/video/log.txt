@@ -1,7 +1,0 @@
-WARNING: [youtube] cSsO99RYFl0: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
-ERROR: [youtube] cSsO99RYFl0: This content isn’t available.
-실패: https://www.youtube.com/watch?v=cSsO99RYFl0
-total 12
-drwxr-xr-x 2 runner runner 4096 Nov 21 07:50 .
-drwxr-xr-x 3 runner runner 4096 Nov 21 07:50 ..
--rw-r--r-- 1 runner runner  255 Nov 21 07:50 log.txt

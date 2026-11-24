@@ -1,9 +1,0 @@
-ERROR: [twitter] 2123787428259365097: No video could be found in this tweet
-사진 받음 p1_1.jpg
-영상 없는 글(사진만): https://x.com/mehmetmars7/status/2123787428259365097
-total 44
-drwxr-xr-x 2 runner runner  4096 Nov 20 15:43 .
-drwxr-xr-x 3 runner runner  4096 Nov 20 15:43 ..
--rw-r--r-- 1 runner runner   182 Nov 20 15:43 log.txt
--rw-r--r-- 1 runner runner 28271 Nov 20 15:43 p1_1.jpg
--rw-r--r-- 1 runner runner   914 Nov 20 15:43 x1.json
