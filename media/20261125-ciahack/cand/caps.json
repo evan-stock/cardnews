@@ -1,0 +1,92 @@
+[
+ {
+  "out": "/home/user/cardnews/media/20261125-ciahack/cand/c02.jpg",
+  "sub": "AP통신 · 11월 24일(현지)",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "뚫린 곳은 CIA\n'공개정보 분석망'",
+  "cap": "/home/user/cardnews/media/20261125-ciahack/cand/cap_cia.png",
+  "caption": "AP통신 기사 캡처",
+  "label": "인터넷·위성사진·데이터 업체 자료를 분석하는 시스템",
+  "lines": [
+   "\"기밀은 없었고 이미 해결됐다\"(소식통)",
+   "무엇이 새 나갔는지·누구 짓인지는 아직 모른다"
+  ],
+  "cap_max_h": 520
+ },
+ {
+  "out": "/home/user/cardnews/media/20261125-ciahack/cand/c03.jpg",
+  "sub": "시작은 · 11월 13일",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "미국 전역 비행기\n'이륙 중지'",
+  "cap": "/home/user/cardnews/media/20261125-ciahack/cand/cap_faa.png",
+  "caption": "로이터 기사 캡처(크리스천사이언스모니터 게재)",
+  "label": "관제 통신 장애, 9·11 이후 두 번째",
+  "lines": [
+   "7,000편 가까이 지연·취소",
+   "같은 달 마이크로소프트·JP모건·애플 시스템도 멈춤"
+  ],
+  "cap_max_h": 520
+ },
+ {
+  "out": "/home/user/cardnews/media/20261125-ciahack/cand/c04.jpg",
+  "sub": "11월 17일 · 국가안보국",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "NSA 기밀 통신망\n'먹통'",
+  "cap": "/home/user/cardnews/media/20261125-ciahack/cand/cap_nsa.png",
+  "caption": "알자지라 기사 캡처",
+  "label": "NSA \"정기 점검 중 일시적 저하\"",
+  "lines": [
+   "직원들에겐 출근을 늦추라는 안내",
+   "16일부터는 농무부 농가 지급 시스템도 침해(NBC)"
+  ],
+  "cap_max_h": 520
+ },
+ {
+  "out": "/home/user/cardnews/media/20261125-ciahack/cand/c05.jpg",
+  "sub": "11월 20~21일 · FBI",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "FBI 전국 범죄정보 DB\n'해킹' 조사",
+  "cap": "/home/user/cardnews/media/20261125-ciahack/cand/cap_fbi.png",
+  "caption": "AP통신 기사 캡처(PBS 게재)",
+  "label": "트럼프 \"방금 들었다. 좋지 않다\"",
+  "lines": [
+   "수배자·실종자·전과 기록을 경찰끼리 나누는 망",
+   "FBI는 두 달 새 두 번째 해킹 피해"
+  ],
+  "cap_max_h": 520
+ },
+ {
+  "out": "/home/user/cardnews/media/20261125-ciahack/cand/c06.jpg",
+  "sub": "정부 설명",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "정부 해명은\n'AI 해커' 때문",
+  "cap": "/home/user/cardnews/media/20261125-ciahack/cand/cap_clayton.png",
+  "caption": "AP통신 기사 캡처",
+  "label": "행정부: 조직적 사이버 공격은 아니라는 입장",
+  "lines": [
+   "AI로 무장한 해커보다 앞서려고",
+   "서둘러 고치고 업그레이드하다 생긴 장애가 대부분"
+  ],
+  "cap_max_h": 420
+ }
+]
