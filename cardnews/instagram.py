@@ -41,11 +41,12 @@ def _req(method, path, **params):
 
 def _wait_ready(cid, tries=10):
     for _ in range(tries):
-        st = _req("GET", cid, fields="status_code").get("status_code")
+        j = _req("GET", cid, fields="status_code,status")
+        st = j.get("status_code")
         if st == "FINISHED":
             return
-        if st in ("ERROR", "EXPIRED"):
-            raise RuntimeError(f"컨테이너 {cid} 상태 {st}")
+        if st in ("ERROR", "EXPIRED"):  # 2026-11-25: 원인 파악용으로 status(오류 설명)도 남긴다
+            raise RuntimeError(f"컨테이너 {cid} 상태 {st}: {j.get('status', '')}")
         time.sleep(30)
     raise RuntimeError(f"컨테이너 {cid} 준비 시간 초과")
 
