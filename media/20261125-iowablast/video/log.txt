@@ -1,0 +1,8 @@
+ERROR: [twitter] 2125405023018398037: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/genflynn/status/2125405023018398037
+실패: https://x.com/genflynn/status/2125405023018398037
+total 16
+drwxr-xr-x 2 runner runner 4096 Nov 25 07:18 .
+drwxr-xr-x 3 runner runner 4096 Nov 25 07:18 ..
+-rw-r--r-- 1 runner runner  221 Nov 25 07:18 log.txt
+-rw-r--r-- 1 runner runner 3901 Nov 25 07:18 x1.json
