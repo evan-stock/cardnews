@@ -73,6 +73,8 @@ k = k.resize((940, round(k.height * 940 / k.width))); dl = dl.resize((940, round
 stack = Image.new("RGB", (940, k.height + 28 + dl.height), (10, 10, 12)); stack.paste(k, (0, 0)); stack.paste(dl, (0, k.height + 28))
 frame(("김민석 '조희대 탄핵 5당 연대' 제안", "혁신당조차 \"지나치게 '추상적'\""), stack,
       "\"절차·일정부터 합의하자\" 역제안", "경향신문·데일리안(11.25)").save(O / "c02.jpg", quality=93)
+frame(("무소속 한동훈 의원", "\"인용되면 '의원직' 사퇴\""), cap("handh.jpg", (0, 240, 860, 600), 380),
+      "\"서영교·박선원도 '직' 걸어라\"", "조선일보(11.25)").save(O / "c03.jpg", quality=93)
 # 표지(2026.11.25 사용자 지시): 왼쪽 김민석, 오른쪽 조희대 나란히, 세로 경계 페이드
 HW, fade = 600, 120
 def half(n, cx):
