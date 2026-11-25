@@ -9,16 +9,12 @@
   "images": [
    "cover_bg.jpg",
    "c02.jpg",
-   "c03.jpg",
    "cover_bg.jpg"
   ],
   "slides": [
    {
     "lay": "one",
     "t": "김민석 \"조희대 대법원장 탄핵\n'5당 연대' 공식 제안한다\""
-   },
-   {
-    "raw": true
    },
    {
     "raw": true
