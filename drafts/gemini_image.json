@@ -1,11 +1,11 @@
 {
- "_for": "오늘의쓸모 수능 만점자 신원 비공개 표지(2026-11-25 사용자 요청, 가상 인물)",
+ "_for": "오늘의쓸모 증시 폭락 개미 손실 표지(2026-11-25)",
  "model": "gemini-2.5-flash-image",
- "style": "",
+ "style": "Photorealistic editorial news photo, Seoul, night, cinematic, shallow depth of field. Absolutely NO readable text, letters, numbers or logos anywhere. Faces not visible.",
  "prompts": [
-  {"name": "mj_cover1", "aspect": "4:5",
-   "prompt": "Photorealistic news-style photo. A Korean high school student in a black padded winter jacket and school uniform walks out of a school gate on a cold winter day after the college entrance exam, covering face with one hand to hide from many smartphones held up by people around, phone flashes glowing. Face not visible. Overcast sky, bare trees, school building blurred in background. Cinematic, shallow depth of field, muted cold tones. Fictional person. No text, no logos."},
-  {"name": "mj_cover2", "aspect": "4:5",
-   "prompt": "Photorealistic news-style photo. Back view of a Korean high school student in a black padded jacket holding an exam score sheet, standing alone in a dim empty classroom by the window, head lowered, face not visible. Cold blue winter light. Cinematic, shallow depth of field. Fictional person. No text, no logos."}
+  {"name": "kospi_cover", "aspect": "4:5",
+   "prompt": "A young Korean office worker seen from behind and slightly to the side, sitting alone at a desk in a dark apartment, head in both hands, in front of a large monitor full of stock trading charts where every candle and line is falling and colored BLUE (in Korea falling prices are shown in blue). The cold blue light of the screen fills the room. A smartphone on the desk also shows a steep blue falling chart. Mood: shock and despair. Leave the bottom 35% of the frame darker and simple."},
+  {"name": "kospi_s2", "aspect": "4:3",
+   "prompt": "Close-up of a hand holding a smartphone showing a stock brokerage app account screen with a steep blue downward chart and a long list of holdings all in blue, blurred background of a subway car at night. No readable text or numbers."}
  ]
 }
