@@ -1,4 +1,0 @@
-file '/home/user/cardnews/media/20261122-reptile-reel/work/s0.mp4'
-file '/home/user/cardnews/media/20261122-reptile-reel/work/s1.mp4'
-file '/home/user/cardnews/media/20261122-reptile-reel/work/s2.mp4'
-file '/home/user/cardnews/media/20261122-reptile-reel/work/s3.mp4'
