@@ -1,40 +1,16 @@
-[
- {
-  "id": "20261124-jensengta",
-  "slot": "lunch",
-  "mode": "render",
-  "topic": "젠슨 황 11일 만에 엔비디아 CEO 복귀(주가 31%) + 'GTA6 다 깨고 복귀' 밈",
-  "category": "테크·화제",
-  "risk": "메일·링크드인은 합성 밈으로 표지·본문·캡션에 명시. 퇴진·복귀·주가는 기사 기준(세계일보·글로벌이코노믹). 사용자 확인 전 텔레그램·승인 대기 보내지 않음. 사용자 지시: 설명 장·마무리 장 빼고 표지+밈만.",
-  "images": [
-   "cover_bg.jpg",
-   "gmail_raw.jpg"
-  ],
-  "slides": [
-   {
-    "lay": "one",
-    "t": "젠슨 황, GTA6 다 깨고\n엔비디아 CEO '복귀'"
-   },
-   {
-    "raw": true
-   }
-  ],
-  "caption": "젠슨 황, GTA6 다 깨고 엔비디아 CEO 복귀\n\n※ 링크드인·메일 화면은 엑스에서 퍼진 합성 밈입니다.",
-  "hashtags": [
-   "젠슨황",
-   "엔비디아",
-   "GTA6",
-   "밈",
-   "복귀"
-  ],
-  "sources": [
-   {
-    "publisher": "엑스 @TrungTPhan",
-    "date": "2026.11.23"
-   }
-  ],
-  "photo_credits": [
-   "엑스 밈 이미지"
-  ]
- }
-]
+{"id": "20261125-ciahack", "mode": "collect",
+ "image_pages": [
+  "https://federalnewsnetwork.com/cybersecurity/2026/11/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+  "https://www.washingtontimes.com/news/2026/nov/24/ap-source-says-unclassified-cia-system-breached-cyberattack/",
+  "https://www.thedailybeast.com/cia-spooks-hit-by-mystery-hack-in-new-cyber-breach",
+  "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+  "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/",
+  "https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497",
+  "https://www.csmonitor.com/Business/2026/1113/faa-nationwide-ground-stop-airlines"
+ ],
+ "read_pages": [
+  "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+  "https://www.yahoo.com/news/us/articles/cia-system-breached-latest-cyberattack-210234321.html",
+  "https://www.ctvnews.ca/sci-tech/article/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports/"
+ ],
+ "limit": 30}
