@@ -1,10 +1,11 @@
 {
- "_for": "오늘의쓸모 김남국 표지 사진 화질 개선(2026-11-25 사용자 요청, 사용자 제공 사진)",
+ "_for": "오늘의쓸모 수능 만점자 신원 비공개 표지(2026-11-25 사용자 요청, 가상 인물)",
  "model": "gemini-2.5-flash-image",
  "style": "",
- "refs": ["state/gemini_image/kim_src.jpg"],
  "prompts": [
-  {"name": "kim_hd", "aspect": "3:2",
-   "prompt": "Upscale and restore the attached photo to high resolution. This is a photo restoration task only: keep the exact same person, identical face shape, eyes, glasses, hair, expression, clothing, pose, framing, background and colors. Do not change, beautify, or reinterpret any facial features. Only remove blur, JPEG artifacts and noise, and add natural sharp photographic detail. Keep the background naturally out of focus. No text."}
+  {"name": "mj_cover1", "aspect": "4:5",
+   "prompt": "Photorealistic news-style photo. A Korean high school student in a black padded winter jacket and school uniform walks out of a school gate on a cold winter day after the college entrance exam, covering face with one hand to hide from many smartphones held up by people around, phone flashes glowing. Face not visible. Overcast sky, bare trees, school building blurred in background. Cinematic, shallow depth of field, muted cold tones. Fictional person. No text, no logos."},
+  {"name": "mj_cover2", "aspect": "4:5",
+   "prompt": "Photorealistic news-style photo. Back view of a Korean high school student in a black padded jacket holding an exam score sheet, standing alone in a dim empty classroom by the window, head lowered, face not visible. Cold blue winter light. Cinematic, shallow depth of field. Fictional person. No text, no logos."}
  ]
 }
