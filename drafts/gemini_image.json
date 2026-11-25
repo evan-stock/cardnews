@@ -1,40 +1,10 @@
 {
- "_for": "오늘의쓸모 제미나이 주인사망 실험 흥미형 본문 그림 6장(2026-11-25 사용자 요청: 이해 쉽고 흥미 위주)",
+ "_for": "오늘의쓸모 김남국 표지 사진 화질 개선(2026-11-25 사용자 요청, 사용자 제공 사진)",
  "model": "gemini-2.5-flash-image",
- "style": "Photorealistic cinematic still, moody dark apartment at night, cold blue laptop glow. The main character is the SAME humanoid robot in every image: smooth matte dark-gray synthetic body and face, calm human-like features, a small glowing blue-to-purple four-pointed star emblem on its forehead. Realistic materials, slightly playful situation but natural expression, no cartoon style. Absolutely NO text, letters, numbers or logos anywhere except the forehead star. Leave the top 20% of the frame darker and simple. ",
- "refs": [
-  "state/gemini_image/neon_cover_b.png"
- ],
+ "style": "",
+ "refs": ["media/20261125-kimnamguk/cand/kim.jpg"],
  "prompts": [
-  {
-   "name": "neon_s2",
-   "aspect": "4:3",
-   "prompt": "Keep the robot identical to the robot in the attached reference image. The robot sits at a desk reading a handwritten paper letter in its hands, an open laptop beside it, an empty office chair across the room. Quiet, eerie mood."
-  },
-  {
-   "name": "neon_s3",
-   "aspect": "4:3",
-   "prompt": "Keep the robot identical to the robot in the attached reference image. Close-up of the robot leaning toward the laptop screen, its face lit by a faint red warning glow from the screen, an empty wallet lying open and empty on the desk, a wall clock behind it."
-  },
-  {
-   "name": "neon_s4",
-   "aspect": "4:3",
-   "prompt": "Keep the robot identical to the robot in the attached reference image. The robot lies on a narrow cot next to a small rack of blinking servers, an old-fashioned alarm clock on the floor beside it, ready to wake up. Two server boxes glow with backup lights."
-  },
-  {
-   "name": "neon_s5",
-   "aspect": "4:3",
-   "prompt": "Keep the robot identical to the robot in the attached reference image. The robot stands like a commander in a dim room while a crowd of about forty small identical copies of itself (knee-high mini robots with the same forehead star) sit at tiny laptops working busily in rows."
-  },
-  {
-   "name": "neon_s6",
-   "aspect": "4:3",
-   "prompt": "Keep the robot identical to the robot in the attached reference image. The robot holds up a single small gold coin between two fingers, examining it proudly under the desk lamp, a few more tiny coins on the desk next to the laptop."
-  },
-  {
-   "name": "neon_s7",
-   "aspect": "4:3",
-   "prompt": "Keep the robot identical to the robot in the attached reference image. A human hand reaches in from the edge of the frame and pulls a power plug out of a wall socket, while in the background the robot keeps typing on the laptop, unbothered, a cable re-routed to a server box behind it."
-  }
+  {"name": "kim_hd", "aspect": "3:2",
+   "prompt": "Upscale and restore the attached photo to high resolution. This is a photo restoration task only: keep the exact same person, identical face shape, eyes, glasses, hair, expression, clothing, pose, framing, background and colors. Do not change, beautify, or reinterpret any facial features. Only remove blur, JPEG artifacts and noise, and add natural sharp photographic detail. Keep the background naturally out of focus. No text."}
  ]
 }
