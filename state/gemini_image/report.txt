@@ -1,1 +1,2 @@
-kk_soomi_date_gen: 성공 (gemini-2.5-flash-image)
+neon_cover_a: 성공 (gemini-2.5-flash-image)
+neon_cover_b: 성공 (gemini-2.5-flash-image)
