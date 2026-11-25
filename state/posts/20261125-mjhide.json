@@ -2,7 +2,7 @@
  "id": "20261125-mjhide",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-25T16:29:54.915278+09:00",
  "publish_at": "2026-11-25T16:29:54.915337+09:00",
  "topic": "2027 수능 가채점 만점자 최소 3명, AI 부정행위 의혹 분위기에 신원 공개 거부",
@@ -45,5 +45,8 @@
   "media/20261125-mjhide/02.jpg",
   "media/20261125-mjhide/03.jpg"
  ],
- "tg_msg": 3155
+ "tg_msg": 3155,
+ "ig_media_id": "18116872748144650",
+ "permalink": "https://www.instagram.com/p/DgJ_4QnEf4H/",
+ "published_at": "2026-11-25T16:30:55.932623+09:00"
 }
