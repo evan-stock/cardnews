@@ -1,16 +1,1 @@
-{"id": "20261125-ciahack", "mode": "collect",
- "image_pages": [
-  "https://federalnewsnetwork.com/cybersecurity/2026/11/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
-  "https://www.washingtontimes.com/news/2026/nov/24/ap-source-says-unclassified-cia-system-breached-cyberattack/",
-  "https://www.thedailybeast.com/cia-spooks-hit-by-mystery-hack-in-new-cyber-breach",
-  "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
-  "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/",
-  "https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497",
-  "https://www.csmonitor.com/Business/2026/1113/faa-nationwide-ground-stop-airlines"
- ],
- "read_pages": [
-  "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
-  "https://www.yahoo.com/news/us/articles/cia-system-breached-latest-cyberattack-210234321.html",
-  "https://www.ctvnews.ca/sci-tech/article/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports/"
- ],
- "limit": 30}
+[{"id": "20261125-jensenaffair", "mode": "collect", "read_pages": ["https://n.news.naver.com/article/243/0000106252"], "image_pages": ["https://n.news.naver.com/article/243/0000106252"], "limit": 10}]
