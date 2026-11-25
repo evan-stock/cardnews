@@ -67,9 +67,9 @@ def panel(rows, h=640, gap=None):
 
 def cap(src, box, h):
     im = op(src).crop(box); return im.resize((round(im.width * h / im.height), h), Image.LANCZOS) if im.width * h / im.height <= 940 else im.resize((940, round(im.height * 940 / im.width)), Image.LANCZOS)
-frame(("민주당 김민석 대표", "조희대 탄핵 '5당 연대' 공식 제안"), cap("khan.jpg", (0, 320, 860, 700), 420),
+frame(("민주당 김민석 대표", "조희대 탄핵 '5당 연대' 공식 제안"), cap("khan.jpg", (0, 370, 860, 600), 300),
       "혁신·진보·기본소득·사민당에 '공동 행동' 제안", "경향신문(11.25)").save(O / "c02.jpg", quality=93)
-frame(("그런데 조국혁신당은", "\"지나치게 '추상적'\""), cap("dailian.jpg", (0, 0, 860, 600), 560),
+frame(("그런데 조국혁신당은", "\"지나치게 '추상적'\""), cap("dailian.jpg", (0, 0, 860, 300), 330),
       "\"절차·일정부터 합의하자\" 역제안", "데일리안(11.25)").save(O / "c03.jpg", quality=93)
 frame(("신장식 혁신당 대표", "\"탄핵은 선언이 아니라 '실천'\""), cap("khan.jpg", (0, 3622, 860, 3985), 370),
       "12·3 2주년 앞두고 '공동 탄핵추진단' 요구", "경향신문(11.25)").save(O / "c04.jpg", quality=93)
