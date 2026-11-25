@@ -73,5 +73,8 @@ frame(("입시 매체도 올해는 '비공개'", "\"만점자 '잠재적 범죄�
       "매년 하던 '출신고·인터뷰' 보도 중단", "베리타스알파(11.23)").save(O / "c03.jpg", quality=93)
 frame(("시험 전엔 안경·단추 검사", "시험 뒤엔 1년 전 '시험지'까지"), cap("veritas.jpg", (0, 3000, 860, 3950), 640),
       "성적 밝히는 순간 '나도 의심'받는다", "베리타스알파(11.23)").save(O / "c04.jpg", quality=93)
-ImageOps.fit(op("press01.jpg"), (W, H), Image.LANCZOS, centering=(.35, .5)).save(O / "cover_bg.jpg", quality=95)
+cv = ImageOps.fit(op("press01_up.jpg"), (W, H), Image.LANCZOS, centering=(.35, .5))
+for b in ((140, 200, 340, 440), (700, 160, 950, 470), (990, 130, 1080, 350), (615, 325, 735, 425)):  # AI 화질 개선이 얼굴·수험표 사진을 되살려서 다시 흐림
+    cv.paste(cv.crop(b).filter(ImageFilter.GaussianBlur(18)), b[:2])
+cv.save(O / "cover_bg.jpg", quality=95)
 print("ok")
