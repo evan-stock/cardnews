@@ -1,4 +1,4 @@
 이미지 모델: ['gemini-2.5-flash-image', 'gemini-3-pro-image-preview', 'gemini-3-pro-image', 'gemini-3.1-flash-image-preview', 'gemini-3.1-flash-image', 'gemini-3.1-flash-lite-image']
 후보 모델: ['gemini-2.5-flash-image', 'gemini-3.1-flash-image-preview', 'gemini-3.1-flash-image', 'gemini-3-pro-image-preview', 'gemini-3-pro-image', 'gemini-3.1-flash-lite-image']
-mj_cover1: 성공 (gemini-2.5-flash-image)
-mj_cover2: 성공 (gemini-2.5-flash-image)
+kospi_cover: 성공 (gemini-2.5-flash-image)
+kospi_s2: 성공 (gemini-2.5-flash-image)
