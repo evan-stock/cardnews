@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .env
 tests/img/
+
+# 릴스 렌더 중간 작업 폴더
+media/*/work/
