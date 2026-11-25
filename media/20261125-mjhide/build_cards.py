@@ -67,10 +67,13 @@ def panel(rows, h=640, gap=None):
 
 def cap(src, box, h):
     im = op(src).crop(box); return im.resize((round(im.width * h / im.height), h), Image.LANCZOS) if im.width * h / im.height <= 940 else im.resize((940, round(im.height * 940 / im.width)), Image.LANCZOS)
-frame(("2027 수능 가채점 만점자 '최소 3명'", "그런데 아무도 '공개' 안 한다"), cap("wiki.jpg", (0, 0, 860, 925), 640),
-      "만점 알려지는 순간 '의혹' 표적", "위키트리(11.24)").save(O / "c02.jpg", quality=93)
-frame(("입시 매체도 올해는 '비공개'", "\"만점자 '잠재적 범죄자' 취급\""), cap("veritas.jpg", (0, 460, 860, 1000), 540),
-      "매년 하던 '출신고·인터뷰' 보도 중단", "베리타스알파(11.23)").save(O / "c03.jpg", quality=93)
+# 2026.11.25 사용자 지시: 캡처 군더더기(팔로우 버튼·요약·경로·기자줄) 빼고 두 장 한 장으로
+w1 = op("wiki.jpg").crop((0, 0, 860, 335)); v1 = op("veritas.jpg").crop((0, 600, 860, 880))
+w1 = w1.resize((940, round(w1.height * 940 / 860)), Image.LANCZOS); v1 = v1.resize((940, round(v1.height * 940 / 860)), Image.LANCZOS)
+stack = Image.new("RGB", (940, w1.height + 28 + v1.height), (10, 10, 12)); stack.paste(w1, (0, 0)); stack.paste(v1, (0, w1.height + 28))
+if stack.height > 660: stack = stack.resize((round(stack.width * 660 / stack.height), 660), Image.LANCZOS)
+frame(("27수능 가채점 만점자 '최소 3명'", "학생도 언론도 '비공개'"), stack,
+      "만점 알려지는 순간 '의혹' 표적", "위키트리(11.24)·베리타스알파(11.23)").save(O / "c02.jpg", quality=93)
 frame(("시험 전엔 안경·단추 검사", "시험 뒤엔 1년 전 '시험지'까지"), cap("veritas.jpg", (0, 3000, 860, 3950), 640),
       "성적 밝히는 순간 '나도 의심'받는다", "베리타스알파(11.23)").save(O / "c04.jpg", quality=93)
 # 2026.11.25 사용자 지시: 표지는 제미나이 AI 생성 사진(가상 인물) — 'AI 생성 이미지' 작게 표시
