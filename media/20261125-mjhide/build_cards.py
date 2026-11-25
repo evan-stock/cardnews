@@ -67,15 +67,16 @@ def panel(rows, h=640, gap=None):
 
 def cap(src, box, h):
     im = op(src).crop(box); return im.resize((round(im.width * h / im.height), h), Image.LANCZOS) if im.width * h / im.height <= 940 else im.resize((940, round(im.height * 940 / im.width)), Image.LANCZOS)
-# 2026.11.25 사용자 지시: 캡처 군더더기(팔로우 버튼·요약·경로·기자줄) 빼고 두 장 한 장으로
-w1 = op("wiki.jpg").crop((0, 0, 860, 335)); v1 = op("veritas.jpg").crop((0, 600, 860, 880))
-w1 = w1.resize((940, round(w1.height * 940 / 860)), Image.LANCZOS); v1 = v1.resize((940, round(v1.height * 940 / 860)), Image.LANCZOS)
-stack = Image.new("RGB", (940, w1.height + 28 + v1.height), (10, 10, 12)); stack.paste(w1, (0, 0)); stack.paste(v1, (0, w1.height + 28))
-if stack.height > 660: stack = stack.resize((round(stack.width * 660 / stack.height), 660), Image.LANCZOS)
-frame(("27수능 가채점 만점자 '최소 3명'", "학생도 언론도 '비공개'"), stack,
-      "만점 알려지는 순간 '의혹' 표적", "위키트리(11.24)·베리타스알파(11.23)").save(O / "c02.jpg", quality=93)
-frame(("시험 전엔 안경·단추 검사", "시험 뒤엔 1년 전 '시험지'까지"), cap("veritas.jpg", (0, 3000, 860, 3950), 640),
-      "성적 밝히는 순간 '나도 의심'받는다", "베리타스알파(11.23)").save(O / "c04.jpg", quality=93)
+# 2026.11.25 사용자 지시: 캡처 군더더기 빼고, 2장엔 '이유'가 보이게(제목 + 이유 문단), 3장은 베리타스 제목 + 나머지 문단
+def stack2(top, bot, maxh=660):
+    t = top.resize((940, round(top.height * 940 / top.width)), Image.LANCZOS); b = bot.resize((940, round(bot.height * 940 / bot.width)), Image.LANCZOS)
+    st = Image.new("RGB", (940, t.height + 28 + b.height), (10, 10, 12)); st.paste(t, (0, 0)); st.paste(b, (0, t.height + 28))
+    return st.resize((round(st.width * maxh / st.height), maxh), Image.LANCZOS) if st.height > maxh else st
+ver = op("veritas.jpg")
+frame(("만점 받고도 왜 숨을까", "\"공개를 꺼리는 '이유'는 분명하다\""), stack2(op("wiki.jpg").crop((0, 0, 860, 335)), ver.crop((0, 3125, 860, 3622))),
+      "1년 전 수능 시험지까지 '다시 본다'", "위키트리(11.24)·베리타스알파(11.23)").save(O / "c02.jpg", quality=93)
+frame(("입시 매체도 '비공개' 결정", "\"만점자 '잠재적 범죄자' 취급\""), stack2(ver.crop((0, 600, 860, 880)), ver.crop((0, 3622, 860, 3962))),
+      "성적 밝히는 순간 '나도 의심'받는다", "베리타스알파(11.23)").save(O / "c03.jpg", quality=93)
 # 2026.11.25 사용자 지시: 표지는 제미나이 AI 생성 사진(가상 인물) — 'AI 생성 이미지' 작게 표시
 bg = ImageOps.fit(op("ai_cover.png"), (W, H), Image.LANCZOS, centering=(.5, .5))
 d = ImageDraw.Draw(bg); f = F("SemiBold", 30); t = "AI 생성 이미지"
