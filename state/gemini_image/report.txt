@@ -1,2 +1,6 @@
-neon_cover_a: 성공 (gemini-2.5-flash-image)
-neon_cover_b: 성공 (gemini-2.5-flash-image)
+neon_s2: 성공 (gemini-2.5-flash-image)
+neon_s3: 성공 (gemini-2.5-flash-image)
+neon_s4: 성공 (gemini-2.5-flash-image)
+neon_s5: 성공 (gemini-2.5-flash-image)
+neon_s6: 성공 (gemini-2.5-flash-image)
+neon_s7: 성공 (gemini-2.5-flash-image)
