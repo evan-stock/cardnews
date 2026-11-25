@@ -1,6 +1,1 @@
-shot 20261125-ciahack https://federalnewsnetwork.com/cybersecurity/2026/11/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/ ap_cia desk clean noimg
-shot 20261125-ciahack https://www.csmonitor.com/Business/2026/1113/faa-nationwide-ground-stop-airlines faa desk clean noimg
-shot 20261125-ciahack https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497 usda desk clean noimg
-shot 20261125-ciahack https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/ nsa desk clean noimg
-shot 20261125-ciahack https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database fbi desk clean noimg
-shot 20261125-ciahack https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage nsa2 desk clean noimg
+shot 20261125-jensenaffair https://n.news.naver.com/article/243/0000106252 naver
