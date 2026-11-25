@@ -73,5 +73,14 @@ frame(("그런데 조국혁신당은", "\"지나치게 '추상적'\""), cap("dai
       "\"절차·일정부터 합의하자\" 역제안", "데일리안(11.25)").save(O / "c03.jpg", quality=93)
 frame(("신장식 혁신당 대표", "\"탄핵은 선언이 아니라 '실천'\""), cap("khan.jpg", (0, 3622, 860, 3985), 370),
       "12·3 2주년 앞두고 '공동 탄핵추진단' 요구", "경향신문(11.25)").save(O / "c04.jpg", quality=93)
-ImageOps.fit(op("press06.jpg"), (W, H), Image.LANCZOS, centering=(.55, .5)).save(O / "cover_bg.jpg", quality=95)
+# 표지(2026.11.25 사용자 지시): 왼쪽 김민석, 오른쪽 조희대 나란히, 세로 경계 페이드
+HW, fade = 600, 120
+def half(n, cx):
+    im = op(n); im = im.resize((round(im.width * H / im.height), H), Image.LANCZOS); cx = round(cx * im.width)
+    x0 = max(0, min(im.width - HW, cx - HW // 2)); return im.crop((x0, 0, x0 + HW, H))
+L = half("press06.jpg", 0.57); Rt = half("jo.jpg", 0.5)
+cv = Image.new("RGB", (W, H)); cv.paste(Rt, (W - HW, 0))
+m = Image.new("L", (HW, H), 255); md = ImageDraw.Draw(m)
+for x in range(HW - fade, HW): md.line([(x, 0), (x, H)], fill=round(255 * (HW - x) / fade))
+cv.paste(L, (0, 0), m); cv.filter(ImageFilter.UnsharpMask(2, 40, 2)).save(O / "cover_bg.jpg", quality=95)
 print("ok")
