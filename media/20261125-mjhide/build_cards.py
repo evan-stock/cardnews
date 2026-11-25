@@ -73,6 +73,9 @@ frame(("입시 매체도 올해는 '비공개'", "\"만점자 '잠재적 범죄�
       "매년 하던 '출신고·인터뷰' 보도 중단", "베리타스알파(11.23)").save(O / "c03.jpg", quality=93)
 frame(("시험 전엔 안경·단추 검사", "시험 뒤엔 1년 전 '시험지'까지"), cap("veritas.jpg", (0, 3000, 860, 3950), 640),
       "성적 밝히는 순간 '나도 의심'받는다", "베리타스알파(11.23)").save(O / "c04.jpg", quality=93)
-# 2026.11.25 사용자 지시: 표지 자료화면 교체 — 시험장 창문 너머 수험생 뒷모습(뉴스1·위키트리), 얼굴 안 보임
-ImageOps.fit(op("press08.jpg"), (W, H), Image.LANCZOS, centering=(.5, .5)).filter(ImageFilter.UnsharpMask(2, 40, 2)).save(O / "cover_bg.jpg", quality=95)
+# 2026.11.25 사용자 지시: 표지는 제미나이 AI 생성 사진(가상 인물) — 'AI 생성 이미지' 작게 표시
+bg = ImageOps.fit(op("ai_cover.png"), (W, H), Image.LANCZOS, centering=(.5, .5))
+d = ImageDraw.Draw(bg); f = F("SemiBold", 30); t = "AI 생성 이미지"
+d.text((W - 48, 62), t, font=f, fill=(0, 0, 0), anchor="rm"); d.text((W - 50, 60), t, font=f, fill=(235, 235, 235), anchor="rm")
+bg.save(O / "cover_bg.jpg", quality=95)
 print("ok")
