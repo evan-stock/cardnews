@@ -2,10 +2,10 @@
  "style": "",
  "prompts": [
   {
-   "name": "lblt_cover",
+   "name": "lblt_cover2",
    "aspect": "4:5",
-   "image": "drafts/gemini_src/lblt_canvas.jpg",
-   "prompt": "This is a photo from a Korean TV stock-market studio, placed in the middle of a 4:5 canvas with solid black empty bands above and below it. Fill ONLY the black bands so the whole canvas becomes one seamless, natural photograph of the same studio: above, continue the dark grey studio wall, the top frame of the large chart monitor and studio lighting; below, continue the woman's beige satin blouse and upper body, the lower part of the chart monitor frame and the dark studio floor. Keep everything in the middle band exactly as it is - same woman, same face, same expression, same chart and its Korean text. Same lighting, camera and color grading, photorealistic. Do not add any new text, captions, logos, watermarks or banners."
+   "image": "drafts/gemini_src/lblt_pass1.png",
+   "prompt": "The bottom part of this TV studio photo is solid black and empty. Fill that black area so the whole image is one seamless photograph: continue the studio downward - the anchor desk in front of the woman with her laptop, the lower part of her beige satin blouse, the monitor stand legs and the dark studio floor, lit like the rest of the scene. Keep the top part exactly unchanged (same woman, same face and expression, same chart with its Korean text). Photorealistic, no new text, logos, captions or watermarks."
   }
  ]
 }
