@@ -2,7 +2,7 @@
  "id": "20261126-kimjunpyo2",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-26T23:09:53+09:00",
  "publish_at": "2026-11-26T23:19:16+09:00",
  "topic": "153만 유튜버 김준표, 커뮤니티 글 무단 사용 저작권 신고 뒤 공개 영상 4,500여 개→624개",
@@ -89,5 +89,8 @@
   "media/20261126-kimjunpyo2/08.jpg"
  ],
  "tg_msg": 3170,
- "decided_at": "2026-11-26T23:19:16+09:00"
+ "decided_at": "2026-11-26T23:19:16+09:00",
+ "ig_media_id": "18120917078582664",
+ "permalink": "https://www.instagram.com/p/DgNTsr6kR70/",
+ "published_at": "2026-11-26T23:22:21.281562+09:00"
 }
