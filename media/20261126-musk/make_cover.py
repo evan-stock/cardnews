@@ -10,7 +10,7 @@ a = np.asarray(bg).astype(float); lum = a.mean(2); sat = a.max(2) - a.min(2)
 person = ((lum < 150) | (sat > 40)).astype(np.uint8) * 255
 mask = Image.fromarray(person).filter(ImageFilter.MaxFilter(5)).filter(ImageFilter.MinFilter(5)).filter(ImageFilter.GaussianBlur(1.5))
 cap = Image.open(D / "cand/musk_cap_real.png").convert("RGB")
-w = 390; cap = cap.resize((w, round(cap.height * w / cap.width)), Image.LANCZOS); h = cap.height
+w = 350; cap = cap.resize((w, round(cap.height * w / cap.width)), Image.LANCZOS); h = cap.height
 pad = 10; card = Image.new("RGBA", (w + 2 * pad, h + 2 * pad), (0, 0, 0, 0)); d = ImageDraw.Draw(card)
 d.rounded_rectangle((0, 0, card.width - 1, card.height - 1), 18, fill=(0, 0, 0, 255), outline=(80, 80, 88, 255), width=2)
 m = Image.new("L", cap.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, w - 1, h - 1), 10, fill=255)
@@ -18,7 +18,7 @@ card.paste(cap, (pad, pad), m)
 card = card.rotate(-4, expand=True, resample=Image.BICUBIC)
 sh = Image.new("RGBA", (card.width + 60, card.height + 60), (0, 0, 0, 0)); sh.paste((0, 0, 0, 110), (30, 40), card.split()[3])
 sh = sh.filter(ImageFilter.GaussianBlur(14))
-x, y = 1080 - card.width - 18, 26
+x, y = 1080 - card.width - 16, 14
 out = bg.convert("RGBA"); out.alpha_composite(sh, (x - 30, y - 30)); out.alpha_composite(card, (x, y))
 out = Image.composite(bg.convert("RGBA"), out, mask)  # 인물(머리)이 카드 위로
 out.convert("RGB").save(D / "cand/cover_bg.jpg", quality=94)
