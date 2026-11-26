@@ -1,4 +1,4 @@
-shot 20261126-kuksi https://www.wikitree.co.kr/articles/1177830 wt1 desk clean noimg
-shot 20261126-kuksi https://www.wikitree.co.kr/articles/1178024 wt2 desk clean noimg
-shot 20261126-kuksi https://www.fnnews.com/news/202611261331364638 fn desk clean noimg
-shot 20261126-kuksi https://www.khan.co.kr/article/202611261620001/ khan desk clean noimg
+get 20261126-igref https://www.instagram.com/p/DgMlJLbExuX/embed/captioned/ ref1.html
+get 20261126-igref https://www.instagram.com/p/DgMrCYVk_BD/embed/captioned/ ref2.html
+shot 20261126-igref https://www.instagram.com/p/DgMlJLbExuX/embed/captioned/ ref1shot
+shot 20261126-igref https://www.instagram.com/p/DgMrCYVk_BD/embed/captioned/ ref2shot
