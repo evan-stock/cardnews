@@ -1,0 +1,28 @@
+{
+ "id": "20261126-muskmaga",
+ "finished_at": "2026-11-26T18:38:53+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/0pzrXHAbY4U",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261126-muskmaga/video/y1.mp4",
+   "mb": 8.0,
+   "view_count": 151472,
+   "title": "Elon Musk: ‘I’m not MAGA’"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=utTy8omutS0",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261126-muskmaga/video/y2.mp4",
+   "mb": 15.1,
+   "view_count": 194785,
+   "title": "Elon Musk: I'm not MAGA"
+  }
+ ]
+}
