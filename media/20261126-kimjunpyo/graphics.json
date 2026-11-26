@@ -1,0 +1,112 @@
+[
+ {
+  "kind": "capture",
+  "out": "media/20261126-kimjunpyo/02.jpg",
+  "bg": "media/20261126-kimjunpyo/cand/cover_thumbs.jpg",
+  "sub": "김준표 채널 · 공개 영상",
+  "cap": "media/20261126-kimjunpyo/cand/yt_channel.png",
+  "cap_crop": [
+   0,
+   0,
+   1568,
+   560
+  ],
+  "title": "4,513개 → '624개'\n하루 사이 '86%'가 사라졌다",
+  "note": "* 유튜브 '김준표' 채널(11.26 20:40) · 소셜러스 집계(톱스타뉴스)"
+ },
+ {
+  "kind": "capture",
+  "out": "media/20261126-kimjunpyo/03.jpg",
+  "bg": "media/20261126-kimjunpyo/cand/cover_thumbs.jpg",
+  "sub": "언론 보도",
+  "cap": "media/20261126-kimjunpyo/cand/osen.png",
+  "cap_crop": [
+   0,
+   70,
+   1386,
+   856
+  ],
+  "title": "커뮤니티 '사연 읽기' 방송이\n저작권 신고를 맞았다",
+  "note": "* OSEN 기사 화면(11.26)"
+ },
+ {
+  "kind": "timeline",
+  "out": "media/20261126-kimjunpyo/04.jpg",
+  "bg": "media/20261126-kimjunpyo/cand/cover_thumbs.jpg",
+  "head": "'김준표 사태' 흐름",
+  "rows": [
+   {
+    "d": "11.22",
+    "t": "원작자 '200만 조회 영상 신고'",
+    "s": "변호사와 유튜브에 저작권 신고했다고 주장"
+   },
+   {
+    "d": "라이브",
+    "t": "김준표 \"관련된 경고 없다\"",
+    "s": "신고 누적을 언급하며 반박"
+   },
+   {
+    "d": "11.26",
+    "t": "다른 원작자들도 신고 주장",
+    "s": "\"100만 조회 영상도 삭제됐다\""
+   },
+   {
+    "d": "11.26",
+    "t": "영상 잇따라 비공개",
+    "s": "4,500여 개 → 624개"
+   },
+   {
+    "d": "지금",
+    "t": "남은 건 마술·리뷰 영상",
+    "s": "최근 공개 영상은 2개월 전 영화 리뷰"
+   }
+  ],
+  "note": "* OSEN·iMBC연예·재경일보 11.26"
+ },
+ {
+  "kind": "capture",
+  "out": "media/20261126-kimjunpyo/05.jpg",
+  "bg": "media/20261126-kimjunpyo/cand/cover_thumbs.jpg",
+  "sub": "엇갈린 말",
+  "cap": "media/20261126-kimjunpyo/cand/tw_youtu_m.jpg",
+  "cap_max_h": 2000,
+  "title": "원작자는 '하나당 400만 원' 추정\n김준표는 \"관련된 경고 없다\"",
+  "note": "* 11.22 처음 신고한 원작자(본인 주장)의 글(11.26, 추정치) · 김준표 라이브 발언(OSEN·iMBC연예)",
+  "cap_w": 690
+ },
+ {
+  "kind": "versus",
+  "out": "media/20261126-kimjunpyo/06.jpg",
+  "bg": "media/20261126-kimjunpyo/cand/cover_thumbs.jpg",
+  "sub": "반응은 둘로 갈렸다",
+  "left": {
+   "h": "비판",
+   "mark": "—",
+   "items": [
+    "원글이 영상의 핵심",
+    "허락 없이 조회수·수익"
+   ]
+  },
+  "right": {
+   "h": "옹호",
+   "mark": "○",
+   "items": [
+    "김준표 반응이 볼거리",
+    "리액션도 콘텐츠"
+   ]
+  },
+  "title": "쟁점은 원작자 '허락'과 '출처'",
+  "note": "* OSEN 11.26"
+ },
+ {
+  "kind": "number",
+  "out": "media/20261126-kimjunpyo/07.jpg",
+  "bg": "media/20261126-kimjunpyo/cand/cover_thumbs.jpg",
+  "sub": "유튜브 저작권 규정",
+  "big": "3",
+  "unit": "번",
+  "desc": "90일 안에 저작권 경고가 쌓이면",
+  "title": "채널 '폐쇄' 대상이 될 수 있다",
+  "note": "* 반론 통지·신고 철회 절차도 있음 (TV리포트·톱스타뉴스 11.26)"
+ }
+]
