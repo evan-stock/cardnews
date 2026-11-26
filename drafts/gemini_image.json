@@ -2,16 +2,16 @@
  "style": "",
  "prompts": [
   {
-   "name": "musk_ai1",
+   "name": "jensen_ai1",
    "aspect": "4:5",
-   "image": "drafts/gemini_src/musk_ref.jpg",
-   "prompt": "Use the man in the reference photo (keep his face, hairstyle and likeness recognizable). Vertical 4:5 editorial magazine cover image, photorealistic cinematic style. Keep the bottom third of the image fairly dark and simple (space for a headline). No text, no letters, no logos, no watermarks. Scene: he stands smiling in a dark suit on a launch site at golden hour, holding out a small gift box tied with a ribbon toward the camera; behind him a tall silver Starship-style rocket on the pad and a crowd of happy American children of diverse backgrounds holding small gift boxes, warm sunset light."
+   "image": "drafts/gemini_src/jensen_ref.jpg",
+   "prompt": "Use the man in the reference photo (keep his face, grey hair, glasses and likeness recognizable), wearing his black leather jacket. Vertical 4:5 editorial news-magazine cover image, photorealistic cinematic style. Keep the bottom third fairly dark and simple (space for a headline). No readable text, no letters, no logos, no watermarks. Do not show any woman. Scene: he stares in disbelief at a smartphone screen in a dark room, the phone's cold blue light on his face, many blurred glowing social-media notification bubbles floating around him, a large red rubber stamp mark (just a red rectangle outline, no letters) hovering in the air."
   },
   {
-   "name": "musk_ai2",
+   "name": "jensen_ai2",
    "aspect": "4:5",
-   "image": "drafts/gemini_src/musk_ref.jpg",
-   "prompt": "Use the man in the reference photo (keep his face, hairstyle and likeness recognizable). Vertical 4:5 editorial magazine cover image, photorealistic cinematic style. Keep the bottom third of the image fairly dark and simple (space for a headline). No text, no letters, no logos, no watermarks. Scene: close-up of him grinning like Santa Claus, carrying a large sack overflowing with glowing stock certificate envelopes and small rocket-shaped gift boxes, night sky with a rocket launch trail behind him, dramatic rim light."
+   "image": "drafts/gemini_src/jensen_ref.jpg",
+   "prompt": "Use the man in the reference photo (keep his face, grey hair, glasses and likeness recognizable), wearing his black leather jacket. Vertical 4:5 editorial news-magazine cover image, photorealistic cinematic style. Keep the bottom third fairly dark and simple (space for a headline). No readable text, no letters, no logos, no watermarks. Do not show any woman. Scene: he stands in a dim newsroom-like space holding up a single sheet of paper with blurred unreadable lines of text, the paper is crossed with a big bold red X mark, puzzled serious expression, dramatic side light, green accent lighting in the background."
   }
  ]
 }
