@@ -3,7 +3,7 @@
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
-  {"name": "kjp_cover_hq", "aspect": "4:5", "refs": ["media/20261126-kimjunpyo/cand/cover_ref.jpg"],
+  {"name": "kjp_cover_hq", "aspect": "4:5", "refs": ["state/gemini_image/kjp_ref.jpg"],
    "prompt": "Restore and upscale this exact image to high resolution, sharp, clean photo quality. Keep EVERYTHING identical: same man, same face, same glasses, beard, expression, black t-shirt, same pose, size and position in the frame, same dark background made of a grid of video thumbnails. Only remove blur, compression artifacts and noise, add natural skin and hair detail, crisp glasses edges, slightly better studio lighting on the face. Do not change his identity or features, do not beautify, do not add any new objects or text. Keep the bottom area dark."}
  ]
 }
