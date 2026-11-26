@@ -1,0 +1,37 @@
+{
+ "id": "20261126-marathon",
+ "finished_at": "2026-11-27T00:21:47+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "ytsearch1:닥신TV 마라톤 구급차",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261126-marathon/video/y1.mp4",
+   "mb": 41.7,
+   "error": "재시도 실패",
+   "view_count": null,
+   "title": "닥신TV 마라톤 구급차"
+  },
+  {
+   "n": 2,
+   "url": "ytsearch1:SBS 병원 앞 꼼짝 못한 구급차 마라톤",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "WARNING: [youtube] 8osPjiF0m-g: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/"
+  },
+  {
+   "n": 3,
+   "url": "ytsearch1:구급차 길 막은 마라톤 참가자 뉴스",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261126-marathon/video/y3.mp4",
+   "mb": 15.8,
+   "view_count": null,
+   "title": "구급차 길 막은 마라톤 참가자 뉴스"
+  }
+ ]
+}
