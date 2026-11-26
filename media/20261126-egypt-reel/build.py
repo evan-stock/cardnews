@@ -33,24 +33,39 @@ def cap(i, small, b1, b2):
 
 
 top()
-SPEED = 1.0; SRC = 20.4                          # 끝 2초(흔들린 장면)는 뺌, 원래 속도
-BAND = 'crop=720:480:0:40,scale=1080:720'        # 세로 원본에서 불길이 번지는 도로 부분
-TOT = round(SRC / SPEED, 2)
-CAPS = [  # 릴스 시각 기준, 내레이션 문장 경계(silencedetect)에 맞춤
+BAND = 'crop=720:480:0:40,scale=1080:720'        # 첫 영상(세로)에서 불길이 번지는 도로 부분
+V2 = 'media/20261126-egypt/video/v2.mp4'          # 두 번째 현장 영상(360x640, 가운데 아랍어 자막 박힘). 앞 25초(불길 속 사람)는 쓰지 않음
+BAND2 = 'crop=360:240:0:170,scale=1080:720'      # 아랍어 자막 위쪽만
+SEG = [(V, 0.0, 20.4, BAND), (V2, 26.0, 31.5, BAND2), (V2, 35.0, 37.5, BAND2), (V2, 42.0, 45.0, BAND2)]
+TOT = round(sum(b - a for _, a, b, _ in SEG), 2)
+S4 = '다른 각도 현장 영상(원 게시자 미상)'
+CAPS = [  # 릴스 시각 기준
     (0.0, 3.0, S1, '이집트 카이로 근처', '기자 순환도로, 25일(현지)'),
     (3.0, 6.0, S1, '기름 실은 유조차가', '뒤집히며 불이 붙었다'),
-    (6.0, 9.0, S1, '불길은 도로를 따라', '주변 차들로 번졌다'),
-    (9.0, 11.6, '이집트 검찰', '불에 탄 차량', '27대'),
-    (11.6, 15.0, S2, '31명 사망', '21명 부상'),
-    (15.0, 17.8, S3, '검찰은', '정확한 사고 원인 조사 중'),
-    (17.8, TOT, S3, '희생자 신원은', 'DNA 검사로 확인 중'),
+    (6.0, 9.5, S1, '불길은 도로를 따라', '주변 차들로 번졌다'),
+    (9.5, 13.0, S2, '31명 사망', '21명 부상'),
+    (13.0, 16.5, '이집트 검찰', '불에 탄 차량', '27대'),
+    (16.5, 20.4, '이집트 보건부', '현장에 출동한 구급차', '39대'),
+    (20.4, 25.9, S4, '도로 위로 이어진 불길', '지켜보는 시민들'),
+    (25.9, 28.4, S3, '검찰은', '정확한 사고 원인 조사 중'),
+    (28.4, TOT, S3, '희생자 신원은', 'DNA 검사로 확인 중'),
 ]
-inputs = ['-t', str(SRC), '-i', V, '-i', f'{R}/top.png']
-fc = f"[0:v]setpts=PTS/{SPEED},{BAND},setsar=1,pad=1080:1920:0:{BY0}:black,fps=30[b0];[b0][1:v]overlay[b1]"; last = 'b1'; n = 2
-for ci, (t0, t1, s, l1, l2) in enumerate(CAPS):
-    cap(ci, s, l1, l2); inputs += ['-i', f'{R}/cap{ci}.png']
+segs = []
+for k, (src, a, b, crop) in enumerate(SEG):
+    out = f'{R}/v{k}.mp4'; dur = b - a
+    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', str(a), '-t', f'{dur:.3f}', '-i', src, '-filter_complex',
+                    f'[0:v]{crop},setsar=1,fps=30[v];[0:a]afade=t=in:d=0.05,afade=t=out:st={dur - 0.08:.2f}:d=0.08,aresample=44100[a]',
+                    '-map', '[v]', '-map', '[a]', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '17', '-pix_fmt', 'yuv420p',
+                    '-c:a', 'aac', '-ar', '44100', '-ac', '2', '-b:a', '160k', out], check=True)
+    segs.append(os.path.abspath(out))
+open(f'{R}/list.txt', 'w').write(''.join(f"file '{x}'\n" for x in segs))
+subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', f'{R}/list.txt', '-c', 'copy', f'{R}/band.mp4'], check=True)
+inputs = ['-i', f'{R}/band.mp4', '-i', f'{R}/top.png']
+fc = f"[0:v]pad=1080:1920:0:{BY0}:black[b0];[b0][1:v]overlay[b1]"; last = 'b1'; n = 2
+for ci, (t0, t1, s_, l1, l2) in enumerate(CAPS):
+    cap(ci, s_, l1, l2); inputs += ['-i', f'{R}/cap{ci}.png']
     fc += f";[{last}][{n}:v]overlay=enable='between(t,{t0:.2f},{t1:.2f})'[c{n}]"; last = f'c{n}'; n += 1
-fc += f";[{last}]setsar=1[vo];[0:a]afade=t=out:st={TOT - 0.5:.2f}:d=0.5,loudnorm=I=-16:TP=-1.5,aresample=44100[ao]"
+fc += f";[{last}]setsar=1[vo];[0:a]loudnorm=I=-16:TP=-1.5,aresample=44100[ao]"
 subprocess.run(['ffmpeg', '-v', 'error', '-y', *inputs, '-filter_complex', fc, '-map', '[vo]', '-map', '[ao]', '-t', f'{TOT:.2f}', '-r', '30',
                 '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '19', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-ar', '44100', '-ac', '2', '-b:a', '160k',
                 '-movflags', '+faststart', f'{D}/reel.mp4'], check=True)
