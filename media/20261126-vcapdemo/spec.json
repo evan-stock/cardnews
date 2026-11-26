@@ -1,0 +1,65 @@
+[
+ {
+  "kind": "stack",
+  "out": "media/20261126-vcapdemo/01_video.jpg",
+  "src": "영상: CBS뉴스(11.22)",
+  "frames": [
+   {
+    "video": "media/20261126-trump80-reel/video/v1.mp4",
+    "t": 2.6,
+    "crop": [
+     150,
+     170,
+     1590,
+     1070
+    ],
+    "sub": "그는 '80%'가 슈퍼 천재"
+   },
+   {
+    "video": "media/20261126-trump80-reel/video/v1.mp4",
+    "t": 5.2,
+    "crop": [
+     150,
+     170,
+     1590,
+     1070
+    ],
+    "sub": "나머지 '20%'는\n뭔지 말 안 하겠다"
+   }
+  ]
+ },
+ {
+  "kind": "single",
+  "out": "media/20261126-vcapdemo/02_commu.jpg",
+  "cap": "media/20261125-commu/cand/tqhot.jpg",
+  "cap_crop": [
+   0,
+   1052,
+   860,
+   1356
+  ],
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "src": "더쿠 HOT 게시판 화면(11.25)",
+  "title": "새벽 더쿠 HOT에 오른 글\n'조회 3.8만' 아파트 계약 해지 논쟁"
+ },
+ {
+  "kind": "single",
+  "out": "media/20261126-vcapdemo/03_video_single.jpg",
+  "video": "media/20261126-trump80-reel/video/v1.mp4",
+  "t": 2.6,
+  "crop": [
+   150,
+   170,
+   1590,
+   1070
+  ],
+  "src": "영상: CBS뉴스(11.22)",
+  "title": "트럼프가 본 머스크\n'80%' 슈퍼 천재, 나머지는 비밀",
+  "cap_sub": "그는 '80%'가 슈퍼 천재"
+ }
+]
