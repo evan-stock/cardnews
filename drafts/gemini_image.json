@@ -2,16 +2,15 @@
  "style": "",
  "prompts": [
   {
-   "name": "jensen_ai1",
+   "name": "jensen_body1",
    "aspect": "4:5",
    "image": "drafts/gemini_src/jensen_ref.jpg",
-   "prompt": "Use the man in the reference photo (keep his face, grey hair, glasses and likeness recognizable), wearing his black leather jacket. Vertical 4:5 editorial news-magazine cover image, photorealistic cinematic style. Keep the bottom third fairly dark and simple (space for a headline). No readable text, no letters, no logos, no watermarks. Do not show any woman. Scene: he stares in disbelief at a smartphone screen in a dark room, the phone's cold blue light on his face, many blurred glowing social-media notification bubbles floating around him, a large red rubber stamp mark (just a red rectangle outline, no letters) hovering in the air."
+   "prompt": "Use the man in the reference photo (keep his face, grey hair, glasses and likeness recognizable), wearing his black leather jacket. Vertical 4:5 photorealistic cinematic editorial image. Keep the bottom 40% fairly dark and simple (space for text). No readable text, no letters, no logos, no watermarks. Do not show any woman. Scene: late at night he sits alone at a desk in a dim office, head slightly bowed, typing on a laptop, the screen light on his serious remorseful face, green accent lights in the background."
   },
   {
-   "name": "jensen_ai2",
+   "name": "jensen_body2",
    "aspect": "4:5",
-   "image": "drafts/gemini_src/jensen_ref.jpg",
-   "prompt": "Use the man in the reference photo (keep his face, grey hair, glasses and likeness recognizable), wearing his black leather jacket. Vertical 4:5 editorial news-magazine cover image, photorealistic cinematic style. Keep the bottom third fairly dark and simple (space for a headline). No readable text, no letters, no logos, no watermarks. Do not show any woman. Scene: he stands in a dim newsroom-like space holding up a single sheet of paper with blurred unreadable lines of text, the paper is crossed with a big bold red X mark, puzzled serious expression, dramatic side light, green accent lighting in the background."
+   "prompt": "Vertical 4:5 photorealistic cinematic editorial image. Keep the bottom 40% fairly dark and simple (space for text). No readable text, no letters, no logos, no watermarks. Do not show any woman. Scene: an empty press-conference podium with a cluster of microphones under a single spotlight in a dark room, rows of empty chairs, a sense of silence and waiting. No people."
   }
  ]
 }
