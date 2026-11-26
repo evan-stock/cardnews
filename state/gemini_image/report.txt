@@ -1,2 +1,2 @@
-musk_ai1: 성공 (gemini-2.5-flash-image)
-musk_ai2: 성공 (gemini-2.5-flash-image)
+jensen_ai1: 성공 (gemini-2.5-flash-image)
+jensen_ai2: 성공 (gemini-2.5-flash-image)
