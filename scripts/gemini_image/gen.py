@@ -19,7 +19,11 @@ style = cfg.get("style", "")
 report = []
 bad = set()
 for it in cfg["prompts"]:
-    body = {"contents": [{"parts": [{"text": (style + "\n\n" + it["prompt"]).strip()}]}],
+    parts = [{"text": (style + "\n\n" + it["prompt"]).strip()}]
+    if it.get("image"):  # 참고·편집할 원본 그림(저장소 경로)
+        parts.insert(0, {"inlineData": {"mimeType": "image/png" if it["image"].endswith(".png") else "image/jpeg",
+                                         "data": base64.b64encode(open(it["image"], "rb").read()).decode()}})
+    body = {"contents": [{"parts": parts}],
             "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": it.get("aspect", "9:16")}}}
     ok = False
     for model in [m for m in cands if m not in bad]:
