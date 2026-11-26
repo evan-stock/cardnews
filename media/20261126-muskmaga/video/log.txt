@@ -1,0 +1,15 @@
+ERROR: [twitter] 2123189064342049150: No video could be found in this tweet
+사진 받음 p1_1.jpg
+영상 없는 글(사진만): https://x.com/PollTracker2024/status/2123189064342049150
+ERROR: [twitter] 2123191550330937512: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+기사 페이지에서도 영상 못 받음: https://nyti.ms/4jor0rL ERROR: [generic] 4jor0rL: Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+
+영상 없는 글(기사링크): https://x.com/dealbook/status/2123191550330937512
+실패: https://x.com/dealbook/status/2123191550330937512
+total 100
+drwxr-xr-x 2 runner runner  4096 Nov 26 09:36 .
+drwxr-xr-x 3 runner runner  4096 Nov 26 09:36 ..
+-rw-r--r-- 1 runner runner   752 Nov 26 09:36 log.txt
+-rw-r--r-- 1 runner runner 78264 Nov 26 09:36 p1_1.jpg
+-rw-r--r-- 1 runner runner   593 Nov 26 09:36 x1.json
+-rw-r--r-- 1 runner runner   516 Nov 26 09:36 x2.json
