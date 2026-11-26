@@ -1,0 +1,10 @@
+WARNING: [youtube] RCqKBsrdGXs: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+WARNING: [youtube] RCqKBsrdGXs: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+WARNING: [youtube] RCqKBsrdGXs: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+WARNING: [youtube] RCqKBsrdGXs: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+ERROR: [youtube] RCqKBsrdGXs: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://www.youtube.com/shorts/RCqKBsrdGXs
+total 12
+drwxr-xr-x 2 runner runner 4096 Nov 26 16:17 .
+drwxr-xr-x 3 runner runner 4096 Nov 26 16:17 ..
+-rw-r--r-- 1 runner runner  812 Nov 26 16:17 log.txt
