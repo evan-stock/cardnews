@@ -1,0 +1,20 @@
+{
+ "src": "fxtwitter",
+ "author": "elonmusk",
+ "name": "Elon Musk",
+ "date": "Thu Nov 26 03:43:05 +0000 2026",
+ "text": "Every child in America will receive two SpaceX shares, one from the company and one from me personally",
+ "views": 6712043,
+ "likes": 209419,
+ "retweets": 20256,
+ "quote": null,
+ "url": "https://x.com/elonmusk/status/2125797463047258119",
+ "id": "2125797463047258119",
+ "videos": [],
+ "errors": [
+  "from_vx: HTTP Error 403: Forbidden"
+ ],
+ "kind": "글만/삭제됨",
+ "card": null,
+ "quote_url": null
+}

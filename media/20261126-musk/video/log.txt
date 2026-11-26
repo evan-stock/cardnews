@@ -1,0 +1,8 @@
+ERROR: [twitter] 2125797463047258119: No video could be found in this tweet
+영상 없는 글(글만/삭제됨): https://x.com/elonmusk/status/2125797463047258119
+실패: https://x.com/elonmusk/status/2125797463047258119
+total 16
+drwxr-xr-x 2 runner runner 4096 Nov 26 07:58 .
+drwxr-xr-x 4 runner runner 4096 Nov 26 07:58 ..
+-rw-r--r-- 1 runner runner  221 Nov 26 07:58 log.txt
+-rw-r--r-- 1 runner runner  525 Nov 26 07:58 x1.json
