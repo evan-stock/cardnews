@@ -1,11 +1,11 @@
 {
- "_for": "오늘의쓸모 의사·간호사 국시 만점자 30배 표지(2026-11-26, 20261126-kuksi)",
+ "_for": "오늘의쓸모 김준표 영상 대거 비공개 표지(2026-11-26, 20261126-kimjunpyo)",
  "model": "gemini-2.5-flash-image",
- "style": "Photorealistic editorial news photo, cinematic, high contrast, shallow depth of field. Absolutely NO readable text, letters, numbers or logos anywhere. Faces not visible.",
+ "style": "Photorealistic editorial photo, cinematic, high contrast, dark. Absolutely NO readable text, letters, numbers or logos anywhere. No recognizable faces.",
  "prompts": [
-  {"name": "kuksi_cover_a", "aspect": "4:5",
-   "prompt": "A large silent national exam hall in Korea, rows of desks with test-takers wearing white doctor and nurse gowns, all bent over their answer sheets. In the center foreground, one test-taker in a white gown seen from behind and slightly above, a smartphone hidden under the desk glowing with an eerie cold blue light onto the answer sheet where every bubble is perfectly filled. The rest of the hall is in dim warm light, the blue glow is the only cold light. Frozen tense moment, like a hidden-camera news photo. Mood: unease, 'is my doctor real?'. Faces not visible. Leave the bottom 40% of the frame dark and simple for text."},
-  {"name": "kuksi_cover_b", "aspect": "4:5",
-   "prompt": "Close-up from above of a desk in an exam hall: a hand in a white medical gown sleeve holding a pencil over an answer sheet where every single bubble is filled perfectly, while thin wireless earbuds and smart glasses lie half hidden under the sleeve, faint blue light reflecting on the paper. Behind, out of focus, rows of other test-takers in white gowns. Dramatic overhead spotlight, deep shadows, cold blue versus warm yellow contrast. Mood: suspicion and unease. Faces not visible. Leave the bottom 40% of the frame dark and simple for text."}
+  {"name": "kjp_cover_a", "aspect": "4:5",
+   "prompt": "A huge dark studio wall made of hundreds of small glowing video thumbnail screens in a grid, like a video channel page. In the moment captured, most of the screens are switching off one after another, turning black and shattering into flying pixel fragments, only a few still glow. In front of the wall, a heavyset man in a dark suit seen only from behind as a silhouette, one hand raised holding a fan of playing cards like a magician, frozen. Cold blue screen light versus warm red warning light. Mood: shock, 'everything is disappearing'. Leave the bottom 40% of the frame dark and simple for text."},
+  {"name": "kjp_cover_b", "aspect": "4:5",
+   "prompt": "Close-up of a laptop screen in a dark room showing a video channel grid where most video thumbnails have become black empty boxes with lock icons, only a few colorful ones left. A hand holding a fan of playing cards rests on the keyboard, cards slipping and falling in mid-air. Red warning glow from the screen edges, cold blue room light. Mood: panic and loss. No readable text. Leave the bottom 40% of the frame dark and simple for text."}
  ]
 }
