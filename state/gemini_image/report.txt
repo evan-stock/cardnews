@@ -1,1 +1,2 @@
-kjp_cover_hq: 성공 (gemini-2.5-flash-image)
+kjp_cover_ai1: 성공 (gemini-2.5-flash-image)
+kjp_cover_ai2: 성공 (gemini-2.5-flash-image)
