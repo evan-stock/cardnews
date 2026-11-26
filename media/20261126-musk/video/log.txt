@@ -14,3 +14,16 @@ drwxr-xr-x 3 runner runner  4096 Nov 26 08:01 ..
 -rw-r--r-- 1 runner runner 32880 Nov 26 08:01 api3.json
 -rw-r--r-- 1 runner runner   431 Nov 26 08:01 log.txt
 -rw-r--r-- 1 runner runner   525 Nov 26 08:01 x1.json
+total 2972
+drwxr-xr-x 2 runner runner   4096 Nov 26 08:03 .
+drwxr-xr-x 3 runner runner   4096 Nov 26 08:03 ..
+-rw-r--r-- 1 runner runner  38658 Nov 26 08:03 api1.json
+-rw-r--r-- 1 runner runner  30252 Nov 26 08:03 api2.json
+-rw-r--r-- 1 runner runner  32880 Nov 26 08:03 api3.json
+-rw-r--r-- 1 runner runner 753450 Nov 26 08:03 img1.jpg
+-rw-r--r-- 1 runner runner 359254 Nov 26 08:03 img2.jpg
+-rw-r--r-- 1 runner runner 476714 Nov 26 08:03 img3.jpg
+-rw-r--r-- 1 runner runner 781680 Nov 26 08:03 img4.jpg
+-rw-r--r-- 1 runner runner 537625 Nov 26 08:03 img5.jpg
+-rw-r--r-- 1 runner runner    814 Nov 26 08:03 log.txt
+-rw-r--r-- 1 runner runner    525 Nov 26 08:03 x1.json
