@@ -1,11 +1,11 @@
 {
- "_for": "오늘의쓸모 증시 폭락 개미 손실 표지(2026-11-25)",
+ "_for": "오늘의쓸모 의사·간호사 국시 만점자 30배 표지(2026-11-26, 20261126-kuksi)",
  "model": "gemini-2.5-flash-image",
- "style": "Photorealistic editorial news photo, Seoul, night, cinematic, shallow depth of field. Absolutely NO readable text, letters, numbers or logos anywhere. Faces not visible.",
+ "style": "Photorealistic editorial news photo, cinematic, high contrast, shallow depth of field. Absolutely NO readable text, letters, numbers or logos anywhere. Faces not visible.",
  "prompts": [
-  {"name": "kospi_cover", "aspect": "4:5",
-   "prompt": "A young Korean office worker seen from behind and slightly to the side, sitting alone at a desk in a dark apartment, head in both hands, in front of a large monitor full of stock trading charts where every candle and line is falling and colored BLUE (in Korea falling prices are shown in blue). The cold blue light of the screen fills the room. A smartphone on the desk also shows a steep blue falling chart. Mood: shock and despair. Leave the bottom 35% of the frame darker and simple."},
-  {"name": "kospi_s2", "aspect": "4:3",
-   "prompt": "Close-up of a hand holding a smartphone showing a stock brokerage app account screen with a steep blue downward chart and a long list of holdings all in blue, blurred background of a subway car at night. No readable text or numbers."}
+  {"name": "kuksi_cover_a", "aspect": "4:5",
+   "prompt": "A large silent national exam hall in Korea, rows of desks with test-takers wearing white doctor and nurse gowns, all bent over their answer sheets. In the center foreground, one test-taker in a white gown seen from behind and slightly above, a smartphone hidden under the desk glowing with an eerie cold blue light onto the answer sheet where every bubble is perfectly filled. The rest of the hall is in dim warm light, the blue glow is the only cold light. Frozen tense moment, like a hidden-camera news photo. Mood: unease, 'is my doctor real?'. Faces not visible. Leave the bottom 40% of the frame dark and simple for text."},
+  {"name": "kuksi_cover_b", "aspect": "4:5",
+   "prompt": "Close-up from above of a desk in an exam hall: a hand in a white medical gown sleeve holding a pencil over an answer sheet where every single bubble is filled perfectly, while thin wireless earbuds and smart glasses lie half hidden under the sleeve, faint blue light reflecting on the paper. Behind, out of focus, rows of other test-takers in white gowns. Dramatic overhead spotlight, deep shadows, cold blue versus warm yellow contrast. Mood: suspicion and unease. Faces not visible. Leave the bottom 40% of the frame dark and simple for text."}
  ]
 }
