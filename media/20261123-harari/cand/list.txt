@@ -1,3 +1,0 @@
-file '/home/claude/wt/media/20261123-harari/cand/s0.mp4'
-file '/home/claude/wt/media/20261123-harari/cand/s1.mp4'
-file '/home/claude/wt/media/20261123-harari/cand/s2.mp4'

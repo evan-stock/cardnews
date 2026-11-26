@@ -28,91 +28,10 @@
   ]
  },
  {
-  "id": "20261117-jhreturn",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261117-jhreturn/01.jpg",
-   "media/20261117-jhreturn/02.jpg",
-   "media/20261117-jhreturn/03.jpg",
-   "media/20261117-jhreturn/04.jpg"
-  ]
- },
- {
   "id": "20261118-clay",
   "channel": "오늘의쓸모_유튜브",
   "files": [
    "media/20261118-clay/short_card.mp4"
-  ]
- },
- {
-  "id": "20261118-leetcam-reel",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261118-leetcam-reel/reel.mp4"
-  ]
- },
- {
-  "id": "20261118-leetlec",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261118-leetlec/01.jpg",
-   "media/20261118-leetlec/02.jpg",
-   "media/20261118-leetlec/03.jpg",
-   "media/20261118-leetlec/04.jpg"
-  ]
- },
- {
-  "id": "20261118-leetsue",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261118-leetsue/01.jpg",
-   "media/20261118-leetsue/02.jpg",
-   "media/20261118-leetsue/03.jpg",
-   "media/20261118-leetsue/04.jpg",
-   "media/20261118-leetsue/05.jpg"
-  ]
- },
- {
-  "id": "20261118-leetver",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261118-leetver/01.jpg",
-   "media/20261118-leetver/02.jpg",
-   "media/20261118-leetver/03.jpg",
-   "media/20261118-leetver/04.jpg",
-   "media/20261118-leetver/05.jpg",
-   "media/20261118-leetver/06.jpg",
-   "media/20261118-leetver/07.jpg"
-  ]
- },
- {
-  "id": "20261118-sidae",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261118-sidae/01.jpg",
-   "media/20261118-sidae/02.jpg",
-   "media/20261118-sidae/03.jpg"
-  ]
- },
- {
-  "id": "20261118-t18",
-  "channel": "털뭉치",
-  "files": [
-   "media/20261118-t18/short.mp4"
-  ]
- },
- {
-  "id": "20261118-todai",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261118-todai/01.jpg",
-   "media/20261118-todai/02.jpg",
-   "media/20261118-todai/03.jpg",
-   "media/20261118-todai/04.jpg",
-   "media/20261118-todai/05.jpg",
-   "media/20261118-todai/06.jpg",
-   "media/20261118-todai/07.jpg",
-   "media/20261118-todai/08.jpg"
   ]
  },
  {
@@ -682,6 +601,50 @@
   ]
  },
  {
+  "id": "20261125-johuidae",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261125-johuidae/01.jpg",
+   "media/20261125-johuidae/02.jpg",
+   "media/20261125-johuidae/03.jpg",
+   "media/20261125-johuidae/04.jpg"
+  ]
+ },
+ {
+  "id": "20261125-kimnamguk",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261125-kimnamguk/01.jpg",
+   "media/20261125-kimnamguk/02.jpg"
+  ]
+ },
+ {
+  "id": "20261125-lblt",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261125-lblt/01.jpg",
+   "media/20261125-lblt/02.jpg",
+   "media/20261125-lblt/02.mp4"
+  ]
+ },
+ {
+  "id": "20261125-mjhide",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261125-mjhide/01.jpg",
+   "media/20261125-mjhide/02.jpg",
+   "media/20261125-mjhide/03.jpg"
+  ]
+ },
+ {
+  "id": "20261125-mounjaro-reel",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261125-mounjaro-reel/reel.mp4",
+   "media/20261125-mounjaro-reel/reel_v3.mp4"
+  ]
+ },
+ {
   "id": "20261125-neon",
   "channel": "오늘의쓸모_인스타",
   "files": [
@@ -693,6 +656,21 @@
    "media/20261125-neon/06.jpg",
    "media/20261125-neon/07.jpg",
    "media/20261125-neon/08.jpg"
+  ]
+ },
+ {
+  "id": "20261126-mental",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261126-mental/01.jpg",
+   "media/20261126-mental/02.jpg",
+   "media/20261126-mental/03.jpg",
+   "media/20261126-mental/04.jpg",
+   "media/20261126-mental/05.jpg",
+   "media/20261126-mental/06.jpg",
+   "media/20261126-mental/07.jpg",
+   "media/20261126-mental/08.jpg",
+   "media/20261126-mental/09.jpg"
   ]
  }
 ]
