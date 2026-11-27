@@ -1,13 +1,13 @@
 {
- "_for": "감평냥이 오해 감정평가사 표지 정리(2026-11-27) — 실제 영상 장면 합성본을 깔끔하게",
+ "_for": "감평 표지 화질·누끼 개선만(2026-11-27) — 머리·얼굴 절대 변경 금지",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "gp_cover",
+   "name": "gp_cover2",
    "aspect": "4:5",
-   "refs": ["state/gemini_image/gp_cover_ref.jpg", "state/gemini_image/gp_face_ref.png"],
-   "prompt": "Clean up and refine the first image into one seamless, natural, high-quality vertical 4:5 YouTube-thumbnail style photo. Keep the composition exactly the same: the young Korean man in black glasses, black suit, white shirt and black tie in the lower-left foreground, and behind him the handwritten exam answer sheet and the white graphing calculator on the table. His face, glasses, hairstyle and expression must stay exactly identical to the real person in the second image — do not change his identity or features. Remove the cut-out halo around his hair, fix the smeared area on his tie and shirt so it looks natural, blend the lighting so he looks naturally in front of the background, sharpen and denoise. Keep the bottom 25% dark for captions. No text, letters, logos or watermarks."
+   "refs": ["state/gemini_image/gp_cover_ref2.jpg"],
+   "prompt": "Photo restoration task only. Output the SAME image with identical composition, pose, framing and crop. Only: upscale and sharpen, remove video compression blur and noise, and clean the cut-out edges around the man so he blends naturally into the background (no light halo, natural edge lighting). STRICTLY keep his hair exactly as in the input: same straight bangs falling over the forehead, same hair length, same parting, same volume. Keep his face, glasses, eyes, mouth, ears, suit, shirt and tie exactly the same. Keep the exam answer sheet and the calculator exactly where they are. Do not add or remove anything. No text, letters, logos or watermarks."
   }
  ]
 }
