@@ -129,6 +129,17 @@ def build_reel(d, base, send):
 def build(d, base, send):
     from .main import SLOT_LABEL, build_caption
     from .render import render
+    # 2026.11.27 사용자 지시: 캡션 첫 줄 규칙을 자꾸 어겨서 기계적으로 막는다.
+    # 첫 줄은 [대괄호 제목] 또는 🚨 한 줄 훅. 'ㄷㄷ' 금지(더피드 말투). 예외는 원고에 "caption_rule_ok": true.
+    first = (d.get("caption") or "").strip().split("\n")[0].strip()
+    if d.get("caption") and not d.get("caption_rule_ok"):
+        bad = []
+        if not (first.startswith("[") or first.startswith("🚨")):
+            bad.append("첫 줄이 [대괄호 제목] 또는 🚨 훅이 아님")
+        if "ㄷㄷ" in first:
+            bad.append("첫 줄에 'ㄷㄷ'")
+        if bad:
+            raise SystemExit("캡션 규칙 위반: " + ", ".join(bad) + f" → {first!r}")
     imgs = d.get("images", [])
     slides = []
     for k, s0 in enumerate(d["slides"]):
