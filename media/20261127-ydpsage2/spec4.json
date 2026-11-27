@@ -1,0 +1,40 @@
+[
+ {
+  "kind": "single",
+  "out": "media/20261127-ydpsage2/cand/v02.jpg",
+  "cap": "media/20261127-ydpsage2/cand/picket_full.jpg",
+  "fit": "contain",
+  "cap_max_h": 700,
+  "sub": "여의도에서 들던 피켓",
+  "src": "온라인 커뮤니티 확산 사진(원 게시자 미상)",
+  "title": "\"코스피 4400 '대폭락장'\"\n미국·일본·중국·금값까지 폭락"
+ },
+ {
+  "kind": "single",
+  "out": "media/20261127-ydpsage2/cand/v03.jpg",
+  "cap": "media/20261127-ydpsage2/cand/cafe2.jpg",
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "sub": "그런데 오늘 카페 공지",
+  "src": "'주식차트교육' 카페 공지 캡처(온라인 커뮤니티)",
+  "title": "\"오늘 '무조건' 매수하는 날\"\n폭락론자의 풀매수 선언"
+ },
+ {
+  "kind": "single",
+  "out": "media/20261127-ydpsage2/cand/v04.jpg",
+  "cap": "media/20261127-ydpsage2/cand/commu_hide.jpg",
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "sub": "커뮤니티는 이미 축제",
+  "src": "온라인 커뮤니티 게시글(11.27) 화면",
+  "title": "\"여의도 현자 '대풀롱' 선언\"\n개미들은 반대로 간다?"
+ }
+]
