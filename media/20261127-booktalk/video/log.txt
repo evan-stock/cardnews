@@ -9,3 +9,10 @@ total 12
 drwxr-xr-x 2 runner runner 4096 Nov 27 01:50 .
 drwxr-xr-x 3 runner runner 4096 Nov 27 01:50 ..
 -rw-r--r-- 1 runner runner 1814 Nov 27 01:50 log.txt
+total 656
+drwxr-xr-x 2 runner runner   4096 Nov 27 02:13 .
+drwxr-xr-x 3 runner runner   4096 Nov 27 02:12 ..
+-rw-r--r-- 1 runner runner   1971 Nov 27 02:12 log.txt
+-rw-r--r-- 1 runner runner 217400 Nov 27 02:13 page1.html
+-rw-r--r-- 1 runner runner 213146 Nov 27 02:13 page2.html
+-rw-r--r-- 1 runner runner 218736 Nov 27 02:13 page3.html
