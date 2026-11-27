@@ -1,13 +1,11 @@
 {
- "_for": "김준표 표지 합성 품질 개선(2026-11-26)",
+ "_for": "현우진 표지 사진 화질 개선(2026-11-27)",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
-  {"name": "kjp_cover_ai1", "aspect": "4:5",
-   "refs": ["state/gemini_image/kjp_ref_layout.jpg", "state/gemini_image/kjp_ref_person.jpg", "state/gemini_image/kjp_ref_thumbs.jpg"],
-   "prompt": "Recreate image 1 as a clean, high-quality, professional editorial photo composite. Use image 1 for the exact layout: a man in a black v-neck t-shirt and thin metal glasses sits in front of a plain beige wall, large in the center-right of the frame from head to chest; at the upper-left behind him floats a rounded rectangle card with a thin white border showing the grid of video thumbnails from image 3, partly hidden behind his head and shoulder, with a soft drop shadow. The man must be EXACTLY the person in image 2: same face shape, eyes, eyebrows, nose, mouth, beard, hair, glasses and expression. Do not beautify or change his features or age. Make it look like one natural photograph: realistic soft studio light on his face, natural edges and hair, sharp high resolution, no cut-out halo. Keep the thumbnail card content as in image 3. Do not add any new text, logos or watermark. The bottom 35% of the frame should become darker and simple (his black t-shirt and shadow) to leave room for a title."},
-  {"name": "kjp_cover_ai2", "aspect": "4:5",
-   "refs": ["state/gemini_image/kjp_ref_person.jpg", "state/gemini_image/kjp_ref_thumbs.jpg"],
-   "prompt": "Create a high-quality editorial thumbnail photo. Take the man from image 1 (keep his identity exactly: same face, glasses, beard, hair, black v-neck t-shirt, same expression; do not beautify) and place him large in the center-right, head to chest, in front of a plain warm beige wall like in image 1. At the upper-left, behind him, put a floating rounded card with a thin white border showing the video thumbnail grid from image 2, partially covered by his head and shoulder, with a soft shadow. Realistic lighting, crisp sharp detail, natural edges, looks like a single real photo. No new text, logos or watermark. Make the bottom 35% darker and simple for a title."}
+  {"name": "hwj_cover_up1", "aspect": "4:5", "refs": ["state/gemini_image/hwj_ref.jpg"],
+   "prompt": "Upscale and restore image 1 into a sharp, high-resolution professional studio portrait. Keep EVERYTHING exactly the same: the same man, identical face shape, eyes, eyebrows, nose, mouth, skin tone, hair, expression, pose, hands under the chin, black top, gray studio background, framing and lighting. Only remove blur, JPEG artifacts and noise, and add natural fine detail (skin texture, hair strands, fabric). Do not beautify, do not change age or features, do not add or remove anything, no text, no logo, no watermark."},
+  {"name": "hwj_cover_up2", "aspect": "4:5", "refs": ["state/gemini_image/hwj_ref.jpg"],
+   "prompt": "This is a low-resolution photo. Produce the same photo at high resolution and sharp focus, as if shot on a professional camera. The person's identity, face, expression, pose, hands, clothing, background and composition must stay identical to image 1. Only improve sharpness and clarity; no stylization, no beautification, no new elements, no text or logos."}
  ]
 }
