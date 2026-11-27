@@ -1,17 +1,18 @@
 {
  "style": "",
+ "model": "gemini-3-pro-image-preview",
  "prompts": [
   {
-   "name": "lee_ai1",
+   "name": "lee_ai3",
    "aspect": "4:5",
-   "image": "drafts/gemini_src/lee_ref.jpg",
-   "prompt": "Use the young Korean man in the reference photo (keep his face, short black hair and likeness recognizable). Vertical 4:5 photorealistic news-documentary style still, like a TV news archive shot. Keep the bottom 40% fairly dark and simple (space for a headline). No readable text other than the book cover, no logos, no watermarks. Scene: he sits on a small stage at an intimate bookstore book-talk event, holding up a beige hardcover book toward a small seated audience seen from behind, warm bookstore lights and bookshelves in the background, he looks confident."
+   "image": "drafts/gemini_src/lee_refs.jpg",
+   "prompt": "The three photos in the reference image are all the SAME real young Korean man. Reproduce his face EXACTLY: same face shape, same eyes and eyelids, same eyebrows, same nose, same lips, same short black hairstyle, same age. Do not beautify or change his features. Vertical 4:5 photorealistic news-documentary still, like a TV news archive shot. Keep the bottom 40% fairly dark and simple (space for a headline). No readable text, no logos, no watermarks. Scene: he sits on a small stage at an intimate bookstore book-talk event, holding up a plain beige hardcover book toward a small seated audience seen from behind, warm bookstore lights and bookshelves behind him."
   },
   {
-   "name": "lee_ai2",
+   "name": "lee_ai4",
    "aspect": "4:5",
-   "image": "drafts/gemini_src/lee_ref.jpg",
-   "prompt": "Use the young Korean man in the reference photo (keep his face, short black hair and likeness recognizable). Vertical 4:5 photorealistic news-documentary style still, like a TV news archive shot. Keep the bottom 40% fairly dark and simple (space for a headline). No readable text other than the book cover, no logos, no watermarks. Scene: late at night he sits alone at a desk in a small dim studio apartment, a beige book and a stack of exam papers on the desk, a single desk lamp lighting his serious face, the rest of the room in shadow."
+   "image": "drafts/gemini_src/lee_refs.jpg",
+   "prompt": "The three photos in the reference image are all the SAME real young Korean man. Reproduce his face EXACTLY: same face shape, same eyes and eyelids, same eyebrows, same nose, same lips, same short black hairstyle, same age. Do not beautify or change his features. Vertical 4:5 photorealistic news-documentary still, like a TV news archive shot. Keep the bottom 40% fairly dark and simple (space for a headline). No readable text, no logos, no watermarks. Scene: medium close-up, he stands in front of bookstore shelves holding a plain beige hardcover book against his chest, looking straight at the camera with a calm confident expression, soft warm light."
   }
  ]
 }
