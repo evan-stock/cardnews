@@ -1,2 +1,3 @@
-get 20261127-musk13 https://api.fxtwitter.com/2/profile/elonmusk/statuses?count=100 tl_fx.json
-get 20261127-musk13 https://syndication.twitter.com/srv/timeline-profile/screen-name/elonmusk tl_synd.html
+get 20261127-musk13 https://api.fxtwitter.com/2/profile/elonmusk/replies?count=100 tl_rep.json
+get 20261127-musk13 https://api.fxtwitter.com/2/profile/elonmusk/statuses?count=100&with_replies=true tl_wr.json
+get 20261127-musk13 https://api.fxtwitter.com/2/profile/elonmusk/statuses?count=100&cursor=DAAHCgABHYHOUA___-oLAAIAAAATMjEyNTg3MDExMjA1ODI5NDM3OQgAAwAAAAIAAA tl_p2.json
