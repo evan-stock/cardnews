@@ -1,18 +1,17 @@
-"""20261127-booktalk 표지 배경: 실제 사진(중앙일보 11.17 자택 앞) + JTBC 보도 화면 카드(앵커 '책 내려고 만점자 없는 리트 봤다')."""
+"""20261127-booktalk 표지: 중앙일보 11.17 자택 앞 사진(video/img1.jpg)을 rembg(u2net_human_seg)로 누끼 → 어두운 바탕 가운데."""
 from pathlib import Path
-from PIL import Image, ImageOps, ImageDraw, ImageFilter
+from PIL import Image, ImageDraw, ImageFilter
 D = Path(__file__).parent
+cut = Image.open(D / "cand/lee_cut.png").convert("RGBA"); cut = cut.crop(cut.getbbox())
 W, H = 1080, 1350
-bg = ImageOps.fit(Image.open(D / "video/img1.jpg").convert("RGB").crop((420, 0, 1100, 720)), (W, H), Image.LANCZOS, centering=(.62, .5)).convert("RGBA")
-fr = Image.open(D / "cand/fr/raw141.jpg").convert("RGB")  # JTBC 앵커 화면(자막 포함)
-cw = 560; cap = fr.resize((cw, round(fr.height * cw / fr.width)), Image.LANCZOS)
-pad = 6; card = Image.new("RGBA", (cw + 2 * pad, cap.height + 2 * pad), (0, 0, 0, 0))
-ImageDraw.Draw(card).rounded_rectangle((0, 0, card.width - 1, card.height - 1), 18, fill=(255, 255, 255, 255))
-m = Image.new("L", cap.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, cap.width - 1, cap.height - 1), 13, fill=255)
-card.paste(cap, (pad, pad), m)
-x, y = 40, 520
-sh = Image.new("RGBA", (card.width + 80, card.height + 80), (0, 0, 0, 0))
-ImageDraw.Draw(sh).rounded_rectangle((40, 52, card.width + 40, card.height + 52), 18, fill=(0, 0, 0, 180)); sh = sh.filter(ImageFilter.GaussianBlur(18))
-bg.alpha_composite(sh, (x - 40, y - 40)); bg.alpha_composite(card, (x, y))
-bg.convert("RGB").save(D / "cand/cover_bg.jpg", quality=94)
+bg = Image.new("RGB", (W, H), (10, 10, 12))
+glow = Image.new("L", (W, H), 0); ImageDraw.Draw(glow).ellipse((90, -100, 990, 800), fill=110); glow = glow.filter(ImageFilter.GaussianBlur(170))
+bg = Image.composite(Image.new("RGB", (W, H), (62, 64, 72)), bg, glow).convert("RGBA")
+k = 1450 / cut.height; cut = cut.resize((round(cut.width * k), round(cut.height * k)), Image.LANCZOS)
+face_cx = int(cut.width * 0.62)  # 얼굴 가운데(누끼 기준)
+bg.alpha_composite(cut, (W // 2 - face_cx, 60))
+g = Image.new("L", (W, H), 0); d = ImageDraw.Draw(g)
+for y in range(820, 1060): d.line((0, y, W, y), fill=int(255 * (y - 820) / 240))
+for y in range(1060, H): d.line((0, y, W, y), fill=255)
+Image.composite(Image.new("RGB", (W, H), (10, 10, 12)), bg.convert("RGB"), g).save(D / "cand/cover_bg.jpg", quality=95)
 print("ok")
