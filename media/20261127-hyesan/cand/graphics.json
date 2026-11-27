@@ -1,0 +1,93 @@
+[
+ {
+  "kind": "capture",
+  "out": "media/20261127-hyesan/cand/g02.jpg",
+  "bg": "media/20261127-hyesan/cand/cover_bg.jpg",
+  "sub": "처음 알려진 모습",
+  "cap": "media/20261127-hyesan/cand/img2.jpg",
+  "title": "원룸 월세 35만 원\n주식 계좌는 '64억'",
+  "note": "* 유튜브 '휴먼스토리' 출연 영상 썸네일"
+ },
+ {
+  "kind": "capture",
+  "out": "media/20261127-hyesan/cand/g03.jpg",
+  "bg": "media/20261127-hyesan/cand/cover_bg.jpg",
+  "sub": "'투자자 김혜산' 구독 3.25만",
+  "cap": "media/20261127-hyesan/cand/img3.jpg",
+  "title": "SK하이닉스 한 종목으로\n'100억' 넘겼다던 95년생",
+  "note": "* 유튜브 영상 썸네일(계좌 화면 103억 7,768만 원, 본인 공개)"
+ },
+ {
+  "kind": "bars",
+  "out": "media/20261127-hyesan/cand/g04.jpg",
+  "bg": "media/20261127-hyesan/cand/cover_bg.jpg",
+  "sub": "영상 썸네일 속 계좌 금액",
+  "bars": [
+   {
+    "label": "10.1",
+    "value_text": "72억",
+    "ratio": 1.0
+   },
+   {
+    "label": "10.13",
+    "value_text": "55억",
+    "ratio": 0.764
+   },
+   {
+    "label": "10.20",
+    "value_text": "42억",
+    "ratio": 0.583
+   },
+   {
+    "label": "11.10",
+    "value_text": "37억",
+    "ratio": 0.514
+   },
+   {
+    "label": "11.17",
+    "value_text": "35억",
+    "ratio": 0.486
+   }
+  ],
+  "title": "72억 → '35억'\n7주 만에 반토막",
+  "note": "* 김혜산 채널 영상 업로드일 · 썸네일 금액(본인 공개, 검증 안 됨)"
+ },
+ {
+  "kind": "capture",
+  "out": "media/20261127-hyesan/cand/g05.jpg",
+  "bg": "media/20261127-hyesan/cand/cover_bg.jpg",
+  "sub": "최근 영상 16개",
+  "cap": "media/20261127-hyesan/cand/thumbs_grid.jpg",
+  "title": "영상 썸네일이 곧\n'계좌 잔고'",
+  "note": "* 유튜브 '투자자 김혜산' 동영상 탭(11.27, 최신순)"
+ },
+ {
+  "kind": "quote",
+  "out": "media/20261127-hyesan/cand/g06.jpg",
+  "bg": "media/20261127-hyesan/cand/cover_bg.jpg",
+  "sub": "그래도 안 팔았다",
+  "bubbles": [
+   {
+    "who": "10.20 영상 제목",
+    "t": "왜 나는 SK하이닉스\n300만 원일 때 팔지 않았는가"
+   },
+   {
+    "who": "11.10 영상 제목",
+    "t": "[계좌인증]\n단 한 주도 팔지 않았습니다"
+   }
+  ],
+  "title": "반토막에도\n'한 주도' 안 팔았다",
+  "note": "* 유튜브 '투자자 김혜산' 영상 제목"
+ },
+ {
+  "kind": "number",
+  "out": "media/20261127-hyesan/cand/g07.jpg",
+  "bg": "media/20261127-hyesan/cand/cover_bg.jpg",
+  "sub": "같은 기간 SK하이닉스",
+  "big": "-56",
+  "unit": "%",
+  "desc": "6월 고점 291만 9천 원 → 11.11 종가 127만 7천 원",
+  "title": "계좌가 반토막 난 이유\n'하이닉스'도 반토막",
+  "note": "* 종가 기준 집계(알파증류소 11.12)"
+ }
+]
