@@ -2,7 +2,7 @@
  "id": "20261127-gpsign2",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-27T23:58:13.896481+09:00",
  "publish_at": "2026-11-27T23:58:13.896562+09:00",
  "topic": "'전역 후 6개월 합격' 감정평가사 김선홍, AI 부정행위 의혹 해명·봉인 실무문제 현장 풀이(이돈호 변호사 유튜브 11.27)",
@@ -77,5 +77,8 @@
   "media/20261127-gpsign2/09.jpg",
   "media/20261127-gpsign2/10.jpg"
  ],
- "tg_msg": 3231
+ "tg_msg": 3231,
+ "ig_media_id": "17942408811401639",
+ "permalink": "https://www.instagram.com/p/DgP808mlTkC/",
+ "published_at": "2026-11-28T00:00:08.845030+09:00"
 }
