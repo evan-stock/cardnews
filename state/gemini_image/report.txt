@@ -1,1 +1,1 @@
-lee_up: 성공 (gemini-3-pro-image-preview)
+hyesan_cover: 성공 (gemini-3-pro-image-preview)
