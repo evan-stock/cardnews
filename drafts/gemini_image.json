@@ -3,16 +3,10 @@
  "model": "gemini-3-pro-image-preview",
  "prompts": [
   {
-   "name": "lee_ai3",
+   "name": "lee_up",
    "aspect": "4:5",
-   "image": "drafts/gemini_src/lee_refs.jpg",
-   "prompt": "The three photos in the reference image are all the SAME real young Korean man. Reproduce his face EXACTLY: same face shape, same eyes and eyelids, same eyebrows, same nose, same lips, same short black hairstyle, same age. Do not beautify or change his features. Vertical 4:5 photorealistic news-documentary still, like a TV news archive shot. Keep the bottom 40% fairly dark and simple (space for a headline). No readable text, no logos, no watermarks. Scene: he sits on a small stage at an intimate bookstore book-talk event, holding up a plain beige hardcover book toward a small seated audience seen from behind, warm bookstore lights and bookshelves behind him."
-  },
-  {
-   "name": "lee_ai4",
-   "aspect": "4:5",
-   "image": "drafts/gemini_src/lee_refs.jpg",
-   "prompt": "The three photos in the reference image are all the SAME real young Korean man. Reproduce his face EXACTLY: same face shape, same eyes and eyelids, same eyebrows, same nose, same lips, same short black hairstyle, same age. Do not beautify or change his features. Vertical 4:5 photorealistic news-documentary still, like a TV news archive shot. Keep the bottom 40% fairly dark and simple (space for a headline). No readable text, no logos, no watermarks. Scene: medium close-up, he stands in front of bookstore shelves holding a plain beige hardcover book against his chest, looking straight at the camera with a calm confident expression, soft warm light."
+   "image": "drafts/gemini_src/lee_mbic.png",
+   "prompt": "Upscale and restore this low-resolution video frame into a sharp, clean, high-resolution photo. This is a photo restoration task only: keep EXACTLY the same person, same face shape, same eyes, eyebrows, nose, mouth, expression, gaze direction, hair, clothing, pose, framing, lighting and dark night background. Do not change, beautify, or re-imagine his facial features. Only remove blur, compression artifacts and noise and add natural fine detail (skin texture, hair strands, fabric). No text, no watermark."
   }
  ]
 }
