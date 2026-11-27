@@ -1,0 +1,62 @@
+[
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk/cand/s02.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/s42.jpg",
+    "sub": "북토크 티켓+책 '2만 4,800원'"
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/s79.jpg",
+    "sub": "근거 묻자 \"'저만의 언어'로 해석\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk/cand/s03.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/s91.jpg",
+    "sub": "\"공부법이 들어 있을 줄…\""
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/s104.jpg",
+    "sub": "\"책이 '두꺼워지는' 걸 경계\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk/cand/s04.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/s120.jpg",
+    "sub": "\"'개정판' 무료 배송해 드릴게요\""
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/s125.jpg",
+    "sub": "개정판은 '끝내' 안 나왔다"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk/cand/s05.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/s182.jpg",
+    "sub": "\"출판사 '아무도' 안 받아줘\""
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/s199.jpg",
+    "sub": "그래서 '만점자 없는' 리트로"
+   }
+  ]
+ }
+]
