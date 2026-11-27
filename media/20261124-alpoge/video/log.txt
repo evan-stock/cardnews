@@ -1,8 +1,0 @@
-ERROR: [twitter] 2124987173439209561: No video could be found in this tweet
-영상 없는 글(글만/삭제됨): https://x.com/__alpoge__/status/2124987173439209561
-실패: https://x.com/__alpoge__/status/2124987173439209561
-total 16
-drwxr-xr-x 2 runner runner 4096 Nov 24 02:46 .
-drwxr-xr-x 3 runner runner 4096 Nov 24 02:46 ..
--rw-r--r-- 1 runner runner  225 Nov 24 02:46 log.txt
--rw-r--r-- 1 runner runner 2442 Nov 24 02:46 x1.json

@@ -35,151 +35,6 @@
   ]
  },
  {
-  "id": "20261119-leetfail",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetfail/01.jpg",
-   "media/20261119-leetfail/02.jpg",
-   "media/20261119-leetfail/03.jpg",
-   "media/20261119-leetfail/04.jpg",
-   "media/20261119-leetfail/05.jpg",
-   "media/20261119-leetfail/06.jpg",
-   "media/20261119-leetfail/07.jpg"
-  ]
- },
- {
-  "id": "20261119-leetfound",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetfound/01.jpg",
-   "media/20261119-leetfound/02.jpg"
-  ]
- },
- {
-  "id": "20261119-leetfound2",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetfound2/01.jpg",
-   "media/20261119-leetfound2/02.jpg"
-  ]
- },
- {
-  "id": "20261119-leetjail",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetjail/01.jpg",
-   "media/20261119-leetjail/02.jpg",
-   "media/20261119-leetjail/03.jpg",
-   "media/20261119-leetjail/04.jpg",
-   "media/20261119-leetjail/05.jpg",
-   "media/20261119-leetjail/06.jpg"
-  ]
- },
- {
-  "id": "20261119-leetlive-reel",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetlive-reel/reel.mp4"
-  ]
- },
- {
-  "id": "20261119-leetmeme",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetmeme/01.jpg",
-   "media/20261119-leetmeme/02.jpg",
-   "media/20261119-leetmeme/03.jpg",
-   "media/20261119-leetmeme/04.jpg",
-   "media/20261119-leetmeme/05.jpg",
-   "media/20261119-leetmeme/06.jpg"
-  ]
- },
- {
-  "id": "20261119-leetmeme2",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetmeme2/01.jpg",
-   "media/20261119-leetmeme2/02.jpg",
-   "media/20261119-leetmeme2/03.jpg",
-   "media/20261119-leetmeme2/04.jpg",
-   "media/20261119-leetmeme2/05.jpg",
-   "media/20261119-leetmeme2/06.jpg"
-  ]
- },
- {
-  "id": "20261119-leetpulse",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetpulse/01.jpg",
-   "media/20261119-leetpulse/02.jpg"
-  ]
- },
- {
-  "id": "20261119-leetreact",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetreact/01.jpg",
-   "media/20261119-leetreact/02.jpg",
-   "media/20261119-leetreact/03.jpg"
-  ]
- },
- {
-  "id": "20261119-leetsearch",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetsearch/01.jpg",
-   "media/20261119-leetsearch/02.jpg",
-   "media/20261119-leetsearch/03.jpg",
-   "media/20261119-leetsearch/04.jpg",
-   "media/20261119-leetsearch/05.jpg"
-  ]
- },
- {
-  "id": "20261119-leetticket",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-leetticket/01.jpg",
-   "media/20261119-leetticket/02.jpg",
-   "media/20261119-leetticket/03.jpg",
-   "media/20261119-leetticket/04.jpg",
-   "media/20261119-leetticket/05.jpg",
-   "media/20261119-leetticket/06.jpg",
-   "media/20261119-leetticket/07.jpg",
-   "media/20261119-leetticket/08.jpg",
-   "media/20261119-leetticket/09.jpg"
-  ]
- },
- {
-  "id": "20261119-oczamii-reel",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-oczamii-reel/reel.mp4"
-  ]
- },
- {
-  "id": "20261119-sunungcheat",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261119-sunungcheat/01.jpg",
-   "media/20261119-sunungcheat/02.jpg",
-   "media/20261119-sunungcheat/03.jpg",
-   "media/20261119-sunungcheat/04.jpg",
-   "media/20261119-sunungcheat/05.jpg",
-   "media/20261119-sunungcheat/06.jpg",
-   "media/20261119-sunungcheat/07.jpg",
-   "media/20261119-sunungcheat/08.jpg",
-   "media/20261119-sunungcheat/09.jpg",
-   "media/20261119-sunungcheat/preview.jpg"
-  ]
- },
- {
-  "id": "20261119-t18",
-  "channel": "털뭉치",
-  "files": [
-   "media/20261119-t18/short.mp4"
-  ]
- },
- {
   "id": "20261120-distrust",
   "channel": "오늘의쓸모_인스타",
   "files": [
@@ -659,6 +514,52 @@
   ]
  },
  {
+  "id": "20261126-egypt-reel",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261126-egypt-reel/reel.mp4"
+  ]
+ },
+ {
+  "id": "20261126-kimjunpyo",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261126-kimjunpyo/01.jpg",
+   "media/20261126-kimjunpyo/02.jpg",
+   "media/20261126-kimjunpyo/03.jpg",
+   "media/20261126-kimjunpyo/04.jpg",
+   "media/20261126-kimjunpyo/05.jpg",
+   "media/20261126-kimjunpyo/06.jpg",
+   "media/20261126-kimjunpyo/07.jpg",
+   "media/20261126-kimjunpyo/08.jpg"
+  ]
+ },
+ {
+  "id": "20261126-kimjunpyo2",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261126-kimjunpyo2/01.jpg",
+   "media/20261126-kimjunpyo2/02.jpg",
+   "media/20261126-kimjunpyo2/03.jpg",
+   "media/20261126-kimjunpyo2/04.jpg",
+   "media/20261126-kimjunpyo2/05.jpg",
+   "media/20261126-kimjunpyo2/06.jpg",
+   "media/20261126-kimjunpyo2/07.jpg",
+   "media/20261126-kimjunpyo2/08.jpg"
+  ]
+ },
+ {
+  "id": "20261126-lorifake",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261126-lorifake/01.jpg",
+   "media/20261126-lorifake/02.jpg",
+   "media/20261126-lorifake/03.jpg",
+   "media/20261126-lorifake/04.jpg",
+   "media/20261126-lorifake/05.jpg"
+  ]
+ },
+ {
   "id": "20261126-mental",
   "channel": "오늘의쓸모_인스타",
   "files": [
@@ -671,6 +572,30 @@
    "media/20261126-mental/07.jpg",
    "media/20261126-mental/08.jpg",
    "media/20261126-mental/09.jpg"
+  ]
+ },
+ {
+  "id": "20261126-musk",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261126-musk/01.jpg",
+   "media/20261126-musk/02.jpg",
+   "media/20261126-musk/03.jpg",
+   "media/20261126-musk/04.jpg",
+   "media/20261126-musk/05.jpg",
+   "media/20261126-musk/06.jpg"
+  ]
+ },
+ {
+  "id": "20261126-musk2",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261126-musk2/01.jpg",
+   "media/20261126-musk2/02.jpg",
+   "media/20261126-musk2/03.jpg",
+   "media/20261126-musk2/04.jpg",
+   "media/20261126-musk2/05.jpg",
+   "media/20261126-musk2/06.jpg"
   ]
  }
 ]
