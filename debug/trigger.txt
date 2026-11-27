@@ -1,4 +1,1 @@
-get 20261127-ydpx https://pbs.twimg.com/media/HYH3RGKakAAeXi3.jpg?name=orig i1.jpg
-get 20261127-ydpx https://pbs.twimg.com/media/HYH3RiCa0AEWcKT.jpg?name=orig i2.jpg
-get 20261127-ydpx https://pbs.twimg.com/media/HYH3R3YbYAA7Mw1.jpg?name=orig i3.jpg
-get 20261127-ydpx https://pbs.twimg.com/media/HYH3SOGagAAspe7.jpg?name=orig i4.jpg
+get 20261127-gpsign https://i.ytimg.com/vi/pfGMeo0MZKE/maxresdefault.jpg ytthumb.jpg
