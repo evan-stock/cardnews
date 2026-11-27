@@ -16,3 +16,10 @@ drwxr-xr-x 3 runner runner   4096 Nov 27 02:12 ..
 -rw-r--r-- 1 runner runner 217400 Nov 27 02:13 page1.html
 -rw-r--r-- 1 runner runner 213146 Nov 27 02:13 page2.html
 -rw-r--r-- 1 runner runner 218736 Nov 27 02:13 page3.html
+total 24
+drwxr-xr-x 2 runner runner 4096 Nov 27 02:14 .
+drwxr-xr-x 3 runner runner 4096 Nov 27 02:14 ..
+-rw-r--r-- 1 runner runner 2309 Nov 27 02:14 log.txt
+-rw-r--r-- 1 runner runner  259 Nov 27 02:14 page1.html
+-rw-r--r-- 1 runner runner   27 Nov 27 02:14 page2.html
+-rw-r--r-- 1 runner runner  251 Nov 27 02:14 page3.html
