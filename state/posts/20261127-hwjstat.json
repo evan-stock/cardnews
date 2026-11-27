@@ -2,7 +2,7 @@
  "id": "20261127-hwjstat",
  "slot": "lunch",
  "slot_label": "점심",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-27T14:24:16.270202+09:00",
  "publish_at": "2026-11-27T14:24:16.270272+09:00",
  "topic": "현우진, 메가스터디 '2028 수능 수학 커리큘럼 가이드' 영상에서 'AI 부정행위' 언급: 통계 분포가 후진국, 그런 집단 있을 수도",
@@ -72,5 +72,8 @@
   "media/20261127-hwjstat/06.jpg",
   "media/20261127-hwjstat/07.jpg"
  ],
- "tg_msg": 3187
+ "tg_msg": 3187,
+ "ig_media_id": "18122676847981648",
+ "permalink": "https://www.instagram.com/p/DgO7EMWEZwa/",
+ "published_at": "2026-11-27T14:25:37.007242+09:00"
 }
