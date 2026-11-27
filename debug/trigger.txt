@@ -1,3 +1,3 @@
-get 20261127-musk13 https://api.fxtwitter.com/status/2125867208358105441 tw.json
-shot 20261127-musk13 https://platform.twitter.com/embed/Tweet.html?id=2125867208358105441&theme=dark&lang=ko&dnt=true tw_dark desk
-shot 20261127-musk13 https://platform.twitter.com/embed/Tweet.html?id=2125867208358105441&theme=light&lang=ko&dnt=true tw_light desk
+shot 20261127-muskbot https://www.tuniscope.com/article/445506/actualites/international/elon-musk-222410 tunis desk clean noimg
+shot 20261127-muskbot https://www.dynamitenews.com/viral/viral-why-a-robot-carrying-elon-musks-bags-has-sparked-debate-over-jobs-and-automation dyn desk clean noimg
+shot 20261127-muskbot https://thedailyscout.com/s/elevx-WKjrM scout desk clean noimg
