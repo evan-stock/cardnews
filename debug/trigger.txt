@@ -1,1 +1,2 @@
-shot 20261127-igref3 https://www.instagram.com/p/DgPY8XTk3JE/embed/captioned/ embed
+get 20261127-ydpx https://api.fxtwitter.com/status/2126252398192865541 tw.json
+shot 20261127-ydpx https://platform.twitter.com/embed/Tweet.html?id=2126252398192865541&theme=dark&lang=ko tw
