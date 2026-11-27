@@ -1,0 +1,11 @@
+ERROR: [twitter] 2126175885254635664: No video could be found in this tweet
+사진 받음 p1_1.jpg
+사진 받음 p1_2.jpg
+영상 없는 글(사진만): https://x.com/64bitcoinkr/status/2126175885254635664
+total 348
+drwxr-xr-x 2 runner runner   4096 Nov 27 07:39 .
+drwxr-xr-x 3 runner runner   4096 Nov 27 07:39 ..
+-rw-r--r-- 1 runner runner    205 Nov 27 07:39 log.txt
+-rw-r--r-- 1 runner runner 259915 Nov 27 07:39 p1_1.jpg
+-rw-r--r-- 1 runner runner  76808 Nov 27 07:39 p1_2.jpg
+-rw-r--r-- 1 runner runner    494 Nov 27 07:39 x1.json
