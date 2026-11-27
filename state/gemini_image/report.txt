@@ -1,2 +1,2 @@
-jensen_body1: 성공 (gemini-2.5-flash-image)
-jensen_body2: 성공 (gemini-2.5-flash-image)
+lee_ai1: 성공 (gemini-2.5-flash-image)
+lee_ai2: 성공 (gemini-2.5-flash-image)
