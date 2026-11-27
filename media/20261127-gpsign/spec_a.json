@@ -1,0 +1,147 @@
+[
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign/cand/v02.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 15.5,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "온라인에서\n'AI 부정행위'를 의심받았죠"
+   },
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 99,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "저는 1, 2차 일체의\n'AI 부정행위'를 하지 않았습니다"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign/cand/v03.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 188,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "\"얘는 문신에 예대까지 나왔네?\n얘도 아니야?\""
+   },
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 219,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "면접관분들께서\n\"너 목에 그거 '뭐냐?'\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign/cand/v04.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 241,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "제가 들어보니까 '6개월'은\n누가 지어낸 게 아니고"
+   },
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 269,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "그래서 합격 수기도\n'전역 후 6개월'로 제가 작성했고"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign/cand/v05.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 286,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "그러면 실제로는\n수험기간이 얼마 정도죠?"
+   },
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 293,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "한 '1년 10개월' 정도라고\n볼 수 있겠습니다"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign/cand/v06.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 398,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "와 공부를\n많이 하셨네요…"
+   },
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 415.5,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "저 석차가 '38등'이었어요"
+   }
+  ]
+ }
+]

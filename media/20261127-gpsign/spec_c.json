@@ -1,0 +1,118 @@
+[
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign/cand/c1.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 111,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "제가 평가사님의 신체를\n좀 살펴봐도 되겠습니까?"
+   },
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 115.5,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "이게 '신발 밑창'에\n숨기시니까…"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign/cand/c2.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 186,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "'문제지'를 개봉하겠습니다"
+   },
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 251,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "2010년에 기출된 문제를\n변형한 거예요"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign/cand/c3.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 392,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "평가사 시험에서\n이거 다 맞으면 '수석'입니다"
+   },
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 386,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "논리적으로는\n거의 다 뭐 이렇게…"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign/cand/c4.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 453,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "수험생이다라고 했으면\n'나쁘지 않네' 정도인데"
+   },
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 457.5,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "합격하신 지 1년 좀 넘은 상태에서\n한 거면 '꽤 괜찮다'"
+   }
+  ]
+ }
+]
