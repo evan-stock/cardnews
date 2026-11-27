@@ -1,2 +1,1 @@
-hwj_cover_up1: 성공 (gemini-2.5-flash-image)
-hwj_cover_up2: 성공 (gemini-2.5-flash-image)
+musk_cover_up1: 성공 (gemini-2.5-flash-image)
