@@ -2,7 +2,7 @@
  "id": "20261127-ydpsage2",
  "slot": "evening",
  "slot_label": "저녁",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-27T21:19:42.385788+09:00",
  "publish_at": "2026-11-27T21:19:42.385853+09:00",
  "topic": "여의도 '코스피 4400 대폭락장' 피켓 시위자, 11.27 운영 카페('주식차트교육')에 '오늘 무조건 매수하는 날' 공지 — 커뮤니티 '여의도 현자 대풀롱 선언' 화제",
@@ -57,5 +57,8 @@
   "media/20261127-ydpsage2/04.jpg",
   "media/20261127-ydpsage2/05.jpg"
  ],
- "tg_msg": 3204
+ "tg_msg": 3204,
+ "ig_media_id": "18144112753722810",
+ "permalink": "https://www.instagram.com/p/DgPql44FkJf/",
+ "published_at": "2026-11-27T21:20:52.629028+09:00"
 }
