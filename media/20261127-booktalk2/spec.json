@@ -1,0 +1,133 @@
+[
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk2/02.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/n8_360_0.jpg"
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/n25_360_0.jpg"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk2/03.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/n36_290_54.jpg",
+    "sub": "9월 14일 '브레인 악셀' 북토크"
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/n42_360_54.jpg",
+    "sub": "티켓+책 '2만 4,800원'\n50명 선착순"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk2/04.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/n55_290_54.jpg",
+    "sub": "책의 주장은 '뇌 최적화'"
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/n64_360_54.jpg",
+    "sub": "\"공부가 '재밌고'\n부담이 없죠\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk2/05.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/n79_360_54.jpg",
+    "sub": "\"마법 같다\" 근거 묻자\n\"'저만의 언어'로 해석\""
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/n91_360_54.jpg",
+    "sub": "청중 \"공부법이 없어 '아쉬웠다'\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk2/06.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/n104_360_54.jpg",
+    "sub": "\"책이 '두꺼워지는' 걸 경계\""
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/n120_360_54.jpg",
+    "sub": "\"개정판 '무료 배송'해 드릴게요\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk2/07.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/n128_290_54.jpg",
+    "sub": "한 달 반 만에 '8쇄'\n최소 3만 부"
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/n125_290_54.jpg",
+    "sub": "개정판은 '끝내' 안 나왔다"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk2/08.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/n141_360_0.jpg"
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/n168_360_0.jpg"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk2/09.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/n182_360_54.jpg",
+    "sub": "\"출판사 '아무도' 안 받아줘\""
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/n199_360_54.jpg",
+    "sub": "\"만점자 없는 시험,\n'도전해 볼 만'\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk2/10.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/n206_360_54.jpg",
+    "sub": "그리고 실제로 리트 '최초 만점'"
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/n226_290_54.jpg",
+    "sub": "경찰, 자택·영훈고 '압수수색'"
+   }
+  ]
+ }
+]
