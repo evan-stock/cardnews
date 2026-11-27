@@ -1,6 +1,6 @@
 {
  "id": "20261127-sulksiam",
- "mode": "render",
+ "mode": "send",
  "format": "meme",
  "topic": "벤치마크 복제 시범 1편(11.27): 고양이 '욕(?)' 주제. 빌리빌리 小黑豆暹罗 BV1ZCTtzGEqG(12.2만, 2025.6.5) — 중성화 후 넥카라 뺀 샴고양이가 집사 뽀뽀를 거부하며 앞발로 밀고 울음(욕). 내레이션·마스코트·사실 한 줄 없이 위쪽 해설 자막 + 대사 + 끝 괄호. 11.27 사용자: 좌하단 출처 빼고(설명란만), TTS 내레이션 추가.",
  "hook": {
@@ -186,5 +186,6 @@
  ],
  "bgm": "assets/bgm/worthy/curious_kitten.mp3",
  "bgm_start": 0.0,
- "bgm_volume": 2.6
+ "bgm_volume": 2.6,
+ "approved": true
 }
