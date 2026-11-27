@@ -3,10 +3,10 @@
  "model": "gemini-3-pro-image-preview",
  "prompts": [
   {
-   "name": "lee_up",
+   "name": "hyesan_cover",
    "aspect": "4:5",
-   "image": "drafts/gemini_src/lee_mbic.png",
-   "prompt": "Upscale and restore this low-resolution video frame into a sharp, clean, high-resolution photo. This is a photo restoration task only: keep EXACTLY the same person, same face shape, same eyes, eyebrows, nose, mouth, expression, gaze direction, hair, clothing, pose, framing, lighting and dark night background. Do not change, beautify, or re-imagine his facial features. Only remove blur, compression artifacts and noise and add natural fine detail (skin texture, hair strands, fabric). No text, no watermark."
+   "image": "drafts/gemini_src/hyesan_cover.jpg",
+   "prompt": "This is a rough photo composite: a black-and-white cut-out portrait of a young Korean man placed over a dark background of blurred YouTube thumbnails showing amounts like '37억', '45억'. Make the composite look clean and natural like a professionally edited magazine cover: clean up the cut-out edges and hair outline (no halo, no jagged edges), make the lighting and contrast of the man match the dark background with soft rim light, and let his white shirt and shoulders fade smoothly and naturally into darkness at the bottom. Keep the man EXACTLY the same person: identical face, eyes, nose, mouth, ears, hairstyle, expression, head angle and size and position in the frame. Do not redraw or beautify his face. Keep the background thumbnails with their numbers. Keep it black-and-white for the man. Keep the bottom 25% dark for a headline. No new text, no logos, no watermark."
   }
  ]
 }
