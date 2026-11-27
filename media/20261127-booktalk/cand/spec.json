@@ -5,12 +5,12 @@
   "src": "영상: JTBC 뉴스룸(11.26)",
   "frames": [
    {
-    "img": "media/20261127-booktalk/cand/fr/s42.jpg",
-    "sub": "북토크 티켓+책 '2만 4,800원'"
+    "img": "media/20261127-booktalk/cand/fr/s36.jpg",
+    "sub": "9월 14일 '브레인 악셀' 북토크"
    },
    {
-    "img": "media/20261127-booktalk/cand/fr/s79.jpg",
-    "sub": "근거 묻자 \"'저만의 언어'로 해석\""
+    "img": "media/20261127-booktalk/cand/fr/s42.jpg",
+    "sub": "티켓+책 '2만 4,800원'\n50명 선착순"
    }
   ]
  },
@@ -20,12 +20,12 @@
   "src": "영상: JTBC 뉴스룸(11.26)",
   "frames": [
    {
-    "img": "media/20261127-booktalk/cand/fr/s91.jpg",
-    "sub": "\"공부법이 들어 있을 줄…\""
+    "img": "media/20261127-booktalk/cand/fr/s55.jpg",
+    "sub": "책의 주장은 '뇌 최적화'"
    },
    {
-    "img": "media/20261127-booktalk/cand/fr/s104.jpg",
-    "sub": "\"책이 '두꺼워지는' 걸 경계\""
+    "img": "media/20261127-booktalk/cand/fr/s64.jpg",
+    "sub": "\"공부가 '재밌고'\n부담이 없죠\""
    }
   ]
  },
@@ -35,12 +35,12 @@
   "src": "영상: JTBC 뉴스룸(11.26)",
   "frames": [
    {
-    "img": "media/20261127-booktalk/cand/fr/s120.jpg",
-    "sub": "\"'개정판' 무료 배송해 드릴게요\""
+    "img": "media/20261127-booktalk/cand/fr/s79.jpg",
+    "sub": "\"마법 같다\" 근거 묻자\n\"'저만의 언어'로 해석\""
    },
    {
-    "img": "media/20261127-booktalk/cand/fr/s125.jpg",
-    "sub": "개정판은 '끝내' 안 나왔다"
+    "img": "media/20261127-booktalk/cand/fr/s91.jpg",
+    "sub": "청중 \"공부법이 없어 '아쉬웠다'\""
    }
   ]
  },
@@ -50,12 +50,72 @@
   "src": "영상: JTBC 뉴스룸(11.26)",
   "frames": [
    {
-    "img": "media/20261127-booktalk/cand/fr/s182.jpg",
-    "sub": "\"출판사 '아무도' 안 받아줘\""
+    "img": "media/20261127-booktalk/cand/fr/s104.jpg",
+    "sub": "\"책이 '두꺼워지는' 걸 경계\""
    },
    {
+    "img": "media/20261127-booktalk/cand/fr/s120.jpg",
+    "sub": "\"개정판 '무료 배송'해 드릴게요\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk/cand/s06.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/s128.jpg",
+    "sub": "한 달 반 만에 '8쇄'\n최소 3만 부"
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/s125.jpg",
+    "sub": "개정판은 '끝내' 안 나왔다"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk/cand/s07.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/s177.jpg",
+    "sub": "\"수능 이력만으론\n철학 전달에 '한계'\""
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/s182.jpg",
+    "sub": "\"출판사 '아무도' 안 받아줘\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk/cand/s08.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
     "img": "media/20261127-booktalk/cand/fr/s199.jpg",
-    "sub": "그래서 '만점자 없는' 리트로"
+    "sub": "\"만점자 없는 시험,\n'도전해 볼 만'\""
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/s206.jpg",
+    "sub": "그리고 실제로 리트 '최초 만점'"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk/cand/s09.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
+    "img": "media/20261127-booktalk/cand/fr/s226.jpg",
+    "sub": "경찰, 자택·영훈고 '압수수색'"
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/s238.jpg",
+    "sub": "영장엔 '성명불상 공범'도 피의자"
    }
   ]
  }
