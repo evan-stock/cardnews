@@ -1,2 +1,1 @@
-lm_s6: 성공 (gemini-2.5-flash-image)
-lm_s7: 성공 (gemini-2.5-flash-image)
+gp_cover: 성공 (gemini-2.5-flash-image)
