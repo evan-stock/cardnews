@@ -80,6 +80,19 @@
   "src": "영상: JTBC 뉴스룸(11.26)",
   "frames": [
    {
+    "img": "media/20261127-booktalk/cand/fr/s141w.jpg"
+   },
+   {
+    "img": "media/20261127-booktalk/cand/fr/s168w.jpg"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-booktalk/cand/s08.jpg",
+  "src": "영상: JTBC 뉴스룸(11.26)",
+  "frames": [
+   {
     "img": "media/20261127-booktalk/cand/fr/s177.jpg",
     "sub": "\"수능 이력만으론\n철학 전달에 '한계'\""
    },
@@ -91,7 +104,7 @@
  },
  {
   "kind": "stack",
-  "out": "media/20261127-booktalk/cand/s08.jpg",
+  "out": "media/20261127-booktalk/cand/s09.jpg",
   "src": "영상: JTBC 뉴스룸(11.26)",
   "frames": [
    {
@@ -106,7 +119,7 @@
  },
  {
   "kind": "stack",
-  "out": "media/20261127-booktalk/cand/s09.jpg",
+  "out": "media/20261127-booktalk/cand/s10.jpg",
   "src": "영상: JTBC 뉴스룸(11.26)",
   "frames": [
    {
