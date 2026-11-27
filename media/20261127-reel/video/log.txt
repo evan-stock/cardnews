@@ -7,3 +7,9 @@ drwxr-xr-x 2 runner runner    4096 Nov 27 13:12 .
 drwxr-xr-x 4 runner runner    4096 Nov 27 13:12 ..
 -rw-r--r-- 1 runner runner     156 Nov 27 13:12 log.txt
 -rw-r--r-- 1 runner runner 1581955 Nov 27 13:12 page1.html
+total 1068
+drwxr-xr-x 2 runner runner   4096 Nov 27 13:15 .
+drwxr-xr-x 4 runner runner   4096 Nov 27 13:15 ..
+-rw-r--r-- 1 runner runner    383 Nov 27 13:15 log.txt
+-rw-r--r-- 1 runner runner 540462 Nov 27 13:15 page1.html
+-rw-r--r-- 1 runner runner 540436 Nov 27 13:15 page2.html
