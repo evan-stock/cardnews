@@ -1,0 +1,28 @@
+{
+ "id": "20261127-dycdn",
+ "finished_at": "2026-11-27T22:16:57+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://v5-dy-ov-experiment.zjcdn.com/dc7fa7c885ec0339e8256ff826b9308e/6b0ad25f/video/tos/cn/tos-cn-vd-0026c000-ce/oAAJQAbXCnAEwig1BKifEBwuqgdA37IUeAByAc/media-video-hvc1/?a=6383&ch=0&cr=8&dr=0&er=1&lr=default&cd=0%7C0%7C0%7C3&cv=1&br=596&bt=596&cs=4&ds=3&eid=45312&mime_type=video_mp4&qs=15&rc=aTs4NDhmNDo7MzhkaTg1NUBpamQ0M2w5cmg4PDMzbGkzNUA0Ly1eNV9gNWAxLmJgNjIuYSNxazNeMmRjazVhLS1kLTRzcw%3D%3D&btag=40000e00028000&cquery=100w_100o&dy_q=1795784825&l=202611272107059A949EB7DF41EAC2574E",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261127-dycdn/video/y1.mp4",
+   "mb": 7.5,
+   "view_count": null,
+   "title": "media-video-hvc1"
+  },
+  {
+   "n": 2,
+   "url": "https://v5-dy-ov-experiment.zjcdn.com/53713b74b1f4e69bfc4bdf77b8116432/6b0ad25f/video/tos/cn/tos-cn-vd-0026c000-ce/oMAfCi3EAjbeHByqg7tEcUAwBxiAK1lnwABRIA/media-audio-und-mp4a/?a=6383&ch=0&cr=8&dr=0&er=1&lr=default&cd=0%7C0%7C0%7C3&cv=1&br=61&bt=61&cs=0&mime_type=video_mp4&qs=12&rc=NDlnNTQ5OTs3ZjM0OmU3ZEBpamQ0M2w5cmg4PDMzbGkzNUAzYC1fYmJhY18vMi5jYGIyYSNxazNeMmRjazVhLS1kLTRzcw%3D%3D&btag=40000e00028000&cquery=100o_100w&dy_q=1795784825&l=202611272107059A949EB7DF41EAC2574E",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261127-dycdn/video/y2.mp4",
+   "mb": 0.8,
+   "view_count": null,
+   "title": "media-audio-und-mp4a"
+  }
+ ]
+}
