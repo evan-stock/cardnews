@@ -4,3 +4,26 @@ drwxr-xr-x 3 runner runner    4096 Nov 27 07:19 ..
 -rw-r--r-- 1 runner runner       0 Nov 27 07:19 log.txt
 -rw-r--r-- 1 runner runner 1410540 Nov 27 07:19 page1.html
 -rw-r--r-- 1 runner runner  476158 Nov 27 07:19 page2.html
+total 2112
+drwxr-xr-x 2 runner runner    4096 Nov 27 07:21 .
+drwxr-xr-x 3 runner runner    4096 Nov 27 07:21 ..
+-rw-r--r-- 1 runner runner   11907 Nov 27 07:21 img1.jpg
+-rw-r--r-- 1 runner runner   12533 Nov 27 07:21 img10.jpg
+-rw-r--r-- 1 runner runner   13559 Nov 27 07:21 img11.jpg
+-rw-r--r-- 1 runner runner   15931 Nov 27 07:21 img12.jpg
+-rw-r--r-- 1 runner runner   14565 Nov 27 07:21 img13.jpg
+-rw-r--r-- 1 runner runner   12137 Nov 27 07:21 img14.jpg
+-rw-r--r-- 1 runner runner   15435 Nov 27 07:21 img15.jpg
+-rw-r--r-- 1 runner runner   16233 Nov 27 07:21 img16.jpg
+-rw-r--r-- 1 runner runner   13498 Nov 27 07:21 img17.jpg
+-rw-r--r-- 1 runner runner   13534 Nov 27 07:21 img2.jpg
+-rw-r--r-- 1 runner runner   10402 Nov 27 07:21 img3.jpg
+-rw-r--r-- 1 runner runner   13545 Nov 27 07:21 img4.jpg
+-rw-r--r-- 1 runner runner   13284 Nov 27 07:21 img5.jpg
+-rw-r--r-- 1 runner runner    9782 Nov 27 07:21 img6.jpg
+-rw-r--r-- 1 runner runner   14798 Nov 27 07:21 img7.jpg
+-rw-r--r-- 1 runner runner   13477 Nov 27 07:21 img8.jpg
+-rw-r--r-- 1 runner runner   10116 Nov 27 07:21 img9.jpg
+-rw-r--r-- 1 runner runner     286 Nov 27 07:21 log.txt
+-rw-r--r-- 1 runner runner 1410540 Nov 27 07:21 page1.html
+-rw-r--r-- 1 runner runner  476158 Nov 27 07:21 page2.html
