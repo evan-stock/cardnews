@@ -1,3 +1,3 @@
-get 20261127-musk13 https://api.fxtwitter.com/2/profile/elonmusk/replies?count=100 tl_rep.json
-get 20261127-musk13 https://api.fxtwitter.com/2/profile/elonmusk/statuses?count=100&with_replies=true tl_wr.json
-get 20261127-musk13 https://api.fxtwitter.com/2/profile/elonmusk/statuses?count=100&cursor=DAAHCgABHYHOUA___-oLAAIAAAATMjEyNTg3MDExMjA1ODI5NDM3OQgAAwAAAAIAAA tl_p2.json
+get 20261127-musk13 https://api.fxtwitter.com/status/2125867208358105441 tw.json
+shot 20261127-musk13 https://platform.twitter.com/embed/Tweet.html?id=2125867208358105441&theme=dark&lang=ko&dnt=true tw_dark desk
+shot 20261127-musk13 https://platform.twitter.com/embed/Tweet.html?id=2125867208358105441&theme=light&lang=ko&dnt=true tw_light desk
