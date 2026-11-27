@@ -1,2 +1,71 @@
-[{"id":"20261127-toeicproxy","slot":"dinner","mode":"collect","limit":30,
-"image_pages":["https://supple.kr/news/cmwy3vhnzcipvkwp8pnv4l3hn","https://m.inews24.com/v/2031046","https://www.fnnews.com/news/202611270701075490","https://weekly.khan.co.kr/article/202611270940001/","https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611270016","https://sisatoday.co.kr/article/1065573545574391","https://news.jkn.co.kr/post/1126189"]}]
+[
+ {
+  "id": "20261127-toeicproxy",
+  "slot": "dinner",
+  "mode": "send",
+  "topic": "연합뉴스, 텔레그램 토익·텝스 대리시험 업체 접촉 취재(11.26): 800점대 650만원 선불, 900점대 460만원, 성적표 위조 약 80만원",
+  "category": "사회",
+  "risk": "모든 수치·발언은 연합뉴스 취재(11.27 보도) 인용. 업체 실명·계정명 노출 안 함.",
+  "images": [
+   "cover2.jpg",
+   "v02full.jpg",
+   "v04.jpg",
+   "v05.jpg",
+   "v06.jpg",
+   "cover.jpg"
+  ],
+  "slides": [
+   {
+    "lay": "one",
+    "t": "\"토익 900점 이상 맞게 해드립니다\"\n토익 '대리시험' 업체와의 대화"
+   },
+   {
+    "raw": true
+   },
+   {
+    "raw": true
+   },
+   {
+    "raw": true
+   },
+   {
+    "raw": true
+   },
+   {
+    "t": "돈으로 산 점수, '끝까지' 찾아내야",
+    "b": "생각나는 친구에게 보내주세요 · 팔로우하면 매일 화제 소식"
+   }
+  ],
+  "caption": "[텔레그램서 버젓이…토익 대리시험 업체 \"원하는 점수대 다 맞춰드립니다\"]\n\n연합뉴스가 26일 텔레그램에서 토익·텝스 대리시험을 해준다는 '국내 최고 업체' 계정에 \"800점대를 목표로 한다\"고 문의했습니다. 업체는 나이·성별·시험 일정을 묻고, 토익 접수 내역과 신분증 사진만 있으면 된다고 했습니다.\n\n\"얼굴과 신분증 사진이 달라 걸리면 어떡하냐\"는 질문에는 \"전문 노하우가 있으니 걱정 말라\"고 답했고, 650만원 선불을 요구했습니다. 다른 업체는 900점대에 460만원을, 한 중국 업체는 성적표 위조에 테더 600개(약 80만원)를 요구했습니다.\n\n올해 여러 차례 감독을 맡은 토익 감독관은 \"신분증과 얼굴 대조 절차가 매우 허술하다\"고 말했습니다. 신분증을 요구하는 업체는 피싱·협박 같은 2차 범죄로 이어질 수 있어 주의가 필요합니다.\n\n돈 주고 산 점수로 붙은 사람, 나중에라도 합격을 취소해야 할까요?\n\n생각나는 친구에게 보내주세요! 팔로우하면 매일 화제 소식을 먼저 받아보실 수 있습니다.",
+  "hashtags": [
+   "토익",
+   "대리시험",
+   "텝스",
+   "부정행위",
+   "오늘의쓸모"
+  ],
+  "sources": [
+   {
+    "publisher": "연합뉴스",
+    "url": "https://supple.kr/news/cmwy3vhnzcipvkwp8pnv4l3hn",
+    "date": "2026.11.27"
+   },
+   {
+    "publisher": "주간경향(연합뉴스 인용)",
+    "url": "https://weekly.khan.co.kr/article/202611270940001/",
+    "date": "2026.11.27"
+   },
+   {
+    "publisher": "아이뉴스24",
+    "url": "https://m.inews24.com/v/2031046",
+    "date": "2026.11.27"
+   }
+  ],
+  "photo_credits": [
+   "텔레그램 캡처: 연합뉴스",
+   "기사 화면: 파이낸셜뉴스(연합뉴스 기사)"
+  ],
+  "publish_now": true,
+  "publish_at": "2026-11-27T17:43:51+09:00"
+ }
+]
