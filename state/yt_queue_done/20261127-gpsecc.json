@@ -1,0 +1,18 @@
+{
+ "id": "20261127-gpsecc",
+ "finished_at": "2026-11-27T22:36:41+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=pfGMeo0MZKE",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261127-gpsecc/video/y1.mp4",
+   "mb": 57.5,
+   "error": "재시도 실패",
+   "view_count": 11769,
+   "title": "'전역 후 6개월 합격' 감정평가사, AI 부정행위 의혹에 직접 답했습니다"
+  }
+ ]
+}
