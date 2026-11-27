@@ -9,8 +9,8 @@
   "images": [
    "cover.jpg",
    "vt.jpg",
-   "v4.jpg",
    "v3.jpg",
+   "v4.jpg",
    "v5.jpg",
    "v6.jpg",
    "v7.jpg",
@@ -33,18 +33,18 @@
    {
     "raw": true,
     "video": {
-     "src": "video/v4.mp4",
+     "src": "video/v3.mp4",
      "start": 0,
-     "dur": 15.1,
+     "dur": 19.6,
      "audio": true
     }
    },
    {
     "raw": true,
     "video": {
-     "src": "video/v3.mp4",
+     "src": "video/v4.mp4",
      "start": 0,
-     "dur": 19.6,
+     "dur": 15.1,
      "audio": true
     }
    },
