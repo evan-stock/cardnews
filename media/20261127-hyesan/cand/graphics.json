@@ -54,15 +54,6 @@
  },
  {
   "kind": "capture",
-  "out": "media/20261127-hyesan/cand/g05.jpg",
-  "bg": "media/20261127-hyesan/cand/cover_bg.jpg",
-  "sub": "최근 영상 16개",
-  "cap": "media/20261127-hyesan/cand/thumbs_grid.jpg",
-  "title": "영상 썸네일이 곧\n'계좌 잔고'",
-  "note": "* 유튜브 '투자자 김혜산' 동영상 탭(11.27, 최신순)"
- },
- {
-  "kind": "capture",
   "out": "media/20261127-hyesan/cand/g06.jpg",
   "bg": "media/20261127-hyesan/cand/cover_bg.jpg",
   "sub": "그래도 안 팔았다",
@@ -80,5 +71,16 @@
   "desc": "6월 고점 291만 9천 원 → 11.11 종가 127만 7천 원",
   "title": "계좌가 반토막 난 이유\n'하이닉스'도 반토막",
   "note": "* 종가 기준 집계(알파증류소 11.12)"
+ },
+ {
+  "kind": "number",
+  "out": "media/20261127-hyesan/cand/g08.jpg",
+  "bg": "media/20261127-hyesan/cand/cover_bg.jpg",
+  "sub": "최근 채널 상황",
+  "big": "10",
+  "unit": "일째",
+  "desc": "11.17 영상 뒤로 새 영상 없음 · 10월엔 2~3일마다 올렸다",
+  "title": "새 영상은 '멈췄고'\n최근 두 영상 댓글은 '닫혔다'",
+  "note": "* 유튜브 '투자자 김혜산' 채널(11.27 확인) · 11.10, 11.17 영상 댓글 사용 중지"
  }
 ]
