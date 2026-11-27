@@ -1,7 +1,7 @@
 {
  "id": "20261127-sulksiam",
  "kind": "short",
- "status": "approved",
+ "status": "published",
  "created_at": "2026-11-27T23:38:00.580258+09:00",
  "publish_at": "2026-11-27T23:38:00.580282+09:00",
  "publish_now": true,
@@ -43,5 +43,8 @@
  "draft_hash": "7a0262a5312e",
  "tg_video": 3218,
  "tg_msg": 3219,
- "decided_at": "2026-11-27T23:38:06.048532+09:00"
+ "decided_at": "2026-11-27T23:38:06.048532+09:00",
+ "yt_id": "ajl-Vd5LaoI",
+ "permalink": "https://youtube.com/shorts/ajl-Vd5LaoI",
+ "published_at": "2026-11-27T23:39:49.491760+09:00"
 }
