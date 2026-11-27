@@ -1,3 +1,2 @@
-shot 20261127-musk13 https://n.news.naver.com/mnews/article/020/0003765736 donga desk clean noimg
-shot 20261127-musk13 https://m.news.nate.com/view/20261127n01025 yna desk clean noimg
-shot 20261127-musk13 https://www.sisajournal.com/news/articleView.html?idxno=395489 sisa desk clean noimg
+get 20261127-musk13 https://api.fxtwitter.com/2/profile/elonmusk/statuses?count=100 tl_fx.json
+get 20261127-musk13 https://syndication.twitter.com/srv/timeline-profile/screen-name/elonmusk tl_synd.html
