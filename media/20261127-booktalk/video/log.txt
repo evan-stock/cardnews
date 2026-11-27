@@ -32,3 +32,19 @@ drwxr-xr-x 3 runner runner     4096 Nov 27 02:15 ..
 -rw-r--r-- 1 runner runner      251 Nov 27 02:15 page3.html
 -rw-r--r-- 1 runner runner 12817745 Nov 27 02:19 v1.mp4
 -rw-r--r-- 1 runner runner  6643146 Nov 27 02:21 v2.mp4
+total 22900
+drwxr-xr-x 2 runner runner     4096 Nov 27 03:51 .
+drwxr-xr-x 4 runner runner     4096 Nov 27 03:51 ..
+-rw-r--r-- 1 runner runner  2289724 Nov 27 03:51 a1.m4a
+-rw-r--r-- 1 runner runner     4640 Nov 27 03:51 a1.srt
+-rw-r--r-- 1 runner runner    27294 Nov 27 03:51 a1.words.json
+-rw-r--r-- 1 runner runner  1215622 Nov 27 03:51 a2.m4a
+-rw-r--r-- 1 runner runner     2236 Nov 27 03:51 a2.srt
+-rw-r--r-- 1 runner runner    13168 Nov 27 03:51 a2.words.json
+-rw-r--r-- 1 runner runner     3098 Nov 27 03:51 log.txt
+-rw-r--r-- 1 runner runner     1998 Nov 27 03:51 page1.html
+-rw-r--r-- 1 runner runner    82813 Nov 27 03:51 page2.html
+-rw-r--r-- 1 runner runner     1998 Nov 27 03:51 page3.html
+-rw-r--r-- 1 runner runner   310113 Nov 27 03:51 page4.html
+-rw-r--r-- 1 runner runner 12817745 Nov 27 03:51 v1.mp4
+-rw-r--r-- 1 runner runner  6643146 Nov 27 03:51 v2.mp4
