@@ -1,0 +1,47 @@
+{
+ "id": "20261127-sulksiam",
+ "kind": "short",
+ "status": "approved",
+ "created_at": "2026-11-27T23:38:00.580258+09:00",
+ "publish_at": "2026-11-27T23:38:00.580282+09:00",
+ "publish_now": true,
+ "topic": "벤치마크 복제 시범 1편(11.27): 고양이 '욕(?)' 주제. 빌리빌리 小黑豆暹罗 BV1ZCTtzGEqG(12.2만, 2025.6.5) — 중성화 후 넥카라 뺀 샴고양이가 집사 뽀뽀를 거부하며 앞발로 밀고 울음(욕). 내레이션·마스코트·사실 한 줄 없이 위쪽 해설 자막 + 대사 + 끝 괄호. 11.27 사용자: 좌하단 출처 빼고(설명란만), TTS 내레이션 추가.",
+ "sources": [
+  {
+   "publisher": "bilibili 小黑豆暹罗 - 绝育后 头套摘了 不和我亲了 还骂人呜呜呜",
+   "url": "https://www.bilibili.com/video/BV1ZCTtzGEqG/",
+   "date": "2025-06-05"
+  }
+ ],
+ "seconds": 15.47,
+ "tts": [
+  "silent",
+  "typecast"
+ ],
+ "files": [
+  "media/20261127-sulksiam/short.mp4"
+ ],
+ "app_file": "media/20261127-sulksiam/short_nobgm.mp4",
+ "yt": {
+  "title": "중성화 끝나고 넥카라 빼 줬더니 고양이가 한 말ㅋㅋ #shorts",
+  "description": "넥카라 벗은 기념으로 뽀뽀 한 번 하려다가ㅋㅋ\n앞발로 밀어내고 욕(?)까지 들었습니다.\n\n여러분 냥이도 병원 다녀오면 삐지나요?\n\n영상: bilibili 小黑豆暹罗 (BV1ZCTtzGEqG)\n원작자의 영상에 우리 자막을 더해 재구성했습니다.\n\n#고양이 #샴고양이 #냥이 #고양이욕 #중성화 #넥카라 #오늘의털뭉치 #귀여운동물\n\n출처: bilibili 小黑豆暹罗 - 绝育后 头套摘了 不和我亲了 还骂人呜呜呜 2025-06-05\n사진·영상: bilibili 小黑豆暹罗\n음성: Typecast\n\n#shorts #고양이 #샴고양이 #냥이 #고양이욕",
+  "tags": [
+   "고양이",
+   "샴고양이",
+   "냥이",
+   "고양이욕",
+   "중성화",
+   "넥카라",
+   "삐진고양이",
+   "귀여운동물"
+  ],
+  "category": 15,
+  "privacy": "public",
+  "synthetic": false,
+  "channel": null
+ },
+ "draft_hash": "7a0262a5312e",
+ "tg_video": 3218,
+ "tg_msg": 3219,
+ "decided_at": "2026-11-27T23:38:06.048532+09:00"
+}

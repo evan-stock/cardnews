@@ -1,23 +1,3 @@
-Traceback (most recent call last):
-  File "<frozen runpy>", line 198, in _run_module_as_main
-  File "<frozen runpy>", line 88, in _run_code
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 825, in <module>
-    main(sys.argv[1])
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 821, in main
-    one(d)
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 765, in one
-    return _one(d)
-           ^^^^^^^
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 799, in _one
-    "yt": {"title": title[:100], "description": description(d, engines)[:4900],
-                                                ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 716, in description
-    src = ", ".join(f"{s.get('publisher', '')} {s.get('date', '')}".strip() for s in d.get("sources", [])[:3])
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/cardnews/cardnews/cardnews/shorts.py", line 716, in <genexpr>
-    src = ", ".join(f"{s.get('publisher', '')} {s.get('date', '')}".strip() for s in d.get("sources", [])[:3])
-                       ^^^^^
-AttributeError: 'str' object has no attribute 'get'
 장면 1/5 silent 누적 2.0초
 장면 2/5 typecast 누적 4.7초
 장면 3/5 silent 누적 6.9초
