@@ -1,0 +1,58 @@
+Scout
+Get the App
+Optimus video clips debunked on X
+
+- Social media users on Nov. 25, 2026 challenged multiple purported Tesla Optimus clips, with some posts on X identifying footage as fabricated, doctored or miscaptioned.
+- One previously viral Optimus clip was traced to a South Korean Tesla fan in a costume, not a robot, according to Fact Crescendo.
+- Tesla’s official Optimus appearances remain listed on Tesla event pages, including a Nov. 7-14 CoRL 2026 demo in Austin.
+
+Social media users spent Wednesday picking apart a new wave of short videos that purported to show Tesla’s Optimus humanoid robot in action, with several posts on X arguing the clips were fake, altered or wrongly labeled. The scrutiny centered on footage that circulated without technical context, source files or confirmation from Tesla, and users posted side-by-side comparisons highlighting odd motion, lighting mismatches and inconsistent backgrounds. The debate follows earlier disputes this year over other viral Optimus clips that were later traced to AI-made footage or a human in costume. Tesla has continued to promote Optimus at official events, but some of the material spreading on social platforms this week did not come with any company attribution. 
+
+### Which clips were users trying to debunk on Nov. 25?
+
+A Nov. 25 post on X referenced circulating Optimus footage as users argued over whether what they were seeing was genuine robot video or fabricated media, according to the social briefing provided for this story. The briefing said commenters compared the clips with known robot demonstrations and AI-generated fakes, and that side-by-side debunks were posted on X and other platforms the same day. (techtudo.com.br) 
+
+TechTudo reported on Nov. 23 that one widely shared clip showing Elon Musk walking beside a humanoid robot carrying luggage near a private jet was “fake” and generated with artificial intelligence. The outlet said the video was spread by social accounts and appeared to come from an Instagram page that produces AI-generated videos. (techtudo.com.br)
+
+### What is the clearest verified example of a false Optimus video?
+
+An Aug. 14 fact check by Fact Crescendo examined a separate viral clip that claimed to show Tesla’s Optimus driving a Tesla on public roads and found the claim was false. The outlet said it traced the footage to the X account of a South Korean Tesla enthusiast and cosplay creator, who had posted about wearing an “Optimus Bot suit.” (techtudo.com.br)
+
+Fact Crescendo said the creator’s own posts described the scene in humorous terms and showed a human wearing a detailed Optimus costume rather than a functioning Tesla robot. The article said Tesla’s public materials did not identify the footage as an official test or deployment and distinguished Optimus from Tesla’s separate vehicle autonomy systems. (english.factcrescendo.com)
+
+### Why are viewers so quick to question robot footage now?
+
+On Oct. 16, Tesla posted a robot clip on X with the caption “Real life, baby,” and the first notable response highlighted by Robotics Daily was not about the robot’s capability but whether the video itself was real. The publication said robotics researcher Jiafei Duan asked if the footage was AI-generated and said he was confused. (english.factcrescendo.com)
+
+Robotics Daily said Tesla’s post did not include a method, autonomy claim or explanation of what viewers were seeing. The outlet reported that this lack of detail helped shift discussion toward authenticity rather than performance, though it also noted that the researchers cited did not themselves verify or debunk that October clip. (roboticsweekly.news)
+
+### What has Tesla actually shown publicly about Optimus?
+
+Tesla’s own event page for Tesla x CoRL 2026 said attendees in Austin from Nov. 7 to Nov. 14 could “Meet Optimus,” see a bot demo at a kitchenette, interact with the robot and speak with engineers behind it. The same page separately listed Cybercab demonstrations and a text-to-video generation experience, indicating that Tesla publicly distinguishes between its robot demos and AI video tools. (roboticsweekly.news) 
+
+Fact Crescendo also cited Tesla’s public materials and said the company describes Optimus as a general-purpose, bipedal autonomous robot, while Tesla’s vehicle autonomy work is tied to Full Self-Driving and Robotaxi programs. That distinction has been central to several fact checks of viral clips that present an Optimus-like figure doing things Tesla has not publicly documented. (tesla.com)
+
+### What should readers watch for next?
+
+Tesla’s next verifiable Optimus material is most likely to appear through the company’s own event pages, official X accounts or public filings rather than anonymous reposts. Any new clip that lacks a date, location, source account or explanation of whether a human, teleoperation or editing was involved is likely to face the same scrutiny that spread across X on Nov. 25. (english.factcrescendo.com)
+
+Get your own daily briefing
+
+Scout delivers personalized news, insights, and conversations tailored to your role and industry.
+
+Shared from Scout - Be the smartest in the room.
+
+[링크]
+https://thedailyscout.com/ Scout
+https://apps.apple.com/us/app/scout-your-daily-brief/id6756247274?ppid=3dd86072-2088-40d3-a337-8f17292a1637&landing_session_id=ls_0a8452d7-1377-43fa-a589-c24558f0585e&landing_path=%2Fs%2Felevx-WKjrM&share_id=elevx-WKjrM&referral_type=shared_content&referral_source=share_link&acquisition_source=share_link&acquisition_source_type=referral&acquisition_channel=share_link&attribution_confidence=referral&journey_id=ls_0a8452d7-1377-43fa-a589-c24558f0585e&referring_user_id=3eb4a71e-9fcf-4df3-a0c5-ebf11f78f25a&cta_location=share_header&pt=93856208&ct=unknown_campaign_creative&mt=8 Get the App
+https://www.techtudo.com.br/noticias/2026/11/real-ou-fake-video-de-elon-musk-caminhando-com-robo-humanoide-viraliza-edinfoeletro.ghtml techtudo.com.br
+https://www.techtudo.com.br/noticias/2026/11/real-ou-fake-video-de-elon-musk-caminhando-com-robo-humanoide-viraliza-edinfoeletro.ghtml techtudo.com.br
+https://www.techtudo.com.br/noticias/2026/11/real-ou-fake-video-de-elon-musk-caminhando-com-robo-humanoide-viraliza-edinfoeletro.ghtml techtudo.com.br
+https://english.factcrescendo.com/2026/08/14/tesla-optimus-not-driving-public-roads-cosplay english.factcrescendo.com
+https://english.factcrescendo.com/2026/08/14/tesla-optimus-not-driving-public-roads-cosplay english.factcrescendo.com
+https://roboticsweekly.news/stories/tesla-real-life-baby-clip-ai-generated-question roboticsweekly.news
+https://roboticsweekly.news/stories/tesla-real-life-baby-clip-ai-generated-question roboticsweekly.news
+https://www.tesla.com/en_ph/event/tesla-x-corl-26 tesla.com
+https://english.factcrescendo.com/2026/08/14/tesla-optimus-not-driving-public-roads-cosplay english.factcrescendo.com
+https://apps.apple.com/us/app/scout-your-daily-brief/id6756247274?ppid=3dd86072-2088-40d3-a337-8f17292a1637&landing_session_id=ls_0a8452d7-1377-43fa-a589-c24558f0585e&landing_path=%2Fs%2Felevx-WKjrM&share_id=elevx-WKjrM&referral_type=shared_content&referral_source=share_link&acquisition_source=share_link&acquisition_source_type=referral&acquisition_channel=share_link&attribution_confidence=referral&journey_id=ls_0a8452d7-1377-43fa-a589-c24558f0585e&referring_user_id=3eb4a71e-9fcf-4df3-a0c5-ebf11f78f25a&cta_location=share_download_badge&pt=93856208&ct=unknown_campaign_creative&mt=8 
+https://thedailyscout.com/ Scout
