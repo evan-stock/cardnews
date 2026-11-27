@@ -1,0 +1,36 @@
+{
+ "id": "20261127-booktalk",
+ "finished_at": "2026-11-27T19:14:06+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=_xAg5-cFCkE",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261127-booktalk/video/y1.mp4",
+   "mb": 27.2,
+   "view_count": 47516,
+   "title": "[단독｜풀버전] \"책에 공부법 없다? 두꺼워져서 뺐다\"…리트만점자 '북토크' 녹취 입수 / JTBC 뉴스룸"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/watch?v=5L5KAQv6pEo",
+   "ok": false,
+   "cookies": false,
+   "ffmpeg": true,
+   "error": "WARNING: [youtube] 5L5KAQv6pEo: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/"
+  },
+  {
+   "n": 3,
+   "url": "https://www.youtube.com/watch?v=0qEfXsPAbRY",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261127-booktalk/video/y3.mp4",
+   "mb": 6.9,
+   "view_count": 6298,
+   "title": "비판 듣자 \"개정판 내서 보완\"…이진우 북토크 당시 녹취 입수 / JTBC 아침&"
+  }
+ ]
+}
