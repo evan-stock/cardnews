@@ -1,253 +1,194 @@
 {
- "id": "20261123-t18",
- "mode": "send",
+ "id": "20261127-sulksiam",
+ "mode": "render",
  "format": "meme",
- "topic": "첫 장면 정점형 3편(11.23 18:07): 엄마가 소파에서 강아지 흉내(헥헥)를 내자 로트와일러 다이스가 앞발로 막고, 엄마가 웃음을 못 참자 곁눈질로 째려봄(YouTube 'Dyce de rottweiler' 공식 채널 FsiujB0YJAA, 2,240만 회, 2025.06.13). 0초 = 원본 13.5초 째려보기 클로즈업, 그다음 시간순. '~하는 걸 본 ○○의 반응' 틀. 사실: AKC 로트와일러 = '로트바일의 정육점 개', 가축 판 돈주머니를 목에 걸고 지킴.",
- "bgm": "assets/bgm/worthy/curious_kitten.mp3",
- "bgm_start": 0.0,
- "bgm_volume": 2.3,
- "sfx_max": 4,
+ "topic": "벤치마크 복제 시범 1편(11.27): 고양이 '욕(?)' 주제. 빌리빌리 小黑豆暹罗 BV1ZCTtzGEqG(12.2만, 2025.6.5) — 중성화 후 넥카라 뺀 샴고양이가 집사 뽀뽀를 거부하며 앞발로 밀고 울음(욕). 내레이션·마스코트·사실 한 줄 없이 위쪽 해설 자막 + 대사 + 끝 괄호. 11.27 사용자: 좌하단 출처 빼고(설명란만), TTS 내레이션 추가.",
  "hook": {
-  "t": "엄마가 강아지 흉내 냈을 뿐인데\n'로트와일러 표정 실화냐ㅋㅋ'"
+  "t": "중성화 끝나고 넥카라 뺀 날\n'집사한테 욕부터 함ㅋㅋ'"
  },
- "photo_credits": [
-  "YouTube Dyce de rottweiler (@dycederottweiler)"
- ],
- "credit": "영상: YouTube Dyce de rottweiler",
- "sources": [
-  {
-   "publisher": "YouTube Dyce de rottweiler - His reaction",
-   "url": "https://www.youtube.com/shorts/FsiujB0YJAA",
-   "date": "2025-06-13"
-  },
-  {
-   "publisher": "PetHelpful(AOL) - Rottweiler's Facial Reaction to Wig Reveal Is Too Good",
-   "url": "https://www.aol.com/articles/rottweiler-facial-reaction-wig-reveal-024000058.html",
-   "date": "2026-01-17"
-  },
-  {
-   "publisher": "American Kennel Club(AKC) - Rottweiler History",
-   "url": "https://www.akc.org/expert-advice/dog-breeds/rottweiler-history/",
-   "date": "2024-06-27"
-  }
- ],
+ "credit": " ",
+ "style": {
+  "mascot": null
+ },
+ "sfx_max": 0,
  "yt": {
-  "title": "엄마가 자기 흉내 내는 걸 본 로트와일러의 반응ㅋㅋ #shorts",
-  "description": "엄마가 장난으로 강아지 흉내를 냈을 뿐인데ㅋㅋ\n앞발로 막더니, 엄마가 웃음을 못 참자 이렇게 째려봅니다.\n\n미국켄넬클럽(AKC)에 따르면 로트와일러는 옛날 독일 로트바일에서 가축을 판 돈주머니를 목에 걸고 지키던 '정육점 개'였대요.\n\n여러분 댕댕이도 흉내 내면 이런 표정 짓나요?\n\n영상: YouTube Dyce de rottweiler (@dycederottweiler)\n참고: PetHelpful, AKC\n원작자의 영상에 우리 해설·자막을 더해 재구성했습니다.\n\n#로트와일러 #강아지 #댕댕이 #강아지반응 #오늘의털뭉치 #귀여운동물 #동물쇼츠",
+  "title": "중성화 끝나고 넥카라 빼 줬더니 고양이가 한 말ㅋㅋ #shorts",
+  "description": "넥카라 벗은 기념으로 뽀뽀 한 번 하려다가ㅋㅋ\n앞발로 밀어내고 욕(?)까지 들었습니다.\n\n여러분 냥이도 병원 다녀오면 삐지나요?\n\n영상: bilibili 小黑豆暹罗 (BV1ZCTtzGEqG)\n원작자의 영상에 우리 자막을 더해 재구성했습니다.\n\n#고양이 #샴고양이 #냥이 #고양이욕 #중성화 #넥카라 #오늘의털뭉치 #귀여운동물",
   "tags": [
-   "로트와일러",
-   "강아지",
-   "댕댕이",
-   "강아지반응",
-   "대형견",
-   "째려보는강아지",
-   "귀여운동물",
-   "동물쇼츠"
+   "고양이",
+   "샴고양이",
+   "냥이",
+   "고양이욕",
+   "중성화",
+   "넥카라",
+   "삐진고양이",
+   "귀여운동물"
   ],
   "category": 15,
   "privacy": "public"
  },
  "publish_now": true,
- "style": {
-  "sub_y": 0.84
- },
+ "sources": [
+  "bilibili 小黑豆暹罗 - 绝育后 头套摘了 不和我亲了 还骂人呜呜呜 (2025-06-05) https://www.bilibili.com/video/BV1ZCTtzGEqG/"
+ ],
+ "photo_credits": [
+  "영상: bilibili 小黑豆暹罗"
+ ],
  "scenes": [
   {
    "dur": 2.0,
    "video": {
-    "src": "video/r1.mp4",
-    "start": 13.5,
-    "zoom": 1.1,
-    "x": 0.3,
-    "y": 1.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(째릿...)",
-     "x": 0.5,
-     "y": 0.08,
-     "at": 0.0,
-     "to": 2.0,
-     "s": "dundun",
-     "sv": 0.7
-    },
-    {
-     "k": "talk",
-     "t": "방금 그거 나야?",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 0.2,
-     "to": 2.0
-    }
-   ]
-  },
-  {
-   "say": "엄마가 장난으로 강아지 흉내를 냈을 뿐인데요,",
-   "video": {
-    "src": "video/r1.mp4",
-    "start": 0.3,
-    "zoom": 1.06,
-    "x": 0.7,
+    "src": "video/v1.mp4",
+    "start": 0.0,
+    "zoom": 1.0,
+    "x": 0.5,
     "y": 0.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "talk",
-     "t": "헥헥... 이게 나라고?",
-     "x": 0.62,
-     "y": 0.14,
-     "at": 0.6
-    }
-   ]
-  },
-  {
-   "dur": 1.6,
-   "video": {
-    "src": "video/r1.mp4",
-    "start": 3.1,
-    "zoom": 1.06,
-    "x": 0.7,
-    "y": 0.0,
-    "audio": 0,
+    "audio": 2.6,
     "blur": [
      [
-      530,
-      480,
-      310,
-      135
+      8,
+      12,
+      215,
+      32
      ]
     ]
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(앞발 턱)",
-     "x": 0.5,
-     "y": 0.08,
-     "at": 0.0,
-     "to": 1.6,
-     "s": "pop",
-     "sv": 0.6
-    },
-    {
      "k": "talk",
-     "t": "그만해. 진짜로.",
-     "x": 0.55,
-     "y": 0.2,
-     "at": 0.15,
-     "to": 1.6
+     "t": "저리 가!!",
+     "x": 0.5,
+     "y": 0.55,
+     "at": 0.4,
+     "to": 2.0,
+     "c": "yellow",
+     "size": 100
     }
    ]
   },
   {
-   "say": "엄마가 웃음을 못 참자 표정이 이렇게 변합니다.",
+   "say": "중성화 수술 끝나고 넥카라를 뺀 날인데요,",
    "video": {
-    "src": "video/r1.mp4",
-    "start": 4.8,
-    "zoom": 1.06,
-    "x": 0.6,
+    "src": "video/v1.mp4",
+    "start": 2.0,
+    "zoom": 1.0,
+    "x": 0.5,
     "y": 0.0,
-    "audio": 0
+    "audio": 0.5,
+    "blur": [
+     [
+      8,
+      12,
+      215,
+      32
+     ]
+    ]
    },
    "caps": [
     {
      "k": "talk",
-     "t": "...웃겨?",
-     "x": 0.72,
-     "y": 0.16,
-     "at": 1.0
+     "t": "...",
+     "x": 0.5,
+     "y": 0.3,
+     "at": 0.5,
+     "c": "yellow"
     }
    ]
   },
   {
    "dur": 2.2,
    "video": {
-    "src": "video/r1.mp4",
-    "start": 8.0,
-    "zoom": 1.06,
-    "x": 0.6,
+    "src": "video/v1.mp4",
+    "start": 5.3,
+    "zoom": 1.0,
+    "x": 0.5,
     "y": 0.0,
-    "audio": 0
+    "audio": 2.6,
+    "blur": [
+     [
+      8,
+      12,
+      215,
+      32
+     ]
+    ]
    },
    "caps": [
     {
-     "k": "sfx",
-     "t": "(엄마 웃참 실패)",
-     "x": 0.5,
-     "y": 0.08,
-     "at": 0.0,
-     "to": 2.2,
-     "s": "question",
-     "sv": 0.6
-    },
-    {
      "k": "talk",
-     "t": "하나도 안 웃기거든",
-     "x": 0.68,
-     "y": 0.2,
-     "at": 0.3,
-     "to": 2.2
+     "t": "누가 수술시켰냐고!!",
+     "x": 0.5,
+     "y": 0.55,
+     "at": 0.6,
+     "to": 2.2,
+     "c": "yellow"
     }
    ]
   },
   {
-   "say": "로트와일러는 원래 정육점 돈주머니 지킴이였대요.",
+   "say": "기념으로 뽀뽀 한 번 하려 했더니, 눈도 안 마주쳐요.",
    "video": {
-    "src": "video/r1.mp4",
-    "start": 10.8,
-    "zoom": 1.1,
-    "x": 0.3,
-    "y": 1.0,
-    "audio": 0
+    "src": "video/v1.mp4",
+    "start": 7.5,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 0.5,
+    "blur": [
+     [
+      8,
+      12,
+      215,
+      32
+     ]
+    ]
    },
    "caps": [
+    {
+     "k": "talk",
+     "t": "말 걸지 마",
+     "x": 0.5,
+     "y": 0.3,
+     "at": 1.5,
+     "c": "yellow"
+    }
+   ]
+  },
+  {
+   "dur": 5.1,
+   "video": {
+    "src": "video/v1.mp4",
+    "start": 11.5,
+    "zoom": 1.0,
+    "x": 0.5,
+    "y": 0.0,
+    "audio": 2.6,
+    "blur": [
+     [
+      8,
+      12,
+      215,
+      32
+     ]
+    ]
+   },
+   "caps": [
+    {
+     "k": "talk",
+     "t": "아직 화 안 풀렸다고!!",
+     "x": 0.5,
+     "y": 0.55,
+     "at": 0.1,
+     "to": 3.6,
+     "c": "yellow"
+    },
     {
      "k": "desc",
-     "t": "로트와일러 = '정육점 개'\n가축 판 돈주머니를 목에 걸고 지킴\n(미국켄넬클럽 AKC)",
-     "x": 0.5,
+     "t": "(삐짐 기간: 미정)",
      "y": 0.07,
-     "size": 48
-    },
-    {
-     "k": "talk",
-     "t": "그런 나를 놀려?",
-     "x": 0.5,
-     "y": 0.32,
-     "at": 1.2
-    }
-   ]
-  },
-  {
-   "dur": 1.9,
-   "video": {
-    "src": "video/r1.mp4",
-    "start": 14.0,
-    "zoom": 1.1,
-    "x": 0.3,
-    "y": 1.0,
-    "audio": 0
-   },
-   "caps": [
-    {
-     "k": "sfx",
-     "t": "(삐짐 확정)",
-     "x": 0.5,
-     "y": 0.08,
-     "at": 0.0,
-     "to": 1.9,
-     "s": "fail",
-     "sv": 0.65
-    },
-    {
-     "k": "talk",
-     "t": "오늘부터 엄마 지갑 안 지켜줌",
-     "x": 0.5,
-     "y": 0.2,
-     "at": 0.2,
-     "to": 1.9
+     "at": 3.6,
+     "to": 5.1,
+     "c": "sky"
     }
    ]
   }
