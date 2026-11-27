@@ -62,22 +62,13 @@
   "note": "* 유튜브 '투자자 김혜산' 동영상 탭(11.27, 최신순)"
  },
  {
-  "kind": "quote",
+  "kind": "capture",
   "out": "media/20261127-hyesan/cand/g06.jpg",
   "bg": "media/20261127-hyesan/cand/cover_bg.jpg",
   "sub": "그래도 안 팔았다",
-  "bubbles": [
-   {
-    "who": "10.20 영상 제목",
-    "t": "왜 나는 SK하이닉스\n300만 원일 때 팔지 않았는가"
-   },
-   {
-    "who": "11.10 영상 제목",
-    "t": "[계좌인증]\n단 한 주도 팔지 않았습니다"
-   }
-  ],
-  "title": "반토막에도\n'한 주도' 안 팔았다",
-  "note": "* 유튜브 '투자자 김혜산' 영상 제목"
+  "cap": "media/20261127-hyesan/cand/user_rows.png",
+  "title": "35억까지 내려와도\n\"단 한 주도 '안 팔았다'\"",
+  "note": "* 유튜브 '투자자 김혜산' 동영상 탭 화면(11.27)"
  },
  {
   "kind": "number",
