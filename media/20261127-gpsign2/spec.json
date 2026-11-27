@@ -1,0 +1,234 @@
+[
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign2/cand/s02.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 218,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "면접관분들께서\n\"너 목에 그거 '뭐냐?'\""
+   },
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 231.5,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "두 달마다\n'지우러' 다니고 있습니다"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign2/cand/s03.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 313,
+    "crop": [
+     240,
+     88,
+     1072,
+     608
+    ],
+    "sub": "2024년 4월 6일에 본\n'1차 성적'입니다"
+   },
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 321,
+    "crop": [
+     240,
+     88,
+     1072,
+     608
+    ],
+    "sub": "감정평가 관계 법규와 민법은\n좀 낮았습니다"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign2/cand/s04.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 390,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "'군대'에서\n일기장을 썼는데"
+   },
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 394,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "시험, 입실, 고생했다…"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign2/cand/s05.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 410,
+    "crop": [
+     240,
+     88,
+     1072,
+     608
+    ],
+    "sub": "평균이 이때 '51.5점'이면"
+   },
+   {
+    "video": "media/20261127-gpseca/video/y1.mp4",
+    "t": 415.5,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "저 석차가 '38등'이었어요"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign2/cand/s06.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 186,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "'문제지'를 개봉하겠습니다"
+   },
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 251,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "2010년에 기출된 문제를\n변형한 거예요"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign2/cand/s08.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 392,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "평가사 시험에서\n이거 다 맞으면 '수석'입니다"
+   },
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 386,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "논리적으로는\n거의 다 뭐 이렇게…"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign2/cand/s09.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 360,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "둘 다 평가를 했어요\n그러니까 단가는 맞는데"
+   },
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 366,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "근데 오히려\n'인간적'이에요"
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261127-gpsign2/cand/s10.jpg",
+  "src": "영상: 이돈호 변호사 유튜브(11.27)",
+  "frames": [
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 453,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "수험생이다라고 했으면\n'나쁘지 않네' 정도인데"
+   },
+   {
+    "video": "media/20261127-gpsecc/video/c.mp4",
+    "t": 457.5,
+    "crop": [
+     224,
+     88,
+     1056,
+     608
+    ],
+    "sub": "합격하신 지 1년 좀 넘은 상태에서\n한 거면 '꽤 괜찮다'"
+   }
+  ]
+ }
+]
