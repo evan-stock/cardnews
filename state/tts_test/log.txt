@@ -1,3 +1,2 @@
 키 있음, 글자 수 53
-  Fenrir HTTP 429: {"error":{"message":"Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per minute on Tier 1). Please retry in 27s or upgrade your tier at https://ai.dev/rate-limit.","code":"too_many_requests"}}
-Fenrir: 성공 49.8초
+Leda: 성공 13.7초
