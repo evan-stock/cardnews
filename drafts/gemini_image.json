@@ -1,25 +1,13 @@
 {
- "_for": "이재용·머스크 상황극 추가 컷(2026-11-27) — AI 생성 이미지 표기 필수",
+ "_for": "감평냥이 오해 감정평가사 표지 정리(2026-11-27) — 실제 영상 장면 합성본을 깔끔하게",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "lm_s6",
+   "name": "gp_cover",
    "aspect": "4:5",
-   "refs": [
-    "state/gemini_image/lm_pair_ref.jpg",
-    "state/gemini_image/lm_musk_ref.jpg"
-   ],
-   "prompt": "Photorealistic cinematic editorial photo, vertical 4:5. The man is exactly Elon Musk as in the reference images, real face accurate and recognizable. Same sleek Samsung executive meeting room in Seoul with long table and city view at dusk. Leave the top 25% as calm background for captions. No text, letters, logos or watermarks. Medium shot: Musk sitting alone at the table, completely speechless and stunned, mouth slightly open, blank stare, holding the rolled-up blueprint limply, comedic defeated moment."
-  },
-  {
-   "name": "lm_s7",
-   "aspect": "4:5",
-   "refs": [
-    "state/gemini_image/lm_pair_ref.jpg",
-    "state/gemini_image/lm_musk_ref.jpg"
-   ],
-   "prompt": "Photorealistic cinematic editorial photo, vertical 4:5. The man is exactly Elon Musk as in the reference images, real face accurate and recognizable. Same sleek Samsung executive meeting room in Seoul with long table and city view at dusk. Leave the top 25% as calm background for captions. No text, letters, logos or watermarks. Comedic shot: Musk standing in a short queue line of businessmen in suits outside the meeting room door, holding a small numbered waiting ticket, awkward patient expression."
+   "refs": ["state/gemini_image/gp_cover_ref.jpg", "state/gemini_image/gp_face_ref.png"],
+   "prompt": "Clean up and refine the first image into one seamless, natural, high-quality vertical 4:5 YouTube-thumbnail style photo. Keep the composition exactly the same: the young Korean man in black glasses, black suit, white shirt and black tie in the lower-left foreground, and behind him the handwritten exam answer sheet and the white graphing calculator on the table. His face, glasses, hairstyle and expression must stay exactly identical to the real person in the second image — do not change his identity or features. Remove the cut-out halo around his hair, fix the smeared area on his tie and shirt so it looks natural, blend the lighting so he looks naturally in front of the background, sharpen and denoise. Keep the bottom 25% dark for captions. No text, letters, logos or watermarks."
   }
  ]
 }
