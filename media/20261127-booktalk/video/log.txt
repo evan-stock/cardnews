@@ -48,3 +48,24 @@ drwxr-xr-x 4 runner runner     4096 Nov 27 03:51 ..
 -rw-r--r-- 1 runner runner   310113 Nov 27 03:51 page4.html
 -rw-r--r-- 1 runner runner 12817745 Nov 27 03:51 v1.mp4
 -rw-r--r-- 1 runner runner  6643146 Nov 27 03:51 v2.mp4
+total 23996
+drwxr-xr-x 2 runner runner     4096 Nov 27 03:53 .
+drwxr-xr-x 4 runner runner     4096 Nov 27 03:52 ..
+-rw-r--r-- 1 runner runner  2289724 Nov 27 03:52 a1.m4a
+-rw-r--r-- 1 runner runner     4640 Nov 27 03:52 a1.srt
+-rw-r--r-- 1 runner runner    27294 Nov 27 03:52 a1.words.json
+-rw-r--r-- 1 runner runner  1215622 Nov 27 03:52 a2.m4a
+-rw-r--r-- 1 runner runner     2236 Nov 27 03:52 a2.srt
+-rw-r--r-- 1 runner runner    13168 Nov 27 03:52 a2.words.json
+-rw-r--r-- 1 runner runner    91483 Nov 27 03:53 img1.jpg
+-rw-r--r-- 1 runner runner   228609 Nov 27 03:53 img2.jpg
+-rw-r--r-- 1 runner runner   346627 Nov 27 03:53 img3.jpg
+-rw-r--r-- 1 runner runner   206324 Nov 27 03:53 img4.jpg
+-rw-r--r-- 1 runner runner   240643 Nov 27 03:53 img5.jpg
+-rw-r--r-- 1 runner runner     3972 Nov 27 03:52 log.txt
+-rw-r--r-- 1 runner runner     1998 Nov 27 03:52 page1.html
+-rw-r--r-- 1 runner runner    82813 Nov 27 03:52 page2.html
+-rw-r--r-- 1 runner runner     1998 Nov 27 03:52 page3.html
+-rw-r--r-- 1 runner runner   310113 Nov 27 03:52 page4.html
+-rw-r--r-- 1 runner runner 12817745 Nov 27 03:52 v1.mp4
+-rw-r--r-- 1 runner runner  6643146 Nov 27 03:52 v2.mp4
