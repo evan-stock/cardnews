@@ -1,3 +1,1 @@
-shot 20261127-muskbot https://www.tuniscope.com/article/445506/actualites/international/elon-musk-222410 tunis desk clean noimg
-shot 20261127-muskbot https://www.dynamitenews.com/viral/viral-why-a-robot-carrying-elon-musks-bags-has-sparked-debate-over-jobs-and-automation dyn desk clean noimg
-shot 20261127-muskbot https://thedailyscout.com/s/elevx-WKjrM scout desk clean noimg
+get 20261127-ydpsage https://api.fxtwitter.com/status/2126175885254635664 tw.json
