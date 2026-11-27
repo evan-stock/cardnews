@@ -8,11 +8,9 @@
   "risk": "출연자 주장(채널도 보증 안 함). 자막은 원본 영상 자막 그대로. 감평냥이와 다른 인물.",
   "images": [
    "cover.jpg",
-   "v1.jpg",
-   "v1b.jpg",
-   "v2.jpg",
-   "v3.jpg",
+   "vt.jpg",
    "v4.jpg",
+   "v3.jpg",
    "v5.jpg",
    "v6.jpg",
    "v7.jpg",
@@ -26,36 +24,9 @@
    {
     "raw": true,
     "video": {
-     "src": "video/v1.mp4",
+     "src": "video/vt.mp4",
      "start": 0,
-     "dur": 21.1,
-     "audio": true
-    }
-   },
-   {
-    "raw": true,
-    "video": {
-     "src": "video/v1b.mp4",
-     "start": 0,
-     "dur": 28.63,
-     "audio": true
-    }
-   },
-   {
-    "raw": true,
-    "video": {
-     "src": "video/v2.mp4",
-     "start": 0,
-     "dur": 29.13,
-     "audio": true
-    }
-   },
-   {
-    "raw": true,
-    "video": {
-     "src": "video/v3.mp4",
-     "start": 0,
-     "dur": 19.6,
+     "dur": 41.1,
      "audio": true
     }
    },
@@ -65,6 +36,15 @@
      "src": "video/v4.mp4",
      "start": 0,
      "dur": 15.1,
+     "audio": true
+    }
+   },
+   {
+    "raw": true,
+    "video": {
+     "src": "video/v3.mp4",
+     "start": 0,
+     "dur": 19.6,
      "audio": true
     }
    },
