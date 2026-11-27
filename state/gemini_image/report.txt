@@ -1,2 +1,2 @@
-lee_ai1: 성공 (gemini-2.5-flash-image)
-lee_ai2: 성공 (gemini-2.5-flash-image)
+lee_ai3: 성공 (gemini-3-pro-image-preview)
+lee_ai4: 성공 (gemini-3-pro-image-preview)
