@@ -1,5 +1,2 @@
-lm_s1: 성공 (gemini-2.5-flash-image)
-lm_s2: 성공 (gemini-2.5-flash-image)
-lm_s3: 성공 (gemini-2.5-flash-image)
-lm_s4: 성공 (gemini-2.5-flash-image)
-lm_s5: 성공 (gemini-2.5-flash-image)
+lm_s6: 성공 (gemini-2.5-flash-image)
+lm_s7: 성공 (gemini-2.5-flash-image)
