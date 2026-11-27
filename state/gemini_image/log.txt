@@ -1,3 +1,3 @@
 이미지 모델: ['gemini-2.5-flash-image', 'gemini-3-pro-image-preview', 'gemini-3-pro-image', 'gemini-3.1-flash-image-preview', 'gemini-3.1-flash-image', 'gemini-3.1-flash-lite-image']
 후보 모델: ['gemini-2.5-flash-image', 'gemini-3.1-flash-image-preview', 'gemini-3.1-flash-image', 'gemini-3-pro-image-preview', 'gemini-3-pro-image', 'gemini-3.1-flash-lite-image']
-musk_cover_up1: 성공 (gemini-2.5-flash-image)
+toeic_cover_up1: 성공 (gemini-2.5-flash-image)
