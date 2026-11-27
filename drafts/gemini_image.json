@@ -1,3 +1,3 @@
-{"_for":"머스크 표지 화질 개선(2026-11-27)","model":"gemini-2.5-flash-image","style":"",
- "prompts":[{"name":"musk_cover_up1","aspect":"4:5","refs":["state/gemini_image/musk_ref.jpg"],
-  "prompt":"Upscale and restore image 1 into a sharp, high-resolution press photo. Keep EVERYTHING exactly the same: the same man, identical face, eyes, eyebrows, nose, mouth, skin, wrinkles, hair, expression, gaze direction, suit, shirt, background blur, framing and lighting. Only remove blur, JPEG artifacts and noise and add natural fine detail. Do not beautify, do not change age or features, do not add or remove anything, no text, no logo, no watermark."}]}
+{"_for":"토익 대리시험 표지 화질 개선(2026-11-27)","model":"gemini-2.5-flash-image","style":"",
+ "prompts":[{"name":"toeic_cover_up1","aspect":"4:5","refs":["state/gemini_image/toeic_ref.jpg"],
+  "prompt":"Upscale image 1 (a low-resolution screenshot of a Korean Telegram chat in dark mode) into a crisp, high-resolution screenshot. Keep EVERY Korean character, number, time stamp, check mark, bubble shape, bubble color, position and the patterned dark background exactly identical. Do not change, add, remove, translate or re-word any text. Only remove blur and JPEG artifacts so the text edges are sharp. No logo, no watermark."}]}
