@@ -1,1 +1,1 @@
-get 20261127-ydpsage https://api.fxtwitter.com/status/2126175885254635664 tw.json
+shot 20261127-igref2 https://www.instagram.com/p/DgOoSvpPi9P/embed/captioned/ embed
