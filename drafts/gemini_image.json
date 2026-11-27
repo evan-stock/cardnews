@@ -2,15 +2,16 @@
  "style": "",
  "prompts": [
   {
-   "name": "jensen_body1",
+   "name": "lee_ai1",
    "aspect": "4:5",
-   "image": "drafts/gemini_src/jensen_ref.jpg",
-   "prompt": "Use the man in the reference photo (keep his face, grey hair, glasses and likeness recognizable), wearing his black leather jacket. Vertical 4:5 photorealistic cinematic editorial image. Keep the bottom 40% fairly dark and simple (space for text). No readable text, no letters, no logos, no watermarks. Do not show any woman. Scene: late at night he sits alone at a desk in a dim office, head slightly bowed, typing on a laptop, the screen light on his serious remorseful face, green accent lights in the background."
+   "image": "drafts/gemini_src/lee_ref.jpg",
+   "prompt": "Use the young Korean man in the reference photo (keep his face, short black hair and likeness recognizable). Vertical 4:5 photorealistic news-documentary style still, like a TV news archive shot. Keep the bottom 40% fairly dark and simple (space for a headline). No readable text other than the book cover, no logos, no watermarks. Scene: he sits on a small stage at an intimate bookstore book-talk event, holding up a beige hardcover book toward a small seated audience seen from behind, warm bookstore lights and bookshelves in the background, he looks confident."
   },
   {
-   "name": "jensen_body2",
+   "name": "lee_ai2",
    "aspect": "4:5",
-   "prompt": "Vertical 4:5 photorealistic cinematic editorial image. Keep the bottom 40% fairly dark and simple (space for text). No readable text, no letters, no logos, no watermarks. Do not show any woman. Scene: an empty press-conference podium with a cluster of microphones under a single spotlight in a dark room, rows of empty chairs, a sense of silence and waiting. No people."
+   "image": "drafts/gemini_src/lee_ref.jpg",
+   "prompt": "Use the young Korean man in the reference photo (keep his face, short black hair and likeness recognizable). Vertical 4:5 photorealistic news-documentary style still, like a TV news archive shot. Keep the bottom 40% fairly dark and simple (space for a headline). No readable text other than the book cover, no logos, no watermarks. Scene: late at night he sits alone at a desk in a small dim studio apartment, a beige book and a stack of exam papers on the desk, a single desk lamp lighting his serious face, the rest of the room in shadow."
   }
  ]
 }
