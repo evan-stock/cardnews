@@ -1,1 +1,1 @@
-kaist_ext: 성공 (gemini-2.5-flash-image)
+kk_imsg_taxi_photo: 성공 (gemini-2.5-flash-image)
