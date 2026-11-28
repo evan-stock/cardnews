@@ -1,2 +1,2 @@
-get 20261128-house15 https://api.fxtwitter.com/status/2126123613472555321 orig.json
-get 20261128-house15 https://api.fxtwitter.com/2/status/2126123613472555321 orig2.json
+get 20261128-house15 https://api.fxtwitter.com/status/2126123697543299574 r1.json
+get 20261128-house15 https://api.fxtwitter.com/status/2126123744691441934 r2.json
