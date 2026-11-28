@@ -1,12 +1,13 @@
 {
- "_for": "DL 심야 소집 표지 갑질 느낌(2026-11-28) - 실존 인물 아님",
+ "_for": "집15채 96년생 캐러셀 표지 사진 보정(2026-11-28): 자막 제거·화질 개선, 장면 그대로",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "dl_cover2",
-   "aspect": "4:5",
-   "prompt": "Photorealistic cinematic photo, late night in a large corporate office: a powerful executive in a dark suit seen from behind (face not visible) stands at the front, one arm pointing angrily and slamming papers on a desk, while dozens of exhausted office workers in coats and casual clothes stand in rows with heads bowed, some holding bags as if just called back from home. A wall clock clearly shows 10:30. Harsh cold fluorescent light, tense humiliating atmosphere, power harassment feel, news-photo realism. No identifiable faces of real people. Keep the bottom 30% darker for captions. No text, no letters, no logos."
+   "name": "house15_cover",
+   "aspect": "3:4",
+   "refs": ["state/gemini_image/house15_src.jpg"],
+   "prompt": "Edit this exact photo. 1) Completely remove the white caption box with black Korean text in the middle of the image and fill that area naturally with the pool water, poolside and white lounge chair that would be behind it. 2) Restore it as a sharp, high-resolution, clean photograph: remove video compression artifacts and blur, natural colors. Keep the composition, camera angle, scenery (mountains, sky, cabana loungers, patterned wall, pool), the person's pose, clothes, hands, book and watch exactly the same. Keep the person's face fully blurred/unrecognizable exactly as in the original - do not reveal or invent a face. Do not add any text, letters or logos."
   }
  ]
 }
