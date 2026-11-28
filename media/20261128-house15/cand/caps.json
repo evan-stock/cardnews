@@ -54,6 +54,42 @@
   "cap_max_h": 700
  },
  {
+  "out": "/home/user/cardnews/media/20261128-house15/cand/c04b.jpg",
+  "sub": "그 다음",
+  "box_bg": [
+   11,
+   10,
+   24
+  ],
+  "title": "8,600만원 집에\n보증금 '1억' 받는다",
+  "cap": "/home/user/cardnews/media/20261128-house15/cand/cap_jeonse.png",
+  "caption": "SNS 확산 영상 캡처",
+  "label": "인테리어 후 반전세 · 보증금 1억 + 월세 30만원",
+  "lines": [
+   "산 값(8,600만원)보다",
+   "'세입자 보증금(1억)이 더 많다'"
+  ],
+  "cap_max_h": 700
+ },
+ {
+  "out": "/home/user/cardnews/media/20261128-house15/cand/c04c.jpg",
+  "sub": "핵심은 이것",
+  "box_bg": [
+   11,
+   10,
+   24
+  ],
+  "title": "보증금으로 빚 갚으면\n내 돈 '0원'",
+  "cap": "/home/user/cardnews/media/20261128-house15/cand/cap_zero.png",
+  "caption": "SNS 확산 영상 캡처",
+  "label": "\"매달 월세 600만원을(순수익) 받고 있답니다\"",
+  "lines": [
+   "세입자한테 받은 보증금 1억으로 빌린 돈을 갚는 구조",
+   "\"세입자들도 '보증보험 들어놓고' 안전하게 살 수 있어서\""
+  ],
+  "cap_max_h": 700
+ },
+ {
   "out": "/home/user/cardnews/media/20261128-house15/cand/c05.jpg",
   "sub": "누리꾼 반응",
   "box_bg": [

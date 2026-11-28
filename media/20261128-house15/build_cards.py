@@ -29,6 +29,8 @@ CROP = (60, 100, 860, 1120)
 side(["p3.jpg", "p5.jpg"], "cap_auction.png", CROP)
 side(["p15.jpg", "p17.jpg"], "cap_loan.png", CROP)
 side(["p12.jpg", "p19.jpg"], "cap_15.png", CROP)
+side(["r1_3.jpg", "r1_7.jpg"], "cap_jeonse.png", CROP)
+side(["r1_11.jpg", "r1_13.jpg"], "cap_zero.png", CROP)
 EXTRA = json.load(open(D / "extra.json")) if (D / "extra.json").exists() else {}
 for k, v in EXTRA.get("stitch", {}).items():
     stitch(v["src"], v["boxes"], k)
@@ -47,6 +49,14 @@ spec = [
   "title": "부동산 '15채'", "cap": str(O / "cap_15.png"),
   "caption": "SNS 확산 영상 캡처", "label": "\"시세보다 3,000만원 싸게 샀기 때문에\"",
   "lines": ["리조트 수영장 앞 독서 장면으로", "'\"영크크인 제가 15채를 모을 수 있었죠\"'"], "cap_max_h": 700},
+ {"out": str(O / "c04b.jpg"), "sub": "그 다음", "box_bg": DK,
+  "title": "8,600만원 집에\n보증금 '1억' 받는다", "cap": str(O / "cap_jeonse.png"),
+  "caption": "SNS 확산 영상 캡처", "label": "인테리어 후 반전세 · 보증금 1억 + 월세 30만원",
+  "lines": ["산 값(8,600만원)보다", "'세입자 보증금(1억)이 더 많다'"], "cap_max_h": 700},
+ {"out": str(O / "c04c.jpg"), "sub": "핵심은 이것", "box_bg": DK,
+  "title": "보증금으로 빚 갚으면\n내 돈 '0원'", "cap": str(O / "cap_zero.png"),
+  "caption": "SNS 확산 영상 캡처", "label": "\"매달 월세 600만원을(순수익) 받고 있답니다\"",
+  "lines": ["세입자한테 받은 보증금 1억으로 빌린 돈을 갚는 구조", "\"세입자들도 '보증보험 들어놓고' 안전하게 살 수 있어서\""], "cap_max_h": 700},
 ]
 spec += EXTRA.get("cards", [])
 for s in spec:
