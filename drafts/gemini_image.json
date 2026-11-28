@@ -1,19 +1,19 @@
 {
- "_for": "DL 반반 표지 화질 개선(2026-11-28)",
+ "_for": "삼전 7만원 표지 배경(2026-11-28)",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "dl_half_up1",
+   "name": "sam7_bg1",
    "aspect": "4:5",
-   "refs": ["state/gemini_image/dl_half_ref.jpg"],
-   "prompt": "Image restoration task only: upscale and enhance this exact photo. Remove blur, video compression artifacts and noise, sharpen fine detail and edges. Keep EVERYTHING identical: same composition, same framing, same two people in the same positions, same faces and facial features, same expressions, same bald head of the man on the right, same hair of the man on the left, same suit, tie, microphone, yellow badge, same background, colors and lighting, same left-right split. Do not add, remove, move or redraw anything. Do not change any face. No text, no letters."
+   "refs": [],
+   "prompt": "Dramatic photorealistic vertical background: a huge modern semiconductor factory building complex at dusk under a dark stormy sky glowing deep red, with red lightning bolts and dark smoke clouds. Across the sky a large glowing red stock chart line with candlesticks crashing steeply downward with a red arrow pointing down. Ominous financial crisis mood, cinematic, high detail. Leave the left-center area slightly darker. No people, no text, no letters, no logos, no brand names."
   },
   {
-   "name": "dl_half_up2",
+   "name": "sam7_bg2",
    "aspect": "4:5",
-   "refs": ["state/gemini_image/dl_half_ref.jpg"],
-   "prompt": "Restore this photo to high definition like a sharp DSLR still. Pixel-faithful restoration only: denoise, deblock, sharpen skin texture, hair, fabric and edges. The identity, face shape, eyes, nose, mouth, expression and head of each person must stay exactly the same. The man on the right is completely bald and must stay bald. Keep the composition, crop, colors and the left-right half split exactly. Add nothing. No text."
+   "refs": [],
+   "prompt": "Cinematic vertical image: a giant semiconductor fab building at night, red apocalyptic storm sky, lightning, and a big falling red stock price chart with a downward arrow overlaid in the sky, glowing red candlesticks. Dark red and black tones, intense crash mood, photorealistic. No people, no text, no logos."
   }
  ]
 }
