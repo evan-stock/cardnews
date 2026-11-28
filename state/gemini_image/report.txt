@@ -1,1 +1,1 @@
-dl_cover2: 성공 (gemini-2.5-flash-image)
+house15_cover: 성공 (gemini-2.5-flash-image)
