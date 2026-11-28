@@ -15,7 +15,8 @@ D = R
 
 
 def card(s):
-    im = Image.new("RGB", (W, H), (255, 255, 255))
+    dark = s.get("theme", "dark") == "dark"  # 2026-11-28: 기본 검은 바탕
+    im = Image.new("RGB", (W, H), (12, 12, 14) if dark else (255, 255, 255))
     cap = Image.open(D / s["cap"]).convert("RGB")
     if s.get("crop"):
         cap = cap.crop(s["crop"])
@@ -33,18 +34,23 @@ def card(s):
     y0 = max(70, round((H - 110 - total) / 2))
     x0 = (W - cw) // 2
     sh = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    if dark:
+        sh = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     ImageDraw.Draw(sh).rectangle((x0 - 2, y0 + 6, x0 + cw + 2, y0 + ch + 10), fill=(0, 0, 0, 70))
     sh = sh.filter(ImageFilter.GaussianBlur(14))
     im.paste(sh, (0, 0), sh)
     im.paste(cap, (x0, y0))
-    ImageDraw.Draw(im).rectangle((x0, y0, x0 + cw - 1, y0 + ch - 1), outline=(228, 228, 228), width=2)
+    ImageDraw.Draw(im).rectangle((x0, y0, x0 + cw - 1, y0 + ch - 1), outline=(60, 62, 68) if dark else (228, 228, 228), width=2)
     d = ImageDraw.Draw(im)
     ty = y0 + ch + gap
-    d.text((W // 2, ty), l1, font=f1, fill=(20, 20, 20), anchor="mt")
+    d.text((W // 2, ty), l1, font=f1, fill=(255, 255, 255) if dark else (20, 20, 20), anchor="mt")
     ty2 = ty + 62 + 18
     tw = d.textlength(l2, font=f2)
-    d.rectangle((W / 2 - tw / 2 - 12, ty2 + 34, W / 2 + tw / 2 + 12, ty2 + 80), fill=YE)
-    d.text((W // 2, ty2), l2, font=f2, fill=(10, 10, 10), anchor="mt")
+    if dark:
+        d.text((W // 2, ty2), l2, font=f2, fill=YE, anchor="mt")
+    else:
+        d.rectangle((W / 2 - tw / 2 - 12, ty2 + 34, W / 2 + tw / 2 + 12, ty2 + 80), fill=YE)
+        d.text((W // 2, ty2), l2, font=f2, fill=(10, 10, 10), anchor="mt")
     if s.get("src"):
         d.text((x0 + cw, y0 + ch + 14), s["src"], font=F("Medium", 26), fill=(150, 150, 150), anchor="rt")
     lg = Image.open(R / "brand/logo_typo_A.png").convert("RGBA")
@@ -55,7 +61,7 @@ def card(s):
     for yy in range(lg.height):
         for xx in range(lg.width):
             r, g, b, a = px[xx, yy]
-            if a and r > 200 and g > 200 and b > 200:
+            if not dark and a and r > 200 and g > 200 and b > 200:
                 px[xx, yy] = (20, 20, 20, a)
     im.paste(lg, ((W - lg.width) // 2, H - 80), lg)
     im.save(D / s["out"], quality=95)
