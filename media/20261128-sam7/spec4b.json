@@ -1,0 +1,162 @@
+[
+ {
+  "kind": "single",
+  "out": "media/20261128-sam7/cand/w02.jpg",
+  "cap": "media/20261128-sam7/cand/dc1m.jpg",
+  "cap_crop": [
+   0,
+   0,
+   1078,
+   1000
+  ],
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 700,
+  "src": "온라인 커뮤니티 글(11.28)",
+  "title": "커뮤니티에 올라온 분석 글\n'7만전자' 정말 허무맹랑할까?"
+ },
+ {
+  "kind": "single",
+  "out": "media/20261128-sam7/cand/w03.jpg",
+  "cap": "media/20261128-sam7/cand/dc2.jpg",
+  "cap_crop": [
+   0,
+   222,
+   1078,
+   1110
+  ],
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 700,
+  "src": "온라인 커뮤니티 글(11.28)",
+  "title": "2018년 말과 지금을 비교해 보니\n주가도 이익도 똑같이 '4.6배'"
+ },
+ {
+  "kind": "single",
+  "out": "media/20261128-sam7/cand/w04.jpg",
+  "cap": "media/20261128-sam7/cand/dc3.jpg",
+  "cap_crop": [
+   0,
+   330,
+   1078,
+   900
+  ],
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 700,
+  "src": "온라인 커뮤니티 글(11.28)",
+  "title": "2018년엔 사상 최대 실적에도\n주가는 '3만원대'로 꺾였다"
+ },
+ {
+  "kind": "single",
+  "out": "media/20261128-sam7/cand/w05.jpg",
+  "cap": "media/20261128-sam7/cand/dc4.jpg",
+  "cap_crop": [
+   0,
+   320,
+   1078,
+   1250
+  ],
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 750,
+  "src": "온라인 커뮤니티 글(11.28)",
+  "title": "이 애널리스트, 2024년 2월엔\n\"반도체 '1년 이상' 오른다\""
+ },
+ {
+  "kind": "single",
+  "out": "media/20261128-sam7/cand/w06.jpg",
+  "cap": "media/20261128-sam7/cand/dc6.jpg",
+  "cap_crop": [
+   0,
+   90,
+   1078,
+   955
+  ],
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 700,
+  "src": "온라인 커뮤니티 글(11.28)",
+  "title": "2025년 9월엔\n\"하이닉스가 실적 대비 '저렴'\""
+ },
+ {
+  "kind": "single",
+  "out": "media/20261128-sam7/cand/w07.jpg",
+  "cap": "media/20261128-sam7/cand/dc7.jpg",
+  "cap_crop": [
+   0,
+   290,
+   1078,
+   960
+  ],
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 700,
+  "src": "온라인 커뮤니티 글(11.28)",
+  "title": "그리고 올해 5월\n\"9월 전 '반도체 정점'\" 경고"
+ },
+ {
+  "kind": "single",
+  "out": "media/20261128-sam7/cand/w08.jpg",
+  "cap": "media/20261128-sam7/cand/dc8.jpg",
+  "cap_crop": [
+   0,
+   0,
+   1078,
+   1060
+  ],
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 700,
+  "src": "온라인 커뮤니티 글(11.28)",
+  "title": "하이닉스 6월 고점 300만원대\n지금은 '111만원'"
+ },
+ {
+  "kind": "single",
+  "out": "media/20261128-sam7/cand/w09.jpg",
+  "cap": "media/20261128-sam7/cand/dc9.jpg",
+  "cap_crop": [
+   0,
+   60,
+   1078,
+   1080
+  ],
+  "fit": "contain",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "cap_max_h": 820,
+  "src": "온라인 커뮤니티 글(11.28)",
+  "title": "\"10년간 예측 틀린 적 없다\"던 그\n이번엔 \"삼전 '3만원' 갑니다\""
+ }
+]
