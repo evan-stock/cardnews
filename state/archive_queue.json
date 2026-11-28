@@ -35,87 +35,6 @@
   ]
  },
  {
-  "id": "20261120-distrust",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261120-distrust/01.jpg",
-   "media/20261120-distrust/02.jpg",
-   "media/20261120-distrust/03.jpg",
-   "media/20261120-distrust/04.jpg",
-   "media/20261120-distrust/05.jpg",
-   "media/20261120-distrust/06.jpg",
-   "media/20261120-distrust/07.jpg",
-   "media/20261120-distrust/08.jpg",
-   "media/20261120-distrust/09.jpg",
-   "media/20261120-distrust/10.jpg",
-   "media/20261120-distrust/11.jpg"
-  ]
- },
- {
-  "id": "20261120-distrust2",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261120-distrust2/01.jpg",
-   "media/20261120-distrust2/02.jpg",
-   "media/20261120-distrust2/03.jpg",
-   "media/20261120-distrust2/04.jpg",
-   "media/20261120-distrust2/05.jpg",
-   "media/20261120-distrust2/06.jpg",
-   "media/20261120-distrust2/07.jpg",
-   "media/20261120-distrust2/08.jpg",
-   "media/20261120-distrust2/09.jpg",
-   "media/20261120-distrust2/10.jpg"
-  ]
- },
- {
-  "id": "20261120-leetsheet",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261120-leetsheet/01.jpg",
-   "media/20261120-leetsheet/02.jpg",
-   "media/20261120-leetsheet/03.jpg",
-   "media/20261120-leetsheet/04.jpg",
-   "media/20261120-leetsheet/05.jpg",
-   "media/20261120-leetsheet/06.jpg"
-  ]
- },
- {
-  "id": "20261120-minji",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261120-minji/01.jpg",
-   "media/20261120-minji/02.jpg",
-   "media/20261120-minji/03.jpg",
-   "media/20261120-minji/04.jpg",
-   "media/20261120-minji/05.jpg",
-   "media/20261120-minji/06.jpg",
-   "media/20261120-minji/07.jpg",
-   "media/20261120-minji/08.jpg",
-   "media/20261120-minji/09.jpg"
-  ]
- },
- {
-  "id": "20261120-nuray-reel",
-  "channel": "오늘의쓸모_인스타",
-  "files": [
-   "media/20261120-nuray-reel/reel.mp4"
-  ]
- },
- {
-  "id": "20261120-t18",
-  "channel": "털뭉치",
-  "files": [
-   "media/20261120-t18/short.mp4"
-  ]
- },
- {
-  "id": "20261120-vortex",
-  "channel": "오늘의쓸모_유튜브",
-  "files": [
-   "media/20261120-vortex/short_card.mp4"
-  ]
- },
- {
   "id": "20261121-leetpara",
   "channel": "오늘의쓸모_인스타",
   "files": [
@@ -596,6 +515,149 @@
    "media/20261126-musk2/04.jpg",
    "media/20261126-musk2/05.jpg",
    "media/20261126-musk2/06.jpg"
+  ]
+ },
+ {
+  "id": "20261127-booktalk",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261127-booktalk/01.jpg",
+   "media/20261127-booktalk/02.jpg",
+   "media/20261127-booktalk/03.jpg",
+   "media/20261127-booktalk/04.jpg",
+   "media/20261127-booktalk/05.jpg",
+   "media/20261127-booktalk/06.jpg",
+   "media/20261127-booktalk/07.jpg",
+   "media/20261127-booktalk/08.jpg",
+   "media/20261127-booktalk/09.jpg",
+   "media/20261127-booktalk/10.jpg"
+  ]
+ },
+ {
+  "id": "20261127-booktalk2",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261127-booktalk2/01.jpg",
+   "media/20261127-booktalk2/02.jpg",
+   "media/20261127-booktalk2/03.jpg",
+   "media/20261127-booktalk2/04.jpg",
+   "media/20261127-booktalk2/05.jpg",
+   "media/20261127-booktalk2/06.jpg",
+   "media/20261127-booktalk2/07.jpg",
+   "media/20261127-booktalk2/08.jpg",
+   "media/20261127-booktalk2/09.jpg",
+   "media/20261127-booktalk2/10.jpg"
+  ]
+ },
+ {
+  "id": "20261127-booktalk3",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261127-booktalk3/01.jpg",
+   "media/20261127-booktalk3/02.jpg",
+   "media/20261127-booktalk3/03.jpg",
+   "media/20261127-booktalk3/04.jpg",
+   "media/20261127-booktalk3/05.jpg",
+   "media/20261127-booktalk3/06.jpg",
+   "media/20261127-booktalk3/07.jpg",
+   "media/20261127-booktalk3/08.jpg",
+   "media/20261127-booktalk3/09.jpg",
+   "media/20261127-booktalk3/10.jpg"
+  ]
+ },
+ {
+  "id": "20261127-gpsign",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261127-gpsign/01.jpg",
+   "media/20261127-gpsign/02.jpg",
+   "media/20261127-gpsign/02.mp4",
+   "media/20261127-gpsign/03.jpg",
+   "media/20261127-gpsign/03.mp4",
+   "media/20261127-gpsign/04.jpg",
+   "media/20261127-gpsign/04.mp4",
+   "media/20261127-gpsign/05.jpg",
+   "media/20261127-gpsign/05.mp4",
+   "media/20261127-gpsign/06.jpg",
+   "media/20261127-gpsign/06.mp4",
+   "media/20261127-gpsign/07.jpg",
+   "media/20261127-gpsign/07.mp4",
+   "media/20261127-gpsign/08.jpg",
+   "media/20261127-gpsign/08.mp4"
+  ]
+ },
+ {
+  "id": "20261127-gpsign2",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261127-gpsign2/01.jpg",
+   "media/20261127-gpsign2/02.jpg",
+   "media/20261127-gpsign2/03.jpg",
+   "media/20261127-gpsign2/04.jpg",
+   "media/20261127-gpsign2/05.jpg",
+   "media/20261127-gpsign2/06.jpg",
+   "media/20261127-gpsign2/07.jpg",
+   "media/20261127-gpsign2/07.mp4",
+   "media/20261127-gpsign2/08.jpg",
+   "media/20261127-gpsign2/09.jpg",
+   "media/20261127-gpsign2/10.jpg"
+  ]
+ },
+ {
+  "id": "20261127-hwjstat",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261127-hwjstat/01.jpg",
+   "media/20261127-hwjstat/02.jpg",
+   "media/20261127-hwjstat/03.jpg",
+   "media/20261127-hwjstat/04.jpg",
+   "media/20261127-hwjstat/05.jpg",
+   "media/20261127-hwjstat/06.jpg",
+   "media/20261127-hwjstat/07.jpg"
+  ]
+ },
+ {
+  "id": "20261127-hwjstat2",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261127-hwjstat2/01.jpg",
+   "media/20261127-hwjstat2/02.jpg",
+   "media/20261127-hwjstat2/03.jpg",
+   "media/20261127-hwjstat2/04.jpg",
+   "media/20261127-hwjstat2/05.jpg",
+   "media/20261127-hwjstat2/06.jpg",
+   "media/20261127-hwjstat2/07.jpg"
+  ]
+ },
+ {
+  "id": "20261127-hyesan",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261127-hyesan/01.jpg",
+   "media/20261127-hyesan/02.jpg",
+   "media/20261127-hyesan/03.jpg",
+   "media/20261127-hyesan/04.jpg",
+   "media/20261127-hyesan/05.jpg",
+   "media/20261127-hyesan/06.jpg",
+   "media/20261127-hyesan/07.jpg"
+  ]
+ },
+ {
+  "id": "20261127-sulksiam",
+  "channel": "털뭉치",
+  "files": [
+   "media/20261127-sulksiam/short.mp4"
+  ]
+ },
+ {
+  "id": "20261127-ydpsage2",
+  "channel": "오늘의쓸모_인스타",
+  "files": [
+   "media/20261127-ydpsage2/01.jpg",
+   "media/20261127-ydpsage2/02.jpg",
+   "media/20261127-ydpsage2/03.jpg",
+   "media/20261127-ydpsage2/04.jpg",
+   "media/20261127-ydpsage2/05.jpg"
   ]
  }
 ]

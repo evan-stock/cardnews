@@ -1,8 +1,0 @@
-ERROR: [twitter] 2125287461475815846: No video could be found in this tweet
-영상 없는 글(글만/삭제됨): https://x.com/spencerhakimian/status/2125287461475815846
-실패: https://x.com/spencerhakimian/status/2125287461475815846
-total 16
-drwxr-xr-x 2 runner runner 4096 Nov 24 22:24 .
-drwxr-xr-x 3 runner runner 4096 Nov 24 22:24 ..
--rw-r--r-- 1 runner runner  235 Nov 24 22:24 log.txt
--rw-r--r-- 1 runner runner  505 Nov 24 22:24 x1.json
