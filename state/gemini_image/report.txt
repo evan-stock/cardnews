@@ -1,2 +1,2 @@
-dl_half_up1: 성공 (gemini-2.5-flash-image)
-dl_half_up2: 성공 (gemini-2.5-flash-image)
+sam7_bg1: 성공 (gemini-2.5-flash-image)
+sam7_bg2: 성공 (gemini-2.5-flash-image)
