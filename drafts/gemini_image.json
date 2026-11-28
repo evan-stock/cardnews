@@ -1,15 +1,13 @@
 {
- "_for": "더피드 카이스트 표지: 사용자 제공 총장 사진을 4:5로 위아래 배경만 확장(인물은 원본으로 다시 덮음, 2026-11-28)",
+ "_for": "ㅋㅋ상회 아이메시지 택시비 계산 싸움: 폰으로 찍은 사진 1장 (2026-11-28 16:16 사용자 'gemini api로 해볼래 한번', 55원 안팎). 깨진 글씨는 받은 뒤 화면 렌더로 다시 씀.",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "kaist_ext",
+   "name": "kk_imsg_taxi_photo",
    "aspect": "4:5",
-   "refs": [
-    "state/gemini_image/kaist_ref.jpg"
-   ],
-   "prompt": "Outpaint this exact photo into a 4:5 vertical frame. Keep the original photo content exactly as it is, same position, same size, same person, same face, same pose, unchanged, centered horizontally. Only add more of the same office room above (plain light wall, top of the flags) and below (dark wooden desk surface). Photorealistic, same lighting and color. Do not add any text, people, or objects."
+   "refs": ["drafts/refs/kk_imsg_taxi.png"],
+   "prompt": "The attached image is an iPhone Messages screenshot in dark mode with the Korean keyboard open. Create a REAL amateur photo of an iPhone whose screen shows exactly this screenshot, taken in a dark room with another phone. The phone screen fills almost the entire frame, slightly tilted about 8 degrees and seen slightly from the left, the top-left and right edges of the screen are cut off by the frame, a thin black phone bezel visible on the left side. Keep every bubble, every Korean word, the numbers, the avatar, the input bar and the keyboard exactly as in the screenshot; do not add, remove or repeat anything. Real photo artifacts: subtle screen moire pattern, slightly soft focus, faint reflection of a ceiling light on the glass, a few dust specks, phone camera noise, the screen glow being the main light source. No other text, no watermark."
   }
  ]
 }
