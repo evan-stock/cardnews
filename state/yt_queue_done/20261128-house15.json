@@ -1,0 +1,28 @@
+{
+ "id": "20261128-house15",
+ "finished_at": "2026-11-28T17:05:02+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/shorts/Dv_XJhXp9Dg",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261128-house15/video/y1.mp4",
+   "mb": 12.6,
+   "view_count": 272905,
+   "title": "빌라 15채를 샀다는 96년생이 욕먹는 이유"
+  },
+  {
+   "n": 2,
+   "url": "https://www.youtube.com/shorts/Rs5R_ICDpzY",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261128-house15/video/y2.mp4",
+   "mb": 5.0,
+   "view_count": 2387,
+   "title": "빌라 15채 소유주 근황 #Shorts"
+  }
+ ]
+}
