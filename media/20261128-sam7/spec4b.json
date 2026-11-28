@@ -62,22 +62,16 @@
  {
   "kind": "single",
   "out": "media/20261128-sam7/cand/w05.jpg",
-  "cap": "media/20261128-sam7/cand/dc4.jpg",
-  "cap_crop": [
-   0,
-   320,
-   1078,
-   1250
-  ],
+  "cap": "media/20261128-sam7/cand/dc4_join.jpg",
   "fit": "contain",
   "box_bg": [
    255,
    255,
    255
   ],
-  "cap_max_h": 750,
+  "cap_max_h": 900,
   "src": "온라인 커뮤니티 글(11.28)",
-  "title": "이 애널리스트, 2024년 2월엔\n\"반도체 '1년 이상' 오른다\""
+  "title": "그래도 '무지성 비관론자'는 아니었다\n2024년엔 \"반도체 '1년 이상' 오른다\""
  },
  {
   "kind": "single",
