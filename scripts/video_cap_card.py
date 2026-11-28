@@ -234,6 +234,11 @@ def single(s):
 
 def main():
     for s in json.load(open(sys.argv[1], encoding="utf-8")):
+        if s.get("kind") == "community":  # 커뮤니티 글 캡처 = 흰 바탕판(white_cap_card)
+            import white_cap_card
+            white_cap_card.card(s)
+            print(s["out"])
+            continue
         im = stack(s) if s.get("kind", "single") == "stack" else single(s)
         Path(s["out"]).parent.mkdir(parents=True, exist_ok=True)
         im.save(s["out"], quality=93)

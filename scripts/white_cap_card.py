@@ -1,4 +1,4 @@
-"""6번 양식: 흰 바탕 커뮤니티 캡처 카드 (2026-11-28 사용자 확정, 참고 @bythepulse 느낌).
+"""4번 양식의 커뮤니티 캡처판(kind "community"): 흰 바탕 커뮤니티 캡처 카드 (2026-11-28 사용자 확정, 참고 @bythepulse 느낌).
 흰 바탕 + 그림자 진 캡처 카드(가로 940, 최대 높이 760) + 오른쪽 아래 회색 출처
 + 검은 굵은 한 줄(t1, ExtraBold 50) + 노란 형광펜 핵심 줄(t2, Black 66) + 하단 가운데 검은 로고.
 사용: python3 scripts/white_cap_card.py spec.json  (cap/out 은 저장소 기준 경로)
@@ -61,6 +61,7 @@ def card(s):
     im.save(D / s["out"], quality=95)
 
 
-for s in json.load(open(sys.argv[1])):
-    card(s)
-    print(s["out"])
+if __name__ == "__main__":
+    for s in json.load(open(sys.argv[1])):
+        card(s)
+        print(s["out"])
