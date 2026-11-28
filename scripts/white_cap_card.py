@@ -46,11 +46,9 @@ def card(s):
     d.text((W // 2, ty), l1, font=f1, fill=(255, 255, 255) if dark else (20, 20, 20), anchor="mt")
     ty2 = ty + 62 + 18
     tw = d.textlength(l2, font=f2)
-    if dark:
-        d.text((W // 2, ty2), l2, font=f2, fill=YE, anchor="mt")
-    else:
-        d.rectangle((W / 2 - tw / 2 - 12, ty2 + 34, W / 2 + tw / 2 + 12, ty2 + 80), fill=YE)
-        d.text((W // 2, ty2), l2, font=f2, fill=(10, 10, 10), anchor="mt")
+    # 형광펜 안 씀(2026-11-28 사용자): 핵심 줄은 노란 글씨. 흰 바탕일 땐 검은 외곽선으로 읽히게.
+    d.text((W // 2, ty2), l2, font=f2, fill=YE, anchor="mt",
+           stroke_width=0 if dark else 3, stroke_fill=(20, 20, 20))
     if s.get("src"):
         d.text((x0 + cw, y0 + ch + 14), s["src"], font=F("Medium", 26), fill=(150, 150, 150), anchor="rt")
     lg = Image.open(R / "brand/logo_typo_A.png").convert("RGBA")
