@@ -1,20 +1,4 @@
-get 20261128-house15 https://pbs.twimg.com/media/HYGCEwaboAE-Dv1.jpg?name=orig p1.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCFE9a4AAGqrk.jpg?name=orig p2.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCFZNakAAPCbu.jpg?name=orig p3.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCFuBa4AA4RHd.jpg?name=orig p4.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCF-VakAAnSXA.jpg?name=orig p5.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCGQwa0AEyXIF.jpg?name=orig p6.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCGnLbUAAQEjk.jpg?name=orig p7.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCG4ba0AA115x.jpg?name=orig p8.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCHJrbkAA1F7-.jpg?name=orig p9.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCHaoasAA25HE.jpg?name=orig p10.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCHrkbgAA4Bzp.jpg?name=orig p11.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCH8vaIAAv3NM.jpg?name=orig p12.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCINpa8AA3Lxe.jpg?name=orig p13.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCIdUbcAAPBv5.jpg?name=orig p14.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCIsda8AAho5U.jpg?name=orig p15.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCI8-akAACIuL.jpg?name=orig p16.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCJM8bcAESHQI.jpg?name=orig p17.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCJhyaoAANEfC.jpg?name=orig p18.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCJyeb0AATe6Q.jpg?name=orig p19.jpg
-get 20261128-house15 https://pbs.twimg.com/media/HYGCKGbaMAAlGrM.jpg?name=orig p20.jpg
+shot 20261128-house15 https://platform.twitter.com/embed/Tweet.html?id=2126169370972111153&theme=dark&lang=ko tw
+shot 20261128-house15 https://biz.newdaily.co.kr/site/data/html/2026/09/03/2026090300082.html nd desk clean noimg
+shot 20261128-house15 https://www.sedaily.com/article/20046541 se desk clean noimg
+shot 20261128-house15 https://bbs.ruliweb.com/community/board/300143/read/77536477 ruli desk clean
