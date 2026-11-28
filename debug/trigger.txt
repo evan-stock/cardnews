@@ -1,6 +1,6 @@
-shot 20261128-anth https://www.mt.co.kr/world/2026/10/27/2026102710484514586 mt desk clean noimg
-shot 20261128-anth https://www.specialtimes.co.kr/news/articleView.html?idxno=478701 sp desk clean noimg
-shot 20261128-anth https://technovalue.com/View.aspx?No=4304974 tv desk clean noimg
-shot 20261128-anth https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html cnbc desk clean
-shot 20261128-anth https://cryptobriefing.com/anthropic-303m-share-unlock-december-15 cb desk clean noimg
-shot 20261128-anth https://cryptobriefing.com/anthropic-shares-close-above-83-ipo-price/ cb2 desk clean noimg
+shot 20261128-house15 https://www.dogdrip.net/736895950 dd1
+shot 20261128-house15 https://www.dogdrip.net/725904270 dd2
+shot 20261128-house15 https://m.youtube.com/shorts/Dv_XJhXp9Dg yt1
+shot 20261128-house15 https://m.ruliweb.com/community/board/300143/read/76758014 rw1
+get 20261128-house15 https://www.youtube.com/oembed?url=https://www.youtube.com/shorts/Dv_XJhXp9Dg&format=json yt1.json
+get 20261128-house15 https://www.youtube.com/oembed?url=https://www.youtube.com/shorts/Rs5R_ICDpzY&format=json yt2.json
