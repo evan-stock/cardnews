@@ -1,13 +1,13 @@
 {
- "_for": "집15채 96년생 캐러셀 표지 사진 보정(2026-11-28): 자막 제거·화질 개선, 장면 그대로",
+ "_for": "DL 표지 위아래 자연스럽게 채우기(2026-11-28)",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "house15_cover",
-   "aspect": "3:4",
-   "refs": ["state/gemini_image/house15_src.jpg"],
-   "prompt": "Edit this exact photo. 1) Completely remove the white caption box with black Korean text in the middle of the image and fill that area naturally with the pool water, poolside and white lounge chair that would be behind it. 2) Restore it as a sharp, high-resolution, clean photograph: remove video compression artifacts and blur, natural colors. Keep the composition, camera angle, scenery (mountains, sky, cabana loungers, patterned wall, pool), the person's pose, clothes, hands, book and watch exactly the same. Keep the person's face fully blurred/unrecognizable exactly as in the original - do not reveal or invent a face. Do not add any text, letters or logos."
+   "name": "dl_wide",
+   "aspect": "4:5",
+   "refs": ["state/gemini_image/dl_wide_ref.jpg"],
+   "prompt": "Outpainting task only. The sharp horizontal photo band in the middle of this image is a real news photo: keep it exactly unchanged pixel for pixel (the bald man in a grey suit, his face, the room, everything). Replace only the blurry areas above and below with a natural, seamless continuation of the same room: the wall and ceiling above, and the man's suit body and the room floor below, matching the lighting, perspective and camera grain. Same framing, 4:5 vertical. Do not change the man's face or add anything new. No text, no letters, no logos."
   }
  ]
 }
