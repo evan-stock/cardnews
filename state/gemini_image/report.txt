@@ -1,1 +1,2 @@
-dl_wide: 성공 (gemini-2.5-flash-image)
+dl_yell1: 성공 (gemini-2.5-flash-image)
+dl_yell2: 성공 (gemini-2.5-flash-image)
