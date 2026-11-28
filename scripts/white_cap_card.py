@@ -36,11 +36,14 @@ def card(s):
     sh = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     if dark:
         sh = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(sh).rectangle((x0 - 2, y0 + 6, x0 + cw + 2, y0 + ch + 10), fill=(0, 0, 0, 70))
+    ImageDraw.Draw(sh).rounded_rectangle((x0 - 2, y0 + 6, x0 + cw + 2, y0 + ch + 10), 22, fill=(0, 0, 0, 70))
     sh = sh.filter(ImageFilter.GaussianBlur(14))
     im.paste(sh, (0, 0), sh)
-    im.paste(cap, (x0, y0))
-    ImageDraw.Draw(im).rectangle((x0, y0, x0 + cw - 1, y0 + ch - 1), outline=(60, 62, 68) if dark else (228, 228, 228), width=2)
+    rad = s.get("radius", 22)  # 2026-11-28 사용자: 모서리 둥글게
+    m = Image.new("L", cap.size, 0)
+    ImageDraw.Draw(m).rounded_rectangle((0, 0, cw - 1, ch - 1), rad, fill=255)
+    im.paste(cap, (x0, y0), m)
+    ImageDraw.Draw(im).rounded_rectangle((x0, y0, x0 + cw - 1, y0 + ch - 1), rad, outline=(60, 62, 68) if dark else (228, 228, 228), width=2)
     d = ImageDraw.Draw(im)
     ty = y0 + ch + gap
     d.text((W // 2, ty), l1, font=f1, fill=(255, 255, 255) if dark else (20, 20, 20), anchor="mt")
