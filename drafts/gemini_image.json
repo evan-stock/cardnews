@@ -1,15 +1,12 @@
 {
- "_for": "감평 표지 화질·누끼 개선만(2026-11-27) — 머리·얼굴 절대 변경 금지",
+ "_for": "삼전 7만원 적정가 논쟁 표지(2026-11-28)",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "gp_cover3",
+   "name": "sam7_cover",
    "aspect": "4:5",
-   "refs": [
-    "state/gemini_image/gp_cover_ref3.jpg"
-   ],
-   "prompt": "Photo restoration task only. Output the SAME image with identical composition, pose, framing and crop. Only: upscale and sharpen, remove video compression blur and noise, and clean the cut-out edges around the man so he blends naturally into the background (no light halo, natural edge lighting). STRICTLY keep his hair exactly as in the input: same straight bangs falling over the forehead, same hair length, same parting, same volume. Keep his face, glasses, eyes, mouth, ears, suit, shirt and tie exactly the same. Keep the exam answer sheets, the hand and the calculator in the background exactly where they are, and smooth the hard horizontal edge where the background turns dark so it fades naturally. Also make the blurry smeared area on his lower jacket and tie look like a natural black suit and tie. Do not add or remove anything. No text, letters, logos or watermarks."
+   "prompt": "Photorealistic dramatic editorial photo: a gleaming silicon semiconductor wafer close-up on a dark trading desk, reflecting a large red falling stock chart line from monitors behind it, moody dark blue and red lighting, tense atmosphere, shallow depth of field. Keep the bottom 30% darker and simple for captions. No text, no numbers, no letters, no logos, no brand names."
   }
  ]
 }
