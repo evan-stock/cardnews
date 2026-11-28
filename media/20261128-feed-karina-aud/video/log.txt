@@ -1,0 +1,18 @@
+ERROR: [Instagram] DgSZeKONVu2: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] DgSZeK0trFw: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://www.instagram.com/p/DgSZifJo3v3/
+total 9560
+drwxr-xr-x 2 runner runner    4096 Nov 28 15:19 .
+drwxr-xr-x 3 runner runner    4096 Nov 28 15:19 ..
+-rw-r--r-- 1 runner runner 1815378 Nov 28 15:19 aud3.mp4
+-rw-r--r-- 1 runner runner 1810917 Nov 28 15:19 aud4.mp4
+-rw-r--r-- 1 runner runner 2022928 Nov 28 15:19 aud5.mp4
+-rw-r--r-- 1 runner runner 1912874 Nov 28 15:19 aud6.mp4
+-rw-r--r-- 1 runner runner 2027668 Nov 28 15:19 aud7.mp4
+-rw-r--r-- 1 runner runner   31790 Nov 28 15:19 info3.info.json
+-rw-r--r-- 1 runner runner   31652 Nov 28 15:19 info4.info.json
+-rw-r--r-- 1 runner runner   31392 Nov 28 15:19 info5.info.json
+-rw-r--r-- 1 runner runner   31775 Nov 28 15:19 info6.info.json
+-rw-r--r-- 1 runner runner   33033 Nov 28 15:19 info7.info.json
+-rw-r--r-- 1 runner runner     509 Nov 28 15:19 log.txt
+-rw-r--r-- 1 runner runner    1316 Nov 28 15:19 v1.info.json
