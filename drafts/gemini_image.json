@@ -1,13 +1,12 @@
 {
- "_for": "ㅋㅋ상회 아이메시지 택시비 계산 싸움: 폰으로 찍은 사진 1장 (2026-11-28 16:16 사용자 'gemini api로 해볼래 한번', 55원 안팎). 깨진 글씨는 받은 뒤 화면 렌더로 다시 씀.",
+ "_for": "DL 심야 소집 표지(2026-11-28) - 실존 인물 없이 상황만",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "kk_imsg_taxi_photo",
+   "name": "dl_cover",
    "aspect": "4:5",
-   "refs": ["drafts/refs/kk_imsg_taxi.png"],
-   "prompt": "The attached image is an iPhone Messages screenshot in dark mode with the Korean keyboard open. Create a REAL amateur photo of an iPhone whose screen shows exactly this screenshot, taken in a dark room with another phone. The phone screen fills almost the entire frame, slightly tilted about 8 degrees and seen slightly from the left, the top-left and right edges of the screen are cut off by the frame, a thin black phone bezel visible on the left side. Keep every bubble, every Korean word, the numbers, the avatar, the input bar and the keyboard exactly as in the screenshot; do not add, remove or repeat anything. Real photo artifacts: subtle screen moire pattern, slightly soft focus, faint reflection of a ceiling light on the glass, a few dust specks, phone camera noise, the screen glow being the main light source. No other text, no watermark."
+   "prompt": "Photorealistic night photo of a modern glass corporate office tower at 10pm in Seoul, every floor brightly lit, dozens of tired office workers in coats hurrying into the lobby entrance from the dark street, one wall clock visible inside the lobby showing 10 o'clock, cold blue night tones with warm office lights, cinematic news-photo feel, faces not identifiable (backs or blurred motion). Keep the bottom 30% darker for captions. No text, no letters, no logos, no signs with writing."
   }
  ]
 }
