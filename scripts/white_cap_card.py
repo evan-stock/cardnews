@@ -1,14 +1,17 @@
-"""삼전 7만원: 흰 바탕 커뮤 캡처 카드(4번 single의 흰 바탕판).
-캡처 카드(그림자) + 검은 굵은 한 줄 + 노란 형광펜 굵은 줄 + 하단 로고."""
+"""6번 양식: 흰 바탕 커뮤니티 캡처 카드 (2026-11-28 사용자 확정, 참고 @bythepulse 느낌).
+흰 바탕 + 그림자 진 캡처 카드(가로 940, 최대 높이 760) + 오른쪽 아래 회색 출처
++ 검은 굵은 한 줄(t1, ExtraBold 50) + 노란 형광펜 핵심 줄(t2, Black 66) + 하단 가운데 검은 로고.
+사용: python3 scripts/white_cap_card.py spec.json  (cap/out 은 저장소 기준 경로)
+예시: media/20261128-sam7/white.json"""
 import json, sys
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
-R = Path(__file__).resolve().parents[2]
+R = Path(__file__).resolve().parents[1]
 W, H = 1080, 1350
 F = lambda w, s: ImageFont.truetype(str(R / f"assets/fonts/Pretendard-{w}.otf"), s)
 YE = (255, 216, 77)
-D = R / "media/20261128-sam7/cand"
+D = R
 
 
 def card(s):
