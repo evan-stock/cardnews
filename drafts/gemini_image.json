@@ -3,10 +3,9 @@
  "model": "gemini-3-pro-image-preview",
  "prompts": [
   {
-   "name": "hyesan_cover",
+   "name": "anth_cover",
    "aspect": "4:5",
-   "image": "drafts/gemini_src/hyesan_cover.jpg",
-   "prompt": "This is a rough photo composite: a black-and-white cut-out portrait of a young Korean man placed over a dark background of blurred YouTube thumbnails showing amounts like '37억', '45억'. Make the composite look clean and natural like a professionally edited magazine cover: clean up the cut-out edges and hair outline (no halo, no jagged edges), make the lighting and contrast of the man match the dark background with soft rim light, and let his white shirt and shoulders fade smoothly and naturally into darkness at the bottom. Keep the man EXACTLY the same person: identical face, eyes, nose, mouth, ears, hairstyle, expression, head angle and size and position in the frame. Do not redraw or beautify his face. Keep the background thumbnails with their numbers. Keep it black-and-white for the man. Keep the bottom 25% dark for a headline. No new text, no logos, no watermark."
+   "prompt": "Vertical 4:5 photorealistic editorial news photo, cinematic. Times Square style giant curved Nasdaq LED screen at night showing a large stock ticker 'ANT' with a red falling price chart line and red down arrow, wet street reflections, crowd silhouettes in the foreground looking up, cold blue and alarming red lighting. Ominous, tense mood like 'is this a warning?'. Keep the bottom 40% dark and simple for a headline. No other readable text, no company logos, no watermark."
   }
  ]
 }
