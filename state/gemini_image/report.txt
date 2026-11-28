@@ -1,1 +1,1 @@
-gp_cover3: 성공 (gemini-2.5-flash-image)
+sam7_cover: 성공 (gemini-2.5-flash-image)
