@@ -1,0 +1,21 @@
+ERROR: [twitter] 2126515962157699253: No video could be found in this tweet
+사진 받음 p1_1.jpg
+사진 받음 p1_2.jpg
+사진 받음 p1_3.jpg
+사진 받음 p1_4.jpg
+영상 없는 글(사진만): https://x.com/eoreusinn/status/2126515962157699253
+ERROR: [Instagram] DgRMcvwTSCY: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] DgRMcx9zpLU: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] DgRMczyTPUz: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] DgRMc2bzbLI: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://www.instagram.com/p/DgRMdRzk_ul/
+total 344
+drwxr-xr-x 2 runner runner  4096 Nov 28 07:21 .
+drwxr-xr-x 3 runner runner  4096 Nov 28 07:21 ..
+-rw-r--r-- 1 runner runner  1218 Nov 28 07:21 log.txt
+-rw-r--r-- 1 runner runner 89023 Nov 28 07:21 p1_1.jpg
+-rw-r--r-- 1 runner runner 53795 Nov 28 07:21 p1_2.jpg
+-rw-r--r-- 1 runner runner 90528 Nov 28 07:21 p1_3.jpg
+-rw-r--r-- 1 runner runner 90053 Nov 28 07:21 p1_4.jpg
+-rw-r--r-- 1 runner runner   677 Nov 28 07:21 v2.info.json
+-rw-r--r-- 1 runner runner  2028 Nov 28 07:21 x1.json
