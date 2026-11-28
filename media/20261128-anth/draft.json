@@ -7,11 +7,11 @@
   "category": "경제·화제",
   "images": [
    "cover_bg.jpg",
-   "c02.jpg",
-   "c03.jpg",
-   "c04.jpg",
-   "c05.jpg",
-   "c06.jpg",
+   "g02.jpg",
+   "g03.jpg",
+   "g04.jpg",
+   "g05.jpg",
+   "g06.jpg",
    "cover_bg.jpg"
   ],
   "slides": [
@@ -71,8 +71,7 @@
   ],
   "photo_credits": [
    "표지: AI 생성 이미지(Gemini)",
-   "디시인사이드 미국주식갤러리 글 캡처",
-   "머니투데이·스페셜타임스 기사 화면"
+   "디시인사이드 미국주식갤러리 글 캡처"
   ]
  }
 ]
