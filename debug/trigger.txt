@@ -1,13 +1,1 @@
-get 20261128-xtl https://api.fxtwitter.com/2/profile/nowyeosi/statuses nowyeosi.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/itwillbe_sage/statuses itwillbe_sage.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/Insight_sua/statuses Insight_sua.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/yena_jang_/statuses yena_jang_.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/argent_wave/statuses argent_wave.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/nowgeun/statuses nowgeun.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/kjibak/statuses kjibak.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/zzzzzzzikkkkk/statuses zzzzzzzikkkkk.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/node_park/statuses node_park.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/kingwest0219/statuses kingwest0219.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/eom0x/statuses eom0x.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/cocadol/statuses cocadol.json
-get 20261128-xtl https://api.fxtwitter.com/2/profile/yonhaptweet/statuses yonhaptweet.json
+shot 20261128-igchk https://www.instagram.com/p/DgRMdRzk_ul/embed/captioned/ emb desk clean
