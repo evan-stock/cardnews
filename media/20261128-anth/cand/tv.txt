@@ -1,0 +1,252 @@
+검색
+로그인
+회원가입
+전체 메뉴
+전체 메뉴
+프리즘 Green-X Business Window 월드클래스기업 Scaleup 기술과가치AI 양손잡이 Academy
+프리즘
+[유효상 칼럼] 왜 앤트로픽에는 5가지 종류의 주식이 있을까
+
+유효상
+승인 2026.11.12 00:10
+ 0
+구글 선호 출처로 추가
+
+앤트로픽이 10월 26일 미국 SEC에 상장 신고서(S-1)를 냈습니다. 11월 셋째 주 나스닥 상장이 유력하고, 기업가치는 최대 2조 달러까지 거론됩니다. 눈에 띄는 점은 주식이 클래스 A·F·T·E·N 다섯 종류로 나뉜다는 것입니다.
+
+핵심은 경제적 권리 없이 경영권만 통제하는 클래스F와 T로, 각각 1주씩만 발행됐습니다. 클래스F는 다리오 아모데이 등 창업자 7인의 법인이 갖고 있으며 주주총회 일반 안건에서 의결권 50.1%를 행사합니다. 클래스T는 벤 버냉키 전 연준 의장 등 외부 전문가가 운영하는 장기이익신탁(LTBT)이 보유하며, 이사회 7석 중 4석을 선임·해임할 수 있습니다. 이번 IPO로 발행하는 보통주 클래스A는 1주 1표지만 전체 의결권이 49.9%로 묶여 있어, 일반 주주가 실제 경영에 영향을 주기는 어렵습니다. 클래스N은 아마존(약 10.9%)과 구글(14% 안팎) 같은 전략적 투자자용 무의결권 주식이고, 제3자에게 넘기면 클래스A로 바뀝니다. 클래스E는 직원용으로 경제적 권리가 없습니다.
+
+오이마켓 | 기술을 고객가치로 만드는 미디어
+하시는 연구개발의 기술사업화 준비는 잘 되어 있습니까? 기술사업화 전략 · R&D 성과분석 · 스타트업 생태계와 월드클래스기업들을 연결합니다.
+https://oimarket.co.kr
+
+이렇게 복잡하게 설계한 이유는 대규모 자금을 끌어오면서도 '인류의 장기적 이익을 위한 책임 있는 AI 개발'이라는 공익 목적을 투자자의 단기 수익 압박으로부터 지키기 위해서입니다. 앤트로픽은 2021년 델라웨어 공익법인(PBC)으로 설립됐습니다.
+
+문제는 자금 조달 규모와 신용 위험입니다. 지금까지 조달한 자본은 1411억 달러인데, 2045년까지 컴퓨팅 인프라에 최대 8000억 달러를 쓰기로 약정했습니다. 구글·브로드컴 TPU 임대 관련 후순위 채권(180억 달러)은 투기등급인 'B+'를 받았고, 블랙스톤도 상장 후 'BB' 이하 등급 가능성을 투자자들에게 전한 것으로 알려졌습니다. 그래서 빅테크 자금이 중요한데, 창업자가 개인 지분 80% 기부를 서약한 상황이라 일반적인 차등의결권으로는 지분이 희석되며 통제력이 약해집니다. 지분과 분리된 1주짜리 통제 장치(F·T)와 무의결권 투자 주식(N)의 조합이 바로 이 한계를 풀어줍니다. 이 구조는 적대적 M&A와 행동주의 방어에도 유리하고, 아마존·구글은 반독점 감시 부담을 덜 수 있습니다. 민주당의 '블루 웨이브'는 안전성을 강조하는 앤트로픽에 기회가 되지만, 빅테크 견제와 SEC 심사 강화는 부담 요인입니다.
+
+실적을 보면 상반기 매출은 162억 8600만 달러로 1년 전의 약 14배입니다. 순손실 807억 달러 중 723억 달러는 회계상 평가손실이라 실제로 빠져나간 현금은 아닙니다. 다만 기업가치 2조 달러를 적용하면 PSR이 약 61배로 고평가 수준이고, 5월 시리즈H 평가액(9650억 달러)의 2.1배입니다. 오픈AI 상장이 2027년으로 미뤄져 비교할 대상이 없다는 점, 상위 5개 고객 매출 비중(25%), 컴퓨트 약정에 따른 고정비, 안전 검증으로 인한 출시 지연 위험도 불확실성으로 꼽힙니다.
+
+단기 실적 압박을 줄이는 구조가 장기 기업가치에 도움이 될 수 있다는 해석도 있습니다. 그러나 일반 주주는 이사회를 견제하기 어렵고 경영권 프리미엄도 누리기 힘듭니다. S-1에 명시된 대로 안전을 이유로 출시를 늦추거나 포기하면 그 기회비용은 주주가 떠안게 됩니다. 성장이 둔화되면 '지배구조 디스카운트'가 주가 하락 압력으로 돌아올 수 있습니다. 결국 이번 상장은 공익과 주주 자본주의가 부딪힐 때 시장이 이를 프리미엄으로 볼지 디스카운트로 볼지 가늠하는 시험대입니다.
+
+출처 : 머니투데이
+
+링크 : https://www.mt.co.kr/opinion/2026/11/10/2026110510083070778
+
+본 내용은 저자의 허락으로 오이마켓 편집국이 축약하였습니다.
+
+0
+0
+
+오이마켓 유효상 @
+
+유효상의 기사 더보기
+저작권자 ⓒ 기술과가치, 무단 전재 및 재배포 금지
+댓글
+0개의 댓글
+- 욕설, 비방, 광고, 선정적인 게시물 등은 예고 없이 삭제 될 수 있습니다.
+등록
+0 | 500
+뉴스 파노라마
+아래의 컨텐츠는 본지의 편집 방향과 관계 없음을 알려드립니다.
+
+세종시의회 제6기 공공시설물 인수특위 제1차 회의 개최
+세종앤뉴스
+
+코스모평생교육원-원더풀협동조합, 숟가락 난타 지도자 양성 프로그램 인기~~
+나우인터넷뉴스
+
+충남, 천안·아산 기반 제조 AX 창업도시 도전…5년 내 딥테크 기업 200개 육성 목표
+아산데일리
+
+[기자학교] 현기영의 순이 삼촌을 읽고
+bookology
+
+경기도지체장애인협회 김포시지회, 올바른 주차 문화 정착 위한 '2차 인식개선 캠페인' 실시
+포커스 어빌리티
+
+복지 현장 지키는 사람들에게 ‘쉼’을…해운대구, 65명과 숲에서 마음을 돌보다
+KYCO
+
+[TV CHOSUN 스피드퀸] 이유리, 빅토르 안과 10년 만에 재회…선수 위해 목 쉬도록 응원
+피플즈나우
+
+KT, 수능 마친 수험생 대상 ‘Y수능 페스타' 진행…12월 31일까지
+시사 앤 뉴스
+
+방한 외국인 관광객 사상 첫 2천만 명 돌파…정부, 관광 3천만 시대 본격 추진
+와우투데이
+
+내 손 안의 창경궁, 스마트폰과 함께하는 유산 산책
+K-헤리티지뉴스
+
+Hot News
+'초강력' 넘어 '역대 최강' 엘니뇨 온다… 관측 기록 밖 바다 열기, 지구 기후 시스템 흔든다
+"처서 지나면 모기 입 비뚤어진다"는 옛말… 모기 정점, 한여름에서 11월 문턱으로
+'라면 원조' 일본 넘었다… K-라면, 세계 라면 수출 1위 굳히고 20억 달러 시대 노크
+궁궐 단청 입은 빼빼로, SNS서 화제
+가뭄에도 마르지 않는 '바다 물그릇'… 서해 바닷물, 순수급 공업용수로 다시 태어나다
+전체기사
+1
+전세의 시대 저문다…'반전세' 104만 가구 급증, 주거비 구조 바뀐다
+2
+병원 문 밖에서 시작되는 오염…의료폐기물이 남기는 '보이지 않는 상처'
+3
+[곽재원 컬럼㊤] 미국 주식과 한국 주식을 나눠 사도 분산 투자가 아니다(?)
+4
+中 전기차, 안방 절반 넘본다…자동차 무역적자 역대 최대
+5
+먹거리 창업 요람, '그린바이오' 기지로 바뀐다.
+6
+[유효상 칼럼] 왜 리더에게 '잠시 멈춤'이 필요할까
+7
+하루 한 장 뜯고 한 줄 쓰는 '일력일기'…종이 일력 시장이 커진다
+오이마켓 소개
+기사제보
+광고문의
+불편신고
+이용약관
+개인정보취급방침
+청소년보호정책
+이메일무단수집거부
+
+제호  창조아고라  |  주소  서울시 강남구 영동대로 602   |  이메일  ynchllim@gmail.com  |  대표전화  02-3479-5034  |  발행인  임윤철  |  편집인  임윤철  |  인터넷신문등록번호  경기 아53933  |  사업자등록번호  (주)기술과가치 117-81-28800  |  등록일자  2024.01.01.
+
+(교육 및 광고) 주소  서울시 서초구 효령로 131(2층)   |  이메일  wonyon@empas.com  |  사업자등록번호  베리(주) 316-81-26753
+
+
+2025 © 기술과가치 오이마켓 All rights reserved.
+
+[링크]
+https://translate.google.com/ 번역
+https://technovalue.com/ 
+javascript:__doPostBack('ctl00$btnIntragram','') 
+javascript:__doPostBack('ctl00$btnPostNaver','') 
+javascript:__doPostBack('ctl00$btnFacebook','') 
+javascript:__doPostBack('ctl00$btnNaverBlog','') 
+javascript:__doPostBack('ctl00$btnNaverTV','') 
+javascript:__doPostBack('ctl00$btnYouTube','') 
+javascript:__doPostBack('ctl00$btnTwitter','') 
+javascript:__doPostBack('ctl00$btnDaumBlog','') 
+javascript:__doPostBack('ctl00$btnNaverAudioClip','') 
+javascript:__doPostBack('ctl00$btnKakaoTalk','') 
+javascript:__doPostBack('ctl00$btnKakaoChannel','') 
+javascript:__doPostBack('ctl00$btnTSTORY','') 
+javascript:__doPostBack('ctl00$btnThreads','') 
+https://technovalue.com/List.aspx?CNO=12621 프리즘
+https://technovalue.com/List.aspx?CNO=10390 Green-X
+https://technovalue.com/List.aspx?CNO=11462 Business Window
+https://technovalue.com/List.aspx?CNO=12614 월드클래스기업
+https://technovalue.com/List.aspx?CNO=13127 Scaleup
+https://technovalue.com/List.aspx?CNO=12624 기술과가치AI
+https://technovalue.com/List.aspx?CNO=10015 양손잡이 Academy
+https://technovalue.com/List.aspx 전체기사보기
+https://technovalue.com/List.aspx?CNO=12621                                      프리즘
+https://technovalue.com/List.aspx?CNO=10390                                      Green-X
+https://technovalue.com/List.aspx?CNO=11462                                      Business Window
+https://technovalue.com/List.aspx?CNO=12614                                      월드클래스기업
+https://technovalue.com/List.aspx?CNO=13127                                      Scaleup
+https://technovalue.com/List.aspx?CNO=12624                                      기술과가치AI
+https://technovalue.com/List.aspx?CNO=10015                                      양손잡이 Academy
+https://technovalue.com/Board/Static.aspx?BCNO=1832 오이마켓 소개
+https://technovalue.com/Board/Question.aspx?BCNO=1833 기사제보
+https://technovalue.com/Board/Question.aspx?BCNO=1834 광고문의
+https://technovalue.com/Board/Question.aspx?BCNO=1835 불편신고
+https://technovalue.com/Board/Static.aspx?Type=1 이용약관
+https://technovalue.com/Board/Static.aspx?Type=2 개인정보취급방침
+https://technovalue.com/Board/Static.aspx?Type=3 청소년보호정책
+https://technovalue.com/Board/Static.aspx?Type=4 이메일무단수집거부
+https://technovalue.com/                                                   오이마켓      
+https://technovalue.com/List.aspx?CNO=12621 프리즘
+https://www.google.com/preferences/source?q=technovalue.com 구글 선호 출처로 추가
+https://technovalue.com/View.aspx?No=4304974# 
+mailto:@ @
+https://technovalue.com/List.aspx?TYPE=03&TEXT=%EC%9C%A0%ED%9A%A8%EC%83%81 유효상의 기사 더보기
+http://archiinside.kr/View.aspx?No=4288734                                                             
+http://newshotline.kr/View.aspx?No=4150315                                                             
+http://safekoreanews.co.kr/View.aspx?No=4304181                                                             
+http://newconomy.co.kr/View.aspx?No=3666877                                                             
+http://news-tree.kr/View.aspx?No=4303220                                                             
+http://ajact.co.kr/View.aspx?No=4332331                                                             
+http://youthin.net/View.aspx?No=3781517                                                             
+http://faj.co.kr/View.aspx?No=3273522                                                             
+http://newsfn.co.kr/View.aspx?No=4304444                                                             
+http://globalseoraknews.com/View.aspx?No=4298436                                                             
+http://sejongandnews.com/View.aspx?No=4275509 세종시의회 제6기 공공시설물 인수특위 제1차 회의 개최 세종앤뉴스
+http://nowinews.co.kr/View.aspx?No=3802980 코스모평생교육원-원더풀협동조합, 숟가락 난타 지도자 양성 프로그램 인기~~ 나우인터넷뉴스
+http://asandaily.kr/View.aspx?No=4331915 충남, 천안·아산 기반 제조 AX 창업도시 도전…5년 내 딥테크 기업 200개 육성 목표 아산데일리
+http://bookology.co.kr/View.aspx?No=4255565 [기자학교] 현기영의 순이 삼촌을 읽고 bookology
+http://focusability.co.kr/View.aspx?No=4285299 경기도지체장애인협회 김포시지회, 올바른 주차 문화 정착 위한 '2차 인식개선 캠페인' 실시 포커스 어빌리티
+http://kyco.co.kr/View.aspx?No=4230571 복지 현장 지키는 사람들에게 ‘쉼’을…해운대구, 65명과 숲에서 마음을 돌보다 KYCO
+http://peoplesnow.kr/View.aspx?No=4325900 [TV CHOSUN 스피드퀸] 이유리, 빅토르 안과 10년 만에 재회…선수 위해 목 쉬도록 응원 피플즈나우
+http://catn.kr/View.aspx?No=4321447 KT, 수능 마친 수험생 대상 ‘Y수능 페스타' 진행…12월 31일까지 시사 앤 뉴스
+http://wowtoday.co.kr/View.aspx?No=4317307 방한 외국인 관광객 사상 첫 2천만 명 돌파…정부, 관광 3천만 시대 본격 추진 와우투데이
+http://khf.news/View.aspx?No=4288718 내 손 안의 창경궁, 스마트폰과 함께하는 유산 산책 K-헤리티지뉴스
+http://museseen.co.kr/View.aspx?No=4024184                                                             
+http://changnyeongnews.kr/View.aspx?No=4324960                                                             
+http://realecononews.com/View.aspx?No=4333197                                                             
+http://ncnn.kr/View.aspx?No=3655421                                                             
+http://rmnews.co.kr/View.aspx?No=4290022                                                             
+http://koreaun.com/View.aspx?No=4297870                                                             
+http://dancetv.kr/View.aspx?No=4333664                                                             
+http://rotcnews.co.kr/View.aspx?No=4290008                                                             
+http://medichacha.co.kr/View.aspx?No=4290626                                                             
+http://catn.co.kr/View.aspx?No=4326077                                                             
+http://taeanjournal.com/View.aspx?No=4291555                                                             
+http://jungangedu.co.kr/View.aspx?No=4236788                                                             
+http://injurytime.kr/View.aspx?No=4289870                                                             
+http://xn--vg1b00luydj61a.com/View.aspx?No=4289722                                                             
+http://bulgyoilbo.com/View.aspx?No=4106557                                                             
+http://housing-post.com/View.aspx?No=4230598                                                             
+http://jongnews.co.kr/View.aspx?No=4313605                                                             
+http://kibarunews.com/View.aspx?No=4321365                                                             
+http://leisurenews.co.kr/View.aspx?No=4291403                                                             
+http://hkcen.co.kr/View.aspx?No=4331935                                                             
+http://badanews.net/View.aspx?No=4152870                                                             
+http://makersjournal.co.kr/View.aspx?No=4299181                                                             
+http://technovalue.com/View.aspx?No=3137279                                                             
+http://sisa-n.com/View.aspx?No=4255867                                                             
+http://primetimes.co.kr/View.aspx?No=3566735                                                             
+http://sharimanzu.today/View.aspx?No=3909593                                                             
+http://pressdaily.co.kr/View.aspx?No=4304411                                                             
+http://sudocbiz.com/View.aspx?No=4303817                                                             
+http://theleaderstimes.com/View.aspx?No=4326909                                                             
+http://megacitynews.kr/View.aspx?No=4320058                                                             
+https://technovalue.com/View.aspx?No=4300879 '초강력' 넘어 '역대 최강' 엘니뇨 온다… 관측 기록 밖 바다 열기, 지구 기후 시스템 흔든다
+https://technovalue.com/List.aspx?CNO=10390                                          Green-X            
+https://technovalue.com/View.aspx?No=4300950 "처서 지나면 모기 입 비뚤어진다"는 옛말… 모기 정점, 한여름에서 11월 문턱으로
+https://technovalue.com/List.aspx?CNO=10390                                          Green-X            
+https://technovalue.com/View.aspx?No=4300957 '라면 원조' 일본 넘었다… K-라면, 세계 라면 수출 1위 굳히고 20억 달러 시대 노크
+https://technovalue.com/List.aspx?CNO=11462                                          Business Window    
+https://technovalue.com/View.aspx?No=4300676 궁궐 단청 입은 빼빼로, SNS서 화제
+https://technovalue.com/List.aspx?CNO=11462                                          Business Window    
+https://technovalue.com/View.aspx?No=4303676 가뭄에도 마르지 않는 '바다 물그릇'… 서해 바닷물, 순수급 공업용수로 다시 태어나다
+https://technovalue.com/List.aspx?CNO=10390                                          Green-X            
+https://technovalue.com/View.aspx?No=4328235 전세의 시대 저문다…'반전세' 104만 가구 급증, 주거비 구조 바뀐다
+https://technovalue.com/List.aspx?CNO=11462                                          Business Window    
+https://technovalue.com/View.aspx?No=4326496 병원 문 밖에서 시작되는 오염…의료폐기물이 남기는 '보이지 않는 상처'
+https://technovalue.com/List.aspx?CNO=10390                                          Green-X            
+https://technovalue.com/View.aspx?No=4326303 [곽재원 컬럼㊤] 미국 주식과 한국 주식을 나눠 사도 분산 투자가 아니다(?)
+https://technovalue.com/List.aspx?CNO=12621                                          프리즘                
+https://technovalue.com/View.aspx?No=4326502 中 전기차, 안방 절반 넘본다…자동차 무역적자 역대 최대
+https://technovalue.com/List.aspx?CNO=11462                                          Business Window    
+https://technovalue.com/View.aspx?No=4324523 먹거리 창업 요람, '그린바이오' 기지로 바뀐다.
+https://technovalue.com/List.aspx?CNO=10390                                          Green-X            
+https://technovalue.com/View.aspx?No=4326279 [유효상 칼럼] 왜 리더에게 '잠시 멈춤'이 필요할까
+https://technovalue.com/List.aspx?CNO=12621                                          프리즘                
+https://technovalue.com/View.aspx?No=4324558 하루 한 장 뜯고 한 줄 쓰는 '일력일기'…종이 일력 시장이 커진다
+https://technovalue.com/List.aspx?CNO=11462                                          Business Window    
+https://technovalue.com/Board/Static.aspx?BCNO=1832 오이마켓 소개
+https://technovalue.com/Board/Question.aspx?BCNO=1833 기사제보
+https://technovalue.com/Board/Question.aspx?BCNO=1834 광고문의
+https://technovalue.com/Board/Question.aspx?BCNO=1835 불편신고
+https://technovalue.com/Board/Static.aspx?Type=1 이용약관
+https://technovalue.com/Board/Static.aspx?Type=2 개인정보취급방침
+https://technovalue.com/Board/Static.aspx?Type=3 청소년보호정책
+https://technovalue.com/Board/Static.aspx?Type=4 이메일무단수집거부
+https://technovalue.com/View.aspx?No=4304974#                                  
+https://technovalue.com/View.aspx?No=4304974#                                  
+https://technovalue.com/View.aspx?No=4304974#                                  
+https://technovalue.com/View.aspx?No=4304974#                                  
+tel:316-81-26753 117-81-28800
+tel:316-81-26753 316-81-26753
+http://www.newsbridge.co.kr/ 
