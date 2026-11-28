@@ -1,1 +1,1 @@
-kk_imsg_taxi_photo: 성공 (gemini-2.5-flash-image)
+dl_cover: 성공 (gemini-2.5-flash-image)
