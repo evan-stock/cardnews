@@ -1,13 +1,19 @@
 {
- "_for": "DL 표지 위아래 자연스럽게 채우기(2026-11-28)",
+ "_for": "DL 표지 왼쪽 반: AI 윽박지르는 장면(2026-11-28)",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "dl_wide",
+   "name": "dl_yell1",
    "aspect": "4:5",
-   "refs": ["state/gemini_image/dl_wide_ref.jpg"],
-   "prompt": "Outpainting task only. The sharp horizontal photo band in the middle of this image is a real news photo: keep it exactly unchanged pixel for pixel (the bald man in a grey suit, his face, the room, everything). Replace only the blurry areas above and below with a natural, seamless continuation of the same room: the wall and ceiling above, and the man's suit body and the room floor below, matching the lighting, perspective and camera grain. Same framing, 4:5 vertical. Do not change the man's face or add anything new. No text, no letters, no logos."
+   "refs": [],
+   "prompt": "Photorealistic documentary photo, late at night around 10pm, inside a large dim Korean corporate lobby with cold fluorescent light. An angry middle-aged executive in a dark suit, seen from the side, is shouting furiously with his mouth wide open and pointing his finger at a long line of tired young office workers in coats, who stand with their heads bowed and hands folded. Tense, intimidating atmosphere, harsh shadows, cinematic news-photo look, slight film grain. The executive must be a generic person with black hair (not bald). No text, no letters, no logos, no signs."
+  },
+  {
+   "name": "dl_yell2",
+   "aspect": "4:5",
+   "refs": [],
+   "prompt": "Photorealistic photo at night, office building auditorium with hundreds of Korean employees in winter coats standing in rows, heads down, scared. In the foreground a furious boss in a suit with black hair grabs a microphone and yells at them, veins on his neck, pointing angrily. Dark blue night tones, harsh overhead light, tense mood, realistic news-photo style, film grain. No text, no letters, no logos."
   }
  ]
 }
