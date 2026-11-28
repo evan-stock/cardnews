@@ -148,5 +148,23 @@
    "'고스란히 빚'으로 남는 구조"
   ],
   "cap_max_h": 600
+ },
+ {
+  "out": "/home/user/cardnews/media/20261128-house15/cand/c05b.jpg",
+  "sub": "커뮤니티 반응도",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "\"남의 돈으로\n'돌려막기' 한다는 거잖아\"",
+  "cap": "/home/user/cardnews/media/20261128-house15/cand/cap_cmt.png",
+  "caption": "온라인 커뮤니티 댓글 캡처",
+  "label": "댓글 97개, '깡통전세' 우려 쏟아져",
+  "lines": [
+   "다음 세입자를 못 구하면",
+   "'보증금을 돌려줄 수 없다'는 지적"
+  ],
+  "cap_max_h": 640
  }
 ]
