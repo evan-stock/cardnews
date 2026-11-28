@@ -1,0 +1,7 @@
+ERROR: Unsafe conversion(s) in exec command: 'mv${IFS}{}${IFS}media/20261128-feed-karina/video/item%(playlist_index)s.mp4'
+Conversions such as %()s are too dangerous to be used in --exec command templates; use %()q instead. See  https://github.com/yt-dlp/yt-dlp/security/advisories/GHSA-69qj-pvh9-c5wg  for details
+실패: https://www.instagram.com/p/DgSZifJo3v3/
+total 12
+drwxr-xr-x 2 runner runner 4096 Nov 28 15:05 .
+drwxr-xr-x 3 runner runner 4096 Nov 28 15:05 ..
+-rw-r--r-- 1 runner runner  364 Nov 28 15:05 log.txt
