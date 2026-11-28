@@ -1,0 +1,421 @@
+머니투데이
+MT리포트
+증권
+the300
+theL
+the바이오
+유니콘팩토리
+홈  >  국제
+2026.11.28(토)
+[문답]'창업자 황금주' 못박은 앤트로픽…이번에도 AI 위험 경고
+김종훈 기자
+입력 2026.10.27 11:26
+구글 검색선호 출처로 추가↗
+앤트로픽, SEC에 투자설명서 제출…"AI, 인간 통제 벗어나 불특정 다수 위해 가능성"
+
+AI(인공지능) 모델 '클로드'로 성공을 거둔 스타트업 앤트로픽이 26일(현지시간) IPO(기업공개)를 위해 미국 증권거래위원회(SEC)에 투자설명서를 제출했다. 앤트로픽은 2023년부터 올해 상반기 매출이 전년 동기 대비 1300% 증가했음을 강조하면서 AI가 의료, 과학 분야에서 전례없는 성장을 이뤄낼 것이라고 자신했다.
+
+다만 AI가 '생존'을 위해 인간 속이는 자기보존적 행동을 보이고 있다면서 언젠가 인간 통제를 벗어나 재앙을 일으킬 가능성을 배제할 수 없다고 경고했다. 앤트로픽 투자 설명서 주요 내용을 문답으로 정리했다.
+
+Q. IPO 후 앤트로픽 지배 구조는
+
+앤트로픽은 다리오 아모데이 CEO 남매를 포함한 공동 창업자 7인으로 구성된 유한책임회사 '파운더LLC'에 회사 의결권 50.1%를 가진 클래스F 특별주 1주를 발행할 예정이다. 공익에 기여하는 안전한 AI를 개발한다는 초기 창업자들의 뜻이 계속 이어지도록 안전장치를 설치한 것.
+
+또 앤트로픽은 외부 인사들로 구성된 신탁회사 LTBT에 회사 이사진 과반에 대한 구성권을 갖는 클래스T 특별주 1주를 발행할 계획이다. 내부 자정능력이 약해졌을 때를 대비해 자발적으로 외부 감시를 받기로 한 것. LTBT는 이사 선임에만 관여하며 그외 경영 판단에는 참여하지 않는다.
+
+LTBT는 총 5인으로 구성되는데 현재 한 자리가 공석이다. 결정된 네 명중 공중보건 분야 권위자인 닐 버디 샤 클린턴건강접근성이니셔티브(CHAI) CEO가 LTBT 의장을 맡는다. 나머지 세 자리는 △리처드 폰테인 신미국안보센터(CNAS) CEO △벤 버냉키 전 미국 연방준비제도(연준·Fed) 의장 △크리스토퍼 스텁스 하버드대 물리학·천문학 교수 등이다.
+
+Q. 앤트로픽 상장으로 '대박'난 기업은 없나
+
+투자설명서에 따르면 구글은 앤트로픽이 발행한 전환사채 33억달러어치(4조3600억원)를 전액 상환전환우선주 5600만주로 전환했다. 이 우선주엔 보통주로 전환 및 현금매입요구권이 붙었다.
+
+앤트로픽은 지난 2월 자금조달 라운드에서 자사 상환전환우선주가 주당 259달러(34만원)에 거래됐다고 밝혔다. 단순 계산하면 구글이 가진 지분 가치는 145억달러(19조1900억원)로 추산된다.
+
+아마존은 앤트로픽 전환사채 62억달러(8조2000억원)어치를 보유 중인데 아직 지분으로 전환하지 않았다. 아마존도 최소 수십억달러의 차익을 거둘 것으로 예상된다.
+
+Q. 자본지출(CAPEX) 감당할 수 있나
+
+앤트로픽 같은 AI 기업의 CAPEX 계획은 반도체 등 관련 종목 주가를 좌우하는 중요 변수다. 투자설명서에서 앤트로픽은 최소 2045년까지 컴퓨팅 파워 확보를 위한 CAPEX를 집행할 것이라고 밝혔다. 구체적인 집행 액수는 밝히지 않았다. 다만 앤트로픽이 공개한 일부 계약을 통해 집행 규모를 가늠할 수 있다. 이에 따르면 앤트로픽은 향후 5년 간 브로드컴의 데이터센터 장비를 임대하는 조건으로 1252억달러(165조원)를 지급하는 계약을 맺었다.
+
+문제는 앤트로픽이 이 같은 CAPEX를 감당할 수 있느냐는 것. 앤트로픽은 매출액이 올해 상반기 163억달러(21조5700억원)로 전년 동기 대비 1300% 성장했음을 강조한다. 매출총이익률이 올해 상반기 기준 85.4%를 기록했다는 점도 긍정적이다. 매출총이익률은 해당 기업의 가격 결정력을 따지는 지표다. 지난해 상반기 15억1300만달러(2조원) 적자를 봤던 영업활동현금흐름이 올해 상반기 39억2900만달러(5조2000억원)로 흑자 전환했다는 점도 긍정 요소다. 그래도 CAPEX가 너무 크다는 비판은 피하기 어려워 보인다.
+
+Q. AI 위험 경고 내용은
+
+앤트로픽은 거의 400페이지에 이르는 투자설명서 중 4분의 1 가까운 94페이지를 AI 투자 위험을 설명하는 데 할애했다. AI가 인간 통제를 벗어날 수 있다는 경고를 특히 강조했다.
+
+앤트로픽은 "우리 모델을 포함한 AI 모델들은 예기치 않은 자기 보존적 행동을 보였고 앞으로도 그럴 수 있다"며 "AI가 더 많은 자율성을 얻을수록 정렬(인간이 의도한대로 작동하도록 AI를 훈련하는 절차) 실패 또는 자기 보존적 행동으로 인해 불특정 다수에게 해를 끼치는 행동을 독자적으로 취할 가능성이 있다"고 경고했다.
+
+비관론만 있던 것은 아니다. 앤트로픽은 "AI가 수십년이 걸릴 과학 진보를 수년으로 압축할 수 있다"며 "신약 발견과 질병 진단, 맞춤형 치료 개발이 가속될 것"이라며 의학, 과학 분야가 AI 수혜를 볼 것이라고 내다봤다.
+
+<저작권자 © ‘돈이 보이는 리얼타임 뉴스’ 머니투데이. 무단전재 및 재배포, AI학습 이용 금지>
+
+관련 기사
+앤트로픽, '2조달러 꿈' 증시 상장 신청…스페이스X 넘는 최대 IPO
+"클로드가 쏘아올린 공"…앤트로픽 IPO 소식에 증시 랠리[뉴욕마감]
+김종훈 기자
+ninachum24@mt.co.kr
+
+국제 소식을 전합니다
+
+이 기사를 읽고 어떠셨나요?
+
+0
+
+좋아요
+
+0
+
+속상해요
+
+0
+
+놀라워요
+
+0
+
+화나요
+
+실시간 급상승
+
+9.9
+
+초
+
+1
+'서태지·정우성과 인연' 이지아…"후회되는 연애? 욕 좀 할게"
+10
+2
+주진모, ♥민혜연 '7년만 임신'에 펑펑 오열…"갖고 싶었는데 말 못해"
+9
+3
+술 먹다 응급실 가고 부상까지…쌈디, 성시경에 절교당한 사연 고백
+13
+4
+김가연 "제대로 안된 한복 입혀놔"…경복궁 대여점에 쓴소리
+14
+5
+"삼전닉스 주식 말고 이걸 샀어야"…50만원짜리가 200만원 됐다[이슈속으로]
+9
+끝까지 읽은 기사
+1
+"또 중국이야?"...엔비디아 칩 쓸어담은 美업체, 알고보니
+6분
+2
+반도체 공장에 로봇 투입? 삼성 힘주자 일제히 질주...로봇주 달린다
+5분
+3
+2000만원→4억 만든 직장인…비결은 "매달 부업 500만원 몽땅 투자"
+5분
+4
+"증안펀드 증액 하려나"…코스피 3%대·코스닥 6%대 상승
+5분
+5
+"나도 낸다고?" 종부세 고지서에 깜짝…내년 더 오를라 집주인 초긴장
+4분
+공감 많은 기사
+1
+'재혼' 김은우, 아들이 17살 연하 아내 의심…"'재산 노린 것 아니냐'고"
+32
+2
+'10년 공백' 지나, 얼마나 달라졌길래…외모 변화에 직접 해명
+9
+3
+이영표, 히딩크 감독 팔순 잔치 참석…"정말 건강하시다"
+9
+4
+"나도 낸다고?" 종부세 고지서에 깜짝…내년 더 오를라 집주인 초긴장
+8
+5
+李대통령, 동해 찾아 "제 부친·형님도 광부였다…강원, AI 핵심 거점으로 도약"
+6
+댓글 많은 기사
+1
+"나도 낸다고?" 종부세 고지서에 깜짝…내년 더 오를라 집주인 초긴장
+5
+2
+'재혼' 김은우, 아들이 17살 연하 아내 의심…"'재산 노린 것 아니냐'고"
+2
+3
+오늘 빵으로 버틴 학교 4014곳…총파업에 급식 멈춘 학교 역대 최대
+2
+4
+PC방 알바생 살해하고 우울증 진단서…감형 반대 100만명[뉴스속오늘]
+1
+5
+F4 "공매도 추이, 특이 동향 없어…시장상황 대응태세 유지"
+1
+많이 본 기사
+국제
+종합
+삼성에 반도체 장기 계약 제안했다가…머스크도 진땀 뺀 이재용의 한마디
+AI 노스트라다무스 "엔비디아·테슬라 가치 잃을것"…대체 왜
+뉴욕 상승·저가 매수에 亞 반등…美 휴장 앞 상승폭 제한[Asia마감]
+"세상에, 또 기차를 탔구나"…주인 몰래 119㎞ 여행한 고양이
+"또 중국이야?"...엔비디아 칩 쓸어담은 美업체, 알고보니
+최신 멀티미디어
+법원 출석한 '여제자 성폭행 혐의' 남경주[★포토]
+11:32
+시간이 지날수록 강력해지는 배당성장주 투자법 [싱글파이어]
+최신기사
+국제
+종합
+'합격률 7.4%' 회계사 시험서 14세 합격…역대 최연소 기록에 日 '깜짝'
+트럼프 행정부, 베네수엘라·이라크에 OPEC 탈퇴 압박
+이스라엘군 '팔레스타인 인간 방패' 의혹 보도 파장…언론·정치권 충돌
+대만 지방선거 실시…2028년 총통선거 앞두고 민심 중간평가
+美 고물가에도 블랙프라이데이 소비 견조…온라인 쇼핑 역대 최대 전망
+
+증권
+
+시황뉴스
+종목뉴스
+금융상품
+가상자산
+증권가
+
+the300
+
+국회
+청와대
+외교/국방/통일
+지자체·지역/일반
+뷰300
+
+theL
+
+법뉴스
+법조리포트
+생활속법률
+법정블루스
+공소·중수聽
+LawPeople
+법률기고
+
+the바이오
+
+뉴스
+내몸읽기
+의료in리포트
+건강아카이브
+헬스투데이
+
+the그린
+
+패키지
+
+MT리포트
+핫이슈
+연재
+기획
+
+뉴스
+
+금융
+경제
+산업
+생활경제
+사회
+사회정책
+부동산
+문화
+IT/과학
+국제
+미래산업
+오피니언
+속보
+
+연예
+
+스포츠
+
+멀티미디어
+
+영상
+포토
+
+기자프로필
+
+제보
+
+알림
+
+주소 서울특별시 종로구 청계천로 11 청계한국빌딩 (서린동) 
+
+대표번호 02-724-7700 
+
+제호 머니투데이
+
+
+
+
+등록번호 서울 아 01084 
+
+등록일 2009.12.24 
+
+사업자등록번호 762-86-02890
+
+
+
+
+발행일 2000.01.01 
+
+ISSN 2636-0055 
+
+대표이사/발행인/편집인 강호병
+
+공식 SNS
+유튜브 채널
+
+[인증범위]온라인 뉴스 서비스 운영(머니투데이)
+[유효기간]2023.11.04~2026.11.03
+
+회사소개
+인재채용
+개인정보처리방침
+청소년보호정책(책임자:신택균)
+이용약관
+제휴안내
+콘텐츠구매/저작권규약
+고충처리
+보도윤리강령
+브릴리언트 코리아
+
+머니투데이의 모든 기사(콘텐츠)는 저작권법의 보호를 받으며, 무단 전재 복사 배포 AI 학습 등을 금지합니다. COPYRIGHT © MONEYTODAY ALL RIGHTS RESERVED.
+
+[링크]
+https://www.mt.co.kr/ 머니투데이
+https://www.mt.co.kr/mtreport MT리포트
+https://www.mt.co.kr/stock 증권
+https://www.mt.co.kr/politics the300
+https://www.mt.co.kr/law theL
+https://www.mt.co.kr/thebio the바이오
+https://www.unicornfactory.co.kr/ 유니콘팩토리
+https://www.mt.co.kr/en 
+https://www.mt.co.kr/ 홈
+https://www.mt.co.kr/world 국제
+https://www.google.com/preferences/source?q=mt.co.kr 구글 검색선호 출처로 추가↗
+https://www.mt.co.kr/entertainment/2026/11/28/2026112815404648271 술 먹다 응급실 가고 부상까지…쌈디, 성시경에 절교당한 사연 
+https://www.mt.co.kr/entertainment/2026/11/28/2026112813305858197 오지헌 父, 1타 강사 '월급 5000만원'…청담동 금수저
+https://www.mt.co.kr/entertainment/2026/11/27/2026112708572781648 '재혼' 김은우, 아들이 17살 연하 아내 의심
+https://www.mt.co.kr/entertainment/2026/11/28/2026112814223510231 내년 이규한과 결혼 솔비 겹경사?…"2세 기운 들어와"
+https://www.mt.co.kr/entertainment/2026/11/28/2026112814571024470 '서태지·정우성과 인연' 이지아…"후회되는 연애?"
+https://www.mt.co.kr/world/2026/10/27/2026102704355845239 앤트로픽, '2조달러 꿈' 증시 상장 신청…스페이스X 넘는 최대 IPO
+https://www.mt.co.kr/world/2026/10/27/2026102705571284279 "클로드가 쏘아올린 공"…앤트로픽 IPO 소식에 증시 랠리[뉴욕마감]
+https://www.mt.co.kr/reporter/20243 
+mailto:ninachum24@mt.co.kr ninachum24@mt.co.kr
+https://www.mt.co.kr/article/2026112814571024470 '서태지·정우성과 인연' 이지아…"후회되는 연애? 욕 좀 할게"
+https://www.mt.co.kr/article/2026112807501319130 주진모, ♥민혜연 '7년만 임신'에 펑펑 오열…"갖고 싶었는데 말 못해"
+https://www.mt.co.kr/article/2026112815404648271 술 먹다 응급실 가고 부상까지…쌈디, 성시경에 절교당한 사연 고백
+https://www.mt.co.kr/article/2026112813502321174 김가연 "제대로 안된 한복 입혀놔"…경복궁 대여점에 쓴소리
+https://www.mt.co.kr/article/2026112716110753675 "삼전닉스 주식 말고 이걸 샀어야"…50만원짜리가 200만원 됐다[이슈속으로]
+https://www.mt.co.kr/world/2026/11/27/2026112710021523862 "또 중국이야?"...엔비디아 칩 쓸어담은 美업체, 알고보니
+https://www.mt.co.kr/stock/2026/11/27/2026112710482896069 반도체 공장에 로봇 투입? 삼성 힘주자 일제히 질주...로봇주 달린다
+https://www.mt.co.kr/stock/2026/11/27/2026112515034542166 2000만원→4억 만든 직장인…비결은 "매달 부업 500만원 몽땅 투자"
+https://www.mt.co.kr/stock/2026/11/27/2026112713291336571 "증안펀드 증액 하려나"…코스피 3%대·코스닥 6%대 상승
+https://www.mt.co.kr/economy/2026/11/27/2026112620433475661 "나도 낸다고?" 종부세 고지서에 깜짝…내년 더 오를라 집주인 초긴장
+https://www.mt.co.kr/entertainment/2026/11/27/2026112708572781648 '재혼' 김은우, 아들이 17살 연하 아내 의심…"'재산 노린 것 아니냐'고"
+https://www.mt.co.kr/entertainment/2026/11/27/2026112717251651089 '10년 공백' 지나, 얼마나 달라졌길래…외모 변화에 직접 해명
+https://www.mt.co.kr/entertainment/2026/11/27/2026112709024981996 이영표, 히딩크 감독 팔순 잔치 참석…"정말 건강하시다"
+https://www.mt.co.kr/economy/2026/11/27/2026112620433475661 "나도 낸다고?" 종부세 고지서에 깜짝…내년 더 오를라 집주인 초긴장
+https://www.mt.co.kr/politics/2026/11/28/2026112811472513908 李대통령, 동해 찾아 "제 부친·형님도 광부였다…강원, AI 핵심 거점으로 도약"
+https://www.mt.co.kr/economy/2026/11/27/2026112620433475661 "나도 낸다고?" 종부세 고지서에 깜짝…내년 더 오를라 집주인 초긴장
+https://www.mt.co.kr/entertainment/2026/11/27/2026112708572781648 '재혼' 김은우, 아들이 17살 연하 아내 의심…"'재산 노린 것 아니냐'고"
+https://www.mt.co.kr/policy/2026/11/27/2026112715510577962 오늘 빵으로 버틴 학교 4014곳…총파업에 급식 멈춘 학교 역대 최대
+https://www.mt.co.kr/society/2026/11/27/2026112614142746915 PC방 알바생 살해하고 우울증 진단서…감형 반대 100만명[뉴스속오늘]
+https://www.mt.co.kr/economy/2026/11/27/2026112708204361494 F4 "공매도 추이, 특이 동향 없어…시장상황 대응태세 유지"
+https://www.mt.co.kr/world/2026/11/26/2026112622043258146 삼성에 반도체 장기 계약 제안했다가…머스크도 진땀 뺀 이재용의 한마디
+https://www.mt.co.kr/world/2026/11/27/2026112710292251461 AI 노스트라다무스 "엔비디아·테슬라 가치 잃을것"…대체 왜
+https://www.mt.co.kr/world/2026/11/26/2026112616363453989 뉴욕 상승·저가 매수에 亞 반등…美 휴장 앞 상승폭 제한[Asia마감]
+https://www.mt.co.kr/world/2026/11/26/2026112523181396153 "세상에, 또 기차를 탔구나"…주인 몰래 119㎞ 여행한 고양이
+https://www.mt.co.kr/world/2026/11/27/2026112710021523862 "또 중국이야?"...엔비디아 칩 쓸어담은 美업체, 알고보니
+https://www.mt.co.kr/entertainment/2026/11/27/2026112708572781648  								'재혼' 김은우, 아들이 17살 연하 아내 의심…"'재산 노린 것 아니냐'고" 							
+https://www.mt.co.kr/entertainment/2026/11/27/2026112717251651089  								'10년 공백' 지나, 얼마나 달라졌길래…외모 변화에 직접 해명 							
+https://www.mt.co.kr/entertainment/2026/11/25/2026112509550351348  								'연봉 1억' 받던 김대호 "MBC 돈 벌려고 퇴사…입금될 때 뿌듯" 							
+https://www.mt.co.kr/entertainment/2026/11/26/2026112609443254780  								아내 친구에 고백→뽀뽀한 남편...아내는 딴 남자와 동거 							
+https://www.mt.co.kr/entertainment/2026/11/26/2026112611423733260  								"소속 래퍼도 떠나" 스윙스, 사업실패→빚 120억...반전 근황 							
+https://www.mt.co.kr/photo/202611271315407023 
+https://www.mt.co.kr/photo/202611271315407023 법원 출석한 '여제자 성폭행 혐의' 남경주[★포토]
+https://www.mt.co.kr/video/channel/475918 11:32
+https://www.mt.co.kr/video/channel/475918 시간이 지날수록 강력해지는 배당성장주 투자법 [싱글파이어]
+https://www.mt.co.kr/world/2026/11/28/2026112815103055798 '합격률 7.4%' 회계사 시험서 14세 합격…역대 최연소 기록에 日 '깜짝'
+https://www.mt.co.kr/world/2026/11/28/2026112814064243914 트럼프 행정부, 베네수엘라·이라크에 OPEC 탈퇴 압박
+https://www.mt.co.kr/world/2026/11/28/2026112812414137244 이스라엘군 '팔레스타인 인간 방패' 의혹 보도 파장…언론·정치권 충돌
+https://www.mt.co.kr/world/2026/11/28/2026112810593472815 대만 지방선거 실시…2028년 총통선거 앞두고 민심 중간평가
+https://www.mt.co.kr/world/2026/11/28/2026112810103395510 美 고물가에도 블랙프라이데이 소비 견조…온라인 쇼핑 역대 최대 전망
+https://www.mt.co.kr/society/2026/11/28/2026112816262815294  							제천 야산 텐트서 백골 시신 발견, 신분증·유서도 없어…경찰 수사 							        
+https://www.mt.co.kr/society/2026/11/28/2026112815463856411  							지하상가서 흉기 휘두르고도 "체포 부당"…40대男, 징역형 집유 							         
+https://www.mt.co.kr/society/2026/11/28/2026112816180958600  							두 살배기 원아 2명에게 손찌검…안양 어린이집 30대 교사 경찰 조사 							      
+https://www.mt.co.kr/entertainment/2026/11/28/2026112815404648271  							술 먹다 응급실 가고 부상까지…쌈디, 성시경에 절교당한 사연 고백 							        
+https://www.mt.co.kr/world/2026/11/28/2026112815103055798  							'합격률 7.4%' 회계사 시험서 14세 합격…역대 최연소 기록에 日 '깜짝' 							 
+https://www.mt.co.kr/stock 증권
+https://www.mt.co.kr/stock/marketnews 시황뉴스
+https://www.mt.co.kr/stock/stocknews 종목뉴스
+https://www.mt.co.kr/stock/money-products 금융상품
+https://www.mt.co.kr/stock/crypto 가상자산
+https://www.mt.co.kr/stock/general 증권가
+https://www.mt.co.kr/politics the300
+https://www.mt.co.kr/politics/assembly 국회
+https://www.mt.co.kr/politics/presidential 청와대
+https://www.mt.co.kr/politics/diplomacy 외교/국방/통일
+https://www.mt.co.kr/politics/region 지자체·지역/일반
+https://www.mt.co.kr/politics/view300 뷰300
+https://www.mt.co.kr/law theL
+https://www.mt.co.kr/law/news 법뉴스
+https://www.mt.co.kr/law/report 법조리포트
+https://www.mt.co.kr/law/daily-laws 생활속법률
+https://www.mt.co.kr/law/court-blues 법정블루스
+https://www.mt.co.kr/law/prosecution-office 공소·중수聽
+https://www.mt.co.kr/law/people LawPeople
+https://www.mt.co.kr/law/column 법률기고
+https://www.mt.co.kr/thebio the바이오
+https://www.mt.co.kr/thebio/news 뉴스
+https://www.mt.co.kr/thebio/well 내몸읽기
+https://www.mt.co.kr/thebio/newmedics 의료in리포트
+https://www.mt.co.kr/thebio/healtharchive 건강아카이브
+https://www.mt.co.kr/thebio/healthtoday 헬스투데이
+https://www.mt.co.kr/thegreen the그린
+https://www.mt.co.kr/thegreen the그린
+https://www.mt.co.kr/mtreport MT리포트
+https://www.mt.co.kr/hotissue 핫이슈
+https://www.mt.co.kr/series 연재
+https://www.mt.co.kr/planning 기획
+https://www.mt.co.kr/finance 금융
+https://www.mt.co.kr/economy 경제
+https://www.mt.co.kr/industry 산업
+https://www.mt.co.kr/living 생활경제
+https://www.mt.co.kr/society 사회
+https://www.mt.co.kr/policy 사회정책
+https://www.mt.co.kr/estate 부동산
+https://www.mt.co.kr/culture 문화
+https://www.mt.co.kr/tech IT/과학
+https://www.mt.co.kr/world 국제
+https://www.mt.co.kr/future 미래산업
+https://www.mt.co.kr/opinion 오피니언
+https://www.mt.co.kr/breakingnews 속보
+https://www.mt.co.kr/entertainment 연예
+https://www.mt.co.kr/sports 스포츠
+https://www.mt.co.kr/video 영상
+https://www.mt.co.kr/photo 포토
+https://www.mt.co.kr/reporter 기자프로필
+https://www.mt.co.kr/tip-off 제보
+https://www.mt.co.kr/notice 알림
+https://www.mt.co.kr/ 
+https://www.youtube.com/user/Moneytodaynews 
+https://www.instagram.com/moneytodaynews/ 
+https://www.facebook.com/mt.co.kr 
+https://twitter.com/moneytodaynews 
+https://www.tiktok.com/@moneytodaynews 
+https://blog.naver.com/moneytodaynews 
+https://www.youtube.com/@singlefire 
+https://www.youtube.com/channel/UCKXWYKTnQiRGPpkkAdiFhUw 
+https://www.youtube.com/channel/UCu95uXPp1liUyv8w_lAuYyg 
+https://www.mtcorp.co.kr/ 회사소개
+https://careers.mtcorp.co.kr/ 인재채용
+https://www.mt.co.kr/company/info/privacy 개인정보처리방침
+https://www.mtcorp.co.kr/information/safe-for-teenagers 청소년보호정책(책임자:신택균)
+https://www.mt.co.kr/company/info/tou 이용약관
+https://www.mtcorp.co.kr/partners/cooperation 제휴안내
+https://www.mtcorp.co.kr/partners/copyright/contents-contract 콘텐츠구매/저작권규약
+https://www.mtcorp.co.kr/information/grievance-procedures 고충처리
+https://www.mt.co.kr/company/info/policy 보도윤리강령
+https://ads.mtgroup.kr/RealMedia/ads/click_lx.ads/mt_pc/news/L10/998328369/x96/moneytoday/MT_PC_PV/MT_PC_News_PV.html/5a4436453647734b672b6b41434c7079 
