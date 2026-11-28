@@ -1,0 +1,148 @@
+[
+ {
+  "kind": "stack",
+  "out": "media/20261128-dlhw/cand/s02.jpg",
+  "src": "영상: YTN(11.28)",
+  "frames": [
+   {
+    "video": "media/20261128-dlytn2/video/y1.mp4",
+    "t": 45,
+    "crop": [
+     320,
+     70,
+     1120,
+     570
+    ],
+    "sub": "(갑자기 새벽에 호출된 이유가?)\n\"모르겠어요, 왜 불렀는지도\""
+   },
+   {
+    "video": "media/20261128-dlytn2/video/y1.mp4",
+    "t": 52,
+    "crop": [
+     320,
+     70,
+     1120,
+     570
+    ],
+    "sub": "(지금 시간에 출근하신 건\n아니잖아요?) \"아니요\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261128-dlhw/cand/s03.jpg",
+  "src": "영상: YTN(11.28)",
+  "frames": [
+   {
+    "video": "media/20261128-dlytn2/video/y1.mp4",
+    "t": 63,
+    "crop": [
+     320,
+     70,
+     1120,
+     570
+    ],
+    "sub": "\"이해욱 회장이 지시해서\n전 설계실 직원을 출근시켰고요\""
+   },
+   {
+    "video": "media/20261128-dlytn2/video/y1.mp4",
+    "t": 67,
+    "crop": [
+     320,
+     70,
+     1120,
+     570
+    ],
+    "sub": "\"집에 있는 사람들\n다 쉬다가 나왔습니다\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261128-dlhw/cand/s04.jpg",
+  "src": "영상: YTN(11.28)",
+  "frames": [
+   {
+    "video": "media/20261128-dlytn2/video/y1.mp4",
+    "t": 101,
+    "crop": [
+     320,
+     70,
+     1120,
+     570
+    ],
+    "sub": "\"한두 명씩, 서너 명\n회장님이 있는 방으로 들어갔고\""
+   },
+   {
+    "video": "media/20261128-dlytn2/video/y1.mp4",
+    "t": 107,
+    "crop": [
+     320,
+     70,
+     1120,
+     570
+    ],
+    "sub": "\"그 자리에서\n팀장 이제 해임하고…\""
+   }
+  ]
+ },
+ {
+  "kind": "stack",
+  "out": "media/20261128-dlhw/cand/s05.jpg",
+  "src": "영상: YTN(11.28)",
+  "frames": [
+   {
+    "video": "media/20261128-dlytn2/video/y1.mp4",
+    "t": 89,
+    "crop": [
+     320,
+     70,
+     1120,
+     570
+    ],
+    "sub": "\"요즘 건설사들\n분위기가 별로 안 좋잖아요\""
+   },
+   {
+    "video": "media/20261128-dlytn2/video/y1.mp4",
+    "t": 140,
+    "crop": [
+     320,
+     70,
+     1120,
+     570
+    ],
+    "sub": "\"10년 넘게 다니신 분들도\n이런 경험이 처음이라\""
+   }
+  ]
+ },
+ {
+  "kind": "single",
+  "out": "media/20261128-dlhw/cand/s06.jpg",
+  "video": "media/20261128-dlytn2/video/y1.mp4",
+  "t": 148,
+  "crop": [
+   0,
+   0,
+   1280,
+   720
+  ],
+  "src": "영상: YTN(11.28)",
+  "sub": "과거 논란",
+  "title": "2016년엔 운전기사에게\n'사이드미러 접고 운전' 지시"
+ },
+ {
+  "kind": "single",
+  "out": "media/20261128-dlhw/cand/s07.jpg",
+  "video": "media/20261128-dlytn2/video/y1.mp4",
+  "t": 156,
+  "crop": [
+   0,
+   0,
+   1280,
+   720
+  ],
+  "src": "영상: YTN(11.28)",
+  "sub": "회사 설명",
+  "title": "\"일부 프로젝트 설계 문제 확인\n긴급 대응 필요해 공유\""
+ }
+]
