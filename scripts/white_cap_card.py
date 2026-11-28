@@ -4,6 +4,7 @@
 사용: python3 scripts/white_cap_card.py spec.json  (cap/out 은 저장소 기준 경로)
 예시: media/20261128-sam7/white.json"""
 import json, sys
+sys.path.insert(0, str(__import__('pathlib').Path(__file__).resolve().parent))
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
@@ -12,6 +13,15 @@ W, H = 1080, 1350
 F = lambda w, s: ImageFont.truetype(str(R / f"assets/fonts/Pretendard-{w}.otf"), s)
 YE = (255, 216, 77)
 D = R
+
+
+def rich(d, y, text, font, base, stroke=0):
+    from video_cap_card import parts, plain
+    x = W / 2 - d.textlength(plain(text), font=font) / 2
+    for p, hl in parts(text):
+        d.text((x, y), p, font=font, fill=YE if hl else base,
+               stroke_width=stroke, stroke_fill=(20, 20, 20))
+        x += d.textlength(p, font=font)
 
 
 def card(s):
@@ -46,12 +56,12 @@ def card(s):
     ImageDraw.Draw(im).rounded_rectangle((x0, y0, x0 + cw - 1, y0 + ch - 1), rad, outline=(60, 62, 68) if dark else (228, 228, 228), width=2)
     d = ImageDraw.Draw(im)
     ty = y0 + ch + gap
-    d.text((W // 2, ty), l1, font=f1, fill=(255, 255, 255) if dark else (20, 20, 20), anchor="mt")
+    base = (255, 255, 255) if dark else (20, 20, 20)
+    rich(d, ty, l1, f1, base)
     ty2 = ty + 62 + 18
     tw = d.textlength(l2, font=f2)
-    # 형광펜 안 씀(2026-11-28 사용자): 핵심 줄은 노란 글씨. 흰 바탕일 땐 검은 외곽선으로 읽히게.
-    d.text((W // 2, ty2), l2, font=f2, fill=YE, anchor="mt",
-           stroke_width=0 if dark else 3, stroke_fill=(20, 20, 20))
+    # 2026-11-28 사용자: 노란 글씨는 '강조' 단어·어구만(작은따옴표로 표시, 따옴표는 지워짐). 형광펜 안 씀.
+    rich(d, ty2, l2, f2, base, stroke=0 if dark else 3)
     if s.get("src"):
         d.text((x0 + cw, y0 + ch + 14), s["src"], font=F("Medium", 26), fill=(150, 150, 150), anchor="rt")
     lg = Image.open(R / "brand/logo_typo_A.png").convert("RGBA")
