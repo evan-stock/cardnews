@@ -10,6 +10,7 @@
 | 인생 댓글로 정함 | 투표형 쇼츠 | `drafts/life.json`, `life-shorts.yml`, `life-vote.yml` |
 
 공통: 영상·사진 원본은 `media/<id>/`, 승인 대기·로그는 `state/`, 텔레그램 미리보기는 `tg-preview.yml`.
+오늘의쓸모 인스타 옛 claude.ai 프로젝트 지식(소재추천 기준·벤치마킹·성과 기록 등 43개)은 `docs/legacy_project_knowledge/`에 있다. 참고용이며 저장소 문서와 다르면 저장소 쪽이 우선한다.
 맥북 도우미(목소리 TTS·유튜브 받기)는 `state/yt_queue/<id>.json` 요청서로 부른다. 맥북이 꺼져 있으면 15분 안에 결과가 안 오므로 다른 원본으로 넘어간다.
 
 ---
