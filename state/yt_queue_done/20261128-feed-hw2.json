@@ -1,0 +1,17 @@
+{
+ "id": "20261128-feed-hw2",
+ "finished_at": "2026-11-28T15:18:14+0900",
+ "results": [
+  {
+   "n": 1,
+   "url": "https://www.youtube.com/watch?v=oX1KPPua1XM",
+   "ok": true,
+   "cookies": false,
+   "ffmpeg": true,
+   "file": "media/20261128-feed-hw2/video/y1.mp4",
+   "mb": 3.5,
+   "view_count": 313520,
+   "title": "[메가스터디] 수학 현우진쌤 - 2028 수능 대비 현우진 커리큘럼 가이드"
+  }
+ ]
+}
