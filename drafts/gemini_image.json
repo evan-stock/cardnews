@@ -1,19 +1,19 @@
 {
- "_for": "DL 표지 왼쪽 반: AI 윽박지르는 장면(2026-11-28)",
+ "_for": "DL 반반 표지 화질 개선(2026-11-28)",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "dl_yell1",
+   "name": "dl_half_up1",
    "aspect": "4:5",
-   "refs": [],
-   "prompt": "Photorealistic documentary photo, late at night around 10pm, inside a large dim Korean corporate lobby with cold fluorescent light. An angry middle-aged executive in a dark suit, seen from the side, is shouting furiously with his mouth wide open and pointing his finger at a long line of tired young office workers in coats, who stand with their heads bowed and hands folded. Tense, intimidating atmosphere, harsh shadows, cinematic news-photo look, slight film grain. The executive must be a generic person with black hair (not bald). No text, no letters, no logos, no signs."
+   "refs": ["state/gemini_image/dl_half_ref.jpg"],
+   "prompt": "Image restoration task only: upscale and enhance this exact photo. Remove blur, video compression artifacts and noise, sharpen fine detail and edges. Keep EVERYTHING identical: same composition, same framing, same two people in the same positions, same faces and facial features, same expressions, same bald head of the man on the right, same hair of the man on the left, same suit, tie, microphone, yellow badge, same background, colors and lighting, same left-right split. Do not add, remove, move or redraw anything. Do not change any face. No text, no letters."
   },
   {
-   "name": "dl_yell2",
+   "name": "dl_half_up2",
    "aspect": "4:5",
-   "refs": [],
-   "prompt": "Photorealistic photo at night, office building auditorium with hundreds of Korean employees in winter coats standing in rows, heads down, scared. In the foreground a furious boss in a suit with black hair grabs a microphone and yells at them, veins on his neck, pointing angrily. Dark blue night tones, harsh overhead light, tense mood, realistic news-photo style, film grain. No text, no letters, no logos."
+   "refs": ["state/gemini_image/dl_half_ref.jpg"],
+   "prompt": "Restore this photo to high definition like a sharp DSLR still. Pixel-faithful restoration only: denoise, deblock, sharpen skin texture, hair, fabric and edges. The identity, face shape, eyes, nose, mouth, expression and head of each person must stay exactly the same. The man on the right is completely bald and must stay bald. Keep the composition, crop, colors and the left-right half split exactly. Add nothing. No text."
   }
  ]
 }
