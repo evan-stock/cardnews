@@ -5,3 +5,22 @@ total 12
 drwxr-xr-x 2 runner runner 4096 Nov 28 15:05 .
 drwxr-xr-x 3 runner runner 4096 Nov 28 15:05 ..
 -rw-r--r-- 1 runner runner  364 Nov 28 15:05 log.txt
+ERROR: [Instagram] DgSZeKONVu2: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] DgSZeK0trFw: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+mv: cannot stat '{}': No such file or directory
+ERROR: Command returned error code 1
+mv: cannot stat '{}': No such file or directory
+ERROR: Command returned error code 1
+mv: cannot stat '{}': No such file or directory
+ERROR: Command returned error code 1
+mv: cannot stat '{}': No such file or directory
+ERROR: Command returned error code 1
+mv: cannot stat '{}': No such file or directory
+ERROR: Command returned error code 1
+실패: https://www.instagram.com/p/DgSZifJo3v3/
+total 1792
+drwxr-xr-x 2 runner runner    4096 Nov 28 15:07 .
+drwxr-xr-x 3 runner runner    4096 Nov 28 15:07 ..
+-rw-r--r-- 1 runner runner    1455 Nov 28 15:07 log.txt
+-rw-r--r-- 1 runner runner    1316 Nov 28 15:07 v1.info.json
+-rw-r--r-- 1 runner runner 1815378 Nov 28 15:07 v1.mp4
