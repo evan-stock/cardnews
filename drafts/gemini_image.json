@@ -1,12 +1,15 @@
 {
- "_for": "삼전 7만원 적정가 논쟁 표지(2026-11-28)",
+ "_for": "더피드 카이스트 표지: 사용자 제공 총장 사진을 4:5로 위아래 배경만 확장(인물은 원본으로 다시 덮음, 2026-11-28)",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "sam7_cover",
+   "name": "kaist_ext",
    "aspect": "4:5",
-   "prompt": "Photorealistic dramatic editorial photo: a gleaming silicon semiconductor wafer close-up on a dark trading desk, reflecting a large red falling stock chart line from monitors behind it, moody dark blue and red lighting, tense atmosphere, shallow depth of field. Keep the bottom 30% darker and simple for captions. No text, no numbers, no letters, no logos, no brand names."
+   "refs": [
+    "state/gemini_image/kaist_ref.jpg"
+   ],
+   "prompt": "Outpaint this exact photo into a 4:5 vertical frame. Keep the original photo content exactly as it is, same position, same size, same person, same face, same pose, unchanged, centered horizontally. Only add more of the same office room above (plain light wall, top of the flags) and below (dark wooden desk surface). Photorealistic, same lighting and color. Do not add any text, people, or objects."
   }
  ]
 }
