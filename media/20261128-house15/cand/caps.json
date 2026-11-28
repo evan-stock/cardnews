@@ -1,0 +1,116 @@
+[
+ {
+  "out": "/home/user/cardnews/media/20261128-house15/cand/c02.jpg",
+  "sub": "96년생 '영크크' 브이로그",
+  "box_bg": [
+   11,
+   10,
+   24
+  ],
+  "title": "경매 최저가\n'8,600만원' 빌라",
+  "cap": "/home/user/cardnews/media/20261128-house15/cand/cap_auction.png",
+  "caption": "영상 캡처 · 영크크 브이로그",
+  "label": "감정가 1억6,850만원에서 51% 떨어진 값",
+  "lines": [
+   "\"이번에도 빌라가 똥값으로 나왔더라구요\"",
+   "서울남부지법 경매에 나온 다세대 빌라"
+  ],
+  "cap_max_h": 700
+ },
+ {
+  "out": "/home/user/cardnews/media/20261128-house15/cand/c03.jpg",
+  "sub": "그런데 돈이 없다",
+  "box_bg": [
+   11,
+   10,
+   24
+  ],
+  "title": "마통·직장 대출에\n'친구 대출'까지",
+  "cap": "/home/user/cardnews/media/20261128-house15/cand/cap_loan.png",
+  "caption": "영상 캡처 · 영크크 브이로그",
+  "label": "\"일단 돈이 없는 저는\"",
+  "lines": [
+   "마이너스 통장 5,000만원(금리 5.81%)",
+   "직장 대출, 친구 대출(?)을 '끌어 모아서' 산다"
+  ],
+  "cap_max_h": 700
+ },
+ {
+  "out": "/home/user/cardnews/media/20261128-house15/cand/c04.jpg",
+  "sub": "그렇게 모은 게",
+  "box_bg": [
+   11,
+   10,
+   24
+  ],
+  "title": "부동산 '15채'",
+  "cap": "/home/user/cardnews/media/20261128-house15/cand/cap_15.png",
+  "caption": "영상 캡처 · 영크크 브이로그",
+  "label": "\"시세보다 3,000만원 싸게 샀기 때문에\"",
+  "lines": [
+   "리조트 수영장 앞 독서 장면으로",
+   "'\"영크크인 제가 15채를 모을 수 있었죠\"'"
+  ],
+  "cap_max_h": 700
+ },
+ {
+  "out": "/home/user/cardnews/media/20261128-house15/cand/c05.jpg",
+  "sub": "누리꾼 반응",
+  "box_bg": [
+   21,
+   32,
+   43
+  ],
+  "title": "\"이러다 '전세사기'\n되는 건데\"",
+  "cap": "/home/user/cardnews/media/20261128-house15/cand/tw.jpg",
+  "caption": "엑스 반응 캡처",
+  "label": "이 반응 글 조회수 157만",
+  "lines": [
+   "대출로 산 빌라에 전세를 놓으면",
+   "집값이 떨어질 때 '보증금을 못 돌려줄 수' 있다는 우려"
+  ],
+  "cap_max_h": 640,
+  "cap_crop": [
+   0,
+   0,
+   860,
+   1100
+  ]
+ },
+ {
+  "out": "/home/user/cardnews/media/20261128-house15/cand/c06.jpg",
+  "sub": "실제 빌라 경매 시장은",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "서울 빌라 경매\n1년 새 '58.8%' 급증",
+  "cap": "/home/user/cardnews/media/20261128-house15/cand/cap_nd.png",
+  "caption": "뉴데일리 기사 캡처 (2026.09.03)",
+  "label": "고금리·전세사기 후유증으로 쏟아진 물건",
+  "lines": [
+   "싸게 나온 만큼",
+   "'다시 팔기도 어렵다'는 게 문제"
+  ],
+  "cap_max_h": 600
+ },
+ {
+  "out": "/home/user/cardnews/media/20261128-house15/cand/c07.jpg",
+  "sub": "싸게 샀다고 끝이 아니다",
+  "box_bg": [
+   255,
+   255,
+   255
+  ],
+  "title": "빌라 매각률 '24.6%'\n4건 중 3건은 안 팔려",
+  "cap": "/home/user/cardnews/media/20261128-house15/cand/cap_nd2.png",
+  "caption": "뉴데일리 기사 캡처 (2026.09.03)",
+  "label": "유찰 거듭하며 반값까지",
+  "lines": [
+   "집값이 더 떨어지면 대출도 보증금도",
+   "'고스란히 빚'으로 남는 구조"
+  ],
+  "cap_max_h": 600
+ }
+]
