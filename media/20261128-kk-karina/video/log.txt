@@ -1,0 +1,8 @@
+ERROR: [Instagram] DgSZeKONVu2: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+ERROR: [Instagram] DgSZeK0trFw: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+실패: https://www.instagram.com/p/DgSZifJo3v3/
+total 1788
+drwxr-xr-x 2 runner runner    4096 Nov 28 15:22 .
+drwxr-xr-x 3 runner runner    4096 Nov 28 15:22 ..
+-rw-r--r-- 1 runner runner     509 Nov 28 15:22 log.txt
+-rw-r--r-- 1 runner runner 1815378 Nov 28 15:22 v1.mp4
