@@ -1,12 +1,12 @@
 {
- "_for": "DL 심야 소집 표지(2026-11-28) - 실존 인물 없이 상황만",
+ "_for": "DL 심야 소집 표지 갑질 느낌(2026-11-28) - 실존 인물 아님",
  "model": "gemini-2.5-flash-image",
  "style": "",
  "prompts": [
   {
-   "name": "dl_cover",
+   "name": "dl_cover2",
    "aspect": "4:5",
-   "prompt": "Photorealistic night photo of a modern glass corporate office tower at 10pm in Seoul, every floor brightly lit, dozens of tired office workers in coats hurrying into the lobby entrance from the dark street, one wall clock visible inside the lobby showing 10 o'clock, cold blue night tones with warm office lights, cinematic news-photo feel, faces not identifiable (backs or blurred motion). Keep the bottom 30% darker for captions. No text, no letters, no logos, no signs with writing."
+   "prompt": "Photorealistic cinematic photo, late night in a large corporate office: a powerful executive in a dark suit seen from behind (face not visible) stands at the front, one arm pointing angrily and slamming papers on a desk, while dozens of exhausted office workers in coats and casual clothes stand in rows with heads bowed, some holding bags as if just called back from home. A wall clock clearly shows 10:30. Harsh cold fluorescent light, tense humiliating atmosphere, power harassment feel, news-photo realism. No identifiable faces of real people. Keep the bottom 30% darker for captions. No text, no letters, no logos."
   }
  ]
 }
